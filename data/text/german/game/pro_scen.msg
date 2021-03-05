@@ -3390,7 +3390,7 @@
 {225100}{}{Verstrahlte Felsen}
 {225101}{}{Du untersuchst die verstahlten Felsen eine Zeitlang, doch sie bewegen sich nicht.}
 {225200}{}{Verstrahlte Felsen}
-{225201}{}{Du lässt die verstrahlten Felsen nicht aus dem Auge, falls sie sich bewegen, um die anzugreifen.}
+{225201}{}{Du lässt die verstrahlten Felsen nicht aus dem Auge, falls sie sich bewegen, um dich anzugreifen.}
 {225300}{}{Verstrahlte Felsen}
 {225301}{}{Ein großer leuchtender Felshaufen. Siehen radioaktiv aus.}
 {225400}{}{Verstrahlte Felsen}

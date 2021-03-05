@@ -80,7 +80,7 @@
 {282}{}{Freut mich, dass ich helfen konnte. Die $50 haben natürlich auch nicht weh getan.}
 {283}{}{Ich werd sicher besser schlafen, jetzt, wo ich weiß, dass Klamath vor Bobs Schnaps sicher ist.}
 {284}{}{Das juckt mich überhaupt nicht, Kumpel.}
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's }
+{290}{}{Okay, mal sehen. In letzter Zeit ist in der Stadt einiges los. (zählt an seinen Fingern) Es gibt }
 {291}{}{Erzähl mir bitte von den Wanzenmännern, die Brahmin verstümmeln.}
 {292}{}{Erzähl mir bitte von diesen ungewöhnlich großen Nagetieren.}
 {293}{}{Erzähl mir bitte von diesem wandelnden Geist.}
@@ -110,7 +110,7 @@
 {392}{}{Mehr muss ich jetzt gar nicht wissen.}
 {2900}{}{Eigentlich ist jetzt alles ziemlich ruhig hier.}
 {2901}{}{Brahmin verstümmelnde Wanzenmänner}
-{2902}{}{rodents of unusual size}
-{2903}{}{ein wandelnder Geist}
-{2904}{}{ein verschwundener Fallensteller}
-{2905}{}{. Klamath's become a real hot spot lately.}
+{2902}{}{Nagetiere von ungewöhnlicher Größe}
+{2903}{}{einen wandelnden Geist}
+{2904}{}{einen verschwundenen Fallensteller}
+{2905}{}{. Klamath ist in letzter Zeit zu einem richtigen Anziehungspunkt geworden.}

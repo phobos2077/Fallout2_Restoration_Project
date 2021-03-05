@@ -112,7 +112,7 @@
 {531}{}{[Mehr]}
 {540}{}{Und nun verstehen Sie es, hoffe ich?}
 {541}{}{Ja, das mache ich. Es erschien zwar völlig unmöglich, aber die Art und Weise, wie Sie es erklärt haben, macht durchaus Sinn. Und die Sache mit den Schwämmen, absolut genial! Aber eines haben Sie nicht erklärt. Wo genau bekommen Sie diese "frischen menschlichen Leichen" her?}
-{550}{}{Jetzt warten Sie eine Minute. Dr. Wong wird hier ein kleines Hindernis sein. Wenn er vom Bildfläche verschwinden würde, würden die Dinge viel reibungsloser verlaufen. Geben Sie Dr. Wong die Probe. Selbst wenn er mir misstraut, wird seine Neugier ihn überwältigen und er wird es akzeptieren. Sobald die Probe eingelagert wurde, finden Sie einen Weg, Dr. Wong zu eliminieren, ohne die anderen Shi zu alarmieren. Vielleicht eine Überdosis. Tun Sie dies, und ich werde sehen, dass sich Ihre Belohnung verdreifacht.}
+{550}{}{Jetzt warten Sie eine Minute. Dr. Wong wird hier ein kleines Hindernis sein. Wenn er von der Bildfläche verschwinden würde, würden die Dinge viel reibungsloser verlaufen. Geben Sie Dr. Wong die Probe. Selbst wenn er mir misstraut, wird seine Neugier ihn überwältigen und er wird es akzeptieren. Sobald die Probe eingelagert wurde, finden Sie einen Weg, Dr. Wong zu eliminieren, ohne die anderen Shi zu alarmieren. Vielleicht durch eine Überdosis. Machen Sie das, und ich werde sehen, dass sich Ihre Belohnung verdreifacht.}
 {551}{}{Ich werde sehen, was ich tun kann.}
 {552}{}{Wenn Sie wollen, dass Wong stirbt, müssen Sie mir bereits vorher etwas zahlen.}
 {553}{}{Wissen Sie, das wird alles etwas kompliziert. Ich denke, ich würde Sie lieber einfach massakrieren und dann zu den Shi gehen, um auch diese zu massakrieren.}
@@ -144,7 +144,7 @@
 {630}{}{Es ist schade, diese Exemplare zu verlieren, aber ein notwendiges Übel, um mein Labor zurückzugewinnen. Das haben Sie gut gemacht. Hier ist Ihre finanzielle Belohnung. [Er gibt dir $1000.] Die zweite Hälfte Ihrer Belohnung sind Informationen -- und eine zweite Aufgabe, die damit verbunden ist.}
 {631}{}{Es ist schade, diese Exemplare zu verlieren, aber ein notwendiges Übel, um mein Labor zurückzugewinnen. Das haben Sie gut gemacht. Ihre Belohnung sind Informationen - und eine zweite Aufgabe, die damit verbunden ist.}
 {632}{}{Erzähl mir davon.}
-{633}{}{Vergissen Sie es. Behalten Sie Ihre Informationen. Ich bin fertig damit, für Sie zu arbeiten.}
+{633}{}{Vergessen Sie es. Behalten Sie Ihre Informationen. Ich bin fertig damit, für Sie zu arbeiten.}
 {640}{}{Hervorragend. Und die Shi haben die Probe, die ich Ihnen gegeben habe?}
 {641}{}{Oh, äh ... Nein, eigentlich. Ich habe vergessen, es ihm zuerst zu geben.}
 {700}{}{Du hast Dr. Shengs Labor gesäubert.}

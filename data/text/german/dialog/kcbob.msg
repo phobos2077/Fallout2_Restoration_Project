@@ -113,7 +113,7 @@
 {501}{}{Was geht denn hier so ab?}
 {502}{}{Nichts, Danke.}
 {550}{}{Es sieht nicht so aus, als ob Bob mit dir sprechen will.}
-{2900}{}{Things have slowed down recently. Nothing really to tell ya.}
+{2900}{}{Die Dinge haben sich in letzter Zeit beruhigt. Es gibt nicht wirklich was zu berichten.}
 {2901}{}{Brahminverstümmler}
 {2902}{}{wandelnde Geister}
 {2903}{}{gigantische Ratten}

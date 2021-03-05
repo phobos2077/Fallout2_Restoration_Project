@@ -106,7 +106,7 @@
 {310}{}{Woher wissen Sie von Dr. Sheng? Eh, ich nehme an, es spielt keine Rolle. Dr. Sheng Ming war ein brillanter, aber eher unangenehmer Mann, der als mein Vorgänger diente. Er ist hier nicht mehr von großer Relevanz.}
 {311}{}{Nun, wenn er für dich nicht relevant ist, warum sollte es *mich* dann interessieren? Lass mich dich noch etwas anderes fragen.}
 {312}{}{Wurde aus ihm?}
-{320}{}{Was passiert ist? Ich würde sagen, er hat den Verstand verloren. Während seiner Experimente stieß er auf etwas, von dem ich zugebe, dass es ziemlich bemerkenswert war, aber es war auch äußerst gefährlich und in keiner Weise mit den Zielen der Schi verbunden. Aber das war Dr. Sheng egal. Er war besessen von seiner Schöpfung und da seine Experimente als zu gefährlich angesehen wurden, um hier fortzufahren, beschloss er, sie woanders hinzubringen. Er ging am Sabbat und kehrte nie zurück. Dann trat ich vor, um seine Position einzunehmen.}
+{320}{}{Was passiert ist? Ich würde sagen, er hat den Verstand verloren. Während seiner Experimente stieß er auf etwas, von dem ich zugebe, dass es ziemlich bemerkenswert war, aber es war auch äußerst gefährlich und in keiner Weise mit den Zielen der Shi verbunden. Aber das war Dr. Sheng egal. Er war besessen von seiner Schöpfung und da seine Experimente als zu gefährlich angesehen wurden, um hier fortzufahren, beschloss er, sie woanders hinzubringen. Er machte eine Auszeit und kehrte nie zurück. So trat ich seine Fußstapfen und übernahm seine Position.}
 {321}{}{Welche Art von Experimenten führte Dr. Sheng durch? Und was genau war seine große Entdeckung?}
 {322}{}{Also, wo ist Dr. Sheng jetzt?}
 {330}{}{Als Mann der Wissenschaft respektiere ich Ihre Neugier. Ich fürchte jedoch, ich bin nicht bereit, die Geheimnisse der Shi mit Ihnen zu teilen, Fremder.}
@@ -118,7 +118,7 @@
 {351}{}{Einer Ihrer leitenden Wissenschaftler könnte tot sein und es ist Ihnen egal? Sie werden es sich nicht einmal ansehen?}
 {352}{}{Ich denke, ich würde die Sache mit dem Dr. Sheng-Typen gerne weiterverfolgen. Könnten Sie mir seinen letzten bekannten Ort geben?}
 {353}{}{Na gut. Ich möchte dich noch etwas anderes fragen.}
-{360}{}{Sie müssen mich dafür entschuldigen, dass ich in dieser Angelegenheit so gefühllos wirke. Die Wahrheit ist, Dr. Sheng war hier nicht sehr beliebt und ich glaube, keiner von uns vermisst ihn nur im Geringsten.}
+{360}{}{Sie müssen mich dafür entschuldigen, dass ich in dieser Angelegenheit so gefühllos wirke. Die Wahrheit ist, Dr. Sheng war hier nicht sehr beliebt und ich glaube, keiner von uns vermisst ihn auch nur im Geringsten.}
 {361}{}{Ich denke, ich würde die Sache mit dem Dr. Sheng-Typen gerne weiterverfolgen. Könnten Sie mir seinen letzten bekannten Ort geben?}
 {362}{}{Ach so. Lass mich dich noch was fragen.}
 {370}{}{Ich denke, ich könnte ... Ich muss zugeben, ich bin etwas neugierig, von seinem Schicksal zu erfahren. Hier, ich markiere Dr. Shengs letzten bekannten Ort auf Ihrem Kartengerät. Aber ich muss Sie warnen, dass es sich als äußerst gefährlich erweisen könnte. Natürlich ist es dort draußen im Ödland immer gefährlich. Wie auch immer, wenn Sie etwas Interessantes finden, lassen Sie es mich wissen.}
