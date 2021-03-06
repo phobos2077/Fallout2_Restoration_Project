@@ -12,8 +12,6 @@
 
 This is an updated version of [killap's Restoration Project](http://killap.net/) for Fallout 2.
 
-Docs: [changelog](docs/changelog.md), [original readme](docs/rp-readme.txt), [new content description](docs/rp-new_content.txt) (spoilers), [walkthrough](http://hem.bredband.net/darek1/f2rp_wt.htm) (heavy spoilers), [credits](docs/credits.md).
-
 ### Installation
 - RPU must be installed on vanilla game.
 - RPU requires starting a **new game** after installation.
@@ -51,9 +49,9 @@ For additional QoL options, check out:
 3. Attach a savegame and a screenshot.
 
 ### Additional info
-[__Changelog__](docs/changelog.md)
-| [__New content description__](rp-new_content.txt) (spoilers)
-| [__Walkthrough__](http://hem.bredband.net/darek1/f2rp_wt.htm) (heavy spoilers)
-| [__Known issues__](docs/known.md)
-| [__Reporting crashes__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/crash.md)
-| [__Credits__](docs/credits.md).
+- [Changelog](docs/changelog.md)
+- [New content description](rp-new_content.txt) (spoilers)
+- [Walkthrough](http://hem.bredband.net/darek1/f2rp_wt.htm) (heavy spoilers)
+- [Known issues](docs/known.md)
+- [Reporting crashes](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/crash.md)
+- [Credits](docs/credits.md).
