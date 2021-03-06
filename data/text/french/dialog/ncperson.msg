@@ -299,7 +299,7 @@
 {608}{}{Cette ville est géniale... sauf pour les touristes.}
 {609}{}{Cette ville est géniale... sauf pour les esclavagistes.}
 {610}{}{Cette ville est géniale... sauf pour les macs et les putes.}
-{611}{}{A ce que j'ai entendu, on teste des produits chimiques sur des esclaves au Nord de New Reno.}
+{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{Golgotha est au Sud de New Reno, dans le désert.}
 {613}{}{Je suis peut-être pauvre, mais pas en esprit.}
 {614}{}{Je suis pas pauvre, j'ai juste une chance de merde.}
@@ -339,7 +339,7 @@
 {659}{}{Cette ville est géniale... sauf pour les touristes.}
 {660}{}{Cette ville est géniale... sauf pour les esclavagistes.}
 {661}{}{Cette ville est géniale... sauf pour les macs et les putes.}
-{662}{}{A ce que j'ai entendu, on teste des produits chimiques sur des esclaves au Nord de New Reno.}
+{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {663}{}{Golgotha est au Sud de New Reno, dans le désert.}
 {664}{}{Je suis peut-être pauvre, mais pas en esprit.}
 {665}{}{Je suis pas pauvre, j'ai juste une chance de merde.}
@@ -378,7 +378,7 @@
 {700}{}{Il va y avoir de l'action ce soir !}
 {701}{}{Trouves-toi une pute, prends du bon temps.}
 {702}{}{La fille de Mme Bishop a un beau cul.}
-{703}{}{A ce que j'ai entendu, on teste des produits chimiques sur des esclaves au Nord de New Reno.}
+{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {704}{}{Golgotha est au Sud de New Reno, dans le désert.}
 {705}{}{Je suis peut-être pauvre, mais pas en esprit.}
 {706}{}{Je suis pas pauvre, j'ai juste une chance de merde.}

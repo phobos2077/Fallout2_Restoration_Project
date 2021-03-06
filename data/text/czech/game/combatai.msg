@@ -2770,7 +2770,7 @@
 {40964}{}{Ty míøíš pro potìšení, já støílím pro zabíjení.}
 {40965}{}{Nemáš odvahu mì sundat.}
 {40966}{}{Vypadá to, že jseš blbej A ještì slepej!}
-{40967}{}{Vedle o nìkolik procentuálních bodù.}
+{40967}{}{Missed me by a few percentage points.}
 {40968}{}{Musíš bejt asi pìknì šilhavej zkurvysyn.}
 {40969}{}{Nìjak ti to míøení nejde. Dej si bacha, aby to pøíštì neodnesla tvoje vlastní hlava.}
 {40970}{}{Sakra, ze mì je už páprda a stejnì míøím líp než ty.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Porucha systému.}
 {44437}{}{Detekovány fluktuace v napájecím okruhu. Aktivuji záložní baterie.}
 {44438}{}{Integrita trupu kompromitována. Vnitøní obvody bez ochrany.}
-{44439}{}{Energetický èlánek poškozen. Výkon omezen na 75% kapacity.}
+{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
 {44460}{}{Pravý motivátor zasažen. Škody minimální.}
 {44461}{}{Pravý kloub vychýlen.}
 {44462}{}{Pravé kolo poškozeno.}

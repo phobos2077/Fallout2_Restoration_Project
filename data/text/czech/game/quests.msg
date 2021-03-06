@@ -8,12 +8,12 @@
 {202}{}{Zniè Beckyin destilátor.}
 {203}{}{Dones Smittymu souèástku pro auto.}
 {204}{}{Vra Annì její pøívìšek.}
-{205}{}{Dostaò z Freda peníze.}
-{206}{}{Získej od Dereka knihu.}
+{205}{}{Collect Rebecca's money from Fred.}
+{206}{}{Get Rebecca's book from Derek.}
 {207}{}{Dones Smittymu jídlo od Mámy.}
 {208}{}{Lara chce vìdìt, jaké zboí je støeeno ve starém kostele.}
-{209}{}{Získej od Metzgera svolení pro válku gangù.}
-{210}{}{Najdi slabinu v Tylerovì gangu, kterı hlídá kostel.}
+{209}{}{Get permission from Metzger for the gang war.}
+{210}{}{Find a weakness in Tyler's gang guarding the church.}
 {211}{}{Pomoz Laøe s útokem na Tylerùv gang.}
 {212}{}{Najdi zpùsob, jak dostat sirotky z ulice.}
 {300}{}{Pøilo døevo pod destilátor.}
@@ -29,7 +29,7 @@
 {403}{}{Jonny se ztratil. Najdi ho a pøiveï ho domù k jeho otci Balthasovi.}
 {404}{}{Jonny je v jeskyních Svìtloplachù. Najdi zpùsob, jak ho pøivést zpìt domù k Balthasovi.}
 {405}{}{Farrelovi se pøemnoili hlodavci v zahradì. Proveï tam dùkladnou deratizaci.}
-{406}{}{Doruè vzkaz Svìtloplachù Jo do Modocu.}
+{406}{}{Deliver the Slag's message to Jo in Modoc.}
 {407}{}{Jo podezírá Svìtloplachy. Zjisti, jak to bylo s mrtvolami na farmì Duchù a vypátrej, co se stalo s Karlem.}
 {408}{}{Jdi do Denu a øekni Karlovi, e u se mùe vrátit zpìt domù.}
 {409}{}{Ohlídej Grishamovy brahmíny.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Pøines souèástky/Získej vstup do Vaultu 15.}
 {1101}{}{"Postarej" se o dùstojníka Jacka pro Miru.}
-{1102}{}{Absolvuj brahmíní okruh.}
-{1103}{}{Získej dokumenty od doktora Henryho.}
-{1104}{}{Otestuj mutagenní sérum na supermutantovi. Zkus to v Broken Hills.}
+{1102}{}{Complete the brahmin drive.}
+{1103}{}{Retrieve the papers from Dr. Henry.}
+{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Zlikviduj Bishopa.}
 {1106}{}{Doruè Westinùv holodisk Lynette do Vault City.}
 {1107}{}{Získej od Rangerù v NCR mapu pro otrokáøe Vortise.}
 {1108}{}{Osvoboï pro Rangery otroky v ohradì otrokáøù.}
-{1109}{}{Doruè Hubologistovu zprávu AHS-9 do San Francisca.}
+{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
 {1110}{}{Zabij pro Merka Hubologistu.}
 {1111}{}{Zastav krádee brahmín.}
 {1112}{}{Vyhlaï úkryty Rangerù na severu pro otrokáøe Vortise.}
@@ -119,7 +119,7 @@
 {1511}{}{Najdi Badgerovu pøítelkyni, která se ztratila v podpalubí tankeru.}
 {1512}{}{Dragon po tobì chce odstranit Lo Pana - v boji beze zbranì.}
 {1513}{}{Lo Pan po tobì chce odstranit Dragona - nejlépe v boji beze zbranì, pokud to bude moné.}
-{1514}{}{Získej Chipovu slezinu.}
+{1514}{}{Get Chip's spleen back.}
 {1515}{}{Získej od Crocketta tvrzenou energo zbroj.}
 {1516}{}{Pøines Bratrstvu Oceli konstrukèní plány vertibirdu.}
 {1517}{}{Vyøaï z provozu ponorku Shi, která ohrouje tanker.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Zachraò Chrissy.}
 {3201}{}{Zabij Dariona.}
-{3202}{}{Sjednej spojenectví s NCR.}
-{3203}{}{Odevzdej holodisk o špionovi nejvyšším autoritám v NCR.}
+{3202}{}{Complete the deal with NCR.}
+{3203}{}{Give the Spy Holodisk to the authorities in NCR.}

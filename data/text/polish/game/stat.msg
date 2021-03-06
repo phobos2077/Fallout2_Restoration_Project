@@ -67,7 +67,7 @@
 {228}{}{Odpornoœæ na obra¿enia - elektrycznoœæ}
 {229}{}{Odpornoœæ na obra¿enia - EMP}
 {230}{}{Odpornoœæ na obra¿enia - eksplozje}
-{231}{}{Dawka radiacji, jaka ewentualnie dociera do twojego organizmu, ulega zmniejszeniu o tê wielkoœæ. Mo¿e siê zmieniaæ w zale¿noœci od typu u¿ywanej przez ciebie odzie¿y ochronnej oraz pod wp³ywem specyfików antyradiacyjnych.}
+{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
 {232}{}{Obra¿enia wywo³ane przez zatrucie (w szczególnoœci jadem) s¹ pomniejszane o tê wartoœæ.}
 {233}{}{Wiek}
 {234}{}{P³eæ}

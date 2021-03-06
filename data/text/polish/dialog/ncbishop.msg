@@ -109,7 +109,8 @@
 {455}{}{Có¿... podobno Westin rzadko wypuszcza siê na miasto. Chyba s³ysza³em coœ o jakichœ jego problemach z sercem, wiêc pewnie stara siê nie przemêczaæ. (Parska) No chyba, ¿e po prostu nie lubi s³oñca.}
 {456}{}{Hmmmm. Mam jeszcze kilka pytañ odnoœnie Westina...}
 {457}{}{Problemy z sercem, tak? Mo¿e ma jakiegoœ lekarza? Czy przyjmuje jakieœ leki?}
-{465}{}{(Uœmiecha siê) Podoba mi siê twój sposób myœlenia, dzikusie... có¿, nie wiem, czy stary przyjmuje jakieœ leki na serce, ale ze s³ab¹ pomp¹ musi chyba bardzo uwa¿aæ na to, co za¿ywa.}
+{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
+ to be pretty damn careful about which ones he DID take with that heart o' his.}
 {475}{}{(Wzrusza ramionami) Hoduje braminy. Co z tego?}
 {476}{}{W porz¹dku. Mam jeszcze kilka pytañ odnoœnie Westina...}
 {477}{}{Nie, to nie wszystko. Inaczej nie prowadzilibyœmy tej rozmowy.}

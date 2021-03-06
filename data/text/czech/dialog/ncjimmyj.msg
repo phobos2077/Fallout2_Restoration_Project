@@ -122,7 +122,8 @@
 {500}{}{Døív jsem ho mìl od samotnýho boha Myrona, víš, jenže se napakoval a pak zmizel... nebo to koupil. Teïka vìtšinou beru pøímo od rodiny Mordinù.}
 {501}{}{No, DØÍV jsem ho mìl od starýho Myrona, než se napakoval a vykašlal se na to... že jo, Myrone? Ha! Teïka vìtšinou toèím fet od Mordinù.}
 {502}{}{Zajímavé. Mám ještì nìjaké otázky...}
-{510}{}{Mám kontakty se samotným STVOØITELEM, mùj leteckej kámo. Mám Jet pøímo od tý mozkovny MYRONA, živýho boha chemickejch slouèenin.}
+{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
+ MYRON.}
 {511}{}{Myrona?}
 {512}{}{Interesting. Say, I had some other questions...}
 {513}{}{Od Myrona, jo? Mùžu se setkat... s tímhle živým bohem?}

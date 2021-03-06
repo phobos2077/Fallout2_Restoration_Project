@@ -39,7 +39,7 @@
 {290}{}{Nem hallottál a Wright családról? Jó sokat lehettél a sivatagban! A Wright család a legnagyobb bûnszövetkezet Renóban. Mi fogjuk uralni a várost.}
 {291}{}{Valóban? Úgy tûnik, a Wright családnál vannak a legjobb lapok. Nem akarnak felbérelni senkit?}
 {292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or chem trade, and their numbers are much less than
+ only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
  other families.}
 {293}{}{Ha már a családnál tartunk, összefutottam édesanyáddal.}
 {294}{}{El tudod mondani, mi történt Richard öcséddel?}
@@ -89,19 +89,19 @@
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Köszi.}
 {410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with chems until he was dead.}
+ figure, someone pumped him with drugs until he was dead.}
 {411}{}{"Valaki" túl sokat adott be neki? Mibõl gondolod, hogy nem saját magát adagolta túl?}
 {412}{}{Szerinted ki tehette?}
 {413}{}{Ez bizony sajnálatos. Kérdezhetek még valamit?}
 {414}{}{Mocskos dolog ez. Figyu, most mennem kell.}
 {420}{}{Mert az a gyerek tiszta volt... az anyám SOKMINDENRE megtanította. Ha pedig más lenne a véleményed, itt helyben lerendezhetjük.}
 {421}{}{Nem úgy gondoltam. Bocs, hogy felhoztam a témát.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{Nézd, KÖLYÖK, ha szereted még az élet napos oldalát, akkor egy kis fájó igazság hallatán ne gyere nekem a bunyóval...}
 {424}{}{Szerinted ki tehette?}
 {425}{}{Én nem keresem a bajt. Csá...}
 {435}{}{Na, nehogy már! Ezt bármelyik Wright beszólásnak venné, szóval, ha lennél olyan szíves ne dobálózz itt a kemény szavakkal!}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {437}{}{Nézd, KISFIAM, ne szarakodj itt velem! Ha szereted még az élet napos oldalát, akkor egy kis fájó igazság hallatán ne gyere nekem a bunyóval...}
 {438}{}{Bocs, nem akartam beszólni. Kérdeznék inkább valami mást...}
 {439}{}{Megértettem. Akkor most inkább megyek.}
@@ -122,7 +122,7 @@
 {487}{}{Rájöttél, ki ölte meg az öcsémet. Az egész Wright család köszönettel tartozik neked. És ez bizony nem akármi ám!}
 {488}{}{Értem. Késõbb találkozunk, Chris.}
 {495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed chems on Rich while Rich was out alone. He hangs out at the Desperado.}
+ he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {496}{}{Fogom. Viszont kérdeznék még egy s mást...}
 {497}{}{Csipkés Jimmy J, a Rakétás Renesco, Jules és Kis Jesus... mindegyiknek utánanézek. Kösz az infóért, Chris.}
 {1200}{}{. Szép munka volt valagba rúgni az Enklávés fiúkat!}

@@ -67,7 +67,7 @@
 {228}{}{Résistance aux dégâts, électriques}
 {229}{}{Résistance aux dégâts, électromag.}
 {230}{}{Résistance aux dégâts, explosion}
-{231}{}{La quantité de radiations absorbées est réduite en fonction de ce pourcentage. La Résistance aux Radiations peut être modifiée en fonction du type d'armure portée et des médicaments anti-radiations.}
+{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
 {232}{}{L'importance des dommages causés par le poison est réduite en fonction de cette valeur.}
 {233}{}{Age}
 {234}{}{Sexe}

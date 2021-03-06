@@ -88,7 +88,7 @@
 {295}{}{La prossima volta che farai il culo all'Enclave, vieni a prendermi prima, e lo faremo INSIEME.}
 {296}{}{Cosi' si FA, }
 {297}{}{Lo so che hai salvato il mondo, ma siamo noi PNG minori che ne subiamo le conseguenze.}
-{298}{}{You should play the game again as a chem-based character. Really! Take the Chem Reliant Trait!
+{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
  I LOVE that one.}
 {299}{}{Grazie per averci salvato. Ti bacerei, se solo non avessi l'alito da vomito.}
 {300}{}{Avrei potuto sconfiggere l'Enclave da solo se solo avessi preso abbastanza Jet.}
@@ -96,7 +96,7 @@
 {302}{}{Chris Avellone mi ha programmato, Tom French ha creato il mio script, percio', tecnicamente, non sono responsabile della mia dipendenza da Jet.}
 {303}{}{Prendiamo insieme un po' di Jet per festeggiare la tua vittora. Offri tu.}
 {304}{}{Una volta che avrai cancellato questo gioco dal tuo hard disk, noi esisteremo ancora?}
-{305}{}{Uh... what kind of chem testing was the Enclave doing? Was there free Jet?}
+{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
 {320}{}{Come fai ad andare in bagno con quella roba indosso?}
 {321}{}{Uh...stai parlando con me?}
 {322}{}{O cavoli, questi "trip" si fanno ogni giorno peggiori. Adesso mi parlano persino le persone metalliche.}
@@ -111,7 +111,7 @@
 {352}{}{Solo un po' di spiccioli, e saro' il tuo schiavo...lascia che prima mi vada a prendere un po' di Jet.}
 {353}{}{Saro' la tua schiava, se puoi darmi un po' di Jet.}
 {354}{}{Mi puoi rivendere come schiava se mi dai un po' di Jet.}
-{355}{}{No, man, I'm off chems. Uh... why? You buying?}
+{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {360}{}{Sei tu il campione? Hai degli spiccioli da prestarmi?}
 {361}{}{Dai, dammi solo un po' di spiccioli.}
 {362}{}{Puoi prestarmi un po' di grana? Guarda, te li ridaro' indietro.}
@@ -122,7 +122,7 @@
 {367}{}{Mi bastano un po' di spiccioli per comprare un po' di cibo...}
 {368}{}{Saro' la tua schiava, se puoi darmi un po' di Jet.}
 {369}{}{Mi puoi rivendere come schiava se mi dai un po' di Jet.}
-{370}{}{No, man, I'm off chems. Uh... why? You buying?}
+{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {371}{}{Sei un membro della famiglia }
 {372}{}{Mi puoi prestare un po' di soldi...? Dai, faro' il bravo.}
 {373}{}{Lavoro in cambio di Jet...}
@@ -131,7 +131,7 @@
 {382}{}{Vuoi sballare con qualcuno, amico?}
 {383}{}{Papa'?}
 {384}{}{Amico, ho bisogno di *volare*... capisci quello che voglio dire?}
-{385}{}{No, man, I'm off chems. Uh... why? You buying?}
+{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {386}{}{Psssst. Puoi passarmi un po' di Jet?}
 {387}{}{Puoi prestarmi un po' di grana...? Te li ridaro'.}
 {388}{}{Lavoro in cambio di Jet...}
@@ -149,7 +149,7 @@
 {400}{}{Forza, miss, dammi solo un paio di monete.}
 {401}{}{Ehi, uh...hai del Jet, miss?}
 {402}{}{Senti, ho bisogno di *volare*... capisci quello che voglio dire?}
-{403}{}{No, I'm off chems. Uh... why? You buying?}
+{403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{Mammina?}
 {420}{}{Ehi, fratello? Puoi aiutarmi a volare?}
 {421}{}{Su, ragazzo, dammi solo un paio di monete.}
@@ -158,7 +158,7 @@
 {424}{}{Faro' qualsiasi cosa tu voglia, per un po' di soldi. O per del Jet, se ce l'hai.}
 {425}{}{Una volta ero la piu' bella ragazza di Reno. E me la cavo ancora...}
 {426}{}{Vuoi sballare con qualcuno, amico?}
-{427}{}{No, man, I'm off chems. Uh... why? You buying?}
+{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {428}{}{Papa'?}
 {429}{}{Psssst. Puoi passarmi un po' di Jet?}
 {430}{}{Puoi prestarmi un po' di grana...? Te li ridaro'.}
@@ -175,7 +175,7 @@
 {441}{}{Posso farti provare del piacere...se hai del Jet per me.}
 {442}{}{Ehi, uh...hai del Jet, sorella?}
 {443}{}{Sorella, ho bisogno di *volare*... capisci quello che voglio dire?}
-{444}{}{No, sister, I'm off chems. Uh... why? You buying?}
+{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{Mammina?}
 {450}{}{Santi...! Che cosa sei? Un qualche tipo di rob-ot?}
 {451}{}{Che cosa diavolo hai preso per finire ricoperto di metallo a quel modo?}
@@ -206,7 +206,7 @@
 {483}{}{Il Jet di Jimmy J e' il MIGLIORE. Ti fa andare cosi' in alto, che non vorresti MAI tornare giu'.}
 {484}{}{Stai parlando con me? Stai parlando con me?!}
 {485}{}{Vuoi vedertela con me?! Eh?}
-{486}{}{::Glares at you past chem-hazed eyes::}
+{486}{}{::Glares at you past drug-hazed eyes::}
 {487}{}{Vuoi volare con me?}
 {488}{}{Ehi, campione, checce'?!}
 {489}{}{Vuoi boxare con me? Eh? Dai!}
@@ -224,7 +224,7 @@
 {510}{}{Stai parlando con me? Stai parlando con me?!}
 {511}{}{Ce l'hai con me, strumento della mafia? Sono un concentrato di Jet! Ti spacco il CULO!}
 {512}{}{Vuoi vedertela con me, gangster?! Eh?}
-{513}{}{::Glares at you past chem-hazed eyes::}
+{513}{}{::Glares at you past drug-hazed eyes::}
 {520}{}{Whoa...Che cosa TI sei fatto? Ne hai un po' da darmi?}
 {521}{}{Credevo di essere *io* quello strafatto.}
 {522}{}{Ehi, amico...dammi un po' di quella roba che ti sei fatto.}
@@ -237,7 +237,7 @@
 {533}{}{Una volta mi sono sentito come il tuo amico robot... digli che stara' di nuovo bene quando gli sara' passato lo sballo.}
 {534}{}{Cosa diavolo e' successo al tuo amico col cervello? Ha perso il corpo?}
 {535}{}{DIMMI che quel cervello-robot non e' reale. Ti prego.}
-{536}{}{Whoa. Check out the robot brain. There's your brain on chems if I've ever seen it.}
+{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
 {537}{}{Vuoi volare con me? E che mi dici del tuo amico robot?}
 {538}{}{Ce l'hai con me, amante dei robot? Sono un concentrato di Jet! Spacco il culo a TE e poi al tuo robot!}
 {539}{}{Vuoi vedertela con me, amante dei robot?! Eh?}
@@ -248,7 +248,7 @@
 {544}{}{Se vedi Renesco, digli che gli daro' i suoi soldi domani.}
 {545}{}{Il Jet di Jimmy J e' il MIGLIORE. Ti fa andare cosi' in alto, che non vorresti MAI tornare giu'.}
 {546}{}{Stai parlando con me? Stai parlando con me?!}
-{547}{}{::Glares at you past chem-hazed eyes::}
+{547}{}{::Glares at you past drug-hazed eyes::}
 {548}{}{Amico, non voltarti, ma c'e' un mutante che ti segue.}
 {549}{}{Whoa. Devo aver preso della roba tagliata davvero male... Vedo mutanti che vanno di qua e di la'.}
 {550}{}{Sono fatto io, oppure il tuo amico e' alto davvero 4 metri?}
@@ -278,7 +278,7 @@
 {575}{}{Stai parlando con me? Stai parlando con me?!}
 {576}{}{Ce l'hai con me? Sono un concentrato di Jet! Ti spacco il CULO!}
 {577}{}{Vuoi vedertela con me?! Eh?}
-{578}{}{::Glares at you past chem-hazed eyes::}
+{578}{}{::Glares at you past drug-hazed eyes::}
 {600}{}{Bello...}
 {601}{}{Mmmm...}
 {602}{}{Sei un amico.}

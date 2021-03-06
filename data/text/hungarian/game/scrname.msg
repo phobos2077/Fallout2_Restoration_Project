@@ -416,7 +416,7 @@
 {516}{}{"Ittapiros" Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Testõr}
+{519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
 {521}{}{Játékautomata}
 {522}{}{Rontó-Bontó szerelõ}
@@ -559,7 +559,7 @@
 {659}{}{V15 Secret entrance map}
 {660}{}{Rebecca}
 {661}{}{Ajtó}
-{662}{}{Halálkarom}
+{662}{}{Halálkarom                                                        }
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
@@ -822,7 +822,7 @@
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
-{925}{}{Fegyverkereskedõ}
+{925}{}{Mai Da Chiang}
 {926}{}{Ajtó}
 {927}{}{Ajtó}
 {928}{}{Emitter}
@@ -889,7 +889,7 @@
 {989}{}{Darrow áruja}
 {990}{}{Ajtó}
 {991}{}{Szuperdupermutáns}
-{992}{}{Vegyész}
+{992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchior Jr.}
 {995}{}{Retinaszkenner}
@@ -1310,7 +1310,7 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Gyerek}
-{1413}{}{Halálkarom}
+{1413}{}{Halálkarom                                                        }
 {1414}{}{Sister Elaine}
 {1415}{}{Sírhely}
 {1416}{}{Sírhely}

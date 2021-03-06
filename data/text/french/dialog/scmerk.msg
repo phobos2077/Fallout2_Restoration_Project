@@ -107,7 +107,7 @@
 {206}{}{Bien sûr. Je la prends.}
 {207}{}{Et je parie que tu me vends le pont pour m'y rendre.}
 {208}{}{Peut-être plus tard.}
-{209}{}{S'il y a des stupéfiants à New Reno ? Je n'en ai jamais entendu parler.}
+{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
 {210}{}{Non. J'ai d'autres questions à te poser.}
 {211}{}{C'est tout ce que je voulais savoir.}
 {212}{}{Ces salauds ! Qu'ils ne mettent pas un pied chez moi, sinon je leur troue la cervelle.}

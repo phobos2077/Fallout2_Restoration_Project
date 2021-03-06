@@ -299,7 +299,8 @@
 {771}{}{Po cichu wstañ z ³ó¿ka i ubierz siê.}
 {780}{}{Jedyna "mi³oœæ" jaka nas ³¹czy, polega na tym, ¿e John si³¹ wdziera siê do mojej sypialni i dosiada mnie jak pijanej braminy. A to jeszcze zapewne najmniej odra¿aj¹cy z jego przymiotów, bior¹c pod uwagê jego inne zainteresowania.}
 {781}{}{Inne zainteresowania?}
-{790}{}{Pewnie chce te¿ mieæ coœ do powiedzenia w kwestii tego, kto ma kontrolowaæ handel prochami w Republice Nowej Kalifornii... on chce byæ tym kimœ. Ostatnio szuka³ sposobu na sfa³szowanie wyborów na po³udniuuuu... *zieeew*}
+{790}{}{He also probably wants a say in who controls the drug trade in the new California
+ Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{A wiêc on tak naprawdê planuje PRZY£¥CZENIE Reno do Republiki... hmmmm. No dobrze, porozmawiajmy o czymœ innym...}
 {792}{}{Interesuj¹ce. Chcê dowiedzieæ siê czegoœ o innych planach Johna...}
 {800}{}{Jet jest w Kryptopolis oczywiœcie nielegalny. Inni Obywatele dowiedzieli siê i uniewa¿nili moje obywatelstwo. John by³ jedyn¹ osob¹, do której mog³am siê zwróciæ... i on to oczywiœcie wiedzia³. Zaplanowa³ sobie to wszystko.}

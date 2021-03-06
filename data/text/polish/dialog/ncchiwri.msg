@@ -40,7 +40,7 @@
  is the biggest crime family in Reno. We're gonna rule this city.}
 {291}{}{Serio? Wygl¹da na to, ¿e macie wszystkie asy w rêkawie. Mo¿e przyda wam siê ktoœ taki jak ja?}
 {292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or chem trade, and their numbers are much less than
+ only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
  other families.}
 {293}{}{Skoro o rodzinie mowa, znam twoj¹ mamê.}
 {294}{}{Mo¿esz mi powiedzieæ, co siê sta³o z twoim bratem, Richardem?}
@@ -95,7 +95,7 @@
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Dziêki.}
 {410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with chems until he was dead.}
+ figure, someone pumped him with drugs until he was dead.}
 {411}{}{'Someone' gave him too much? How do you know he didn't overdose because he took too much?}
 {412}{}{Jak myœlisz, kto to móg³ zrobiæ?}
 {413}{}{Przykro to s³yszeæ. Mam jeszcze kilka pytañ...}
@@ -103,13 +103,13 @@
 {420}{}{Cause he was a clean kid... Mom taught him THAT much. And if you feel like saying any different, maybe you and I
  should settle it right here.}
 {421}{}{To nie mia³o tak zabrzmieæ. Nie wracajmy ju¿ do tego.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{422}{}{Nie mo¿esz ca³kowicie odrzucaæ mo¿liwoœci, ¿e by³ narkomanem. Jet uzale¿nia bardzo szybko i skutecznie.}
 {423}{}{Look, KID, if you know what's good for you, you'll stop throwing down every time a little truth comes along
  and bites you in the ass.}
 {424}{}{Jak myœlisz, kto to móg³ zrobiæ?}
 {425}{}{Nie szukam k³opotów. Lepiej ju¿ sobie pójdê. }
 {435}{}{Yeah, well, just watch it. Them's fighting words to any Wright, so don't go shooting off your mouth like that, awright?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{436}{}{Nie mo¿esz ca³kowicie odrzucaæ mo¿liwoœci, ¿e by³ narkomanem. Jet uzale¿nia bardzo szybko i skutecznie.}
 {437}{}{Look, KID, don't start with me. If you know what's good for you, you'll stop trying to throw down every time
  a little truth comes along and bites you in the ass.}
 {438}{}{Wybacz. Mam jeszcze kilka pytañ...}
@@ -132,7 +132,7 @@
 {487}{}{ Jeœli dowiesz siê kto za³atwi³ mojego brata, ca³a rodzina Wrightów bêdzie ci wdziêczna. A to nie jest ma³o, kapujesz?}
 {488}{}{Rozumiem. Pogadamy póŸniej, Chris.}
 {495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed chems on Rich while Rich was out alone. He hangs out at the Desperado.}
+ he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {496}{}{Rozumiem. Mam jeszcze kilka pytañ...}
 {497}{}{Szramiasty Jimmy J, Renesco Rakieciarz, Jules i Ma³y Jesus... Pogadam z nimi. Dziêki za informacje, Chris.}
 {1200}{}{! Dobra robota z t¹ Enklaw¹!}

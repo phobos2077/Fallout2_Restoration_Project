@@ -1,7 +1,7 @@
 {1}{}{Hai guadagnato %d %s.}
 {2}{}{Hai perso %d %s.}
 {3}{}{Ti senti meglio.}
-{4}{}{You suffer a fatal heart attack from chem overdose.}
+{4}{}{You suffer a fatal heart attack from drug overdose.}
 {5}{}{%s non ha piu' colpi.}
 {6}{}{%s e' accesa.}
 {7}{}{%s e' spenta.}
@@ -10,7 +10,7 @@
 {10}{}{Non succede nulla.}
 {50}{}{Non sembra aver fatto molto.}
 {500}{}{Non c'e' abbastanza luce per ricaricare questo oggetto.}
-{600}{}{%s succumbs to the adverse effects of chems.}
+{600}{}{%s succumbs to the adverse effects of drugs.}
 {800}{}{Leggero}
 {801}{}{Medio}
 {802}{}{Pesante}

@@ -35,7 +35,7 @@
 {134}{}{Madame Modjeska vagyok. Egykori Jet használó, többek között. Most már más dolgok kötnek le. Úgy látom, a Jetet többé nem veszi be a szervezetem.}
 {135}{}{Mit tehet érted a Madame?}
 {136}{}{Mit csinál itt, Madame Modjeska?}
-{137}{}{Looks as though a lot of people here are chem-users. What's going on in town lately?}
+{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
 {138}{}{Hallott valami érdekes szóbeszédet?}
 {139}{}{Miért hívják Madame Modjeskának?}
 {140}{}{Mi a baja?}

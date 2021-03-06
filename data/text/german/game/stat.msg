@@ -67,7 +67,7 @@
 {228}{}{Verletzungsresistenz - Elektrisch}
 {229}{}{Verletzungsresistenz - EMP}
 {230}{}{Verletzungsresistenz - Explosion}
-{231}{}{Die Strahlung, der du ausgesetzt bist, wird um diesen Prozentsatz verringert. Die Strahlungsresistenz lässt sich durch die Art der getragenen Rüstung und Antistrahlenmittel beeinflussen.}
+{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
 {232}{}{Jede Vergiftung wird um diesen Prozentsatz verringert.}
 {233}{}{Alter}
 {234}{}{Geschlecht}

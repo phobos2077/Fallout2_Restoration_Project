@@ -67,7 +67,7 @@
 {228}{}{Odolnost vùèi elektøinì}
 {229}{}{Odolnost vùèi EMP}
 {230}{}{Odolnost vùèi explozi}
-{231}{}{Množství radiace, které jsi vystaven, je redukováno tímto procentem. Odolnost vùèi radiaci mùže být zvýšena zbrojí a použitím anti-radiaèních chemikálií.}
+{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
 {232}{}{Touto hodnotou jsou redukována zranìní zpùsobená jedy.}
 {233}{}{Vìk}
 {234}{}{Pohlaví}

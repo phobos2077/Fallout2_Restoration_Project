@@ -145,12 +145,12 @@
 {244}{}{Je vois. Merci pour ces renseignements.}
 {245}{}{De quoi s'agit-il ? Tout ce que tu pourras me dire me serait d'une grande aide.}
 {246}{}{Que sais-tu au sujet de Redding ?}
-{247}{}{Je crois qu'une grande partie de la population de Redding est intoxiquée à cause d'un stimulant appelé le Jet. Les mineurs échangent la plupart des minéraux qu'ils extraient avec New Reno pour s'approvisionner.}
+{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Le docteur Troy a trouvé un antidote contre le Jet.}
 {249}{}{J'ai donné cet antidote à Redding.}
 {250}{}{C'est quoi ce *Jet* qu'ils aiment tant ?}
 {251}{}{Je t'en dirai plus quand j'aurai du nouveau.}
-{252}{}{C'est un stimulant qui rend dépendant à 100%, doublé d'un très fort sentiment d'isolement.}
+{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Tiens-moi au courant, s'il te plaît.}
 {254}{}{Je peux vous poser d'autres questions ?}
 {255}{}{Certainement.}

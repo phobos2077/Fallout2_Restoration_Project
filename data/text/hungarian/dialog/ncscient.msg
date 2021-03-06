@@ -22,7 +22,7 @@
 {170}{}{Nézzük meg a szívritmusát! Ha a tûréshatáron belül van, adjuk be a dózist!}
 {171}{}{Miért lett öngyilkos az a nõ a kontroll-csoportból? Még rá sem került a sor!}
 {200}{}{A tesztek a tervek szerint haladnak, Myron.}
-{201}{}{This new strain of Jet is extremely habit-forming, sir. The slaves are almost
+{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
  willing to kill each other for it.}
 {202}{}{Az új Jet annyira ütõs, hogy a rabszolgák még étel helyett is azt akarnak bevenni.}
 {203}{}{Kik ezek az emberek magával, Myron? Új tesztalanyok?}
@@ -33,7 +33,7 @@
 {208}{}{Myron, na végre! Mikor szállítanak be új rabszolgákat, uram?}
 {209}{}{Myron úr, három rabszolgát a kontroll-csoportból áttettünk a tesztcsoportba, mert légzési zavaraik voltak a múlt héten.}
 {210}{}{Myron úr... le kellett lõnünk egy menekülõ rabszolgát. Nagy pazarlás ez...}
-{211}{}{Myron... ez az ön által kifejlesztett új, enyhe hallucinogén nagyon ígéretes, viszont nem annyira addiktív, mint a Jet...}
+{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
 {212}{}{Ha bármilyen javaslata van, kérem írja le egy darab papírra, és helyezze az ott látható szemeteskosárba.}
 {213}{}{Igen, igen, mi a helyzet?}
 {214}{}{Sosem lesz eredmény, ha folyton megzavar bennünket!}

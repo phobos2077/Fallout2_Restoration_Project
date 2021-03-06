@@ -107,7 +107,9 @@
 {206}{}{McClure z Vault City mi o tom øekl.}
 {207}{}{Obèas nìco zaslechnu.}
 {208}{}{To není dùleité. Chci se ještì na nìco zeptat.}
-{209}{}{New Reno prodává Jet hodnì levnì. Jet je toti velmi návykovı, v tom se mu nic nevyrovná, take je napadlo, e pokud ho bude uívat dost lidí v jednom mìstì, udìlají cokoliv, jen aby ho mìli víc. To dává New Renu de facto kontrolu nad celou oblastí, tøeba jako je Redding.}
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
+ They figure that if they get enough people in an area using it, those people will do anything to get
+ more. That gives them de facto control of an area - like Redding.}
 {210}{}{Aha. Chci se ještì na nìco zeptat.}
 {211}{}{Kdy nechcete, aby New Reno ovládalo Redding, tak kdo by to tu podle vás mìl øídit?}
 {212}{}{Díky za vysvìtlení, doktore. Sbohem.}
@@ -132,7 +134,9 @@
 {231}{}{To je nesmysl. Vault City sice zajišuje obèanùm zvláštní privilegia, ale jenom proto, e jsou k tomu zpùsobilejší ne necivilizovaní lidé. A navíc, kadı se mùe stát obèanem, pokud úspìšnì sloí zkoušky obèanství.}
 {232}{}{No nevím, jak budou zdejší lidé reagovat na vládu Vault City.}
 {233}{}{Jo, jasnì. Sbohem, doktore.}
-{234}{}{Plním ampulky s Jetem a pak je prodávám místním lidem. Nemám z toho ádnı zisk. Kdybych to nedìlal já, dìlal by to nìjakı šarlatán s nesterilními èi dokonce rezavımi nástroji a pak bych tohle mìsto u nikdy úplnì nevyléèil.}
+{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
+ Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{Vy jste ale hodnı, doktore. Opravdu. Chci se ještì na nìco zeptat.}
 {236}{}{To je od vás opravdu *ušlechtilé*, doktore.}
 {237}{}{Zajímavé. Uvidíme se pozdìji, doktore. Sbohem.}

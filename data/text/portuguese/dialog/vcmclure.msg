@@ -145,12 +145,12 @@
 {244}{}{Entendo. Obrigado pela informação.}
 {245}{}{What is it? Anything you could tell me would be a great help.}
 {246}{}{O que você pode me dizer sobre Redding?}
-{247}{}{I found that a large part of Redding is addicted to a chem called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
+{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Dr. Troy has created an antidote for Jet.}
 {249}{}{I delivered the antidote to Redding.}
 {250}{}{What is this "Jet" that they are all addicted to?}
 {251}{}{I'll tell you later when I find out more.}
-{252}{}{It's a chem with a 100% addiction rate, and severe withdrawals.}
+{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Please keep me posted.}
 {254}{}{Posso fazer mais algumas perguntas?}
 {255}{}{Com certeza.}

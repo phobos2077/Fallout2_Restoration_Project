@@ -197,12 +197,12 @@
 {1102}{}{Tes actions ont fait de toi un champion. Ta lutte contre le mal et l'infamie est largement reconnue. Cela peut t'attirer les faveurs de personnes honorables.}
 {1103}{}{Tu as tué des jeunes gens, des jeunes du désert, ce qui est très mal vu. Tu es un être diabolique.}
 {1104}{}{Tu raffoles de Nuka-Cola, le soda du monde post-nucléaire.}
-{1105}{}{Tu dois prendre du Buffout régulièrement pour te sentir bien.}
-{1106}{}{Tu dois prendre des Mentats régulièrement pour te sentir bien.}
-{1107}{}{Si tu n'absorbes pas régulièrement du Psycho, tu souffres. Et si tu souffres, tu fais souffrir les autres.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tu as un problème avec la bouteille. Et ton alcoolisme entraîne beaucoup d'autres problèmes.}
-{1110}{}{Tu es accro stimulants. Tu dois prendre du Jet régulièrement.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{C'est tragique, tu es accro au jeu de cartes Tragic. Tu es constamment à la recherche de nouvelles cartes.}
 {1112}{}{TEMPORAIRE - Qu'est-ce que c'est que ça ?}
 {1113}{}{Le sexe, les préliminaires, ça te connaît. Tu sais donner du plaisir à une personne du sexe opposé de sorte qu'elle en redemande.}

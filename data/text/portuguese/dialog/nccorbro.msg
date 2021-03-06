@@ -245,7 +245,7 @@
 {758}{}{Ignore him and wander off}
 {759}{}{Calm down. I just don't want to shoot today, okay? Sheesh. I'll just come back later when you've cooled off.}
 {760}{}{Screw you guys. I don't need this brahmin shit. I'm a star! A big bright shining star!}
-{765}{}{Hey... you all right? You seem a little out of it. You ain't on chems, are you? Cause I AIN'T gonna shoot you like this.}
+{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
 {766}{}{Me want to film NOW little person}
 {768}{}{You're not the boss of me! I want to fuck, it's my big dick, so everybody get ready to fucking film right NOW.}
 {769}{}{You're not the boss of me! I want to fuck, it's my big vagina, so everybody get ready to fucking film right NOW.}

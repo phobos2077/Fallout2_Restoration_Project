@@ -2770,7 +2770,7 @@
 {40964}{}{Apuntas por apuntar. Yo disparo a matar.}
 {40965}{}{No tienes lo que se necesita para acabar conmigo.}
 {40966}{}{Parece que además de estúpido eres ciego.}
-{40967}{}{Me perdió por un par de puntos porcentuales.}
+{40967}{}{Missed me by a few percentage points.}
 {40968}{}{Debes de ser un cegato hijoputa.}
 {40969}{}{Has fallado. En el siguiente turno, vas a perder la cabeza.}
 {40970}{}{Demonios, soy un fósil y puedo hacerlo mejor que tú.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Mal funcionamiento en los sistemas.}
 {44437}{}{Sistemas energéticos fluctuando. Activando energía de reserva.}
 {44438}{}{Comprometida integridad estructural primaria. Circuitos principales expuestos.}
-{44439}{}{Acondicionamiento de la energía de la unidad de daño. Operativo en el 75% de su capacidad.}
+{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
 {44460}{}{Impacto en unidad motriz derecha. Daño mínimo.}
 {44461}{}{Eje derecho desalineado.}
 {44462}{}{Rueda derecha dañada.}

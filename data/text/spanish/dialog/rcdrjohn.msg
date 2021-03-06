@@ -128,9 +128,9 @@
 {206}{}{McClure, en Ciudad Refugio, me lo contó.}
 {207}{}{Sólo he oído un rumor, eso es todo.}
 {208}{}{Realmente no es importante. Deja que te pregunte algo más.}
-{209}{}{Nuevo Reno vende el Jet muy barato. El Jet es verdaderamente adictivo, como nada que hayas visto nunca antes.
- Suponen que si hay gente suficiente en una zona consumiéndolo, esa gente hará lo que sea para conseguir
- más. Lo que les daría, de facto, el control sobre esa zona: como Redding.}
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
+ They figure that if they get enough people in an area using it, those people will do anything to get
+ more. That gives them de facto control of an area - like Redding.}
 {210}{}{Ya veo. Déjame hacer otra pregunta, Doc.}
 {211}{}{Entonces, si no quieres que Nuevo Reno controle Redding, ¿quién quieres que lo haga?}
 {212}{}{Gracias por explicarme esto, Doc. Adiós.}
@@ -164,9 +164,9 @@
  Ciudadanía de Ciudad Refugio si aprueba los tests.}
 {232}{}{No estoy seguro de cómo la gente de Redding reaccionaría a las leyes de Ciudad Refugio.}
 {233}{}{Sí, no hay duda. Adiós, Doc.}
-{234}{}{Lleno los frascos de Jet y después los distribuyo en toda su pureza como servicio a la gente de
- Redding. No obtengo beneficios por ello. Si no lo hiciera así, entonces cualquier curandero charlatán podría preparar
- la droga con equipamiento oxidado y lleno de gérmenes. Nunca podría mantener a esta gente libre de enfermedades después de eso.}
+{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
+ Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{Qué gran tipo eres, Doc. Eso es genial. Deja que te pregunte otra cosa, entonces.}
 {236}{}{Qué *noble* por tu parte, doctor.}
 {237}{}{Eso es interesante. Nos veremos más tarde, Doc. Adiós.}

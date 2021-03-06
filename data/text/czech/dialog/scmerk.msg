@@ -107,7 +107,7 @@
 {206}{}{Jasnì. Vezmu si ji.}
 {207}{}{Tomu uvìøím, a budou z nebe padat trakaøe.}
 {208}{}{Moná pozdìji.}
-{209}{}{To je nìjaká droga z New Rena? Nikdy jsem o tom neslyšel.}
+{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
 {210}{}{Ne, ale mám ještì nìjaké otázky.}
 {211}{}{To u bude všechno.}
 {212}{}{Ti bastardi? A se ode mì drí dál, nebo je oddìlám.}

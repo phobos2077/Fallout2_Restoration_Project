@@ -361,7 +361,8 @@
  dormitorio y montarme como un brahmin borracho. Y esa es probablemente su cualidad
  menos despreciable, teniendo en cuenta sus otras aficiones.}
 {781}{}{¿Otras aficiones?}
-{790}{}{Probablemente también quiera imponer quién controla el comercio de drogas en la Nueva República de California… él. También está estudiando la posibilidad de amañar las elecciones en el suuuuur… *bostezo*}
+{790}{}{He also probably wants a say in who controls the drug trade in the new California
+ Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{Así que en realidad planea que Reno se UNA a la República... hmmmm. De acuerdo entonces, hablemos de otra cosa…}
 {792}{}{Interesante. Me gustaría saber de qué otras cosas sería capaz John…}
 {800}{}{Las drogas son ilegal en Ciudad Refugio, por supuesto. Los demás Ciudadanos se enteraron y revocaron mi Ciudadanía. John era el único a quien podía recurrir... lo que él sabía, por supuesto. Lo planeó todo.}

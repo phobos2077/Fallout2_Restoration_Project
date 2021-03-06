@@ -35,7 +35,7 @@
 {134}{}{Io sono Madame Modjeska. Ex Jetomane, tra le altre cose. Adesso mi occupo d'altro. Penso che il Jet non faccia piu' per me. }
 {135}{}{Cosa puo' fare Madame per te?}
 {136}{}{Di cosa ti occupi, Madame Modjeska?}
-{137}{}{Looks as though a lot of people here are chem-users. What's going on in town lately?}
+{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
 {138}{}{Gira qualche voce interessante?}
 {139}{}{Perche' ti chiamano Madame Modjeska?}
 {140}{}{C'e' qualcosa che non va?}

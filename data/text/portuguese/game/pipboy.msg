@@ -229,7 +229,7 @@
 {7019}{}{well done. I love my job.}
 {7020}{}{**END-PAR**}
 {7021}{}{June 30, 2077}
-{7022}{}{I tried a new chem cocktail of Buffout and Psychos}
+{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
 {7023}{}{on one of my patients, mixed with some special}
 {7024}{}{enhancers I've been toying with. The results were}
 {7025}{}{promising, if not messy. The subject became very}
@@ -777,7 +777,7 @@
 {14035}{}{(though looting and property damage have taken their}
 {14036}{}{toll), so many streets and buildings remain intact.}
 {14037}{}{Warning! There is no central government and no law}
-{14038}{}{enforcement. Gambling, prostitution, and chem use}
+{14038}{}{enforcement. Gambling, prostitution, and drug use}
 {14039}{}{are rampant. Vault Citizens are warned to avoid New}
 {14040}{}{Reno at ALL costs!}
 {14041}{}{}

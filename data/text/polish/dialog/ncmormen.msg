@@ -63,7 +63,7 @@
 {305}{}{Dobrze robisz, wpadaj¹c czasem do Mordino. Liczymy siê tu i tam.}
 {306}{}{Chcesz Jetu? Mogê ci go za³atwiæ, chica.}
 {307}{}{Chica, nie ma nic, czego bym dla ciebie nie zrobi³... no ju¿. Daj mi ma³ego buziaczka.}
-{308}{}{Need some chems? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
+{308}{}{Potrzebujesz prochów? Bimbru? Pieniêdzy? Mogê ci to za³atwiæ. Mam pod-wi¹zania, ³apiesz?}
 {315}{}{Nie machaj tak tutaj tym ¿elastwem. Od³ó¿ to.}
 {320}{}{Nie skradaj siê tak, dobrze? Mordino s¹ przyjació³mi ³owców niewolników.}
 {325}{}{Jo! Coœ z twoim s³uchem? Od³ó¿ to zanim bêdê musia³ ci zrobiæ krzywdê.}

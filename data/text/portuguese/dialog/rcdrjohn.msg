@@ -129,7 +129,7 @@
 {206}{}{McClure in Vault City told me.}
 {207}{}{I just heard a rumor, that's all.}
 {208}{}{It's not really important. Let me ask you about something else.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real habit-forming, like nothing you've ever seen before.
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
  They figure that if they get enough people in an area using it, those people will do anything to get
  more. That gives them de facto control of an area - like Redding.}
 {210}{}{I see. Let me ask you about something else, Doc.}
@@ -168,7 +168,7 @@
 {233}{}{Yeah, no doubt. Goodbye, Doc.}
 {234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
  Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the chem with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{What a nice guy you are, Doc. That's great. Let me ask you about something else, then.}
 {236}{}{How *noble* of you, Doctor.}
 {237}{}{That's interesting. I'll see you later, Doc. Goodbye.}

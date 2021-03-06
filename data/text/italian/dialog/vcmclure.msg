@@ -145,12 +145,12 @@
 {244}{}{Capisco. Grazie dell'informazione.}
 {245}{}{Cosa? Qualsiasi cosa sara' in grado di dirmi le assicuro che mi sara' di grande aiuto.}
 {246}{}{Cosa puo' dirmi a proposito di Redding?}
-{247}{}{I found that a large part of Redding is addicted to a chem called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
+{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Il dr. Troy ha creato un antidoto per il Jet.}
 {249}{}{Ho consegnato l'antidoto a Redding.}
 {250}{}{Cos'e' questo "Jet"?}
 {251}{}{Gliene parlero' quando ne sapro' di piu'.}
-{252}{}{It's a chem with a 100% addiction rate, and severe withdrawals.}
+{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
 {253}{}{La prego di tenermi informato.}
 {254}{}{Posso farle qualche altra domanda?}
 {255}{}{Bene.}

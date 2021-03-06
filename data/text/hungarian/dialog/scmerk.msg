@@ -107,7 +107,7 @@
 {206}{}{Hogyne! Megveszem.}
 {207}{}{Fogadjunk, eladó hidad is van.}
 {208}{}{Talán késõbb.}
-{209}{}{Is it some kind of chem out of New Reno? I've never heard of it.}
+{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
 {210}{}{Nem. Viszont lenne még néhány kérdésem.}
 {211}{}{Ennyit akartam tudni...}
 {212}{}{Azok a rohadékok! Jobb, ha nem teszik ide a lábukat, különben szitává lyuggatom õket!}

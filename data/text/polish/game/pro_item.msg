@@ -77,7 +77,7 @@
 {3900}{}{ogniwo termoj¹drowe}
 {3901}{}{Œredniej wielkoœci ogniwo wytwarzaj¹ce energiê w procesie mikrosyntezy termoj¹drowej. Autonomiczna elektrownia atomowa.}
 {4000}{}{Stimpaki.}
-{4001}{}{Specyfik leczniczy. Natychmiast po wstrzykniêciu goi drobne rany.}
+{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
 {4100}{}{pieni¹dze}
 {4101}{}{Legalny œrodek p³atniczy.}
 {4200}{}{lodówka}
@@ -103,7 +103,7 @@
 {5200}{}{licznik Geigera}
 {5201}{}{Licznik Geigera produkcji Wattz Electronics, model WID-Rad. Wykrywa obecnoœæ i si³ê promieniowania.}
 {5300}{}{Mentaty.}
-{5301}{}{Tabletki modyfikuj¹ce funkcjonowanie mózgu. Poprawiaj¹ pracê pamiêci i przyspieszaj¹ inne procesy umys³owe. Silnie uzale¿niaj¹ce.}
+{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{urz¹dzenie maskuj¹ce}
 {5401}{}{SkradoBoy 3001 - osobiste urz¹dzenie maskuj¹ce produkcji firmy RobCo. Wytwarza pole moduluj¹ce, które zakrzywia promienie œwiat³a wokó³ osoby u¿ytkownika.}
 {5500}{}{hydroprocesor}
@@ -179,7 +179,7 @@
 {9000}{}{plecak}
 {9001}{}{Prosty plecak z dodatkowymi paskami.}
 {9100}{}{Torbê lekarsk¹.}
-{9101}{}{Ta czarna torba zawiera instrumenty i specyfiki u¿ywane przez lekarzy do wykonywania swojego zawodu.}
+{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
 {9200}{}{ogon radskorpiona}
 {9201}{}{Oderwany ogon radskorpiona.}
 {9300}{}{torba}
@@ -215,7 +215,7 @@
 {10800}{}{koœci}
 {10801}{}{Zbiór dziwnych koœci.}
 {10900}{}{Rad-X.}
-{10901}{}{Specyfik antyradiacyjny (uwaga, nale¿y stosowaæ go PRZED wystawieniem siê na promieniowanie). Brak znanych efektów ubocznych.}
+{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psycho.}
 {11001}{}{Unikalny system wstrzykiwania, nape³niony niezidentyfikowanymi specyfikami, prawdopodobnie produkcji wojskowej. Ich zadaniem jest zwiêkszanie potencja³u bojowego u¿ytkownika.}
 {11100}{}{amunicja 0,44 cala Magnum FMJ}
@@ -795,7 +795,7 @@
 {40800}{}{apteczka pierwszej pomocy}
 {40801}{}{Ma³y zestaw zawieraj¹cy podstawowe wyposa¿enie medyczne. Banda¿e, opaski, antyseptyki i tym podobne.}
 {40900}{}{torba lekarska}
-{40901}{}{Ta torba zawiera narzêdzia i œrodki farmakologiczne, z jakich korzystaj¹ lekarze. Zestaw zosta³ przygotowany przede wszystkim z myœl¹ o leczeniu przypadków wyj¹tkowych i zwi¹zanych z powa¿nymi obra¿eniami.}
+{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
 {41000}{}{rozsz. zestaw wytrychów}
 {41001}{}{Zestaw narzêdzi œlusarskich. Zawiera wszelkie wytrychy i klucze dynamometryczne potrzebne do otwarcia konwencjonalnego zamka, a tak¿e pewne specjalne narzêdzia przeznaczone do otwierania skomplikowanych zamków mechanicznych.}
 {41100}{}{wytrych elektroniczny wersja II}
@@ -917,7 +917,7 @@
 {46901}{}{Bardzo mocny alkohol lub œrodek czyszcz¹cy, zale¿nie od potrzeby.}
 {47000}{}{Knebel}
 {47001}{}{Dziwny przedmiot o zastosowaniu erotycznym. Jeœli musisz pytaæ, to nie chcesz znaæ szczegó³ów.}
-{47100}{}{"Kwiat lawendy"}
+{47100}{}{"The Lavender Flower"}
 {47101}{}{Jakiœ romans autorstwa Dorothy Rixon. Ok³adka przedstawia kobietê le¿¹c¹ na ³ó¿ku otoczonym kwiatami.}
 {47200}{}{holotaœma Centrologów}
 {47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}

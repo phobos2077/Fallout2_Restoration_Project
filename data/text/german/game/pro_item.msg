@@ -77,7 +77,7 @@
 {3900}{}{Fusionszelle}
 {3901}{}{Energieerzeugende Einheit mittlerer Größe. Ein in sich geschlossener Fusionsreaktor.}
 {4000}{}{Stimpak}
-{4001}{}{Heilpräparat. Kleine Wunden heilen unmittelbar nach der Injektion.}
+{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
 {4100}{}{Geld}
 {4101}{}{Legales Zahlungsmittel im Ödland.}
 {4200}{}{Kühlschrank}
@@ -103,7 +103,7 @@
 {5200}{}{Geigerzähler}
 {5201}{}{Geigerzähler Wattz Electronics C-Radz. Ermittelt Existenz und Stärke von Strahlungsfeldern.}
 {5300}{}{Mentats}
-{5301}{}{Pillenschachtel mit be- wusstseinsverändernden Präparaten. Verbessert gedächtnisrelevante Funktionen und beschleunigt andere mentale Vorgänge. Wirkt stark suchterzeugend.}
+{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{Stealth Boy}
 {5401}{}{Persönliche Tarnkappe RobCo Stealth Boy 3001. Erzeugt ein Modulationsfeld, das reflektiertes Licht von einer Seite auf die andere überträgt.}
 {5500}{}{Steuerchip}
@@ -179,7 +179,7 @@
 {9000}{}{Rucksack}
 {9001}{}{Normaler Rucksack mit optionalen Tragriemen.}
 {9100}{}{Arzttasche}
-{9101}{}{Diese braune Tasche enthält Instrumente und Präparate, die Ärzte bei der Ausübung ihres Berufs benötigen.}
+{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
 {9200}{}{Skorpionschwanz}
 {9201}{}{Der abgetrennte Schwanz eines Radskorpions.}
 {9300}{}{Tasche}
@@ -215,7 +215,7 @@
 {10800}{}{Knochen}
 {10801}{}{Eine Sammlung seltsamer Knochen}
 {10900}{}{Rad-X}
-{10901}{}{Antistrahlenmittel zum Einnehmen vor der Strahlungsaussetzung. Nebenwirkungen sind nicht bekannt.}
+{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psycho}
 {11001}{}{Einzigartiges Präparat, das seltsame, unbekannte chemische Substanzen enthält, die vermutlich militärischen Ursprungs sind. Soll die Kampffähigkeiten eines Soldaten verbessern.}
 {11100}{}{.44-VMG}
@@ -795,7 +795,7 @@
 {40800}{}{Koffer für Feldärzte}
 {40801}{}{Kleiner Koffer, der grundlegende medizinische Ausrüstung enthält. Bandagen, Verbände, Desinfektionsspray usw.}
 {40900}{}{Sanitätertasche}
-{40901}{}{Diese Tasche enthält Instrumente und Präparate, die Sanitäter im Feld einsetzen. Die Instrumente sind speziell für schwere Trauma- und Notfälle ausgelegt.}
+{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
 {41000}{}{Großer Dietrichsatz}
 {41001}{}{Der große Dietrichsatz enthält alle notwendigen Haken und Spann- schlüssel zum Öffnen konventioneller Stift– u. Zuhaltungsschlösser. Dieser Satz enthält auch Spezialwerkzeug für schwierigere Schließmechanismen.}
 {41100}{}{Elektr. Dietrich MKII}
@@ -917,7 +917,7 @@
 {46901}{}{Du beschließt, dass es sich um ein sehr starkes alkoholisches Getränk oder ein Reinigungs-   mittel handeln muss.}
 {47000}{}{Ballknebel}
 {47001}{}{Fragwürdiges Hilfsmittel für Sexspielchen. Wenn du nach dem Zweck fragen musst, willst du die Antwort gar nicht wissen.}
-{47100}{}{Die Lavendelblüte}
+{47100}{}{"The Lavender Flower"}
 {47101}{}{Sieht nach einem Liebesroman von Dorothy Rixon aus. Auf dem Titelbild liegt eine Frau umgeben von Hunderten von Blüten auf einem Bett.}
 {47200}{}{Hubologen-Holo-Disk}
 {47201}{}{Auf dieser Holo-Disk steht "Hubologie: Die Wahrheit hinter den Lügen". Sie sieht aus, als würde sie mit deinem PIPBoy funktionieren.}

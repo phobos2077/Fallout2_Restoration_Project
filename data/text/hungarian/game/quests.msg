@@ -8,12 +8,12 @@
 {202}{}{Szabotáld Becky szeszlepárlóját!}
 {203}{}{Szerezz egy üzemanyag-szabályozót Smittynek az autóhoz!}
 {204}{}{Szerezd vissza Anna medálját!}
-{205}{}{Collect money from Fred.}
-{206}{}{Get book from Derek.}
+{205}{}{Collect Rebecca's money from Fred.}
+{206}{}{Get Rebecca's book from Derek.}
 {207}{}{Vidd el Smittynek az ebédjét!}
 {208}{}{Lara tudni akarja, mit õriznek a templomban.}
-{209}{}{Get permission from Metzger for gang war.}
-{210}{}{Find weakness in Tyler's gang guarding the church.}
+{209}{}{Get permission from Metzger for the gang war.}
+{210}{}{Find a weakness in Tyler's gang guarding the church.}
 {211}{}{Segíts Larának legyõzni Tyler bandáját!}
 {212}{}{Find a way to get the orphans off the streets.}
 {300}{}{Gyújtsd be a szeszlepárlót!}
@@ -29,7 +29,7 @@
 {403}{}{A kis Jonny eltûnt. Keresd meg és vidd haza Balthashoz!}
 {404}{}{Jonny az Aljanép barlangjában van. Juttasd haza Balthashoz!}
 {405}{}{Farrel kertjét ellepték a rágcsálók. Szabadulj meg tõlük!}
-{406}{}{Deliver Slag message to Jo in Modoc.}
+{406}{}{Deliver the Slag's message to Jo in Modoc.}
 {407}{}{Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
 {408}{}{Menj el Rejtekbe, és szólj Karlnak, hogy nyugodtan hazamehet!}
 {409}{}{Guard Grisham's brahmin.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Retrieve Parts/Gain Access to Vault 15.}
 {1101}{}{"Take care of" Officer Jack for Mira.}
-{1102}{}{Complete brahmin drive.}
-{1103}{}{Retrieve papers from Dr. Henry.}
-{1104}{}{Test mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Complete the brahmin drive.}
+{1103}{}{Retrieve the papers from Dr. Henry.}
+{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Iktasd ki Bishopot!}
 {1106}{}{Vidd el Westin hololemezét Lynette-nek, Menedékvárosba!}
 {1107}{}{Szerezd meg a térképet az ÚKK-i Felderítõktõl, és add oda Vortisnak, a rabszolga-kereskedõnek!}
 {1108}{}{A Felderítõk megbízásából szabadítsd fel a rabszolgákat a városszéli rabszolga-táborból!}
-{1109}{}{Deliver Hubologist's field report to AHS-9 in San Francisco.}
+{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
 {1110}{}{Kill the Hubologist for Merk.}
 {1111}{}{Stop the brahmin raids.}
 {1112}{}{Wipe out the Rangers' safe houses to the north, for Vortis the slaver.}
@@ -119,7 +119,7 @@
 {1511}{}{Keresd meg a Borz barátnõjét a hajó rakterében!}
 {1512}{}{A Sárkány megkért, hogy verd meg Lo Pant - pusztakézzel!}
 {1513}{}{Lo Pan megkért, hogy verd meg a Sárkányt - pusztakézzel, ha lehetséges!}
-{1514}{}{Get Chip's spleen.}
+{1514}{}{Get Chip's spleen back.}
 {1515}{}{Szerezz egy megerõsített erõpáncélt Crockettõl!}
 {1516}{}{Szerezd meg a gépmadár tervrajzát az Acél Testvérisége számára !}
 {1517}{}{Disable the Shi submarine threatening the tanker.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Rescue Chrissy.}
 {3201}{}{Kill Darion.}
-{3202}{}{Complete Deal with NCR.}
-{3203}{}{Give Spy Holodisk to the authorities in NCR.}
+{3202}{}{Complete the deal with NCR.}
+{3203}{}{Give the Spy Holodisk to the authorities in NCR.}

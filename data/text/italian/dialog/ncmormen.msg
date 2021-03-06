@@ -63,7 +63,7 @@
 {305}{}{Stai facendo la cosa giusta, a stare dalla parte dei Mordino. Andremo lontano.}
 {306}{}{Ti serve del Jet? Posso darti tutto il Jet che vuoi, chica.}
 {307}{}{Chica, non c'e' niente che non farei per te... dai, su! Dammi un piccolo bacino.}
-{308}{}{Ti serve della droga? Dell'alcol? Dei soldi? Posso darti tutto cio' che vuoi. Ho gli agganci giusti, io.}
+{308}{}{Ti serve droga? Alcolici? Denaro? Posso darti tutto quello che vuoi. Ho gli agganci giusti, sai?}
 {315}{}{Non mostrare il tuo arsenale qui dentro, amigo. Metti via quel coso.}
 {320}{}{Non serve che tu ti muova silenziosamente, schiavista. Qui sei tra amici.}
 {325}{}{Yo! Sei stupido o cosa? Metti via quell'arma prima che sia costretto a farti del male.}

@@ -122,7 +122,8 @@
 {500}{}{Früher hab ich's vom Gott persönlich bekommen, von Myron, aber der ist weg... oder völlig durchgedreht. Jetzt handle ich meistens direkt mit den Mordinos.}
 {501}{}{Also FRÜHER, da bekam ich's vom alten Myron, bevor er völlig überschnappte und aus dem Geschäft ausstieg... stimmt's, Myron? Ha! Jetzt krieg ich meistens so mittelmäßiges Zeug direkt von den Mordinos.}
 {502}{}{Interessant. Ich hätte noch ein paar Fragen...}
-{510}{}{Ich hab Verbindung zum SCHÖPFER selbst, Pilot. Ich krieg mein Jet direkt vom großen Genie, dem lebendigen Gott aller chemischen Verbindungen, MYRON.}
+{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
+ MYRON.}
 {511}{}{Myron?}
 {512}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {513}{}{Myron, soso. Kann ich diesen... lebendigen Gott mal sprechen?}

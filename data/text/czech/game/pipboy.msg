@@ -229,7 +229,7 @@
 {7019}{}{svoji práci.}
 {7020}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
 {7021}{}{30. èervna 2077}
-{7022}{}{Testoval jsem na jednom ze svých pacientù chemický}
+{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
 {7023}{}{koktejl Buffoutu a Psycha smíchaný s nìkterými}
 {7024}{}{speciálními zlepšováky, se kterými jsem si hrál. Výsledky}
 {7025}{}{byly velice slibné, avšak komplikované. Subjekt zaèal}
@@ -777,7 +777,7 @@
 {14035}{}{zùstalo nedotèeno. Varování! Neexistuje zde žádná}
 {14036}{}{vládní instituce ani zákon. Hazard, prostituce a užívání}
 {14037}{}{drog jsou zde na denním poøádku. Obyvatelé Vault City}
-{14038}{}{by se mìli vyhnout New Renu za KAŽDOU cenu!}
+{14038}{}{enforcement. Gambling, prostitution, and drug use}
 {14039}{}{are rampant. Vault Citizens are warned to avoid New}
 {14040}{}{POPULACE: Žádné známé hodnoty, ale pravdìpodobnì}
 {14041}{}{}

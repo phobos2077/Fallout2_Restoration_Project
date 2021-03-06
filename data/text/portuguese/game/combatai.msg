@@ -2770,7 +2770,7 @@
 {40964}{}{Você aponta por apontar. Eu atiro para matar.}
 {40965}{}{Você não tem o necessário para acabar comigo.}
 {40966}{}{Além de burro é cego.}
-{40967}{}{Errou por um beiço de pulga.}
+{40967}{}{Missed me by a few percentage points.}
 {40968}{}{Seu cego filho da puta.}
 {40969}{}{Errou. Na próxima rodada vai perder a cabeça.}
 {40970}{}{Inferno, eu sou um bosta, mas posso fazer melhor que você.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Mau funcionamento dos sistemas.}
 {44437}{}{Sistemas energéticos flutuando. Ativando energia de reserva.}
 {44438}{}{Integridade do casco principal comprometida. Principais circuitos expostos.}
-{44439}{}{Danos à unidade de condicionamento de energia. Operando em 75% da capacidade.}
+{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
 {44460}{}{Motivador direito atingido. Danos mínimos.}
 {44461}{}{Bogie direito fora do alinhamento.}
 {44462}{}{Roda direita danificada.}

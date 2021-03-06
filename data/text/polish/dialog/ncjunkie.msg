@@ -88,14 +88,15 @@
 {295}{}{Nastêpnym razem jak bêdziesz kopaæ ty³ek Enklawie, przyjdŸ najpierw do mnie, to zrobimy to RAZEM.}
 {296}{}{Jesteœ SUPER, }
 {297}{}{Wiem, ¿e zawdziêczamy ci uratowanie œwiata, ale to my, pomniejsi Bohaterowie Niezale¿ni musimy stawiæ czo³o konsekwencjom.}
-{298}{}{A teraz kolej, aby zagraæ postaci¹ opieraj¹c¹ siê na prochach. Serio! WeŸ sobie traita Chem Reliant. UWIELBIAM go.}
+{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
+ I LOVE that one.}
 {299}{}{Dziêki za uratowanie nas. Buzi nie dostaniesz, bo mi jedzie z gêby rzygami.}
 {300}{}{Te¿ byœmy z kumplami w pojedynkê za³atwili Enklawê, gdybyœmy mieli wystarczaj¹co du¿o Jetu.}
 {301}{}{[Œpiewa] "We don't need another hero, we don't need to know the way home..."}
 {302}{}{Zaprojektowa³ mnie Chris Avellone, a Tom French napisa³ dla mnie skrypty. Praktycznie rzecz bior¹c, moje uzale¿nienie od Jetu to ICH wina.}
 {303}{}{WeŸmy sobie trochê Jetu i oblejmy to zwyciêstwo. Ty stawiasz.}
 {304}{}{A kiedy ju¿ skasujesz tê grê z dysku, czy bêdziemy istnieæ nadal?}
-{305}{}{Uch... jakiego rodzaju testy chemiczne robi³a Enklawa? Czy by³ tam darmowy Jet?}
+{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
 {320}{}{Jak mo¿esz korzystaæ z ³azienki w czymœ takim na grzbiecie?}
 {321}{}{Uch... czy ty do mnie mówisz?}
 {322}{}{Ooo ludzie, chyba mam coraz gorsze delirki, bo zaczynaj¹ do mnie gadaæ metalowi ludzie.}
@@ -110,7 +111,7 @@
 {352}{}{Tylko kilka dolców, a bêdê twoim niewolnikiem... tylko daj mi najpierw wzi¹æ sobie trochê Jetu.}
 {353}{}{Bedê twoj¹ niewolnic¹, jeœli dasz mi trochê Jetu.}
 {354}{}{Mo¿esz sprzedaæ mnie w niewolê, jeœli dasz mi za to trochê Jetu.}
-{355}{}{Nie, nie mam prochów. Aa... co? Kupujesz?}
+{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {360}{}{Ty woj-ownik? Masz parê dolców coby po¿yczyæ?}
 {361}{}{Noo, daj mi parê dolców.}
 {362}{}{Mogem poszyczyæ trochê kasy? S³uchaj, wszystko oddam.}
@@ -121,7 +122,7 @@
 {367}{}{Potrzebujê tylko kilu dolców na chleb...}
 {368}{}{Bedê twoj¹ niewolnic¹, jeœli dasz mi trochê Jetu.}
 {369}{}{Mo¿esz sprzedaæ mnie w niewolê, jeœli dasz mi za to trochê Jetu.}
-{370}{}{Nie, nie mam prochów. Aa... co? Kupujesz?}
+{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {371}{}{Ty z rodziny }
 {372}{}{Mo¿esz po¿yczyæ mi kilka dolców...? No chodŸ, naprawdê warto.}
 {373}{}{Bêdê pracowaæ za Jet...}
@@ -130,7 +131,7 @@
 {382}{}{Cz³owieku, potrzebujesz towarzystwa, ¿eby sobie polataæ?}
 {383}{}{Tata?}
 {384}{}{Cz³owieku, ja muszê *lataæ*, rozumiesz?}
-{385}{}{Nie, nie mam prochów. Aa... co? Kupujesz?}
+{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {386}{}{Psssst. Mo¿esz za³atwiæ mi trochê Jetu?}
 {387}{}{Mogê po¿yczyæ kilka dolców? Wszystko oddam.}
 {388}{}{Bêdê pracowaæ za Jet...}
@@ -148,7 +149,7 @@
 {400}{}{Noo, panienko, daj mi tylko parê dolców.}
 {401}{}{Hej, uch... kole¿anko, masz Jet?}
 {402}{}{S³uchaj, ja muszê *lataæ*, rozumiesz?}
-{403}{}{Nie, nie mam prochów. Aa... co? Kupujesz?}
+{403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{Mama?}
 {420}{}{Hej, bracie? Mo¿esz mi pomóc w lataniu?}
 {421}{}{Noo, ch³opczyku, daj mi tylko parê dolców.}
@@ -157,7 +158,7 @@
 {424}{}{Zrobiê co tylko zechcesz za kilka dolców... albo za Jet, jeœli go masz.}
 {425}{}{By³am kiedyœ prawdziw¹ newreñsk¹ piêknoœci¹. Wci¹¿ mam to coœ...}
 {426}{}{Cz³owieku, potrzebujesz towarzystwa, ¿eby sobie polataæ?}
-{427}{}{Nie, nie mam prochów. Aa... co? Kupujesz?}
+{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {428}{}{Tata?}
 {429}{}{Psssst. Mo¿esz za³atwiæ mi trochê Jetu?}
 {430}{}{Mogê po¿yczyæ kilka dolców? Wszystko oddam.}
@@ -174,7 +175,7 @@
 {441}{}{Mogê ci sprawiæ przyjemnoœæ... jeœli masz dla mnie trochê Jetu.}
 {442}{}{Hej, uch... siostrzyczko, masz Jet?}
 {443}{}{Siostro, ja muszê *lataæ*, rozumiesz?}
-{444}{}{No, siostro, nie mam prochów. Aa... co? Kupujesz?}
+{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{Mama?}
 {450}{}{Swiêta...! Czym jesteœ? Jakimœ roz-butem?}
 {451}{}{Jakie u licha œwiñstwo trzeba braæ, ¿eby siê pokryæ metalem, tak jak ty?}
@@ -205,7 +206,7 @@
 {483}{}{To œwiñstwo od Szramiastego Jimmy'ego J jest NAJLEPSZE. Odlatujesz taaaak wysoko, ¿e NIGDY ju¿ nie chcesz l¹dowaæ.}
 {484}{}{Do mnie mówisz? Do mnie mówisz?!}
 {485}{}{Chcesz dostaæ?! Co?}
-{486}{}{::Gapi siê na ciebie oczami mêtnymi od narkotyków::}
+{486}{}{::Glares at you past drug-hazed eyes::}
 {487}{}{Chcesz ze mn¹ polataæ?}
 {488}{}{Hej, co jezzd, jak siê boksowa³o?!}
 {489}{}{Chesz siê boksowaæ? Hê? No dalej!}
@@ -223,7 +224,7 @@
 {510}{}{Do mnie mówisz? Do mnie mówisz?!}
 {511}{}{Ze mn¹ zadzierasz, ty marionetko w rêkach mafii? Jestem zasilan¹ Jetem elektrowni¹! Skopiê ci TY£EK!}
 {512}{}{Chcesz dostaæ?! Co?}
-{513}{}{::Gapi siê na ciebie oczami mêtnymi od narkotyków::}
+{513}{}{::Glares at you past drug-hazed eyes::}
 {520}{}{Heeej... a na czym TY lecisz? Masz trochê siê podzieliæ?}
 {521}{}{A ktoœ powiedzia³, ¿e to *mnie* pojeba³o.}
 {522}{}{Hej... podziel siê tym œwiñstwem, co ciê tak krêci.}
@@ -236,7 +237,7 @@
 {533}{}{Te¿ mnie kiedyœ tak krêci³o, jak twojego kolegê robota... powiedz mu, ¿e mu przejdzie, jak tylko skoñczy siê haj.}
 {534}{}{Co u diab³a sta³o siê w mózg twojemu kumplowi? Straci³ swoje cia³o?}
 {535}{}{POWIEDZ mi, ¿e to robo - coœ nie jest prawdziwe. Proszê.}
-{536}{}{£ojej. Patrzcie jaki robo - mózg. Oto twój mózg na prochach, o ile mi siê to nie œni.}
+{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
 {537}{}{Chcesz sobie ze mn¹ polataæ? A twój robo - kolega?}
 {538}{}{Zadzierasz ze mn¹ robokochasiu? Jestem zasilan¹ Jetem elektrowni¹! Skopiê TWÓJ ty³ek, a potem skopiê ty³ek tego robota!}
 {539}{}{Chcesz dostaæ, robokochasiu?! Co?}
@@ -247,7 +248,7 @@
 {544}{}{Jak zobaczysz Renesco to mu powiedz, ¿e pieni¹dze oddam mu jutro.}
 {545}{}{To œwiñstwo od Szramiastego Jimmy'ego J jest NAJLEPSZE. Odlatujesz taaaak wysoko, ¿e NIGDY ju¿ nie chcesz l¹dowaæ.}
 {546}{}{Do mnie mówisz? Do mnie mówisz?!}
-{547}{}{::Gapi siê na ciebie oczami mêtnymi od narkotyków::}
+{547}{}{::Glares at you past drug-hazed eyes::}
 {548}{}{Cz³owieku, nie ogl¹daj siê za siebie, ale ³azi za tob¹ jakiœ mutant.}
 {549}{}{£ojoj. Chyba biorê kieeeepskie prochy... wszêdzie widzê mutantów.}
 {550}{}{Czy to ja jestem na haju, czy twój kupel jest wysoki na dwa piêtra?}
@@ -277,7 +278,7 @@
 {575}{}{Do mnie mówisz? Do mnie mówisz?!}
 {576}{}{Ze mn¹ zadzierasz? Jestem zasilan¹ Jetem elektrowni¹! Skopiê ci TY£EK!}
 {577}{}{Chcesz dostaæ?! Co?}
-{578}{}{::Gapi siê na ciebie oczami mêtnymi od narkotyków::}
+{578}{}{::Glares at you past drug-hazed eyes::}
 {600}{}{Niez³e...}
 {601}{}{Mmmm...}
 {602}{}{Dobry z ciebie kumpel.}

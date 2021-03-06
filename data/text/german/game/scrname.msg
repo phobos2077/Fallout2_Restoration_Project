@@ -416,7 +416,7 @@
 {516}{}{"Drei Karten" Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Leibwache}
+{519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
 {521}{}{Glücksspielautomat}
 {522}{}{Chop Shop Boy}
@@ -822,7 +822,7 @@
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
-{925}{}{Waffenhändler}
+{925}{}{Mai Da Chiang}
 {926}{}{Tür}
 {927}{}{Tür}
 {928}{}{Emitter}
@@ -889,7 +889,7 @@
 {989}{}{Darrows Herde}
 {990}{}{Tür}
 {991}{}{Superduper-Mutant}
-{992}{}{Apotheker}
+{992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchior Junior}
 {995}{}{Netzhautscanner}

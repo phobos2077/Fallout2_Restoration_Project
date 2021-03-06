@@ -416,7 +416,7 @@
 {516}{}{Three Card Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Bodyguard}
+{519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
 {521}{}{Casino Machine}
 {522}{}{Chop Shop Boy}
@@ -559,7 +559,7 @@
 {659}{}{V15 Secret entrance map}
 {660}{}{Rebecca}
 {661}{}{Porta}
-{662}{}{Death Claw}
+{662}{}{Deathclaw}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
@@ -822,7 +822,7 @@
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
-{925}{}{Gun Merchant}
+{925}{}{Mai Da Chiang}
 {926}{}{Porta}
 {927}{}{Porta}
 {928}{}{Emitter}
@@ -889,7 +889,7 @@
 {989}{}{Darrow's Stock}
 {990}{}{Porta}
 {991}{}{Super Duper Mutant}
-{992}{}{Chemist}
+{992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchior Jr.}
 {995}{}{Scanner de Retina}
@@ -1310,7 +1310,7 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Child}
-{1413}{}{Death Claw}
+{1413}{}{Deathclaw}
 {1414}{}{Sister Elaine}
 {1415}{}{Grave}
 {1416}{}{Grave}

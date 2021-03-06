@@ -88,14 +88,15 @@
 {295}{}{Nächstes mal, wenn du der Enklave in den Arsch trittst hol mich vorher ab und wir machen das ZUSAMMEN.}
 {296}{}{Tritt in ihren Arsch, }
 {297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
-{298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Charakter mit erhöhtem Stoffwechsel. Wirklich! Nimm den Perk! Ich LIEBE ihn.}
+{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
+ I LOVE that one.}
 {299}{}{Danke für unsere Rettung. Ich würde dich küssen, wenn ich nicht diesen Ausschlag hätte.}
 {300}{}{Ich hätte auch die Enklave besiegen können, wenn ich genug Jet gehabt hätte.}
 {301}{}{[Singt.] "We don't need another hero, we don't need to know the way home..."}
 {302}{}{Chris Avellone hat mich entwickelt und Tom French hat das Skript geschrieben. Technisch betrachtet bin ich für mein Jet benutzen also nicht verantwortlich.}
 {303}{}{Lass uns etwas Jet nehmen und deinen Sieg feiern. Du zahlst.}
 {304}{}{Existieren wir weiter, wenn du das Spiel von deiner Festplatte gelöscht hast?}
-{305}{}{Äh... was für ein chemisches Zeug hat die Enklave eigentlich entwickelt? War es frei Jet?}
+{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
 {320}{}{Wie gehst du denn mit dem Ding aufs Klo?}
 {321}{}{Oh... redest du mit mir?}
 {322}{}{Puh, mein Delirium wird ja immer schlimmer. Jetzt reden schon Leute aus Metall mit mir.}
@@ -110,7 +111,7 @@
 {352}{}{Nur ein paar Chips, dann bin ich dein Sklave... Gib mir aber zuerst Jet.}
 {353}{}{Ich bin dein Sklave, wenn du mir ein bisschen Jet gibst.}
 {354}{}{Du kannst mich, für ein bisschen Jet, in die Sklaverei verkaufen.}
-{355}{}{Nein Mann, ich hab nichts mehr. Äh... wieso? Hast du was?}
+{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {360}{}{Bist du der Kämpfer? Haste paar Chips, die ich leihen kann?}
 {361}{}{Komm schon nur ein paar Chips.}
 {362}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
@@ -121,7 +122,7 @@
 {367}{}{Ich brauche ein paar Chips um mir Essen zu kaufen...}
 {368}{}{Ich bin dein Sklave, wenn du mir ein bisschen Jet gibst.}
 {369}{}{Du kannst mich, für ein bisschen Jet, in die Sklaverei verkaufen.}
-{370}{}{Nein Mann, ich hab nichts mehr. Äh... wieso? Hast du was?}
+{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {371}{}{Du bist ein Mitglied der }
 {372}{}{Kann ich mir ein paar Chips leihen...? Komm schon, mir kann man vertrauen.}
 {373}{}{Ich arbeite für Jet...}
@@ -130,7 +131,7 @@
 {382}{}{Brauchst du jemanden mit dem du high werden kannst?}
 {383}{}{Dad?}
 {384}{}{Ich muss *fliegen*, weißt du was ich meine?}
-{385}{}{Nein Mann, ich hab nichts mehr. Äh... wieso? Hast du was?}
+{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {386}{}{Psssscht. Kannst du mir was Jet besorgen?}
 {387}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
 {388}{}{Ich arbeite für Jet...}
@@ -148,7 +149,7 @@
 {400}{}{kommen Sie Miss, geben sie mir ein paar Chips.}
 {401}{}{He, äh... haste 'n bisschen Jet, Miss?}
 {402}{}{Ich muss *fliegen*, weißt du was ich meine?}
-{403}{}{Nein Schwester, ich hab nichts mehr. Äh... wieso? Hast du was?}
+{403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{Mom?}
 {420}{}{He, Typ? Kannste mir fliegen helfen?}
 {421}{}{Och Mensch, nur 'n paar Chips.}
@@ -157,7 +158,7 @@
 {424}{}{Ich tue alles für ein paar Chips oder etwas Jet, wenn du was davon hast.}
 {425}{}{Ich sollte hier Schönheitskönigin in Reno sein. Ich habs noch immer drauf...}
 {426}{}{Brauchst du jemanden mit dem du high werden kannst?}
-{427}{}{Nein Mann, ich hab nichts mehr. Äh... wieso? Hast du was?}
+{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {428}{}{Dad?}
 {429}{}{Psssscht. Kannst du mir was Jet besorgen?}
 {430}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
@@ -174,7 +175,7 @@
 {441}{}{Ich tue alles... wenn du etwas Jet für mich hast.}
 {442}{}{He, äh... haste 'n bisschen Jet, Schwester?}
 {443}{}{Schwester, ich muss FLIEGEN, kapiert?}
-{444}{}{Nee, Schwester, ich bin clean. Äh... wieso denn? Willste was kaufen?}
+{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{Mom?}
 {450}{}{Heilige...! Was bist du? Eine Art von Ro-bot?}
 {451}{}{Was zum Teufel hast du genommen, dass du jetzt aus Metall bist?}
@@ -205,7 +206,7 @@
 {483}{}{Jagged Jimmys Stoff ist der Beste. du wirst so high du kommst gar nicht wieder runter.}
 {484}{}{Du redest mit mir? Du redest mit mir?!}
 {485}{}{Willst du hiervon was?! Na?}
-{486}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
+{486}{}{::Glares at you past drug-hazed eyes::}
 {487}{}{Willste mit mir fliegen?}
 {488}{}{Hey, Champ, wasiss los?!}
 {489}{}{Willst du mit mir boxen? Na los komm doch!}
@@ -223,7 +224,7 @@
 {510}{}{Du redest mit mir? Du redest mit mir?!}
 {511}{}{Willste dich mit mir anlegen, Gangster? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG!}
 {512}{}{willst du was davon Gangster?! Häh?}
-{513}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
+{513}{}{::Glares at you past drug-hazed eyes::}
 {520}{}{Puhh... wo bist DU denn drauf? Kann ich was abhaben?}
 {521}{}{Und ich hab gedacht, *ich* wär fertig.}
 {522}{}{Hey, Freund... teilst du dein Zeug mit mir.}
@@ -236,7 +237,7 @@
 {533}{}{Ich habe mich auch mal wie ein Roboter gefühlt... sag ihm er wird wieder ok, wenn er erstmal von seinem Tripp runter ist.}
 {534}{}{Was zum Henker ist mit deinem Freund mit dem Gehirn passiert, hat er seinen Körper verloren?}
 {535}{}{Sag mir, dass das Robogehirn nicht echt ist. Bitte.}
-{536}{}{Sieh dir mal das Robohirn an. So was hab ich noch nie auf Drogen gesehen.}
+{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
 {537}{}{Willst du mit mir fliegen? Wie stehts mit deinem Robo-freund?}
 {538}{}{Willste dich mit mir anlegen, Robo-lover? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG und dann deinen Roboter!}
 {539}{}{Willst du was davon robot-lover?! Häh?}
@@ -247,7 +248,7 @@
 {544}{}{Wenn du für Renesco arbeitest, sag ihm er bekommt sein Geld morgen.}
 {545}{}{Jagged Jimmys Stoff ist der Beste. du wirst so high du kommst gar nicht wieder runter.}
 {546}{}{Du redest mit mir? Du redest mit mir?!}
-{547}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
+{547}{}{::Glares at you past drug-hazed eyes::}
 {548}{}{Schau jetzt nicht hin, Mann, aber da folgt dir ein Mutant.}
 {549}{}{Oh Mann. Ich muss was Schlechtes genommen haben... Hier rennen ja überall Mutanten herum.}
 {550}{}{Ich bin so high, oder ist dein Freund wirklich über 2 Meter groß?}
@@ -277,7 +278,7 @@
 {575}{}{Du redest mit mir? Du redest mit mir?!}
 {576}{}{Willste dich mit mir anlegen, Typ? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG!}
 {577}{}{Willst du hiervon was?! Na?}
-{578}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
+{578}{}{::Glares at you past drug-hazed eyes::}
 {600}{}{Nett...}
 {601}{}{Mmmm...}
 {602}{}{Du bist ein echter Freund.}

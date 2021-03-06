@@ -41,7 +41,7 @@
  Ese Jet ya no me agrada.}
 {135}{}{¿Qué puede hacer Madame por ti?}
 {136}{}{¿Qué haces aquí, Madame Modjeska?}
-{137}{}{Parece como si un montón de gente de por aquí fueran adictos. ¿Qué está pasando últimamente en la ciudad?}
+{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
 {138}{}{¿Has oído algún rumor interesante?}
 {139}{}{¿Por qué te llaman Madame Modjeska?}
 {140}{}{¿Qué es lo que te pasa?}

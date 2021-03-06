@@ -77,7 +77,7 @@
 {3900}{}{Cella a Micro-Fusione}
 {3901}{}{Un'unita' di produzione d'energia di medie dimensioni. Centrale a fusione autonoma.}
 {4000}{}{Stimpak}
-{4001}{}{A healing chem. When injected, the chem provides immediate healing of minor wounds.}
+{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
 {4100}{}{Soldi}
 {4101}{}{Valuta corrente nel mondo delle Lande.}
 {4200}{}{Frigo}
@@ -103,7 +103,7 @@
 {5200}{}{Contatore Geiger}
 {5201}{}{Un contatore Geiger Wattz Electronics modello C-Radz. Rileva la presenza e l'intensita' di campi di radioattivita'.}
 {5300}{}{Mentat}
-{5301}{}{A pillbox of mind-altering chems. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{Stealth Boy}
 {5401}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
 {5500}{}{Water Chip}
@@ -179,7 +179,7 @@
 {9000}{}{Zaino}
 {9001}{}{Uno zaino normale, con cinghie rimovibili.}
 {9100}{}{Borsa del Dottore}
-{9101}{}{This brown bag contains instruments and chems used by doctors in the application of their trade.}
+{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
 {9200}{}{Coda di Scorpione}
 {9201}{}{La coda recisa di un radscorpione.}
 {9300}{}{Borsa}
@@ -215,7 +215,7 @@
 {10800}{}{Ossa}
 {10801}{}{Un insieme di strane ossa.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation chems to be taken before exposure. No known side effects.}
+{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psichiatra}
 {11001}{}{Una fiala monodose riempita con strane sostanze chimiche di probabile origine militare. Dovrebbe aumentare il potenziale in combattimento di un soldato.}
 {11100}{}{.44 magnum FMJ}
@@ -795,7 +795,7 @@
 {40800}{}{Kit Medico per Pronto Soccorso da Campo}
 {40801}{}{Un piccolo kit base contenente l'equipaggiamento medico d'emergenza. Bende, fasce, spray antisettico, e altro.}
 {40900}{}{Borsa da Paramedico}
-{40901}{}{This bag contains instruments and chems used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
 {41000}{}{Set da Scassinatore Provetto}
 {41001}{}{Un set di attrezzi da scassinatore. Include tutte le forcine e chiavi a tensione necessarie per aprire serrature e lucchetti convenzionali. Questo set contiene anche degli attrezzi speciali adatti per i meccanismi meccanici di lucchetti piu' elaborati.}
 {41100}{}{Grimaldello Elettronico Ver.II}
@@ -917,7 +917,7 @@
 {46901}{}{Delle due l'una: o e' un liquore molto forte, oppure e' detersivo concentrato.}
 {47000}{}{Apribocca a Palla}
 {47001}{}{Un discutibile attrezzo sessuale. Se stai per fare una domanda, fidati, NON vuoi sapere la risposta.}
-{47100}{}{Il Fiore di Lavanda}
+{47100}{}{"Il Fiore di Lavanda"}
 {47101}{}{Sembra essere una specie di romanzo, scritto da Dorothy Rixon. La copertina rappresenta una donna stesa su un letto circondata da centinaia di fiori.}
 {47200}{}{Olodisco sugli Hubologisti}
 {47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}

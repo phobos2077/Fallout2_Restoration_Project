@@ -120,7 +120,8 @@
 {455}{}{Bueno… corre el rumor de que no sale mucho. Me pareció oír algo acerca de un problema de corazón, así que no se deja ver demasiado. (Suelta una risotada). O eso, o no le gusta el sol.}
 {456}{}{Hmmmm. Tenía algunas otras preguntas acerca de Westin…}
 {457}{}{Problemas de corazón, ¿eh? ¿Tiene un doctor? ¿Toma alguna medicación para ello?}
-{465}{}{(Sonríe). Me gusta cómo piensas, tribal… bien, no sé si toma alguna medicina para su corazón, pero sé que debería ser cuidadoso con lo que DEBERÍA tomarse, joder.}
+{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
+ to be pretty damn careful about which ones he DID take with that heart o' his.}
 {475}{}{(Frunce el ceño). Es un ganadero de brahmines. Un pastor de animales. ¿Y?}
 {476}{}{De acuerdo entonces. Tenía algunas otras preguntas acerca de Westin…}
 {477}{}{No, es algo MÁS. O de lo contrario no estaríamos teniendo esta conversación.}

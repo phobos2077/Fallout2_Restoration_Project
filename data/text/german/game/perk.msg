@@ -120,7 +120,7 @@
 {220}{}{Alkoholsucht}
 {221}{}{Raucher}
 {1101}{}{Mit Bewusstsein bekommst du genaue Informationen über jede Kreatur, die du untersuchst. Du siehst ihre genauen Trefferpunkte sowie Angaben zu allen Waffen, die sie bei sich trägt.}
-{1102}{}{Du hast die geheimen Künste des Ostens erlernt oder du schlägst einfach nur schneller. Auf jeden Fall kosten deine Nahkampfangriffe 1 AP weniger.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
 {1103}{}{Erfahrung im Kampf ohne Waffen verleiht dir einen Vorteil bei Verletzungen. Für jede Stufe dieses Bonus verursachst Du +2 Trefferpunkte bei Nahkampfangriffen }
 {1104}{}{Für jede Stufe der Bonus-Bewegung erhältst du pro Zug 2 APs umsonst, die nur für Bewegung eingesetzt werden können. Für jede Stufe dieses Bonus kannst du dich also bei jedem Zug um zwei Felder umsonst bewegen.}
 {1105}{}{Deine Ausbildung an Feuerwaffen und anderen Distanz- waffen hat dich zu einem tödlichen Waffenkämpfer gemacht. Für jede Stufe dieses Bonus fügst du +2 Trefferpunkte mit Distanzwaffen zu.}
@@ -161,7 +161,7 @@
 {1140}{}{Dein Ruf ist immer positiv. Ohne diesen Bonus hätte ein negativer Ruf eine schlechte Wirkung auf gutmütige Menschen. Das funktioniert auch umgekehrt. Selbst bösartige Leute behandeln ein wahres Engelchen jetzt wie ein Gangmitglied.}
 {1141}{}{Du findest mehr Munition als andere Überlebende des postatomaren Horrorszenarios. Mit diesem Bonus verdoppelt sich die Munitionsmenge, die du zufällig findest.}
 {1142}{}{Ein Forscher entdeckt neue und interessante Orte. Mit diesem Bonus hast du eine bessere Chance, besonders interessante Orte und Menschen zu finden.}
-{1143}{}{Mit diesem Bonus verringert sich die Wahrscheinlichkeit von Präparaten abhängig zu werden um 50%, und du musst nur die Hälfte der normalen Entzugszeit durchmachen.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{Der Pfadfinder hat es einfacher, den kürzesten Weg zu finden. Mit diesem Bonus verringert sich deine Reisezeit auf der Weltkarte um 25 % pro Stufe.}
 {1145}{}{Tiere greifen keine Freunde an, außer das Tier wird zuerst angegriffen oder bedroht. Was genau in dieser Welt als Tier gilt, ist Definitionssache.}
 {1146}{}{Du hast deine Fähigkeit verbessert, weit entfernte Örtlichkeiten zu sehen, womit die Größe der Entdeckungen auf der Weltkarte um ein Quadrat in jeder Richtung ausgeweitet wird. Es erhöht sich auch deine Chance, besondere Begegnungen zu machen.}

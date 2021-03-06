@@ -136,7 +136,7 @@
 {501}{}{Well, I USEDTA get it from ol' Myron, before he got all uppity and left the business... ain't that right, Myron? Ha!
  Now I mostly peddle run-o-the-mill Mordino shit.}
 {502}{}{Interesting. I had some other questions...}
-{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of chem n' compounds,
+{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
  MYRON.}
 {511}{}{Myron?}
 {512}{}{Interesting. Say, I had some other questions...}

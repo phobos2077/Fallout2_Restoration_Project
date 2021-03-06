@@ -145,12 +145,12 @@
 {244}{}{Értem. Köszönöm az információt.}
 {245}{}{És mi az? Bármit is mond, nagy segítség lehet.}
 {246}{}{Mit tudsz mondani Reddingrõl?}
-{247}{}{I found that a large part of Redding is addicted to a chem called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
+{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Dr. Troy elõállította a Jet ellenszerét.}
 {249}{}{Eljuttattam az ellenszert Reddingbe.}
 {250}{}{What is this "Jet" that they are all addicted to?}
 {251}{}{Amint újabb részleteket is megtudok, ismertetni fogom magával.}
-{252}{}{It's a chem with a 100% addiction rate, and severe withdrawals.}
+{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Kérem, tegyen meg mindent!}
 {254}{}{Kérdezhetek valami mást?}
 {255}{}{Hogyne.}

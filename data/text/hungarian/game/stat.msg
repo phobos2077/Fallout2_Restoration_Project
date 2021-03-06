@@ -67,7 +67,7 @@
 {228}{}{Sebzésellenállás: Elektromos}
 {229}{}{Sebzésellenállás: EMP}
 {230}{}{Sebzésellenállás: Robbanó}
-{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation chems.}
+{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
 {232}{}{Csökkenti a mérgek sebzését.}
 {233}{}{Kor}
 {234}{}{Nem}

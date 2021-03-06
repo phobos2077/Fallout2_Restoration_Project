@@ -40,7 +40,7 @@
  Ich habe festgestellt, dass ich Jet nicht mehr vertrage.}
 {135}{}{Was kann die Madame für dich tun?}
 {136}{}{Was tust du hier, Madame Modjeska?}
-{137}{}{Sieht so aus, als ob eine Menge Leute hier auf Jet sind. Was ist denn in der Stadt in letzter Zeit so passiert?}
+{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
 {138}{}{Hast du irgendwelche interessanten Gerüchte gehört?}
 {139}{}{Warum nennen sie dich Madame Modjeska?}
 {140}{}{Was ist mit dir los?}

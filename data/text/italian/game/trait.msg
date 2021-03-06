@@ -9,8 +9,8 @@
 {108}{}{Caos di Sangue}
 {109}{}{Iettatore}
 {110}{}{Pacifista}
-{111}{}{Chem Reliant}
-{112}{}{Chem Resistant}
+{111}{}{Drug Reliant}
+{112}{}{Drug Resistant}
 {113}{}{Sex Appeal}
 {114}{}{Abile}
 {115}{}{Dotato}
@@ -25,8 +25,8 @@
 {208}{}{Per uno strano scherzo del destino, la gente intorno a te muore violentemente. Vedi sempre il modo peggiore in cui una persona puo' morire.}
 {209}{}{La cosa positiva e' che tutti intorno a te subiscono un maggior numero di fallimenti critici, la cosa negativa e' che lo stesso succede a te!}
 {210}{}{Crescendo, hai migliorato le tua abilita' non legate alla lotta. Le tue abilita' di lotta partono da un livello piu' basso, ma Pronto Soccorso, Dottore, Dialogare e Barattare sono aumentate sostanzialmente.}
-{211}{}{You are more easily influenced by chems.  Your chance to be reliant by chem use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Chems only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
+{211}{}{You are more easily influenced by drugs.  Your chance to be reliant by drug use is twice normal, but you recover faster from their ill effects.}
+{212}{}{Drugs only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
 {213}{}{Sei dotato di quel "qualcosa" in piu'. I membri dell'altro sesso sono attratti da te, ma quelli del tuo stesso sesso tendono a diventare gelosi.}
 {214}{}{Hai speso piu' tempo a migliorare le tue abilita' rispetto agli altri e quindi guadagni +5 punti abilita' per livello. Il rovescio della medaglia e' che non guadagni altrettante abilita' extra. Guadagni una Strenna ogni 4 livelli.}
 {215}{}{Hai piu' capacita' innate rispetto alla norma, e percio' hai speso poco tempo ad affinare le tue abilita'. Le tue caratteristiche primarie hanno +1 ciascuna, ma hai -10% in tutte le abilita', e ricevi 5 punti abilita' in meno per livello.}

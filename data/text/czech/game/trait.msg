@@ -9,8 +9,8 @@
 {108}{}{Krvák}
 {109}{}{Poznamenaný}
 {110}{}{Dobrák}
-{111}{}{Narkoman}
-{112}{}{Abstinent}
+{111}{}{Drug Reliant}
+{112}{}{Drug Resistant}
 {113}{}{Pøitažlivý}
 {114}{}{Zkušený}
 {115}{}{Talentovaný}
@@ -25,8 +25,8 @@
 {208}{}{Nìjakým podivným øízením osudu lidé kolem tebe umírají násilnì. Vždy uvidíš ten nejhorší možný zpùsob smrti.}
 {209}{}{Ta dobrá zpráva je, že všem okolo tebe v boji èastìji nìco selže. Ta špatná zpráva je, že se to stává i tobì!}
 {210}{}{Bìhem svého života ses zamìøoval pøedevším na studium nebojových dovedností. Se svými bojovými dovednostmi zaèínáš na nižším stupni, ale První Pomoc, Léèení, Øeè a Obchodování jsou podstatnì vylepšeny.}
-{211}{}{Snadnìji se stáváš závislým na chemikáliích. Tvoje šance stát se závislým jsou dvojnásobné, ale na druhé stranì se podstatnì rychleji zotavuješ z jejich vedlejších úèinkù.}
-{212}{}{Chemikálie na tvou postavu pùsobí sice jen polovièní dobu než obvykle, ale tvá šance stát se na nich závislým je rovnìž o 50% menší oproti ostatním lidem.}
+{211}{}{You are more easily influenced by drugs.  Your chance to be reliant by drug use is twice normal, but you recover faster from their ill effects.}
+{212}{}{Drugs only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
 {213}{}{Máš pøesnì to pravé "vybavení". Pro opaèné pohlaví jsi velmi pøitažlivá osoba, ale pøíslušníci stejného pohlaví mívají tendenci ponìkud žárlit.}
 {214}{}{Protože jsi vìnoval zlepšování svých dovedností víc èasu než ostatní, obdržíš za každou novou úroveò 5 dovednostních bodù navíc. Výmìnou za to získáš perk jen jednou za ètyøi úrovnì.}
 {215}{}{Máš více vrozených schopností než ostatní. Všechny tvé základní vlastnosti budou navýšeny o 1 bod, ale do zaèátku ztratíš 10% ze všech dovedností a pøi postupu na další úroveò obdržíš o 5 dovednostních bodù ménì.}

@@ -120,7 +120,7 @@
 {220}{}{Nie anonimowy alkoholik}
 {221}{}{Palacz}
 {1101}{}{£atwiej ci dostrzegaæ szczegó³y dotycz¹ce innych osób. Dziêki temu, poprzez obserwacjê uzyskujesz bardziej dok³adne informacje na ich temat, ³¹cznie z liczb¹ punktów wytrzyma³oœci i u¿ywan¹ broni¹.}
-{1102}{}{Znasz sekretne sztuki walki Wschodu lub po prostu szybciej wymachujesz rêkami. Tak czy owak, ataki, których dokonujesz w trakcie walki wrêcz, kosztuj¹ ciê o 1 pkt. akcji mniej.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
 {1103}{}{Doœwiadczenie w walce wrêcz pozwala ci uzyskaæ w niej przewagê. Za ka¿dy poziom tego profitu stopieñ obra¿eñ zadawanych w trakcie walki bezpoœredniej roœnie o 2 pkt.}
 {1104}{}{Za ka¿dy poziom Szybkich stóp, co turê walki otrzymujesz 2 punkty akcji, przeznaczone wy³¹cznie na ruch. Innymi s³owy, za ka¿dy poziom tego profitu, w ka¿dej turze walki mo¿esz za darmo przemieœciæ siê o 2 pola.}
 {1105}{}{Praktyka w u¿ywaniu broni palnej sprawia, ¿e wyró¿niasz siê œmierteln¹ skutecznoœci¹. Za ka¿dy poziom tego profitu wyrz¹dzasz o 2 pkt. obra¿eñ wiêcej, gdy u¿ywasz broni do walki na dystans.}
@@ -161,7 +161,7 @@
 {1140}{}{Twoja reputacja jawi siê zawsze pozytywnie. Zazwyczaj z³a reputacja dzia³a niekorzystnie na osoby o dobrym usposobieniu i przeciwnie, opinia dobroczyñcy zamknê³aby ci drzwi do serc szefów gangów. Z tym profitem robisz co chcesz, wszyscy i tak ciê polubi¹.}
 {1141}{}{Potrafisz znaleŸæ wiêcej amunicji ni¿ przeciêtny, ocala³y z atomowej zag³ady nieszczêœnik. Ten profit podwaja iloœæ amunicji znajdowan¹ przez ciebie w trakcie przypadkowych spotkañ.}
 {1142}{}{Misj¹ odkrywcy jest znajdywanie nowych, ciekawych miejsc. Z tym profitem rosn¹ twoje szanse na napotkanie szczególnie interesuj¹cych obiektów i osób.}
-{1143}{}{Dziêki temu profitowi ryzyko, ¿e uzale¿nisz siê od œrodków chemicznych jest o wiele ni¿sze (œciœle mówi¹c, o 50%), równie¿ czas trwania twojego odwyku jest o po³owê krótszy ni¿ w przypadku normalnego æpuna.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{Pionier z ³atwoœci¹ wynajduje najkrótsze trasy. Dziêki temu przeciêtny czas twoich wêdrówek po mapie œwiata zmniejsza siê o 25% na ka¿dy poziom tego profitu.}
 {1145}{}{Zwierzêta nie wystêpuj¹ przeciw swoim przyjacio³om, chyba ¿e s¹ przez nich zagro¿one lub atakowane. Co dok³adnie jest zwierzêciem w tym œwiecie, pozostaje kwesti¹ otwart¹.}
 {1146}{}{£atwo dostrzegasz odleg³e miejsca, dziêki czemu wêdruj¹c po mapie œwiata odkrywasz o jeden sektor w ka¿dym kierunku wiêcej. Zwiêkszaj¹ siê tak¿e twoje szanse na specjalne spotkanie.}

@@ -299,7 +299,8 @@
 {771}{}{[Tiše vylézt z postele a obléknout se]}
 {780}{}{Jediná 'láska' mezi námi dvìma je, když vleze do mé ložnice a nalehne na mì jako ožralá brahmína. A to je možná jeho nejménì opovrženíhodná vlastnost, když se zamyslím nad tím, èím se zabývá.}
 {781}{}{Èím se zabývá?}
-{790}{}{Nejspíš chce být také souèastí obchodu s drogami v New California Republic. Chce zmanipulovat volby tam dole na jihuuu... *zív*}
+{790}{}{He also probably wants a say in who controls the drug trade in the new California
+ Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{Takže on vlastnì chce, aby se Reno PØIDALO k Republice... hmmmm. Dobøe, bavme se o nìèem jiném...}
 {792}{}{Zajímavé. Zajímaly by mì i ostatní Johnovy kšefty...}
 {800}{}{Drogy jsou ve Vault City pochopitelnì nelegální. Ostatní Obèané na to pøišli a zrušili mé Obèanství. John byl jediný, na koho jsem se mohla obrátit... a on to samozøejmì vìdìl. Celé si to naplánoval.}

@@ -63,7 +63,7 @@
 {305}{}{Okos dolog, hogy egy követ fújsz a Mordinókkal. Nekünk van jövõnk.}
 {306}{}{Nem kell egy kis Jet? Én el tudlak látni, chica.}
 {307}{}{Chica, nincs olyan dolog, amit ne tennék meg érted... gyere már ide! Aggggy egy csókot!}
-{308}{}{Kell egy kis drog? Pia? Pénzmag? Tudok segíteni. Vannak kapcsolataim.}
+{308}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
 {315}{}{Ne hadonássz itt a fegyvereddel, barátom! Rakd el gyorsan!}
 {320}{}{Ne osongass itt, hajcsár, oké? Itt barátok közt vagy!}
 {325}{}{Te ott! Megsüketültél vagy mi a szar? Rakd el azt a vackot, mert bántani foglak!}

@@ -130,7 +130,7 @@
  exert himself much. (Snorts.) Either that, or he doesn't like the sun.}
 {456}{}{Hmmmm. I had some other questions about Westin...}
 {457}{}{Heart trouble, huh? Does he have a doctor? Does he take any medication for it?}
-{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any chems for his heart, but I know he'd have
+{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
  to be pretty damn careful about which ones he DID take with that heart o' his.}
 {475}{}{(Frowns.) He's a brahmin rancher. An animal herder. So?}
 {476}{}{All right then. I had some other questions about Westin...}

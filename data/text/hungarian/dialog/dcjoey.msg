@@ -108,10 +108,10 @@
 {255}{}{Oké, megveszem.}
 {256}{}{Ne is törõdj vele! Viszlát!}
 {257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new chem! Nothing can beat Jet!}
+ with another new drug! Nothing can beat Jet!}
 {258}{}{Nem, te hülye.}
 {259}{}{Nem, ez egy lakóhely. Kérdezhetek valami mást?}
-{260}{}{Yes, a wonderful chem.}
+{260}{}{Yes, a wonderful drug.}
 {261}{}{Nem, viszlát!}
 {262}{}{Joey nem egy kimondottan társalgós típus.}
 {300}{}{Valószínûleg nem. Viszlát!}

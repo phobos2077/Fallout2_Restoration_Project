@@ -47,7 +47,7 @@
 {320}{}{Eu vi caravanas de Vault City entrar e, em seguida, alguns deles são apanhados pelas caravanas de New Reno.}
 {321}{}{Então? Por que isso faz sentido?}
 {322}{}{Oh.}
-{340}{}{O novo Reno é a capital dos químicos por aqui. Eles têm que obter as matérias-primas para fazer seus chems de algum lugar, certo? Parece que eles estão recebendo algum, ou tudo isso, de Vault City.}
+{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Onde está o Novo Reno?}
 {342}{}{Ok, obrigado.}
 {350}{}{Não tenho certeza exatamente. Algum lugar para o sul, eu acho. Eu nunca estive lá, eu só vejo suas caravanas parar de vez em quando - uma vez em um longo tempo.}

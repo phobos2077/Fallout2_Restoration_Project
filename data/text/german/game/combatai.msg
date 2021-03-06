@@ -2770,7 +2770,7 @@
 {40964}{}{Deine Schießkunst ist 'n Witz. Meine Treffer sind tödlich.}
 {40965}{}{Um mich unterzukriegen, musst du schon früher aufstehen...}
 {40966}{}{Bist anscheinend blöd UND blind.}
-{40967}{}{Hast mich um ein paar %-Punkte verfehlt.}
+{40967}{}{Missed me by a few percentage points.}
 {40968}{}{Hast wohl Augen aus Beton, du Mistkerl.}
 {40969}{}{Jetzt ist Schluss mit den Zielübungen. Der nächste Schuss trifft deinem Kopf.}
 {40970}{}{Verdammt, ich bin ein Dinosaurier und hau trotzdem noch härter zu als du.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Systemversagen!}
 {44437}{}{Energieversorgung instabil. Aktiviere Notenergie...}
 {44438}{}{Rumpfintegrität beeinträchtigt. Hauptschaltkreise freigelegt.}
-{44439}{}{Energieregler beschädigt Leistungskapazität jetzt bei 75%.}
+{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
 {44460}{}{Rechter Motivator getroffen. Minimaler Schaden.}
 {44461}{}{Rechtes Fahrwerk dejustiert.}
 {44462}{}{Rechtes Antriebsrad beschädigt.}

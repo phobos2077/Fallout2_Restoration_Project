@@ -45,7 +45,7 @@
 {320}{}{Widzia³am karawany przybywaj¹ce tu z Kryptopolis. Czêœæ towaru trafia potem do Nowego Reno.}
 {321}{}{No i? Co w tym takiego?}
 {322}{}{Aaa!}
-{340}{}{Nowe Reno to lokalna fabryka prochów. Przecie¿ musz¹ sk¹dœ braæ pó³produkty, prawda? No i wygl¹da na to, ¿e czêœæ lub ca³oœæ dostaj¹ z Kryptopolis.}
+{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Gdzie le¿y to Nowe Reno?}
 {342}{}{Dobra, dziêki.}
 {350}{}{Nie jestem pewna. Chyba gdzieœ na po³udnie. Nigdy tam nie by³am. Ich karawany zagl¹daj¹ do Nory tylko sporadycznie.}

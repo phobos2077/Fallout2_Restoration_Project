@@ -45,7 +45,7 @@
 {320}{}{Ho visto alcune carovane provenienti da Vault City scaricare quelle casse, che vengono poi prelevate da altre carovane arrivate qui da New Reno.}
 {321}{}{E allora? Perche' dici che tutto ha un senso?}
 {322}{}{Oh.}
-{340}{}{New Reno is the chem capital around here. They have to get the raw materials to make their chems from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
+{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Dove si trova New Reno?}
 {342}{}{Okay, grazie.}
 {350}{}{Non lo so con esattezza. Da qualche parte a sud, credo. Non ci sono mai stata, ho solo visto le loro carovane fermarsi qui una volta, parecchio tempo fa.}

@@ -299,7 +299,8 @@
 {771}{}{Tu sors du lit en silence et tu te rhabilles.}
 {780}{}{Le seul *amour* entre nous se produit lorsqu'il entre de force dans ma chambre et qu'il me monte comme une Brahmine ivre. C'est peut-être son défaut le moins criant, quand on pense à ses autres préoccupations.}
 {781}{}{Ses autres préoccupations ?}
-{790}{}{Il veut sûrement avoir son mot à dire pour la nomination d'un nouveau responsable du trafic de stimulants en République de Nouvelle Californie... à savoir, lui. Il cherche à truquer les élections dans le suuud... [Elle baille.]}
+{790}{}{He also probably wants a say in who controls the drug trade in the new California
+ Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{Il veut donc que Reno *rejoigne* la République... Hum. Bien, parlons d'autre chose.}
 {792}{}{Intéressant. Je voudrais en savoir plus sur ce que John manigance.}
 {800}{}{Le Jet est illégal à la Cité de l'Abri. Les autres citoyens ont découvert que j'en prenais et ils ont révoqué ma citoyenneté. Je n'avais plus que John vers qui me tourner, et il le savait, il avait tout prévu.}

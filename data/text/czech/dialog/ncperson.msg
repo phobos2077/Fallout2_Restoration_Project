@@ -298,7 +298,7 @@
 {608}{}{Tohle mìsto je skvìlý... až na ty turisty.}
 {609}{}{Tohle mìsto je skvìlý... až na ty otrokáøe.}
 {610}{}{Tohle mìsto je skvìlý... až na ty pasáky a dìvky.}
-{611}{}{Na sever od New Rena prý testujou drogy na otrocích.}
+{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{Golgota je v poušti, na jih od New Rena.}
 {613}{}{Možná mám málo penìz, ale moje osobnost to vynahrazuje.}
 {614}{}{Nejsem chudej, jenom jsem mìl poslední dobou pech.}
@@ -338,7 +338,7 @@
 {659}{}{Tohle mìsto je skvìlý... až na ty turisty.}
 {660}{}{Tohle mìsto je skvìlý... až na ty otrokáøe.}
 {661}{}{Tohle mìsto je skvìlý... až na ty pasáky a dìvky.}
-{662}{}{Na sever od New Rena prý testujou drogy na otrocích.}
+{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {663}{}{Golgota je v poušti, na jih od New Rena.}
 {664}{}{Možná mám málo penìz, ale moje osobnost to vynahrazuje.}
 {665}{}{Nejsem chudej, jenom jsem mìl poslední dobou pech.}
@@ -377,7 +377,7 @@
 {700}{}{Dneska veèer si poøádnì užiju!}
 {701}{}{Najdi si dìvku a dej mi pokoj.}
 {702}{}{Paní Bishopová má parádní zadek.}
-{703}{}{Na sever od New Rena prý testujou drogy na otrocích.}
+{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {704}{}{Golgota je v poušti, na jih od New Rena.}
 {705}{}{Možná mám málo penìz, ale moje osobnost to vynahrazuje.}
 {706}{}{Nejsem chudej, jenom jsem mìl poslední dobou pech.}

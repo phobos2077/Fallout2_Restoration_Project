@@ -77,7 +77,7 @@
 {3900}{}{Células MF}
 {3901}{}{Una unidad de producción de energía de tamaño medio. Con reactor de fusión autónomo.}
 {4000}{}{Estimulante}
-{4001}{}{Un producto químico curativo. Cuando se inyecta, la sustancia química cura inmediatamente heridas menores.}
+{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
 {4100}{}{Dinero}
 {4101}{}{Moneda de curso legal en el Yermo.}
 {4200}{}{Refrigerador}
@@ -103,7 +103,7 @@
 {5200}{}{Contador Geiger}
 {5201}{}{Un modelo C-Radz de contador Geiger, de Wattz Electronics. Detecta la presencia y la intensidad de los campos radiactivos.}
 {5300}{}{Mentats}
-{5301}{}{Una caja de píldoras que alteran la mente. Incrementa las funciones relacionadas con la memoria, y la velocidad de otros procesos mentales. Altamente adictiva.}
+{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{Sigilante}
 {5401}{}{Un dispositivo personal de sigilo Stealth Boy 3001, de RobCo. Genera un campo modulado que transmite la luz reflejada de la cara de un objeto sobre otra.}
 {5500}{}{Chip de agua}
@@ -179,7 +179,7 @@
 {9000}{}{Mochila}
 {9001}{}{Una mochila sencilla, con correas opcionales.}
 {9100}{}{Maletín de Médico}
-{9101}{}{Esta bolsa marrón contiene instrumentos y productos químicos que usan los médicos en el ejercicio de su profesión.}
+{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
 {9200}{}{Cola de escorpión}
 {9201}{}{La cola cortada de un escorpión rad.}
 {9300}{}{Maleta}
@@ -215,7 +215,7 @@
 {10800}{}{Huesos}
 {10801}{}{Una colección de extraños huesos.}
 {10900}{}{Rad-X}
-{10901}{}{Producto químico anti-radiación que debe tomarse antes de la exposición. No tiene efectos secundarios conocidos.}
+{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psico}
 {11001}{}{Un elemento especial lleno de extraños y desconocidos componentes químicos de probable origen militar. Se supone que incrementa el potencial de combate de un soldado.}
 {11100}{}{.44 mágnum CM}
@@ -795,7 +795,7 @@
 {40800}{}{Kit de primeros auxilios de campo}
 {40801}{}{Un pequeño kit que contiene equipamiento médico básico. Vendas, gasas, spray antiséptico, y más.}
 {40900}{}{Mochila de paramédico}
-{40901}{}{Esta mochila contiene instrumentos y sustancias químicas usadas por paramédicos en el campo de batalla. Las herramientas que contiene están específicamente diseñadas para traumas grandes y casos de emergencia.}
+{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
 {41000}{}{Set de ganzúas expandido}
 {41001}{}{Un juego de herramientas de cerrajero. Incluye todo lo necesario para abrir cerraduras. Este juego también incluye herramientas especiales para desbloquear los mecanismos más difíciles.}
 {41100}{}{Ganzúa electrónica MKII}

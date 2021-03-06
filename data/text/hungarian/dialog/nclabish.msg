@@ -300,7 +300,7 @@
 {771}{}{Csendben kicsusszansz az ágyból és felöltözöl.}
 {780}{}{Neki a szerelmeskedés annyiból állt, hogy betört a hálószobámba, és meghágott, mint egy részeg brahmin. És ez még az enyhébbik hiányosságai közé tartozik a többihez képest.}
 {781}{}{Miért, mik a többi hiányosságai?}
-{790}{}{He also probably wants a say in who controls the chem trade in the new California
+{790}{}{He also probably wants a say in who controls the drug trade in the new California
  Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{Szóval gyakorlatilag azt szeretné, ha Reno CSATLAKOZNA a Köztársasághoz... hmmmmm. Oké. Beszéljünk most valami másról...}
 {792}{}{Érdekes. Megtudhatnék még egy s mást, miben mesterkedett John?}

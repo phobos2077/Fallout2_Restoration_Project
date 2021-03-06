@@ -221,7 +221,7 @@
 {758}{}{-Ignoralo e allontanati-}
 {759}{}{Calma. Oggi non ho voglia di recitare, okay? Tornero' un'altra volta, quando ti sarai calmato.}
 {760}{}{Andate al diavolo. Non mi servono queste stronzate. Io sono una stella! Una grande, luminosa, brillante stella!}
-{765}{}{Hey... you all right? You seem a little out of it. You ain't on chems, are you? Cause I AIN'T gonna shoot you like this.}
+{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
 {766}{}{Me vuole fare film ORA, piccola persona.}
 {768}{}{Tu non sei il mio capo! Io voglio fottere, il cazzo e' mio, quindi preparatevi tutti a girare questo cazzo di film. ADESSO!}
 {769}{}{Tu non sei il mio capo! Io voglio fottere, la figa e' mia, quindi preparatevi tutti a girare questo cazzo di film. ADESSO!}

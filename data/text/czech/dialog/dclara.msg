@@ -45,7 +45,7 @@
 {320}{}{Vidìli jsme pøijíždìt karavany z Vault City a pak nìco pøekládali do karavan z New Reno.}
 {321}{}{A dál? Jaký to dává smysl?}
 {322}{}{Aha.}
-{340}{}{New Reno je hlavní drogové mìsto. Odnìkud musí získávat materiál, ze kterého dìlají drogy a léky, jasný? Vypadá to, že èást nebo možná všechno berou z Vault City.}
+{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Kde je New Reno?}
 {342}{}{Dobøe, díky.}
 {350}{}{Nevím to pøesnì. Myslím, že nìkde na jihu. Nikdy jsem tam nebyla, jenom jsem si všimla, jak se tu jednou za èas zastaví karavany pro zásoby... jednou za dlouhou dobu.}

@@ -108,10 +108,10 @@
 {255}{}{OK, lo prendo.}
 {256}{}{Nulla. Arrivederci.}
 {257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new chem! Nothing can beat Jet!}
+ with another new drug! Nothing can beat Jet!}
 {258}{}{No, imbecille.}
 {259}{}{No, e' un posto. Posso chiederti qualcos'altro?}
-{260}{}{Yes, a wonderful chem.}
+{260}{}{Yes, a wonderful drug.}
 {261}{}{No, addio.}
 {262}{}{Joey non e' una persona molto loquace.}
 {300}{}{Probabilmente no. Ci vediamo.}

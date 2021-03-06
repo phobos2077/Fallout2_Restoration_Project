@@ -298,7 +298,7 @@
 {608}{}{Diese Stadt ist spitze... abgesehen von den Touristen.}
 {609}{}{Hör zu, ich hab jetzt gerade keine Zeit, mit dir zu reden.}
 {610}{}{Verkaufste mir die Frau von dir?}
-{611}{}{Wie ich höre, testen sie das Zeug an Sklaven nördlich von New Reno.}
+{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{Golgotha liegt südlich von Reno, in der Wüste.}
 {613}{}{Vielleicht bin ich arm, aber nicht im Geiste.}
 {614}{}{Ich bin nicht arm, ich hab nur Pech.}
@@ -338,7 +338,7 @@
 {659}{}{Diese Stadt ist spitze... abgesehen von den Touristen.}
 {660}{}{Hör zu, ich hab jetzt gerade keine Zeit, mit dir zu reden.}
 {661}{}{Verkaufste mir die Frau von dir?}
-{662}{}{Wie ich höre, testen sie das Zeug an Sklaven nördlich von New Reno.}
+{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {663}{}{Golgotha liegt südlich von Reno, in der Wüste.}
 {664}{}{Vielleicht bin ich arm, aber nicht im Geiste.}
 {665}{}{Ich bin nicht arm, ich hab nur Pech.}
@@ -377,7 +377,7 @@
 {700}{}{Heute nacht gibt's Action!}
 {701}{}{Ich muss raus aus dieser Stadt.}
 {702}{}{Hör zu, ich hab jetzt gerade keine Zeit, mit dir zu reden.}
-{703}{}{Wie ich höre, testen sie das Zeug an Sklaven nördlich von New Reno.}
+{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {704}{}{Golgotha liegt südlich von Reno, in der Wüste.}
 {705}{}{Vielleicht bin ich arm, aber nicht im Geiste.}
 {706}{}{Ich bin nicht arm, ich hab nur Pech.}

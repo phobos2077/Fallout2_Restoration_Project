@@ -122,7 +122,8 @@
 {500}{}{Zwykle bra³em swój towar od samego boga, Myrona, tylko widzisz, on wzi¹³ i odszed³... albo dosta³ w czapê. Teraz najczêœciej roznoszê towar, który dostajê prosto od Rodziny Mordino. }
 {501}{}{Wiesz, KIEDYŒ bra³em towar od starego Myrona, zanim zacz¹³ zadzieraæ nosa i odszed³ z bran¿y... no nie Myron? Ha! Teraz g³ównie roznoszê to gówno od Mordino.}
 {502}{}{Ciekawe. Mam jeszcze kilka pytañ...}
-{510}{}{Ja, ja mam powi¹zania z TWÓRC¥, mój pilocie. Dostajê Jet prosto od mózga, od wcielonego boga twórców chemikaliów, MYRONA.}
+{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
+ MYRON.}
 {511}{}{Myrona?}
 {512}{}{Interesting. Say, I had some other questions...}
 {513}{}{Myrona, tak? Czy mo¿na spotkaæ siê z tym... wcielonym bogiem?}

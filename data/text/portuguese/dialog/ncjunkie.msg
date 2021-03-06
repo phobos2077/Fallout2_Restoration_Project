@@ -90,7 +90,7 @@
 {295}{}{Next time you kick the Enclave's ass, come get me first, and we'll do it TOGETHER.}
 {296}{}{Kick ASS, }
 {297}{}{I know you saved the world, but it's us minor NPCs that have to deal with the consequences.}
-{298}{}{You should play the game again as a chem-based character. Really! Take the Chem Reliant Trait!
+{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
  I LOVE that one.}
 {299}{}{Thanks for saving us. I'd kiss you if I didn't have puke breath.}
 {300}{}{I could have defeated the Enclave myself if I'd taken enough Jet.}
@@ -99,7 +99,7 @@
  my Jet addiction.}
 {303}{}{Let's take some Jet together and celebrate your victory. You're buying.}
 {304}{}{Once you delete this game from your hard drive, will we exist?}
-{305}{}{Uh... what kind of chem testing was the Enclave doing? Was there free Jet?}
+{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
 {320}{}{How do you go to the bathroom with that thing on?}
 {321}{}{Uh... are you talking ta me?}
 {322}{}{Oh man, these DTs must be getting worse. Now metallic people are talking to me.}
@@ -114,7 +114,7 @@
 {352}{}{Just a few chips, and I'll be your slave... just let me go get some Jet first.}
 {353}{}{I'll be your slave, if you can give me some Jet.}
 {354}{}{You can sell me into slavery if you give me some Jet.}
-{355}{}{No, man, I'm off chems. Uh... why? You buying?}
+{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {360}{}{You th'fighter? You got some chips I ken borrow?}
 {361}{}{C'mon, gimme just a few chips.}
 {362}{}{Ken I borrow some cash? Look, I'll pay ya back.}
@@ -125,7 +125,7 @@
 {367}{}{I just need a few chips to buy some food...}
 {368}{}{I'll be your slave, if you can give me some Jet.}
 {369}{}{You can sell me into slavery if you give me some Jet.}
-{370}{}{No, man, I'm off chems. Uh... why? You buying?}
+{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {371}{}{You a member of the }
 {372}{}{Can I borrow a few chips...? C'mon, I'm good for it.}
 {373}{}{I'll work for Jet...}
@@ -134,7 +134,7 @@
 {382}{}{You need someone to get high with, man?}
 {383}{}{Dad?}
 {384}{}{Man, I need to *fly,* know what I'm saying?}
-{385}{}{No, man, I'm off chems. Uh... why? You buying?}
+{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {386}{}{Psssst. Can you set up with some Jet?}
 {387}{}{Can I borrow a few chips...? I'll pay you back.}
 {388}{}{I'll work for Jet...}
@@ -152,7 +152,7 @@
 {400}{}{C'mon, miss, gimme just a few chips.}
 {401}{}{Hey, uh... you got any Jet, miss?}
 {402}{}{Look, I need to *fly,* know what I'm saying?}
-{403}{}{No, I'm off chems. Uh... why? You buying?}
+{403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{Mãe?}
 {420}{}{Hey, brother? Can you help me fly?}
 {421}{}{C'mon, boy, gimme just a few chips.}
@@ -161,7 +161,7 @@
 {424}{}{I'll do anything you want for some chips... or Jet, if you got it.}
 {425}{}{I used to be the beauty queen here in Reno. I still got it...}
 {426}{}{You need someone to get high with, man?}
-{427}{}{No, man, I'm off chems. Uh... why? You buying?}
+{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {428}{}{Dad?}
 {429}{}{Psssst. Can you set up with some Jet?}
 {430}{}{Can I borrow a few chips...? I'll pay you back.}
@@ -178,7 +178,7 @@
 {441}{}{I can please you... if you got some Jet for me.}
 {442}{}{Hey, uh... you got any Jet, sister?}
 {443}{}{Sister, I need to *fly,* know what I'm saying?}
-{444}{}{No, sister, I'm off chems. Uh... why? You buying?}
+{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{Mãe?}
 {450}{}{Holy...! What are you? Some kind of row-bot?}
 {451}{}{What the hell were you taking to get covered in metal like that?}
@@ -210,7 +210,7 @@
 {483}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
 {484}{}{You talkin' to me? You talkin' to me?!}
 {485}{}{You want some of this?! Huh?}
-{486}{}{::Glares at you past chem-hazed eyes::}
+{486}{}{::Glares at you past drug-hazed eyes::}
 {487}{}{You wanna fly with me?}
 {488}{}{Hey, champ, wazzup?!}
 {489}{}{You gonna box wi' me? Huh? C'mon!}
@@ -228,7 +228,7 @@
 {510}{}{You talkin' to me? You talkin' to me?!}
 {511}{}{You messin' with me, mafia tool? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
 {512}{}{You want some of this, gangster?! Huh?}
-{513}{}{::Glares at you past chem-hazed eyes::}
+{513}{}{::Glares at you past drug-hazed eyes::}
 {520}{}{Whoa... what are YOU on? Got any to share?}
 {521}{}{I thought *I* was fucked up.}
 {522}{}{Hey, friend... share some of that shit you're on.}
@@ -243,7 +243,7 @@
  from his high.}
 {534}{}{What the hell happened to your friend with the brain? He lose his body?}
 {535}{}{TELL me that robot brain thing isn't real. Please.}
-{536}{}{Whoa. Check out the robot brain. There's your brain on chems if I've ever seen it.}
+{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
 {537}{}{You wanna fly with me? How about your robot friend?}
 {538}{}{You messin' with me, robot lover? I'm a Jet-pumped powerhouse! I'll kick YOUR ass
  and then your robot's ass!}
@@ -255,7 +255,7 @@
 {544}{}{You see Renesco, tell him I'll give him the money tomorrow.}
 {545}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
 {546}{}{You talkin' to me? You talkin' to me?!}
-{547}{}{::Glares at you past chem-hazed eyes::}
+{547}{}{::Glares at you past drug-hazed eyes::}
 {548}{}{Man, don't look now, but you got this mutant following you.}
 {549}{}{Whoa. I must be taking some baaad shit... I'm seeing mutants running around.}
 {550}{}{Am I high, or is your friend two-stories tall?}
@@ -286,7 +286,7 @@
 {575}{}{You talkin' to me? You talkin' to me?!}
 {576}{}{You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
 {577}{}{You want some of this?! Huh?}
-{578}{}{::Glares at you past chem-hazed eyes::}
+{578}{}{::Glares at you past drug-hazed eyes::}
 {600}{}{Nice...}
 {601}{}{Mmmm...}
 {602}{}{Você é um amigo.}

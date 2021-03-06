@@ -22,7 +22,8 @@
 {170}{}{Miss hier mal den Puls. Wenn sich der Wert immer noch in Grenzen hält, erhöhen wir die Dosis.}
 {171}{}{Warum hat sich die Sklavin in der Kontrollgruppe umgebracht? Wir haben sie doch gar nicht getestet!}
 {200}{}{Die Tests verlaufen ganz nach Plan, Myron.}
-{201}{}{Myron, diese neue Jet-Art stellt ein extremes Verlangen her. Die Sklaven bringen sich deswegen schon fast gegenseitig um.}
+{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
+ willing to kill each other for it.}
 {202}{}{Die Sklaven würden lieber Jet nehmen als zu essen, so wirksam ist es.}
 {203}{}{Wer sind diese Leute da, Myron? Neue Testpersonen?}
 {204}{}{Myron, die dritte Testgruppe macht offensichtlich die besten Fortschritte von allen.}
@@ -32,7 +33,7 @@
 {208}{}{Myron, na endlich! Weiß man inzwischen, wann die neuen Sklaven geliefert werden?}
 {209}{}{Myron, wir haben wegen der Atmungsaussetzungen von letzter Woche drei Sklaven aus der Kontrollgruppe in die Testgruppe verlegt.}
 {210}{}{Myron...wir mussten einen Sklaven erschießen, weil er fliehen wollte. Was für eine Verschwendung.}
-{211}{}{Myron, das neuentwickelte milde Halluzinogen ist sehr vielversprechend, stellt aber nicht so einen Drang her wie Jet...}
+{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
 {212}{}{Wenn du irgendwelche Vorschläge hast, schreib sie bitte auf ein Stück Papier und wirf es dann gleich in den Papierkorb da drüben.}
 {213}{}{Ja, ja, was?}
 {214}{}{Wie sollen wir denn Ergebnisse produzieren, wenn du uns ständig störst?}

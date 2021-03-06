@@ -107,7 +107,9 @@
 {206}{}{Je tiens ça de McClure à la Cité de l'Abri.}
 {207}{}{Une simple rumeur, c'est tout.}
 {208}{}{Ce n'est pas vraiment important. Je peux te demander autre chose ?}
-{209}{}{New Reno vend du Jet assez bon marché. Le Jet entraîne un besoin constant, rien de comparable à ce que tu as déjà pu voir. Ils pensent que si un nombre suffisant de personnes l'utilisent dans un endroit donné, elles feront n'importe quoi pour en avoir plus. Ils auraient ainsi de facto le contrôle d'une zone, Redding par exemple.}
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
+ They figure that if they get enough people in an area using it, those people will do anything to get
+ more. That gives them de facto control of an area - like Redding.}
 {210}{}{Je vois. Puis-je te demander autre chose, Doc ?}
 {211}{}{Donc si tu ne veux pas que New Reno contrôle Redding, qui devrait faire la loi ici ?}
 {212}{}{Merci pour ces explications, Doc. Au revoir.}
@@ -132,7 +134,9 @@
 {231}{}{C'est n'importe quoi. La Cité de l'Abri accorde des privilèges spéciaux à ses citoyens, mais uniquement parce qu'ils sont plus aptes à profiter de ces choses que ces rustres de non-citoyens. En outre, n'importe qui peut demander la citoyenneté de la Cité de l'Abri à condition de réussir les tests.}
 {232}{}{Je ne sais pas comment les gens de Redding réagiraient à la domination de la Cité de l'Abri.}
 {233}{}{Ouais, sans doute. Salut, Doc.}
-{234}{}{Je remplis les ampoules avec du Jet et je les distribue uniquement pour rendre service aux habitants de Redding. J'en tire aucun bénéfice. Si je ne le faisais pas, un charlatan préparerait ça avec du matériel rouillé, plein de germes. Et après ça, je ne pourrais plus les soigner.}
+{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
+ Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{T'es vraiment un chic type, Doc. C'est chouette. Puis-je te demander autre chose ?}
 {236}{}{Très *noble* de ta part, Docteur.}
 {237}{}{C'est intéressant. A plus tard, Doc. Au revoir.}

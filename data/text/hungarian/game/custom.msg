@@ -3,7 +3,7 @@
 {2}{}{Fegyverhasználat}
 {3}{}{Távolság}
 {4}{}{Kit támadjon}
-{5}{}{Droghasználat}
+{5}{}{Drug Use}
 {10}{}{[Kész]}
 {11}{}{Mégse}
 {99}{}{Nem lehetséges.}

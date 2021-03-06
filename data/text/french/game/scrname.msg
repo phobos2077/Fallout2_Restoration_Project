@@ -416,7 +416,7 @@
 {516}{}{Three Card Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Garde du corps}
+{519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
 {521}{}{Machine de casino}
 {522}{}{Garçon boucher}
@@ -559,7 +559,7 @@
 {659}{}{Carte de l'entrée secrète de l'Abri 15}
 {660}{}{Elizabeth}
 {661}{}{Porte}
-{662}{}{Griffemort}
+{662}{}{ Griffemort}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
@@ -822,7 +822,7 @@
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
-{925}{}{Armurier}
+{925}{}{Mai Da Chiang}
 {926}{}{Porte}
 {927}{}{Porte}
 {928}{}{Emetteur}
@@ -889,7 +889,7 @@
 {989}{}{Stock de Darrow}
 {990}{}{Porte}
 {991}{}{Super Méga Mutant}
-{992}{}{Chimiste}
+{992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Gosse}
 {995}{}{Scanner de rétine}
@@ -1310,7 +1310,7 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Enfant}
-{1413}{}{Griffemort}
+{1413}{}{ Griffemort}
 {1414}{}{Soeur Elaine}
 {1415}{}{Tombe}
 {1416}{}{Tombe}

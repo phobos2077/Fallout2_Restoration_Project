@@ -164,13 +164,12 @@
 {244}{}{Alles klar. Besten Dank für die Auskunft.}
 {245}{}{Was ist es? Alles, was Du mir erzählen kannst, wäre eine große Hilfe.}
 {246}{}{Was kannst du mir über Redding erzählen?}
-{247}{}{Ich habe herausgefunden, dass ein großer Teil von Redding mit einem Präparat namens Jet zu tun hat. Die Bergmänner
- verkaufen das meiste Erz nach New Reno, nur um versorgt zu bleiben.}
+{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Dr. Troy hat ein Gegenmittel gegen Jet entwickelt.}
 {249}{}{Ich habe das Gegenmittel nach Redding geliefert.}
 {250}{}{Was ist dieses "Jet", von dem sie alle nicht genug bekommen können?}
 {251}{}{Das werde ich Dir später erzählen, wenn ich mehr herausgefunden habe.}
-{252}{}{Es ist ein Präparat von dem du nicht genung bekommen kannst.}
+{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Bitte halte mich auf dem Laufenden.}
 {254}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {255}{}{Sicher.}

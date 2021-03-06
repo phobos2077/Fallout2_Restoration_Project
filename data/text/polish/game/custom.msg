@@ -3,7 +3,7 @@
 {2}{}{Broñ}
 {3}{}{Dystans}
 {4}{}{Cel Ataku}
-{5}{}{Chemia}
+{5}{}{Drug Use}
 {10}{}{GOTOWE}
 {11}{}{Anuluj}
 {99}{}{Nie dotyczy}

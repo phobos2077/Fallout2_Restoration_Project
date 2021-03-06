@@ -22,7 +22,8 @@
 {170}{}{Vérifie son pouls. S'il est encore dans des limites tolérables, augmente la dose.}
 {171}{}{Pourquoi l'esclave du groupe témoin s'est-elle suicidée ? On ne s'est même pas servi d'elle pour faire des expériences !}
 {200}{}{Les tests se déroulent comme prévu, Myron.}
-{201}{}{Chef, ce nouveau lot de Jet crée une forte dépendance. Les esclaves sont presque prêts à s'entre-tuer pour en avoir.}
+{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
+ willing to kill each other for it.}
 {202}{}{Les esclaves préfèrent prendre du Jet plutôt que se nourrir.}
 {203}{}{Qui sont ces gens Myron ? De nouveaux sujets ?}
 {204}{}{Chef, Myron, il semble que le troisième groupe soit le meilleur de tous.}
@@ -32,7 +33,7 @@
 {208}{}{Myron, enfin ! On a des nouvelles du prochain arrivage d'esclaves, chef ?}
 {209}{}{Chef, Myron, nous avons déplacé 3 esclaves du groupe témoin vers le groupe d'essai à cause des problèmes respiratoires de la semaine dernière.}
 {210}{}{Chef, Myron, nous avons dû abattre un esclave qui tentait de s'échapper. Quel gâchis.}
-{211}{}{Myron, ton nouvel hallucinogène léger est prometteur, mais il n'a pas l'avantage du besoin permanent que le Jet entraîne.}
+{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
 {212}{}{Si tu as des suggestions, mets-les par écrit, et jette le papier directement dans la corbeille là-bas.}
 {213}{}{Oui, oui, quoi ?}
 {214}{}{On arrivera à rien si tu nous interromps tout le temps.}

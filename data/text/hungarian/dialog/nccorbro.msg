@@ -222,7 +222,7 @@
 {758}{}{Rá se hederítesz, és elmész}
 {759}{}{Nyugalom! Ma egyszerûen nincs kedvem, oké? Fenébe, majd visszajövök, ha lenyugodtál!}
 {760}{}{Csesszétek meg! Ez a brahminszar nekem nem kell! Én sztár vagyok! Egy igazi Sztár!}
-{765}{}{Hey... you all right? You seem a little out of it. You ain't on chems, are you? Cause I AIN'T gonna shoot you like this.}
+{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
 {766}{}{Én akar filmez MOST kicsike ember}
 {768}{}{Te nem vagy a fõnököm! Baszni akarok, és az én nagy farkam a lényeg, szóval most mindenki szépen nekiáll kibaszottul filmezni!!!}
 {769}{}{Te nem vagy a fõnököm! Baszni akarok, és az én nagy lukam a lényeg, szóval most mindenki szépen nekiáll kibaszottul filmezni!!!}

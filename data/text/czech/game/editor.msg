@@ -197,12 +197,12 @@
 {1102}{}{Tvé èiny z tebe udìlaly v oèích lidí šampióna. Tvùj boj se zlem a hanebností je všeobecnì známı. Èestní lidé si tì váí a uznávají tì.}
 {1103}{}{Co ti k tomu mám øíct? Zabíjíš nevinné a neozbrojené dìti. Chceš opravdu slyšet, co si o tobì myslíme?}
 {1104}{}{Umíš si dùkladnì vychutnat Nuka Colu, nealko nápoj postnukleárního svìta. Moná a moc dùkladnì. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
-{1105}{}{Jsi závislı na chemikálii zvané Buffout. Musíš ho pravidelnì brát, jinak pocítíš nepøíjemné následky abstinenèních pøíznakù. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
-{1106}{}{Stal ses závislım na pilulkách Mentats. Musíš je pravidelnì brát, jinak pocítíš nepøíjemné následky abstinenèních pøíznakù. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
-{1107}{}{Jsi feák. Pokud pravidelnì nebereš svoje Psycho, trpíš. Pokud ano, trpí ostatní. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
+{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
+{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Máš menší problém s alkoholem. No, vlastnì je to spíš vìtší problém. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
-{1110}{}{Jsi závislı na droze zvané Jet. Musíš ho pravidelnì brát, jinak pocítíš nepøíjemné následky abstinenèních pøíznakù. Pokud se chceš závislosti zbavit, pomùe ti jen protilátka. Abstinence v tomto pøípadì nepomùe.}
+{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Bohuel, u je to tak. Jsi závislı na karetní høe "Tragic the Garnering". Cítíš neustálé nutkání shánìt nové a nové sady karet.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Víš o sexu všechno. Obzvláš pøedehra je tvou silnou stránkou. Víš, jak potìšit pøíslušníka opaèného pohlaví a vzbudit v nìm touhu si to s tebou zopakovat.}

@@ -120,7 +120,7 @@
 {220}{}{Dépendance à l'alcool}
 {221}{}{Fumeur}
 {1101}{}{Grâce à l'Intuition, tu recevras des informations détaillées sur toutes les créatures que tu examineras. Tu peux ainsi connaître leur nombre exact de points d'impact et obtenir des informations sur leurs armes.}
-{1102}{}{Soit tu as appris les secrets des arts martiaux, soit tu cognes plus vite que tout le monde. Dans les deux cas, chaque attaque en Rixe (CàC ou Mêlée) te coûte 1 PA de moins.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
 {1103}{}{Ton expérience du Corps à Corps fait de toi un adversaire redoutable. A chaque niveau de cette aptitude, tes attaques au Corps à Corps ou en Mêlée infligent +2 points de dégâts à ton adversaire.}
 {1104}{}{A chaque niveau de cette aptitude, tu reçois 2 PA gratuits à chaque tour, uniquement utilisables pour te déplacer. Autrement dit, tu peux te déplacer de deux cases gratuitement pour chaque niveau de cette aptitude.}
 {1105}{}{Ton expérience des armes à feu et des autres armes à distance te rend redoutable. A chaque niveau de cette aptitude, tu infliges +2 points de dégâts avec des armes à distance.}
@@ -161,7 +161,7 @@
 {1140}{}{Ta réputation est toujours positive. Sans cette aptitude, une mauvaise réputation aurait des effets négatifs sur les personnes bienveillantes. Même chose pour une bonne réputation face à des personnes malveillantes.}
 {1141}{}{Tu peux trouver plus de munitions que n'importe quel survivant de la Grande Guerre. Cette aptitude double la quantité de munitions que tu trouveras au cours des rencontres aléatoires.}
 {1142}{}{L'objectif de l'explorateur est de trouver de nouveaux sites intéressants. Avec cette aptitude, tu as plus de chances de découvrir des lieux ou des gens sortant de l'ordinaire.}
-{1143}{}{Avec cette aptitude, tu as deux fois moins de chances de devenir accro aux stimulants et leurs effets secondaires durent deux fois moins longtemps que sur une personne normale.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{Un Pionnier est plus apte que quiconque à trouver le chemin le plus court. A chaque niveau de cette aptitude, le temps qu'il te faut pour voyager sur la Carte du Monde est réduit de 25%.}
 {1145}{}{Les animaux n'attaquent jamais leurs amis à moins d'être menacés ou attaqués. Quant à la définition du mot animal dans ce monde, le débat est ouvert.}
 {1146}{}{Tu as amélioré ta capacité repérer des endroits éloignés, ce qui augmente la taille de tes explorations sur la carte du monde d'un carré dans chaque direction. Tu as aussi plus de chances de faire des rencontres spéciales.}

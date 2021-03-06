@@ -122,7 +122,8 @@
 {500}{}{Avant, je me fournissais auprès du dieu lui-même, Myron, mais il est parti... ou s'est fait avoir. Maintenant, c'est les Mordino qui m'approvisionnent.}
 {501}{}{Je me FOURNISSAIS auprès de Myron, et puis il a joué les grands seigneurs et il a quitté le marché... Pas vrai, Myron ? Ha ! Maintenant, je prends le matos ordinaire que vendent les Mordino.}
 {502}{}{Intéressant. J'avais d'autres questions...}
-{510}{}{J'ai des liens avec le CREATEUR, camarade pilote. C'est le cerveau, le dieu vivant des composants chimiques qui me fournit, MYRON lui-même.}
+{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
+ MYRON.}
 {511}{}{Myron ?}
 {512}{}{Interesting. Say, I had some other questions...}
 {513}{}{Myron ? Et où puis-je voir ce... dieu vivant ?}

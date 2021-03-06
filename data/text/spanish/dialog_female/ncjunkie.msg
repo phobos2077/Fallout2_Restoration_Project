@@ -90,8 +90,8 @@
 {295}{}{La próxima vez que patees los culos del Enclave, ven a buscarme primero, y lo haremos JUNTOS.}
 {296}{}{Patea unos cuantos CULOS, }
 {297}{}{Sé que tú salvaste al mundo, pero somos los NPCs sin importancia los que afrontamos las consecuencias.}
-{298}{}{Deberías jugar de nuevo con un personaje que usa drogas. ¡De verdad! ¡Elije el rasgo Adicto a las Drogas!
- Ese ME ENCANTA.}
+{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
+ I LOVE that one.}
 {299}{}{Gracias por salvarnos. Te besaría si no tuviera un aliento vomitivo.}
 {300}{}{Yo podría haber derrotado al Enclave si hubiera tomado suficiente Jet.}
 {301}{}{[Canta] "We don't need another hero, we don't need to know the way home…"}
@@ -99,7 +99,7 @@
  mi adicción al Jet.}
 {303}{}{Tomemos juntos algo de Jet para celebrar tu victoria. Tú lo compras.}
 {304}{}{Una vez borres este juego de tu disco duro, ¿existiré?}
-{305}{}{Eh… ¿qué clase de pruebas de drogas hacían en el Enclave? ¿Con Jet gratis?}
+{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
 {320}{}{¿Cómo haces para usar la letrina con eso puesto?}
 {321}{}{Eh… ¿me estás hablando a mí?}
 {322}{}{Oh, colega, esto se pone cada vez peor. Ahora la gente metálica me habla.}
@@ -114,7 +114,7 @@
 {352}{}{Unas pocas fichas, y seré tu esclavo… primero consígueme un poco de Jet.}
 {353}{}{Seré tu esclava si puedes darme algo de Jet.}
 {354}{}{Puedes venderme como esclava si me das algo de Jet.}
-{355}{}{No, amigo, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {360}{}{¿Eres la luchadora? ¿Me puedes prestar algunas fichas?}
 {361}{}{Venga, dame sólo unas pocas fichas.}
 {362}{}{¿Puedes prestarme algo de dinero? Mira, te las devolveré.}
@@ -125,7 +125,7 @@
 {367}{}{Sólo necesito unas pocas fichas para comprar algo de comida…}
 {368}{}{Seré tu esclava si puedes darme algo de Jet.}
 {369}{}{Puedes venderme como esclava si me das algo de Jet.}
-{370}{}{No, amigo, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {371}{}{¿Eres miembro de la Familia }
 {372}{}{¿Puedes prestarme unas pocas fichas…? Venga, me vendrán bien.}
 {373}{}{Trabajaría por Jet…}
@@ -134,7 +134,7 @@
 {382}{}{¿Necesitas a alguien con quien colocarte, amiga?}
 {383}{}{¿Papá?}
 {384}{}{Amiga, necesito *volar,* ¿sabes a lo que me refiero?}
-{385}{}{No, amigo, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {386}{}{Psssst. ¿Puedes pasarme algo de Jet?}
 {387}{}{¿Puedes prestarme unas fichas…? Te las devolveré.}
 {388}{}{Trabajaría por Jet…}
@@ -152,7 +152,7 @@
 {400}{}{Vamos, señorita, dame sólo unas pocas fichas.}
 {401}{}{Oye, eh… ¿tienes algo de Jet, señorita?}
 {402}{}{Mira, necesito *volar*, ¿entiendes lo que digo?}
-{403}{}{No, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{¿Mamá?}
 {420}{}{¿Hola, hermana? ¿Puedes ayudarme a volar?}
 {421}{}{Vamos, chica, dame sólo unas pocas fichas.}
@@ -161,7 +161,7 @@
 {424}{}{Te haré todo lo que quieras por unas pocas fichas… o Jet, si tienes.}
 {425}{}{Solía ser la reina de la belleza de Reno. Aún me queda algo…}
 {426}{}{¿Necesitas a alguien con quien colocarte, amiga?}
-{427}{}{No, amigo, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {428}{}{¿Papá?}
 {429}{}{Psssst. ¿Puedes pasarme algo de Jet?}
 {430}{}{¿Puedes prestarme unas fichas…? Te las devolveré.}
@@ -178,7 +178,7 @@
 {441}{}{Puedo complacerte… si tienes algo de Jet para mí.}
 {442}{}{Oye, eh… ¿tienes algo de Jet, hermana?}
 {443}{}{Hermana, necesito *volar*, ¿entiendes lo que digo?}
-{444}{}{No, hermana, no tengo drogas. Eh… ¿por qué? ¿Tú vendes?}
+{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{¿Mamá?}
 {450}{}{¡La madre que me...! ¿Qué eres tú? ¿Alguna clase de robot?}
 {451}{}{¿En dónde demonios te metiste para terminar cubierto de metal?}
@@ -209,7 +209,7 @@
 {483}{}{La mierda de Jeta Jimmy es lo MEJOR. Te hace subir taaaanto, que NUNCA bajarás.}
 {484}{}{¿Me estás hablando a mí? ¡¿Me estás hablando a mí?!}
 {485}{}{¡¿Quieres algo de esto?! ¿Eh?}
-{486}{}{::Te mira con ojos confusos a causa de las drogas::}
+{486}{}{::Glares at you past drug-hazed eyes::}
 {487}{}{¿Quieres volar conmigo?}
 {488}{}{Hey, campeona, ¿cómo lo llevas?}
 {489}{}{¿Vas a boxear conmigo? ¿Eh? ¡Vamos!}
@@ -227,7 +227,7 @@
 {510}{}{¿Me estás hablando a mí? ¡¿Me estás hablando a mí?!}
 {511}{}{¿Intentas tocarme las narices, matona de la mafia? ¡Soy un poderoso chorro de Jet! ¡Te patearé el CULO!}
 {512}{}{¡¿Quieres algo de esto, gángster?! ¿Eh?}
-{513}{}{::Te mira con ojos confusos a causa de las drogas::}
+{513}{}{::Glares at you past drug-hazed eyes::}
 {520}{}{Eh, eh… ¿de qué vas tú? ¿tienes algo para compartir?}
 {521}{}{Pensaba que *yo* estaba jodido.}
 {522}{}{Oye, amigo… pasa algo de esa mierda que tienes.}
@@ -241,7 +241,7 @@
 {533}{}{Ya me he sentido como tu amigo robot antes… dile que estará bien una vez baje de donde está.}
 {534}{}{¿Qué demonios le ocurrió a tu amigo el del cerebro? ¿Perdió su cuerpo?}
 {535}{}{DIME que ese cerebro robot no es real. Por favor.}
-{536}{}{Hey. Mira a ese cerebro robot. Que me aspen si eso no es un cerebro drogadicto.}
+{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
 {537}{}{¿Quieres volar conmigo? ¿Y tu amigo robot?}
 {538}{}{¿Intentas tocarme las narices, amante de los robots? ¡Soy un poderoso chorro de Jet! ¡Te patearé el CULO
  y después el culo de tu robot!}
@@ -253,7 +253,7 @@
 {544}{}{Si ves a Renesco, dile que le daré su dinero mañana.}
 {545}{}{La mierda de Jeta Jimmy es lo MEJOR. Te hace subir taaaanto, que NUNCA bajarás.}
 {546}{}{¿Me estás hablando a mí? ¡¿Me estás hablando a mí?!}
-{547}{}{::Te mira con ojos confusos a causa de las drogas::}
+{547}{}{::Glares at you past drug-hazed eyes::}
 {548}{}{Amigo, no mires ahora, pero un mutante te está siguiendo.}
 {549}{}{Vaaaya. Debo haber tomado una mierda muuuy mala… estoy viendo mutantes andando por ahí.}
 {550}{}{¿Estoy flotando muy arriba, o tu amigo mide dos pisos de altura?}
@@ -283,7 +283,7 @@
 {575}{}{¿Me estás hablando a mí? ¡¿Me estás hablando a mí?!}
 {576}{}{Intentas tocarme las narices? ¡Soy un poderoso chorro de Jet! ¡Te patearé el CULO!}
 {577}{}{¡¿Quieres algo de esto?! ¿Eh?}
-{578}{}{::Te mira con ojos confusos a causa de las drogas::}
+{578}{}{::Glares at you past drug-hazed eyes::}
 {600}{}{Maravilloso...}
 {601}{}{Mmmm...}
 {602}{}{Eres un amigo.}

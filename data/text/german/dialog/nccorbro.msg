@@ -222,7 +222,7 @@
 {758}{}{Ignorier ihn und verzieh dich}
 {759}{}{Beruhige dich. Ich will einfach heute nicht drehen, OK? Ts! Ich komm einfach später wieder, wenn du dich ein wenig beruhigt hast.}
 {760}{}{Ihr könnt mich doch mal. Ich brauche diesen Brahmin-Mist nicht. Ich bin ein Star! Ein heller, leuchtender Stern!}
-{765}{}{Hey...bist du OK? Du siehst mir ein bisschen durch den Wind aus. Du bist doch nicht auf Jet, oder? Weil ich dich so bestimmt NICHT aufnehmen werde.}
+{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
 {766}{}{Ich wollen filmen JETZT kleine Person}
 {768}{}{Du bist nicht mein Boss! Ich will jetzt filmen, das ist mein männlicher Impetus, also mach dich gefälligst fertig zum Filmen - JETZT.}
 {769}{}{Du bist nicht mein Boss! Ich will jetzt filmen, das ist mein weiblicher Impetus, also mach dich gefälligst fertig zum Filmen - JETZT.}

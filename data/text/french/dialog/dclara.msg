@@ -45,7 +45,7 @@
 {320}{}{J'ai vu des caravanes de la Cité de l'Abri rentrer et après une partie de la marchandise a été emportée par des caravanes de New Reno.}
 {321}{}{Comment ça, c'est clair ?}
 {322}{}{Oh !}
-{340}{}{New Reno c'est la capitale des stupéfiants. Il faut bien qu'ils trouvent la matière première quelque part. Il semblerait qu'une partie, ou la totalité, provienne de la Cité de l'Abri.}
+{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Où c'est New Reno ?}
 {342}{}{D'accord, merci.}
 {350}{}{Je ne sais pas exactement. Au Sud je crois. Je n'y suis jamais allée. Je vois seulement leurs caravanes s'arrêter par ici de temps en temps... mais ça fait un moment.}

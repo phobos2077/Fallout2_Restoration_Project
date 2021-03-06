@@ -238,7 +238,7 @@
 {758}{}{Lo ignoras y te alejas}
 {759}{}{Calma. Es sólo que no quiero rodar hoy, ¿vale? La leche. Volveré más tarde, cuando te hayas tranquilizado.}
 {760}{}{Que os jodan. No necesito esta mierda. ¡Soy una estrella! ¡Una gran y brillante estrella resplandeciente!}
-{765}{}{Hey... ¿estás bien? Pareces un poco descolocado. No has tomado drogas, ¿verdad? Porque NO voy a rodar contigo así.}
+{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
 {766}{}{Quiero yo rodar AHORA pequeña persona.}
 {768}{}{¡Tú no eres mi jefe! Quiero follar, ésta es mi enorme polla, así que quiero a todo el mundo preparado para rodar AHORA MISMO, joder.}
 {769}{}{¡Tú no eres mi jefe! Quiero follar, aquí está mi perfecto coño, así que quiero todo el mundo preparado para rodar AHORA MISMO, joder.}

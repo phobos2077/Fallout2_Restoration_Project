@@ -416,7 +416,7 @@
 {516}{}{Monte Trzy-Karty}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Ochroniarz}
+{519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
 {521}{}{Automat}
 {522}{}{Ch³opak ze Z³odziejskiej Dziupli}
@@ -559,7 +559,7 @@
 {659}{}{Mapa sekretnego wejœcia V15}
 {660}{}{Rebecca}
 {661}{}{drzwi}
-{662}{}{Szpon Œmierci}
+{662}{}{Szpon œmierci }
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
@@ -822,7 +822,7 @@
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
-{925}{}{Handlarz broni¹}
+{925}{}{Mai Da Chiang}
 {926}{}{drzwi}
 {927}{}{drzwi}
 {928}{}{Emiter}
@@ -889,7 +889,7 @@
 {989}{}{Zapasy Darrowa}
 {990}{}{drzwi}
 {991}{}{Super mutant}
-{992}{}{Chemik}
+{992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Dzieciak}
 {995}{}{skaner siatkówki}
@@ -1310,7 +1310,7 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Dziecko}
-{1413}{}{Szpon Œmierci}
+{1413}{}{Szpon œmierci }
 {1414}{}{Siostra Elaine}
 {1415}{}{Grób}
 {1416}{}{Grób}

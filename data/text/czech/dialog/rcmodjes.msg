@@ -35,7 +35,7 @@
 {134}{}{Jsem Madam Modjeska. Kdysi jsem mimo jiné brala Jet, ale teï už se jen míchám do vìcí. Zjistila jsem totiž, že už si s ním moc nerozumím.}
 {135}{}{Co pro tebe mùže Madam Modjeska udìlat?}
 {136}{}{Kde pracuješ, Madam Modjesko?}
-{137}{}{To vypadá, že vìtšina místních lidí jsou narkomani. Co se ve mìstì poslední dobou dìje?}
+{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
 {138}{}{Neslyšela jsi nìjaké zajímavé drby?}
 {139}{}{Proè ti øíkají Madam Modjeska?}
 {140}{}{Co je to s tebou?}

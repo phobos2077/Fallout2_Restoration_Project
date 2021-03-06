@@ -107,7 +107,7 @@
 {206}{}{Klar. Die nehm ich.}
 {207}{}{Und 'ne Brücke hast du bestimmt auch noch zu verkaufen.}
 {208}{}{Vielleicht später.}
-{209}{}{Ist das so eine Art Droge aus New Reno? Ich hab noch nie was davon gehört.}
+{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
 {210}{}{Is' nich'. Ich hab aber noch mehr Fragen.}
 {211}{}{Das ist alles, was ich wissen wollte.}
 {212}{}{Diese Schweine? Die sollen sich hier bloß nicht blicken lassen, sonst kriegen sie ein paar Löcher.}

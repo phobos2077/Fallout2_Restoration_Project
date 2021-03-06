@@ -111,10 +111,11 @@
 {254}{}{Vergiss es. Kann ich dich was fragen?}
 {255}{}{OK, ich kaufe es.}
 {256}{}{Macht nichts. Tschüss.}
-{257}{}{Vault...Vault...Vault 13? Nö, noch nie gehört. Erzähl mir bloß nicht, die ham schon wieder 'ne neue Droge erfunden! Jet ist unschlagbar!}
+{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
+ with another new drug! Nothing can beat Jet!}
 {258}{}{Nein, du Idiot!}
 {259}{}{Nein, es ist ein Ort. Kann ich dich was anderes fragen?}
-{260}{}{Ja, wunderbares Jet.}
+{260}{}{Yes, a wonderful drug.}
 {261}{}{Nein, Tschüss.}
 {262}{}{Joey ist nicht unbedingt das, was man redselig nennt.}
 {300}{}{Wahrscheinlich nicht. Tschüss.}

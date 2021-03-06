@@ -107,7 +107,7 @@
 {206}{}{Certo. La prendo.}
 {207}{}{E scommetto che hai anche il Colosseo, da vendermi.}
 {208}{}{Magari piu' tardi.}
-{209}{}{Is it some kind of chem out of New Reno? I've never heard of it.}
+{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
 {210}{}{No. Ho delle altre domande da farti, pero'.}
 {211}{}{E' tutto quello che mi serviva sapere.}
 {212}{}{Quei bastardi? Sara' meglio che se ne stiano lontani dalla mia proprieta' o li sforacchiero' per bene.}

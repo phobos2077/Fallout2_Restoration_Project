@@ -38,7 +38,9 @@
 {280}{}{Ani ne. Sorry e sem otravoval.}
 {290}{}{Ty neznáš rodinu Wrightovıch? Musels bıt v poušti pìknì dlouho. Wrightova rodina je nejvìtší kriminální rodina v Renu. Brzy budeme šéfovat celımu mìstu.}
 {291}{}{Opravdu? To zní, jako kdyby mìli všechny esa. Nabírají lidi?}
-{292}{}{Vlastnì mi pøijde, e jsou nejslabší rodina...tím myslím, e kšeftujou jenom s chlastem, nemají ani kasíno nebo fet, a dohromady jich je mnohem ménì ne v ostatních rodinách.}
+{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
+ only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
+ other families.}
 {293}{}{Kdy u mluvíme o rodinì, potkal jsem tvoji matku.}
 {294}{}{Mùeš mi øíct, co se stalo tvému bratrovi Richardovi?}
 {295}{}{Opravdu? To je zajímavé... poslyš, u musím jít.}
@@ -86,7 +88,8 @@
 {400}{}{Dost na to, aby to tady rozkopala. A pak by nám nadávala a nìkolik dní bysme museli poslouchat její kázání. Hehe.}
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Díky.}
-{410}{}{Rik? No víš, našli ho mrtvıho ve škarpì jako nìjakıho feáka. Myslíme si, e ho nìkdo napumpoval drogama, dokud neumøel.}
+{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
+ figure, someone pumped him with drugs until he was dead.}
 {411}{}{'Nìkdo' mu dal moc? Jak víte, e se nepøedávkoval sám?}
 {412}{}{Kdo myslíte, e to udìlal?}
 {413}{}{To je mi líto. Chci se ještì na nìco zeptat...}
@@ -118,7 +121,8 @@
 {486}{}{Hej, dámo, DÍKY.}
 {487}{}{Díky tobì víme, kdo zabil Rika a celá rodina Wrigtù ti za to dìkuje. A to nejsou ádnı malı díky, jasnı?}
 {488}{}{Rozumím. Uvidíme se pozdìji, Chrisi.}
-{495}{}{Jules na kraji mìsta taky prodává Jet, ale vìtšinou prodává jen turistùm...a pak je tady Malej Jeíš Mordino. Mohl do nìj nacpat drogy, kdy byl sám venku. Potuluje se kolem Desperáda.}
+{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
+ he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {496}{}{Rozumím. Poslyš, chci se zeptat...}
 {497}{}{Poøezanej Jimmy J, Renesco Rakeák, Jules a Malej Jeíš...podívám se na nì. Díky za informace, Chrisi.}
 {1200}{}{! Takhle se nakopává Enklávì prdel!}

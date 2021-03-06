@@ -39,7 +39,7 @@
 {290}{}{Non hai mai sentito parlare della Famiglia Wright? Devi aver passato troppo tempo nel deserto, allora. Gli Wright sono la piu' grossa famiglia criminale di Reno. Presto domineremo questa citta'.}
 {291}{}{Davvero? Sembra proprio che la famiglia Wright abbia tutte le carte in regola. Avete bisogno di un paio di braccia in piu'?}
 {292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or chem trade, and their numbers are much less than
+ only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
  other families.}
 {293}{}{A proposito di famiglia... ho conosciuto tua madre.}
 {294}{}{Puoi dirmi cos'e' successo a tuo fratello Richard?}
@@ -89,7 +89,7 @@
 {401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Grazie. }
 {410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with chems until he was dead.}
+ figure, someone pumped him with drugs until he was dead.}
 {411}{}{'Qualcuno' gli ha dato troppa droga? Come fate a dire che non e' morto di overdose perche' LUI ha preso troppa droga?}
 {412}{}{Chi pensate possa averlo fatto?}
 {413}{}{Mi dispiace. Avrei delle altre domande...}
@@ -97,12 +97,12 @@
 {420}{}{Cause he was a clean kid…Mom taught him THAT much. And if you feel like saying any different, maybe you and I
  should settle it right here.}
 {421}{}{Non volevo insinuare nulla. Scusa se te ne ho parlato.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{Ascolta, *ragazzo*, se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {424}{}{Chi pensate possa averlo fatto?}
 {425}{}{Non voglio guai. Me ne vado. }
 {435}{}{Certo... beh, vedi di stare in guardia. Discorsi del genere farebbero arrabbiare qualsiasi Wright, percio' non andare a in giro a dire simili fesserie, okay?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {437}{}{Senti, RAGAZZO, non cercare di metterti contro uno come me. Se ci tieni alla pelle, smettila di prendertela a male ogni volta che una piccola verita' viene a galla e ti fa male.}
 {438}{}{Scusa, non intendevo offendervi. Ascolta, avrei qualche altra domanda…}
 {439}{}{Ho capito. Sara' meglio che vada. }
@@ -123,7 +123,7 @@
 {487}{}{Hai scoperto chi ha ucciso mio fratello, e tutta la Famiglia Wright ti ringraziera', stanne certo. E non sara' un ringraziamento da poco, credimi.}
 {488}{}{Ho capito. Ci becchiamo dopo, Chris. }
 {495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed chems on Rich while Rich was out alone. He hangs out at the Desperado.}
+ he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {496}{}{Ho capito. Senti, avrei delle altre domande…}
 {497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules e Little Jesus… Andro' a parlare con loro. Grazie delle informazioni, Chris. }
 {1200}{}{! Sei stato grande a spazzare via l'Enclave!}

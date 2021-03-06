@@ -74,7 +74,7 @@
 {173}{}{Hogy készülnek ezek az italok?}
 {174}{}{Inkább némi információra lenne szükségem.}
 {175}{}{Tulajdonképpen ez minden. Viszlát!}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for chem addicts before the war.}
+{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
 {177}{}{Meglepõen sokat tud ezekrõl a dolgokról.}
 {178}{}{Valódi piájuk nincs?}
 {179}{}{Egy pohár vizet kérek.}

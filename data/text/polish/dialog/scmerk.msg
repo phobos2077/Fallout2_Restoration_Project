@@ -107,7 +107,7 @@
 {206}{}{Jasne. Zajmê siê tym.}
 {207}{}{Pewnie masz jeszcze jakiœ most na sprzeda¿, co?}
 {208}{}{Mo¿e póŸniej.}
-{209}{}{To jakiœ narkotyk z Nowego Reno? Nigdy o nim nie s³ysza³em.}
+{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
 {210}{}{Nie, ale mam inne pytania.}
 {211}{}{To wszystko, co by³o mi potrzebne.}
 {212}{}{Te dranie? Najlepiej niech siê trzymaj¹ z daleka ode mnie, albo ich podziurawiê.}

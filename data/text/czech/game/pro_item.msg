@@ -77,7 +77,7 @@
 {3900}{}{Mikro-fúzní èlánek}
 {3901}{}{Støednì veliká jednotka na vırobu energie. V podstatì miniaturní fúzní elektrárna.}
 {4000}{}{Stimpak}
-{4001}{}{Léèící prostøedek. Po aplikaci okamitì vyléèí drobná zranìní.}
+{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
 {4100}{}{Peníze}
 {4101}{}{Legální platidlo postapokalyptického svìta.}
 {4200}{}{Lednièka}
@@ -103,7 +103,7 @@
 {5200}{}{Geigerùv poèítaè}
 {5201}{}{Geiger-Müllerùv detektor radioaktivních èástic. Model Wattz Electronics C-Radz. Detekuje pøítomnost a mnoství radioaktivních èástic.}
 {5300}{}{Mentats}
-{5301}{}{Krabièka chemikálií pozmìòujících mozkové procesy. Zlepšuje pamì a urychluje veškeré nervové procesy. Vysoce návykové.}
+{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{Mizík}
 {5401}{}{Osobní zneviditelòovací zaøízení RobCo Mizík 3001. Generuje modulující pole, které pøenáší odraené svìtlo z jedné strany objektu na druhou. Je zapnutı.}
 {5500}{}{Vodní èip}
@@ -179,7 +179,7 @@
 {9000}{}{Batoh}
 {9001}{}{Batoh s nìkolika kapsami.}
 {9100}{}{Doktorskı kuføík}
-{9101}{}{Tato hnìdá brašna obsahuje nástroje a léky, které doktoøi pouívají pøi vıkonu svého povolání.}
+{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
 {9200}{}{Radškorpioní ocas}
 {9201}{}{Oddìlenı ocas z radškorpiona.}
 {9300}{}{Vak}
@@ -215,7 +215,7 @@
 {10800}{}{Kosti}
 {10801}{}{Hromádka podivnıch kostí.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiaèní chemikálie urèené k aplikaci pøed ozáøením. Bez známıch vedlejších úèinkù.}
+{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psycho}
 {11001}{}{Prostøedek s unikátním aplikaèním systémem obsahujícím neznámé chemikálie pravdìpodobnì vojenského pùvodu. Všeobecnì se má za to, e jeho pouití zvyšuje bojové schopnosti vojákù.}
 {11100}{}{.44 magnum FMJ}
@@ -795,7 +795,7 @@
 {40800}{}{Souprava první pomoci}
 {40801}{}{Malá souprava obsahující základní lékaøské vybavení. Obinadla, náplasti, dezinfekèní prostøedky apod.}
 {40900}{}{Záchranáøská brašna}
-{40901}{}{Tato brašna obsahuje nástroje a léky pouívané záchranáøi v terénu. Obsaené nástroje jsou speciálnì navreny pro tìké úrazy a akutní pøípady.}
+{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
 {41000}{}{Rozšíøená sada paklíèù}
 {41001}{}{Sada zámeènickıch nástrojù. Obsahuje paklíèe a šperháky potøebné k otevøení všech klasickıch i dozickıch zámkù. Tato sada navíc obsahuje speciální náøadí pro zdolání sloitìjších mechanickıch zámkù.}
 {41100}{}{Elektronickı paklíè MKII}
@@ -917,7 +917,7 @@
 {46901}{}{Velmi silnı likér nebo èistící prostøedek. Vyber si.}
 {47000}{}{Roubík}
 {47001}{}{Pochybná sexuální pomùcka. Radìji ani nechtìj vìdìt, k èemu se to pouívá.}
-{47100}{}{Levandule}
+{47100}{}{"The Lavender Flower"}
 {47101}{}{Nìjaká romantická novela napsaná Dorothy Rixonovou. Na obalu je ena leící na posteli obsypána stovkami kvìtin.}
 {47200}{}{Hubologistickı Holodisk}
 {47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}

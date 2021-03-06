@@ -107,10 +107,11 @@
 {254}{}{Zapomeò na to. Mùžu se ještì na nìco zeptat?}
 {255}{}{Dobøe, koupím ho.}
 {256}{}{Ale nic. Nashle.}
-{257}{}{Vault... Vault... Vault 13? O tom jsem urèitì nikdy neslyšel. Neøíkej mi, že pøišli s další novou drogou! Nic nemùže být lepší než Jet!}
+{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
+ with another new drug! Nothing can beat Jet!}
 {258}{}{Ne, ty debile.}
 {259}{}{Ne, to je místo. Mùžu se ještì na nìco zeptat?}
-{260}{}{Ano, je to skvìlá droga.}
+{260}{}{Yes, a wonderful drug.}
 {261}{}{Ne, nashle.}
 {262}{}{Tady Joey toho moc nenakecá.}
 {300}{}{Pravdìpodobnì ne. Nashle.}

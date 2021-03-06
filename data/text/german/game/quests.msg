@@ -8,12 +8,12 @@
 {202}{}{Zerstöre Beckys Destillator}
 {203}{}{Besorg ein Autoersatzteil für Smitty.}
 {204}{}{Bringe Annas Goldmedaillon zurück.}
-{205}{}{Treib Geld von Fred ein.}
-{206}{}{Hol das Buch von Derek.}
+{205}{}{Collect Rebecca's money from Fred.}
+{206}{}{Get Rebecca's book from Derek.}
 {207}{}{Liefer das Essen von Mom bei Smitty ab.}
 {208}{}{Lara will wissen, was in der Kirche bewacht wird.}
-{209}{}{Hol bei Metzger Erlaubnis für Bandenkrieg ein.}
-{210}{}{Finde eine Schwachstelle bei Tylers Gang, die die Kirche bewacht.}
+{209}{}{Get permission from Metzger for the gang war.}
+{210}{}{Find a weakness in Tyler's gang guarding the church.}
 {211}{}{Hilf Lara beim Angriff auf Tylers Gang.}
 {212}{}{Finde einen Weg um die Waisenkinder von den Straßen zu holen.}
 {300}{}{Füll den Destillator wieder auf.}
@@ -29,7 +29,7 @@
 {403}{}{Jonny ist verschwunden. Such ihn, und bring ihn nach Hause zu Balthas zurück.}
 {404}{}{Jonny ist in den Höhlen der Schlacken. Finde eine Möglichkeit, Jonny nach Hause zu Balthas zu bringen.}
 {405}{}{Werde die Plage in Farrels Garten los.}
-{406}{}{Überbringe die Nachricht der Schlacken an Jo in Modoc.}
+{406}{}{Deliver the Slag's message to Jo in Modoc.}
 {407}{}{Jo findet die Schlacken verdächtig. Informiere dich über die Leichen in der Geisterfarm, und finde heraus, was Karl zugestoßen ist.}
 {408}{}{Geh nach Den und sag Karl, dass er wieder nach Hause kommen kann.}
 {409}{}{Bewache Grishams Brahmin.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Berge Teile aus/Verschaffe dir Zugang zu Vault 15.}
 {1101}{}{"Kümmere" dich für Mira um Offizier Jack.}
-{1102}{}{Schließ die Brahmin-Tour ab.}
-{1103}{}{Hol die Papiere von Dr. Henry.}
-{1104}{}{Teste das Mutationsserum an einem Supermutanten. Versuch es in Broken Hills.}
+{1102}{}{Complete the brahmin drive.}
+{1103}{}{Retrieve the papers from Dr. Henry.}
+{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Schaff Mr. Bishop aus dem Weg.}
 {1106}{}{Bring Westins Holo-Disk zu Lynette nach Vault City.}
 {1107}{}{Beschaffe die Karte von den NCR-Rangern für Vortis, den Sklavenhändler.}
 {1108}{}{Befreie die Sklaven im Sklavenpferch für die Ranger.}
-{1109}{}{Liefere den Feldbericht der Erleuchteten bei AHS-9 in San Francisco ab.}
+{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
 {1110}{}{Töte die Erleuchtete in der NCR für Merk.}
 {1111}{}{Beende die Brahmin-Diebstähle.}
 {1112}{}{Lösche die geheimen nördlichen Unterschlüpfe der Ranger für Vortis, den Sklavenhändler, aus.}
@@ -119,7 +119,7 @@
 {1511}{}{Suche die Freundin von Dachs im Schiffsbauch.}
 {1512}{}{Der Drache will, dass du mit Lo Pan aus dem Weg räumst - im Kampf Mann gegen Mann.}
 {1513}{}{Lo Pan will, dass du mit den Drachen aus dem Weg räumst - wenn möglich im Kampf Mann gegen Mann.}
-{1514}{}{Hol Chips Milz.}
+{1514}{}{Get Chip's spleen back.}
 {1515}{}{Besorg eine gehärtete Powerrüstung von Crockett.}
 {1516}{}{Hol die Vertibird-Pläne von der Brotherhood of Steel.}
 {1517}{}{Deaktiviere das Shi U-Boot das den Tanker bedroht.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Rette Chrissy}
 {3201}{}{Töte Darion}
-{3202}{}{Schließ die Vereinbarung mit der NCR ab.}
-{3203}{}{Gib die Spion-Holo-Disk bei der Regierung der NCR ab.}
+{3202}{}{Complete the deal with NCR.}
+{3203}{}{Give the Spy Holodisk to the authorities in NCR.}

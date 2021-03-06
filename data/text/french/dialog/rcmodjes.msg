@@ -35,7 +35,7 @@
 {134}{}{Je suis Madame Modjeska. Ancienne adepte du Jet, entre autres. Maintenant, je touche à d'autres choses. Le Jet ne me convient plus.}
 {135}{}{Que puis-je faire pour toi ?}
 {136}{}{Que fais-tu ici, Madame Modjeska ?}
-{137}{}{J'ai l'impression que beaucoup de monde plane. Que s'est-il passé en ville ces jours-ci ?}
+{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
 {138}{}{Des rumeurs intéressantes ?}
 {139}{}{Pourquoi t'appelle-t-on Madame Modjeska ?}
 {140}{}{Que t'est-il arrive ?}

@@ -8,12 +8,12 @@
 {202}{}{Sabotage Becky's still.}
 {203}{}{Get car part for Smitty.}
 {204}{}{Return Anna's locket.}
-{205}{}{Collect money from Fred.}
-{206}{}{Get book from Derek.}
+{205}{}{Collect Rebecca's money from Fred.}
+{206}{}{Get Rebecca's book from Derek.}
 {207}{}{Deliver a meal to Smitty for Mom.}
 {208}{}{Lara wants to know what is being guarded in the church.}
-{209}{}{Get permission from Metzger for gang war.}
-{210}{}{Find weakness in Tyler's gang guarding the church.}
+{209}{}{Get permission from Metzger for the gang war.}
+{210}{}{Find a weakness in Tyler's gang guarding the church.}
 {211}{}{Help Lara attack Tyler's gang.}
 {212}{}{Find a way to get the orphans off the streets.}
 {300}{}{Refuel the still.}
@@ -29,7 +29,7 @@
 {403}{}{Jonny is missing. Find him and bring him home to Balthas.}
 {404}{}{Jonny's in the Slag caves. Find a way to get Jonny back home to Balthas.}
 {405}{}{Farrel has a rodent problem in his garden. Remove the infestation.}
-{406}{}{Deliver Slag message to Jo in Modoc.}
+{406}{}{Deliver the Slag's message to Jo in Modoc.}
 {407}{}{Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
 {408}{}{Go to the Den and tell Karl it's alright to come back home.}
 {409}{}{Guard Grisham's brahmin.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Retrieve Parts/Gain Access to Vault 15.}
 {1101}{}{"Take care of" Officer Jack for Mira.}
-{1102}{}{Complete brahmin drive.}
-{1103}{}{Retrieve papers from Dr. Henry.}
-{1104}{}{Test mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Complete the brahmin drive.}
+{1103}{}{Retrieve the papers from Dr. Henry.}
+{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Eliminate Mr. Bishop.}
 {1106}{}{Deliver Westin's holodisk to Lynette in Vault City.}
 {1107}{}{Get the map from the NCR Rangers, for Vortis the slaver.}
 {1108}{}{Free the slaves in the slave pen, for the Rangers.}
-{1109}{}{Deliver Hubologist's field report to AHS-9 in San Francisco.}
+{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
 {1110}{}{Kill the Hubologist for Merk.}
 {1111}{}{Stop the brahmin raids.}
 {1112}{}{Wipe out the Rangers' safe houses to the north, for Vortis the slaver.}
@@ -119,7 +119,7 @@
 {1511}{}{Find Badger's girlfriend in the hold below the ship.}
 {1512}{}{The Dragon wants you to take out Lo Pan - hand to hand.}
 {1513}{}{Lo Pan wants you to take out the Dragon - hand to hand, if possible.}
-{1514}{}{Get Chip's spleen.}
+{1514}{}{Get Chip's spleen back.}
 {1515}{}{Get some hardened power armor from Crockett.}
 {1516}{}{Get the vertibird plans for the Brotherhood of Steel.}
 {1517}{}{Disable the Shi submarine threatening the tanker.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Rescue Chrissy.}
 {3201}{}{Kill Darion.}
-{3202}{}{Complete Deal with NCR.}
-{3203}{}{Give Spy Holodisk to the authorities in NCR.}
+{3202}{}{Complete the deal with NCR.}
+{3203}{}{Give the Spy Holodisk to the authorities in NCR.}

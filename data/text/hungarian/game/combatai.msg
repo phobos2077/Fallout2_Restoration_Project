@@ -2770,7 +2770,7 @@
 {40964}{}{Te célozgatsz, én lelõlek.}
 {40965}{}{Nincs annyi vér a pucádban, hogy le tudj nyomni.}
 {40966}{}{Hülye is vagy, vak is vagy!}
-{40967}{}{Missed me by a few % points.}
+{40967}{}{Missed me by a few percentage points.}
 {40968}{}{Na, mi van, a vakegér kurva nénikédet?!}
 {40969}{}{Nem talált! Legközelebb a fejed következik.}
 {40970}{}{Francba, egy kövület vagyok, mégis jobban lövök nálad!}
@@ -3343,7 +3343,7 @@
 {44436}{}{Systems malfunction.}
 {44437}{}{Power systems fluctuating. Activating reserve power.}
 {44438}{}{Main hull integrity compromised. Main circuits exposed.}
-{44439}{}{Power conditioning unit damage. Operating at 75% capacity.}
+{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
 {44460}{}{Right motivator hit. Damage minimal.}
 {44461}{}{Right bogie out of alignment.}
 {44462}{}{Right drive wheel damaged.}

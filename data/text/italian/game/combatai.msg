@@ -2770,7 +2770,7 @@
 {40964}{}{Tu miri per divertimento. Io sparo per uccidere.}
 {40965}{}{Non hai le palle per sconfiggermi.}
 {40966}{}{Sembra proprio che tu sia stupido E cieco.}
-{40967}{}{Missed me by a few % points.}
+{40967}{}{Missed me by a few percentage points.}
 {40968}{}{Sei uno di quegli stronzi con il prosciutto sugli occhi?}
 {40969}{}{La tua mira e' andata. La prossima volta, sara' il turno della tua testa.}
 {40970}{}{Diavolo, sono praticamente un fossile, eppure riesco a colpire meglio di te.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Malfunzionamento sistemi.}
 {44437}{}{Fluttuazione nei sistemi energetici. Attivata energia di riserva.}
 {44438}{}{Integrita' corazza principale compromessa. Circuiti principali esposti.}
-{44439}{}{Power conditioning unit damage. Operating at 75% capacity.}
+{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
 {44460}{}{Motivatore destro colpito. Danno minimo.}
 {44461}{}{Carrello sinistro spostato fuori allineamento.}
 {44462}{}{Ruota motrice destra piegata.}

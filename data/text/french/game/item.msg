@@ -1,7 +1,7 @@
 {1}{}{Tu as gagné %d %s.}
 {2}{}{Tu as perdu %d %s.}
 {3}{}{Tu te sens mieux.}
-{4}{}{Tu es victime d'une crise cardiaque fatale due à une overdose de stimulants.}
+{4}{}{You suffer a fatal heart attack from drug overdose.}
 {5}{}{%s n'a plus d'énergie.}
 {6}{}{%s : Activation.}
 {7}{}{%s : Désactivation.}
@@ -10,7 +10,7 @@
 {10}{}{Il ne se passe rien.}
 {50}{}{Ca n'a pas fait grand chose.}
 {500}{}{Il n'y a pas assez de lumière pour recharger cet élément.}
-{600}{}{%s succombe aux effets des stimulants.}
+{600}{}{%s succumbs to the adverse effects of drugs.}
 {800}{}{Faible}
 {801}{}{Moyenne}
 {802}{}{Forte}

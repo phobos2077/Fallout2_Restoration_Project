@@ -77,7 +77,7 @@
 {3900}{}{Mikro-fúziós cella}
 {3901}{}{Közepes méretû, fúziós energiatermelõ egység.}
 {4000}{}{Stimpakk}
-{4001}{}{A healing chem. When injected, the chem provides immediate healing of minor wounds.}
+{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
 {4100}{}{Pénz}
 {4101}{}{A puszta törvényes és elfogadott fizetõeszköze.}
 {4200}{}{Hûtõ}
@@ -103,7 +103,7 @@
 {5200}{}{Geiger-számláló}
 {5201}{}{Wattz Electronics gyártmányú "C-Radz" Geiger-Müller számláló. Jelzi a radioaktivitást, és annak erõsségét.}
 {5300}{}{Mentát}
-{5301}{}{A pillbox of mind-altering chems. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{Stealth Boy}
 {5401}{}{RobCo Stealth Boy 3001 személyi álcázó készülék. Egy mezõt hoz létre, amely a visszavert fényt a tárgy másik oldalára irányítja.}
 {5500}{}{Víztisztító chip}
@@ -179,7 +179,7 @@
 {9000}{}{Hátizsák}
 {9001}{}{Hátizsák a fakultatív szíjakkal.}
 {9100}{}{Orvosi táska}
-{9101}{}{This brown bag contains instruments and chems used by doctors in the application of their trade.}
+{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
 {9200}{}{Skorpiófarok}
 {9201}{}{Egy radskorpió levágott farka.}
 {9300}{}{Szütyõ}
@@ -215,7 +215,7 @@
 {10800}{}{Csontok}
 {10801}{}{Néhány érdekes csont.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation chems to be taken before exposure. No known side effects.}
+{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Pszicho}
 {11001}{}{Valószínûleg katonai eredetû, ismeretlen vegyületeket tartalmazó szer. A katonák harci potenciálját hivatott növelni.}
 {11100}{}{,44-es FK magnum}
@@ -795,7 +795,7 @@
 {40800}{}{Szakorvosi elsõsegély csomag}
 {40801}{}{Egy kis készlet, mely a legalapvetõbb orvosi eszközöket tartalmazza: kötszer, fásli, fertõtlenítõ folyadék, stb.}
 {40900}{}{Mentõorvosi táska}
-{40901}{}{This bag contains instruments and chems used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
 {41000}{}{Bõvített tolvajkulcs készlet}
 {41001}{}{Egy készlet, mely minden fontos eszközt tartalmaz egyszerûbb zárak kinyitásához, beleértve különbözõ fogókat és feszítõket. Ez a készlet tartalmaz néhány speciális szerszámot is, bonyolultabb zárakhoz.}
 {41100}{}{Elektromos Zárnyitó II}
@@ -917,7 +917,7 @@
 {46901}{}{Ez egy igen erõs likõr vagy tisztítószer. Nem tudod eldönteni.}
 {47000}{}{Szájpecek}
 {47001}{}{Egy igen kétes szexuális segédeszköz. Ha nem tudod mi ez, akkor ne is akard tudni!}
-{47100}{}{A levendula virága}
+{47100}{}{A Levendula virága}
 {47101}{}{Egy romantikus novella, melyet Dorothy Rixon írt. A borítón egy nõ fekszik, sok száz virág között.}
 {47200}{}{Hubologista hololemez}
 {47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}

@@ -88,14 +88,15 @@
 {295}{}{La prochaine fois que tu vas péter la gueule à l'Enclave, viens me chercher avant, et on le fera ENSEMBLE.}
 {296}{}{Ca me TROUE le CUL !}
 {297}{}{Je sais que tu as sauvé le monde, mais c'est nous les PNJ mineurs qui devons en assumer les conséquences.}
-{298}{}{Tu devrais refaire le jeu avec un personnage qui aime les produits chimiques. Vraiment ! Tu devrais prendre la qualité facultative *Dépendance* j'ADORE celle-là.}
+{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
+ I LOVE that one.}
 {299}{}{Merci de nous avoir sauvés. Je t'embrasserai si je n'avais pas cette haleine de vomi.}
 {300}{}{J'aurais pu me faire l'Enclave moi-même si j'avais pris assez de Jet.}
 {301}{}{~ Nous n'avons pas besoin de héros, nous n'avons pas besoin de connaître le chemin du retour... ~}
 {302}{}{Je n'existe que d'après la création de Chris Avellone et un scénario de Tom French. Techniquement, je ne suis donc pas responsable de mon besoin de Jet permanent.}
 {303}{}{Allons prendre du Jet ensemble et célébrons ta victoire. Tu paies hein ?}
 {304}{}{Une fois que tu auras supprimé ce jeu de ton disque dur, continuerons-nous d'exister ?}
-{305}{}{Euh... Quel genre de drogue l'Enclave testait ? Il y avait du Jet gratuit ?}
+{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
 {320}{}{Comment fais-tu pour aller aux toilettes avec ce truc ?}
 {321}{}{Hein... Tu me parles ?}
 {322}{}{Oh, mes hallus sont de pire en pire. Maintenant, je vois des gens en métal qui me parlent !}
@@ -110,7 +111,7 @@
 {352}{}{Juste quelques pièces, et je serai ton esclave... Le temps de récupérer mon Jet et je suis à toi.}
 {353}{}{Je serai ton esclave, si tu me donnes du Jet.}
 {354}{}{Tu peux me vendre comme esclave si tu me files du Jet.}
-{355}{}{Non, j'ai arrêté la dope. Pourquoi, tu achètes ?}
+{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {360}{}{C'est toi la bête de combat ? T'as des jetons à me prêter ?}
 {361}{}{Allez, donne-moi juste une petite pièce.}
 {362}{}{Je peux t'emprunter un peu d'argent... ? Allez, je te les rendrai.}
@@ -121,7 +122,7 @@
 {367}{}{J'ai besoin d'un peu de monnaie pour acheter à manger...}
 {368}{}{Je serai ton esclave, si tu me donnes du Jet.}
 {369}{}{Tu peux me vendre comme esclave si tu me files du Jet.}
-{370}{}{Non, j'ai arrêté la dope. Pourquoi, tu achètes ?}
+{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {371}{}{T'es un membre de }
 {372}{}{Je peux t'emprunter un peu d'argent... ? Allez, je te les rendrai.}
 {373}{}{Je travaillerai pour du Jet...}
@@ -130,7 +131,7 @@
 {382}{}{T'as besoin de quelqu'un pour t'aider à planer mon garçon ?}
 {383}{}{P'pa ?}
 {384}{}{Mec, je dois *planer*, tu vois ce que je veux dire ?}
-{385}{}{Non, j'ai arrêté la dope. Pourquoi, tu achètes ?}
+{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {386}{}{<Pssst> Tu peux me dépanner un peu de Jet ?}
 {387}{}{Je peux t'emprunter un peu d'argent... ? Allez, je te les rendrai.}
 {388}{}{Je travaillerai pour du Jet...}
@@ -148,7 +149,7 @@
 {400}{}{Allez, m'zelle, filez-moi juste quelques pièces.}
 {401}{}{Hé, la frangine, tu peux m'aider à planer ?}
 {402}{}{Ecoute, je dois *planer*, tu vois ce que je veux dire ?}
-{403}{}{Non, j'ai arrêté la dope. Hein... Pourquoi ? Tu veux en acheter ?}
+{403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{M'man ?}
 {420}{}{Hé, frérot, tu peux m'aider à planer ?}
 {421}{}{Allez, mon vieux, donne-moi juste une petite pièce.}
@@ -157,7 +158,7 @@
 {424}{}{Je ferai tout ce que tu veux pour quelques pièces... Ou du Jet si t'en as.}
 {425}{}{J'ai été miss Reno une fois. J'ai toujours au moins ça...}
 {426}{}{T'as besoin de quelqu'un pour t'aider à planer mon garçon ?}
-{427}{}{Non, j'ai arrêté la dope. Pourquoi, tu achètes ?}
+{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {428}{}{P'pa ?}
 {429}{}{<Pssst> Tu peux me dépanner un peu de Jet ?}
 {430}{}{Je peux t'emprunter un peu d'argent... ? Allez, je te les rendrai.}
@@ -174,7 +175,7 @@
 {441}{}{Je peux te faire du bien... Si tu as du Jet pour moi.}
 {442}{}{Hé, heu, la frangine, t'aurais un peu de Jet ?}
 {443}{}{Dis, j'ai besoin de planer, tu vois ce que je veux dire ?}
-{444}{}{Non, j'ai arrêté la dope. Hein... Pourquoi ? Tu veux en acheter ?}
+{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{M'man ?}
 {450}{}{Bordel... ! Qu'est-ce que t'es ? Un genre de roh-bot ?}
 {451}{}{A qui parles-tu couvert de métal comme ça ?}
@@ -205,7 +206,7 @@
 {483}{}{La merde de Jimmy J l'édenté est la MEILLEURE. Ca te défonce graaaaave, tu ne voudras jamais redescendre.}
 {484}{}{C'est à moi que tu parles ? C'est à moi que tu parles ?!}
 {485}{}{T'en veux un peu ?! Hein ?}
-{486}{}{::Te scrute du regard avec ses yeux injectés de drogue::}
+{486}{}{::Glares at you past drug-hazed eyes::}
 {487}{}{Tu veux planer avec moi ?}
 {488}{}{Hé, champion, quoi de neuf ?}
 {489}{}{Tu veux boxer avec moi ? Hein ? Allez !}
@@ -223,7 +224,7 @@
 {510}{}{C'est à moi que tu parles ? C'est à moi que tu parles ?!}
 {511}{}{Tu me cherches des crosses, gangster ? Je suis un réacteur au Jet ! Je vais te botter les fesses !}
 {512}{}{T'en veux un peu, gangster ?! Hein ?}
-{513}{}{::Te scrute du regard avec ses yeux injectés de drogue::}
+{513}{}{::Glares at you past drug-hazed eyes::}
 {520}{}{Ouf ! à quoi tu planes, toi ? Tu en as un peu pour moi ?}
 {521}{}{Je croyais que c'était *moi* qui avais la tête à l'envers.}
 {522}{}{Hé, l'ami... Tu pourrais m'en filer un peu.}
@@ -236,7 +237,7 @@
 {533}{}{Je crois que j'me suis déjà senti comme ton pote le robot une fois... Dis-lui que tout ira bien une fois qu'il sera redescendu.}
 {534}{}{Que s'est-il passé avec ton pote et son cerveau ? Il a perdu son corps ?}
 {535}{}{DIS-moi que ce robot avec son cerveau n'est pas réel. S'il te plaît.}
-{536}{}{Whaou. Matez-moi ce robot. On dirait que son cerveau est sous drogue d'une façon dont j'ai jamais entendu parler.}
+{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
 {537}{}{Tu veux planer avec moi ? Et ton pote le robot ?}
 {538}{}{Tu me cherches des crosses, l'ami des robots ? Je suis un réacteur au Jet ! Je vais te botter les fesses !}
 {539}{}{T'en veux un peu, l'ami des robots ?! Hein ?}
@@ -247,7 +248,7 @@
 {544}{}{Si tu vois Renesco, dis-lui que je lui donnerai l'argent demain.}
 {545}{}{La merde de Jimmy J l'édenté est la MEILLEURE. Ca te défonce graaaaave, tu ne voudras jamais redescendre.}
 {546}{}{C'est à moi que tu parles ? C'est à moi que tu parles ?!}
-{547}{}{::Te scrute du regard avec ses yeux injectés de drogue::}
+{547}{}{::Glares at you past drug-hazed eyes::}
 {548}{}{Mec, te retourne pas, là, mais il y a un mutant qui te suit.}
 {549}{}{Ouf ! J'ai dû prendre une vraie saloperie... Je vois des mutants partout.}
 {550}{}{Je dois être défoncé, ou alors ton ami est sacrément grand...}
@@ -277,7 +278,7 @@
 {575}{}{C'est à moi que tu parles ? C'est à moi que tu parles ?!}
 {576}{}{Tu me cherches des crosses ? Je suis un réacteur au Jet ! Je vais te botter les fesses !}
 {577}{}{T'en veux un peu ?! Hein ?}
-{578}{}{::Te scrute du regard avec ses yeux injectés de drogue::}
+{578}{}{::Glares at you past drug-hazed eyes::}
 {600}{}{Terrible...}
 {601}{}{Mmmm...}
 {602}{}{T'es un pote.}

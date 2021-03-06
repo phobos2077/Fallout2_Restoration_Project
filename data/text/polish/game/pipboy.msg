@@ -229,7 +229,7 @@
 {7019}{}{podziêkowañ za wykonanie dobrej roboty.}
 {7020}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
 {7021}{}{**END-PAR**}
-{7022}{}{30 czerwca, 2077}
+{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
 {7023}{}{Wypróbowa³em dziœ na jednym z pacjentów swój nowy}
 {7024}{}{koktajl z Wygrzewu, Psycho i paru specjalnych dodatków,}
 {7025}{}{z którymi ostatnio eksperymentowa³em. Rezultaty by³y}
@@ -777,7 +777,7 @@
 {14035}{}{nie odnios³o zbyt wielu zniszczeñ podczas wojny (choæ}
 {14036}{}{rabunek mienia i zamieszki zebra³y swoje ¿niwo), dlatego}
 {14037}{}{wiele ulic i budynków nadal stoi na swoim miejscu.}
-{14038}{}{Uwaga! Brak centralnej w³adzy i aparatu policyjnego.}
+{14038}{}{enforcement. Gambling, prostitution, and drug use}
 {14039}{}{Szerz¹ siê hazard, prostytucja. Wszechobecne s¹}
 {14040}{}{narkotyki. Obywatelom Kryptopolis ZDECYDOWANIE odradza}
 {14041}{}{}

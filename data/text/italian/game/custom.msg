@@ -3,7 +3,7 @@
 {2}{}{Arma pref.}
 {3}{}{Distanza}
 {4}{}{Attacca}
-{5}{}{Usa droghe}
+{5}{}{Drug Use}
 {10}{}{-Fatto-}
 {11}{}{Canc.}
 {99}{}{Non Disponibile.}

@@ -107,7 +107,7 @@
 {206}{}{Claro. Me lo llevo.}
 {207}{}{Seguro que también venderías hielo a un esquimal.}
 {208}{}{Quizá más tarde.}
-{209}{}{¿Es alguna clase de droga en Nuevo Reno? Nunca he oído hablar de ello.}
+{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
 {210}{}{No. Sin embargo, tengo algunas preguntas más.}
 {211}{}{Eso es todo lo que necesitaba saber.}
 {212}{}{¿Esos bastardos? Mejor que se mantengan lejos de aquí o les abriré un agujero.}

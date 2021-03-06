@@ -1,7 +1,7 @@
 {1}{}{You gained %d %s.}
 {2}{}{You lost %d %s.}
 {3}{}{Czujesz siê znacznie lepiej.}
-{4}{}{You suffer a fatal heart attack from chem overdose.}
+{4}{}{You suffer a fatal heart attack from drug overdose.}
 {5}{}{%s has no charges left.}
 {6}{}{%s is on.}
 {7}{}{%s is off.}
@@ -10,7 +10,7 @@
 {10}{}{Nic siê nie dzieje.}
 {50}{}{That didn't seem to do that much.}
 {500}{}{There is not enough light to recharge this item.}
-{600}{}{%s succumbs to the adverse effects of chems.}
+{600}{}{%s succumbs to the adverse effects of drugs.}
 {800}{}{lampka}
 {801}{}{Medium}
 {802}{}{Heavy}

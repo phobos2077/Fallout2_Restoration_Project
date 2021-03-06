@@ -45,7 +45,7 @@
 {320}{}{I've seen caravans from Vault City come in and then some of it gets picked up by caravans from New Reno.}
 {321}{}{És? Mi ebben a nagy szám?}
 {322}{}{Ejha!}
-{340}{}{New Reno is the chem capital around here. They have to get the raw materials to make their chems from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
+{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{New Reno merre van?}
 {342}{}{Oké, kösz.}
 {350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}

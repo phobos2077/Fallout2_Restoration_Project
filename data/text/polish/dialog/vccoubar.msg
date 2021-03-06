@@ -74,7 +74,7 @@
 {173}{}{Jak uzyskujecie te syntetyczne alkohole?}
 {174}{}{W³aœciwie to szukam informacji.}
 {175}{}{Nic wiêcej dzisiaj nie potrzebujê. Dziêki.}
-{176}{}{Ka¿dy Auto-doktor w Kryptopolis potrafi wytwarzaæ syntetyczne substytuty œrodków uzale¿niaj¹cych. Jeœli dobrze pamiêtam, to przed wojn¹ podawano je narkomanom jako placebo.}
+{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
 {177}{}{Widzê, ¿e bardzo du¿o wiesz o synetykach.}
 {178}{}{A macie tu jakieœ prawdziwe drinki?}
 {179}{}{W takim razie wystarczy woda.}

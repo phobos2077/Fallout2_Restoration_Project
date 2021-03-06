@@ -229,7 +229,7 @@
 {7019}{}{lavoro ben fatto. Adoro il mio lavoro.                }
 {7020}{}{**END-PAR**}
 {7021}{}{30 giugno, 2077						}
-{7022}{}{I tried a new chem cocktail of Buffout and Psychos}
+{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
 {7023}{}{su uno dei miei pazienti e l'ho mischiato con degli          }
 {7024}{}{stimolanti con cui mi stavo dilettando. I risultati sono     }
 {7025}{}{stati promettenti, ma piuttosto "caotici". Il soggetto e'    }
@@ -777,7 +777,7 @@
 {14035}{}{(sebbene saccheggi e danni alle proprieta' siano stati}
 {14036}{}{comunque gravi), e per questo molte strade e edifici}
 {14037}{}{sono rimasti intatti. Attenzione! Non esiste un governo}
-{14038}{}{enforcement. Gambling, prostitution, and chem use}
+{14038}{}{enforcement. Gambling, prostitution, and drug use}
 {14039}{}{e uso di droga sono dilaganti. I Cittadini del Vault }
 {14040}{}{sono avvisati di evitare New Reno ad OGNI costo!}
 {14041}{}{}

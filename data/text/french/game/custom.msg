@@ -3,7 +3,7 @@
 {2}{}{Armes préf.}
 {3}{}{Distance}
 {4}{}{Cible}
-{5}{}{Stimulants}
+{5}{}{Drug Use}
 {10}{}{Terminé}
 {11}{}{Annuler}
 {99}{}{Non applicable.}

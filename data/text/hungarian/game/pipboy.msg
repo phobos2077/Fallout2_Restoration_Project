@@ -229,7 +229,7 @@
 {7019}{}{Imádom a munkámat!}
 {7020}{}{**END-PAR**}
 {7021}{}{2077. június 30.}
-{7022}{}{I tried a new chem cocktail of Buffout and Psychos}
+{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
 {7023}{}{on one of my patients, mixed with some special}
 {7024}{}{speciális hatásnövelõvel, amivel mostanában ját-}
 {7025}{}{szadozom. A hatás ígéretes. Az alany iszonyatosan}
@@ -777,7 +777,7 @@
 {14035}{}{szenvedett (a lopások és egyéb vagyoni károk sem}
 {14036}{}{javítottak a mérlegen), így több utca és épület épen}
 {14037}{}{maradt. Figyelem, nincsenek központi igazgatási és}
-{14038}{}{enforcement. Gambling, prostitution, and chem use}
+{14038}{}{enforcement. Gambling, prostitution, and drug use}
 {14039}{}{a szerencsejáték és a drogfogyasztás. Minden}
 {14040}{}{Menedékpolgárt óva intünk Reno meglátogatásától!}
 {14041}{}{}

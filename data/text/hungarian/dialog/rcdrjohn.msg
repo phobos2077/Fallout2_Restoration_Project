@@ -107,7 +107,7 @@
 {206}{}{McClure mondta nekem Menedékvárosban.}
 {207}{}{Csak pletyka volt, ez minden.}
 {208}{}{Ez most lényegtelen. Hadd kérdezzek valami mást!}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real habit-forming, like nothing you've ever seen before.
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
  They figure that if they get enough people in an area using it, those people will do anything to get
  more. That gives them de facto control of an area - like Redding.}
 {210}{}{Értem. Lenne még egy-két kérdésem, doki.}
@@ -137,7 +137,7 @@
 {233}{}{Ja, minden kétséget kizárva. Viszlát, doki!}
 {234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
  Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the chem with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{Milyen rendes fickó vagy te, dokikám! Milyen önfeláldozó! Mi lenne, ha kérdeznék valami mást?}
 {236}{}{Milyen *nemes* cseledeket, kedves doktor úr!}
 {237}{}{Ez érdekes. Majd késõbb még betérek, doki. Viszlát!}

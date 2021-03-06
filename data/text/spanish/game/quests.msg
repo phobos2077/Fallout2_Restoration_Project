@@ -8,12 +8,12 @@
 {202}{}{Sabotea la destilería de Becky.}
 {203}{}{Consíguele a Smitty la pieza del coche.}
 {204}{}{Devuélvele a Anna su medallón.}
-{205}{}{Recoger el dinero de Fred.}
-{206}{}{Conseguir el libro de Derek.}
+{205}{}{Collect Rebecca's money from Fred.}
+{206}{}{Get Rebecca's book from Derek.}
 {207}{}{Entrégale a Smitty un almuerzo de Mamá.}
 {208}{}{Lara quiere saber qué hay guardado en la iglesia.}
-{209}{}{Consigue permiso de Metzger para la guerra de bandas.}
-{210}{}{Encuentra un punto flaco en la banda de Tyler que vigila la iglesia.}
+{209}{}{Get permission from Metzger for the gang war.}
+{210}{}{Find a weakness in Tyler's gang guarding the church.}
 {211}{}{Ayuda a Lara a atacar a la banda de Tyler.}
 {212}{}{Encontrar una manera de llegar a los huérfanos de las calles.}
 {300}{}{Reabastece de combustible el alambique.}
@@ -29,7 +29,7 @@
 {403}{}{Jonny ha desaparecido. Encuéntralo y tráelo de nuevo a casa con Balthas.}
 {404}{}{Jonny está en la cueva de los Escorias. Encuentra una forma de devolver a Jonny a casa con Balthas.}
 {405}{}{Farrel tiene un problema de roedores en su huerto. Elimina la plaga.}
-{406}{}{Entregar la Escoria mensaje a Jo en Modoc.}
+{406}{}{Deliver the Slag's message to Jo in Modoc.}
 {407}{}{Jo sospecha de los Escorias. Encuentra los cuerpos muertos en la Granja Fantasma y averigua qué le ha ocurrido a Karl.}
 {408}{}{Ve a La Guarida y dile a Karl que puede volver a casa.}
 {409}{}{Guarda los brahmines de Grisham.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Recupera las piezas/Consigue acceso al Refugio 15.}
 {1101}{}{Mira te ha pedido que te "ocupes" del oficial Jack.}
-{1102}{}{Completa de los brahmanes de la unidad.}
-{1103}{}{Recuperar los papeles del Dr. Henry.}
-{1104}{}{Prueba el suero mutagénico en un supermutante. Busca en Broken Hills.}
+{1102}{}{Complete the brahmin drive.}
+{1103}{}{Retrieve the papers from Dr. Henry.}
+{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Elimina al señor Bishop.}
 {1106}{}{Entrégale a Lynette el holodisco de Westin en Ciudad Refugio.}
 {1107}{}{Consíguele a Vortis el esclavista el mapa de los Rangers de la RNC.}
 {1108}{}{Los Rangers te han pedido que liberes a los esclavos del redil de esclavos.}
-{1109}{}{Entrega el informe de campo de los Hubologistas a AHS-9 en San Francisco.}
+{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
 {1110}{}{Mata al Hubologista para Merk.}
 {1111}{}{Detén los ataques contra los brahmines.}
 {1112}{}{Limpie los Rangers' casas de seguridad para el norte, para Vortis el esclavista.}
@@ -119,7 +119,7 @@
 {1511}{}{Encuentra a la novia de Badger en la bodega del barco.}
 {1512}{}{El Dragón quiere que te encargues de Lo Pan... cara a cara.}
 {1513}{}{Lo Pan quiere que te encargues de El Dragón... cara a cara, si es posible.}
-{1514}{}{Obtener Chip del bazo.}
+{1514}{}{Get Chip's spleen back.}
 {1515}{}{Consigue una servoarmadura mejorada de Crockett.}
 {1516}{}{Consíguele a la Hermandad del Acero los planos del vertibird.}
 {1517}{}{Deshabilitar el Shi submarino amenazando la cisterna.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Rescata a Chrissy.}
 {3201}{}{Mata a Darion.}
-{3202}{}{Completa Lidiar con NCR.}
-{3203}{}{Dale el holodisco del espía a las autoridades de la RNC.}
+{3202}{}{Complete the deal with NCR.}
+{3203}{}{Give the Spy Holodisk to the authorities in NCR.}

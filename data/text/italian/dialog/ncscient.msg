@@ -22,7 +22,7 @@
 {170}{}{Controllate la frequenza cardiaca di questo qui. Se e' ancora entro limiti tollerabili, aumentate il dosaggio.}
 {171}{}{Perche' la schiava nel gruppo di controllo si e' uccisa? Non stavamo nemmeno conducendo dei test, su di lei!}
 {200}{}{I test stanno procedendo come da programma.}
-{201}{}{This new strain of Jet is extremely habit-forming, sir. The slaves are almost
+{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
  willing to kill each other for it.}
 {202}{}{L'ultima miscela e' cosi potente che gli schiavi preferibbero assumere del Jet piuttosto che mangiare.}
 {203}{}{Chi sono queste persone con lei, Myron? Nuove cavie?}
@@ -33,7 +33,7 @@
 {208}{}{Myron, finalmente! Vi e' stato comunicato quando verrano consegnati i nuovi schiavi, signore?}
 {209}{}{Myron, signore, abbiamo spostato tre schiavi dal gruppo di controllo al gruppo testato a causa di quelle crisi respiratorie che ci sono state la settimana scorsa.}
 {210}{}{Myron, signore... abbiamo dovuto uccidere uno schiavo che cercava di scappare. Che spreco.}
-{211}{}{Myron... questo nuovo allucinogeno leggero che lei ha sintetizzato e' molto promettente, ma non causa dipendenza sui livelli del Jet…}
+{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
 {212}{}{Se hai dei suggerimenti, per favore, scrivili su un pezzo di carta e poi mettili in quel cestino della spazzatura laggiu'.}
 {213}{}{Si', si', cosa?}
 {214}{}{Non riusciremo ad ottenere dei risultati se continui ad interromperci.}

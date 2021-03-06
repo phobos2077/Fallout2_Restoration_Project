@@ -120,7 +120,7 @@
 {220}{}{Alcohol Addiction}
 {221}{}{Smoker}
 {1101}{}{A Megfigyeléssel minden lényrõl részletes információt kapsz, ha megvizsgálod õket. Láthatod, hogy pontosan hány életpontja van, és milyen fegyvert tart a kezében.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand or melee attacks cost 1 AP less to perform.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
 {1103}{}{Az ökölharcban szerzett jártasságod elõnyt jelent, mikor sebzel. E képesség minden szintjével +2 ponttal nõ az Ökölharc és a Közelharci sebzésed.}
 {1104}{}{Az Extra Mozgás minden szintjéért +2 Akciópontot kapsz, amit csak mozgásra használhatsz fel, azaz két hexagonnal többet léphetsz körönként.}
 {1105}{}{A sok lõfegyverrel és egyéb távolsági fegyverrel való gyakorlás meghozta gyümölcsét. E képesség minden szintje +2 pont sebzést jelent távolsági fegyverekkel.}
@@ -161,7 +161,7 @@
 {1140}{}{A hírneved mindig "pozitív". E képességgel a negatív hírnév nincs rossz hatással a jó természetû emberekre. De a fordítottja is igaz: a gonosz emberek Mr. Jófiút is bandatagként kezelik.}
 {1141}{}{Több lõszert találsz a posztholokauszt átlagos túlélõinél. Ez a képesség megduplázza a véletlenszerû események során talált lõszer mennyiségét.}
 {1142}{}{A felfedezõ célja, hogy új és érdekes helyeket fedezzen fel. Ezzel a képességgel nagyobb esélyed van különleges helyek és emberek megtalálására.}
-{1143}{}{With this Perk, you are less likely to be addicted to chems (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
+{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
 {1144}{}{A nyomkeresõ mindig megtalálja a rövidebb utat. A képesség minden szintje 25%-kal csökkenti a világtérképen való utazás idejét.}
 {1145}{}{Az állatok soha nem támadják meg a barátjukat, amíg az nem fenyegeti, vagy meg nem támadja õket.}
 {1146}{}{Távolabbra látsz, mint valaha. A világtérképen minden irányban egy kockával messzebb látsz, és megnõ az esélye annak is, hogy különleges helyeket találj.}

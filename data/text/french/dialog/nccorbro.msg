@@ -221,7 +221,7 @@
 {758}{}{[Ignore-le et barre-toi]}
 {759}{}{T'excite pas ! J'ai pas envie de tourner aujourd'hui, c'est tout ! Je reviendrai plus tard quand tu auras retrouvé ton calme.}
 {760}{}{Allez-vous faire foutre. J'ai pas besoin de cette merde de Brahmine. Je suis une star ! Une superstar !}
-{765}{}{Hé... ça va ? T'as pas l'air dans ton assiette. T'as pas pris des trucs au moins ? Je te FAIS PAS tourner dans cet état.}
+{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
 {766}{}{Moi vouloir filmer MAINTENANT petite personne.}
 {768}{}{T'es pas mon patron ! J'ai envie de sexe, c'est ma queue, alors tout le monde en place ! On filme MAINTENANT !}
 {769}{}{T'es pas mon patron ! J'ai envie de sexe, c'est ma chatte, alors tout le monde en place ! On filme MAINTENANT !}

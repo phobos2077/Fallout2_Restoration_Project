@@ -299,7 +299,8 @@
 {771}{}{Schlüpfe leise aus dem Bett und zieh dich an.}
 {780}{}{Die einzige "Liebe" zwischen uns besteht darin, dass er in mein Schlafzimmer eindringt und mich wie ein betrunkener Brahminbulle besteigt. Und das ist vermutlich noch eine seiner weniger verabscheuenswerten Eigenschaften, wenn man seine anderen Aktivitäten bedenkt.}
 {781}{}{Anderen Aktivitäten?}
-{790}{}{Wahrscheinlich will er auch ein Wörtchen mitreden, wer im Drogenhandel der New California Republic das Sagen hat... er selbst natürlich. Er hat versucht, die Wahlen unten im Süden zu manipuliiiiieren...*gähn*}
+{790}{}{He also probably wants a say in who controls the drug trade in the new California
+ Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{Er plant also tatsächlich, dass Reno der Republik BEITRITT... hmmmm. OK, dann lass uns über was anderes reden...}
 {792}{}{Interessant. Ich wollte noch ein paar andere Dinge über Johns Machenschaften wissen...}
 {800}{}{Jet ist in Vault City natürlich verboten. Die anderen Bürger haben es herausgefunden und mir die Bürgerrechte aberkannt. John war der einzige, an den ich mich wenden konnte... das war ihm natürlich klar. Er hatte das Ganze geplant.}

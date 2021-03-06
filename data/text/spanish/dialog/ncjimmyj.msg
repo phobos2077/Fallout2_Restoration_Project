@@ -136,7 +136,7 @@
 {501}{}{Bien, solía obtenerla del amigo Myron, antes de que se volviera demasiado engreído y dejase el negocio… ¿no es cierto, Myron? ¡Ja!
  Ahora paso en su mayor parte mierda de Mordino.}
 {502}{}{Interesante. Tenía algunas preguntas más...}
-{510}{}{YO tengo contactos con el CREADOR, mi amigo piloto. Consigo mi Jet directamente del cerebrito, el dios viviente de los compuestos químicos,
+{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
  MYRON.}
 {511}{}{¿Myron?}
 {512}{}{Interesante. Decir, que yo tenía algunas otras preguntas...}

@@ -22,7 +22,8 @@
 {170}{}{Zkontrolujte mu tep. Jestli je v tolerované mezi, zvyšte dávku.}
 {171}{}{Proè se ta otrokynì z kontrolní skupiny zabila? Vdy jsme na ní nic netestovali!}
 {200}{}{Zdravím, pane Myrone. Testy probíhají podle plánu.}
-{201}{}{Pyne Myrone, ten novı druh Jetu zpùsobuje extrémní závislost. Otroci jsou témìø ochotni se kvùli nìmu navzájem pozabíjet.}
+{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
+ willing to kill each other for it.}
 {202}{}{Otroci si místo jídla radìji vezmou Jet. A tak je silnı.}
 {203}{}{Kdo jsou ti lidé s vámi, Myrone? Nové subjekty na testování?}
 {204}{}{Pane Myrone, tøetí testovací skupina si zatím vede nejlépe.}
@@ -32,7 +33,7 @@
 {208}{}{Pane Myrone, nevíte, kdy koneènì dorazí další otroci?}
 {209}{}{Pane Myrone, pøesunuli jsme tøi otroky z kontrolní skupiny do testovací skupiny kvùli tìm respiraèním problémùm z minulého tıdne.}
 {210}{}{Pane Myrone... museli jsme zastøelit jednoho otroka, kterı se pokusil utéct. Taková škoda.}
-{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as habit-forming as Jet...}
+{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
 {212}{}{Pokud máte nìjaké návrhy, napište je prosím na papír a pak je vyhoïte rovnou támhle do koše.}
 {213}{}{Ano, ano. Co je?}
 {214}{}{Takhle nic nedokonèím, kdy mì bude poøád nìkdo otravovat.}

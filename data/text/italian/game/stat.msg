@@ -67,7 +67,7 @@
 {228}{}{Resistenza al Danno Elettrico}
 {229}{}{Resistenza al Danno EMP}
 {230}{}{Resistenza al Danno Esplosione}
-{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation chems.}
+{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
 {232}{}{Riduce il danno da veleno secondo questo valore.}
 {233}{}{Eta'}
 {234}{}{Sesso}

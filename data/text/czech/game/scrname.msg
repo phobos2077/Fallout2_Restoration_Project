@@ -416,7 +416,7 @@
 {516}{}{Monte "Tøi karty"}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Bodyguard}
+{519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
 {521}{}{Hrací automat}
 {522}{}{Èórkaø}
@@ -559,7 +559,7 @@
 {659}{}{Tajný vstup do V15}
 {660}{}{Rebecca}
 {661}{}{Dveøe}
-{662}{}{Páraè}
+{662}{}{páraè                                                         }
 {663}{}{Roberta}
 {664}{}{Sára}
 {665}{}{Zeke}
@@ -822,7 +822,7 @@
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
-{925}{}{Obchodník se zbranìmi}
+{925}{}{Mai Da Chiang}
 {926}{}{Dveøe}
 {927}{}{Dveøe}
 {928}{}{Emitor}
@@ -889,7 +889,7 @@
 {989}{}{Darrowùv sklad}
 {990}{}{Dveøe}
 {991}{}{Superhloupý mutant}
-{992}{}{Chemik}
+{992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Malý Melchior}
 {995}{}{Oèní skener}
@@ -1310,7 +1310,7 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Dítì}
-{1413}{}{Páraè}
+{1413}{}{páraè                                                         }
 {1414}{}{Sestra Elaine}
 {1415}{}{Hrob}
 {1416}{}{Hrob}

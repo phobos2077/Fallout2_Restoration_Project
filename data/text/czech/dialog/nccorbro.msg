@@ -221,7 +221,7 @@
 {758}{}{Ignorovat ho a odbelhat se.}
 {759}{}{Uklidni se. Dneska prostì na toèení nemám náladu, ano? Ježiš. Vrátím se, až se trochu uklidníš.}
 {760}{}{Jdìte do hajzlu. Takovýhle kecy nemám zapotøebí. Já jsem hvìzda! Velká jasná záøící hvìzda!}
-{765}{}{Hej... jseš v poøádku? Vypadáš, že jseš trochu mimo. Nejseš na fetu, že ne? Protože v takovým stavu s tebou toèit NEBUDU.}
+{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
 {766}{}{Já chtít toèit TEÏ malá èlovìk.}
 {768}{}{Ty nejsi mùj šéf! Já chci šukat, je to moje veliký péro, takže každej se TEÏ kurva pøipraví na natáèení.}
 {769}{}{Ty nejsi mùj šéf! Já chci šukat, je to moje veliká vagína, takže každej se TEÏ kurva pøipraví na natáèení.}

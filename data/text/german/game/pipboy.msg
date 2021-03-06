@@ -229,7 +229,7 @@
 {7019}{}{ ins Biolager schicken, garniert mit Bohnen und}
 {7020}{}{**END-PAR**}
 {7021}{}{ spezielles Dankeschön für ihre gute Arbeit gewesen.}
-{7022}{}{ Ich liebe meinen Job.}
+{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
 {7023}{}{**END-PAR**}
 {7024}{}{ 30. Juni 2077}
 {7025}{}{ Ich habe einen neuen Drogencocktail aus Buffout und}
@@ -777,7 +777,7 @@
 {14035}{}{ Tauscht mit Vault City Golderz gegen}
 {14036}{}{ medizinische Vorräte. Reno ist im Krieg kaum}
 {14037}{}{ zerstört worden (obwohl großer Schaden durch}
-{14038}{}{ Plünderungen und Vandalismus entstanden ist),}
+{14038}{}{enforcement. Gambling, prostitution, and drug use}
 {14039}{}{ so dass viele Straßen und Gebäude noch stehen.}
 {14040}{}{ Warnung! Es gibt weder eine verantwortliche}
 {14041}{}{}

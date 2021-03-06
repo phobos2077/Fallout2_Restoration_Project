@@ -77,7 +77,7 @@
 {3900}{}{Cellule à micro fusion}
 {3901}{}{Une unité de production d'énergie de taille moyenne. Centrale autonome à fusion.}
 {4000}{}{Stimpak}
-{4001}{}{Une substance curative. Une fois injecté, ce stimulant permet de soigner les blessures superficielles.}
+{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
 {4100}{}{Argent}
 {4101}{}{Monnaie courante dans le monde du désert.}
 {4200}{}{Réfrigérateur}
@@ -103,7 +103,7 @@
 {5200}{}{Compteur Geiger (Activé)}
 {5201}{}{Un compteur Geiger Wattz Electronics, modèle C-Radz. Cet appareil détecte et indique le taux des radiations.}
 {5300}{}{Mentats}
-{5301}{}{Une boîte de pilules stimulantes altérant l'esprit. Augmente les facultés de mémorisation et accélère les autres processus mentaux. Provoque une forte dépendance.}
+{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{Homme invisible (Activé)}
 {5401}{}{Appareil de furtivité personnel Homme Invisible 3001 de RobCo. Génère un champ de modulation transmettant la lumière réfléchie d'un côté à l'autre d'un objet, ce qui rend son porteur beaucoup plus difficile à voir.}
 {5500}{}{Puce d'eau}
@@ -179,7 +179,7 @@
 {9000}{}{Sac à dos}
 {9001}{}{Un sac à dos ordinaire avec des lanières en option.}
 {9100}{}{Sacoche de médecin}
-{9101}{}{Cette trousse contient des instruments et des produits chimiques utilisés par les médecins dans l'exercice de leur art.}
+{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
 {9200}{}{Queue de radscorpion}
 {9201}{}{La queue coupée d'un radscorpion.}
 {9300}{}{Sac}
@@ -215,7 +215,7 @@
 {10800}{}{Os}
 {10801}{}{Un gisement d'ossements bizarres.}
 {10900}{}{Rad-X}
-{10901}{}{Produit anti-radiations à absorber avant toute exposition. Aucun effet secondaire connu. Sans accoutumance.}
+{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Psycho}
 {11001}{}{Un vecteur unique rempli de produits chimiques inconnus et étranges, probablement d'origine militaire. Supposé améliorer le potentiel de combat d'un soldat.}
 {11100}{}{MEM .44 Magnum}
@@ -795,7 +795,7 @@
 {40800}{}{Trousse de secours pour médecin sur le terrain}
 {40801}{}{Une trousse contenant tout l'équipement médical d'urgence de base. Bandages, pansements, antiseptique etc.}
 {40900}{}{Sac d'instruments médicaux}
-{40901}{}{Ce sac permet de transporter tous les instruments et stimulants utilisés par le personnel médical sur le terrain. Les instruments sont conçus spécialement pour les traumatismes graves et les cas d'urgence.}
+{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
 {41000}{}{Jeu de passe-partout amélioré}
 {41001}{}{Un jeu d'outils de serrurerie. Comprend tous les pics et clés à enrouleur nécessaires pour ouvrir les serrures à gorge ou à broche conventionnelles. Ce jeu comprend également des outils spéciaux pour les mécanismes plus difficiles.}
 {41100}{}{Passe-partout électronique Mk II}
@@ -917,7 +917,7 @@
 {46901}{}{Un alcool très fort ou du liquide de refroidissement, à toi d'en décider.}
 {47000}{}{Bâillon à boule}
 {47001}{}{Un accessoire sexuel. Il te faut vraiment une explication ?}
-{47100}{}{« La Lavande »}
+{47100}{}{"The Lavender Flower"}
 {47101}{}{Un roman à l'eau de rose écrit par une certaine Dorothy Rixon. La couverture représente une femme étendue sur un lit et entourée de dizaines de fleurs.}
 {47200}{}{Holodisque Hubologiste}
 {47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}

@@ -109,7 +109,8 @@
 {455}{}{No... øíká se, že ven moc nevychází. Myslím, že jsem slyšel nìco o tom, že má srdeèní problémy, takže se moc nenamáhá. (Ušklíbne se.) Buï to je tím, nebo jen nemá rád slunce.}
 {456}{}{Hmmmm. Chci se ještì na nìco zeptat ohlednì Westina...}
 {457}{}{Tak srdeèní problémy, jo? Má nìjakého doktora? Bere na to nìjaké léky?}
-{465}{}{(Usmìje se.) Líbí se mi, jak uvažuješ, divochu... no, nevím, jestli na to srdce nìco bere, ale vím, že by si mìl sakra dávat pozor na to, s èím si to VEZME.}
+{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
+ to be pretty damn careful about which ones he DID take with that heart o' his.}
 {475}{}{(Zamraèí se.) Je to chovatel brahmín. Pasák zvíøat. Staèí?}
 {476}{}{Tak dobøe. Chci se ještì na nìco zeptat ohlednì Westina...}
 {477}{}{Ne, on je urèitì nìco VÍC. Jinak bychom tenhle rozhovor nevedli.}

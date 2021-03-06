@@ -107,7 +107,9 @@
 {206}{}{McClure w Kryptopolis.}
 {207}{}{Po prostu zas³yszana plotka, to wszystko.}
 {208}{}{To nie jest takie wa¿ne. Pozwól, ¿e zadam ci inne pytania.}
-{209}{}{Nowe Reno doœæ tanio sprzedaje Jet. Jet jest bardzo uzale¿ni¹jacy, jak nic, co kiedykolwiek mog³o ci byæ znane. Doszli do wniosku, ¿e je¿eli uda im siê na jakimœ terenie przekonaæ do brania wystarczaj¹c¹ liczbê ludzi, to ci ludzie zrobi¹ wszystko, aby dostaæ wiêcej. To de facto daje im kontrolê nad takim terenem - jak Redding.}
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
+ They figure that if they get enough people in an area using it, those people will do anything to get
+ more. That gives them de facto control of an area - like Redding.}
 {210}{}{Rozumiem. Spytam ciê o coœ jeszcze, doktorze.}
 {211}{}{A wiêc je¿eli nie chcesz, aby Nowe Reno kontrolowa³o Redding, to kogo widzia³byœ na jego czele?}
 {212}{}{Dziêki za twoje wyjaœnienia. Do widzenia, doktorze.}
@@ -132,7 +134,9 @@
 {231}{}{Nonsens. Kryptopolis daje specjalne przywileje mieszkañcom, ale tylko dlatego, ¿e s¹ bardziej stworzeni do cieszenia siê tymi rzeczami, ni¿ nieokrzesani nie-obywatele. Poza tym ka¿dy mo¿e otrzymaæ obywatelstwo, je¿eli przejdzie test.}
 {232}{}{Nie wiem, jak ludzie zareaguj¹ tutaj w Redding na rz¹dy Kryptopolis.}
 {233}{}{Ta, bez w¹tpienia. Do zobaczenia, doktorze.}
-{234}{}{Nape³niam inhalatory Jetem, a potem rozprowadzam go z czystego obywatelskiego obowi¹zku. Nie zarabiam na tym. Gdyby nie ja, to jakiœ inny palant przygotowywa³by narkotyk u¿ywaj¹c pe³nego zarazków, zardzewia³ego sprzêtu. Nigdy bym po czymœ takim nie uwolni³ tej spo³ecznoœci od zarazy.}
+{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
+ Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{Jaki mi³y z ciebie facet, doktorze. To wspania³e. W takim razie zapytam ciê o coœ innego.}
 {236}{}{Jak¿e *szlachetnie* z twojej strony, doktorze.}
 {237}{}{Interesuj¹ce. Zobaczymy siê póŸniej, doktorze. Do widzenia.}

@@ -63,7 +63,7 @@
 {305}{}{Tu fais bien de reprendre avec les Mordino. On voyage.}
 {306}{}{Tu veux du Jet ? Je peux t'arranger ça, chica.}
 {307}{}{Chica, je ferais n'importe quoi pour toi... Allez, donne un petit baiser au P'tit Jésus.}
-{308}{}{Besoin de stimulants ? De gnôle ? T'as du fric ? Je peux t'aider. J'ai des connexions, tu vois ?}
+{308}{}{Tu veux des stimulants ? De la gnôle ? Des jetons ? Je peux t'arranger ça. J'ai des relations moi.}
 {315}{}{Te pavane pas avec des trucs en fer dans le coin. Range ça.}
 {320}{}{Pas besoin de te planquer, esclavagiste, Ok ? Y a que des amis ici.}
 {325}{}{Hé ! T'as pigé ou quoi ? Range ce truc ou je vais devoir te faire mal.}

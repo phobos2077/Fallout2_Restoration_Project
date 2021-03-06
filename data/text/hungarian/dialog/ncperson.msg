@@ -298,7 +298,7 @@
 {608}{}{Ez egy remek város... a turistákat leszámítva.}
 {609}{}{Ez egy remek város... a hajcsárokat leszámítva.}
 {610}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
-{611}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{A Golgota a sivatagban van, délre Renótól.}
 {613}{}{Lehet, hogy szegény vagyok, de nem lélekben.}
 {614}{}{Nem vagyok szegény, csak rohadtul balszerencsés.}
@@ -338,7 +338,7 @@
 {659}{}{Ez egy remek város... a turistákat leszámítva.}
 {660}{}{Ez egy remek város... a hajcsárokat leszámítva.}
 {661}{}{Ez egy remek város... a striciket és a kurvákat leszámítva.}
-{662}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {663}{}{A Golgota a sivatagban van, délre Renótól.}
 {664}{}{Lehet, hogy szegény vagyok, de nem lélekben.}
 {665}{}{Nem vagyok szegény, csak rohadtul balszerencsés.}
@@ -377,7 +377,7 @@
 {700}{}{Ma éjszaka valami akcióra vágyom!}
 {701}{}{Találj egy kurvát, játszadozz!}
 {702}{}{Mrs. Bishopnak aztán csinos popsija van.}
-{703}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {704}{}{A Golgota a sivatagban van, délre Renótól.}
 {705}{}{Lehet, hogy szegény vagyok, de nem lélekben.}
 {706}{}{Nem vagyok szegény, csak rohadtul balszerencsés.}

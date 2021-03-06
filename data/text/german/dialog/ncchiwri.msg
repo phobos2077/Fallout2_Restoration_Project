@@ -39,8 +39,9 @@
 {290}{}{Du hast noch nie was von der Familie Wright gehört? Du hast dich wohl zu lang draußen in der Wüste rumgetrieben, wie?
  Die Familie Wright ist die größte Mafia-Familie in Reno. Wir werden diese Stadt beherrschen}
 {291}{}{Wirklich? Klingt so, als ob die Wright-Familie alle Karten in der Hand hält. Stellt ihr jemanden ein?}
-{292}{}{Eigentlich hatte ich den Eindruck, dass ihr eine der schwächsten Familien seid...ich meine, ihr handelt nur mit
- Alkohol, ihr habt kein Kasino und kein Bein im Jet-Handel und ihr seid viel weniger Leute als in anderen Familien.}
+{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
+ only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
+ other families.}
 {293}{}{Wo wir gerade von Familie reden, ich bin deiner Ma begegnet.}
 {294}{}{Kannst du mir sagen, was deinem Bruder Richard zugestoßen ist?}
 {295}{}{Wirklich? Wie interessant... tja, hör mal, ich muss gehen.}
@@ -96,8 +97,8 @@
  und eine tagelange Predigt. Hä.}
 {401}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {402}{}{Hmmmmm. Danke. }
-{410}{}{Richard? Tja, weißt du, man hat ihn gefunden wie einen dieser Jet-Toten, in der Gosse. Soweit wir es uns erklären
- können, hat ihn jemand so lange mit Jet vollgepumpt, bis er tot war.}
+{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
+ figure, someone pumped him with drugs until he was dead.}
 {411}{}{"Jemand" hat ihm zuviel gegeben? Woher willst du wissen, dass er nicht SELBST zuviel genommen hat?}
 {412}{}{Wer, glaubst du, könnte das getan haben?}
 {413}{}{Hm, sehr bedauerlich. Ich hätte da noch ein paar weitere Fragen...}
@@ -105,14 +106,14 @@
 {420}{}{Weil er ein ordentlicher Junge war. Wenigstens dazu hat ihn Mutter erzogen. Und falls du anderer Meinung bist, können
  wir das gern an Ort und Stelle klären.}
 {421}{}{So hab ich das nicht gemeint. Tut mir leid, dass ich danach gefragt habe.}
-{422}{}{Du solltest die Möglichkeit nicht ausschließen, dass er es doch noch genommen hat. Jet macht das Verlangen nach mehr.}
+{422}{}{Du solltest die Möglichkeit nicht ausschließen, dass er es doch noch genommen hat. Jet macht extrem abhängig.}
 {423}{}{Hör mal, KLEINER, wenn du weißt, was gut für dich ist, hörst du besser auf, jedes Mal gleich die Flinte ins Korn zu
  werfen, wenn dir eine unangenehme Wahrheit über den Weg läuft.}
 {424}{}{Wer, glaubst du, könnte das getan haben?}
 {425}{}{Ich will keinen Streß. Ich geh lieber. }
 {435}{}{Ja...na ja, pass besser auf. Das ist wie 'ne Kampfansage an die Wrights, also reiß lieber deine Klappe nicht so weit
  auf, klar?}
-{436}{}{Du solltest die Möglichkeit nicht ausschließen, dass er es doch noch genommen hat. Jet macht das Verlangen nach mehr.}
+{436}{}{Du solltest die Möglichkeit nicht ausschließen, dass er es doch noch genommen hat. Jet macht extrem abhängig.}
 {437}{}{Hör mal, *Kleiner*, fang jetzt nicht so mit mir an. Wenn du weißt, was gut für dich ist, hörst du besser auf, jedes
  Mal gleich die Flinte ins Korn zu werfen, wenn dich eine unangenehme Wahrheit in den Hintern beißt.}
 {438}{}{Tut mir leid, ich wollte dir nicht auf die Füße treten. Sag mal, ich hab da noch ein paar Fragen...}
@@ -135,8 +136,8 @@
 {487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiss. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
-{495}{}{Jules verkauft auch Jet, aber fast nur an Touristen. Und dann wär da noch Little Jesus Mordino: Von dem könnte
- Richard das Zeug gekriegt haben, als er allein unterwegs war. Treibt sich im Desperado rum.}
+{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
+ he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
 {496}{}{Verstehe. Sag mal, ich hab da noch ein paar Fragen...}
 {497}{}{Jagged Jimmy J, Renesco, genannt Rocketman, Jules und Little Jesus...die knöpf ich mir vor. Besten Dank für die
  Infos, Chris. }

@@ -298,7 +298,7 @@
 {608}{}{Questa citta' e' splendida…se si escludono i turisti.}
 {609}{}{Questa citta' e' splendida…se si escludono gli schiavisti.}
 {610}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
-{611}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{Il Golgotha e' a sud di Reno, nel deserto.}
 {613}{}{Saro' anche povero, ma non mi manca lo spirito.}
 {614}{}{Non sono povero, ho solo una sfortuna nera.}
@@ -338,7 +338,7 @@
 {659}{}{Questa citta' e' splendida…se si escludono i turisti.}
 {660}{}{Questa citta' e' splendida…se si escludono gli schiavisti.}
 {661}{}{Questa citta' e' splendida…se si escludono i papponi e le troie.}
-{662}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {663}{}{Il Golgotha e' a sud di Reno, nel deserto.}
 {664}{}{Saro' anche povero, ma non mi manca lo spirito.}
 {665}{}{Non sono povero, ho solo una sfortuna nera.}
@@ -377,7 +377,7 @@
 {700}{}{Stanotte si fa festa!}
 {701}{}{Trovati una puttana e divertiti.}
 {702}{}{La signora Bishop ha davvero un gran bel culo.}
-{703}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {704}{}{Il Golgotha e' a sud di Reno, nel deserto.}
 {705}{}{Saro' anche povero, ma non mi manca lo spirito.}
 {706}{}{Non sono povero, ho solo una sfortuna nera.}

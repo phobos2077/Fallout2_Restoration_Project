@@ -3,7 +3,7 @@
 {2}{}{Volba druhu zbranì}
 {3}{}{Vzdálenost}
 {4}{}{Útoè na}
-{5}{}{Nadopuj se}
+{5}{}{Drug Use}
 {10}{}{KONEC}
 {11}{}{Zrušit}
 {99}{}{Nelze použít.}

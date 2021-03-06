@@ -416,7 +416,7 @@
 {516}{}{Monte Tres-Cartas}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Guardaespaldas}
+{519}{}{Guardaespaldas de Bishop}
 {520}{}{John Bishop}
 {521}{}{Tragaperras}
 {522}{}{Chico del desguace}
@@ -822,7 +822,7 @@
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
-{925}{}{Comerciante de armas}
+{925}{}{Mai Da Chiang}
 {926}{}{Puerta}
 {927}{}{Puerta}
 {928}{}{Emisor}
@@ -889,7 +889,7 @@
 {989}{}{Existencias de Darrow}
 {990}{}{Puerta}
 {991}{}{Mutante superguay}
-{992}{}{Farmaceútico}
+{992}{}{Doctor Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchior Jr.}
 {995}{}{Escaner de retina}
