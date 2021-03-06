@@ -5,6 +5,7 @@ This file lists changes for RPU only. See original RP changelog [here](rp-change
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 19](#version-19)
 - [Version 18](#version-18)
 - [Version 17](#version-17)
 - [Version 16](#version-16)
@@ -26,8 +27,20 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
-### Unreleased
-- [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/66) Melee and Unarmed skills in Cat Jules' level 5 proto.
+### Version 19
+- Cat Jules' Melee and Unarmed skills [properly increase](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/66) when he hits level 5.
+- Lenny will [keep his appearance](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/68) when custom options are used in NPC Armor settings.
+- Sulik will no longer [endlessly complain](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/72) about being poisoned after being hit by poison in EPA.
+- Linux: fixed AmmoMod installation on case sensitive fs.
+- EPA bots will have some [weapons](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/73). Also, they can be disabled with Repair, like Sierra ones.
+- XP rewards for Kaga are [more consistent](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/78). Also, Kaga will wield more appropriate weapons at each level (2: hunting rifle instead of 14mm pistol, 3: assault rifle instead of combat shotgun, 4: super cattle prod instead of laser rifle).
+- PC can get a book from a [shelf in top right corner](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/86) of the 2nd level in Abbey.
+- [EPA plants](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/87)
+  - Will use their special spikes.
+  - PC no longer can (try) to talk to them.
+  - Won't keep combat going when they don't see the enemy.
+  - Using the spray will award the same XP as killing them normally.
+  - All this also applies to plants inside EPA.
 
 ### Version 18
 Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance) to v2.1, shipping only canon sets by default.
