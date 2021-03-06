@@ -23,6 +23,9 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 1. Launch, point the installer to the game directory, choose language and options.
 1. After installation, see `mods/rpu.ini` for various settings that can be configured.
 
+#### Linux / MacOS
+Follow the [instruction](docs/linux.md).
+
 ### Additional mods
 #### Included
 RPU includes the following mods:
