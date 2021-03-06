@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Jet is a powerful methamphetamine that stimulates the central nervous system. The initial euphoric rush rarely lasts more than a few minutes, but during that time, the user is filled with a rush of energy & strength.}
 {26000}{}{Jet Antidote}
-{26001}{}{This antidote cures the reliant effects of Jet.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Jonny's BB Gun}
 {26101}{}{A Red Ryder BB gun with the name 'Jonny' scratched on the stock. Min ST: 3.}
 {26200}{}{Rubber Boots}

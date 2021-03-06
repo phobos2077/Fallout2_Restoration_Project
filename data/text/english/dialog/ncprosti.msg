@@ -190,7 +190,7 @@
 {345}{}{Need someone to yank your leash, slaver?}
 {346}{}{Myron still keeps coming around...}
 {347}{}{That Bishop girl is a bed-bunny.}
-{348}{}{She ain't no Jet reliant, she's a BONE reliant.}
+{348}{}{She ain't no Jet addict, she's a BONE addict.}
 {349}{}{Action at the Cat's Paw is heating up...}
 {350}{}{Had a marathon session running away from Myron last night...}
 {351}{}{Looking for some TLC, slaver?}
@@ -389,7 +389,7 @@
 {538}{}{What does he expect me to do, bend down for him?}
 {539}{}{Keep thinking that Reno sign's gonna fall down...}
 {540}{}{That Bishop girl is a bed-bunny.}
-{541}{}{She ain't no Jet reliant, she's a BONE reliant.}
+{541}{}{She ain't no Jet addict, she's a BONE addict.}
 {542}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
 {543}{}{Felt like I was in a marathon last night...}
 {544}{}{Looking for love, honey?}
@@ -554,7 +554,7 @@
 {701}{}{What does he expect me to do, bend down for him?}
 {702}{}{Keep thinking that Reno sign's gonna fall down...}
 {703}{}{That Bishop girl is a bed-bunny.}
-{704}{}{She ain't no Jet reliant, she's a BONE reliant.}
+{704}{}{She ain't no Jet addict, she's a BONE addict.}
 {705}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
 {706}{}{Felt like I was in a marathon last night...}
 {707}{}{Looking for love, honey?}
@@ -801,7 +801,7 @@
 {934}{}{Myron's a real twister.}
 {935}{}{AC-DC, B n' D, whatever.}
 {936}{}{That Bishop girl is a bed-bunny.}
-{937}{}{She ain't no Jet reliant, she's a BONE reliant.}
+{937}{}{She ain't no Jet addict, she's a BONE addict.}
 {938}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
 {939}{}{Felt like I was in a marathon last night...}
 {940}{}{Looking for love, honey?}
@@ -977,7 +977,7 @@
 {1108}{}{Myron's a real twister.}
 {1109}{}{AC-DC, B n' D, whatever.}
 {1110}{}{That Bishop girl is a bed-bunny.}
-{1111}{}{She ain't no Jet reliant, she's a BONE reliant.}
+{1111}{}{She ain't no Jet addict, she's a BONE addict.}
 {1112}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
 {1113}{}{Felt like I was in a marathon last night...}
 {1114}{}{Looking for love, honey?}
@@ -1152,7 +1152,7 @@
 {1281}{}{Myron's a real twister.}
 {1282}{}{AC-DC, B n' D, whatever.}
 {1283}{}{That Bishop girl is a bed-bunny.}
-{1284}{}{She ain't no Jet reliant, she's a BONE reliant.}
+{1284}{}{She ain't no Jet addict, she's a BONE addict.}
 {1285}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
 {1286}{}{Felt like I was in a marathon last night...}
 {1287}{}{Looking for love, honey?}

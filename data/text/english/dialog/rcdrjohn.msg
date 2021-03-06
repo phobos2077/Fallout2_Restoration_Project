@@ -99,7 +99,7 @@
 {181}{}{All of the miners here are only working enough to get their next hit of Jet. Production here has
  really slowed down. If this keeps up, New Reno's going to own Redding.}
 {182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet reliance.}
+ worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
 {183}{}{What does New Reno have to do with it?}
 {184}{}{Where does the Jet come from?}
 {185}{}{I see. Let me ask you about something else.}
@@ -123,7 +123,7 @@
 {201}{}{Glad it worked, Doc. Goodbye for now.}
 {202}{}{A solution? What do you mean?}
 {203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-reliance problem that you have here.}
+ Jet-addiction problem that you have here.}
 {204}{}{Oh, nothing. Let me ask you about something else, Doc.}
 {205}{}{We sure do. Too much Jet, not enough work... but where did you hear about that?}
 {206}{}{McClure in Vault City told me.}

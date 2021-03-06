@@ -34,8 +34,8 @@
 {208}{}{By some strange twist of fate, people around you die violently.  You always see the worst way a person can die.}
 {209}{}{The good thing is that everyone around you has more critical failures in combat, the bad thing is so do you!}
 {210}{}{You studied less-combative skills as you were growing up.  Your combat skills start at a lower level, but First Aid, Doctor, Speech and Barter are substantially improved.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be reliant by drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
+{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
+{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
 {213}{}{You've got the "right" stuff.  Members of the opposite sex are attracted to you, but those of the same sex tend to become quite jealous.}
 {214}{}{Since you spent more time improving your skills than a normal person, you gain 5 additional skill points per experience level. The tradeoff is that you do not gain as many extra abilities. You gain a perk every four levels.}
 {215}{}{You have more innate abilities than most, so you have not spent as much time honing your skills.  Your primary statistics are each +1, but you lose -10% on all skills to start, and receive 5 less skill points per level.}
