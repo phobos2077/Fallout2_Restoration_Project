@@ -54,4 +54,4 @@ For additional QoL options, check out:
 - [Walkthrough](http://hem.bredband.net/darek1/f2rp_wt.htm) (heavy spoilers)
 - [Known issues](docs/known.md)
 - [Reporting crashes](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/crash.md)
-- [Credits](docs/credits.md).
+- [Credits](docs/credits.md)
