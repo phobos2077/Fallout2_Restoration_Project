@@ -22,6 +22,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+- killap's RP 2.3.3
+  - [readme](rp-readme.txt)
+  - [changelog](rp-changelog.txt)
 
 ### Unreleased
 - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/66) Melee and Unarmed skills in Cat Jules' level 5 proto.

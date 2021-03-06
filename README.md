@@ -1,59 +1,32 @@
-## Fallout 2 Restoration Project, updated
+## Fallout 2 Restoration Project, updated <a href="#"><img align="right" src="extra/bin/fallout2_logo.png" width="35%" alt="Fallout 2 logo"/></a>
 
 [![Build status](https://github.com/BGforgeNet/Fallout2_Restoration_Project/workflows/build/badge.svg)](https://github.com/BGforgeNet/Fallout2_Restoration_Project/actions?query=workflow%3Abuild)
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/rp/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/rp/)
 [![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
-| [__Install__](#installation)
-| [__Included mods__](#included-mods)
-| [__Report issues__](#reporting-issues)
-| [__Translations__](#translations)
+| [__Installation__](#installation)
+| [__Bug reports__](#bug-reports-feature-requests)
+| [__Translations__](docs/translations.md)
+| [__Additional mods__](#additional-mods)
 
 This is an updated version of [killap's Restoration Project](http://killap.net/) for Fallout 2.
 
 Docs: [changelog](docs/changelog.md), [original readme](docs/rp-readme.txt), [new content description](docs/rp-new_content.txt) (spoilers), [walkthrough](http://hem.bredband.net/darek1/f2rp_wt.htm) (heavy spoilers), [credits](docs/credits.md).
 
 ### Installation
-- RPU _requires_ starting a **new game**. (One exception is [updating](#update) from RP or a previous RPU version.)
-- If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
+- RPU must be installed on vanilla game.
+- RPU requires starting a **new game** after installation.
+
+(One exception is [updating](docs/update.md) from UP or a previous UPU version).
 
 #### Windows
 1. Download `rpu_v*.exe` from the [latest release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest) page.
-1. Launch, point the installer to the game directory, select the desired language.
+1. Launch, point the installer to the game directory, choose language and options.
+1. After installation, see `mods/rpu.ini` for various settings that can be configured.
 
-#### Linux / MacOS
-- You can follow the procedure for Windows, launching the exe with wine.
-- Alternatively, you can perform the installation manually:
-  1. Download `rpu_v*.zip` from the [latest release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest) page.
-  1. Extract the archive into the main game directory, overwriting files when asked.
-  1. Launch `rpu-install.sh` (Linux) or `rpu-install.command` (MacOS).
-
-**Notes:**
-1. RPU can be installed on top of RP 2.3.3. That does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
-1. If you made any changes to `ddraw.ini` prior to RPU installation, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to new `ddraw.ini`.
-1. [UPU](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch) is included into RPU. You don't need to install UPU separately.
-1. See `mods/rpu.ini` for various settings that can be configured.
-
-Special note for _Linux/MacOS_ users:
-When launching the game, you **must** set dll overrides: `WINEDLLOVERRIDES='ddraw.dll=n,b' wine fallout2.exe` (or use wine preferences to configure this). If you don't do that, the game will not work correctly.
-
-### Update
-Make sure to **backup your saves** or better yet, the entire game directory **before** updating.
-
-* You can update from an older RPU version.
-* You can install RPU on top of RP 2.3.3 to make use of the fixes.
-
-In both cases, you won't see some of the fixes on already visited maps. Other than that, savegames should be compatible, but **no guarantees**.
-
-### Translations
-Most translations are **incomplete**, they are provided as is. You can [help with completion](https://tra.bgforge.net/projects/fallout/rp/). Details are [here](docs/translations.md).
-
-Translations are included in the [automatic installer](#windows). Only if you install _manually_ and want to play a localized version:
-1. Download `rpu_v*_translations.zip` from the [latest release page](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest). Extract the archive, copy _only_ the desired language `dat` file into `mods` subdirectory.
-1. Change `language=english` in `fallout2.cfg` to your selected language. (Example: `language=spanish`).
-
-### Included mods
+### Additional mods
+#### Included
 RPU includes the following mods:
 - [Unofficial Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch)
 - [High quality music](https://github.com/BGforgeNet/Fallout2-HQ-music)
@@ -66,15 +39,21 @@ RPU includes the following mods:
 - Voice for Cassidy
 - High resolution patch.
 
+#### Recommended
 For additional QoL options, check out:
 - [Ultra HQ music](https://github.com/BGforgeNet/Fallout2-HQ-music)
 - [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
 - [Inventory filter](https://nma-fallout.com/threads/inventory-filter.214445/)
 
-### Reporting issues
-If you've found an issue:
+### Bug reports, feature requests
+1. Go to [github issues](https://github.com/Fallout2_Restoration_Project/issues) or [forums](https://forums.bgforge.net/viewforum.php?f=39).
+2. Open an issue/topic, describe the bug. Report each bug separately.
+3. Attach a savegame and a screenshot.
 
-1. Make sure it's in RP's content. Vanilla bugs should be reported to [UPU](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch). Bugs in other mods - to the corresponding authors.
-1. Keep in mind that RP's scope is only to restore cut content. Not to add "nice to to have" things.
-1. Check [known issues](docs/known.md).
-1. Follow the [instruction](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/reporting.md) (note that this link leads to UPU repo, don't confuse them).
+### Additional info
+[__Changelog__](docs/changelog.md)
+| [__New content description__](rp-new_content.txt) (spoilers)
+| [__Walkthrough__](http://hem.bredband.net/darek1/f2rp_wt.htm) (heavy spoilers)
+| [__Known issues__](docs/known.md)
+| [__Reporting crashes__](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/crash.md)
+| [__Credits__](docs/credits.md).
