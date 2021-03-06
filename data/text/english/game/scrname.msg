@@ -982,7 +982,7 @@
 {1064}{}{Map Script}                    # KlaTrap.int     ; Map Script for Klamath Still area
 {1065}{}{Lydia}                         # VCDwnBar.int    ; Vault City Downtown Bartender
 {1066}{}{}                              # RedDTun.int     ; Redding Downtown Tunnels
-{1067}{}{Rocketman}                     # FCRocMan.int    ; Rocket man in San Fran
+{1067}{}{Harry the Rocketman}           # FCRocMan.int    ; Rocket man in San Fran
 {1068}{}{AHS-7}                         # FCOz7.int       ; Oz 7 in San Fran
 {1069}{}{Crockett}                      # FCCrocke.int    ; Crockett in San Fran
 {1070}{}{Amanda}                        # VCAmanda.int    ; Vault City Coutryard Amanda, Joshua's Wife
@@ -1073,7 +1073,7 @@
 {1155}{}{Quartermaster}                 # CcQmstr.int     ; Quartermaster in Navarro
 {1156}{}{Guard}                         # CcMedGrd.int    ; Med Lab Guard in Navarro
 {1157}{}{K-9}                           # CcK9.int        ; K9 in Navarro
-{1158}{}{Doctor}                        # CcDoctor.int    ; Dr Shreber in Navarro
+{1158}{}{Doctor Schreber}               # CcDoctor.int    ; Dr Shreber in Navarro
 {1159}{}{Technician}                    # CcATech.int     ; Air Tech in Navarro
 {1160}{}{Technician}                    # CcACon.int      ; Air Control in Navarro
 {1161}{}{Guard}                         # CcDrGrd.int     ; Door Guard in Navarro
@@ -1117,9 +1117,9 @@
 {1199}{}{Klaxon}                        # QIKlaxon.int    ; Klaxon Lights for Enclave when under alert
 {1200}{}{Mine}                          # IIMine.int      ; Mines in Raiders Cave
 {1201}{}{Pit}                           # IIPit.int       ; Pits in the Raiders Cave
-{1202}{}{Tanker Merchant}               # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
-{1203}{}{Tanker Bartender}              # FCTnkBar.int    ; Tanker Bar Tender
-{1204}{}{Tanker Merchant}               # FCTnkMer.int    ; Tanker Merchant
+{1202}{}{Cal}		                        # FCTnkGmr.int    ; Tanker Gun Merchant San Fran
+{1203}{}{Slim}		                      # FCTnkBar.int    ; Tanker Bar Tender
+{1204}{}{Jenna}		                      # FCTnkMer.int    ; Tanker Merchant
 {1205}{}{}                              # FITGunTb.int    ; Tanker Gun Mer's table
 {1206}{}{}                              # FITMerTb.int    ; Tanker Merchant's Table
 {1207}{}{Emitter}                       # FSPemtr1.int    ; Palace Emitter 1
@@ -1145,7 +1145,7 @@
 {1227}{}{Computer}                      # ccNComp.int     ; Navarro Computer
 {1228}{}{Kohl}                          # vcKohl.int      ; Vault City Info Officer Kohl
 {1229}{}{Child}                         # ECChild.int     ; Random Encounter Children
-{1230}{}{Cook}                          # ccCook.int      ; Navarro Cook
+{1230}{}{Cookie}                        # ccCook.int      ; Navarro Cook
 {1231}{}{Turret}                        # ccTurret.int    ; Navarro Turret
 {1232}{}{Brian}                         # hcBrian.int     ; Brian, the Power Technician
 {1233}{}{Generator}                     # hiPower.int     ; Power Generator for Broken Hills
