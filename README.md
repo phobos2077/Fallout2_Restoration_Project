@@ -16,7 +16,7 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 - RPU must be installed on vanilla game.
 - RPU requires starting a **new game** after installation.
 
-(One exception is [updating](docs/update.md) from UP or a previous UPU version).
+(One exception is [updating](docs/update.md) from RP or a previous RPU version).
 
 #### Windows
 1. Download `rpu_v*.exe` from the [latest release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest) page.
