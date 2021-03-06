@@ -44,7 +44,7 @@ For additional QoL options, check out:
 - [Inventory filter](https://nma-fallout.com/threads/inventory-filter.214445/)
 
 ### Bug reports, feature requests
-1. Go to [github issues](https://github.com/Fallout2_Restoration_Project/issues) or [forums](https://forums.bgforge.net/viewforum.php?f=39).
+1. Go to [github issues](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues) or [forums](https://forums.bgforge.net/viewforum.php?f=39).
 2. Open an issue/topic, describe the bug. Report each bug separately.
 3. Attach a savegame and a screenshot.
 
