@@ -285,8 +285,8 @@
 {367}{}{Goo}                            # ATGoo.int       ; Goo in the Garden Map
 {368}{}{Door}                           # KSCVDoor.int    ; Door in Klamath Rat Caves
 {369}{}{Door}                           # KSMalldr.int    ; Door in Klamall..get key from Slim or Dog
-{370}{}{}                          # ZCGecko.int     ; Generic gecko
-{371}{}{}                   # ZCLGecko.int    ; Generic Golden Gecko
+{370}{}{}                               # ZCGecko.int     ; Generic gecko
+{371}{}{}                               # ZCLGecko.int    ; Generic Golden Gecko
 {372}{}{Map Script}                     # 2ndSt.int       ; 2nd Street Map Script
 {373}{}{Map Script}                     # ChopShop.int    ; Chop Shop Map Script
 {374}{}{Map Script}                     # GeckPwpl.int    ; Gecko Power Plant Map Script
@@ -434,7 +434,7 @@
 {516}{}{Three Card Monte}               # nc3Monte.int    ; New Reno Three Card Monte
 {517}{}{Algernon}                       # ncAlgern.int    ; New Reno Algernon
 {518}{}{Bill}                           # ncBill .int     ; New Reno Bill (Trees Lounge)
-{519}{}{Bodyguard}                      # ncBisGrd.int    ; New Reno Bishop's Bodyguards
+{519}{}{Bishop's Bodyguard}             # ncBisGrd.int    ; New Reno Bishop's Bodyguards
 {520}{}{John Bishop}                    # ncBishop.int    ; New Reno John Bishop
 {521}{}{Casino Machine}                 # niCasMac.int    ; New Reno Casino Machine
 {522}{}{Chop Shop Boy}                  # ncChpBoy.int    ; New Reno Chop Shop Boys
@@ -840,7 +840,7 @@
 {922}{}{Josh}                           # RCJosh.int      ; Josh Laurance of Redding
 {923}{}{Caminetto}                      # RCCamint.int    ; Caminetto in bar fight in redding
 {924}{}{Bette}                          # RCBette.int     ; Blasphemous Bette in bar fight in redding
-{925}{}{Gun Merchant}                   # FCGunmer.int    ; San Fran's gun Merchant
+{925}{}{Mai Da Chiang}                  # FCGunmer.int    ; San Fran's gun Merchant
 {926}{}{Door}                           # ZIWodDor.int    ; Generic Wooden Door
 {927}{}{Door}                           # ZIMtlDor.int    ; Generic Metal Door
 {928}{}{Emitter}                        # SSEmtN2.int     ; Emitter in NCR area 2
@@ -907,7 +907,7 @@
 {989}{}{Darrow's Stock}                 # VIDarBox.int    ; Vault City Darrow Shop Inventory
 {990}{}{Door}                           # HSCrlDr.int     ; Jail cell door for Broken Hills
 {991}{}{Super Duper Mutant}             # ecTlkMut.int    ; Military Base Conversation Mutants
-{992}{}{Chemist}                        # fcChemst.int    ; Chemist in San Francisco
+{992}{}{Dr. Jing Tie Gahng}             # fcChemst.int    ; Chemist in San Francisco
 {993}{}{Grundel}                        # ecGrunde.int    ; Military Base Mouse Hunter
 {994}{}{Melchior Jr.}                   # ecMelKid.int    ; Some Town USA, Melchior's Kid
 {995}{}{Retinal Scanner}                # WIRetScn.int    ; Retinal Scanner in the Sieera Base
@@ -941,7 +941,7 @@
 {1023}{}{Computer Terminal}             # FSBioSta.int    ; Biology computer station in San Fran
 {1024}{}{Computer Terminal}             # FSCheSta.int    ; Chemistry computer station in San Fran
 {1025}{}{Lao Chou}                      # FCLaoCho.int    ; Merchant in San Fran
-{1026}{}{}                              # FIPaper.int     ; Scrap Papers that combine should only be put on one of thepeaces.
+{1026}{}{}                              # FIPaper.int     ; Scrap Papers that combine into password note. Should only be put on one of the pieces.
 {1027}{}{Ventilation Shaft}             # CSVent.int      ; Ventilation shaft for Navarro
 {1028}{}{Map Script}                    # EncTrp.int      ; Map Script for Enclave Trap Rooms
 {1029}{}{Dead Body}                     # HtBody.int      ; Script for dead bodies in Broken Hills

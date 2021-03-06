@@ -917,7 +917,7 @@
 {46901}{}{A very strong liquor or cleaning fluid, you decide.}
 {47000}{}{Ball Gag}
 {47001}{}{A questionable sexual device. If you need to ask, you don't want to know.}
-{47100}{}{The Lavender Flower}
+{47100}{}{"The Lavender Flower"}
 {47101}{}{It appears to be some kind of romance novel written by Dorothy Rixon. The cover has a woman laying on a bed surrounded by a hundred flowers.}
 {47200}{}{Hubologist Holodisk}
 {47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}

@@ -4163,7 +4163,7 @@
 {40964}{}{You aim to please. I shoot to kill.}
 {40965}{}{You ain't got the sand to take me down.}
 {40966}{}{Looks like you're stupid AND blind.}
-{40967}{}{Missed me by a few % points.}
+{40967}{}{Missed me by a few percentage points.}
 {40968}{}{You must be one wall-eyed sonuvabitch}
 {40969}{}{Yer aim's off. Next turn, it's gonna be your head.}
 {40970}{}{Hell, I'm a fossil, an' I can hit better than you.}
@@ -4906,7 +4906,7 @@
 {44436}{}{Systems malfunction.}
 {44437}{}{Power systems fluctuating. Activating reserve power.}
 {44438}{}{Main hull integrity compromised. Main circuits exposed.}
-{44439}{}{Power conditioning unit damage. Operating at 75% capacity.}
+{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
 #
 # target hit in right motivator
 #
