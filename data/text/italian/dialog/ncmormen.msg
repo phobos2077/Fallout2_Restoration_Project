@@ -149,11 +149,13 @@
 {472}{}{A giudicare dalla tua tosse e dal modo in cui ti strofini il naso, non saprei proprio dove potrebbe andare a finire, tutto il Jet che viene consegnato qui...}
 {473}{}{Big J, vedi, si prende cura di noi, eh? Appena la settimana scorsa ho beccato tre schiavi che erano stati tanto stupidi da cercare di scappare. Percio' mi sono meritato una ricompensa, capito? Eh eh. E invece tu non prendi un cazzo. Obbedisci e basta. Io... io sono una GUARDIA.}
 {474}{}{Certo... magnifico... Stammi bene.}
-{475}{}{Chissa' se Big Jesus sa come hanno fatto quei tre schiavi a scappare sotto al NASO di una guardia cosi' sveglia e Jet-dipendente come te...}
+{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
+ guards such as yourself.}
 {476}{}{Ramirez... sta' attento a quello che mi dici, ok? La tua linguaccia ti mettera' nei guai.}
 {480}{}{(Batte le palpebre.) Eh...? Cos'hai detto?}
 {481}{}{Nulla che tu sia in grado di capire o che io abbia voglia di ripetere. Stammi bene, okay?}
-{482}{}{Ho detto: "Chissa' se Big Jesus sa come hanno fatto quei tre schiavi a scappare sotto al NASO di una guardia cosi' sveglia e Jet-dipendente come te."}
+{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
+ perceptive, Jet-addicted guards such as yourself."}
 {490}{}{(Batte le palpebre, sorride in modo ebete.) Eh? Si'... si'... Sono un tipo furbo, io... sve-sveglio... io sono una GUARDIA, giusto?}
 {491}{}{Si', l'hai detto anche prima. Se fossi in te, Ramirez, farei un favore all'umanita' tutta e mi snifferei l'intero contenuto di quella scatola in un colpo solo. Ci vediamo.}
 {492}{}{Cielo, sono davvero contento che qualcuno abbia avuto la saggezza di darti quell'arma automatica. A dopo, Ramirez.}

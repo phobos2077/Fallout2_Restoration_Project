@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Il Jet e' una potente metanfetamina che stimola il sistema nervoso centrale. L'iniziale scarica euforica raramente dura piu' di qualche minuto, ma, durante questo periodo, chi l'assume e' pieno di energie.}
 {26000}{}{Antidoto al Jet}
-{26001}{}{Questo antidoto cura gli effetti della dipendenza da Jet.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Fucile ad Aria Compressa di Jonny}
 {26101}{}{Un fucile ad aria compressa Red Ryder con il nome 'Jonny' inciso sul calcio. Min FZ: 3.}
 {26200}{}{Stivali di Gomma}

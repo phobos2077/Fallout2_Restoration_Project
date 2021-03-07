@@ -964,7 +964,7 @@
 {1064}{}{Script de Cart}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Homme-fusée}
+{1067}{}{Harry the Rocketman}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Intendant}
 {1156}{}{Garde}
 {1157}{}{Chien cybernétique}
-{1158}{}{Médecine}
+{1158}{}{Doctor Schreber}
 {1159}{}{Technicien}
 {1160}{}{Technicien}
 {1161}{}{Garde}
@@ -1099,9 +1099,9 @@
 {1199}{}{Klaxon}
 {1200}{}{Mine}
 {1201}{}{Puits}
-{1202}{}{Marchand du pétrolier}
-{1203}{}{Barman du pétrolier}
-{1204}{}{Marchand du pétrolier}
+{1202}{}{Cal}
+{1203}{}{Svelte}
+{1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emetteur}
@@ -1127,7 +1127,7 @@
 {1227}{}{Ordinateur}
 {1228}{}{Kohl}
 {1229}{}{Enfant}
-{1230}{}{Cuistot}
+{1230}{}{Biscuit}
 {1231}{}{Tourelle}
 {1232}{}{Brian}
 {1233}{}{Générateur}

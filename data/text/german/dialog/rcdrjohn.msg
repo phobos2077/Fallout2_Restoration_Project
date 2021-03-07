@@ -119,9 +119,8 @@
 {181}{}{Alle Bergarbeiter hier arbeiten nur gerade so viel, dass sie sich ihren nächsten Schuss
  Jet leisten können. Die Produktion ist ganz schön zurückgegangen. Wenn das so weitergeht,
  gehört Redding bald New Reno.}
-{182}{}{Alles, was die Bergarbeiter in letzter Zeit hier tun, ist Jet nehmen. Es gräbt kaum
- noch jemand nach Gold. Ich mach mir Sorgen, dass New Reno die Stadt bald in der Tasche hat. Ich
- wünschte wirklich, dass es einen Weg gäbe, diesem Jet bald ein Ende zu bereiten.}
+{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
+ worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
 {183}{}{Was hat denn New Reno damit zu tun?}
 {184}{}{Woher kommt denn das Jet?}
 {185}{}{Ach so. Lass mich dich noch was fragen.}
@@ -149,8 +148,8 @@
 {200}{}{Was hat denn New Reno damit zu tun gehabt?}
 {201}{}{Bin froh, dass es funktioniert hat, Doc. Dann Tschüss.}
 {202}{}{Eine Lösung? Was meinst du?}
-{203}{}{Ich meine, dass ich ein Mittel gegen Jet habe. Es ist von Dr. Troy aus Vault City und
- es sollte eigentlich das Jet-Problem lösen, dass ihr hier habt.}
+{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
+ Jet-addiction problem that you have here.}
 {204}{}{Och, nichts. Lass mich dich noch etwas fragen, Doc.}
 {205}{}{Allerdings, zuviel Jet, zu wenig Arbeit... aber wo hast du das gehört?}
 {206}{}{McClure aus Vault City hat's mir erzählt.}

@@ -171,7 +171,7 @@
 {345}{}{Nem kell valaki, aki megcsattogtatja a korbácsodat, hajcsár?}
 {346}{}{Myron folyton erre jár...}
 {347}{}{A Bishop lány egy lepedõvirtuóz.}
-{348}{}{Az a csaj nem Jet-függõ, hanem farokfüggõ.}
+{348}{}{She ain't no Jet addict, she's a BONE addict.}
 {349}{}{A Cat's Paw aztán akciódús egy hely...}
 {350}{}{Múlt éjjel, mikor Myron elõl futottam, megdöntöttem a maratoni világrekordot...}
 {351}{}{Nincs szükséged egy tanárnõre, hajcsár?}
@@ -364,7 +364,7 @@
 {538}{}{Mit vár el tõlem, hogy lehajoljak hozzá?}
 {539}{}{Elgondolkodtató, hogy Reno cégére le akar esni.}
 {540}{}{A Bishop lány egy lepedõvirtuóz.}
-{541}{}{Az a csaj nem Jet-függõ, hanem farokfüggõ.}
+{541}{}{She ain't no Jet addict, she's a BONE addict.}
 {542}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
 {543}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
 {544}{}{Szerelemre vágysz, kicsim?}
@@ -527,7 +527,7 @@
 {701}{}{Mit vár el tõlem, hogy lehajoljak hozzá?}
 {702}{}{Elgondolkodtató, hogy Reno cégére le akar esni.}
 {703}{}{A Bishop lány egy lepedõvirtuóz.}
-{704}{}{Az a csaj nem Jet-függõ, hanem farokfüggõ.}
+{704}{}{She ain't no Jet addict, she's a BONE addict.}
 {705}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
 {706}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
 {707}{}{Szerelemre vágysz, kicsim?}
@@ -760,7 +760,7 @@
 {934}{}{Myron egy igazi forgószél.}
 {935}{}{AC-DC, B n' D, egyre megy.}
 {936}{}{A Bishop lány egy lepedõvirtuóz.}
-{937}{}{Az a csaj nem Jet-függõ, hanem farokfüggõ.}
+{937}{}{She ain't no Jet addict, she's a BONE addict.}
 {938}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
 {939}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
 {940}{}{Szerelemre vágysz, kicsim?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron egy igazi forgószél.}
 {1109}{}{AC-DC, B n' D, egyre megy.}
 {1110}{}{A Bishop lány egy lepedõvirtuóz.}
-{1111}{}{Az a csaj nem Jet-függõ, hanem farokfüggõ.}
+{1111}{}{She ain't no Jet addict, she's a BONE addict.}
 {1112}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
 {1113}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
 {1114}{}{Szerelemre vágysz, kicsim?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron egy igazi forgószél.}
 {1282}{}{AC-DC, B n' D, egyre megy.}
 {1283}{}{A Bishop lány egy lepedõvirtuóz.}
-{1284}{}{Az a csaj nem Jet-függõ, hanem farokfüggõ.}
+{1284}{}{She ain't no Jet addict, she's a BONE addict.}
 {1285}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
 {1286}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
 {1287}{}{Szerelemre vágysz, kicsim?}

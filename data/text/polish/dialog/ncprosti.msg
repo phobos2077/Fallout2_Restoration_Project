@@ -171,7 +171,7 @@
 {345}{}{Chcesz siê ostro zabawiæ, £owco?}
 {346}{}{Myron ci¹gle tu zagl¹da...}
 {347}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{348}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
+{348}{}{She ain't no Jet addict, she's a BONE addict.}
 {349}{}{Podobno w Kociej £apce robi siê naprawdê gor¹co...}
 {350}{}{Wczoraj przez dwie godziny ucieka³am przed Myronem...}
 {351}{}{Szukasz przyjació³ki, £owco?}
@@ -364,7 +364,7 @@
 {538}{}{Co on sobie wyobra¿a, ¿e padnê przed nim na kolana?}
 {539}{}{Ten cholerny znak kiedyœ spadnie mi na g³owê...}
 {540}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{541}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
+{541}{}{She ain't no Jet addict, she's a BONE addict.}
 {542}{}{Podobno w Kryptopolis maj¹ tylko dwa rodzaje obywateli. Mo¿e oni ich tam klonuj¹?}
 {543}{}{Czujê siê jakbym wziê³a udzia³ w maratonie...}
 {544}{}{Szukasz mi³oœci, skarbie?}
@@ -527,7 +527,7 @@
 {701}{}{Co on sobie wyobra¿a, ¿e padnê przed nim na kolana?}
 {702}{}{Ten cholerny znak kiedyœ spadnie mi na g³owê...}
 {703}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{704}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
+{704}{}{She ain't no Jet addict, she's a BONE addict.}
 {705}{}{Podobno w Kryptopolis maj¹ tylko dwa rodzaje obywateli. Mo¿e oni ich tam klonuj¹?}
 {706}{}{Czujê siê jakbym wziê³a udzia³ w maratonie...}
 {707}{}{Szukasz mi³oœci, skarbie?}
@@ -760,7 +760,7 @@
 {934}{}{Myron to prawdziwy pajac.}
 {935}{}{Homo, hetero, jestem uniwersalna.}
 {936}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{937}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
+{937}{}{She ain't no Jet addict, she's a BONE addict.}
 {938}{}{Podobno w Kryptopolis maj¹ tylko dwa rodzaje obywateli. Mo¿e oni ich tam klonuj¹?}
 {939}{}{Czujê siê jakbym wziê³a udzia³ w maratonie...}
 {940}{}{Szukasz mi³oœci, skarbie?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron to prawdziwy pajac.}
 {1109}{}{Homo, hetero, jestem uniwersalna.}
 {1110}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{1111}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
+{1111}{}{She ain't no Jet addict, she's a BONE addict.}
 {1112}{}{Podobno w Kryptopolis maj¹ tylko dwa rodzaje obywateli. Mo¿e oni ich tam klonuj¹?}
 {1113}{}{Czujê siê jakbym wziê³a udzia³ w maratonie...}
 {1114}{}{Szukasz mi³oœci, skarbie?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron to prawdziwy pajac.}
 {1282}{}{Homo, hetero, jestem uniwersalna.}
 {1283}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{1284}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
+{1284}{}{She ain't no Jet addict, she's a BONE addict.}
 {1285}{}{Podobno w Kryptopolis maj¹ tylko dwa rodzaje obywateli. Mo¿e oni ich tam klonuj¹?}
 {1286}{}{Czujê siê jakbym wziê³a udzia³ w maratonie...}
 {1287}{}{Szukasz mi³oœci, skarbie?}

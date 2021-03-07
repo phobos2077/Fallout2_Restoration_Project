@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Rocketman}
+{1067}{}{Harry the Rocketman}
 {1068}{}{BHK-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Raktáros}
 {1156}{}{Õr}
 {1157}{}{K-9}
-{1158}{}{Orvos}
+{1158}{}{Doctor Schreber}
 {1159}{}{Technikus}
 {1160}{}{Technikus}
 {1161}{}{Õr}
@@ -1099,9 +1099,9 @@
 {1199}{}{Riasztó}
 {1200}{}{Bánya}
 {1201}{}{Üreg}
-{1202}{}{Tanker kereskedõ}
-{1203}{}{Tanker csapos}
-{1204}{}{Tanker kereskedõ}
+{1202}{}{Cal}
+{1203}{}{Vézna}
+{1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emitter}
@@ -1127,7 +1127,7 @@
 {1227}{}{Számítógép}
 {1228}{}{Kohl}
 {1229}{}{Gyerek}
-{1230}{}{Szakács}
+{1230}{}{Süti}
 {1231}{}{Lövegtorony}
 {1232}{}{Brian}
 {1233}{}{Generátor}

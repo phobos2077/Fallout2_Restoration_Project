@@ -18,22 +18,22 @@
 {117}{}{Sztuka przetrwania}
 {200}{}{U¿ytkowanie, konserwacja i ogólna znajomoœæ rêcznej broni palnej - pistoletów, rewolwerów, pistoletów maszynowych i karabinów.}
 {201}{}{U¿ytkowanie i konserwacja naprawdê du¿ych spluw - wielolufowych karabinów maszynowych, wyrzutni rakiet, miotaczy ognia itp.}
-{202}{}{Konserwacja i ³adowanie broni energetycznych. Wiedza, jak uzbroiæ i pos³u¿yæ siê broni¹ wykorzystuj¹c¹ technologiê laserow¹ b¹dŸ plazmow¹.}
-{203}{}{Suma wschodnich sztuk walki, boksu i innych technik walki bez broni. Zasady prowadzenia boju za pomoc¹ samego cia³a.}
+{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
+{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
 {204}{}{Zasady pos³ugiwania siê broni¹ bia³¹ - kastetami, no¿ami, m³otami, w³óczniami itd. - w bezpoœrednim starciu.}
 {205}{}{Umiejêtnoœæ pos³ugiwania siê broni¹ miotan¹ - ciskanymi no¿ami, w³óczniami i granatami.}
-{206}{}{Podstawowa umiejêtnoœæ medyczna, wykorzystywana do leczenia skaleczeñ, otaræ i innych pomniejszych dolegliwoœci. Opatrzenie ran jest na krótk¹ metê w stanie zniwelowaæ wiêcej obra¿eñ ni¿ sam odpoczynek.}
-{207}{}{Sztuka uzdrawiania powa¿nych ran i okaleczonych koñczyn. Bez zastosowania umiejêtnoœci leczenia, powrót tych ostatnich do pe³nej sprawnoœci trwa o wiele d³u¿ej.}
-{208}{}{Zdolnoœæ skrytego przemieszczania siê, po³¹czona z bieg³oœci¹ w kamufla¿u. Umiejêtnie zastosowane, powa¿nie utrudni twoje wykrycie. Podczas skradania tryb biegu nie jest dostêpny.}
-{209}{}{Umiejêtnoœæ otwierania zamków bez w³aœciwego klucza. Pos³ugiwanie siê wytrychami (klasycznymi lub elektronicznymi) bardzo w tym pomaga.}
-{210}{}{Zdolnoœæ czynienia cudzych rzeczy w³asnymi. Okradaæ mo¿na zarówno osoby (najlepiej zakradaj¹c siê od ty³u), jak i miejsca.}
-{211}{}{Umiejêtnoœæ wykrywania i usuwanie pu³apek, jak równie¿ podk³adania ³adunków wybuchowych.}
+{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
+{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
+{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
 {212}{}{Obejmuj¹ wiele zaawansowanych dziedzin, takich jak m.in. informatyka, biologia, fizyka i geologia.}
 {213}{}{Praktyczne zastosowanie znajomoœci nauk œcis³ych. Naprawianie zepsutego wyposa¿enia, maszyn oraz urz¹dzeñ elektronicznych.}
-{214}{}{Sztuka efektywnego komunikowania siê, przekonywania innych do w³asnego zdania, oraz ³gania w sposób wykluczaj¹cy przy³apanie.}
-{215}{}{Umiejêtnoœæ uzyskiwania lepszych cen na sprzedawane i kupowane przedmioty.}
-{216}{}{Teoria i praktyka zak³adów. Umiejêtnoœæ grania w karty, koœci i inne gry hazardowe.}
-{217}{}{Praktyczna znajomoœæ zasad ¿ycia na niezamieszka³ych terenach, umiejêtnoœæ korzystania z darów natury (i materia³ów rozszczepialnych). Wiedza o florze i faunie.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x ZR)}
 {301}{}{+ (2 x ZR)}
 {302}{}{+ (2 x ZR)}

@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Jet ist ein sehr wirkungsvolles Methamphetamin, es stimuliert das zentrale Nervensystem. Der anfängliche Euphorieschub dauert nur selten länger als ein paar Minuten, doch während dieser Zeit verspürt der Anwender einen Schub von Energie und Stärke.}
 {26000}{}{Gegengift für Jet}
-{26001}{}{Dieses Gegenmittel kuriert die Suchtwirkung von Jet.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Jonnys Luftgewehr}
 {26101}{}{Ein Luftgewehr der Marke Red Ryder, in dessen Lauf der Name 'Jonny' geritzt ist. Mindest-ST: 3.}
 {26200}{}{Gummistiefel}

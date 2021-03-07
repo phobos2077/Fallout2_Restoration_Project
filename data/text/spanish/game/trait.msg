@@ -25,8 +25,8 @@
 {208}{}{Por algún extraño giro del destino, la gente a tu alrededor muere violentamente. Siempre verás la peor forma en la que una persona puede morir.}
 {209}{}{Lo bueno es que todo el mundo a tu alrededor tiene más fallos críticos en combate, ¡lo malo es que tú también!}
 {210}{}{Estudiaste habilidades pacíficas cuando estabas creciendo. Tu habilidad para el combate comienza a un nivel menor, pero tu habilidad en Primeros Auxilios, Doctor, Conversación y Trueque aumenta.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be reliant by drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
+{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
+{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
 {213}{}{Tienes "mojo". Los miembros del sexo opuesto se sentirán atraídos por ti, pero los del mismo sexo podrían ponerse celosos.}
 {214}{}{Como has pasado más tiempo que los demás mejorando tus habilidades, ganas 5 puntos de habilidad adicionales por cada nivel. La pega es que no ganas tantas habilidades extras y sólo ganas un extra cada 4 niveles.}
 {215}{}{Tienes un mayor talento innato que la mayoría, pero no perdiste el tiempo mejorando tus habilidades. Tus atributos aumentan +1, pero pierdes el 10% de puntos de habilidad al empezar, y recibes 5 puntos menos por nivel.}

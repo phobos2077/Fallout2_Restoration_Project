@@ -25,8 +25,8 @@
 {208}{}{Por uma estranha ironia do destino, as pessoas ao seu redor morrem violentamente. Você sempre vê a pior forma que uma pessoa pode morrer.}
 {209}{}{A coisa boa é que todos ao seu redor possui falhas mais críticas em combate, a única coisa ruim é que você também!}
 {210}{}{Você estudou habilidades pacíficas quando você estava crescendo. Suas habilidades de combate começam em um nível mais baixo, mas suas habilidades em Primeiros Socorros, Médico, fala e negociação são melhores.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be reliant by drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
+{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
+{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
 {213}{}{Você é um garanhão". Os membros do sexo oposto se setiram atraídos por você, mas aqueles do mesmo sexo tendem a ficar bastante ciumento.}
 {214}{}{Você passou mais tempo melhorando suas habilidades, ganha 5 pontos de habilidade adicionais por nível de experiência. A desvantagem é que você não ganhar o máximo de habilidades extras.}
 {215}{}{Você tem mais habilidades do que a maioria. Suas estatísticas primárias aumentam em +1, mas você perde 10% em todas as habilidades para começar, e recebe menos 5 pontos de perícia por nível.}

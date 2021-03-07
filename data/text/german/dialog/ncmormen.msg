@@ -149,11 +149,13 @@
 {472}{}{Wenn ich mir deinen Jet-Husten so anhöre und sehe, wie du deine Nase reibst, kann ich mir wirklich nicht vorstellen, wo das ganze gelieferte Jet bleibt.}
 {473}{}{Big J, weißte, der kümmert sich um uns. Erst letzte Woche hab ich drei Sklaven gefangen, die dumm genug war'n abzuhauen. Also krieg ich 'ne Belohnung, klar? Heh. Und du kriegst nix. Du bist nur 'n Laufbursche. Ich, ich bin 'ne WACHE.}
 {474}{}{Ja, großartig. Mach's gut.}
-{475}{}{Ich frage mich, ob Big Jesus darüber nachdenkt, wie drei Sklaven direkt vor der NASE von derart scharfsinnigen, Jet nehmenden Wachen wie dir entkommen konnten.}
+{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
+ guards such as yourself.}
 {476}{}{Ramirez... pass auf, was du zu mir sagst, OK? Pass auf, dass dein Maul deinen Hintern nicht in Schwierigkeiten bringt.}
 {480}{}{(Blinzelt.) Hä...? Was sagst du?}
 {481}{}{Nichts, was du verstehst oder was ich jetzt noch mal wiederhole. Mach's gut, okay?}
-{482}{}{Ich sagte, "Ich frage mich, ob Big Jesus darüber nachdenkt, wie drei Sklaven direkt vor der NASE von derart scharfsinnigen, Jet nehmenden Wachen wie dir entkommen konnten".}
+{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
+ perceptive, Jet-addicted guards such as yourself."}
 {490}{}{(Blinzelt, lächelt verwirrt.) Hä? Ja, ja. Ich bin scharf, weißt du... scharf-sinnig... Ich bin 'ne WACHE, klar?}
 {491}{}{Ja, das hast du bereits erwähnt. An deiner Stelle, Ramirez, würde ich der Menschheit eine Gunst erweisen und das ganze Paket Jet auf einmal nehmen. Bis dann.}
 {492}{}{Junge, bin ich froh, dass einer so klug war, euch allen automatische Waffen zu geben. Gibt mir ein Gefühl der Sicherheit. Bis dann, Ramirez.}

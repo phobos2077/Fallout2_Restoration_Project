@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Jet is a powerful methamphetamine that stimulates the central nervous system. The initial euphoric rush rarely lasts more than a few minutes, but during that time, the user is filled with a rush of energy & strength.}
 {26000}{}{Jet-ellenszer}
-{26001}{}{Ez az ellenszer a Jet-függõséget gyógyítja.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Jonny BB puskája}
 {26101}{}{Egy Red Ryder BB puska, melynek markolatába a "Jonny" nevet karcolták. Min ER: 3.}
 {26200}{}{Gumicsizma}

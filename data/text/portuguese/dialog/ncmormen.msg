@@ -151,13 +151,13 @@
 {473}{}{Big J, vê, ele toma conta da gente, hã? Só na semana passada, eu capturei três escravos que estavam burros demais pra correr.
  Então fui recompensado, vê? Heh. E você não vai falar meeeeerda... Fech... fecha a matraca. Eu... eu sou um GUARDA.}
 {474}{}{É, legal. Eu vou indo então.}
-{475}{}{Imagina se o Big Jesus soubesse como esses três escravos escaparam debaixo do NARIZES tão perceptivos, de guardas viciados em Jet
- como você.}
+{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
+ guards such as yourself.}
 {476}{}{Ramirez... cuidado com o que você fala comigo, certo? Não deixe sua boca colocar seu traseiro em apuros.}
 {480}{}{(Pisca.) Hã...? O que você disse?}
 {481}{}{Nada que você entenderia ou que eu me importasse em repetir. Eu vou indo.}
-{482}{}{Eu disse, "Imagina se o Big Jesus soubesse como esses três escravos escaparam debaixo do NARIZES tão perceptivos, de guardas viciados em Jet
- como você."}
+{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
+ perceptive, Jet-addicted guards such as yourself."}
 {490}{}{(Pisca, sorri com confusão.) HÃ? É, é. Eu sou esperto, vê... per-ceptivo... eu sou um GUARDA, certo?}
 {491}{}{É, você mencionou isso antes. Se eu fosse você Ramirez, faria um favor a toda a humanidade e tomaria a caixa inteira
  de Jet de uma vez só. Te vejo por aí.}

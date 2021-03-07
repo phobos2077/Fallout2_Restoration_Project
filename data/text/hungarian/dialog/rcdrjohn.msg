@@ -80,7 +80,8 @@
 {179}{}{Ahm, ja, izé... Majd gondolkodom rajta. Viszlát, doki!}
 {180}{}{Úgy tûnik, újabban egyre több bányász élvezi a Jet hatását, ahelyett hogy dolgoznának. Ha ez továbbra is így marad, Redding aranytermelése hamarosan a nullával lesz egyenlõ. Úgy látszik, ez New Renót cseppet sem izgatja.}
 {181}{}{Itt az összes bányász csak éppen annyit dolgozik, hogy meg tudja szerezni a következõ adag Jetjét. A termelés ezáltal hihetetlenül lelassult. Ha nem változik a helyzet, New Reno bekebelezi Reddinget.}
-{182}{}{Az utóbbi idõben a bányászok mást sem csinálnak, csak belövik magukat. Aranyat már rég nem bányászik senki. Tartok tõle, hogy hamarosan New Reno fogja uralni ezt a várost. A leghõbb vágyam, hogy valamilyen módon megszüntethessük ezt a Jet-függõséget.}
+{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
+ worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
 {183}{}{Mi köze van ehhez New Renónak?}
 {184}{}{Honnan érkezik a Jet?}
 {185}{}{Értem. Szeretnék még néhány kérdést feltenni.}
@@ -101,7 +102,8 @@
 {200}{}{Mi köze volt ehhez New Renónak?}
 {201}{}{Jó érzés, hogy bevált, doki. Most viszlát!}
 {202}{}{Sikerült megoldanod? Mit értesz ez alatt?}
-{203}{}{Azt értem alatta, hogy van nálam egy Jet-ellenanyag. A Menedékvárosban dolgozó Troy doktor készítette, és ez minden bizonnyal megoldja Redding Jet-függõségbõl adódó problémáit.}
+{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
+ Jet-addiction problem that you have here.}
 {204}{}{Áh, semmi! Hadd kérdezzek valami mást, doki!}
 {205}{}{Hogyne. Túl sok Jet, a munka meg akadozik... de hol hallottál te errõl?}
 {206}{}{McClure mondta nekem Menedékvárosban.}

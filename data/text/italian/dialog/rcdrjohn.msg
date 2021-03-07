@@ -80,7 +80,8 @@
 {179}{}{Uh, certo... beh, ci pensero'. Arrivederci, Doc.}
 {180}{}{Ultimamente sembra che la maggior parte dei minatori passi tutto il suo tempo a farsi di Jet piuttosto che scavare in miniera. Se la situazione non dovesse cambiare, presto la produzione d'oro a Redding si fermera'. A quelli di New Reno non sembra interessare, pero'.}
 {181}{}{Tutti i minatori della citta' lavorano solo quanto basta per comprare un'altra dose di Jet. La produzione ha subito un brusco rallentamento. Se continua cosi', New Reno presto prendera' il controllo di Redding.}
-{182}{}{Tutto quello che i minatori ultimamente fanno e' drogarsi. Praticamente non e' rimasto piu' nessuno ad estrarre l'oro. Temo che New Reno possa prendere il controllo di questa citta'. Vorrei tanto che ci fosse un modo per bloccare la dipendenza da Jet.}
+{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
+ worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
 {183}{}{Cosa c'entra New Reno con questa storia?}
 {184}{}{Da dove proviene il Jet?}
 {185}{}{Capisco. Lascia che ti chieda qualcos'altro.}
@@ -101,7 +102,8 @@
 {200}{}{Cosa c'entra New Reno con questa storia?}
 {201}{}{Sono contento che abbia funzionato, Doc. Arrivederci.}
 {202}{}{Una soluzione? Cosa intendi dire?}
-{203}{}{Intendo dire che sono in possesso di un antidoto contro il Jet. Il Dr. Troy di Vault City l'ha sintetizzato e dovrebbe risolvere il problema di Jet-dipendenza che avete qui.}
+{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
+ Jet-addiction problem that you have here.}
 {204}{}{Oh, nulla. Lascia che ti chieda qualcos'altro, Doc.}
 {205}{}{Certo che li abbiamo. Troppo Jet, non abbastanza lavoro... ma dove l'hai sentito, questo?}
 {206}{}{E' stato McClure di Vault City, a dirmelo.}

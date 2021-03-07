@@ -18,22 +18,22 @@
 {117}{}{Escursionista}
 {200}{}{L'uso, la cura e la conoscenza generale di piccole armi da fuoco - pistole, mitragliette e fucili.}
 {201}{}{L'utilizzo e la manutenzione di grosse armi - mitragliatrici, lanciarazzi, lanciafiamme e affini.}
-{202}{}{The care and feeding of energy-based weapons. How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts. Combat with your hands and feet.}
+{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
+{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
 {204}{}{L'utilizzo di armi da mischia in un combattimento corpo a corpo - coltelli, martelli da guerra, lance, bastoni e cosi' via.}
 {205}{}{L'abilita' di utilizzare armi da distanza a "propellente muscolare", come coltelli da lancio, lance e granate.}
-{206}{}{General healing skill. Used to heal small cuts, abrasions and other minor ills. In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs. Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
-{208}{}{Movimento silenzioso e abilita' di passare inosservati. Se effettuato con successo, sara' molto piu' difficile localizzarti. Non si puo' correre e usare Movimento Furtivo allo stesso tempo.}
-{209}{}{L'abilita' di aprire serrature senza l'apposita chiave. L'uso di un set da scassinatore o di un grimaldello elettronico migliorera' di molto questa abilita'.}
-{210}{}{The ability to make the things of others your own. Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps. Also the setting of explosives for demolition purposes.}
+{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
+{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
+{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
 {212}{}{Comprende una gran quantita' di abilita' legate alla tecnologia, come l'informatica, la biologia, la fisica e la geologia.}
 {213}{}{L'applicazione pratica dell'abilita' Scienza per riparare equipaggiamenti, macchinari e strumenti elettronici danneggiati.}
-{214}{}{L'abilita' di comunicare in maniera pratica ed efficace. L'abilita' di convincere il prossimo che si e' nel giusto. L'abilita' di mentire senza esser scoperti.}
-{215}{}{Compiti direttamente o indirettamente legati al commercio. L'abilita' di avere prezzi piu' alti per gli oggetti venduti, e prezzi piu' bassi per gli oggetti comprati.}
-{216}{}{La conoscenza e le abilita' pratiche legate al gioco d'azzardo. La bravura con le carte, i dadi e altri giochi.}
-{217}{}{Conoscenza pratica delle zone all'aperto e l'abilita' di vivere lontano dalla civilta'. La conoscenza di piante e animali.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}

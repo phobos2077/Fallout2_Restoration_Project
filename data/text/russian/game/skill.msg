@@ -18,22 +18,22 @@
 {117}{}{Натуралист}
 {200}{}{Навыки обращения, ухода и общие знания о легком огнестрельном оружии: пистолетах, ПП и винтовках.}
 {201}{}{Обращение и уход за тяжелым оружием: миниганами, гранатометами, огнеметами и так далее.}
-{202}{}{Навыки обращения с энергетическим оружием; общие представления о том, как заряжать и стрелять из оружия, использующего лазерную и плазменную технологии.}
-{203}{}{Сборная солянка из боевых искусств: бокс и другие виды единоборств. Ведение боя при помощи рук и ног.}
+{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
+{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
 {204}{}{Использование оружия ближнего действия в рукопашном или ближнем бою: ножи, кувалды, копья, дубинки и так далее.}
 {205}{}{Навык обращения с метательным оружием: соответствующие ножи, копья и гранаты.}
-{206}{}{Общие навыки лечения. Исцеление незначительных повреждений. Использование первой помощи восстанавливает больше очков здоровья, чем простой сон.}
-{207}{}{Излечение серьезных ранений и искалеченных конечностей. Без этого навыка поврежденные части тела будут заживать намного дольше.}
-{208}{}{Способность тихо передвигаться и оставаться незамеченным. В случае успеха вас будет намного сложнее обнаружить. Нельзя одновременно бежать и использовать скрытность.}
-{209}{}{Навык открывания замков без надлежащего ключа. Использование отмычек или электронных отмычек значительно повышает этот навык.}
-{210}{}{Способность присваивать чужие вещи. Используется для обчистки людей и нелюдей.}
-{211}{}{Способность найти и обезвредить ловушку, а также грамотно установить взрывчатку.}
+{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
+{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
+{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
 {212}{}{Включает в себя несколько высокотехнологичных навыков, таких как знание компьютеров, биологии, физики и геологии.}
 {213}{}{Практическое применение научных навыков - ремонт сломанного оборудования, аппаратуры и электроники.}
-{214}{}{Способность вести диалог целенаправленно и эффективно. Навык убеждения других в истинности вашей точки зрения. Способность лгать и не быть уличенным во лжи.}
-{215}{}{Торговля и все, что имеет к ней отношение. Способность продавать свой товар по более высоким ценам и покупать чужой - по более низким.}
-{216}{}{Знания и практические навыки, имеющие отношения к азартным играм. Навык игры в карты, кости и тому подобное.}
-{217}{}{Практические знания о природе, способность прокормить себя в пустыне. Знания о растениях и животных.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x ЛВ)}
 {301}{}{+ (2 x ЛВ)}
 {302}{}{+ (2 x ЛВ)}

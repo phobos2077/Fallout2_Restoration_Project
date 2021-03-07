@@ -88,8 +88,8 @@
 {295}{}{Nächstes mal, wenn du der Enklave in den Arsch trittst hol mich vorher ab und wir machen das ZUSAMMEN.}
 {296}{}{Tritt in ihren Arsch, }
 {297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
-{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
- I LOVE that one.}
+{298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Charakter mit einer Affinität zu Drogen. Wirklich! Nimm das Merkmal drogenabhängig!
+Ich LIEBE es.}
 {299}{}{Danke für unsere Rettung. Ich würde dich küssen, wenn ich nicht diesen Ausschlag hätte.}
 {300}{}{Ich hätte auch die Enklave besiegen können, wenn ich genug Jet gehabt hätte.}
 {301}{}{[Singt.] "We don't need another hero, we don't need to know the way home..."}

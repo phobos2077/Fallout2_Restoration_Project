@@ -171,7 +171,7 @@
 {345}{}{¿Necesitas a alguien que tire de tu correa, esclavista?}
 {346}{}{Myron aún sigue rondando por ahí...}
 {347}{}{Esa Bishop es una cachonda.}
-{348}{}{No es adicta al Jet, es adicta al SEXO.}
+{348}{}{She ain't no Jet addict, she's a BONE addict.}
 {349}{}{La acción en La Garra de la Gata se está poniendo al rojo...}
 {350}{}{Anoche tuve una sesión maratoniana de huir de Myron...}
 {351}{}{¿Quieres unos amorosos cuidados, esclavista?}
@@ -364,7 +364,7 @@
 {538}{}{¿Qué esperas que haga, arrodillarme para él?}
 {539}{}{Sigo pensando que ese cartel de Reno se va a caer...}
 {540}{}{Esa Bishop es una cachonda.}
-{541}{}{No es adicta al Jet, es adicta al SEXO.}
+{541}{}{She ain't no Jet addict, she's a BONE addict.}
 {542}{}{He oído que Ciudad Refugio sólo tiene dos tipos de Ciudadanos. Quizá fue algún accidente de clonación.}
 {543}{}{Me siento como si hubiera corrido una maratón anoche...}
 {544}{}{¿Buscas amor, cariño?}
@@ -527,7 +527,7 @@
 {701}{}{¿Qué esperas que haga, arrodillarme para él?}
 {702}{}{Sigo pensando que ese cartel de Reno se va a caer...}
 {703}{}{Esa Bishop es una cachonda.}
-{704}{}{No es adicta al Jet, es adicta al SEXO.}
+{704}{}{She ain't no Jet addict, she's a BONE addict.}
 {705}{}{He oído que Ciudad Refugio sólo tiene dos tipos de Ciudadanos. Quizá fue algún accidente de clonación.}
 {706}{}{Me siento como si hubiera corrido una maratón anoche...}
 {707}{}{¿Buscas amor, cariño?}
@@ -764,7 +764,7 @@
 {934}{}{Myron es un huracán.}
 {935}{}{AC-DC, BND, lo que sea.}
 {936}{}{Esa Bishop es una cachonda.}
-{937}{}{No es adicta al Jet, es adicta al SEXO.}
+{937}{}{She ain't no Jet addict, she's a BONE addict.}
 {938}{}{He oído que Ciudad Refugio sólo tiene dos tipos de Ciudadanos. Quizá fue algún accidente de clonación.}
 {939}{}{Me siento como si hubiera corrido una maratón anoche...}
 {940}{}{¿Buscas amor, cariño?}
@@ -938,7 +938,7 @@
 {1108}{}{Myron es un huracán.}
 {1109}{}{AC-DC, BND, lo que sea.}
 {1110}{}{Esa Bishop es una cachonda.}
-{1111}{}{No es adicta al Jet, es adicta al SEXO.}
+{1111}{}{She ain't no Jet addict, she's a BONE addict.}
 {1112}{}{He oído que Ciudad Refugio sólo tiene dos tipos de Ciudadanos. Quizá fue algún accidente de clonación.}
 {1113}{}{Me siento como si hubiera corrido una maratón anoche...}
 {1114}{}{¿Buscas amor, cariño?}
@@ -1111,7 +1111,7 @@
 {1281}{}{Myron es un huracán.}
 {1282}{}{AC-DC, BND, lo que sea.}
 {1283}{}{Esa Bishop es una cachonda.}
-{1284}{}{No es adicta al Jet, es adicta al SEXO.}
+{1284}{}{She ain't no Jet addict, she's a BONE addict.}
 {1285}{}{He oído que Ciudad Refugio sólo tiene dos tipos de Ciudadanos. Quizá fue algún accidente de clonación.}
 {1286}{}{Me siento como si hubiera corrido una maratón anoche...}
 {1287}{}{¿Buscas amor, cariño?}

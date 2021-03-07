@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Velmi úèinný metamfetamin, který stimuluje centrální nervový systém. Poèáteèní euforie odezní již po nìkolika minutách, ale bìhem této doby je konzument naplnìn pøívalem síly a energie.}
 {26000}{}{Protilátka na Jet}
-{26001}{}{Tato protilátka dokáže vyléèit závislost na Jetu.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Jonnyho vzduchovka}
 {26101}{}{Vzduchovka znaèky Red Ryder. Na pažbì je vyškrábané jméno 'Jonny'. Min. SÍ: 3.}
 {26200}{}{Gumové holínky}

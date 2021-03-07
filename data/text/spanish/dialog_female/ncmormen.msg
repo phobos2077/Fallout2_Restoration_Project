@@ -151,13 +151,13 @@
 {473}{}{Verás, Gran J cuida de nosotros, ¿eh? Justo la semana pasada, atrapé a tres esclavos que fueron lo bastante tontos como para huir.
  Así que me recompensó, ¿sabes? Je. Y tú no vas a conseguir una mierda. No eres más que un recadero. Yo soy un GUARDIA.}
 {474}{}{Sí, fantástico. Ten cuidado.}
-{475}{}{Me pregunto si Gran Jesús se ha parado a pensar en cómo esos tres esclavos estuvieron a punto de escapar en las NARICES de unos guardias tan perceptivos y adictos
- al Jet como tú.}
+{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
+ guards such as yourself.}
 {476}{}{Ramirez... cuidado con lo que dices de mí, ¿de acuerdo? No permitas que tu lengua meta en problemas a tu culo.}
 {480}{}{(Parpadea). ¿Eh...? ¿Qué has dicho?}
 {481}{}{Nada que vayas a entender o que me vaya a molestar en repetir ahora mismo. Cuídate, ¿vale?}
-{482}{}{He dicho, "Me pregunto si Gran Jesús se ha parado a pensar en cómo esos tres esclavos estuvieron a punto de escapar
- en las NARICES de unos guardias tan perceptivos y adictos al Jet como tú."}
+{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
+ perceptive, Jet-addicted guards such as yourself."}
 {490}{}{(Parpadea y sonríe confuso). ¿Eh? Sí, sí. Yo soy, eh... perspect... soy un GUARDIA, ¿vale?}
 {491}{}{Sí, ya lo has mencionado. Si yo fuera tú, Ramirez, le haría un favor a la humanidad y me tomaría toda la caja
  de Jet de un tirón. Nos vemos.}

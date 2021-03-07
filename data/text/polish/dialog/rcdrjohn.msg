@@ -80,7 +80,8 @@
 {179}{}{Ee, dobra, pomyœlê nad tym. Do widzenia, doktorze.}
 {180}{}{Ostatnio wydaje siê, ¿e wiêcej górników zajmuje siê odlotem po Jecie, ni¿ wydobywaniem. Je¿eli tak dalej bêdzie, to produkcja z³ota w Redding zostanie wstrzymana. Ale Nowe Reno nie wygl¹da na bardzo przejête.}
 {181}{}{Wszyscy tutejsi górnicy pracuj¹ tylko tyle, aby wystarczy³o im na nastêpn¹ dzia³kê Jetu. Tutejsza produkcja naprawdê zwolni³a tempo. Je¿eli tak dalej pójdzie, Nowe Reno zaw³adnie Redding.}
-{182}{}{Ostatnio jedyne, co robi¹ tutaj górnicy, to bycie na haju. Praktycznie nikt ju¿ nie wydobywa z³ota. Bojê siê, ¿e Nowe Reno przejmie to miasto. Chcia³bym bardzo, aby by³ jakiœ sposób na powstrzymanie tego uzale¿nienia od Jetu.}
+{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
+ worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
 {183}{}{A co ma z tym wspólnego Nowe Reno?}
 {184}{}{Sk¹d pochodzi Jet?}
 {185}{}{Rozumiem. Pozwól, ¿e spytam o coœ innego.}
@@ -101,7 +102,8 @@
 {200}{}{Co Nowe Reno mia³o z tym wspólnego?}
 {201}{}{Cieszê siê, ¿e zadzia³a³o, doktorze. Do zobaczenia.}
 {202}{}{Rozwi¹zanie? Co masz na myœli?}
-{203}{}{To znaczy, ¿e mam antidotum na Jet. Zsyntezowa³ je dr Troy z Kryptopolis, powinno rozwi¹zaæ tutejszy problem uzale¿nienia od Jetu.}
+{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
+ Jet-addiction problem that you have here.}
 {204}{}{Ach, nic takiego. Pozwól, ¿e spytam o coœ innego, doktorze.}
 {205}{}{O tak. Za du¿o Jetu, za ma³o pracy... ale kto ci o tym powiedzia³?}
 {206}{}{McClure w Kryptopolis.}

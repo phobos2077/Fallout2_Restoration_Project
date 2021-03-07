@@ -18,22 +18,22 @@
 {117}{}{Pøežití v pustinì}
 {200}{}{Používání, údržba a obecné znalosti o lehkých støelných zbraních jako jsou pistole, samopaly a pušky.}
 {201}{}{Používání, údržba a obecné znalosti o tìžkých støelných zbraních jako jsou gatlingy, kulomety, raketomety, plamenomety apod.}
-{202}{}{Používání, údržba a obecné znalosti o energetických zbraních. Technika ovládání zbraní založených na laserové nebo plazmové technologii.}
-{203}{}{Kombinace bojových umìní, boxu a dalších technik boje beze zbranì. Boj jen s pomocí rukou a nohou.}
+{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
+{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
 {204}{}{Používání chladných zbraní na krátkou vzdálenost jako napø. nože, kladiva, kopí, kyje apod.}
 {205}{}{Dovednost zacházení s vrhacími zbranìmi jako napø. vrhací nože, oštìpy a granáty.}
-{206}{}{Obecné léèitelské znalosti používané k vyléèení drobnìjších øezných ran, odøenin a všeobecnì lehèích zranìní. Jednoduše øeèeno, použití první pomoci mùže za kratší èas vyléèit více hit bodù než spánek.}
-{207}{}{Léèení vážných zranìní a zmrzaèených konèetin. Bez použití této dovednosti bude trvat mnohem déle, než se zmrzaèené konèetiny vyléèí natolik, aby byly znovu použitelné.}
-{208}{}{Dovednost se tiše a nepozorovanì pohybovat. Pro ostatní je mnohem tìžší tì odhalit. Plížení a bìh není možné používat najednou.}
-{209}{}{Dovednost otevírat zámky bez klíèe. Použití paklíèe nebo elektronického paklíèe znaènì zvyšuje tuto dovednost a tedy šanci na úspìšné otevøení zámku.}
-{210}{}{Dovednost pøivlastnit si cizí vìci. Používá se pro okrádání lidí nebo vylupování skøíní, stolù apod.}
-{211}{}{Dovednost nalézt a odstranit pasti. Zahrnuje rovnìž zacházení s výbušninami urèených k demolièním úèelùm.}
+{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
+{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
+{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
 {212}{}{Zahrnuje znalosti celé škály vyspìlých technologií jako napø. poèítaèe, biologie, fyzika a geologie.}
 {213}{}{Praktické aplikování technických znalostí k opravì znièených zaøízení, strojù a elektroniky.}
-{214}{}{Dovednost prakticky a efektivnì komunikovat. Umìní pøesvìdèit ostatní, že tvùj názor je ten správný. Schopnost lhát a nebýt odhalen. Nezbytná dovednost každého politika.}
-{215}{}{Obchodování a pøíbuzné aktivity. Schopnost získat vyšší ceny za vìci, které prodáváš a nižší za ty, které kupuješ.}
-{216}{}{Znalosti a praktické dovednosti týkající se sázení a hazardních her. Zruènost v hraní karet, kostek a ostatních hrách.}
-{217}{}{Praktické znalosti pøírody a dovednost pøežití ve volné pøírodì. Znalost rostlin a zvíøat.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ 4 x HB}
 {301}{}{+ 2 x HB}
 {302}{}{+ 2 x HB}

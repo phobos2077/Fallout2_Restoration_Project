@@ -18,22 +18,22 @@
 {117}{}{Sobrevivência}
 {200}{}{O uso, cuidados e conhecimentos gerais de pequenas armas de fogo - pistolas, SMGs e rifles.}
 {201}{}{O uso e manutenção das grandes armas - metralhadoras, lança-foguetes, lança-chamas e tal.}
-{202}{}{O cuidado e a alimentação de armas baseadas em energia. Como armar e operar as armas que usam tecnologia laser ou plasma.}
-{203}{}{Uma combinação de artes marciais, boxe e outras artes marciais. Combate com as mãos e pés.}
+{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
+{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
 {204}{}{É o uso de armas de mão, ou combate corpo a corpo - facas, marretas, lanças, tacos e assim por diante.}
 {205}{}{A habilidade de lançar varias armas como: facas, lanças e granadas.}
-{206}{}{Habilidade geral de cura. Usado para curar pequenos cortes, arranhões e outros males menores. Em termos de jogo, o uso de primeiros socorros pode curar mais pontos de vida ao longo do tempo do que apenas descansar.}
-{207}{}{A cura de ferimentos e principais membros mutilados. Sem essa habilidade, ele vai ter um período muito longo de tempo para restaurar membros mutilados.}
-{208}{}{Movimento silencioso, habilidade de passar desapercebido. Se for bem sucedido, você dificilmente será notado. Você não pode correr e esgueirar-se ao mesmo tempo.}
-{209}{}{A habilidade de abrir fechaduras sem a chave adequada. O uso de gazuas ou lockpicks eletrônicas vai aumentar muito essa habilidade.}
-{210}{}{A capacidade de roubar coisas. Pode ser usado para roubar de pessoas ou lugares.}
-{211}{}{A descoberta e remoção de armadilhas. Além disso, ajustes dos explosivos para fins de demolição.}
+{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
+{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
+{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
 {212}{}{Abrange uma variedade de habilidades de alta tecnologia, como computadores, biologia, física e geologia.}
 {213}{}{A aplicação prática da habilidade ciência para a fixação de equipamentos quebrados, máquinas e eletrônicos.}
-{214}{}{A capacidade de comunicar de uma maneira prática e eficiente. A habilidade de convencer os outros de que sua posição é correta. A capacidade de mentir e não ser pego.}
-{215}{}{Negociação e tarefas relacionadas com o comércio. A capacidade de obter melhores preços para os itens que você vende e os preços mais baixos para os itens que você comprar.}
-{216}{}{Os conhecimentos e habilidades práticas relacionadas com apostas. A habilidade de cartas, dados e outros jogos.}
-{217}{}{Conhecimento prático do ar livre, habilidade de sobrevivência. O conhecimento das plantas e dos animais.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}

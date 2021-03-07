@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Rocketman}
+{1067}{}{Harry el Astronauta}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Oficial de intendencia}
 {1156}{}{Guardia}
 {1157}{}{K-9}
-{1158}{}{Doctor}
+{1158}{}{Doctor Schreber}
 {1159}{}{Técnico}
 {1160}{}{Técnico}
 {1161}{}{Guardia}
@@ -1099,9 +1099,9 @@
 {1199}{}{Klaxon}
 {1200}{}{Mina}
 {1201}{}{Foso}
-{1202}{}{Comerciante del petrolero}
-{1203}{}{Camarero del petrolero}
-{1204}{}{Comerciante del petrolero}
+{1202}{}{Cal}
+{1203}{}{Slim}
+{1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emisor}
@@ -1127,7 +1127,7 @@
 {1227}{}{Computadora}
 {1228}{}{Kohl}
 {1229}{}{Niño}
-{1230}{}{Cocinero}
+{1230}{}{Galleta}
 {1231}{}{Torreta}
 {1232}{}{Brian}
 {1233}{}{Generador}

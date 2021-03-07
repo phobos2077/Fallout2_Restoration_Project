@@ -964,7 +964,7 @@
 {1064}{}{Skrypt mapy}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Rakieciarz}
+{1067}{}{Harry the Rocketman}
 {1068}{}{UKC-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Kwatermistrz}
 {1156}{}{Wartownik}
 {1157}{}{Cyberpies}
-{1158}{}{Leczenie}
+{1158}{}{Doctor Schreber}
 {1159}{}{Technik}
 {1160}{}{Technik}
 {1161}{}{Wartownik}
@@ -1099,9 +1099,9 @@
 {1199}{}{Klaxon}
 {1200}{}{Kopalnia}
 {1201}{}{Dó³}
-{1202}{}{Tanker Handlarz}
-{1203}{}{Tanker Barman}
-{1204}{}{Tanker Handlarz}
+{1202}{}{Cal}
+{1203}{}{Chudy}
+{1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emiter}
@@ -1127,7 +1127,7 @@
 {1227}{}{komputer}
 {1228}{}{Kohl}
 {1229}{}{Dziecko}
-{1230}{}{Kucharz}
+{1230}{}{ciastko}
 {1231}{}{Wie¿yczka}
 {1232}{}{Brian}
 {1233}{}{Generator}

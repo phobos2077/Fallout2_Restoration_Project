@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Jet é uma poderosa metanfetamina que estimula o sistema nervoso central. A euforia inicial raramente dura mais do que alguns minutos, mas durante esse tempo, o usuário é preenchido com uma onda de energia e força.}
 {26000}{}{Antídoto de Jet}
-{26001}{}{Este antídoto curar os efeitos da dependência de Jet.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{Jonny's BB Gun}
 {26101}{}{Uma espingarda Red Ryder BB com o nome "Jonny" gravado no cabo. Min FO: 3.}
 {26200}{}{Botas de borracha}

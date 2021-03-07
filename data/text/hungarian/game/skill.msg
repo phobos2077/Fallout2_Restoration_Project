@@ -18,22 +18,22 @@
 {117}{}{Túlélés}
 {200}{}{Kézi lõfegyverek használata, karbantartása és általános ismerete - pisztolyok, géppisztolyok és puskák.}
 {201}{}{Nehéz lõfegyverek használata és karbantartása - gépágyúk, rakétavetõk, lángszórók, stb.}
-{202}{}{The care and feeding of energy-based weapons. How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts. Combat with your hands and feet.}
+{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
+{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
 {204}{}{A nem távolsági fegyverek használata - kések, kalapácsok, lándzsák, bunkók, stb.}
 {205}{}{Hajítófegyverek használatának képzettsége - dobókések, lándzsák és gránátok.}
-{206}{}{General healing skill. Used to heal small cuts, abrasions and other minor ills. In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs. Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
-{208}{}{A csendes mozgás és az észrevétlenség képessége. Ha sikeres, sokkal nehezebben vesznek észre. Nem tudsz egyszerre futni és lopakodni.}
-{209}{}{Zárak kinyitása a megfelelõ kulcs híján. Tolvajkulcs vagy elektromos zárnyitó használata jelentõsen növeli ezt a képzettséget.}
-{210}{}{The ability to make the things of others your own. Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps. Also the setting of explosives for demolition purposes.}
+{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
+{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
+{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
 {212}{}{Tudományok, ismeretek gyûjtõképzettsége, mint például a számítás-technika, biológia, fizika és geológia.}
 {213}{}{A Tudományok képzettség gyakorlati alkalmazása lerobbant, hibás berendezések, gépek vagy elektronikus eszközök javítására.}
-{214}{}{A kommunikáció célratörõ és hatásos módja. Mások meggyõzése arról, hogy amit te mondasz az úgy is van. A leleplezõdés nélküli hazudozás képzettsége.}
-{215}{}{Kereskedelem és minden hozzá kapcsolódó feladat. A megfelelõ képzettség, hogy drágán adj el, és olcsón vásárolj.}
-{216}{}{A fogadás mikéntjének ismerete és gyakorlati alkalmazása. Kártya, kocka és egyéb hazárdjátékok ûzése.}
-{217}{}{A pusztákon való túlélés gyakorlati alkalmazása. Magában foglalja az állatok és növények ismeretét.}
+{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
 {300}{}{+ (4 x ÜG)}
 {301}{}{+ (2 x ÜG)}
 {302}{}{+ (2 x ÜG)}

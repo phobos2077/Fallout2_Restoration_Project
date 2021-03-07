@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Jet to bardzo silny narkotyk z rodziny metaamfetamin. Stymuluje oœrodkowy uk³ad nerwowy - wywo³any przezeñ stan euforii trwa wprawdzie tylko kilka minut, ale przyp³yw energii i si³y w tym okresie jest ogromny.}
 {26000}{}{antidotum na Jet}
-{26001}{}{Ten œrodek leczy uzale¿nienie od Jetu.}
+{26001}{}{This antidote cures the Jet addiction.}
 {26100}{}{wiatrówka Jonny'ego}
 {26101}{}{Wiatrówka Czerwony Kapturek z wydrapanym na kolbie napisem 'Jonny'. Min. SI: 3.}
 {26200}{}{gumowe buty}

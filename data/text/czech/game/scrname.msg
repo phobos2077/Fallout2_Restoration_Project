@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Rakeák}
+{1067}{}{Harry the Rocketman}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Ubytovatel}
 {1156}{}{Strá}
 {1157}{}{K-9}
-{1158}{}{Léèení}
+{1158}{}{Doctor Schreber}
 {1159}{}{Technik}
 {1160}{}{Technik}
 {1161}{}{Strá}
@@ -1099,9 +1099,9 @@
 {1199}{}{Siréna}
 {1200}{}{- Dùl}
 {1201}{}{Díra}
-{1202}{}{Obchodník z tankeru}
-{1203}{}{Barman z tankeru}
-{1204}{}{Obchodník z tankeru}
+{1202}{}{Cal}
+{1203}{}{Hubeòour}
+{1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emitor}
@@ -1127,7 +1127,7 @@
 {1227}{}{Poèítaè}
 {1228}{}{Kohl}
 {1229}{}{Dítì}
-{1230}{}{Kuchaø}
+{1230}{}{Sušenka}
 {1231}{}{Vìièka}
 {1232}{}{Brian}
 {1233}{}{Generátor}

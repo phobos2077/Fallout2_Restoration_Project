@@ -80,7 +80,8 @@
 {179}{}{Eh, jo, popøemýšlím o tom. Sbohem, doktore.}
 {180}{}{Poslední dobou tráví stále více horníkù èas "létáním" na Jetu místo toho, aby tìžili. Pokud to takhle pùjde dál, produkce reddingského zlata se nejspíš úplnì zastaví, ale zdá se, že to New Renu pøíliš nevadí.}
 {181}{}{Vìtšina místních horníkù pracuje jenom proto, aby si mohli zase poøádnì šlehnout Jetu. Produkce zlata jde rapidnì dolù. Pokud to takhle bude pokraèovat, New Reno bude èasem ovládat Redding.}
-{182}{}{Všichni místní horníci jen poøád fetují. Nikdo z nich už skoro vùbec netìží zlato. Obávám se, že New Reno bude mít Redding brzy pod kontrolou. Pøál bych si, aby existoval zpùsob, jak tuhle závislost na Jetu zastavit.}
+{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
+ worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
 {183}{}{Co s tím má New Reno spoleèného?}
 {184}{}{Odkud se ten Jet bere?}
 {185}{}{Aha. Chci se ještì na nìco zeptat.}
@@ -101,7 +102,8 @@
 {200}{}{Co s tím má New Reno spoleèného?}
 {201}{}{Jsem rád, že to fungovalo, doktore. Zatím sbohem.}
 {202}{}{Opravdu? Co máte na mysli?}
-{203}{}{Mám totiž protilátku na Jet. Vyrobil ji doktor Troy z Vault City a mìla by vyøešit místní problém se závislostí na Jetu.}
+{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
+ Jet-addiction problem that you have here.}
 {204}{}{Vlastnì nic. Chci se ještì na nìco zeptat.}
 {205}{}{To opravdu máme. Pøíliš Jetu, málo práce... odkud to víte?}
 {206}{}{McClure z Vault City mi o tom øekl.}

@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Rocketman}
+{1067}{}{Harry l'Addetto al Razzo}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{il Furiere}
 {1156}{}{una Guardia}
 {1157}{}{K-9}
-{1158}{}{Dottore}
+{1158}{}{Doctor Schreber}
 {1159}{}{un Tecnico}
 {1160}{}{un Tecnico}
 {1161}{}{una Guardia}
@@ -1099,9 +1099,9 @@
 {1199}{}{Klaxon}
 {1200}{}{Miniera}
 {1201}{}{Pit}
-{1202}{}{Tanker Merchant}
-{1203}{}{Tanker Bartender}
-{1204}{}{Tanker Merchant}
+{1202}{}{Cal}
+{1203}{}{Slim}
+{1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emitter}
@@ -1127,7 +1127,7 @@
 {1227}{}{Computer}
 {1228}{}{Kohl}
 {1229}{}{un Bambino}
-{1230}{}{Cook}
+{1230}{}{Biscotto}
 {1231}{}{Torretta}
 {1232}{}{Brian}
 {1233}{}{Generatore}

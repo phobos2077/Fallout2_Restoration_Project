@@ -151,13 +151,13 @@
 {473}{}{Big J, see, he takes care of us, eh? Just last week, I caught three slaves who was dumb enough to run.
  So I gets a reward, see? Heh. And you ain't get sheee-it. You jest bend and fetch. Me, I'm a GUARD.}
 {474}{}{Yeah, great. You take care, now.}
-{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-reliant
+{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
  guards such as yourself.}
 {476}{}{Ramirez... be careful what you say to me, all right? Don't let your mouth get your ass into trouble.}
 {480}{}{(Blinks.) Eh...? What you say?}
 {481}{}{Nothing you'd understand or I'd care to repeat right now. You take care, okay?}
 {482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
- perceptive, Jet-reliant guards such as yourself."}
+ perceptive, Jet-addicted guards such as yourself."}
 {490}{}{(Blinks, smiles in confusion.) Eh? Yeah, yeah. I'm sharp, see... per-septive... I'm a GUARD, right?}
 {491}{}{Yeah, you mentioned that before. If I were you, Ramirez, I'd do all humanity a favor and take that entire box
  of Jet all at once. See you.}

@@ -171,7 +171,7 @@
 {345}{}{Potøebuješ nìkoho, kdo ti uleví od toho svrbìní v rozkroku, otrokáøi?}
 {346}{}{Myron sem poøád leze...}
 {347}{}{Ta Bishopova holka je úplná nymfomanka.}
-{348}{}{Ona není závislá na Jetu, ona je závislá na KLÁDÌ.}
+{348}{}{She ain't no Jet addict, she's a BONE addict.}
 {349}{}{V Koèièí Pacce to zaèíná pìknì vøít...}
 {350}{}{Minulou noc jsem si zabìhla maratón, kdy jsem utíkala pøed Myronem...}
 {351}{}{Hledáš nìjakı vzrùšo, otrokáøi?}
@@ -364,7 +364,7 @@
 {538}{}{Co si myslí, e jako udìlám? e mu ho vykouøím?}
 {539}{}{Jestli s tím nìkdo nìco neudìlá, tak ta cedule New Reno na nìkoho brzo slítne...}
 {540}{}{Ta Bishopova holka je úplná nymfomanka.}
-{541}{}{Ona není závislá na Jetu, ona je závislá na KLÁDÌ.}
+{541}{}{She ain't no Jet addict, she's a BONE addict.}
 {542}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
 {543}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
 {544}{}{Hledáš lásku, zlato?}
@@ -527,7 +527,7 @@
 {701}{}{Co si myslí, e jako udìlám? e mu ho vykouøím?}
 {702}{}{Jestli s tím nìkdo nìco neudìlá, tak ta cedule New Reno na nìkoho brzo slítne...}
 {703}{}{Ta Bishopova holka je úplná nymfomanka.}
-{704}{}{Ona není závislá na Jetu, ona je závislá na KLÁDÌ.}
+{704}{}{She ain't no Jet addict, she's a BONE addict.}
 {705}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
 {706}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
 {707}{}{Hledáš lásku, zlato?}
@@ -760,7 +760,7 @@
 {934}{}{Myron je hroznej òouma.}
 {935}{}{AC-DC, B n' D, vdy je to fuk.}
 {936}{}{Ta Bishopova holka je úplná nymfomanka.}
-{937}{}{Ona není závislá na Jetu, ona je závislá na KLÁDÌ.}
+{937}{}{She ain't no Jet addict, she's a BONE addict.}
 {938}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
 {939}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
 {940}{}{Hledáš lásku, zlato?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron je hroznej òouma.}
 {1109}{}{AC-DC, B n' D, vdy je to fuk.}
 {1110}{}{Ta Bishopova holka je úplná nymfomanka.}
-{1111}{}{Ona není závislá na Jetu, ona je závislá na KLÁDÌ.}
+{1111}{}{She ain't no Jet addict, she's a BONE addict.}
 {1112}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
 {1113}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
 {1114}{}{Hledáš lásku, zlato?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron je hroznej òouma.}
 {1282}{}{AC-DC, B n' D, vdy je to fuk.}
 {1283}{}{Ta Bishopova holka je úplná nymfomanka.}
-{1284}{}{Ona není závislá na Jetu, ona je závislá na KLÁDÌ.}
+{1284}{}{She ain't no Jet addict, she's a BONE addict.}
 {1285}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
 {1286}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
 {1287}{}{Hledáš lásku, zlato?}

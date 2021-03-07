@@ -149,11 +149,13 @@
 {472}{}{Když tì tak pozoruju jak kašleš a jak si mneš nos, tak je myslím docela jasné, kam se ty dodávky Jetu ztrácí.}
 {473}{}{Víš, Velkej J se o nás stará, jasný? Minulej tejden jsem chytil tøi otroky, co byli natolik pitomý, že chtìli utýct. Takže jsem dostal odmìnu, víš? Hehe. A ty nedostaneš ani hovno. Ty jseš jen poslíèek. Ale já, já jsem STRÁŽ.}
 {474}{}{Jo, bezva. Tak se mìj.}
-{475}{}{Zajímalo by mì, jestli bude mít Velkej Ježíš pochopení pro to, jak ti tøi otroci mohli utéct pøímo pod NOSEM tak všímavému a na Jetu závislému strážnému, jako jsi ty.}
+{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
+ guards such as yourself.}
 {476}{}{Ramirezi... dej si bacha na to, co øíkáš, rozumíš? Ten tvùj jazyk by tì mohl jednou dostat do maléru.}
 {480}{}{(Mrkne.) Co...? Co øíkáš?}
 {481}{}{Nic, èemu bys rozumìl nebo co budu opakovat. Dávej na sebe pozor, rozumíš?}
-{482}{}{Øíkal jsem, "Zajímalo by mì, jestli bude mít Velkej Ježíš pochopení pro to, jak ti tøi otroci mohli utéct pod NOSEM tak všímavému a na Jetu závislému strážnému, jako jsi ty."}
+{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
+ perceptive, Jet-addicted guards such as yourself."}
 {490}{}{(Zamrká a zmatenì se usmìje.) Co? Jo, jo. Jsem bdìlej a... os-ostražitej... jsem pøece STRÁŽ, jasný?}
 {491}{}{Jo, to už jsi øíkal. Myslím, že bys prokázal lidstvu velkou laskavost, Ramirezi, kdybys celej ten balík Jetu vyšòupal najednou. Mìj se.}
 {492}{}{Jsem opravdu moc rád, že mìl nìkdo tolik rozumu, aby vám všem dal automatické zbranì. Dává mi to pocit jistoty. Mìj se, Ramirezi.}

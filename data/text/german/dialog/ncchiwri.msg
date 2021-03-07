@@ -39,9 +39,7 @@
 {290}{}{Du hast noch nie was von der Familie Wright gehört? Du hast dich wohl zu lang draußen in der Wüste rumgetrieben, wie?
  Die Familie Wright ist die größte Mafia-Familie in Reno. Wir werden diese Stadt beherrschen}
 {291}{}{Wirklich? Klingt so, als ob die Wright-Familie alle Karten in der Hand hält. Stellt ihr jemanden ein?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
- other families.}
+{292}{}{Eigentlich hatte ich den Eindruck, dass ihr eine der schwächsten Familien seid... ich meine, ihr handelt nur mit Alkohol, ihr habt kein Kasino, kein Bein im Drogenhandel und ihr habt viel weniger Leute als die anderen Familien.}
 {293}{}{Wo wir gerade von Familie reden, ich bin deiner Ma begegnet.}
 {294}{}{Kannst du mir sagen, was deinem Bruder Richard zugestoßen ist?}
 {295}{}{Wirklich? Wie interessant... tja, hör mal, ich muss gehen.}
@@ -97,8 +95,7 @@
  und eine tagelange Predigt. Hä.}
 {401}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {402}{}{Hmmmmm. Danke. }
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
+{410}{}{Richard? Tja, weißt du, man hat ihn gefunden wie einen dieser Jet-Toten, in der Gosse. Soweit wir es uns erklären können, hat ihn jemand so lange mit Drogen vollgepumpt, bis er tot war.}
 {411}{}{"Jemand" hat ihm zuviel gegeben? Woher willst du wissen, dass er nicht SELBST zuviel genommen hat?}
 {412}{}{Wer, glaubst du, könnte das getan haben?}
 {413}{}{Hm, sehr bedauerlich. Ich hätte da noch ein paar weitere Fragen...}
@@ -136,8 +133,7 @@
 {487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiss. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules oben in der Stadt verkauft auch Jet, aber hauptsächlich an Touristen... dann ist da noch Little Jesus Mordino: der könnte Rich Drogen aufgedrängt haben, als Rich allein draußen war. Er hängt im Desperado rum.}
 {496}{}{Verstehe. Sag mal, ich hab da noch ein paar Fragen...}
 {497}{}{Jagged Jimmy J, Renesco, genannt Rocketman, Jules und Little Jesus...die knöpf ich mir vor. Besten Dank für die
  Infos, Chris. }

@@ -171,7 +171,7 @@
 {345}{}{T'as besoin de quelqu'un qui tire sur sa laisse, esclavagiste ?}
 {346}{}{Myron vient toujours par ici...}
 {347}{}{La fille Bishop est une vraie chaudasse.}
-{348}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
+{348}{}{She ain't no Jet addict, she's a BONE addict.}
 {349}{}{L'action réchauffe au Cat's Paw...}
 {350}{}{J'ai fait un vrai marathon pour m'enfuir loin de Myron l'autre soir.}
 {351}{}{Tu cherches un peu d'action, l'esclavagiste ?}
@@ -364,7 +364,7 @@
 {538}{}{Qu'attend-t-il de moi, une révérence ?}
 {539}{}{J'arrête pas de penser que le panneau de Reno va tomber un de ces 4...}
 {540}{}{La fille Bishop est une vraie chaudasse.}
-{541}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
+{541}{}{She ain't no Jet addict, she's a BONE addict.}
 {542}{}{J'ai entendu dire que la Cité de l'Abri avait que deux types de citoyens. C'était peut-être un accident de clonage.}
 {543}{}{J'ai l'impression d'avoir couru un marathon la nuit dernière...}
 {544}{}{Tu cherches l'amour, mon lapin ?}
@@ -527,7 +527,7 @@
 {701}{}{Qu'attend-t-il de moi, une révérence ?}
 {702}{}{J'arrête pas de penser que le panneau de Reno va tomber un de ces 4...}
 {703}{}{La fille Bishop est une vraie chaudasse.}
-{704}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
+{704}{}{She ain't no Jet addict, she's a BONE addict.}
 {705}{}{J'ai entendu dire que la Cité de l'Abri avait que deux types de citoyens. C'était peut-être un accident de clonage.}
 {706}{}{J'ai l'impression d'avoir couru un marathon la nuit dernière...}
 {707}{}{Tu cherches l'amour, mon lapin ?}
@@ -760,7 +760,7 @@
 {934}{}{Myron est une vraie tornade.}
 {935}{}{AC-DC, B et D, comme tu veux.}
 {936}{}{La fille Bishop est une vraie chaudasse.}
-{937}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
+{937}{}{She ain't no Jet addict, she's a BONE addict.}
 {938}{}{J'ai entendu dire que la Cité de l'Abri avait que deux types de citoyens. C'était peut-être un accident de clonage.}
 {939}{}{J'ai l'impression d'avoir couru un marathon la nuit dernière...}
 {940}{}{Tu cherches l'amour, mon lapin ?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron est une vraie tornade.}
 {1109}{}{AC-DC, B et D, comme tu veux.}
 {1110}{}{La fille Bishop est une vraie chaudasse.}
-{1111}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
+{1111}{}{She ain't no Jet addict, she's a BONE addict.}
 {1112}{}{J'ai entendu dire que la Cité de l'Abri avait que deux types de citoyens. C'était peut-être un accident de clonage.}
 {1113}{}{J'ai l'impression d'avoir couru un marathon la nuit dernière...}
 {1114}{}{Tu cherches l'amour, mon lapin ?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron est une vraie tornade.}
 {1282}{}{AC-DC, B et D, comme tu veux.}
 {1283}{}{La fille Bishop est une vraie chaudasse.}
-{1284}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
+{1284}{}{She ain't no Jet addict, she's a BONE addict.}
 {1285}{}{J'ai entendu dire que la Cité de l'Abri avait que deux types de citoyens. C'était peut-être un accident de clonage.}
 {1286}{}{J'ai l'impression d'avoir couru un marathon la nuit dernière...}
 {1287}{}{Tu cherches l'amour, mon lapin ?}
