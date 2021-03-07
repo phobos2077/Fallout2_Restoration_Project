@@ -332,6 +332,6 @@
 {211}{}{ fails to properly set the trap in the container.}
 
 # PC critically fails to set a trap
-{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
 # NPC critically fails to set a trap
-{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
