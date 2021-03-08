@@ -113,4 +113,4 @@
 {400}{}{Du sperrst den Behälter auf.}
 {601}{}{Es ist offen, Dummkopf.}
 {610}{}{Du versagst spektakulär und der Sprengstoff geht zu früh hoch.}
-{611}{}{versagt spektakulär und der Sprengstoff geht zu früh hoch.}
+{611}{}{ versagt spektakulär und der Sprengstoff geht zu früh hoch.}

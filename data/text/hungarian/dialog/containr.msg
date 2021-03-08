@@ -112,5 +112,5 @@
 {212}{}{You see a refrigerator.}
 {400}{}{Kinyitottad a konténert.}
 {601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
-{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
+{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
+{611}{}{ fails spectacularly, and the explosive goes off prematurely.}

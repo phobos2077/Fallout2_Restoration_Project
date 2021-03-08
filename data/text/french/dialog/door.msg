@@ -125,5 +125,5 @@
 {502}{}{Tu vois : la porte de l'ascenseur.}
 {503}{}{On dirait qu'il va te falloir un dispositif électrique pour ouvrir ce verrou.}
 {601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
-{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
+{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
+{611}{}{ fails spectacularly, and the explosive goes off prematurely.}

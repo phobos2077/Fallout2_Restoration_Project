@@ -179,5 +179,5 @@ que você poderá abrir.}
 {212}{}{Você vê um frigorífico.}
 {400}{}{Você desbloqueia o recipiente.}
 {601}{}{Está aberto, burro.}
-{610}{}{Você falha espetacularmente e o explosivo detona prematuramente.}
-{611}{}{ falha espetacularmente e o explosivo detona prematuramente.}
+{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
+{611}{}{ fails spectacularly, and the explosive goes off prematurely.}

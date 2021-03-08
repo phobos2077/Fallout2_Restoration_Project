@@ -176,5 +176,5 @@
 {502}{}{Ves: Puerta de ascensor.}
 {503}{}{Parece que necesitas un aparato eléctrico para abrir esta cerradura.}
 {601}{}{Está cerrado, idiota.}
-{610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
-{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
+{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
+{611}{}{ fails spectacularly, and the explosive goes off prematurely.}

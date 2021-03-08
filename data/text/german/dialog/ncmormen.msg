@@ -149,8 +149,7 @@
 {472}{}{Wenn ich mir deinen Jet-Husten so anhöre und sehe, wie du deine Nase reibst, kann ich mir wirklich nicht vorstellen, wo das ganze gelieferte Jet bleibt.}
 {473}{}{Big J, weißte, der kümmert sich um uns. Erst letzte Woche hab ich drei Sklaven gefangen, die dumm genug war'n abzuhauen. Also krieg ich 'ne Belohnung, klar? Heh. Und du kriegst nix. Du bist nur 'n Laufbursche. Ich, ich bin 'ne WACHE.}
 {474}{}{Ja, großartig. Mach's gut.}
-{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
- guards such as yourself.}
+{475}{}{Ich frage mich, ob Big Jesus darüber nachdenkt, wie drei Sklaven direkt vor der NASE von derart scharfsinnigen, Jet abhängigen Wachen wie dir entkommen konnten.}
 {476}{}{Ramirez... pass auf, was du zu mir sagst, OK? Pass auf, dass dein Maul deinen Hintern nicht in Schwierigkeiten bringt.}
 {480}{}{(Blinzelt.) Hä...? Was sagst du?}
 {481}{}{Nichts, was du verstehst oder was ich jetzt noch mal wiederhole. Mach's gut, okay?}

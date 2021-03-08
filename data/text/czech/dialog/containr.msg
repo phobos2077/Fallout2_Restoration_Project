@@ -112,5 +112,5 @@
 {212}{}{Vidíš lednièku.}
 {400}{}{Odemykáš kontejner.}
 {601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
-{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
+{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
+{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
