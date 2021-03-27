@@ -8,7 +8,7 @@
 {107}{}{Está bien, me voy.}
 {108}{}{¿Estás listo para irte?}
 {109}{}{Quiero irme.}
-{110}{}{No, me quedo.}
+{110}{}{No, yo quedar.}
 {111}{}{Sí, tengo que irme ahora.}
 {112}{}{No, me voy a quedar por aquí un poco más.}
 {113}{}{Este es el Rancho Westin, hogar del Consejero Westin.}

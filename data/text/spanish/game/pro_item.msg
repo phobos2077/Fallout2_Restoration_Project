@@ -77,7 +77,7 @@
 {3900}{}{Células MF}
 {3901}{}{Una unidad de producción de energía de tamaño medio. Con reactor de fusión autónomo.}
 {4000}{}{Estimulante}
-{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
+{4001}{}{Un producto químico curativo. Cuando se inyecta, la sustancia química cura inmediatamente heridas menores.}
 {4100}{}{Dinero}
 {4101}{}{Moneda de curso legal en el Yermo.}
 {4200}{}{Refrigerador}
@@ -103,7 +103,7 @@
 {5200}{}{Contador Geiger}
 {5201}{}{Un modelo C-Radz de contador Geiger, de Wattz Electronics. Detecta la presencia y la intensidad de los campos radiactivos.}
 {5300}{}{Mentats}
-{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{Una caja de píldoras que alteran la mente. Incrementa las funciones relacionadas con la memoria, y la velocidad de otros procesos mentales. Altamente adictiva.}
 {5400}{}{Sigilante}
 {5401}{}{Un dispositivo personal de sigilo Stealth Boy 3001, de RobCo. Genera un campo modulado que transmite la luz reflejada de la cara de un objeto sobre otra.}
 {5500}{}{Chip de agua}
@@ -179,7 +179,7 @@
 {9000}{}{Mochila}
 {9001}{}{Una mochila sencilla, con correas opcionales.}
 {9100}{}{Maletín de Médico}
-{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
+{9101}{}{Esta bolsa marrón contiene instrumentos y productos químicos que usan los médicos en el ejercicio de su profesión.}
 {9200}{}{Cola de escorpión}
 {9201}{}{La cola cortada de un escorpión rad.}
 {9300}{}{Maleta}
@@ -215,7 +215,7 @@
 {10800}{}{Huesos}
 {10801}{}{Una colección de extraños huesos.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
+{10901}{}{Producto químico anti-radiación que debe tomarse antes de la exposición. No tiene efectos secundarios conocidos.}
 {11000}{}{Psico}
 {11001}{}{Un elemento especial lleno de extraños y desconocidos componentes químicos de probable origen militar. Se supone que incrementa el potencial de combate de un soldado.}
 {11100}{}{.44 mágnum CM}
@@ -223,10 +223,10 @@
 {11200}{}{Urna}
 {11201}{}{Un bonita urna dorada con el nombre "Harriet" inscrito en la parte frontal, que contiene cenizas.}
 {11300}{}{Túnica}
-{11301}{}{Usado-buscando vestidos.}
+{11301}{}{Túnica de aspecto gastado.}
 {11400}{}{Mano de Tangler}
 {11401}{}{Un manipulador cibernético, con forma de mano. Dañada por la naturaleza descuidada del proceso de retirada.}
-{11500}{}{Super almádena}
+{11500}{}{Súper almádena}
 {11501}{}{Una super almádena, elaborada por la Hermandad del Acero, que usa la mejor tecnología armamentística disponible. Incluye un dispositivo que almacena energía cinética, para aumentar la pegada. Min FU: 5.}
 {11600}{}{Destripador}
 {11601}{}{Una hoja vibratoria Destripador(tm). Alimentada con células PE de energía, la hoja destripa y desgarra a su objetivo. Min FU: 4.}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{El Jet es una poderosa metanfetamina que estimula el sistema nervioso central. El subidón inicial de euforia rara vez dura más que unos pocos minutos, pero durante ese tiempo, el usuario nota gran energía y fuerza.}
 {26000}{}{Antídoto para el Jet}
-{26001}{}{This antidote cures the Jet addiction.}
+{26001}{}{Este antídoto cura la adicción al Jet.}
 {26100}{}{Escopeta BB de Jonny}
 {26101}{}{Una escopeta Red Ryder BB con el nombre 'Jonny' grabado en la culata. Min FU: 3.}
 {26200}{}{Botas de caucho}
@@ -795,7 +795,7 @@
 {40800}{}{Kit de primeros auxilios de campo}
 {40801}{}{Un pequeño kit que contiene equipamiento médico básico. Vendas, gasas, spray antiséptico, y más.}
 {40900}{}{Mochila de paramédico}
-{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{Esta mochila contiene instrumentos y sustancias químicas usadas por paramédicos en el campo de batalla. Las herramientas que contiene están específicamente diseñadas para traumas grandes y casos de emergencia.}
 {41000}{}{Set de ganzúas expandido}
 {41001}{}{Un juego de herramientas de cerrajero. Incluye todo lo necesario para abrir cerraduras. Este juego también incluye herramientas especiales para desbloquear los mecanismos más difíciles.}
 {41100}{}{Ganzúa electrónica MKII}

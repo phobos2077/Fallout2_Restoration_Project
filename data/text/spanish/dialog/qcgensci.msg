@@ -52,7 +52,7 @@
 {151}{}{Lárgate. Estoy ocupado.}
 {152}{}{¿No tienes nada mejor que hacer?}
 {153}{}{No recuerdo haber pedido ningún sujeto de prueba.}
-{154}{}{¿Qué coño quieres?}
+{154}{}{¿Qué carajo quieres?}
 {155}{}{Vete a hacer puñetas.}
 {156}{}{Vete a molestar a otro.}
 {157}{}{¿Sí?}

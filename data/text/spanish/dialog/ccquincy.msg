@@ -62,7 +62,7 @@
 {161}{}{¿Qué pasa? ¿Nos atacan?}
 {162}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
 {163}{}{¿Qué carajo está pasando?}
-{164}{}{¡Eh! ¡No registres los cajones!}
+{164}{}{¡Eh! No registres los cajones.}
 {165}{}{¡Te dije que no tocaras mis cosas! ¡Guardias!}
 {200}{}{Sí. Bueno, no te creas todo lo que digan.}
 {201}{}{¿Quién te dijo eso? Porque después de ti será el siguiente que reciba una hostia.}

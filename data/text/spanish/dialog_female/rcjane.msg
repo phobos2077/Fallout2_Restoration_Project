@@ -155,7 +155,7 @@
 {324}{}{Buban}
 {325}{}{Bongo}
 {326}{}{Tuerto}
-{327}{}{Spot}
+{327}{}{Mancha}
 {328}{}{Marqués Gusano}
 {330}{}{Afortunado}
 {331}{}{El gran Zoroastro}

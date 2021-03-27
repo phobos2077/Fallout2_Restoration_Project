@@ -9,8 +9,8 @@
 {108}{}{Masacre}
 {109}{}{Gafe}
 {110}{}{Bonachón}
-{111}{}{Drug Reliant}
-{112}{}{Drug Resistant}
+{111}{}{Adicto a drogas}
+{112}{}{Inmune a drogas}
 {113}{}{Sex appeal}
 {114}{}{Habilidoso}
 {115}{}{Capacitado}
@@ -25,8 +25,8 @@
 {208}{}{Por algún extraño giro del destino, la gente a tu alrededor muere violentamente. Siempre verás la peor forma en la que una persona puede morir.}
 {209}{}{Lo bueno es que todo el mundo a tu alrededor tiene más fallos críticos en combate, ¡lo malo es que tú también!}
 {210}{}{Estudiaste habilidades pacíficas cuando estabas creciendo. Tu habilidad para el combate comienza a un nivel menor, pero tu habilidad en Primeros Auxilios, Doctor, Conversación y Trueque aumenta.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
+{211}{}{Te enganchas a las drogas con mayor facilidad. La posibilidad de engancharte es el doble de la normal, pero te recuperas antes de los efectos secundarios.}
+{212}{}{Las drogas te hacen efecto la mitad de tiempo de lo normal, pero la posibilidad de engancharte es también un 50% menor.}
 {213}{}{Tienes "mojo". Los miembros del sexo opuesto se sentirán atraídos por ti, pero los del mismo sexo podrían ponerse celosos.}
 {214}{}{Como has pasado más tiempo que los demás mejorando tus habilidades, ganas 5 puntos de habilidad adicionales por cada nivel. La pega es que no ganas tantas habilidades extras y sólo ganas un extra cada 4 niveles.}
 {215}{}{Tienes un mayor talento innato que la mayoría, pero no perdiste el tiempo mejorando tus habilidades. Tus atributos aumentan +1, pero pierdes el 10% de puntos de habilidad al empezar, y recibes 5 puntos menos por nivel.}

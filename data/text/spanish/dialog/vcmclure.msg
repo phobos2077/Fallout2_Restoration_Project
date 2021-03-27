@@ -145,12 +145,12 @@
 {244}{}{Ya veo. Gracias por la información.}
 {245}{}{¿Qué es? Todo lo que puedas contarme sería de gran ayuda.}
 {246}{}{¿Qué puedes contarme acerca de Redding?}
-{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
+{247}{}{He descubierto que gran parte de Redding es adicta a un producto químico llamado Jet. Los mineros están comerciando con la mayoría de su mineral con Nuevo Reno, sólo para mantener el suministro.}
 {248}{}{El doctor Troy ha creado un antídoto para el Jet.}
 {249}{}{Le he entregado el antídoto a Redding.}
 {250}{}{¿Qué es ese "Jet" del que todos son tan dependientes?}
 {251}{}{Te lo diré más tarde, cuando sepa algo más.}
-{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
+{252}{}{Es una droga con una tasa de adicción del 100%, y consecuencias severas.}
 {253}{}{Por favor, mantenme informado.}
 {254}{}{¿Puedo hacerte alguna otra pregunta?}
 {255}{}{Claro.}

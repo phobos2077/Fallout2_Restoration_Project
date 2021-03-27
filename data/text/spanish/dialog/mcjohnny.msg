@@ -28,7 +28,7 @@
 {174}{}{Me llamo Jonny. ¿Cómo te llamas tú?}
 {175}{}{Me llamo }
 {176}{}{.}
-{177}{}{Mi nombre no es lo importante.}
+{177}{}{Mi nombre no es importante.}
 {178}{}{Me llamo Jonny, y no me gustas.}
 {179}{}{[Te señala y comienza a gritar]. ¡Extraño! ¡Extraño! ¡Extraño!}
 {180}{}{Encantado de conocerte, }

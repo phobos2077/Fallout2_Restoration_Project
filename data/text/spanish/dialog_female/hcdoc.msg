@@ -82,7 +82,7 @@
 {179}{}{Amenazas al único doctor de la ciudad. Gran idea. ::tose:: Amigo, si quieres algo, puedes
  pedirlo amablemente. De lo contrario, lárgate de mi hospital.}
 {180}{}{Que te den, viejo. Prepárate para morir.}
-{181}{}{Sí. Vale.}
+{181}{}{Sí. Lo que sea.}
 {182}{}{Lo siento. Un mal día.}
 {183}{}{Sólo estaba bromeando.}
 {184}{}{Jovencita, tienes mucho que aprender sobre el respeto.}

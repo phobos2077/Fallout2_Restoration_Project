@@ -1,7 +1,7 @@
 {1}{}{Has ganado %d %s.}
 {2}{}{Has perdido %d %s.}
 {3}{}{Te sientes mejor.}
-{4}{}{You suffer a fatal heart attack from drug overdose.}
+{4}{}{Has sufrido un ataque cardíaco fatal debido a una sobredosis.}
 {5}{}{%s no tiene cargas.}
 {6}{}{%s está encendido.}
 {7}{}{%s está apagado.}
@@ -10,7 +10,7 @@
 {10}{}{No ocurre nada.}
 {50}{}{Eso parece que no ha hecho nada.}
 {500}{}{No hay suficiente luz para recargar este objeto.}
-{600}{}{%s succumbs to the adverse effects of drugs.}
+{600}{}{%s sucumbe a los efectos nocivos de las drogas.}
 {800}{}{Luz}
 {801}{}{Medio}
 {802}{}{Pesado}

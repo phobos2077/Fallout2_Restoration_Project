@@ -15,7 +15,7 @@
 {241}{}{Hola, preciosa. ¿Qué puede hacer el viejo Smitty por ti?}
 {242}{}{Jesucristo, ¿ahora qué puedo hacer por ti?}
 {243}{}{Hola, me ha gustado mucho el almuerzo de Mamá. Gracias. Ahora, ¿qué puede hacer el viejo Smitty por ti?}
-{244}{}{Me preguntaba, qué es lo que haces aquí?.}
+{244}{}{Me preguntaba, qué es lo que haces aquí?}
 {245}{}{Mira, viejales, tengo esta cosa que conseguí en Gecko...}
 {246}{}{Eh, Smitty, te quería preguntar por ese coche que tenías en venta.}
 {247}{}{Te he traído el almuerzo de Mamá.}

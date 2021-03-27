@@ -1,6 +1,6 @@
 {100}{}{Ves a un ajado viejo necrófago.}
 {101}{}{Ves a uno de los varios viejos necrófagos que hacen de este lugar su residencia.}
-{102}{}{Estoy tan cansado...}
+{102}{}{Estoy tan cansado.}
 {103}{}{Cansado, cansado de esperar, cansado de esperar por ti-iii...}
 {104}{}{¿Cuándo es la hora de ir a dormir?}
 {105}{}{¿Qué es ese asqueroso olor? Oh, soy yo.}

@@ -8,7 +8,7 @@
 {107}{}{¡Derribemos a ese bicho raro!}
 {108}{}{Hagámosle polvo.}
 {109}{}{Estoy listo para empezar.}
-{110}{}{¡A bailar!}
+{110}{}{¡A rockear!}
 {111}{}{¡Vamos a iluminar a ese bicho raro!}
 {112}{}{No me gusta matar a idiotas.}
 {113}{}{Puedes continuar.}

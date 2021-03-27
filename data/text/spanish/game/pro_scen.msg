@@ -348,21 +348,21 @@
 {18100}{}{Parte superior de elevador}
 {18101}{}{Estás viendo una parte de un elevador.}
 {18200}{}{Consola de Computadora}
-{18201}{}{Esta es una terminal tonta, conectado por cable a un gran equipo.}
+{18201}{}{Esto es un terminal remoto, conectado por cable a una computadora principal.}
 {18300}{}{Consola de Computadora}
-{18301}{}{Esta es una terminal tonta, conectado por cable a un gran equipo.}
+{18301}{}{Esto es un terminal remoto, conectado por cable a una computadora principal.}
 {18400}{}{Emblema}
 {18401}{}{El símbolo de la Hermandad. La rueda representa su conocimiento en ingeniería, la espada es su voluntad de defenderse a sí mismos, y las alas son la esperanza de fortalecimiento.}
 {18500}{}{Emblema}
 {18501}{}{El símbolo de la Hermandad. La rueda representa su conocimiento en ingeniería, la espada es su voluntad de defenderse a sí mismos, y las alas son la esperanza de fortalecimiento.}
 {18600}{}{Cartel de 'nivel uno'}
-{18601}{}{Usted piensa que esto podría significar que usted está en el nivel uno.}
+{18601}{}{Crees que debe significar que estás en el nivel uno.}
 {18700}{}{Cartel de 'nivel dos'}
-{18701}{}{Usted está en el nivel dos.}
+{18701}{}{Estás en el nivel dos.}
 {18800}{}{Cartel de 'nivel tres'}
-{18801}{}{Esto debe significar que usted está en el nivel tres.}
+{18801}{}{Crees que debe significar que estás en el nivel tres.}
 {18900}{}{Cartel de 'nivel cuatro'}
-{18901}{}{Usted debe estar en el nivel cuatro.}
+{18901}{}{Debes estar en el nivel cuatro.}
 {19000}{}{Litera}
 {19001}{}{Una litera de estilo militar. Parece muy incómoda. También parece que una moneda rebotaría en sus sábanas.}
 {19100}{}{Litera}
@@ -918,7 +918,7 @@
 {48200}{}{Puerta}
 {48201}{}{Esta puerta se parece sospechosamente a la que encontrarías en un almacén.}
 {48300}{}{Veleta}
-{48301}{}{Este simple veleta de la ayuda a los habitantes de la tierra baldía de estudio el clima.}
+{48301}{}{Esta veleta ayuda a los habitantes del yermo a estudiar el clima.}
 {48400}{}{Altar}
 {48401}{}{Un simple altar hecho de madera pintada.}
 {48500}{}{Estrado}
@@ -1136,8 +1136,8 @@
 {59501}{}{La mesa de metal está cubierta por algún tipo de biomasa.}
 {59600}{}{Tablón de anuncios}
 {59601}{}{Hay ofertas de empleo grapada en el tablón. Parece muy utilizado.}
-{59700}{}{Shack}
-{59701}{}{Esta cabaña es de más de un centenar de años, pero todavía en un estado excelente.}
+{59700}{}{Choza}
+{59701}{}{Esta choza tendrá unos cien años, pero sigue en excelentes condiciones.}
 {59800}{}{Cartel}
 {59801}{}{En el cartel pone: Almacén General.}
 {59900}{}{Cartel}

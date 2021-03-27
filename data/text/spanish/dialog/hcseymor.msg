@@ -17,7 +17,7 @@
 {116}{}{Creo que no.}
 {117}{}{¡Genial! Todo lo que tienes que hacer es encontrar una pala, desenraizarme, y plantarme por allí. Cuando lo hagas, te contaré un secreto.}
 {118}{}{¡De acuerdo!}
-{119}{}{N-no.}
+{119}{}{Noh oh.}
 {120}{}{De acuerdo. Bien, um... te estaré esperando aquí. Tampoco es que tenga elección, claro. ¡Hasta luego!}
 {121}{}{¡Adioooos!}
 {122}{}{Si por un casual cambias de opinión, ya sabes dónde encontrarme. He echado raíces aquí. ¡Ja ja ja! Sólo es un poco de humor de planta. Oh, no te retengo más. ¡Hasta luego!}

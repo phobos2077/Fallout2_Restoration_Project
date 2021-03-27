@@ -33,7 +33,7 @@
 {132}{}{Antes de que lo hagas, concédeme un poco más de tu tiempo.}
 {133}{}{Bastante bien. Te veré más tarde.}
 {134}{}{Mira, si consigues el dinero, vuelve. Probablemente lo siga teniendo.}
-{135}{}{Me parece bien.}
+{135}{}{Es justo.}
 {136}{}{Adiós.}
 {137}{}{¡Ahí está! Claudia está instalada.}
 {138}{}{Dame un poco más de tiempo. Aún estoy trabajando en esa puta cosa.}

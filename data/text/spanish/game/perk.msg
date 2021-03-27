@@ -120,7 +120,7 @@
 {220}{}{Adicto al alcohol}
 {221}{}{Fumador}
 {1101}{}{Con Consciencia, recibirás información detallada sobre cada criatura que examines. Verás sus puntos de salud (PS) exactos e información sobre el arma que portan.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
+{1102}{}{Has aprendido las artes orientales secretas, o simplemente es que golpeas más rápido. En cualquier caso, tus ataques desarmados te cuestan 1 punto de acción (PA) menos.}
 {1103}{}{Tu experiencia en combate sin armas te da la ventaja a la hora de hacer daño. Causas +2 puntos de daño sin armas y con armas cuerpo a cuerpo. por cada nivel de este extra.}
 {1104}{}{Por cada nivel de bono en Movimiento, ganas 2 puntos de acción que sólo pueden ser usados para moverse. En otras palabras, puedes moverte 2 cuadrículas en cada turno sin gastar PA.}
 {1105}{}{Tu entrenamiento en armas de fuego y otras armas a distancia te ha hecho más mortífero en el combate a distancia. Por cada nivel de este extra, haces 2 puntos de daño más con armas a distancia.}
@@ -161,7 +161,7 @@
 {1140}{}{Tu reputación siempre será positiva para la gente. Sin este extra, una reputación muy negativa tendría efectos negativos con la gente honrada. También funciona al revés: ahora los malos tratarán al señor Bueno Buenazo como a uno de los suyos.}
 {1141}{}{Puedes encontrar más munición que un superviviente del holocausto normal. Este extra dobla la cantidad de munición encontrada en los encuentros aleatorios.}
 {1142}{}{El fin del Explorador es buscar nuevos e interesantes lugares. Con este extra, tienen más posibilidades de encontrar lugares y gente especial.}
-{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
+{1143}{}{Con este extra, eres menos proclive a engancharte a las drogas (un 50% menos, realmente) y sufrirás el síndrome de abstinencia la mitad de tiempo que una persona normal.}
 {1144}{}{El Pionero es capaz de encontrar la ruta más corta. Con este extra, tu tiempo de viaje en el mapa del mundo se reduce un 25% por cada nivel.}
 {1145}{}{Los animales no atacarán a uno de sus amigos, a menos que el animal se vea amenazado o sea atacado primero. Qué es exactamente un animal en este mundo es algo abierto a debate.}
 {1146}{}{Has mejorado tu habilidad para ver lugares distantes, aumentando el tamaño de exploración en el mapa del mundo por una cuadricula en cada dirección. También tienes más oportunidades de tener encuentros especiales.}

@@ -9,7 +9,7 @@
 {1008}{}{¿Por qué todo da vueltas?}
 {1009}{}{¡Nunca más volverá a mirarme nadie!}
 {1010}{}{¡Ay, mi brazo!}
-{1011}{}{¡Ay!}
+{1011}{}{¡Ow!}
 {1012}{}{¡Le has roto el brazo a Kaga!}
 {1013}{}{¡Cristo, me han arrancado el brazo!}
 {1014}{}{Oh Dios, mi brazo no.}
@@ -60,7 +60,7 @@
 {1059}{}{Oh Dios, oh Dios, oh Dios...}
 {1060}{}{¡Ay, mi pierna!}
 {1061}{}{¡Mi rodilla!}
-{1062}{}{¡Ay!}
+{1062}{}{¡Ow!}
 {1063}{}{Me has arrancado la pierna.}
 {1064}{}{¡Tengo la rodilla destrozada!}
 {1065}{}{No puedo andar.}
@@ -330,7 +330,7 @@
 {1329}{}{Te sacaré el hígado por haberme hecho eso.}
 {1330}{}{Un poco de sangre no le hace daño a nadie.}
 {1331}{}{¡Ooh! Te voy a retorcer el pescuezo por haber hecho eso...}
-{1332}{}{¡Ay!}
+{1332}{}{¡Ow!}
 {1333}{}{¡Me gusta el dolor!}
 {1334}{}{¡Me encanta el sonido de las costillas rompiéndose!}
 {1335}{}{¡Eso no es nada!}
@@ -1091,7 +1091,7 @@
 {2669}{}{¿Todos los de tu tribu sois tan débiles?}
 {2700}{}{¡Refuerzos!}
 {2701}{}{Me harán un consejo de guerra.}
-{2702}{}{¡Médico!}
+{2702}{}{¡Un médico!}
 {2703}{}{¡Retirada! ¡Retirada!}
 {2704}{}{¡Atrás todos! ¡Atrás!}
 {2705}{}{Puede que hayas ganado esta batalla...}
@@ -1794,7 +1794,7 @@
 {32001}{}{¡Mi nariz!}
 {32002}{}{oooh... mis orejas...}
 {32010}{}{¡Ay, mi brazo!}
-{32011}{}{¡Ay!}
+{32011}{}{¡Ow!}
 {32012}{}{¡Le has roto el brazo a Kaga!}
 {32020}{}{¡Ay, mi brazo!}
 {32021}{}{¡Wahhhh!}
@@ -1998,7 +1998,7 @@
 {32701}{}{¡Padre Estelar! ¡Ayúdame!}
 {32702}{}{¡Ouch! Necesito algo para mi cabeza.}
 {32710}{}{¡Ay, mi brazo!}
-{32711}{}{¡Ay!}
+{32711}{}{¡Ow!}
 {32712}{}{¡Le has roto el brazo a Kaga!}
 {32720}{}{¡Ay, mi brazo!}
 {32721}{}{¡Wahhhh!}
@@ -2012,7 +2012,7 @@
 {32736}{}{¡Ohhh, duele!}
 {32760}{}{¡Ay, mi pierna!}
 {32761}{}{¡Mi rodilla!}
-{32762}{}{¡Ay!}
+{32762}{}{¡Ow!}
 {32770}{}{¡Ay, mi tibia!}
 {32771}{}{¡Mi rodilla!}
 {32772}{}{¡¡¡¡Aaaarrrrggghhh!!!!}
@@ -2131,7 +2131,7 @@
 {33236}{}{Ohhh... ayyy}
 {33260}{}{¡Mi tibia!}
 {33261}{}{¡Mi rodilla!}
-{33262}{}{¡Ay!}
+{33262}{}{¡Ow!}
 {33270}{}{¡Oooh, mi fémur!}
 {33271}{}{¡Mi rodilla!}
 {33272}{}{Eso me va a provocar una cojera..}
@@ -2770,7 +2770,7 @@
 {40964}{}{Apuntas por apuntar. Yo disparo a matar.}
 {40965}{}{No tienes lo que se necesita para acabar conmigo.}
 {40966}{}{Parece que además de estúpido eres ciego.}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{Has fallado por un buen porcentaje.}
 {40968}{}{Debes de ser un cegato hijoputa.}
 {40969}{}{Has fallado. En el siguiente turno, vas a perder la cabeza.}
 {40970}{}{Demonios, soy un fósil y puedo hacerlo mejor que tú.}
@@ -3006,7 +3006,7 @@
 {41640}{}{Detente.}
 {41641}{}{¿De veras crees que eres duro?}
 {41642}{}{La violencia nunca resuelve nada.}
-{41643}{}{¡Ay!}
+{41643}{}{¡Ow!}
 {41644}{}{Para de una vez.}
 {41645}{}{Ya he recibido todo lo que puedo de ti.}
 {41646}{}{NO soy un mutante feliz.}
@@ -3030,7 +3030,7 @@
 {41664}{}{Voy a saltar sobre ti.}
 {41665}{}{¡Oh, mi pierna mala!}
 {41666}{}{Esto va a dificultarme el patearte el culo.}
-{41667}{}{¡Ay!}
+{41667}{}{¡Ow!}
 {41668}{}{¡Oye!}
 {41669}{}{¡Estúpido normal!}
 {41670}{}{Madre...!}
@@ -3040,7 +3040,7 @@
 {41674}{}{¡Mierda!}
 {41675}{}{¡Maldición!}
 {41676}{}{Eso dejará cicatriz.}
-{41677}{}{¡Ay!}
+{41677}{}{¡Ow!}
 {41678}{}{¡Estúpido normal!}
 {41679}{}{¡Oye!}
 {41680}{}{¡Aaah!}
@@ -3048,7 +3048,7 @@
 {41682}{}{¡Mi humor acuoso!}
 {41683}{}{¡Mi retina!}
 {41684}{}{¡Arrr!}
-{41685}{}{¡Médico!}
+{41685}{}{¡Un médico!}
 {41686}{}{¡Necesito un parche!}
 {41687}{}{¡Mi córnea!}
 {41688}{}{¡Mi iris!}
@@ -3343,7 +3343,7 @@
 {44436}{}{Mal funcionamiento en los sistemas.}
 {44437}{}{Sistemas energéticos fluctuando. Activando energía de reserva.}
 {44438}{}{Comprometida integridad estructural primaria. Circuitos principales expuestos.}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
+{44439}{}{Daño en la unidad de refrigeración. Operando al 75 por ciento de su capacidad.}
 {44460}{}{Impacto en unidad motriz derecha. Daño mínimo.}
 {44461}{}{Eje derecho desalineado.}
 {44462}{}{Rueda derecha dañada.}

@@ -125,7 +125,7 @@
 {200}{}{[Aunque las lecturas indican que este cerebro está vivo, los niveles de actividad cerebral están muy por debajo de lo que sería normal.]   ¿Retirar?}
 {201}{}{}
 {202}{}{Sí.}
-{203}{}{No.}
+{203}{}{No}
 {204}{}{[Las ondas cerebrales están activas, pero son diferentes de las de un cerebro normal]   ¿Retirar?}
 {208}{}{[La actividad cerebral es la de un humano común]   ¿Retirar?}
 {212}{}{[¡La actividad cerebral se sale de la gráfica! Por la pinta de las señales debe ser de origen humano y digital en la misma medida]   ¿Retirar?}
@@ -140,7 +140,7 @@
 {223}{}{[Según las lecturas, ¡el soldado Dobbs está vivo! Se encuentra en el tanque de gel biomédico regenerativo experimental]   ¿Retirar?}
 {224}{}{}
 {225}{}{Sí.}
-{226}{}{No.}
+{226}{}{No}
 {227}{}{[El cuerpo del Soldado Dobbs yace ahora a tus pies, pero, para tu sorpresa, se levanta y empieza a hablarte. Es curioso, No parece muerto].}
 {228}{}{Salir.}
 {229}{}{No quedan cadáveres en el almacén.}

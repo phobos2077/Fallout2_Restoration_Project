@@ -18,7 +18,7 @@
 {117}{}{Sí, eso es. Porque seguro que tu madre no lo hizo.}
 {118}{}{¿Ahora hablas de mi madre? Eso no es creativo.}
 {119}{}{Haré mejor trabajo creándote una cara nueva. La vieja no tiene mucho para mirar.}
-{120}{}{¿Tu y quién más?}
+{120}{}{¿Tú y qué ejército?}
 {121}{}{Yo sola. Es todo lo que hace falta. Pero apuesto a que mis chicos pueden ocuparse de tus enclenques amigos
  en cualquier momento.}
 {122}{}{No lo creo. Kokoweef dirige aquí el cotarro. Voy a tener que enseñártelo.}

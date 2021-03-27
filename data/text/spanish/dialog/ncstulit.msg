@@ -38,7 +38,7 @@
 {270}{}{No, no… ¡luchar en el CUADRILÁTERO! ¿Entiendes, el cuadrilátero? (Señala el cuadrilátero de boxeo, y hace movimientos de golpes en el aire.)
  ¿Algo así te interesaría?}
 {271}{}{(Le pegas un puñetazo en la cara al pequeñajo y le robas el dinero de su almuerzo).}
-{272}{}{Oh, oh.}
+{272}{}{A-já.}
 {273}{}{¿Me darán helado si peleo?}
 {274}{}{Oh-no}
 {275}{}{Yo casado con a-aventura y yo marcho}

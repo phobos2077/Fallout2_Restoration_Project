@@ -18,22 +18,22 @@
 {117}{}{Supervivencia}
 {200}{}{El uso, cuidado y conocimiento general de las armas pequeñas: pistolas, ametralladoras y rifles.}
 {201}{}{El uso y mantenimiento de las armas grandes: miniguns, lanzacohetes, lanzallamas y similares.}
-{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
+{202}{}{Cuidado y alimentación de armas de energía. Cómo montar y manejar armas que utilizan tecnología láser o de plasma.}
+{203}{}{Una combinación de karate, boxeo y otras artes marciales cuerpo a cuerpo. Combate con las manos y pies.}
 {204}{}{El uso de las armas melee: cuchillos, almádenas, lanzas, mazas y similares.}
 {205}{}{La habilidad con las armas arrojadizas, como cuchillos, lanzas y granadas.}
-{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
-{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
-{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
-{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
+{206}{}{Habilidad general de curación. Utilizada para curar pequeños cortes, quemaduras y otras incidencias menores. En el juego, el uso de los primeros auxilios puede curar más puntos de salud que el simple descanso.}
+{207}{}{Curación de heridas mayores y extremidades dañadas. Sin esta habilidad se tardará mucho más en curar las extremidades dañadas.}
+{208}{}{Movimiento silencioso, y la habilidad para permanecer indetectable. Usado con éxito, serás mucho más difícil de localizar. No puedes correr y estar en sigilo al mismo tiempo.}
+{209}{}{La habilidad de abrir cerraduras sin la llave apropiada. El uso de ganzúas y ganzúas electrónicas incrementará en gran medida esta habilidad.}
+{210}{}{La habilidad para hacer tuyas las cosas ajenas. Puede usarse para robar en sitios o a la gente.}
+{211}{}{Localización y eliminación de trampas. También incluye la colocación de explosivos con fines destructores.}
 {212}{}{Cubre una gran variedad de habilidades de alta tecnología, como computadoras, biología, física y geología.}
 {213}{}{La aplicación práctica de la ciencia en la reparación de equipamiento, maquinaria y electrónica averiada.}
-{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
-{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
-{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
-{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
+{214}{}{La habilidad para comunicarse de forma práctica y eficiente. Habilidad de convencer a otros de que tu razonamiento es el correcto. Habilidad para mentir y no ser pillado haciéndolo.}
+{215}{}{Trueque y habilidades relativas al comercio. Habilidad para conseguir mejores precios por los objetos que vendes y por los que compras.}
+{216}{}{El conocimiento y la habilidad práctica en las apuestas. Habilidad con cartas, dados y otros juegos de azar.}
+{217}{}{Conocimiento práctico de la vida al aire libre, y la habilidad para vivir de la tierra. El conocimiento de plantas y animales.}
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}
@@ -78,7 +78,7 @@
 {571}{}{Robas %s.}
 {572}{}{Te pillan plantando la %s.}
 {573}{}{Plantas la %s.}
-{590}{}{Has sobrepasado tu capacidad con esta habilidad. Espera un momento.}
+{590}{}{Has forzado tu capacidad con esa habilidad. Espera un rato.}
 {591}{}{Estás demasiado cansado.}
 {592}{}{El agotamiento podría matarte.}
 {600}{}{No tienes suficiente habilidad para curar huesos fracturados.}

@@ -83,7 +83,7 @@
 {761}{}{Bien, he venido para sacarte de aquí.}
 {764}{}{No lo sé. Nos vemos.}
 {800}{}{Tengo que conseguir arreglar esta radio. Si puedes ayudarme a hacerlo, quizás podamos razonar con él.}
-{801}{}{¿Qué puedo hacer?}
+{801}{}{¿Cómo puedo ayudar?}
 {803}{}{Lo dudo. Buena suerte.}
 {810}{}{Por qué tuviste que matar a la pobre Mamá... Supongo que tendrías tus razones... Lo siento, Jefe. No debería cuestionarte. Este es un pueblo bastante malvado. Seguro que hizo algo bastante malvado.}
 {811}{}{Eh, Jefe. Gracias por sacarme de ese lío con Metzger. ¿Necesitas algo? Mamá ha sido muy amable conmigo dándome de comer mientras estabas fuera. La he ayudado a llevar el local...}
@@ -110,7 +110,7 @@
 {1502}{}{De acuerdo. Me quedaré aquí hasta que vuelvas, Jefa. Porque vas a volver, ¿verdad?}
 {1503}{}{Todo el tiempo que quieras. No me iré a ninguna parte.}
 {1504}{}{Por supuesto, Jefa.}
-{1600}{}{Si tú lo dices...}
+{1600}{}{Si tú lo dices.}
 {1601}{}{Buena idea, Jefa.}
 {1602}{}{Bien pensado, Jefa.}
 {1603}{}{Claro, Jefa. ¿Algo más?}
@@ -211,7 +211,7 @@
 {4100}{}{¡Jefa! No me encuentro bien.}
 {4101}{}{Necesito un doctor.}
 {4102}{}{Oh, chico. Esto si que duele.}
-{4103}{}{¡Ay!}
+{4103}{}{¡Ow!}
 {4104}{}{Ouch.}
 {4105}{}{Maldición.}
 {4106}{}{¿Un médico?}

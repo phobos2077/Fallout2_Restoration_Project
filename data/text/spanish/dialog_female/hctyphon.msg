@@ -9,7 +9,7 @@
 {108}{}{Adiós.}
 {109}{}{Otro bebé del Yermo, ¿eh? Oye, chico, ¿quieres saber un secreto?}
 {110}{}{¡S-sí!}
-{111}{}{N-no.}
+{111}{}{Noh oh.}
 {112}{}{En mis días de correrías, gané unas cuantas carreras, hice un poco de dinero. Hace mucho tiempo, escondí todas mis ganancias no muy lejos de
  aquí. Si alguien me hace uno o dos favores, podría decirle dónde está ese "tesoro".}
 {113}{}{¡Dime a yo!}
@@ -75,7 +75,7 @@
 {173}{}{[HECHO]}
 {174}{}{Muchacho, esa revista ha revitalizado la sangre de mis venas, y supongo que por la clase de tesoro que estamos hablando, puedes conseguirme un par más de cosillas. Tráeme una muñeca hinchable. Seguramente encuentres alguna en Nuevo Reno.}
 {175}{}{¡V-vale! ¡Adiós!}
-{176}{}{¡Oh-no!}
+{176}{}{¡Nah-ah!}
 {177}{}{¡Toma! [Le das la muñeca hinchable a Typhon]}
 {178}{}{De acuerdo. Tenía algunas preguntas más.}
 {179}{}{De acuerdo. Adiós.}
@@ -101,7 +101,7 @@
 {199}{}{Gracias. Tenía otras preguntas.}
 {200}{}{Eso es un poco vago, pero gracias. Nos vemos.}
 {201}{}{¿Ya has encontrado el tesoro, chico?}
-{202}{}{N-no.}
+{202}{}{Noh oh.}
 {203}{}{Aún no.}
 {204}{}{Pues no. Tengo más preguntas.}
 {205}{}{Pues no. Adiós.}

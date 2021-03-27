@@ -9,7 +9,7 @@
 {108}{}{Por favor date prisa y nos traen esas armas.}
 {109}{}{¿Por qué matar a los monstruos? Ahora Bóveda de la Ciudad vendrán después de nosotros.}
 {110}{}{Salir y no volver!!}
-{111}{}{¡Fuera de aquí!}
+{111}{}{¡Lárgate al carajo de aquí!}
 {112}{}{Estamos a salvo ahora.}
 {113}{}{Usted tiene nuestra gratitud.}
 {114}{}{Que dios esté con usted, extraño.}

@@ -33,7 +33,7 @@
 {246}{}{Cuchi cuchi cuuu}
 {247}{}{Quién demonios tú}
 {248}{}{Sólo soy un simple viajero… que busca trabajo.}
-{249}{}{Me llamo }
+{249}{}{Mi nombre es }
 {250}{}{En realidad, creo que he entrado en el sitio equivocado. Ya me voy.}
 {260}{}{(Pone mala cara). Sal de mi vista. Como vuelvas por aquí, tendré que dispararte, ¿me has oído?}
 {262}{}{Oh oh}
@@ -72,7 +72,7 @@
 {331}{}{No que yo sepa.}
 {332}{}{No, que yo sepa. Creo que me acordaría.}
 {340}{}{Uno de mis hijos... mi hijo, Richard, falleció recientemente. Sobredosis de drogas. Jet.}
-{341}{}{¿Qué puedo hacer?}
+{341}{}{¿Cómo puedo ayudar?}
 {342}{}{Eh… en realidad no sé cómo puedo --}
 {350}{}{Quiero saber qué camello le vendió esa MIERDA a Richard y le obligó a tomarla. Cada vez que he enviado a mis muchachos a encontrarlo,
  han vuelto con las manos vacías. Quizá alguien que no tiene sangre Wright pueda conseguir más respuestas.}

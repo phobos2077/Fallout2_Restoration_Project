@@ -7,7 +7,7 @@
 {154}{}{¡Estoy ocupado!}
 {155}{}{Sabía que mi hija era rara.}
 {156}{}{Gente diferente, gustos diferentes, supongo.}
-{157}{}{Creo que me voy a poner enfermo.}
+{157}{}{Creo que me voy a enfermar.}
 {158}{}{Sabía que mi hijo era raro.}
 {159}{}{Cuida bien de mi hija.}
 {160}{}{Supongo que ahora eres parte de la familia.}

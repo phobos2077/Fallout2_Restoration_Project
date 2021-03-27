@@ -229,7 +229,7 @@
 {7019}{}{por un trabajo bien hecho. Me encanta mi trabajo.}
 {7020}{}{**END-PAR**}
 {7021}{}{30 de Junio de 2077}
-{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
+{7022}{}{He probado un nuevo cóctel químico de esteroides y }
 {7023}{}{psico en uno de mis pacientes, lo he mezclado con un }
 {7024}{}{potenciador especial con el que he estado trasteando.}
 {7025}{}{Los resultados han sido prometedores. El sujeto se}
@@ -777,7 +777,7 @@
 {14035}{}{la guerra (aunque el saqueo y daños a la propiedad se}
 {14036}{}{han cobrado su peaje), así que muchas calles y edificios}
 {14037}{}{permanecen intactos. ¡AVISO! No hay Gobierno central ni}
-{14038}{}{enforcement. Gambling, prostitution, and drug use}
+{14038}{}{fuerzas de la ley. El juego, la prostitución, y el uso de}
 {14039}{}{drogas es desenfrenado. ¡Los Ciudadanos del Refugio}
 {14040}{}{deben evitar Nuevo Reno a cualquier precio!}
 {14041}{}{}

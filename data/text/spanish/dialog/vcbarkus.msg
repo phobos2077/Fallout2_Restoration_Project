@@ -40,7 +40,7 @@
 {139}{}{De acuerdo, sólo era curiosidad, gracias. Que te vaya bien.}
 {140}{}{Estoy cansado de siervos que son asignados sin autorización... *suspira*... veamos, ¿dijiste que estabas buscando el Refugio?
  Esa debe ser tu asignación del día. Muy bien. Haré que alguien te acompañe allí.}
-{141}{}{¡Ref-fugio! ¡Ref-fugio!}
+{141}{}{¡Refujo! ¡Refujo!}
 {142}{}{Yo vigilaría lo que digo, si fuera tú. Esto NO es esclavitud. Cuidamos a estos refugiados,
  y ellos tienen una buena vida... mejor que la que podrían tener en el Yermo.}
 {143}{}{¿De dónde los has sacado?}

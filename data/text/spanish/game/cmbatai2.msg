@@ -2,7 +2,7 @@
 {1001}{}{¡Oh! ¡Eso duele!}
 {1002}{}{¡Ouch! Necesito algo para mi cabeza.}
 {1010}{}{¡Ay, mi brazo!}
-{1011}{}{¡Ay!}
+{1011}{}{¡Ow!}
 {1012}{}{¡Le has roto el brazo a Kaga!}
 {1020}{}{¡Ay, mi brazo!}
 {1021}{}{¡Wahhhh!}
@@ -16,7 +16,7 @@
 {1036}{}{¡Ohhh, duele!}
 {1060}{}{¡Ay, mi pierna!}
 {1061}{}{¡Mi rodilla!}
-{1062}{}{¡Ay!}
+{1062}{}{¡Ow!}
 {1070}{}{¡Ay, mi pierna!}
 {1071}{}{¡Mi rodilla!}
 {1072}{}{¡¡¡¡Aaaarrrrggghhh!!!!}
@@ -108,7 +108,7 @@
 {1322}{}{¡Me has roto el brazo, pero yo voy a romperte el cuello!}
 {1330}{}{Un poco de sangre no le hace daño a nadie.}
 {1331}{}{¡Ooh! Te voy a retorcer el pescuezo por haber hecho eso...}
-{1332}{}{¡Ay!}
+{1332}{}{¡Ow!}
 {1333}{}{¡Me gusta el dolor!}
 {1334}{}{¡Me encanta el sonido de las costillas rompiéndose!}
 {1335}{}{¡Eso no es nada!}
@@ -634,7 +634,7 @@
 {2669}{}{ ¿Todos los de tu tribu sois tan débiles?}
 {2700}{}{¡Refuerzos!}
 {2701}{}{Me harán un consejo de guerra.}
-{2702}{}{¡Médico!}
+{2702}{}{¡Un médico!}
 {2703}{}{¡Retirada! ¡Retirada!}
 {2704}{}{¡Atrás todos! ¡Atrás!}
 {2705}{}{Puede que hayas ganado esta batalla...}
@@ -1047,7 +1047,7 @@
 {32001}{}{¡Mi nariz!}
 {32002}{}{oooh... mis orejas...}
 {32010}{}{¡Ay, mi brazo!}
-{32011}{}{¡Ay!}
+{32011}{}{¡Ow!}
 {32012}{}{¡Le has roto el brazo a Kaga!}
 {32020}{}{¡Ay, mi brazo!}
 {32021}{}{¡Wahhhh!}
@@ -1251,7 +1251,7 @@
 {32701}{}{¡Padre Estelar! ¡Ayúdame!}
 {32702}{}{¡Ouch! Necesito algo para mi cabeza.}
 {32710}{}{¡Ay, mi brazo!}
-{32711}{}{¡Ay!}
+{32711}{}{¡Ow!}
 {32712}{}{¡Le has roto el brazo a Kaga!}
 {32720}{}{¡Ay, mi brazo!}
 {32721}{}{¡Wahhhh!}
@@ -1265,7 +1265,7 @@
 {32736}{}{¡Ohhh, duele!}
 {32760}{}{¡Ay, mi pierna!}
 {32761}{}{¡Mi rodilla!}
-{32762}{}{¡Ay!}
+{32762}{}{¡Ow!}
 {32770}{}{¡Ay, mi tibia!}
 {32771}{}{¡Mi rodilla!}
 {32772}{}{¡¡¡¡Aaaarrrrggghhh!!!!}
@@ -1384,7 +1384,7 @@
 {33236}{}{Ohhh... ayyy}
 {33260}{}{¡Mi tibia!}
 {33261}{}{¡Mi rodilla!}
-{33262}{}{¡Ay!}
+{33262}{}{¡Ow!}
 {33270}{}{¡Oooh, mi fémur!}
 {33271}{}{¡Mi rodilla!}
 {33272}{}{Eso me va a provocar una cojera..}

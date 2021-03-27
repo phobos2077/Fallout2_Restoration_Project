@@ -39,7 +39,7 @@
 {173}{}{Estamos arruinados.}
 {174}{}{Este es el fin de Broken Hills.}
 {175}{}{Voy a dirigirme a RNC.}
-{176}{}{¿Quién podría hacer tal cosa?}
+{176}{}{¿Quién podría hacer algo así?}
 {177}{}{Dios mío… la mina…}
 {178}{}{¿Dónde está la justicia en este mundo?}
 {179}{}{Supongo que me suicidaré. Sin la mina, no puedo ganarme la vida.}

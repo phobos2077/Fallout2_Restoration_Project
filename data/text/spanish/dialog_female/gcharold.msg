@@ -193,7 +193,7 @@
 {292}{}{Tiene que doler.}
 {293}{}{No sé nada de eso.}
 {294}{}{Sí.}
-{295}{}{No.}
+{295}{}{No}
 {296}{}{¿Por qué me hablas así?}
 {297}{}{No eres agradable.}
 {298}{}{Gracias. }

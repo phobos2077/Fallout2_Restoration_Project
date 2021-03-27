@@ -25,7 +25,7 @@
 {138}{}{Saludos, amiga. La Renovación está disponible para los elegidos.}
 {139}{}{Ser amiga del Cerebro es una cosa maravillosa.}
 {140}{}{Hola. Será mejor que andes con cuidado.}
-{141}{}{Te estamos viglando.}
+{141}{}{Te estamos vigilando.}
 {142}{}{Busca la iluminación en la sabiduría del Cerebro.}
 {143}{}{No sé por qué permitimos a los pieles suaves aquí abajo.}
 {144}{}{Será mejor que vayas directamente con él.}

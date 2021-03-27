@@ -104,7 +104,7 @@
 {395}{}{La Familia Salvatore y yo hemos tenido un… desacuerdo respecto a mi éxito en una de sus mesas de juego.
  Creo que el asunto sólo se resolvería largándome lo más lejos posible de Nuevo Reno.}
 {396}{}{Éxito en sus mesas de juego, ¿eh? ¿Cuánto ganaste, Lloyd?}
-{397}{}{¿Qué puedo hacer?}
+{397}{}{¿Cómo puedo ayudar?}
 {398}{}{¿Qué hay para mí?}
 {399}{}{No creo que pueda ayudarte, Lloyd. Creo que lo mejor será que olvidemos este encuentro. Adiós.}
 {405}{}{Hmmmm… pareces bien equipado para servir como guardaespaldas. Ayúdame a salir de la ciudad. Escóltame

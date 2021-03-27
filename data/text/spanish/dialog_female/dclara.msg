@@ -45,7 +45,7 @@
 {320}{}{He visto caravanas de Ciudad Refugio traerlas y a otras de Nuevo Reno recoger las cajas.}
 {321}{}{¿Y? ¿Por qué tiene eso sentido?}
 {322}{}{Oh.}
-{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
+{340}{}{Nuevo Reno es la capital de la droga. Necesitan materias primas para fabricar sus drogas, ¿no? Pues parece que están consiguiendo algunas, sino todas, de Ciudad Refugio.}
 {341}{}{¿Dónde está Nuevo Reno?}
 {342}{}{Vale, gracias.}
 {350}{}{No estoy segura del todo. En algún lugar al sur, creo. Nunca he estado allí, sólo veo a sus caravanas parar aquí de vez en cuando... muy de vez en cuando.}

@@ -34,8 +34,8 @@
  con un explosivo bien colocado.}
 {901}{}{Ves el carromato con el que se lleva a los esclavos a La Guarida.}
 {905}{}{¡Guau Guau!}
-{910}{}{Recibes una descarga de la puerta electrificada.}
-{911}{}{ recibe una descarga de la puerta electrificada.}
+{910}{}{Recibes una descarga desde el suelo electrificado.}
+{911}{}{ recibe una descarga desde el suelo electrificado.}
 {912}{}{El nivel de energía baja a cero y luego vuelve al 50% cuando los
  generadores de respaldo se activan.}
 {913}{}{Se escucha un leve zumbido mientras la energía vuelve a fluir por toda la base.}
@@ -174,7 +174,7 @@
 {3025}{}{}
 {3050}{}{Si lo intentas de nuevo, tendré que matarte.}
 {3051}{}{No tengo nada que robar, idiota.}
-{3052}{}{No creo que nos conozcamos "tan" bien.}
+{3052}{}{No creo que nos conozcamos *tan* bien.}
 {3053}{}{Vuelve a tocar eso y pagarás por ello.}
 {3054}{}{Aparta tus manos de mí.}
 {3055}{}{Vuelve a hacer eso y te arranco la cabeza.}
@@ -186,7 +186,7 @@
 {3061}{}{¡Cuidado!}
 {3062}{}{¿Quieres morir?}
 {3063}{}{Vuelve a intentarlo, y te parto la cabeza.}
-{3064}{}{Eso es mío. ¡Aleja esas manos!}
+{3064}{}{Eso es mío; ¡Aleja esas manos!}
 {3075}{}{}
 {3100}{}{}
 {3300}{}{}
@@ -199,7 +199,7 @@
 {3375}{}{}
 {3400}{}{}
 {3600}{}{}
-{3625}{}{¡Oye, tú! ¿Por qué estás hurgando en eso?}
+{3625}{}{¡Oye, tú! ¿Por qué estás hurgando ahí?}
 {3626}{}{Si no tienes una llave en la mano, será mejor que te alejes de ahí.}
 {3627}{}{Está cerrado por una razón, gamberro.}
 {3628}{}{¡Para ya antes de que haya problemas!}
@@ -211,7 +211,7 @@
 {3926}{}{¡Se supone que no puedes estar aquí!}
 {3927}{}{¡Si crees que simplemente vas a pasar a mi lado, puedes olvidarlo!}
 {3928}{}{Será mejor que no estés planeando lo que creo que estás planeando, forastero.}
-{3929}{}{¿Qué? ¿Crees que no había reparado en ti? ¡Fuera de aquí!}
+{3929}{}{¿Qué? ¿Crees que no te había notado? ¡Fuera de aquí!}
 {3950}{}{}
 {3975}{}{}
 {4000}{}{}

@@ -10,7 +10,7 @@
 {205}{}{Te alejas}
 {206}{}{¿Quién eres?}
 {207}{}{Me gustaría hacerle unas preguntas, señora Bishop.}
-{208}{}{Perdón, pensaba que eras otra persona. Adiós.}
+{208}{}{Lo siento, te he confundido con otra persona. Adiós.}
 {210}{}{*¿Qué?*}
 {211}{}{¡Toc-TOC!}
 {212}{}{(Te quedas mirando sus pechos y babeas).}
@@ -68,7 +68,7 @@
 {296}{}{No... mi difunto marido se dedicaba a acumular poder. Eso rara vez deja lugar para… nada más. }
 {297}{}{No... mi marido se dedica a acumular poder. Eso rara vez deja lugar para… nada más. }
 {298}{}{Además, mi preciosa hija ha aprendido rápidamente lo que significa ser una mujer en Nuevo Reno.}
-{299}{}{¿Su hija?}
+{299}{}{¿Tu hija?}
 {300}{}{¿Su hija Angela?}
 {301}{}{Tenía algunas preguntas más...}
 {305}{}{Sí, la Angela con la que tú *dormiste*. Seguro que te acuerdas. (Te mira con desprecio). *Espero* que
@@ -194,7 +194,7 @@
 {520}{}{(Te lleva escaleras arriba hasta una extraña habitación perfumada. Una vez allí, empieza
  a darte extrañas instrucciones que te hacen sentir al mismo tiempo feliz e incómodo) ¿No quieres
  tocarme?}
-{521}{}{Oh, oh.}
+{521}{}{A-já.}
 {522}{}{Oh-no}
 {525}{}{Hmmmm. Muy bien. Tan solo recuéstate en la cama y yo haré el resto.}
 {526}{}{No QUIERO y quiero ir a CASA a Arroyo-yo.}
@@ -361,8 +361,7 @@
  dormitorio y montarme como un brahmin borracho. Y esa es probablemente su cualidad
  menos despreciable, teniendo en cuenta sus otras aficiones.}
 {781}{}{¿Otras aficiones?}
-{790}{}{He also probably wants a say in who controls the drug trade in the new California
- Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
+{790}{}{Probablemente también quiera imponer quién controla el comercio de drogas en la República de Nueva California… él. También está estudiando la posibilidad de amañar las elecciones en el suuuuur… *bostezo*}
 {791}{}{Así que en realidad planea que Reno se UNA a la República... hmmmm. De acuerdo entonces, hablemos de otra cosa…}
 {792}{}{Interesante. Me gustaría saber de qué otras cosas sería capaz John…}
 {800}{}{Las drogas son ilegal en Ciudad Refugio, por supuesto. Los demás Ciudadanos se enteraron y revocaron mi Ciudadanía. John era el único a quien podía recurrir... lo que él sabía, por supuesto. Lo planeó todo.}

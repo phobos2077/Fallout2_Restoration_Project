@@ -7,7 +7,7 @@
 {203}{}{Ves a Myron. Parece aburrido.}
 {204}{}{Ves a Myron. Mientras lo miras, bosteza muy fuerte, y luego se frota los ojos.}
 {210}{}{¡Moved los culos y venid aquí, chicos! ¡Tenemos una intrusa!}
-{215}{}{¿Qué coño quieres?}
+{215}{}{¿Qué carajo quieres?}
 {216}{}{Si estás aquí por el Jet, no me hagas perder el tiempo y simplemente lárgate.}
 {217}{}{Me pareció haber olido algo…}
 {225}{}{Hooooolaaa, preciosa.}
@@ -37,7 +37,7 @@
 {268}{}{Deberías agradecer que te señale todos tus estúpidos errores.}
 {375}{}{¡Oye, que me estoy muriendo! ¡Dame YA un estimulante!}
 {376}{}{¿Esto es mi sangre?}
-{377}{}{¡Médico!}
+{377}{}{¡Un médico!}
 {378}{}{Ayyyyy. ¡Joder! ¡Ayyyyy, eso duele!}
 {379}{}{¡Ay! ¡La madre que me...!}
 {380}{}{Ayyyyyyyy Ayyyyy Ay. Ay. ¿Ay?}
@@ -204,7 +204,7 @@
 {701}{}{Eh, ¿sobre el Jet --?}
 {710}{myn112}{Además, un viaje de peyote es demasiado largo. El beneficio está en un viaje rápido y una adicción alta. Como, eh, los barbitúricos de antes de la Gran Guerra, ¿entiendes?}
 {711}{}{Espero que esto lleve a alguna parte.}
-{712}{}{Si tú lo dices...}
+{712}{}{Si tú lo dices.}
 {713}{}{Barbitúricos… ¿como la antigua cocaína, anfetaminas, todo eso?}
 {714}{}{Te refieres a los barbitúricos… ¿como la antigua cocaína, anfetaminas, todo eso?}
 {716}{}{No importa, Myron. No tengo tiempo para tus gilipolleces sin fin.}

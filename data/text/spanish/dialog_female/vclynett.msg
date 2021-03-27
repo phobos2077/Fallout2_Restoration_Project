@@ -48,7 +48,7 @@
 {138}{lyn008}{¡Llevas puesto un uniforme de Refugio! Jamás imaginé que me encontraría con un habitante de otro Refugio.
  Este Refugio 13... ¿dónde se encuentra?}
 {139}{}{¿Hunh?}
-{140}{}{¡Ref-fugio! ¡Ref-fugio!}
+{140}{}{¡Refujo! ¡Refujo!}
 {141}{}{Graciooooso.}
 {142}{}{Adio-os}
 {143}{}{¿No es éste el Refugio del que mi antepasado provino originalmente?}
@@ -331,7 +331,7 @@
 {381}{lyn053a}{¿Sí? ¿En qué puedo ayudarte?}
 {382}{lyn053b}{¿Sí? ¿De qué se trata?}
 {383}{}{¿Hunh?}
-{384}{}{¡Ref-fugio! ¡Ref-fugio!}
+{384}{}{¡Refujo! ¡Refujo!}
 {385}{}{¡Ojos divertiiidos!}
 {386}{}{Adio-os}
 {387}{}{Tengo algunas preguntas que quería hacerte.}
@@ -427,7 +427,7 @@
 {470}{lyn069c}{¡Ya he tenido bastante de tus tonterías! Ya no se te permite permanecer en Ciudad Refugio. Mis
  guardias te escoltarán a la entrada principal.}
 {471}{}{¡El ojos de cristaaaal!}
-{472}{}{Oh, oh.}
+{472}{}{A-já.}
 {473}{}{No te gusta mi amigo, ¿eh? Eso es malo. Porque a él le gustas... como CENA.}
 {474}{}{Tus guardias no estarán aquí a tiempo de salvar tu vida... "Primer Ciudadano".}
 {475}{}{No hace falta llamar a los guardias: me iré pacíficamente.}

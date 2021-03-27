@@ -44,7 +44,7 @@
 {130}{}{Pulsar 3}
 {131}{}{¡Alerta! Este programa funcionará mejor si apaga todos los programas. ¿Desea hacerlo ahora?}
 {132}{}{Sí.}
-{133}{}{No.}
+{133}{}{No}
 {134}{}{Salir.}
 {135}{}{Apagando todos los programas
                                   Apagando programa de seguridad Skynet - Nivel 1

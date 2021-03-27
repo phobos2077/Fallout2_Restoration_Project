@@ -18,7 +18,7 @@
 {240}{}{¿Por qué no vuelvas a tu }
 {241}{}{Pareces una }
 {245}{}{Guarda ese arma… a menos que QUIERAS problemas.}
-{250}{}{¡Un intruso!}
+{250}{}{¡Intruso!}
 {260}{}{Saca esa basura rodante de aquí.}
 {261}{}{Aquí no se permiten robots. Que se largue.}
 {262}{}{Ese robot se va a convertir en chatarra si se queda.}

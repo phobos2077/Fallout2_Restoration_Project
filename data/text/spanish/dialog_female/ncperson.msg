@@ -298,7 +298,7 @@
 {608}{}{Esta ciudad es genial… excepto por los turistas.}
 {609}{}{Esta ciudad es genial… excepto por los esclavistas.}
 {610}{}{Esta ciudad es genial… excepto por los chulos y las putas.}
-{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{611}{}{He oído que han estado haciendo pruebas de drogas con esclavos al norte de Nuevo Reno.}
 {612}{}{El Gólgota está al sur de Reno, en el desierto.}
 {613}{}{Puede que sea pobre, pero no en espíritu.}
 {614}{}{No soy pobre, sólo tengo mala suerte.}
@@ -338,7 +338,7 @@
 {659}{}{Esta ciudad es genial… excepto por los turistas.}
 {660}{}{Esta ciudad es genial… excepto por los esclavistas.}
 {661}{}{Esta ciudad es genial… excepto por los chulos y las putas.}
-{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{662}{}{He oído que han estado haciendo pruebas de drogas con esclavos al norte de Nuevo Reno.}
 {663}{}{El Gólgota está al sur de Reno, en el desierto.}
 {664}{}{Puede que sea pobre, pero no en espíritu.}
 {665}{}{No soy pobre, sólo tengo mala suerte.}
@@ -377,7 +377,7 @@
 {700}{}{¡Esta noche voy a tener un poco de acción!}
 {701}{}{Encuentra una puta, y juega un poco.}
 {702}{}{La señora Bishop tiene un culito que es un bombón.}
-{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{703}{}{He oído que han estado haciendo pruebas de drogas con esclavos al norte de Nuevo Reno.}
 {704}{}{El Gólgota está al sur de Reno, en el desierto.}
 {705}{}{Puede que sea pobre, pero no en espíritu.}
 {706}{}{No soy pobre, sólo tengo mala suerte.}

@@ -60,7 +60,7 @@
 {159}{}{¡¿Cómo *osas* cuestionarme?! ¡Soy una Ciudadana! ¡Aquí están mis documentos!}
 {160}{}{Una Ciudadana, ¿eh? Déjame ver tus documentos.}
 {161}{}{Eh... no los llevo conmigo.}
-{162}{}{De acuerdo, aquí los tienes.}
+{162}{}{De acuerdo, aquí tienes.}
 {163}{}{Eh, lo que quise decir era ¿cómo consigo la Ciudadanía?}
 {164}{}{Mis disculpas, Ciudadana. No pretendía ofenderla. Tiene permiso para entrar.}
 {165}{}{Muy bien.}

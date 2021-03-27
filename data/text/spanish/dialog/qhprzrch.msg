@@ -60,7 +60,7 @@
 {159}{}{Diga buenas noches, señor Presidente.}
 {160}{prs15}{Soy el presidente de los Estados Unidos de América. El vicepresidente está en la oficina de ahí fuera. Si fueras de aquí lo sabrías. ¿Quién eres y qué estás haciendo aquí?}
 {161}{}{¿Usted es presidente de qué Estados Unidos?}
-{162}{}{Tú lo que eres es un payaso.}
+{162}{}{Estás chiflado.}
 {163}{}{¿Vicepresidente? ¿Te refieres al baboso idiota de la puerta de ahí al lado?}
 {164}{}{Qué coincidencia, soy el Emperador del planeta Quetzel, y estoy aquí para la rendición de la Tierra.}
 {165}{}{Le dejaré con sus asuntos señor, eh, Presidente. Adiós.}
@@ -215,7 +215,7 @@
 {314}{}{Al este de aquí}
 {315}{}{Al Nordeste}
 {316}{}{Sí.}
-{317}{}{No.}
+{317}{}{No}
 {318}{}{Auchh}
 {319}{}{(¡Llora de dolor!)}
 {320}{}{¿Por qué me hablas así?}

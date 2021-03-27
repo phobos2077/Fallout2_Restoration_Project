@@ -54,7 +54,7 @@
 {300}{}{Amigo, esto NO es un cuarto de baño, y puedes estar seguro de que no vas a entrar aquí, joder. Ahora piérdete.}
 {301}{}{Muchacha, esto NO es un cuarto de baño, y puedes estar segura de que no vas a entrar aquí, joder. Ahora piérdete.}
 {302}{}{¿Quieres ENTRAR? ¿Aquí? Bien… (te mira de arriba abajo)… un hombre hace lo que tiene que hacer. Pongamos manos a la obra.}
-{303}{}{Oh, oh.}
+{303}{}{A-já.}
 {304}{}{Oh-no}
 {306}{}{Vamos al grano.}
 {307}{}{Eh, no gracias. He cambiado de opinión. Adiós.}

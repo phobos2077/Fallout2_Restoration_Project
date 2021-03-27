@@ -9,7 +9,7 @@
 {155}{}{Me alegra que hayas vuelto. ¿Qué puedo HACER por ti?}
 {156}{}{¿Qué estás haciendo por aquí?}
 {157}{}{¿Qué puedes contarme sobre el matadero?}
-{158}{}{¿Has escuchado algún rumor?}
+{158}{}{¿Has oído algún rumor interesante?}
 {159}{}{¡Fuki! ¡Fuki!}
 {160}{}{Si no estuviera tan aburrida, te diría que no. Así que pregunta.}
 {164}{}{Corre el rumor de que es Farrel quien ha robado el reloj.}

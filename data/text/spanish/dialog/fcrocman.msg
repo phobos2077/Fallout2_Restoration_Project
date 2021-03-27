@@ -44,10 +44,10 @@
 {177}{}{¿Qué puedo hacer por ti?}
 {178}{}{Olvídalo. Adiós.}
 {179}{}{Soy Harry, AHS-5. Soy el hermano estelar a cargo del transbordador espacial. Lo vamos a usar para viajar a Quetzel.}
-{180}{}{¿Puedo hacer algo más?}
+{180}{}{¿Puedo preguntar algo más?}
 {181}{}{Lo tengo. Adiós.}
 {182}{}{Lo que estoy haciendo es preparar la nave para el gran viaje hacia el Padre Estelar. Ya estamos casi listos.}
-{183}{}{¿Puedo hacer algo más?}
+{183}{}{¿Puedo preguntar algo más?}
 {184}{}{Lo tengo. Adiós.}
 {185}{}{¿Tienes los planos? ¡Excelente! Ahora todo lo que necesitamos es combustible! Los Shi tienen un montón. A ver si puedes enviarnos algo. ¡Buena suerte, recluta!}
 {186}{}{[HECHO]}

@@ -36,7 +36,7 @@
 {327}{}{Te deben traer verdaderas gangas. Déjame ver que tienes.}
 {328}{}{Sólo quería asegurarme. Bien, adiós Flick.}
 {340}{}{¿De qué parlas? ¿Te crees que soy un puto soplapollas, un pirla? ¿Un figlio di puttana? ¿Te crees que io sono un payaso? ¿Qué estoy pa divertirte, es eso?}
-{341}{}{Uh, no. Lo siento, sólo tenía curiosidad. ¿Te puedo preguntar otra cosa?}
+{341}{}{Uh, no. Lo siento, sólo tenía curiosidad. Déjame preguntarte otra cosa.}
 {342}{}{Sí, así es, imbécil. Y nada me va a divertir más que ver como te mueres.}
 {343}{}{Bueno, si te vas a poner gruñón por eso, me marcho.}
 {360}{}{¿Refugio, eh? Quizás Mamá sepa de questo, porque yo no. Pero a ese Vic... le conozco. Metzger tiene a ese porco idiota.}

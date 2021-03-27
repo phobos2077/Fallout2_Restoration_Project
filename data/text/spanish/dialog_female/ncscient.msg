@@ -23,8 +23,8 @@
 {170}{}{Comprueba el pulso de aquel. Si aún está dentro de los límites tolerables, aumenta la dosis.}
 {171}{}{¿Por qué la esclava del grupo de control se suicidó? ¡Ni siquiera hacíamos pruebas con ella!}
 {200}{}{Las pruebas se están desarrollando según lo planeado, Myron.}
-{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
- willing to kill each other for it.}
+{201}{}{Esta nueva variedad de Jet es extremadamente adictiva, señor. Los esclavos casi están
+ dispuestos a matarse entre ellos por ella.}
 {202}{}{Los esclavos preferirían el Jet antes que la comida, tan potente es.}
 {203}{}{¿Quienes son esas personas que van con usted, Myron? ¿Nuevos sujetos?}
 {204}{}{El tercer grupo de pruebas parece ser el mejor de todos, Myron, señor.}
@@ -37,7 +37,7 @@
 {209}{}{Myron, señor, hemos trasladado tres esclavos del grupo de control al grupo de pruebas debido
  a los fallos respiratorios que ocurrieron la semana pasada.}
 {210}{}{Myron, señor... tuvimos que disparar a un esclavo que intentaba escapar. Fue un desperdicio.}
-{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
+{211}{}{Myron... este nuevo alucinógeno que has desarrollado es prometedor, pero no es tan adictivo como el Jet…}
 {212}{}{Si tienes alguna sugerencia, por favor escríbela en un trozo de papel y ponla justo
  en esa papelera de ahí.}
 {213}{}{¿Sí, sí, qué?}

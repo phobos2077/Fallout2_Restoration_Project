@@ -107,11 +107,10 @@
 {254}{}{Olvídalo. ¿puedo hacerte otra pregunta?}
 {255}{}{Vale, te la compro.}
 {256}{}{No importa. Adiós.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
+{257}{}{Refugio... Refugio... ¿Refugio 13? Nope, no lo he oído en la vida. ¡No me digas que han sacado una nueva droga! ¡Nada puede superar al Jet!}
 {258}{}{No, imbécil.}
 {259}{}{No, es un lugar. ¿Puedo hacerte otra pregunta?}
-{260}{}{Yes, a wonderful drug.}
+{260}{}{Sí, una droga maravillosa.}
 {261}{}{No, adiós.}
 {262}{}{Joey no es un gran conversador.}
 {300}{}{No lo creo. Adiós.}

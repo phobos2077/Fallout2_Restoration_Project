@@ -143,7 +143,7 @@
 {430}{}{Relámpago}
 {431}{}{Jocco}
 {432}{}{Hermana Acero}
-{433}{}{Super almádena}
+{433}{}{Súper almádena}
 {434}{}{Apollo}
 {435}{}{Scrapiron}
 {436}{}{Tigresa}

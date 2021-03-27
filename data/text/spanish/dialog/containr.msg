@@ -116,5 +116,5 @@
 {212}{}{Ves un frigorífico.}
 {400}{}{Abres el cajón.}
 {601}{}{Está cerrado, idiota.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
+{610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
+{611}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}

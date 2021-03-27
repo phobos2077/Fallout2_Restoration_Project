@@ -101,7 +101,7 @@
 {200}{}{He oído que los Hubologistas tienen algo de combustible, y pude echar un vistazo en su computadora para ti.}
 {201}{}{El Shi tiene todo el combustible por aquí. Yo podría tomar un vistazo a su mainframe para usted.}
 {202}{}{¿Podrías?}
-{203}{}{¿Qué coño quieres?}
+{203}{}{¿Qué carajo quieres?}
 {204}{}{¿Badger, supongo?}
 {205}{}{¡Has deshonrado a nuestro Emperador por última vez!}
 {206}{}{Creo que voy a ir a comprarle algunos caramelos a Lao Chou en la ciudad.}

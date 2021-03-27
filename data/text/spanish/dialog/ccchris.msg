@@ -130,7 +130,7 @@
 {229}{}{¿Qué crees que estás haciendo?}
 {230}{}{Eh, me largo de aquí.}
 {231}{}{Sí, claro.}
-{232}{}{Está sacando una radio. ¡Va a alertar a toda la base! ¡Tengo que encargarme de él rápidamente!}
+{232}{}{Está sacando una radio. ¡Va a alertar a toda la base! Tengo que encargarme de él rápidamente.}
 {233}{}{Oh, no. Hombre extraer la caja de habla. Cuenta en me. Debo detenerlo.}
 {800}{}{Has engañado a Chris para que te dé la contraseña.}
 {810}{}{Has matado a Chris antes de que pudiera alertar a la base.}

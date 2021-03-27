@@ -83,7 +83,7 @@
 {407}{}{¡Grrr!}
 {408}{}{-Gemido-}
 {409}{}{¡Ay!}
-{410}{}{¡Ay! ¡Mi brazo!}
+{410}{}{¡Ow! ¡Mi brazo!}
 {411}{}{¡Ja ja! ¡Te tengo!}
 {500}{}{¡De primera, Francis! ¡De primera!}
 {501}{}{Amigo, eso es lo que yo llamo una preciosa MUÑECA! Jajaja!}

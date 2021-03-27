@@ -18,7 +18,7 @@
 {501}{}{Aparentemente no tiene nada que decir.}
 {600}{}{Realmente me gustaría jugar con él a la bestia de dos espaldas.}
 {601}{}{¿Puedes hacer que me lo monte con él alguna vez?}
-{602}{}{Hmmm...}
+{602}{}{Mmm...}
 {603}{}{¿Puedes hacer que me lo monte con ella alguna vez?}
 {604}{}{De verdad que me gustaría hacérmelo con ella.}
 {605}{}{Estoy realmente loco por ella, pero estoy demasiado asustada como para decir nada.}

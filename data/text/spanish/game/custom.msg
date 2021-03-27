@@ -3,7 +3,7 @@
 {2}{}{Pref. de armas}
 {3}{}{Distancia}
 {4}{}{¿Atacar a?}
-{5}{}{Drug Use}
+{5}{}{Drogas}
 {10}{}{Hecho}
 {11}{}{Cancelar}
 {99}{}{No aplicable.}
@@ -38,4 +38,4 @@
 {601}{}{Estimulantes si estás herido.}
 {602}{}{Estimulantes si estás gravemente herido.}
 {603}{}{Cualquier droga algunas veces.}
-{604}{}{Cualquier droga a cualquier hora.}
+{604}{}{Cualquier droga en cualquier momento.}

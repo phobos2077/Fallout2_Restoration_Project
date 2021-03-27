@@ -13,7 +13,7 @@
 {112}{}{Yo ir.}
 {113}{sgnt5}{¿Qué ha sido eso? No te has olvidado de algo, ¿gusano?}
 {114}{}{Me llamo }
-{115}{sgnt6}{No soy un señor. Trabajo para vivir, IM-BÉ-CIL. Me llamarás Sargento o sargento Dornan. ¡Me entiendes!}
+{115}{sgnt6}{No soy un señor. Trabajo para vivir, IM-BÉ-CIL. Me llamarás Sargento o sargento Dornan. ¡¿Me entiendes?!}
 {116}{}{¡Sí, Sargento!}
 {117}{}{Claro, Sarge. Lo que sea.}
 {118}{sgnt7}{Sobresaliente. Ve a paso ligero al hangar donde montarás guardia. Harás un buen trabajo. ¿Entiendes?}
