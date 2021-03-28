@@ -23,7 +23,7 @@
 {121}{}{Hola, Ciudadana. ¿En qué puedo ayudarte?}
 {122}{}{Me gustaría entrar en el Refugio.}
 {123}{}{Yo entro en agujero GRANDE junto a montaña}
-{124}{}{Ahora mismo en nada.}
+{124}{}{De momento no.}
 {125}{}{Lo siento, pero sólo se permite entrar en el Refugio a Ciudadanos. Estoy seguro de que lo
  entiendes.}
 {126}{}{Sólo pueden entrar Ciudadanos. Ahora vete.}

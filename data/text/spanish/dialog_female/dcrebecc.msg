@@ -27,7 +27,7 @@
 {223}{}{¿Qué puedo hacer por ti? Estoy muy ocupada.}
 {224}{}{¿Has venido a por una copa? Las mesas están allí.}
 {225}{}{No estoy de buen humor. ¿Qué quieres?}
-{226}{}{¿Ya has vuelto? Supongo que querrás una copa?.}
+{226}{}{¿Ya has vuelto? Supongo que querrás una copa?}
 {240}{}{Claro, guapa.}
 {241}{}{¿Qué es lo que quieres saber?}
 {242}{}{Me encantaría.}
@@ -164,7 +164,7 @@
 {563}{}{No sé de que estás hablando.}
 {564}{}{Lo que sea.}
 {565}{}{Ooba gooba.}
-{570}{}{Oh, ¿de verdad? Ese ruin de Frankie te hizo hacerlo, estoy segura. Sabes que haré otra, ¿no?}
+{570}{}{Oh, ¿de verdad? Ese ruin de Frankie te hizo hacerlo, estoy segura. Sólo haré otra, sabes.}
 {571}{}{No me importa. Yo ya he cobrado.}
 {572}{}{Ya.}
 {573}{}{No me sorprendería.}

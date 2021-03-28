@@ -9,7 +9,7 @@
 {105}{}{}
 {106}{}{}
 {107}{}{Seleccionar Retirar.}
-{108}{}{Seleccionar Depositar.}
+{108}{}{Almacén}
 {109}{}{Salir.}
 {110}{}{Uhg.}
 {111}{}{[No sabes leer lo que pone en el monitor].}

@@ -59,7 +59,7 @@
 {331}{}{¿Así que al final rompiste la banca?}
 {332}{}{¿Dónde está mi dinero?}
 {333}{}{Hmph.}
-{340}{}{¡Ahora iba a eso! ¿No me vas a dejar siquiera que disfrute de la gloria? He tenido que trabajar muy duro para conseguirlo, ¿sabes?}
+{340}{}{¡Ahora iba a eso! ¿No me vas a dejar siquiera que disfrute de la gloria? He tenido que trabajar muy duro para conseguirlo, sabes.}
 {341}{}{Lo sé. Lo siento.}
 {342}{}{Que te den. ¿Dónde está el dinero que te presté?}
 {343}{}{Me importa una mierda. ¿Dónde está mi dinero?}
@@ -103,7 +103,7 @@
 {450}{}{¡Claro! Cuando las ranas críen pelo. Becky no le haría daño a una mosca. Aunque es bastante guapa.}
 {451}{}{Bueno, te equivocas, gilipollas.}
 {452}{}{Entonces quizás fuera otra persona.}
-{460}{}{Maldición. Creo que tienes razón, pero... estoy casi arruinado. ¡No puedo pagarte todo ese dinero! Tengo que comer, ¿sabes?}
+{460}{}{Maldición. Creo que tienes razón, pero... estoy casi arruinado. ¡No puedo pagarte todo ese dinero! Tengo que comer, sabes.}
 {461}{}{Lo siento.}
 {462}{}{Mala suerte.}
 {470}{}{Oh, maldición. Apenas puedo permitirme 100 dólares. ¿Puedes perdonarme la mitad? ¡Te prometo que te pagaré más tarde!}

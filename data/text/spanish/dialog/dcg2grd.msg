@@ -7,7 +7,7 @@
 {203}{}{Ven aquí.}
 {204}{}{No he terminado contigo.}
 {205}{}{Zorra.}
-{225}{}{Me pregunto cómo durarán las cosas por aquí con Metzger muerto.}
+{225}{}{¿Me pregunto cuánto durarán las cosas por aquí sin Metzger?}
 {226}{}{¿Así que Metzger por fin ha muerto?}
 {227}{}{¿Has sido tú quien lo hizo?}
 {228}{}{La Guarida nunca volverá a ser la misma.}

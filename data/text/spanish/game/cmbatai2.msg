@@ -1,29 +1,29 @@
 {1000}{}{¡Mi cara! ¡Mi cara!}
-{1001}{}{¡Oh! ¡Eso duele!}
+{1001}{}{¡Ow! ¡Eso duele!}
 {1002}{}{¡Ouch! Necesito algo para mi cabeza.}
-{1010}{}{¡Ay, mi brazo!}
+{1010}{}{¡Ow, mi brazo!}
 {1011}{}{¡Ow!}
-{1012}{}{¡Le has roto el brazo a Kaga!}
-{1020}{}{¡Ay, mi brazo!}
+{1012}{}{¡Me has roto el brazo!}
+{1020}{}{¡Ow, mi brazo!}
 {1021}{}{¡Wahhhh!}
-{1022}{}{¡Oh, Dios mio! ¡Mi brazo!}
-{1030}{}{¡Ay! ¡Eso ha dolido!}
-{1031}{}{Creo que voy a fallecer}
+{1022}{}{¡Dios mío, mi brazo!}
+{1030}{}{¡Ow! ¡Eso ha dolido!}
+{1031}{}{Creo que me voy a desmayar}
 {1032}{}{¡Ouch!}
 {1033}{}{¡Oooof!}
 {1034}{}{¡Eso ha dolido!}
-{1035}{}{¡Déjame solo!}
+{1035}{}{¡Déjame en paz!}
 {1036}{}{¡Ohhh, duele!}
-{1060}{}{¡Ay, mi pierna!}
+{1060}{}{¡Oh, mi pierna!}
 {1061}{}{¡Mi rodilla!}
 {1062}{}{¡Ow!}
-{1070}{}{¡Ay, mi pierna!}
+{1070}{}{¡Oh, mi pierna!}
 {1071}{}{¡Mi rodilla!}
-{1072}{}{¡¡¡¡Aaaarrrrggghhh!!!!}
+{1072}{}{¡Aaaarrrrggghhh!}
 {1080}{}{¡¡Ay!! ¡Mis ojos!}
 {1081}{}{¡Mi cara! ¡Mis ojos! ¡Aaaaaarrgghh!}
 {1082}{}{¡Mis ojos!}
-{1090}{}{Aaaaaaahh, mi ingle! Ooooooo...}
+{1090}{}{¡Oooooh, la ingle! Oooooh...}
 {1091}{}{Ayy...¡Quema!}
 {1092}{}{¡Urp!}
 {1093}{}{¡Ooorp! aoooww...}
@@ -34,36 +34,36 @@
 {1102}{}{¡Mi cara! ¡Mi cara!}
 {1110}{}{¡Aggghhh! ¡Mi brazo!}
 {1111}{}{¡Mi brazo!}
-{1112}{}{¡Oh tio, eso duele!}
+{1112}{}{¡Oh tío, eso duele!}
 {1120}{}{¡Aggghhh! ¡Mi brazo!}
 {1121}{}{¡Mi brazo!}
 {1122}{}{}
 {1130}{}{}
-{1131}{}{¡Oof!}
+{1131}{}{¡Uf!}
 {1132}{}{¡Ouch!}
-{1133}{}{¡Oof! Me duele las costillas}
+{1133}{}{¡Uf! Me duelen las costillas}
 {1134}{}{¡Ugh! ¡Eso duele!}
-{1135}{}{¡Ouch!}
+{1135}{}{¡Maldición! ¡Te desprecio!}
 {1136}{}{¡Argh!}
-{1138}{}{¡Maldición! ¡Escupo en ti!}
+{1138}{}{Oh, ¡mis costillas!}
 {1139}{}{¡Argh!}
-{1140}{}{¡Oof!}
+{1140}{}{¡Uf!}
 {1160}{}{¡Aggghhh! ¡Mi pierna!}
-{1161}{}{¡La pierna de Kaga!}
-{1162}{}{¡Adiós a mi rodilla!}
+{1161}{}{¡Mi pierna!}
+{1162}{}{Adiós a mi rodilla}
 {1170}{}{¡Aggghhh! ¡Mi pierna!}
-{1171}{}{¡La pierna de Kaga!}
-{1172}{}{¡Adiós a mi rodilla!}
+{1171}{}{¡Mi pierna!}
+{1172}{}{Adiós a mi rodilla}
 {1180}{}{¡Aggghhh! ¡Estoy ciego!}
 {1181}{}{¡Mis ojos! ¡Mis ojos!}
-{1182}{}{¡El ojo! ¡Esa se la vas a pagar a Kaga!}
+{1182}{}{¡Mi ojo! ¡Me las vas a pagar!}
 {1190}{}{Oooooo, ¡mi ingle!}
 {1191}{}{¡Ooooooooooh!}
 {1192}{}{No... puedo... respirar}
 {1193}{}{¡Erg! ¡Justo en los pendientes reales!}
 {1194}{}{Duele, duele...}
 {1195}{}{¡Maldición, eso duele!}
-{1200}{}{¡Ay! Hijo de...}
+{1200}{}{¡Ow! Hijo de...}
 {1201}{}{¡Me has roto la nariz!}
 {1202}{}{¡Te arrancaré la cabeza!}
 {1210}{}{Ay, mi brazo.}
@@ -73,15 +73,15 @@
 {1221}{}{Has cometido el mayor error de tu vida.}
 {1222}{}{¡Mi brazo!}
 {1230}{}{¡Urp!}
-{1231}{}{¡Oof!}
+{1231}{}{¡Uf!}
 {1232}{}{¡Ouch!}
 {1233}{}{}
 {1234}{}{¡Ugh! ¡Eso duele!}
 {1235}{}{¡Ouch!}
 {1236}{}{¡Argh!}
 {1237}{}{¡Oh, creo que me has roto una costilla!}
-{1238}{}{¡Ay! ¡Mi bazo!}
-{1239}{}{¡Oof!}
+{1238}{}{¡¡¡Ow!!! ¡Mi bazo!}
+{1239}{}{¡Uf!}
 {1260}{}{Ay, mi pierna.}
 {1261}{}{¡No necesito estar de pie para matarte!}
 {1262}{}{¡Mi rodilla!}
@@ -107,7 +107,7 @@
 {1321}{}{Es sólo un rasguño...}
 {1322}{}{¡Me has roto el brazo, pero yo voy a romperte el cuello!}
 {1330}{}{Un poco de sangre no le hace daño a nadie.}
-{1331}{}{¡Ooh! Te voy a retorcer el pescuezo por haber hecho eso...}
+{1331}{}{¡Uff! Voy a retorcerte el pescuezo por esto...}
 {1332}{}{¡Ow!}
 {1333}{}{¡Me gusta el dolor!}
 {1334}{}{¡Me encanta el sonido de las costillas rompiéndose!}
@@ -129,8 +129,8 @@
 {1394}{}{¿Conque es así como quieres jugar?}
 {1395}{}{¡Ack!}
 {1400}{}{¡Atención, registrado mal funcionamiento de la CPU!}
-{1401}{}{¡Atención! ¡CPU dañada! ¡Procesamiento afectado!}
-{1402}{}{¡Atención! ¡CPU dañada! ¡Desviando sistemas críticos!}
+{1401}{}{¡Advertencia! ¡CPU dañada! ¡Procesamiento dañado!}
+{1402}{}{¡Advertencia! ¡CPU dañada! ¡Desviando sistemas críticos!}
 {1410}{}{Registrado daño en manipulador.}
 {1411}{}{Unidad atacada en manipulador izquierdo. Evaluación de daños.}
 {1412}{}{Daño registrado en manipulador. Intentando compensación.}
@@ -154,10 +154,10 @@
 {1471}{}{Unidad atacada en unidad motriz izquierda. Evaluación de daños.}
 {1472}{}{Daño registrado en unidad motriz. Intentando compensación.}
 {1480}{}{¡Sensor alcanzado! ¡Sensor alcanzado!}
-{1481}{}{¡Sensores afectados! ¡Sensores afectados!}
+{1481}{}{¡Sensores dañados! ¡Sensores dañados!}
 {1482}{}{Mal funcionamiento de los sistemas de sensores, intentando derivación.}
 {1490}{}{¡Registrado mal funcionamiento del regulador!}
-{1491}{}{¡Regulador dañado! ¡Regulador afectado!}
+{1491}{}{¡Daños en el regulador! ¡Regulación dañada!}
 {1492}{}{¡Regulador dañado! ¡Desviando sistemas críticos!}
 {1500}{}{Mi cabeza está llena de espíritus malignos.}
 {1501}{}{Puedo escuchar a mis ancestros llamándome.}
@@ -259,7 +259,7 @@
 {1597}{}{Bastardo... Te mataré lentamente por haber hecho eso.}
 {1598}{}{No sabes nada del honor.}
 {1599}{}{Te descuartizaré como a un animal por esto.}
-{1600}{}{Oh, mi hermosa cara.}
+{1600}{}{Oh, mi hermosa cara}
 {1601}{}{Me duelen los sesos.}
 {1602}{}{Ahora me parezco a Van Gogh.}
 {1603}{}{Maldición, adiós a mi nariz.}
@@ -280,7 +280,7 @@
 {1618}{}{Eh, ¿a dónde han ido mis dedos?}
 {1619}{}{Esto me vendrá genial para parecerme al Capitán Garfio.}
 {1620}{}{Debería haber usado la izquierda.}
-{1621}{}{¡Le has roto el brazo a Kaga!}
+{1621}{}{¡Me has roto el brazo!}
 {1622}{}{¡Lamentarás eso!}
 {1623}{}{Aún me quedan un par de dedos.}
 {1624}{}{Adiós a Wimbledon.}
@@ -303,7 +303,7 @@
 {1641}{}{Y quién necesita el apéndice.}
 {1642}{}{Ahí te has pasado un poco, doc.}
 {1643}{}{¡Arrggghh, mi columna!}
-{1660}{}{¡Ay, mi pierna!}
+{1660}{}{¡Oh, mi pierna!}
 {1661}{}{¡Pagarás por eso!}
 {1662}{}{¡Argh! ¡Me has roto la pierna! ¡Yo te romperé el cuello!}
 {1663}{}{Mierda, se acabó bailar el tango.}
@@ -313,7 +313,7 @@
 {1667}{}{¡Me has reventado los dedos!}
 {1668}{}{Y estaba recién afeitada.}
 {1669}{}{¡Me arrancaré las rótulas con los dientes!}
-{1670}{}{¡La pierna de Kaga!}
+{1670}{}{¡Mi pierna!}
 {1671}{}{¡Me has destrozado mis Gucci!}
 {1672}{}{¡Ouch! ¡Eh! ¡Eso ha ido debajo de la cintura!}
 {1673}{}{Sabes hacerme enfadar como nadie.}
@@ -323,8 +323,8 @@
 {1677}{}{¡Sheriff Dillon, Sheriff Dillon!}
 {1678}{}{Me va a salir una ampolla.}
 {1679}{}{¡Kai, yai, yippee, ai, ay!}
-{1680}{}{¡Maldita sangre en los ojos!}
-{1681}{}{¡El ojo! ¡Esa se la vas a pagar a Kaga!}
+{1680}{}{¡Tengo sangre en los ojos!}
+{1681}{}{¡Mi ojo! ¡Me las vas a pagar!}
 {1682}{}{¡Bastardo!}
 {1683}{}{¿Quién ha apagado las luces?}
 {1684}{}{Eh, ¡ese era mi ojo de cristal!}
@@ -428,14 +428,14 @@
 {2005}{}{¡Piedad!}
 {2020}{}{Hmm, eh, ¡para!}
 {2021}{}{No me gustan los de tu clase...}
-{2022}{}{Esperaba que no tuviéramos que llegar a esto...}
-{2023}{}{Supongo que tendré que defenderme.}
-{2024}{}{Supongo que tendré que defenderme.}
-{2025}{}{Esperaba que no tuviéramos que llegar a esto...}
+{2022}{}{Realmente esperaba que no tuviéramos que llegar a esto...}
+{2023}{}{Supongo que tendré que defenderme}
+{2024}{}{Supongo que tendré que defenderme}
+{2025}{}{Realmente esperaba que no tuviéramos que llegar a esto...}
 {2040}{}{¡Toma esto!}
 {2041}{}{¡No deberías haber empezado esto!}
-{2042}{}{¡Tú lo has querido!}
-{2043}{}{¿Te gusta esto?}
+{2042}{}{¡Te lo has buscado!}
+{2043}{}{¿Qué te parece esto?}
 {2044}{}{}
 {2045}{}{¡Bestia!}
 {2046}{}{¡No quiero hacer esto!}
@@ -444,16 +444,16 @@
 {2049}{}{¡Rufián!}
 {2060}{}{}
 {2061}{}{¡Has fallado!}
-{2062}{}{¡Vaya! ¡Eso me podía haber hecho daño!}
-{2063}{}{¡Ufff! ¡Sigo vivo!}
-{2064}{}{¡Eh! ¡Eso me podía haber hecho daño!}
-{2065}{}{¡Ufff! ¡Sigo vivo!}
+{2062}{}{¡Wow! ¡Eso pudo haber dolido!}
+{2063}{}{¡Fiuu! ¡Sigo vivo!}
+{2064}{}{¡Eh! ¡Eso pudo haber dolido!}
+{2065}{}{¡Fiuu! ¡Sigo vivo!}
 {2100}{}{¡Ataca a otro, por favor!}
 {2101}{}{¡Ten piedad!}
 {2102}{}{¡Que alguien me ayude!}
 {2103}{}{¡Por favor, para!}
 {2104}{}{}
-{2105}{}{¡No pienso morir aquí!}
+{2105}{}{¡No voy a morir por esto!}
 {2120}{}{Espera a que te atrape...}
 {2121}{}{}
 {2122}{}{¡Eh, tú!}
@@ -463,16 +463,16 @@
 {2140}{}{¡No deberías haber hecho eso!}
 {2141}{}{¡Cuidamos de nosotros mismos!}
 {2142}{}{¡Esto es lo que les hacemos a las alimañas!}
-{2143}{}{¡Mutante, bicho raro!}
+{2143}{}{¡Monstruo mutante!}
 {2144}{}{¡Bastardo!}
 {2145}{}{¡Serás comida para los perros!}
 {2146}{}{¡Esto te enseñará!}
-{2147}{}{Bien. Tú lo has querido.}
+{2147}{}{Bien. Te lo has buscado.}
 {2148}{}{¡Animal!}
 {2149}{}{¡Tendrás lo que te mereces!}
 {2160}{}{No soy tan malo, ¿verdad?}
 {2161}{}{He visto brahmines más listos que tú.}
-{2162}{}{¡Caray!}
+{2162}{}{¡Fiuu!}
 {2163}{}{No soy tan flojo.}
 {2164}{}{¡Gracias a los dioses!}
 {2165}{}{¡Has fallado!}
@@ -481,17 +481,17 @@
 {2202}{}{¡Que alguien me ayude!}
 {2203}{}{Me has vencido... esta vez.}
 {2204}{}{¡Ya tienes lo que querías!}
-{2205}{}{¡No pienso morir aquí!}
+{2205}{}{¡No voy a morir por esto!}
 {2220}{}{¡Demasiado tarde para huir!.}
 {2221}{}{¿Quién te dejo entrar aquí?}
 {2222}{}{¡Eh, tú!}
-{2223}{}{¡No queremos a los tuyos por aquí!}
+{2223}{}{¡No queremos gente como tú por aquí!}
 {2224}{}{Nadie se va a quedar con este sitio...}
 {2225}{}{¿Quién te crees que eres?}
 {2240}{}{¡Toma esto!}
-{2241}{}{¿Te gusta esto?}
+{2241}{}{¿Qué te parece esto?}
 {2242}{}{¡Esto es lo que les hacemos a las alimañas!}
-{2243}{}{¡Esto es por ser tú!}
+{2243}{}{¡Esto es para ti!}
 {2244}{}{¡Adiós!}
 {2245}{}{¡Vamos allá!}
 {2246}{}{¡Basura problemática!}
@@ -508,39 +508,39 @@
 {2301}{}{¡Volveré!}
 {2302}{}{¡Hasta luego, basura!}
 {2303}{}{¡Esto ha sido divertido, pero ahora me largo!}
-{2304}{}{¡Me las pagarás más tarde!}
+{2304}{}{¡Me las pagarás... luego!}
 {2305}{}{¡Pronto lo repetiremos!}
 {2320}{}{¡Te voy a machacar la cabeza!}
 {2321}{}{¡Carne fresca!}
 {2322}{}{¡Me has alegrado el día!}
 {2323}{}{¡Vas a ser mi zorra!}
 {2324}{}{¡Te voy a machacar la cabeza!}
-{2325}{}{¡Me voy a vengar de ti!}
+{2325}{}{¡Voy a ajustarte las cuentas!}
 {2340}{}{¡Voy a por ti!}
 {2341}{}{¡Hora de jugar!}
 {2342}{}{Por favor, no supliques. La muerte debe ser digna.}
 {2343}{}{Espero que no te mueras demasiado deprisa.}
-{2344}{}{¿Tienes algo que decir antes de morir?}
+{2344}{}{¿Tus últimas palabras?}
 {2345}{}{¡Toma esto!}
 {2346}{}{¡Muere! ¡Muere! ¡Muere! ¡Muere!}
 {2347}{}{¡Muere!}
-{2348}{}{Vamos a rajarte un poquito...}
+{2348}{}{Vamos a abrirte un poquito...}
 {2349}{}{Vas a ser comida para perros, amigo.}
 {2360}{}{Ni siquiera me has rozado.}
 {2361}{}{Me matas de aburrimiento.}
 {2362}{}{Vamos, basura. ¡Pelea!}
-{2363}{}{¿Eso es lo mejor que sabes hacer?}
+{2363}{}{¿Eso es lo mejor que puedes hacer?}
 {2364}{}{¡Apestas!}
 {2365}{}{Esto va a ser más sencillo de lo que pensaba.}
-{2400}{}{¡Yo me largo de aquí!}
+{2400}{}{¡Me largo de aquí!}
 {2401}{}{Quizás esto no fuera una buena idea!.}
 {2402}{}{Ataca a otro, ¿vale?}
-{2403}{}{¡Por los pelos!}
-{2404}{}{¡No pienso morir aquí!}
+{2403}{}{¡Ja!}
+{2404}{}{¡No voy a morir por esto!}
 {2405}{}{¡Esto es demasiado para mí!}
 {2420}{}{¡Eh, tú!}
 {2421}{}{¡Voy a enseñarte modales!}
-{2422}{}{¡No queremos a los tuyos por aquí!}
+{2422}{}{¡No queremos gente como tú por aquí!}
 {2423}{}{¡Tienes que aprender algo de respeto!}
 {2424}{}{Hora de ganarme la paga...}
 {2425}{}{Espera a que te atrape...}
@@ -549,7 +549,7 @@
 {2440}{}{¡Toma esto!}
 {2441}{}{Te gusta, ¿eh?}
 {2442}{}{Deberías haberme dejado en paz.}
-{2443}{}{¿Te gusta esto?}
+{2443}{}{¿Qué te parece esto?}
 {2444}{}{¿Dónde está tu mamaíta ahora?}
 {2445}{}{¡Toma!}
 {2446}{}{Veamos lo duro que eres...}
@@ -562,33 +562,33 @@
 {2463}{}{Ese fue tu último error.}
 {2464}{}{Novato.}
 {2465}{}{¿Aprendiste a pelear en un bar?}
-{2500}{}{¡Hay que salir de aquí!}
-{2501}{}{Kaga volverá...}
+{2500}{}{¡Hay que largarse de aquí!}
+{2501}{}{Volveré...}
 {2502}{}{¡Hoy no me matarás!}
 {2503}{}{¡Hasta luego, basura!}
-{2504}{}{¡Aún no has visto mi final!}
+{2504}{}{¡No has visto lo último de mi!}
 {2505}{}{¡Pagarás por esto... más tarde!}
 {2520}{}{¡Eres historia!}
 {2521}{}{Carne fresca...}
 {2522}{}{¡Bailaré sobre tu tumba!}
 {2523}{}{¡Eh, todos! ¡Es la diana de practicas!}
 {2524}{}{¡Prepárate, puta!}
-{2525}{}{Voy a disfrutar de esto...}
+{2525}{}{Voy a disfrutar esto...}
 {2540}{}{¡¡¡Toma esto!!!}
 {2541}{}{No te molestes en pedir piedad...}
 {2542}{}{Esta es la mejor parte...}
 {2543}{}{¿Quieres más? ¡¿Eh?!}
-{2544}{}{¡Serás comida para los perros!}
+{2544}{}{Serás comida para los perros}
 {2545}{}{No deberías empezar lo que no puedas terminar.}
 {2546}{}{¡Espero que no mueras muy pronto!}
 {2547}{}{Sólo uno de nosotros saldrá vivo de ésta.}
 {2548}{}{¡Muere!}
 {2549}{}{Me como a basura como tú para desayunar.}
-{2550}{}{Vas a ser alimento para mi iguana.}
+{2550}{}{Serás comida para mi iguana}
 {2551}{}{Lo último que verás es mi sonriente cara.}
 {2552}{}{Este es mi trabajo favorito.}
 {2560}{}{Eres un chiste.}
-{2561}{}{¿Eso es lo mejor que sabes hacer?}
+{2561}{}{¿Eso es lo mejor que puedes hacer?}
 {2562}{}{Esto es demasiado fácil.}
 {2563}{}{Es patético...}
 {2564}{}{¡Muy lento!}
@@ -642,22 +642,22 @@
 {2721}{}{¡Oh, sí!}
 {2722}{}{¡Voy a enseñarte modales!}
 {2723}{}{¡Eres historia!}
-{2724}{}{¡Atacad!}
+{2724}{}{¡Al ataque!}
 {2725}{}{¡Enterremos a este perdedor!}
 {2726}{}{¡Apuntar y disparar!}
 {2727}{}{Dejaremos que Dios se ocupe de lo que quede de ti.}
 {2740}{}{¡Toma esto!}
 {2741}{}{¡Te tengo!}
 {2742}{}{¡Ahora es cuando mueres!}
-{2743}{}{¿Te gusta esto?}
+{2743}{}{¿Qué te parece esto?}
 {2744}{}{Para nosotros esto no es sólo un trabajo.}
 {2745}{}{No deberías empezar lo que no puedas terminar.}
-{2746}{}{¡Mejor será que reces a los dioses!}
+{2746}{}{¡Será mejor que reces a los dioses!}
 {2747}{}{¡No vas a ver un nuevo amanecer!}
 {2748}{}{¿Te sientes bien?}
 {2749}{}{¡Nos vemos en el infierno!}
 {2760}{}{Intenta entrenar algo.}
-{2761}{}{¿Eso es lo mejor que sabes hacer?}
+{2761}{}{¿Eso es lo mejor que puedes hacer?}
 {2762}{}{Vamos, perdedor. ¡Pelea!}
 {2763}{}{La próxima vez intenta apuntar.}
 {2764}{}{Civiles...}
@@ -692,25 +692,25 @@
 {2863}{}{}
 {2864}{}{}
 {2865}{}{}
-{2900}{}{¡Corred!¡Corred!}
+{2900}{}{¡Huida! ¡Huida!}
 {2901}{}{¡Retirada!}
-{2902}{}{¡Reagrupaos!}
+{2902}{}{¡Reagrupamiento!}
 {2903}{}{¡Atrás!}
-{2904}{}{¡Corred!}
+{2904}{}{¡Retirada!}
 {2905}{}{¡Aaaaghhh!}
-{2920}{}{¡Matad a ese idiota!}
+{2920}{}{¡Mata a este idiota!}
 {2921}{}{Carne fresca...}
 {2922}{}{¡Saqueo!}
 {2923}{}{¡Este es mío!}
 {2924}{}{¡Ahhhhhhh!}
-{2925}{}{¡Atacad!}
+{2925}{}{¡Al ataque!}
 {2940}{}{¡Disfruta los últimos segundos de tu vida!}
 {2941}{}{¡Sangre! ¡Sangre! ¡Sangre!}
 {2942}{}{¡Tu corazón es mío!}
-{2943}{}{¡RAAAAAAARRRR!!}
+{2943}{}{¡¡RAAAAAAARRRR!!}
 {2944}{}{¡Tus armas serán mis trofeos!}
 {2945}{}{¡MUERTE!}
-{2946}{}{¡Eres mío y voy a acabar contigo!}
+{2946}{}{¡Seré yo quien te mate!}
 {2947}{}{¡Tus huesos yacerán en el Yermo!}
 {2948}{}{¡Sangre y oscuridad!}
 {2949}{}{¡YAAAAAAAAAAAAH!}
@@ -749,7 +749,7 @@
 {3064}{}{Recalculando habilidades ofensivas del objetivo.}
 {3065}{}{Análisis. Objetivo errado en selección táctica. Unidad no dañada.}
 {3100}{}{¡Me largo de aquí!}
-{3101}{}{Kaga volverá...}
+{3101}{}{Volveré...}
 {3102}{}{¡Hoy no me matarás!}
 {3103}{}{¡Más tarde!}
 {3104}{}{¡No será lo último que oigas de Kaga!}
@@ -896,8 +896,8 @@
 {12063}{}{Vas a estar muriéndote mucho tiempo...}
 {12064}{}{Chapucero...}
 {12065}{}{Por lo que veo, débil y lento.}
-{12100}{}{¡Hay que salir de aquí!}
-{12101}{}{Kaga volverá...}
+{12100}{}{¡Hay que largarse de aquí!}
+{12101}{}{Volveré...}
 {12102}{}{¡Hoy no me matarás!}
 {12103}{}{¡Más tarde!}
 {12104}{}{¡No será lo último que oigas de Kaga!}
@@ -990,13 +990,13 @@
 {12394}{}{Fantástico. Un jugador con fijación por las pelotas.}
 {12395}{}{Déjame recostarme un segundo, que después te mataré.}
 {12396}{}{¡Mis huevos!}
-{26000}{}{¡Corred!¡Corred!}
+{26000}{}{¡Huida! ¡Huida!}
 {26001}{}{¡Retirada!}
-{26002}{}{¡Reagrupaos!}
+{26002}{}{¡Reagrupamiento!}
 {26003}{}{¡Atrás!}
-{26004}{}{¡Corred!}
-{26005}{}{¡Yo me largo de aquí!}
-{26020}{}{¡Matad a ese idiota!}
+{26004}{}{¡Retirada!}
+{26005}{}{¡Me largo de aquí!}
+{26020}{}{¡Mata a este idiota!}
 {26021}{}{Eres hombre muerto...}
 {26022}{}{¡Voy a destriparte!}
 {26023}{}{¡Este es mío!}
@@ -1008,16 +1008,16 @@
 {26043}{}{¡Me encanta hacer esto!}
 {26044}{}{¡Tus armas serán mis trofeos!}
 {26045}{}{Muerte y desmembramiento. ¡Mis dos cosas favoritas!}
-{26046}{}{¡Eres mío y voy a acabar contigo!}
+{26046}{}{¡Seré yo quien te mate!}
 {26047}{}{¡Tus huesos yacerán en el Yermo!}
 {26048}{}{¡Sangre y oscuridad!}
 {26049}{}{¡Vaciaré tu cadáver!}
 {26050}{}{¡Destripad al maldito bastardo!}
 {26100}{}{¡Khans! ¡Cubridme!}
 {26101}{}{¡Retirada!}
-{26102}{}{¡Reagrupaos!}
+{26102}{}{¡Reagrupamiento!}
 {26103}{}{¡Atrás!}
-{26104}{}{¡Corred!}
+{26104}{}{¡Retirada!}
 {26105}{}{¡Retroceded y reagrupaos!}
 {26106}{}{¡Que empiece el desafío!}
 {26107}{}{¡Te usaré como diana!}
@@ -1032,7 +1032,7 @@
 {26116}{}{¡Los Khans gobernarán!}
 {26117}{}{¡Los Khans son invencibles!}
 {26118}{}{¡Retirarse nunca! ¡Rendirse jamás!}
-{26119}{}{¡Eres mío y voy a acabar contigo!}
+{26119}{}{¡Seré yo quien te mate!}
 {26120}{}{¡Me haré un collar con tus dientes!}
 {26121}{}{¡Sangre y oscuridad!}
 {26122}{}{¡Los Khans son los más fuertes!}
@@ -1046,12 +1046,12 @@
 {32000}{}{¡Mi cara! ¡Mi cara!}
 {32001}{}{¡Mi nariz!}
 {32002}{}{oooh... mis orejas...}
-{32010}{}{¡Ay, mi brazo!}
+{32010}{}{¡Ow, mi brazo!}
 {32011}{}{¡Ow!}
-{32012}{}{¡Le has roto el brazo a Kaga!}
-{32020}{}{¡Ay, mi brazo!}
+{32012}{}{¡Me has roto el brazo!}
+{32020}{}{¡Ow, mi brazo!}
 {32021}{}{¡Wahhhh!}
-{32022}{}{¡Oh, Dios mio! ¡Mi brazo!}
+{32022}{}{¡Dios mío, mi brazo!}
 {32030}{}{¡OUCH!}
 {32031}{}{Creo que voy a fallecer...}
 {32032}{}{¡Oye! ¡Mi hígado!}
@@ -1064,11 +1064,11 @@
 {32062}{}{¡Justo en la arteria!}
 {32070}{}{¡Ay, mi pierna!}
 {32071}{}{::hop... hop::}
-{32072}{}{¡¡¡¡Aaaarrrrggghhh!!!!}
+{32072}{}{¡Aaaarrrrggghhh!}
 {32080}{}{¡No puedo ver, bastardo!}
 {32081}{}{¡Mi cara! ¡Mis ojos! ¡Aaaaaarrgghh!}
 {32082}{}{¿Dónde estás? ¡Ayuda!}
-{32090}{}{Aaaaaaahh, mi ingle! Ooooooo...}
+{32090}{}{¡Oooooh, la ingle! Oooooh...}
 {32091}{}{Yo... Yo... ay...}
 {32092}{}{::gimotea::}
 {32093}{}{::vomita::}
@@ -1222,7 +1222,7 @@
 {32600}{}{¡Aayy!}
 {32601}{}{¡Próximo rango, nos vemos!}
 {32602}{}{¡Atrás!}
-{32603}{}{¡Corred!¡Corred!}
+{32603}{}{¡Huida! ¡Huida!}
 {32604}{}{¡Corro!}
 {32620}{}{Prepárate a ser deshonrado.}
 {32621}{}{Los pilares de la vergüenza divina...}
@@ -1250,29 +1250,29 @@
 {32700}{}{¡Mi cara! ¡Mi cara!}
 {32701}{}{¡Padre Estelar! ¡Ayúdame!}
 {32702}{}{¡Ouch! Necesito algo para mi cabeza.}
-{32710}{}{¡Ay, mi brazo!}
+{32710}{}{¡Ow, mi brazo!}
 {32711}{}{¡Ow!}
-{32712}{}{¡Le has roto el brazo a Kaga!}
-{32720}{}{¡Ay, mi brazo!}
+{32712}{}{¡Me has roto el brazo!}
+{32720}{}{¡Ow, mi brazo!}
 {32721}{}{¡Wahhhh!}
 {32722}{}{¡Por Hub! ¡Mi brazo!}
-{32730}{}{¡Ay! ¡Eso ha dolido!}
-{32731}{}{Creo que voy a fallecer}
+{32730}{}{¡Ow! ¡Eso ha dolido!}
+{32731}{}{Creo que me voy a desmayar}
 {32732}{}{¡Ouch!}
 {32733}{}{¡Padre Estelar! ¡Ayúdame!}
 {32734}{}{¡Eso ha dolido!}
-{32735}{}{¡Déjame solo!}
+{32735}{}{¡Déjame en paz!}
 {32736}{}{¡Ohhh, duele!}
-{32760}{}{¡Ay, mi pierna!}
+{32760}{}{¡Oh, mi pierna!}
 {32761}{}{¡Mi rodilla!}
 {32762}{}{¡Ow!}
 {32770}{}{¡Ay, mi tibia!}
 {32771}{}{¡Mi rodilla!}
-{32772}{}{¡¡¡¡Aaaarrrrggghhh!!!!}
+{32772}{}{¡Aaaarrrrggghhh!}
 {32780}{}{¡¡Ay!! ¡Mis ojos!}
 {32781}{}{¡Mi cara! ¡Mis ojos! ¡Aaaaaarrgghh!}
 {32782}{}{¡Mis ojos!}
-{32790}{}{Aaaaaaahh, mi ingle! Ooooooo...}
+{32790}{}{¡Oooooh, la ingle! Oooooh...}
 {32791}{}{Ayy...¡Quema!}
 {32792}{}{¡Urp!}
 {32793}{}{::chillido::}
@@ -1404,7 +1404,7 @@
 {36011}{}{¡Ay! Menos mal que Kaga usa la mano derecha.}
 {36012}{}{¡¡Ay!!}
 {36020}{}{Ay, ¡mi brazo!}
-{36021}{}{¡Le has roto el brazo a Kaga!}
+{36021}{}{¡Me has roto el brazo!}
 {36022}{}{¡Lamentarás eso!}
 {36030}{}{(Gruñe)}
 {36031}{}{¡Eso sólo es una herida superficial!}
@@ -1415,11 +1415,11 @@
 {36060}{}{¡Ay, mi pierna!}
 {36061}{}{¡Pagarás por eso!}
 {36062}{}{¡Ah! ¡La PIERNA de Kaga!}
-{36070}{}{¡La pierna de Kaga!}
+{36070}{}{¡Mi pierna!}
 {36071}{}{Uungh! Estás apuntando bajo, ¿no es así?}
 {36072}{}{No intentabas golpear mi pierna, ¡¿verdad?!}
-{36080}{}{¡Maldita sangre en los ojos!}
-{36081}{}{¡El ojo! ¡Esa se la vas a pagar a Kaga!}
+{36080}{}{¡Tengo sangre en los ojos!}
+{36081}{}{¡Mi ojo! ¡Me las vas a pagar!}
 {36082}{}{¡Bastardo!}
 {36090}{}{Oooooohh, tiempo muerto, Kaga tiene que recoger algo.}
 {36091}{}{¡Ooohh! Kaga tiene que aprender ese movimiento...}
@@ -1428,7 +1428,7 @@
 {36094}{}{¡Urp!}
 {36095}{}{¡Gasp!}
 {36100}{}{¡Volverás a ver a Kaga!}
-{36101}{}{Kaga volverá...}
+{36101}{}{Volveré...}
 {36102}{}{¡Kaga nunca ha sido derrotado!}
 {36103}{}{¡Kaga se dedicará a cazarte!}
 {36104}{}{¡No será lo último que oigas de Kaga!}
@@ -1454,7 +1454,7 @@
 {36164}{}{¡No puedes matar a quien no puedes tocar!}
 {36165}{}{¡Muy lento!}
 {36200}{}{¡Volverás a ver a Kaga!}
-{36201}{}{Kaga volverá...}
+{36201}{}{Volveré...}
 {36202}{}{¡No puedes matar al Gran Kaga!}
 {36203}{}{¡Tienes suerte! Kaga tiene cosas que hacer en otra parte.}
 {36204}{}{Tú y Kaga os volveréis a ver.}
@@ -1564,7 +1564,7 @@
 {36620}{}{¡Ahhhgh!}
 {36621}{}{¡Ay! ¡Casi lastimas a un Elegido!}
 {36622}{}{¡Ahhhgh! ¡Voltearé tu cuello por eso!}
-{36630}{}{¡Oof!}
+{36630}{}{¡Uf!}
 {36631}{}{¡Grrr!}
 {36632}{}{¡Te mataré por eso!}
 {36633}{}{¡No podrás hacerme daño cuando estés muerto!}
@@ -1574,7 +1574,7 @@
 {36637}{}{¡Grrr! ¡Me has enfurecido!.}
 {36638}{}{¡Agh!}
 {36639}{}{¡Te devolveré el mismo dolor!}
-{36640}{}{¡Oof!}
+{36640}{}{¡Uf!}
 {36641}{}{¡Ouch!}
 {36642}{}{Hmm, tienes problemas.}
 {36643}{}{¡Grrr! Espera tu muerte.}

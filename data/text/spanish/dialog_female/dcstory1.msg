@@ -16,7 +16,7 @@
 {115}{}{Me alegro de volver a verte.}
 {116}{}{Buen viaje.}
 {117}{}{¡Oh, hola! Me alegro de ver una cara nueva por aquí. Mi nombre es Leanne. ¿Cómo estás? ¿Quieres sentarte?}
-{118}{}{Hola de nuevo. Te va bien, espero.}
+{118}{}{Hola de nuevo. ¿Te va bien, espero?}
 {119}{}{Cuéntame lo que sepas sobre el Maestro.}
 {120}{}{Genial. ¿Como te va a ti?}
 {121}{}{Bastante bien.}
@@ -27,7 +27,7 @@
 {132}{}{Ugra.}
 {133}{}{Fegi.}
 {134}{}{Oh, muy bien. Gracias por preguntar. Becky tiene una historia familiar muy interesante. ¿La tuya también lo es?}
-{135}{}{Todo va bien, gracias. ¿Dónde estábamos? Creo que me estabas hablando de la historia de tu familia.}
+{135}{}{Todo va bien, gracias. ¿Dónde estábamos? ¿Creo que me estabas hablando de la historia de tu familia?}
 {136}{}{Sí. Yo soy la Elegida. Mi antepasado salvó al mundo de alguien llamado 'El Maestro'.}
 {137}{}{Sí. Se supone que uno de mis antepasados salvó al mundo de alguien llamado 'El Maestro'.}
 {138}{}{Me tengo que ir.}

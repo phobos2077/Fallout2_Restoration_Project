@@ -103,7 +103,7 @@
 {351}{}{Muy bien, señora. Vuelva pronto.}
 {352}{}{[La croupier alza una ceja]. }
 {354}{}{Eso haré, gracias.}
-{355}{}{Quizá lo haga.}
+{355}{}{Puede que sí.}
 {400}{}{Lo siento, más suerte la próxima vez.}
 {401}{}{Lo siento, señor. Más suerte la próxima vez.}
 {402}{}{Lo siento, señora. Más suerte la próxima vez.}

@@ -43,7 +43,7 @@
 {142}{}{Mis ancestros dicen... ¡Que te jodan!}
 {143}{}{Está bien, ya me marcho.}
 {144}{}{En palabras de mis ancestros... ¡Que te jodan!}
-{145}{gate11a}{¡Alto! ¿Otra vez tú? Ya te había avisado. ¡Alarma! ¡Intruso en la puerta!}
+{145}{gate11a}{¡Alto! ¿Otra vez tú? Ya te había avisado. ¡Alarma! ¡Intruso en la puerta! }
 {146}{}{¡Maldición!}
 {147}{}{¡Intruso en la puerta!}
 {148}{}{¡Entrada principal bajo ataque!}

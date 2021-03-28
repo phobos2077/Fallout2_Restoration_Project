@@ -39,9 +39,9 @@
 {186}{}{Esa no es la clase de información que le DARÍA a cualquiera.}
 {187}{}{¿Qué tal si cien pavos te hacen cambiar de idea?}
 {188}{}{¿Qué tal si te doy 50 dólares y me lo cuentas?}
-{189}{}{¿Qué me dices... tú me das la información y yo no te abro un agujero en la cabeza?}
+{189}{}{¿Qué me dices? Tú me das la información y yo no te abro un nuevo agujero en la cabeza.}
 {190}{}{No importa.}
-{191}{}{Bueno, entonces te preguntaré otra cosa.}
+{191}{}{Bueno, ¿puedo preguntarte otra cosa, entonces?}
 {192}{}{Claro, el dinero PODRÍA hacerme cambiar de idea. ¡Pero no lo tienes!}
 {193}{}{Debo habérmelo dejado en alguna parte. Voy a buscarlo.}
 {194}{}{Creo que esto no va a ser suficiente.}

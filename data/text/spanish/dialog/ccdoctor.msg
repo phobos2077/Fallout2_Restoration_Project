@@ -94,7 +94,7 @@
 {193}{}{¿Qué pasa? ¿Nos atacan?}
 {194}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
 {195}{}{¿Qué carajo está pasando?}
-{196}{}{¡No soy hostil, no me dispares!}
+{196}{}{No soy hostil, no me dispares.}
 {197}{}{No me alisté para luchar, así que déjame tranquilo.}
 {198}{}{¡Maldición! ¡Soy un doctor, no un soldado!}
 {200}{}{[MÁS]}

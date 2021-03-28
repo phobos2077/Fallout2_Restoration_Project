@@ -19,7 +19,7 @@
 {168}{}{Aquí tienes 5 dólares.}
 {169}{}{Hoy no.}
 {170}{}{Búscate un trabajo.}
-{171}{}{Buena señora, ¿podría ayudar, por favor, [cof] a un pobre hombre hambriento que está [cof] demasiado enfermo para trabajar?}
+{171}{}{Buena señora, por favor, ayude [cof] a un pobre hombre hambriento que está [cof] demasiado enfermo para trabajar.}
 {172}{}{Pobrecito, aquí tienes 5 dólares.}
 {173}{}{Me he prometido no dar dinero a los pedigüeños.}
 {174}{}{No.}

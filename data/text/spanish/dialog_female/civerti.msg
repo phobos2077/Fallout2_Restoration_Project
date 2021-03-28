@@ -26,7 +26,7 @@
 {240}{}{La aeronave está fijada en el objetivo. El tiempo de vuelo es de aproximadamente 6 horas. Disfrute su vuelo.}
 {241}{}{Esto es, el momento de la verdad. La tribu está en problemas y depende de mí. Me duelen los pies, me duele todo el cuerpo y no recuerdo la última vez que comí una comida decente. Estos son los momentos por los que vivimos. No hay marcha atrás. Es hora de mostrarle al mundo qué }
 {242}{}{ de que estas hecha. ¡Vamos, Enclave!}
-{243}{}{Jeje ... ¡Vuela pajarito, vuela!}
+{243}{}{Jeje... ¡Vuela pajarito, vuela! }
 {244}{}{ salvar el día ahora.}
 {300}{}{[Te metes en el avión y accedes el terminal del piloto.] Bienvenido a PoseidoNet. Este terminal está limitado a la transmisión entre el Vertibird del Enclave y el muelle. ¿Orden?}
 {301}{}{Estado.}

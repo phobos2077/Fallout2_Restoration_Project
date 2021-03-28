@@ -84,7 +84,7 @@
 {510}{}{Aunque no me importaría vender el coche, si alguien me trajera una batería: no, espera... eh, creo que lo que necesitaría es un inyector de células de combustible. Si, si tuviera uno de esos, vendería el coche por 2.000 dólares. Incluso instalaría el inyector para que funcionara bien.}
 {511}{}{Suena interesante. Tendré que volver si alguna vez encuentro un inyector. Déjame hacerte otra pregunta.}
 {512}{}{Cuando encuentre uno, volveré. Adiós, Smitty.}
-{520}{}{Aquí lo tienes. Nuevo y mejorado. Ahora cuídalo, ¿vale?}
+{520}{}{Aquí lo tienes. Nuevo y mejorado. Ahora cuídalo.}
 {521}{}{Lo haré. Gracias, Smitty. Adiós.}
 {600}{}{¡ALÉJATE DE MI PUTO COCHE!}
 {650}{}{Que no te vuelva a pillar husmeando cerca de mi coche.}
