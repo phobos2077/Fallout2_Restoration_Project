@@ -716,17 +716,17 @@
 {2949}{}{¡YAAAAAAAAAAAAH!}
 {2950}{}{¡Destripad al maldito bastardo!}
 {2960}{}{¡Un esfuerzo inútil!}
-{2961}{}{¡Has fallado, idiota!}
+{2961}{}{¡Has fallado!}
 {2962}{}{¡Mi sangre es más fuerte que la tuya!}
-{2963}{}{¡Estoy vivo!!}
-{2964}{}{¡Tu cuerpo es débil y lastimoso!}
+{2963}{}{¡¡Estoy vivo!!}
+{2964}{}{¡Tu cuerpo es tan débil que da pena!}
 {3000}{}{Opción de retirada iniciada.}
 {3001}{}{Plan táctico: Retirada.}
 {3002}{}{Efectividad de combate mínima. Se aconseja la retirada.}
-{3003}{}{Análisis táctico completo. Recomendada retirada.}
+{3003}{}{Análisis táctico completado. Se recomienda retirada}
 {3004}{}{Descargando programa de huida.}
 {3005}{}{Iniciada secuencia de retirada.}
-{3020}{}{¡Objetivo a la vista!}
+{3020}{}{¡Objetivo localizado!}
 {3021}{}{¡Exterminar! ¡Exterminar!}
 {3022}{}{¡El humanoide no debe escapar!}
 {3023}{}{¡Exterminar al intruso!}
@@ -751,8 +751,8 @@
 {3100}{}{¡Me largo de aquí!}
 {3101}{}{Volveré...}
 {3102}{}{¡Hoy no me matarás!}
-{3103}{}{¡Más tarde!}
-{3104}{}{¡No será lo último que oigas de Kaga!}
+{3103}{}{¡Hasta luego, mediocre!}
+{3104}{}{¡No será lo último que oigas de mí!}
 {3105}{}{¡Pagarás por esto... más tarde!}
 {3106}{}{No pienso morir dos veces.}
 {3107}{}{¡Pies para que os quiero!}
@@ -773,7 +773,7 @@
 {3122}{}{Carne, carne, carne, ¡carne a la boloñesa!}
 {3123}{}{Cerebros...}
 {3124}{}{Cavaré tu tumba...}
-{3125}{}{Espero que pueda mantener tu cabeza intacta...}
+{3125}{}{Espero poder mantener tu cabeza intacta...}
 {3126}{}{Más cerebros...}
 {3127}{}{¡Mandad más policías!}
 {3128}{}{¡Mandad más paramédicos!}
@@ -790,10 +790,10 @@
 {3139}{}{Así que tú eres mi próximo donante de órganos, ¿eh?}
 {3140}{}{¡Acaba de salir tu número!}
 {3141}{}{No te molestes en pedir piedad...}
-{3142}{}{Kaga disfrutará con esto.}
-{3143}{}{Oooo, ¡esto te va a doler!}
+{3142}{}{Voy a disfrutar esto}
+{3143}{}{¡Ohhh, eso va a doler!}
 {3144}{}{Hora de cortar y trocear.}
-{3145}{}{¡Kaga se comerá tu hígado!}
+{3145}{}{¡Voy a comerme tu hígado!}
 {3146}{}{¡Espero que no mueras muy pronto!}
 {3147}{}{¡Hora de comer!}
 {3148}{}{¡Muere!}
@@ -808,10 +808,10 @@
 {3157}{}{¡Delicioso y nutritivo!}
 {3158}{}{Seguro que sangras un montón. Debes estar tierno y jugoso.}
 {3159}{}{Supongo que eso es más miedo que excitación.}
-{3160}{}{¡No puedes herir a Kaga!}
+{3160}{}{¡No puedes herirme!}
 {3161}{}{¿Te creías que los necrófagos son lentos?}
-{3162}{}{¡Fallaste, normal!}
-{3163}{}{¡Fallaste, normal!}
+{3162}{}{¡Fallaste, mediocre!}
+{3163}{}{¡Fallaste, mediocre!}
 {3164}{}{¡No puedes matar a quien no puedes tocar!}
 {3165}{}{¡Muy lento!}
 {3166}{}{Vale, ahora prueba a hacer eso a velocidad normal.}
@@ -861,7 +861,7 @@
 {12004}{}{¡Atrás!}
 {12005}{}{Ya atraparé a esos idiotas cuando salga Fallout 3...}
 {12006}{}{Bishop se puede quedar con su jodido dinero...}
-{12020}{}{¡Objetivo a la vista!}
+{12020}{}{¡Objetivo localizado!}
 {12021}{}{¡Que alguien me cubra!}
 {12022}{}{Vamos vamos vamos vamos}
 {12023}{}{Vamos vamos vamos vamos}
@@ -899,29 +899,29 @@
 {12100}{}{¡Hay que largarse de aquí!}
 {12101}{}{Volveré...}
 {12102}{}{¡Hoy no me matarás!}
-{12103}{}{¡Más tarde!}
-{12104}{}{¡No será lo último que oigas de Kaga!}
+{12103}{}{¡Hasta luego, mediocre!}
+{12104}{}{¡No será lo último que oigas de mí!}
 {12105}{}{¡Pagarás por esto... más tarde!}
 {12120}{}{¡Eres historia!}
 {12121}{}{Carne fresca...}
-{12122}{}{Ah, la cena está lista.}
+{12122}{}{Ah, la cena ha llegado.}
 {12123}{}{Cerebros...}
 {12124}{}{Cavaré tu tumba...}
-{12125}{}{Espero que pueda mantener tu cabeza intacta...}
+{12125}{}{Espero poder mantener tu cabeza intacta...}
 {12140}{}{¡Acaba de salir tu número!}
 {12141}{}{No te molestes en pedir piedad...}
-{12142}{}{Kaga disfrutará con esto.}
-{12143}{}{Oooo, ¡esto te va a doler!}
+{12142}{}{Voy a disfrutar esto}
+{12143}{}{¡Ohhh, eso va a doler!}
 {12144}{}{}
-{12145}{}{¡Kaga se comerá tu hígado!}
+{12145}{}{¡Voy a comerme tu hígado!}
 {12146}{}{¡Espero que no mueras muy pronto!}
 {12147}{}{¡Hora de comer!}
 {12148}{}{¡Muere!}
 {12149}{}{Desayuno escoria como tú... también la almuerzo.}
-{12160}{}{¡No puedes herir a Kaga!}
+{12160}{}{¡No puedes herirme!}
 {12161}{}{}
-{12162}{}{¡Fallaste, normal!}
-{12163}{}{¡Fallaste, normal!}
+{12162}{}{¡Fallaste, mediocre!}
+{12163}{}{¡Fallaste, mediocre!}
 {12164}{}{¡No puedes matar a quien no puedes tocar!}
 {12165}{}{¡Muy lento!}
 {12200}{}{Caray, esta mierda se está poniendo demasiado seria.}
@@ -1037,11 +1037,11 @@
 {26121}{}{¡Sangre y oscuridad!}
 {26122}{}{¡Los Khans son los más fuertes!}
 {26123}{}{¡Buen intento, pero sigo aquí!}
-{26124}{}{¡Nadie me puede alcanzar!}
+{26124}{}{¡No me puedes tocar!}
 {26125}{}{¡Soy indestructible!}
 {26126}{}{¡Mi sangre es más fuerte que la tuya!}
 {26127}{}{Quizá deberíamos dejarlo hasta que hayas practicado tu puntería!}
-{26128}{}{¡No mereces el combatir contra mí!}
+{26128}{}{¡No eres digno de combatir conmigo!}
 {26129}{}{¿Por qué pierdo el tiempo peleando con idiotas como tú?}
 {32000}{}{¡Mi cara! ¡Mi cara!}
 {32001}{}{¡Mi nariz!}
@@ -1077,7 +1077,7 @@
 {32100}{}{¡Tu kung-fu es mejor que el mío!}
 {32101}{}{Eres realmente bueno. Adiós.}
 {32102}{}{¡Ayyy! ¡Espíritus malvados!}
-{32103}{}{Oh, no...}
+{32103}{}{Oh no...}
 {32104}{}{He fallado.}
 {32105}{}{He sido deshonrado.}
 {32120}{}{Me obligas a atacarte.}
@@ -1187,7 +1187,7 @@
 {32460}{}{¡Disparas peor que mi madre!}
 {32461}{}{¡Maldición, apestas!}
 {32462}{}{¡Vuelve a Los Ángeles, nenaza!}
-{32463}{}{¿Necesitas que me quede quieto?}
+{32463}{}{¿Quieres que me quede quieto para ti?}
 {32464}{}{:::eructa:::}
 {32465}{}{Oh, esa ha sido buena...}
 {32500}{}{Santo cielo, !yo sólo quería lamerlo!}
@@ -1223,7 +1223,7 @@
 {32601}{}{¡Próximo rango, nos vemos!}
 {32602}{}{¡Atrás!}
 {32603}{}{¡Huida! ¡Huida!}
-{32604}{}{¡Corro!}
+{32604}{}{¡Hay que huir!}
 {32620}{}{Prepárate a ser deshonrado.}
 {32621}{}{Los pilares de la vergüenza divina...}
 {32622}{}{... caen flechas envenenadas...}
@@ -1380,7 +1380,7 @@
 {33232}{}{::jadea::}
 {33233}{}{¡Oooof!}
 {33234}{}{No tienes que hacer esto...}
-{33235}{}{Vale, eso ha dolido.}
+{33235}{}{Vale, eso duele.}
 {33236}{}{Ohhh... ayyy}
 {33260}{}{¡Mi tibia!}
 {33261}{}{¡Mi rodilla!}
@@ -1398,16 +1398,16 @@
 {33294}{}{Hmmm. Ay. Hmmm.}
 {33295}{}{Creo que voy a entrar en shock ahora mismo.}
 {36000}{}{¡Auch! ¡Eso le ha dado a Kaga en la cabeza!}
-{36001}{}{¡Ay! ¡La cabeza de Kaga!}
+{36001}{}{¡Ow! ¡Mi cabeza!}
 {36002}{}{¡Uuf! ¡La cabeza de Kaga está en llamas!}
-{36010}{}{¡La mano de Kaga!}
+{36010}{}{¡Mi mano!}
 {36011}{}{¡Ay! Menos mal que Kaga usa la mano derecha.}
-{36012}{}{¡¡Ay!!}
+{36012}{}{¡¡Ow!!}
 {36020}{}{Ay, ¡mi brazo!}
 {36021}{}{¡Me has roto el brazo!}
 {36022}{}{¡Lamentarás eso!}
 {36030}{}{(Gruñe)}
-{36031}{}{¡Eso sólo es una herida superficial!}
+{36031}{}{¡Es sólo una herida superficial!}
 {36032}{}{¡Grrr!}
 {36033}{}{¡Lamentarás eso!}
 {36034}{}{¡Deberías detenerte mientras estás ganando!}
@@ -1431,7 +1431,7 @@
 {36101}{}{Volveré...}
 {36102}{}{¡Kaga nunca ha sido derrotado!}
 {36103}{}{¡Kaga se dedicará a cazarte!}
-{36104}{}{¡No será lo último que oigas de Kaga!}
+{36104}{}{¡No será lo último que oigas de mí!}
 {36105}{}{¡Pagarás por esto... más tarde!}
 {36120}{}{¡Kaga debería haber sido El Elegido!}
 {36121}{}{¡Arroyo lamentará haberme expulsado!}
@@ -1442,12 +1442,12 @@
 {36141}{}{¡Voy a disfrutar esto!}
 {36142}{}{Oooo, ¡eso te va a doler!}
 {36143}{}{¡Voy a llevar tu cabeza a la Anciana!}
-{36144}{}{¡Kaga se comerá tu hígado!}
+{36144}{}{¡Voy a comerme tu hígado!}
 {36145}{}{Espero que no mueras tan pronto como los otros.}
 {36146}{}{¡Otro Elegido para matar!}
 {36147}{}{¡Muere!}
 {36148}{}{Grita para Kaga.}
-{36160}{}{¡No puedes herir a Kaga!}
+{36160}{}{¡No puedes herirme!}
 {36161}{}{Los Espíritus protegen a Kaga.}
 {36162}{}{Espero que ese no sea tu mejor disparo.}
 {36163}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
@@ -1473,7 +1473,7 @@
 {36247}{}{¡Otro Elegido para matar!}
 {36248}{}{¡Muere!}
 {36249}{}{Grita para mí.}
-{36260}{}{¡No puedes herir a Kaga!}
+{36260}{}{¡No puedes herirme!}
 {36261}{}{Los Espíritus protegen a Kaga.}
 {36262}{}{Espero que ese no sea tu mejor disparo.}
 {36263}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
@@ -1498,7 +1498,7 @@
 {36346}{}{¡Otro Elegido para matar!}
 {36347}{}{¡Muere!}
 {36348}{}{Grita para Kaga.}
-{36360}{}{¡No puedes herir a Kaga!}
+{36360}{}{¡No puedes herirme!}
 {36361}{}{Los Espíritus protegen a Kaga.}
 {36362}{}{Espero que ese no sea tu mejor disparo.}
 {36363}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
@@ -1516,7 +1516,7 @@
 {36423}{}{Deja que Kaga te enseñe lo que ha aprendido.}
 {36440}{}{¡Siente la ira de Kaga!}
 {36441}{}{Quédate quieto, para que Kaga pueda apuntar bien.}
-{36442}{}{Kaga disfrutará con esto.}
+{36442}{}{Voy a disfrutar esto}
 {36443}{}{Oooo, Kaga sintió eso desde aquí.}
 {36444}{}{¡Voy a llevar tu cabeza a la Anciana!}
 {36445}{}{¡Kaga te arrancará tu corazón con una cuchara!}
@@ -1524,7 +1524,7 @@
 {36447}{}{¡Otro Elegido para matar!}
 {36448}{}{¡Muere!}
 {36449}{}{Grita para Kaga.}
-{36460}{}{¡No puedes herir a Kaga!}
+{36460}{}{¡No puedes herirme!}
 {36461}{}{Los Espíritus protegen a Kaga.}
 {36462}{}{Espero que ese no sea tu mejor disparo.}
 {36463}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
@@ -1549,21 +1549,21 @@
 {36546}{}{Kaga tiene que matarte ahora.}
 {36547}{}{¡Muere!}
 {36548}{}{Grita para Kaga.}
-{36560}{}{¡No puedes herir a Kaga!}
+{36560}{}{¡No puedes herirme!}
 {36561}{}{Los Espíritus protegen a Kaga.}
 {36562}{}{Espero que ese no sea tu mejor disparo.}
 {36563}{}{Ja ja ja. ¡Kaga no tuvo ni que agacharse!}
 {36564}{}{¡No puedes matar a quien no puedes tocar!}
 {36565}{}{¡Muy lento!}
 {36600}{}{¡Ahhhgh! ¡Mi cara!}
-{36601}{}{¡Mi cara! ¡Sufrirás por eso!}
-{36602}{}{¡Ahhhgh! ¡Te haré pedazos!}
+{36601}{}{¡Mi cara! ¡Sufrirás!}
+{36602}{}{¡Ahhhgh! ¡Voy a despedazarte!}
 {36610}{}{¡Ahhhgh!}
-{36611}{}{¡Ay! ¡Casi lastimas a un Elegido!}
-{36612}{}{¡Ahhhgh! ¡Voltearé tu cuello por eso!}
+{36611}{}{¡Ow! ¡Casi lastimas al Elegido!}
+{36612}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {36620}{}{¡Ahhhgh!}
-{36621}{}{¡Ay! ¡Casi lastimas a un Elegido!}
-{36622}{}{¡Ahhhgh! ¡Voltearé tu cuello por eso!}
+{36621}{}{¡Ow! ¡Casi lastimas al Elegido!}
+{36622}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {36630}{}{¡Uf!}
 {36631}{}{¡Grrr!}
 {36632}{}{¡Te mataré por eso!}
@@ -1573,30 +1573,30 @@
 {36636}{}{¡Te destriparé!}
 {36637}{}{¡Grrr! ¡Me has enfurecido!.}
 {36638}{}{¡Agh!}
-{36639}{}{¡Te devolveré el mismo dolor!}
+{36639}{}{¡Te devolveré todo este dolor!}
 {36640}{}{¡Uf!}
 {36641}{}{¡Ouch!}
 {36642}{}{Hmm, tienes problemas.}
 {36643}{}{¡Grrr! Espera tu muerte.}
-{36644}{}{¡Podrás herirme, pero no me matarás!}
+{36644}{}{¡Podrás herirme, pero no puedes ganar!}
 {36645}{}{¡Ay! Herirme no fue una buena idea.}
 {36660}{}{¡Ahhhgh! ¡Mi pierna!}
-{36661}{}{¿Llamas a eso dolor? ¡Me río!}
-{36662}{}{¡Ahhhgh! ¡Voltearé tu cuello por eso!}
+{36661}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{36662}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {36670}{}{¡Ahhhgh! ¡Mi pierna!}
-{36671}{}{¿Llamas a eso dolor? ¡Me río!}
-{36672}{}{¡Ahhhgh! ¡Voltearé tu cuello por eso!}
+{36671}{}{¿Llamas a eso dolor? ¡Me das risa!}
+{36672}{}{¡Ahhhgh! ¡Te romperé el cuello por eso!}
 {36680}{}{¡Ahhhgh! ¡Miserable humano! ¡Estoy ciego!}
-{36681}{}{¡Ahhhgh! ¡Duele! ¡No tienes idea de lo que has hecho!}
-{36682}{}{¡Ahhhgh! ¡Te torturaré muchos días!}
-{36690}{}{¡Esa es una debilidad humana!}
-{36691}{}{¿Llamas a eso dolor? ¡Me río!}
+{36681}{}{¡Ahhhgh! ¡Duele! ¡Qué has hecho!}
+{36682}{}{¡Ahhhgh! ¡Te torturaré durante días!}
+{36690}{}{¡Eso es debilidad humana!}
+{36691}{}{¿Llamas a eso dolor? ¡Me das risa!}
 {36692}{}{Eres estúpido, humano!}
 {36693}{}{¿Por qué me atacas ahí?}
-{36694}{}{Te heriré durante horas.}
+{36694}{}{Te haré daño durante horas}
 {36695}{}{¿Por qué me atacas ahí?}
 {36700}{}{¡Corred!}
-{36701}{}{¡Tu destino no es matarme!}
+{36701}{}{¡No me matarás!}
 {36702}{}{¡Volveré!}
 {36703}{}{¡Mis amigos te atraparán por mí!}
 {36704}{}{¡Pagarás por esto... más tarde!}
@@ -1609,22 +1609,22 @@
 {36725}{}{¿Quién es tan estúpido como para enojarnos?}
 {36726}{}{¡Veo enemigos que destruir!}
 {36727}{}{¡Sufrirás, sufrirás mucho!}
-{36740}{}{¡Ahora vas a morir!}
+{36740}{}{Ahora vas a morir}
 {36741}{}{¡Nadie te salvará ahora!}
 {36742}{}{¡Déjame ver tu dolor!}
 {36743}{}{¡Sufrirás una muerte ardiente!}
 {36744}{}{¡Muere, humano estúpido!}
-{36745}{}{¡Morirás chillando!}
+{36745}{}{Morirás gritando}
 {36746}{}{¡Sufre!}
 {36747}{}{¡Voy a aplastarte!}
 {36748}{}{¡No puedes combatir a los Elegidos!}
 {36749}{}{¡Sufre, humano!}
-{36760}{}{¿Por qué luchas así?}
-{36761}{}{¡Eso es lo mejor que los humanos pueden hacer!}
-{36762}{}{¡No tienes el poder!}
+{36760}{}{¿Por qué te resistes?}
+{36761}{}{¡Es lo mejor que los humanos pueden hacer!}
+{36762}{}{¡No tienes poder!}
 {36763}{}{¡Me haces reír mucho!}
-{36764}{}{¿Eso ha sido un ataque?}
-{36765}{}{¡Nosotros somos los Elegidos!}
+{36764}{}{¿Ha sido eso un ataque?}
+{36765}{}{¡Somos los Elegidos!}
 {44800}{}{Tengo la cabeza dura, pero eso ha dolido.}
 {44801}{}{Eso me va a producir un infernal dolor de cabeza.}
 {44802}{}{Umph. ¡En la cabeza no!}
@@ -1707,7 +1707,7 @@
 {44934}{}{¡Hora de jugar duro!}
 {44935}{}{Ahora esto es personal.}
 {44936}{}{¡Idiota a punto de morir!}
-{44937}{}{¡Acercándome!}
+{44937}{}{¡Allá voy!}
 {44938}{}{¡Blanco adquirido y fijado!}
 {44939}{}{¡Se acerca una tormenta!}
 {44940}{}{Voy a hacer daño... ¡mucho daño!}

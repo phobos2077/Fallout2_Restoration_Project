@@ -5,7 +5,7 @@
 {104}{}{Línea de fuego bloqueada.}
 {105}{}{No puedes usar armas con los dos brazos rotos.}
 {106}{}{No puedes usar armas de dos manos con un brazo roto.}
-{107}{}{No tienes suficiente fuerza para manejar ese arma.}
+{107}{}{No eres lo suficientemente fuerte para usar esta arma correctamente.}
 {108}{}{ y }
 {200}{}{queda fuera de combate}
 {201}{}{derribada}
@@ -13,9 +13,9 @@
 {203}{}{te deja lisiada la pierna derecha}
 {204}{}{te deja lisiado el brazo izquierdo}
 {205}{}{te deja lisiado el brazo derecho}
-{206}{}{cegada}
-{207}{}{te mueres}
-{208}{}{es herida}
+{206}{}{cegado}
+{207}{}{mueres}
+{208}{}{es herido}
 {209}{}{críticamente}
 {210}{}{ardiendo}
 {211}{}{traspasa tu armadura}
@@ -23,7 +23,7 @@
 {213}{}{destruye tu arma}
 {214}{}{tu arma se cae}
 {215}{}{pierdes el siguiente turno}
-{216}{}{te hieres a ti misma}
+{216}{}{te hieres a ti mismo}
 {217}{}{pierdes el resto de tu munición}
 {218}{}{dispara un proyectil defectuoso}
 {219}{}{hiriéndote}
@@ -36,9 +36,9 @@
 {253}{}{te deja lisiada la pierna derecha}
 {254}{}{te deja lisiado el brazo izquierdo}
 {255}{}{te deja lisiado el brazo derecho}
-{256}{}{cegada}
-{257}{}{te mueres}
-{258}{}{es herida}
+{256}{}{cegado}
+{257}{}{mueres}
+{258}{}{es herido}
 {259}{}{críticamente}
 {260}{}{ardiendo}
 {261}{}{traspasa tu armadura}
@@ -46,7 +46,7 @@
 {263}{}{destruye tu arma}
 {264}{}{tu arma se cae}
 {265}{}{pierdes el siguiente turno}
-{266}{}{te hieres a ti misma}
+{266}{}{te hieres a ti mismo}
 {267}{}{pierdes el resto de tu munición}
 {268}{}{dispara un proyectil defectuoso}
 {269}{}{hiriéndote}
@@ -57,15 +57,15 @@
 {301}{}{derribada}
 {302}{}{rompe su pierna izquierda}
 {303}{}{rompe su pierna derecha}
-{304}{}{rompe su brazo izquierda}
+{304}{}{rompe su brazo izquierdo}
 {305}{}{rompe su brazo derecho}
-{306}{}{cegada}
-{307}{}{muere}
-{308}{}{es herida}
+{306}{}{cegado}
+{307}{}{ha muerto}
+{308}{}{es herido}
 {309}{}{críticamente}
 {310}{}{ardiendo}
 {311}{}{traspasando su armadura}
-{312}{}{su arma estalla}
+{312}{}{su arma explota}
 {313}{}{su arma se destruye}
 {314}{}{su arma se cae}
 {315}{}{pierde su siguiente turno}
@@ -80,19 +80,19 @@
 {401}{}{derribada}
 {402}{}{rompe su pierna izquierda}
 {403}{}{rompe su pierna derecha}
-{404}{}{rompe su brazo izquierda}
+{404}{}{rompe su brazo izquierdo}
 {405}{}{rompe su brazo derecho}
-{406}{}{cegada}
-{407}{}{muere}
-{408}{}{es herida}
+{406}{}{cegado}
+{407}{}{ha muerto}
+{408}{}{es herido}
 {409}{}{críticamente}
 {410}{}{ardiendo}
 {411}{}{traspasa su armadura}
-{412}{}{su arma estalla}
+{412}{}{su arma explota}
 {413}{}{su arma se destruye}
 {414}{}{su arma se cae}
-{415}{}{pierde el siguiente turno}
-{416}{}{se hiere a si misma}
+{415}{}{pierde su siguiente turno}
+{416}{}{se hiere a sí misma}
 {417}{}{pierde el resto de su munición}
 {418}{}{dispara un proyectil defectuoso}
 {419}{}{hiriéndose}
@@ -100,16 +100,16 @@
 {421}{}{se rompe un miembro al azar}
 {422}{}{le alcanzan los fragmentos}
 {506}{}{Usted}
-{509}{}{%s eres herida en vez de %s!}
-{511}{}{%s eres herida críticamente en %s, pierdes %d puntos de salud}
-{512}{}{%s eres herida en %s perdiendo %d puntos de salud}
-{513}{}{%s eres herida perdiendo %d puntos de salud}
+{509}{}{¡Ups! %s es herido en vez de %s!}
+{511}{}{%s es herido críticamente en %s, pierdes %d puntos de salud}
+{512}{}{%s es herido en %s perdiendo %d puntos de salud}
+{513}{}{%s es herido perdiendo %d puntos de salud}
 {514}{}{%s falla críticamente}
 {515}{}{%s falla}
-{520}{}{%s eres herida críticamente, pierdes %d puntos de salud}
-{521}{}{%s eres herida críticamente en %s perdiendo 1 punto de salud}
-{522}{}{%s eres herida en %s y pierdes 1 punto de salud}
-{523}{}{%s eres herida y pierdes 1 punto de salud}
+{520}{}{%s es herido críticamente, pierdes %d puntos de salud}
+{521}{}{%s es herido críticamente en %s perdiendo 1 punto de salud}
+{522}{}{%s es herido en %s y pierdes 1 punto de salud}
+{523}{}{%s es herido y pierdes 1 punto de salud}
 {524}{}{%s eres críticamente herido y pierdes 1 punto de salud}
 {525}{}{%s eres críticamente herido en %s, sin sufrir daño alguno}
 {526}{}{%s eres herida en %s sin sufrir daño}
@@ -118,16 +118,16 @@
 {533}{}{%s falla críticamente y pierde 1 punto de salud}
 {534}{}{%s falla críticamente y pierde %d puntos de salud}
 {556}{}{Usted}
-{559}{}{%s eres herida en vez de %s!}
-{561}{}{%s eres herida críticamente en %s, pierdes %d puntos de salud}
-{562}{}{%s eres herida en %s perdiendo %d puntos de salud}
-{563}{}{%s eres herida perdiendo %d puntos de salud}
+{559}{}{¡Ups! %s es herido en vez de %s!}
+{561}{}{%s es herido críticamente en %s, pierdes %d puntos de salud}
+{562}{}{%s es herido en %s perdiendo %d puntos de salud}
+{563}{}{%s es herido perdiendo %d puntos de salud}
 {564}{}{%s falla críticamente}
 {565}{}{%s falla}
-{570}{}{%s eres herida críticamente, pierdes %d puntos de salud}
-{571}{}{%s eres herida críticamente en %s perdiendo 1 punto de salud}
-{572}{}{%s eres herida en %s y pierdes 1 punto de salud}
-{573}{}{%s eres herida y pierdes 1 punto de salud}
+{570}{}{%s es herido críticamente, pierdes %d puntos de salud}
+{571}{}{%s es herido críticamente en %s perdiendo 1 punto de salud}
+{572}{}{%s es herido en %s y pierdes 1 punto de salud}
+{573}{}{%s es herido y pierdes 1 punto de salud}
 {574}{}{%s eres críticamente herido y pierdes 1 punto de salud}
 {575}{}{%s eres críticamente herido en %s, sin sufrir daño alguno}
 {576}{}{%s eres herida en %s sin sufrir daño}
@@ -135,36 +135,36 @@
 {578}{}{%s eres críticamente herida sin sufrir daño}
 {583}{}{%s falla críticamente y pierde 1 punto de salud}
 {584}{}{%s falla críticamente y pierde %d puntos de salud}
-{608}{}{¡Ups! ¡%s es herida en vez de tú!}
-{609}{}{¡Ups! ¡%s es herida en vez de %s!}
-{611}{}{%s es herida críticamente en %s, perdiendo %d puntos de salud}
-{612}{}{%s es herida en %s, pierde %d puntos de salud}
-{613}{}{%s es herida, pierde %d puntos de salud}
+{608}{}{¡Ups! ¡Le dieron a %s en vez de a ti!}
+{609}{}{¡Ups! ¡%s es herido en vez de %s!}
+{611}{}{%s es herido críticamente en %s, perdiendo %d puntos de salud}
+{612}{}{%s es herido en %s, pierde %d puntos de salud}
+{613}{}{%s es herido, pierde %d puntos de salud}
 {614}{}{%s falla críticamente}
 {615}{}{%s falla}
-{620}{}{%s es críticamente herida, pierde %d puntos de salud}
-{621}{}{%s es críticamente herida en %s y pierde 1 punto de salud}
-{622}{}{%s es herida en %s y pierde 1 punto de salud}
-{623}{}{%s es herida y pierde 1 punto de salud}
-{624}{}{%s es críticamente herida y pierde 1 punto de salud}
+{620}{}{%s es críticamente herido, pierde %d puntos de salud}
+{621}{}{%s es críticamente herido en %s y pierde 1 punto de salud}
+{622}{}{%s es herido en %s y pierde 1 punto de salud}
+{623}{}{%s es herido y pierde 1 punto de salud}
+{624}{}{%s es críticamente herido y pierde 1 punto de salud}
 {625}{}{%s es críticamente herida en %s sin que sufra daño}
 {626}{}{%s es herida en %s sin que sufra daño}
 {627}{}{%s es herida sin que sufra daño}
 {628}{}{%s es críticamente herida sin que sufra daño}
 {633}{}{%s falla críticamente y pierde 1 punto de salud}
 {634}{}{%s falla críticamente y pierde %d puntos de salud}
-{708}{}{¡Ups! ¡%s es herida en vez de tú!}
-{709}{}{¡Ups! ¡%s es herida en vez de %s!}
-{711}{}{%s es herida críticamente en %s, perdiendo %d puntos de salud}
-{712}{}{%s es herida en %s, pierde %d puntos de salud}
-{713}{}{%s es herida, pierde %d puntos de salud}
+{708}{}{¡Ups! ¡Le dieron a %s en vez de a ti!}
+{709}{}{¡Ups! ¡%s es herido en vez de %s!}
+{711}{}{%s es herido críticamente en %s, perdiendo %d puntos de salud}
+{712}{}{%s es herido en %s, pierde %d puntos de salud}
+{713}{}{%s es herido, pierde %d puntos de salud}
 {714}{}{%s falla críticamente}
 {715}{}{%s falla}
-{720}{}{%s es críticamente herida, pierde %d puntos de salud}
-{721}{}{%s es críticamente herida en %s y pierde 1 punto de salud}
-{722}{}{%s es herida en %s y pierde 1 punto de salud}
-{723}{}{%s es herida y pierde 1 punto de salud}
-{724}{}{%s es críticamente herida y pierde 1 punto de salud}
+{720}{}{%s es críticamente herido, pierde %d puntos de salud}
+{721}{}{%s es críticamente herido en %s y pierde 1 punto de salud}
+{722}{}{%s es herido en %s y pierde 1 punto de salud}
+{723}{}{%s es herido y pierde 1 punto de salud}
+{724}{}{%s es críticamente herido y pierde 1 punto de salud}
 {725}{}{%s es críticamente herida en %s sin que sufra daño}
 {726}{}{%s es herida en %s sin que sufra daño}
 {727}{}{%s es herida sin que sufra daño}
@@ -175,17 +175,17 @@
 {1111}{}{el brazo izquierdo}
 {1112}{}{el brazo derecho}
 {1113}{}{el torso}
-{1114}{}{la pata derecha}
-{1115}{}{la pata izquierda}
+{1114}{}{la pierna derecha}
+{1115}{}{la pierna izquierda}
 {1116}{}{los ojos}
 {1117}{}{la ingle}
 {1118}{}{un lugar indefinido}
 {1150}{}{la cabeza}
-{1151}{}{la pata izquierda delantera}
-{1152}{}{la pata delantera derecha}
+{1151}{}{la pata trasera izquierda}
+{1152}{}{la pata trasera derecha}
 {1153}{}{el torso}
-{1154}{}{la pata derecha trasera}
-{1155}{}{la izquierda trasera}
+{1154}{}{la pata delantera derecha}
+{1155}{}{la delantera izquierda}
 {1156}{}{los ojos}
 {1157}{}{las ubres}
 {1158}{}{un lugar indefinido}
@@ -201,7 +201,7 @@
 {1170}{}{la CPU}
 {1171}{}{el manipulador}
 {1172}{}{el manipulador}
-{1173}{}{la base}
+{1173}{}{la estructura}
 {1174}{}{la unidad motriz}
 {1175}{}{la unidad motriz}
 {1176}{}{los sensores}
@@ -211,17 +211,17 @@
 {1181}{}{el brazo izquierdo}
 {1182}{}{el brazo derecho}
 {1183}{}{el torso}
-{1184}{}{la pata derecha}
-{1185}{}{la pata izquierda}
+{1184}{}{la pierna derecha}
+{1185}{}{la pierna izquierda}
 {1186}{}{los ojos}
 {1187}{}{la ingle}
 {1188}{}{un lugar indefinido}
 {1190}{}{la cabeza}
-{1191}{}{la pata izquierda}
-{1192}{}{la pata derecha}
+{1191}{}{la garra izquierda}
+{1192}{}{la garra derecha}
 {1193}{}{el cuerpo}
-{1194}{}{la pata derecha}
-{1195}{}{la pata izquierda}
+{1194}{}{la pierna derecha}
+{1195}{}{la pierna izquierda}
 {1196}{}{los ojos}
 {1197}{}{la ingle}
 {1198}{}{un lugar indefinido}
@@ -229,8 +229,8 @@
 {1211}{}{el brazo izquierdo}
 {1212}{}{el brazo derecho}
 {1213}{}{el torso}
-{1214}{}{la pata derecha}
-{1215}{}{la pata izquierda}
+{1214}{}{la pierna derecha}
+{1215}{}{la pierna izquierda}
 {1216}{}{los ojos}
 {1217}{}{la ingle}
 {1218}{}{un lugar indefinido}
@@ -238,8 +238,8 @@
 {1221}{}{la cola}
 {1222}{}{la garra}
 {1223}{}{el caparazón}
-{1224}{}{las patas traseras}
-{1225}{}{las patas delanteras}
+{1224}{}{las patas delanteras}
+{1225}{}{las patas traseras}
 {1226}{}{los ojos}
 {1227}{}{el cerebro}
 {1228}{}{un lugar indefinido}
@@ -250,14 +250,14 @@
 {1234}{}{el saco flotante}
 {1235}{}{la cola}
 {1236}{}{los ganglios}
-{1237}{}{el ovipositor}
+{1237}{}{el ovicapto}
 {1238}{}{un lugar indefinido}
 {1240}{}{la cabeza}
-{1241}{}{la pata izquierda}
-{1242}{}{la pata derecha}
+{1241}{}{la garra izquierda}
+{1242}{}{la garra derecha}
 {1243}{}{el cuerpo}
-{1244}{}{la pata derecha}
-{1245}{}{la pata izquierda}
+{1244}{}{la pierna derecha}
+{1245}{}{la pierna izquierda}
 {1246}{}{los ojos}
 {1247}{}{la ingle}
 {1248}{}{un lugar indefinido}
@@ -265,8 +265,8 @@
 {1251}{}{el brazo izquierdo}
 {1252}{}{el brazo derecho}
 {1253}{}{el cuerpo}
-{1254}{}{la pata derecha}
-{1255}{}{la pata izquierda}
+{1254}{}{la pierna derecha}
+{1255}{}{la pierna izquierda}
 {1256}{}{los ojos}
 {1257}{}{la ingle}
 {1258}{}{un lugar indefinido}
@@ -274,8 +274,8 @@
 {1271}{}{el brazo izquierdo}
 {1272}{}{el brazo derecho}
 {1273}{}{el torso}
-{1274}{}{la pata derecha}
-{1275}{}{la pata izquierda}
+{1274}{}{la pierna derecha}
+{1275}{}{la pierna izquierda}
 {1276}{}{los ojos}
 {1277}{}{la ingle}
 {1278}{}{un lugar indefinido}
@@ -283,8 +283,8 @@
 {1461}{}{el brazo izquierdo}
 {1462}{}{el brazo derecho}
 {1463}{}{el torso}
-{1464}{}{la pata derecha}
-{1465}{}{la pata izquierda}
+{1464}{}{la pierna derecha}
+{1465}{}{la pierna izquierda}
 {1466}{}{los ojos}
 {1467}{}{la ingle}
 {1468}{}{un lugar indefinido}
@@ -292,15 +292,15 @@
 {1491}{}{el brazo izquierdo}
 {1492}{}{el brazo derecho}
 {1493}{}{el torso}
-{1494}{}{la pata derecha}
-{1495}{}{la pata izquierda}
+{1494}{}{la pierna derecha}
+{1495}{}{la pierna izquierda}
 {1496}{}{los ojos}
 {1497}{}{la ingle}
 {1498}{}{un lugar indefinido}
 {1500}{}{la cabeza}
 {1501}{}{???}
 {1502}{}{???}
-{1503}{}{la base}
+{1503}{}{la estructura}
 {1504}{}{???}
 {1505}{}{???}
 {1506}{}{los ojos}
@@ -310,8 +310,8 @@
 {1511}{}{el brazo izquierdo}
 {1512}{}{el brazo derecho}
 {1513}{}{el torso}
-{1514}{}{la pata derecha}
-{1515}{}{la pata izquierda}
+{1514}{}{la pierna derecha}
+{1515}{}{la pierna izquierda}
 {1516}{}{los ojos}
 {1517}{}{la ingle}
 {1518}{}{un lugar indefinido}
@@ -327,7 +327,7 @@
 {1530}{}{la CPU}
 {1531}{}{el manipulador}
 {1532}{}{el manipulador}
-{1533}{}{la base}
+{1533}{}{la estructura}
 {1534}{}{la unidad motriz}
 {1535}{}{la unidad motriz}
 {1536}{}{los sensores}
@@ -336,18 +336,18 @@
 {1540}{}{la CPU}
 {1541}{}{el manipulador}
 {1542}{}{el manipulador}
-{1543}{}{la base}
+{1543}{}{la estructura}
 {1544}{}{la unidad motriz}
 {1545}{}{la unidad motriz}
 {1546}{}{los sensores}
 {1547}{}{el regulador}
 {1548}{}{un lugar indefinido}
 {1550}{}{la cabeza}
-{1551}{}{la pata izquierda}
-{1552}{}{la pata derecha}
+{1551}{}{la garra izquierda}
+{1552}{}{la garra derecha}
 {1553}{}{el cuerpo}
-{1554}{}{la pata derecha}
-{1555}{}{la pata izquierda}
+{1554}{}{la pierna derecha}
+{1555}{}{la pierna izquierda}
 {1556}{}{los ojos}
 {1557}{}{la ingle}
 {1558}{}{un lugar indefinido}
@@ -364,8 +364,8 @@
 {1591}{}{la cola}
 {1592}{}{la garra}
 {1593}{}{el caparazón}
-{1594}{}{las patas traseras}
-{1595}{}{las patas delanteras}
+{1594}{}{las patas delanteras}
+{1595}{}{las patas traseras}
 {1596}{}{los ojos}
 {1597}{}{el cerebro}
 {1598}{}{un lugar indefinido}
@@ -373,8 +373,8 @@
 {1601}{}{el brazo izquierdo}
 {1602}{}{el brazo derecho}
 {1603}{}{el torso}
-{1604}{}{la pata derecha}
-{1605}{}{la pata izquierda}
+{1604}{}{la pierna derecha}
+{1605}{}{la pierna izquierda}
 {1606}{}{los ojos}
 {1607}{}{la ingle}
 {1608}{}{un lugar indefinido}
@@ -391,8 +391,8 @@
 {1661}{}{el misil de mano}
 {1662}{}{la pistola de mano}
 {1663}{}{el cuerpo}
-{1664}{}{la pata derecha}
-{1665}{}{la pata izquierda}
+{1664}{}{la pierna derecha}
+{1665}{}{la pierna izquierda}
 {1666}{}{los sensores}
 {1667}{}{el torso inferior}
 {1668}{}{un lugar indefinido}
@@ -400,8 +400,8 @@
 {1671}{}{la garra izquierda}
 {1672}{}{la garra derecha}
 {1673}{}{el cuerpo}
-{1674}{}{la pata derecha}
-{1675}{}{la pata izquierda}
+{1674}{}{la pierna derecha}
+{1675}{}{la pierna izquierda}
 {1676}{}{los ojos}
 {1677}{}{la ingle}
 {1678}{}{un lugar indefinido}
@@ -409,8 +409,8 @@
 {1681}{}{la garra izquierda}
 {1682}{}{la garra derecha}
 {1683}{}{el cuerpo}
-{1684}{}{la pata derecha}
-{1685}{}{la pata izquierda}
+{1684}{}{la pierna derecha}
+{1685}{}{la pierna izquierda}
 {1686}{}{los ojos}
 {1687}{}{la ingle}
 {1688}{}{un lugar indefinido}
@@ -427,8 +427,8 @@
 {1851}{}{el brazo izquierdo}
 {1852}{}{el brazo derecho}
 {1853}{}{el torso}
-{1854}{}{la pata derecha}
-{1855}{}{la pata izquierda}
+{1854}{}{la pierna derecha}
+{1855}{}{la pierna izquierda}
 {1856}{}{los ojos}
 {1857}{}{la ingle}
 {1858}{}{un lugar indefinido}
@@ -444,18 +444,18 @@
 {1900}{}{la cpu}
 {1901}{}{la servoarma}
 {1902}{}{la servoarma}
-{1903}{}{la base}
+{1903}{}{la estructura}
 {1904}{}{la servobase}
 {1905}{}{la servobase}
 {1906}{}{los sensores}
 {1907}{}{el regulador}
 {1908}{}{un lugar indefinido}
 {1970}{}{la cabeza}
-{1971}{}{la izquierda trasera}
-{1972}{}{la pata derecha trasera}
+{1971}{}{la delantera izquierda}
+{1972}{}{la pata delantera derecha}
 {1973}{}{el abdomen}
-{1974}{}{la pata delantera derecha}
-{1975}{}{la pata izquierda delantera}
+{1974}{}{la pata trasera derecha}
+{1975}{}{la pata trasera izquierda}
 {1976}{}{las antenas}
 {1977}{}{el metatórax}
 {1978}{}{un lugar indefinido}
@@ -463,8 +463,8 @@
 {1991}{}{el brazo izquierdo}
 {1992}{}{el brazo derecho}
 {1993}{}{el torso}
-{1994}{}{la pata derecha}
-{1995}{}{la pata izquierda}
+{1994}{}{la pierna derecha}
+{1995}{}{la pierna izquierda}
 {1996}{}{los ojos}
 {1997}{}{la ingle}
 {1998}{}{un lugar indefinido}
@@ -472,15 +472,15 @@
 {2001}{}{el brazo izquierdo}
 {2002}{}{el brazo derecho}
 {2003}{}{el torso}
-{2004}{}{la pata derecha}
-{2005}{}{la pata izquierda}
+{2004}{}{la pierna derecha}
+{2005}{}{la pierna izquierda}
 {2006}{}{los ojos}
 {2007}{}{la ingle}
 {2008}{}{un lugar indefinido}
 {2010}{}{la cpu}
 {2011}{}{la servoarma}
 {2012}{}{la servoarma}
-{2013}{}{la base}
+{2013}{}{la estructura}
 {2014}{}{la servobase}
 {2015}{}{la servobase}
 {2016}{}{los sensores}
@@ -490,8 +490,8 @@
 {2031}{}{el aguijón}
 {2032}{}{las antenas}
 {2033}{}{el tórax}
-{2034}{}{las patas traseras}
-{2035}{}{las patas delanteras}
+{2034}{}{las patas delanteras}
+{2035}{}{las patas traseras}
 {2036}{}{los ojos}
 {2037}{}{las alas}
 {2038}{}{un lugar indefinido}
@@ -520,18 +520,18 @@
 {5022}{}{, dejando una gran herida en su pierna}
 {5023}{}{, tirándole al suelo como un bolo en medio de una bolera}
 {5024}{}{, tumbándole y rompiéndole esa pierna}
-{5025}{}{, enviándole la rotula a la ciudad mas cercana. Se cae}
-{5026}{}{. el terrible dolor de perder una pierna hace que huya}
+{5025}{}{, enviándole la rodilla a la ciudad mas cercana. Se cae}
+{5026}{}{. El terrible dolor de perder una pierna lo hace huir}
 {5027}{}{, provocándole más dolor}
 {5028}{}{. Desafortunadamente para el, causa ceguera}
 {5029}{}{. Sin protección ahí, le causa un grave dolor}
-{5030}{}{, y se queda K.O. por un potente golpe}
+{5030}{}{, y cegándolo con un potente golpe}
 {5031}{}{. La perdida de un ojo es demasiado para él, y se cae al suelo}
 {5032}{}{. Con tristeza, está demasiado ocupado notando como el aire entra en su cerebro para darse cuenta de que se muere}
 {5033}{}{. ¡Ouch! Eso tuvo que doler}
-{5034}{}{, y tampoco lleva coquilla}
+{5034}{}{, y tampoco lleva una copa}
 {5035}{}{. Sin protección, se cae, gimiendo de agonía}
-{5036}{}{. El dolor es demasiado para él y se desploma como un castillo de naipes}
+{5036}{}{. El dolor es demasiado para él y se desploma como un trapo}
 {5037}{}{. Susurra "Mamá", mientras sus ojos se quedan en blanco}
 {5100}{}{. Eso realmente duele}
 {5101}{}{. Grave dolor infligido.}
@@ -556,63 +556,63 @@
 {5120}{}{, dejándola sin aire. Se desploma en el suelo}
 {5121}{}{. Desafortunadamente, varios órganos vitales son ahora claramente visibles}
 {5122}{}{, dejando una gran herida en su pierna}
-{5123}{}{, dejándola tirada como a una mala cita a ciegas}
+{5123}{}{, derribándola como a una mala cita a ciegas}
 {5124}{}{, tumbándola y rompiéndole esa pierna}
-{5125}{}{, enviándole la rotula a la ciudad mas cercana. Se cae}
-{5126}{}{. Grita por el dolor de su pierna rota}
+{5125}{}{, enviándole la rodilla a la ciudad más cercana. Ella toma la vía rápida al suelo}
+{5126}{}{. Ella grita de dolor por su pierna rota}
 {5127}{}{, provocándole más dolor}
 {5128}{}{, causando ceguera. Gime de dolor}
 {5129}{}{. Sin protección ahí, le causa un grave dolor}
-{5130}{}{. La herida le causa una severa ceguera, como si hubiese mas de un tipo de ceguera}
+{5130}{}{. La herida le causa una severa ceguera, como si hubiese más de un tipo de ceguera}
 {5131}{}{. Se desmaya por el potente golpe}
 {5132}{}{. Por desgracia, no tiene tiempo de rezar sus ultimas oraciones}
 {5133}{}{. Se lo toma como un hombre. Es decir, le duele}
 {5134}{}{, tirándola al suelo}
 {5135}{}{. Sus días de maternidad están en entredicho mientras siga cojeando tanto}
 {5200}{}{. El pequeño empieza a llorar}
-{5201}{}{. inconsciente, el niño se cae}
+{5201}{}{. Inconsciente, el pequeño se desploma}
 {5202}{}{. ¡Ouch!}
 {5203}{}{. El golpe es fuerte, y el niño cae inconsciente}
 {5204}{}{, quebrando al niño como a un muñeco de trapo}
-{5205}{}{. El brazo de este niño ahora parece un muñón}
+{5205}{}{. El brazo izquierdo de este niño ahora parece un muñón}
 {5206}{}{, desequilibrando al niño, que cae al suelo}
 {5207}{}{, rompiéndole ese brazo con un ruidoso crujido. El niño empieza a llorar}
 {5208}{}{, quebrando fácilmente ese brazo como un papel de caramelo}
 {5209}{}{. El brazo derecho comienza a hincharse, como un globo}
 {5210}{}{, y empieza a llorar}
 {5211}{}{ en un punto sensible}
-{5212}{}{. El ataque a un órgano vital deja al niño en el suelo}
-{5213}{}{, tirando al niño como un juguete}
-{5214}{}{. Ahora este niño nunca vivirá la verdadera experiencia de la salud}
-{5215}{}{, provocándole un corte profundo}
-{5216}{}{. El ataque hace rodar al niño, y se rompe la pierna}
-{5217}{}{, produciéndole mucho daño al niño}
+{5212}{}{. El ataque a un órgano vital derriba al niño}
+{5213}{}{, derribando al niño como un juguete}
+{5214}{}{. Ahora, este niño pequeño nunca experimentará la vida}
+{5215}{}{, infligiendo un corte profundo}
+{5216}{}{. El ataque derriba al niño, y rompe su pierna}
+{5217}{}{, infligiendo un gran daño al niño}
 {5218}{}{. El niño alza la vista y empieza a llorar}
-{5219}{}{, que ciega al niño}
-{5220}{}{, golpeándole en su joven nariz}
+{5219}{}{, que ciega al joven}
+{5220}{}{, golpeando su joven nariz}
 {5221}{}{. Un corte aparece sobre los ojos y la sangre empieza a manar sin control}
 {5222}{}{, que le abre un ojo como una uva cuando estalla. El niño parece desconcertado}
 {5223}{}{, causando ceguera. El joven cae al suelo}
 {5224}{}{, el golpe se prolonga por el pequeño cerebro}
-{5225}{}{. El niño parece confuso y trastornado}
-{5226}{}{, golpeando a este joven hacia el suelo}
+{5225}{}{. El niño parece confuso y conmocionado}
+{5226}{}{, noqueando a este joven hacia el suelo}
 {5300}{}{, hiriendo al poderoso mutante}
-{5301}{}{, dándole en un punto vital}
-{5302}{}{, dándole en un punto vital y derribando al gigante al suelo}
+{5301}{}{, golpeando un punto vital}
+{5302}{}{, golpeando un punto vital y derribando al gigante al suelo}
 {5303}{}{. El gran mutante mira alrededor un momento, y se desploma en el suelo}
 {5304}{}{. La cabeza estalla como una gigante y sangrienta sandía}
 {5305}{}{, hiriendo severamente al poderoso mutante}
 {5306}{}{, causando que el gigante dedique un momento a maldecir al universo}
-{5307}{}{, golpeándole un nervio y forzando al mutante a sujetarse su brazo por el dolor}
-{5308}{}{. El golpe le rompe el codo y probablemente no se sienta demasiado bien}
-{5309}{}{, rompiéndole el brazo y derramando la sangre del mutante por el suelo}
-{5310}{}{, causándole un traspiés al gigante y éste se derrumba como un árbol talado}
+{5307}{}{, golpeando un nervio y forzando al mutante a sujetarse el brazo por el dolor}
+{5308}{}{. El golpe le rompe el codo y probablemente no se sintió demasiado bien}
+{5309}{}{, rompiéndole el grueso brazo y derramando sangre mutante por el suelo}
+{5310}{}{, haciendo que el gigante tropiece por un momento y se derrumbe como un árbol talado}
 {5311}{}{, y trozos de vísceras caen al suelo}
-{5312}{}{, tirando rápidamente al gigante al suelo}
-{5313}{}{. El mutante da un traspié y se cae, su pierna apenas es capaz de sostenerle}
-{5314}{}{, golpeándole en una parte vital. El mutante se estruja su pierna rota}
+{5312}{}{, enviando al gigante volando al suelo}
+{5313}{}{. El mutante tropieza y cae, su pierna apenas puede sostenerlo.}
+{5314}{}{, golpeando una ubicación vital. El mutante estruja su pierna rota}
 {5315}{}{. El dolor de una pierna rota abruma al poderoso gigante}
-{5316}{}{, a punto de cegar al mutante}
+{5316}{}{, casi cegando al mutante}
 {5317}{}{, cegando al furioso mutante}
 {5318}{}{, a punto de cegar al mutante pero derribándolo}
 {5319}{}{. El mutante cegado tropieza, desprotegido para el siguiente ataque}
@@ -620,22 +620,22 @@
 {5321}{}{. Los ojos del mutante brillan un momento, y entonces se desvanecen... permanentemente}
 {5400}{}{. El necrófago es sorprendido, y falla al intentar defenderse contra este ataque}
 {5401}{}{. El golpe entierra a este necrófago}
-{5402}{}{. La mano de este necrófago atontado voló de golpe}
-{5403}{}{, sigilosamente a través de su armadura y golpeándole críticamente}
-{5404}{}{, sigilosamente a través de su armadura y cortándole el brazo}
+{5402}{}{. La mano del necrófago aturdido vuela por los aires}
+{5403}{}{, escabulléndose a través de su armadura y golpeando una articulación crítica}
+{5404}{}{, escabulléndose a través de su armadura y cortándole el brazo}
 {5405}{}{. El necrófago se mueve de la manera equivocada en el momento equivocado, y pierde un ojo}
 {5406}{}{. El necrófago no lleva armadura ahí}
 {5407}{}{, y traspasando su armadura, el necrófago es cegado}
 {5408}{}{, haciendo que el necrófago contemple desconcertado su momento final}
 {5500}{}{, tumbando a la gran bestia en el suelo}
-{5501}{}{, atontando a ambos cerebros y haciendo caer al gran animal}
-{5502}{}{. La vaca mutante hace un ruido: ha empezado a llorar}
+{5501}{}{, aturdiendo ambos cerebros y derribando al gran animal}
+{5502}{}{. La vaca mutante da un fuerte quejido de sorpresa.}
 {5503}{}{, rompiendo una de las patas del brahmin}
 {5504}{}{, hiriendo seriamente a la vaca mutante}
 {5505}{}{, penetrando con facilidad la gruesa piel de la bestia gigante}
 {5506}{}{, penetrando directamente a través de ambos corazones de la vaca mutante}
-{5507}{}{, cegando ambos conjuntos de ojos con un solo golpe}
-{5508}{}{, cegando ambas cabezas y atontando a la vaca mutante}
+{5507}{}{, cegando ambos pares de ojos con un solo golpe}
+{5508}{}{, cegando ambas cabezas y aturdiendo a la vaca mutante}
 {5509}{}{, cegando completamente al brahmin y tumbándolo}
 {5510}{}{. El gran bovino mutante tropieza}
 {5511}{}{. El brahmin se sacude con rabia}
@@ -643,44 +643,45 @@
 {5513}{}{. El brahmin está totalmente furioso por ese ataque devastador}
 {5600}{}{, haciendo que el escorpión aterrice sobre su espalda}
 {5601}{}{, separando la cabeza del caparazón}
-{5602}{}{, dañándole gravemente la cola}
+{5602}{}{, dañando seriamente la cola}
 {5603}{}{, dejando una importante herida en sus garras}
 {5604}{}{. El golpe se desliza entre las grietas de su resistente caparazón}
-{5605}{}{, dándole en el resistente caparazón sin detenerse}
+{5605}{}{, atravesando el duro caparazón sin detenerse}
 {5606}{}{, pasando a través de caparazón y golpeando sobre el escorpión}
 {5607}{}{. El escorpión no se acostumbra a la nueva sensación de falta de órganos internos}
-{5608}{}{, haciendo volar al escorpión y rompiéndole una de sus patas}
+{5608}{}{, haciendo volar al escorpión y rompiendo algunas de sus patas}
 {5609}{}{. El ataque corta la desprotegida articulación de la pierna, amputándola}
-{5610}{}{, hiriéndole gravemente y cegando a la criatura mutante}
-{5611}{}{, penetrándole casi hasta el cerebro. Esto sí que es aplastar bichos}
+{5610}{}{, hiriendo gravemente y cegando a la criatura mutante}
+{5611}{}{, penetrando casi hasta el cerebro. Esto sí que es aplastar bichos}
 {5612}{}{, penetrando casi hasta el cerebro y cegando a la criatura}
 {5613}{}{. El ataque es diabólico y demasiado sofisticado para esta criatura tan simple}
 {5614}{}{. Si fuera humano, jurarías que está muy cabreado}
 {5615}{}{, golpeando a la insensible y pobre criatura}
-{5616}{}{, arrojando su cerebro al suelo}
+{5616}{}{, clavando el cerebro al suelo}
 {5700}{}{. El cráneo del roedor hace varios sonidos enfermizos}
 {5701}{}{, aplastando el cráneo del roedor como una bolsa de papel mojado}
 {5702}{}{, y la pata izquierda ahora parece un poco más suelta}
-{5703}{}{. La pata izquierda de la rata quedó inútil}
+{5703}{}{. La pata izquierda de la rata vuela por los aires}
 {5704}{}{. La pata derecha está muy dañada}
 {5705}{}{, golpeando la pata derecha}
 {5706}{}{. La rata está seriamente herida por este ataque}
-{5707}{}{, hiriendo profundamente a la rata}
-{5708}{}{, aplastando la rata contra el suelo}
+{5707}{}{, hiriendo gravemente a la rata y dejándola fuera de combate}
+{5708}{}{, aplastando a la rata contra el suelo}
 {5709}{}{, rompiéndole la pata derecha}
-{5710}{}{, haciéndole un gran agujero en su pata izquierda}
+{5710}{}{, haciendo un gran agujero en su pata izquierda}
 {5711}{}{, haciendo más daño por darle en un punto sensible}
-{5712}{}{, enviando a esta criatura al gran paraíso de las ratas}
+{5712}{}{, enviando a esta criatura a la gran ratonera celestial}
 {5800}{}{. El nómada cae al suelo}
 {5801}{}{. El nómada cae al suelo, aparentemente con menos salud}
 {5802}{}{, con serias consecuencias para su existencia}
-{5803}{}{, atontando a la horrible criatura}
-{5804}{}{, golpeándolo en un punto sensible y atontando al nómada}
-{5805}{}{. El golpe hace que el nómada se estremezca violentamente en un chorro carmesí}
+{5803}{}{, aturdiendo a la criatura repugnante}
+{5804}{}{, golpeando un punto sensible y aturdiendo al nómada}
+{5805}{}{. El golpe hace que el nómada se estremezca violentamente en un chorro carmesí
+}
 {5806}{}{. El golpe causa algún tipo de reacción violenta en la criatura}
-{5807}{}{. El nómada de pronto estalla en llamas}
+{5807}{}{. El nómada de repente estalla en llamas}
 {5808}{}{. Sufre una sacudida frenética y se estremece como gelatina}
-{5809}{}{, golpeándole en un punto sensible}
+{5809}{}{, golpeando en un punto sensible}
 {5810}{}{. La criatura está obviamente agitada}
 {5900}{}{. El centauro se tropieza y queda atontado}
 {5901}{}{ el golpe alcanzó un punto crítico}
