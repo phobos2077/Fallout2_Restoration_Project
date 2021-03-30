@@ -17,6 +17,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "ncprzftr"
 #include "../headers/define.h"
+#include "../sfall/define_extra.h"
 #define NAME                    SCRIPT_NCPRZFTR
 #define TOWN_REP_VAR         GVAR_TOWN_REP_NEW_RENO
 #include "../headers/command.h"
@@ -139,12 +140,15 @@ procedure critter_p_proc begin
    end
 end
 
+#define self_knocked_out (get_object_data(combat_data, C_ATTACK_FLAGS_TARGET) bwand DAM_KNOCKED_OUT)
 procedure damage_p_proc begin
    if (source_obj == dude_obj) then begin
       inc_dude_punches;
       if (target_obj != 0) then begin
          if ((obj_pid(target_obj) != PID_SPECIAL_PLATED_BOXING_GLOVES) and (obj_pid(target_obj) != PID_SPECIAL_BOXING_GLOVES)) then begin
             lose_boxing_match(fight_status_disqualified);
+         end else if self_knocked_out then begin
+            win_boxing_match(fight_status_ko);
          end else if (masticator_bit_ear) then begin
             if (self_pid == PID_MASTICATOR) then begin
                the_roll := roll_vs_skill(dude_obj, SKILL_UNARMED_COMBAT, -self_max_hits);
