@@ -27,3 +27,16 @@ index 0c291f14..cfbcbcc2 100644
  {312}{}{Poisoned}
  {313}{}{Radiated}
  {314}{}{Eye Damage}
+diff --git a/data/text/english/game/item.msg b/data/text/english/game/item.msg
+index 57da2478..bdd3cb1a 100644
+--- a/data/text/english/game/item.msg
++++ b/data/text/english/game/item.msg
+@@ -25,7 +25,7 @@
+ {600}{}{%s succumbs to the adverse effects of drugs.}
+ 
+ # Weapon Damage strings
+-{800}{}{Light}
++{800}{Weapon Damage}{Light} # spanish: separate "light damage" from "light source", ref https://forums.bgforge.net/viewtopic.php?f=14&p=925
+ {801}{}{Medium}
+ {802}{}{Heavy}
+ {803}{}{Extreme}

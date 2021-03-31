@@ -25,7 +25,7 @@
 {600}{}{%s succumbs to the adverse effects of drugs.}
 
 # Weapon Damage strings
-{800}{}{Light}
+{800}{Weapon Damage}{Light} # spanish: separate "light damage" from "light source", ref https://forums.bgforge.net/viewtopic.php?f=14&p=925
 {801}{}{Medium}
 {802}{}{Heavy}
 {803}{}{Extreme}
