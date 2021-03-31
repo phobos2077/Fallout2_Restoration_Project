@@ -11,7 +11,7 @@
 {50}{}{Vypadá to, že se nic nestalo.}
 {500}{}{K nabití zbranì tu není dost svìtla.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{}{Lehké}
+{800}{Weapon Damage}{Light}
 {801}{}{Støední}
 {802}{}{Tìžké}
 {803}{}{Extrémní}

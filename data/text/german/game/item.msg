@@ -11,7 +11,7 @@
 {50}{}{Das sah nach garnicht so viel aus.}
 {500}{}{Es gibt nicht genügend Licht, um dieses Objekt nachzuladen.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{}{Leicht}
+{800}{Weapon Damage}{Light}
 {801}{}{Mittel}
 {802}{}{Schwer}
 {803}{}{Extrem}

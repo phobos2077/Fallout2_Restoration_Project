@@ -11,7 +11,7 @@
 {50}{}{That didn't seem to do that much.}
 {500}{}{There is not enough light to recharge this item.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{}{lampka}
+{800}{Weapon Damage}{Light}
 {801}{}{Medium}
 {802}{}{Heavy}
 {803}{}{Extreme}

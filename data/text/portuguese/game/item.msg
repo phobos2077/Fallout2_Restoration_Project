@@ -11,7 +11,7 @@
 {50}{}{Isso não faz nada.}
 {500}{}{Não há luz suficiente para recarregar este item.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{}{Luz}
+{800}{Weapon Damage}{Light}
 {801}{}{Médio}
 {802}{}{Pesado}
 {803}{}{Extremo}

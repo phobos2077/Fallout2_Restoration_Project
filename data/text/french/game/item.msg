@@ -11,7 +11,7 @@
 {50}{}{Ca n'a pas fait grand chose.}
 {500}{}{Il n'y a pas assez de lumière pour recharger cet élément.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{}{Faible}
+{800}{Weapon Damage}{Light}
 {801}{}{Moyenne}
 {802}{}{Forte}
 {803}{}{Extrême}

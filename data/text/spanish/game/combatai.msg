@@ -1013,7 +1013,7 @@
 {2447}{}{¡Vagabundo!}
 {2448}{}{¡Colgado!}
 {2449}{}{Voy a acabar contigo.}
-{2460}{}{¿Tú mamá no te enseñó a hacer eso?}
+{2460}{}{¿Tú mamá te enseñó a hacer eso?}
 {2461}{}{¡Das pena!}
 {2462}{}{No eres bastante bueno.}
 {2463}{}{Ese fue tu último error.}
@@ -1037,7 +1037,7 @@
 {2543}{}{¿Quieres más? ¡¿Eh?!}
 {2544}{}{¡Serás comida para los perros!}
 {2545}{}{No deberías empezar lo que no puedas terminar.}
-{2546}{}{Espero que no mueras muy pronto.}
+{2546}{}{Espero que no mueras muy rápido.}
 {2547}{}{Sólo uno de nosotros saldrá vivo de ésta.}
 {2548}{}{¡Muere!}
 {2549}{}{Me como a basura como tú para desayunar.}
@@ -2289,7 +2289,7 @@
 {36523}{}{Kaga te echará de menos.}
 {36540}{}{¡Siente la ira de Kaga!}
 {36541}{}{¡Kaga será famoso por matarte!}
-{36542}{}{Kaga disfrutará con esto.}
+{36542}{}{Voy a disfrutar esto.}
 {36543}{}{Oooo, Kaga sintió eso desde aquí.}
 {36544}{}{¡Voy a llevar tu cabeza a la Anciana!}
 {36545}{}{¡El Elegido morirá aquí!}

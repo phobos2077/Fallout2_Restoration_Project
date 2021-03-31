@@ -669,7 +669,7 @@
 {769}{}{Thomas Moore}
 {770}{}{Puerta}
 {771}{}{Taquilla}
-{772}{}{Pozo}
+{772}{}{Alcantarilla}
 {773}{}{Tumba}
 {774}{}{Guardia de suministros}
 {775}{}{Map Script}
@@ -992,7 +992,7 @@
 {1092}{}{Ryan}
 {1093}{}{Caja}
 {1094}{}{}
-{1095}{}{Pozo}
+{1095}{}{Alcantarilla}
 {1096}{}{Map Script}
 {1097}{}{Escalera}
 {1098}{}{Saco}

@@ -371,32 +371,32 @@
 {19201}{}{Una litera de estilo militar. Parece muy incómoda. También parece que una moneda rebotaría en sus sábanas.}
 {19300}{}{Embalaje}
 {19400}{}{Máquina de Nuka-Cola}
-{19401}{}{El anuncio del lateral de la máquina promociona su popular soda.}
+{19401}{}{La publicidad en el costado de esta máquina promociona su popular refresco.}
 {19500}{}{Muro}
 {19600}{}{Trampilla}
 {19601}{}{Parece una trampilla en perfectas condiciones.}
-{19700}{}{Pozo}
-{19701}{}{La escalera de esta alcantarilla conduce hacia la oscuridad de abajo. Ohhh, qué espeluznante.}
+{19700}{}{Alcantarilla}
+{19701}{}{La escalera de esta alcantarilla conduce a la oscuridad de abajo. Ohhh, espeluznante.}
 {19800}{}{Altar}
 {19801}{}{Esto es un altar.}
-{19900}{}{Púlpito}
+{19900}{}{Plataforma del predicador}
 {19901}{}{Uno se coloca detrás de esto para hablar. Parece un lugar pequeño como para dar un discurso preparado.}
-{20000}{}{Banco}
-{20001}{}{Parece justo lo que habrías esperado. No hay nada especial en este banco.}
-{20100}{}{Poste indicador}
-{20101}{}{La señal del poste está un poco oxidada.}
-{20200}{}{Poste indicador}
-{20201}{}{La señal del poste está un poco oxidada.}
-{20300}{}{Poste indicador}
-{20301}{}{La señal del poste está un poco oxidada.}
-{20400}{}{Poste indicador}
-{20401}{}{La señal del poste está un poco oxidada.}
-{20500}{}{Poste indicador}
-{20501}{}{La señal del poste está un poco oxidada.}
+{20000}{}{Banco de iglesia}
+{20001}{}{Se ve exactamente como lo esperarías. No hay nada especial en este banco.}
+{20100}{}{Letrero}
+{20101}{}{El letrero de este poste parece un poco oxidado.}
+{20200}{}{Letrero}
+{20201}{}{El letrero de este poste parece un poco oxidado.}
+{20300}{}{Letrero}
+{20301}{}{El letrero de este poste parece un poco oxidado.}
+{20400}{}{Letrero}
+{20401}{}{El letrero de este poste parece un poco oxidado.}
+{20500}{}{Letrero}
+{20501}{}{El letrero de este poste parece un poco oxidado.}
 {20600}{}{Colchón viejo}
 {20601}{}{Un viejo colchón maltratado. Te parece ver algún tipo de insecto que lo infesta.}
 {20700}{}{Colchón viejo}
-{20701}{}{Incluso si te atrevieras en esta cosa, no lo harías sólo.}
+{20701}{}{Incluso si durmieras solo en esta cosa, no estarías durmiendo solo.}
 {20800}{}{Cama}
 {20801}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {20900}{}{Cama}
@@ -408,7 +408,7 @@
 {21200}{}{Cama}
 {21201}{}{Hay un par de manchas de dudoso origen en este dispositivo para dormir tan gastado.}
 {21300}{}{Cama}
-{21301}{}{Esta cama ha tenido mucho uso y desgaste. Y, además, alguien debe haberse arrastrado por el colchón para morir.}
+{21301}{}{Esta cama ha tenido mucho uso y desgaste. Algo debió de meterse entre los colchones y murió, también.}
 {21400}{}{}
 {21401}{}{}
 {21500}{}{}
@@ -497,11 +497,11 @@
 {26001}{}{Una puerta de madera bien elaborada, en buenas condiciones.}
 {26100}{}{Puerta}
 {26101}{}{Una puerta de madera bien elaborada, en buenas condiciones.}
-{26200}{}{Banco}
+{26200}{}{Banco de iglesia}
 {26201}{}{Este banco de madera esta deteriorándose lentamente.}
-{26300}{}{Banco}
+{26300}{}{Banco de iglesia}
 {26301}{}{Este banco ha sido abandonado, y muestra signos de desuso.}
-{26400}{}{Banco}
+{26400}{}{Banco de iglesia}
 {26401}{}{Un banco de madera que ha sucumbido a los efecto del tiempo y el maltrato.}
 {26500}{}{Expendedora de periódicos}
 {26501}{}{Esta expendedora de periódicos está vacía.}
@@ -566,9 +566,9 @@
 {29601}{}{Esta farola ofrecer iluminación al caer la noche, si no estuviera rota.}
 {29700}{}{Farola}
 {29701}{}{Esta farola ofrecer iluminación al caer la noche, si no estuviera rota.}
-{29800}{}{Poste indicador}
+{29800}{}{Letrero}
 {29801}{}{Este señal debería indicar en qué calle te encuentras, pero sus letras están desdibujadas.}
-{29900}{}{Poste indicador}
+{29900}{}{Letrero}
 {29901}{}{Este señal debería indicar en qué calle te encuentras, pero sus letras están desdibujadas.}
 {30000}{}{Mesa}
 {30001}{}{Una mesa de madera, en condiciones regulares.}
@@ -659,7 +659,7 @@
 {34500}{}{Suelo}
 {34600}{}{Puerta}
 {34601}{}{Una puerta de madera ornamentada. Obviamente fue hecha por un artesano.}
-{34700}{}{Banco}
+{34700}{}{Banco de iglesia}
 {34701}{}{Este asiento lo soportan grandes ladrillos de cemento. No es importante, pero eres tú quién ha mirado.}
 {34800}{}{Escaleras}
 {34801}{}{Estas escaleras conducen hacia arriba.}
@@ -995,7 +995,7 @@
 {52301}{}{Un altar diseñado y utilizado por la Hermandad del Acero. Su símbolo se muestra descaradamente.}
 {52400}{}{Altar}
 {52401}{}{Un altar diseñado y utilizado por la Hermandad del Acero. Su símbolo se muestra descaradamente.}
-{52500}{}{Banco}
+{52500}{}{Banco de iglesia}
 {52501}{}{Un banco diseñado a la moda, y parece muy incómodo.}
 {52600}{}{Estrado}
 {52601}{}{Un estrado de madera. Hay una pantalla apuntadora montada en su interior, de cara al orador.}
@@ -2321,7 +2321,7 @@
 {142300}{}{Cartel de la mina Kokoweef}
 {142400}{}{Cartel de la mina Kokoweef}
 {142500}{}{Cartel de la mina Kokoweef}
-{142600}{}{Poste indicador}
+{142600}{}{Letrero}
 {142601}{}{Este poste indicador de madera apunta hacia Nueva Reno y hacia "Infierno". Sospechas que las direcciones están invertidas.}
 {142700}{}{Cartel Número 1}
 {142800}{}{Cartel Número 2}

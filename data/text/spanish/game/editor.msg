@@ -69,17 +69,17 @@
 {206}{}{M.buen}
 {207}{}{Genial}
 {208}{}{Exclnt}
-{209}{}{Heróico}
+{209}{}{Heroico}
 {300}{editor}{Salud}
 {301}{}{Ptos acción}
 {302}{editor}{Clase de armad.}
 {303}{}{Daño desarmado}
-{304}{}{Daño melee}
+{304}{}{Daño a Melé}
 {305}{}{Resist daño}
 {306}{}{Resis veneno}
 {307}{}{Resis radiación}
 {308}{editor}{Cp. de reacción}
-{309}{editor}{Rm. de curación}
+{309}{editor}{Rtm. de curación}
 {310}{editor}{Pb. de críticos}
 {311}{editor}{Peso máximo}
 {312}{}{Envenenado}

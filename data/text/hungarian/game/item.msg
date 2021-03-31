@@ -11,7 +11,7 @@
 {50}{}{Nem úgy tûnik, mintha túl sokat csinált volna.}
 {500}{}{Nincs elég fény a tárgy feltöltéséhez.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{}{Könnyû}
+{800}{Weapon Damage}{Light}
 {801}{}{Közepes}
 {802}{}{Nehéz}
 {803}{}{Extrém}

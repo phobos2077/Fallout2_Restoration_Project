@@ -9,7 +9,7 @@
 {108}{}{Puntos de Acción}
 {109}{}{Clase de armadura}
 {110}{}{Daño desarmado}
-{111}{}{Daño melee}
+{111}{}{Daño a Melé}
 {112}{}{Peso máximo soportado}
 {113}{}{Capacidad de reacción}
 {114}{}{Ritmo de curación}
@@ -83,7 +83,7 @@
 {307}{}{Muy bueno}
 {308}{}{Genial}
 {309}{}{Excelente}
-{310}{}{Heróico}
+{310}{}{Heroico}
 {400}{}{Puntos habilidad sin usar}
 {401}{}{Nivel}
 {402}{}{Experiencia}
