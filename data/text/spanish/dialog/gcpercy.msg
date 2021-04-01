@@ -54,7 +54,7 @@
 {145}{}{Pero suma dos y dos: vaya que si me preocupa que ese Woody se esté echando la siesta en La Guarida -que es un viaje
  largo, digo yo- y que resulte que han enterrado vivo al pobre gilipollas. Necesito que alguien eche una miradita por ahí.}
 {146}{}{¿Y...?}
-{147}{}{Bueno, vaya que si le echo de menos. Por eso. (Percy parpadea nervioso) Oh, entiendo, vaya que si quieres saber lo que vas a sacar por esto.}
+{147}{}{Bueno, vaya que si le echo de menos. Por eso. (Percy parpadea nervioso) Oh, entiendo, ¿quieres saber lo que hay para ti?}
 {148}{}{Normalmente es el momento en el que escucho con más interés. Dime.}
 {149}{}{Bueno, vaya que si sé dónde sacar un jodido montonazo de genuino material de antes de la guerra, Rad-X y RadAway. A mí
  ni me sirven, pero supongo que a un piel suave como tú vaya que si le iban a gustar. ¿Quieres hacer el trabajo para mí o no? Sólo

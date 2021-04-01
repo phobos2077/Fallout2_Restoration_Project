@@ -42,7 +42,7 @@
 {270}{}{Hecho de menos a Albóndiga de Fallout 1.}
 {271}{}{¿Crees que habrá un Fallout 3? ¡Quiero ser el héroe en él!}
 {272}{}{Fallout 2, ofrecido en respuesta a la gran demanda de nadie.}
-{273}{}{El Enclave puede besar mi culo de siete años. ¡Qué capullos!}
+{273}{}{El Enclave puede besar mi culo de siete años. Qué idiotas.}
 {274}{}{El Enclave eran unos auténticos capullos, ¿eh? Jolines.}
 {275}{}{¿Te asustaste cuando te encontraste con el Presidente? ¿Tenía grandes colmillos y garras?}
 {276}{}{Ojalá pudiera haberte ayudado a destruir el Enclave. Yo… no me habría asustado. Oh, oh.}
@@ -128,7 +128,7 @@
 {456}{}{¿"Insectos de metal"?}
 {457}{}{Oh, vale. Sólo era curiosidad.}
 {458}{}{Nooooo... creo que será mejor que me vaya.}
-{470}{}{(Te mira). ¡Venga, sé cómo usar armas como esa! ¡Soy de la Familia Wright! ¡Déjame verla! Porfaaaa.}
+{470}{}{(Te mira). ¡Vamos, sé cómo usar armas como esa! ¡Soy de la Familia Wright! ¡Déjame verla! Porfaaaa.}
 {471}{}{Oye: en las manos equivocadas, una pistola es un arma mortal. Bien, quiero decir que SIEMPRE es un arma mortal, pero en las manos equivocadas… es, eh… más mortal… espera, déjame empezar de nuevo.}
 {472}{}{Oye, si tu familia confiara en que puedes usar un arma, te habría dado una. Olvídalo.}
 {473}{}{Como si eres de la Familia Malote, no vas a tener este arma.}
@@ -204,7 +204,7 @@
 {721}{}{¿A dónde ha ido mi arma?}
 {722}{}{Sé que me diste un arma, ¿qué haría con ella?}
 {723}{}{¿Alguno de vosotros, capullos, se ha hecho con mi arma, la que me dio esta señora?}
-{5277}{}{! ¡Cuéntanos la historia del Enclave! Porfaaaa.}
+{5277}{}{¡Cuéntanos la historia del Enclave! Porfaaaa.}
 {5278}{}{! Yaaaaay!}
 {5279}{}{!}
 {5282}{}{ cuando sea mayor.}

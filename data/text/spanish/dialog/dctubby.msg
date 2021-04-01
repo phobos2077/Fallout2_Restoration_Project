@@ -38,7 +38,7 @@
 {185}{}{De acuerdo. Gracias.}
 {186}{}{Esa no es la clase de información que le DARÍA a cualquiera.}
 {187}{}{¿Qué tal si cien pavos te hacen cambiar de idea?}
-{188}{}{¿Qué tal si te doy 50 dólares y me lo cuentas?}
+{188}{}{Qué tal si te doy 50 dólares y me lo cuentas.}
 {189}{}{¿Qué me dices? Tú me das la información y yo no te abro un nuevo agujero en la cabeza.}
 {190}{}{No importa.}
 {191}{}{Bueno, ¿puedo preguntarte otra cosa, entonces?}

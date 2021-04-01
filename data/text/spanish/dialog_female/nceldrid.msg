@@ -83,10 +83,10 @@
 {365}{}{(Estudia tus rifles y asiente). }
 {366}{}{Puedo poner una mira telescópica en esa rifle de caza por }
 {367}{}{Ese rifle de asalto que tienes ahí... puedo ponerle una recámara expandida por }
-{368}{}{Tengo una mira de visión nocturna que puedo instalar en ese FN FAL por }
+{368}{}{Tengo una mira de visión nocturna que puedo instalar en ese FN FAL por $}
 {369}{}{De acuerdo entonces... pon una mira telescópica en el rifle de asalto Colt.}
 {370}{}{Coloca la recámara expandida en el rifle de asalto AK-112.}
-{371}{}{Instala la mira visión nocturna en el FN FAL.}
+{371}{}{Instala la mira de visión nocturna en el FN FAL.}
 {385}{}{¿Quieres darle vidilla a esa picana? Puedo SUPERCARGARLA por }
 {386}{}{Claro.}
 {395}{}{(Eldridge toma el objeto y lo examina atentamente). Muy bien... espera un momentito, y veré lo que puedo hacer.

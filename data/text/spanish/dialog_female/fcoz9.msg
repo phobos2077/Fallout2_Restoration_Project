@@ -8,7 +8,7 @@
 {107}{}{¡Agh a nu, AHS!}
 {108}{}{Estoy buscando a mi gente. He oído que llegaron aquí en naves voladoras.}
 {109}{}{Tengo muchas preguntas que hacerte, AHS-9.}
-{110}{}{La Primera Iluminada de RNC me pidió entregar una carta. Creo que comentó algo acerca de una recompensa.}
+{110}{}{La Primera Iluminada de RNC me pidió entregar una carta. ¿Ella dijo algo acerca de una recompensa?}
 {111}{}{La Primera Iluminada de RNC me pidió entregar una carta. Aquí la tienes.}
 {112}{}{Oh, AHS-9, vengo con una carta de tu agente en RNC. Me inclino ante tu gloria.}
 {113}{}{Tu muerte. Adiós, anciano.}
@@ -89,7 +89,7 @@
 {188}{}{No.}
 {189}{}{Oh, está bien. Lo haré.}
 {190}{}{¿Desobedeces las órdenes de AHS-9, el Grande y Terrible? Entonces debes morir.}
-{191}{}{¡Vamos!}
+{191}{}{Vamos.}
 {192}{}{Espera, he cambiado de opinión.}
 {193}{}{Demasiado tarde, trozo de carne. Has demostrado que no eres de confianza. ¡Muere!}
 {194}{}{[HECHO]}

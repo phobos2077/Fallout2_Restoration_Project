@@ -17,7 +17,7 @@
 {223}{}{Somos los guardias de Tubby.}
 {224}{}{No te metas con Tubby. Este es su local.}
 {225}{}{Hostia, me siento bien.}
-{226}{}{¿Te puedes creer que somos guardias? Guay, ¿verdad?}
+{226}{}{¿Te puedes creer que somos guardias? Genial, verdad.}
 {227}{}{Esta mierda es genial.}
 {228}{}{Oh, amigo, no siento las piernas.}
 {229}{}{Tubby es nuestro colega.}

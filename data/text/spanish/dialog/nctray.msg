@@ -1,5 +1,5 @@
 {100}{}{Ves a un negro atractivo... er, no, espera. Ves a T-Ray.}
-{150}{}{Ves a un negro muy musculoso con gafas gruesas, una ligera barba, y cierta apostura.}
+{150}{}{Ves a un negro muy musculoso con gafas gruesas, una ligera barba, y cierta actitud.}
 {151}{}{Ves a T-Ray. No se lo ve mal con esos pantalones vaqueros.}
 {152}{}{Ves a T-Ray. De vez en cuando flexiona sus bíceps, susurrando "maldición" para sí mismo.}
 {153}{}{Apenas puedes distinguir a T-Ray más allá de esa apostura.}
@@ -185,7 +185,7 @@
 {670}{}{¡Caramba! ¡El gran héroe vuelve por los dominios de T-Ray! Bienvenido, bienvenido… }
 {671}{}{Oye, corazón. ¿Vuelves a relajarte con Ray después de haberle pateado el culo al mundo? }
 {672}{}{Oye… tengo algo que te podría interesar para el coche… SI aún lo tienes.}
-{673}{}{¿Q-qué es?}
+{673}{}{¿Q-qué pasa?}
 {675}{}{¿Qué tienes para el coche?}
 {690}{}{¡Maldición, golfa! Te di lo tuyo hace cinco minutos! ¿Pretendes matarme?}
 {691}{}{¿Quieres hacerlo OTRA VEZ? ¡Maldición, mujer! ¿Tus piernas NUNCA cierran?}
@@ -231,7 +231,7 @@
 {790}{}{Hombre, esa cantidad no sirve ni para propinas! }
 {791}{}{Mujer, esa cantidad no sirve ni para propinas! }
 {792}{}{¡¿Qué pasa, que Bishop se cree que los coches son BARATOS?!}
-{793}{}{Quizá piensa usted que se le ha… engañado.}
+{793}{}{¿Quizás sientes que estás siendo tratado... injustamente?}
 {794}{}{El señor Bishop ha hecho una GENEROSA oferta de 1.500 fichas. La siguiente oferta no te va a gustar.}
 {795}{}{Entonces, quizá una oferta de 900 fichas sea más adecuada a lo que quieres. El señor Bishop estará encantado de que tu trabajo resulte tan económico.}
 {797}{}{Ya que su generosa oferta ha sido rechazada, tengo instrucciones de llevarme el coche sin pagar.}

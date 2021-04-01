@@ -50,7 +50,7 @@
 {149}{}{Fuimos los supervivientes del naufragio de un submarino. Cuando encallamos, extrajimos el metal del submarino para crear el Palacio. Algunos no creen esto.}
 {150}{}{Hm. Casi parece como si estuvieras reprendiendo a alguien.}
 {151}{}{Ya veo. Gracias. Adiós.}
-{152}{}{¡Ah, sí! He visto algunas de tus películas. Sin embargo, seguramente ese no es tu auténtico nombre...}
+{152}{}{¡Ah, sí! He visto algunas de tus películas. Sin embargo, ¿seguramente ese no es tu auténtico nombre?}
 {153}{}{Desde luego que lo es.}
 {154}{}{No. Mi verdadero nombre es }
 {155}{}{Ese es el único nombre que necesitas, anciano.}

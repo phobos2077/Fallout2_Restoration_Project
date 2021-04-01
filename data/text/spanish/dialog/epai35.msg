@@ -12,10 +12,10 @@
  su pipa, Mamá lee su libro de cocina, y poco a Billy y Susie coger algunos boob-tubo antes de la hora de acostarse. Ellos piensan que todo
  va a estar muy bien. Hacen caso omiso de la advertencia de las sirenas, pensando que es solo un simulacro. Oh, pero ¿qué es esto?}
 {221}{}{[MÁS]}
-{230}{}{[A través de la ventana trasera, usted ve una gran bomba de choque con la tierra, creando una enorme nube en forma de hongo de la explosión,
- seguido por una luz cegadora. Una vez que la luz se desvanece, vea el Dr. Caleb está ahora de pie en las ruinas de la quemada
- sala de estar, con la familia reemplazado por esqueletos.] Uh-oh! Parece que los comunistas cayó el grande, y el
- Johnsons no estaban tan seguros como se creía. Ahora, ¿qué podemos aprender de la familia Johnson del error?}
+{230}{}{[A través de la ventana trasera, ves una gran bomba estrellarse contra la tierra, creando una enorme nube en forma de hongo de la explosión,
+ seguido por una luz cegadora. Una vez que la luz se desvanece, ves que el Dr. Caleb está ahora de pie en las ruinas de la quemada
+ sala de estar, con la familia reemplazada por esqueletos.] Uh-oh! Parece que los comunistas dejaron caer el grande, y los
+ Johnsons no estaban tan seguros como creían. Ahora, ¿qué podemos aprender del error de la familia Johnson?}
 {231}{}{[MÁS]}
 {240}{}{Eso es correcto! En el caso de una guerra nuclear, usted quiere que su familia esté a salvo en el refugio de una de Vault-Tec
  la marca de la bóveda. De Vault-Tec han construido 122 público bóvedas alrededor de nuestra gran nación, por lo que es inevitable que haya uno cerca de usted.

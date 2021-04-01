@@ -150,10 +150,10 @@
 {622}{}{Nada mejor que tener un rifle de asalto con el cargador ampliado. Puedo ponérselo
  por }
 {623}{}{Esa FN FAL es una buena arma. Oye, tengo una mira telescópica de visión nocturna para ella.
- Es tuya por }
+ Es tuya por $}
 {624}{}{De acuerdo entonces... pon una mira telescópica en el rifle de asalto Colt.}
 {625}{}{Coloca la recámara expandida en el rifle de asalto AK-112.}
-{626}{}{Instala la mira visión nocturna en el FN FAL.}
+{626}{}{Instala la mira de visión nocturna en el FN FAL.}
 {627}{}{Demasiado para mis posibilidades. Volveré cuando tenga más dinero.}
 {630}{}{¿Quieres que ese arma cuerpo a cuerpo haga papilla? Puedo *supercargarla* por }
 {631}{}{Claro.}
@@ -181,7 +181,7 @@
 {682}{}{Puedo poner gratis una mira telescópica en ese rifle de caza.}
 {683}{}{Nada mejor que tener un rifle de asalto con un cargador ampliado. Puedo ponerle
  uno gratis.}
-{684}{}{Esa FN FAL es una buena arma. Oye, tengo una mira telescópica de visión nocturna para esa.
+{684}{}{Esa FN FAL es una buena arma. Oye, tengo una mira telescópica de visión nocturna para ella.
  Es tuya gratis.}
 {685}{}{¿Quieres que ese arma cuerpo a cuerpo haga papilla? Puedo *supercargarla* gratis.}
 {700}{}{Le has entregado la pieza a Skeeter.}

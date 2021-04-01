@@ -3,7 +3,7 @@
 {150}{}{A pesar de la piel pálida y las grandes pupilas, parece ser una persona normal.}
 {200}{}{¡Joder!}
 {201}{}{¡Oooh! Eso va a doler.}
-{210}{}{Sabes que puedes entrar por la puerta trasera, ¿eh?}
+{210}{}{Sabes que puedes entrar por la puerta trasera...}
 {211}{}{¡Bwahahahaha!}
 {212}{}{No diré una palabra.}
 {213}{}{¡Oh, Dios! ¡Me muero de risa! ¡Vuelve a hacerlo!}

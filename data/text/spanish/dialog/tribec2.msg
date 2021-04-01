@@ -41,7 +41,7 @@
 {321}{}{... [Usted suspiro, entonces el punto en el pozo.]}
 {330}{}{[Se vuelve y mira al bien, luego se vuelve de nuevo a usted.] Sí, se ve a la derecha un " adecuado ahora. ¿Por qué no lo dices? Aquí, toma este dinero. Los espíritus me dicen que se necesita más que yo.}
 {331}{}{... [Toma el dinero y a pie.]}
-{400}{}{[Como vas a pie, Marli mira de cerca y sus ojos se encienden.] Ah! Veo que tiene sub-ametralladora. [Mira ansiosamente en el arma.] Tuvimos una vez, pero Sulik siempre acaparando ella. Se perdió en una batalla. Una lástima. Mi magia sería temible fuerte, si yo tuviera un alma tomador como el.}
+{400}{}{[Cuando estás a punto de marcharte, Marli te mira de cerca y sus ojos se encienden.] Ah! Veo que tienes sub-ametralladora. [Mira con nostalgia el arma.] Tuvimos una vez, pero Sulik siempre acaparando ella. Se perdió en una batalla. Una lástima. Mi magia sería temible fuerte, si yo tuviera un tomador de almas como ese.}
 {401}{}{Si desea que este uno, usted puede tener. Estoy seguro de que voy a encontrar otro. [Mano Marli el SMG.]}
 {402}{}{Acaba de tomar. No quiero que después de que el ojo violar a que usted está dando. [Mano Marli el SMG.]}
 {403}{}{Sí, lo de la apuesta. De todos modos, a mí y a mi alma-taker se va a otra parte ahora.}

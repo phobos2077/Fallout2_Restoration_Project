@@ -194,7 +194,7 @@
 {656}{}{Bueno, me lo imaginaba pero, ¿y qué?}
 {657}{}{¿Como qué?}
 {658}{}{¿Una pieza? ¿Qué clase de pieza?}
-{659}{}{Háblame sobre ese último paso, y me pensaré lo de ayudarte.}
+{659}{}{¿Por qué no me cuentas sobre ese último paso, y yo pienso sobre lo de ayudarte?}
 {670}{}{El reactor, siempre el reactor (suspira). Vuelve cuando hayas hecho algún
  progreso con él.}
 {671}{}{Vuelve más tarde. Estoy en comunión con un poder más elevado, o algo así (shhh).}

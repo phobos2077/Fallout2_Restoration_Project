@@ -44,7 +44,7 @@
 {143}{}{¡Infiel!}
 {144}{}{¿Por qué nos atacas?}
 {145}{}{¡Defenderé a la tribu con mi vida!}
-{146}{}{¿Cómo te atreves a violar nuestra hospitalidad!}
+{146}{}{Cómo te atreves a violar nuestra hospitalidad.}
 {147}{}{¡Márchate!}
 {148}{}{Déjanos.}
 {149}{}{Somos una tribu pacífica.}

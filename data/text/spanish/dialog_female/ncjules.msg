@@ -176,7 +176,7 @@
 {596}{}{En realidad no importa. Gracias por hablar conmigo.}
 {615}{}{Está el padre, Gran Jesús Mordino, y el hijo, Pequeño Jesús, y ambos son los más mezquinos hijos de puta con los que te hayas topado alguna vez.
  Eran esclavos, pero cambiaron las tornas hace años y se labraron su propio pequeño imperio.}
-{616}{}{¿Cómo de grande es su "imperio"?}
+{616}{}{¿Qué tan grande es su "imperio"?}
 {625}{}{Poseen el Desperado al final de la calle. No tiene pérdida. También tienen el mayor suministro de Jet de TODO Nuevo Reno.
  Así que si te urge volar…}
 {626}{}{Hablando de eso, ¿sabes donde puedo conseguir algunos medicamentos por aquí?}

@@ -9,7 +9,7 @@
 {111}{}{Ves a una joven de pecho generoso.}
 {112}{}{Ves a una joven atractiva medio desnuda.}
 {113}{}{Ves a una joven con una mueca en su rostro que te está evaluando mientras te observa.}
-{120}{}{¡Oye! ¿Ya está?}
+{120}{}{Eso fue rápido.}
 {121}{}{¿Hacía mucho que tú no, ¿eh, cariño?}
 {122}{}{Quizás la próxima vez aguantes un poquito más.}
 {123}{}{Sabes, esto no es una carrera.}

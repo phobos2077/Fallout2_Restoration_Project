@@ -208,7 +208,7 @@
 {945}{}{Voy a preguntarle a papá si puedo ser eso que llaman puta cuando sea mayor. Dice que realmente necesita una de eso.}
 {946}{}{Quiero ser algo que llaman puta cuando sea mayor. Papá dice que necesitamos más de eso.}
 {947}{}{Tengo vagina.}
-{1176}{}{! ¡Cuéntanos la historia del Enclave! Porfaaaa.}
+{1176}{}{¡Cuéntanos la historia del Enclave! Porfaaaa.}
 {1177}{}{! Yaaaaay!}
 {1178}{}{!}
 {1181}{}{ cuando sea mayor.}

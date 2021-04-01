@@ -676,8 +676,7 @@
 {5802}{}{, con serias consecuencias para su existencia}
 {5803}{}{, aturdiendo a la criatura repugnante}
 {5804}{}{, golpeando un punto sensible y aturdiendo al nómada}
-{5805}{}{. El golpe hace que el nómada se estremezca violentamente en un chorro carmesí
-}
+{5805}{}{. El golpe hace que el nómada se estremezca violentamente en un chorro carmesí}
 {5806}{}{. El golpe causa algún tipo de reacción violenta en la criatura}
 {5807}{}{. El nómada de repente estalla en llamas}
 {5808}{}{. Sufre una sacudida frenética y se estremece como gelatina}
@@ -760,8 +759,7 @@
 {6518}{}{. El doloroso golpe te hace estremecer, pero poco más}
 {6519}{}{. Desafortunadamente para ti, tiene como efectos secundarios la inmediata perdida de visión}
 {6520}{}{. Te toma un momento limpiar la sangre de tus ojos}
-{6521}{}{, traspasando tu armadura. Te quedas atónito cuando te das cuenta de que ya no puedes ver
-}
+{6521}{}{, traspasando tu armadura. Te quedas atónito cuando te das cuenta de que ya no puedes ver}
 {6522}{}{. Sientes una extraña sensación en tu cabeza. Te das cuenta de que es una muerte cerebral inminente}
 {6523}{}{, haciéndote temblar}
 {6524}{}{. Te echas las manos a la ingle y caes al suelo retorciéndote de dolor}

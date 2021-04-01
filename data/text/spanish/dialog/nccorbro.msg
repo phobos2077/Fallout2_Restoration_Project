@@ -244,7 +244,7 @@
 {769}{}{¡Tú no eres mi jefe! Quiero follar, aquí está mi perfecto coño, así que quiero todo el mundo preparado para rodar AHORA MISMO, joder.}
 {770}{}{De acuerdo. Intentaré volver más tarde cuando esté, eh, calmado.}
 {780}{}{Los Hermanos Corsican a tu servicio… (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... }
-{781}{}{Por ti parti.}
+{781}{}{Por ti partí.}
 {782}{}{Nada.}
 {783}{}{¿Qué lugar es éste?}
 {784}{}{¿Puedes contarme algo sobre el estudio?}

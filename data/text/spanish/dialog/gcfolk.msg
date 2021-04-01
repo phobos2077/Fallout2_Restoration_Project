@@ -23,14 +23,14 @@
 {143}{}{No eres como los otros pieles suaves.}
 {144}{}{¿Has visto algo interesante por el Yermo?}
 {145}{}{Hola.}
-{146}{}{¡Hola, amigo!}
+{146}{}{Hola, amigo.}
 {147}{}{Nuestro reactor nuclear me hace resplandecer con orgullo.}
 {148}{}{Aquí hemos dominado el poder del átomo.}
 {149}{}{Algún día, otros serán capaces de utilizar nuestra energía.}
 {150}{}{Me alegro de que no todos los pieles suaves sean como los de Ciudad Refugio.}
 {151}{}{Si los de Ciudad Refugio fuesen como tú, no tendríamos problemas con ellos.}
 {160}{}{Hmmph, otro piel suave traicionero.}
-{161}{}{¿Que tal, piel suave?}
+{161}{}{Hola, piel suave.}
 {162}{}{Hola a todos.}
 {163}{}{¿Cómo te va?}
 {164}{}{Pórtate bien mientras estés en el pueblo.}

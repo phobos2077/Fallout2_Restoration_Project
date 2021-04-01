@@ -38,7 +38,7 @@
 {192}{}{Maldición. No, ninguna otra cosa me servirá. Tendré que volver luego. Adiós.}
 {200}{}{Hmm, ¿no serás una amiga de Skeeter? Siempre está intentando que le dé cosas valiosas, empieza a trastear con ellas y las rompe. No confiaría en él ni para reparar una tostadora.}
 {201}{}{Eh... de hecho sí.}
-{202}{}{¿Skeeter? Tengo que llevar esta pieza al cuarto de controles del reactor para reparar el... ¡oye, mira! ¡Una rata!}
+{202}{}{¿Skeeter? Tengo que llevar esta pieza al cuarto de controles del reactor para reparar el... ¡oye, mira! ¿Es eso una rata?}
 {203}{}{No sé qué van a hacer con esta cosa. Yo sólo la estoy recogiendo.}
 {210}{}{Debí haberlo supuesto. ¿Cómo demonios logró Skeeter que alguien le diera autorización para conseguir una pieza? Solo espero que esta vez no vuele nada por los aires. Oh, bueno. No es mi problema, supongo.}
 {211}{}{Ehm, ¿la pieza? Necesito recogerla ahora mismo.}

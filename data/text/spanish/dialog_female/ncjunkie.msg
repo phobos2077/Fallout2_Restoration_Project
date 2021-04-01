@@ -193,7 +193,7 @@
 {460}{}{Amiga, estás en el juego equivocado. Prueba en uno de BattleMech.}
 {461}{}{¿Eres un hombre del espacio?}
 {462}{}{Necesito unos cuantos chutes más de Jet antes de pensar siquiera en tener algo contigo.}
-{470}{}{Hey, esclavista, ¿cómo lo llevas?}
+{470}{}{Hey, esclavista, ¡¿qué tal estás?!}
 {471}{}{¿Quieres esclavizarme? ¿Eh? ¿Inténtalo! ¡Soy invencible!}
 {472}{}{¡Intenta capturarme, esclavista!}
 {473}{}{¿Quieres compartir algo de Jet, esclavista?}
@@ -211,7 +211,7 @@
 {485}{}{¡¿Quieres algo de esto?! ¿Eh?}
 {486}{}{::Te mira con ojos confusos a causa de las drogas::}
 {487}{}{¿Quieres volar conmigo?}
-{488}{}{Hey, campeona, ¿cómo lo llevas?}
+{488}{}{Hey, campeona, ¡¿qué tal estás?!}
 {489}{}{¿Vas a boxear conmigo? ¿Eh? ¡Vamos!}
 {490}{}{¿Intentas tocarme las narices, campeona? ¡Soy un poderoso chorro de Jet! ¡Te patearé el CULO!}
 {500}{}{¡Eh! ¡Viene una iniciada!}

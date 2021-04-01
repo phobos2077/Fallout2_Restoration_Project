@@ -115,7 +115,7 @@
 {383}{}{Me encantaste en El Indomable Will Follador.}
 {384}{}{Estuviste genial en Calientahontas.}
 {385}{}{Estuviste genial en Refugio Caliente. Inspirador, incluso.}
-{386}{}{No he visto a los Hermanos por aquí… mira a ver en la oficina.}
+{386}{}{No he visto a los Hermanos por aquí… mira en la oficina.}
 {387}{}{¿Hay alguna posibilidad de que les preguntes a los hermanos Corsican si yo podría actuar?}
 {388}{}{Las entonadoras tienen el importante trabajo de mantener duros a los actores.}
 {389}{}{¿Podría actuar en tu próxima película?}
@@ -165,7 +165,7 @@
 {470}{}{¿Quién es tu guapo amigo con el hueso en la nariz?}
 {471}{}{Dile al tribal con el hueso en la nariz que llegará lejos en esta industria.}
 {472}{}{Caray, he visto accidentes en el plató, pero nunca a un tipo con un hueso atravesándole la nariz.}
-{473}{}{No he visto a los Hermanos por aquí… mira a ver en la oficina.}
+{473}{}{No he visto a los Hermanos por aquí… mira en la oficina.}
 {474}{}{Las entonadoras tienen el importante trabajo de mantener duros a los actores.}
 {475}{}{De verdad que quiero actuar.}
 {476}{}{No quiero ser entonadora toda mi vida. No, desde luego.}
@@ -186,7 +186,7 @@
 {491}{}{¿Lubricadores? Al final te acostumbras.}
 {500}{}{No, gracias, lo siento. Tendría mejor sexo con mi lápiz de labios.}
 {501}{}{¿Tú? Lo siento, NUNCA estaré tan desesperada.}
-{502}{}{No he visto a los Hermanos por aquí… mira a ver en la oficina.}
+{502}{}{No he visto a los Hermanos por aquí… mira en la oficina.}
 {503}{}{Las entonadoras tienen el importante trabajo de mantener duros a los actores.}
 {504}{}{De verdad que quiero actuar.}
 {505}{}{No quiero ser entonadora toda mi vida. No, desde luego.}

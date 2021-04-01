@@ -175,7 +175,7 @@
 {1154}{}{Te tomas otra Nuka-Cola.}
 {1155}{}{Tienes tembleques.}
 {1156}{}{Te sientes groggy.}
-{1157}{}{Estás delirando.}
+{1157}{}{Te sientes mareado.}
 {1158}{}{Tienes nauseas.}
 {1159}{}{Arma de gran distancia}
 {1160}{}{Precisión de Arma}

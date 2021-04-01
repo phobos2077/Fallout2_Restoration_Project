@@ -40,7 +40,7 @@
  encontrarlo.}
 {130}{}{¿Me dejas entrar para buscarlo?}
 {131}{}{Oye, ese comentario sobre un lagarto pequeño ha sido realmente divertido. ¿Es un pariente tuyo?}
-{132}{}{Es obvio que hablar contigo es una pérdida de tiempo. ¡Adiós!}
+{132}{}{Es obvio que hablar contigo es una pérdida de tiempo. Adiós.}
 {133}{}{Para ser honestos, no sé exactamente lo que es. ¿Te importaría si
  lo buscara?}
 {134}{}{Lo siento, pero no permito a nadie vagar por estos pasillos. Soy responsable de la

@@ -26,7 +26,7 @@
 {256}{}{¿Quién es tu jefe?}
 {257}{}{¿Puedo verle?}
 {258}{}{Bueno, tengo bastante habilidad para reparar cosas. ¿Quizás pueda ser de ayuda?}
-{259}{}{Bueno, tengo bastante habilidad científica, tal vez pueda ser de ayuda.}
+{259}{}{Bueno, tengo bastante habilidad científica, ¿tal vez pueda ser de ayuda?}
 {260}{}{La puerta está cerrada. ¿Podrías abrirla?}
 {261}{}{Gracias.}
 {275}{}{Gracias por la pasta. Te voy a dejar que hables con él. No hagas ninguna estupidez. No puede salir de la habitación si Metzger no lo ordena.}

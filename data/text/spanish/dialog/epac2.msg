@@ -45,7 +45,7 @@ regula los productos químicos y protege el medio ambiente, ¡pero es mucho más qu
 {340}{}{Hola de nuevo. No tengo que suponer que haz reconsiderado mi oferta para ayudarme a Probar la arma experimental?}
 {341}{}{No. Lo siento.}
 {342}{}{De acuerdo. Por supuesto.}
-{350}{}{Excelente! Eres el candidato perfecto. Verás, para ayudar al ejército a estar más "cerca" de la naturaleza, desarrollé un arma que no requiere ninguna munición, ya que solo funciona en * luz *. Lo llamo el * lanzallamas solar *. Sin embargo, aún no se ha utilizado bajo la luz solar directa, que es, por supuesto, donde entras.}
+{350}{}{Excelente! Eres el candidato perfecto. Verás, para ayudar al ejército a estar más "cerca" de la naturaleza, desarrollé un arma que no requiere ninguna munición, ya que solo funciona en *luz*. Lo llamo el *Abrazador Solar*. Sin embargo, aún no se ha utilizado bajo la luz solar directa, que es, por supuesto, donde entras.}
 {351}{}{¿Entonces solo quieres que salga y le dispare con esta cosa? ¿Eso es?}
 {352}{}{Si, si, solo dame el arma ya. }
 {360}{}{En esencia, si. Por supuesto, necesito saber qué tan bien se comportó durante el combate,

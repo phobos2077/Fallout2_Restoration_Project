@@ -1,5 +1,5 @@
 {100}{}{Ves a un viajero.}
-{101}{}{¡Saludos, compañero viajero!}
+{101}{}{¡Saludos! Compañero viajero.}
 {102}{}{Necesito que me indiquen unas direcciones. ¿Puedes ayudarme?}
 {103}{}{¿A dónde te diriges?}
 {104}{}{¿Qué haces?}

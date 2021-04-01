@@ -30,7 +30,7 @@
 {220}{}{Espera, no hay necesidad de nada de eso. Los Peterson son dueños de la granja aquí y son personas muy agradables. Sr. Peterson
   incluso se ofreció a hablar con quienquiera que estuviera tomando sus cultivos y llegar a un acuerdo razonable. Ve a hablar con él.
   Estoy seguro de que puede ayudarte de alguna manera.}
-{221}{}{(Los ojos del anciano se iluminan.) Eso no suena como una mala idea. Hey gracias. Quizás este mundo no sea como
+{221}{}{(Los ojos del anciano se iluminan.) Eso no suena como una mala idea. Hey, gracias. Quizás este mundo no sea tan
   cruel como pensé que era.}
 {222}{}{Cuídate entonces, Tom. Lo consultaré más tarde y veré cómo van las cosas.}
 {223}{}{Espero que Peterson sea tan amable como dices que es.}

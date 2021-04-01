@@ -6,7 +6,7 @@
 {200}{}{Eh...}
 {203}{}{¿Te ayudamos en algo, hijo?}
 {204}{}{::Se toca un sombrero imaginario.:: ¿Te ayudamos en algo, señora?}
-{205}{}{¿Conocéis 'Rema rema bote por la corriente'?}
+{205}{}{¿Conocéis 'Rema rema bote río abajo'?}
 {206}{}{¿Podríais… podríais cantar 'Noventa y nueve botellas de cerveza en la pared'?}
 {207}{}{Nooo marcho ahora}
 {208}{}{Estaría honrado si lo hicierais. Gracias, muchachos.}

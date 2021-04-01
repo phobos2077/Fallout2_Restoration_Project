@@ -42,7 +42,7 @@
 {141}{}{¿Aún lo tienes? Bien. Chip lo necesita de vuelta.}
 {142}{}{Es un bazo humano, enfermo hijo de puta!}
 {143}{}{Sabes que se supone que se sirve hígado con ese vino en lugar de bazo, ¿verdad?}
-{144}{}{Es un bazo humano, ¿sabes?}
+{144}{}{Es un bazo humano, sabes.}
 {145}{}{¿Quién es ese tal Chip? Ahora es mi bazo, y lo tengo para cenar.}
 {146}{}{Chip es el propietario original del bazo. Estaba borracho y se lo vendió a Lao Chou.}
 {147}{}{Lo necesita para sobrevivir, ¿sabes? Procede del interior de su cuerpo.}

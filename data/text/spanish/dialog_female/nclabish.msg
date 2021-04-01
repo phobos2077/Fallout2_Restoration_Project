@@ -41,13 +41,13 @@
 {253}{}{Me llamo }
 {254}{}{Soy una simple viajera.}
 {255}{}{Soy una viajera, en busca del Refugio 13. ¿Has oído hablar de él?}
-{256}{}{Soy un viajero… ¿sabes dónde puedo encontrar algo llamado "Kit de creación del Jardín del Edén"?}
+{256}{}{Soy un viajero… ¿sabes dónde puedo encontrar algo llamado "Kit de Creación del Jardín del Edén"?}
 {257}{}{Mira, tal vez sea mejor que me vaya. Adiós.}
 {260}{}{¿Sí?}
 {261}{}{¿Qué puede contarme sobre el señor Bishop?}
 {262}{}{¿Podría contarme algo sobre la Familia Bishop?}
 {263}{}{¿Alguna vez ha oído hablar de un lugar llamado Refugio 13?}
-{264}{}{¿Sabe dónde puedo encontrar algo llamado 'Kit de creación del Jardín del Edén'?}
+{264}{}{¿Sabe dónde puedo encontrar algo llamado 'Kit de Creación del Jardín del Edén'?}
 {265}{}{Olvídelo. Mejor me voy.}
 {270}{}{¿Mi marido? Eso es simple. Está muerto. MENUDA tragedia. Aún me estoy recuperando de todo el
  champán que bebí cuando me enteré.}

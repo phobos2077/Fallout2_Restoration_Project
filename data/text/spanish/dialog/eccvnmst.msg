@@ -30,7 +30,7 @@
 {129}{}{Adiós}
 {130}{}{Se dice que tú o alguien que se parece a ti ha estado montando jaleo últimamente. No hago negocios con los de tu clase. Lo siento.}
 {131}{}{Ni sé por qué te buscan ni me importa. No hago negocios con los de tu clase.}
-{132}{}{¿Por qué no te vas a hacer "el bien" a otra parte?}
+{132}{}{¿Por qué no te vas a hacer... "el bien" a otra parte? }
 {133}{}{Estoy seguro de que una persona con tu reputación podrá conseguir cosas en cualquier otra parte.}
 {134}{}{Indique su intencón.}
 {135}{}{¿A dónde te diriges?}

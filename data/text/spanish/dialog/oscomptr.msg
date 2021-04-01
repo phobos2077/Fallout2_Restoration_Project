@@ -47,7 +47,7 @@
 {204}{}{Seguridad de acceso a material de archivo.}
 {205}{}{Salir.}
 {206}{}{Urk?}
-{210}{}{[Una luz parpadea en la terminal, ya que hace varios pulsando y girando sonidos. Después de varios segundos, el texto
+{210}{}{[Una luz parpadea en el terminal mientras hace varios sonidos de clics y giros. Después de varios segundos, el texto
  aparece en el monitor.] Lo siento, no he entendido tu comando. Por favor, repita el comando, asegúrese de hablar
  directamente en el micrófono en una forma clara y precisa. Vault-Tec se disculpa por cualquier inconveniente. Gracias.}
 {211}{}{Ejecute los diagnósticos.}
@@ -155,7 +155,7 @@
 {367}{}{[MÁS]}
 {368}{}{Bóveda de 15, otro punto clave en el Vault Dweller s quest, fue poblada por gente con "radicalmente diversas ideologías" que sería sellado en la Bóveda juntos por 50 años. Bóveda 27 fue a propósito de hacinamiento, con 2.000 personas-el doble de la capacidad máxima. Que no podía haber sido bastante. Bóveda 29 fue poblada sólo por aquellos bajo la edad de dieciséis años, con sus padres, "a propósito redirige a otra de las Bóvedas".}
 {369}{}{[MÁS]}
-{370}{}{Bóveda 34 del experimento implicó una armería abastecidos con armas y munición, y, por supuesto, no siempre con una cerradura. De lo agradable. Bóveda de 36 sufrido a partir de los alimentos extrusoras que fueron diseñadas para producir sólo "una fina y acuosa de gachas", mientras que la Bóveda 42 fue equipado sólo con una luz tenue,--no hay bombillas de luz de más de 40 watts fueron proporcionados.}
+{370}{}{El experimento del Refugio 34 involucró una armería con exceso de armas y municiones y, por supuesto, no estaba provista de un candado. Qué agradable. El Refugio 36 sufría de extrusoras de alimentos que estaban diseñadas para producir solo "una papilla fina y acuosa", mientras que el Refugio 42 estaba equipado solo con iluminación tenue: no se proporcionaron bombillas de más de 40 vatios.}
 {371}{}{[MÁS]}
 {372}{}{Bóveda 53 del equipo fue diseñado para romper cada pocos meses. Mientras que se puede reparar, la constante de averías se quiere probar la tensión de los habitantes. Te pregunto, ¿cuántos mecánicos expertos y los técnicos que se Bóveda producido. Bóveda de 55 tendría todas sus cintas de entretenimiento eliminados, mientras que la Bóveda 56 tendría todas sus cintas de entretenimiento eliminado, con la excepción de uno con un mal actor cómico.}
 {373}{}{[MÁS]}

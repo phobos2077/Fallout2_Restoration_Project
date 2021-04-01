@@ -32,7 +32,7 @@
 {241}{}{Bueeno, mujer guapa agradezco.}
 {245}{}{(Sonríe y te hace un guiño) ¿Se trata de eso? Bueno, en ese caso, has venido al sitio adecuado. Cualquier fantasía
  que tengas, la podemos hacer realidad… y no tengas vergüenza, ya hemos oído de todo. ¿Qué te gustaría?}
-{246}{}{Bien, perdóname por ser tan directo, pero me gustaría conocerte mejor. ¿A qué hora te pones...
+{246}{}{Bien, perdóname por ser tan directo, pero me gustaría CONOCERTE mejor. ¿A qué hora te pones...
  eh, en marcha, quiero decir, eh, sales?}
 {247}{}{Depende… ¿cuál es el menú?}
 {248}{}{Me gustaría sorprender a mi amigo con algo especial.}
@@ -187,7 +187,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {577}{}{::Bwanbwan-bwan-ba-bwan oookwaka oookwaka::}
 {585}{}{(Asiente) Sí, eso es. Normalmente las tenemos que entrenar extensivamente para suprimir su repulsión
  natural. Es casi como un rito de iniciación. De esa forma, si una chica soporta a Myron, significa que es dura…}
-{586}{}{Me gustaría conocerle. ¿Crees que podría presentarme voluntaria para ser su próxima "elección"?}
+{586}{}{Me gustaría conocerlo. ¿Crees que podría presentarme voluntaria para ser su próxima "elección"?}
 {587}{}{Ya veo. Tenías algunas preguntas más...}
 {588}{}{Hmmmm. Gracias por la información.}
 {595}{}{(Te estudia, y después te indica que te des la vuelta con el dedo). Gírate para que te vea. Hmmmm… }

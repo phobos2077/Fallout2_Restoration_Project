@@ -60,6 +60,6 @@
 {159}{}{No te metas en líos. Ya te he enseñado todo lo que sé.}
 {160}{}{Gracias. ¿Qué es eso que mencionaste antes sobre el arte?}
 {161}{}{Gracias, John. Te lo agradezco. Adiós.}
-{162}{}{Me refiero al arte del pugilismo. Tan sólo te estaba tomando el pelo con lo otro. Será mejor que vuelva con mi jarra. ¡Buena suerte!}
+{162}{}{Me refiero al arte del pugilismo. Tan sólo te estaba tomando el pelo con lo otro. Será mejor que vuelva con mi jarra. Buena suerte.}
 {163}{}{Oh, vale. Gracias, John. Adiós.}
 {164}{}{John Sullivan te ha ayudado a mejorar tu habilidad en Combate Cuerpo a Cuerpo y Desarmado.}

@@ -74,7 +74,7 @@
 {173}{}{Nunca consigo hacer buenas preguntas.}
 {174}{}{Voy a tener que hablar con mi agente sobre esto.}
 {175}{}{Ya le he dicho que tengo que dejar de hacer estos papeles.}
-{176}{}{¿Cómo voy a conseguir el respeto que merezco saliendo en estos videojuegos y películas de serie Z?}
+{176}{}{Cómo voy a conseguir el respeto que merezco saliendo en estos videojuegos y películas de bajo presupuesto.}
 {177}{}{Hmmm... Debería pensar seriamente meterme en la reparación de coches.}
 {178}{}{He oído que es donde está el dinero ahora.}
 {200}{}{¡AAAAAAAHHHHHHHHhhhhhh!}

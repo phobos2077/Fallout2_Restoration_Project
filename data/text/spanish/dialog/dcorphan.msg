@@ -48,7 +48,7 @@
 {313}{}{Si no había hecho nada.}
 {314}{}{¡Ahhhh!}
 {315}{}{Fallaste.}
-{316}{}{¡Te toca!}
+{316}{}{Te toca.}
 {317}{}{¡No!}
 {318}{}{Deja de hacer eso.}
 {319}{}{¡No te hecho nada!}

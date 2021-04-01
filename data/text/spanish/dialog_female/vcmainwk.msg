@@ -135,11 +135,11 @@
 {232}{}{Volveré cuando tenga más dinero.}
 {233}{}{Hmmm. Tal vez en algún otro momento.}
 {234}{}{Ese rifle de asalto que tienes ahí... puedo instalarle una recámara expandida por 1.500 dólares.}
-{235}{}{Hmmmm. Tengo una mira de visión nocturna que puedo instalar en ese FN FAL que tienes por 3.500 dólares.}
+{235}{}{Hmmmm. Tengo una mira de visión nocturna que puedo instalar en ese FN FAL que tienes por $3.500.}
 {236}{}{Coloca la recámara expandida en el rifle de asalto AK-112.}
 {237}{}{¿Qué me dices de 1.350 dólares por mejorar el rifle de asalto?}
-{238}{}{Instala la mira visión nocturna en el FN FAL.}
-{239}{}{¿Qué me dices de 3.100 dólares por la mira de visión nocturna?}
+{238}{}{Instala la mira de visión nocturna en el FN FAL.}
+{239}{}{¿Qué me dices de $3.100 por la mira de visión nocturna?}
 {240}{}{¿Puedes mejorar una de mis otras armas?}
 {241}{}{No importa. Quería algo más...}
 {242}{}{En realidad, nada. Tengo que irme.}

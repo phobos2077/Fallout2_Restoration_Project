@@ -141,7 +141,7 @@
 {496}{}{¿}
 {497}{}{¿No podemos llegar a un acuerdo?}
 {498}{}{Bien. Aquí tienes.}
-{499}{}{¿Podría hacerte antes unas preguntas?}
+{499}{}{Podría hacerte antes unas preguntas.}
 {500}{}{Lo siento, no puedo permitírmelo.}
 {510}{}{Bien, es tuyo, pero saca su culo de aquí antes de que cambie de idea y le meta una bala en la puta cabeza.}
 {511}{}{¿Podría hacerte antes una pregunta?}

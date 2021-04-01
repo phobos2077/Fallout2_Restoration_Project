@@ -76,7 +76,7 @@
 {312}{}{Estas tomas son demasiado largas... me tienen agotada.}
 {313}{}{Creo que POR FIN vamos a tener una escena juntos.}
 {314}{}{Mis novios no saben que trabajo aquí. No es que me importe lo que puedan pensar.}
-{315}{}{No he visto a los Hermanos por aquí… mira a ver en la oficina.}
+{315}{}{No he visto a los Hermanos por aquí… mira en la oficina.}
 {316}{}{Me da igual donde la pongas, sólo asegúrate de que la cámara pilla la mejor toma.}
 {317}{}{Eres un hombre de pasión y misterio. Un hombre de lujuria.}
 {318}{}{Bueno, hagámoslo como te resulte más cómodo a ti.}

@@ -14,7 +14,7 @@
 {120}{}{¿Por qué demonios estás andando a hurtadillas?}
 {121}{}{Si vas a andar sigilosamente, vas a tener que ser bastante más silencioso que eso.}
 {122}{}{Oh, así que tú eres el tipo sigiloso.}
-{123}{}{Eres bueno haciendo tu trabajo. Pero mucho, ¿eh?}
+{123}{}{Eres bueno haciendo tu trabajo. Mm hm.}
 {124}{}{Atontada, limítate a caminar de forma normal.}
 {125}{}{Otra fugada del Ministerio de los Andares Tontos.}
 {126}{}{Puedo verte. De hecho, voy a machacarte la cabeza.}

@@ -39,7 +39,7 @@
 {138}{}{Gracias por intentar traer de vuelta el bazo de Chip.}
 {139}{}{Hiciste todo lo posible por Chip.}
 {140}{}{Ahí va otro tópico sobre Chip.}
-{141}{}{Me pregunto si el bazo sabía bien.}
+{141}{}{¿Me pregunto si el bazo sabía bien?}
 {142}{}{¡Yay! ¡Ahora puedo tener a Chip y a su bazo!}
 {143}{}{¡Voy a ver a Chip ahora mismo!}
 {144}{}{¡Chip es el mejor!}

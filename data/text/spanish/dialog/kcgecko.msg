@@ -18,7 +18,7 @@
 {214}{}{Eh, colega, ¿te parece que estos dados están trucados? (clac, clac)}
 {215}{}{Habla con los Dunton o con el camarero si buscas trabajo, amigo.}
 {216}{}{Has escogido el sitio perfecto para venir a beber, amigo.}
-{217}{}{No, Bishop, ¡lo del cuchillo otra vez no!}
+{217}{}{No, Bishop, lo del cuchillo otra vez no.}
 {218}{}{¿Alguien quiere jugar a los dados?}
 {219}{}{Me alegro de que Aldo no esté apestando el sitio.}
 {220}{}{No habrás mangao algún brahmin que no era tuyo, ¿eh?}

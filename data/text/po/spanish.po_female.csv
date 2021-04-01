@@ -14,7 +14,6 @@
 " was almost an unknown, fresh out of the wastes, before he came to box in New Reno. Mysterious! Deadly!"," era una desconocida, recién llegada del Yermo, antes de venir a boxear a Nuevo Reno. ¡Misteriosa! ¡Mortal!"
 " when I grow up."," cuando crezca."
 "! Just the hero we wanted to see!","! ¡Precisamente la heroína que queríamos ver!"
-"! Tell us the Enclave story! Pleeeease?","! ¡Cuéntanos la historia del Enclave! Porfaaaaaa"
 "! Th' big hero! How can we help you? Maybe sing you something special, eh?","!La gran heroína! ¿Cómo podemos ayudarte? Quizá cantándote algo especial, ¿eh?"
 "! What's up? Ready to get back in the ring?","! ¿Qué tal? ¿Lista para volver al cuadrilátero?"
 """I'm the Chosen One."" What crapola.","""Yo soy la Elegida"". Y una mierda."
@@ -511,7 +510,7 @@
 "Ha! Chosen One, you aren't graceful enough for me to teach you anything.","¡Ja! Elegida, no eres lo suficientemente hábil como para que pueda enseñarte nada."
 "Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her ""Snookie"" of all things.","¡Ja! Hablamos de amor, amiga. Parece que uno de los frikis de los ordenadores está coladito por una de las reclutas, la guardia del laboratorio médico. Incluso tiene uno de esos nombres cursis para ella. La llama su ""Caramelito""."
 "Hah! Another crackpot. You ought to go talk to Saltbeef. You and he'd get along fine.","¡Ja! Otra pirada. Debes ir a hablar con Trampero. Él y tú os llevaríais bien."
-"Hail! Fellow traveler.","¡Saludos, compañera viajera!"
+"Hail! Fellow traveler.","¡Saludos! Compañera viajera."
 "Hail, friend. Renewal is at hand for the chosen.","Saludos, amiga. La Renovación está disponible para los elegidos."
 "Hallelujah! I always KNEW you would be the hero! I KNEW it!","¡Aleluya! Siempre SUPE que tú serías la heroína! ¡Lo SABÍA!"
 "Harmless","Inofensiva"
@@ -628,7 +627,7 @@
 "Hey, bastard, you shouldn't mess with the Rangers.","Oye, zorra, no deberías meterte con los Rangers."
 "Hey, brother? Can you help me fly?","¿Hola, hermana? ¿Puedes ayudarme a volar?"
 "Hey, champ! That last fight was great!","¡Hey, campeona! ¡Tu última pelea fue fantástica!"
-"Hey, champ, wazzup?!","Hey, campeona, ¿cómo lo llevas?"
+"Hey, champ, wazzup?!","Hey, campeona, ¡¿qué tal estás?!"
 "Hey, everyone! It's the selfish asshole!","¡Oid todos! ¡Es la zorra egoísta!"
 "Hey, fren, just tell us to get out of your way.","Eh, miga, tan sólo dinos que nos apartemos de tu camino."
 "Hey, fren. Our name be Sulik. What you be needin'.","Eh, miga. Nuestro nombre es Sulik. ¿Qué es lo que quieres?"
@@ -682,7 +681,7 @@
 "How's it hanging, champ?","¿Cómo lo llevas, campeona?"
 "How's this Boss?","¿Así, Jefa?"
 "Howdy stranger, my name's Whiskey Bob. What's yours?","Saludos, forastera. Mi nombre es Whisky Bob. ¿Cuál es el tuyo?"
-"Howdy, friend.","¡Hola, amiga!"
+"Howdy, friend.","Hola, amiga."
 "Howdy, my name's Whiskey Bob. What's yours, fella?","Hola, ¿qué tal? Mi nombre es Whisky Bob. ¿Cuál es el tuyo, amiga?"
 "Howdy, stranger!","¡Hola, extranjera!"
 "Howdy, stranger.","Saludos, forastera."
@@ -1259,6 +1258,16 @@ Tan solo clickeo hasta llegar a la parte divertida."
  Casualmente se viste con un traje finamente confeccionado, luego se embolsa el contenido del casillero. Utilizando un peine de bolsillo, él
  comienza a esculpir y peinar su cabello oscuro y peinado con la rápida precisión de un profesional experimentado.] No creo haberte visto
  alrededor, muñeca, y dudo que olvide una cara como la tuya. Me llamo Dex, pero estoy seguro de que lo sabes. ¿Te importa si te pido el tuyo?"
+"Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
+ in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style
+ his slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? ","Por supuesto que no te importa. Gracias, compañera. [Él pasa a tu lado y abre un casillero cercano. Se viste casualmente
+ en un traje bien hecho, luego se guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y peinar
+ su pelo oscuro y liso con la rápida precisión de un profesional experimentado.] Entonces, ¿dónde está el doctor? "
+"Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
+ in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style his
+ slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? ","Por supuesto que no te importa. Gracias compañera. [Él pasa a tu lado y abre un casillero cercano. Se viste casualmente
+ con un traje finamente confeccionado, luego guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y 
+ peinar su  cabello oscuro peinado con la rápida precisión de un profesional experimentado. Entonces, ¿dónde está el doc? "
 "Of course, Boss.","Por supuesto, Jefa."
 "Of course, Citizen.","Por supuesto, Ciudadana."
 "Of course, Citizen. What else did you want to know?","Por supuesto, Ciudadana. ¿Qué más querías saber?"
@@ -2047,6 +2056,7 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 "You be needin' more o' de sacred herb, man.","No necesitas fumar más de la hierba sagrada, miga."
 "You be no fren of mine. Grampy Bone say no talk to you.","Tu no miga de mí. Abuelo Hueso dice yo no hablo contigo."
 "You be takin' de long walk, man.","Vas a caminar hacia el lejano claro, miga."
+"You begin to feel VERY light headed.","Empiezas a sentirte MUY mareada."
 "You being helped, or do I got to call over one of the putas ta get you set up? Ha!","¿Estás satisfecha, o tengo que llamar a una de las putas para que te relajes? ¡Ja!"
 "You being helped, or do I got to call over one of the waitresses ta get you set up? Ha!","¿Estás satisfecha, o tengo que llamar a una de las camareras para que te relajes? ¡Ja!"
 "You bet, Boss!","¡Apuesta a que sí, Jefa!"
@@ -2085,6 +2095,7 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 "You drive a hard bargain. I hope it was worth it.","Eres dura en los negocios. Espero que valiera la pena."
 "You dumbass.","Tonta del culo."
 "You feel a lot more safe now that the dog is dead.","Te sientes un poco más segura ahora que el perro está muerto."
+"You feel light-headed.","Te sientes mareada."
 "You feel very nauseous, and after some mild vomiting, slightly fatigued.","Te sientes muy mareada, y tras vomitar levemente, ligeramente fatigada."
 "You feel very nauseous.","Te sientes mareada."
 "You fight like old people fuck!","¡Peleas como una vieja idiota!"
@@ -2290,6 +2301,13 @@ because this is going to cost ::cough:: $200.","Debes ser muy buena para inspira
 "[He points to you and starts screaming.] Stranger! Stranger! Stranger!","[Te señala y comienza a gritar]. ¡Extraña! ¡Extraña! ¡Extraña!"
 "[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?","[Se quita el casco y deja a un lado su capa carmesí, revelando a un hombre robusto y guapo con una cabeza afeitada y una chaqueta de cuero. Parece exudar carisma y genialidad.] Oye forastera, mi nombre es Adam. Como estas?"
 "[He smiles] We must protect our honor, stranger.","[Sonríe] Debemos proteger nuestro honor, forastera."
+"[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a cornered
+ animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
+ alters his composure, projecting cool confidence, despite his nakedness.] I don't recognize you, bud. You don't mind if
+ I get dressed do you?","[Gira la cabeza hacia ti y se pone de pie de un salto. Él te mira atentamente, luego mira a tu alrededor como un animal
+ acorralado. Cuando sus ojos vuelven a ti, se suavizan y se relaja cuando sus recuerdos vuelven a él. Rápidamente
+ altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] No te reconozco, amiga. ¿No te importa si
+ me visto?"
 "[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
  real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. ","[Él te mira con los ojos entrecerrados por un momento, luego deja escapar su aliento en un suspiro.] Lo siento amiga, esta cosa es una verdadera perra, y me ha tenido trabajando demasiado. No quise criticarte."
 "[Injured]","[Herida]"

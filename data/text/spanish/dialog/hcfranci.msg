@@ -81,7 +81,7 @@
 {405}{}{Hominahominahomina.}
 {406}{}{Eeeeeccchhhh.}
 {407}{}{¡Grrr!}
-{408}{}{-Gemido-}
+{408}{}{¡-Gemido-!}
 {409}{}{¡Ay!}
 {410}{}{¡Ow! ¡Mi brazo!}
 {411}{}{¡Ja ja! ¡Te tengo!}

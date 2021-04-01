@@ -8,7 +8,7 @@
 {203}{}{Estás todo el largo de malezas.}
 {210}{}{Whoa. Esa es una hierba EXCELENTE.}
 {211}{}{Bueno, solo voy a quedarse aquí por un tiempo.}
-{212}{}{Empieza a sentirse MUY mareado.}
+{212}{}{Empiezas a sentirte MUY mareado.}
 {213}{}{Me estoy sintiendo realmente extraño ahora...}
 {214}{}{...esta debe ser la manera en que Hakunin se siente en su jardín.}
 {215}{}{Que estaba loco. Ahora me siento mejor aunque.}

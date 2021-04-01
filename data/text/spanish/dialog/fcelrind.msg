@@ -14,7 +14,7 @@
 {113}{}{El Padre Estelar te amará si se lo permites.}
 {114}{}{¿No quieres ver Quetzel? ¡Únete a nosotros!}
 {115}{}{¡Ve a hablar con AHS-7 y únete!}
-{116}{}{Tenemos celebridades que son Hubologistas, ¿sabes?}
+{116}{}{Tenemos celebridades que son Hubologistas, sabes.}
 {117}{}{¡Juan Cruz y Vikki Goldman son famosos! Por eso me uní.}
 {118}{}{Apuesto a que las celebridades hablarán contigo si eres agradable y buen tipo.}
 {119}{}{Amo a Hub.}

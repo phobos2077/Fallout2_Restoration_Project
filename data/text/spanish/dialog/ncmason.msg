@@ -106,7 +106,7 @@
 {482}{}{Que te den, Mason.}
 {490}{}{Te dije que no volvieras hasta que hubieses encontrado a Lloyd… te lo DIJE. (Se golpea la cabeza) ¡¿Eres idiota?! Debes serlo, porque vuelves aquí a hablar conmigo. Idiota… y MUERTO.}
 {491}{}{Vamos a bailar, gilipollas.}
-{492}{}{¡Vamos!}
+{492}{}{Vamos.}
 {493}{}{No, TÚ eres el IDIOTA Y MUERTO! ¡¿Me OYES, MASON?! ¡TÚ eres el ID --}
 {500}{}{(Te mira con incredulidad). La has jodido. Te damos un trabajo sencillo, y lo jodes. Jodido. Del todo. }
 {501}{}{Debes de ser el MAYOR estúpido hijo de puta que existe. }

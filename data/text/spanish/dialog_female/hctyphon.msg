@@ -157,7 +157,7 @@
 {329}{}{Creo que tengo envidia de pulgar oponible.}
 {330}{}{No es que pueda aventurarme...}
 {331}{}{¡Aaaaaaaaaaaaaagh! ¡No más chistes de plantas!}
-{332}{}{¡Fíjate en los granos de esa espiga de trigo! ¿No hace calor aquí?}
+{332}{}{¡Mira los granos en ese tallo de trigo! ¡Woo woo!}
 {333}{}{¡Tranquilito, chico! No creo que tus vacuolas lo puedan soportar.}
 {334}{}{¿Quieres que te lea una historia?}
 {335}{}{¿Qué tal 'El árbol generoso'? ¿'Jack y las Judías Mágicas'? ¿'El Guardián entre el centeno'?}

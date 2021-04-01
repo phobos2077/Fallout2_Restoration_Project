@@ -65,7 +65,7 @@
 {164}{}{No eres lo bastante importante como para recibir esa información.}
 {165}{}{Eh, será mejor que me vaya. Aquí hay montones de trabajo. Adiós.}
 {166}{powr13}{Centro de comunicación principal del Enclave... pero eso es algo que ya deberías saber. ¿Quién eres tú?}
-{167}{}{Oh, sólo soy… oye, ¿alguna vez has notado que el gecko cocinado sabe igual que el culo de un brahmin?}
+{167}{}{Oh, sólo soy… oye, ¿alguna vez has notado que el gecko cocinado sabe igual que el culo de un brahmin? }
 {168}{}{Soy la Elegida y aprenderás a recordarlo.}
 {169}{}{Nadie importante. Adiós.}
 {170}{powr14}{Ah, en un momento tendrás tu lastimoso trasero en un cabestrillo. Oye, espera un momento. Esto no puede estar bien... te detecto en algún lugar de tierra firme.}

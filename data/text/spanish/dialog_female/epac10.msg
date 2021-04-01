@@ -11,9 +11,9 @@
  No te importa si me visto, ¿verdad?}
 {211}{}{Supongo que no hay daño-}
 {212}{}{Bueno, yo-}
-{220}{}{Por supuesto que no te importa. Gracias compañero. [Él pasa a tu lado y abre un casillero cercano. Se viste casualmente
- en un traje bien hecho, luego se guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y peinar.
- su pelo oscuro y liso con la rápida precisión de un profesional experimentado.] Entonces, ¿dónde está el doctor?}
+{220}{}{Por supuesto que no te importa. Gracias, compañera. [Él pasa a tu lado y abre un casillero cercano. Se viste casualmente
+ en un traje bien hecho, luego se guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y peinar
+ su pelo oscuro y liso con la rápida precisión de un profesional experimentado.] Entonces, ¿dónde está el doctor? }
 {221}{}{El doc? Oh, probablemente esté por aquí en alguna parte. De hecho, Creo que el esta en camino, así que me iré de aquí y los dejaré a ustedes dos. ¡Adiós!}
 {222}{}{Esto puede llegar a sorprenderte, pero has estado congelado durante mucho tiempo. Quienquiera que fuese "el doc", El ciertamente hace mucho tiempo ya a de estar muerto. Si él era tu amigo, entonces lo siento.}
 {223}{}{No es mi intención darte con un palo en la cabeza, pero has estado en el hielo durante un *buen* largo tiempo. Estoy bastante seguro de que tu amigo, "el doc", ya lleva mucho tiempo muerto.}
@@ -157,15 +157,15 @@ esos sitios}
  se levanta y lo abrazas contra su pecho. Se sienta allí por varios momentos, mirando fijamente al frente mientras su cuerpo tiembla y su
  castañeteo de dientes Gradualmente, parece calmarse.]}
 {601}{}{Eh, oye...}
-{610}{}{[Gira la cabeza hacia ti y se pone de pie de un salto. Él te mira atentamente, luego mira a tu alrededor como un acorralado.
- animal. Cuando sus ojos vuelven a ti, se suavizan y él se relaja cuando sus recuerdos vuelven a él. El rápidamente
- altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] No te reconozco, amigo. No te importa si
- Me visto}
+{610}{}{[Gira la cabeza hacia ti y se pone de pie de un salto. Él te mira atentamente, luego mira a tu alrededor como un animal
+ acorralado. Cuando sus ojos vuelven a ti, se suavizan y se relaja cuando sus recuerdos vuelven a él. Rápidamente
+ altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] No te reconozco, amiga. ¿No te importa si
+ me visto?}
 {611}{}{Supongo que no hay daño-}
 {612}{}{Bueno, yo-}
-{620}{}{Por supuesto que no te importa. Gracias compañero. [Él pasa a tu lado y abre un casillero cercano. Se viste casualmente
- con un traje finamente confeccionado, luego guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y diseñar su
- cabello oscuro peinado con la rápida precisión de un profesional experimentado. Entonces, ¿dónde está el doc?}
+{620}{}{Por supuesto que no te importa. Gracias compañera. [Él pasa a tu lado y abre un casillero cercano. Se viste casualmente
+ con un traje finamente confeccionado, luego guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y 
+ peinar su  cabello oscuro peinado con la rápida precisión de un profesional experimentado. Entonces, ¿dónde está el doc? }
 {621}{}{Me gana Donde quiera que esté, ya hace mucho que está muerto. Verás, has estado haciendo esa impresión de paleta durante mucho tiempo REAL.}
 {622}{}{Escucha, chico lindo. No deshice tu trasero psicótico para poder responder tus preguntas y verte cuidarte.
  Solo te dejo vivir lo suficiente como para contarme cualquier información útil que puedas tener. Entonces comienza a hablar. Mas
@@ -362,7 +362,7 @@ Pero bueno, si no me vas a creer, ya no te cuento historias por ahora.}
 {1800}{}{Estoy listo para empezar.}
 {1801}{}{He estado mejor, pero puedo manejarlo.}
 {1802}{}{No me siento muy bien.}
-{1803}{}{Creo que oígo la llamada del Rey. Puedo ver la luz...}
+{1803}{}{Creo que oigo la llamada del Rey. Puedo ver la luz...}
 {1900}{}{No hay problema. Pero te sentirás mucho menos genial sin mí cerca. Solo digo...}
 {1901}{}{Claro. Nos vemos más tarde.}
 {1902}{}{Claro, esperaré. Pero si no regresas, comenzaré a buscarte, y no será agradable cuando te encuentre.}

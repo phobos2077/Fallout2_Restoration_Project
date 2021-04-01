@@ -118,7 +118,7 @@
 {406}{}{Hmmm. ¿Te importa si te hago algunas preguntas más?}
 {407}{}{Interesante. Gracias por la información.}
 {415}{}{Se llamaba Nikki. Solía trabajar aquí, pero se largó hace poco tiempo. Hizo las maletas y desapareció.}
-{416}{}{¿Te importa si te hago más preguntas?}
+{416}{}{¿Te importa si te hago más preguntas..?}
 {417}{}{Interesante. Gracias por la información.}
 {425}{}{Claro, sería bueno para el negocio. El vestuario está en la parte de atrás…}
 {426}{}{Excelente. Estaré sobre el escenario en unos minutos...}

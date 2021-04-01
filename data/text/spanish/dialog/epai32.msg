@@ -47,9 +47,9 @@
 {253}{}{[MÁS]}
 {254}{}{El origen y la etimología de los Flotadores se desconoce, pero se piensa que están relacionados con los Centauros con los que se encuentran a menudo.
  Ellos también parecen ser el resultado de la FEV. Pruebas adicionales se ha demostrado para ser completamente inmune a daños eléctricos.}
-{255}{}{Radscorpions son una gran versión de América del Norte escorpión Emperador, mutado por la radiación.
- Contrariamente a las expectativas iniciales, su veneno creció más potente, no diluido. Son de hábitos nocturnos y sensible a la luz.
- Más pruebas ha demostrado que las muestras de veneno de sus colas pueden ser utilizados para hacer los antídotos.}
+{255}{}{Los escorpiones Rad son una versión extremadamente grande del escorpión Emperador Norteamericano, mutado por la radiación.
+ Contrariamente a las expectativas iniciales, su veneno se volvió más potente, no diluido. Son nocturnos y sensibles a la luz.
+ Más pruebas han demostrado que las muestras de veneno de sus colas pueden ser utilizadas para hacer antídotos.}
 {256}{}{Atrás.}
 {257}{}{Varios experimentos se han realizado a crecer la nueva vida de la planta. Varios de estos intentos han tenido éxito
  y ahora puede ser visto crecer en un estado saludable en el arboretum. Los tanques de almacenamiento en la actualidad indican que las muestras de semillas están todavía disponibles para realizar más pruebas.}

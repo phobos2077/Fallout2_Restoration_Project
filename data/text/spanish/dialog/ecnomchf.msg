@@ -17,7 +17,7 @@
 {116}{}{¡Infiel!}
 {117}{}{¿Por qué nos atacas?}
 {118}{}{¡Defenderé a la tribu con mi vida!}
-{119}{}{¿Cómo te atreves a violar nuestra hospitalidad!}
+{119}{}{Cómo te atreves a violar nuestra hospitalidad.}
 {120}{}{¡Márchate!}
 {121}{}{Déjanos.}
 {122}{}{Somos una tribu pacífica.}

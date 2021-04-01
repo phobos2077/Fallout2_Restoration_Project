@@ -152,7 +152,7 @@
 {251}{hld46b}{Iba a darte unos suministros médicos pero que me aspen si no lo he hecho ya. Puedes crerme, hacerse viejo te hace polvo la memoria.}
 {252}{}{Gracias. Aunque déjame preguntarte algo.}
 {253}{}{Gracias por todo. Será mejor que me vaya. Adiós.}
-{254}{hld48a}{Sin un regulador hidroeléctrico magnetosférico operativo estamos filtrando refrigerante radiactivo al agua subterránea. Lo que significa que cualquiera que beba esa agua no va a necesitar una linterna para echar una meadita a medianoche. Además, necesitamos más combustible porque nuestra central no está funcionando con eficiencia.}
+{254}{hld48a}{Sin un Regulador Hidroeléctrico Magnetosférico operativo estamos filtrando refrigerante radiactivo al agua subterránea. Lo que significa que cualquiera que beba esa agua no va a necesitar una linterna para echar una meadita a medianoche. Además, necesitamos más combustible porque nuestra central no está funcionando con eficiencia.}
 {255}{hld48b}{Necesitamos un regulador hidroeléctrico magnetosférico y que se instale pronto, o vamos a tener problemas de verdad. }
 {256}{}{Suena mal. ¿Dónde podría encontrar un regulador hidroele-lo que sea?}
 {257}{}{¿Qué sucederá si no conseguís esa pieza?}

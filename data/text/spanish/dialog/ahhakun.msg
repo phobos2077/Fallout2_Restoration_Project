@@ -142,7 +142,7 @@
 {241}{}{La vida es una playa, ¿eh?}
 {242}{}{Encontraré el GECK, Santo. No abandonaré a nuestro pueblo.}
 {243}{hak032}{Elegido, los espíritus de nuestros ancestros me guían a un mundo de sueños donde puedo alcanzar tus pensamientos. Nuestro poblado sufre sin el sagrado GECK. Tus manos sostienen vuestras vidas como un padre a sus hijos.}
-{244}{hak033}{Una vez más mi espíritu te alcanza desde el vacío, Elegido. Nuestras cosechas se malogran, nuestras reservas menguan. Vuelve con el GECK. Tu fracaso será nuestro fin.}
+{244}{hak033}{Una vez más mi espíritu te alcanza desde el vacío, Elegido. Nuestras cosechas se mueren, nuestras reservas se acaban. Vuelve con el GECK. Tu fracaso será nuestro fin.}
 {245}{hak034}{Elegido. El poblado se debilita. Es más difícil entrar en tus sueños. Debes apresurarte o todos...}
 {246}{hak035}{¿Elegido? ¿Elegido? ¿Me oyes? El poblado se muere. Nuestro futuro muere también. Nos queda poco tiempo y esencia. Deprisa... Deprisa...}
 {247}{hak101}{Elegido... la sombra de la oscuridad llegó antes que tú.}

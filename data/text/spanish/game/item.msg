@@ -11,7 +11,7 @@
 {50}{}{Eso parece que no ha hecho nada.}
 {500}{}{No hay suficiente luz para recargar este objeto.}
 {600}{}{%s sucumbe a los efectos nocivos de las drogas.}
-{800}{Weapon Damage}{Light}
+{800}{Weapon Damage}{Ligero}
 {801}{}{Medio}
 {802}{}{Pesado}
 {803}{}{Extremo}

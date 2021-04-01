@@ -7,7 +7,7 @@
 {151}{}{No te queremos aquí.}
 {152}{}{Todos los de la superficie sois iguales.}
 {153}{}{No escaparás.}
-{200}{}{-Gemido-}
+{200}{}{¡-Gemido-!}
 {201}{}{¡Ooh!}
 {202}{}{-Gemido-}
 {203}{}{*Clank*}

@@ -435,25 +435,25 @@
 {22700}{}{Coche}
 {22701}{}{No hay forma de que esta chatarra pueda volver a poder conducirse de nuevo.}
 {22800}{}{Coche}
-{22801}{}{Si el Mecánico del Año apareciera a tu lado, los dos juntos no podríais reparar esta chatarra oxidada.}
+{22801}{}{Si el Mecánico del Año apareciera a tu lado, ninguno de los dos podría reparar esta chatarra oxidada.}
 {22900}{}{Silla}
-{22901}{}{Un cómodo sillón.}
+{22901}{}{Una silla cómoda.}
 {23000}{}{Silla}
-{23001}{}{Este sillón parece que tuvo días mejores.}
+{23001}{}{Parece que esta silla ha vivido mejores momentos.}
 {23100}{}{Silla}
-{23101}{}{Este sillón está mohoso y grasiento. Y por lo que puedes apreciar, también apesta.}
+{23101}{}{Esta silla está mohosa y asquerosa. Como puedes adivinar, también apesta.}
 {23200}{}{Silla}
-{23201}{}{Este sillón se está deteriorando. Rápidamente.}
+{23201}{}{Esta silla se está cayendo a pedazos. Rápidamente.}
 {23300}{}{Silla}
 {23301}{}{Si alguien te pagara mucho dinero, y pudieras usar ropa interior de acero, podrías considerar el sentarte en este sillón.}
 {23400}{}{Silla}
-{23401}{}{Parece un viejo sillón de oficina, y aún se conserva en buen estado después de tantos años.}
+{23401}{}{Parece una vieja silla de oficina que se conserva bien pese al paso del tiempo.}
 {23500}{}{Silla}
-{23501}{}{Parece un viejo sillón de oficina. Incluso puede soportar el peso de una persona.}
+{23501}{}{Es una silla de oficina. Podría soportar el peso de una persona.}
 {23600}{}{Silla}
-{23601}{}{Este sillón de oficina parece que tuvo días mejores. Ahora es básicamente basura.}
+{23601}{}{Esta silla de oficina parece que tuvo días mejores. Ahora es básicamente basura.}
 {23700}{}{Silla}
-{23701}{}{Parece lo que podrías ver en la oficina de un sepulturero: algo muerto.}
+{23701}{}{Parece una silla que verías en la oficina de una funeraria: muerta.}
 {23800}{}{}
 {23900}{}{}
 {24000}{}{}
@@ -561,11 +561,11 @@
 {29400}{}{Farola}
 {29401}{}{Esta farola ofrece iluminación al caer la noche, o en áreas oscuras.}
 {29500}{}{Farola}
-{29501}{}{Esta farola ofrecer iluminación al caer la noche, si no estuviera rota.}
+{29501}{}{Esta farola ofrece iluminación al caer la noche, si no estuviera rota.}
 {29600}{}{Farola}
-{29601}{}{Esta farola ofrecer iluminación al caer la noche, si no estuviera rota.}
+{29601}{}{Esta farola ofrece iluminación al caer la noche, si no estuviera rota.}
 {29700}{}{Farola}
-{29701}{}{Esta farola ofrecer iluminación al caer la noche, si no estuviera rota.}
+{29701}{}{Esta farola ofrece iluminación al caer la noche, si no estuviera rota.}
 {29800}{}{Letrero}
 {29801}{}{Este señal debería indicar en qué calle te encuentras, pero sus letras están desdibujadas.}
 {29900}{}{Letrero}
@@ -1718,9 +1718,9 @@
 {90600}{}{Partes de la servoarmadura}
 {90601}{}{Estas son piezas de la servoarmadura.}
 {90700}{}{Luz}
-{90701}{}{Esta luz de seguridad está titilando en un rojo brillante.}
+{90701}{}{Esta luz de seguridad está parpadeando en un rojo brillante.}
 {90800}{}{Luz}
-{90801}{}{Esta luz de seguridad está titilando en un rojo brillante.}
+{90801}{}{Esta luz de seguridad está parpadeando en un rojo brillante.}
 {90900}{}{Cartel}
 {91000}{}{Cartel}
 {91100}{}{Cartel}

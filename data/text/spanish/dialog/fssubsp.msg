@@ -1,4 +1,4 @@
-{100}{}{Que descienden a través de un oxidada escalera en el interior del submarino. El interior es oscuro, iluminado sólo por la luz opaca de la
- unos monitores. El aire es mala, llena con el olor de la herrumbre y el deterioro. Se sienten rodeados e inquietos.}
-{101}{}{Que descienden a través de un oxidada escalera en el interior del submarino. El interior es oscuro, iluminado sólo por la luz opaca de la
- unos monitores. El aire es mala, llena con el olor de la herrumbre y el deterioro. Te sientes casi como en casa.}
+{100}{}{Desciendes por una escalera oxidada dentro del submarino. El interior es oscuro, iluminado sólo por la tenue luz de unos pocos 
+ monitores de trabajo. El aire es malo, lleno del hedor a óxido y descomposición. Te sientes rodeado e incómodo.}
+{101}{}{Desciendes por una escalera oxidada dentro del submarino. El interior es oscuro, iluminado sólo por la tenue luz de unos pocos 
+ monitores de trabajo. El aire es malo, lleno del hedor a óxido y descomposición. Te sientes casi como en casa.}

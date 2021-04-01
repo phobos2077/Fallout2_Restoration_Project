@@ -12,7 +12,7 @@
 {203}{}{No todos, se ve como. }
 {204}{}{[Le das algo de tiempo para sus dientes, para dejar de parloteo. Ella se recupera mucho más rápido de lo que usted esperaba que ella
  y mira que con repentina gravedad.] Es... es sobre?}
-{205}{}{¿Qué ha terminado?}
+{205}{}{¿Qué ha terminado? }
 {206}{}{¿Te refieres a la guerra?}
 {207}{}{La Guerra. Todas esas armas nucleares.}
 {208}{}{La guerra, si.}

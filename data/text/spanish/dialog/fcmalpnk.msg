@@ -57,7 +57,7 @@
 {156}{}{Gracias por salvar a Chip.}
 {157}{}{Ahora será más fácil el vivir para Badger.}
 {158}{}{Siempre me gustó Suze. Me alegra que no esté muerta.}
-{159}{}{Me pregunto si Suze hará de niñera para mis hijos.}
+{159}{}{¿Me pregunto si Suze hará de niñera para mis hijos?}
 {160}{}{Matar a los monstruos, salvar a la chica... ¿haya alguna cosa de héroe que no hagas?}
 {161}{}{¿Puedes salvar también a mi novia? ¡Ja ja!}
 {162}{}{Quizá Badger duerma contigo por salvar a su novia.}

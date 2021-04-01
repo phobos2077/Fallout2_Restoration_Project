@@ -5,7 +5,7 @@
 {104}{}{Ves a una mujer que te está echando el ojo.}
 {105}{}{Esta mujer te está desnudando con la mirada.}
 {106}{}{Ves a una mujer joven.}
-{110}{}{¡Oye! ¿Ya está?}
+{110}{}{Eso fue rápido.}
 {111}{}{¿Hacía mucho que tú no, ¿eh, cariño?}
 {112}{}{Quizás la próxima vez aguantes un poquito más.}
 {113}{}{Sabes, esto no es una carrera.}
