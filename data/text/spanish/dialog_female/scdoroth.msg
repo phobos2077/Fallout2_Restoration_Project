@@ -29,7 +29,7 @@
 {128}{}{¡Oye! Mira, Toto. Es la forastera que nos ayudó. Gracias de nuevo, señora.}
 {129}{}{¡Mierda! Toda la red ha caído. Arreglar esto nos va a llevar una eternidad. No tengo tiempo para hablar. Vamos, Toto.}
 {130}{}{Mira, no te culpo por lo sucedido, pero ahora no estoy de humor para hablar.}
-{131}{}{¡Tú le mataste! Quiero decir, ¿de verdad era necesario matarle? ¿No había otro modo? }
+{131}{}{¡Tú lo mataste! Quiero decir, ¿de verdad era necesario matarlo? ¿No había otro modo? }
 {132}{}{Sí.}
 {133}{}{No.}
 {134}{}{Debiste haberlo intentando entonces, en lugar de matarlo. Lárgate de aquí, ¡monstruo!}

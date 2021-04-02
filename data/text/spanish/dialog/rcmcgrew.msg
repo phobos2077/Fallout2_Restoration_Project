@@ -94,7 +94,7 @@
 {168}{}{Interesante. Deja que te pregunte algo más, Dan.}
 {169}{}{Será mejor que me vaya largando, Dan. Adiós.}
 {170}{}{Porque soy el machote más grande, más duro, más rastrero, más cabronazo y más comeserpientes
- de estos pagos. *Dañino* Dan McGrew; ese soy yo, ¿vale?}
+ de estos lados. *Dañino* Dan McGrew; ese soy yo, ¿vale?}
 {171}{}{Ya veo; deja que te pregunte algo más, Dañino Dan.}
 {172}{}{Qué coño, a mí no me pareces tan duro.}
 {173}{}{Pareces un buen tipo. En fin, no quiero robarte más de tu valioso tiempo, señor

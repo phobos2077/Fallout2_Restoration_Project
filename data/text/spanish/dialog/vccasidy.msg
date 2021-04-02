@@ -36,7 +36,7 @@
 {135}{}{¿Qué sucedió después?}
 {136}{}{Lamento oír eso. Hablaremos más tarde.}
 {137}{Cas0137}{Después se llevaron a ese tipo, Joshua, por resistirse al arresto, y me metieron un paquete por -no te lo pierdas- tener whisky AUTÉNTICO en el local. No les importó que tuviera un permiso de Stark desde hace tres meses. Bastardos.}
-{138}{}{Vaya. ¿En serio?}
+{138}{}{Wow. ¿En serio?}
 {139}{}{Lamento oír eso. Hablaremos más tarde.}
 {140}{Cas0140}{Pues se pone mejor. Ahora estoy en deuda con los guardias por la multa, y tuve que comprar un nuevo cargamento de alcohol a un comerciante por el triple de mi tarifa normal. Estoy esperando que los guardias llamen a la puerta de nuevo a no tardar, sólo para sacarme los higadillos. }
 {141}{}{¿Cómo es la mayor parte del tiempo?}

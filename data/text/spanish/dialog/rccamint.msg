@@ -49,7 +49,7 @@
 {147}{}{Yo y mis chicos les vamos a dar una lección a esos pastelitos de la Morningstar. Empezando por esa Blasfemias
  Bette de ahí.}
 {148}{}{¿Por qué? ¿Cómo empezó?}
-{149}{}{Ya veo. Bien, no os lo permitiré. Tenéis que separaros ¡ya!}
+{149}{}{Ya veo. Bien, no lo permitiré. Tenéis que separaros ya.}
 {150}{}{Estamos hartos de que esos indeseables apestan nuestro bar.}
 {151}{}{Eso no basta. No puedo permitiros pelear.}
 {152}{}{Bueno, parece un problema, de acuerdo. No te culpo. Buena suerte.}

@@ -518,7 +518,7 @@
 {1586}{}{¡Puedes arrebatarme los ojos pero no mi coraje!}
 {1587}{}{¡Ven aquí para que pueda matarte!}
 {1588}{}{La oscuridad, la oscuridad, ¡Aaaiiiieee!}
-{1589}{}{¿Dónde está mi ojo, dónde está?}
+{1589}{}{¡¿¡Dónde está mi ojo, dónde está!?!}
 {1590}{}{De todas formas ya tengo demasiados hijos.}
 {1591}{}{Luchas sin honor.}
 {1592}{}{Estoy casado, así que de todas formas no la usaba.}
@@ -573,7 +573,7 @@
 {1641}{}{Y quién necesita el apéndice.}
 {1642}{}{Ahí te has pasado un poco, doc.}
 {1643}{}{¡Arrggghh, mi columna!}
-{1660}{}{¡Ay, mi pierna!}
+{1660}{}{¡Ow, mi pierna!}
 {1661}{}{¡Pagarás por eso!}
 {1662}{}{¡Argh! ¡Me has roto la pierna! ¡Yo te romperé el cuello!}
 {1663}{}{Mierda, se acabó bailar el tango.}
@@ -1809,7 +1809,7 @@
 {32060}{}{¡Oh, mi pierna!}
 {32061}{}{¡Mi rodilla!}
 {32062}{}{¡Justo en la arteria!}
-{32070}{}{¡Ay, mi pierna!}
+{32070}{}{¡Ow, mi pierna!}
 {32071}{}{::hop... hop::}
 {32072}{}{¡Aaaarrrrggghhh!}
 {32080}{}{¡No puedo ver, bastardo!}
@@ -1876,7 +1876,7 @@
 {32248}{}{¡Chop-suey!}
 {32249}{}{¡Hai-YA!}
 {32260}{}{¡Soy invencible!}
-{32261}{}{¿Es lo mejor que puedes hacer?}
+{32261}{}{Dame tu mejor tiro.}
 {32262}{}{Puedo soportarlo.}
 {32263}{}{No sabes pelear, ¿verdad?}
 {32264}{}{¿A eso le llamas pelear?}

@@ -6,7 +6,7 @@
 {105}{}{Piérdete.}
 {106}{}{Lárgate. No tengo nada que decirte.}
 {107}{}{Oh, uh, hey, capitán. Que le vaya bien, ¿eh?}
-{108}{}{Vaya, ¿pues no es el nuevo Ciudadano?}
+{108}{}{Vaya, pero si es el nuevo Ciudadano.}
 {109}{}{Hola, "Ciudadano".}
 {110}{}{No puedes meter aquí a ese mutante.}
 {111}{}{No puedes meter aquí a ese necrófago.}
@@ -127,7 +127,7 @@ No parecen concebir que alguien deje que los siervos lleven encima nada importan
 {217}{}{1 second, don't remove Barkus' float yet.}
 {218}{}{¡Ref-fugio! ¡Gechkk!}
 {219}{}{2 segundos}
-{220}{}{Bien...hmmm. Supongo que esperas una comisión, claro.}
+{220}{}{Bien... hmmm. Supongo que esperas una comisión, claro.}
 {221}{}{2 segundos}
 {222}{}{¿Se comen los forasteros sus propias heces? CLARO Que quiero una comisión.}
 {223}{}{1 second, Don't remove Skeev's float}

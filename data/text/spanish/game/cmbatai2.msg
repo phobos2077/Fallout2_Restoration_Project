@@ -248,7 +248,7 @@
 {1586}{}{¡Puedes arrebatarme los ojos pero no mi coraje!}
 {1587}{}{¡Ven aquí para que pueda matarte!}
 {1588}{}{La oscuridad, la oscuridad, ¡Aaaiiiieee!}
-{1589}{}{¿Dónde está mi ojo, dónde está?}
+{1589}{}{¡¿¡Dónde está mi ojo, dónde está!?!}
 {1590}{}{De todas formas ya tengo demasiados hijos.}
 {1591}{}{Luchas sin honor.}
 {1592}{}{Estoy casado, así que de todas formas no la usaba.}
@@ -580,7 +580,7 @@
 {2543}{}{¿Quieres más? ¡¿Eh?!}
 {2544}{}{Serás comida para los perros}
 {2545}{}{No deberías empezar lo que no puedas terminar.}
-{2546}{}{¡Espero que no mueras muy pronto!}
+{2546}{}{Espero que no mueras muy pronto}
 {2547}{}{Sólo uno de nosotros saldrá vivo de ésta.}
 {2548}{}{¡Muere!}
 {2549}{}{Me como a basura como tú para desayunar.}
@@ -794,7 +794,7 @@
 {3143}{}{¡Ohhh, eso va a doler!}
 {3144}{}{Hora de cortar y trocear.}
 {3145}{}{¡Voy a comerme tu hígado!}
-{3146}{}{¡Espero que no mueras muy pronto!}
+{3146}{}{Espero que no mueras muy pronto}
 {3147}{}{¡Hora de comer!}
 {3148}{}{¡Muere!}
 {3149}{}{Desayuno escoria como tú... también la almuerzo.}
@@ -1059,10 +1059,10 @@
 {32034}{}{¡Eso ha dolido!}
 {32035}{}{¡Creo que me has alcanzado el apéndice!}
 {32036}{}{¡Ohhh, duele!}
-{32060}{}{¡Ay, mi pierna!}
+{32060}{}{¡Ow, mi pierna!}
 {32061}{}{¡Mi rodilla!}
 {32062}{}{¡Justo en la arteria!}
-{32070}{}{¡Ay, mi pierna!}
+{32070}{}{¡Ow, mi pierna!}
 {32071}{}{::hop... hop::}
 {32072}{}{¡Aaaarrrrggghhh!}
 {32080}{}{¡No puedo ver, bastardo!}
@@ -1129,7 +1129,7 @@
 {32248}{}{¡Chop-suey!}
 {32249}{}{¡Hai-YA!}
 {32260}{}{¡Soy invencible!}
-{32261}{}{¿Es lo mejor que puedes hacer?}
+{32261}{}{Dame tu mejor tiro.}
 {32262}{}{Puedo soportarlo.}
 {32263}{}{No sabes pelear, ¿verdad?}
 {32264}{}{¿A eso le llamas pelear?}
@@ -1403,7 +1403,7 @@
 {36010}{}{¡Mi mano!}
 {36011}{}{¡Ay! Menos mal que Kaga usa la mano derecha.}
 {36012}{}{¡¡Ow!!}
-{36020}{}{Ay, ¡mi brazo!}
+{36020}{}{Ow, ¡mi brazo!}
 {36021}{}{¡Me has roto el brazo!}
 {36022}{}{¡Lamentarás eso!}
 {36030}{}{(Gruñe)}
@@ -1412,7 +1412,7 @@
 {36033}{}{¡Lamentarás eso!}
 {36034}{}{¡Deberías detenerte mientras estás ganando!}
 {36035}{}{Buen tiro. ¡Mi turno!}
-{36060}{}{¡Ay, mi pierna!}
+{36060}{}{¡Ow, mi pierna!}
 {36061}{}{¡Pagarás por eso!}
 {36062}{}{¡Ah! ¡La PIERNA de Kaga!}
 {36070}{}{¡Mi pierna!}
@@ -1657,7 +1657,7 @@
 {44844}{}{¡Yeeeouch! Eso duele!}
 {44845}{}{Eso no ha dolido en absoluto.}
 {44846}{}{¿Dónde hay un estimulante cuando se necesita?}
-{44847}{}{¡En cuanto pueda volver a moverme, te voy a dar lo tuyo!}
+{44847}{}{En cuanto pueda volver a moverme, te voy a dar lo tuyo}
 {44848}{}{¡Soy impermeable al dolor!}
 {44849}{}{¡Te desfiguraré la cara por eso!}
 {44860}{}{Genial. Voy a ser la única Garra mortal con cojera de la manada.}
@@ -1730,7 +1730,7 @@
 {44957}{}{Sólo me estoy afilando las garras.}
 {44958}{}{¡Oh, perdón! ¡Espero que eso no te hiciera falta!}
 {44959}{}{¡Si te dejas caer y te quedas ahí, te dejaré marchar!}
-{44960}{}{Podrías dejar de moverte para que pueda alcanzarte.}
+{44960}{}{¿Podrías dejar de moverte para que pueda darte?}
 {44961}{}{Gafas. Debería buscarme unas gafas.}
 {44962}{}{No te rías. ¡Cuando te golpee, te va a doler, y mucho!}
 {44963}{}{¡Arrg! ¡Grng! ¡Ghrr! Thpt! (palabras de cuatro letras de Garra mortal)}
@@ -1749,4 +1749,4 @@
 {44976}{}{Estoy empezando a pensar que no soy muy bueno en esto.}
 {44977}{}{¡Arrggh! ¡No puedo creer que haya fallado!}
 {44978}{}{¡He golpeado al aire como nadie lo había hecho jamás!}
-{44979}{}{¿¡He fallado o qué!?}
+{44979}{}{¡¿He fallado o qué?!}

@@ -18,7 +18,7 @@
 {113}{}{¡Amén, hermano!}
 {114}{}{Me parece que ya he oído bastante. Adiós.}
 {115}{}{Ve a vender tu locura en otro lugar, compadre... aquí tenemos más que de sobra.}
-{116}{}{¡Sí!}
+{116}{}{¡Sí! }
 {117}{}{¡Es HORA de escuchar el llanto de nuestros parientes del exterior y dejarlos entrar! Tenemos más
  que suficiente para alimentar y albergar a nuestros hermanos... no necesitamos ser ricos cuando hay TANTOS pobres.}
 {118}{}{¡Te escucho!}
@@ -70,7 +70,7 @@
 {151}{}{Cálmate. Ya me marcho.}
 {152}{}{Hmmmmmm. Uno debe cuidarse de las serpientes que se hacen eco de las palabras de la verdad, pero
  la falsedad se refugia dentro de tu corazón.}
-{153}{}{¡Amén, hermano!}
+{153}{}{¡Amén, hermano! }
 {154}{}{Si no va a haber confianza entre nosotros, me iré. Adiós.}
 {155}{}{Eh... claro. Tal vez hablemos más tarde.}
 {156}{}{¡¿Qué?! ¿Cómo OSAS chantajearme, tú... tú... (frunce el ceño)... tienes toda mi atención.}

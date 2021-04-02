@@ -69,7 +69,7 @@
 {168}{}{Intrigante. Te daré 1.000 dólares por sus servicios.}
 {169}{}{Es un trato.}
 {170}{}{No, no puedo hacerle eso a un amigo.}
-{171}{}{Parece que podemos hacer negocios, amigo. Este es el trato: hay un científico chiflado en la ciudad, el doctor Henry. Tiene ciertos papeles que quiero. Pagaré 1.000 dólares por ellos. Oh, y no quiero que se haga daño al doctor Henry. Vivo resulta útil. ¿Te interesa?}
+{171}{}{Parece que podemos hacer negocios, amigo. Este es el trato: hay un científico chiflado en la ciudad, el doctor Henry. Tiene ciertos papeles que quiero. Pagaré $1.000 por ellos. Oh, y no quiero que se haga daño al doctor Henry. Vivo resulta útil. ¿Te interesa?}
 {172}{}{Estoy en ello.}
 {173}{}{Paso, no es mi estilo.}
 {174}{}{Saber cuesta dinero. ¿Hablo claro?}

@@ -7,7 +7,7 @@
 {106}{}{Las normas están en los tablones de mensajes por ahí fuera: nada de armas, nada de bebidas, nada de problemas.}
 {107}{}{¿Qué puedo hacer por ti, extranjero?}
 {108}{}{¿Otra vez tú?}
-{109}{}{Yo entro, ¿sí?}
+{109}{}{Entraré.}
 {110}{}{Me gustaría entrar en RNC.}
 {111}{}{Nada.}
 {112}{}{No vas a ir a ninguna parte hasta que guardes tus armas.}

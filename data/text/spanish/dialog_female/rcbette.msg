@@ -49,7 +49,7 @@
 {147}{}{Hay un montón de mierda en este bar y yo y mis mineros de la Morningstar vamos a sacarla
  a la calle. La mierda más grande incluso tiene nombre: Caminetto.}
 {148}{}{¿Por qué? ¿Cómo empezó?}
-{149}{}{Ya veo. Bien, no os lo permitiré. Tenéis que separaros ¡ya!}
+{149}{}{Ya veo. Bien, no lo permitiré. Tenéis que separaros ya.}
 {150}{}{Mira a esos penosos pichaflojas. ¿Quién no querría machacarlos?}
 {151}{}{Eso no basta. No puedo permitiros pelear.}
 {152}{}{Bueno, parece un problema, de acuerdo. No te culpo. Buena suerte.}

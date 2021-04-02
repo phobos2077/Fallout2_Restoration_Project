@@ -23,7 +23,7 @@
 {122}{}{¿Puedo ayudarle, capitán?}
 {123}{}{¿Puedo ayudarte, Ciudadana?}
 {124}{}{¿Sí, qué pasa?}
-{125}{}{¿yo ayudo tuuuuu?}
+{125}{}{¿Phuedo aiuarteeeee?}
 {126}{}{Dejas de balbucear}
 {127}{}{¿Qué lugar es éste?}
 {128}{}{¿Puedo ver lo que tienes a la venta?}
