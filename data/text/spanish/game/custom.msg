@@ -2,7 +2,7 @@
 {1}{}{Correr}
 {2}{}{Pref. de armas}
 {3}{}{Distancia}
-{4}{}{¿Atacar a?}
+{4}{}{A quien atacar}
 {5}{}{Drogas}
 {10}{}{Hecho}
 {11}{}{Cancelar}

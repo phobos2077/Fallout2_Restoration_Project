@@ -19,7 +19,7 @@
 {119}{}{Educado}
 {120}{}{Sanador}
 {121}{}{Buscador de fortuna}
-{122}{}{Mejores críticos}
+{122}{}{Mejores Críticos}
 {123}{}{Empatía}
 {124}{}{Asesino}
 {125}{}{Francotirador}
@@ -44,7 +44,7 @@
 {144}{}{Pionero}
 {145}{}{Animal amigo}
 {146}{}{Rastreador}
-{147}{}{Forastero Misterioso}
+{147}{}{Extraño Misterioso}
 {148}{}{Ranger}
 {149}{}{Bolsillos rápidos}
 {150}{}{Charlatán}

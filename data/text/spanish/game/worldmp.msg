@@ -17,7 +17,7 @@
 {251}{}{Sala}
 {252}{}{Almacén de Agua}
 {260}{}{Entrada}
-{261}{}{Centro Ciudad}
+{261}{}{Centro de la ciudad}
 {262}{}{Alturas}
 {263}{}{Ciudad Vieja}
 {264}{}{Mercaderes}
@@ -35,7 +35,7 @@
 {290}{}{Crater}
 {291}{}{Nivel 1}
 {300}{}{Adytum}
-{301}{}{Centro Ciudad}
+{301}{}{Centro de la ciudad}
 {302}{}{Libreria}
 {303}{}{Fortaleza}
 {304}{}{Almacen}

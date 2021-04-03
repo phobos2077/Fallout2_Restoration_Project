@@ -6,7 +6,7 @@
 {210}{}{Zona Oeste}
 {211}{}{Zona Este}
 {212}{}{Barrio Residencial}
-{220}{}{Centro Ciudad}
+{220}{}{Centro de la ciudad}
 {221}{}{Barrio de los tramperos}
 {222}{}{Cuevas de las ratas}
 {223}{}{Tierras de caza}
@@ -26,7 +26,7 @@
 {251}{}{Central nuclear}
 {252}{}{Chatarreria}
 {253}{}{Tuneles de acceso}
-{260}{}{Centro Ciudad}
+{260}{}{Centro de la ciudad}
 {261}{}{Zona residencial}
 {270}{}{Calle Virgin}
 {271}{}{Calle Segunda}
@@ -47,7 +47,7 @@
 {294}{}{Entrada Este}
 {300}{}{Bazar}
 {301}{}{Consejo 2}
-{302}{}{Centro Ciudad}
+{302}{}{Centro de la ciudad}
 {303}{}{Salon del Consejo}
 {304}{}{Rancho Westin}
 {305}{}{Pastos Comunales}
@@ -58,7 +58,7 @@
 {322}{}{Nivel 2}
 {323}{}{Nivel 3}
 {324}{}{Nivel 4}
-{330}{}{Centro Ciudad}
+{330}{}{Centro de la ciudad}
 {331}{}{Gran mina Wanamingo}
 {332}{}{Mina Wanamingo}
 {333}{}{Campamento minero}

@@ -434,12 +434,12 @@
 {22201}{}{Un dispositivo electrónico de transmisión, con un simple y gran interruptor. Parece que se creó recientemente y se diseñó para manos muy grandes.}
 {22300}{}{Pase amarillo}
 {22301}{}{Una tarjeta electrónica de seguridad, codificada en color amarillo.}
-{22400}{}{Figurilla}
+{22400}{}{Pequeña Estatuilla}
 {22401}{}{Crees que pueda ser una escultura de "Pip Boy", pero no puedes asegurarlo.}
 {22500}{}{Revista 'La Garra de la Gata'}
 {22501}{}{Un número de la revista 'La Garra de la Gata'.}
 {22600}{}{Caja de fideos}
-{22601}{}{No tienes ni idea de lo que significa "Espaguettis instantáneos".}
+{22601}{}{No tienes ni idea de lo que significa "Espaguetis instantáneos".}
 {22700}{}{Pequeña caja polvorienta de algo}
 {22701}{}{No estás seguro, pero seguramente no es comestible. No estás totalmente seguro de si alguna vez lo fue.}
 {22800}{}{Manual técnico}

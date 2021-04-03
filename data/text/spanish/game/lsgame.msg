@@ -1,20 +1,20 @@
-{100}{}{CARGAR JUEGO}
-{101}{}{ELIGE UNA RANURA DE CARGADO RAPIDO}
-{102}{}{GUARDAR JUEGO}
-{103}{}{ELIGE UNA RANURA DE GUARDADO RAPIDO}
+{100}{}{CARGAR PARTIDA}
+{101}{}{ELIGE UNA RANURA DE CARGADO RÁPIDO}
+{102}{}{GUARDAR PARTIDA}
+{103}{}{ELIGE UNA RANURA DE GUARDADO RÁPIDO}
 {104}{}{HECHO}
 {105}{}{CANCELAR}
-{106}{}{¡Error cargando la lista de salvados!}
-{107}{}{El directorio de salvados:}
+{106}{}{Error al cargar lista de partidas guardadas!}
+{107}{}{Directorio de partidas guardadas:}
 {108}{}{No existe o está corrupto.}
-{109}{}{GUARDAR JUEGO}
-{110}{}{CARGAR JUEGO}
-{111}{}{-VACIO-}
+{109}{}{GUARDAR PARTIDA}
+{110}{}{CARGAR PARTIDA}
+{111}{}{- VACÍO -}
 {112}{}{-ARCHIVO CORRUPTO-}
-{113}{}{-VERSION VIEJA-}
+{113}{}{- VERSIÓN ANTIGUA -}
 {114}{}{Vacío.}
 {115}{}{¡Error!}
-{116}{}{Versión vieja.}
+{116}{}{Version antigua.}
 {117}{}{ENE}
 {118}{}{FEB}
 {119}{}{MAR}
@@ -30,13 +30,13 @@
 {129}{}{Nivel}
 {130}{}{DESCRIPCION}
 {131}{}{El archivo ya existe, ¿sobreescribir?}
-{132}{}{¡Error guardando el juego!}
-{133}{}{Imposible guardar juego.}
-{134}{}{¡Error cargando el juego!!}
-{135}{}{Imposible cargar juego.}
-{136}{}{El save es de una versión anterior.}
+{132}{}{¡Error al guardar partida!}
+{133}{}{Imposible guardar partida.}
+{134}{}{¡Error al cargar partida!}
+{135}{}{Imposible cargar partida.}
+{136}{}{El archivo de la partida guardada es de una versión antigua.}
 {137}{}{Mapa}
-{140}{}{Juego guardado.}
-{141}{}{Juego cargado.}
+{140}{}{Partida guardada.}
+{141}{}{Partida cargada.}
 {200}{}{Sorry you can't save or load}
 {201}{}{in the demo version.}

@@ -729,7 +729,7 @@
 {829}{}{Figura con toga}
 {830}{}{Comprador de ganado}
 {831}{}{Map Script}
-{832}{}{Forastero Misterioso}
+{832}{}{Extraño Misterioso}
 {833}{}{Brahmin loco}
 {834}{}{Miembro de Yakuza}
 {835}{}{Salvaje}

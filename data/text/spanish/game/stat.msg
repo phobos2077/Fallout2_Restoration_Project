@@ -14,7 +14,7 @@
 {113}{}{Capacidad de reacción}
 {114}{}{Ritmo de curación}
 {115}{}{Posibilidad de críticos}
-{116}{}{Mejores críticos}
+{116}{}{Mejores Críticos}
 {117}{}{Umbral de daño}
 {118}{}{Umbral de daño por láser}
 {119}{}{Umbral de daño por fuego}
@@ -52,7 +52,7 @@
 {213}{}{Determina como de rápido puede reaccionar tu personaje durante un turno de combate.}
 {214}{}{Al final del día, tu personaje curará 1 Punto de Salud por cada punto de Ritmo de curación. Si descansas, te curarás cada 6 horas.}
 {215}{}{La posibilidad de causar daño critico en combate se incrementa por esta cantidad.}
-{216}{}{Mejores críticos}
+{216}{}{Mejores Críticos}
 {217}{}{Umbral de daño}
 {218}{}{Umbral de daño por láser}
 {219}{}{Umbral de daño por fuego}

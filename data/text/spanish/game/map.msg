@@ -40,8 +40,8 @@
 {139}{}{Eje}
 {140}{}{Eje}
 {141}{}{Eje}
-{142}{}{El Ardor}
-{143}{}{El Ardor}
+{142}{}{Ardor}
+{143}{}{Ardor}
 {144}{}{Cementerio}
 {145}{}{Cementerio}
 {146}{}{Cementerio}
@@ -95,9 +95,9 @@
 {224}{}{Zona residencial}
 {225}{}{}
 {226}{}{}
-{227}{}{Centro Ciudad}
-{228}{}{Centro Ciudad}
-{229}{}{Centro Ciudad}
+{227}{}{Centro de la ciudad}
+{228}{}{Centro de la ciudad}
+{229}{}{Centro de la ciudad}
 {230}{}{Barrio de los tramperos}
 {231}{}{Barrio de los tramperos}
 {232}{}{}
@@ -116,7 +116,7 @@
 {245}{}{Patio}
 {246}{}{}
 {247}{}{}
-{248}{}{Centro Ciudad}
+{248}{}{Centro de la ciudad}
 {249}{}{}
 {250}{}{}
 {251}{}{Área del Consejo}
@@ -194,7 +194,7 @@
 {323}{}{Caverna}
 {324}{}{}
 {325}{}{}
-{326}{}{Centro Ciudad}
+{326}{}{Centro de la ciudad}
 {327}{}{}
 {328}{}{}
 {329}{}{Salon del Consejo}
@@ -260,9 +260,9 @@
 {389}{}{Mina: Nivel 1}
 {390}{}{Mina: Nivel 2}
 {391}{}{}
-{392}{}{Centro Ciudad}
-{393}{}{Centro Ciudad}
-{394}{}{Centro Ciudad}
+{392}{}{Centro de la ciudad}
+{393}{}{Centro de la ciudad}
+{394}{}{Centro de la ciudad}
 {395}{}{Campamento minero}
 {396}{}{Campamento minero}
 {397}{}{Campamento minero}
@@ -302,7 +302,7 @@
 {431}{}{Costa}
 {432}{}{Costa}
 {433}{}{Costa}
-{434}{}{Centro Ciudad}
+{434}{}{Centro de la ciudad}
 {435}{}{Sótano}
 {436}{}{Sin uso}
 {437}{}{Zona residencial}

@@ -284,8 +284,8 @@
 {26700}{}{Hombre del Refugio 13}
 {26800}{}{Mujer del Refugio 13}
 {26900}{}{Guardián del puente}
-{27000}{}{Forastero Misterioso}
-{27100}{}{Forastero Misterioso}
+{27000}{}{Extraño Misterioso}
+{27100}{}{Extraño Misterioso}
 {27200}{}{Hakeswill}
 {27300}{}{Gran Jesús Mordino}
 {27400}{}{Dumar}
@@ -294,14 +294,14 @@
 {27700}{}{Lo Pan}
 {27800}{}{Hubologista}
 {27900}{}{Hubologista}
-{28000}{}{Forastero Misterioso}
-{28100}{}{Forastero Misterioso}
-{28200}{}{Forastero Misterioso}
-{28300}{}{Forastero Misterioso}
-{28400}{}{Forastero Misterioso}
-{28500}{}{Forastero Misterioso}
-{28600}{}{Forastero Misterioso}
-{28700}{}{Forastero Misterioso}
+{28000}{}{Extraño Misterioso}
+{28100}{}{Extraño Misterioso}
+{28200}{}{Extraño Misterioso}
+{28300}{}{Extraño Misterioso}
+{28400}{}{Extraño Misterioso}
+{28500}{}{Extraño Misterioso}
+{28600}{}{Extraño Misterioso}
+{28700}{}{Extraño Misterioso}
 {28800}{}{Guardaespaldas del Presidente}
 {28900}{}{Huevo Garra mortal}
 {29000}{}{Metzger}

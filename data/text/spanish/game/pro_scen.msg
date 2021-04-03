@@ -13,19 +13,19 @@
 {700}{}{Montón de llantas}
 {701}{}{Un montón de viejas llantas de caucho. Están vulcanizadas y endurecidas, probablemente por el calor.}
 {800}{}{Puerta de seguridad}
-{801}{}{Esta puerta parece muy segura. Suministra protección contra elementos del mundo exterior y criaturas peligrosas.}
+{801}{}{Esta puerta parece muy segura. Proporciona protección contra elementos del mundo exterior y criaturas peligrosas.}
 {900}{}{Computadora}
 {901}{}{Una terminal de computadora, conectada a la computadora central.}
 {1000}{}{Columna}
-{1001}{}{Una columna de soporte, suministra alivio estructural al complejo entero.}
+{1001}{}{Una columna de soporte, proporciona alivio estructural a todo el complejo.}
 {1100}{}{Computadora}
 {1101}{}{Una terminal de computadora, conectada a la computadora central.}
 {1200}{}{Computadora}
 {1201}{}{Una terminal de computadora, conectada a la computadora central.}
 {1300}{}{Monitor}
-{1301}{}{Un monitor de pantalla verde, mostrando diversos bits de datos. Algunos bytes aparecen de cuando en cuando.}
+{1301}{}{Un monitor de pantalla verde mostrando diversos bits de datos. Algunos bytes aparecen de vez en cuando.}
 {1400}{}{Monitor}
-{1401}{}{Un monitor de pantalla verde, mostrando diversos bits de datos.}
+{1401}{}{Un monitor de pantalla verde mostrando diversos bits de datos.}
 {1500}{}{Holo-generador}
 {1501}{}{Un reproductor de cintas THT de entretenimiento a gran escala. No se ha rodado ninguna película nueva en 80 años.}
 {1600}{}{Pantallas}

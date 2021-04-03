@@ -77,7 +77,7 @@
 {1076}{}{El hueso, es muy blanco... el dolor, tan grande...}
 {1077}{}{Sangre... por todas partes.}
 {1078}{}{Me han desgarrado la pierna.}
-{1079}{}{Esta es de las malas. oh Dios, ¿porque yo?}
+{1079}{}{Esta es de las malas. oh Dios, ¿por qué yo?}
 {1080}{}{¡¡Ay!! ¡Mis ojos!}
 {1081}{}{¡Mi cara! ¡Mis ojos! ¡Aaaaaarrgghh!}
 {1082}{}{¡Mis ojos!}
@@ -3509,7 +3509,7 @@
 {44968}{}{Deberías agradecer que tu madre no te vea haciendo esto.}
 {44969}{}{Realmente deberías considerar el practicar más.}
 {44970}{}{Qué vergüenza. Por favor, no le digas a nadie lo lamentable que eres.}
-{44971}{}{Así que te has entrenado para fallar.}
+{44971}{}{¿Así que te has entrenado para fallar?}
 {44972}{}{¿Estas cosas no te cabrean?}
 {44973}{}{No llores. Quizá tengas más suerte la próxima vez.}
 {44974}{}{Bravo, Grace. ¿Y si pruebas de nuevo?}

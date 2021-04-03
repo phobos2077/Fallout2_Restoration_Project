@@ -9,7 +9,7 @@
 {200}{}{MÁS}
 {201}{}{VOLVER}
 {202}{}{ESTADO}
-{203}{}{No hay tareas disponibles.}
+{203}{}{No hay tareas actuales.}
 {204}{}{PISTAS}
 {205}{}{AUTOMAPAS}
 {206}{}{ARCHIVOS DE VÍDEO}
@@ -22,7 +22,7 @@
 {213}{}{Página}
 {214}{}{HECHO}
 {215}{}{¡No puedes descansar aquí!}
-{300}{}{ALARMA-DESPERTADOR}
+{300}{}{DESPERTADOR}
 {301}{}{Puntos de Salud}
 {302}{}{Descansar 10 minutos}
 {303}{}{Descansar 30 minutos}
@@ -80,8 +80,8 @@
 {601}{}{Pistas}
 {602}{}{Automapas}
 {603}{}{Archivos}
-{604}{}{Alarma Reloj}
-{605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
+{604}{}{Despertador}
+{605}{}{Du da du da dum di di dudli du dum dum dum du da du da du da du da du da du da du}
 {606}{}{Bienvenido al RobCo Pip-Boy 2000.}
 {607}{}{Hasta la vista.}
 {608}{}{Despierta.}
@@ -102,33 +102,33 @@
 {732}{}{Matar a Killian.}
 {733}{}{Rescatar a Sinthia.}
 {734}{}{Salvar a Trish.}
-{735}{}{Parar a Gizmo.}
-{736}{}{Arrestar a la banda Calavera.}
+{735}{}{Detener a Gizmo.}
+{736}{}{Acabar con la banda Kalavera.}
 {740}{}{Raiders}
 {750}{}{Necrópolis}
 {751}{}{Destruir a los Super Mutantes en el Watershed.}
 {752}{}{Fijar la bomba de agua de Necrópolis.}
 {760}{}{Eje}
 {761}{}{Destruir las Garras mortales.}
-{762}{}{Eliminar a Jain.}
+{762}{}{Deshacerse de Jain.}
 {763}{}{Eliminar al comerciante.}
-{764}{}{Encontrar las caravanas perdidas.}
+{764}{}{Encontrar las caravanas desaparecidas.}
 {765}{}{Robar el collar de los comerciantes.}
 {770}{}{Hermandad}
-{771}{}{Convertirte en INICIADO.}
+{771}{}{Convertirse en un Iniciado.}
 {772}{}{Rescatar al Iniciado de los Hub.}
 {780}{}{Base Militar}
-{790}{}{El Ardor}
+{790}{}{Ardor}
 {791}{}{Desarmar las trampas de la instalación.}
 {792}{}{Encender la energía del Ardor.}
 {800}{}{Cementerio}
-{801}{}{Convertirte en Blade.}
+{801}{}{Convertirse en un Blade.}
 {802}{}{Entregar el collar para Romero.}
-{803}{}{Entregar la mercancía de los Gun Runners.}
+{803}{}{Entregar el paquete de los Gun Runners.}
 {804}{}{Encontrar al niño espía entre los seguidores.}
 {805}{}{Fijar la granja hidropónica en Adytum.}
 {806}{}{Rescatar a Jason Zimmerman.}
-{807}{}{Evitar que los Gangsters ataquen Adytum.}
+{807}{}{Evitar que las Bandas ataquen Adytum.}
 {810}{}{Catedral}
 {1000}{}{REFUGIO 13 HOLO por Ziggy}
 {1001}{}{**END-PAR**}
@@ -910,7 +910,7 @@
 {16051}{}{¡Esclavistas, mutantes no reformados, criminales famo-}
 {16052}{}{sos, y otros indeseables no son bienvenidos!}
 {16053}{}{**END-PAR**}
-{16054}{}{PERO, ¿Y SI TODA MI PUEBLO QUIERE UNIRSE?}
+{16054}{}{PERO, ¿Y SI TODO MI PUEBLO QUIERE UNIRSE?}
 {16055}{}{Dependiendo de donde se sitúe tu ciudad, la RNC acepta}
 {16056}{}{solicitudes de pueblos, ciudades, bases, estados, inclu-}
 {16057}{}{so pequeños reinos, para su anexión por la RNC.}
