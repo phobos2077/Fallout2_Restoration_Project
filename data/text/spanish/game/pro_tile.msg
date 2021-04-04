@@ -487,9 +487,9 @@
 {48700}{}{Suelo de madera}
 {48800}{}{Suelo de madera}
 {48900}{}{Suelo de madera}
-{49000}{}{Tierra}
-{49100}{}{Tierra}
-{49200}{}{Tierra}
+{49000}{}{Basura}
+{49100}{}{Basura}
+{49200}{}{Basura}
 {49300}{}{Tejado}
 {49400}{}{Tejado}
 {49500}{}{Tejado}
@@ -755,16 +755,16 @@
 {75500}{}{Tejado}
 {75600}{}{Tejado}
 {75700}{}{Tejado}
-{75800}{}{Tierra}
-{75900}{}{Tierra}
-{76000}{}{Tierra}
-{76100}{}{Tierra}
-{76200}{}{Tierra}
-{76300}{}{Tierra}
-{76400}{}{Tierra}
-{76500}{}{Tierra}
-{76600}{}{Tierra}
-{76700}{}{Tierra}
+{75800}{}{Basura}
+{75900}{}{Basura}
+{76000}{}{Basura}
+{76100}{}{Basura}
+{76200}{}{Basura}
+{76300}{}{Basura}
+{76400}{}{Basura}
+{76500}{}{Basura}
+{76600}{}{Basura}
+{76700}{}{Basura}
 {76800}{}{}
 {76900}{}{}
 {77000}{}{}

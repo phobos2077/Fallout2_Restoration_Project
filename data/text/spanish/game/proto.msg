@@ -3,7 +3,7 @@
 {101}{}{Metal}
 {102}{}{Plástico}
 {103}{}{Madera}
-{104}{}{Tierra}
+{104}{}{Basura}
 {105}{}{Piedra}
 {106}{}{Cemento}
 {107}{}{Cuero}

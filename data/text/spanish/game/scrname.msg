@@ -1277,7 +1277,7 @@
 {1377}{}{Mina}
 {1378}{}{Tu Ex}
 {1379}{}{Mel}
-{1380}{}{Vent}
+{1380}{}{Ventilación}
 {1381}{}{Kevin}
 {1382}{}{Alarma}
 {1383}{}{Taquilla}

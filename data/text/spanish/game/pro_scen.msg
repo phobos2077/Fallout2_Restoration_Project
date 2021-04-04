@@ -31,19 +31,19 @@
 {1600}{}{Pantallas}
 {1601}{}{Una serie de tres monitores, mostrando diversos bits de datos.}
 {1700}{}{Pantallas}
-{1701}{}{Un conjunto de tres monitores, mostrando diversos bits de datos.}
+{1701}{}{Un conjunto de tres monitores, mostrando diversos bits de datos sobre los alrededores del Refugio.}
 {1800}{}{Puerta}
 {1801}{}{Tras inspeccionarla, sigue siendo una puerta.}
 {1900}{}{Puerta}
 {1901}{}{Tras inspeccionarla, sigue siendo una puerta.}
-{2000}{}{Vent}
+{2000}{}{Ventilación}
 {2001}{}{Un conducto de ventilación. Abastece, procesa y limpia el aire de todo el complejo.}
-{2100}{}{Vent}
+{2100}{}{Ventilación}
 {2101}{}{Un conducto de ventilación. Abastece, procesa y limpia el aire de todo el complejo.}
 {2200}{}{Puerta del Refugio 13}
-{2201}{}{Una puerta pesada, construida para resistir todo tipo de daño y trauma.}
+{2201}{}{Una puerta pesada, construida para sobrevivir a todo tipo de daño y traumas.}
 {2300}{}{Puerta del Refugio 13}
-{2301}{}{Una puerta pesada, construida para resistir todo tipo de daño y trauma.}
+{2301}{}{Una puerta pesada, construida para sobrevivir a todo tipo de daño y traumas.}
 {2400}{}{Pedestal}
 {2401}{}{Un ascensor hidráulico, diseñado para ofrecer apoyo, energía y líneas de comunicación a la plataforma.}
 {2500}{}{Monitor}
@@ -53,19 +53,19 @@
 {2700}{}{Enrejado}
 {2701}{}{Un suelo enrejado.}
 {2800}{}{Tuberías}
-{2801}{}{Algunas tuberías.}
-{2900}{}{Vent}
+{2801}{}{Algunas tuberías. Después de un examen más detenido, siguen siendo tuberías.}
+{2900}{}{Ventilación}
 {2901}{}{Un sistema de ventilación estándar Vault-Tec.}
 {3000}{}{Columna}
-{3001}{}{Un sistema de columna de soporte estándar Vault-Tec.}
+{3001}{}{Un sistema de columnas de soporte estándar Vault-Tec.}
 {3100}{}{Columna}
-{3101}{}{Un sistema de columna de soporte estándar Vault-Tec.}
-{3200}{}{Vent}
+{3101}{}{Un sistema de columnas de soporte estándar Vault-Tec.}
+{3200}{}{Ventilación}
 {3201}{}{Un sistema de ventilación estándar Vault-Tec.}
-{3300}{}{Vent}
+{3300}{}{Ventilación}
 {3301}{}{Un sistema de ventilación estándar Vault-Tec.}
 {3400}{}{Cama}
-{3401}{}{Una cama, ha resultado bastante confortable tras haber dormido en ella.}
+{3401}{}{Una cama, parece muy cómoda si la comparas con los lugares donde has dormido últimamente.}
 {3500}{}{Cama}
 {3501}{}{Una cama común. Parece cómoda.}
 {3600}{}{Cama}
@@ -107,33 +107,33 @@
 {5400}{}{Silla}
 {5401}{}{Es una silla. Por desgracia no tienes tiempo para sentarte y relajarte.}
 {5500}{}{Videopantalla}
-{5501}{}{Esta unidad de videopantalla tiene diversos monitores de computadora y otras pantallas. Parece estar ejecutando muchas tareas.}
+{5501}{}{Esta unidad de videopantalla tiene diversos monitores de computadora y otras pantallas. Parece estar ejecutando muchas, muchas tareas.}
 {5600}{}{Videopantalla}
-{5601}{}{Esta unidad de videopantalla tiene diversos monitores de computadora y otras pantallas. Parece estar ejecutando muchas tareas.}
+{5601}{}{Esta unidad de videopantalla tiene diversos monitores de computadora y otras pantallas. Parece estar ejecutando muchas, muchas tareas.}
 {5700}{}{Silla}
-{5701}{}{Es un sillón. Parece muy confortable.}
+{5701}{}{Es una silla. Parece muy cómoda.}
 {5800}{}{Silla}
-{5801}{}{Es un sillón. Parece muy confortable.}
+{5801}{}{Es una silla. Parece muy cómoda.}
 {5900}{}{Silla}
-{5901}{}{Es un sillón. Parece muy confortable.}
+{5901}{}{Es una silla. Parece muy cómoda.}
 {6000}{}{Silla}
-{6001}{}{Es un sillón. Parece muy confortable.}
+{6001}{}{Es una silla. Parece muy cómoda.}
 {6100}{}{Mesa}
 {6101}{}{Es una mesa. Antes de que las mesas existieran, la gente tenía que poner sus cosas en el suelo.}
 {6200}{}{Mesa}
 {6201}{}{Definitivamente es una mesa.}
-{6300}{}{Planta rodadora.}
-{6301}{}{Es una planta rodadora. Por supuesto, nunca has visto una planta rodadora de verdad y viva antes. Deberías echarle un buen vistazo.}
+{6300}{}{Planta rodadora}
+{6301}{}{Es una planta rodadora. Por supuesto, nunca has visto una planta rodadora en vivo antes. Deberías echarle un buen vistazo.}
 {6400}{}{Cactus}
 {6401}{}{No ves nada especial en este cactus.}
 {6500}{}{Cactus}
 {6501}{}{No ves nada importante en este cactus.}
 {6600}{}{Árbol}
 {6601}{}{Un árbol muerto. Nada crece bien aquí.}
-{6700}{}{Un Hechizo Secreto de Bloqueo.}
+{6700}{}{Un Hexágono Secreto de Bloqueo.}
 {6701}{}{Si estás viendo esto, maldice al diseñador técnico.}
 {6800}{}{Escaleras}
-{6801}{}{Un conjunto de escalones.}
+{6801}{}{Una serie de escaleras.}
 {6900}{}{Estalagmita}
 {6901}{}{Una extensión natural del suelo rocoso.}
 {7000}{}{Estalagmita}
@@ -171,7 +171,7 @@
 {8600}{}{Huesos}
 {8601}{}{Ves los huesos de una gran vaca de dos cabezas.}
 {8700}{}{Puerta}
-{8701}{}{Una entrada de madera. Se abre y se cierra, se abre y se cierra, y...}
+{8701}{}{Una entrada de madera. Se abre, y se cierra, y se abre, se cierra, y...}
 {8800}{}{Puerta}
 {8801}{}{Entrada de madera.}
 {8900}{}{Puerta}
@@ -198,7 +198,7 @@
 {9901}{}{Un artefacto para sentarse muy incómodo que solía ser un sofá.}
 {10000}{}{Sofá}
 {10001}{}{Un artefacto para sentarse muy incómodo que solía ser un sofá.}
-{10100}{}{Llantas}
+{10100}{}{Neumático}
 {10101}{}{Unas viejas llantas de caucho apoyadas en medio de unas hierbas.}
 {10200}{}{Arbusto}
 {10201}{}{Algún tipo de hierba del desierto.}
@@ -209,22 +209,22 @@
 {10500}{}{Arbusto}
 {10501}{}{Algún tipo de hierba del desierto.}
 {10600}{}{Basura}
-{10601}{}{Una oxidada puerta de coche recostada sobre un barril de metal.}
+{10601}{}{Una oxidada puerta de coche recostada sobre un barril de metal. Una gran cantidad de óxido se está produciendo.}
 {10700}{}{Basura}
 {10701}{}{Un inodoro roto, medio sepultado en la arena. La vida es orinar, luego morir.}
 {10800}{}{Hierbas}
-{10801}{}{Algún tipo de maleza del desierto. Si estuvo creciendo en el pasado reciente, ahora no lo hace.}
+{10801}{}{Algún tipo de maleza del desierto. Si estuvo creciendo en el pasado reciente, ya no lo hace.}
 {10900}{}{Basura}
 {10901}{}{Un neumático de coche, sepultado en la arena. Hay algunos trozos de madera amontonados alrededor.}
 {11000}{}{Rocas}
-{11001}{}{Al examinarlas más de cerca, te parece que en realidad pueden ser trozos de madera petrificada.}
-{11100}{}{Tierra}
+{11001}{}{En una inspección más cercana, te parece que en realidad pueden ser trozos de madera petrificada.}
+{11100}{}{Basura}
 {11101}{}{Un pequeño montón de basura, con hierba muerta adherida a él.}
-{11200}{}{Tierra}
+{11200}{}{Basura}
 {11201}{}{Un pequeño montón de basura.}
-{11300}{}{Tierra}
+{11300}{}{Basura}
 {11301}{}{Un pequeño montón de basura.}
-{11400}{}{Tierra}
+{11400}{}{Basura}
 {11401}{}{Un pequeño montón de basura.}
 {11500}{}{Hierbas}
 {11501}{}{Un pequeño montón de basura, con hierba seca adherida a él.}
@@ -234,17 +234,17 @@
 {11701}{}{Algunos trozos rotos de madera.}
 {11800}{}{Basura}
 {11801}{}{Un pequeño montón de chatarra variada.}
-{11900}{}{Tierra}
+{11900}{}{Basura}
 {11901}{}{Un pequeño montón de basura.}
-{12000}{}{Tierra}
+{12000}{}{Basura}
 {12001}{}{Un pequeño montón de basura.}
-{12100}{}{Tierra}
+{12100}{}{Basura}
 {12101}{}{Un pequeño montón de basura.}
-{12200}{}{Tierra}
+{12200}{}{Basura}
 {12201}{}{Un pequeño montón de basura.}
-{12300}{}{Tierra}
+{12300}{}{Basura}
 {12301}{}{Un pequeño montón de basura.}
-{12400}{}{Tierra}
+{12400}{}{Basura}
 {12401}{}{Un pequeño montón de basura.}
 {12500}{}{Hierbas}
 {12501}{}{Maleza común del desierto.}
@@ -268,7 +268,7 @@
 {13800}{}{Alcantarilla}
 {13801}{}{Se escucha el gorgoteo del agua más allá de esta alcantarilla. Por eso apesta tanto.}
 {13900}{}{Escalera}
-{13901}{}{Es una vieja escalera que se tambalea claramente. Parece que apenas soportará tu peso.}
+{13901}{}{Es una vieja escalera destartalada. Parece que apenas soportará tu peso.}
 {14000}{}{Entrada de alcantarilla}
 {14001}{}{Parece un acceso al sistema de alcantarillas.}
 {14100}{}{Fuente de luz}
@@ -279,9 +279,9 @@
 {14400}{}{Tapa}
 {14401}{}{Una pesada tapa de alcantarilla. Parece como si estuviera en buen estado, y ha sido movida recientemente.}
 {14500}{}{Agujero}
-{14501}{}{En esta puerta una explosión ha hecho un gran agujero.}
+{14501}{}{Se ha abierto un gran agujero a través de esta puerta con una explosión.}
 {14600}{}{Agujero}
-{14601}{}{En esta puerta una explosión ha hecho un gran agujero.}
+{14601}{}{Se ha abierto un gran agujero a través de esta puerta con una explosión.}
 {14700}{}{Cristal blindado}
 {14701}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
 {14800}{}{Cristal blindado}
@@ -811,7 +811,7 @@
 {42101}{}{Este puerta conduce al ascensor. Si quieres usar el ascensor, primero debes abrir esta puerta.}
 {42200}{}{Tubería}
 {42201}{}{Una tubería de metal. Los demás detalles no son importantes.}
-{42300}{}{Tierra}
+{42300}{}{Basura}
 {42400}{}{Caja}
 {42500}{}{Caja}
 {42600}{}{Caja}
@@ -1514,13 +1514,13 @@
 {79001}{}{Esos monitores están rotos y no pueden funcionar.}
 {79100}{}{Monitores}
 {79101}{}{Esos monitores están rotos y no pueden funcionar.}
-{79200}{}{Vent}
+{79200}{}{Ventilación}
 {79201}{}{Sale aire muy fresco de este respiradero.}
-{79300}{}{Vent}
+{79300}{}{Ventilación}
 {79301}{}{Apenas llega aire fresco de este respiradero.}
-{79400}{}{Vent}
+{79400}{}{Ventilación}
 {79401}{}{No llega aire fresco de este respiradero.}
-{79500}{}{Vent}
+{79500}{}{Ventilación}
 {79501}{}{Sólo llega un poco de aire fresco de este respiradero.}
 {79600}{}{Mesa}
 {79601}{}{No hay nada inusual en esta mesa, excepto que está rota casi del todo.}
@@ -1552,11 +1552,11 @@
 {80901}{}{Esta silla está inservible.}
 {81000}{}{Silla}
 {81001}{}{Esta silla está inservible.}
-{81100}{}{Vent}
+{81100}{}{Ventilación}
 {81101}{}{Este respiradero está dañado y es irreparable.}
-{81200}{}{Vent}
+{81200}{}{Ventilación}
 {81201}{}{Este respiradero está muy dañado, y no se puede reparar.}
-{81300}{}{Vent}
+{81300}{}{Ventilación}
 {81301}{}{Este respiradero no funciona en absoluto.}
 {81400}{}{Computadora}
 {81401}{}{Esta computadora parece apenas funcional.}
@@ -2040,14 +2040,14 @@
 {117300}{}{Tanques}
 {117400}{}{Tanques}
 {117500}{}{Tanques}
-{117600}{}{Vent}
-{117700}{}{Vent}
+{117600}{}{Ventilación}
+{117700}{}{Ventilación}
 {117800}{}{Cartel}
 {117900}{}{Caballete}
 {118000}{}{Caballete}
 {118100}{}{Caballete}
-{118200}{}{Vent}
-{118300}{}{Vent}
+{118200}{}{Ventilación}
+{118300}{}{Ventilación}
 {118400}{}{Cartel de taller de maquinaria}
 {118500}{}{Cartel de oficina de Gerencia}
 {118600}{}{Cartel de sala de suministros}
@@ -2800,7 +2800,7 @@
 {186901}{}{Una cuerda que conduce a una sobrecarga de la salida de aire.}
 {187000}{}{De Tratamiento De Aire De Ventilación}
 {187001}{}{Una ventilación usada para el filtro de aire subterráneo.}
-{187100}{}{Vent}
+{187100}{}{Ventilación}
 {187101}{}{Una de ventilación se utiliza para purificar el aire.}
 {187200}{}{Brahmán signo}
 {187201}{}{Una señal de dar las instrucciones.}
@@ -2974,9 +2974,9 @@
 {196401}{}{Un antiguo llantas de caucho. Se ha convertido en vulcanizada y endurecido, probablemente debido al calor.}
 {196500}{}{Turbina Grande}
 {196501}{}{Un gran girar la turbina.}
-{196600}{}{Vent}
+{196600}{}{Ventilación}
 {196601}{}{Un conducto de ventilación. Abastece, procesa y limpia el aire de todo el complejo.}
-{196700}{}{Vent}
+{196700}{}{Ventilación}
 {196701}{}{Un conducto de ventilación. Abastece, procesa y limpia el aire de todo el complejo.}
 {196800}{}{Respiradero}
 {196900}{}{Respiradero}
@@ -2989,8 +2989,8 @@
 {197300}{}{Muro}
 {197400}{}{Muro}
 {197500}{}{Revestimiento de madera}
-{197600}{}{Vent}
-{197700}{}{Vent}
+{197600}{}{Ventilación}
+{197700}{}{Ventilación}
 {197800}{}{Pozo}
 {197801}{}{Un típico pozo encontrado en el Yermo.}
 {197900}{}{Escaleras}
@@ -3155,16 +3155,16 @@
 {208100}{}{Imagen}
 {208200}{}{Imagen}
 {208300}{}{Imagen}
-{208400}{}{Vent}
-{208500}{}{Vent}
-{208600}{}{Vent}
-{208700}{}{Vent}
-{208800}{}{Vent}
-{208900}{}{Vent}
+{208400}{}{Ventilación}
+{208500}{}{Ventilación}
+{208600}{}{Ventilación}
+{208700}{}{Ventilación}
+{208800}{}{Ventilación}
+{208900}{}{Ventilación}
 {209000}{}{Revestimiento de madera}
 {209100}{}{Revestimiento de madera}
-{209200}{}{Vent}
-{209300}{}{Vent}
+{209200}{}{Ventilación}
+{209300}{}{Ventilación}
 {209400}{}{Tuberías De Pared}
 {209500}{}{Tuberías De Pared}
 {209600}{}{Tuberías De Pared}
