@@ -291,17 +291,17 @@
 {15000}{}{Cristal blindado}
 {15001}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
 {15100}{}{Puerta}
-{15101}{}{Esta puerta es una pieza constructiva de alta tecnología. Se abre por dilatación a medida que rotan las tres piezas que la forman.}
+{15101}{}{Esta puerta es una pieza de construcción de alta tecnología. Se abre por dilatación a medida que rotan las tres piezas que la forman.}
 {15200}{}{Puerta}
-{15201}{}{Esta puerta es una pieza constructiva de alta tecnología. Se abre por dilatación a medida que rotan las tres piezas que la forman.}
+{15201}{}{Esta puerta es una pieza de construcción de alta tecnología. Se abre por dilatación a medida que rotan las tres piezas que la forman.}
 {15300}{}{Puerta}
-{15301}{}{Esta puerta está marcada con un símbolo de la Hermandad del Acero.}
+{15301}{}{Esta puerta está adornada con el símbolo de la Hermandad del Acero.}
 {15400}{}{Puerta}
-{15401}{}{Esta puerta está marcada con un símbolo de la Hermandad del Acero.}
+{15401}{}{Esta puerta está adornada con el símbolo de la Hermandad del Acero.}
 {15500}{}{Ascensor}
-{15501}{}{Este es el interior del elevador de la Hermandad. ¡Está tan limpio que cruje!}
+{15501}{}{Este es el interior del elevador de la Hermandad. ¡Está absolutamente limpio!}
 {15600}{}{Ascensor}
-{15601}{}{Este es el interior del elevador de la Hermandad. ¡Está tan limpio que cruje!}
+{15601}{}{Este es el interior del elevador de la Hermandad. ¡Está absolutamente limpio!}
 {15700}{}{Marca}
 {15701}{}{Este es el símbolo de la Hermandad del Acero. Esta marca le dice al Yermo que es su territorio, y que hay que marcharse inmediatamente.}
 {15800}{}{Monitor}
@@ -355,13 +355,13 @@
 {18401}{}{El símbolo de la Hermandad. La rueda representa su conocimiento en ingeniería, la espada es su voluntad de defenderse a sí mismos, y las alas son la esperanza de fortalecimiento.}
 {18500}{}{Emblema}
 {18501}{}{El símbolo de la Hermandad. La rueda representa su conocimiento en ingeniería, la espada es su voluntad de defenderse a sí mismos, y las alas son la esperanza de fortalecimiento.}
-{18600}{}{Cartel de 'nivel uno'}
+{18600}{}{Cartel de nivel 'uno'}
 {18601}{}{Crees que debe significar que estás en el nivel uno.}
-{18700}{}{Cartel de 'nivel dos'}
+{18700}{}{Cartel de nivel 'dos'}
 {18701}{}{Estás en el nivel dos.}
-{18800}{}{Cartel de 'nivel tres'}
+{18800}{}{Cartel de nivel 'tres'}
 {18801}{}{Crees que debe significar que estás en el nivel tres.}
-{18900}{}{Cartel de 'nivel cuatro'}
+{18900}{}{Cartel de nivel 'cuatro'}
 {18901}{}{Debes estar en el nivel cuatro.}
 {19000}{}{Litera}
 {19001}{}{Una litera de estilo militar. Parece muy incómoda. También parece que una moneda rebotaría en sus sábanas.}
