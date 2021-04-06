@@ -472,7 +472,7 @@
 {24800}{}{Poste de luz}
 {24801}{}{Esta farola funciona.}
 {24900}{}{Poste de luz}
-{24901}{}{La bombilla de esta farola no se puede reparar.}
+{24901}{}{La bombilla de este poste de luz está destrozada, sin posibilidad de reparación.}
 {25000}{}{Poste de luz}
 {25001}{}{Esta es una farola funcional.}
 {25100}{}{Puerta}
