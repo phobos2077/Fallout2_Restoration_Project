@@ -502,7 +502,7 @@
 {26300}{}{Banco de iglesia}
 {26301}{}{Este banco ha sido abandonado, y muestra signos de desuso.}
 {26400}{}{Banco de iglesia}
-{26401}{}{Un banco de madera que ha sucumbido a los efecto del tiempo y el maltrato.}
+{26401}{}{Un banco de madera que ha sucumbido a los efectos del tiempo y el maltrato.}
 {26500}{}{Expendedora de periódicos}
 {26501}{}{Esta expendedora de periódicos está vacía.}
 {26600}{}{Expendedora de periódicos}
@@ -518,9 +518,9 @@
 {27100}{}{Basura}
 {27101}{}{Un colchón en pésimas condiciones. Ni siquiera las ratas dormirían en él.}
 {27200}{}{Basura}
-{27201}{}{Una cama de matrimonio que parece que ha tenido muchos días mejores que estos.}
+{27201}{}{Una cama de matrimonio que ha tenido días mejores que este.}
 {27300}{}{Basura}
-{27301}{}{Una pila de madera podrida y desgastada. No merece la mena cargarla sobre, bueno, sobre nada.}
+{27301}{}{Una pila de madera podrida y desgastada. No vale su peso en, bueno, en nada.}
 {27400}{}{Basura}
 {27401}{}{Un montón de madera, con algunos inútiles clavos oxidados clavados profundamente.}
 {27500}{}{Cajas}
