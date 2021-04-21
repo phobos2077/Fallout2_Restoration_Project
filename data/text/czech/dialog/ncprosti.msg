@@ -83,7 +83,7 @@
 {257}{}{Ten musí být mùj...}
 {258}{}{::Vzdych::}
 {259}{}{To je ale kus chlapa!}
-{260}{}{{Když se na mì podívá, taju jako sníh.}
+{260}{}{Když se na mì podívá, taju jako sníh.}
 {261}{}{Není tohle náš král ringu...?}
 {262}{}{Má ruce jako dvì dìla.}
 {263}{}{Podívejte! To je }
@@ -113,7 +113,7 @@
 {287}{}{Sákryš!}
 {288}{}{::Píská::}
 {289}{}{To je ale kus chlapa!}
-{290}{}{{Když se na mì podívá, taju jako sníh.}
+{290}{}{Když se na mì podívá, taju jako sníh.}
 {291}{}{Má ruce jako dvì dìla.}
 {292}{}{Ahóóój, }
 {293}{}{Potøebuješ spoleènost, }
@@ -226,7 +226,7 @@
 {400}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {401}{}{Mmm-mmm. Vypadá to, že se blíží období páøení.}
 {402}{}{Potøebuješ pøítelkyni?}
-{403}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{403}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {404}{}{Chceš si trochu užít, otrokáøi?}
 {405}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {406}{}{Miluju kondomy s pøíchutí brahmín.}
@@ -414,7 +414,7 @@
 {588}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {589}{}{Mmm-mmm. Vypadá to, že se blíží období páøení.}
 {590}{}{Nechceš zabít trochu nudy?}
-{591}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{591}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {592}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {593}{}{Miluju kondomy s pøíchutí brahmín.}
 {594}{}{Vyrazíme si spolu?}
@@ -577,7 +577,7 @@
 {751}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {752}{}{Mmm-mmm. Vypadá to, že se blíží období páøení.}
 {753}{}{Nechceš zabít trochu nudy?}
-{754}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{754}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {755}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {756}{}{Miluju kondomy s pøíchutí brahmín.}
 {757}{}{Vyrazíme si spolu?}
@@ -808,7 +808,7 @@
 {982}{}{Promiò, co jsi to øíkal? Mìla jsem moc práce s pozorováním tvýho zadku.}
 {983}{}{Nechceš zabít trochu nudy?}
 {984}{}{Hledáš potìšení?}
-{985}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{985}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {986}{}{Chceš si trochu užít?}
 {987}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {988}{}{SAMOZØEJMÌ, že miluju kondomy s pøíchutí brahmín. Mòam.}
@@ -982,7 +982,7 @@
 {1156}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {1157}{}{Promiò, co jsi to øíkal? Mìla jsem moc práce s pozorováním tvýho zadku.}
 {1158}{}{Nechceš zabít trochu nudy?}
-{1159}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{1159}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {1160}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {1161}{}{Samozøejmì, že miluju kondomy s pøíchutí brahmín. Mòam.}
 {1162}{}{Vyrazíme si spolu?}
@@ -1155,7 +1155,7 @@
 {1329}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {1330}{}{Promiò, øíkal jsi nìco? Mìla jsem moc práce s pozorováním tvýho úžasnýho tìla.}
 {1331}{}{Nechceš zabít trochu nudy?}
-{1332}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{1332}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {1333}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {1334}{}{SAMOZØEJMÌ, že miluju kondomy s pøíchutí brahmín. Mòam.}
 {1335}{}{Vyrazíme si spolu?}

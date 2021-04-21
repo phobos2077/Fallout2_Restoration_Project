@@ -115,12 +115,12 @@
 {400}{}{Hmm... Gdyby Sheng w jakiœ sposób stworzy³ armiê z tych roœlin... To nie wró¿y nic dobrego dla Shi. Mia³em nadziejê, ¿e do tego nie dojdzie. Nie mamy wyboru, musimy upewniæ siê, ¿e Dr. Sheng i jego dzie³a zostan¹ wyeliminowane. Sheng musi ci ufaæ skoro pozwala ci siê do siebie zbli¿yæ, mo¿emy to wykorzystaæ. Jesteœ w stanie to dla nas zrobiæ? Oczywiœcie, zostaniesz sowicie nagrodzony.}
 {401}{}{Bêdzie zabawnie. Ju¿ mo¿esz uznaæ Sheng'a i ca³¹ jego ferajne za zmar³ych.}
 {402}{}{Jakiego rodzaju nagrodê masz na myœli?}
-{403}{}{{Nie jestem zainteresowany. Dr Sheng - twój problem. Ty i ca³a reszta Shi spokojnie mo¿ecie sobie z nim poradziæ.}
+{403}{}{Nie jestem zainteresowany. Dr Sheng - twój problem. Ty i ca³a reszta Shi spokojnie mo¿ecie sobie z nim poradziæ.}
 {410}{}{Shi bêdzie bardzo wdziêczne za tê przys³ugê. Kiedy Dr. Sheng i wszystkie jego stwory zostan¹ zlikwidowane, zg³oœ siê do mnie, a otrzymasz nagrodê.}
 {411}{}{[Zrobione]}
 {420}{}{Wybór nale¿y do ciebie. Mo¿emy daæ ci broñ, niezbêdne zaopatrzenie lub pieniêdze. Po wykonaniu zadania, pozwolê ci wybraæ nagrodê.}
 {421}{}{Dobra, zrobiê to.}
-{422}{}{{Nie jestem zainteresowany. Dr Sheng - twój problem. Ty i ca³a reszta Shi spokojnie mo¿ecie sobie z nim poradziæ.}
+{422}{}{Nie jestem zainteresowany. Dr Sheng - twój problem. Ty i ca³a reszta Shi spokojnie mo¿ecie sobie z nim poradziæ.}
 {423}{}{Dobrze. Zrobiê to. Zanim jednak pójdê, Dr. Sheng chcia³ abym dostarczy³ dla ciebie tê próbkê. Powiedzia³, ¿e pomo¿e wam ona stworzyæ roœline odporn¹ na promieniowanie.}
 {430}{}{S³usznie. Sami zajmiemy siê swoimi problemami, niestety to bêdzie musia³o poczekaæ, nie mamy wystarczaj¹cych œrodków, aby wyruszyæ w tej chwili. Mam nadziejê, ¿e gdy bêdziemy ju¿ gotowi, nie bêdzie dla nas za póŸno. Jeœli do tego czasu zmienisz zdanie, proszê, daj mi znaæ.}
 {431}{}{Nie licz na to. Czeœæ.}

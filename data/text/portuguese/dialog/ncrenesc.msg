@@ -109,9 +109,7 @@ outros lugares, e ferindo as pessoas lá. Isso não lhe preocupa?}
 tentando reconstruir. Vender Jet parece… contra-produtivo a essa 
 reconstrução.}
 {378}{}{Bem, Seja o que for. Eu preciso ir agora.}
-{385}{}{Assim. De que maneira. Ninguém esta FORÇANDO esses idiotas a inalar 
-Jet. Ninguém esta indo por aí e enfiando isso goela abaixo!
-{386}
+{385}{}{Assim. De que maneira. Ninguém esta FORÇANDO esses idiotas a inalar Jet. Ninguém esta indo por aí e enfiando isso goela abaixo!}
 {386}{}{Can I see -}
 {387}{}{Mas não -}
 {388}{}{Esse é seu -}

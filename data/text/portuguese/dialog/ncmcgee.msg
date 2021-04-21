@@ -18,8 +18,7 @@
 {227}{}{Tá querendo sentir meu punho, piranha?}
 {228}{}{Gonna smack you up, girlie.}
 {235}{}{Máquina mardita, sua merda de brahmin!}
-{236}{}{Raider-de-um-braço-só desgraçado! Pague o velho McGee!
-{237}
+{236}{}{Raider-de-um-braço-só desgraçado! Pague o velho McGee!}
 {237}{}{Stop holdin out on ol' McGee, darling...}
 {238}{}{Casa contra eu de novo!}
 {239}{}{Vamo lá, garota, seja boazinha com o McGee agora...}

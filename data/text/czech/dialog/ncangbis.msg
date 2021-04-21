@@ -38,7 +38,7 @@
 {271}{}{Já jít.}
 {272}{}{Já rád hrát. Ale jen já hrát s já.}
 {280}{}{Exactly...}
-{281}{}{{[Jít za ní]}
+{281}{}{[Jít za ní]}
 {290}{}{Ale no ták! Prosííím? Hroznì moc ti chci ukázat svùj pokoj. Zabere to jenom chvilièku, slibuju.}
 {291}{}{Ne jít! Já ne jít! Ty ne donutit já jít! Ty vzít já na špatná místo! Ne!}
 {292}{}{Jasòaèka. Já ne chtít ty smutná. Já jít.}

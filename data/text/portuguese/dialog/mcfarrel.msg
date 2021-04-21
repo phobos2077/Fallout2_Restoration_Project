@@ -30,8 +30,7 @@
 {180}{}{Você espera que eu acredite nisso?}
 {181}{}{Não, mas como eu sei que eu não peguei nada, essa é a única teoria que eu consegui formular.}
 {182}{}{Posso fazer mais algumas perguntas?}
-{183}{}{HA! Se você acha que eu sou tão culpado porque você não atira logo em mim e acaba de uma vez com isso? Seu verme, venha me pegar!
-{184}
+{183}{}{HA! Se você acha que eu sou tão culpado porque você não atira logo em mim e acaba de uma vez com isso? Seu verme, venha me pegar!}
 {184}{}{How did you find it? I hid that safe so nobody would be able to find it. You must be a
  professional thief. Hmm... where were you when the gold watch disappeared? I think you'd better leave,
  and nothing better be missing from the safe or I'll have Sheriff Jo on ya. Now get out!}

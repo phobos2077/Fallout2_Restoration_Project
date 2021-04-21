@@ -36,20 +36,12 @@
 {181}{}{Interessante.}
 {190}{}{Chega de conversa fiada. Agora vamos sair daqui. Acho que se nos juntarmos podemos sair daqui tranquilos.
  Eu preciso de uma mão.}
-{191}{}{Ok. Pode vir comigo. Eu vou te tirar daqui e levar de volta para Klamath. Acho que a Ardin ficará feliz 
- em vê-lo de novo.
- 
-# Well, OK. But I don't want you whining for help all the time.
-{192}
+{191}{}{Ok. Pode vir comigo. Eu vou te tirar daqui e levar de volta para Klamath. Acho que a Ardin ficará feliz  em vê-lo de novo.}
 {192}{}{Well, OK. But I don't want you whining for help all the time.}
 {200}{}{Essas cavernas parecem um depósito da época pre-guerra. Deve ter mais no subsolo, mas tem uma bugiganga
 tecnologica trancando a porta. De qualquer forma, eu já estou de saco cheio. Vamos cair fora daqui.}
 {201}{}{OK.}
-{210}{}{Ufa. Dessa vez eu fiquei no bico do corvo. Por que você não passa na Buckner depois para receber 
-uma recompensa por me salvar?
-
-# Thanks, Smiley. I was happy to do it. Goodbye.
-{211}
+{210}{}{Ufa. Dessa vez eu fiquei no bico do corvo. Por que você não passa na Buckner depois para receber uma recompensa por me salvar?}
 {211}{}{Thanks, Smiley. I was happy to do it. Goodbye.}
 {212}{}{Ok, tanto faz. Adeus.}
 {213}{}{Finalmente você mencionou uma recompensa. Espero que seja boa. Adeus.}

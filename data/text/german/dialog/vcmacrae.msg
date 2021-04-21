@@ -7,8 +7,7 @@
 {106}{}{Irgendetwas interessantes passiert?}
 {107}{}{Ug Nog}
 {108}{}{Heute nichts, danke.}
-{109}{}{Vault? Die einzige Vault die ich kenn ist in der Stadt. Verdammt großes Teil, kannste kaum verfehlen.)
-{110}
+{109}{}{Vault? Die einzige Vault die ich kenn ist in der Stadt. Verdammt großes Teil, kannste kaum verfehlen.}
 {110}{}{Was hast du für Drinks auf Lager?}
 {111}{}{Irgendetwas interessantes passiert?}
 {112}{}{Danke für die Beschreibung. Tschüss.}

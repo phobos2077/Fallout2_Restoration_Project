@@ -29,7 +29,7 @@
 {246}{}{Ještì jednoho herce a asi vrhnu.}
 {247}{}{Bejt rozkuøovaèka není žádná sranda.}
 {248}{}{Slyšela jsem, že to mezi rodinama zaèíná bejt dost na nože.}
-{249}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{249}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {250}{}{Pøála bych si, aby mi Bratøi dali nìjakou roli ve filmu.}
 {251}{}{Nechápu, co na NÍ Korsický bratøi vidí...}
 {255}{}{Ach bože... to je on. }
@@ -72,7 +72,7 @@
 {325}{}{Ještì jednoho herce a asi vrhnu.}
 {326}{}{Bejt rozkuøovaèka není žádná sranda.}
 {327}{}{Slyšela jsem, že to mezi rodinama zaèíná bejt dost na nože.}
-{328}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{328}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {329}{}{Ten chlápek s kostí v nose je docela roztomilej. Takovým zvláštním perverzním zpùsobem.}
 {330}{}{Co je to za chlápka s tou kostí v nose?}
 {331}{}{Mrkejte na toho divocha s kostí v nose. Vypadá, že vydrží dlouho.}
@@ -85,7 +85,7 @@
 {345}{}{Ještì jednoho herce a asi vrhnu.}
 {346}{}{Bejt rozkuøovaèka není žádná sranda.}
 {347}{}{Slyšela jsem, že to mezi rodinama zaèíná bejt dost na nože.}
-{348}{}{{Minulej tejden jsem nakopala Julese do koulí.}
+{348}{}{Minulej tejden jsem nakopala Julese do koulí.}
 {349}{}{Pøála bych si, aby mi Bratøi dali nìjakou roli ve filmu.}
 {350}{}{No skvìlý, DALŠÍ rozkuøovaèka. Podle toho jak vypadá, bude urèitì pracovat za polovièní cenu.}
 {351}{}{::Zírá na tebe::}

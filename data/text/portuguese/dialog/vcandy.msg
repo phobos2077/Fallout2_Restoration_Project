@@ -27,13 +27,13 @@
 {126}{}{Isso é bem alto. Que tal }
 {127}{}{?}
 {128}{}{De nada. E quanto aos meus amigos?}
-{129}{}{{De nada. E quanto aos meus amigos??}
+{129}{}{De nada. E quanto aos meus amigos?}
 {130}{}{O que é este lugar?}
 {131}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
 {132}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
 {133}{}{Não, valeu. Talvez outra hora.}
 {134}{}{Well... all right. That sounds fair.}
-{135}{}{{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
+{135}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {136}{}{Apagar-se por 3 segundos}
 {137}{}{Beleza! Sabia que o ol'Doctor não ia me deixar na mão.}
 {138}{}{Eu qué brincá de novo! De novo!}
@@ -78,7 +78,7 @@
 {177}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
 {178}{}{Mudei de idéia. Talvez outra hora.}
 {179}{}{Well... all right. That sounds fair.}
-{180}{}{{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
+{180}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {181}{}{Apagar-se por 3 segundos}
 {182}{}{There, all stitched up! Knew the ol' Doctor still had some life left in 'im.}
 {183}{}{Valeu. Há outra coisa que eu precisava...}
@@ -235,7 +235,7 @@
 {334}{}{Esqueça isso então. Eu volto mais tarde.}
 {335}{}{Esqueça isso. Eu não tenho todo esse dinheiro agora. Eu volto depois.}
 {336}{}{Well... all right. That sounds fair.}
-{337}{}{{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
+{337}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {338}{}{Apagar-se por 3 segundos}
 {339}{}{Aquele seu amiguinho já era. Espero. Foi difícil comprimir todo aquele pus mutado pra fora do osso. De qualquer forma, está pronto.}
 {340}{}{Grato por ter dado um jeito nisso. Tem outra coisa de que eu preciso...}

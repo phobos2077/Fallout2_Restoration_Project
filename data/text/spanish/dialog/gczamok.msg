@@ -15,7 +15,7 @@
 {140}{}{Él es el garante de la iluminación. Él es quien promete Renovación a todos los que le siguen.}
 {141}{}{Bueno, estoy listo para la Renovación. ¿Dónde está?}
 {142}{}{A mí me pareces otro chiflado más. Me largo de aquí.}
-{150}{}{{Bueno, está justo… ¡Oye!, De todos modos, ¿quién eres tú?}
+{150}{}{Bueno, está justo… ¡Oye!, De todos modos, ¿quién eres tú?}
 {151}{}{Sólo soy un trotamundos.}
 {152}{}{Soy el Elegido.}
 {153}{}{Estoy aquí para mi Renovación anual.}
@@ -45,7 +45,7 @@
 {260}{}{Oh, je, je... sí. Lo sabía. Emm, bien, err, ¿he aprobado? }
 {261}{}{Desde luego. Ahora, déjame entrar.}
 {262}{}{No, no lo has hecho, y ahora tengo que informar sobre ti.}
-{270}{}{{Está bien. Puedes entrar.}
+{270}{}{Está bien. Puedes entrar.}
 {271}{}{De acuerdo. Adiós.}
 {280}{}{Tienes el símbolo. Entra.}
 {281}{}{Entro.}

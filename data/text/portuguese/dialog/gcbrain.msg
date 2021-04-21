@@ -132,10 +132,7 @@
  pessoas, mas elas só tentavam me matar. Humanos são muito violentos para sobreviver sob sua própria
  liderança -- mas essa é outra história. O primeiro passo é reparar o reator.}
 {391}{}{Reparar o reator?}
-{400}{}{Sim. Você deve pegar o Hydroelectric Magnetosphere Regulator em Vault City para poder reapara o reator de Gecko. Se não o fizer,
- Vault City vai, sem dúvida, atacar Gecko. É claro, destruindo o reator, eles se destinarão à ruina
- com o passar do tempo.
-{401}
+{400}{}{Sim. Você deve pegar o Hydroelectric Magnetosphere Regulator em Vault City para poder reapara o reator de Gecko. Se não o fizer, Vault City vai, sem dúvida, atacar Gecko. É claro, destruindo o reator, eles se destinarão à ruina com o passar do tempo.}
 {401}{}{Doom themselves? How do you mean?}
 {402}{}{Por que Vault City me daria uma peça da Usina de Gecko??}
 {410}{}{Você tem que mostrá-los que isso os ajuda em seus interesses. Pessoas são fácilmente
