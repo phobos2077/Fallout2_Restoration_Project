@@ -4,7 +4,7 @@
 {103}{}{Desarmado}
 {104}{}{Armas Brancas}
 {105}{}{Arremesso}
-{106}{}{Primeiros Socorros}
+{106}{}{First Aid}
 {107}{}{Medicina}
 {108}{}{Furtividade}
 {109}{}{Arrombamento}

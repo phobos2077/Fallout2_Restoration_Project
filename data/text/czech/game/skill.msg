@@ -4,7 +4,7 @@
 {103}{}{Boj beze zbranì}
 {104}{}{Chladné zbranì}
 {105}{}{Vrhací zbranì}
-{106}{}{První pomoc}
+{106}{}{First Aid}
 {107}{}{Léèení}
 {108}{}{Plížení}
 {109}{}{Páèení zámkù}

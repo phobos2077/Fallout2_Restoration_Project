@@ -4,7 +4,7 @@
 {103}{}{Pas d'arme.}
 {104}{}{Armes de Mêlée}
 {105}{}{Projectiles}
-{106}{}{Secourisme}
+{106}{}{First Aid}
 {107}{}{Médecine}
 {108}{}{Esquive}
 {109}{}{Crochetage}

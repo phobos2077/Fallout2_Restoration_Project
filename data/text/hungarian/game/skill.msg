@@ -4,7 +4,7 @@
 {103}{}{Pusztakezes.}
 {104}{}{Közelharc}
 {105}{}{Hajítás}
-{106}{}{Elsõsegély}
+{106}{}{First Aid}
 {107}{}{Orvos}
 {108}{}{Lopózás}
 {109}{}{Zárak}

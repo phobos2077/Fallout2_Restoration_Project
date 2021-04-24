@@ -4,7 +4,7 @@
 {103}{}{Unbewaffnet}
 {104}{}{Nahkampfwaffen}
 {105}{}{Werfen}
-{106}{}{Erste Hilfe}
+{106}{}{First Aid}
 {107}{}{Arzt}
 {108}{}{Schleichen}
 {109}{}{Dietriche}
