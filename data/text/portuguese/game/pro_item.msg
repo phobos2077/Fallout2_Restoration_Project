@@ -189,9 +189,9 @@
 {9500}{}{12 gauge shotgun shell}
 {9501}{}{Munição de espingarda. Esta munição especial indica que: "munição 12, proibido para crianças com idade inferior a 3 anos."}
 {9600}{}{Chave de acesso Vermelho}
-{9601}{}{Uma chave de segurança eletrônica, com código de cores vermelho.}
+{9601}{}{Uma chave eletrônica de segurança, código de cores vermelho.}
 {9700}{}{Chave de acesso Azul}
-{9701}{}{Uma chave de segurança eletrônica, com código de cores azul.}
+{9701}{}{An electronic security key, color coded blue.}
 {9800}{}{Sucata}
 {9801}{}{Uma pilha de peças de sucata. Um pouco de tudo.}
 {9900}{}{Medalhão de ouro}

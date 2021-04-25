@@ -189,9 +189,9 @@
 {9500}{}{Brokové náboje ráže 12}
 {9501}{}{Munice do brokovnice. Toto støelivo je oznaèeno: "broky ráže 12, nevhodné pro dìti do tøí let."}
 {9600}{}{Èervená pøístup. karta}
-{9601}{}{Elektronický bezpeènostní klíè oznaèený èervenou barvou.}
+{9601}{}{Bezpeènostní elektronický klíè oznaèený èervenou barvou.}
 {9700}{}{Modrá pøístupová karta}
-{9701}{}{Elektronický bezpeènostní klíè oznaèený modrou barvou.}
+{9701}{}{An electronic security key, color coded blue.}
 {9800}{}{Haraburdí}
 {9801}{}{Haraburdí. Ode všeho trochu.}
 {9900}{}{Zlatý pøívìsek}

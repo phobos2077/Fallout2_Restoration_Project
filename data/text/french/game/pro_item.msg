@@ -191,7 +191,7 @@
 {9600}{}{Passe rouge}
 {9601}{}{Une clé de sécurité électronique utilisant le code de couleur rouge.}
 {9700}{}{Passe bleu}
-{9701}{}{Une clé de sécurité électronique utilisant le code de couleur bleu.}
+{9701}{}{An electronic security key, color coded blue.}
 {9800}{}{Vieilleries}
 {9801}{}{Une pile de vieilles pièces. Un peu de tout en somme.}
 {9900}{}{Médaillon en or}

@@ -191,7 +191,7 @@
 {9600}{}{Rote Karte}
 {9601}{}{Elektronischer Sicherheitsschlüssel, rote Farbkodierung.}
 {9700}{}{Blaue Karte}
-{9701}{}{Elektronischer Sicherheitsschlüssel, blaue Farbkodierung.}
+{9701}{}{An electronic security key, color coded blue.}
 {9800}{}{Schrott}
 {9801}{}{Ein Haufen Schrott. Ein bisschen was von allem.}
 {9900}{}{Goldmedallion}

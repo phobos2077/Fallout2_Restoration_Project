@@ -189,9 +189,9 @@
 {9500}{}{Cartuchos de escopeta calibre 12}
 {9501}{}{Munición de escopeta. Esta munición en particular indica que es: "munición calibre 12, prohibido su uso a menores de 3 años".}
 {9600}{}{Pase rojo}
-{9601}{}{Una llave electrónica de seguridad, codificada en color rojo.}
+{9601}{}{Una tarjeta de seguridad, codificada en color rojo.}
 {9700}{}{Pase azul}
-{9701}{}{Una llave electrónica de seguridad, codificada en color azul.}
+{9701}{}{An electronic security key, color coded blue.}
 {9800}{}{Basura}
 {9801}{}{Un montón de basura. Hay un poco de todo.}
 {9900}{}{Medallón dorado}

@@ -191,7 +191,7 @@
 {9600}{}{czerwona karta dostêpowa}
 {9601}{}{Elektroniczny klucz kodowy w kolorze czerwonym.}
 {9700}{}{niebieska karta dostêpowa}
-{9701}{}{Elektroniczny klucz kodowy w kolorze niebieskim.}
+{9701}{}{An electronic security key, color coded blue.}
 {9800}{}{œmieci}
 {9801}{}{Kupka starych czêœci. Po trochu wszystkiego.}
 {9900}{}{medalion}

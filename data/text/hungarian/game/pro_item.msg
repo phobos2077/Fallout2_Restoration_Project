@@ -189,9 +189,9 @@
 {9500}{}{Sörétes lõszer}
 {9501}{}{Lõszer sörétes puskához. A lõszeren ez áll: "12-es kaliberû lövedék, 3 éven aluli gyermekek elõl gondosan elzárandó!"}
 {9600}{}{Piros kódkártya}
-{9601}{}{Elektronikus biztonsági kártya, piros színkóddal.}
+{9601}{}{Elektromos biztonsági kártya, vörös színkóddal.}
 {9700}{}{Kék kódkártya}
-{9701}{}{Elektromos biztonsági kártya, kék színkóddal.}
+{9701}{}{An electronic security key, color coded blue.}
 {9800}{}{Szemét}
 {9801}{}{Egy kis limlom. Mindenbõl egy kevés.}
 {9900}{}{Aranymedál}

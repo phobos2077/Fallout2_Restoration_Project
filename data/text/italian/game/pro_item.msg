@@ -191,7 +191,7 @@
 {9600}{}{Tessera magnetica Rossa}
 {9601}{}{Una chiave elettronica di sicurezza, codice colore: rosso.}
 {9700}{}{Tessera magnetica Blu}
-{9701}{}{Una chiave elettronica di sicurezza, codice colore: blu.}
+{9701}{}{An electronic security key, color coded blue.}
 {9800}{}{Rifiuti}
 {9801}{}{Un ammasso di cianfrusaglie. Di tutto un po'.}
 {9900}{}{Medaglione d'Oro}
