@@ -92,14 +92,11 @@ procedure use_obj_on_p_proc begin
          case PID_GIANT_SPORE_PLANT: give_xp(350);
       end
 
-      // doesn't work, engine bug
-      // https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/87
-      // https://github.com/phobos2077/sfall/issues/356
-      // reg_anim_combat_check(0);
-      // reg_anim_clear(self_obj);
-      // reg_anim_begin();
-      //    reg_anim_animate(self_obj,ANIM_fall_back,-1);
-      // reg_anim_end();
+      reg_anim_combat_check(0);
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+         reg_anim_animate(self_obj,ANIM_fall_back,-1);
+      reg_anim_end();
       kill_critter(self_obj, ANIM_melted_to_nothing_sf);
    end
 end
