@@ -160,7 +160,7 @@ procedure map_enter_p_proc begin
       end
    end
 
-   if (not is_loading_game and dealer) then begin
+   if (not is_loading_game and dealer and not self_item_count(PID_DESERT_EAGLE)) then begin
       tmp := create_object(PID_DESERT_EAGLE,5,0);
       add_obj_to_inven(self_obj, tmp);
       wield_obj(tmp);
