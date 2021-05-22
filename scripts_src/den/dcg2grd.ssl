@@ -1,5 +1,5 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+       Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 /*
@@ -108,7 +108,7 @@ procedure timed_event_p_proc begin
          end
       end
    end
-   //end added
+//end added
 end
 
 procedure map_update_p_proc begin
@@ -122,17 +122,17 @@ procedure map_enter_p_proc begin
    //added by killap - expansion
    if (cur_map_index == MAP_DEN_ENTRANCE) then begin
       if (gangwar(state_gangwar_in_fight)) then begin
-         set_obj_visibility(self_obj, true);
+         set_self_invisible;
       end else begin
-         set_obj_visibility(self_obj, false);
+         set_self_visible;
       end
    end else if (cur_map_index == MAP_DEN_BUSINESS and at_party_fight) then begin
-      set_obj_visibility(self_obj, true);
+      set_self_invisible;
    end else begin
       if ((gangwar(state_gangwar_2won)) or (gangwar(state_gangwar_in_fight))) then begin
-         set_obj_visibility(self_obj, false);
+         set_self_visible;
       end else begin
-         set_obj_visibility(self_obj, true);
+         set_self_invisible;
       end
    end
 
@@ -146,7 +146,7 @@ procedure map_enter_p_proc begin
    //end added
 
    if ( (cur_map_index == MAP_DEN_RESIDENTIAL) and (gangwar(state_gangwar_2won)) ) then
-      destroy_object(self_obj);
+   destroy_object(self_obj);
 
    ndebug("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
    ndebug("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
@@ -161,6 +161,8 @@ procedure combat_p_proc begin
 end
 
 procedure critter_p_proc begin
+   if not self_obj then return;
+
    gang_critter_p_proc
 
    //added by killap - expansion
@@ -173,16 +175,16 @@ procedure critter_p_proc begin
    if (lara_dead) then begin
       if (cur_map_index == MAP_DEN_BUSINESS) then begin
          if (gangwar(state_gangwar_in_fight)) then begin
-           if (church_cleared_speech == false) then begin
-             if (global_var(gang_1) <= 4) then begin
-               if (not combat_is_initialized) then begin
-                  terminate_combat;
+            if (church_cleared_speech == false) then begin
+               if (global_var(gang_1) <= 4) then begin
+                  if (not combat_is_initialized) then begin
+                     terminate_combat;
+                  end
+                  start_dialog_at_node(Node011);
                end
-               start_dialog_at_node(Node011);
-             end
-           end else if ( (self_distance_from_dude > 10) and (returned_to_church == false) and (gang_war_dude_stray_message == false) ) then begin
-            start_dialog_at_node(Node015);
-           end
+            end else if ( (self_distance_from_dude > 10) and (returned_to_church == false) and (gang_war_dude_stray_message == false) ) then begin
+               start_dialog_at_node(Node015);
+            end
          end
       end
    end
@@ -225,11 +227,11 @@ procedure talk_p_proc begin
    end else if (gangwar(state_gangwar_in_fight)) then begin
       //added by killap - expansion
       if ( (local_var(LVAR_Attack_Tyler_Wait)) and (lara_dead) ) then begin
-        start_dialog_at_node(Node014);
+         start_dialog_at_node(Node014);
       //end added by killap - expansion
-      end else begin
-        call Node010;
-      end
+   end else begin
+      call Node010;
+   end
    end else if (metzger_dead) then begin
       call Node002;
    end else if (gangwar(state_gangwar_2won)) then begin

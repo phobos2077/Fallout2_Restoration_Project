@@ -136,10 +136,11 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-         //added by killap
+   //added by killap
    variable tmp;
    variable special_item;
    //end added
+   if not self_obj then return;
 
    CHECK_LEVEL
 
@@ -159,7 +160,7 @@ procedure map_enter_p_proc begin
       end
    end
 
-   if (dealer == 1) then begin
+   if (not is_loading_game and dealer) then begin
       tmp := create_object(PID_DESERT_EAGLE,5,0);
       add_obj_to_inven(self_obj, tmp);
       wield_obj(tmp);

@@ -200,17 +200,17 @@ procedure map_enter_p_proc begin
    //added by killap - expansion
    if (cur_map_index == MAP_DEN_ENTRANCE) then begin
       if (gangwar(state_gangwar_in_fight)) then begin
-         set_obj_visibility(self_obj, true);
+         set_self_invisible;
       end else begin
-         set_obj_visibility(self_obj, false);
+         set_self_visible;
       end
    end else if (cur_map_index == MAP_DEN_BUSINESS and at_party_fight) then begin
-      set_obj_visibility(self_obj, true);
+      set_self_invisible;
    end else begin
       if ((gangwar(state_gangwar_2won)) or (gangwar(state_gangwar_in_fight))) then begin
-         set_obj_visibility(self_obj, false);
+         set_self_visible;
       end else begin
-         set_obj_visibility(self_obj, true);
+         set_self_invisible;
       end
    end
 
@@ -235,6 +235,7 @@ procedure combat_p_proc begin
 end
 
 procedure critter_p_proc begin
+   if not self_obj then return;
    gang_critter_p_proc
 
    //display_msg("lara gang count: " + (global_var(GVAR_DEN_GANG_2_COUNT)));
