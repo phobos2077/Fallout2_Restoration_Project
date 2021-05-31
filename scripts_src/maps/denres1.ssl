@@ -1,30 +1,3 @@
-/*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
-*/
-
-/*
-        Name: DenRes1
-        Location: Den
-        Description: Residential area
-
-        Log:
-           Please note any changes that have been made to the file in Updated. Then comment
-           the code which you have changed/altered/commented out. Please, do not delete any
-           code which was written.
-
-           Created: December 04, 1997
-
-           Updated:
-*/
-
-/* Include Files */
-
-/* Note, the Following Lines need to be in this order so that
-   the script will be compilable. The define Name is referenced
-   in a module from define.h and used in command.h. Please do
-   not change the ordering.
-        -rwh2   11/13/97
-*/
 #define SCRIPT_REALNAME "denres1"
 #include "../headers/define.h"
 #include "../headers/denres1.h"
@@ -58,9 +31,6 @@ export variable gang_2_member_2;
 export variable gang_2_member_3;
 export variable gang_2_member_4;
 export variable gang_2_member_5;
-
-
-//variable thugs_on_map_now;
 
 procedure start begin
 end
@@ -98,7 +68,7 @@ procedure map_enter_p_proc begin
          move_to(dude_obj, 19697, (global_var(GVAR_DEN_ORPHANAGE) == 7));
 
          if (lara_dead == false) then begin
-            Critter:=create_object_sid(PID_TOUGH_GUARD_FEMALE,19501,dude_elevation,SCRIPT_DCLARA);
+              Critter:=create_object_sid(PID_TOUGH_GUARD_FEMALE,19501,dude_elevation,SCRIPT_DCLARA);
               set_team(Critter,TEAM_PLAYER);
               item:=create_object(PID_10MM_PISTOL,0,0);
               add_obj_to_inven(Critter,item);
@@ -107,7 +77,7 @@ procedure map_enter_p_proc begin
               add_obj_to_inven(Critter,item);
          end
          if (gang_2_member_2_killed == false) then begin
-            Critter:=create_object_sid(PID_GUN_GUARD_MALE,19301,dude_elevation,SCRIPT_DCG2GRD);
+               Critter:=create_object_sid(PID_GUN_GUARD_MALE,19301,dude_elevation,SCRIPT_DCG2GRD);
                set_team(Critter,TEAM_PLAYER);
                item:=create_object(PID_10MM_PISTOL,0,0);
                add_obj_to_inven(Critter,item);
@@ -116,7 +86,7 @@ procedure map_enter_p_proc begin
                add_obj_to_inven(Critter,item);
          end
          if (gang_2_member_3_killed == false) then begin
-            Critter:=create_object_sid(PID_MELEE_GUARD_MALE,19303,dude_elevation,SCRIPT_DCG2GRD);
+               Critter:=create_object_sid(PID_MELEE_GUARD_MALE,19303,dude_elevation,SCRIPT_DCG2GRD);
                set_team(Critter,TEAM_PLAYER);
                item:=create_object(PID_SLEDGEHAMMER,0,0);
                add_obj_to_inven(Critter,item);
@@ -125,7 +95,7 @@ procedure map_enter_p_proc begin
                add_obj_to_inven(Critter,item);
          end
          if (gang_2_member_4_killed == false) then begin
-            Critter:=create_object_sid(PID_AGILE_GUARD_FEMALE,19504,dude_elevation,SCRIPT_DCG2GRD);
+               Critter:=create_object_sid(PID_AGILE_GUARD_FEMALE,19504,dude_elevation,SCRIPT_DCG2GRD);
                set_team(Critter,TEAM_PLAYER);
                item:=create_object(PID_SPEAR,0,0);
                add_obj_to_inven(Critter,item);
@@ -142,20 +112,8 @@ procedure map_enter_p_proc begin
          place_on_inn(11308, (global_var(GVAR_DEN_ORPHANAGE) == 7), 2);
       end
    end
-      //override_map_start_hex(16260, (global_var(GVAR_DEN_ORPHANAGE) == 7), 3);
-
-
-   //display_msg("elevation: " + dude_elevation);
-  //display_msg("LVar1: " + LVar1);
-   //override_map_start_hex(16260,LVar1,3);
-   //override_map_start_hex(16260, LVar1, 3);
-   //set_map_start(16260, 16260, LVar1, 3);
-
-   //Check_Create_Car(9707, dude_elevation)
-
 
    Lighting;
-   //if (global_var(GVAR_LOAD_MAP_INDEX) != 555) then
       set_global_var(GVAR_LOAD_MAP_INDEX,0);
 end
 
@@ -172,93 +130,4 @@ procedure map_exit_p_proc begin
       set_returned_to_church;
    end
 
-   /*if (gangwar(state_gangwar_in_fight)) then begin
-      if (gang_trap(state_gang_trap_set)) then begin
-         set_gangwar(state_gangwar_1won);
-      end else begin
-         set_gangwar(state_gangwar_2won);
-      end
-   end*/
-
 end
-
-
-/*
-procedure DenPlaceThugs begin
-variable temp_thug;
-variable temp_pid;
-variable rot_arc;
-variable base_tile;
-   ndebug("DenPlaceThugs");
-   rot_arc := random(0,5);
-   if (joey_home_tile != 0) then begin
-      base_tile := joey_home_tile;
-   end else begin
-      base_tile := thug_tile_num;
-   end
-
-   while ((map_var(MVAR_Total_Thugs) < total_max_thugs) and
-         (map_var(MVAR_Thug_Count) < thugs_on_map_now) and
-         (map_var(MVAR_Thug_Count) < max_thugs_at_once)) do begin
-      // generate thug
-      if (map_var(MVAR_Joey_PID) > 0) then begin
-         temp_pid := random(Low_Thug_PID,Max_Thug_PID);
-         if (temp_pid == Joey_PID) then temp_pid -= 2;
-         ndebug("  creating thug: pid/thug_count/total_thug_count == "+temp_pid+"/"+map_var(MVAR_Thug_Count)+"/"+map_var(MVAR_Total_Thugs));
-         temp_thug := create_object_sid(temp_pid, 0, 0, SCRIPT_DCTHUG);
-         critter_attempt_placement(temp_thug, tile_num_in_direction(base_tile,rot_arc,random(2,3)),0);
-         // set the facing direction to temp_rot
-      end else if (map_var(MVAR_Joey_PID) == 0) then begin
-         set_map_var(MVAR_Joey_PID,Joey_PID);
-         temp_pid := Joey_PID;
-         ndebug("  creating joey: pid/thug_count/total_thug_count == "+temp_pid+"/"+map_var(MVAR_Thug_Count)+"/"+map_var(MVAR_Total_Thugs));
-         temp_thug := create_object_sid(temp_pid, base_tile, 0, SCRIPT_DCJOEY);
-         critter_attempt_placement(temp_thug, base_tile, 0);
-      end
-      // thug is armed in the thug script
-      inc_map_var(MVAR_Thug_Count);
-      inc_map_var(MVAR_Total_Thugs);
-      rot_arc += random(1,2);
-      FixRotationArc(rot_arc);
-   end
-end
-
-procedure map_enter_p_proc begin
-   override_map_start_hex(9909,0,2);
-   if ((joey_dead == false) and (is_loading_game == false)) then begin
-      thugs_on_map_now := random(3,max_thugs_at_once);
-      call DenPlaceThugs;
-   end
-   set_map_exit_tiles(7908,0);
-   map_update_guard_proc
-   Lighting;
-
-   if (map_first_run) then begin
-       Create_Car(15654,0)
-   end
-
-   if ((tile_contains_obj_pid(15654,0,PID_DRIVABLE_CAR)) and (is_loading_game==false) and (global_var(GVAR_PLAYER_GOT_CAR) != 0)) then begin
-       Dest_Car(15654,0)
-   end
-end
-
-procedure map_update_p_proc begin
-   Lighting;
-   map_update_guard_proc
-end
-
-procedure map_exit_p_proc begin
-   variable item;
-   if (is_loading_game==false) then begin
-      if (global_var(GVAR_PLAYER_GOT_CAR) != 0) then begin
-         if (tile_contains_obj_pid(15654,0,PID_DRIVABLE_CAR)) then begin
-            item:=tile_contains_pid_obj(15654,0,PID_DRIVABLE_CAR);
-            destroy_object(item);
-         end
-      end
-   end
-end
-
-procedure Initial_Inven begin
-end
-*/
