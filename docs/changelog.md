@@ -28,19 +28,26 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [changelog](rp-changelog.txt)
 
 ### Version 19
-- Cat Jules' Melee and Unarmed skills [properly increase](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/66) when he hits level 5.
-- Lenny will [keep his appearance](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/68) when custom options are used in NPC Armor settings.
-- Sulik will no longer [endlessly complain](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/72) about being poisoned after being hit by poison in EPA.
-- Linux: fixed AmmoMod installation on case sensitive fs.
-- EPA bots will have some [weapons](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/73). Also, they can be disabled with Repair, like Sierra ones.
-- XP rewards for Kaga are [more consistent](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/78). Also, Kaga will wield more appropriate weapons at each level (2: hunting rifle instead of 14mm pistol, 3: assault rifle instead of combat shotgun, 4: super cattle prod instead of laser rifle).
-- PC can get a book from a [shelf in top right corner](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/86) of the 2nd level in Abbey.
-- [EPA plants](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/87)
-  - Will use their special spikes.
-  - PC no longer can (try) to talk to them.
-  - Won't keep combat going when they don't see the enemy.
-  - Using the spray will award the same XP as killing them normally.
-  - All this also applies to plants inside EPA.
+- General
+  - XP rewards for Kaga are [more consistent](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/78). Also, Kaga will wield more appropriate weapons at each level (2: hunting rifle instead of 14mm pistol, 3: assault rifle instead of combat shotgun, 4: super cattle prod instead of laser rifle).
+  - Linux: fixed AmmoMod installation on case sensitive fs.
+- NPC
+  - Cat Jules' Melee and Unarmed skills [properly increase](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/66) when he hits level 5.
+  - Lenny will [keep his appearance](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/68) when custom options are used in NPC Armor settings.
+  - Sulik will no longer [endlessly complain](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/72) about being poisoned after being hit by poison in EPA.
+- Abbey
+  - PC can get a book from a [shelf in top right corner](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/86) of the 2nd level in Abbey.
+- Den
+  - Drug dealer in Residential area will no longer get an extra Desert Eagle each time the map is entered.
+- EPA
+  - EPA bots will have some [weapons](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/73). Also, they can be disabled with Repair, like Sierra ones.
+  - [Plants](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/87)
+    - Will use their special spikes.
+    - PC no longer can (try) to talk to them.
+    - Won't keep combat going when they don't see the enemy.
+    - Using the spray will award the same XP as killing them normally.
+    - All this also applies to plants inside EPA.
+    - Will display dying animation when spray is used on them.
 
 ### Version 18
 Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance) to v2.1, shipping only canon sets by default.
