@@ -494,7 +494,6 @@ will need to be closed, as all traps are set to go off if the door is openned.
       else if (is_critical(Traps_Roll)) then begin // crit fail, explode
         call real_explosion(Explosive);
       end else begin
-        move_to(Explosive, source_tile, self_elevation); // drop
         if (source_obj == dude_obj) then begin
           display_msg(my_mstr(209));
         end
