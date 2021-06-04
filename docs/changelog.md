@@ -5,7 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
-- [Version 19](#version-19)
+- [Version 20](#version-20)
 - [Version 18](#version-18)
 - [Version 17](#version-17)
 - [Version 16](#version-16)
@@ -27,7 +27,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
-### Version 19
+### Version 20
 - General
   - XP rewards for Kaga are [more consistent](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/78). Also, Kaga will wield more appropriate weapons at each level (2: hunting rifle instead of 14mm pistol, 3: assault rifle instead of combat shotgun, 4: super cattle prod instead of laser rifle).
   - Linux: fixed AmmoMod installation on case sensitive fs.
@@ -46,8 +46,8 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
     - PC no longer can (try) to talk to them.
     - Won't keep combat going when they don't see the enemy.
     - Using the spray will award the same XP as killing them normally.
-    - All this also applies to plants inside EPA.
     - Will display dying animation when spray is used on them.
+    - All this also applies to plants inside EPA.
 
 ### Version 18
 Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance) to v2.1, shipping only canon sets by default.
