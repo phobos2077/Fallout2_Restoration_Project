@@ -92,18 +92,15 @@ procedure timed_event_p_proc begin
 
                ((((elevation(repair_bot1) == 1 and self_elevation == 1) or (elevation(repair_bot2) == 1 and self_elevation == 1) or (elevation(repair_bot2) == 1 and self_elevation == 1)) and map_var(MVAR_Security_Level_2) == 1) or ((tile_distance(self_tile,tile_num(repair_bot1)) < 5 and is_visible(repair_bot1) and elevation(repair_bot1) == self_elevation) or (tile_distance(self_tile,tile_num(repair_bot2)) < 5 and is_visible(repair_bot2) and elevation(repair_bot2) == self_elevation) or (tile_distance(self_tile,tile_num(repair_bot3)) < 5 and is_visible(repair_bot3) and elevation(repair_bot3) == self_elevation)))) then begin
                   obj_unlock(self_obj);
-                  //set_local_var(LVAR_Locked, STATE_INACTIVE);
                end else begin
                   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
                      obj_lock(self_obj);
-                     //set_local_var(LVAR_Locked, STATE_ACTIVE);
                   end
                end
             end
          end else begin
             if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
                obj_lock(self_obj);
-               //set_local_var(LVAR_Locked, STATE_ACTIVE);
             end
          end
          add_timer_event(self_obj, 1, CHECK_REPAIR);
