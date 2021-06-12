@@ -5,6 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 21](#version-21)
 - [Version 20](#version-20)
 - [Version 18](#version-18)
 - [Version 17](#version-17)
@@ -26,6 +27,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's RP 2.3.3
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
+
+### Version 21
+Updated sfall to 4.3.0.1.
 
 ### Version 20
 - General
