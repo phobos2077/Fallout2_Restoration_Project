@@ -45,8 +45,7 @@
 {193}{}{Rien. Je dois partir.}
 {195}{}{C'est une vieille langue, d'avant-guerre ou quelque chose comme ça.}
 {196}{}{Metzger signifie boucher. Pas mal, non ?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
+{197}{}{C'était le nom de mon arrière grand-père. Il venait de loin à l'Est. Au-delà d'un large bras de mer.}
 {198}{}{J'ai lu un livre à propos d'un Metzger. Il était président, ou... quelque chose dans le genre...}
 {199}{}{Ben voyons.}
 {200}{}{C'est de l'Allamand, de l'Allemend, de l'Ellemand, ou... dans le genre. Un vieux, très vieux langage.}
@@ -54,8 +53,7 @@
 {202}{}{Je vois. J'ai encore une question, malgré tout.}
 {203}{}{C'est la chose la plus bête que j'aie jamais entendue.}
 {204}{}{C'est fascinant. Je dois partir.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
+{205}{}{Notre mission est de fournir une force de travail solide et de grande qualité pour satisfaire les demandes toujours plus exigeantes des plus grandes cités. Tu veux te joindre à nous ?}
 {206}{}{D'accord. Ca a l'air super.}
 {207}{}{Pas question.}
 {208}{}{J'en reviens à une de mes questions. Quelles villes achètent tes esclaves ?}

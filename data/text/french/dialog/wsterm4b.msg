@@ -53,8 +53,8 @@
                                            Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
 {152}{}{}
 {153}{}{[Quitter]}
-{154}{}{Extraction failed-- local sensor overload.}
-{155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
+{154}{}{Extraction échouée-- surcharge locale du capteur.}
+{155}{}{Extraction échouée-- impossible d'initialiser la procédure avec la physiologie du sujet.}
 {170}{}{Human }
 {171}{}{Canine }
 {172}{}{Feline }

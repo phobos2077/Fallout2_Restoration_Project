@@ -114,6 +114,6 @@
 {1700}{}{}
 {1800}{}{Non, non, mon coeur. J'ai besoin de rester près de toi.}
 {1900}{}{Mais alors je ne serai plus tout près de toi, mon amour.}
-{2000}{}{I think I broke a limb, lover. Better take a look.}
-{2001}{}{I feel feverish, lover. I think I am radiated.}
-{2002}{}{I feel very sick, lover. I think I am poisoned.}
+{2000}{}{Je pense que je me suis cassé un membre. Il vaudrait mieux regarder.}
+{2001}{}{Je me sens fiévreuse mon amour. Je pense que je suis irradiée.}
+{2002}{}{Je me sens vraiment malade, mon ange. Je pense que je suis empoisonné.}

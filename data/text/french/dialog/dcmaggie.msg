@@ -5,8 +5,8 @@
 {152}{}{[PARLER]}
 {153}{}{Hello, stranger, and welcome to my saloon. I’m Becky.}
 {154}{}{Hello, I am }
-{155}{}{. What's there to do around here?}
-{156}{}{Hi, I'm }
+{155}{}{. Y'a des choses à faire par ici ?}
+{156}{}{Salut, je suis}
 {157}{}{. Can I ask some questions?}
 {158}{}{M'man ?}
 {159}{}{Mag gah.}

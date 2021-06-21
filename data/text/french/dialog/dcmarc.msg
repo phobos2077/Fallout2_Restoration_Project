@@ -2,7 +2,7 @@
 {101}{}{Tu vois Marc, un garde.}
 {102}{}{Tu vois Marc, l'un des gardes de Tyler.}
 {150}{}{Hé ho, Tyler !}
-{200}{}{What the...?}
+{200}{}{Mais qu'est-ce... ?}
 {225}{}{Merci du conseil. C'était très... divertissant.}
 {226}{}{Je savais qu'on les aurait ces mauviettes !}
 {227}{}{Dommage qu'on les ait tous tués, parce que maintenant, que fait-on ?}

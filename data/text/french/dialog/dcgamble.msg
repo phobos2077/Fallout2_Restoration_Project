@@ -66,7 +66,7 @@
 {514}{}{Pas mal.}
 {515}{}{Comment c'est arrivé ?}
 {516}{}{Oh là là !}
-{517}{}{No whammies, no whammies. Stop!}
+{517}{}{Ah, c'est pas vrai ! Stop !}
 {518}{}{Eh bien, ce jeu porte bien son nom.}
 {519}{}{Il faut que je gagne le paquet.}
 {520}{}{C'est bien ma veine !}
@@ -86,4 +86,4 @@
 {601}{}{Pourquoi as-tu fait ça ?}
 {602}{}{Allez, va-t-en !}
 {603}{}{Arrête, je suis fragile !}
-{604}{}{I wouldn't do that to you.}
+{604}{}{Je ne te ferai jamais ça !}

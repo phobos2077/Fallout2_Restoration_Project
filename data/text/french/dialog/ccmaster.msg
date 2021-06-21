@@ -15,11 +15,11 @@
 {114}{}{Non.}
 {115}{}{Qui es-tu ? Que fais-tu ici ?}
 {116}{}{Quoi ?}
-{117}{}{Uh... I'm new here?}
+{117}{}{Heu... Je suis nouveau ici ?}
 {118}{}{Coucou !}
 {119}{}{Qui es-tu ? Que fais-tu ici ?}
 {120}{}{Quoi ?}
-{121}{}{Uh... I'm new here?}
+{121}{}{Heu... Je suis nouveau ici ?}
 {122}{}{Coucou !}
 {123}{}{Que veux-tu dire ? Cette combinaison fonctionne bien ! Tu me signes les papiers ou pas ?!}
 {124}{}{Je n'en comprends pas un mot.}

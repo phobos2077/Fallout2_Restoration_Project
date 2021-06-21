@@ -124,6 +124,6 @@
 {501}{}{On dirait que tu vas d'abord devoir faire fonctionner le générateur.}
 {502}{}{Tu vois : la porte de l'ascenseur.}
 {503}{}{On dirait qu'il va te falloir un dispositif électrique pour ouvrir ce verrou.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
+{601}{}{C'est ouvert, idiot.}
+{610}{}{Tu échoues lamentablement et la charge explose prématurément.}
+{611}{}{ échoue lamentablement et la charge explose prématurément.}

@@ -15,7 +15,7 @@
 {240}{}{Ce s'ra tout ?}
 {241}{}{En fait j'aimerais beaucoup jeter un coup d'oeil à tes marchandises.}
 {242}{}{En fait, j'aimerais te poser une question.}
-{243}{}{That did it. See you around, Flick.}
+{243}{}{A bientôt, Flick.}
 {260}{}{Je suis qu'un simple fournisseur, qu'est-ce tu crois ?! Comme un Bon Samouraïtain.}
 {261}{}{Quoi ?}
 {262}{}{Ouais, heu, ben... j'aimerais te poser une autre question.}

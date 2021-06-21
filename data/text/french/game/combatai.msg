@@ -141,7 +141,7 @@
 {1140}{}{Oh, mes côtes !}
 {1141}{}{Oh !!!}
 {1142}{}{Oouf !}
-{1143}{}{If it don't hurt much is it a bad one?}
+{1143}{}{Si ça fait pas si mal, est-ce que c'est grave ?}
 {1144}{}{J'ai la poitrine serrée, arf, arf, et j'ai soif !}
 {1145}{}{*Arrhh* Pourquoi j'peux plus respirer ?!}
 {1146}{}{Qu'est-ce que ça fait mal !}

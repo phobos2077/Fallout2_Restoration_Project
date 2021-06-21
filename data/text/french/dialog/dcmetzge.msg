@@ -2,8 +2,7 @@
 {101}{}{Tu vois Metzger, le Maître des esclavagistes.}
 {150}{}{Metzger est le chef de la Guilde des esclavagistes.}
 {200}{}{Tu paieras pour ça.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
+{210}{}{Que veux tu ? Ici, c'est la Guilde des esclavagistes, pas un refuge pour les allumés au Jet dans ton genre !}
 {211}{}{Que veux-tu ?! Ici, c'est la Guilde des esclavagistes, pas un bordel !}
 {212}{}{Que veux-tu ?! Ici, c'est la Guilde des esclavagistes, pas une maison de passe !}
 {213}{}{Tu commences à me gonfler. Qu'est-ce tu veux ?}
@@ -156,9 +155,9 @@
 {540}{}{Voilà $}
 {541}{}{Voici tes $}
 {542}{}{C'est du bon boulot. Voilà }
-{543}{}{Voici ton argent : $}
+{543}{}{Voici ton argent : }
 {544}{}{$}
-{545}{}{Bon, ça fait $}
+{545}{}{Bon, ça fait}
 {546}{}{Ce n'était pas assez brutal cette fois. Pas d'erreurs la prochaine fois. Voilà }
 {547}{}{$}
 {548}{}{Allez ! }
@@ -226,16 +225,19 @@
 {900}{}{C'est quoi ces questions à la noix ?! Tu commences vraiment à me les broyer menu ! Si tu n'as pas quelque chose de mieux à dire, dégage.}
 {901}{}{Euh, désolé. J'avais autre chose en tête.}
 {902}{}{Ok. Je crois que je vais partir alors.}
-{903}{}{Non, je vais te faire cracher l'information à la place.}
-{910}{}{Qu'est-ce que ça peut te faire ?}
-{911}{}{En tant que Guilde des esclavagistes, je suppose que vous avez des infrastructures, ou bien un endroit où les esclaves sont détenus avant d'être vendus.}
-{912}{}{Euh, en fait je suis juste curieux.}
-{913}{}{Va poser tes fichues questions ailleurs alors !}
+{903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
+{910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp.
+ Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the
+ fucking same, so if that's not your thing, you might be shit outta luck.}
+{911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some
+ way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
+{912}{}{Alright, I'll keep checking back then.}
+{913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
 {914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
  as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
  spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
-{915}{}{Sud-Ouest d'ici, hum ? [Tu notes ça sur ton Pip-Boy.] Je voulais être sûr que la Guilde des esclavagistes est aussi puissante qu'on le dit. J'aimerais te poser d'autres questions.}
-{916}{}{Pour rien, merci pour l'info. Je dois y aller.}
+{915}{}{Got it. Let me ask you something else.}
+{916}{}{Thanks. I'll be on my way now. Bye.}
 {1360}{}{ pour elle. Combien ?}
 {1361}{}{ ?}
 {1363}{}{.}
@@ -247,12 +249,12 @@
 {1542}{}{.}
 {1543}{}{. $}
 {1544}{}{Il n'y a pas de quoi se moquer mais tu peux faire mieux que ça.}
-{1545}{}{ cette fois. C'est pas mal du tout.}
+{1545}{}{$ cette fois. C'est pas mal du tout.}
 {1546}{}{.}
 {1547}{}{ ? Pas mal.}
 {1548}{}{ $ ? Tu peux mieux faire !}
 {1549}{}{.}
-{1550}{}{ ! C'est vraiment pitoyable ! Reprends-toi ou je t'éclate.}
+{1550}{}{ $ ! C'est vraiment pitoyable ! Reprends-toi ou je t'éclate.}
 {1551}{}{, et sors d'ici.}
 {2540}{}{.}
 {2543}{}{.}

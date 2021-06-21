@@ -1,8 +1,8 @@
-1:Chosen?
-2:Chosen?
-3:Do you hear me?
-4:[The] village [dies].
-5:[All of our] futures die, too.
-6:We have little [left in both time and] essence.
-7:Hurry.
-8:Hur-...
+1:Etre Elu ?
+2:Etre Elu ?
+3:Etre Elu ? M'entends-tu ?
+4:Le village se meurt.
+5:Tous nos avenirs meurent eux aussi.
+6:Il nous reste très peu de temps et d'essence.
+7:Fais vite.
+8:Vite.

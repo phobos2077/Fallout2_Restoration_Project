@@ -15,7 +15,7 @@
 {162}{}{As-tu volé un médaillon dans la maison hantée ?}
 {163}{}{Rien. Laisse tomber.}
 {164}{}{Laisse tomber. Je vais juste libérer ton âme de ses barrières terrestres.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{Je sais pas de quoi tu parles.}
 {166}{}{Tu sais ce que t'as fait, t'as volé le médaillon d'une fille morte, et maintenant, son fantôme doit errer sur terre tant que tu n'as pas rendu le bijou.}
 {167}{}{Alors, je te le prendrai de force !}
 {168}{}{C'est absurde ! Tu dois vraiment être en train de planer avec une des merdes que t'as refilé Tubby. J'ai jamais vu de fantôme, c'était juste un bad trip, ça n'a jamais été vrai.}
@@ -107,11 +107,10 @@
 {254}{}{Laisse tomber. Je peux te poser une question ?}
 {255}{}{D'accord, j'achète.}
 {256}{}{Tant pis. Salut.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
+{257}{}{L'Abri... L'Abri.. 13 tu dis ? Non, jamais entendu parler. Ne me dit pas que c'est un genre de nouveau truc qui défonce. Il y a rien qui peut te la mettre autant que le Jet !}
 {258}{}{Non, imbécile !}
 {259}{}{Non, c'est un endroit. Je peux te poser une autre question ?}
-{260}{}{Yes, a wonderful drug.}
+{260}{}{Oui, en fait, c'est une super drogue.}
 {261}{}{Non, salut.}
 {262}{}{Eh ben, ce Joey n'a pas beaucoup de conversation...}
 {300}{}{Peut-être pas. Salut.}

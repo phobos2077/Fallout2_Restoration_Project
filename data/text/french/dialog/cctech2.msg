@@ -39,7 +39,7 @@
 {144}{}{Ok.}
 {145}{}{Moi comprendre.}
 {155}{}{As-tu perdu la tête pour te promener sans uniforme ? Mets-toi en tenue !}
-{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{156}{}{Si le sergent te voit sans uniforme, tu vas te faire incendier !}
 {157}{}{Que fais-tu sans uniforme ?}
 {158}{}{Putain de merde ! Nous sommes envahis ! Alerte !!}
 {159}{}{Des envahisseurs ! Appelez la garde !!}
@@ -47,6 +47,6 @@
 {161}{}{Que se passe-t-il ?! On nous attaque ?!}
 {162}{}{Pourquoi une alerte ? Que se passe-t-il ?!}
 {163}{}{Mais que se passe-t-il, Bon Dieu ?!}
-{164}{}{I'm just a tech, don't shoot me!}
+{164}{}{Je ne suis qu'un technicien, ne tire pas ! Pitié !}
 {165}{}{Je n'ai pas signé pour combattre, je n'ai qu'une formation de technicien !}
 {166}{}{C'est qu'une foutue blouse de laboratoire, pas une armure ! Je me casse !}

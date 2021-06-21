@@ -111,6 +111,6 @@
 {211}{}{ ne réussit pas à placer de piège dans le container.}
 {212}{}{Tu vois un réfrigérateur.}
 {400}{}{Tu déverrouilles le container.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
+{601}{}{C'est ouvert, idiot.}
+{610}{}{Tu échoues lamentablement et la charge explose prématurément.}
+{611}{}{ échoue lamentablement et la charge explose prématurément.}

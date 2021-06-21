@@ -33,7 +33,7 @@
 {200}{}{Bonjour cousine... Euh, je veux dire bonjour l'Etre Elu. J'espère que tu as trouvé le J.E.K. Beaucoup de mauvais présages s'annoncent.}
 {201}{}{Bonjour cousine... Euh, je veux dire bonjour l'Etre Elu. J'espère que tu as trouvé le J.E.K. Beaucoup de mauvais présages s'annoncent.}
 {202}{}{Moi encore chercher, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{Je cherche toujours, cousin.}
 {204}{}{Bienvenue à la maison, cousine. Les choses ne vont pas si bien que ça ici. As-tu trouvé le Saint-Treize et le J.E.K ?}
 {205}{}{Bienvenue à la maison, cousine. Les choses ne vont pas si bien que ça ici. As-tu trouvé le Saint-Treize et le J.E.K ?}
 {206}{}{Moi pas trouver. Pardon.}
