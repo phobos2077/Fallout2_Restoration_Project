@@ -43,7 +43,7 @@
 {291}{}{No va! Me no va! No fare me va! No portare me brutto posto! No!}
 {292}{}{Ochei. Me no vuole tu triste. Me viene}
 {293}{}{ME VA VIA, BASTA PARLARE ME}
-{300}{}{Adesso basta, stupido ritardato! Vattene da qui, allora! Idiota...}
+{300}{}{Adesso basta, stupido ritardato! Vattene da qui! ::Idiota.::}
 {310}{}{Sei NUOVO di qui, o cosa? Io sono Angela BISHOP. Il mio papa' e' il CAPO della Famiglia Bishop. }
 {311}{}{Tu lavori per lui, il che significa che tu lavori anche per ME. }
 {312}{}{Faresti meglio a fare quello che ti dico, e io ti dico di venire con me. Subito. }

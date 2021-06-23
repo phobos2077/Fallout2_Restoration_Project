@@ -37,7 +37,7 @@
 {321}{}{Sono sotto e le cose non sembrano migliorare.}
 {322}{}{Spero tu faccia meglio di me.}
 {323}{}{Ho visto giorni migliori.}
-{324}{}{So come si gioca, davvero!}
+{324}{}{So come si gioca, onestamente.}
 {325}{}{Oggi la pallina non rimbalza come vorrei.}
 {326}{}{Un altro stipendio perso.}
 {327}{}{Sono praticamente al verde!}

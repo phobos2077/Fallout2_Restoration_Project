@@ -87,7 +87,7 @@
 {186}{}{Okay.}
 {187}{}{Sei un civile?}
 {188}{}{Questo e' un laboratorio medico. L'armeria e' in fondo al corridoio, sulla sinistra.}
-{189}{}{Perche' sei senza uniforme? }
+{189}{}{Perche' sei senza l'uniforme?}
 {190}{}{Merda! Ci stanno invadendo! Allarme!}
 {191}{}{Intrusi! Qualcuno chiami le guardie!}
 {192}{}{Guardie! Intrusi nel laboratorio medico!}
@@ -95,7 +95,7 @@
 {194}{}{Perche' diavolo e' scattato l'allarme? Cosa sta succedendo?}
 {195}{}{Cosa diavolo sta succedendo?}
 {196}{}{Non sono pericoloso, non spararmi.}
-{197}{}{Non mi sono arruolato per combattere: lasciami in pace!}
+{197}{}{Non mi sono arruolato per combattere, lasciami in pace.}
 {198}{}{Dannazione! Sono un dottore, non un soldato!}
 {200}{}{[AVANTI]}
 {201}{}{Vorrei farti delle domande.}

@@ -41,13 +41,19 @@
 {146}{}{Uscita dal programma diagnostico in corso.}
 {147}{}{[AVANTI]}
 {300}{}{ - Identita' confermata: }
-{301}{}{            Ultimo accesso al terminale: }
+{301}{}{
+            Ultimo accesso al terminale: }
 {303}{}{Caporale Dixon}
 {304}{}{Generale Clifton}
 {305}{}{5 agosto, 2077}
 {306}{}{ giorni fa.}
-{307}{}{                                             Allarme! Intruso rilevato - Livello }
-{308}{}{                                             Allarme! Intruso rilevato - Livelli: }
-{309}{}{                               }
-{310}{}{                                             }
-{311}{}{                       }
+{307}{}{
+                                             Allarme! Intruso rilevato - Livello }
+{308}{}{
+                                             Allarme! Intruso rilevato - Livelli: }
+{309}{}{
+ }
+{310}{}{
+ }
+{311}{}{
+ }

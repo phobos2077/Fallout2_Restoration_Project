@@ -9,7 +9,7 @@
 {108}{}{Ho il mio pass... era qui un momento fa.}
 {109}{}{Sono una nuova recluta. Mi e' stato detto che mi stavate aspettando.}
 {110}{}{Oh, scusa. Allora credo che me ne andro'.}
-{111}{gate2}{Sei un po' lento, vero?? Beh, vattene, non tornare piu' e vedrai che non ti succedera' nulla. Capito?.}
+{111}{gate2}{Sei un po' lento, vero?? Beh, vattene, non tornare piu' e vedrai che non ti succedera' nulla. Mi hai Capito?}
 {112}{}{Me vuole andare dentro.}
 {113}{}{Ok. Me va.}
 {114}{gate3}{Nessuno entr... Dannazione. (lentamente) Serve pass per entrare. Tu no avere pass. Tu andare via. Tu no andare via, tu venire fatto male. Capito?}
@@ -33,7 +33,7 @@
 {132}{gate8b}{Alt! ... Ancora tu. Vedo che sei ancora in compagnia del tuo gruppo. (mette una mano sull'arma) Ti suggerisco di allontanarti immediatamente da questa installazione e di non tornare piu'. Sono stato chiaro?}
 {133}{}{Sheepshead.}
 {134}{}{Si'.}
-{135}{gate9}{Alt! ... Ancora qui, eh? Questa volta farai meglio ad avere il tuo pass o a conoscere la parola d'ordine. Beh? Sto aspettando.}
+{135}{gate9}{Alt! -- Ancora qui, eh? Questa volta farai meglio ad avere il tuo pass o a conoscere la parola d'ordine. Beh? Sto aspettando.}
 {136}{}{Uh... me non sa. Me torna.}
 {137}{}{Fottere. Me va dentro sopra tuo corpo morto.}
 {138}{}{Senti, ho perso il mio pass...}

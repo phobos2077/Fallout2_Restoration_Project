@@ -4,7 +4,7 @@
 {103}{}{Dove siete diretti?}
 {104}{}{Che cosa fai?}
 {105}{}{Ug.}
-{106}{}{Beh... non saprei. Sono nuovo di queste parti e ho visitato solo queste zone:}
+{106}{}{Beh... non saprei. Sono nuovo di queste parti e ho visitato solo queste zone.}
 {107}{}{New Reno.}
 {108}{}{Vault City.}
 {109}{}{Redding.}

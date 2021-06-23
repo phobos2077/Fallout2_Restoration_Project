@@ -1,5 +1,5 @@
-{100}{}{You see a stout nun.}
-{101}{}{You see Elaine.}
+{100}{}{Vedi una suora corpulenta.}
+{101}{}{Vedi Elaine.}
 {102}{}{You still see her.}
 {200}{}{Greetings!}
 {201}{}{Hi, what's your name?}

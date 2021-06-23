@@ -55,7 +55,7 @@
 {154}{}{Nulla, volevo solo salutarti.}
 {155}{}{Sei scemo? Andartene in giro senza uniforme? Vatti a vestire!}
 {156}{}{Se il sergente ti becca senza uniforme, ti fa un culo cosi'.}
-{157}{}{Perche' sei senza uniforme? }
+{157}{}{Perche' sei senza l'uniforme?}
 {158}{}{Merda! Ci stanno invadendo! Allarme!}
 {159}{}{Intrusi! Qualcuno chiami le guardie!}
 {160}{}{Guardie! Intrusi nel reparto manutenzione!}

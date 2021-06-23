@@ -72,7 +72,7 @@
 {171}{}{Grazie.}
 {172}{}{Intendi dire che sto meglio, giusto?}
 {173}{hak015}{Rendere sano qualcuno instilla un senso di pienezza che tu dovresti ben conoscere, Prescelto.}
-{174}{}{Aspetta, non dirmelo. Sto meglio e tu sei stato felice di curarmi, giusto?}
+{174}{}{Aspetta, non dirmelo. Mi sento meglio e ti senti felice per averlo fatto? Grazie.}
 {175}{}{Siete saggio e buono, Vostra Sacralita'.}
 {176}{hak017}{In che modo posso toccare l'anima prescelta, o Seme dell'Abitante del Vault?}
 {177}{}{Uh, dove si trova esattamente il tuo giardino?}
@@ -161,7 +161,7 @@
 {260}{}{Uh-huh..}
 {261}{hak107}{Grazie, antenati. Ora la mia anima puo' unirsi al canto eterno. Buon viaggio, Prescelto.}
 {262}{}{Va?}
-{263}{hak108}{Va'!}
+{263}{hak108}{Va'!...}
 {264}{}{Bye bye.}
 {265}{hak109}{Anime oscure sono giunte. Hanno preso tutti.}
 {266}{}{Anime oscure? Che cosa vuoi dire?}

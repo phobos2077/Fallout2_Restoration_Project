@@ -16,7 +16,7 @@
  a pretty self sufficient community -- grow our own food, brew our own booze -- so we get by just fine. Anyway, Bill's the man
  to speak to about caravans, he runs the general store just southwest of here.}
 {303}{}{That sounds great and all, but I really must be going.}
-{304}{}{Interesting. I was curious about something else.}
+{304}{}{Interessante. Ero curioso riguardo altro.}
 {305}{}{Nevermind, I must be going.}
 {400}{}{What else would you like to know?}
 {401}{}{What can you tell me about the Abbey?}

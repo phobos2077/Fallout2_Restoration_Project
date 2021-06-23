@@ -121,7 +121,7 @@
 {300}{}{Ehi, non ho mai detto che ti avrei pagato se tu avessi fatto fuori quella troia di Becky. Vai a farti fottere!}
 {350}{}{Wow! Che chiavata. E' stato meraviglioso.}
 {351}{}{Cazzo, non sei niente male, baby.}
-{352}{}{Grazie, e' stato divertente. Adesso... fuori di qui!}
+{352}{}{Grazie, e' stato divertente. Adesso fuori di qui!}
 {353}{}{Sei stata, uhhh... non importa, fuori di qui.}
 {354}{}{Beh... non ho mai avuto una donna peggiore di te.}
 {400}{}{Sai, baby, potrai anche essere assatanata e tutto il resto, ma hai molto, molto da imparare.}

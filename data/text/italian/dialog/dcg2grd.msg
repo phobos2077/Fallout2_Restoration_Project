@@ -29,7 +29,7 @@
 {255}{}{Siamo pronti quando lo sei tu.}
 {256}{}{E' quasi giunta l'ora di fargliela pagare.}
 {257}{}{Odio aspettare.}
-{258}{}{Andiamo, dai!}
+{258}{}{Andiamocene.}
 {259}{}{Non sei ancora pronto?}
 {260}{}{Fa' sapere a Lara quand'e' giunto il momento.}
 {270}{}{Vuoi unirti a noi?}

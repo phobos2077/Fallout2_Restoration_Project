@@ -23,9 +23,9 @@
 {124}{}{Grazie. Devo tornare al mio posto.}
 {125}{}{Cerchi un po' di pettegolezzi? Posso riferirti le ultime novita' su quello che succede nel reparto manutenzione, nel laboratorio medico e tra i soldati.}
 {126}{}{Cosa vuoi sapere?}
-{127}{}{Parlare di reparto manutenzione.}
+{127}{}{Riguardo al reparto manutenzione?}
 {128}{}{Che succedere in laboratorio medico?}
-{129}{}{Parlare di soldati.}
+{129}{}{Che mi dici dei soldati?}
 {130}{}{Altro?}
 {131}{}{Me sentito abbastanza.}
 {132}{}{Cosa succede nel reparto manutenzione?}

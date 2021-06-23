@@ -48,5 +48,5 @@
 {147}{}{Ho delle altre domande, allora.}
 {148}{}{Un modo di pensare davvero utilitaristico. Faro' sapere a Eric che vale meno di uno sputo. Arrivederci.}
 {149}{}{Hmm... cos... eh?}
-{150}{}{Zzzzzz... ::russa::}
+{150}{}{Zzzzzz... russa...}
 {151}{}{Cosa c'e'...? Hmm...? ::russa::}

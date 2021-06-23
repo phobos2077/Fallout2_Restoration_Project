@@ -15,7 +15,7 @@
 {260}{}{Gli schiavisti stanno arrivando. State tutti zitti.}
 {261}{}{State pronti. Credo siano vicini.}
 {262}{}{Non mi arrendero' senza combattere.}
-{263}{}{Non ci faranno schiavi! Mai!}
+{263}{}{Non ci faranno schiavi.}
 {264}{}{Quegli schiavisti la pagheranno per questo.}
 {265}{}{Nessuno schiavista prendera' la mia famiglia.}
 {300}{}{Tu morire ora!}

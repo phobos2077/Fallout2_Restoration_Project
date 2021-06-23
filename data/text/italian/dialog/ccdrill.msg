@@ -15,7 +15,7 @@
 {114}{}{Il mio nome e' }
 {115}{sgnt6}{Non sono un Signore. Io lavoro per vivere, idiooooooo-ta. Mi chiamerai Sergente o Sergente Dornan. Mi hai sentito? }
 {116}{}{Si', Sergente!}
-{117}{}{Certo, 'Sergio'. Come no?}
+{117}{}{Certo, Sergente. Come no.}
 {118}{sgnt7}{Meraviglioso. Dirigiti rapidamente all'hangar dove starai di guardia. Farai un buon lavoro. Hai capito?}
 {119}{}{A cosa faro' la guardia, Sergente?}
 {120}{}{Si', Sergente!}

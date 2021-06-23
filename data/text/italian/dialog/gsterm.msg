@@ -4,8 +4,8 @@
 {110}{}{Salve. Benvenuto al TMR&CRR, postazione 3.}
 {111}{}{TMRCRR?}
 {112}{}{Funzione?}
-{113}{}{Azione: }
-{114}{}{Iniziare: }
+{113}{}{Azione:}
+{114}{}{inizializza:}
 {115}{}{Esci.}
 {120}{}{Terminale di Manutenzione del Reattore & di Controllo del Robot Riparatore, postazione numero 3.}
 {121}{}{Funzione?}

@@ -1,6 +1,6 @@
-1:It is done.
-2:Vault Thirteen belongs to the Unity and the Master.
-3:Your knowledge of the Vault defenses saved many mutant lives during the attack.
+1:E' fatta.
+2:Il Vault tredici appartiene alla Unity e al Master.
+3:La tua conoscenza delle difese del Vault ha salvato la vita di molti mutanti durante l'attacco.
 4:You personally made the final kill when you took the life of the Overseer.
 5:You will certainly become one of the finest soldiers for the Unity, and your skills will see you rewarded often in the future.
 6:You are happy.

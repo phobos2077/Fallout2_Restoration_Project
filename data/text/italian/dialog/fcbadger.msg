@@ -14,7 +14,7 @@
 {113}{}{::Rutta piu' forte::}
 {114}{}{Che roba.}
 {115}{}{::Spara fuori un rutto cosi' tremendo da scuotere le fondamenta del paradiso in lungo e in largo::}
-{116}{}{-Fai un applauso-}
+{116}{}{::Fai un applauso::}
 {117}{}{Sono Badger. Un tempo avevo una band. ::sospiro:: Ci chiamavamo "There We Smolder". Adesso faccio il tecnico informatico qui a San Fran.}
 {118}{}{Oh! Grazie!}
 {119}{}{Che tipo di trucchetti sai fare con il computer?}

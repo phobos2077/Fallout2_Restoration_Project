@@ -88,7 +88,7 @@ Oh well.
 {183}{}{Dovrei potercela fare. Ma solo se hai in mente un'operazione precisa.}
 {184}{}{Trasferisci del carburante nella petroliera Poseidon.}
 {185}{}{Non mi viene in mente nulla, al momento. Ti faro' sapere.}
-{186}{}{Oh, tipo: }
+{186}{}{Oh, tipo:}
 {187}{}{"Il mio terminale supporta le schede 3D?" }
 {188}{}{"Perche' non posso avere una configurazione multiutente?" }
 {189}{}{"Credo che dovremmo cambiare l'interfaccia... non importa se questa funziona perfettamente!" }

@@ -25,7 +25,7 @@
 {123}{}{Cosa vuoi dire? Questa armatura funziona benissimo! Li vuoi firmare questi documenti o no?}
 {124}{}{Non capisco una parola.}
 {125}{}{Il tuo comunicatore e' rotto.}
-{126}{}{Certo, come no?}
+{126}{}{Certo, come no.}
 {127}{}{Va' all'inferno!}
 {128}{}{(Cosa? Sei sordo? Ho detto che ce l'ho un'armatura; basta che firmi qui.)}
 {129}{}{Sei un pagliaccio, eh? Beh, non ne ho bisogno. Spiegalo tu al sergente perche' non hai un'uniforme!}

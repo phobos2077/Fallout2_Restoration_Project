@@ -2,7 +2,7 @@
 {101}{}{Vedi Ratch, probabilmente alle prese con un problmea di pulci.}
 {102}{}{Potrebbe essere un umano. Potrebbe essere un mutante. Tutto quello che puoi dire e' che puzza da morire.}
 {103}{}{Spazzatura in vendita, spazzatura in vendita. Dateci un'occhiata e fatemi un'offerta.}
-{104}{}{Certo, come no?}
+{104}{}{Certo, come no.}
 {105}{}{Uh...huh.}
 {106}{}{Allora... cos'e' che vendi?}
 {107}{}{Mi sembri piuttosto in gamba con le mani. Tu le mani ce le hai, vero?}

@@ -1,1 +1,1 @@
-{100}{}{You have encountered a monastery and a small community built around it.}
+{100}{}{Ti sei imbattuto in un monastero con una piccola comunita' costruita intorno ad esso.}

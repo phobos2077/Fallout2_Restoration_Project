@@ -148,7 +148,7 @@
 {436}{}{Credo che parlando con te non risolvero' nulla. Addio.}
 {440}{}{Capisco. Beh, mi dispiace, ma non posso aiutarti. Buona giornata.}
 {441}{}{Capisco. Beh, mi dispiace, ma non posso aiutarti. Buonanotte.}
-{442}{}{-Alza le spalle e allontanati-}
+{442}{}{::Alza le spalle e allontanati.::}
 {443}{}{Bene. Allora, buona giornata.}
 {444}{}{Okay. Buonanotte.}
 {450}{}{(Vedi la signora Wright. Sembra distrutta.)}
