@@ -23,4 +23,4 @@
 {202}{}{Arf!}
 {203}{}{Arf, arf, arf!}
 {204}{}{(Ti guarda amorevolmente)}
-{205}{}{Woof!}
+{205}{}{Uff!}

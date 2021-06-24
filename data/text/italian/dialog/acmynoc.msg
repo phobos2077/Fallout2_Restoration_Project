@@ -107,7 +107,7 @@
 {423}{}{I raccolti sono distrutti, i brahmin muoiono, tutti sono affamati. I pianti dei bambini, di notte, non consentono a nessuno di dormire. Siamo disperati.}
 {424}{}{Me continua a cercare.}
 {425}{}{Faro' quel che posso.}
-{426}{}{Ancora una volta torni da noi, Prescelto. Non a mani vuote, voglio sperare!}
+{426}{}{Ancora una volta torni da noi, Prescelto. Non a mani vuote, vero?}
 {427}{}{Me spiacente, no trovato GECK ancora.}
 {428}{}{Mi dispiace, non ho ancora trovato il GECK.}
 {429}{}{Ne ho abbastanza.}

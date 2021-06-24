@@ -69,11 +69,11 @@
 {9050}{}{Oh mamma...Ho imparato qualcosa.}
 {9051}{}{Il rimorso mi uccidera'.}
 {9052}{}{Non posso credere di essere sopravvissuto fin qui.}
-{9060}{}{Woof!}
-{9061}{}{Woof!}
-{9062}{}{Woof!}
-{9063}{}{Woof!}
-{9064}{}{Woof! Woof!}
+{9060}{}{Uff!}
+{9061}{}{Uff!}
+{9062}{}{Uff!}
+{9063}{}{Uff!}
+{9064}{}{Uff! Uff!}
 {9070}{}{Ho imparato qualcosa di nuovo!}
 {9071}{}{Ho imparato qualcosa di nuovo!}
 {9080}{}{Credo di aver appreso nuove conoscenze!}

@@ -62,7 +62,7 @@
 {161}{}{Si': ha chiesto 1,000$ per farlo.}
 {162}{}{}
 {163}{}{Wow. Si vede che hai le amicizie giuste. Torna tra un giorno e vedro' che aiuto posso darti.}
-{164}{}{Avra' quei progetti.}
+{164}{}{Va bene.}
 {165}{}{Puoi prestarmi tu i soldi?}
 {166}{}{Immagino di si'.}
 {167}{}{No.}

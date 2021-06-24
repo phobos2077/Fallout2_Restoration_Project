@@ -60,7 +60,7 @@
 {159}{}{Okay, mi chiamo }
 {160}{}{Questo e' il mio vero nome! Adesso lasciami parlare con l'Imperatore!}
 {161}{}{Eccellente. Ecco cos'e' che ti chiedo: c'e' una piccola base militare a nord di qui, chiamata Navarro. Ci sono molti vertibird, laggiu'. Abbiamo bisogno di progetti e di schemi tecnici per riuscire a costruirli anche noi. Portaceli e potrai incontrare l'Imperatore.}
-{162}{}{Avra' quei progetti.}
+{162}{}{Va bene.}
 {163}{}{Scordatelo.}
 {164}{}{Hai ripensato alla nostra proposta?}
 {165}{}{No.}

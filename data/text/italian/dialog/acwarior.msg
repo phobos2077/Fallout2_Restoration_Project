@@ -24,7 +24,7 @@
 {171}{}{Nulla.}
 {172}{}{Ehi, ritardato. Si dice che tu sia il Prescelto. Devo ammettere che lo spirito del Fondatore agisce in modo strano.}
 {173}{}{Oon Ga.}
-{174}{}{Fa' buon viaggio, ritardato -- per amor nostro.}
+{174}{}{ Fa' buon viaggio, ritardato -- per amor nostro.}
 {175}{}{????}
 {176}{}{You betray us. You must die.}
 {177}{}{Un traditore della tua stessa gente!}

@@ -139,7 +139,7 @@
 {463}{}{Oh, queste sono soltanto stronzate. Me ne vado.}
 {470}{}{Hmmmmm...d'accordo, ti daro' una possibilita'... ma non ti prometto nulla. Se questo danneggia i miei affari, anche in maniera lieve, tu sei fuori. (Mette le mani sui fianchi.) Io prendo la meta' della vincita, e niente discussioni su questo punto.}
 {471}{}{Hmmmmm...Ti daro' una possibilita'... ma non ti prometto nulla; ti sto facendo un favore, prendendo uno sconosciuto qualsiasi sotto la mia ala. Io prendo la meta' delle vincite... niente discussioni su questo punto.}
-{472}{}{Ci sto.}
+{472}{}{Fatto.}
 {473}{}{Accontentati del 25%, e l'accordo e' fatto.}
 {474}{}{Oh, queste sono soltanto stronzate. Me ne vado.}
 {480}{}{(L'accigliamento di Stuart si fa piu' marcato. Sembra stia per protestare, poi scuote la testa con un sorrisetto.) D'accordo, allora! Se hai finito di ridurre all'osso i miei mezzi di sostentamento, vediamo di discutere meglio la cosa.}

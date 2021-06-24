@@ -39,7 +39,7 @@
 {138}{}{Bene.}
 {139}{}{Mi sta bene.}
 {140}{}{Grazie per aver usato EnclaveNet. Spegnimento in corso... }
-{141}{}{Ci sto.}
+{141}{}{Fatto.}
 {142}{}{Comando?}
 {143}{}{Attivita' non autorizzata rilevata nel complesso del computer centrale. Allarme sicurezza. Allarme sicurezza.}
 {144}{}{Iniziare programma di benvenuto.}

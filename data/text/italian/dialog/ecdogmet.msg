@@ -38,7 +38,7 @@
 {137}{}{Ehi, amico, che stai facendo al mio cane?}
 {138}{}{Grrrrr....}
 {139}{}{(Forse posso farmi seguire da Dogmeat in maniera diversa...)}
-{150}{}{Woof! Woof!}
+{150}{}{Uff! Uff!}
 {200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
 {201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
 {300}{}{*Frustata*}

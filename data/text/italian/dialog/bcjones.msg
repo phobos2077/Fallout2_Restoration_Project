@@ -65,7 +65,7 @@
 {164}{}{Ah. Beh, ora devo andare.}
 {165}{}{Non aiutero' una persona come te. Vattene.}
 {166}{}{Okay, beh, stai attento... e torna, se ti serve qualcosa.}
-{167}{}{Ci sto.}
+{167}{}{Fatto.}
 {168}{}{Adesso e' paranoico. Crede che Tandi sia ancora sulle sue tracce. E' ossessionato dalla vendetta, e vorrebbe vedere Tandi morta. E' tormentato dal rimorso, dato che lui preferi' nascondersi e sopravvivere, invece di morire con la sua banda... e la lista potrebbe continuare.}
 {200}{}{Darion is dead.}
 {201}{}{Dar-e-on dead.}

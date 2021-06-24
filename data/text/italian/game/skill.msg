@@ -55,7 +55,7 @@
 {500}{}{Curi %d Punti Vita.}
 {501}{}{Sei gia' in piena salute.}
 {502}{}{%s e' gia' a posto.}
-{503}{}{Non sei riuscito ad effettuare la medicazione.}
+{503}{}{Hai fallito nell'effettuare una qualsiasi cura.}
 {505}{}{Guadagni %d PX per aver affinato la tua abilita'.}
 {510}{}{\nskill_use: invalid skill used.}
 {512}{}{Non puoi curare i morti.}

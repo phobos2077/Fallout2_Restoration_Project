@@ -35,7 +35,7 @@
 {134}{}{Sono stato laggiu' e ho i componenti che stavate cercando.}
 {135}{}{Ho gia' risolto la cosa. Gli abusivi vogliono un accordo. Voi li aiutate a diventare autosufficienti ed essi vi concederanno l'accesso al vault. Inoltre, ecco qua i componenti che mi aveva chiesto.}
 {136}{tand5}{Fulmini e saette... E' una tua scelta - ma se dovessi cambiare idea...}
-{137}{}{Ci sto.}
+{137}{}{Fatto.}
 {138}{tand6a}{D'accordo. Fa' bene il tuo lavoro e sarai ricompensato.}
 {139}{tand6b}{O Dio, so che sto facendo un errore, ma... provaci - se hai capito qualcosa di quel che ho detto.}
 {140}{}{Ok. Me va.}

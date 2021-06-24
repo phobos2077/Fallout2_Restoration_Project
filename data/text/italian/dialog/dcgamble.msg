@@ -50,7 +50,7 @@
 {402}{}{Non sparare!}
 {403}{}{Ti prego, lasciaci in pace.}
 {500}{}{Non fermarti li'!}
-{501}{}{Continua a rotolare!}
+{501}{}{Muoversi.}
 {502}{}{DAI! 7!}
 {503}{}{Si'!}
 {504}{}{Continua cosi'!}
@@ -59,7 +59,7 @@
 {507}{}{Datemi un altro bel rimbalzo!}
 {508}{}{Si'!}
 {509}{}{Cosi'!}
-{510}{}{Ancora, voglio rivederlo ancora!}
+{510}{}{Diamogli ancora un'occhiata.}
 {511}{}{Dai!}
 {512}{}{Questo e' quello che volevo.}
 {513}{}{Quasi.}

@@ -39,7 +39,7 @@
 {138}{}{No, ma ci pensero'.}
 {139}{}{No, non credo che lo faro'.}
 {140}{}{Molto bene... Aspettero' qui fino a quando avrai preso la tua decisione.}
-{141}{}{Ci sto.}
+{141}{}{Fatto.}
 {142}{}{Molto bene... La tua decisione mi rattrista, ma e' una tua scelta. Se tu dovessi cambiare idea, saro' sempre qui.}
 {143}{}{Addio.}
 {144}{}{Arrivederci.}

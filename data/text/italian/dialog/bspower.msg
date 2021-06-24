@@ -8,4 +8,4 @@
 {107}{}{E' tempo di andare.}
 {108}{}{Riesci a liberare i contatti e a ripristinare l'energia!}
 {109}{}{Dannazione. E' piu' difficile di quanto non sembri.}
-{110}{}{Ci sto.}
+{110}{}{Fatto.}

@@ -35,7 +35,7 @@
 {134}{}{Provero' li'. Se non lo trovo, lo cerchero' da qualche altra parte.}
 {135}{}{Allora mi lasci in pace.}
 {136}{}{Okay.}
-{137}{}{Avra' quei progetti.}
+{137}{}{Va bene.}
 {138}{}{Bentrovato. Le funzioni vitali del mio padrone si sono interrotte. E' lei il mio nuovo padrone?}
 {139}{}{Okay.}
 {140}{}{No.}

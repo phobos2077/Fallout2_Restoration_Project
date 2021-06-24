@@ -2,4 +2,4 @@
 {101}{}{Vedi Darion, capo dei Nuovi Khan.}
 {102}{}{Vedi un uomo anziano con dei capelli grigi e sottili. Sembra essere in buona forma, per la sua eta'.}
 {103}{}{Quindi sei arrivato, alla fine. Il salvatore degli oppressi, il raddrizzatore di torti, l'icona della speranza dell'umanita'. Che idiota! Beh, prima che tu cominci una delle tue noiosissime prediche, lascia che ti dica che non mi interessa un cazzo quello che hai da dirmi. Terminiamo qui l'inseguimento e facciamola finita una volta per tutte. Baddog, attacca!}
-{104}{}{Ci sto.}
+{104}{}{Fatto.}

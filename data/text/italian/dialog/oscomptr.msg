@@ -20,11 +20,11 @@
 {119}{}{L'unica cosa rimasta da fare e' guardare all'interno.}
 {120}{}{Lo lasci stare.}
 {121}{}{Osservando l'ammasso di cavi e circuiti stampati, scopri che il sistema e' stato deliberatamente sabotato. Uno dei circuiti stampati, il modulo di riconoscimento vocale e' irreparabilmente danneggiato e deve essere sostituito. Tutto quello che ti serve adesso e' un modulo di ricambio.}
-{122}{}{Ci sto.}
-{123}{}{Ci sto.}
+{122}{}{Fatto.}
+{123}{}{Fatto.}
 {124}{}{Installi il modulo nel terminale. Il sistema e' riparato.}
 {125}{}{Bisogna installare un modulo di riconoscimento vocale perche' il terminale possa diventare operativo.}
-{126}{}{Ci sto.}
+{126}{}{Fatto.}
 {127}{}{Adesso il sistema funziona bene.}
 {128}{}{Accesso alla registrazione delle telecamere di sicurezza in corso... Caricamento filmato olografico in corso...}
 {129}{}{Tu sei l'ultimo, Gruthar. La macchia rappresentata dalla tua razza sara' presto spazzata via.}

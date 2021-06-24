@@ -155,13 +155,13 @@
 {661}{}{Troppo distante.}
 {670}{}{Okay.}
 {671}{}{Bene.}
-{672}{}{Come vuoi.}
+{672}{}{Come desideri.}
 {673}{}{Come desideri.}
 {674}{}{Ci provero'.}
 {675}{}{Non posso farlo.}
 {676}{}{Non credo di poterlo fare.}
 {677}{}{Arf!}
-{678}{}{Woof!}
+{678}{}{Uff!}
 {700}{}{Non hai abbastanza Punti Azione.}
 {800}{}{Leggi il libro.}
 {801}{}{Non impari nulla di nuovo.}

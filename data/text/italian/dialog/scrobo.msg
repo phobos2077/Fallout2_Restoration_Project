@@ -16,7 +16,7 @@
 {115}{}{<whirrr> Non sono un uccello, non sono un aeroplano, e nemmeno una rana, sono il vostro unico, inimitabile - Robodog!<click>}
 {116}{}{Rooby-Doo!}
 {117}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
-{118}{}{Woof!}
+{118}{}{Uff!}
 {119}{}{GRRR-ROWF!}
 {120}{}{Arf-arf-arf-arf-arf-arf-arf!}
 {121}{}{OK}

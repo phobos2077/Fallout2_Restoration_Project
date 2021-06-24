@@ -32,7 +32,7 @@
 {450}{}{La costa e' sgombra. Muoviamoci!}
 {900}{}{Sembra che questa vecchia porta consunta possa essere distrutta da un esplosivo ben piazzato.}
 {901}{}{Vedi il carro che serve a riportare gli schiavi al Den.}
-{905}{}{Woof! Woof!}
+{905}{}{Uff! Uff!}
 {910}{}{Ricevi una scossa dal pavimento elettrificato.}
 {911}{}{ riceve una scossa dal pavimento elettrificato.}
 {912}{}{I livelli energetici crollano a zero e poi tornano al 50% non appena si attiva il generatore di riserva.}

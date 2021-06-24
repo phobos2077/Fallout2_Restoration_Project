@@ -54,6 +54,6 @@
 {153}{}{Grazie. Me no dimentica questo, Dalia.}
 {154}{}{Grazie. Non lo dimentichero', Dalia.}
 {155}{}{Allora va' all'inferno e lasciami in pace!}
-{156}{}{Ci sto.}
+{156}{}{Fatto.}
 {157}{}{Allora va' all'inferno e lasciami in pace!}
-{158}{}{Ci sto.}
+{158}{}{Fatto.}
