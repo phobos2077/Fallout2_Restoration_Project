@@ -135,6 +135,17 @@ end
 procedure critter_p_proc begin
    // setup pointers
    if (self_visible) then begin
+      if not healed and not (critter_state(self_obj) bwand DAM_CRIP_LEG_RIGHT) then begin
+         set_healed;
+         flush_add_timer_event_sec(self_obj, random(120, 300), 3);
+         inc_general_rep(REP_BONUS_MODOC_HELP_BESS);
+         party_add_self;
+         reg_anim_clear(self_obj);
+         reg_anim_begin();
+            reg_anim_animate(self_obj, ANIM_back_to_standing, -1);
+         reg_anim_end();
+      end
+
       if (Bess_In_Party) then begin
          party_member_follow_dude
       end else if (freed_bess) then begin
@@ -223,23 +234,6 @@ procedure use_skill_on_p_proc begin
          script_overrides;
          display_mstr(200);
       end
-   end else if (action_being_used == SKILL_DOCTOR) then begin
-      if (healed == false) then begin
-         script_overrides;
-         if (is_success(roll_vs_skill(dude_obj, SKILL_DOCTOR, -20))) then begin
-            set_healed;
-            flush_add_timer_event_sec(self_obj, random(120, 300), 3);
-            inc_general_rep(REP_BONUS_MODOC_HELP_BESS);
-            party_add_self;
-            reg_anim_clear(self_obj);
-            reg_anim_begin();
-               reg_anim_animate(self_obj, ANIM_back_to_standing, -1);
-            reg_anim_end();
-            critter_uninjure(self_obj, DAM_CRIP_LEG_RIGHT);
-         end else begin
-            display_mstr(310);
-         end
-      end
    end else if (action_being_used == SKILL_STEAL) then
       script_overrides;
 end
@@ -269,18 +263,7 @@ procedure use_obj_on_p_proc begin
          reg_anim_end();
          critter_injure(self_obj,DAM_KNOCKED_DOWN);
       end
-   //added by killap
-   end else if (obj_pid(obj_being_used_with) == PID_DOCTORS_BAG) then begin
-         flush_add_timer_event_sec(self_obj, random(120, 300), 3);
-         inc_general_rep(REP_BONUS_MODOC_HELP_BESS);
-         party_add_self;
-         reg_anim_clear(self_obj);
-         reg_anim_begin();
-            reg_anim_animate(self_obj, ANIM_back_to_standing, -1);
-         reg_anim_end();
-         critter_uninjure(self_obj, DAM_CRIP_LEG_RIGHT);
    end
-   //end added
 end
 
 procedure push_p_proc begin
