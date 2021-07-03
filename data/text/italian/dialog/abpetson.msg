@@ -19,7 +19,7 @@
 {304}{}{Interessante. Ero curioso riguardo altro.}
 {305}{}{Nevermind, I must be going.}
 {400}{}{What else would you like to know?}
-{401}{}{What can you tell me about the Abbey?}
+{401}{}{Cosa puoi dirmi a proposito dell'Abazia?}
 {402}{}{Sai nulla a proposito di un Kit di Creazione del Giardino dell'Eden?}
 {500}{}{Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
  in the monastery's computers. Unfortunately for you, those monks are real protective of their information--afraid that it'll

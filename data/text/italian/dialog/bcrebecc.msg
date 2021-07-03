@@ -107,7 +107,7 @@
 {206}{}{Grazie per tutto quello che hai fatto per me.}
 {207}{}{Non saprei dirti il motivo, ma io non credo che gli schiavisti l'abbiano catturata. Ho la strana sensazione
  che qualcos'altro stia succedendo. E poi c'e' questa sensazione di essere seguita. Ce l'ho da
- quando ho parlato con Zeke a proposito di Chrissy. Ho bisogno che qualcuno mi aiuti a trovare mia figlia.
- Mi aiuterai? Ti prego.}
+ quando ho parlato con Zeke a proposito di Chrissy. Ho bisogno che qualcuno mi aiuti a trovare mia figlia,
+ mi aiuterai? Ti prego.}
 {208}{}{Continuano a mandare gente nel tentativo di scacciarci con le buone dalla nostra casa, ma non riescono a capire che non abbiamo un altro posto dove andare. Se ce ne andassimo da qui non saremmo in grado di sopravvivere.}
 {209}{}{Sai, una cosa mi lascia perplessa: sono riusciti a riparare alcune cose, ma non le luci. Quel dannato posto e' illuminato esclusivamente da torce. Ad ogni modo, Darion non vuole che qualcuno sappia cosa sta succedendo nel vault. Teme che qualcuno potrebbe portarcelo via, se lo scoprissero. Per questo motivo ci ha detto di mandare via chiunque si faccia vivo - soprattutto se proveniente da NCR.}

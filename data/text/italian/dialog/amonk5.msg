@@ -7,7 +7,7 @@
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
 {300}{}{Si'?}
 {301}{}{You guys sure have a lot of computers here.}
-{302}{}{What can you tell me about the Abbey?}
+{302}{}{Cosa puoi dirmi a proposito dell'Abazia?}
 {303}{}{Tell me about your leader.}
 {304}{}{Do you have any info about a GECK?}
 {305}{}{Do you know where I could find Vault 13?}

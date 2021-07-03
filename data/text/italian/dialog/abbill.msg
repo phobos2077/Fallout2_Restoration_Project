@@ -1,8 +1,8 @@
-{100}{}{You see trader Bill.}
+{100}{}{Vedi un mercante.}
 {101}{}{Vedi un vecchio mercante.}
 {200}{}{Ehila', viaggiatore. Mi chiamo Bill. Cosa posso fare per te?}
 {201}{}{Bentornato. Hai bisogno di qualcos'altro?}
-{202}{}{Let's barter.}
+{202}{}{Barattiamo.}
 {203}{}{Ho saputo che sei la persona giusta con la quale parlare riguardo le carovane.}
 {204}{}{Lasciamo perdere. Ci vediamo.}
 {210}{}{Say, I've noticed a lot of old equipment and items have been collected here at the Abbey.
