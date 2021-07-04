@@ -8,7 +8,8 @@
 {107}{}{Il dottore vuole riparare il suo cane. Mi ha mandato a prendere il pezzo che gli serve.}
 {108}{}{D'accordo. Addio.}
 {109}{}{Raul, Quincy vuole vederti.}
-{110}{}{Quincy, eh? Bueno, Raul no tiene voglia de vederlo, amigo. Raul es stanco de esta mierda!}
+{110}{}{Quincy, eh? Bueno, Raul no tiene voglia de vederlo, amigo. Raul es stanco 
+ de esta mierda, lo sai?}
 {111}{}{Okay.}
 {112}{}{Quincy dire tu stronzo. Tu no avere palle per vedere lui.}
 {113}{}{Bene.}

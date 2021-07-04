@@ -30,6 +30,6 @@
 {721}{}{You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?}
 {722}{}{Io speciale. Io aiutare.}
 {723}{}{Io no aiutare.}
-{730}{}{Really? Great! Please give this machine part to Max in the copying room. He can be found in the BASEMENT. Okay?}
+{730}{}{Davvero? Bene! Per favore porta questo pezzo a Max nella stanza delle copie. Lo puoi trovare nel SEMINTERRATO. Okay?}
 {731}{}{Non ti deludero'!}
-{740}{}{You keep on truckin' now.}
+{740}{}{Devi allenarti di piu'.}

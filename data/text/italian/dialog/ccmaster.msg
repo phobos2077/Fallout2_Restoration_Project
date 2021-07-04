@@ -58,7 +58,7 @@
 {156}{}{Ascolta, buffone: non fare l'idiota o faro' rapporto a chi di dovere. Rispondi alla domanda. }
 {157}{}{Arroyo.}
 {158}{}{42.}
-{159}{}{Adesso basta! Riporta le tue chiappe dal tuo sergente. Ti faro' mettere in consegna!}
+{159}{}{Adesso basta! Riporta le tue chiappe dal tuo sergente. Congedato.}
 {160}{}{La quarantaduesima, eh? Bella unita'. Okay. Ecco la tua uniforme. Puoi andare, soldato.}
 {161}{}{Cosa sei, sordo? Sei tu quel tipo o no?}
 {162}{}{Si'.}

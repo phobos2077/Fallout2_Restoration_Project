@@ -9,7 +9,7 @@
 {108}{}{Disobbedire ad un ordine diretto di un ufficiale superiore e' considerato tradimento. Non ho tempo per convocare la corte marziale, quindi me ne occupero' personalmente. Guardie! Uccidete questo idiota!}
 {109}{}{Okay.}
 {110}{}{Fottiti!}
-{111}{}{Il FOB e' nell'armadietto la' in fondo. Fa' in modo che l'ufficiale di servizio mi contatti, una volta che il codice sara' stato messo al sicuro. Puoi andare.}
+{111}{}{Il FOB e' nell'armadietto la' in fondo. Fa' in modo che l'ufficiale di servizio mi contatti, una volta che il codice sara' stato messo al sicuro. Congedato!}
 {112}{}{Sissignore!}
 {113}{}{Fa' in fretta, soldato: non ho tutto il giorno.}
 {114}{}{Sissignore!}

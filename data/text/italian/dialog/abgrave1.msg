@@ -1,6 +1,6 @@
 {100}{}{Vedi un paletto segnatombe. }
 {101}{}{Sul paletto c'e' scritto: }
-{102}{}{"Here lies Brother Gregory. A man who knew no limits."}
+{102}{}{"Qui' giace Fratello Gregory. Un uomo che non conosceva limiti."}
 {103}{}{"Aunt Patty. Good riddance indeed."}
 {104}{}{"Here lies Per Joner. Died one rock too short."}
 {105}{}{"Here lies Father Michael. Founder, Father, Fighter."}
