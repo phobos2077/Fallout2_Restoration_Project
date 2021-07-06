@@ -2,7 +2,7 @@
 {101}{}{Você vê Marc, um guarda.}
 {102}{}{Você vê Marc, um dos guardas de Tyler.}
 {150}{}{Yo, Tyler!}
-{200}{}{Mas o que...?!}
+{200}{}{Mas o que...?}
 {225}{}{Obrigado pela dica. Essa foi uma coisa divertida.}
 {226}{}{Eu sabia que poderia pegar os bichanos.}
 {227}{}{Pena que matou todos eles. Agora o que vamos fazer?}

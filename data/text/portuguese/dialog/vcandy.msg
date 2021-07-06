@@ -115,7 +115,7 @@
 {214}{}{Bem, de acordo com os esquemas que eu vi, pode-se implantar placas cutâneas e dissipadores térmicos no esqueleto de uma pessoa usando os seguintes procedimentos...}
 {215}{}{Huh. Bem, suponho que com a ajuda do ol'Doctor eu posso fazer a operação. Claro, vou precisar de algumas placas de impacto e dissipadores primeiro...eu posso tirá-las de uma combat armor, se você achar alguma.}
 {216}{}{Você pode me dar informações sobre alguns implantes?}
-{217}{}{Eu tenho uma combat armor bem aqui. Você pode me dar informações sobre alguns implantes.}
+{217}{}{Eu tenho uma combat armor bem aqui. Você pode me dar informações sobre alguns implantes?}
 {218}{}{Hmmm. Está certo, então. Eu preciso de outra coisa...}
 {219}{}{Valeu. Eu volto mais tarde.}
 {220}{}{Ei! Você está falando sério, então. Bem, agora, esse é um empreendimento de risco. Se os Cidadãos descobrirem que estou usando o ol'Doctor para isso, levam-no de volta.}

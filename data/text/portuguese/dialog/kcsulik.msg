@@ -451,14 +451,16 @@
 {3038}{}{Talvez nós deve voltar aqui.}
 {3039}{}{Nós não entende.}
 {3040}{}{Nós não sabe.}
-{3050}{slk86}{Estar em casa ser legal, mas o lugar parecer menor agora. Nós perdeu a estrada e a companhia de amigo tão legal como você. Quer que nós ande junto de novo?}
+{3050}{slk86}{Estar em casa ser legal, mas o lugar parecer menor agora. Nós perdeu a estrada e a 
+companhia de amigo tão legal como você. Quer que nós ande junto de novo?}
 {3051}{}{Seria ótimo.}
 {3052}{}{Desculpe, não agora.}
 {3053}{slk87}{Nós fazer despedida e levar você embora.}
 {3054}{}{OK.}
 {3055}{slk88}{Pena. Você precisar mais disso que mim. Ir bem.}
 {3056}{}{Um segundo, acho que seria bom você vir comigo. Desculpe, só não queria te separar da sua casa tão cedo.}
-{3057}{slk89}{Bom ver casa, mas não enquanto irmã ainda estar perdida. Ainda querer ficar na sua companhia.}
+{3057}{slk89}{Bom ver casa, mas não enquanto irmã ainda estar perdida. Ainda querer ficar 
+na sua companhia.}
 {3058}{}{Sim.}
 {3059}{}{Não, eu acho que é hora de você procurar por você mesmo.}
 {3060}{slk90}{Talvez. Nós e mim sentir saudades. Espíritos bom esteja com você, amigo.}

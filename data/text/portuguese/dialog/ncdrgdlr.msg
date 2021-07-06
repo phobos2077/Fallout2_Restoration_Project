@@ -55,7 +55,7 @@
 {264}{}{Você quer voar? Você tem grana? Fale COMIGO.}
 {265}{}{Eu tenho a parade que vai te ajudar a beijar o céu, amigo.}
 {266}{}{Eu tenho Jet, Jet e MAIS Jet. Vamos conversar.}
-{267}{}{ Eu tenho Jet suficiente para colocá-lo em órbita, amigo. Vamos falar de preço?}
+{267}{}{Eu tenho Jet suficiente para colocá-lo em órbita, amigo. Vamos falar de preço?}
 {268}{}{Você já experimentou? Deixa eu te mostrar o melhor Jet da cidade.}
 {269}{}{Ta procurando Jet? Vamos negociar.}
 {270}{}{Ta procurando Jet? Vamos conversar.}

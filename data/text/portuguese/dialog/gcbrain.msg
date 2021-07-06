@@ -232,7 +232,7 @@ pouco mais fora da cidade fazem minha fama.}
 {656}{}{Bem, foi o que eu supus, mas o quê?}
 {657}{}{Como o quê?}
 {658}{}{Uma peça? Que tipo de peça?}
-{659}{}{Por que não me conta sobre esse último passo e eu pensarei em ajudá-lo.}
+{659}{}{Por que não me conta sobre esse último passo e eu pensarei em ajudá-lo?}
 {670}{}{O reator, sempre o reator (suspiro). Volte quando tiver tido algum
  progresso nele.}
 {671}{}{Volte mais tarde. Estou me comunicando com uma força maior, ou algo assim (hunf).}

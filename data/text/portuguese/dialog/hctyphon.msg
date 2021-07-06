@@ -148,7 +148,7 @@
 {319}{}{Imagine estar preso NESTE corpo! Nenhuma ação! Nenhuma ação mesmo!}
 {320}{}{Talvez se você desse uma chance à fotosíntese...}
 {321}{}{Eu não sou responsável pelas minhas raízes evoluídas, seu idiota verde!}
-{322}{}{Yu-hu! Espero que você possa sintetizar metano?}
+{322}{}{Yu-hu! Espero que você possa sintetizar metano!}
 {323}{}{Minhas folhas! Minhas pobres folhas! Aaaaah!}
 {324}{}{Eu gosto desse lugar. Estou pensando em plantar minhas raízes aqui.}
 {325}{}{Muito bem, já chega com essas piadas de plantas, parceiro.}

@@ -60,7 +60,7 @@
 {145}{}{Bem, é que... eu devo uma grana pra Lou e não posso ir até quitar a dívida. Mas assim que eu conseguir
  (snif) eu vou pegar meu namorado e sair dessa vida o mais rápido que puder. Se eu pudesse ao menos
  conseguir uma grana extra.}
-{146}{}{Quanto você precisa pra pagar à Lou.}
+{146}{}{Quanto você precisa pra pagar à Lou?}
 {147}{}{Seu namorado não pode te ajudar com o débito?}
 {148}{}{Essa é uma história triste, mas você deve conseguir o dinheiro de que precisa logo logo. Desde que continue com suas
  costas no colchão, você consegue. Tchau.}

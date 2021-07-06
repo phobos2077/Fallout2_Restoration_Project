@@ -194,12 +194,12 @@
 {933}{}{Mamãe tem estado triste de verdade desde que o meu irmão Richie morreu}
 {934}{}{Mamãe tá lá pra igreja de novo.}
 {935}{}{A nossa família é a melhor.}
-{936}{}{Phfttttt}
+{936}{}{Phfttttt!}
 {937}{}{Cabeça de cocô! Cabeça de cocô!}
 {938}{}{O tio Nick diz que a gente não precisa ficar falando palavrão. O tio Nick precisa sair daqui mais vezes.}
 {939}{}{Quer jogar Tribais e Escravistas?}
 {940}{}{A gente tem 17 irmãos e irmãs.}
-{941}{}{Wheeeeeeee}
+{941}{}{Wheeeeeeee!}
 {942}{}{É você!}
 {943}{}{Você pegou doença das mulheres!}
 {944}{}{Você parece um radscorpion!}

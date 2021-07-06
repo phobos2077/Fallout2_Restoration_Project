@@ -71,7 +71,7 @@ a produção em massa dessa droga! E de tantas outras!}
 {301}{}{Está certo.}
 {302}{}{M...O...O...Moo?}
 {303}{}{Não, eu lamento. Está incorreto.}
-{304}{}{::click clack:: ::click clack:: (batidas com a cauda)}
+{304}{}{::click clack:: ::click clack:: (batidas com a cauda)::}
 {305}{}{Correto! Bom garoto! Sua habilidade com o código Morse está melhorando bem.}
 {306}{}{Você provou ser tão perceptivo quanto o escorpião.}
 {400}{}{Xeque-mate ::click::}

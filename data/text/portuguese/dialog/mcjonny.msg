@@ -57,5 +57,5 @@
 {400}{}{Valeu por me salvar, Senhor.}
 {401}{}{E muito bom estar em casa!}
 {402}{}{Wahoo...}
-{403}{}{Não tenho mais medo do escuro.}
+{403}{}{Não tenho mais medo do escuro!}
 {404}{}{Obrigado por me salvar, senhora.}

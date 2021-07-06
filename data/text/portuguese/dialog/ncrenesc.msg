@@ -252,7 +252,7 @@ a seus moradores sobre o GECK. Obrigado Renesco. Louve o Vault!}
 {610}{}{Se você está indo para Vault City, não me agradeça, primitivo. É 
 melhor ficar em New Reno. Pelo menos as pessoas querendo te botar num túmulo 
 são honestas sobre isso.}
-{611}{}{Tá certo, então… estou indo para Vault City. Louve o vault!}
+{611}{}{Tá certo, então… estou indo para Vault City. Louve a Vault!}
 {612}{}{Entendi. Obrigado pelo aviso.}
 {620}{}{Por que você acha que é chamada Vault TREZE, chupa-lanças? O quê, 
 sua tribo tinha poucos miolos ou você celebra rituais de lobotomia para 
@@ -573,4 +573,4 @@ teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
 {6130}{}{All the parts that weren't belches or grunts, anyway. Now wait here. (Renesco takes your money and goes to work). And for the love of God, *try* not to get any of my merchandise stuck in your simian face-holes while my back is turned.}
 {6141}{}{Oh, *this* again. My fee is $200, in the highly likely event that it slipped your mind.}
 {6142}{}{Once more, in case you were distracted by something shiny the first time around: $300. And don't push your luck.}
-{6259}{}{MATAR VOCÊ}
+{6259}{}{ MATAR VOCÊ}

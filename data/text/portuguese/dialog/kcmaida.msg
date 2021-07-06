@@ -11,8 +11,7 @@
 {205}{}{É que eu não sabia o que dizer para alguém tão atraente quanto você. Eu sempre fico nervoso quando
  estou perto de uma mulher bonita. Por favor, aceite minhas desculpas.}
 {206}{}{É que você parece tão civilizada e bonita. Eu tive inveja de você. Por favor me perdoe.}
-{210}{}{Olá, meu nome é Maida Buckner. Eu ajudo minha mãe a cuidar do nosso negócio. Deseja um drink?
-Recomendo nuka-cola.}
+{210}{}{Olá, meu nome é Maida Buckner. Eu ajudo minha mãe a cuidar do nosso negócio. Posso ajudar?}
 {211}{}{Ungh?}
 {212}{}{Eu}
 {213}{}{i de iscola?}

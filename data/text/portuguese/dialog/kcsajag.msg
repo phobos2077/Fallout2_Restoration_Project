@@ -117,5 +117,5 @@
 {2901}{}{ Há homens-inseto mutiladores de brahmins}
 {2902}{}{ roedores de tamanho incomum}
 {2903}{}{ um espírito ambulante}
-{2904}{}{ e um caçador desaparecido}
+{2904}{}{ um caçador desaparecido}
 {2905}{}{. Klamath está realmente se tornando um ponto quente ultimamente.}

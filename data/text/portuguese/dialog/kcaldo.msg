@@ -3,15 +3,15 @@
 {200}{}{Olá! Nunca te vi aqui em Klamath antes. Sou Aldo, o anfitrião oficial da cidade (soluça). Meu trabalho é receber os visitantes e responder qualquer pergunta que eles possam ter sobre a nossa bucólica cidadezinha. Seja bem-vindo a Klamath. (soluça) Você seria...?}
 {201}{}{Ah, valeu pelas boas-vindas. Sou só um viajante.}
 {202}{}{Meu nome é}
-{203}{}{ valeu por me receber aqui.}
+{203}{}{. Valeu por me receber aqui.}
 {204}{}{ sou o Escolhido de Arroyo.}
-{205}{}{Não te interessa! Agora sai fora daqui, seu bêbado imundo!}
+{205}{}{Você não precisa saber meu nome ou qualquer coisa sobre mim! Agora sai fora daqui, seu bêbado imundo!}
 {206}{}{Não acredito que uma cidade como Klamath tenha um bêbado fedorento como você recebendo os visitantes ou fazendo qualquer outra coisa.}
 {300}{}{O Escolhido. Oh poderoso }
 {301}{}{, você deve ser uma pessoa muito importante e poderosa entre os seus. Com certeza alguém da sua (soluça) categoria ficaria feliz de dar gorjeta ao anfitrião oficial da cidade, como de costume. (coff)}
 {302}{}{Tá bom. Toma uma gorjeta. Mas fique longe da bebida.}
 {303}{}{Uma gorjeta? Ta bom. Acho que vale a pena gastar $5 pra você parar de me encher o saco.}
-{304}{}{Ta certo. Não sou eu que vou quebrar o costume de dar gorjetas. 5$ ta de bom tamanho?}
+{304}{}{Tá certo. Não vou quebrar o costume de dar gorjetas. 5$ tá de bom tamanho?}
 {305}{}{Acho melhor você me dar uma gorjeta, só assim não vou perder meu tempo livrando Klamath da sua pele imunda.}
 {306}{}{Foi mal, mas dinheiro para "O Escolhido" tem pouca utilidade. Não tenho nenhum aqui comigo pra te dar.}
 {350}{}{Bem }

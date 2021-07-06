@@ -39,7 +39,7 @@
 o que as outras pessoas te contam?}
 {132}{}{Você realmente gosta do Franc, hein?}
 {133}{}{Adeus.}
-{134}{}{E do que você saberia, seu bosta? Dá o fora daqui antes que se machuque.}
+{134}{}{E do que você saberia, seu bosta? Dá o fora daqui antes que se machuque!}
 {135}{}{Tempos atrás, havia um cara que disse pra gente que tudo que nós tinha que fazer era pensar por nós mesmos. Minha mãe
  e meu pai disseram que ele falava isso pra mim. Ele morreu na prisão, mas foi muito influente pra mim. As pessoas disseram que
 ele era muito esperto. Eu acho que elas estavam certas. Quero dizer, olha pra mim!}

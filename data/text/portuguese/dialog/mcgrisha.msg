@@ -94,7 +94,7 @@ Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matando os brah
 {260}{}{Sabia que você seria capaz. Vamos ver... Te devo $1000 pelo trabalho completo. Aqui está. Faça bom uso.}
 {300}{}{O que diabos você está acontecendo aqui?}
 {301}{}{Uhhh... Senhor, eu estava apenas...}
-{302}{}{Tire as mãos dela... AGORA!!!}
+{302}{}{Mantenha suas mãos imundas longe dela...}
 {350}{}{[Olhando para Bessy] Estou vendendo.}
 {360}{}{Eu gostaria que você fizesse carne seca para mim.}
 {400}{}{O que está havendo aqui?}

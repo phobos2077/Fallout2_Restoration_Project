@@ -80,8 +80,9 @@
 {179}{}{ punti di danno.}
 {180}{}{Sei troppo debole per forzare la serratura.}
 {181}{}{ forza il contenitore.}
-{182}{}{, nel tentativo di forzare la serratura, si stira la schiena e subisce un punto di danno.}
-{183}{}{, nel tentativo di forzare la serratura, si stira la schiena e subisce }
+{182}{}{ nel tentativo di forzare la serratura, si stira la schiena
+ e subisce un punto di danno.}
+{183}{}{ nel tentativo di forzare la serratura si stira la schiena e subisce}
 {184}{}{ punti di danno.}
 {185}{}{ e' troppo debole per forzare la serratura.}
 {186}{}{ si stira la schiena nel tentativo di forzare la serratura e subisce un punto di danno.}

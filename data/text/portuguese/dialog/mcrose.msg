@@ -8,8 +8,8 @@
 {153}{}{Ladrao! Ladrao! Ladrao!}
 {154}{}{Bem-vindo ao de Rose Bed and Breakfast. Meu, não é o jovem cintas. O que Rose pode ajudar
   você hoje?}
-{155}{}{Bem-vindo ao de Rose Bed and Breakfast. Oh meu, o que é uma senhora muito jovem, você é. O que Rose pode fazer
-  para você hoje?	}
+{155}{}{Bem-vindo ao Rose Bed and Breakfast. Nossa, que bela jovem senhorita você é. O que Rose 
+pode fazer por você hoje?	}
 {156}{}{Estou morrendo de fome! O que você tem que comer por aqui?}
 {157}{}{Eu gostaria de alugar um quarto para a noite.}
 {158}{}{Você deve ouvir muitas coisas pois trabalha aqui. Se importa se eu lhe fazer algumas perguntas?}

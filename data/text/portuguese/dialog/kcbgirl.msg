@@ -13,7 +13,7 @@
 {121}{}{Faz muito tempo que você não é acariciado?}
 {122}{}{Tomara que da próxima vez dure um pouco mais.}
 {123}{}{It's not a race, you know.}
-{124}{}{Seus amigos te chamam de 'flash'? Porque nunca vi nada tão rápido.}
+{124}{}{Seus amigos te chamam de 'Flash'? Porque nunca vi nada tão rápido.}
 {125}{}{Se todos os meus clientes fossem assim tão rápidos, eu poderia chegar em casa mais cedo.}
 {126}{}{It's more fun if you wait 'til I help you.}
 {127}{}{Se você tivesse esperado até que eu tirasse a minha roupa, com certeza iria gostar mais.}

@@ -4,7 +4,7 @@
 {152}{}{Você vê o resmunguento Orville Wright. Ele parece estar aborrecido e está suspirando muito.}
 {200}{}{Afaste-se daí!}
 {210}{}{Caras, cuidado! É um assassino!}
-{211}{}{Você vai morrer, feadaputa!}
+{211}{}{Você vai morrer, feladaputa!}
 {212}{}{Venha até minha casa, você vai...}
 {213}{}{Então eles te mandaram pra fazer o trabalho sujo...}
 {214}{}{Assassino barato, esse foi seu último trabalho...}
