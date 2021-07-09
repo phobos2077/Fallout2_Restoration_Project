@@ -11,7 +11,7 @@
 {156}{}{Não posso falar com tribais.}
 {157}{}{Cachorro salsicha.}
 {158}{}{Mamãe disse que se eu fizer besteiras você vai me comer.}
-{159}{}{Não tenho medo de você}
+{159}{}{Não tenho medo de você!}
 {160}{}{Socorroooo!}
 {161}{}{Tá trás de mim!}
 {162}{}{Por favor, não me faça mal!}

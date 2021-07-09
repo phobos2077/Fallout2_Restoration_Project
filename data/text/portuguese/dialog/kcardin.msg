@@ -187,5 +187,5 @@
 {2002}{}{Ummm}
 {2003}{}{Eu ajudo.}
 {2004}{}{Eu não conheço nenhuma história semelhante. TCHAU!}
-{2005}{}{Oh, obrigada. Deixa eu marcar no seu mapa o local que ele me falou. Eu espero que você consiga achá-lo pra mim. Ele não é muito, mas eu ainda o amo e sinto mais falta dele do que achei que pudesse ter. Por favor, encontre-o pra mim.}
+{2005}{}{Oh, obrigada. Deixa eu marcar no seu mapa o local que ele me falou. Eu espero que você consiga achá-lo pra mim. Ele não é grande coisa, mas eu ainda o amo e sinto mais falta dele do que achei que pudesse ter. Por favor, encontre-o pra mim.}
 {2006}{}{Sou forte. E acredito em mim mesmo.}

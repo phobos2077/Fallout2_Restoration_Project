@@ -117,8 +117,8 @@
 {254}{}{Esqueça. Posso te perguntar uma coisa?}
 {255}{}{OK, eu vou comprá-lo.}
 {256}{}{Deixa pra lá. Tchau.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
+{257}{}{Vault... Vault... Vault 13? Não, nunca ouvi falar disso. Não me diga que eles apareceram
+  com outro novo químico! Nada pode vencer o jet!}
 {258}{}{Não, seu idiota.}
 {259}{}{Não, é um lugar. Posso pedir outra coisa?}
 {260}{}{Yes, a wonderful drug.}
