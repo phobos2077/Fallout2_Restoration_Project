@@ -114,7 +114,8 @@
 {600}{}{Que sais-tu de cette maison hantée ?}
 {800}{}{Les orphelins sont vraiment nombreux dans cette ville.}
 {801}{}{Oui, c'est malheureux hein ? Ces enfants n'ont pas de maison et ils volent pour vivre... C'est terrible.}
-{802}{}{Quoi, on ne peut rien y faire ? On m'a dit que t'aurais bien une ou deux idées à ce propos.}
+{802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that
+ actually gives a damn about those kids.}
 {803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
  most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
  decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that

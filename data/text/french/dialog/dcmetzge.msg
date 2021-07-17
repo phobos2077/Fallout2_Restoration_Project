@@ -225,19 +225,14 @@
 {900}{}{C'est quoi ces questions à la noix ?! Tu commences vraiment à me les broyer menu ! Si tu n'as pas quelque chose de mieux à dire, dégage.}
 {901}{}{Euh, désolé. J'avais autre chose en tête.}
 {902}{}{Ok. Je crois que je vais partir alors.}
-{903}{}{Actually, I think I'm going to waste *you* and your whole sick fucking operation.}
-{910}{}{This is all I've got in stock here, you picky fuck, but I've always got new merchandise coming in from my other slave camp.
- Maybe if you check back later, I'll have something that tickles your fancy -- but they're mostly ignorant tribals that all look the
- fucking same, so if that's not your thing, you might be shit outta luck.}
-{911}{}{Look, this might be an unusual request, but I'd really like to get first dibs on any new merchandise you got. Is there some
- way I could go check out the stock at your other camp? Of course, I'd be willing to pay a premium price.}
-{912}{}{Alright, I'll keep checking back then.}
-{913}{}{Good, but next time do me a favor and don't waste my time unless you've got actual business to discuss.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
-{915}{}{Got it. Let me ask you something else.}
-{916}{}{Thanks. I'll be on my way now. Bye.}
+{903}{}{Non, je vais te faire dégager *toi* et toute ta petite opération.}
+{910}{}{C'est tout ce que j'ai en stock ici, enfoiré de chipoteur. Mais j'ai encore de la marchandise en arrivage de mon autre camp. Peut-être que si tu reviens plus tard, j'aurais quelque chose qui pourrait bien te satisfaire -- mais ce sont pour la plupart des idiots de tribales qui se ressemblent tous, donc si c'est pas ton truc, c'est pas la peine.}
+{911}{}{Bon ça va ptet te paraitre inhabituel, mais j'aimerai vraiment avoir être le prem's sur une de te nouvelles marchandise. Il y a pas moyen que j'aille voir directement le stock que tu as à ton autre camp ? Je suis prêt à payer le supplément.}
+{912}{}{D'accord, je reviendrais voir alors.}
+{913}{}{Bien, la prochaine fois, fait moi une faveur et évite de me faire perdre mon temps à moins d'avoir de vraies affaires à discuter.}
+{914}{}{Un supplément, hein ? Je vois qu'on parle le même langage. Habituellement on fait les ventes ici, mais je peux faire une exception, seulement si t'es un mec sérieux. Je vais te dire comment y aller, mais tu va devoir bien fermer ton clapet. J'te le promet, si tu t'avère être un sale espions de ces foutus Rangers, j'te traquerai comme un animal et j'te dépècerai vivant. [Tu écoutes ses indications, et tu notes la position du Camp des Esclavagistes sur ton Pip-Boy.]}
+{915}{}{Bien reçu. Je voudrais te demander autre chose.}
+{916}{}{Merci. Je vais y aller. A plus.}
 {1360}{}{ pour elle. Combien ?}
 {1361}{}{ ?}
 {1363}{}{.}
