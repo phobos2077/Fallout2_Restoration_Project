@@ -2,7 +2,11 @@
 #ifndef UPU_H
 #define UPU_H
 
-
+#define upu_ini "mods\\upu.ini"
+#define sec_main "main"
+#define upu_setting(section, setting) get_ini_setting(upu_ini + "|" + section + "|" + setting)
+#define upu_string(section, setting) get_ini_string(upu_ini + "|" + section + "|" + setting)
+#define upu_msetting(setting) get_ini_setting(upu_ini + "|" + sec_main + "|" + setting)
 
 //force use item remotely
 procedure create_and_use_itempid_on(variable target, variable itempid) begin

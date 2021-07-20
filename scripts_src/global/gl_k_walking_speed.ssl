@@ -1,0 +1,96 @@
+#define SCRIPT_REALNAME "gl_k_walking_speed"
+#include "../headers/define.h"
+#include "../headers/rpu.h"
+
+#define set_walking_speed "critters_walk_faster"
+#define fps_offset 0x4
+#define frames_per_dir_count_offset 0x8
+
+procedure start;
+variable enabled;
+
+// add "b.frm" to get filename
+procedure get_slow_frms begin
+  variable slow_walk_frms;
+  slow_walk_frms = [
+    "marobta",
+    "marobtl",
+    "marobtm",
+    "navgula",
+    "navguld",
+    "navgulh",
+    "navguli",
+    "nfasiaa",
+    "nflynna",
+    "nfnicea",
+    "nmasiaa",
+    "nmbonca",
+    "nmboncj",
+    "nmboxxa",
+    "nmboxxe",
+    "nmbrsra",
+    "nmbrsrj",
+    "nmcoppa",
+    "nmcopph",
+    "nmcoppi",
+    "nmcoppj",
+    "nmcoppk",
+    "nmfatta",
+    "nmfattd",
+    "nmfatth",
+    "nmfattj",
+    "nmganga",
+    "nmgangd",
+    "nmgangh",
+    "nmgangi",
+    "nmgangj",
+    "nmgangk",
+    "nmlabba",
+    "nmlabbh",
+    "nmmexia",
+    "nmmexid",
+    "nmmexih",
+    "nmmexii",
+    "nmmexij",
+    "nmmyrna",
+    "nmmyrnd",
+    "nmmyrnh",
+    "nmnicea",
+    "nmniceh",
+    "nmnicei",
+    "nmoldda",
+    "nmolddh",
+    "nmolddj",
+    "nmrgnga",
+    "nmrgngd",
+    "nmrgngh",
+    "nmrgngi",
+    "nmrgngj",
+    "nmrgngk"  
+  ];
+  return slow_walk_frms;
+end
+
+procedure start begin
+  if game_loaded then begin
+    enabled := upu_msetting(set_walking_speed);
+    if enabled then begin
+      variable fs_override := check_filesystem_override;
+      if fs_override then begin
+        variable frm, frms, file, path, cur_frames_per_dir;
+        frms = get_slow_frms;
+        ndebug("initializing");
+        foreach frm in frms begin
+          path := "art\\critters\\" + frm + "b.frm";
+          file := fs_copy(path, path);
+          fs_seek(file, frames_per_dir_count_offset);
+          cur_frames_per_dir = fs_read_short(file);
+          fs_seek(file, fps_offset);
+          fs_write_short(file, cur_frames_per_dir); // 1 step per second
+          ndebug("set fps to " + cur_frames_per_dir + " in " + path);
+        end
+        ndebug("initialized");
+      end ndebug("fs override disabled, aborting");
+    end
+  end
+end
