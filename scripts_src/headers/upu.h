@@ -8,6 +8,17 @@
 #define upu_string(section, setting) get_ini_string(upu_ini + "|" + section + "|" + setting)
 #define upu_msetting(setting) get_ini_setting(upu_ini + "|" + sec_main + "|" + setting)
 
+procedure check_filesystem_override begin
+  variable fs_override := get_ini_setting("ddraw.ini|Misc|UseFileSystemOverride");
+  if fs_override != 1 then begin
+    ndebug("UseFileSystemOverride is disabled, enabling");
+    set_ini_setting("ddraw.ini|Misc|UseFileSystemOverride", 1);
+    float_msg(dude_obj, SCRIPT_REALNAME + ": filesystem override was disabled, some features failed to load. The setting is corrected. EXIT AND RE-LAUNCH THE GAME now.", FLOAT_MSG_WARNING);
+    return false;
+  end
+  return true;
+end
+
 //force use item remotely
 procedure create_and_use_itempid_on(variable target, variable itempid) begin
    variable item;
