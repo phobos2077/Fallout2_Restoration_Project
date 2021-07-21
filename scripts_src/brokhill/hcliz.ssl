@@ -406,46 +406,6 @@ end
 procedure Node999 begin
 end
 
-// Not lines are allowed to be added below here
-// The Following lines are from the Design Tool
-//~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
-
-/*procedure Node001 begin
-   if( (From_WTG == 1) and (local_var(LVAR_Herebefore) == 1) ) then begin
-      // Only display this Reply if we have already met Liz.
-      From_WTG := 0;
-      Reply(104);
-   end
-   else if (From_7 == 1) then begin
-      From_7 := 0;
-      Reply(104);
-   end
-   else
-      Reply(103);
-
-   if( dude_iq == 1 ) then
-      NOption(105, Node002, 001);
-   if( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then
-      NOption(106,Node003,002);
-   NOption(107,Node007,004);
-   NOption(108,Node008,004);
-   if (check_general_rep <= -250) then
-      NOption(109,Node009,004);
-   if ( ( map_var(MVAR_Know_Liz_Guns) == 1 ) and ( map_var( MVAR_Basement_Permission ) == 0 ) ) then
-      NOption(110,Node010,004);
-   //if (global_var(GVAR_BH_JAIL) == JAIL_ENLISTED) then
-//      NOption(111,Node010,004);
-
-   //added by killap - expansion (k9 armor)
-   if (local_var(LVAR_Sold_K9_Armor) == 0) then
-      NOption(200,Node030,004);
-   //end
-
-   NOption(112,Node999,004);
-end*/
-
-
-
 procedure Node001 begin
    variable dogmeat_armor_enabled := rpu_msetting(set_dogmeat_armor);
    if( local_var(LVAR_Herebefore) == 1 ) then begin
@@ -467,8 +427,6 @@ procedure Node001 begin
       NOption(109,Node009,004);
    if ( ( map_var(MVAR_Know_Liz_Guns) == 1 ) and ( map_var( MVAR_Basement_Permission ) == 0 ) ) then
       NOption(110,Node010,004);
-   //if (global_var(GVAR_BH_JAIL) == JAIL_ENLISTED) then
-//      NOption(111,Node010,004);
 
    //added by killap - expansion (k9 armor)
    if ((local_var(LVAR_Sold_K9_Armor) == 0) and dogmeat_armor_enabled) then
