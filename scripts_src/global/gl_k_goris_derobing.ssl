@@ -1,7 +1,6 @@
 #define SCRIPT_REALNAME "gl_k_goris_derobing"
 #include "../headers/define.h"
 #include "../headers/upu.h"
-#include "../headers/rpu.h"
 
 procedure start;
 variable enabled;
