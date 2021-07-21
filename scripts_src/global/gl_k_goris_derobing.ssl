@@ -1,5 +1,6 @@
 #define SCRIPT_REALNAME "gl_k_goris_derobing"
 #include "../headers/define.h"
+#include "../headers/upu.h"
 #include "../headers/rpu.h"
 
 procedure start;
@@ -7,7 +8,7 @@ variable enabled;
 
 procedure start begin
   if game_loaded then begin
-    enabled := rpu_msetting(set_goris_derobing);
+    enabled := upu_msetting(set_goris_derobing);
     if enabled then begin
       variable fs_override := check_filesystem_override;
       if fs_override then begin
