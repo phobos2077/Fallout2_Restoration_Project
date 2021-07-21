@@ -329,7 +329,7 @@ procedure critter_p_proc begin
          call Node070;
          ndebug("Bad Karma");
       end
-      else if ( (has_rep_childkiller) and (not(dude_perk(PERK_cult_of_personality))) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+      else if has_rep_childkiller then begin
          call Node071;
          ndebug("Childkiller");
       end
@@ -826,8 +826,7 @@ procedure Node940 begin
 end
 
 procedure Node951 begin
-//   call Node021;
-   if ( (dude_perk(PERK_cult_of_personality)) or ( (check_general_rep > 0) and (local_var(LVAR_reaction) > 30) ) ) then begin //edit by killap - ((dude_perk(PERK_cult_of_personality)))
+   if (self_rep_positive and (local_var(LVAR_reaction) > 30) ) then begin
       call Node021;
    end
    else begin
