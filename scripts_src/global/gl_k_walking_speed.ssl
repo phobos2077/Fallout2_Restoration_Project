@@ -1,6 +1,5 @@
 #define SCRIPT_REALNAME "gl_k_walking_speed"
 #include "../headers/define.h"
-#include "../headers/rpu.h"
 
 #define set_walking_speed "critters_walk_faster"
 #define fps_offset 0x4
