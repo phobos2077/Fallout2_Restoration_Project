@@ -7,6 +7,7 @@
 #define upu_setting(section, setting) get_ini_setting(upu_ini + "|" + section + "|" + setting)
 #define upu_string(section, setting) get_ini_string(upu_ini + "|" + section + "|" + setting)
 #define upu_msetting(setting) get_ini_setting(upu_ini + "|" + sec_main + "|" + setting)
+#define set_goris_derobing "goris_quick_derobing"
 
 procedure check_filesystem_override begin
   variable fs_override := get_ini_setting("ddraw.ini|Misc|UseFileSystemOverride");
