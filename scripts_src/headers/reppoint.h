@@ -48,6 +48,9 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define town_rep_worse_than(x) \
     (dude_has_cult and abs(global_var(TOWN_REP_VAR)) < x) \
     or ( (not dude_has_cult) and (global_var(TOWN_REP_VAR) < x) )
+#define town_rep_positive   town_rep_better_than(0)
+#define town_rep_negative   town_rep_worse_than(0)
+
 
 #define REP_BONUS_KILLED_GOOD_CRITTER       (-10)
 #define REP_BONUS_KILLED_CHILD              (-15)

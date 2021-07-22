@@ -167,7 +167,8 @@ procedure talk_p_proc begin
    GetReaction;
 
    if( self_can_see_dude ) then begin
-      if (TOWN_REPUTATION >= 0 or (dude_perk(PERK_cult_of_personality))) then begin // edit by killap - added (dude_perk(PERK_cult_of_personality))
+      town_
+      if not town_rep_negative then begin
          call Node001;
       end
       else if ((TOWN_REPUTATION < 0) and (TOWN_REPUTATION >= -50)) then begin

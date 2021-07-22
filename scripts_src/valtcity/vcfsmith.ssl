@@ -143,11 +143,11 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if ((TOWN_REPUTATION < -15 and not(dude_perk(PERK_cult_of_personality))) or (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_SCREW_SMITH)) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if town_rep_is_hated or (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_SCREW_SMITH) then
        floater(106);
    else if (global_var(GVAR_VAULT_PLOW_PROBLEM) == QUEST_NONE) then begin
        floater(107);
-       set_global_var(GVAR_VAULT_PLOW_PROBLEM,PLOW_WIFE_TALKED);
+       set_global_var(GVAR_VAULT_PLOW_PROBLEM, PLOW_WIFE_TALKED);
    end
    else if (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_FIXED) then
        floater(103);

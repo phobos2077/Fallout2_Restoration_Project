@@ -616,9 +616,9 @@ procedure Node015 begin
    else
       Reply(160);
 
-   if( ( ( check_general_rep >= -100 ) and (not(dude_perk(PERK_cult_of_personality))) ) and ( not(has_rep_slaver) ) and ( not(has_rep_childkiller) ) and ( dude_charisma > 1 ) ) then //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   if (self_rep >= -100) and (not has_rep_slaver) and (not has_rep_childkiller) and (dude_charisma > 1) then
       NOption(161, Node999, 004);
-   if( ( dude_charisma == 1 ) or ( has_rep_slaver ) or ( ( ( has_rep_childkiller ) or ( check_general_rep < -100 ) ) and (not(dude_perk(PERK_cult_of_personality))) ) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   if (self_rep < -100) or has_rep_slaver or has_rep_childkiller or (dude_charisma == 1)  then begin
       BOption(162, Node999, 004);
       NOption(163, Node999, 004);
    end

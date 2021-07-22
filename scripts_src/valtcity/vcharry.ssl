@@ -208,7 +208,7 @@ procedure talk_p_proc begin
    if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then
     float_msg(self_obj, message_str(SCRIPT_VCHARRY, random(145, 149)), FLOAT_MSG_YELLOW);
    //end
-   else if (TOWN_REPUTATION < -30 and not(dude_perk(PERK_cult_of_personality))) then begin // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   else if town_rep_is_vilified then begin
        floater(107);
    end
    else begin
