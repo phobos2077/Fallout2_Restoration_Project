@@ -112,7 +112,7 @@ procedure critter_p_proc begin
          add_timer_event(self_obj,game_ticks(random(6,21)),1);
       end
 
-      if ((TOWN_REPUTATION < 6 and not(dude_perk(PERK_cult_of_personality))) or (sleezy_stranger_flag)) then begin // added by killap - not(dude_perk(PERK_cult_of_personality))
+      if town_rep_worse_than(6) or sleezy_stranger_flag then begin
          scarydude:=dude_tile;
          here:=self_tile;
          if (run_from_dude == 0) then begin
@@ -192,7 +192,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   if ((TOWN_REPUTATION < 6 and not(dude_perk(PERK_cult_of_personality))) or (sleezy_stranger_flag)) then begin // edit by killap not(dude_perk(PERK_cult_of_personality))
+   if town_rep_worse_than(6) or sleezy_stranger_flag then begin
       call Node901;
       Flee_From_Dude
    end else call Node902;

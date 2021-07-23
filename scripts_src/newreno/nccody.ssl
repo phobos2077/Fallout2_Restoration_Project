@@ -217,7 +217,7 @@ procedure talk_p_proc begin
       start_dialog_at_node(Node016);
    end else if ((dude_wearing_power_armor) or (has_rep_slaver)) then begin
       start_dialog_at_node(Node012);
-   end else if ( (not(dude_perk(PERK_cult_of_personality))) and ((check_general_rep < -100) or (has_rep_childkiller))) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   end else if (self_rep < -100) or has_rep_childkiller then begin
       start_dialog_at_node(Node013);
    end else if (marcus_is_dude_companion) then begin
       start_dialog_at_node(Node014);

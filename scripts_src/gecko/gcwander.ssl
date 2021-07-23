@@ -174,7 +174,7 @@ procedure talk_p_proc begin
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_REPAIRED) then begin
          call Node001;
       end
-      else if (TOWN_REPUTATION > 9 or (dude_perk(PERK_cult_of_personality))) then begin // edit by killap added (dude_perk(PERK_cult_of_personality))
+      else if town_rep_better_than(9) then begin
          call Node002;
       end
       else begin
@@ -200,7 +200,7 @@ procedure talk_p_proc begin
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_REPAIRED) then begin
          call Node001;
       end
-      else if (TOWN_REPUTATION > 9 or (dude_perk(PERK_cult_of_personality))) then begin // edit by killap added (dude_perk(PERK_cult_of_personality))
+      else if town_rep_better_than(9) then begin
          call Node002;
       end
       else begin

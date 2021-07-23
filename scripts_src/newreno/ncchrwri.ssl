@@ -205,7 +205,7 @@ end
 procedure Node999 begin
 end
 procedure Node990 begin
-   if ( (not(dude_perk(PERK_cult_of_personality))) and ( (has_rep_berserker) or (has_rep_childkiller) or (check_general_rep < -100)) ) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if has_rep_berserker or has_rep_childkiller or (self_rep < -100) then begin
       call Node013;
    end else begin
       call Node012;
