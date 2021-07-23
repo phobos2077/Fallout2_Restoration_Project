@@ -132,56 +132,14 @@ end
 
 procedure Node001b
 begin
-
-  //variable tmp;
   Reply(300);
   if (map_var(MVAR_Cat_Jules_Free) == 0) then
    NOption(301, Node004, 4);
   if (map_var(MVAR_Dex_Free) == 0) then
    NOption(302, Node006, 4);
   if (map_var(MVAR_Kitsune_Free) == 0) then
-   NOption(303, Node005, 4);
-  NOption(214, Node001, 4);
-
-  /*
-  if ((has_skill(dude_obj, SKILL_MELEE) > has_skill(dude_obj, SKILL_SNEAK)) and (has_skill(dude_obj, SKILL_MELEE) > has_skill(dude_obj, SKILL_SPEECH))) then
-    call Node004;
-  else if ((has_skill(dude_obj, SKILL_SNEAK) > has_skill(dude_obj, SKILL_MELEE)) and (has_skill(dude_obj, SKILL_SNEAK) > has_skill(dude_obj, SKILL_SPEECH))) then
-    call Node005;
-  else if ( (check_general_rep < 0) or (dude_perk(PERK_cult_of_personality)) ) then
-    call Node006;
-  else if ((has_skill(dude_obj, SKILL_SPEECH) > has_skill(dude_obj, SKILL_MELEE)) and (has_skill(dude_obj, SKILL_SPEECH) > has_skill(dude_obj, SKILL_SNEAK))) then
-    call Node006;
-  else if ((has_skill(dude_obj, SKILL_SPEECH) == has_skill(dude_obj, SKILL_MELEE)) and (has_skill(dude_obj, SKILL_SPEECH) > has_skill(dude_obj, SKILL_SNEAK))) then
-  begin
-    if (random(1,2) == 1) then
-      call Node004;
-    else
-      call Node006;
-  end
-  else if ((has_skill(dude_obj, SKILL_SPEECH) == has_skill(dude_obj, SKILL_SNEAK)) and (has_skill(dude_obj, SKILL_SPEECH) > has_skill(dude_obj, SKILL_MELEE))) then
-  begin
-    if (random(1,2) == 1) then
-      call Node005;
-    else
-      call Node006;
-  end
-  else if ((has_skill(dude_obj, SKILL_MELEE) == has_skill(dude_obj, SKILL_SNEAK)) and (has_skill(dude_obj, SKILL_MELEE) > has_skill(dude_obj, SKILL_SPEECH))) then
-  begin
-    if (random(1,2) == 1) then
-      call Node004;
-    else
-      call Node005;
-  end else if ((has_skill(dude_obj, SKILL_MELEE) == has_skill(dude_obj, SKILL_SNEAK)) and (has_skill(dude_obj, SKILL_MELEE)== has_skill(dude_obj, SKILL_SPEECH))) then
-  begin
-    tmp := random(1,3);
-    if (tmp == 1) then
-      call Node004;
-    else if (tmp == 2) then
-      call Node005;
-    else
-      call Node006;
-  end*/
+    NOption(303, Node005, 4);
+    NOption(214, Node001, 4);
 end
 
 procedure Node002
