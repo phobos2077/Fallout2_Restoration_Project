@@ -327,7 +327,7 @@ end
 procedure Node003 begin
    if (Fallout2_enclave_destroyed) then begin
       Reply(220);
-      if ( ( (check_general_rep < -100) and (not(dude_perk(PERK_cult_of_personality))) ) or (has_rep_childkiller)) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
+      if (self_rep < -100) or has_rep_childkiller then begin
          BOption(223, Node990, -003);
          BOption(225, Node990, 004);
       end
@@ -506,7 +506,7 @@ procedure Node018 begin
    NOption(382, Node019, 004);
 end
 procedure Node019 begin
-   if ( ( (check_general_rep < 0) and (not(dude_perk(PERK_cult_of_personality))) ) or (has_rep_childkiller)) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if (self_rep < 0) or has_rep_childkiller then begin
       Reply(391);
       BOption(393, Node003, -003);
       BOption(395, Node003, 004);

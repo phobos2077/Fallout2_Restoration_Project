@@ -257,7 +257,7 @@ procedure talk_p_proc begin
          start_dialog_at_node(Node039);
       end else if (dude_has_porn_star_rep) then begin
          start_dialog_at_node(Node035);
-      end else if ( (not(dude_perk(PERK_cult_of_personality))) and ((has_rep_slaver) or (has_rep_childkiller) or (has_rep_berserker) or (mrs_wright_pissed)) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality))) )
+      end else if has_rep_slaver or has_rep_childkiller or has_rep_berserker or mrs_wright_pissed then begin
          start_dialog_at_node(Node037);
       end else if ((know_mrs_wright) and (herebefore)) then begin
          start_dialog_at_node(Node024);

@@ -765,7 +765,7 @@ procedure Node025 begin
 end
 
 procedure Node025b begin
-   if ( (check_general_rep < 0) or (dude_perk(PERK_cult_of_personality)) ) then
+   if self_rep_negative then
       call Node026;
    else
       call Node027;

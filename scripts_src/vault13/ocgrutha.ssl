@@ -130,7 +130,7 @@ import variable i_matt_obj;
 import variable i_gruthar_obj;
 
 #define GRUTHAR_NO_LIKE_YOU    \
-   ( (not(dude_perk(PERK_cult_of_personality))) and ( (bad_critter_reaction) or ( check_general_rep < 0 ) or (global_var(TOWN_REP_VAR) < 0) or (has_rep_childkiller) or ( has_rep_berserker ) ) ) //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   (bad_critter_reaction or self_rep_negative or town_rep_negative or has_rep_childkiller or has_rep_berserker)
 
 #define STARTTILE 14695
 

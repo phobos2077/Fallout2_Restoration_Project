@@ -284,7 +284,7 @@ procedure critter_p_proc begin
       if (Goris_In_Party and self_visible) then begin
          party_member_follow_dude
 
-         if ( (not(dude_perk(PERK_cult_of_personality))) and (has_rep_berserker or has_rep_childkiller or check_general_rep < 0) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+         if has_rep_berserker or has_rep_childkiller or self_rep_negative then begin
             float_msg(self_obj, mstr(1160), FLOAT_MSG_RED);
             set_self_abandon_party;
             set_self_team(TEAM_VAULT13);
@@ -732,7 +732,7 @@ procedure Node013 begin
 end
 
 procedure Node014 begin
-   if ( (dude_perk(PERK_cult_of_personality)) or ((global_var(TOWN_REP_VAR) >= 0) and ( (check_general_rep >= 0) and (not has_rep_childkiller) and (not has_rep_berserker)) ) ) then begin //edit by killap - added (dude_perk(PERK_cult_of_personality))
+   if not (self_rep_negative or town_rep_negative or has_rep_childkiller or has_rep_berserker) then begin
       ndebug("true_party_size " + true_party_size);
       ndebug("party_max_formula " + party_max_formula);
       ndebug("((true_party_size >= (party_max_formula)) or (true_party_size >= 5)): " + ((true_party_size >= (party_max_formula)) or (true_party_size >= 5)));
