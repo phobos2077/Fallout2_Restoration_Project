@@ -42,7 +42,7 @@ RPU includes the following mods:
 
 #### Recommended
 For additional QoL options, check out:
-- [Ultra HQ music](https://github.com/BGforgeNet/Fallout2-HQ-music)
+- [Lossless music](https://github.com/BGforgeNet/Fallout2-HQ-music)
 - [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
 - [Inventory filter](https://nma-fallout.com/threads/inventory-filter.214445/)
 
