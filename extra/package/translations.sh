@@ -8,6 +8,7 @@ trans_dir="translations"
 # delete unnecessary files
 rm -rf "$lang_dir"/{po,readme.md,translation.patch}
 rm -f "$lang_dir/english/cuts/intro.sve"
+russian_sound_url="$(curl -s https://api.github.com/repos/BGforgeNet/Fallout2_Sound/releases/latest | grep browser_download_url | awk -F '"' '{print $4}')"
 
 # update patchinf
 for lang in $(ls $lang_dir); do
@@ -41,12 +42,10 @@ for d in $(ls); do
 done
 cd ..
 
-cp "$trans_dir"/${mod_name}_russian.dat ${mod_name}_russian_sound.dat # Russian includes speech, it's much larger than others, so packaged separately
-$dat2 d -r "$trans_dir"/${mod_name}_russian.dat 'sound\speech\*'
-$dat2 k "$trans_dir"/${mod_name}_russian.dat
-
 pushd .
 cd "$trans_dir"
+# russian sound packaged separately
+wget "$russian_sound_url"
 zip -r "${mod_name}_${vversion}_translations.zip" *.dat # all translations, just text and graphics
 popd
 mv "$trans_dir/${mod_name}_${vversion}_translations.zip" .

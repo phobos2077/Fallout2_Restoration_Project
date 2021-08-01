@@ -6,4 +6,5 @@ Source: "translations\{#basename}_italian.dat"; DestDir: "{#mods_dir}"; Componen
 Source: "translations\{#basename}_polish.dat"; DestDir: "{#mods_dir}"; Components: translation\polish; Flags: ignoreversion overwritereadonly
 Source: "translations\{#basename}_portuguese.dat"; DestDir: "{#mods_dir}"; Components: translation\portuguese; Flags: ignoreversion overwritereadonly
 Source: "translations\{#basename}_russian.dat"; DestDir: "{#mods_dir}"; Components: translation\russian; Flags: ignoreversion overwritereadonly
+Source: "translations\upu_russian_sound.dat"; DestDir: "{#mods_dir}"; Components: translation\russian; Flags: ignoreversion overwritereadonly
 Source: "translations\{#basename}_spanish.dat"; DestDir: "{#mods_dir}"; Components: translation\spanish; Flags: ignoreversion overwritereadonly
