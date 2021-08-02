@@ -34,6 +34,7 @@ Source: "release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion 
 #include "ini_translations.iss"
 #include "ini_qol.iss"
 #include "ini_debug.iss"
+#include "ini_sound.iss"
 
 [Dirs]
 Name: "{app}\{#backup_dir}"
