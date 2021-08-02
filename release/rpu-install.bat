@@ -30,13 +30,5 @@ move /y gl_ammomod.int %scripts_dir%\
 move /y gl_highlighting.int %scripts_dir%\
 move /y gl_partycontrol.int %scripts_dir%\
 
-:: sound path fix
-initool.exe s fallout2.cfg sound music_path1 data\sound\music\ > tmp.cfg
-initool.exe s tmp.cfg sound music_path2 sound\music\ > tmp2.cfg
-del /s %bdir%\fallout2.cfg
-move /y fallout2.cfg %bdir%\
-del /s tmp.cfg initool.exe camlrt.dll
-move /y tmp2.cfg fallout2.cfg
-
 del /s rpu-install.sh rpu-install.bat rpu-install.command
 echo RPU installed. Backup is in %bdir%
