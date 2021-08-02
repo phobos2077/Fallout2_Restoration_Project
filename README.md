@@ -22,9 +22,11 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 1. Download `rpu_v*.exe` from the [latest release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest) page.
 1. Launch, point the installer to the game directory, choose language and options.
 1. After installation, see `mods/rpu.ini` for various settings that can be configured.
+1. AP ammo fix is not enabled by default. See `DamageFormula` in `ddraw.ini` for options, or consider [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks#damage-mod) implementation.
+1. Check out [recommended](#recommended) mods to add on top.
 
 #### Linux / MacOS
-Follow the [instruction](docs/linux.md).
+Follow the [instruction](docs/linux.md). AP ammo note from above also applies.
 
 ### Additional mods
 #### Included
