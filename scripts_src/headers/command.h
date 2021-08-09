@@ -450,8 +450,8 @@ variable step_tile;
 #define self_visible                        obj_is_visible_flag(self_obj)
 #define set_obj_invisible(cr)               set_obj_visibility(cr,1)
 #define set_obj_visible(cr)                 set_obj_visibility(cr,0)
-#define set_self_invisible                  if (not is_loading_game) then set_obj_visibility(self_obj, true)
-#define set_self_visible                    if (not is_loading_game) then set_obj_visibility(self_obj, false)
+#define set_self_invisible                  set_obj_visibility(self_obj, true)
+#define set_self_visible                    set_obj_visibility(self_obj, false)
 #define is_visible(cr)                      has_trait(TRAIT_OBJECT,cr,OBJECT_VISIBILITY) // aka obj_is_visible_flag(x)
 
 // hp
@@ -484,7 +484,7 @@ variable step_tile;
 #define get_item_count(cr,pid)              obj_is_carrying_obj_pid(cr,pid)
 
 // some timer event macros
-#define check_set_obj_visiblility(the_obj, x)       if ((not is_loading_game) and (obj_is_visible_flag(the_obj) == x)) then set_obj_visibility(the_obj, x)
+#define check_set_obj_visiblility(the_obj, x)       if (obj_is_visible_flag(the_obj) == x) then set_obj_visibility(the_obj, x)
 
 #define flush_add_timer_event(obj, time, param)    rm_fixed_timer_event(obj, param);               \
                                                    add_timer_event(obj, time, param)
@@ -937,7 +937,7 @@ variable removed_qty;
            if (obj_is_carrying_obj_pid(who_obj, weapon_pid)) then begin                      \
               wield_obj_critter(who_obj, obj_carrying_pid_obj(who_obj, weapon_pid));         \
            end else begin                                                                    \
-              ndebug("NOT ARMING THE WEAPON!!!");                                         \
+              ndebug("NOT ARMING THE WEAPON!!!");                                            \
            end                                                                               \
         end                                                                                  \
         if (ammo_pid != 0) then begin                                                        \

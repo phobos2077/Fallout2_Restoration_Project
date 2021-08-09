@@ -8,6 +8,7 @@
 #define upu_string(section, setting) get_ini_string(upu_ini + "|" + section + "|" + setting)
 #define upu_msetting(setting) get_ini_setting(upu_ini + "|" + sec_main + "|" + setting)
 #define set_goris_derobing "goris_quick_derobing"
+#define repeatable_brahmin_drive upu_setting("ncr", "repeatable_brahmin_drive")
 
 procedure check_filesystem_override begin
   variable fs_override := get_ini_setting("ddraw.ini|Misc|UseFileSystemOverride");
@@ -55,6 +56,7 @@ end
 #define CUR_AREA_MILITARY_BASE            (cur_town == AREA_MILITARY_BASE)
 
 #define self_exists (self_pid != -1)
+#define destroy_self destroy_object(self_obj)
 
 procedure closest_party_member(variable obj) begin
   variable who, cur_distance, min_distance = -1, closest_who = false;

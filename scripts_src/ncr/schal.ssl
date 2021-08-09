@@ -112,7 +112,7 @@ procedure timed_event_p_proc begin
    if (fixed_param == TIMER_APPEAR) then begin
       ndebug("timer appear: game_time:" + game_time + " appear: " + global_var(GVAR_NCR_CATTLE_TIME_MIN) + " disappear: " + global_var(GVAR_NCR_CATTLE_TIME_MAX));
       if (game_time >= global_var(GVAR_NCR_CATTLE_TIME_MIN) and game_time <= global_var(GVAR_NCR_CATTLE_TIME_MAX)) then begin
-         set_obj_visibility(self_obj, OBJ_VIS);
+         set_self_visible;
          set_local_var(LVAR_Vis, 1);
          add_timer_event(self_obj, game_ticks(60), TIMER_DISAPPEAR);
       end else begin
@@ -120,13 +120,13 @@ procedure timed_event_p_proc begin
             add_timer_event(self_obj, game_ticks(60), TIMER_APPEAR);
       end
    end else if (fixed_param == TIMER_DISAPPEAR) then begin
+      if cattle_drive(HAL_DEAD) then destroy_self;
       if (game_time > global_var(GVAR_NCR_CATTLE_TIME_MAX)) then begin
-         set_obj_visibility(self_obj, OBJ_INVIS);
+         set_self_invisible;
          set_local_var(LVAR_Vis, 0);
          if (not cattle_drive(CATTLE_ON1) or not cattle_drive(CATTLE_FINISHED)) then begin
             set_cattle_drive(CATTLE_MISSED);
             set_global_var(GVAR_NCR_BRAHMN_QST, 2);
-            destroy_object(self_obj);
          end
       end
    //added by killap
@@ -143,26 +143,28 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    //edits by killap
-   if (cur_map_index == MAP_NCR_DOWNTOWN) then
-      set_self_team(TEAM_NCR);
-   else if (cur_map_index == MAP_NCR_BAZAAR) then
-      set_self_team(TEAM_NCR_ENTRANCE);
-   else
-      set_self_team(TEAM_PLAYER);
+   if (cur_map_index == MAP_NCR_DOWNTOWN) then set_self_team(TEAM_NCR);
+   else if (cur_map_index == MAP_NCR_BAZAAR) then set_self_team(TEAM_NCR_ENTRANCE);
+   else if (cur_map_index == MAP_REDDING_MINE_ENT) then set_self_team(TEAM_REDDING);
+   else set_self_team(TEAM_PLAYER);
    //end edits
 
    set_self_ai(AI_TOUGH_GUARD);
    if (is_loading_game == FALSE) then begin
       call checkLoadConditions;
       add_timer_event(self_obj, game_ticks(1), TIMER_APPEAR);
-      if (not cattle_drive(CATTLE_FINISHED) and cattle_drive(CATTLE_ACCEPT) and local_var(LVAR_Vis) == 1) then
+      if ( (cur_map_index == MAP_NCR_DOWNTOWN)
+            and not cattle_drive(CATTLE_FINISHED)
+            and cattle_drive(CATTLE_ACCEPT)
+            and local_var(LVAR_Vis) == 1
+         ) then
          add_timer_event(self_obj, game_ticks(1), TIMER_DISAPPEAR);
    end
 end
 
 //added by killap
 procedure map_update_p_proc begin
-   if ((not(is_loading_game)) and (not(combat_is_initialized)) ) then begin   //check added by killap - probably doesn't help, but doesn't hurt either.
+   if not (is_loading_game or combat_is_initialized) then begin
       if (cur_map_index == MAP_BH_RND_DESERT) then begin
          if ((local_var(LVAR_Called_Clear) == 0) and (map_var(MVAR_Hostile_Total) <= 0)) then begin //edit by killap (incase you drop below zero, things will still run)
            set_local_var(LVAR_Called_Clear,1);
@@ -172,6 +174,14 @@ procedure map_update_p_proc begin
    end
 end
 //end added
+procedure map_exit_p_proc begin
+   if (cur_map_index == MAP_BH_RND_DESERT) then begin
+      if map_var(MVAR_Hostile_Total) > 0 then begin
+         set_cattle_drive(CATTLE_ABANDON);
+         ndebug("abandoned caravan");
+      end
+   end
+end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
@@ -181,12 +191,14 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-
    if (self_visible) then begin
       if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
          set_local_var(LVAR_Hostile,1);
          self_attack_dude;
       end
+   end
+   if (cur_map_index == MAP_NCR_DOWNTOWN) then begin
+      call checkLoadConditions;
    end
 end
 
@@ -216,14 +228,10 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-//   variable rnd;
-//   variable grds;
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION2;
-
    CheckKarma;
-
    GetReaction;
 
    if (cur_map_index == MAP_NCR_DOWNTOWN) then begin
@@ -233,25 +241,21 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
        set_local_var(LVAR_Herebefore, 1);
-   end else if ((cattle_drive(CATTLE_ON)) or (cur_map_index == MAP_BH_RND_DESERT)) then begin    //added by killap
-//   end else if (cur_map_index == 0/* Redding */) then begin
+   end else if (cur_map_index == MAP_REDDING_MINE_ENT) then begin
+      if (cattle_drive(CATTLE_ABANDON)) then begin
+         float_msg(self_obj, mstr(118), FLOAT_MSG_RED);
+         set_cattle_drive(CATTLE_FINISHED);
+      end else if not cattle_drive(CATTLE_FINISHED) then begin
+         start_gdialog(NAME,self_obj,4,-1,-1);
+         gSay_Start;
+            call Node006;
+         gSay_End;
+         end_dialogue;
+      end else call Node007;
+   end else if ((cattle_drive(CATTLE_ON)) or (cur_map_index == MAP_BH_RND_DESERT)) then begin
       call Node002;
    end else if (cur_map_index == MAP_RND_DESERT_1/* Redding */ and cattle_drive(CATTLE_FINISHED)) then
       call Node007;
-
-/*   if (cattle_drive(CATTLE_ON) and not cattle_drive(CATTLE_FINISHED)) then begin
-      //Don't forget to do raider stuff
-      set_caravan_start(CARAVAN_NCR);
-      set_caravan_masters(1);
-      grds := 7 - party_size;
-      set_caravan_guards(grds);
-      set_caravan_brahmin(10);
-      set_caravan_carts(1);
-      rnd := Random(1, 4);
-      set_caravan_encounters(rnd);
-      set_caravan_end(CARAVAN_REDDING);
-      load_map(MAP_BH_RND_DESERT, 7);
-   end - comment out by killap */
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -262,7 +266,7 @@ procedure destroy_p_proc begin
 /* Increment the aligned critter counter*/
    inc_good_critter
    set_cattle_drive(HAL_DEAD);
-
+   if (cattle_drive(CATTLE_ON) and not cattle_drive(CATTLE_FINISHED)) then rm_caravan_masters(1);
 /* Set global_variable for Enemy status*/
 end
 
@@ -308,14 +312,9 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   Node1Rep += 1;
-   if (Node1Rep == 1) then begin
-      Reply(103);
-
-      NOption(105, Node003, 1);
-      NOption(106, Node004, 1);
-   end else
-      call Node005;
+   Reply(103);
+   NOption(105, Node003, 1);
+   NOption(106, Node004, 1);
 end
 
 procedure Node002 begin
@@ -361,23 +360,26 @@ end
 procedure Node006 begin
    variable amount;
 
+   set_global_var(GVAR_NCR_BRAHMN_QST, 2);
+   call calc_cattle_drive_status;
+
    if (cattle_drive(CATTLE_SCREWED)) then begin
       amount := 0;
       Reply(113);
    end else if (cattle_drive(CATTLE_FAIL)) then begin
-      amount := 50;
+      amount := 1000;
       Reply(114);
    end
    else if (cattle_drive(CATTLE_AVERAGE)) then begin
-      amount := 100;
+      amount := 2000;
       Reply(115);
    end
    else if (cattle_drive(CATTLE_SUCCESS)) then begin
-      amount := 150;
+      amount := 3000;
       Reply(116);
    end
    set_cattle_drive(CATTLE_FINISHED);
-   dude_caps_adjust(amount * (1 + party_size_humans));
+   dude_caps_adjust(amount);
    ENDOPTION;
 end
 
@@ -389,20 +391,25 @@ procedure checkLoadConditions begin
    if (cur_map_index == MAP_NCR_DOWNTOWN) then begin
       if (not cattle_drive(CATTLE_FINISHED) and cattle_drive(CATTLE_ACCEPT) and not cattle_drive(CATTLE_MISSED)) then begin
          if (checkNextDay) then begin
-            set_obj_visibility(self_obj, OBJ_VIS);
+            set_self_visible;
             set_local_var(LVAR_Vis, 1);
          end
       end else begin
-         set_obj_visibility(self_obj, OBJ_INVIS);
+         set_self_invisible;
          set_local_var(LVAR_Vis, 0);
       end
    end else if (cur_map_index == MAP_REDDING_MINE_ENT) then begin
-      if (not cattle_drive(CATTLE_FINISHED) and cattle_drive(CATTLE_ON1)) then begin
-         set_obj_visibility(self_obj, OBJ_VIS);
+      if cattle_drive(HAL_DEAD) then begin
+         destroy_self;
+         return;
+      end
+
+      if cattle_drive(CATTLE_ON1) and repeatable_brahmin_drive and not cattle_drive(CATTLE_FINISHED) then begin
+         set_self_visible;
          set_local_var(LVAR_Vis, 1);
          dialogue_system_enter;
       end else begin
-         set_obj_visibility(self_obj, OBJ_INVIS);
+         set_self_invisible;
          set_local_var(LVAR_Vis, 0);
       end
    end

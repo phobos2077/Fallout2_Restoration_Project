@@ -91,7 +91,7 @@ procedure combat_p_proc;
 #define LVAR_Restock_Time               (7)
 
 #define LVAR_Cattle_Drives              (8)  //added by killap
-#define  LVAR_Restock_Time_Fix          (9)  //added by killap
+#define LVAR_Restock_Time_Fix           (9)  //added by killap
 
 //killap code
 #define new_run                         ((game_time >= local_var(LVAR_Cattle_Drives)) and (local_var(LVAR_Cattle_Drives) != 0))
@@ -138,8 +138,8 @@ procedure map_enter_p_proc begin
    end
 
    //added by killap
-   if ((new_run) and not(cattle_drive(HAL_DEAD))) then begin
-   	if ((cattle_drive(CATTLE_FINISHED)) or (cattle_drive(CATTLE_MISSED))) then begin
+   if (new_run and repeatable_brahmin_drive and not(cattle_drive(HAL_DEAD))) then begin
+   	if (cattle_drive(CATTLE_FINISHED) or cattle_drive(CATTLE_MISSED)) then begin
         set_global_var(GVAR_NCR_CATTLE_DRIVE,0);
       end
    end
@@ -292,16 +292,9 @@ end
 procedure Node002 begin
    if (not cattle_drive(CATTLE_ACCEPT)) then begin
       if (cattle_drive(CATTLE_OFFERED) == 0) then begin
-         //added by killap
-	 if (new_run) then begin
-	   Reply(156);
-	 end
-	 //end added by killap
-	 else
-           Reply(107);
-      end else begin
-         Reply(108);
-      end
+         if (new_run and repeatable_brahmin_drive) then Reply(156); // added by killap
+	      else Reply(107);
+      end else Reply(108);
 
       NLowOption(109, Node004);
       NOption(110, Node004, 4);

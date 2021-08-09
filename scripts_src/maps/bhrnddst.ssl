@@ -39,7 +39,7 @@
 
 #define START_HEX               (22097)
 
-#define REDDING_ENT_HEX         (25494)
+#define REDDING_ENT_HEX         (26098)
 #define NCR_ENT_HEX             (18467) //(10715)
 #define VAULT_CITY_ENT_HEX      (27704) //(28108)
 #define NEW_RENO_ENT_HEX        (27306)
@@ -73,7 +73,8 @@
                                         else if (WM_In_RDRC(worldmap_xpos,worldmap_ypos)) then                  \
                                             call Broken_Hills_RDRC_Encounter;                                   \
                                         else if (WM_In_DMRV(worldmap_xpos,worldmap_ypos)) then                  \
-                                            call Redding_DMRV_Encounter
+                                            call Redding_DMRV_Encounter;                                        \
+                                        else ndebug("warning: can't find encounter: xpos=" + worldmap_xpos + ", ypos=" + worldmap_ypos)
 
 
 // Basic Scripts information
@@ -180,7 +181,9 @@ end
 
 procedure map_enter_p_proc begin
    variable Encounter_Number;
-
+   Encounter_Number:=total_encounters - encounters_left;
+   ndebug("Total Encounters == "+total_encounters+". Encounters Left == "+encounters_left+". On Encounter "+Encounter_Number);
+   ndebug("caravan_brahmin_left = " + caravan_brahmin_left);
    if (map_first_run) then begin
        Combat1:=0;
        Combat2:=0;
@@ -496,6 +499,9 @@ procedure Build_Caravan_Team begin
    call Add_Mysterious_Stranger;
 
    // Place the Caravan Master
+   // initializing out of the loop, because caravan master might be dead, and in that case brahmin placement would start at hex 0
+   Critter_Rotation:=(dude_facing + 3) % 6;
+   Critter_Tile:=tile_num_in_direction(dude_start_hex,Critter_Rotation,random(5,7));
    while (Master_Counter < caravan_masters_left) do begin
        Master_Counter+=1;
 
@@ -524,8 +530,6 @@ procedure Build_Caravan_Team begin
        end
 
        val := set_team(Critter,TEAM_PLAYER);
-       Critter_Rotation:=(dude_facing + 3) % 6;
-       Critter_Tile:=tile_num_in_direction(dude_start_hex,Critter_Rotation,random(5,7));
        critter_attempt_placement(Critter,Critter_Tile,0);
 //       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
        give_money(Critter,random(10,30));
@@ -537,10 +541,18 @@ procedure Build_Caravan_Team begin
        rm_caravan_carts(1);
    end
 
-   while (Caravan_Counter < caravan_carts_left) do begin
+   ndebug("adding carts");
+   ndebug("Caravan_Counter = " + Caravan_Counter);
+   ndebug("caravan_carts_left = " + caravan_carts_left);
+    while (Caravan_Counter < caravan_carts_left) do begin
        Caravan_Counter+=1;
 
-       Critter_Tile:=tile_num_in_direction(Critter_Tile,Critter_Rotation,8);
+       Critter_Tile = tile_num_in_direction(Critter_Tile,Critter_Rotation,8);
+       // don't let dude get stuck in caravan
+       if tile_distance(dude_start_hex, Critter_Tile) < 3 then begin
+           ndebug("caravan too close to dude, moving");
+            Critter_Tile = tile_num_in_direction(Critter_Tile,Critter_Rotation,8);
+       end
 
        if (random(0,99) < 50) then begin
            Create_EW_Red_Caravan(Critter_Tile,0)
@@ -549,9 +561,13 @@ procedure Build_Caravan_Team begin
            Create_EW_Grey_Caravan(Critter_Tile,0)
        end
 
+       ndebug("adding brahmin 1");
+       ndebug("Brahmin_Counter = " + Brahmin_Counter);
+       ndebug("caravan_brahmin_left = " + caravan_brahmin_left);
+
        Brahmin_Tile:=tile_num_in_direction(Critter_Tile,0,1);
        Critter:=create_object_sid(PID_BRAHMIN,0,0,SCRIPT_ECCRTBRA);
-       critter_attempt_placement(Critter,Brahmin_Tile,0);
+       critter_attempt_placement(Critter,Critter_Tile,0);
        val := set_team(Critter,TEAM_PLAYER);
 //       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
        obj_rotate(Critter,1);
@@ -634,7 +650,9 @@ procedure Build_Caravan_Team begin
    // Place the Brahmin
    Brahmin_Rotation:=(Critter_Rotation+1) % 6;
    Brahmin_Tile:=tile_num_in_direction(dude_start_hex,Brahmin_Rotation,random(7,10));
-
+   ndebug("adding brahmin 2");
+   ndebug("Brahmin_Counter = " + Brahmin_Counter);
+   ndebug("caravan_brahmin_left = " + caravan_brahmin_left);
    while (Brahmin_Counter < caravan_brahmin_left) do begin
        Brahmin_Counter+=1;
 
@@ -1570,13 +1588,14 @@ procedure NCR_Red_Encounters begin
    end
 
    else if (total_encounters == 4) then begin
+       ndebug("Encounter_Number = "+Encounter_Number);
        if (Encounter_Number == 0) then begin                    // this is the first encounter
            set_caravan_pos(Red_NCR_4_4_x,Red_NCR_4_4_y-25);     // -25 by killap
            set_exit_grids(0,-2,0,20100,0);                      // Exit grids on elevation 0 goto Worldmap
            game_time_advance(5*ONE_GAME_DAY);
            check_area;
        end
-
+       
        else if (Encounter_Number == 1) then begin               // this is the second encounter
            set_caravan_pos(Red_NCR_4_3_x,Red_NCR_4_3_y);
            set_exit_grids(0,-2,0,20100,0);                      // Exit grids on elevation 0 goto Worldmap

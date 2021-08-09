@@ -10,7 +10,13 @@
 
 variable Finding_New_Tile;
 
-#define set_caravan_pos(x,y)                    wm_area_set_pos(AREA_CARAVAN_ENCOUNTER,x+random(-25,25),y+random(-25,25))
+#define set_caravan_pos(x,y) call set_caravan_pos_rnd(x,y)
+procedure set_caravan_pos_rnd(variable x, variable y) begin
+    variable xrnd = x + random(-25, 25);
+    variable yrnd = y + random(-25, 25);
+    wm_area_set_pos(AREA_CARAVAN_ENCOUNTER, xrnd, yrnd);
+    set_world_map_pos(xrnd,yrnd);
+end
 
 #define Create_Enemy(who,weapon,script)         Critter_Counter+=1;                                                             \
                                                 Critter:=create_object_sid(who,0,0,script);                                     \

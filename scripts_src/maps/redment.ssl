@@ -28,6 +28,7 @@
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 #include "../headers/redment.h"
+#include "../headers/ncr.h"
 
 #define NAME                    SCRIPT_REDMENT
 
@@ -40,6 +41,7 @@
 
 #define WELL_PID        (33555426)
 #define DOWN_TOWN_WELL  (33554882)
+#define critter_tile 25494
 
 procedure start;
 procedure map_enter_p_proc;
@@ -71,19 +73,35 @@ procedure map_enter_p_proc begin
        if ((global_var(GVAR_WADE_STATUS) == 1) and (map_var(MVAR_Ferndown) == 0)) then begin
           inc_map_var(MVAR_Ferndown);
           Critter:=create_object_sid(PID_MALE_VAULT_CITIZEN,0,0,SCRIPT_RCFERN);
-          critter_attempt_placement(Critter,25494,0);
+          critter_attempt_placement(Critter,critter_tile,0);
        end
        if ((global_var(GVAR_STANWELL_STATUS) == 1) and (map_var(MVAR_Nording) == 0)) then begin
           inc_map_var(MVAR_Nording);
           Critter:=create_object_sid(PID_AGILE_GUARD_MALE,0,0,SCRIPT_RCNORD);
-          critter_attempt_placement(Critter,25494,0);
+          critter_attempt_placement(Critter,critter_tile,0);
        end
        if ((global_var(GVAR_SAVINELLI_STATUS) == 1) and (map_var(MVAR_Velani) == 0)) then begin
           inc_map_var(MVAR_Velani);
           Critter:=create_object_sid(PID_BIG_GUN_THUG_MALE,0,0,SCRIPT_RCVELANI);
-          critter_attempt_placement(Critter,25494,0);
+          critter_attempt_placement(Critter,critter_tile,0);
        end
-   end
+       if repeatable_brahmin_drive and not cattle_drive(HAL_DEAD) then begin
+         variable who, who_exists = false;
+         foreach who in list_as_array(LIST_CRITTERS) begin
+            if get_script(who) == SCRIPT_SCHAL then who_exists = true;
+         end
+         if not who_exists then begin
+            variable item;
+            ndebug("creating hal");
+            Critter = create_object_sid(PID_HERO_LEATHER_MALE, 0, 0, SCRIPT_SCHAL);
+            item = create_object(PID_10MM_SMG,0,0);
+            add_obj_to_inven(Critter, item);
+            wield_obj_critter(Critter, item);
+            critter_attempt_placement(Critter, critter_tile, 0);
+            obj_rotate(Critter, 3);
+         end
+      end
+  end
 
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
 end

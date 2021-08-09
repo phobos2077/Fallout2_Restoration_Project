@@ -5,6 +5,8 @@
 #ifndef NCR_H
 #define NCR_H
 
+#include "../headers/command.h"
+#include "../headers/caravan.h"
 //General
 
 //Generic Seed states
@@ -184,6 +186,24 @@
 #define cattle_drive(x) (gvar_bit(GVAR_NCR_CATTLE_DRIVE, x))
 #define set_cattle_drive(x) set_gvar_bit_on(GVAR_NCR_CATTLE_DRIVE, x)
 #define unset_cattle_drive(x) set_gvar_bit_off(GVAR_NCR_CATTLE_DRIVE, x)
+
+procedure calc_cattle_drive_status begin
+   variable brahmin_num = caravan_brahmin_left;
+   ndebug("caravan_brahmin_left: " + brahmin_num);
+   if (brahmin_num <= 0) then begin // In some cases number goes below 0, probably when encountering other caravans. This needs to be cleaned up eventually.
+      ndebug("in 0 case number: " + brahmin_num);
+      set_cattle_drive(CATTLE_SCREWED);
+   end else if (caravan_brahmin_left < 4) then begin
+      ndebug("in < 4 case number: " + brahmin_num);
+      set_cattle_drive(CATTLE_FAIL);
+   end else if (caravan_brahmin_left < 6) then begin
+      ndebug("in < 6 case number: " + brahmin_num);
+      set_cattle_drive(CATTLE_AVERAGE);
+   end else begin
+      ndebug("in else case number: " + brahmin_num);
+      set_cattle_drive(CATTLE_SUCCESS);
+   end
+end
 
 //Dorothy Crap
 #define PP_MURDER        1

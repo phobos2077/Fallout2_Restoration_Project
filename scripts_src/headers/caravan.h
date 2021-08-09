@@ -64,7 +64,12 @@
 #define caravan_start                       global_var(GVAR_CARAVAN_START)
 #define caravan_end                         global_var(GVAR_CARAVAN_END)
 
-#define too_many_carts                      ((caravan_carts_left > ((caravan_brahmin_left/2) + (caravan_brahmin_left % 2))) and (caravan_brahmin_left != 0))
+procedure too_many_carts begin
+    if caravan_carts_left == 0 then return false;
+    if caravan_brahmin_left == 0 then return true;
+    if caravan_carts_left > ((caravan_brahmin_left/2) + (caravan_brahmin_left % 2)) then return true;
+    return false;
+end
 
 #define give_money(who,amount)              if (dude_fortune_finder) then                               \
                                                 item_caps_adjust(who,2*(amount));                       \

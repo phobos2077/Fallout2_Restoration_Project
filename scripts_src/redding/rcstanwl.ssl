@@ -154,11 +154,13 @@ procedure map_enter_p_proc begin
            set_self_invisible;
        end
 
-       if (cur_map_index == MAP_BH_RND_DESERT) then
+       if (cur_map_index == MAP_BH_RND_DESERT) then begin
            set_self_visible;
+       end
 
-       else if ((global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_NONE) and (local_var(LVAR_No_More_Caravans) == 0)) then //killap fix: was (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_AVERAGE_SUCCESS) then
+       else if ((global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_NONE) and (local_var(LVAR_No_More_Caravans) == 0)) then begin
            set_self_visible;
+       end
    end
 end
 
@@ -186,11 +188,13 @@ procedure map_update_p_proc begin
            set_self_invisible;
        end
 
-       if (cur_map_index == MAP_BH_RND_DESERT) then
+       if (cur_map_index == MAP_BH_RND_DESERT) then begin
            set_self_visible;
+    end
 
-       else if (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_AVERAGE_SUCCESS) then
+        else if ((global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_NONE) and (local_var(LVAR_No_More_Caravans) == 0)) then begin
            set_self_visible;
+        end
    end
 
    if ((not(is_loading_game)) and (not(combat_is_initialized)) ) then begin   //check added by killap - probably doesn't help, but doesn't hurt either.

@@ -30,7 +30,7 @@
 #include "../headers/define.h"
 //#include "../headers/ncr3.h"
 
-#define NAME                    SCRIPT_SCHAL
+#define NAME                    SCRIPT_SCDRVPAY
 //uses the hal msg file
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NCR
 
@@ -183,26 +183,19 @@ procedure talk_p_proc begin
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION2;
-
    CheckKarma;
-
    GetReaction;
 
-
-   if (not cattle_drive(CATTLE_FINISHED)) then begin
+   if (cattle_drive(CATTLE_ABANDON)) then begin
+      float_msg(self_obj, mstr(118), FLOAT_MSG_RED);
+      set_cattle_drive(CATTLE_FINISHED);
+   end else if (not cattle_drive(CATTLE_FINISHED)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node006;
       gSay_End;
       end_dialogue;
-   end else begin
-      //added by killap
-      if (cattle_drive(CATTLE_ABANDON)) then
-         float_msg(self_obj, mstr(112), FLOAT_MSG_RED);
-      //end added
-      else
-         call Node007;
-   end
+   end else call Node007;
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -258,50 +251,26 @@ end
 
 procedure Node006 begin
    variable amount;
-   variable number;
 
    set_global_var(GVAR_NCR_BRAHMN_QST, 2);
+   call calc_cattle_drive_status;
 
-   number := caravan_brahmin_left;
-
-   ndebug("caravan_brahmin_left: " + caravan_brahmin_left);
-
-   //added by killap
-   if (cattle_drive(CATTLE_FAIL)) then begin
-      set_cattle_drive(CATTLE_ABANDON);
-   //end added
-   end else if (number == 0) then begin
-      ndebug("in 0 case number: " + number);
-      set_cattle_drive(CATTLE_SCREWED);
-   end else if (caravan_brahmin_left < 4) then begin
-      ndebug("in < 4 case number: " + number);
-      set_cattle_drive(CATTLE_FAIL);
-   end else if (caravan_brahmin_left < 6) then begin
-      ndebug("in < 6 case number: " + number);
-      set_cattle_drive(CATTLE_AVERAGE);
-   end else begin
-      ndebug("in else case number: " + number);
-      set_cattle_drive(CATTLE_SUCCESS);
-   end
-   ndebug("caravan_brahmin_left: " + caravan_brahmin_left);
-
-   //added by killap
-   if (cattle_drive(CATTLE_ABANDON)) then begin
+   if (cattle_drive(CATTLE_SCREWED)) then begin
       amount := 0;
-      Reply(118);
-   //end added
-   end else if (cattle_drive(CATTLE_SCREWED)) then begin
-      amount := 0;
-      Reply(113);
+      if cattle_drive(HAL_DEAD) then Reply(213);
+      else Reply(113);
    end else if (cattle_drive(CATTLE_FAIL)) then begin
       amount := 1000;
-      Reply(114);
+      if cattle_drive(HAL_DEAD) then Reply(214);
+      else Reply(114);
    end else if (cattle_drive(CATTLE_AVERAGE)) then begin
       amount := 2000;
-      Reply(115);
+      if cattle_drive(HAL_DEAD) then Reply(215);
+      else Reply(115);
    end else if (cattle_drive(CATTLE_SUCCESS)) then begin
       amount := 3000;
-      Reply(116);
+      if cattle_drive(HAL_DEAD) then Reply(216);
+      else Reply(116);
    end
    set_cattle_drive(CATTLE_FINISHED);
    dude_caps_adjust(amount);
@@ -309,17 +278,27 @@ procedure Node006 begin
 end
 
 procedure Node007 begin
-   float_msg(self_obj, mstr(117), FLOAT_MSG_NORMAL);
+   variable msg;
+   if cattle_drive(HAL_DEAD) then msg = random(119,120);
+   else msg = 117;
+   float_msg(self_obj, mstr(msg), FLOAT_MSG_NORMAL);
 end
 
 procedure checkLoadConditions begin
-   if (not cattle_drive(CATTLE_FINISHED) and cattle_drive(CATTLE_ON1)) then begin
-      set_obj_visibility(self_obj, OBJ_VIS);
+   ndebug("check load cond");
+   if cattle_drive(CATTLE_ON1)
+      and not cattle_drive(CATTLE_FINISHED)
+      and (cattle_drive(HAL_DEAD) or not repeatable_brahmin_drive)
+   then begin
+      ndebug("visible");
+      set_self_visible;
       set_local_var(LVAR_Vis, 1);
       dialogue_system_enter;
-   end else if (cattle_drive(CATTLE_FINISHED)) then begin
-      set_obj_visibility(self_obj, OBJ_INVIS);
+   end else begin
+      ndebug("invisible");
+      set_self_invisible;
       set_local_var(LVAR_Vis, 0);
+      if cattle_drive(HAL_DEAD) then destroy_self;
    end
 end
 //xxxxxxxxxxxxxxxxxxxx
