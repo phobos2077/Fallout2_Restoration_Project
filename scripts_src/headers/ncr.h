@@ -5,6 +5,7 @@
 #ifndef NCR_H
 #define NCR_H
 
+#include "../headers/define.h"
 #include "../headers/command.h"
 #include "../headers/caravan.h"
 //General
@@ -181,7 +182,7 @@
 #define CATTLE_SUCCESS  bit_9
 #define CATTLE_ON1      bit_10
 #define CATTLE_ABANDON  bit_11
-#define HAL_DEAD  bit_12
+#define HAL_DEAD        bit_12
 
 #define cattle_drive(x) (gvar_bit(GVAR_NCR_CATTLE_DRIVE, x))
 #define set_cattle_drive(x) set_gvar_bit_on(GVAR_NCR_CATTLE_DRIVE, x)
