@@ -182,10 +182,11 @@ procedure getTimeBit begin
 end
 
 //Used for warping to the level where NCR helps out
-#define CHECK_LEVEL                                            \
-    if (elevation(self_obj) != elevation(dude_obj)) then begin \
-        move_to(self_obj, self_tile, elevation(dude_obj));     \
-    end
+#define CHECK_LEVEL \
+    if is_loading_game then \
+        ndebug("error: attemmpting to use move_to in during loading"); \
+    else if elevation(self_obj) != elevation(dude_obj) then \
+        move_to(self_obj, self_tile, elevation(dude_obj));
 
 #define CHECK_SQUATTERS_RUN                                    \
     if (combat_is_initialized) then begin                      \
