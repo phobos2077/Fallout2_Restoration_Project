@@ -140,7 +140,6 @@ procedure map_enter_p_proc begin
    variable tmp;
    variable special_item;
    //end added
-   if not self_obj then return;
 
    CHECK_LEVEL
 
