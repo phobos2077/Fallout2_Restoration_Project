@@ -13,7 +13,7 @@
 {112}{}{Zase ty? Jdi pryè.}
 {113}{}{No, tak to je teda pìknì v hajzlu! Bojím se, že za tenhle okruh nikdo z nás žádný prachy nedostane. Mùžem bejt rádi, že jsme zùstali naživu.}
 {114}{}{No, ranèeøi z toho nejsou zrovna na vìtvi - jenom $1000 za okruh. Holt smùla.}
-{115}{}{No, mìli jsme trochu smùly, ale jinak to bylo v pohodì. Tady máš tìch $2000.}
+{115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
 {116}{}{Zatracenì, to bylo skvìlý! Tady máš $1000 navrch k tìm $2000, který jsem ti slíbil. A Redding dneska zažije malý zemìtøesení!}
 {117}{}{Tak a je to. Dobøe se nám s tebou cestovalo.}
 {118}{}{Ty jseš ta nejhorší napodobenina strážce, jakou jsem kdy vidìl. Vypadni odsud.}

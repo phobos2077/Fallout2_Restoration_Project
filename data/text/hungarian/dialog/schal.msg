@@ -13,7 +13,7 @@
 {112}{}{Már megint te vagy? Menj innen!}
 {113}{}{Hát, ez jó nagy szar volt! Attól tartok, egyikünk sem fog pénzt látni ezért a menetért. Légy boldog, hogy egyáltalán élsz.}
 {114}{}{Hát, a farmerek egyike sem lesz túl boldog... ez csak egy 1000 dolláros menet volt. Ráadásul csakis a szerencsének köszönhetjük.}
-{115}{}{Hát, volt egy kis balszerencsénk, de egész jól megúsztuk. Tessék, a kiérdemelt 2000 dollárod.}
+{115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
 {116}{}{Szent szar, ezt baromi jól csináltuk! 1000 dollár bónusz illet téged. A 2000 dollár mellé jól fog jönni. Ma kifordítjuk Reddinget a négy sarkából!}
 {117}{}{Mostantól magadra vagy utalva. Jó volt együtt utazni.}
 {118}{}{You're the worst excuse for a guard I've ever seen. Get the hell out of here.}

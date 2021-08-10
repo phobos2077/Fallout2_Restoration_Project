@@ -13,7 +13,7 @@
 {112}{}{¿Otra vez tú? Lárgate.}
 {113}{}{Vaya, todo se ha ido a la mierda! Me temo que no hay dinero en este viaje para ninguno de nosotros. Podemos estar contentos de seguir vivos.}
 {114}{}{Bueno, los rancheros no están demasiado contentos: por el viaje nos dan 1.000 dólares. Mala suerte.}
-{115}{}{Bien, tuvimos una pequeña racha de mala suerte, pero lo hiciste bien. Aquí están los 2.000 dólares por los que firmaste.}
+{115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
 {116}{}{¡Cojones, lo hiciste simplemente bien! Aquí hay un bono de 1.000 dólares para ti. Eso, y 2.000 dólares son tu paga. ¡Redding, ándate con ojo esta noche!}
 {117}{}{Estás solo. Que tengas buen viaje.}
 {118}{}{Eres la peor parodia de guardia que haya visto nunca. Lárgate de aquí.}
