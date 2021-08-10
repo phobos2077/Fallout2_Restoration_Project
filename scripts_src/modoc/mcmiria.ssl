@@ -506,7 +506,7 @@ procedure Node017 begin
 end
 procedure Node018 begin
    Reply(192);
-   if ((dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + (global_var(GVAR_TOWN_REP_MODOC) > 0)) >= 9) then begin
+   if (dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + town_rep_positive) >= 9 then begin
       NOption(193,Node019,004);
    end
    NOption(194,Node020,004);

@@ -379,7 +379,7 @@ procedure Node000 begin
    NOption(g_mstr(300),Node999,-003);
 end
 procedure Node001 begin
-   if ((dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + (global_var(GVAR_TOWN_REP_MODOC) > 0)) >= 9) then begin
+   if (dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + town_rep_positive) >= 9 then begin
       Reply(162);
    end else begin
       Reply(163);
@@ -390,7 +390,7 @@ procedure Node001 begin
    NOption(159,Node011,004);
    NOption(160,Node012,004);
    NOption(161,Node013,004);
-   if ((dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + (global_var(GVAR_TOWN_REP_MODOC) > 0)) >= 9) then begin
+   if (dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + town_rep_positive) >= 9 then begin
       NOption(168,Node015,004);
    end
    NOption(200,Node014,004);
@@ -409,7 +409,7 @@ procedure Node005 begin
    NOption(160,Node012,004);
    NOption(161,Node013,004);
    NOption(200,Node014,004);
-   if ((dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + (global_var(GVAR_TOWN_REP_MODOC) > 0)) >= 9) then begin
+   if (dude_charisma + is_success(do_check(dude_obj, STAT_ch, 0)) + town_rep_positive) >= 9 then begin
       NOption(168,Node015,004);
    end
    NOption(g_mstr(300),Node999,-003);
