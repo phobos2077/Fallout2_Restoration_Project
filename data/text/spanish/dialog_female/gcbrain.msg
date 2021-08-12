@@ -175,7 +175,7 @@
  funcionar eficientemente.}
 {634}{}{Has conseguido los datos que necesitábamos para optimizar el reactor atómico. Ahora,
  todo lo que tienes que hacer es entregárselos a Festus.}
-{635}{}{¿Por qué no me cuentas lo que quiera que sea que estás proponiendo?}
+{635}{}{¿Por qué no me cuentas lo que sea que estás proponiendo?}
 {636}{}{¿Usar el disco de datos del reactor? ¿Cómo lo hago?}
 {637}{}{Bueno, me lo imaginaba pero, ¿y qué?}
 {638}{}{¿Una pieza? ¿Qué clase de pieza?}

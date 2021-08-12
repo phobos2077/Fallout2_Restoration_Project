@@ -191,7 +191,7 @@
 {9600}{}{Pase rojo}
 {9601}{}{Una tarjeta de seguridad, codificada en color rojo.}
 {9700}{}{Pase azul}
-{9701}{}{An electronic security key, color coded blue.}
+{9701}{}{Una llave electrónica de seguridad, codificada en color azul.}
 {9800}{}{Basura}
 {9801}{}{Un montón de basura. Hay un poco de todo.}
 {9900}{}{Medallón dorado}
