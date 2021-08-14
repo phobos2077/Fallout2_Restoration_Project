@@ -36,10 +36,10 @@ RPU includes the following mods:
 - [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance)
 - [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor)
 - [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders)
+- [Cassidy talking head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head)
 - Enhanced worldmap
 - Additional rifle and wakizashi animations
 - Improved Mysterious Stranger
-- Voice for Cassidy
 - High resolution patch.
 
 #### Recommended
