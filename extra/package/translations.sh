@@ -25,6 +25,7 @@ cp -r "$lang_dir"/english/cuts{,_female}
 
 # move texts to translation package dir
 for d in $(ls $lang_dir | grep -v english); do
+  rm -rf "$trans_dir/$d/text"
   mkdir -p "$trans_dir/$d/text"
   mv "$lang_dir/$d" "$trans_dir/$d/text/"
 done
@@ -36,7 +37,7 @@ for d in $(ls); do
   dat="${mod_name}_$d.dat"
   cd "$d"
   find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
-  $dat2a "$dat" @"$file_list" 2>&1 | grep -v "wine: Read access denied for device" # wine pollutes the log
+  $dat2a "$dat" @"$file_list"
   mv $dat ..
   cd ..
 done

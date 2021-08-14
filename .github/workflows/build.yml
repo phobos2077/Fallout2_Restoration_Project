@@ -27,13 +27,7 @@ jobs:
           wineboot >/dev/null 2>&1
 
       - name: Build and package
-        run: |
-          set -xeu -o pipefail
-          . extra/env.sh
-          ./extra/prepare.sh
-          set -xeu -o pipefail
-          ./extra/buildall.sh
-          ./extra/package.sh
+        run: ./extra/full.sh
 
       - name: Upload artifacts - exe
         uses: actions/upload-artifact@v2

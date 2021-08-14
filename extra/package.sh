@@ -6,7 +6,7 @@ export comp_dir="components"
 export dat2="wine $bin_dir/dat2.exe"
 export dat2a="wine $bin_dir/dat2.exe a -1"
 export trans_dir="$(realpath translations)"
-export file_list="../file.list"
+export file_list="$(realpath dat2.list)"
 
 short_sha="$(git rev-parse --short HEAD)"
 # defaults, local build or github non-tagged
@@ -23,18 +23,28 @@ if [[ ! -z "${GITHUB_REF-}" ]]; then # github build
   fi
 fi
 
+# cleanup for local build
+git checkout -- release
+git clean -fd release
+git clean -fdX release
+
+# wine pollutes the log with "wine: Read access denied for device" if z is linked to /
+z="$(readlink -f ~/.wine/dosdevices/z\:)"
+if [[ "$z" == "/" ]]; then
+  ln -sf /home ~/.wine/dosdevices/z\:
+fi
+
 # translations packaged first, to get extra text out of the way
 "$extra_dir"/package/translations.sh
 
 # data
 dat="$mod_name.dat"
 mkdir -p "$mods_dir"
-chmod 0444 data/proto/*/*
 
 cd data
 # I don't know how to pack recursively
 find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list" # replace slashes with backslashes
-$dat2a "$mods_dir/$dat" @"$file_list" 2>&1 | grep -v "wine: Read access denied for device" # wine pollutes the log
+$dat2a "$mods_dir/$dat" @"$file_list"
 cd ..
 
 # pack components into separate dat files
