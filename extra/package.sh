@@ -31,7 +31,8 @@ git clean -fdX release
 # wine pollutes the log with "wine: Read access denied for device" if z is linked to /
 z="$(readlink -f ~/.wine/dosdevices/z\:)"
 if [[ "$z" == "/" ]]; then
-  ln -sf /home ~/.wine/dosdevices/z\:
+  rm -f ~/.wine/dosdevices/z\:
+  ln -s /home ~/.wine/dosdevices/z\:
 fi
 
 # translations packaged first, to get extra text out of the way
