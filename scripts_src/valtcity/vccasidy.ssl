@@ -182,6 +182,9 @@ procedure Node2022;
            NOption(9999, Node1101, 004); \
            party_member_default_options
 
+#define head_frm "art\\heads\\casdybf1.frm"
+#define HEAD_CASSIDY 13
+
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
 variable Perform_Party_Add:=0;
@@ -381,36 +384,33 @@ procedure use_obj_on_p_proc begin
       call Node2021;
 end
 
+
+procedure has_head begin
+   variable file = fs_copy(head_frm, head_frm);
+   if file == -1 then return false;
+   return true;
+end
+
 /* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   variable start_node, background := -1, head := -1; //default: no head
-
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION1;
-
    CheckKarma;
-
    GetReaction;
+   find_party_background;
 
-   if MacRae_Ptr or party_is_waiting then start_node := @Node019;
-   else start_node := @Node001;
-
-   if rpu_msetting(set_cassidy_head) then begin
-      head := HEAD_CASSIDY;
-      find_party_background;
-      background := PartyMemberBackground;
-   end
-
-   start_gdialog(NAME, self_obj, 4, head, background);
+   if has_head then start_gdialog(NAME, self_obj, 4, HEAD_CASSIDY, PartyMemberBackground);
+   else start_gdialog(NAME,self_obj,4,-1,-1);
    gSay_Start;
-      call start_node;
+      if (MacRae_Ptr != 0) or (party_is_waiting) then call Node019;
+      else call Node001;
    gSay_End;
    end_dialogue;
 
-   set_local_var( LVAR_Herebefore, 1 );
+   set_local_var(LVAR_Herebefore, 1);
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
