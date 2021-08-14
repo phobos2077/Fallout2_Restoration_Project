@@ -53,6 +53,9 @@ cd ..
 # pack appearance, too
 "$extra_dir"/package/appearance.sh
 
+# cassidy head and voice
+"$extra_dir"/package/cassidy_head.sh
+
 # party orders
 "$extra_dir"/package/party_orders.sh
 
