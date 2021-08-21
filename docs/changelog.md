@@ -38,7 +38,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/100) loading in-combat save in Den Residential area.
 - [Cassidy head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head) is now a separate mod (included), and uses Joey Bracken's voice by default.
 - Umbra Tribe
-  - Fixed [black screen]((https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/108)) upon entering the area in German version.
+  - Fixed [black screen](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/108) upon entering the area in German version.
 
 ### Version 21
 Updated sfall to 4.3.0.1.
