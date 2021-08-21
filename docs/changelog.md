@@ -5,6 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 22](#version-22)
 - [Version 21](#version-21)
 - [Version 20](#version-20)
 - [Version 18](#version-18)
@@ -27,6 +28,17 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's RP 2.3.3
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
+
+### Version 22
+- [Animations](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/107)
+  - Extended flamer animations are moved into a separated component, and updated.
+  - Green ghoul "magic hands ground" animation is enabled.
+  - For some critters, restored original, higher fps walking animations and added an option to speed them up.
+- Den
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/100) loading in-combat save in Den Residential area.
+- [Cassidy head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head) is now a separate mod (included), and uses Joey Bracken's voice by default.
+- Umbra Tribe
+  - Fixed [black screen]((https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/108)) upon entering the area in German version.
 
 ### Version 21
 Updated sfall to 4.3.0.1.
