@@ -15,7 +15,6 @@ if [[ ! -f $compile_exe ]]; then
 fi
 
 # compile all
-gcc -v
 for d in $(ls $src); do
   if [[ -d "$src/$d" && "$d" != "template" ]]; then # if it's a dir and not a template
     cd "$src/$d"
