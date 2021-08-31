@@ -5,6 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 23](#version-23)
 - [Version 22](#version-22)
 - [Version 21](#version-21)
 - [Version 20](#version-20)
@@ -28,6 +29,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - killap's RP 2.3.3
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
+
+### Version 23
+Fixed Cassidy missing talking head.
 
 ### Version 22
 - [Animations](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/107)
