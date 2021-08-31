@@ -22,15 +22,11 @@ jobs:
           set -xeu -o pipefail
           sudo dpkg --add-architecture i386
           sudo apt -qq update
-          sudo apt -qq remove parallel
-          sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc moreutils p7zip wine-stable wine32 >/dev/null 2>&1
+          sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip wine-stable wine32 >/dev/null 2>&1
           wineboot >/dev/null 2>&1
 
       - name: Build and package
-        run: |
-          set -xeu -o pipefail
-          ./extra/full.sh
-          echo $?
+        run: ./extra/full.sh
 
       - name: Upload artifacts - exe
         uses: actions/upload-artifact@v2
@@ -58,19 +54,12 @@ jobs:
           name: rpu.zip
           path: rpu*.zip
 
-      - name: Upload artifacts - dat
-        uses: actions/upload-artifact@v2
-        if: "!startsWith(github.ref, 'refs/tags/')"
-        with:
-          path: rpu*.dat
-
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
             rpu*.zip
-            rpu*.dat
             rpu*.exe
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
