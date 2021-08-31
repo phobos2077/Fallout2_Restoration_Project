@@ -18,5 +18,3 @@ export appearance_repo="BGforgeNet/Fallout2_Hero_Appearance"
 export party_orders_repo="BGforgeNet/Fallout2_Party_Orders"
 export hq_music_repo="BGforgeNet/Fallout2-HQ-music"
 export npc_armor_repo="BGforgeNet/Fallout2_NPC_Armor"
-
-set +xeu +o pipefail
