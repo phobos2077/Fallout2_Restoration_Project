@@ -45,7 +45,6 @@ end
 #ifndef RPU_DEFINE_H
 #define RPU_DEFINE_H
 // heads
-#define HEAD_CASSIDY                (13)	//Continuum version
 #define HEAD_DYING_HAKUNIN_NIGHT    (14)
 // backgrounds
 #define BACKGROUND_WASTELAND_NIGHT  (21)       //wasteln2.frm
