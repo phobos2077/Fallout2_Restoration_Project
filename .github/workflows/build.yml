@@ -30,6 +30,7 @@ jobs:
         run: |
           set -xeu -o pipefail
           ./extra/full.sh
+          echo $?
 
       - name: Upload artifacts - exe
         uses: actions/upload-artifact@v2
