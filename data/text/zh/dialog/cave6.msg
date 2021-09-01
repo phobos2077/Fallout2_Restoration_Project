@@ -1,0 +1,1 @@
+{100}{}{You enter a dark cave. There are rat droppings everywhere.}

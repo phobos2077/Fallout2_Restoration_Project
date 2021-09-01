@@ -1,0 +1,2 @@
+1:You have died.
+2:You shall never know what happened to your kidnapped village.
