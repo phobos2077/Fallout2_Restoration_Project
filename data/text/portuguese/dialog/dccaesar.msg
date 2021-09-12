@@ -55,8 +55,8 @@
 {202}{}{Eu vejo. Eu ainda tenho uma pergunta, no entanto.}
 {203}{}{Essa é a maior besteira que eu já ouvi.}
 {204}{}{Fascinante. Tenho que ir.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
+{205}{}{Nossa missão é fornecer uma força de trabalho estável e de alta qualidade para
+lidar com as crescentes demandas das grandes cidades. Você gostaria de participar?}
 {206}{}{Com certeza. Parece ótimo.}
 {207}{}{De maneira nenhuma.}
 {208}{}{Eu vou voltar para você sobre isso. Que cidades compram seus escravos?}

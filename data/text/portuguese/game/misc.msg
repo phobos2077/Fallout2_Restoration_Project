@@ -15,8 +15,8 @@
 {14}{}{SAIR}
 {15}{}{Pts. de Ação}
 {16}{}{P. de vida}
-{17}{}{ O sensor de movimento não está instalado.}
-{18}{}{ O sensor de movimento não tem cargas.}
+{17}{}{A opção de sensor de movimento não está instalada.}
+{18}{}{O sensor de movimento não tem carga sobrando.}
 {20}{}{Copyright (c) 1998 Interplay Productions. Todos os direitos reservados.}
 {30}{}{Você deseja continuar jogando?}
 {50}{}{Fallout 2 requer o CD!}

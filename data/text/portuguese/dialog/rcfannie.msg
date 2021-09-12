@@ -28,8 +28,8 @@
 {118}{}{Volte com um pouco de dinheiro e talvez a Fannie te ensine alguma coisa.}
 {119}{}{You're not the sharpest tool in the shed, are ya?}
 {120}{}{You're 'bout as smart as bait. Ain't ya?}
-{121}{}{Uma cura? O quê, você enlouqueceu? Eu pareço querer uma cura? Quer fazer eu me sentir melhor,
- docinho? Me dê mais Jet?}
+{121}{}{Uma cura? O quê, enlouqueceu? Eu pareço querer uma cura? Quer fazer eu me sentir melhor,
+ docinho? Me dê mais Jet.}
 {122}{}{Bem, acho que só mais um pouco não vai fazer mal. Aqui está um pouco de Jet.}
 {123}{}{Você tem mais Jet do que o necessário. A última coisa que eu quero ver é mais uma pessoa viciada em Jet.
  Tchau.}

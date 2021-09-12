@@ -60,8 +60,8 @@
 {205}{}{OK, eu estarei lá. Goodbye.}
 {206}{}{Nesse meio tempo, gostaria de perguntar-lhe algo mais.}
 {207}{}{Adeus.}
-{208}{}{Eu sou Chuck Dunton. O que quer? Idiota!}
-{209}{}{Eu sou Buck Dunton. O que quer? Idiota!}
+{208}{}{Eu sou Chuck Dunton. O que quer? Idiota?}
+{209}{}{Eu sou Buck Dunton. O que quer? Idiota?}
 {210}{}{Pareço feio? Eu sou Chuck Dunton.}
 {211}{}{Pareço feio? Eu sou Buck Dunton.}
 {212}{}{Você pensa baixo, certo? Eu sou Chuck Dunton.}
@@ -158,7 +158,7 @@
 {381}{}{Não. Eu me lembro. Farei conforme nosso plano.}
 {382}{}{Você está louco!? Eles sabem de tudo. Estou aqui para avisá-lo para não seguir com o plano. Aposto que
  eles estão nos vigiando agora.}
-{383}{}{Eu esqueci, poderia me dizer sobre plano novamente, por favor?}
+{383}{}{Eu esqueci; poderia me dizer sobre plano novamente? por favor.}
 {384}{}{Eu encontrei um monte de partes de insetos nesse pequeno barraco. Sabe me dizer pra que são?}
 {390}{}{Partes de insetos? Umm, err, ah, não sabemos nada de esses troços de insetos. Do que está falando?}
 {391}{}{Bem, eu encontrei um monte de peças de insetos que tinham tiras e fivelas parecia que poderia ser
@@ -170,8 +170,9 @@
 {403}{}{Você está louco!? Eles sabem de tudo. Estou aqui para avisá-lo para não seguir com o plano. Aposto que
  eles estão nos vigiando agora.}
 {404}{}{Quando Torr aparecer, precisamos de você para tirá-lo}
-{405}{}{Daqui a pouco você pode ir falar com ele ou deixa-lo inconsciente, mas não o mate, ou as pessoas ficaram
- irritadas com você. Enquanto faz isso, teremos os brahmins. Encontre-nos de volta em nossa loja amanhã e pegue sua recompensa.}
+{405}{}{ fora daqui por um tempo. Você pode ir falar com ele ou deixa-lo inconsciente, mas não o mate, ou 
+ o povo ficará irritado com você. Enquanto faz isso, nós pegaremos os brahmins. Encontre-nos de volta em nossa loja 
+ amanhã e pegue sua recompensa.}
 {410}{}{Talvez você esteja certo. (olhando em volta rapidamente) não gosto da idéia de alguém me observando.}
 {411}{}{Você deveria ser mais gentil com as pessoas da sua própria espécie. Agora vá para casa.}
 {420}{}{Ninguém está nos vigiando. Tomamos muito cuidado com isso. Você esta amarelando, não é? Maldito covarde.}

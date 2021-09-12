@@ -11,7 +11,7 @@
 {217}{}{Bem que esses escravos poderiam calar a boca…}
 {218}{}{Where did I leave that syringe...}
 {219}{}{Alguém viu o número 31? Ele estava aqui há um segunda atrás.}
-{220}{}{Os escravos tomaram mais do Jet Beta?}
+{220}{}{Faça os escravos trazerem mais do Jet Beta.}
 {221}{}{Resultados dos testes com o Jet Beta são muito promissores, mas…}
 {222}{}{O estado de êxtase dura de 15 min a uma hora... calculando um dose/hora... hmmmnnn.}
 {223}{}{No. 12 ainda está com hemorragia nasal…}
@@ -73,7 +73,7 @@
 {346}{}{Entendo. E como anda a pesquisa?}
 {347}{}{Acho que entendi. Vou examinar o resto da área de teste por mim memso.}
 {355}{}{Não muito bem. Nosso prazo é curto e nós precisamos purificar o processo de manufaturo do Jet o quanto antes.}
-{356}{}{Por que? O Jet não é viciante o suficiente?}
+{356}{}{Por que? O Jet parece viciante o suficiente.}
 {357}{}{Por que o prazo curto?}
 {358}{}{Parece um trabalho duro. Olha, eu tenho que resolver algo rápido - volto logo.}
 {365}{}{Ninguém sair por aí dizendo isso, mas provavelmente é devido à distribuição de Jet em Redding. O Jet já potente *o sufuciente*, mas

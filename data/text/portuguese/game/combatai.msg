@@ -77,7 +77,7 @@
 {1076}{}{É osso, é muito branco... a dor é tão grande...}
 {1077}{}{Quanto sangue...por toda parte.}
 {1078}{}{Fui partido.}
-{1079}{}{Isso dói, oh Deus, por que?}
+{1079}{}{Isso é péssimo, oh Deus, por que.}
 {1080}{}{Ai! Meus olhos!}
 {1081}{}{Minha cara! Meus olhos! Arrrrgh!}
 {1082}{}{Meus olhos!}
@@ -119,7 +119,7 @@
 {1118}{}{Meu braço quebrou, aqui... e aqui...}
 {1119}{}{O osso saiu pra fora do braço, arrrrgghhh.}
 {1120}{}{Eu não posso sentir nada, meu braço esta totalmente dormente.}
-{1121}{}{Alguém coloque o meu braço no lugar, por favor!!}
+{1121}{}{Alguém coloca meu braço no lugar, por favooooooor?!?}
 {1122}{}{Arrancou meu polegar!}
 {1123}{}{Aggghhh! Meu braço!}
 {1124}{}{Meu braço!}
@@ -991,7 +991,7 @@
 {2372}{}{Merda, eu pensei que isso ia ser uma espécie de desafio!}
 {2400}{}{Vou sair daqui!}
 {2401}{}{Talvez essa não seja uma boa idéia.}
-{2402}{}{Posso atacar mais alguém?}
+{2402}{}{Ataque outro, vai!}
 {2403}{}{Caramba!}
 {2404}{}{Eu não vou morrer por isso!}
 {2405}{}{Isso é demais para mim!}
@@ -1029,7 +1029,7 @@
 {2521}{}{Toma isso!}
 {2522}{}{Eu vou dançar no seu túmulo!}
 {2523}{}{Todo mundo! É um alvo em potencial!}
-{2524}{}{Prepare, seu vagabundo!}
+{2524}{}{Se prepara, vagaba?}
 {2525}{}{Vou desfrutar disto ...}
 {2540}{}{Toma isso!!!}
 {2541}{}{Não adianta ficar gritando por Misericórdia ...}
@@ -1498,7 +1498,7 @@
 {12310}{}{Meu ... braço ... meu ... lindo ... braço.}
 {12311}{}{Médico! Fudeu com meu braço!}
 {12312}{}{*hffff*}
-{12320}{}{Só minha mão para me dar amor! Você não tem vergonha?}
+{12320}{}{Minha mão! Você não tem vergonha?!}
 {12321}{}{Médico! Fudeu com meu braço!}
 {12322}{}{Parece que não vou poder limpar minha arma com essa mão...}
 {12330}{}{Meu estômago!}
@@ -1659,7 +1659,7 @@
 {14061}{}{De novo desequilibrado!}
 {14062}{}{O que foi isso?}
 {14063}{}{Isto não é uma farsa!}
-{14064}{}{O que? você outra vez!}
+{14064}{}{O que? você de novo?}
 {14065}{}{Você estava realmente tentando? Como é triste.}
 {14066}{}{Me alcançar é importante para você?}
 {14067}{}{Mais rápido do que você pensou, não é?}
@@ -2163,8 +2163,8 @@
 {36061}{}{Você vai pagar por isso!}
 {36062}{}{Ah! Minha perna!}
 {36070}{}{Minha perna!}
-{36071}{}{Uh! Esta mirando baixo, assim não vale!}
-{36072}{}{Não estava tentando acertar minha perna, está?}
+{36071}{}{Uhh! Esta mirando baixo, não é?}
+{36072}{}{Não estava tentando acertar minha perna, está?!}
 {36080}{}{Maldição sangue em meus olhos!}
 {36081}{}{O meu olho! Você vai pagar por isso!}
 {36082}{}{Safado!}
@@ -2367,7 +2367,7 @@
 {36748}{}{Não pode lutar contra os Escolhidos!}
 {36749}{}{Sofra, humano!}
 {36760}{}{Por que você luta assim?}
-{36761}{}{Isso é o melhor que os humanos podem fazer?}
+{36761}{}{Isso é o melhor que os humanos podem fazer!}
 {36762}{}{Você não tem o poder!}
 {36763}{}{Você me faz rir muito!}
 {36764}{}{Isso foi um ataque?}
@@ -2460,7 +2460,7 @@
 {40005}{}{Sulik não precisar de dentes mesmo.}
 {40006}{}{Sulik ainda ter uma orelha pra ouvir sofrimento!}
 {40007}{}{Vovô-osso cair, mim precisa achar vovô!}
-{40008}{}{Você poder ouvir som do espírito-sino}
+{40008}{}{Você poder ouvir o som dos sinos do espírito tocando?}
 {40009}{}{Você ver brilho das estrelas também?}
 {40010}{}{Meu osso ser tão branco.}
 {40011}{}{Ainda poder usar a arma.}
@@ -2494,7 +2494,7 @@
 {40039}{}{Sulik ter muito sangue mesmo...}
 {40040}{}{Nós achar que você não estar em paz com nós.}
 {40041}{}{O dia parece estar acabado.}
-{40042}{}{Difícil de respirar ou nós estar tomando golpe-do-dragão?}
+{40042}{}{Difícil de respirar se tomarmos o golpe do dragão.}
 {40043}{}{Nós achar que isso não ser tão bom.}
 {40044}{}{Vovô-osso diz que isso ser o que parece.}
 {40045}{}{O irmão-lagarto que nós comer antes quer sair agora.}
@@ -2625,11 +2625,11 @@
 {40170}{}{Nós feliz por você errar.}
 {40171}{}{Você confuso do que estar fazendo?}
 {40172}{}{Você precisar praticar.}
-{40173}{}{Nós tentar descobrir o que foi isso...}
+{40173}{}{Estamos nos perguntando, o que foi isso?}
 {40174}{}{Você fazer nós rir.}
 {40175}{}{Nós achar que você deve voltar a caçar rato até aprender mais.}
 {40176}{}{Vovô-osso não saber por que maus ser tão esúpidos.}
-{40178}{}{Você não querer comerçar de novo?}
+{40178}{}{Estamos nos perguntando se você quer começar de novo.}
 {40179}{}{Nós achar que você mais estúpido que parece, mas vovô-osso achar que isso não ser possível.}
 {40800}{}{*Nffff*}
 {40801}{}{*Hrkkk*...Tenho...uma ferida...na cabeça...}
@@ -2836,7 +2836,7 @@
 {41250}{}{Merda! Tenho cupins}
 {41251}{}{Não tinha idéia de que estava tão seco e quebradiço.}
 {41252}{}{Maldição, Alguém tem alguma fita adesiva?}
-{41253}{}{:Tosse... ofegante:}
+{41253}{}{(Tosse... ofegante)}
 {41254}{}{Buraco de entrada, buraco de saida, a coleção esta completa!}
 {41255}{}{Maldição, estão me fatiando.}
 {41256}{}{Ta de boa, esse não era meu lado bom.}
@@ -3065,7 +3065,7 @@
 {41699}{}{Oh, totalmente sem preparo físico!}
 {41700}{}{Foda-se vocês, eu estou indo para casa.}
 {41701}{}{Nunca pensei que veria o dia ...}
-{41702}{}{estúpido :: hum, hum..}
+{41702}{}{Estúpido :: hum, hum::}
 {41703}{}{retirada estratégica! Vamos lá!}
 {41704}{}{Eu não sou um mutante alegre!}
 {41705}{}{Não há honra em fugir.}
@@ -3150,7 +3150,7 @@
 {42004}{}{São pedaços do meu cérebro em minhas mãos?}
 {42005}{}{Onde foi parar minha orelha?}
 {42006}{}{Ooooh! Meu primeiro ferimento na cabeça...ow. Owwwww. OWWWWW.}
-{42007}{}{Hey! O que faz minha orelha no chão?}
+{42007}{}{Hey! O que minha orelha faz no chão?!}
 {42008}{}{Ou eu fui atingido na cabeça, ou esta é a pior enxaqueca que eu já tive.}
 {42009}{}{A minha cara! Meu belo rosto cheio de espinhas de olhos esbugalhados!}
 {42010}{}{ignorar a dor em meu braço... ignorar a dor em meu braço}
@@ -3264,7 +3264,7 @@
 {42126}{}{Vou arrancar sua cabeça e ... uh ... um porcaria, esqueci o resto.}
 {42127}{}{Vamos ver: Vou começar pelo pescoço, cagar na sua cabeça...}
 {42128}{}{Vou te tratar como uma prostituta.}
-{42129}{}{Alguém me de cubertura?}
+{42129}{}{Alguém me de cobertura? Alguém?!}
 {42130}{}{Hiiiiiyaaaaaa!!!}
 {42131}{}{Deixe isso para mim! Deixe isso para mim!}
 {42132}{}{Myron! He's one bad mutha...}
@@ -3500,22 +3500,22 @@
 {44959}{}{Vou embora somente quanto cair e não se levantar!}
 {44960}{}{Poderia parar de se mover para que eu possa acerta?}
 {44961}{}{Garrafas. Deveria trazer algumas garrafas.}
-{44962}{}{Não vai rir quanto te acertar, vai doer e muito!}
-{44963}{}{Arrg! Grng! Ghrr! Thpt! (Palavras de quatro letras de Deathclaw)}
+{44962}{}{Precisa que eu pinte um alvo em você?}
+{44963}{}{Por que você está mirando lá quando estou aqui?}
 {44964}{}{Acho que não devia se dedicar profissionalmente à luta.}
-{44965}{}{Como posso errar algo tão gordo como você!}
+{44965}{}{Como você consegue errar algo tão gordo quanto eu?}
 {44966}{}{Ai sim...na distancia adequada, vai ter problemas.}
-{44967}{}{Você é um merdinha ágil hein.}
+{44967}{}{Eu sou um merdinha ligeiro, certo?}
 {44968}{}{Fico feliz por minha mão não ver isso.}
-{44969}{}{Por que eu estou atacando aqui quando você está ali?}
+{44969}{}{Você realmente deveria considerar praticar mais.}
 {44970}{}{Que vergonha. Por favor, não conte a ninguém que eu fiz isso.}
-{44971}{}{Isso realmente me irrita!}
-{44972}{}{Ok. Eu Errei poderia acontecer a qualquer um!}
+{44971}{}{Então, você está se esforçando para errar o alvo?}
+{44972}{}{Isso não te deixa puto?}
 {44973}{}{Eu vou acertar você da próxima vez.}
-{44974}{}{É assim que se faz, Grace!}
+{44974}{}{Ae, Grace. E se você tentar de novo?}
 {44975}{}{Isso foi um exemplo brilhante de erro ao alvo!}
 {44976}{}{Estou começando a pensar que não sou muito bom com isso.}
-{44977}{}{Arrggh! Não posso acreditar que errei!}
+{44977}{}{Você está tentando me fazer morrer de rir?}
 {44978}{}{Acertei o vendo! Pufs, nunca errei tanto!}
 {44979}{}{Errei de novo!}
 {50000}{}{}

@@ -17,7 +17,7 @@
 {164}{}{Você por acaso, não viu nenhum relógio de ouro pelo chão ou outro lugar?}
 {165}{}{O que eu posso fazer por você agora?}
 {166}{}{Eu gostaria de comprar um pouco da sua famosa carne seca.}
-{168}{}{Fale-me um pouco sobre o seu açougue!}
+{168}{}{Pode me fazer um pouco sobre o matadouro?}
 {169}{}{Parece que a seca não afetou os seus negócios ainda.}
 {170}{}{Eu sabia que você ia conseguir. Vamos ver, Te devo $1000 pelo trabalho. Mas, }
 {171}{}{ brahmin foram mortos por sua falta de cuidado. $100 por cada brahmin, sua recompensa é }
@@ -37,7 +37,7 @@
 {186}{}{Tem certeza que não está interessado em trabalho? Tenho certeza que você conseguiria resolver meu problema fácil.}
 {187}{}{Depende. Aonde, o que terei que fazer, e o mais importante, QUANTO VOU RECEBER?}
 {188}{}{Esperto em?! Você lembra a mim quando eu era jovem. Simples...Alguns cães selvagens estão descendo a montanha atrás de comida. E eles infelizmente acharam meus brahmins e agora estão atacando a manada toda noite. Mate a todos da matilha, e te pagarei $1000 por isso.}
-{189}{}{Você está me escondendo algo seu velho trapaceiro. Desembucha!!}
+{189}{}{Você está me escondendo algo, seu vagabundo. Qual é o truque?}
 {190}{}{Tão perceptivo quanto esperto. Eu sabia que não ia te enrolar. O segredo é que cada brahmin que você deixar morrer, eu vou descontar $100. Eu pago bem pelo sucesso, mas desconto pelas falhas. Esse é o risco que você vai ter trabalhando para mim.}
 {191}{}{Ótimo! Siga para os pastos a noite e mate a matilha que está atacando meus brahmins. Volte quando terminar o trabalho.}
 {192}{}{Ah meus Deus! Cornelius ainda está procurando o relógio dele? Porque diabos ele não aceita que já era? A merda do relógio nunca funcionou, e serei tio de um brahmin se ele for realmente feito de ouro. Desista; você nunca vai encontrar.}

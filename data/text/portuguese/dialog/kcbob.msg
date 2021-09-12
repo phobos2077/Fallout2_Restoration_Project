@@ -114,7 +114,7 @@
 {502}{}{Nada, obrigado.}
 {550}{}{Bob não quero falar com você.}
 {2900}{}{As coisas estão paradas recentemente. Nada tão importante a te dizer.}
-{2901}{}{ Mutilações de brahmins}
+{2901}{}{Mutiladores de brahmins}
 {2902}{}{espíritos andantes}
 {2903}{}{ratos gigantes}
 {2904}{}{e desaparecimento de pessoas.}

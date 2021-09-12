@@ -235,7 +235,7 @@
 {327}{}{Você sabe? Mas essas são excelentes notícias! Por favor vá falar com a First Citizen agora mesmo!}
 {328}{}{Você sabe? Mas essas são excelentes notícias! Deixe-me dá-lo um Day Pass para que você possa contar a First Citizen.
  Aqui está. O pass só é útil durante o dia; pela noite você será convidado a sair da cidade. Agora vá.}
-{329}{}{Antes de ir, eu tenho algumas perguntas.}
+{329}{}{Antes de ir, posso fazer outra pergunta?}
 {330}{}{Eu irei fazer isso.}
 {331}{}{Obrigado. Adeus.}
 {332}{}{Oh, uh, esta não é minha função. Você deve falar com a First Citizen sobre estes assuntos.}

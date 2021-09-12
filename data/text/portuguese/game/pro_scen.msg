@@ -358,7 +358,7 @@
 {18600}{}{Cartaz de 'nível um'}
 {18601}{}{Você acha que isso pode significar que você está no nível um da Irmandade.}
 {18700}{}{Cartaz de 'nível dois'}
-{18701}{}{Você está no nível dois da Irmandade.}
+{18701}{}{Você está no nível dois.}
 {18800}{}{Cartaz de 'nível três'}
 {18801}{}{Isto deve significar que você está no nível três da Irmandade.}
 {18900}{}{Cartaz de 'nível quatro'}
@@ -2270,7 +2270,7 @@
 {137600}{}{Tocha}
 {137601}{}{Uma tocha acesa em um canto da parede.}
 {137700}{}{Vertibird}
-{137701}{}{LONGA E NECESSÁRIA DESCRIÇÃO}
+{137701}{}{Um grande avião militar.}
 {137800}{}{Porta destruída}
 {137801}{}{A porta esta destruída}
 {137900}{}{Porta destruída}
@@ -2634,9 +2634,9 @@
 {172200}{}{Vidro aprova de bala}
 {172300}{}{Vidro aprova de bala}
 {172400}{}{Torre de Laser}
-{172401}{}{A torre gira de forma ameaçadora.}
+{172401}{}{A torreta gira de forma ameaçadora.}
 {172500}{}{Torre de Laser}
-{172501}{}{A torre gira de forma ameaçadora.}
+{172501}{}{A torreta gira de forma ameaçadora.}
 {172600}{}{Rochas}
 {172700}{}{Rochas}
 {172800}{}{Rochas}
@@ -3459,11 +3459,11 @@
 {229200}{}{Forte Torre Laser}
 {229201}{}{Uma torre de laser assentada em uma torre de concreto.}
 {229300}{}{Torre de Laser}
-{229301}{}{A torre gira de forma ameaçadora.}
+{229301}{}{A torreta gira de forma ameaçadora.}
 {229400}{}{Forte Torre Laser}
 {229401}{}{Uma torre de laser assentada em uma torre de concreto.}
 {229500}{}{Torre de Laser}
-{229501}{}{A torre gira de forma ameaçadora.}
+{229501}{}{A torreta gira de forma ameaçadora.}
 {229800}{}{Cartaz de cinema}
 {229801}{}{Um velho cartaz de cinema. "Hobo With a Shotgun".}
 {229900}{}{Olhando uma criatura estranha}

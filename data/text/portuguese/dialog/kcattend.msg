@@ -9,7 +9,7 @@
 {111}{}{Faz muito tempo que você não é acariciado?}
 {112}{}{Tomara que da próxima vez dure um pouco mais.}
 {113}{}{It's not a race, you know.}
-{114}{}{Seus amigos te chamam de 'Flash'? Porque nunca vi nada tão rápido.}
+{114}{}{Seus amigos chamam você de 'Ligeirinho'?}
 {115}{}{Se todos os meus clientes fossem assim tão rápidos, eu poderia chegar em casa mais cedo.}
 {116}{}{It's more fun if you wait 'til I help you.}
 {117}{}{Se você tivesse esperado até que eu tirasse a minha roupa, com certeza iria gostar mais.}

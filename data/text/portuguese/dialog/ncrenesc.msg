@@ -17,8 +17,7 @@ seus óculos quebrados e começa a polir a única lente boa.}
 {226}{}{Saia daqui, ou atiro em você até você morrer. Duas vezes.}
 {227}{}{Dê o FORA daqui!!.}
 {228}{}{Fora! Fora! Fora! Fora! Fora!}
-{235}{}{(O velhote enfia os óculos em seu nariz e suspira em exasperação.) 
-SIM? O que  você quer?}
+{235}{}{(O velho empurra os óculos quebrados para cima do nariz e suspira com irritação.) SIM? O que você quer? }
 {236}{}{Vamos lá homem, desembucha!}
 {237}{}{Vamos lá mulher, desembucha!}
 {238}{}{Taa legal ta saindo pra fora… Melhor você afastar(Zip.)}
@@ -36,7 +35,7 @@ sair fora.}
 {257}{}{Mim lamenta pouco.}
 {258}{}{Mim não saber como colocar sutiã de volta.}
 {259}{}{Não gritar em mim}
-{260}{}{Odeio você!}
+{260}{}{ Te odeio!}
 {261}{}{Eu estou indo, eu estou indo. Por enquanto.}
 {270}{}{Eu? Ah eu sou o alegre São Nicolau, sua besta quadrada.}
 {271}{}{Eu? Oh, eu só sou o bom e velho alegre São Nicolau. E VOCÊ deve ser aquele 
@@ -413,8 +412,8 @@ ou você vai estar tossindo sangue.}
 que eu pedi, e você fará isso agora.}
 {868}{}{Eu vou checar com o Sr.Salvatore sobre o compromisso, e então eu 
 voltarei.}
-{875}{}{Você perdeu sua audição, garoto?}
-{876}{}{Você perdeu sua audição, garota?}
+{875}{}{Você ficou surdo, muleque? }
+{876}{}{Você ficou surda, fia? }
 {877}{}{EU DISSE EU-JÁ-PAGUEI-O-IMPOSTO. *Duas semanas atrás.* Se você 
 fosse realmente do Salvatore, você saberia isso. Agora rasga!}
 {878}{}{Olhe. Última vez: passe-me as moedas.}
@@ -513,8 +512,8 @@ agonizar por muito tempo.}
 Lua quando eu me ajoelhei e… Ei, você quer saber? Você talvez goste da anciã. 
 Ela tem quase a sua idade.}
 {2000}{}{Você expôs o envolvimento de Renesco na morte de Richard Wright.}
-{5257}{}{É tão grande. Eu ir agora.}
-{5259}{}{Não grite. PORQUE VOCÊ CONTINUA GRITANDO? PARE A GRITARIA!}
+{5257}{}{ é tão grande. Estou indo agora.}
+{5259}{}{não grite. PORQUE VOCÊ CONTINUA GRITANDO? PARE COM ESSA GRITARIA!}
 {5260}{}{…*sniff*…vou chamar o irmãozão pra te bater, velhote! Aí então nós 
 teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
 {6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}

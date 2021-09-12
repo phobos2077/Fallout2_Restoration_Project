@@ -2,7 +2,7 @@
 {101}{}{Você vê Sulik.}
 {102}{}{Você vê um tribal alto e musculoso. Ele tem um osso atravessando o nariz, rosto tatuado e um comportamento calmo e confiante.}
 {103}{}{.}
-{104}{slk1}{Ei, amigo. Nosso nome ser Sulik. O que você estar precisando?}
+{104}{slk1}{Ei, irmão. Nosso nome é Sulik. Do que você precisa'.}
 {105}{}{Uh?}
 {107}{slk2a}{Oh, não. Não falar com nós. Um de vocês pegar nossa irmã. Karma ruim... pra você.}
 {108}{slk2b}{Oh, não. Nós e mim não falar com dono de escravo.}
@@ -381,7 +381,8 @@
 {950}{}{Uh-huh.}
 {951}{}{Eu vou procurar por ele agora mesmo.}
 {952}{}{Claro que eu vou ajudá-lo. Mas eu preciso de uma informação antes.}
-{953}{}{Nós deveríamos dar um pouco mais de tempo pra ele. Ele não pode ser um herói se nós interferirmos. Será que você poderia me dar algumas informações?}
+{953}{}{Nós deveríamos dar um pouco mais de tempo pra ele. Ele não pode ser um herói se nós interferirmos. Eu
+ poderia usar algumas informações locais.}
 {954}{}{Hum, história interessante mas eu acho que não posso ajudar o Torr. Estou muito ocupado. Tchau.}
 {955}{slk81a}{Irmã encontrada. Nós mandar ela de volta pra casa. Ela forte, consegue ir bem. Nós quer ir com você. Vovô Osso diz que você ter grande caminho a seguir.}
 {956}{slk81b}{Você deixar nós ir com você?}
@@ -451,16 +452,16 @@
 {3038}{}{Talvez nós deve voltar aqui.}
 {3039}{}{Nós não entende.}
 {3040}{}{Nós não sabe.}
-{3050}{slk86}{Estar em casa ser legal, mas o lugar parecer menor agora. Nós perdeu a estrada e a 
-companhia de amigo tão legal como você. Quer que nós ande junto de novo?}
+{3050}{slk86}{Estar em casa é legal, mas o lugar parecer menor agora. Nós perdemos a estrada e a
+ companhia de um amigo tão legal como você. Podemos andar juntos de novo.}
 {3051}{}{Seria ótimo.}
 {3052}{}{Desculpe, não agora.}
 {3053}{slk87}{Nós fazer despedida e levar você embora.}
 {3054}{}{OK.}
 {3055}{slk88}{Pena. Você precisar mais disso que mim. Ir bem.}
 {3056}{}{Um segundo, acho que seria bom você vir comigo. Desculpe, só não queria te separar da sua casa tão cedo.}
-{3057}{slk89}{Bom ver casa, mas não enquanto irmã ainda estar perdida. Ainda querer ficar 
-na sua companhia.}
+{3057}{slk89}{Bom ver a casa, mas não enquanto a maninha estiver fora. Ainda quero ficar em sua
+ companhia, OK?}
 {3058}{}{Sim.}
 {3059}{}{Não, eu acho que é hora de você procurar por você mesmo.}
 {3060}{slk90}{Talvez. Nós e mim sentir saudades. Espíritos bom esteja com você, amigo.}

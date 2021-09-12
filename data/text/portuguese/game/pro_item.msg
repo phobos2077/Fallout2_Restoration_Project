@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Uma bonita urna dourada com o nome de "Harriet" inscrito na parte da frente e de cor cinzas no interior.}
 {11300}{}{Robes}
-{11301}{}{Vestes usadas para o futuro.}
+{11301}{}{Túnicas de aparéncia gasta.}
 {11400}{}{Tangler's Hand}
 {11401}{}{Um manipulador cibernética, na forma e forma de uma mão. Danificado devido à natureza malfeita do processo de remoção.}
 {11500}{}{Super Sledge}
@@ -495,7 +495,7 @@
 {25300}{}{Controlador de Célula de Combustível}
 {25301}{}{Este chip controla o fluxo de energia em motores elétricos de um carro. Muitos motoristas queimam rapidamente este chip através de uma aceleração freqüente e rápida. É uma peça muito valiosa... Só precisa de um veículo para instalá-lo.}
 {25400}{}{Regulador de Células de Combustível}
-{25401}{}{Alguns proprietários de veículos instalam este controlador, que dobra a quilometragem do seu carro entre as cargas, mas muitos motoristas não se preocupam com o alto consumo de combustível, afinal de contas, a energia é barata e abundante, então não há necessidade de se preocupar.}
+{25401}{}{Alguns proprietários de veículos instalam este controlador que dobra a quilometragem do seu carro entre as cargas, mas muitos motoristas não se preocupam com o alto consumo de combustível, afinal de contas, a energia é barata e abundante, então pra que se preocupar?}
 {25500}{}{Day Pass}
 {25501}{}{Este pedaço de papel amassado te concede acesso a todas as áreas de Vault City, funciona somente no próprio Vault, apenas durante o dia.}
 {25600}{}{Documentos falsos de Cidadania}

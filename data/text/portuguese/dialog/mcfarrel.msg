@@ -7,7 +7,7 @@
 {153}{}{Eu não roubei o relógio, então pare de me incomodar! Estou muito velho pra isso!}
 {154}{}{Cornelius diz que você roubou o relógio dele.}
 {155}{}{Onde você conseguiu a grana pra comprar as ferramentas novas?}
-{156}{}{Me fale sobre Modoc.}
+{156}{}{O que você pode me contar sobre Modoc?}
 {157}{}{O que você faz por aqui?}
 {158}{}{Relógio? Do que você ta falando??}
 {159}{}{E agora!?}

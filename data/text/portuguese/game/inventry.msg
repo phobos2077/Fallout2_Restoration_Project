@@ -7,11 +7,11 @@
 {6}{}{SO}
 {7}{}{P. de vida}
 {8}{}{Armadura}
-{9}{}{Normal}
-{10}{}{Laser}
-{11}{}{Fogo}
-{12}{}{Plasma}
-{13}{}{Explosivo}
+{9}{}{  Normal}
+{10}{}{  Laser}
+{11}{}{  Fogo}
+{12}{}{  Plasma}
+{13}{}{  Explodir}
 {14}{}{nenhum item}
 {15}{}{Dmg:}
 {16}{}{Rng:}

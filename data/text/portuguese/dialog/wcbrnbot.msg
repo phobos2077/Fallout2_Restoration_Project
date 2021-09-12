@@ -4,7 +4,7 @@
 {103}{}{Skynet agradece o humano.                                      Skynet deseja pedir um favor.                                      Skynet deseja viajar com humano..}
 {104}{}{}
 {105}{}{}
-{106}{}{                                    [Essa geringonça pode ser útil.]}
+{106}{}{                              [Essa engenhoca pode vir a ser útil.]}
 {107}{}{Levar o robô com você.}
 {108}{}{Deixar o robô.}
 {109}{}{Sair}

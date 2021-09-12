@@ -8,8 +8,8 @@
 {153}{}{Ladrao! Ladrao! Ladrao!}
 {154}{}{Bem-vindo ao de Rose Bed and Breakfast. Meu, não é o jovem cintas. O que Rose pode ajudar
   você hoje?}
-{155}{}{Bem-vindo ao Rose Bed and Breakfast. Nossa, que bela jovem senhorita você é. O que Rose 
-pode fazer por você hoje?	}
+{155}{}{Bem-vindo ao Rose Bed and Breakfast. Nossa, que bela senhorita você é. O que Rose pode
+ fazer por você hoje?}
 {156}{}{Estou morrendo de fome! O que você tem que comer por aqui?}
 {157}{}{Eu gostaria de alugar um quarto para a noite.}
 {158}{}{Você deve ouvir muitas coisas pois trabalha aqui. Se importa se eu lhe fazer algumas perguntas?}
@@ -37,8 +37,9 @@ pode fazer por você hoje?	}
 {179}{}{Espere! Posso perguntar-lhe algumas perguntas?}
 {180}{}{Voltar para algo mais, eu vejo. Você deve realmente gostar de batatas fritas brahmin. Sinto muito; desde que você mantenha o
   recorde, você não pode entrar no concurso novamente até que alguém quebra a sua pontuação.}
-{181}{}{Voltar para algo mais, eu vejo. Você deve realmente gostar de batatas fritas brahmin. Sinto muito; desde que você mantenha o
-  recorde, você não pode entrar no concurso novamente até que alguém quebra a sua pontuação.}
+{181}{}{Batatas fritas brahmin, então. Temos um concurso para ver quem come mais batatas fritas brahmin; de longe, o
+ recorde é 36. Se você quebrar o recorde, não precisará pagar a conta. Você parece que
+ consegue quebrar esse recorde sem nenhum problema. Está interessado em participar?}
 {182}{}{Tudo bem, eu estou disposto a pagar para comer o delicioso escroto brahmin frito.}
 {183}{}{Estou com tanta fome que eu provavelmente pode dobrar essa pontuação. Pode vir.}
 {184}{}{Não, obrigado; apenas um pedido, por favor.}

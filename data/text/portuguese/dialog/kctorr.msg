@@ -9,7 +9,7 @@
 {115}{}{Torr Ferido. Homens maus! homens maus vão embora!}
 {120}{}{Torr Ajuda! (Por favor me ajude. Tem uma especie de criatura me impedindo de escapar desse lugar.)}
 {121}{}{Torr ajuda!}
-{122}{}{Torr ajuda. (Estou indo te salvar, Torr. Só aguente um pouco mais!)}
+{122}{}{ Torr ajuda. (Estou indo te ajudar, Torr. Aguente firme!)}
 {123}{}{Estou tentando te ajudar, Torr.}
 {130}{}{Squea Squea mau! juda Torr! (Cuidado com o espírito que anda! Nós podemos conversar depois
  que você me tirar daqui.)}

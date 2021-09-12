@@ -61,7 +61,7 @@
 {160}{}{O que você quer saber?}
 {161}{}{Como o  nosso DNA é diferente?}
 {162}{}{Você está realizando testes na minha tribo?}
-{163}{}{Que merda é essa de "o Projeto"?}
+{163}{}{Que desgraça é essa de "o Projeto?"}
 {164}{}{Eu já ouvi o suficiente. Você precisa ser eliminado como se faz com um gecko raivoso. Adeus, panaca.}
 {165}{}{Há um número de, primariamente, mudanças muito sutis. Eu não tive tempo de olhar nas ramificações das alterações ainda. Also, I'd have to backtrack to isolate your initial gene-stock before I could hazard any ideas on the direction the changes are taking. Apesar de tudo, as informação é clara o suficiente.}
 {166}{}{O que é claro o suficiente? Que informação?}
@@ -125,7 +125,7 @@
 {224}{}{Eu realmente preciso de um tempo pra pensar.}
 {225}{}{Essa é uma decisão repentina.}
 {226}{}{Eu tenho que pensar nisso.}
-{227}{}{Por favor, me dê um minuto.}
+{227}{}{Me de um momento, pode ser?}
 {228}{}{Eu odeio admitir isso, mas você deve estar com a razão. O que viemos planejando não está certo. Eu estava tão cego ao tentar superar os obstáculos que não parei pra pensar sobra a moralidade do meu objetivo.}
 {229}{}{Bem, agora que você pensou nisso... você deve destruir a toxina.}
 {230}{}{Isso poderia... não, não funcionaria.}
@@ -145,9 +145,9 @@
 {244}{}{Agradeço a informação que me deu. Seu sacrifíco será lembrado por todas as pessoas da Terra.}
 {245}{}{Já era hora de você dar por si, velhote. Agora vamos logo com isso.}
 {246}{}{When the stars threw down their spears,}
-{247}{}{And water'd heaven with their tears,}
-{248}{}{Did he smile his work to see?}
-{249}{}{Did he who made the Lamb make thee?}
+{247}{}{                      E regou o céu com suas lágrimas,}
+{248}{}{                            Ele sorriu ao ver seu trabalho?}
+{249}{}{                                  Aquele que fez o cordeiro, te fez?}
 {250}{}{Hein?}
 {251}{}{Oh, foi só algo que eu lembrei de um poeta morto há muito tempo. Estava pensando se ainda há lugar para aqueles que trabalharam para um fim obscuro por tanto tempo. Nosso tempo acabou, o seu apenas começou. Vá logo!}
 {252}{}{Ah, certo, agradeço a sua ajuda, doutor. Você é um homem muito valente.}

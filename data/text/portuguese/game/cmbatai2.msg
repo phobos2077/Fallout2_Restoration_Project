@@ -534,7 +534,7 @@
 {2365}{}{Isso vai ser mais fácil do que eu pensava}
 {2400}{}{Vou sair daqui!}
 {2401}{}{Talvez essa não seja uma boa idéia.}
-{2402}{}{Posso atacar mais alguém?}
+{2402}{}{Ataque outro, vai!}
 {2403}{}{Caramba!}
 {2404}{}{Eu não vou morrer por isso!}
 {2405}{}{Isso é demais para mim!}
@@ -622,16 +622,16 @@
 {2649}{}{Nossos ancestrais estão sedentos por sua alma.}
 {2650}{}{Minha espada está sedenta!}
 {2651}{}{Vamos beber do cálice da batalha!}
-{2660}{}{Seus olhos estão pretos de ódio.}
-{2661}{}{Os espíritos abandonaram você.}
-{2662}{}{Nossa magia está funcionando!}
-{2663}{}{Minha magia me faz invencível!}
-{2664}{}{Sua força de vida está enfraquecendo!}
-{2665}{}{O medo é um assassino para a mente}
-{2666}{}{Meu canto de batalha está funcionando!}
-{2667}{}{Nossos filhos sabem mais que você sobre uma batalha!}
-{2668}{}{Você conheceu a paz por muito tempo.}
-{2669}{}{Todos de sua tribo são fracos?}
+{2660}{}{ Seus olhos estão cegos de ódio.}
+{2661}{}{ Seus espíritos o abandonaram.}
+{2662}{}{ Nossa magia está funcionando!}
+{2663}{}{ Minha magia me faz invencível!}
+{2664}{}{ Sua força vital está enfraquecendo!}
+{2665}{}{ O medo é o assassino da mente}
+{2666}{}{ Meu canto de batalha está funcionando!}
+{2667}{}{ Nossos filhos sabem demais sobre batalhas!}
+{2668}{}{ Você conhece a paz há tempo demais.}
+{2669}{}{ Todos de sua tribo são fracos?}
 {2700}{}{Reforços!!}
 {2701}{}{Podem fazer uma lei marcial...}
 {2702}{}{Médico!}
@@ -963,7 +963,7 @@
 {12310}{}{Meu ... braço ... meu ... lindo ... braço.}
 {12311}{}{Médico! Fudeu com meu braço!}
 {12312}{}{*hffff*}
-{12320}{}{Só minha mão para me dar amor! Você não tem vergonha?}
+{12320}{}{Minha mão! Você não tem vergonha?!}
 {12321}{}{Médico! Fudeu com meu braço!}
 {12322}{}{Parece que não vou poder limpar minha arma com essa mão...}
 {12330}{}{Meu estômago!}
@@ -1416,8 +1416,8 @@
 {36061}{}{Você vai pagar por isso!}
 {36062}{}{Ah! Minha perna!}
 {36070}{}{Minha perna!}
-{36071}{}{Uh! Esta mirando baixo, assim não vale!}
-{36072}{}{Não estava tentando acertar minha perna, está?}
+{36071}{}{Uhh! Esta mirando baixo, não é?}
+{36072}{}{Não estava tentando acertar minha perna, está?!}
 {36080}{}{Maldição sangue em meus olhos!}
 {36081}{}{O meu olho! Você vai pagar por isso!}
 {36082}{}{Safado!}
@@ -1620,7 +1620,7 @@
 {36748}{}{Não pode lutar contra os Escolhidos!}
 {36749}{}{Sofra, humano!}
 {36760}{}{Por que você luta assim?}
-{36761}{}{Isso é o melhor que os humanos podem fazer?}
+{36761}{}{Isso é o melhor que os humanos podem fazer!}
 {36762}{}{Você não tem o poder!}
 {36763}{}{Você me faz rir muito!}
 {36764}{}{Isso foi um ataque?}

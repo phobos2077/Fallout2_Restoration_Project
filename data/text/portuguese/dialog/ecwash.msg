@@ -60,7 +60,7 @@
 {314}{}{Proteja o escolhido das idiotices do Spammer!}
 {315}{}{Escolhido! Junte-se a nós!}
 {316}{}{NÃO-LAVADA VINGANÇA!}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Você nunca será um "não lavado" idiota infantil!}
 {318}{}{Você não tem uma chance!}
 {319}{}{Ainda não terminamos!}
 {320}{}{Eu estive esperando por esse dia por um looooongo tempo.}

@@ -16,7 +16,7 @@
 {115}{}{Sobre a nobre arte é claro. A 'arte'.}
 {116}{}{Uh, a arte? Você está falando de magia!?! Você pode me ensinar feitiços mágicos?}
 {117}{}{Do que você está falando?}
-{118}{}{(Ele sorri largamente) Claro Tribal, eu poderia te ensinar sobre o povo pequenino, duendes, fadas, elfos e afins. Você gostaria? }
+{118}{}{(Ele abre um sorriso largo) Claro begorah, eu poderia te ensinar sobre o povo pequenino, duendes, guardiões, fadas e afins. Você gostaria disso?}
 {119}{}{Isso soa muito bem. Ensine de longe.}
 {120}{}{O boxe é a arte viril de combate corpo-a-corpo. Isso é o que eu quero dizer.}
 {121}{}{O boxe é a arte viril de combate corpo-a-corpo. Isso é o que eu quero dizer.}

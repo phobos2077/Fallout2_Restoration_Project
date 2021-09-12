@@ -21,11 +21,11 @@
 {270}{}{Você parece um pouco confuso. Me chamo Jenny; Posso ajudá-lo?}
 {271}{}{Enny? Boo he he he. (sorri)}
 {272}{}{(acena) ajuda }
-{273}{}{Enny pervertida}
+{273}{}{ bela Enny}
 {274}{}{Mamãe?}
 {280}{}{Humm, Acho melhor que saia daqui antes que Sally Nariz Grande te encontre. Ela não tolera idiotas por aqui.}
 {290}{}{O que você gostaria de saber?}
-{291}{}{O que você sabe sobre os caçadores?}
+{291}{}{Me diga o que sabe sobre caçadores.}
 {292}{}{Estou procurando por um comerciante. Conhece algum deles que trata de itens velhos, iguais aos de antigamente?}
 {293}{}{Por acaso você sabe como chegar ao Den a partir daqui?}
 {294}{}{Adeus.}

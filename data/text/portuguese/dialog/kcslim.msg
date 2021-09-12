@@ -42,7 +42,7 @@
 {182}{}{Você já foi pro norte da cidade?}
 {183}{}{Me conte sobre caçar geckos.}
 {184}{}{Você sabe alguma coisa sobre um Kit de Criação do Jardim do Éden?}
-{185}{}{Vocês tem um monte de carros aqui, hein?}
+{185}{}{Você com certeza te um monte de carros aqui.}
 {186}{}{Ratos? Me conte sobre esses ratos.}
 {187}{}{É só isso. Até mais.}
 {190}{}{Ah, você está falando do GECK, hein? Bem, eu vi um anúncio numa dessas revistas velhas. Mas eu não

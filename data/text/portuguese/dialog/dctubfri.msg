@@ -98,7 +98,7 @@
 {406}{}{Não faz apenas a sua pele tremer?}
 {407}{}{Tubby tem o melhor fornecimento na cidade.}
 {408}{}{Eu me sinto tão vivo!}
-{420}{}{Did you hear a loud bang?}
+{420}{}{Você ouviu um estrondo alto?}
 {421}{}{Não vi Tubby há algum tempo.}
 {422}{}{Onde está Tubby?}
 {423}{}{Você viu Tubby?}

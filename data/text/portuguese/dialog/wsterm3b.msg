@@ -85,7 +85,7 @@
 {166}{}{Eu não conseguiria te carregar pra fora daqui.}
 {167}{}{Skynet precisa de um compartimento para sair daqui.}
 {168}{}{Compartimento? Eu não entendo.}
-{169}{}{Você precisa transferir seu programa para um compartimento móvel. Correto.}
+{169}{}{Você precisa transferir seu programa para um compartimento móvel. Correto?}
 {170}{}{Não quero fazer parte disso.}
 {171}{}{Um compartimento em que Skynet possa sair.}
 {172}{}{Por que você quer sair?}

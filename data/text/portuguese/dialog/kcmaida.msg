@@ -17,10 +17,11 @@
 {213}{}{i de iscola?}
 {220}{}{Hmm - Parece que você funciona na mesma velocidade do Internet Explorer. Por que
 você não conversa com meu irmão, Torr? Ele tem o raciocínio tão rápido quanto o seu. Adeus.}
-{230}{}{Meu nome é Maida Buckner; Eu cuido das vendas e das bebidas aqui. E não tolero tribais mexendo com o lar da minha família.
-Então cuidado com o que faz, ou vai acabar igual o Sulik.}
+{230}{}{Meu nome é Maida Buckner; eu cuido das vendas e das bebidas aqui. E não tolero tribais
+ mexendo com o lar da minha família. Então melhor tomar cuidado aqui, ou vai acabar igual o Sulik.
+ O que você quer?}
 {231}{}{Meu nome é Maida Buckner; Eu cuido das vendas e das bebidas aqui. O que você vai querer, colega?}
-{232}{}{Como vai, colega?}
+{232}{}{Olá, meu grande amigo.}
 {233}{}{Em que posso ajudar?}
 {234}{}{Bem, você só precisa agir mais civilizadamente. Afinal, o que você quer? Em que posso te ajudar?}
 {235}{}{Eu tenho algumas perguntas para você.}
@@ -131,8 +132,8 @@ ou menos uma semana ao sul daqui, mas a maioria dos que vão para lá, nunca mais 
 {431}{}{Obrigado de novo por encontrar o Torr. O que posso fazer com você?}
 {432}{}{Eu fico feliz em ajudar o Torr.}
 {433}{}{Fico feliz por encontrar o Torr, mas acho que não preciso de nada agora. Adeus.}
-{434}{}{Fico feliz em ajudar. Você poderia me fazer um favor e libertar o Sulik em troca de eu ter
-achado seu irmão?)}
+{434}{}{Fico feliz em ajudar. Talvez você possa me fazer um favor e libertar o Sulik em troca de eu ter achado 
+ seu irmão?}
 {440}{}{Você viu meu irmão Torr em algum lugar? Ele perdeu mais alguns brahmin e mamãe brigou com ele.
  Ele deve ter fugido por isso.}
 {441}{}{Vish, pra onde você acha que ele foi?}

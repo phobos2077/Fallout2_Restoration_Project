@@ -45,74 +45,74 @@
 {144}{}{Ótimo. Eu espero que você tenha um túmulo pronto. O Dragão enviou você?}
 {145}{}{Sim. Eu estou fazendo isto para o Shi.}
 {146}{}{Não. Eu estou fazendo isto porque eu acho que você é escória.}
-{147}{}{A tough one, eh? You'll fight my men first, and then we'll see if you're worthy of fighting me.}
+{147}{}{Um tipo dificil, é? Você lutará com meus homens primeiro, então veremos se você merece lutar comigo.}
 {148}{}{[INICIAR]}
-{149}{}{I'm Lo Pan. I'm also the "sworn enemy" of the Dragon. Why he insists on having a sworn enemy is beyond me. I just fight as well as him, and I think he's weak-hearted and allows others to live under his shadow. We're enemies because we have the same fighting style, and whoever wins will be the one who carries the tradition.}
+{149}{}{Sou Lo Pan. Eu também sou "inimigo jurado" do Dragão. É porque ele insiste em ter um inimigo jurado além de mim. Eu luto tão bem quanto ele, e ele tem o coração fraco e permite que os outros vivam por baixo da sua sombra. Somos inimigos porque temos o mesmo estilo de luta, e aquele que vence é que continua com a tradição.}
 {150}{}{Eu não estou tão mal em combate corpo-a-corpo. Quer me tentar?}
 {151}{}{Isso é interessante. Deve ser gratificante. Eu tenho mais perguntas.}
 {152}{}{Obrigado. Tchau.}
-{153}{}{I may be a scumbag, but never will it be said I don't stand up for my people. I'm going to hurt you before you die.}
+{153}{}{Posso ser um canalha, mas nunca se dirá que não protejo meu povo. Vou te machucar antes que você morra.}
 {154}{}{[FEITO]}
-{155}{}{Then you're a fool and a dog doing the bidding of others. I will laugh when you die.}
+{155}{}{Então você é um estupido e um cachorro que recebe ordens dos outros. Eu rirei muito quando você morrer.}
 {156}{}{[Ataque agora, com armaduras e armas.]}
 {157}{}{[Entre no ring, remova armaduras e armas, e lute mão a mão.]}
-{158}{}{Good. At least you're your own master. Are you tough enough to fight without weapons or armor?}
+{158}{}{Ótimo. Então você é seu próprio mestre. É forte o suficiente para lutar sem armas ou armaduras?}
 {159}{}{[Ataque agora, com armaduras e armas.]}
 {160}{}{[Entre no ring, remova armaduras e armas, e lute mão a mão.]}
-{161}{}{Baaa, sheep, baaa! Go back to your robed masters. I don't have anything to say to you.}
+{161}{}{Beee, ovelha, beee! Volte para seus pastores, eu não tenho nada para te dizer.}
 {162}{}{[FEITO]}
-{163}{}{Didn't I tell you to talk to the Dragon about your moral qualms? He'll hold your hand. I won't. Now leave.}
+{163}{}{Eu não te disse para você falar com o dragão sobre seus escrupulos morais? Ele segura sua mão, eu não, agora suma.}
 {164}{}{[FEITO]}
-{165}{}{You are, I must admit, even a better fighter than I am. You wanna try for the Dragon?}
+{165}{}{Olha só, devo admitir, você é um lutador melhor do que eu. Quer tentar o Dragão?}
 {166}{}{Sim. Eu vou fazê-lo agora.}
 {167}{}{Realmente não é a minha luta.}
-{168}{}{Sure, but I have some questions.}
-{169}{}{No, it's not. But the Dragon still beats me. If you have any backbone, you'll take him out. But then, I never expected pride from a lao wai.}
+{168}{}{Certo, mas eu tenho algumas perguntas.}
+{169}{}{Não, não é. Mas o dragão ainda me vence. Se você tiver alguma espinha dorsal, você o vence. Mas entçao, eu nunca esperei orgulho de um lao wai.}
 {170}{}{Direito. Eu tenho perguntas.}
-{171}{}{Yeah, whatever. Bye.}
-{172}{}{I just got back from killing a lao wai who tried to steal our secrets. The Dragon and I took him out. We worked well together, I must admit.}
+{171}{}{Sim, tanto faz. Tchau.}
+{172}{}{Acabei de matar um lao wai que tentava roubar nossos segredos. Eu e o Dragão o matamos. E nós trabalhamos bem juntos, devo admitir.}
 {173}{}{Grande. Eu tenho perguntas.}
 {174}{}{Grande. Tchau.}
-{175}{}{The Dragon is dead. I don't believe it. At least now we won't have those pesky traditions dogging our every step. Thanks.}
+{175}{}{O Dragão está morto, eu não acredito. Pelo meos não teremos aquelas malditas tradições nos seguindo. Valeu.}
 {176}{}{Grande. Eu tenho perguntas.}
 {177}{}{Grande. Tchau.}
-{178}{}{Fine. I'll do it right now.}
-{200}{}{Lo Pan detects your advance and you slip by him.}
-{201}{}{Look, I don't appreciate anyone taking my things, so go steal someone else's. Leave now.}
-{202}{}{I warned you to leave, not to die. Oh well.}
+{178}{}{Certo. Eu vou fazer isso agora.}
+{200}{}{Lo Pan detectou seu avanço e você passa por ele.}
+{201}{}{Olha, eu não gosto de ninguém pegando minhas coisas, então vá sumir com as de outra pessoa. some daqui.}
+{202}{}{Eu te avisei para ir embora, não para morrer. Ah bem.}
 {203}{}{Parece que você não precisa de mais treinamento de mim.}
-{204}{}{I am done training today. Return tomorrow.}
-{205}{}{I am Master Khung, your final test.}
-{206}{}{I am Imbot. Be ready.}
-{207}{}{I am Wejungh. Prepare yourself.}
-{208}{}{I am Loopal. You will get no further.}
-{209}{}{I am Smitty. It is your time to be beaten.}
-{210}{}{I am Master Krall. You are finished.}
+{204}{}{Já chega de treino por hoje. Volte amanhã.}
+{205}{}{Eu sou o Mestre Khung, seu teste final.}
+{206}{}{Eu sou Imbot. Esteja pronto.}
+{207}{}{Eu sou Wejungh. Esteja preparado.}
+{208}{}{Eu sou Loopal. Você para por aqui.}
+{209}{}{Eu sou Smitty. É sua hora de cair.}
+{210}{}{Eu sou Mestre Krall. Você está morto.}
 {211}{}{LUTA!}
-{212}{}{You need to train more.}
-{213}{}{Prepare yourself!}
-{214}{}{You have beaten Lo Pan in mortal combat. For some reason the sun seems a little brighter today.}
-{215}{}{You have already defeated my men. You have passed my test. You are ready to fight the Dragon.}
-{216}{}{You're pretty good already. Go learn to shoot or something.}
+{212}{}{Você precisa de mais treino.}
+{213}{}{Se prepare!}
+{214}{}{Você derrotou Lo Pan em um combate mortal. Por alguma razão o sol parece mais forte hoje.}
+{215}{}{Você já derrotou meus homens. Você passou no meu teste. Você está pronto para lutar contra o dragão.}
+{216}{}{Você é bom o bastante. Vá aprender a atirar ou algo assim.}
 {217}{}{Vamos começar. Siga minha liderança.}
 {218}{}{O treinamento é feito durante o dia.}
-{219}{}{You have learned well.}
+{219}{}{Você aprendeu bem.}
 {220}{}{Você já derrotou a meus homens. Outros não desejam desafiar você.}
-{221}{}{You have helped me and did not even know it. With the Dragon dead I no longer have to follow those outdated moral traditions.}
+{221}{}{Você me ajudou e nem soube disso. Com o dragão morto, não preciso mais seguir essas tradições morais obsoletas.}
 {222}{}{Foi um prazer. Tchau.}
-{223}{}{You're welcome. Bye bye.}
-{224}{}{You're welcome. Can I ask a question?}
+{223}{}{Por nada. Tchau.}
+{224}{}{Por nada. Posso fazer alguma pergunta?}
 {225}{}{Bem vinda. Eu pergunto?}
 {226}{}{Você GANHA!}
 {227}{}{Você PERDE!}
 {228}{}{Próximo Adversário!}
-{229}{}{Hey, look I what I found.}
+{229}{}{Ei, olhe o que eu encontrei.}
 {230}{}{Primeiro, você precisará provar que você pode fazê-lo. Eu vou ter que enviar cinco dos meus lutadores - um de cada vez. Se você os vencer, você receberá seu teste final.}
 {231}{}{O que é isso?}
 {232}{}{Parece problemas demais. Tchau.}
 {233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Vamos em frente!}
-{235}{}{You can take care of the Dragon yourself.}
-{236}{}{[Lo Pan studies you and then throws a quick punch which smacks you in the nose before you can even react.] You are not good enough.}
+{235}{}{Você mesmo pode cuidar do Dragão.}
+{236}{}{[Lo Pan o estuda e então te dá um soco rápido que acerta seu nariz antes mesmo que você possa reagir.] Você não é tão bom assim.}
 {237}{}{Ok, mas posso pedir outra coisa?}
 {238}{}{Bem. Tchau.}

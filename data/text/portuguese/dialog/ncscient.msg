@@ -14,7 +14,7 @@
 {161}{}{Bem que esses escravos poderiam calar a boca…}
 {162}{}{Where did I leave that syringe...}
 {163}{}{Has anyone seen Subject 31? He was here just a second ago.}
-{164}{}{Os escravos tomaram mais do Jet Beta?}
+{164}{}{Faça os escravos trazerem mais do Jet Beta.}
 {165}{}{Resultados dos testes com o Jet Beta são muito promissores, mas…}
 {166}{}{O estado de êxtase dura de 15 min a uma hora... calculando um dose/hora... hmmmnnn.}
 {167}{}{Subject 12 still keeps having bleeding in the lungs...}

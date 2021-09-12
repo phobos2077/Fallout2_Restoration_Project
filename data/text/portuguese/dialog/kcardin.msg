@@ -12,7 +12,7 @@
 {132}{}{É uma bela casa.}
 {140}{}{Você me faz lembrar o meu garoto, Torr. Aposto que os dois se dariam muito bem. Por que não vai lá falar com ele? Tchau.}
 {150}{}{Olá! Meu nome é Ardin Buckner e sou a dona deste lugar. Mas me diga, você não viu um caçador chamado Smiley fora da cidade, viu? (Virando-se de lado) Ele se foi faz bastante tempo. Eu nunca deveria ter deixado ele ir para aquela expedição idiota.}
-{151}{}{Smiley? Não, não vi nenhum caçador com esse nome. Quem é ele, afinal?}
+{151}{}{Smiley? Não cheguei a ver um caçador por esse nome. Fale-me sobre ele.}
 {152}{}{No momento tô precisando de outra coisa.}
 {153}{}{Olá, Ardin. Acho melhor eu partir agora. Tchau.}
 {160}{}{Fale com a minha filha, Maida. Eu não sei muito bem das coisas que andam acontecendo. Já é muito eu manter o olho no trabalho o tempo todo.}
@@ -187,5 +187,7 @@
 {2002}{}{Ummm}
 {2003}{}{Eu ajudo.}
 {2004}{}{Eu não conheço nenhuma história semelhante. TCHAU!}
-{2005}{}{Oh, obrigada. Deixa eu marcar no seu mapa o local que ele me falou. Eu espero que você consiga achá-lo pra mim. Ele não é grande coisa, mas eu ainda o amo e sinto mais falta dele do que achei que pudesse ter. Por favor, encontre-o pra mim.}
+{2005}{}{Oh, obrigada. Deixa eu marcar no seu mapa onde ele disse para procurar. Eu espero que você consiga
+ achá-lo pra mim. Ele não é grande coisa, mas eu ainda o amo e sinto mais falta dele do que achei que pudesse ter. Por favor, 
+ encontre-o pra mim. Você pode lidar com isso... mentalmente?}
 {2006}{}{Sou forte. E acredito em mim mesmo.}

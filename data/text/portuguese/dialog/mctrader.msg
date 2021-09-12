@@ -3,7 +3,7 @@
 {102}{}{Eu venho aqui sempre que posso.}
 {103}{}{Você já experimentou os omeletes que a Rose faz?}
 {110}{}{Você sentiu esse cheiro?}
-{111}{}{Puta que pariu! O que você tem comido?}
+{111}{}{Meu Deus! Mas que porra você está fazendo!}
 {112}{}{Você poderia sair da frente do vento por favor? Estou tentando comer.}
 {120}{}{Algum problema? Estou tentando dormir.}
 {121}{}{Ei, o que você está fazendo no meu quarto?!}

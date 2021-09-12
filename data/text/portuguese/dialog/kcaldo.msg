@@ -5,13 +5,13 @@
 {202}{}{Meu nome é}
 {203}{}{. Valeu por me receber aqui.}
 {204}{}{ sou o Escolhido de Arroyo.}
-{205}{}{Você não precisa saber meu nome ou qualquer coisa sobre mim! Agora sai fora daqui, seu bêbado imundo!}
+{205}{}{Você não precisa saber meu nome ou qualquer outra coisa sobre mim. Vá embora, seu bêbado imundo.}
 {206}{}{Não acredito que uma cidade como Klamath tenha um bêbado fedorento como você recebendo os visitantes ou fazendo qualquer outra coisa.}
 {300}{}{O Escolhido. Oh poderoso }
 {301}{}{, você deve ser uma pessoa muito importante e poderosa entre os seus. Com certeza alguém da sua (soluça) categoria ficaria feliz de dar gorjeta ao anfitrião oficial da cidade, como de costume. (coff)}
 {302}{}{Tá bom. Toma uma gorjeta. Mas fique longe da bebida.}
 {303}{}{Uma gorjeta? Ta bom. Acho que vale a pena gastar $5 pra você parar de me encher o saco.}
-{304}{}{Tá certo. Não vou quebrar o costume de dar gorjetas. 5$ tá de bom tamanho?}
+{304}{}{Bem, eu é que não vou quebrar tradições. 5$ é o suficiente? }
 {305}{}{Acho melhor você me dar uma gorjeta, só assim não vou perder meu tempo livrando Klamath da sua pele imunda.}
 {306}{}{Foi mal, mas dinheiro para "O Escolhido" tem pouca utilidade. Não tenho nenhum aqui comigo pra te dar.}
 {350}{}{Bem }
@@ -22,7 +22,7 @@
 {451}{}{Não, não se preocupe comigo. Dou meu jeito por aqui.}
 {452}{}{Quero sim. Quero saber sobre algumas coisinhas.}
 {453}{}{Aldo, eu to procurando um comerciante que vende coisas antigas. Sabe, coisas velhas mesmo.}
-{500}{}{Manda ver, meu benfeitor!}
+{500}{}{Pode perguntar à vontade, chefe.}
 {501}{}{O que as pessoas de Klamath fazem da vida?}
 {502}{}{Onde consigo trocar coisas e encontrar medicamentos por aqui?}
 {503}{}{Me fale mais sobre os geckos.}
@@ -34,7 +34,9 @@
 {601}{}{Gecko?! Que isso?}
 {602}{}{Valeu! Por enquanto chega de papo.}
 {603}{}{Interessante. Mas mudando de assunto...}
-{650}{}{Gecko é um lagartão imenso que os caçadores adoram por causa da carne e do couro. Mas dá muito trabalho pegar os malditos e é muito perigoso também. Quer um conselho de amigo pra amigo? Evite! É uma trabalheira!}
+{650}{}{Um Gecko é um grande lagarto que é caçado pelos caçadores da região pela sua carne e
+ couro. Mas, é muito trabalho pegar os danados - e perigoso também. Meu conselho a um 
+ amigo...Evite-os. É muito esforço que não vale a pena.}
 {651}{}{Valeu! Por enquanto chega de papo.}
 {652}{}{Hmm. Só mais uma coisinha, Aldo.}
 {700}{}{Você pode comprar ou trocar coisas na casa Buckner e no Gecko Dourado. Às vezes eles têm umas ervas medicinais pra vender também. Não que eles me dêem algumas delas pra curar (soluça) minha condição. São uns "pães-duros" dos infernos! Se atrasar um pouco o pagamento da conta, você vai ficar na chuva e no frio.}

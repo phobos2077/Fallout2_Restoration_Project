@@ -114,8 +114,8 @@
 {391}{}{Certo, isso não é bem o que eu estava procurando. Deixe-me perguntar algo mais.}
 {392}{}{Isso é tudo que preciso saber por enquanto.}
 {2900}{}{(conta nos dedos dele)}
-{2901}{}{ Há homens-inseto mutiladores de brahmins}
-{2902}{}{ roedores de tamanho incomum}
-{2903}{}{ um espírito ambulante}
-{2904}{}{ um caçador desaparecido}
+{2901}{}{Os homens-inseto mutiladores de brahmins}
+{2902}{}{roedores de tamanho incomum}
+{2903}{}{um espírito andarilho}
+{2904}{}{um caçador desaparecido}
 {2905}{}{. Klamath está realmente se tornando um ponto quente ultimamente.}

@@ -124,10 +124,10 @@
   Certo, mas é um mundo duro em que vivemos, e todos nós fazemos o que temos para fazer isso durante o dia.}
 {802}{}{Tem que haver algo que possamos fazer sobre isso. Pelo que eu ouço, você parece ser a única pessoa em torno disso que
   na verdade, dá a minima para essas crianças.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
+{803}{}{Por que, claro, eu faço. As crianças são o nosso futuro. Eles não * têm * que crescer para se enfiarem no jet, bandidos e prostitutas como
+  a maioria de seus pais vagabundos. Por que, com uma educação e algum amor e cuidado, essas crianças poderiam crescer no tipo de
+  gente decente que precisamos tão desesperadamente neste mundo. Eu tentei estabelecer um orfanato para eles, mas, infelizmente, isso
+  não funcionou.}
 {804}{}{Talvez seja hora de dar outra tentativa. Eu não vou estar na cidade por muito tempo, mas vou fazer o que posso para ajudar enquanto estou aqui.}
 {805}{}{Isso é muito ruim. Bem, bom falar com você. Tchau.}
 {806}{}{Sim, talvez você * possa * ajudar. Você vê, eu procurei um grande edifício no lado sudoeste que, com um pouco de trabalho, faria uma excelente

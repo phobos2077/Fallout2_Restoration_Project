@@ -14,5 +14,5 @@
 {350}{}{Zzz... estou dormindo... Zzz...}
 {351}{}{*YAWN* Tenho que acordar cedo.}
 {352}{}{Pô, eu ainda estou na fase de crescimento. Preciso dormir.}
-{353}{}{Por que você não vai conversar com outro?}
+{353}{}{Por que você não vai conversar com outro.}
 {354}{}{Cara, eu estou com muito sono. Se ao menos não tivesse ninguém conversando comigo...}

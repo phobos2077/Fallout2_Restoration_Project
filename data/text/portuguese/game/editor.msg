@@ -10,11 +10,11 @@
 {109}{}{CARACT.}
 {110}{}{KARMA}
 {111}{}{MORTES}
-{112}{}{  PONTOS:}
+{112}{}{PONTOS}
 {113}{}{Nível:}
 {114}{}{Exp:}
 {115}{}{Próx. Nível:}
-{116}{}{  PONTOS:}
+{116}{}{PONTOS}
 {117}{}{PERÍCIAS}
 {118}{}{Você deve usar todos os pontos}
 {119}{}{antes de iniciar o jogo!}
@@ -36,11 +36,11 @@
 {135}{}{Impossível diminuir}
 {136}{}{Não tem pontos disponíveis.}
 {137}{}{Base:}
-{138}{}{  PONTOS:}
+{138}{}{PONTOS}
 {139}{}{CARACTERÍSTICAS}
 {140}{}{Você já tem o máximo de}
 {141}{}{três habilidades destacadas!}
-{142}{}{ Você deve selecionar todas as habilidades }
+{142}{}{Você deve selecionar todas as habilidades marcadas}
 {143}{}{antes de iniciar o jogo!}
 {144}{}{Pontos de perícias}
 {145}{}{Pontos de perícias são habilidades especiais para seu personagem. Para cada ponto você ganha 20%. Você deve escolher três habilidades em destaque.}
@@ -78,8 +78,8 @@
 {305}{}{Res. Danos}
 {306}{}{Res. Venenos}
 {307}{}{Res. Radiação}
-{308}{editor}{Sequence}
-{309}{editor}{Healing Rate}
+{308}{editor}{Sequência}
+{309}{editor}{Recuperação}
 {310}{editor}{Chan. Críticas}
 {311}{editor}{Peso Máximo}
 {312}{}{Envenenado}
@@ -115,8 +115,8 @@
 {604}{}{FEITO}
 {605}{}{Tem certeza de que deseja}
 {606}{}{apagar o personagem atual?}
-{607}{}{foi salvo com sucesso.}
-{608}{}{foi carregado com êxito.}
+{607}{}{ salvo com sucesso.}
+{608}{}{ foi carregado com sucesso.}
 {609}{}{já existe.}
 {610}{}{Você deseja substituir?}
 {611}{}{Erro ao salvar}
@@ -163,7 +163,7 @@
 {653}{}{ ::: Skills :::                ::: Kills :::}
 {654}{}{ ::: Inventory :::}
 {655}{}{                                      Total Weight:}
-{656}{}{ ::: Addictions :::}
+{656}{}{ ::: Vícios :::}
 {657}{}{ ::: Reputation :::}
 {1000}{}{Reputação (Geral) }
 {1001}{}{Possuído}

@@ -127,7 +127,7 @@
 {301}{}{Ei, escravagista, precisa de companhia?}
 {302}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
 {303}{}{Precisa de alguém pra dividir o colchonete, escravagista?}
-{304}{}{Tem alguma bala quente aí, escravagista?}
+{304}{}{Tenho algumas balas quentes aqui, escravista.}
 {305}{}{Bela cobra, hein.}
 {306}{}{Procurando por ação?}
 {307}{}{Escravagista, você nunca fez amor até ter provado o amor de Reno.}
@@ -211,7 +211,7 @@
 {385}{}{Estou exausta desde aquela última convenção...}
 {386}{}{Quem dera a convenção dos escravagistas fosse em outra cidade.}
 {387}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
-{388}{}{Quer me fazer gozar?}
+{388}{}{Me faça gozar.}
 {389}{}{Se ele continuar segurando, vai estourar o saco...}
 {390}{}{Eu tomo conta de você, escravagista.}
 {391}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
@@ -311,7 +311,7 @@
 {485}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
 {486}{}{Precisa de alguém pra esquentar sua tenda?}
 {487}{}{Precisa de alguém pra dividir o colchonete?}
-{488}{}{Tem alguma bala quente aí?}
+{488}{}{Tenho algumas balas quentes aqui, mano.}
 {489}{}{Bela cobra, hein.}
 {490}{}{Procurando por ação?}
 {491}{}{Você nunca fez amor se não provou o amor de Reno.}
@@ -400,7 +400,7 @@
 {574}{}{Estou exausta desde aquela última convenção...}
 {575}{}{Queria que aqueles tribais fossem pra outra cidade.}
 {576}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
-{577}{}{Quer me fazer gozar?}
+{577}{}{Me faça gozar.}
 {578}{}{Se ele continuar segurando, vai estourar o saco...}
 {579}{}{Esse bzz bzz do neon me dá dor de cabeça...}
 {580}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
@@ -483,7 +483,7 @@
 {657}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
 {658}{}{Precisa de alguém pra esquentar sua tenda?}
 {659}{}{Precisa de alguém pra dividir o colchonete?}
-{660}{}{Tem alguma bala quente aí?}
+{660}{}{Tenho algumas balas quentes aqui, mano.}
 {661}{}{Bela cobra, hein.}
 {662}{}{Procurando por ação?}
 {663}{}{Você nunca fez amor se não provou o amor de Reno.}
@@ -563,7 +563,7 @@
 {737}{}{Estou exausta desde aquela última convenção...}
 {738}{}{Queria que os tribais parassem de vir aqui.}
 {739}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
-{740}{}{Quer me fazer gozar?}
+{740}{}{Me faça gozar.}
 {741}{}{Se ele continuar segurando, vai estourar o saco...}
 {742}{}{Esse bzz bzz do neon me deixa com dor de cabeça...}
 {743}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
@@ -713,7 +713,7 @@
 {884}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
 {885}{}{Precisa de alguém pra esquentar sua tenda, escravagista?}
 {886}{}{Precisa de alguém pra dividir o colchonete, escravagista?}
-{887}{}{Tem alguma bala quente aí, escravagista?}
+{887}{}{Tenho algumas balas quentes aqui, escravista.}
 {888}{}{Que cobrão você tem aí, escravagista.}
 {889}{}{Procurando por ação?}
 {890}{}{Você nunca fez amor se não provou o amor de Reno.}
@@ -798,7 +798,7 @@
 {969}{}{Queria que a Gen Con se mudasse pra outra cidade.}
 {970}{}{Você pode gozar como um louco, sabia disso?}
 {971}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
-{972}{}{Quer me fazer gozar?}
+{972}{}{Me faça gozar.}
 {973}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
 {974}{}{Precisa de uma guia, escravagista?}
 {975}{}{Uau. ISSO vai custar mais caro.}
@@ -886,7 +886,7 @@
 {1057}{}{Quer me afundar com o seu torpedo rosa?}
 {1058}{}{Precisa de alguém pra esquentar sua tenda?}
 {1059}{}{Precisa de alguém pra dividir o colchonete?}
-{1060}{}{Tem alguma bala quente aí?}
+{1060}{}{Tenho algumas balas quentes aqui, mano.}
 {1061}{}{Bela cobra, hein.}
 {1062}{}{Procurando por ação?}
 {1063}{}{Você nunca fez amor se não provou o amor de Reno.}
@@ -973,7 +973,7 @@
 {1144}{}{Queria que a Gen Con se mudasse pra outra cidade.}
 {1145}{}{Você pode gozar como um louco, sabia disso?}
 {1146}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
-{1147}{}{Quer me fazer gozar?}
+{1147}{}{Me faça gozar.}
 {1148}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
 {1149}{}{Precisa de uma guia?}
 {1150}{}{*Opa.* isso vai custar mais.}
@@ -1059,7 +1059,7 @@
 {1230}{}{Quer me afundar com o seu torpedo rosa?}
 {1231}{}{Precisa de alguém pra esquentar sua tenda?}
 {1232}{}{Precisa de alguém pra dividir o colchonete?}
-{1233}{}{Tem alguma bala quente aí?}
+{1233}{}{Tenho algumas balas quentes aqui, mano.}
 {1234}{}{Bela cobra, hein.}
 {1235}{}{Procurando por ação?}
 {1236}{}{Você nunca fez amor se não provou o amor de Reno.}
@@ -1146,7 +1146,7 @@
 {1317}{}{Queria que a Gen Con se mudasse pra outra cidade.}
 {1318}{}{Você pode gozar como um louco, sabia disso?}
 {1319}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
-{1320}{}{Quer me fazer gozar?}
+{1320}{}{Me faça gozar.}
 {1321}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
 {1322}{}{Precisa de uma guia?}
 {1323}{}{OPA. Isso vai custar mais caro.}

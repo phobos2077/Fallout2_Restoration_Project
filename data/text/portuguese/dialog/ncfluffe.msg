@@ -115,7 +115,7 @@
 {383}{}{Eu adorei você no Good Will Humping.}
 {384}{}{Você foi demais no Pokeahotass.}
 {385}{}{Você foi demais no Vault Sexteen. Muito inspirador.}
-{386}{}{Eu não vi os Brothers por aqui... tente o escritório.}
+{386}{}{Eu não vi os irmãos por aqui... tente o escritório, beleza?}
 {387}{}{Alguma chance de você pedir pros Corsican Brothers me deixarem atuar?}
 {388}{}{As excitadoras têm a importante função de manter os atores acesos.}
 {389}{}{Eu posso atuar no seu próximo filme?}
@@ -165,7 +165,7 @@
 {470}{}{Quem é o seu amigo bonitinho com osso no nariz?}
 {471}{}{Diga ao seu amigo com osso no nariz que ele vai longe nessa indústria.}
 {472}{}{Opa, eu já vi acidentes no set, mas nunca um cara com um osso no nariz.}
-{473}{}{Eu não vi os Brothers por aqui... tente o escritório.}
+{473}{}{Eu não vi os irmãos por aqui... tente o escritório, beleza?}
 {474}{}{As excitadoras têm a importante função de manter os atores acesos.}
 {475}{}{Eu quero muito atuar.}
 {476}{}{Eu não quero ser uma excitadora pro resto da vida. Não mesmo.}
@@ -186,7 +186,7 @@
 {491}{}{Salt malts? Get used to them.}
 {500}{}{Desculpe. Eu teria mais prazer fazendo sexo com meu batom.}
 {501}{}{Você? Desculpe, eu NUNCA estive com tanto desespero.}
-{502}{}{Eu não vi os Brothers por aqui... tente o escritório.}
+{502}{}{Eu não vi os irmãos por aqui... tente o escritório, beleza?}
 {503}{}{As excitadoras têm a importante função de manter os atores acesos.}
 {504}{}{Eu quero muito atuar.}
 {505}{}{Eu não quero ser uma excitadora pro resto da vida. Não mesmo.}

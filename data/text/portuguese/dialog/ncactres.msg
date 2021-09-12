@@ -52,7 +52,7 @@
 {275}{}{Thank God they finally installed that padded headboard.}
 {280}{}{Que cheiro é esse?}
 {281}{}{Great. Another tribal shit-kicker.}
-{282}{}{Don't talk to me.}
+{282}{}{Não fala comigo.}
 {283}{}{Let's see..."Oh god"... "Give it to me..." Damn! What's that next line?}
 {284}{}{Yes, but what's my MOTIVATION for this scene?}
 {285}{}{Let's see...(Studies script)...he walks in, we have sex. Got it.}
@@ -76,7 +76,7 @@
 {312}{}{These shoots are stretch... er, wearing me out.}
 {313}{}{I think we're FINALLY doing a scene together.}
 {314}{}{My boyfriends don't know I work here. Not that I care what they think.}
-{315}{}{Eu não vi os Brothers por aqui... tente o escritório.}
+{315}{}{Eu não vi os irmãos por aqui... tente o escritório, beleza?}
 {316}{}{I don't really care where it goes, just make sure the camera gets the money shot.}
 {317}{}{You're a man of passion and mystery. A man of lust.}
 {318}{}{Well, we can do it whatever way is most comfortable for you.}

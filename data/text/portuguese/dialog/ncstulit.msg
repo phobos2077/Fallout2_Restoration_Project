@@ -62,7 +62,7 @@
 {320}{}{Sai fora da minha frente, cabeça de pistola! Sem chances pra você nessa cidade. Cai fora!}
 {321}{}{Eu NUNCA deveria ter arriscado com você, mas que decepção. Agora saia daqui! Cai fora!}
 {322}{}{MIM }
-{323}{}{E o sorvete?}
+{323}{}{Sobre o sorvete.}
 {324}{}{Sair correndo e chorando}
 {326}{}{(Sorrir calmamente, inclinar a cabeça... e atacá-lo.)}
 {327}{}{Me dê outra chance, Stuart. Colé, só mais UMA chance. Eu posso conseguir!}

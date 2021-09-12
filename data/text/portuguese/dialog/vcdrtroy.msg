@@ -181,13 +181,13 @@
 {248}{}{Hã, sim... confidencial. Mantenha o assunto entre você e eu. Não conte a ninguém.}
 {249}{}{Eu tenho uma amostra de Jet bem aqui.}
 {250}{}{Pra quê você precisa de Jet?}
-{251}{}{Quanto custa o meu silêncio? Poderia te denunciar agora mesmo.}
+{251}{}{O que me impede de te denunciar agora?}
 {252}{}{Sem problemas. Vou manter isso "confidencial".}
 {253}{}{Não... mas agradeço a oferta.}
 {254}{}{Não é da sua conta. Consiga o Jet, traga para mim e eu pagarei os mil dólares...
  e o preço inclui o seu silêncio.}
 {255}{}{Bem, eu tenho uma amostra de Jet bem aqui.}
-{256}{}{Quanto custa o meu silêncio? Poderia te denunciar agora mesmo.}
+{256}{}{O que me impede de te denunciar agora?}
 {257}{}{Sem problemas. Pode contar comigo.}
 {258}{}{Não... mas agradeço a oferta.}
 {259}{}{O q--? Você não faria isso! Como *ousa* a me destratar!}
@@ -209,7 +209,7 @@
 {272}{}{Isso NÃO é algo com que se brinque; é algo muito sério. Eu pago mil
  dólares pelo Jet e seu silêncio... e sem mais perguntas. Quer o trabalho?}
 {273}{}{Bem, o que você sabe? Eu tenho um Jet bem aqui.}
-{274}{}{Quanto custa o meu silêncio? Poderia te denunciar agora mesmo.}
+{274}{}{O que me impede de te denunciar agora?}
 {275}{}{Com certeza, eu vou fazer.}
 {276}{}{Não... mas agradeço a oferta.}
 {277}{}{Você aceita?}

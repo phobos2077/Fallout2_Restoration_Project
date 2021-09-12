@@ -183,7 +183,7 @@
 {282}{}{Fale-me sobre outros implantes.}
 {283}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {284}{}{Entendo. Talvez outra hora.}
-{285}{}{O implante vai fazer sua pele empolar. Isso é mau. Você vai parecer muito com aquele plástico-bolha, que servia pra empacotar as coisas antes da guerra, então não espere ter muitos encontros depois dele. E vai custar 50K. Topa?}
+{285}{}{O implante vai fazer sua pele ficar com bolhas, fazer o que. Você vai parecer muito com aquele plástico-bolha do pré-guerra, então não espere que você vá para muitos encontros. E vai custar 50K. Bora lá.}
 {286}{}{Que diabos. Aqui está a grana... e outra combat armor.}
 {287}{}{40,000 e temos um trato..}
 {288}{}{Fale-me sobre outros implantes.}

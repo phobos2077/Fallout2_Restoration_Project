@@ -24,7 +24,7 @@
 {121}{}{Broken Hills? Vivi aqui toda a minha vida. Logo, sei de todas as coisas ruins que rolam por aqui.
  Por isso eu sei o quão maus os mutantes são. É bom ter gente como nós que consegue ver a
  verdade.}
-{122}{}{É isso mesmo. Abaixo os opressores!}
+{122}{}{Sim, eu direi. Abaixo ao poder, hein?}
 {123}{}{Você está vendo as coisas com ódio, essa não é a verdade.}
 {124}{}{Talvez você devesse se dar conta de que as únicas mentiras que você sabe são as que você deixa
  outras pessoas colocarem na sua cabeça, e que pregar os princípios da rebeldia só vai te fazer parecer mais estúpido.}
@@ -34,7 +34,7 @@
 {127}{}{Você realmente gosta do Franc, hein?}
 {128}{}{Essa deve ser a coisa mais idiota que eu já ouvi.}
 {129}{}{Tudo bem. Tchau.}
-{130}{}{É isso mesmo! Nós temos que... hmm... pensar por nós mesmos! É isso que o Franc e o Jacob sempre dizem.}
+{130}{}{É isso mesmo! Temos que... hmm... pensar por nós mesmos! É isso que Franc e Jacob sempre dizem.}
 {131}{}{Puta merda, você realmente bajula esses dois. Por que não tenta pensar por você ao invés de papaguear
 o que as outras pessoas te contam?}
 {132}{}{Você realmente gosta do Franc, hein?}

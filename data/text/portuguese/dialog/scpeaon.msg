@@ -21,7 +21,7 @@
 {120}{}{The just will kill all like you.}
 {121}{}{Qual o seu problema?}
 {122}{}{Nos não podemos ficar juntos?}
-{123}{}{Don't talk to me.}
+{123}{}{Não fala comigo.}
 {124}{}{Whatever it is tell someone else.}
 {125}{}{I don't think you're all that tough.}
 {126}{}{Why don't you just leave?}

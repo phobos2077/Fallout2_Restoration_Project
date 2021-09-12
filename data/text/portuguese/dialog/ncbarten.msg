@@ -19,7 +19,7 @@
 {226}{}{Go on... get out. We don't want no trouble.}
 {227}{}{Eles vão acabar com você se continuar por aqui. Cai fora.}
 {228}{}{Nós estamos com o estoque vazio. Agora cai fora, otário.}
-{236}{}{! Vai beber o quê}
+{236}{}{! Qual é o seu veneno?}
 {237}{}{Eeeeei! Vai beber o quê?}
 {238}{}{O que vai beber, chapa?}
 {239}{}{O que vai beber, meu bem?}

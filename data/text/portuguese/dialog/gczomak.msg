@@ -34,7 +34,7 @@
 {211}{}{Goop?}
 {220}{}{Get out of here. The Brain doesn't have time for the likes of you.}
 {221}{}{Okay. I'll be going now.}
-{230}{}{Aqui embaixo só tem o lar do Cérebro. Cara, você é idiota?}
+{230}{}{Não tem mais nada aqui a não ser o covil do Brain. Cara, você é um idiota.}
 {231}{}{O Cérebro?}
 {232}{}{Eu só estava te testando. Você passou. Agora me deixa entrar.}
 {233}{}{Acho que me confundi. Deve ser toda essa radiação. Tchau.}

@@ -121,7 +121,7 @@
   com outro novo químico! Nada pode vencer o jet!}
 {258}{}{Não, seu idiota.}
 {259}{}{Não, é um lugar. Posso pedir outra coisa?}
-{260}{}{Yes, a wonderful drug.}
+{260}{}{Sim, um químico foda.}
 {261}{}{Não, tchau.}
 {262}{}{Joey aqui não é muito conversador.}
 {300}{}{Provavelmente não. Tchau.}

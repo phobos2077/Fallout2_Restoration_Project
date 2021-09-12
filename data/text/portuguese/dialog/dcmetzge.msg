@@ -277,9 +277,9 @@ metade se vale a pena o meu tempo...}
   modo de eu poder verificar o estoque no seu outro campo? Claro, eu estaria disposto a pagar um preço grande.}
 {912}{}{Tudo bem, eu vou verificar e voltar em seguida.}
 {913}{}{Bom, mas da próxima vez me faça um favor e não perca meu tempo, a menos que você tenha negócios reais para discutir.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
+{914}{}{Preço grande, hein? Agora você está falando a minha lingua. Costumamos lidar com vendas aqui, mas eu suponho que uma exceção poderia ser feita,
+  desde que você esteja falando sério. Eu vou te dizer como chegar lá, mas é melhor que fique com você. Eu juro, se você vir a ser um
+  espião para os malditos Rangers, vou caçar você e te enterrar vivo. [Você escuta as instruções dele e anota a localização do Slaver Camp's no seu Pipboy.]}
 {915}{}{Tenho-o. Deixe-me perguntar-lhe algo mais.}
 {916}{}{Obrigado. Eu vou estar no meu caminho agora. Tchau.}
 {1360}{}{ por ela. Que tal?}

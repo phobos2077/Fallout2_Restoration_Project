@@ -14,7 +14,7 @@
 {112}{}{I'm Franc. I'd ask who you are, but I don't care.}
 {113}{}{Oh, a tough guy, eh?}
 {114}{}{That's okay. I don't care who you are, either.}
-{115}{}{Yeah, whatever. Bye.}
+{115}{}{Sim, tanto faz. Tchau.}
 {116}{}{I'm here because the "man" who runs this place from behind the scenes doesn't trust me and what
  I'm telling the people of this town. I'm giving the truth about mutants and Marcus doesn't like it.
  I'm being silenced for my beliefs.}

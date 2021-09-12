@@ -155,7 +155,7 @@
  guards such as yourself.}
 {476}{}{Ramirez... cuidado com o que você fala comigo, certo? Não deixe sua boca colocar seu traseiro em apuros.}
 {480}{}{(Pisca.) Hã...? O que você disse?}
-{481}{}{Nada que você entenderia ou que eu me importasse em repetir. Eu vou indo.}
+{481}{}{Nada que você entenderia ou que eu me importasse em repetir. Eu vou indo, ok?}
 {482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
  perceptive, Jet-addicted guards such as yourself."}
 {490}{}{(Pisca, sorri com confusão.) HÃ? É, é. Eu sou esperto, vê... per-ceptivo... eu sou um GUARDA, certo?}

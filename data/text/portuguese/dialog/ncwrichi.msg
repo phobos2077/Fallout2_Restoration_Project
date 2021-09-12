@@ -15,8 +15,8 @@
 {181}{}{Eu quero ser}
 {190}{}{Você é um ROBÔ?}
 {191}{}{Como você consegue mijar com essa coisa?}
-{192}{}{Você pode me levar pra passear em cima dos seus ombros? Por favoooor.}
-{193}{}{Você vai brincar com a gente? Por favoooor.}
+{192}{}{Você pode me carregar em seus ombros? Por favoooor?}
+{193}{}{Você vai brincar com a gente? Por favoooor?}
 {200}{}{Melhor você fugir antes que o meu papai te veja.}
 {201}{}{Melhor você fugir antes que os meus irmãos te vejam.}
 {202}{}{Você é uma pessoa má. Melhor sair daqui antes que eu conte sobre você.}

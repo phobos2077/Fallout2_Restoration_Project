@@ -177,5 +177,5 @@ a porta está aberta.}
 {502}{}{Você vê: porta do Elevador.}
 {503}{}{Parece que você precisa de um dispositivo elétrico para abrir este bloqueio.}
 {601}{}{Está aberto, burro.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
+{610}{}{Você falha grosseiramente e o explosivo detona prematuramente.}
+{611}{}{ falha grosseiramente e o explosivo detona prematuramente.}

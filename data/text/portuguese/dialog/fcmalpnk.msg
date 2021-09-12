@@ -1,61 +1,61 @@
-{100}{}{You see a male tanker vagrant.}
-{101}{}{You see a male punk.}
-{102}{}{You see a fairly handsome, cynical man wearing tattered clothing.}
-{103}{}{Nothing's on.}
-{104}{}{I'm sick of fish.}
-{105}{}{The sooner we move on, the better.}
-{106}{}{The best thing about being a nomad is self-control.}
-{107}{}{In fact, I'd rather die than give you control.}
-{108}{}{No one runs my life! I'm the king of me!}
-{109}{}{I'm my own boss.}
+{100}{}{Você vê um petroleiro vagabundo.}
+{101}{}{Você vê um punk.}
+{102}{}{Você vê um homem bem bonito, cínico e vestindo roupas esfarrapadas.}
+{103}{}{Nada funciona.}
+{104}{}{Não aguento mais peixe.}
+{105}{}{Quanto antes partirmos, melhor.}
+{106}{}{A melhor coisa de ser um nômade é o autocontrole.}
+{107}{}{Na verdade, prefiro morrer do que lhe dar o controle.}
+{108}{}{Ninguém comanda minha vida! Eu sou meu próprio rei!}
+{109}{}{Eu sou meu próprio chefe.}
 {110}{}{Eu sou único! Assim como todo mundo!}
 {111}{}{Às vezes esse mundo de cinismo me chateia.}
 {112}{}{Da próxima vez, quero encontrar uma tribo de góticos.}
-{113}{}{I saw Selmy and Barro torn apart downstairs.}
+{113}{}{Eu vi Selmy e Barro despedaçados lá embaixo.}
 {114}{}{Eu ouvi falar que o Imperador Shi é absurdamente inteligente.}
 {115}{}{Esses Shi tem um cara engraçada.}
 {116}{}{Eu sou mente aberta, hm?}
-{117}{}{I'll share my girlfriend if you'll share yours.}
+{117}{}{Vou te emprestar minha namorada se você me emprestar a sua.}
 {118}{}{Olha pra esses novos punks. Bando de posers.}
 {119}{}{O AHS-9 nos enganou, e vai te enganar também se você der mole.}
-{120}{}{Sheep. You're nothing but a killing sheep.}
-{121}{}{Tell those bastard Hubologists we'll never come over.}
-{122}{}{Ain't never going over to the Hub.}
-{123}{}{Hope you're proud of yourself.}
-{124}{}{Won't they ever realize killing our "leader" won't make us follow theirs?}
-{125}{}{You're an asshole.}
+{120}{}{Ovelha. Não passa de uma ovelha morta.}
+{121}{}{Diga aqueles cornos Hubologistas que nunca iremos com eles.}
+{122}{}{Nunca vá para o Hub.}
+{123}{}{Espero que você esteja orgulhoso de si mesmo.}
+{124}{}{Será que eles nunca perceberão que matar nosso "líder" não nos fará seguir o deles?}
+{125}{}{Você é um cuzão.}
 {126}{}{Baah! Baah!}
 {127}{}{Então, como foi levar de um mutante?}
 {128}{}{Aquele mutante forte e grande, Francis, te machucou?}
-{129}{}{Francis play with you?}
-{130}{}{Francis is a pretty big guy.}
-{131}{}{Big ol' Francis, huh?}
+{129}{}{Francis, brincar com você?}
+{130}{}{Francis é um cara bem grande.}
+{131}{}{O grande e velho Francis, huh?}
 {132}{}{}
-{133}{}{Hey! It's the gimp!}
-{134}{}{Hey, if you need any help from us, don't bother asking.}
-{135}{}{Wow! A talking asshole!}
-{136}{}{You pull anything being such a jerk?}
-{137}{}{Sacrifice our li'l Chippie, will you?}
-{138}{}{Poor Chip.}
+{133}{}{Hey! É o aleijado!}
+{134}{}{Eai, se precisar de alguma ajuda, não se importe em perguntar.}
+{135}{}{Uau! Um babaca falante!}
+{136}{}{Você ganha alguma coisa sendo um trouxa?}
+{137}{}{Sacrificar nosso pequeno Chippie, não é?}
+{138}{}{Pobre Chip.}
 {139}{}{Ah, olha, é o "herói".}
 {140}{}{Ei, todo mundo! É o cuzão egoísta!}
-{141}{}{Like anyone wants to talk to you now.}
+{141}{}{Como se alguém quisesse falar com você agora.}
 {142}{}{Você odeia o Chip!}
-{143}{}{Can I do anything for you? Too bad!}
-{144}{}{Don't talk to me.}
-{145}{}{Nice of you to try for Chip's spleen.}
-{146}{}{At least you tried.}
-{147}{}{Poor Chip.}
-{148}{}{Tough break for ol' Chippie.}
-{149}{}{Chip's getting weaker. Too bad.}
-{150}{}{Good going with the spleen!}
-{151}{}{Wow... a hero AND a spleen-finder.}
-{152}{}{Didn't know they made spleens.}
-{153}{}{Thanks for saving Chip.}
-{154}{}{Hey there, Chip lover!}
-{155}{}{We're all happy for Chip.}
-{156}{}{Thanks for saving Chip.}
-{157}{}{Now Badger will be easier to live with.}
+{143}{}{Posso fazer alguma coisa por você? Que se foda!}
+{144}{}{Não fala comigo.}
+{145}{}{Muito legal de sua parte tentar o baço do Chip.}
+{146}{}{Pelo menos tentou.}
+{147}{}{Pobre Chip.}
+{148}{}{Má sorte para o velho Chippie.}
+{149}{}{Chip está cada vez mais zuado. É foda.}
+{150}{}{Bom trabalho com o baço!}
+{151}{}{Olha... um herói e um caça-baços.}
+{152}{}{Não sabia que eles faziam baços.}
+{153}{}{Obrigado por salvar Chip.}
+{154}{}{Olá, fã de Chip!}
+{155}{}{Estamos todos felizes por Chip.}
+{156}{}{Obrigado por salvar Chip.}
+{157}{}{Agora será mais fácil para Badger viver.}
 {158}{}{I always did like Suze. Glad she's not dead.}
 {159}{}{I wonder if Suze will nanny for my kids?}
 {160}{}{Kill the monsters, save the girlfriend... Is there any hero shit you don't do?}

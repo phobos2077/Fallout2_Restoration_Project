@@ -65,7 +65,7 @@
 {209}{}{Muito obrigado, amigo.}
 {210}{}{Eu definitivamente precisava disso! Obrigado.}
 {211}{}{Um milhão de obrigado!}
-{212}{}{Que tal beber aqui comigo?}
+{212}{}{Em vez disso queria ter uma garrafa em minha frente...}
 {213}{}{Eu te agradeço, amigo.}
 {214}{}{Certo!}
 {215}{}{Yes!, estava esperando por isso.}
