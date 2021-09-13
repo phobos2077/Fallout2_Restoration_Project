@@ -13,7 +13,7 @@
 {131}{}{Arf-arf totó. Heh, heh.}
 {132}{}{Tchau totó.}
 {133}{}{Sinto muito, não tenho tempo para os cachorros.}
-{134}{}{Shoo! Saia daqui seu maldito vira-lata!}
+{134}{}{Shoo! Saia daqui seu verme maldito.}
 {140}{}{Woof, woof. Woof-woof!}
 {141}{}{Woof, woof? Eru?}
 {142}{}{Bom cachorro, bom garoto.}

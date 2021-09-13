@@ -111,7 +111,7 @@
 {371}{slk27cb}{Espírito mau atrás de alguma coisa... barulhenta. Não ter certeza..}
 {380}{slk27da}{Vovô osso diz que esse lugar ser cheio de pessoas más.}
 {381}{slk27db}{Eles diz que pessoas se perde fácil aqui. De muitas maneiras.}
-{382}{slk27dc}{Ei! Eles diz que outro espírito-osso estar aqui. Precisar de ajuda!}
+{382}{slk27dc}{Ei! Dizem que outro espírito-osso esta por aqui. Precisa de ajuda.}
 {390}{}{Eles estar muito triste. Diz que tempo estar chegando em breve onde não haver nada além de espíritos-osso aqui.}
 {391}{}{Esse lugar não ter futuro. Nós e você precisa fazer algo.}
 {400}{slk27fa}{Vovô Osso dar gargalhadas, mas não ser engraçado. A luta ser para uma coisa perdida, não tomada.}

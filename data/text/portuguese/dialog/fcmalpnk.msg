@@ -56,40 +56,40 @@
 {155}{}{Estamos todos felizes por Chip.}
 {156}{}{Obrigado por salvar Chip.}
 {157}{}{Agora será mais fácil para Badger viver.}
-{158}{}{I always did like Suze. Glad she's not dead.}
-{159}{}{I wonder if Suze will nanny for my kids?}
-{160}{}{Kill the monsters, save the girlfriend... Is there any hero shit you don't do?}
-{161}{}{Can you save my girlfriend too? Ha ha!}
-{162}{}{Maybe Badger will sleep with you for saving his girlfriend.}
-{163}{}{I'll bet Badger's really happy now.}
-{164}{}{Maybe you ought to ask Badger for some favors.}
-{165}{}{Poor Badger. Poor Suze.}
-{166}{}{I warned her not to go down there...}
-{167}{}{... damn hold-monsters...}
-{168}{}{I feel really sorry for Badger now.}
-{169}{}{Death on the ship. Poor Suze.}
-{170}{}{Man... is life going to get any better?}
-{171}{}{It's dangerous down there!}
-{172}{}{Geez... why'd she go down there?}
-{173}{}{We ought to seal off the hold.}
-{174}{}{Let's get off the ship.}
-{175}{}{You gonna take the tanker out west?}
-{176}{}{Guess it's about to time to abandon ship.}
-{177}{}{I'm about ready to move out of here.}
-{178}{}{I got my shit all packed up.}
-{179}{}{Don't think I want to be heading west.}
+{158}{}{Sempre gostei de Suze. Ainda bem que ela não está morta.}
+{159}{}{Será que Suze será babá dos meus filhos?}
+{160}{}{Matar monstros, salvar namoradas... Será que tem alguma coisa de herói que você não faz?}
+{161}{}{Você pode salvar minha namorada também? Ha ha!}
+{162}{}{Talvez Badger durma com você por salvar a namorada dele.}
+{163}{}{Aposto que Badger está felizão agora.}
+{164}{}{Talvez você devesse pedir alguns favores a Badger.}
+{165}{}{Pobre Badger. Pobre Suze.}
+{166}{}{Eu te avisei para não descer alí...}
+{167}{}{... desgraça de monstros do porão...}
+{168}{}{Sinto muito por Badger agora.}
+{169}{}{Morta no barco. Coitada da Suze.}
+{170}{}{Irmão... Isso vai melhorar nossa vida?}
+{171}{}{Ali embaixo é perigoso!}
+{172}{}{Carai... porque ela estaria lá embaixo?}
+{173}{}{Deveriamos fechar o porão.}
+{174}{}{Vamos sair do barco.}
+{175}{}{Você vai levar o petroleiro para o oeste?}
+{176}{}{Acho que é hora de sumir do navio.}
+{177}{}{Estou pronto para sair daqui.}
+{178}{}{Já embalei todas as minhas coisas.}
+{179}{}{Eu nem quero ir para o oeste.}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{Know any good places to settle down?}
-{184}{}{I'll make sure the place is clean before I go.}
-{185}{}{Let's get the show on the road!}
-{186}{}{Geez... no more Badger.}
-{187}{}{Who would've killed him?}
-{188}{}{I don't know shit about computers. Do you?}
-{189}{}{Man... Badger knew all the cool places to go.}
-{190}{}{Now I'll never hear his band play!}
-{191}{}{Stupid killers... getting rid of Badger... stupid.}
-{192}{}{I am so full of hate right now.}
-{193}{}{I want revenge for Badger!}
-{194}{}{Life seems so pointless without Badger.}
+{183}{}{Conhece algum lugar bom para se estabelecer?}
+{184}{}{Vou me certificar que você esteja limpo antes de ir.}
+{185}{}{Bora trabalhar!}
+{186}{}{Porra... Já era o Badger.}
+{187}{}{Quem teria o matado?}
+{188}{}{Não sei porra nenhuma sobre computadores. E você?}
+{189}{}{Cara... Badger sempre conheceu os melhores lugares para ir.}
+{190}{}{Agora eu nunca vou ouvir sua banda tocar!}
+{191}{}{Assassinos morféticos... se livraram do Badger... estúpido.}
+{192}{}{To puto agora.}
+{193}{}{Quero vingança pelo Badger!}
+{194}{}{A vida não tem muito sentido sem o Badger.}

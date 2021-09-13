@@ -31,7 +31,7 @@
 {128}{}{Eu sinto falta do Fumaça. Por que você não poderia salvá-lo? Você é o Escolhido.}
 {129}{}{Estou ocupada, burro. Vá jogar em outro lugar.}
 {130}{}{Eu vou.}
-{131}{}{Eu vou depois do Fumaça.}
+{131}{}{Eu vou por trás da fumaça.}
 {200}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito
   Falar sobre tempos difíceis vindo. }
 {201}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito

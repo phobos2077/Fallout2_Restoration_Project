@@ -34,7 +34,7 @@
 {127}{}{Você realmente gosta do Franc, hein?}
 {128}{}{Essa deve ser a coisa mais idiota que eu já ouvi.}
 {129}{}{Tudo bem. Tchau.}
-{130}{}{É isso mesmo! Temos que... hmm... pensar por nós mesmos! É isso que Franc e Jacob sempre dizem.}
+{130}{}{É isso mesmo! Temos que... hmm... pensar por nós mesmos! É isso que Franc e Jacob sempre dizem!}
 {131}{}{Puta merda, você realmente bajula esses dois. Por que não tenta pensar por você ao invés de papaguear
 o que as outras pessoas te contam?}
 {132}{}{Você realmente gosta do Franc, hein?}

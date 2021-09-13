@@ -119,7 +119,7 @@ no alizar de porta.}
 {171}{}{A sua falta de habilidade encravou a trava na porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
 {173}{}{ habilmente destranca a fechadura na porta.}
-{174}{}{emperrou a trava na porta devido a sua falta de habilidade .}
+{174}{}{Sua falta de habilidade só ajudou a emperrar a fechadura.}
 {175}{}{ falhou em destrancar essa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Ao tentar cortar o bloqueio, você pressiona suas costas e
@@ -129,7 +129,7 @@ no alizar de porta.}
 {179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ arrombou a fechadura da porta.}
-{182}{}{ estica as costas enquanto tenta violar a fechadura e recebe 
+{182}{}{ machuca as costas enquanto tenta arrombar a fechadura e recebe 
  pontos de dano.}
 {183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
 {184}{}{ pontos de dano.}

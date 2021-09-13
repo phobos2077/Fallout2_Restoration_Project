@@ -1,50 +1,50 @@
-{100}{}{You see a cowled Hubologist. Somehow, this one seems different.}
-{101}{}{You see AHS-7, the second in command.}
-{102}{}{You see a cowled Hubologist.}
-{103}{}{Guards! An oppressive! Strike it down!}
-{104}{}{You. State your business.}
+{100}{}{Você vê um hubologista encapuzado. De alguma forma, esse parece diferente.}
+{101}{}{Você vê AHS-7, o segundo no comando.}
+{102}{}{Você vê um hubologista encapuzado.}
+{103}{}{Guardas! Um opressor! Domine ele!}
+{104}{}{Você. Diga o que quer.}
 {105}{}{Aaagh! Nu! Nee!}
-{106}{}{I have a letter for AHS-9 from the Enlightened One in NCR.}
+{106}{}{Tenho uma carta para AHS-9 do Primeiro Iluminado da NCR.}
 {107}{}{I'm here to speak to Crockett about some armor.}
-{108}{}{I'd like to look around.}
-{109}{}{I'm interested in potentially joining your group.}
+{108}{}{Eu gostaria de dar uma olhadinha.}
+{109}{}{Estou interessado em talvez me juntar ao seu grupo.}
 {110}{}{Quem é você?}
-{111}{}{I've come to kill you all.}
-{112}{}{Ah, poor child. Would you like to be aligned?}
+{111}{}{Eu vim para comer suas bundas.}
+{112}{}{Ah, pobre criança. Você gostaria de ser ajeitado?}
 {113}{}{Simmm!}
 {114}{}{Não!}
-{115}{}{Poor child. Already aligned, yet unable to articulate. Go on in.}
-{116}{}{'Ank yu!}
-{117}{}{Go in and find Juan and Vikki. They can help you. Good luck, child.}
-{118}{}{'Ank yu!}
-{119}{}{::his voice hardens:: Then I see no reason you should be admitted here. Good day.}
-{120}{}{'Ey!}
-{121}{}{Very well. Be quick, though - he's a busy, busy man.}
+{115}{}{Pobre criança. Já ajeitado, mas incapaz de se articular. Vá em frente.}
+{116}{}{Briga do!}
+{117}{}{Entre e encontre Juan e Vikki. Eles podem te ajudar. Boa sorte, criança.}
+{118}{}{Briga do!}
+{119}{}{::a voz dele endurece:: Então não vejo razão para você ser admitido aqui. Bom dia.}
+{120}{}{'Ei!}
+{121}{}{Certo. Mas seja rápido - ele é um homem bem ocupado.}
 {122}{}{Tudo bem.}
-{123}{}{This is not a place that is open for random tours. Good day.}
+{123}{}{Esse não é um lugar aberto para qualquer passeio. Tenha um bom dia.}
 {124}{}{[FEITO]}
-{125}{}{Excellent! Go in, go in. Speak to Juan Cruz and Vikki Goldman - they're celebrities, you know, but they'll talk to YOU.}
-{126}{}{Who are they?}
-{127}{}{Ooh! Celebrities!}
-{128}{}{I am AHS-7, the second in command of this facility. Before you ask: AHS stands for Aligned Hub Seeker, which means that I have cleared seven levels of neurodynes from my spirit. This means that I am more enlightened and closer to the hub of the Great Wheel than you. And this means that you will tell me what you want here. Now.}
-{129}{}{I have a letter for AHS-9 from the Enlightened One in NCR.}
+{125}{}{Ótimo! Entre, entre. Fale com Juan Cruz e Vikki Goldman - eles são celebridades, você sabe, mas eles vão falar com VOCÊ.}
+{126}{}{Quem são eles?}
+{127}{}{Ooh! Celebridades!}
+{128}{}{Eu sou AHS-7, o segundo nessa instalação. Antes que você se pergunte: AHS significa Aligned Hub Seeker, o que significa que eu limpei sete níveis de neurodinos do meu espírito. Isso significa que estou mais iluminado e mais próximo do centro da Grande Roda do que você. E isso significa que você vai me dizer o que quer aqui. Agora.}
+{129}{}{Tenho uma carta para AHS-9 do Primeiro Iluminado da NCR.}
 {130}{}{I'm here to speak to Crockett about some armor.}
-{131}{}{I'd like to look around.}
-{132}{}{I'm interested in potentially joining your group.}
-{133}{}{I've come to kill you all.}
-{134}{}{They're stars from New Reno. They heard the truth behind our gospel and came to cleanse their neurodynes.}
-{135}{}{Where do I find them?}
-{136}{}{Well, forget it. I'm out of here.}
-{137}{}{You can find them in the prayer room, showing all our new recruits and the raw meat just how rewarding it is to be a Hubologist.}
-{138}{}{Well, let me at 'em!}
-{139}{}{I'll be the judge of that. Let's get the show on the road.}
-{140}{}{Forget it. I'm out of here.}
-{141}{}{So now you've spoken to Juan and Vikki. Are you interested in joining our friends in the search for enlightenment to the Great Wheel?}
-{142}{}{Oh yes. Yes yes yes.}
+{131}{}{Eu gostaria de dar uma olhadinha.}
+{132}{}{Estou interessado em talvez me juntar ao seu grupo.}
+{133}{}{Eu vim para comer suas bundas.}
+{134}{}{Eles são estrelas de New Reno. Eles ouviram a verdade por trás do nosso evangelho e vieram limpar seus neurodinos.}
+{135}{}{Onde posso encontra-los?}
+{136}{}{Aahh, esquece. Estou saíndo fora daqui.}
+{137}{}{Você pode encontrá-los na sala de oração, mostrando a todos os nossos novos recrutas e a carne crua como é gratificante ser um Hubologista.}
+{138}{}{Bem, deixe eu tentar!}
+{139}{}{Eu vou ser o juiz disso. Vamos botar a mão na massa.}
+{140}{}{Esqueça. Estou saindo daqui.}
+{141}{}{Então agora você falou com Juan e Vikki. Está interessado em se juntar aos nossos amigos na busca pela iluminação para a Grande Roda?}
+{142}{}{Oh sim. Sim sim sim.}
 {143}{}{Com certeza.}
-{144}{}{Not right now. Can I get back to you?}
-{145}{}{I don't think it's my bag. Sorry.}
-{146}{}{Hell no. Your crazy cult deserves to be torched down to the ground.}
+{144}{}{Agora não. Posso voltar depois?}
+{145}{}{Não parece ser minha bolsa. Desculpa.}
+{146}{}{Mas nunca. Teu culto problemático merece ser queimado lindamente.}
 {147}{}{::he smiles:: You won't regret this. You may have the run of the compound. Oh... you're a person who knows how to use a weapon. Would you care to use yours in the service of the Great Wheel?}
 {148}{}{Sim.}
 {149}{}{Talvez mais tarde.}

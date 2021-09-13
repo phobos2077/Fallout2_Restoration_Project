@@ -186,7 +186,7 @@
 {1263}{}{.}
 {1265}{}{. Você ACABOU com aquele cara.}
 {1266}{}{?}
-{1285}{}{? Vamos lá, ande com orgulho!}
+{1285}{}{? Vamos, ajeita essa postura.}
 {1297}{}{! Que passa? Você vai fala de mim pros Brothers ou não?}
 {1298}{}{, bilheteria!}
 {1300}{}{… vamos, eu consigo!}

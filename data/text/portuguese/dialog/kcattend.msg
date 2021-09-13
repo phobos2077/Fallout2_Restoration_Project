@@ -26,7 +26,7 @@
 {132}{}{You sure get your money's worth.}
 {133}{}{I'm taking the rest of the day off.}
 {134}{}{Uau! Você sentiu o chão tremer também?}
-{135}{}{Nunca vi nada assim. Você é um jumento/cavalo!}
+{135}{}{Agora eu sei como se sentia a grande Catherine.}
 {140}{}{Bom, dinheiro é dinheiro, né....}
 {141}{}{Uau! Essa foi uhh...diferente.}
 {142}{}{Se saiu muito bem. Próximo!}

@@ -7,7 +7,7 @@
 {114}{}{Gostaria de pagar uma rodada de bebidas a todos do bar, para me apresentar.}
 {115}{}{Gostaria de negociar.}
 {116}{}{Gostaria de um quarto para esta noite.}
-{120}{}{Ótimo, se não é mais um idiota maldito. Igualzinho ao Torr. Cai fora do meu bar!}
+{120}{}{Ótimo, vê se não é mais um maldito idiota. Igualzinho ao Torr. Cai fora do meu bar.}
 {130}{}{Você é um dos nossos. Veio para a taverna certa pra gastar seu dinheiro. O que eu posso fazer por você, amigo?}
 {131}{}{Você não parece ser tão popular nesta parte da cidade... Bem, talvez as opiniões ainda não estejam formadas sobre você. Como posso te ajudar?}
 {132}{}{Preciso de alguma cerveja.}

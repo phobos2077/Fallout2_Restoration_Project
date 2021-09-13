@@ -29,13 +29,13 @@
 {175}{}{Sua tribo já parou de comer pessoas?}
 {176}{}{Quem te vestiu desse jeito tão engraçado?}
 {177}{}{Aposto que você é mais legal do que aparenta.}
-{178}{}{Vamos brincar de pique-pega. Tá com você!}
+{178}{}{Vamos brincar de pega-pega. Tá com você!}
 {179}{}{Você não fede tanto.}
 {180}{}{Você viu meu amigo invisível?}
 {181}{}{Quero viajar o mundo quando tiver sua idade.}
 {182}{}{Você é um tribal legal, nem parece com os outros.}
 {183}{}{Aposto que toma banho.}
-{184}{}{Tribal!! ururururuuuu - ururur!!}
+{184}{}{Vocé é mais esperto que Torr.}
 {185}{}{Essa lâmina é afiada mesmo?}
 {186}{}{Quando eu crescer quero ser igual a você.}
 {187}{}{Meu cachorro adora carne seca.}

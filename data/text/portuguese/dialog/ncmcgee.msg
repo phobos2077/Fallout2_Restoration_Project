@@ -6,10 +6,10 @@
 {201}{}{Eu vou te matar! Toma isso, seu raider!}
 {202}{}{Acha que eu não tenho bolas, moleque? Cai dentro!}
 {203}{}{Dog and son uva dog!}
-{204}{}{Eu vou tirar seu ar pra fora, jogar pra dentro de novo e tirar ele de ocê de novo!}
+{204}{}{Eu vou tirar o ar dos seus pulmões, enfiar dentro de você e tirar ele de novo com um chute no seu cu.}
 {205}{}{Cê quer um pedaço do velho McGee, moleque?}
-{206}{}{I got yer number, seu chupador de pistola.}
-{207}{}{Eu vou arrancar seu couro, fidumaégua!}
+{206}{}{Eu tenho seu número, seu chupa rola.}
+{207}{}{Eu vou arrancar seu couro, fidumaégua.}
 {208}{}{Cê quer um pedaço de mim, num é? Eu vou acabar co'cê.}
 {209}{}{I'm gonna cut the fig off you, fella.}
 {210}{}{Eu vou te castrar como se cê fosse um brahmin.}

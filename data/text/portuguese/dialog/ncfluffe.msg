@@ -59,7 +59,7 @@
 {300}{}{Oh, merda! É o Myron! Corram!}
 {301}{}{Porra! É o Myron. Fiquem calmos... ele consegue sentir o medo.}
 {302}{}{É melhor você manter o Myron longe de mim.}
-{303}{}{Myron, fique longe de mim!}
+{303}{}{Myron, é melhor você ficar BEM longe de mim.}
 {304}{}{Se o Myron começar a trabalhar aqui, estou perdido.}
 {305}{}{Myron, have you passed the five second mark yet?}
 {306}{}{Myron, é melhor você dar o fora daqui antes que os Brothers te vejam.}

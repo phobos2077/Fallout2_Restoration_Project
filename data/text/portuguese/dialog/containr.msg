@@ -143,7 +143,7 @@ que você poderá abrir.}
 {179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ emperra o bloqueio do recipiente.}
-{182}{}{ estica as costas enquanto tenta violar a fechadura e recebe 
+{182}{}{ machuca as costas enquanto tenta arrombar a fechadura e recebe 
  pontos de dano.}
 {183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
 {184}{}{ pontos de dano.}

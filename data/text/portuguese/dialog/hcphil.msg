@@ -52,7 +52,7 @@
 {161}{}{Oops, I'm tapped. }
 {162}{}{Nothing? Ha. Ha. You don't park yourself here without drinking something, friend. I gotta pay
  the bills, too. Let's try that again. SO! What'll it be?}
-{167}{}{Forget it. I'm out of here.}
+{167}{}{Esqueça. Estou saindo daqui.}
 {168}{}{'Til you're buying, I ain't talking. What's your pleasure?}
 {173}{}{Forget this and forget your lousy drinks!}
 {174}{}{Thanks. Anything else?}

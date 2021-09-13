@@ -4,9 +4,11 @@
 {201}{}{Ally cebola? Gurk?}
 {202}{}{Eu tenho que fazer xixi}
 {203}{}{Oog? (balançando a cabeça)}
-{204}{}{Bem, é uma boa tentativa para um idiota. Mas não quero nenhum do seu tipo por aqui. Agora saia. Xô! xô!}
+{204}{}{Bem, é uma boa tentativa para um burrão. Mas não quero nenhum do seu tipo por aqui. Agora 
+saia. Xô, xô.}
 {205}{}{Eu sei que você é um tribal e tal, mas isso é uma casa de banhos, não uma patente. Saia daqui antes que eu te expulse!}
-{206}{}{Eu sei que meus meninos tem se comportado mal,mas você é ainda pior. Eu não acredito que você não os ajudou. Eu não quero você no que é meu. Agora, saia daqui!}
+{206}{}{Eu sei que meus meninos tem se envolvidos com pessoas mas,mas você consegue ser pior. Eu não posso 
+ acreditar que você fez isso com eles. Eu não quero você aqui. Agora, saia daqui.}
 {210}{}{Meu nome é Sally Dunton, mas a maioria me chama de Sally nariguda. Eu sou a dona dessa casa de banhos. Nos temos varios tratamentos especiais, e banhos especiais para você escolher.}
 {211}{}{Que tipo de banhos especiais vocês tem aqui?}
 {212}{}{Poxa, senhorita Sally, eu só queria um banho normal. Você não tem um banho de banheira, tem?}

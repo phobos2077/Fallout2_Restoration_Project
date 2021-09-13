@@ -22,7 +22,7 @@
 {218}{}{Alguém quer lançar os dados?}
 {219}{}{Que bom que o Aldo não está fedendo novamente.}
 {220}{}{Sempre fica com brahmins que não são seus?}
-{221}{}{Cuidados com os espíritos que vagam.}
+{221}{}{Cuidados com os espíritos andantes!}
 {222}{}{There's a spirit in a canyon east of here.}
 {223}{}{Caçar é muito perigoso, uns tempos atrás perdemos um ótimo caçador.}
 {224}{}{Adorei esse truque de Torr.}

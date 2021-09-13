@@ -30,7 +30,7 @@
 {142}{}{You sure get your money's worth.}
 {143}{}{I'm taking the rest of the day off.}
 {144}{}{Uau! Você sentiu o chão tremer também?}
-{145}{}{Nunca vi nada assim. Você é um jumento/cavalo!}
+{145}{}{Agora eu sei como se sentia a grande Catherine.}
 {150}{}{Bom, dinheiro é dinheiro, né....}
 {151}{}{Uau! Essa foi uhh...diferente.}
 {152}{}{Se saiu muito bem. Próximo!}

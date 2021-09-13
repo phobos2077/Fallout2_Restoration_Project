@@ -344,7 +344,7 @@
 {5344}{}{. Se as outras famílias te virem, vão te enterrar em segundos.}
 {5346}{}{. You were *wasting* that guy.}
 {5347}{}{?}
-{5380}{}{? Vamos lá, ande com orgulho!}
+{5380}{}{? Vamos, ajeita essa postura.}
 {5401}{}{! Que passa? Você vai fala de mim pros Brothers ou não?}
 {5402}{}{, bilheteria!}
 {5404}{}{...c'mon. I can *do* it.}

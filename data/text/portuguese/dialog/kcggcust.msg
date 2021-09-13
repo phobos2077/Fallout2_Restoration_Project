@@ -23,11 +23,11 @@
 {124}{}{Ei amigo, parece que estes dados estão travados? (chocalho, chocalho)}
 {125}{}{Fale com os Duntons ou com o barmen se busca trabalho, amigo.}
 {126}{}{Você escolheu o bar perfeito para beber, amigo.}
-{127}{}{Não, Bishop, não aquela coisa com a faca novamente.}
+{127}{}{Não, Bishop, não é o negócio com a faca de novo!}
 {128}{}{Alguém quer lançar os dados?}
 {129}{}{Que bom que o Aldo não está fedendo novamente.}
 {130}{}{Sempre fica com brahmins que não são seus?}
-{131}{}{Cuidados com os espíritos que vagam.}
+{131}{}{Cuidados com os espíritos andantes!}
 {132}{}{There's a spirit in a canyon east of here.}
 {133}{}{Caçar é muito perigoso, uns tempos atrás perdemos um ótimo caçador.}
 {134}{}{Adorei esse truque de Torr.}
