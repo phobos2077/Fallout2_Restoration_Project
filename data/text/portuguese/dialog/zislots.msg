@@ -21,7 +21,7 @@
 {253}{}{.}
 {254}{}{Liga-o por um dia.}
 {255}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite".}
-{256}{}{Isso que é noite!}
+{256}{}{Isso que é noite.}
 {257}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
 {258}{}{That does it! I'm leaving!}
 {259}{}{That does it! I'm leaving!}

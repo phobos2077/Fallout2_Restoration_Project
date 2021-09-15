@@ -350,7 +350,7 @@
 {524}{}{Seu amigo com o osso no nariz... ótimo truque.}
 {525}{}{O seu amigo com osso faz truques com o nariz ou algo assim?}
 {526}{}{Talvez eu coloque um osso no meu nariz. Deve atrair mais clientes mulheres.}
-{527}{}{Aquele cara tem um osso do tamanho do meu braço no nariz. Eca!}
+{527}{}{Aquele cara tem um osso enfiado no nariz que é do tamanho do meu braço. Deus do céu.}
 {528}{}{Eu nem quero saber como aquele cara conseguiu enfiar aquele osso no nariz.}
 {529}{}{O seu amigo com osso no nariz está no negócio?}
 {530}{}{Quanto o seu amigo com osso no nariz cobra?}
@@ -660,7 +660,7 @@
 {832}{}{A Tradução do jogo foi feita por uma grande equipe da internet coordenada pelo rsalvarenga.}
 {833}{}{O Feargus ficou com aquela cara pelanquenta depois de ver a quantidade de mensagens flutuantes que eu tenho.
  Ele é nojento.}
-{834}{}{Sua pontuação foi de 192 em 208. Você deveria ter usado seu dedão do pé mutante no Horrigan.}
+{834}{}{Está dizendo que Locutus serviu com a Enclave? E eu dei para aquele babaca de graça!}
 {835}{}{Alguma mulher deve ter quebrado o seu coração pra você se esconder nessa armadura. Deixa eu te ajudar.}
 {836}{}{Olha, Homem de Lata, se você quer que eu me vista como Dorothy ou Toto, vai custar mais caro.}
 {837}{}{Olha, chapa, se você quer fazer isso vai ter que sair daí; metal machuca e deixa cicatriz.}
@@ -921,7 +921,7 @@
 {1092}{}{Seu amigo com o osso no nariz... ótimo truque.}
 {1093}{}{O seu amigo com osso faz truques com o nariz ou algo assim?}
 {1094}{}{Talvez eu coloque um osso no meu nariz. Deve atrair mais clientes mulheres.}
-{1095}{}{Aquele cara tem um osso do tamanho do meu braço no nariz. Eca!}
+{1095}{}{Aquele cara tem um osso enfiado no nariz que é do tamanho do meu braço. Deus do céu.}
 {1096}{}{Eu nem quero saber como aquele cara conseguiu enfiar aquele osso no nariz.}
 {1097}{}{O seu amigo com osso no nariz está no negócio?}
 {1098}{}{Quanto o seu amigo com osso no nariz cobra?}
@@ -1229,7 +1229,7 @@
 {2197}{}{! Você pode me arrumar um emprego no estúdio?}
 {2210}{}{.}
 {2263}{}{! Isso aí, cara!}
-{2264}{}{ é tão mau, que ele deve fazer a barba com maçarico!}
+{2264}{}{ Ele chutou tantos cus, que dá pra se achar que ele era uma bota em outra vida.}
 {2268}{}{?}
 {2272}{}{?}
 {2278}{}{! Isso aí, garota!}
@@ -1258,7 +1258,7 @@
 {3156}{}{Você vê uma prostituta. Ela te aprecia como se você fosse um joalheiro.}
 {3157}{}{Você vê uma prostituta. Suas roupas em trapos estão jogadas sedutivamente ao redor de seu corpo.}
 {3158}{}{You see one of the Cat's Paw girls. Her tattered clothes are draped seductively around her body.}
-{3200}{}{Oh, isso! Vai! Mais rápido! Vai! Vaivaivaivai!!! Oh! Depressa! Vai! OOOOOOHH!}
+{3200}{}{Oh, isso! Vai! Mais rápido! Vai! Vaivaivaivai!!! Oh! Depressa! Vai! OOOOOOHH.}
 {3201}{}{Hmm! Mais rápido! Ooooh! Oh! Sim! SIM! OOH! OOOH! Agora pague no
  caixa.}
 {3202}{}{Depressa. O cronômetro está correndo.}

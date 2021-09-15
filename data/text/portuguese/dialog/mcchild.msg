@@ -29,7 +29,7 @@
 {175}{}{Sua tribo já parou de comer pessoas?}
 {176}{}{Quem te vestiu desse jeito tão engraçado?}
 {177}{}{Aposto que você é mais legal do que aparenta.}
-{178}{}{Vamos brincar de pega-pega. Tá com você!}
+{178}{}{Vamos brincar de pega-pega. Tá com você.}
 {179}{}{Você não fede tanto.}
 {180}{}{Você viu meu amigo invisível?}
 {181}{}{Quero viajar o mundo quando tiver sua idade.}

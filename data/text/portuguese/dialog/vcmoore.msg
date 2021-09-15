@@ -39,7 +39,7 @@ bem cuidadas.}
 {129}{}{Mesmo que possa significar o seu banimento deste oasis?}
 {130}{}{Isto não é um oasis, meu irmão. É uma cidade, construída no egoísmo e na avareza. Ela precisa
  ser salva de si mesma... naquela luz, o banimento é um preço muito alto? Eu não acho.}
-{131}{}{Qualquer coisa pra ajudar meu companheiro em sua causa.}
+{131}{}{Qualquer coisa pra ajudar meu companheiro em sua causa!}
 {132}{}{Eu não sei... o que você quer que eu faça?}
 {133}{}{Hmmm. Bem, agora que você colocou dessa forma, não, acho que não. Tchau.}
 {134}{}{(Inclina-se pra você) Eu tenho uma pasta... com informação vital para nossa causa.
@@ -58,8 +58,8 @@ bem cuidadas.}
  como eu posso saber se você REALMENTE é um crente?}
 {144}{}{Você vai ser um verdadeiro crente quando eu enfiar meu pé no seu cu!}
 {145}{}{Eu SOU um crente, irmão. Como posso provar minha devossão?}
-{146}{}{Eu sei que esta cidade foi construída com base no pecado e na escravidão, e que somente a justiça
- pode corrigi-la.}
+{146}{}{Eu sei que esta cidade foi construída com base no pecado e na escravidão, e que apenas juntos
+ podemos corrigi-la!}
 {147}{}{É melhor a gente conversar depois.}
 {148}{}{Descrente ignorante! Você tem ouvidos, mas não escuta! Você tem olhos,
  mas não exerga! Saia da minha frente, canalha!}

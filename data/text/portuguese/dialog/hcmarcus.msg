@@ -169,7 +169,7 @@
 {268}{}{Yeah, that's a tragedy. Well, see ya later!}
 {269}{mcs48}{You ever get back there, tell them the war's over. It's been over a long time.}
 {270}{}{Ummm. Okay. I have more questions.}
-{271}{}{Sure thing. Bye.}
+{271}{}{Correto. Tchau.}
 {272}{mcs49alt}{Thanks for your help. Could've been trouble. We took their weapons cache and disabled their bombs.}
 {273}{}{Great! I have some questions...}
 {274}{}{Hey, I found something out.}

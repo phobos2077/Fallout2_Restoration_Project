@@ -189,7 +189,7 @@
 {1285}{}{? Vamos, ajeita essa postura.}
 {1297}{}{! Que passa? Você vai fala de mim pros Brothers ou não?}
 {1298}{}{, bilheteria!}
-{1300}{}{… vamos, eu consigo!}
+{1300}{}{… vamos, eu POSSO fazer.}
 {1357}{}{! Way to kick the Enclave's ass!}
 {1358}{}{, way to teach them Enclave bastards how things are done DOWNTOWN.}
 {1372}{}{?}

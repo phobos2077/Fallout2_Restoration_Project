@@ -68,7 +68,7 @@
 {327}{}{Me dê outra chance, Stuart. Colé, só mais UMA chance. Eu posso conseguir!}
 {328}{}{(Sair.)}
 {329}{}{(Stuart olha com desgosto para você quando lhe retiram do ringue. }
-{330}{}{O quê, o Masticator mordeu sua orelha, garoto?!}
+{330}{}{O quê, o Masticator mordeu sua orelha, garoto?! }
 {331}{}{O quê, o Masticator mordeu sua orelha, garota?! }
 {332}{}{Eu disse CAI fora! Saia daqui!}
 {333}{}{Chutar o o homenzinho vermelho e barulhento}

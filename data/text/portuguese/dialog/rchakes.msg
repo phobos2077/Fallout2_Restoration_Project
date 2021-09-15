@@ -3,7 +3,7 @@
 {102}{}{Você vê um homem de pele amarela, com uma cicatriz no pescoço e uma pança enorme.}
 {103}{}{Ei,  o que 'cê pensa que 'tá fazendo?}
 {104}{}{Hakeswill vai te dar uma lição, vai sim.}
-{105}{}{Vão se fuder 'cês tudo!}
+{105}{}{Vão se fuder cês tudo.}
 {106}{}{Mostre o devido respeito aos seus superiores.}
 {107}{}{Você ama sua mãe?}
 {108}{}{Cai fora.}

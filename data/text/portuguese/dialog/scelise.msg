@@ -114,7 +114,7 @@
 {227}{}{Money? Well, I suppose it is the least we could do. Here, $1000 for your trouble. Thank you again.}
 {228}{}{My pleasure. Goodbye.}
 {229}{}{Are you ready to attack the slaver camp?}
-{230}{}{I still need more time.}
+{230}{}{Eu preciso de mais tempo.}
 {231}{}{I am ready to go. Let's do it.}
 {232}{}{Your fellow Rangers will meet up with you along the way. Best of luck to you.}
 {233}{}{[FIM]}

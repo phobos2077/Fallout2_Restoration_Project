@@ -1,25 +1,25 @@
-{100}{}{You see a humanoid covered in plant-growth. It drips green sludge.}
-{101}{}{You see one of Dr. Sheng's foul creations.}
-{102}{}{You see one of Dr. Sheng's foul creations. It looks like this one didn't turn out so well.}
-{200}{}{Speak to the master, human.}
-{201}{}{Your body would make a fine host...}
-{202}{}{The master said you are off limits... for now.}
-{300}{}{[A half-dozen strange humanoid creatures slowly shamble toward you. Their cadaverous vine and moss-covered bodies make repulsive squelching sounds with each awkward step. The lead creature addresses you in a harsh rasp.] Master wants to speak with you. Come with us, human, and do not resist ... or we'll make a host of you.}
-{301}{}{[Shrug] This should be interesting. Lead the way.}
-{302}{}{I'm not going anywhere with you, plant ... creature ... things.}
+{100}{}{Você vê um humanoide coberto por plantas em sua pele. Pingando lama verde.}
+{101}{}{Você vê uma das criações escrotas do Dr. Sheng.}
+{102}{}{Você vê uma das criações escrotas do Dr. Sheng. Parece que esse saiu de algum buraco.}
+{200}{}{Fale com o mestre, humano.}
+{201}{}{Seu corpo seria um ótimo hospedeiro...}
+{202}{}{O mestre disse que está fora dos seus limites... Por enquanto.}
+{300}{}{[Meia dúzia de estranhas criaturas humanóides cambaleiam lentamente em sua direção. Seus corpos cadavéricos e cobertos de musgo fazem sons repulsivos como que se esmagassem algo a cada passo desajeitado. A criatura líder se dirige a você de maneira grosseira.] O Mestre quer falar com você. Venha com nós, humano, e não resista... ou faremos de você um hospedeiro.}
+{301}{}{[Encolher de ombros] Isso me parece interessante. Você primeiro.}
+{302}{}{Eu não vou a lugar nenhum com você, planta... bicho... bagulhos.}
 {303}{}{Eu não tenho tempo pra essa merda.}
-{304}{}{Hold on. Who's your master? And what, exactly, are you?}
-{310}{}{You have no choice, human. Either come and speak to Master, or we shall resort to violence.}
-{311}{}{Then let's dance.}
-{312}{}{All right. I'll meet this master of yours.}
-{320}{}{Master will answer all questions. Now, come.}
+{304}{}{Espere. Quem é seu mestre? E o que é você exatamente?}
+{310}{}{Você não tem escolha, humano. Venha e fale com o Mestre, ou vamos partir para a violência.}
+{311}{}{Então que comece a dança.}
+{312}{}{Tudo bem. Eu vou conhecer esse seu mestre.}
+{320}{}{O Mestre responderá todas suas perguntas. Venha.}
 {321}{}{Acho que não.}
-{322}{}{All right. I'll meet this master of yours.}
+{322}{}{Tudo bem. Eu vou conhecer esse seu mestre.}
 {400}{}{Uuuhhhhh...}
 {401}{}{Grrraaah!}
 {402}{}{Hheesssss...}
 {403}{}{Ohhh...}
-{410}{}{The master says no one may enter.}
-{420}{}{The master says you may enter, human.}
-{500}{}{You spray the creature and it gives off a heavy groan. Segments of the plant-growth covering it fall limp to the floor.}
-{501}{}{You spray the creature; it gives off a heavy groan and oozes into a puddle before your eyes.}
+{410}{}{O mestre disse que nada pode entrar.}
+{420}{}{O mestre disse que você pode entrar, humano.}
+{500}{}{Você pulveriza a criatura e ela emite um grito horrivel. Fragmentos do crescimento da planta que a cobrem caem moles no chão.}
+{501}{}{Você pulveriza a criatura; ela emite um grito horrivel e se transforma em uma poça diante de seus olhos.}

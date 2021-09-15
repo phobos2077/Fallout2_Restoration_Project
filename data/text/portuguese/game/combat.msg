@@ -571,7 +571,7 @@
 {5135}{}{. As chances dela ter filhos diminuem sériamente enquanto ela cai no chão feito uma boneca de pano}
 {5200}{}{. A criancinha começa a chorar}
 {5201}{}{. Inconsciente, a criança cai no chão}
-{5202}{}{. Ai}
+{5202}{}{. Ai!}
 {5203}{}{. O ataque é forte, e a criança é nocauteada}
 {5204}{}{, esmagando a criança, que parece um boneco de pano quando é atingida}
 {5205}{}{. O braço esquerdo da criança agora está com um dodói}

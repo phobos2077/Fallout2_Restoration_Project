@@ -117,7 +117,7 @@
 {431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 {440}{}{Liga-o por um dia.}
-{441}{}{Isso que é noite!}
+{441}{}{Isso que é noite.}
 {450}{}{Sorry, this table has been closed. Someone has been tampering with the dice.}
 {451}{}{Sorry sir, this table has been closed. Someone has been tampering with the dice.}
 {452}{}{Sorry ma'am, this table has been closed. Someone has been tampering with the dice.}

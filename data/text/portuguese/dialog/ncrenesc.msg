@@ -35,7 +35,7 @@ sair fora.}
 {257}{}{Mim lamenta pouco.}
 {258}{}{Mim não saber como colocar sutiã de volta.}
 {259}{}{Não gritar em mim}
-{260}{}{ Te odeio!}
+{260}{}{ Seu pai de calcinha! }
 {261}{}{Eu estou indo, eu estou indo. Por enquanto.}
 {270}{}{Eu? Ah eu sou o alegre São Nicolau, sua besta quadrada.}
 {271}{}{Eu? Oh, eu só sou o bom e velho alegre São Nicolau. E VOCÊ deve ser aquele 
@@ -244,14 +244,14 @@ que o GECK está dentro do sagrado Vault 13.}
 13. Coisa mais próxima é Vault City ao Nordeste… E Se esses aristocratas 
 impertinentes habitaram um Vault antes, eles com certeza não vivem mais 
 lá.}
-{601}{}{Você disse Vault City? Eu vou procurar essa Vault City e perguntar 
-a seus moradores sobre o GECK. Obrigado Renesco. Louve o Vault!}
+{601}{}{Você disse Vault City? Eu vou procurar essa Vault City e perguntar a seus moradores sobre o GECK. 
+ Obrigado Renesco. Louve o Vault! }
 {602}{}{"Vaults?" Existe mais que um Vault?}
 {603}{}{Hmmm. Eu tenho outras perguntas…}
 {610}{}{Se você está indo para Vault City, não me agradeça, primitivo. É 
 melhor ficar em New Reno. Pelo menos as pessoas querendo te botar num túmulo 
 são honestas sobre isso.}
-{611}{}{Tá certo, então… estou indo para Vault City. Louve a Vault!}
+{611}{}{Tá certo, então… estou indo para Vault City. Louve a Vault! }
 {612}{}{Entendi. Obrigado pelo aviso.}
 {620}{}{Por que você acha que é chamada Vault TREZE, chupa-lanças? O quê, 
 sua tribo tinha poucos miolos ou você celebra rituais de lobotomia para 
@@ -513,7 +513,7 @@ Lua quando eu me ajoelhei e… Ei, você quer saber? Você talvez goste da anciã.
 Ela tem quase a sua idade.}
 {2000}{}{Você expôs o envolvimento de Renesco na morte de Richard Wright.}
 {5257}{}{ é tão grande. Estou indo agora.}
-{5259}{}{não grite. PORQUE VOCÊ CONTINUA GRITANDO? PARE COM ESSA GRITARIA!}
+{5259}{}{ não grite. PORQUE VOCÊ CONTINUA GRITANDO? PARE COM ESSA GRITARIA }
 {5260}{}{…*sniff*…vou chamar o irmãozão pra te bater, velhote! Aí então nós 
 teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
 {6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}

@@ -403,9 +403,9 @@
 {20600}{}{Dinamite}
 {20601}{}{Um explosivo de alta potência, que consiste em nitroglicerina misturado com a terra de diatomáceas substância absorvente. Inclui um temporizador, que está fazendo tic-tac.}
 {20700}{}{Geiger Counter}
-{20701}{}{Um modelo de Wattz Eletrônica C-Radz Contador Geiger. Detecta a presença e a força de campos de radiação. Está ligado!}
+{20701}{}{Um modelo de Wattz Eletrônica C-Radz Contador Geiger. Detecta a presença e a força de campos de radiação. Está ligado.}
 {20800}{}{Sensor de Movimento}
-{20801}{}{Um sensor de movimento modelo Wattz Electronics C-U. Detecta movimento de material biológico de uma distância de varios metros usando um dispositivo de radar sintonizado. Está ligado!}
+{20801}{}{Um sensor de movimento modelo Wattz Electronics C-U. Detecta movimento de material biológico de uma distância de vários metros usando um dispositivo de radar sintonizado. Está ligado.}
 {20900}{}{Plastic Explosives}
 {20901}{}{Um pedaço de Cordex, uma marca militar de explosivos plásticos. Altamente instável e muito destrutivo. Inclui um temporizador, porque está fazendo tic-tac.}
 {21000}{}{Stealth Boy}
@@ -631,7 +631,7 @@
 {32100}{}{Cérebro Cibernético}
 {32101}{}{Um cérebro humano que foi reforçado com acessórios eletrônicos e robóticos.}
 {32200}{}{Cérebro Humano}
-{32201}{}{Um cérebro humano normal. Normalmente eles são encontrados em crânios humanos. Eca!}
+{32201}{}{Um cérebro humano normal. Normalmente eles são encontrados em crânios humanos. Eca.}
 {32300}{}{Cérebro Chimpanzé}
 {32301}{}{Um cérebro de macaco. É macio e mole.}
 {32400}{}{Cérebro anormal}

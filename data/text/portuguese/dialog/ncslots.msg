@@ -53,7 +53,7 @@
 {237}{}{ moedas?}
 {238}{}{Apostar }
 {239}{}{ moedas?}
-{240}{}{Isso que é noite!}
+{240}{}{Isso que é noite.}
 {241}{}{Liga-o por um dia.}
 {245}{}{As roletas giram e... nada.}
 {246}{}{NADA. NADA! Você a escuta dar gargalhandas e você começa a se enfurecer... os Bouncers são forçados a retirar seu corpo gritante da máquina.}
@@ -64,7 +64,7 @@
 {251}{}{ moedas sobrando. Arriscar tudo?}
 {252}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite".}
 {253}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
-{254}{}{Isso que é noite!}
+{254}{}{Isso que é noite.}
 {255}{}{Liga-o por um dia.}
 {260}{}{Três facas. Você ganhou a mesma quantidade que apostou.}
 {261}{}{(A máquina continua suspirando pra você.) *Vamos, docinho... isso acontece com todo mundo uma vez... tente de novo... por favor…*}
@@ -73,14 +73,14 @@
 {264}{}{ moedas. Continuar jogando?}
 {265}{}{Agora você tem }
 {266}{}{ moedas. Continuar jogando?}
-{267}{}{Isso que é noite!}
+{267}{}{Isso que é noite.}
 {268}{}{Liga-o por um dia.}
 {275}{}{Três balas! Você dobrou o seu dinheiro!}
 {276}{}{(A máquina dá uma cospida de prazer.) *Isso mesmo, docinho... continue puxando... mais rápido, forte, rápido... vamos lá...*}
 {277}{}{(A máquina dá um gemido de prazer.) *Isso mesmo, coração... continue puxando... mais rápido, forte, rápido...vamos lá...*}
 {278}{}{Agora você tem }
 {279}{}{ moedas! Continuar jogando?}
-{280}{}{Isso que é noite!}
+{280}{}{Isso que é noite.}
 {281}{}{Liga-o por um dia.}
 {290}{}{Três granadas! Puta que pariu! Você triplicou o seu dinheiro!}
 {291}{}{(A máquina grita de prazer enquanto as moedas caem.) *Aaaaaaah! Isso mesmo, docinho! Oh! Sim! Sim, de novo! Mais rápido! Mais forte! O que está esperando?! De novo!*}
@@ -89,7 +89,7 @@
 {294}{}{Vamos lá, granadas! Eu preciso de um novo par de sapatos! (Continuar jogando.)}
 {295}{}{Agora você tem }
 {296}{}{ moedas. Continuar jogando?}
-{297}{}{Isso que é noite!}
+{297}{}{Isso que é noite.}
 {298}{}{Liga-o por um dia.}
 {305}{}{(Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas. Quando você olha pra ele. uma das três janelas pisca pra você. Do buraco de moedas você ouve uma voz suave) *Oláaaaaa, docinho. Quer mostrar pra uma garota quem é que manda?*}
 {306}{}{(Você vê um caça-níquel. Ele é forte, robusto e tem a alavanca dourada brilhando como um deus do sol entre as luzes de New Reno. O buraco de moedas te atrai sedutivamente, e você sente suas coxas queimarem de expectativa. Quando você olha pra ele, ouve uma voz masculina sair do buraco de moedas.) *Nunca vi uma mulher tão linda como você por aqui, senhorita. Está procurando por um bom tratamento?*}
@@ -144,7 +144,7 @@
 {388}{}{ moedas?}
 {389}{}{Apostar }
 {390}{}{ moedas?}
-{391}{}{Isso que é noite!}
+{391}{}{Isso que é noite.}
 {392}{}{Liga-o por um dia.}
 {400}{}{As roletas giram e... nada.}
 {401}{}{NADA. NADA! Você a escuta dar gargalhandas e você começa a se enfurecer... os Bouncers são forçados a retirar seu corpo gritante da máquina}
@@ -155,21 +155,21 @@
 {406}{}{ moedas sobrando. Arriscar tudo?}
 {407}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite."}
 {408}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
-{409}{}{Isso que é noite!}
+{409}{}{Isso que é noite.}
 {410}{}{Liga-o por um dia.}
 {415}{}{Três bombas... você ganhou a mesma quantidade que apostou.}
 {416}{}{(A máquina continua suspirando pra você.) *Vamos, docinho... isso acontece com todo mundo uma vez... tente de novo... por favor…*}
 {417}{}{(A máquina continua suspirando pra você.) *Vamos, coração... tente de novo... segura a alavanca... puxe com força... vamos lá…*}
 {418}{}{Você ainda tem }
 {419}{}{ moedas. Continuar jogando?}
-{420}{}{Isso que é noite!}
+{420}{}{Isso que é noite.}
 {421}{}{Liga-o por um dia.}
 {425}{}{Três explosões! Você duplicou o seu dinheiro!}
 {426}{}{(A máquina dá uma cospida de prazer.) *Isso mesmo, docinho... continue puxando... mais rápido, forte, rápido... vamos lá...*}
 {427}{}{(A máquina dá um gemido de prazer.) *Isso mesmo, coração... continue puxando... mais rápido, forte, rápido...vamos lá...*}
 {428}{}{Agora você tem }
 {429}{}{ moedas! Continuar jogando?}
-{430}{}{Isso que é noite!}
+{430}{}{Isso que é noite.}
 {431}{}{Liga-o por um dia.}
 {435}{}{Três Nuvens de Cogumelo! Você triplicou o seu dinheiro!}
 {436}{}{(A máquina grita de prazer enquanto as moedas caem.) *Aaaaaaah! Isso mesmo, docinho! Oh! Sim! Sim, de novo! Mais rápido! Mais forte! O que está esperando?! De novo!*}
@@ -178,7 +178,7 @@
 {439}{}{Vamos lá, nuvens de cogumelo! Eu preciso de um par de sapatos novos! (continuar jogando)}
 {440}{}{Agora você tem }
 {441}{}{ moedas. Continuar jogando?}
-{442}{}{Isso que é noite!}
+{442}{}{Isso que é noite.}
 {443}{}{Liga-o por um dia.}
 {1000}{}{As chances não são boas.}
 {1001}{}{As chances são boas.}

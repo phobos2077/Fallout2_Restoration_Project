@@ -156,7 +156,7 @@
 {1480}{}{Sensor atingido! Sensor atingido!}
 {1481}{}{Sensores prejudicados! Sensores prejudicados!}
 {1482}{}{Mau funcionamento do sistema de sensor, tentando desviar.}
-{1490}{}{Mau funcionamento registrado no regulador}
+{1490}{}{Mau funcionamento registrado no regulador!}
 {1491}{}{Regulador danificado! Regulador danificado!}
 {1492}{}{Regulador danificado! Desviando para o sistema crítico!}
 {1500}{}{Minha cabeça está cheia de maus espíritos.}
@@ -254,7 +254,7 @@
 {1592}{}{Estou casado, não uso de qualquer maneira.}
 {1593}{}{Espíritos santos, o mundo explodiu.}
 {1594}{}{suspiro ... não consigo respirar...}
-{1595}{}{Ouch! (Em voz alta e estridente)}
+{1595}{}{Em voz alta e estridente--Ouch!}
 {1596}{}{Unnhhh. Eu preciso sentar um pouco.}
 {1597}{}{Seu filho da puta - eu mato você lentamente por isso.}
 {1598}{}{Você não sabe nada de honra.}
@@ -282,7 +282,7 @@
 {1620}{}{Deveria ter usado a direita.}
 {1621}{}{Você quebrou o meu braço!}
 {1622}{}{Você vai se arrepender disso!}
-{1623}{}{Aarrrggg!}
+{1623}{}{Sobrou alguns dedos.}
 {1624}{}{Acabou o Wimbledon.}
 {1625}{}{Sieg... oh, never mind.}
 {1626}{}{Você me desarmou!}
@@ -332,7 +332,7 @@
 {1686}{}{Ei você esta com meu olho, uh, você pode me devolver, por favor?}
 {1687}{}{Eu ainda posso rastreá-lo apenas pelo som!}
 {1688}{}{Aiyeee! Aiyeee! meus olhos!}
-{1689}{}{Me cegou, porque você está com medo, não é?!}
+{1689}{}{Me cegou porque você está com medo, não é.}
 {1690}{}{Você não é um cavalheiro.}
 {1691}{}{Yooooouuuuch!}
 {1692}{}{Unnhhhhh!}
@@ -346,7 +346,7 @@
 {1700}{}{Ei, olha! Ostras Prairie.}
 {1701}{}{Alguem quer nozes picadas?}
 {1702}{}{Não poderei mais escrever meu nome na neve.}
-{1703}{}{Na cara! Na cara não!}
+{1703}{}{Na cara! Na cara não...}
 {1704}{}{Minha cabeça ... ... ficando tonto ...}
 {1705}{}{Ugnnn!}
 {1706}{}{Na cara! Na cara não!}
@@ -461,7 +461,7 @@
 {2124}{}{Ninguém vai destruir este lugar ...}
 {2125}{}{Quem você pensa que é?}
 {2140}{}{Você não deveria ter feito isso!}
-{2141}{}{Preocupamos uns com os outros.}
+{2141}{}{Preocupamos uns com os outros!}
 {2142}{}{Isto é o que fazemos com vermes!}
 {2143}{}{Você é uma aberração mutante!}
 {2144}{}{Idiota!}
@@ -569,7 +569,7 @@
 {2504}{}{Não será a última vez que nos vemos!}
 {2505}{}{Vai pagar por isso... mas tarde!}
 {2520}{}{Você é história!}
-{2521}{}{Toma isso!}
+{2521}{}{Carne fresca...}
 {2522}{}{Eu vou dançar no seu túmulo!}
 {2523}{}{Todo mundo! É um alvo em potencial!}
 {2524}{}{Prepare, seu vagabundo!}
@@ -699,7 +699,7 @@
 {2904}{}{Retirada!}
 {2905}{}{Aaaaghhh!}
 {2920}{}{Mate este idiota!}
-{2921}{}{Toma isso!}
+{2921}{}{Carne fresca...}
 {2922}{}{Exterminado!}
 {2923}{}{Esse é meu!}
 {2924}{}{Ahhhhhhh!}
@@ -769,7 +769,7 @@
 {3118}{}{Acredito aprenda a lição. Agora vou cair fora daqui!}
 {3119}{}{Ei, pare de se afastar de mim.}
 {3120}{}{Você é história!}
-{3121}{}{Toma isso!}
+{3121}{}{Carne fresca...}
 {3122}{}{Carne, Carne, Carne, Carne a milanesa!}
 {3123}{}{Cérebros...}
 {3124}{}{Eu vou cavar sua cova...}
@@ -879,7 +879,7 @@
 {12035}{}{Que venham todos para a festa...}
 {12036}{}{Pelos números, pessoas, pelos números.}
 {12037}{}{Prestem atenção aos detalhes, pessoal!}
-{12038}{}{Fogo cruzado, mantenham a cabeça baixa.}
+{12038}{}{Fogo cruzado, mantenham a cabeça baixa!}
 {12040}{}{Destruído!}
 {12041}{}{Você está sem sorte, tribal ...}
 {12042}{}{Vou meter meu pé na sua bunda, você ficará cheirando sapato polonês durante uma semana.}
@@ -903,7 +903,7 @@
 {12104}{}{Não vai ser o último a ouvir falar de mim!}
 {12105}{}{Vai pagar por isso... mas tarde!}
 {12120}{}{Você é história!}
-{12121}{}{Toma isso!}
+{12121}{}{Carne fresca...}
 {12122}{}{Ah, o jantar chegou.}
 {12123}{}{Cérebros...}
 {12124}{}{Eu vou cavar sua cova...}
@@ -998,7 +998,7 @@
 {26005}{}{Vou sair daqui!}
 {26020}{}{Mate este idiota!}
 {26021}{}{É um homem morto...}
-{26022}{}{Vou te cortar em pedaços}
+{26022}{}{Eu vou comer teu cu!}
 {26023}{}{Esse é meu!}
 {26024}{}{Voltei por você!}
 {26025}{}{Suas orelhas serão um grande troféu!}
@@ -1030,7 +1030,7 @@
 {26114}{}{Os Khans são a elite dos que sobraram!}
 {26115}{}{Sou supremo!}
 {26116}{}{Os Khans governarão!}
-{26117}{}{Os Khans são invencíveis}
+{26117}{}{Os Khans são invencíveis!}
 {26118}{}{Não Recuar! Recuar-se jamais!}
 {26119}{}{Eu mesmo vou te matar!}
 {26120}{}{Eu vou fazer um colar dos seus dentes!}
@@ -1182,7 +1182,7 @@
 {32444}{}{Rapaz, você sangra muito hein?}
 {32445}{}{::::Puts!:::::}
 {32446}{}{Você quebrou a cara, homem!!}
-{32447}{}{Um enema quente a ponto de chegar}
+{32447}{}{Um enema quente a ponto de chegar!!}
 {32448}{}{Toma isso!!}
 {32460}{}{Você atira pior do que a minha mãe!}
 {32461}{}{Maldição, Você não presta!}
@@ -1389,7 +1389,7 @@
 {33271}{}{Meu joelho!}
 {33272}{}{Isso vai me deixar feridas.}
 {33280}{}{Eu acho que você arrancou minha retina!}
-{33281}{}{Meu humor aquoso! Meu vítreo}
+{33281}{}{Meu humor aquoso! Meu vítreo!}
 {33282}{}{Estou cego! Estou cego!}
 {33290}{}{Isso é ... isso é ... doloroso ...}
 {33291}{}{mãe...}
@@ -1441,7 +1441,7 @@
 {36140}{}{Sua mãe não está aqui para ajudá-lo!}
 {36141}{}{Vou aproveitar isto.!}
 {36142}{}{Oooo, isso vai doer!}
-{36143}{}{Vou levar sua cabeça de volta para Anciã.}
+{36143}{}{Vou levar sua cabeça de volta para Anciã!}
 {36144}{}{Vou comer seu fígado!}
 {36145}{}{Espero que não morra tão rápido como os outros.}
 {36146}{}{Outro Escolhido para matar!}
@@ -1467,7 +1467,7 @@
 {36241}{}{Não adianta ficar gritando por Misericórdia ...}
 {36242}{}{Vou aproveitar isto.!}
 {36243}{}{Oooo, Kaga sentiu isso daqui,}
-{36244}{}{Vou levar sua cabeça de volta para Anciã.}
+{36244}{}{Vou levar sua cabeça de volta para Anciã!}
 {36245}{}{Vou tirar seu coração para fora com uma colher!}
 {36246}{}{Espero que você não morra tão rapidamente quanto os outros!}
 {36247}{}{Outro Escolhido para matar!}
@@ -1492,7 +1492,7 @@
 {36340}{}{Sinta a ira de Kaga!}
 {36341}{}{Vou aproveitar isto.!}
 {36342}{}{Oooo, Kaga sentiu isso daqui.}
-{36343}{}{Vou levar sua cabeça de volta para Anciã.}
+{36343}{}{Vou levar sua cabeça de volta para Anciã!}
 {36344}{}{Vou tirar seu coração para fora com uma colher!}
 {36345}{}{Espero que você não morra tão rapidamente quanto os outros!}
 {36346}{}{Outro Escolhido para matar!}
@@ -1518,7 +1518,7 @@
 {36441}{}{Fique quiéto para que Kaga possa atirar melhor.}
 {36442}{}{Vou aproveitar isto.}
 {36443}{}{Oooo, Kaga sentiu isso daqui.}
-{36444}{}{Vou levar sua cabeça de volta para Anciã.}
+{36444}{}{Vou levar sua cabeça de volta para Anciã!}
 {36445}{}{Vou tirar seu coração para fora com uma colher!}
 {36446}{}{Espero que você não morra tão rapidamente quanto os outros!}
 {36447}{}{Outro Escolhido para matar!}
@@ -1578,7 +1578,7 @@
 {36641}{}{Ouch!}
 {36642}{}{Hmm, você pode ser um problema.}
 {36643}{}{Grrr! Estou ansioso por sua Morte}
-{36644}{}{Pode me machucar, mas jamais vai vencer}
+{36644}{}{Pode me machucar, mas jamais vai vencer!}
 {36645}{}{Ai! Isso não foi uma boa idéia.}
 {36660}{}{Ahhhgh! Minha perna!}
 {36661}{}{Você chama isso de dor? Eu brinco!}
@@ -1616,7 +1616,7 @@
 {36744}{}{Morra seu tolo humano!}
 {36745}{}{Agora você vai morrer dolorosamente.}
 {36746}{}{Sofra!}
-{36747}{}{Vou esmagá-lo}
+{36747}{}{Vou te trucidar!}
 {36748}{}{Não pode lutar contra os Escolhidos!}
 {36749}{}{Sofra, humano!}
 {36760}{}{Por que você luta assim?}
@@ -1646,7 +1646,7 @@
 {44833}{}{Arrgghh! Dores no peito!}
 {44834}{}{Meus estômago...isso sim é que é dor!}
 {44835}{}{Isso é uma luta ou você está apenas tentando chamar minha atenção?}
-{44836}{}{Isso é o Maximo de pode fazer? Vou te mostrar como se faz!}
+{44836}{}{Suponho que isso deveria doer. Vou chorar por você mais tarde.}
 {44837}{}{Sua mãe que te ensinou a lutar?}
 {44838}{}{Oh a dor (bocejo). Por favor, não me machuque mais.}
 {44839}{}{Você chama isso de golpe. Vou te mostrar como se faz!}
@@ -1692,7 +1692,7 @@
 {44909}{}{Tenho que sair daqui!}
 {44920}{}{Vem aqui para que eu possa te acertar!}
 {44921}{}{Você é meu!}
-{44922}{}{Só eu e você...mano a mano}
+{44922}{}{Sou eu ou você... e eu voto em você!}
 {44923}{}{É seu funeral!}
 {44924}{}{Vem pegar!}
 {44925}{}{Prepare para enfrentar pesadelo!}
@@ -1721,9 +1721,9 @@
 {44948}{}{Espero que esteja gostando tanto quanto eu!}
 {44949}{}{Esta doendo? Senão posso te golpear mais duramente.}
 {44950}{}{Temos um sangrando por aqui!}
-{44951}{}{Vou precisar de muito mais do que um stimpack, quando isso tudo terminar!}
-{44952}{}{Espero que tenha seguro de vida. Vai precisar!}
-{44953}{}{Um rasgo aqui...um rasgo ali...rasgado em tudo quanto é parte!}
+{44951}{}{Você vai precisar de muito mais que um stimpack pra te consertar.}
+{44952}{}{Espero que tenha seguro de vida. Vai precisar.}
+{44953}{}{Um rasgo aqui...um rasgo ali...rasgado em tudo quanto é parte.}
 {44954}{}{Não interessa quem começou, EU vou de terminar!}
 {44955}{}{Adoro o som dos ossos quebrando, você não?}
 {44956}{}{Só estou brincando, o melhor vem agora.}

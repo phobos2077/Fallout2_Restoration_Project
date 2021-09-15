@@ -114,25 +114,25 @@
 {332}{}{Sorry, better luck next time.}
 {333}{}{You have [C] chips. Keep playing?}
 {334}{}{Liga-o por um dia.}
-{335}{}{Isso que é noite!}
+{335}{}{Isso que é noite.}
 {340}{}{Winner! Well done, sir!}
 {341}{}{Winner! Well done, ma'am!}
 {342}{}{Winner!}
 {343}{}{You have [C] chips. Keep playing?}
 {344}{}{Liga-o por um dia.}
-{345}{}{Isso que é noite!}
+{345}{}{Isso que é noite.}
 {350}{}{Winner! You've doubled your money! Well done, sir!}
 {351}{}{Winner! You've doubled your money! Well done, ma'am!}
 {352}{}{Winner! You've doubled your money!}
 {353}{}{You have [C] chips. Keep playing?}
 {354}{}{Liga-o por um dia.}
-{355}{}{Isso que é noite!}
+{355}{}{Isso que é noite.}
 {360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {362}{}{Winner! You've tripled your money!}
 {363}{}{You have [C] chips. Keep playing?}
 {364}{}{Liga-o por um dia.}
-{365}{}{Isso que é noite!}
+{365}{}{Isso que é noite.}
 {370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
 {371}{}{I'm whoever you WANT me to be, sweetheart. Now, you gonna place a bet?}
 {372}{}{I'm whoever you WANT me to be, girlfriend. Now, you gonna place a bet?}

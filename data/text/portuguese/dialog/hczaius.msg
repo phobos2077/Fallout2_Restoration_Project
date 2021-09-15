@@ -67,7 +67,7 @@
  but you'll be hurting. Again, thank you.}
 {152}{}{Não há problema. Tchau.}
 {153}{}{No? Well, if you should change your mind, you know where to find me.}
-{154}{}{Sure thing. Bye.}
+{154}{}{Correto. Tchau.}
 {155}{}{ it is, then. Take half now. I'll give you the other half when you're done. Go to New Reno and
  look for Renesco. He's got tools just lying around his office. He should be able to help you with the
  parts.}

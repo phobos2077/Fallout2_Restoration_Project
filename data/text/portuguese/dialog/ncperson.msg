@@ -146,7 +146,7 @@
 {387}{}{That fella with you from the 'stick-a-bone-up-my-honker' tribe?}
 {388}{}{That fella with the bone in his nose is proof that tribals ain't never gonna be civilized.}
 {389}{}{That fella got a bone in his nose?}
-{390}{}{Aquele cara tem um osso do tamanho do meu braço no nariz. Eca!}
+{390}{}{Aquele cara tem um osso enfiado no nariz que é do tamanho do meu braço. Deus do céu.}
 {391}{}{I don't even want to know how that friend o' yours got that bone in his nose.}
 {392}{}{Great. It's one of those tribal shit-kickers.}
 {393}{}{How many tribals are gonna be coming to this town?}
@@ -331,7 +331,7 @@
 {652}{}{That fella with you from the 'stick-a-bone-up-my-honker' tribe?}
 {653}{}{That fella with the bone in his nose is proof that tribals ain't never gonna be civilized.}
 {654}{}{That fella got a bone in his nose?}
-{655}{}{Aquele cara tem um osso do tamanho do meu braço no nariz. Eca!}
+{655}{}{Aquele cara tem um osso enfiado no nariz que é do tamanho do meu braço. Deus do céu.}
 {656}{}{I don't even want to know how that friend o' yours got that bone in his nose.}
 {657}{}{I hate this goddamn town.}
 {658}{}{I've been in this town too long.}

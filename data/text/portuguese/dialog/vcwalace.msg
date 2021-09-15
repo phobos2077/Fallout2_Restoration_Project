@@ -105,7 +105,7 @@
 {204}{}{Obrigado.}
 {205}{}{Não gaste mais o meu tempo, forasteiro. Saia.}
 {206}{}{Sugiro que saia agora, ou eu chamo os guardas.}
-{207}{}{NÃO ocê SAIR ou mim BATER VOCÊ!}
+{207}{}{NÃO ocê SAIR ou mim BATER VOCÊ}
 {208}{}{Desliga}
 {209}{}{Eu não vou a lugar algum. Quer tentar me pegar, vá em frente.}
 {210}{}{Tudo bem, tudo certo.}
@@ -185,7 +185,7 @@
 {284}{}{O que você pode me dizer sobre Broken Hills?}
 {285}{}{Entendo. Eu tenho outras perguntas...}
 {286}{}{Obrigado pela informação. Adeus.}
-{287}{}{Você sabe? Mas essa é uma excelente notícia! Por favor, vá falar com o Vereador McClure agora mesmo!}
+{287}{}{Você sabe? Mas essa é uma excelente notícia! Por favor, vá falar com o Vereador McClure agora mesmo.}
 {288}{}{Você sabe? Mas essa é uma excelente notícia! Deixe-me dá-lo um Day Pass para que você possa falar com o Vereador McClure. O Pass só é útil durante o dia; pela noite você será convidado a sair. Agora vá.}
 {289}{}{Posso te fazer outra pergunta antes de ir?}
 {290}{}{Eu vou fazer isso.}
@@ -232,7 +232,7 @@
 {324}{}{Certamente. Se você achar o acampamento-base dos raides, eu lhe darei um Day Pass.}
 {325}{}{Verei o que posso fazer. Mas antes, eu tenho outras perguntas...}
 {326}{}{É um trato. Tchau.}
-{327}{}{Você sabe? Mas essas são excelentes notícias! Por favor vá falar com a First Citizen agora mesmo!}
+{327}{}{Você sabe? Mas essas são excelentes notícias! Por favor vá falar com a First Citizen agora mesmo.}
 {328}{}{Você sabe? Mas essas são excelentes notícias! Deixe-me dá-lo um Day Pass para que você possa contar a First Citizen.
  Aqui está. O pass só é útil durante o dia; pela noite você será convidado a sair da cidade. Agora vá.}
 {329}{}{Antes de ir, posso fazer outra pergunta?}

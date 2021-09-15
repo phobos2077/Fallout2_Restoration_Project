@@ -120,7 +120,7 @@
 {219}{}{Sua espécie talvez, mas você certamente que não.}
 {220}{}{Sim, eu acho. Não há preço que pague a salvação de uma espécie.}
 {221}{}{Eu concordo com você nesse ponto. Não te ocorreu que os *mutantes*, como você os chama, são apenas outro tipo de humanos?}
-{222}{}{Eu tenho que concordar com você, doutor. Eu acho que vou marcar um ponto para nós mutantes. Começando por matar você.}
+{222}{}{Eu tenho que concordar com você, doutor. Eu acho que vou fazer algo bom para os mutantes. Começando por matar você!}
 {223}{}{Eu disse pra você que precisava de um momento pra pensar nisso.}
 {224}{}{Eu realmente preciso de um tempo pra pensar.}
 {225}{}{Essa é uma decisão repentina.}

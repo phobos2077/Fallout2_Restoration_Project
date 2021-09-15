@@ -22,7 +22,7 @@
 {228}{}{Damn guards can keep track of their own asses…}
 {235}{}{Olá, Myron, senhor. Os teste estão prosseguindo como no planejamento.}
 {236}{}{Myron, senhor, esse novo tipo de Jet é extremamente viaciante. Os escravos estão quase matando uns aos outros por mais.}
-{237}{}{Myron, senhor, o senhor ficará satisfeito ao notar que os escravos estão preferindo Jet a comer!}
+{237}{}{Myron, senhor, o senhor ficará satisfeito em saber que os escravos estão preferindo Jet a comer.}
 {238}{}{Quem são estas pessoas com você, Myron? Novos escravos?}
 {239}{}{Myron, senhor, o terceito grupo de teste parece estar ragindo melhor de todos os grupo.}
 {240}{}{Myron, senhor, se tiver um momento... eu acho que o próximo grupo de teste deve ter pelo menos três crianças, senhor.}

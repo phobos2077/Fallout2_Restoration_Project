@@ -143,9 +143,9 @@
 {216}{}{Você também andou trabalhando num antídoto?}
 {217}{}{Sim, por isso precisava de uma amostra de Jet.}
 {218}{}{Sim... e sem sucesso.}
-{219}{}{O domínio dessa droga precisa ser contido antes que se espalhe. Ei... com a informação
- que você providenciou nós podemos criar um antídoto hoje! Espere aí!}
-{220}{}{Ótimo!}
+{219}{}{Temos que deter essa droga antes que se espalhe por todo canto. Porque... com a informação
+ que você providenciou nós podemos criar um antídoto hoje! Vamos lá.}
+{220}{}{Ótimo! Obrigado, doutor.}
 {221}{}{Esse homem jovem aí? Ele inventou o Jet?}
 {222}{}{Eu não diria "homem", mas sim, ele criou o Jet. É o que ele diz.}
 {223}{}{É, não parece mas é.}
