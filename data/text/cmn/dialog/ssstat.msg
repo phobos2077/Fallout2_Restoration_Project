@@ -1,1 +1,0 @@
-{100}{}{There's a plaque at the base. It reads, "To the Stranger and Vault 13: What doesn't exist, we must sometimes dream and let our dreams inspire us to greater heights. So it was with the Stranger and his belief in the legend of Vault 13.}

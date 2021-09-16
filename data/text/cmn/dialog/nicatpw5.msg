@@ -1,1 +1,0 @@
-{100}{}{You have learned some valuable tips on how to use energy weapons.}
