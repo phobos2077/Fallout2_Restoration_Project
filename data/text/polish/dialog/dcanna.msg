@@ -1,10 +1,11 @@
 {100}{}{Widzisz ducha!}
 {101}{}{Widzisz ducha Anny.}
+
 {150}{}{Prawdziwy duch! To dopiero rzadki widok.}
 {151}{}{Zdaje siê straszliwie cierpieæ.}
 {152}{}{[ROZMAWIAJ]}
 {153}{}{Boli! Jak strasznie boli!}
-{154}{}{O co chodzi?}
+{154}{}{Co siê sta³o?}
 {155}{}{Kim jesteœ?}
 {156}{}{OdejdŸ, potêpiona duszo!}
 {157}{}{Pukam do wszystkich drzwi, ale nikt nie s³yszy, nikt nie odpowiada...}
@@ -24,21 +25,25 @@
 {171}{}{Nie ma szans! IdŸ do diab³a. Znalezione nie kradzione.}
 {172}{}{Dobrze. Proszê bardzo.}
 {173}{}{Gotowe. Spoczywaj w pokoju.}
-{174}{}{OKI.}
+{174}{}{Dobrze.}
 {175}{}{Nie.}
 {176}{}{Mój medalion, mój medalion! Ju¿ idê, Tato! Ju¿ idê!}
-{177}{}{Do widzenia.}
+{177}{}{¯egnaj.}
 {178}{}{Czekaj! Nie odchodŸ!}
 {179}{}{IdŸ do œwiat³a, dziecko...}
+
 {200}{}{Gdzie on mo¿e byæ?}
 {201}{}{Oooch.}
 {202}{}{Mamo? Tato? Gdzie jesteœcie?}
 {203}{}{Nie mogê go znaleŸæ!}
+
 {500}{}{Mamo... Tato... Ju¿ idê...}
 {501}{}{Jak tu jasno...}
 {502}{}{Babcia?! Widzê babciê...}
 {503}{}{O! To ten mi³y pan Kain. Mi³o pana znowu widzieæ...}
+
 {550}{}{Ten dom nie jest ju¿ nawiedzony.}
 {551}{}{Ooo, ³adne koœci.}
+  
 {560}{}{POGROMCA DUCHÓW!}
 {561}{}{Ug.}

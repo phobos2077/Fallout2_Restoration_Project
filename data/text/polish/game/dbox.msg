@@ -1,4 +1,14 @@
-{100}{}{GOTOWE}
-{101}{}{YES}
-{102}{}{NO}
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in DIALOG.C, dialog box routines.
+#
+# (These MUST match "text message" enumeration on the top of DIALOG.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+{100}{}{OK}
+{101}{}{TAK}
+{102}{}{NIE}
 {103}{}{ANULUJ}
+

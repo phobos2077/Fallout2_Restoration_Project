@@ -1,7 +1,7 @@
 {100}{}{Widzisz chud¹ staruszkê, która najlepsze lata ma ju¿ za sob¹.}
 {101}{}{Widzisz wdowê Rooney.}
 {102}{}{Widzisz star¹, chud¹ kobietê z kurzajkami i w¹sikiem.}
-{103}{}{Odczep siê ode mnie.}
+{103}{}{OdejdŸ ode mnie.}
 {104}{}{Czy ju¿ nie doœæ przez ciebie wycierpia³am?}
 {105}{}{A teraz, mo¿e mnie zabijesz?}
 {106}{}{Wykopywaæ star¹ kobietê na bruk?}

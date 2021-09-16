@@ -1,0 +1,505 @@
+;
+; Fallout 2 team quotes
+;
+; Begun 10/22/97
+;
+; The fonts used to display this file are the reverse of the
+; credits.txt file.  In other words, the font used to display
+; titles in credits.txt (the lines with the '@') is the font
+; used to display these quotes.  Putting an '@' at the start of
+; a line in this file will use the font used to display the
+; names in the credits.txt file (currently 104).
+;
+; Max line length with the current font (103) is about 63.
+; Anything longer than that won't be displayed, as it won't fit
+; on the screen.
+;
+; All lines are automatically centered on the display.
+;
+; See top of credits.txt for additional info.
+;
+@Wypowiedzi ekipy Fallout 2:
+(Naciœnij ESC, je¿eli nie chcesz czytaæ ostrych momentami wypowiedzi)
+
+
+
+Chcesz zobaczyæ mój sprzêt?
+- Nick
+
+Widzia³em, gdzie go wsadzi³eœ.
+- Scotty
+
+Nigdy nie mia³em czegoœ tak wielkiego.
+- T. Ray
+
+Chcesz dotkn¹æ i poczuæ coœ naprawdê mocnego?
+- Courtney
+
+Wiêkszoœæ ludzi nie ma dziury o œrednicy 22 cali.
+- Tim
+
+Dzisiaj nie pójdê do prostytutki.
+- Tim
+
+Nic na to nie poradzê! S¹ tutaj dwie dziury
+i to siê na pewno do jednej z nich nie zmieœci!
+- Scotty
+
+Potrafisz policzyæ, ile razy w grze uprawiasz seks?
+- Chris A.
+
+Z Barneyem jest wszystko w porz¹dku...Nie wierzê, ¿e w³aœnie to powiedzia³em!
+- Chris T.
+
+Je¿eli chcesz, pójdê wybato¿yæ mojego 19-calowego.
+- Jesse
+
+Wk³adam sobie do buzi wiele rzeczy, których prawdopodobnie nie powinienem tam wk³adaæ.
+- Scotty
+
+Zaczynam uwa¿aæ, ¿e ludzie od marketingu s¹ przekleñstwem wszechœwiata. Kiedyœ myœla³em, ¿e s¹ nim prawnicy.
+- Anonymous
+
+Nie zdziwi³o mnie to, ¿e wydawa³eœ z siebie odg³osy kaczki. Zdziwi³o
+mnie to, ¿e *nie* zdziwi³o mnie to, ¿e wydawa³eœ z siebie odg³osy kaczki.
+- Fred H.
+
+
+Nie dotkn¹³em tego przez ca³y ranek!
+- Tom F.
+No to teraz dostaniesz klapsa!
+- Fred H.
+
+
+Niech zgadnê, znowu potrzebujesz chusteczki?
+- Rob H.
+
+Ta rzecz ma w sobie coœ nieprzyjemnego, coœ, czego w chwili obecnej nie da siê dostrzec.
+Wprowadziæ pozosta³ych...chcê równie¿ zasmakowaæ w *ich* bezsmakowoœci.
+- Matt N.
+
+Tak, jestem ciot¹.
+- Scotty
+
+Przepraszam, mój komputer bêdzie miaucza³ przez nastêpne
+piêæ minut.
+- Jesse
+
+Jak ja to zrobilem? Sprawi³em, ¿e sta³o sie wiêksze!
+- Nick
+
+Jestem w pewnym sensie analny na ten temat...  Jestem analny na ka¿dy temat...
+JESTEM CZ£OWIEK-ANAL!!
+- Scotty
+
+Jest wielka ró¿nica miêdzy Œwiêtem Dziêkczynienia a Burger Kingiem.
+- Mark H.
+
+Nie robienie niczego Ÿle jest ca³kiem dobrym pomys³em.
+- Scotty
+
+
+Mam owcê. Co mo¿na zrobiæ z owc¹?
+- Scotty
+
+Myœlê, ¿e Chris A. sprzêt…do…tego…seksu.
+- Rob H.
+
+Jesse codziennie oœlepia ludzi...
+- Rob H.
+
+Scotty, jesteœ lepszy ni¿ losowy fraktal.
+- Anonymous
+
+KOCHAM owce!
+- Greg B.
+
+Inne rzeczy te¿ wsadzam sobie do buzi...
+- Feargus
+
+
+W³aœciwie to nie bardzo chce mi siê iœæ...chyba, ¿e bêdzie
+du¿o penetracji.
+- Dave
+Taa, powineneœ zobaczyæ taœmê...
+- Fred
+
+
+Spanie jest o *wiele* lepsze od poruszania siê.
+- Nick
+
+Wstukujesz SUCK i po chwili widzisz moje imiê, adres i odbyte
+kary.
+- John D.
+
+*JA* uwa¿am, ¿e warto wydaæ dolara za 3 dni snu na jawie.
+- Fred
+
+Musimy tam umieœciæ dziwki, tak ¿eby gracz mia³ ko³o kogo siê obudziæ,
+je¿eli nie œpi z Jenny.
+- Matt
+
+Czy s¹ jakieœ skrypty, z którymi mo¿na uprawiaæ seks?
+- Tom
+
+Celowa³em w jego krocze i wci¹¿ chybia³em!
+- Jesse
+
+Nigdy nie odczepiê siê ani od tego, ani od majteczek.
+- Nick
+
+Nie potrafiê sprawiæ, ¿eby Jenny ze mn¹ rozmawia³a po seksie...
+- Nick
+
+No có¿, zawsze mogê po prostu odci¹æ mu nos i patrzeæ...
+- Jesse
+
+Ja...ja...ja nie mam nikogo, ¿eby byæ wobec niego zgorzknia³ym!
+- Nick
+
+Niniejszym og³aszam œrodê Dniem Koguta.
+- Feargus
+
+Stary, aleœ *ty* bia³y.
+- T-Ray
+
+Dosta³em dwa ca³usy i parê innych rzeczy.
+- Fred H.
+
+Wolê zobaczyæ coœ takiego ni¿ konwent Staników(tm).
+- Tom
+
+Rozmiar nie ma dla mnie znaczenia.
+- Rob H.
+
+Proszê, twórzcie pode mnie.
+- Matt N.
+
+Mia³em dziœ w nocy Darrena i chcia³em siê upewniæ, czy je¿eli coœ posz³o nie tak, to bêdê móg³ to póŸniej oddaæ.
+- Scotty
+
+Je¿eli chcesz zobaczyæ penisa Godzilli, idŸ do biura Toma F.
+- John D.
+
+Za ka¿dym raziem, gdy dotykasz mojej klawiatury, jest tak, jakbyœ
+dotyka³ mnie.
+- Chris A.
+
+Gary? Jest, ale nie ma go w okolicy.
+- Scotty
+
+Có¿, on po prostu tak powiedzia³. Nie wiem, czy tak
+rzeczywiœcie jest, w koñcu jest Anglikiem, a im nie wolno ufaæ.
+Oczywiœcie, *ja* te¿ jestem Anglikiem.
+- Feargus
+
+Chodzi³o mi o “capn¹æ” w sensie “zwin¹æ”."
+- Chris A.
+
+Jesse jest wiêkszym ekspertem od sposobu dzia³ania narkotyków.
+- Nick
+
+Nie mam pojêcia, gdzie je upchnê.
+- Feargus
+
+Nie jestem g³odny, ale muszê jeœæ, bo w domu niczego do jedzenia nie mam.
+- Nick
+
+Na czym polega twoja obsesja na punkcie Dilberta i nagoœci?
+- Evan C.
+
+B³ad u¿ytkownika! B³¹d u¿ytkownika! Mam dowód na to, ¿e nie umiesz u¿ywaæ dziurkacza! Trzymaj siê z dala od mojego dozownika taœm!
+- Scotty
+
+Au! Tylko nie moje w³ochate ramiê!
+- Scotty
+
+WsadŸ “b” do s³owa “subtelny”.
+- Colin
+
+Bo to mój ty³ek! *Wszyscy* siê nim dzielicie!
+- Feargus
+
+Jestem tak spalony s³oñcem, ¿e to ju¿ nawet nie jest œmieszne, a ja siê przecie¿ ledwo dotkn¹³em!
+- John D.
+
+Widzieliœcie Toma z owc¹ wczoraj wieczorem? By³ BOGIEM! Nigdy nie widzia³em nikogo, kto by siê tak dobrze obchodzi³ z owcami...
+- Jesse
+
+Nick jest twardy i pokrêcony...tak jak przeciêtny kabel.
+- Chris A.
+
+Co takiego w cyklach produkcyjnych zmusza mnie do p³aczu?
+- Chris A.
+
+Chcesz go “zmarionetkowaæ”?
+- Rob H.
+
+To wygl¹da prawie tak samo jak moje adzia-badzia œwistu-chlastu.
+- Jeremey B.
+
+Nie mam czasu na twoj¹ dykcjê.
+- Chris A.
+
+Œpiewaj dalej, Nick…Jess…*kim* jesteœ?
+- Gary
+
+Raku, trzymaj siê z dala od mojego penisa!
+- Tom F.
+
+Obwiniam nawet twoich dziadków za to, ¿e sp³odzili twoich rodziców.
+- Tom F.
+
+Mam o wiele lepsze przeczucia dotycz¹ce projektu, gdy siê sprzeciwiam.
+- Scotty
+
+Jak ja wyci¹gnê stamt¹d swoj¹ g³owê?
+- Scotty
+
+W³az: zaawansowana formu³a bólu.
+- Scotty
+
+Ja zawsze ca³kiem nieŸle radzi³em sobie z owcami.
+- Dave
+
+Nie mog³em dziœ rano znaleŸæ swojej ³asicy i dlatego siê spóŸni³em.
+- Gary
+
+Scotty - On jest naszym odŸwiernym.
+- Chris A.
+
+Czemu twój jest du¿o wiêkszy od mojego? Aaa, bo to powiêkszenie.
+- Jesse
+
+Bez ubrañ ja obyæ siê mogê!
+- Zeb
+
+O co chodzi z tym samonaprowadzaj¹cym siê, eksploduj¹cym braminem?
+- Greg B.
+
+Oto twoje no¿yczki. WeŸ je, zanim zadŸgam nimi Collina.
+- Tom F.
+
+Patrzcie, nawet potrafiê cenzurowaæ sam siebie!
+-Feargus
+
+Jak ju¿ mówi³em poprzedniej nocy, to nie ma nic wspólnego z byciem giêtkim.
+- Fred H.
+
+Nie muszê ogl¹daæ zmasakrowanych, nagich kobiet.
+To znaczy…niewa¿ne.
+- Greg B.
+
+Dziœ ja robiê za prezydenta.
+- Fred H.
+
+Jestem powolny…bo nie wiem, co robiê!
+- Gary P.
+Mogê przyjœæ i wklepaæ to dla ciebie...
+- Eric Pribish
+
+Na znak k³opotów bêdê uciekaæ w poszukiwaniu schronienia niczym ma³e dziewczê.
+- Fred H.
+
+Je¿eli ma w³aœciwe dane, zadzia³a automatycznie!
+- Jesse R.
+
+Poka¿ê ci, co to znaczy zostaæ dŸgniêtym w oko i umrzeæ.
+- Nick K.
+
+Uwielbiam sposób, w jaki siê œciskasz, kiedy siê œmiejesz.
+- Matt N.
+
+Wystarczy napompowaæ, ¿eby wystrzeli³o?
+- Dave H.
+
+Mój mózg zosta³ usuniêty, bêd¹c kompletnie wy³¹czonym.
+- Dave H.
+
+Dan ma marsjanina, który jest znacznie czystszy.
+- Nick K.
+
+Wyjaœnij mi proszê, w jaki sposób zjedzenie kilku galonów boogersów jest zagadnieniem filozoficznym.
+- John D.
+
+Czy to mo¿liwe, ¿eby sprawiæ, aby  narkotyki mia³y *powa¿ne* efekty uboczne?
+- Nick K.
+
+
+Nie widzê problemu. Szczury nie robi¹ "squee".
+- Matt N.
+Krowy robi¹ "muuu", psy robi¹ "hau, hau".
+- Chris J. (ten PRAWDZIWY)
+
+
+By³em zdumiony, ¿e mogê zrobiæ z nich coœ tak ma³ego.
+- Scotty
+To wci¹¿ najwiêksze, jakie mamy. Mo¿e sobie z nimi poradzimy.
+- Fred
+
+Nick ma racjê, spanie *jest* o wiele lepsze od poruszania siê.
+- Jesse R.
+
+Ooooo, mogê podusiæ trochê smoka?
+- Dave H.
+
+Chcia³bym j¹ przebiæ pociskiem s³onecznym.
+- Dave H.
+
+Uda³o ci siê zmusiæ twoje maleñstwo do dzia³ania?
+- Feargus
+
+
+Chcesz pó³ szklanki, Demo?
+- Scotty
+Mówi¹ o napojeniu sokiem kota Marka.
+To nie mo¿e byæ nic dobrego.
+- Jesse R.
+
+
+Chyba radzê sobie lepiej jako kobieta.
+- Chad A.
+
+Tak, sprawiê, ¿e to bêdzie boleæ.
+- Scotty
+
+Nie dawaj Sulikowi flar, bo bêdzie próbowa³ je po³kn¹æ, tak, jak prezydenckie nasiona.
+- Dany M.
+
+W³aœnie grzmoci³em “Du¿ego” Jesusa i chcia³bym wam coœ pokazaæ.
+- Chris A.
+
+Pogadam z Chadem, on ju¿ tyle razy wychodzi³ za Sulika...
+- Nick K.
+
+Nie mamy tutaj do czynienia z naukowcami rakietowymi. Mamy do czynienia z graczami komputerowymi.
+- Chris A.
+
+A mo¿e po prostu skasujmy to wszystko i zacznijmy od nowa.
+- Chris H.
+
+Nie umiem naœladowaæ g³osu Nicka. Jestem zbyt mêski.
+- Rodney S.
+
+To chyba trochê wykracza poza normalny poci¹g, odczuwany przez mê¿czyzn w stosunku do kartek samoprzylepnych.
+- Greg B.
+
+Idê zer¿n¹æ Roba. W³aœnie teraz. Zas³u¿y³ sobie na to.
+Nie, nie rozumiesz - on mi bardzo pomóg³. Za³atwi³ t¹ sprawê z pniem
+- Dan S.
+
+Najpierw ich oœlepiê, a potem u¿yjê ró¿d¿ki.
+- Dave H.
+
+
+Uch. Oni znowu naœladuj¹ dŸwiêki wiewiórek.
+- Feargus
+
+Jaki dŸwiêk wydaj¹ z siebie nagie wiewiórki?
+- Dan S.
+
+
+Nie da³byœ mi ¿adnej szczêœliwej twarzy do Gecko, wiêc sam sobie jedn¹ da³em.
+- Nick K.
+
+Nie znoszê kiedy dŸgacie mnie widelcem w oko.
+- Fred H.
+
+Uwielbiam patrzeæ. To takie fascynuj¹ce.
+- Dave H.
+
+Chcê byæ królow¹.
+- Doug A.
+
+Tak, i to dlatego w³aœnie ³owcy nagród zamienili siê w owocowe tabliczki.
+- Jesse R.
+
+Twój tata na pewno ma s³odki ty³eczek.
+- Tom F.
+
+WyjdŸ na zewn¹trz, na ulicy jest szczur.
+To oszukiwany szczur.
+- Tom F.
+
+Wybaczcie, trochê sobie poskrzeczê pod nosem, zanim rozgrzejemy siê na dobre.
+- Dan S.
+
+IdŸ teraz albo na zawsze bêdziesz musia³ trzymaæ penisa Eda.
+- Tom F.
+
+Za pierwszym razem, kiedy spróbowa³em, spêdzi³em na le¿¹co ca³y nastêpny dzieñ.
+- Chris H.
+
+Bêdziemy na widoku jak jakieœ byd³o.
+- Dave H.
+
+Nie tylko znam siê na sztuce, jestem równie¿ profesjonalnym stiptizerem.
+- Scotty
+
+Jestem g³odny, bo jestem œwini¹.
+- Fred H.
+
+Jestem trochê wkurzony - nie dali mnie do pliku z cytatami.
+- Captain Victory
+
+Widzieliœcie moje pêkniêcie? Jest zaraz tutaj. Jest olbrzymie.
+- Dave H.
+
+Nawet je¿eli ten kod dzia³a³ prawid³owo, to i tak mo¿na by³o go z³amaæ.
+- Chris H.
+
+Nie bêdê ju¿ nigdy wspomina³ o funkcjach fizjologicznych organizmu.
+- Matt N.
+
+Ci¹gle brak dwóch kuleczek?
+- Dave H.
+
+W³aœnie widzia³em, jak bramin robi kupkê!
+- Ed H.
+
+Noc¹ jestem torbaczem.
+- Tom F.
+Muszê przebadaæ twoj¹ torbê.
+- Matt N.
+
+Szczurza pi³ka no¿na; w takie gry graj¹ ludzie z Kontroli Jakoœci.
+- Jesse R.
+
+Taa, no wiêc, nie wierzcie wszystkiemu, co mo¿ecie przeczytaæ w dokumentacji.
+- Chris A.
+
+Chodzi³ sobie spokojnie i nagle by³ nagi.
+- Jesse R.
+
+Mogê nasikaæ do twojego œmietnika?
+- Greg B.
+
+Teraz jesteœ ju¿ absolutnie pewien, ¿e tu nie dochodzi do absolutnie ¿adnego stosunku seksualnego, tak?
+- Chris A.
+
+Zabieraj swoje ³apy z mojego pude³ka!
+- Jeremy B.
+
+Pozwól mi to wsadziæ, to potem ci poka¿ê.
+- Scotty
+
+Uups, orgia zosta³a przerwana.
+- Tom F.
+
+Im bli¿ej terminu nadania przesy³ki, tym bardziej zaczynamy przypominaæ Jima Morrisona.
+- Gary P.
+
+Tak, owszem, zgadzam siê, ¿aba *rzeczywiœcie* wygl¹da bardziej wyrafinowanie z tylko *jednym* ananasem.
+- Jesse R.
+
+Móg³byœ rzuciæ okiem na ten pakiet tchórzliwej SI braminów? One oddaj¹ ciosy.
+- Tom F.
+
+Bawi³eœ siê ju¿ dzisiaj œrodkami wybuchowymi, Greg?
+- Dennis P.
+
+Czujê siê jak jedna z tych ryb, co to s¹ w ca³oœci pokryte ³uskami.
+-Scotty
+
+Czemu twój jest w takim dobrym stanie? Czy to dlatego, ¿e go nigdy nie u¿ywasz?
+- Jesse R.

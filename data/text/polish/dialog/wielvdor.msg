@@ -1,4 +1,4 @@
-{100}{}{You are unable to open these doors. They seem to be opened from somewhere else.}
-{101}{}{There does not seem to be any conventional locking mechanism on this door.}
-{102}{}{You see elevator doors.}
-{103}{}{These elevator doors seem to be opened from another source.}
+{100}{}{Nie mo¿esz otworzyæ tych drzwi. Wygl¹da na to, ¿e mechanizm otwieraj¹cy jest gdzie indziej.}
+{101}{}{Wydaje siê, ¿e te drzwi nie maj¹ konwencjonalnego zamka.}
+{102}{}{Widzisz drzwi do windy.}
+{103}{}{Wydaje siê, ¿e te drzwi do windy otwiera siê gdzie indziej.}

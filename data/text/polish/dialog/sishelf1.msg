@@ -3,5 +3,5 @@
 {195}{}{Ta szafka na ksi¹¿ki nie ma chyba zamontowanych pu³apek.}
 {200}{}{ s¹dzi, ¿e w tej szafce nie ma pu³apek.}
 {206}{}{Ej, nie rób tam tego!}
-{207}{}{Leave the damn bookcases alone before I have to impose extreme sanctions on your ass!}
+{207}{}{Zostaw te cholerne szafki, zanim wyegzekwuje pewne dotkliwe sankcje na twojej dupie!}
 {208}{}{Nie rób tego.}

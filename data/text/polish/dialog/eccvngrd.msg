@@ -1,11 +1,14 @@
 {100}{}{Widzisz stra¿nika.}
-{101}{}{You see one of the guards helping you with this caravan run.}
-{200}{}{You see a caravan driver.}
-{201}{}{You see one of the drivers helping you with this caravan run.}
-{300}{}{I hope we don't get too many more encounters along the way.}
-{301}{}{It'll be good to get that paycheck at the end of the run.}
-{302}{}{I hope they have the bar open for when I get there.}
-{303}{}{It'll be good to get some real food for once.}
-{304}{}{I always wanted to travel. I guess this is the closest thing to it.}
-{305}{}{My feet are killing me. I wish those stupid brahmin would hurry up.}
-{306}{}{I hear that we don't have much further to go on this trip.}
+{101}{}{Widzisz jednego ze stra¿ników pomagaj¹cych ci przy pilnowaniu karawany.}
+
+{200}{}{Widzisz kierowcê.}
+{201}{}{Widzisz jednego z kierowców wchodz¹cych w sk³ad karawany.}
+
+
+{300}{}{Mam nadziejê, ¿e nie spotkaj¹ nas na drodze dalsze niespodzianki.}
+{301}{}{Nie mogê siê ju¿ doczekaæ wyp³aty po dotarciu do celu.}
+{302}{}{Mam nadziejê, ¿e jak dojedziemy na miejsce bary bêd¹ jeszcze otwarte.}
+{303}{}{Nie mogê siê doczekaæ normalnego jedzenia.}
+{304}{}{Zawsze chcia³em podró¿owaæ. Praca w karawanie to jak spe³nienie marzeñ.}
+{305}{}{Ale¿ mnie bol¹ stopy! Te g³upie braminy mog³yby siê trochê pospieszyæ.}
+{306}{}{Podobno cel podró¿y jest ju¿ niedaleko.}

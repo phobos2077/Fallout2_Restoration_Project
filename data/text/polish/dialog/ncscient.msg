@@ -1,56 +1,60 @@
+# quick look
 {100}{}{Widzisz naukowca.}
-{150}{}{You see a stern-looking man with a clipboard and a hypodermic. He ignores you.}
-{151}{}{He looks extremely tired and irritable.}
-{152}{}{You see a tired -looking woman. She is checking a clipboard and looking around as
- if she has forgotten something.}
-{153}{}{She is filling a hypodermic, grumbling slightly to herself.}
-{154}{}{Hello Myron, sir.}
-{155}{}{Myron... sir, do you have a minute...?}
-{156}{}{Wiadomo ju¿ coœ o kolejnej dostawie niewolników, proszê pana?}
-{157}{}{Myron... sir, these new results are very promising...}
-{158}{}{Myron? A minute of your time, sir?}
-{159}{}{Gdzie do diab³a jest Myron}
-{160}{}{Œci¹gnijcie tu Myrona. Musi to zobaczyæ.}
-{161}{}{Ci cholerni niewolnicy mogliby siê wreszcie zamkn¹æ.}
-{162}{}{Gdzie ja zostawi³am tê strzykawkê...}
-{163}{}{Has anyone seen Subject 31? He was here just a second ago.}
-{164}{}{Niech niewolnicy przynios¹ wiêcej Jetu Beta.}
-{165}{}{Wyniki testów nad Jetem Beta s¹ bardzo obiecuj¹ce, ale...}
-{166}{}{Czas dzia³ania wynosi od 15 minut do godziny... policzmy jedn¹ dzia³kê na godzinê... hmmm.}
-{167}{}{Subject 12 still keeps having bleeding in the lungs...}
-{168}{}{That's the fifth time Subject 12 has had seizures... up the dose, see what happens...}
-{169}{}{Dobrze, ale JAKIE halucynacje mia³ konkretnie?}
-{170}{}{SprawdŸcie jego puls. Jeœli mieœci siê w granicach tolerancji, zwiêkszcie dawkê.}
-{171}{}{Dlaczego ta niewolnica z grupy nadzorczej pope³ni³a samobójstwo? Przecie¿ nie przeprowadzaliœmy jeszcze na niej ¿adnych eksperymentów!}
-{200}{}{Tests are proceeding as scheduled, Myron.}
-{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
- willing to kill each other for it.}
-{202}{}{The slaves would rather take Jet than eat, it's so potent.}
-{203}{}{Co to za ludzie? Nowe obiekty?}
-{204}{}{The third test group seem to be doing the best of all the groups, Myron, sir.}
-{205}{}{Myron, I think the next test group should include at least three children, sir.}
-{206}{}{Myron, sir, Subject 46 had a heart attack; we are restricting doses to six times
- a day from now on.}
-{207}{}{Myron? We need a new shipment of hypodermics from Vault City, soon. We can't
- keep re-using these.}
-{208}{}{Myron, at last! Any more word when new slaves will be delivered, sir?}
-{209}{}{Myron, sir, we moved three slaves from the control group into the test group because
- of those respiratory failures we had last week.}
-{210}{}{Myron, sir... we had to shoot one slave for trying to escape. What a waste.}
-{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
-{212}{}{If you have any suggestions, please write it on a piece of paper and then put it right
- in the trash bin over there.}
-{213}{}{Yes, yes, what?}
-{214}{}{We won't be able to get results if you keep interrupting us.}
-{215}{}{Seems they let everyone and their mother run through here nowadays...}
-{216}{}{Co chcesz zrobiæ?}
-{217}{}{Please excuse me, *I* have work to do.}
-{218}{}{If you have questions, talk to the guards, not me.}
-{219}{}{Yes, I'm certain that whatever you need is of *great* importance, but I have duties
- of my own.}
-{220}{}{Are you authorized to be in here?}
-{221}{}{Who allowed you in here?}
-{222}{}{When Myron hears strangers were entering the lab...}
-{223}{}{Do you have those test results I asked for... oh, sorry. Thought you were a lab tech.}
-{224}{}{Too busy to talk right now, sorry.}
-{225}{}{Need a new crop of slaves soon... these ones are running out of steam.}
+
+# examines
+{150}{}{Widzisz steranego mê¿czyznê z notatnikiem i strzykawk¹. Nie zwraca na ciebie uwagi.}
+{151}{}{Wygl¹da na skrajnie zmêczonego i rozdra¿nionego.}
+{152}{}{Widzisz zmêczon¹ kobietê. Zagl¹da do notatnika i rozgl¹da siê wokó³, zupe³nie jakby o czymœ zapomnia³a.}
+{153}{}{Mrucz¹c do siebie nape³nia strzykawkê.}
+
+# FLOAT
+# (COMPANION = MYRON)
+{154}{}{Witam pana, panie Myronie.}
+{155}{}{Myronie... proszê pana, mo¿emy chwilkê porozmawiaæ...?}
+{156}{}{Czy s¹ jakieœ wieœci o tym, kiedy dostarcz¹ nam nowych niewolników?}
+{157}{}{Myronie... proszê pana, ostatnie wyniki s¹ bardzo obiecuj¹ce...}
+{158}{}{Myron? Czy mogê zaj¹æ panu jedn¹ minutkê?}
+# (NORMAL)
+{159}{}{Gdzie u diab³a jest Myron...}
+{160}{}{Dajcie tu na górê Myrona. Musi to zobaczyæ.}
+{161}{}{Szkoda, ¿e ci niewolnicy nie chc¹ siê zamkn¹æ...}
+{162}{}{Gdzie jest ta strzykawka...}
+{163}{}{Czy ktoœ widzia³ Obiekt 31? By³ tu jeszcze przed chwil¹.}
+{164}{}{Ka¿cie niewolnikom przynieœæ wiêcej Jetu Beta.}
+{165}{}{Wyniki testów Jetu Beta s¹ bardzo obiecuj¹ce, ale...}
+{166}{}{"Haj" trwa od 15 minut do godziny... przyjmijmy odstêp jednej dawki na godzinê... hmmmmnnn.}
+{167}{}{Obiektowi 12 wci¹¿ leci krew z p³uc...}
+{168}{}{Obiekt 12 prze¿y³ ju¿ piêæ ataków... no to jeszcze jedna dawka, zobaczymy co siê stanie...}
+{169}{}{A wiêc jakiego RODZAJU to by³y halucynacje?}
+{170}{}{SprawdŸ têtno tego tutaj. Jeœli siê jeszcze mieœci w granicach tolerancji, zwiêksz dawkê.}
+{171}{}{Dlaczego niewolnica z grupy kontrolnej zabi³a sama siebie? Nawet nie robiliœmy na niej testów!}
+
+# CLICK
+# (COMPANION = MYRON)
+{200}{}{Testy przebiegaj¹ zgodnie z harmonogramem, panie Myronie.}
+{201}{}{Proszê pana, ta nowa odmiana Jetu uzale¿nia wyj¹tkowo silnie. Niewolnicy s¹ niemal gotowi nawzajem siê dla niej pozabijaæ.}
+{202}{}{Jet jest tak potê¿ny, ¿e niewolnicy wol¹ go od jedzenia.}
+{203}{}{Myronie, kim s¹ ci ludzie? To nowe obiekty?}
+{204}{}{Panie Myronie, trzecia grupa testowa ma ze wszystkich grup najlepsze wyniki.}
+{205}{}{Panie Myronie, myœlê, ¿e w nastêpnej grupie testowej powinno znaleŸæ siê przynajmniej troje dzieci.}
+{206}{}{Panie Myronie, Obiekt 46 mia³ atak serca. Ograniczymy dzienn¹ liczbê dawek do szeœciu dziennie.}
+{207}{}{Myron? Bêdziemy nied³ugo potrzebowaæ nowej dostawy strzykawek z Kryptopolis. Nie mo¿emy ci¹gle u¿ywaæ tych samych.}
+{208}{}{Myron, w koñcu! Proszê pana, czy s¹ jakieœ wieœci o nowej dostawie niewolników?}
+{209}{}{Panie Myronie, przesunêliœmy troje niewolników z grupy kontrolnej do grupy testowej ze wzglêdu na te samoistne uduszenia, które mieliœmy w zesz³ym tygodniu.}
+{210}{}{Panie Myronie... musieliœmy zastrzeliæ jednego niewolnika za próbê ucieczki. Szkoda, ¿e siê zmarnowa³.}
+{211}{}{Myronie... ten nowy, œrednio mocny halucynogen, który opracowa³eœ, wygl¹da obiecuj¹co, ale nie uzale¿nia tak silnie jak Jet...}
+# NORMAL
+{212}{}{Jeœli masz jakieœ propozycje, spisz je na kartkê, a potem wrzuc prosto do tamtego kosza na œmieci.}
+{213}{}{Tak, co takiego?}
+{214}{}{Nie uzyskamy ¿adnych wyników, jeœli bêdziesz nam przeszkadzaæ.}
+{215}{}{Widzê, ¿e nied³ugo zaczn¹ tu oprowadzaæ wycieczki...}
+{216}{}{Czego chcesz?}
+{217}{}{Proszê wybaczyæ, ale *ja* mam robotê do zrobienia.}
+{218}{}{Jeœli masz jakieœ pytania, to gadaj ze stra¿nikami, a nie ze mn¹.}
+{219}{}{Tak, z pewnoœci¹ te twoje sprawy s¹ *najwy¿szej* wagi, ale ja mam swoje w³asne obowi¹zki.}
+{220}{}{Czy wolno ci tu przebywaæ?}
+{221}{}{Kto ciê tu wpuœci³?}
+{222}{}{Jak siê Myron dowie, ¿e siê obcy krêcili po laboratorium...}
+{223}{}{Masz w koñcu te wyniki, o które pro... och, przepraszam. Wydawa³o mi siê, ¿e to laborant.}
+{224}{}{Wybacz, mam za du¿o zajêæ, ¿eby teraz rozmawiaæ.}
+{225}{}{Bêdziemy nied³ugo potrzebowaæ nowej dostawy niewolników... tym tutaj zaczyna brakowaæ pary.}

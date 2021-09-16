@@ -1,5 +1,5 @@
-{100}{}{Widzisz Jordana, jak zwykle wywijaj¹cego w³óczni¹.}
-{101}{}{Widzisz Jordana, jak zwykle wywijaj¹cego w³óczni¹.}
+{100}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
+{101}{}{Widzisz Jordana, który jak zwykle wywija w³óczni¹.}
 {102}{}{Powodzenia! Ca³a wioska liczy na ciebie.}
 {103}{}{Dziecko Przeznaczenia, je¿eli nie nauczysz siê obchodziæ lepiej z w³óczni¹, skoñczysz jako kolacja dla gekonów. Mogê pokazaæ ci parê sztuczek.}
 {104}{}{Jasne.}

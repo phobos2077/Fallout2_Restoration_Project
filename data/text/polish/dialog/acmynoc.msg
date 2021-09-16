@@ -1,5 +1,33 @@
+#############################################################
+#  Message File: ACMynoc.msg                                #
+#                                                           #
+#       Body Type:  NMPRIM                                  #
+#       Combat AI: Berzerker                                #
+#       Weapons: Sledgehammer[in hand]                      #
+#       HP: 75                                              #
+#       Skills to note: 80% Throwing                        #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+
 {100}{}{Widzisz stra¿nika mostu.}
 {101}{}{Widzisz Mynoca, stra¿nika mostu.}
+
+#############################################################
+#  The following lines are for the dialog which the NPC     #
+#  says. This will be disorganized because of the Design    #
+#  Tool.                                                    #
+#############################################################
+
 {150}{}{Przed tob¹ stoi wielki wojownik z twojej wioski, trzymaj¹cy w³ócznie.}
 {151}{}{[ROZMAWIAJ]}
 {152}{}{Witaj, Dziecko Przeznaczenia. Wyruszasz, by odnaleŸæ GECK?}
@@ -11,13 +39,13 @@
 {158}{}{Co chcesz wiedzieæ?}
 {159}{}{Co mo¿esz mi powiedzieæ o ludziach, którzy handluj¹ z nasz¹ wiosk¹?}
 {160}{}{Co mo¿esz mi powiedzieæ o tym przedmiocie, który pochodzi z Krypty?}
-{161}{}{Niewa¿ne. Nie zawracaj sobie g³owy.}
+{161}{}{Nic, niewa¿ne.}
 {162}{}{Dobrze, lecz nie marnuj zbyt wiele czasu. Bez GECKa jesteœmy zgubieni.}
 {163}{}{Wiem, nie martw siê - wszystko jest pod kontrol¹.}
-{164}{}{Czemu?}
+{164}{}{Dlaczego?}
 {165}{}{Muszê iœæ. Do widzenia.}
 {166}{}{Handlarze? Przyje¿d¿aj¹ z Klamath co dwa miesi¹ce. Wprawdzie ¿aden z nich nie przyjedzie tu przez miesi¹c albo i d³u¿ej, ale Klamath jest tylko kilka dni drogi st¹d.}
-{167}{}{Dziêkujê ci. Do widzenia.}
+{167}{}{Dziêkujê. Do widzenia.}
 {168}{}{Co mo¿esz mi powiedzieæ o tym przedmiocie, który mam ze Œwiêtej Krypty?}
 {169}{}{Wygl¹da jak metalowa manierka. Mo¿e zosta³a tu przys³ana z Krypty jako znak.}
 {170}{}{Mo¿esz mi powiedzieæ, kto przyniós³ ten przedmiot do naszej wioski?}
@@ -44,7 +72,7 @@
 {191}{}{Nie wydaje mi siê, ¿eby to by³a twoja sprawa, przyjacielu.}
 {192}{}{Nie? Dziecko, troje starców zmar³o, odk¹d twa wyprawa siê zaczê³a. Nie marnuj wiêcej czasu.}
 {193}{}{Znajdê go, nie martw siê.}
-{194}{}{Mam doœæ twojego ci¹g³ego zrzêdzenia.}
+{194}{}{Robi mi siê niedobrze od twego nieustannego zrzêdzenia.}
 {195}{}{Dlaczego wiêc rozmawiasz ze mn¹? Porozmawiaj z nimi i przynieœ nam GECK.}
 {196}{}{Zrobiê to - wszystko w swoim czasie, przyjacielu.}
 {197}{}{Mam doœæ twojego ci¹g³ego zrzêdzenia.}
@@ -52,7 +80,7 @@
 {199}{}{Wiem, gdzie jest Krypta!}
 {200}{}{Nie uda³o mi siê odnaleŸæ Krypty 13.}
 {201}{}{No popatrz, to¿ to Dziecko Przeznaczenia.}
-{202}{}{Czeœæ.}
+{202}{}{Witaj.}
 {203}{}{Zamknij siê.}
 {204}{}{Czy mogê ci zadaæ pytanie?}
 {205}{}{Nie, nie mam dla ciebie czasu.}
@@ -66,6 +94,7 @@
 {213}{}{Twoja zdrada zgubi nasz lud.}
 {214}{}{Dlaczego to robisz?}
 {215}{}{Starsza siê myli³a. Widzê z³o w twoich oczach.}
+
 {300}{}{Ojciec nauczy³ mnie, jak uczyniæ ostrze silniejszym. Daj mi kawa³ek krzemienia, a naostrzê równie¿ twoj¹ w³óczniê. Przyda ci siê na Pustkowiach.}
 {301}{}{Gdzie mogê znaleŸæ krzemieñ?}
 {302}{}{Podobno twoja ciotka Morlis ma kawa³ek. Jest tak wredna, ¿e nie s¹dzê, aby ktoœ j¹ o to pyta³. Oczywiœcie wiedŸma bêdzie chcia³a czegoœ w zamian.}
@@ -74,13 +103,15 @@
 {305}{}{Tak, mam tu kawa³ek.}
 {306}{}{Jeszcze nie.}
 {307}{}{Powinien siê nadaæ. Daj mi swoj¹ w³óczniê.}
-{308}{}{Proszê.}
+{308}{}{Proszê bardzo.}
 {309}{}{Nie mam w³óczni.}
 {310}{}{Robi siê to tak...}
 {311}{}{Dziecko Przeznaczenia bez w³óczni? Có¿, bêdê musia³ daæ ci jedn¹ ze swoich. A teraz do dzie³a...}
 {312}{}{Oto twoja nowa w³ócznia.}
 {313}{}{Dziêki, przyjacielu - ta w³ócznia bardzo mi siê przyda.}
 {314}{}{Tak, ale zastanawia mnie twoja w³ócznia. Wygl¹da trochê nietypowo.}
+
+# added in for time limit
 {400}{}{Witaj w domu, Dziecko! Uda³o ci siê odnaleŸæ Kryptê? Masz GECK?}
 {401}{}{Moja nie go ma.}
 {402}{}{Nie, jeszcze go nie mam.}
@@ -95,8 +126,8 @@
 {411}{}{Rozumiem.}
 {412}{}{Jesteœ nasz¹ nadziej¹, Dziecko Przeznaczenia. Proszê, nie zawiedŸ nas!}
 {413}{}{Dobrze ciê widzieæ, Dziecko Przeznaczenia. Jak ci siê powodzi w twojej wyprawie?}
-{414}{}{Ja jeszcze szukaæ.}
-{415}{}{Wci¹¿ szukam.}
+{414}{}{Moja ci¹gle szukaæ.}
+{415}{}{Ci¹gle szukam.}
 {416}{}{Nie chcê o tym rozmawiaæ.}
 {417}{}{Musisz siê œpieszyæ. W wiosce sprawy id¹ coraz gorzej. Wkrótce zacznie brakowaæ jedzenia. Starsza mówi o racjonowaniu tego, co nam jeszcze zosta³o. Bojê siê o przysz³oœæ Arroyo.}
 {418}{}{Dziecko! Proszê, powiedz, ¿e twoje zadanie spe³nione. Nasza wioska umiera, a z ni¹ - nasz lud. }
@@ -112,7 +143,40 @@
 {428}{}{Przykro mi, wci¹¿ nie wiem, gdzie jest GECK.}
 {429}{}{Mam tego doœæ.}
 {430}{}{Ludzie umieraj¹, a ty siê spokojnie przechadzasz. Mo¿e lepiej bêdzie jak poszukasz gdzieœ indziej zamiast ci¹gle wracaæ tutaj.}
+
 {500}{}{Czy Starsza rozmawia³a ju¿ z tob¹?}
+
+
+#############################################################
+#  TELL - ME - ABOUTS                                       #
+#############################################################
+{1000}{}{Starsza}
+{1001}{}{Za³o¿yciel}
+{1002}{}{Przybysz z Krypty}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Krypta}
+{1006}{}{Dziecko Przeznaczenia}
+{1007}{}{Szaman}
+{1008}{}{Hakunin}
+{1009}{}{Proszek Leczniczy}
+{1010}{}{Most}
+{1011}{}{Mynoc}
+
+{1100}{}{Starsza jest nasz¹ matk¹ i przywódczyni¹.}
+{1101}{}{To nasz wielki przodek, który da³ nam wiedzê.}
+{1102}{}{Pierwszy, który walczy³ i zwyciê¿y³ chaos.}
+{1103}{}{To jest nasza piêkna wioska.}
+{1104}{}{To miasto handlowe le¿¹ce kilka dni na wschód st¹d.}
+{1105}{}{Krypta jest rajem.}
+{1106}{}{Ty jesteœ Dzieckiem Przeznaczenia.}
+{1107}{}{On leczy nas swoimi zio³ami i magi¹. Mieszka w pó³nocnej czêœci naszej wioski.}
+{1108}{}{On leczy nas swoimi zio³ami i magia. Mieszka w pó³nocnej czêœci naszej wioski.}
+{1109}{}{To magiczny proszek, który ciê uleczy, ale spowoduje sennoœæ.}
+{1110}{}{Wielki Most stanowi wyjœcie z naszej wioski od po³udnia.}
+{1111}{}{To ja.}
+
+#added by killap - expansion
 {600}{}{Jakieœ ostatnie rady zanim wyruszê w nieznane?}
 {601}{}{Oczywiœcie. Uwa¿aj na broñ ludzi z zewn¹trz. Ugryzienie geckona jest niczym w porównaniu do niszczycielskiej mocy ich ognistych lasek.}
 {602}{}{Dobra. Coœ jeszcze?}
@@ -148,37 +212,16 @@
 {631}{}{Pos³uchaj i zrozum. Ten-Którego-Imienia-Nie-Wypowiadamy jest gdzieœ tam i czeka. Nie bêdzie negocjowa³. Nie bêdzie z tob¹ rozmawia³. Nie bêdzie mia³ wyrzutów sumienia, nie bêdzie czu³ litoœci ni strachu. I na pewno nie przestanie ciê œcigaæ, nigdy, dopóki nie zginiesz.}
 {632}{}{Eeekstra, dziêki. Do zobaczenia.}
 {633}{}{Bêdê o tym pamiêtaæ. Trzymaj siê, Mynoc.}
+
 {640}{}{Hej, móg³byœ mi powiedzieæ coœ o tym Kadze?}
 {641}{}{[Otwiera szeroko oczy i rozgl¹da siê nerwowo jakby spodziewaj¹c siê pora¿enia piorunem z nieba.] Czy pustkowia pozbawia³y ciê rozumu?! Przecie¿ wiesz, ¿e imiê wygnanego jest zakazane! Mo¿na o nim mówiæ tylko Ten-Którego-Imienia-Nie-Wypowiadamy.
  Nasza wioska ju¿ wystarczaj¹co cierpi bez œci¹gania na nas jeszcze gniewu Bogów. [Nerwowo spogl¹da na niebo.]}
 {642}{}{Przepraszam za to, Mynoc. Ale czy móg³byœ mi opowiedzieæ o Ka... yyy znaczy, "Tym-Którego"? Naprawdê lubiê tê historiê.}
 {643}{}{Wiesz co, ju¿ prawie uda³o mi siê zapomnieæ jak g³upio przes¹dni potraficie byæ. Do zobaczenia.}
+
 {650}{}{Ju¿ siê spotkaliœmy i gdyby mia³o siê to powtórzyæ wiem, ¿e sobie poradzê.}
 {651}{}{W³aœciwie, to on ju¿ nie ¿yje. Jego cia³o gnije na pustkowiu.}
 {660}{}{[Mynoc z przygnêbieniem kiwa g³ow¹.] Mo¿e i zboczy³ daleko od œcie¿ki, ale kiedyœ by³ wielkim i szanowanym wojownikiem. Mam nadzieje, ¿e jego udrêczona dusza znalaz³a spokój na tamtym œwiecie.}
+
 {661}{}{W rzeczy samej. Do zobaczenia, Mynoc.}
 {662}{}{Wszystko jedno. Mi wygl¹da³ na dupka. Do zobaczenia, Mynoc.}
-{1000}{}{Starsza}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
-{1003}{}{Arroyo}
-{1004}{}{Klamath}
-{1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
-{1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
-{1011}{}{Mynoc}
-{1100}{}{Starsza jest twoj¹ matk¹ i nasz¹ przewodniczk¹.}
-{1101}{}{Nasz wielki przodek, który da³ nam œwiadomoœæ.}
-{1102}{}{Pierwszy do walki i zwyciêstwa nad chaosem.}
-{1103}{}{To moglaby byæ nasza piekna osada.}
-{1104}{}{To miasto handlowe le¿¹ce kilka dni na wschód st¹d.}
-{1105}{}{Krypta jest niebem.}
-{1106}{}{Ty jesteœ Wybrañcem.}
-{1107}{}{On leczy nas swoimi zio³ami i magi¹. Mieszka w pó³nocnej czêœci naszej wioski.}
-{1108}{}{On leczy nas swoimi zio³ami i magia. Mieszka w pó³nocnej czêœci naszej wioski.}
-{1109}{}{To magiczny proszek, który ciê uleczy, ale spowoduje sennoœæ.}
-{1110}{}{Great Bridge wychodzi z naszej osady na poludnie.}
-{1111}{}{To ja.}

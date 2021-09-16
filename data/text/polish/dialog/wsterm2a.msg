@@ -1,5 +1,5 @@
-{100}{}{Terminal komputerowy.}
-{101}{}{Oszczêdzacz ekranu jest w³¹czony.}
+{100}{}{Widzisz terminal komputerowy.}
+{101}{}{Wygaszacz ekranu jest w³¹czony.}
 {103}{}{System Bezpieczeñstwa Skynet.                                    
  Intruz na Poziomie 2.                                                
  Uruchamianie Œrodków Zapobiegawczych na Poziomie 2         
@@ -14,7 +14,7 @@
  Uruchamianie Œrodków Zapobiegawczych na Poziomie 2}
 {106}{}{Alarm na Poziomie 2 odwo³any - Fa³szywy alarm.}
 {107}{}{[Dostrzegasz na klawiaturze klawisz z napisem "Pomoc".] Wciœnij klawisz.}
-{108}{}{W³am siê do systemu ochrony.}
+{108}{}{W³am siê do systemu bezpieczeñstwa.}
 {109}{}{Spróbuj wy³¹czyæ alarm.}
 {110}{}{WyjdŸ.}
 {111}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê.]}
@@ -22,6 +22,31 @@
 {114}{}{Skaner Siatkówki Uruchomiony                                     
  Skanowanie...                                                          
  Przeszukiwanie Bazy Danych}
+
+{300}{}{                                       
+ To¿samoœæ Potwierdzona: }
+{301}{}{                       
+ Ostatnie Wejœcie: }
+
+{303}{}{Kapral Dixon    }
+{304}{}{Genera³ Clifton}
+{305}{}{5 sierpnia 2077}
+{306}{}{ dni temu.}
+
+{307}{}{                                       
+ Uwaga! Wykryto Intruza na Poziomie }
+
+{308}{}{                                       
+ Uwaga! Wykryto Intruza na Poziomach: }
+#no security breach - spaces to align text
+{310}{}{
+                                      }
+#security breach, only one level - spaces to align text
+{309}{}{
+                                      }
+#security breach, multiple levels - spaces to align text
+{311}{}{
+                                      }
 {115}{}{W³¹cz System Alarmowy na Poziomie 2}
 {116}{}{W³¹cz program auto-diagnostyczny.}
 {117}{}{WyjdŸ.}
@@ -36,7 +61,7 @@
 {127}{}{Analizowanie Polecenia Proszê Czekaæ...                            
  Polecenie U¿ytkownika Uniewa¿nione                              
  Dostêp Zabroniony}
-{128}{}{[Dalej]}
+{128}{}{[Dalej.]}
 {129}{}{Aby Wy³¹czyæ Alarm Wciœnij - 1                                      
  Aby Uruchomiæ Program Diagnostyczny Wciœnij - 2             
  Aby Wyjœæ Wciœnij - 3}
@@ -70,22 +95,4 @@
  Dostêp do tego Terminala zosta³ Zakoñczony.}
 {145}{}{WyjdŸ.}
 {146}{}{Zamykanie Programu Diagnostycznego.}
-{147}{}{[Dalej]}
-{300}{}{                                       
- To¿samoœæ Potwierdzona: }
-{301}{}{                       
- Ostatnie Wejœcie: }
-{303}{}{Kapral Dixon    }
-{304}{}{Genera³ Clifton}
-{305}{}{5 sierpnia 2077}
-{306}{}{ dni temu.}
-{307}{}{                                       
- Uwaga! Wykryto Intruza na Poziomie }
-{308}{}{                                       
- Uwaga! Wykryto Intruza na Poziomach: }
-{309}{}{
-                                      }
-{310}{}{
-                                      }
-{311}{}{
-                                      }
+{147}{}{[Dalej.]}

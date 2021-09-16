@@ -1,8 +1,8 @@
-{100}{}{Widzisz mê¿czyznê w stalowej zbroi.}
+{100}{}{Widzisz mê¿czyznê w metalowej zbroi.}
 {101}{}{Przed tob¹ stoi Matthew.}
-{102}{}{Widzisz mê¿czyznê w stalowej zbroi z symbolem b³yskawicy.}
+{102}{}{Widzisz mê¿czyznê w metalowej zbroi z insygniami b³yskawicy.}
 {103}{}{Witaj,}
-{104}{}{. Co mogê dla ciebie zrobiæ?}
+{104}{}{. Jak mogê ci pomóc?}
 {105}{}{Ty odpowiadaæ pytania?}
 {106}{}{Nic. Ja wróciæ póŸniej.}
 {107}{}{Na pocz¹tek odpowiadaj¹c na kilka pytañ.}
@@ -12,7 +12,7 @@
 {111}{}{Kto wy byæ?}
 {112}{}{Czemu nikt nie mówiæ o wy?}
 {113}{}{Czemu tylko jeden tutaj?}
-{114}{}{Moja ju¿ iœæ.}
+{114}{}{Ja iœæ teraz.}
 {115}{}{Kim jesteœcie?}
 {116}{}{Dlaczego nikt wokó³ nie wspomina o was?}
 {117}{}{Dlaczego macie tu tylko jednego cz³owieka?}
@@ -38,18 +38,18 @@
 {137}{}{. Bractwo Stali nie jest ju¿ tak¹ potêg¹, jak¹ by³o kiedyœ. Myœleliœmy, ¿e jesteœmy jedynym Ÿród³em techniki, jakie pozosta³o dla ludzkoœci. Bezpieczni w tym twierdzeniu pozwoliliœmy w ci¹gu lat odrzuciæ wiele z naszych zasad. Teraz nie mamy do naszej dyspozycji wystarczaj¹cej iloœci zasobów, aby za³atwiæ sprawê Enklawy. Potrzebujemy twojej pomocy.}
 {138}{}{Jestem gotowy z³o¿yæ ci propozycjê. Wykonaj dla mnie tê misjê, a udostêpniê ci nasz tutejszy obiekt. Najlepsza z technologii Bractwa bêdzie sta³a otworem przed tob¹ i tylko tob¹. A wiêc?}
 {139}{}{Ja zastanowiæ siê.}
-{140}{}{Nie. Ja iœæ.}
-{141}{}{Cholera. Zrobiæ to.}
-{142}{}{Pomyœlê o tym.}
+{140}{}{Ni. Ja iœæ.}
+{141}{}{Cholera. Zgadzaæ siê.}
+{142}{}{Zastanowiê siê nad tym.}
 {143}{}{Nigdy w ¿yciu. ZnajdŸ sobie innego naiwnego.}
 {144}{}{Do diab³a. Chyba mam nie po kolei w g³owie, ale zgadzam siê.}
 {145}{}{Rozs¹dnie. Wróæ, gdy podejmiesz decyzje.}
-{146}{}{Dobra. Pa.}
+{146}{}{OK. Pa pa.}
 {147}{}{OK, ale ja pytaæ wiêcej.}
 {148}{}{W porz¹dku. Na razie.}
 {149}{}{W porz¹dku, ale chcê ci zadaæ jeszcze kilka pytañ.}
 {150}{}{Rozumiem twoje wahanie przy przyjmowaniu takiej misji. Daj mi znaæ, gdy zmienisz zdanie.}
-{151}{}{Dobra. Pa.}
+{151}{}{OK. Pa pa.}
 {152}{}{OK, ale ja pytaæ wiêcej.}
 {153}{}{W porz¹dku. Na razie.}
 {154}{}{W porz¹dku, ale chcê ci zadaæ jeszcze kilka pytañ.}
@@ -60,7 +60,7 @@
 {159}{}{W porz¹dku. Zajmê siê tym.}
 {160}{}{Po udanym zakoñczeniu twojej misji zapewniê ci dostêp do tego obiektu. Chyba najlepiej bêdzie, je¿eli zaczniesz natychmiast. Dziêkujê,}
 {161}{}{.}
-{162}{}{Dobra. Pa.}
+{162}{}{OK. Pa pa.}
 {163}{}{OK, ale ja pytaæ wiêcej.}
 {164}{}{W porz¹dku. Na razie.}
 {165}{}{W porz¹dku, ale chcê ci zadaæ jeszcze kilka pytañ.}
@@ -68,7 +68,7 @@
 {167}{}{Rozumieæ...}
 {168}{}{Tak, chyba rozumiem co masz na myœli.}
 {169}{}{Zbyt wielu ludzi w jednym miejscu mo¿e zwróciæ uwagê. Jeden cz³owiek w zaludnionym mieœcie jest mniej zauwa¿alny.}
-{170}{}{Dobra.}
+{170}{}{OK.}
 {171}{}{Witam ponownie. Czy mogê ci w czymœ pomóc?}
 {172}{}{Nie, chcê siê tylko przywitaæ.}
 {173}{}{Tak. Ty odpowiadaæ pytanie?}
@@ -82,36 +82,37 @@
 {181}{}{Witam. Czy zmienisz zdanie co do mojej oferty?}
 {182}{}{Nie.}
 {183}{}{Tak. Ja braæ.}
-{184}{}{Nie, nie mam.}
+{184}{}{Nie, nie zmieniê.}
 {185}{}{Tak, podejmê siê tego wyzwania.}
 {186}{}{Czy misja zakoñczy³a siê sukcesem?}
 {187}{}{Nie, ja pracowaæ dalej tam.}
 {188}{}{Zdobyæ plany.}
-{189}{}{Nie, ci¹gle nad tym pracujê.}
+{189}{}{Nie, wci¹¿ nad tym pracujê.}
 {190}{}{Mam dla ciebie plany lataczy.}
 {191}{}{Có¿, pracuj nad tym dalej. Wiem, ¿e to trudna misja, ale myœlê, ¿e sobie poradzisz.}
-{192}{}{Dobra.}
+{192}{}{OK.}
 {193}{}{Doskona³a robota! Poproszê plany, zrobiê dla ciebie kopiê. Jak obieca³em, masz pe³ny dostêp do naszych obiektów. Dziêkujê.}
-{194}{}{Niezamaco.}
+{194}{}{Nie za ma co.}
 {195}{}{Nie ma za co.}
 {196}{}{Navarro jest stosunkowo nowa i wci¹¿ nie w pe³ni obsadzona. Moje Ÿród³a donosz¹, ¿e od czasu do czasu przybywaj¹ tam nowi rekruci. Spróbuj mo¿e podszyæ siê pod nowego ¿o³nierza. Doradza³bym to.}
 {197}{}{Navarro jest stosunkowo nowa i wci¹¿ nie w pe³ni obsadzona. Moje Ÿród³a donosz¹, ¿e od czasu do czasu przybywaj¹ tam nowi rekruci. Spróbuj mo¿e w pojedynkê podszyæ siê pod nowego ¿o³nierza. Doradza³bym to. Mo¿esz tu zostawiæ swoich przyjació³.}
-{198}{}{Dobra.}
+{198}{}{OK.}
 {199}{}{Mówiæ "Ÿród³a". Jakie byæ?}
-{200}{}{No dobra.}
+{200}{}{W porz¹dku.}
 {201}{}{Wspomnia³eœ o swoich "Ÿród³ach". Kto to jest?}
 {202}{}{Wys³a³em tam agentkê, aby zrobi³a rozpoznanie bazy. Jej raporty zosta³y nagle przerwane. Obawiam siê najgorszego. Dzia³aj z rozwag¹,}
 {203}{}{. Nie przepadam za wysy³aniem ludzi na œmieræ.}
 {204}{}{Ja byæ ostro¿ne, dziêki.}
 {205}{}{Bêdê uwa¿aæ. Dziêkujê.}
 {206}{}{Jeszcze raz dziêkujê za pomoc. Masz teraz pe³ny dostêp do naszych obiektów.}
-{207}{}{Do pomieszczenie zamkniête.}
-{208}{}{Nic tam po tobie.}
-{209}{}{To teren prywatny. Lepiej st¹d idŸ.}
+{207}{}{To prywatne biuro.}
+{208}{}{Nic tam dla ciebie nie ma.}
+{209}{}{To w³asnoœæ prywatna, odsuñ siê.}
 {210}{}{Sk¹d wiesz kim jestem?}
 {211}{}{Jak znaæ moja?}
 {212}{}{Wiemy o wielu rzeczach.}
 {213}{}{Po udanym zakoñczeniu misji przygotujê dla ciebie tankowiec i udostêpniê ci nasze obiekty. Teraz idŸ j¹ wykonaæ. Dziêkujê.}
+#161
 {214}{}{Nie za ma co.}
 {215}{}{Doskona³a robota! Poproszê plany, zrobiê dla ciebie kopiê. Jak obieca³em, dopilnujê, aby tankowiec by³ gotowy do wyruszenia na platformê wiertnicz¹ - po prostu dostañ siê do komputera na górnym pok³adzie i naciœnij przycisk start. Masz równie¿ pe³ny dostêp do naszych obiektów. Dziêkujê.}
 {216}{}{Nie ma za co!}

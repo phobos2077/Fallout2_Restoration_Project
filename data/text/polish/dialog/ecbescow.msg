@@ -1,1 +1,1 @@
-{100}{}{It looks like it died of dehydration.}
+{100}{}{Wygl¹da to ewidentnie na œmieræ wskutek odwodnienia.}

@@ -1,16 +1,18 @@
-{100}{}{You see... Sheb.}
-{150}{}{You see a scrawny man in bright blue clothes. As if his clothes weren't loud enough, he is also bellowing at the top of his lungs.}
-{200}{}{Booty, booty, boo-tay!}
-{201}{}{Come on in, booty lovers!}
-{202}{}{Here at the Cat's Paw we're slashing prices in half!}
-{203}{}{Give us an offer on our prime selection of booty! It's a booty blowout!}
-{204}{}{We got white booty, black booty, southern booty, northern booty...}
-{205}{}{We got hot booty, cold booty, we got fresh booty, we got...::snfff::...*smelly* booty...}
-{206}{}{We got tribal booty, we got mutant booty, radscorpion booty, robot booty.}
-{207}{}{We even got brahmin booty, ghoul booty, deathclaw booty.}
-{208}{}{Come on, you want booty? Come on in, booty lovers!}
-{209}{}{If we don't got it, you don't want it! Come on in, booty lovers!}
-{210}{}{Attention booty shoppers! Take advantage of this booty sale!}
-{211}{}{Buy one piece of booty at the regular price, n' you'll get another piece of booty of equal or lesser value for only a chip!}
-{212}{}{Try and beat booty for a chip!}
-{213}{}{If you can find cheaper booty anywhere... PUMP IT!}
+{100}{}{Widzisz... Sheba.}
+
+{150}{}{Widzisz mizernego me¿czyznê w jasnoniebieskim ubraniu. Zupe³nie jakby jego ubrania nie robi³y wystarczaj¹co du¿o ha³asu, s³ychaæ te¿ ryk znad jego p³uc.}
+
+{200}{}{Towary, towary, tow-ary!}
+{201}{}{No chodŸcie tu mi³oœnicy towarów!}
+{202}{}{Tu w Kociej £apce rozcinamy ceny na pó³!}
+{203}{}{Zainteresuj siê nasz¹ pierwszorzêdn¹ kolekcj¹ towarów! Prawdziwa towarowa orgia!}
+{204}{}{Mamy bia³e towary, czarne towary, po³udniowe towary, pó³nocne towary...}
+{205}{}{Mamy gor¹ce towary, mamy zimne towary, mamy œwie¿e towary, mamy... (poci¹ga nosem) ...*œmierdz¹ce* towary...}
+{206}{}{Mamy towary z wiosek, mamy zmutowane towary, towary radskorpionów, towary szponów œmierci.}
+{207}{}{Mamy nawet towary braminów, towary ghuli, towary szponów œmierci.}
+{208}{}{ChodŸ tu, pragniesz towarów? ChodŸcie tutaj, mi³oœnicy towarów!}
+{209}{}{Jeœli tego nie mamy, ty tego nie chcesz! ChodŸcie tu, mi³oœnicy towarów!}
+{210}{}{Uwaga kupuj¹cy towary! Skorzystajcie z tej wyprzeda¿y towarów!}
+{211}{}{Kup jedn¹ sztukê towaru po zwyk³ej cenie, a dostaniesz kolejn¹ sztukê towaru tej samej lub mniejszej wartoœci tylko za jednego dolara!}
+{212}{}{Spróbuj zgarn¹æ towar za dolara!}
+{213}{}{Jeœli gdziekolwiek znajdziesz tañszy towar... PRZELEÆ GO!}

@@ -1,2 +1,2 @@
-{100}{}{These bodies appear to be fake -- nothing but dummies, covered in brahmin innards.}
-{101}{}{Something doesn't look right.}
+{100}{}{Te cia³a wygl¹daj¹ na sztuczne - to po prostu kuk³y, obleczone w braminie wnêtrznoœci.}
+{101}{}{Coœ tu nie gra.}

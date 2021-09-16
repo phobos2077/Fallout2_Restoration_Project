@@ -1,7 +1,7 @@
 {100}{}{Wentylator dostarczaj¹cy oczyszczone, wzbogacone powietrze do ca³ej Krypty. S³yszysz cichy stukot dochodz¹cy ze œrodka.}
 {101}{}{Widzisz wentylator. }
 {102}{}{Wentylator dostarczaj¹cy oczyszczone, wzbogacone powietrze do ca³ej Krypty. S³yszysz cichy stukot dochodz¹cy ze œrodka.}
-{103}{}{Wentylator dostarczaj¹cy oczyszczone, wzbogacone powietrze do ca³ej Krypty.}
+{103}{}{Wentylator dostarczaj¹cy powietrze do ca³ej Krypty.}
 {104}{}{Widzisz wentylator. }
 {105}{}{Wentylator dostarczaj¹cy oczyszczone, wzbogacone powietrze do ca³ej Krypty.}
 {106}{}{::Stuk::}

@@ -1,85 +1,115 @@
-{100}{}{You see Buffy, a member of the Unwashed Villagers.}
-{101}{}{You see Doombot, a member of the Unwashed Villagers.}
-{102}{}{You see Panoply, a member of the Unwashed Villagers.}
-{103}{}{You see Lerk, a member of the Unwashed Villagers.}
-{104}{}{You see Ymir, a member of the Unwashed Villagers.}
-{105}{}{You see Iguana Eater, a member of the Unwashed Villagers.}
-{106}{}{You see Night Owl, a member of the Unwashed Villagers.}
-{107}{}{You see Shadow Dancer, a member of the Unwashed Villagers.}
-{108}{}{You see Amish Commando, a member of the Unwashed Villagers.}
-{109}{}{You see Alexand the Killer Bee, a member of the Unwashed Villagers.}
-{110}{}{You see Hatchetman, a member of the Unwashed Villagers.}
-{111}{}{You see BlueCross, a member of the Unwashed Villagers.}
-{113}{}{You see Buffy, a very beautiful, intelligent and perky cheerleader. First Woman of the Unwashed Villagers.}
-{114}{}{You see Doombot, Sound Goddess and sister to Buffy. She kinda looks like Marie Osmond.}
-{115}{}{You see Panoply, a pixie-like girl, whose eyes betray a slight case of dementia.}
-{116}{}{You see Lerk, Leader of The Unwashed SWAT Team - Artist Of The Unwashed Villagers - Tree Talker.}
-{117}{}{You see Ymir, the down under Poet & Co-Founding Member of the Poetry Bastards - Village Educator.}
-{118}{}{You see Iguana Eater, High Lord of Smeet Lite.}
-{119}{}{You see Night Owl, He Who Watches Over The Sleeping - Co-founder Of the Poetry Bastards.}
-{120}{}{You see Shadow Dancer, Gothic Poetry Bastard - Oddly, he looks a lot like Kevin Bacon.}
-{121}{}{You see Amish Commando, Commissar Of Blunt Force Trauma, Sub-commander Of The Unwashed SWAT Team.}
-{122}{}{You see Alexand the Killer Bee, a gentle and intelligent variety of killer bee - Head Scribe Of The Unwashed Villagers.}
-{123}{}{You see Hatchetman, Gunsmith of the Unwashed - Starter of fires - Keeper of the Shadowrun lore.}
-{124}{}{You see BlueCross, Low Priest of the Unwashed - Manufacturing Director.}
-{200}{}{Unwashed Villagers save the day, once again!}
-{201}{}{Death is too good for him.}
-{202}{}{And stay dead!}
-{203}{}{The village is safe, once again!}
-{204}{}{We protect the innocent and keep the peace.}
-{205}{}{And we're off to patrol the wastes. Keeping it save from spammers.}
-{206}{}{Come join us sometime!}
-{207}{}{Parting is such sweet sorrow....}
-{208}{}{And the Devil came and saw how awful goodness was ....}
-{209}{}{Payback's a bitch, aint it?}
-{210}{}{Grim has finally found a use - fertilizer.}
-{211}{}{That's what you get for using soap...}
-{212}{}{We're out of here!}
-{213}{}{'This house is clean.'}
-{214}{}{Can I poke him with a stick to make sure?}
-{215}{}{Don't wait up for us!}
-{216}{}{Its a dirty job, and I really enjoy it!}
-{217}{}{Back to patrol!}
-{218}{}{The Unwashed Villagers. Keeping peace in a blasted wasteland.}
-{219}{}{He got what he deserved.}
-{220}{}{I'll race ya!}
-{300}{}{Soap? We don't need no sticking soap!}
-{301}{}{Rally unwashed! Destroy the Spammer!}
-{302}{}{Death to the Spammer!}
-{303}{}{This is for threatening people's lives!}
-{304}{}{Now you will die, Grim Reaper.}
-{305}{}{You're going back 'down under'!}
-{306}{}{The gene pool needs a little chlorine.}
-{307}{}{Pay back time!}
-{308}{}{Now you're going to get it.}
-{309}{}{The Unwashed Villager are here to protect people from scum like you!}
-{310}{}{Leave people alone!}
-{311}{}{The power of DIRT!}
-{312}{}{We may be Unwashed but we're here to clean up!}
-{313}{}{You can not escape us this time!}
-{314}{}{Protect the Chosen One from the Spammer's idiocies!}
-{315}{}{Chosen One! Join us!}
-{316}{}{UNWASHED VENGENCE!}
-{317}{}{You will never be 'Unwashed', childish fool!}
-{318}{}{You don't have a chance!}
-{319}{}{We're not finished yet!}
-{320}{}{I've been waiting for this day for a looooong time.}
-{400}{}{This is for threatening me!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
-{402}{}{'Revenge is a dish best served cold.'}
-{403}{}{I'm Buffy... you're toast.}
-{405}{}{No one threatens Doombot!}
-{406}{}{Grim Buster!}
-{410}{}{Only a guanabana could compare with the taste of this victory...}
-{415}{}{The village is a happy place, but you made it very, very angry.}
-{420}{}{You have embarrassed our country with your actions for the last time!}
-{430}{}{I'm gonna put you to sleep for good!}
-{435}{}{We're all going to hell, and I'm driving the bus.}
-{436}{}{Come my child, let me take your pain away.}
-{437}{}{You're dead. You just don't know it yet.}
-{440}{}{Get some!}
-{441}{}{Chcesz spróbowaæ?}
-{442}{}{Not the face, not the face!}
-{445}{}{Dante hasn't written about the hell I'm sending you to...}
-{450}{}{Guns! Guns! Guns! Where are my guns!}
-{451}{}{Ok, yes. I'm crazy. Deal with it.}
+{100}{}{Widzisz Buffy, cz³onkiniê Unwashed Villagers.}
+{101}{}{Widzisz Doombot, cz³onkiniê Unwashed Villagers.}
+{102}{}{Widzisz Panoply, cz³onkiniê the Unwashed Villagers.}
+{103}{}{Widzisz Lerka, cz³onka Unwashed Villagers.}
+{104}{}{Widzisz Ymira, cz³onka Unwashed Villagers.}
+{105}{}{Widzisz Iguana Eatera, cz³onka Unwashed Villagers.}
+{106}{}{Widzisz Night Owl, cz³onka Unwashed Villagers.}
+{107}{}{Widzisz Shadow Dancera, cz³onka Unwashed Villagers.}
+{108}{}{Widzisz Amish Commando, cz³onka Unwashed Villagers.}
+{109}{}{Widzisz Alexand the Killer Bee, cz³onka Unwashed Villagers.}
+{110}{}{Widzisz Hatchetmana, cz³onka Unwashed Villagers.}
+{111}{}{Widzisz BlueCrossa, cz³onka Unwashed Villagers.}
+
+# Examines
+{113}{}{Widzisz Buffy, piêkn¹, inteligentn¹ i zdoln¹ cheerliderkê. Pierwsz¹ kobietê w Unwashed Villagers.}
+{114}{}{Widzisz Doombot, Boginiê DŸwiêków i siostrê Buffy. Przypomina trochê Marie Osmond.}
+{115}{}{Widzisz Panoply, drobniutk¹ dziewczynê, w której oczach czai siê odrobina szaleñstwa.}
+{116}{}{Widzisz Lerka, dowódcê oddzia³u SWAT Unwashed Villagers - Artystê i Przyjaciela Drzew.}
+{117}{}{Widzisz Ymira, zbuntowanego Poetê i Wspó³za³o¿yciela Poetry Bastards - wioskowego nauczyciela.}
+{118}{}{Widzisz Iguana Eatera, Wielkiego Lorda Smeet Lite.}
+{119}{}{Widzisz Night Owl, Tego, Który Czuwa Nad Œni¹cymi - wspó³za³o¿yciela Poetry Bastards.}
+{120}{}{Widzisz Shadow Dancera, konesera poezji gotyckiej - Co ciekawe, przypomina Kevina Bacona.}
+{121}{}{Widzisz Amish Commando, Wyznawcê Brutalnej Si³y, Wspó³dowodz¹cego oddzia³em SWAT Unwashed Villagers.}
+{122}{}{Widzisz Alexand the Killer Bee - inteligentn¹ odmianê pszczo³y-zabójcy - Wielkiego Kronikarza Unwashed Villagers.}
+{123}{}{Widzisz Hatchetmana, Dzia³onowego Unwashed Villagers - Wzniecaj¹cego Po¿ary - stra¿nika wiedzy Shadowrun.}
+{124}{}{Widzisz BlueCrossa, Podkap³ana Unwashed Villagers - dyrektora produkcji.}
+
+# UV Leaving Floats
+{200}{}{Unwashed Villagers znów ratuj¹ œwiat!}
+{201}{}{Œmieræ to dla niego zbyt ³agodna kara.}
+{202}{}{I nie wstawaj!}
+{203}{}{Wioska jest znowu bezpieczna!}
+{204}{}{Bronimy niewinnych i dbamy o spokój.}
+{205}{}{Wyruszamy na kolejny patrol na Pustkowia. Œmieræ Spamerom!}
+{206}{}{Do³¹cz kiedyœ do nas!}
+{207}{}{Rozstania zawsze s¹ trudne....}
+{208}{}{A Szatan przyby³, i zobaczy³ jak okropne jest Dobro...}
+{209}{}{Zemsta jest s³odka, no nie?}
+{210}{}{Nareszcie siê na coœ przyda - potrzebujemy nawozu!}
+{211}{}{Tak to jest, jak siê u¿ywa myd³a...}
+{212}{}{Spadamy st¹d!}
+{213}{}{'Nie ma tu nic ciekawego.'}
+{214}{}{Mogê go na wrazie czego szturchn¹æ kijem?}
+{215}{}{IdŸ œmia³o. Nie czekaj na nas!}
+{216}{}{To brudna robota. Taka jak lubiê!}
+{217}{}{Wracamy na patrol!}
+{218}{}{Unwashed Villagers. Stra¿nicy spokoju na Pustkowiu.}
+{219}{}{Sam siê o to prosi³.}
+{220}{}{Berek!}
+
+# UV Combat Floats
+{300}{}{Myd³o? A po cholerê nam myd³o?!}
+{301}{}{Dalej wieœniacy! Œmieræ Spamerowi!}
+{302}{}{Œmieræ Spamerom!}
+{303}{}{Masz, na co zas³u¿y³eœ!}
+{304}{}{Grim Reaper - ju¿ po tobie.}
+{305}{}{Sma¿ siê w piekle!}
+{306}{}{Po¿egnaj siê ze œwiatem.}
+{307}{}{Czas na rewan¿!}
+{308}{}{Teraz ci wpier...}
+{309}{}{Unwashed Villager broni¹ ludzi przed takimi jak ty!}
+{310}{}{Zostaw tych ludzi w spokoju!}
+{311}{}{Potêga BRUDU!}
+{312}{}{Mo¿e i jesteœmy niedomyci, ale sprz¹tamy œwiat z takich jak ty!}
+{313}{}{Tym razem nam nie uciekniesz!}
+{314}{}{Chroñcie Dziecko Przeznaczenia przed kretyñstwem Spamera!}
+{315}{}{Dziecko Przeznaczenia! Do³¹cz do nas!}
+{316}{}{NIEDOMYTA ŒMIERÆ!}
+{317}{}{Nigdy nie bêdziesz jednym z nas! Nigdy nie bêdziesz NIEDOMYTY!}
+{318}{}{Nie masz szans!}
+{319}{}{To jeszcze nie koniec!}
+{320}{}{D³ugo czeka³em na ten dzieñ.}
+
+# 1 Buffy Personal Floats
+{400}{}{To za te twoje pogró¿ki!}
+{401}{}{Chyba nie uderzy³byœ dziewczyny, co?}
+{402}{}{'Zemsta smakuje najlepiej podana na zimno.'}
+{403}{}{Jestem Buffy... a ty jesteœ martwy.}
+
+# 2 Doombot Personal Floats
+{405}{}{Nikt nie bêdzie grozi³ Doombot!}
+{406}{}{Ju¿ nie ¿yjesz, Grim!}
+
+# 3 Panoply Personal Floats
+{410}{}{Ach, s³odki smak zwyciêstwa. Prawie tak znakomity jak smak iguany na patyku...}
+
+# 4 Lerk Personal Floats
+{415}{}{Wioska to radosne miejsce, ale ty mnie BARDZO rozz³oœci³eœ.}
+
+# 5 Ymir Personal Floats
+{420}{}{Po raz ostatni przynios³eœ wstyd naszemu krajowi!}
+
+# 6 Iguana Eater Personal Floats - None
+
+# 7 Night Owl Personal Floats
+{430}{}{Uœpiê ciê na dobre!}
+
+# 8 Shadow Dancer Personal Floats
+{435}{}{Wszyscy pójdziemy do piek³a, a ja nas tam poprowadzê.}
+{436}{}{ChodŸ, moje dziecko. Uœmierzê twój ból.}
+{437}{}{Ju¿ nie ¿yjesz. Tylko jeszcze o tym nie wiesz.}
+
+# 9 Amish Commando Personal Floats
+{440}{}{A masz!}
+{441}{}{Chcesz jeszcze trochê?}
+{442}{}{Tylko nie w twarz, tylko nie w twarz!}
+
+# 10 Killer Bee Personal Floats
+{445}{}{Piek³o Dantego to piknik w porównaniu z tym, co ciê czeka...}
+
+# 11 Hatchetman Personal Floats
+{450}{}{Spluwy! Spluwy! Gdzie s¹ moje spluwy!}
+{451}{}{Ach, tak. Jestem stukniêty. I co teraz?}
+
+# 12 BlueCross Personal Floats - None

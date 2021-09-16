@@ -1,130 +1,130 @@
-{100}{}{You see a Redding Townsperson.}
-{101}{}{This man looks as though he lives here.}
-{102}{}{You see a mineworker.}
-{103}{}{You see a farmer from Redding.}
-{104}{}{You see a local man.}
-{105}{}{You see a woman from Redding.}
-{106}{}{This woman looks as though she lives here.}
-{107}{}{You see a local woman.}
-{108}{}{You see a woman who probably works in the mines.}
-{109}{}{You see a farm-woman.}
+{100}{}{Widzisz mieszkañca Redding.}
+{101}{}{Ten mê¿czyna wygl¹da jakby tu mieszka³.}
+{102}{}{Widzisz górnika.}
+{103}{}{Widzisz farmera z Redding.}
+{104}{}{Widzisz tubylca.}
+{105}{}{Widzisz mieszkankê Redding.}
+{106}{}{Ta kobieta wygl¹da jakby tu mieszka³a.}
+{107}{}{Widzisz tutejsz¹ kobietê.}
+{108}{}{Widzisz kobietê, która prawdopodobnie pracuje w kopalni.}
+{109}{}{Widzisz farmerkê.}
 {110}{}{Na co siê gapisz?}
-{111}{}{Witaj w wielkim mieœcie.}
+{111}{}{Witaj w du¿ym mieœcie.}
 {112}{}{Czeœæ.}
-{113}{}{Been in Redding long?}
-{114}{}{First time in Redding, huh?}
-{115}{}{We don't want any trouble here.}
-{116}{}{I've been looking at you, too.}
-{117}{}{Siemanko, kimkolwiek jesteœ.}
-{118}{}{Co tam s³ychaæ?}
-{119}{}{How're you doing?}
-{120}{}{Mi³ego dnia.}
-{121}{}{Nooo.}
-{122}{}{Heya.}
-{123}{}{You see a man with a cool drink in his hand.}
-{124}{}{You see a man ordering a beer.}
-{125}{}{This guy's already had too much to drink.}
-{126}{}{You see a tippler.}
-{127}{}{This gentleman looks very happy.}
-{128}{}{You see a woman with a cool drink in her hand.}
-{129}{}{You see a woman ordering a beer.}
-{130}{}{This gal's already had too much to drink.}
-{131}{}{You see a tippler.}
-{132}{}{This woman looks intoxicated.}
-{133}{}{Hello, stranger.}
+{113}{}{D³ugo ju¿ jesteœ w Redding?}
+{114}{}{Po raz pierwszy w Reeding, co?}
+{115}{}{Nie chcemy tu klopotów.}
+{116}{}{Ja ciê te¿ obserwujê.}
+{117}{}{Witaj, przybyszu.}
+{118}{}{Jak leci?}
+{119}{}{Jak siê masz?}
+{120}{}{Dzieñ dobry.}
+{121}{}{Ehe.}
+{122}{}{Hej.}
+{123}{}{Widzisz mê¿czyznê z zimnym drinkiem w d³oni.}
+{124}{}{Widzisz mê¿czyznê zamawiaj¹cego piwo.}
+{125}{}{Ten facet chyba za du¿o wypi³.}
+{126}{}{Widzisz pijaka.}
+{127}{}{Ten cz³owiek wygl¹da na szczêœliwego.}
+{128}{}{Widzisz kobietê z zimnym drinkiem w d³oni.}
+{129}{}{Widzisz kobietê zamawiaj¹c¹ piwo.}
+{130}{}{Ta kobieta chyba za du¿o wypi³a.}
+{131}{}{Widzisz pijaczkê.}
+{132}{}{Ta kobieta wygl¹da na zatrut¹.}
+{133}{}{Czeœæ, przybyszu.}
 {134}{}{Czeœæ.}
 {135}{}{Hmmm.}
 {136}{}{Urp.}
-{137}{}{Glug-glug-glug.}
-{138}{}{Dziêki, nieznajomy.}
-{139}{}{Not bad for a tribal, I say.}
-{140}{}{I needed that.}
+{137}{}{Gul-gul-gul.}
+{138}{}{Dziêki, przybyszu.}
+{139}{}{NieŸle jak na dzikusa.}
+{140}{}{To mi by³o potrzebne.}
 {141}{}{Mmm-hmmm.}
 {142}{}{Dziêki.}
-{143}{}{You're my best friend.}
-{144}{}{What a pal.}
-{145}{}{Jesteœ super.}
-{146}{}{Tribals are people, too.}
-{147}{}{Nothing like friends, is there?}
-{148}{}{I think I'd like to sing...}
-{149}{}{I take back most of what I said about you earlier.}
-{150}{}{What a friend.}
-{151}{}{Tribals are our kind of people.}
-{152}{}{Hip, hip, huzzah for the tribal.}
-{153}{}{./~ How dry I am... ./~}
-{154}{}{./~ 99 bottles of beer on the wall, 99 bottles of beer... ./~}
-{155}{}{This man looks at home.}
-{156}{}{You see a man eating a meal.}
-{157}{}{You see a man mending a garment.}
-{158}{}{This man is resting.}
-{159}{}{This man is relaxing in his home.}
-{160}{}{This woman looks at home.}
-{161}{}{You see a woman eating a meal.}
-{162}{}{You see a woman mending a garment.}
-{163}{}{This woman is resting.}
-{164}{}{This woman is relaxing in her home.}
-{165}{}{Czeœæ.}
-{166}{}{Czym siê tutaj zajmujesz?}
-{167}{}{I didn't invite you.}
-{168}{}{Go away. There aren't any tribal handouts here.}
-{169}{}{Beat it! Scram!}
-{170}{}{Why are you in my home?}
-{171}{}{You see a Redding miner.}
-{172}{}{You see a miner.}
-{173}{}{You see a tired miner.}
-{174}{}{You see a gold miner.}
-{175}{}{You see someone covered in dirt.}
-{176}{}{This person must be a miner.}
-{177}{}{./~ Another day older & deeper in debt ./~}
-{178}{}{I've got dirt everywhere.}
-{179}{}{It sure is dark down there.}
-{180}{}{Dig we must.}
-{181}{}{We dig 'em and then we die in 'em.}
-{182}{}{Why isn't gold ever found on the surface?}
-{183}{}{You see an excited person.}
-{184}{}{This person's very nervous.}
-{185}{}{You see a person watching the ring.}
-{186}{}{This person seems keyed-up.}
-{187}{}{You see someone who must have money riding on the fights.}
-{188}{}{This person looks excited.}
-{189}{}{Get 'im!}
-{190}{}{There goes a week's wages... again.}
-{191}{}{Spoko!}
-{192}{}{Kill, kill, kill!}
-{193}{}{Go for the throat!}
-{194}{}{Maim the bastard!}
-{195}{}{Get up on 'im!}
-{196}{}{Go around! No, the other way!}
-{197}{}{Watch out!}
-{198}{}{That's the ticket!}
-{199}{}{Make me rich!}
-{200}{}{Gimme those new shoes, baby!}
-{201}{}{Give me some of that sugar!}
-{202}{}{Footwork stupid! Footwork!}
-{203}{}{Finish him!}
-{204}{}{Fight!}
-{205}{}{You see a young boy.}
-{206}{}{This little boy has come to the market.}
-{207}{}{You see a youth.}
-{208}{}{You see a youngster covered with dust.}
-{209}{}{This child is covered with mud.}
-{210}{}{You see a youngster picking its nose.}
-{211}{}{You see a child staring at you.}
-{212}{}{You see a wee tike.}
-{213}{}{You see a young girl.}
-{214}{}{You see a cute little girl.}
-{215}{}{Hey there, mister.}
-{216}{}{Whatcha doing mister?}
-{217}{}{Are you a cannibal?}
-{218}{}{Run away, run away!}
-{219}{}{I touched a dead gecko once.}
-{220}{}{Do you eat people?}
-{221}{}{I thought you were supposed to have horns on your head.}
+{143}{}{Jesteœ moim najlepszym przyjacielem.}
+{144}{}{Co za kumpel.}
+{145}{}{Jesteœ najlepszy.}
+{146}{}{Dzicy to te¿ ludzie.}
+{147}{}{Nie ma tu ¿adnych kumpli?}
+{148}{}{Chyba coœ zaœpiewam...}
+{149}{}{Odwo³ujê wiêkszoœæ moich poprzednich wypowiedzi.}
+{150}{}{Co za kumpel.}
+{151}{}{Dzicy to ludzie jakich lubiê.}
+{152}{}{Hip, hip, hurra dla dzikiego.}
+{153}{}{./~ Sucho mi.../~}
+{154}{}{./~ 99 butelek piwa na œcianie, 99 butelek piwa.../~}
+{155}{}{Wygl¹da na to, ¿e ten cz³owiek jest w swoim domu.}
+{156}{}{Widzisz cz³owieka jedz¹cego posi³ek.}
+{157}{}{Widzisz cz³owieka ceruj¹cego odzie¿.}
+{158}{}{Ten cz³owiek odpoczywa.}
+{159}{}{Ten cz³owiek wypoczywa w swoim domu.}
+{160}{}{Wygl¹da na to, ¿e ta kobieta jest w swoim domu.}
+{161}{}{Widzisz kobietê jedz¹c¹ posilek.}
+{162}{}{Widzisz kobietê ceruj¹c¹ odzie¿.}
+{163}{}{Ta kobieta odpoczywa.}
+{164}{}{Ta kobieta wypoczywa w swoim domu.}
+{165}{}{Dzieñ dobry.}
+{166}{}{Co tu robisz?}
+{167}{}{Nikt ciê tu nie zaprasza³.}
+{168}{}{OdejdŸ. Nie mamy tu zasi³ków dla dzikusów.}
+{169}{}{Spierdalaj!}
+{170}{}{Co robisz w moim domu?}
+{171}{}{Widzisz górnika z Redding.}
+{172}{}{Widzisz górnika.}
+{173}{}{Widzisz zmêczonego górnika.}
+{174}{}{Widzisz górnika z kopalni z³ota.}
+{175}{}{Widzisz kogoœ pokrytego brudem.}
+{176}{}{Ta osoba musi byæ górnikiem.}
+{177}{}{./~ Codziennie jestem starszy i mam wiêcej d³ugów./~}
+{178}{}{Wszêdzie ten brud.}
+{179}{}{Tam jest naprawdê ciemno.}
+{180}{}{Musimy kopaæ.}
+{181}{}{Kopiemy tam i tam umieramy.}
+{182}{}{Dlaczego z³ota nie znajduje siê na powierzchni?}
+{183}{}{Widzisz podekscytowan¹ osobê.}
+{184}{}{Ta osoba jest bardzo zdenerwowana.}
+{185}{}{Widzisz osobê obserwuj¹c¹ ring.}
+{186}{}{Ta osoba wydaje siê podniecona.}
+{187}{}{Widzisz kogoœ, kto musia³ postawiæ pieni¹dze na walkê.}
+{188}{}{Ta osoba wygl¹da na podekscytowan¹.}
+{189}{}{Bierz go!}
+{190}{}{To by³a moja tygodniowa pensja... znowu.}
+{191}{}{Tak!}
+{192}{}{Zabij!}
+{193}{}{Za gard³o go!}
+{194}{}{Dorwij drania!}
+{195}{}{Na niego!}
+{196}{}{Dooko³a! Nie, w drug¹ stronê!}
+{197}{}{Uwa¿aj!}
+{198}{}{W³aœnie tak!}
+{199}{}{Uczyñ mnie bogatym!}
+{200}{}{Daj mi te nowe buty!}
+{201}{}{Daj mi trochê cukru!}
+{202}{}{Nogami, durniu! Nogami!}
+{203}{}{Wykoñcz go!}
+{204}{}{Walcz!}
+{205}{}{Widzisz ma³ego ch³opca.}
+{206}{}{Ten ma³y ch³opiec przyszed³ na targ.}
+{207}{}{Widzisz m³odego ch³opaka.}
+{208}{}{Widzisz dzieciaka pokrytego kurzem.}
+{209}{}{To dziecko jest pokryte b³otem.}
+{210}{}{Widzisz dziecko poci¹gaj¹ce nosem.}
+{211}{}{Widzisz dziecko gapi¹ce siê na ciebie.}
+{212}{}{Widzisz ma³e dziecko.}
+{213}{}{Widzisz ma³¹ dziewczynkê.}
+{214}{}{Widzisz urocz¹ dziewczynkê.}
+{215}{}{Dzieñ dobry panu.}
+{216}{}{Co pan robi?}
+{217}{}{Jesteœ kanibalem?}
+{218}{}{Uciekaæ, uciekaæ!}
+{219}{}{Kiedyœ dotkn¹³em martwego gekona.}
+{220}{}{Zjadasz ludzi?}
+{221}{}{Myœla³em,¿e powinieneœ mieæ na g³owie rogi.}
 {222}{}{Sk¹d jesteœ?}
 {223}{}{Jesteœ z daleka?}
-{224}{}{Can't catch me!}
+{224}{}{Nie z³apiesz mnie!}
 {225}{}{Nyah, nyah, nyah, nyah, nyah!}
-{226}{}{You're funny looking.}
-{227}{}{You smell bad.}
-{228}{}{Hey there, lady.}
-{229}{}{Whatcha doing, lady?}
+{226}{}{Œmiesznie wygl¹dasz.}
+{227}{}{Brzydko pachniesz.}
+{228}{}{Dzieñ dobry pani.}
+{229}{}{Co pani robi?}

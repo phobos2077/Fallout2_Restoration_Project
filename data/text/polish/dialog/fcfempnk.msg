@@ -1,94 +1,94 @@
-{100}{}{You see a female punk.}
-{101}{}{You see a female punk.}
-{102}{}{You see a fairly pretty, cynical young woman.}
-{103}{}{I'll bet my boyfriend offered to share me.}
-{104}{}{Sometimes I get sick of traveling.}
-{105}{}{It sure would be nice to live here.}
-{106}{}{I'll bet we could make a hell of a scene.}
-{107}{}{Have you been west across the water?}
-{108}{}{I'd flirt with you, but I'm just not interested.}
-{109}{}{::sarcasm:: Sure are a lot of strong women around here, huh?}
-{110}{}{You expect me to roll over for you? Get real.}
-{111}{}{I'm unique! Just like everyone else!}
-{112}{}{Sometimes world-weary cynicism bores me.}
-{113}{}{Next time, I want to find a tribe of goths.}
-{114}{}{I hear the Shi Emperor is inhumanly smart.}
-{115}{}{These Shi sure look funny.}
-{116}{}{I'm open-minded, huh?}
-{117}{}{Look at all these new punks. Posers.}
-{118}{}{AHS-9 cheated us and he'll cheat you too if you let him.}
-{119}{}{Next bozo who calls me "bitch" is getting flash-fried.}
-{120}{}{So how was it, taking it from a mutant?}
-{121}{}{Did that big strong mutie Francis hurt you?}
-{122}{}{I'm surprised you can walk after what Francis did.}
-{123}{}{I'd guess you'd still be bleeding after Francis.}
-{124}{}{I can't believe you wouldn't help Chip.}
-{125}{}{Selfish bastard. I'll bet Chip would've helped you.}
-{126}{}{Everyone liked Chip. Now no one likes you.}
-{127}{}{You're quite the jerk, aren't you?}
-{128}{}{Ever think about anyone but yourself?}
-{129}{}{Oh, look, it's the "hero".}
-{130}{}{Hey, everyone! It's the selfish asshole!}
-{131}{}{Oh, you again? Like anyone wants to talk to you now.}
-{132}{}{Chip-hater!}
-{133}{}{Too bad about the spleen.}
-{134}{}{I'll bet someone ate Chip's liver.}
-{135}{}{I wonder if Chip will ever be okay again.}
-{136}{}{I think Chip's the best!}
-{137}{}{Even if he has no spleen, I'd do Chip in a second!}
-{138}{}{Thank you for trying to get Chip's spleen back.}
-{139}{}{You did your best for Chip.}
-{140}{}{Here's another platitude about Chip.}
-{141}{}{I wonder if the spleen tasted good?}
-{142}{}{Yay! Now I can have Chip AND his spleen!}
-{143}{}{I'm going to go see Chip right now!}
-{144}{}{Chip's the best!}
-{145}{}{I like you. You're a good one.}
-{146}{}{I'm so happy for Chip.}
-{147}{}{Chip's a whole man now.}
-{148}{}{You want to have a good time with Chip and me?}
-{149}{}{You did good with Chip's spleen.}
-{150}{}{How very selfless of you!}
-{151}{}{Suze is back! Good!}
-{152}{}{Suze is back... Damn!}
-{153}{}{Suze was always really cool to me.}
-{154}{}{I like Suze.}
-{155}{}{Thanks for saving her.}
-{156}{}{Some people need to learn not to wander.}
-{157}{}{Who knows?}
-{158}{}{Poor Badger. Maybe he needs someone to comfort him.}
-{159}{}{I'd better make sure Badger's okay.}
-{160}{}{Badger's cute, but he's no dreamboat.}
-{161}{}{I wonder why Badger farts and belches so much.}
-{162}{}{Badger probably farts because he's sad.}
-{163}{}{Poor Badger.}
-{164}{}{It's a tough old world we live in.}
-{165}{}{Suze should've known better.}
-{166}{}{If you're taking the boat, we ought to be leaving it.}
-{167}{}{Sorry about the state the boat's in.}
-{168}{}{So you'll be taking the ship, eh?}
-{169}{}{The PMV Valdez is a good vessel - it was a good home.}
-{170}{}{Time to pack my stuff, I guess.}
-{171}{}{Enjoy the boat.}
-{172}{}{Good luck finding your people.}
-{173}{}{Chyba ju¿ pójdê.}
-{174}{}{I hope we can find another place to live.}
-{175}{}{Poor Badger. He was a real cutie.}
-{176}{}{Who'd want to kill Badger?}
-{177}{}{Badger smelled funny but I liked him.}
-{178}{}{I heard Badger was gay, but then he got a girlfriend.}
-{179}{}{I always thought Badger was abusive, but in a cute way.}
-{180}{}{I'll bet Badger is showing this off to his friends.}
-{181}{}{Badger... ::sniff::}
-{182}{}{Badger was a real fairy-tale princess.}
-{183}{}{You asshole. Why'd you kill him?}
-{184}{}{You think we're going to join the Hubologists now?}
-{185}{}{You stupid, stupid pawn.}
-{186}{}{The Hubologists are going to cheat you, too.}
-{187}{}{You go to hell! You go to hell and you die!}
-{188}{}{I hate you.}
-{189}{}{You suck.}
-{190}{}{Sheepie sheepie sheep!}
-{191}{}{Crazy cultist!}
-{192}{}{Some people are just naturally stupid, I guess.}
-{193}{}{Hey! It's the idiot who can't think for itself!}
+{100}{}{Widzisz dziewczynê punka.}
+{101}{}{Widzisz dziewczynê punka.}
+{102}{}{Widzisz doœæ ³adn¹, cyniczn¹ m³od¹ kobietê.}
+{103}{}{Za³o¿ê siê, ¿e mój ch³opak chcia³ siê mn¹ podzieliæ.}
+{104}{}{Czasami mam dosyæ podró¿owania.}
+{105}{}{Z pewnoœci¹ by³oby mi³o tutaj mieszkaæ.}
+{106}{}{Na pewno moglibyœmy tutaj nieŸle namieszaæ.}
+{107}{}{Czy uda³o ci siê byæ na zachodzie za wielk¹ wod¹?}
+{108}{}{Poflirtowa³abym z tob¹, ale po prostu nie jestem zainteresowana.}
+{109}{}{[sarkazm] Widaæ tu z pewnoœci¹ du¿o silnych kobiet, co?}
+{110}{}{Myœlisz, ¿e zaraz wystawiê ci ty³ek? Lepiej oprzytomniej.}
+{111}{}{Jestem unikalna! Tak jak ka¿dy inny!}
+{112}{}{Czasami cynizm znu¿enia œwiatem nudzi mnie.}
+{113}{}{Nastêpnym razem chcê znaleŸæ grupê metalowców.}
+{114}{}{S³ysza³am, ¿e Cesarz Shi jest nieludzko inteligentny.}
+{115}{}{Ci Shi tak œmiesznie wygl¹daj¹.}
+{116}{}{Jest wolnomyœlicielk¹, no nie?}
+{117}{}{Popatrz na tych wszystkich punków. Pozerzy.}
+{118}{}{UKC-9 oszuka³ nas, i oszuka te¿ ciebie, jeœli mu na to pozwolisz.}
+{119}{}{Nastêpny kochaœ, który nazwie mnie "Ÿdzir¹" po¿egna siê z klejnotami.}
+{120}{}{Wiêc jak to by³o - mieæ z ty³u mutanta?}
+{121}{}{Czy ten du¿y silny mutek Francis skrzywdzi³ ciê?}
+{122}{}{Jestem zdziwiona, ¿e nadal mo¿esz chodziæ po tym, co zrobi³ ci Francis.}
+{123}{}{Chyba nadal krwawisz po robótce Francisa.}
+{124}{}{Nie mogê uwierzyæ, ¿e nie chcesz pomóc Chipowi.}
+{125}{}{Samolubne bydlê. Za³o¿y³abym siê, ¿e Chip tobie by pomóg³.}
+{126}{}{Wszyscy lubili Chipa. Ciebie nikt nie lubi.}
+{127}{}{Jesteœ gnid¹, nie?}
+{128}{}{Czy kiedykolwiek myœlisz o kimœ oprócz siebie?}
+{129}{}{O, patrzcie, nasz "idea³".}
+{130}{}{Ej, wszyscy! To ta samolubna dupa!}
+{131}{}{O, znowu ty? Tak jakby ktoœ chcia³ z tob¹ teraz gadaæ.}
+{132}{}{Uosobienie Chipowego rasizmu!}
+{133}{}{Wielka szkoda z t¹ œledzion¹.}
+{134}{}{Za³o¿ê siê, ¿e ktoœ zjad³ œledzionê Chipa.}
+{135}{}{Zastanawia mnie, czy Chip kiedykolwiek powróci do zdrowia.}
+{136}{}{Myœlê, ¿e Chip jest najlepszy!}
+{137}{}{Nawet bez œledziony w sekundê bym by³a Chipa!}
+{138}{}{Dziêki za próbê odzyskania œledziony Chipa.}
+{139}{}{Twoja pomoc Chipowi zawiera³a wszystko, co by³o w twojej mocy.}
+{140}{}{Tu wstaw kolejny frazes na temat Chipa.}
+{141}{}{Ciekawe, czy ta œledziona by³a smaczna?}
+{142}{}{Jej! Teraz mogê mieæ Chip I jego œledzionê!}
+{143}{}{Zaraz idê zobaczyæ siê z Chipem!}
+{144}{}{Chip jest najlepszy!}
+{145}{}{Lubiê ciê. Masz dobre serce - znaczy nie smaczne, broñ Bo¿e!}
+{146}{}{Tak siê cieszê z powodu Chipa.}
+{147}{}{Chip znowu jest kompletny.}
+{148}{}{Chcesz siê zabawiæ ze mn¹ i Chipem?}
+{149}{}{Dobra robota z t¹ œledzion¹ Chipa.}
+{150}{}{Có¿ za altruizm!}
+{151}{}{Suze wróci³a! Super!}
+{152}{}{Suze wróci³a... cholera!}
+{153}{}{Suze zawsze by³a dla mnie super.}
+{154}{}{Lubiê Suze.}
+{155}{}{Dziêki za uratowanie jej.}
+{156}{}{Niektórzy ludzie powinni oduczyæ siê podró¿owania.}
+{157}{}{Kto to wie?}
+{158}{}{Biedny Borsuk. Mo¿e potrzebuje kogoœ, kto móg³by go utuliæ.}
+{159}{}{Lepiej upewniê siê, ¿e z Borsukiem wszystko w porz¹dku.}
+{160}{}{Borsuk jest milutki, ale nie ¿ebym zaraz mia³a mdleæ.}
+{161}{}{Ciekawe, dlaczego Borsuk tak czêsto pierdzi i beka.}
+{162}{}{Borsuk prawdopodobnie pierdzi, bo jest smutny.}
+{163}{}{Biedny Borsuk.}
+{164}{}{To ciê¿ki stary œwiat, w którym ¿yjemy.}
+{165}{}{Suze powinna wiedzieæ lepiej.}
+{166}{}{Je¿eli zamierzasz zabraæ ³ajbê, to my powinniœmy j¹ opuœciæ.}
+{167}{}{Sorry za stan tej ³ajby.}
+{168}{}{Wiêc bierzesz ten statek, co?}
+{169}{}{PMV Valdez to dobry okrêt - by³ dobrym domem.}
+{170}{}{Chyba czas pakowaæ manatki.}
+{171}{}{Mi³ej zabawy ³odzi¹.}
+{172}{}{Powodzenia w znalezieniu twoich ludzi.}
+{173}{}{Po prostu ju¿ sobie pójdê.}
+{174}{}{Mam nadziejê, ¿e znajdziemy inne miejsce do mieszkania.}
+{175}{}{Biedny Borsuk. By³ naprawdê milutki.}
+{176}{}{Kto chcia³by zabiæ Borsuka?}
+{177}{}{Borsuk dziwnie pachnia³, ale lubi³am go.}
+{178}{}{S³ysza³am, ¿e Borsuk by³ gejem, no ale przecie¿ mia³ panienkê.}
+{179}{}{Zawsze uwa¿a³am, ¿e Borsuk by³ obel¿ywy, ale w milutki sposób.}
+{180}{}{Za³o¿ê siê, ¿e Borsuk popisuje siê tym przed swoimi kumplami.}
+{181}{}{Borsuk... [chlip]}
+{182}{}{Borsuk by³ prawdziwym kowbojem.}
+{183}{}{Ty gnido. Trzeba by³o go zabijaæ?}
+{184}{}{Myœlisz, ¿e teraz przyst¹pimy do Centrologów?}
+{185}{}{Ty g³upi, g³upi pionku.}
+{186}{}{Ciebie Centrolodzy te¿ wydymaj¹.}
+{187}{}{IdŸ do diab³a! IdŸ tam i zdechnij!}
+{188}{}{Nienawidzê ciê.}
+{189}{}{Jesteœ niczym.}
+{190}{}{Bezwolna owca!}
+{191}{}{Zwariowany kultysta!}
+{192}{}{Chyba niektórzy ludzi s¹ po prostu z natury g³upi.}
+{193}{}{Hej! To ten kmiot, który nie potrafi za siebie myœleæ!}

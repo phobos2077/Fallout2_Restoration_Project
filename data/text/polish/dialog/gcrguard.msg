@@ -1,63 +1,72 @@
-{100}{}{Widzisz kogoœ, kogo skóra uleg³a straszliwym poparzeniom. NajwyraŸniej stoi tu na stra¿y.}
-{101}{}{Widzisz ghula stoj¹cego na stra¿y.}
-{102}{}{You see someone whose skin seems to have been burned with radiation. That much radiation looks
- as though it should have killed them, but it they seem well enough. They look as though they're
- standing guard here.}
-{110}{}{You better not try stealing again.}
-{111}{}{All you smoothskins are alike. You better not try stealing again.}
-{112}{}{Thought you might have left something in my pocket?}
-{113}{}{Cut that out, or I'll cut you out.}
-{114}{}{I wouldn't do that again, if I were you.}
-{115}{}{Cutting your hands off would only be a start.}
-{116}{}{Aren't you the friendly one?}
-{117}{}{I'm just looking for a reason. Gonna give me one?}
-{120}{}{Just what the hell are you sneaking around for?}
-{121}{}{If you're going to sneak, you're going to have to be a lot quieter than that.}
-{122}{}{Oh, aren't you the stealthy one.}
-{123}{}{You're good at your work. Uh huh.}
-{124}{}{Dumbass, just walk normally.}
-{125}{}{Another escapee from the Ministry of Silly Walks.}
-{126}{}{I can see you. In fact, I'm crushing your head.}
-{127}{}{Does this mean you can't see me, either?}
-{128}{}{What was that? This is not a charade. This requires total concentration.}
-{129}{}{Uh, are you really trying to be quiet?}
-{130}{}{This door leads into a restricted area. You need a Yellow Keycard to get by.}
-{131}{}{You need Yellow Authorization to get through here.}
-{132}{}{You should talk to Harold if you want a Yellow Keycard.}
-{133}{}{No key, no entry.}
-{134}{}{Can't go through this door without a Yellow Keycard, guy.}
-{140}{}{Glad to see you have authorization.}
-{141}{}{Hello, smoothskin.}
-{142}{}{If anything goes wrong, we'll know who to blame.}
-{143}{}{Better watch it in there. It's a bit hot for your kind.}
-{144}{}{Well, that key looks like the right one.}
-{150}{}{No key, no entry.}
-{151}{}{This is a restricted area.}
-{152}{}{Better not be trying anything funny in here.}
-{153}{}{You need a Red Keycard to enter this door.}
-{154}{}{Better ask Harold for a Red Keycard if you want to get in here.}
-{160}{}{You just better watch it in here.}
-{161}{}{Welcome to the control area.}
-{162}{}{Don't touch anything in there.}
-{163}{}{If something goes wrong in there, we'll come looking for you.}
-{164}{}{Any problems -- we're blaming you.}
-{170}{}{Kinda surprised to see a smoothskin like you here.}
-{171}{}{Looks like you're starting to tan a little here.}
-{172}{}{Mmm, just love that background leakage -- don't you?}
-{173}{}{Don't touch anything in here.}
-{174}{}{Keep your hands to yourself and we'll do just fine.}
-{180}{}{No taking supplies without authorization.}
-{181}{}{You can't take anything out of here without a requisition.}
-{182}{}{Talk to Jeremy or Harold if you want something.}
-{183}{}{Nothing gets out of here without a requisition.}
-{184}{}{No requisition, no part.}
-{190}{}{Watch your step here, smoothskin.}
-{191}{}{Aren't you worried about the radiation here?}
-{192}{}{Just watch your step here.}
-{193}{}{If anything goes wrong, we're coming to you first.}
-{194}{}{Smile for the security cameras.}
-{200}{}{What the hell are you doing with that door?}
-{201}{}{Knock it off, and just get out of here.}
-{202}{}{Gee, that sure doesn't look like a keycard.}
-{203}{}{If you try that again, we're going to have to kill you.}
-{204}{}{You have to be even dumber than you look to try that right in front of us.}
+{100}{}{Widzisz kogoœ, kogo skóra zosta³a bardzo powa¿nie poparzona. Wygl¹da na stra¿nika.}
+{101}{}{Widzisz ghula - stra¿nika.}
+{102}{}{Widzisz kogoœ, kogo skóra zosta³a powa¿nie poparzona promieniowaniem. Tyle promieniowania powinno go zabiæ, ale jednak trzyma siê ca³kiem nieŸle. Wygl¹da na stra¿nika.}
+
+{110}{}{Lepiej nie próbuj znowu czegoœ ukraœæ.}
+{111}{}{Wszystkie g³adkoskórki s¹ takie same. Lepiej nie próbuj ju¿ nic kraœæ.}
+{112}{}{Myœla³by kto, ¿e coœ zostawisz w mojej kieszeni...}
+{113}{}{Przestañ, albo ciê potnê.}
+{114}{}{Warto siê dobrze zasanowiæ, czy robiæ to jeszcze raz.}
+{115}{}{Obciêcie ci r¹k bêdzie dopiero pocz¹tkiem.}
+{116}{}{Jak mi³o z twojej strony.}
+{117}{}{Tylko czekam na pretekst. Dasz mi jakiœ?}
+
+{120}{}{Po cholerê siê tak skradasz?}
+{121}{}{Jeœli chcesz siê skradaæ, to musisz to robiæ du¿o ciszej.}
+{122}{}{Prawie ciê nie zauwa¿y³em.}
+{123}{}{NieŸle siê spisujesz. Ha ha.}
+{124}{}{Kretyneczusiu, chodŸ normalnie.}
+{125}{}{Kolejna scenka z "Ministerstwa g³upich kroków".}
+{126}{}{Widzê ciê. I zaraz zgniotê ci g³owê.}
+{127}{}{Czy to oznacza, ¿e ty te¿ mnie nie widzisz?}
+{128}{}{Co to by³o? To jakieœ kalambury. Muszê siê skupiæ.}
+{129}{}{Strasznie starasz siê byæ cicho, czy co?}
+
+{130}{}{Te drzwi prowadz¹ do obszaru zamkniêtego. ¯ebu przejœæ, potrzebujesz ¿ó³tej karty.}
+{131}{}{¯eby przejœæ, potrzebujesz ¿ó³tej karty wstêpu.}
+{132}{}{Pogadaj z Haroldem na temat ¿ó³tej karty.}
+{133}{}{Nie masz klucza, nie wchodzisz.}
+{134}{}{Nie przejdziesz przez te drzwi bez ¿ó³tej karty.}
+
+{140}{}{Mi³o, ¿e masz upowa¿nienie.}
+{141}{}{Witaj g³adkoskórku.}
+{142}{}{Jeœli coœ siê zepsuje, to bêdziemy wiedzieæ kogo obwiniæ.}
+{143}{}{Lepiej uwa¿aj w œrodku. Trochê tam za gor¹co jak dla ciebie.}
+{144}{}{Ten klucz wygl¹da na w³aœciwy.}
+
+{150}{}{Nie masz klucza - nie wejdziesz.}
+{151}{}{To jest obszar zamkniêty.}
+{152}{}{Lepiej nic nie kombinuj...}
+{153}{}{¯eby przejœæ przez te drzwi, potrzebujesz czerwonej karty.}
+{154}{}{Jeœli chcesz wejœæ, pogadaj z Haroldem na temat czerwonej karty.}
+
+{160}{}{Lepiej uwa¿aj.}
+{161}{}{Witaj w sterowni.}
+{162}{}{Niczego nie dotykaj.}
+{163}{}{Jeœli coœ pójdzie tutaj nie tak, bêdziemy ciê szukaæ.}
+{164}{}{Jakieœ problemy - obwinimy ciebie.}
+
+{170}{}{G³adkoskórek tutaj? Có¿ za niespodzianka.}
+{171}{}{Chyba zaczynasz siê trochê opalaæ.}
+{172}{}{Uwielbiam to promieniowanie z reaktora, a ty?}
+{173}{}{Nie dotykaj niczego.}
+{174}{}{£apy przy sobie, a wszystko bêdzie w porz¹dku.}
+
+{180}{}{Nie weŸmiesz zapasów bez upowa¿nienia.}
+{181}{}{Nie weŸmiesz niczego bez formularza.}
+{182}{}{Jeœli czegoœ chcesz, pogadaj z Jeremym albo Haroldem.}
+{183}{}{Nic nie wyjdzie st¹d bez formularza.}
+{184}{}{Nie ma formularza, nie ma czêœci.}
+
+{190}{}{Uwa¿aj gdzie leziesz, g³adkoskórku.}
+{191}{}{Nie boisz siê promieniowania?}
+{192}{}{Po prostu uwa¿aj gdzie leziesz.}
+{193}{}{Jeœli coœ siê schrzani, przyjdziemy najpierw do ciebie.}
+{194}{}{Uœmiechnij siê, jesteœ w kamerze ochrony.}
+
+{200}{}{Co do cholery robisz z tymi drzwiami?!?}
+{201}{}{Odczep siê i po prostu wyjdŸ.}
+{202}{}{Nie wygl¹dasz na kartê wstêpu.}
+{203}{}{Jeœli zrobisz to jeszcze raz, bêdziemy musieli ciê zabiæ.}
+{204}{}{Trzeba byæ naprawdê g³upim cz³owiekiem, ¿eby próbowaæ tego przy nas.}
+

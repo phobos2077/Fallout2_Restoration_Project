@@ -19,10 +19,10 @@
 {118}{}{Czy jesteœ... czy jesteœ Dzieckiem Przeznaczenia?}
 {119}{}{Porozmawiaj lepiej ze Starsz¹.}
 {120}{}{Starsza powiedzia³a, ¿e nas uratujesz!}
-{121}{}{Czy Starsza rozmawia³a ju¿ z tob¹?}
+{121}{}{Czy Starsza ju¿ rozmawia³a z tob¹?}
 {122}{}{Starsza jest w pierwszej celi. Porozmawiaj z ni¹.}
 {123}{}{Porozmawiaj ze Starsz¹.}
-{124}{}{Uwolnijcie nas!}
+{124}{}{Uwolnij nas!}
 {125}{}{Wydostañ nas st¹d.}
 {126}{}{Nie mogê ju¿ wytrzymaæ tych œcian dooko³a.}
 {127}{}{Po prostu wyjê, aby poczuæ znowu wiatr na twarzy.}
@@ -42,14 +42,14 @@
 {141}{}{Odetnij zasilanie!}
 {142}{}{Uwolnij nas.}
 {143}{}{IdŸ, zabierz nas st¹d!}
-{144}{}{Proszê, pomó¿ nam!}
+{144}{}{Pomó¿ nam!}
 {145}{}{Jesteœ nasz¹ jedyn¹ nadziej¹!}
 {146}{}{Proszê, ju¿ d³u¿ej tego nie wytrzymam.}
 {147}{}{Nie chcê ju¿ wiêcej leków. Nie, nie. Nieeeeeeee!}
 {148}{}{Niech nas duchy broni¹!}
 {149}{}{Gdzie¿ s¹ duchy, gdy ich potrzebujesz?}
-{150}{}{Pomó¿cie nam!}
-{151}{}{Uwolnijcie nas!}
+{150}{}{Pomó¿ nam!}
+{151}{}{Uwolnij nas!}
 {152}{}{Chcê do domu.}
 {153}{}{Najpierw susza, a teraz to.}
 {154}{}{Tylko nie ig³y, nie ig³y!}
@@ -61,7 +61,7 @@
 {160}{}{Nie dbam o to bardzo.}
 {161}{}{Gdzie jest Martin?}
 {162}{}{To mimo wszystko nie jest Krypta.}
-{163}{}{Zabierz nas st¹d!}
+{163}{}{Wydostañ nas st¹d!}
 {164}{}{Halo? Halo!}
 {165}{}{Nalegam na moje uwolnienie.}
 {166}{}{Jestem obywatelem Stanów Zjednoczonych i ¿¹dam widzenia siê z tym, kto tu dowodzi.}

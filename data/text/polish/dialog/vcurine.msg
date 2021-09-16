@@ -1,30 +1,30 @@
-{100}{}{You see a Vault Citizen.}
-{101}{}{You see a Citizen in a bright blue jumpsuit relieving himself.}
-{102}{}{I'd clap right now, but my hands are occupied.}
-{103}{}{Uh, congratulations on defeating the Enclave. Did you catch them all in the bathroom, too?}
-{104}{}{I'd rather hear about your exploits when I'm not peeing, thanks.}
-{105}{}{Out! Out, damn pee! Out!}
-{106}{}{Knew I shouldn't have had so much synthetic alcohol.}
-{107}{}{I feel like I've been in here forever.}
-{108}{}{Ahhhhhhhh.}
-{109}{}{I feel exposed. Like someone's watching me from above.}
-{110}{}{Nothing like a satisfying urinating experience.}
-{111}{}{Don't distract m... dammint! My pant leg!}
-{112}{}{Don't talk. It makes it crawl back up.}
-{113}{}{Look, "Chosen One," I'm trying to concentrate here, okay?}
-{114}{}{Wish this place had a stall.}
-{115}{}{People who talk in the bathroom have a lot to learn about evacuation etiquette.}
-{116}{}{I think you've mistaken me for someone who ISN'T PEEING!}
-{117}{}{Is this one of those Kevin and Bean bathroom interviews?}
-{118}{}{Who does Number Two work for?!?!}
-{119}{}{I knew communal bathrooms weren't a good idea.}
-{120}{}{Not now, sweetheart. In case you didn't notice, I'm urinating.}
-{121}{}{Sorry, honey. Bathrooms don't do it for me.}
-{122}{}{This isn't a rest area, pal. Move along, okay?}
-{123}{}{I think you've mistaken me for someone who wants to meet men like you in the bathrooms.}
-{124}{}{No, I'm not going to give you instructions on how to use the toilet.}
+{100}{}{Widzisz obywatela Kryptopolis.}
+{101}{}{Widzisz za³atwiaj¹cego siê obywatela w jasnoniebieskim stroju.}
+{102}{}{Heh, nawet bym zaklaska³, ale akurat teraz mam zajête rêce.}
+{103}{}{Wspaniale ¿eœ za³atwi³ wszystkich w Enklawie. Ich te¿ zaskoczy³eœ w kiblu?}
+{104}{}{S³uchaj, z chêci¹ bym pos³ucha³ o twoich wspania³ych podbojach, ale tak siê sk³ada, ¿e teraz siê za³atwiam.}
+{105}{}{Wynocha! Cholerni zboczeñcy! Ale ju¿!}
+{106}{}{Wiedzia³em, ¿e nie powinienem piæ tyle syntetycznego alkoholu.}
+{107}{}{Czujê siê jakbym by³ tutaj od zawsze.}
+{108}{}{Aaaaaach.}
+{109}{}{Czujê siê obna¿ony. Zupe³nie jakby ktoœ mnie podgl¹da³.}
+{110}{}{Nie ma nic lepszego jak porz¹dne ul¿enie sobie...}
+{111}{}{Nie przeszkadzaj mi... cholera! Moja noga!}
+{112}{}{Nie mów nic. Czuje, ¿e mi siê wraca.}
+{113}{}{S³uchaj, "Dziecko Przeznaczenia", staram tu siê skupiæ, jasne?}
+{114}{}{Chcia³bym, ¿eby wreszcie zamontowali tu kabiny.}
+{115}{}{Ludzie, którzy gadaj¹ w szalecie musz¹ siê jeszcze sporo nauczyæ, je¿eli chodzi o dobre wychowanie.}
+{116}{}{Myœlê, ¿e pomyli³eœ mnie z kimœ kto siê NIE ZA£ATWIA!}
+{117}{}{Co to ma znaczyæ? Jakiœ szaletowy wywiad czy co?}
+{118}{}{No œwietnie. Teraz zrób mi zdjêcie i umieœæ w internecie.}
+{119}{}{Wiedzia³em, ¿e szalet to nie by³ dobry pomys³.}
+{120}{}{Nie teraz, skarbie. Wiesz, jest taka sprawa... ODLEWAM SIÊ.}
+{121}{}{Przykro mi, z³otko, ale ³azienka nie zrobi tego sama za mnie.}
+{122}{}{Co to jest? Hotel? Mo¿esz siê przesun¹æ?}
+{123}{}{Myœlê, ¿e zasz³o nieporozumienie. Ja NIE LUBIE poznawaæ ludzi w ubikacji.}
+{124}{}{Nie, nie bêdê ciê uczy³ jak korzystaæ z ubikacji.}
 {125}{}{Mutant! Stra¿! Stra¿!}
 {126}{}{Ghul! Stra¿! Stra¿!}
-{127}{}{Hey! Stop pushing! Wait your turn!}
-{128}{}{There's another toilet! Use that one!}
-{129}{}{Push me again, and I'll pee on you. Understand? No, really!}
+{127}{}{Ej! Nie pchaj siê! Czekaj na swoj¹ kolej!}
+{128}{}{Tam dalej jest inna ubikacja, idŸ tam!}
+{129}{}{Jeszcze raz mnie popchniesz a naleje na ciebie. Zrozumiano?}

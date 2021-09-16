@@ -5,7 +5,7 @@
 {104}{}{O cholera! A jednak mo¿na cofn¹æ ewolucjê!}
 {105}{}{Chyba nieco ci siê pomiesza³o w g³owie, nie?}
 {106}{}{Nie mam czasu dla ciebie. Za bardzo przypominasz warzywo.}
-{107}{}{Just a couple of clowns short of a circus, aren't you?}
+{107}{}{Myœlê, ¿e musisz zainteresowaæ siê prac¹ w cyrku.}
 {108}{}{Witam. Nazywam siê Niebezpieczny Dan McGrew. Prowadzê kopalniê Morningstar. Co mogê dla ciebie zrobiæ?}
 {109}{}{Czego chcesz ode mnie?}
 {110}{}{Co tu wydobywacie?}
@@ -50,7 +50,7 @@
 {149}{}{Jasne. Pozwól, ¿e spytam ciê o coœ innego.}
 {150}{}{Dziêki za informacjê. Do zobaczenia, Dan.}
 {151}{}{Obecnie dostajemy tak ma³o, i¿ ledwo wystarcza dla wszystkich. Mam szczer¹ nadziejê, ¿e nastêpne karawany dojad¹ tu w ca³oœci.}
-{152}{}{Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego, Dan.}
+{152}{}{Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego.}
 {153}{}{Lepiej ju¿ sobie powêdrujê, Dan. Do widzenia.}
 {154}{}{Ostatnio wszyscy wrêcz tarzaj¹ siê w Jecie. Wszyscy go bior¹ i wcia¿ jest go za ma³o. Chocia¿ dziêki temu robotnicy s¹ szczêœliwi, wiêc nie narzekam. Ustawili siê w kolejce do doktorka Johnsona. Jeœli bêdzie tego jeszcze wiêcej, to zacznê siê martwiæ.}
 {155}{}{Kim jest doktorek Johnson?}
@@ -148,7 +148,7 @@
 {247}{}{Nie mam czasu na politykê. Do widzenia.}
 {248}{}{Ka¿dy chce tego, co ma Redding. Niektórzy jednak¿e zastosuj¹ ³agodniejsze metody zdobycia tego czegoœ od nas. Pozwól, ¿e ci to wyjaœniê...}
 {249}{}{No, dalej.}
-{250}{}{I've heard enough of your explanation already. Goodbye.}
+{250}{}{Ju¿ siê wystarczaj¹co nagada³eœ. Do widzenia.}
 {251}{}{Zap³acê ci $1000 za modu³ do koparki.}
 {252}{}{Brzmi nieŸle. Gdzie mo¿na go znaleŸæ?}
 {253}{}{Brzmi nieŸle. Masz...}
@@ -164,7 +164,7 @@
 {263}{}{Procesor kontrolny spali³ siê i nie ma mo¿liwoœci zamówienia nowego. Ale wiem, gdzie mo¿na taki znaleŸæ. Zap³acê za niego $1000.}
 {264}{}{Gdzie on jest?}
 {265}{}{Skoro potrzebujesz go tak bardzo, to czemu sam go sobie nie przynios³eœ?}
-{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
+{266}{}{Mam w tej chwili po uszy rozmaitych zadañ. Przykro mi, stary. Do widzenia.}
 {267}{}{Mam mnóstwo powodów. Wiêkszoœæ jest g³odna i ogólnie niemi³a. Kopalnia Wanamingo jest po prostu pe³na g³odnych Wanamingos.}
 {268}{}{Co to do cholery jest Wanna-minka?}
 {269}{}{Aha, to by tlumaczy³o ca³¹ sprawê. Pomyœlê nad tym. Do widzenia.}
@@ -180,7 +180,7 @@
 {279}{}{Kurczê, gdybym by³ na twoim miejscu, kupi³bym tê kopalniê, oczyœci³ i sprzeda³ burmistrzowi Ascortiemu. Bo teraz to on jest jej w³aœcicielem.}
 {280}{}{Dbaj o siebie. Naprawdê potrzebujê tego procesora.}
 {281}{}{Pozwól, ¿e spytam ciê, co jeszcze dzieje siê w mieœcie.}
-{282}{}{Dziêki za podpowiedŸ. Na razie}
+{282}{}{Dziêki za radê. Do widzenia.}
 {283}{}{"Bezbolesny" doktorek Johnson jest naszym miastowym szarlatanem. Pewnie trochê zna siê na doktorowaniu, ale chyba nie za wiele. Jest w zachodniej czêœci œródmieœcia. W ka¿dym razie to on zazwyczaj sprzedaje lekarstwa i prochy dla miasta.}
 {284}{}{Sprzedaje wszystko?}
 {285}{}{Do zobaczenia, Dan.}

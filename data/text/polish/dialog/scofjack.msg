@@ -59,5 +59,5 @@
 {158}{}{To nie jest twoja walka. Zostaw mnie w spokoju.}
 {159}{}{Albo siê wysadzê, albo ty mnie zabijesz. Co za ró¿nica?}
 {160}{}{Nie próbujê ciê skrzywdziæ. Chcê tylko, aby pamiêtali...}
-{161}{}{Zyskujesz }
+{161}{}{Otrzymujesz }
 {162}{}{ PD za zajêcie siê Jackiem dla Miry.}

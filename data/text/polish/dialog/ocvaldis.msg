@@ -1,15 +1,15 @@
-{100}{}{Widzisz szpona œmierci, który obserwuje ciê dziwnie inteligentnym wzrokiem.}
+{100}{}{Widzisz szpona œmierci, który przygl¹da ci siê wyj¹tkowo inteligentnym wzrokiem.}
 {101}{}{Widzisz Valdisa, szpona œmierci.}
 {102}{}{Widzisz typowego szpona œmierci. To ogromne stworzenie ma potê¿n¹ budowê cia³a, ostre zêby i d³ugie pazury.}
 {103}{}{Pozdrowienia, cz³owieku.}
 {104}{}{Jak mogê ci s³u¿yæ?}
 {105}{}{Kto ty?}
-{106}{}{Co ty robiæ?}
+{106}{}{Co ty robi?}
 {107}{}{Mózg boli. Wróci póŸniej.}
 {108}{}{Witaj, kim jesteœ?}
 {109}{}{Na czym polega twoje zajêcie?}
 {110}{}{Nie chcê obra¿aæ tutejszych szponów œmierci, ale sprawiasz wra¿enie bardziej... wykszta³conego, ¿e siê tak wyra¿ê.}
-{111}{}{Och, tylko têdy przechodzê.}
+{111}{}{Witaj, tylko têdy przechodzê.}
 {112}{}{Mówi¹ na mnie Valdis. A ty jesteœ?}
 {113}{}{Ja cz³owiek.}
 {114}{}{Oooo! Coœ b³yszczy. Ja iœæ.}
@@ -26,7 +26,7 @@
 {125}{}{Có¿, z pewnoœci¹ znasz siê na swojej robocie.}
 {126}{}{Czy masz wystarczaj¹co du¿o rozumu, by decydowaæ, kto jest albo nie jest "niepowo³any"?}
 {127}{}{Ale¿ oczywiœcie. Mam te¿ wystarczaj¹co du¿o rozumu, by decydowaæ, kto jest, a kto nie jest dupkiem - i dochodzê do wniosku, ¿e w tej kategorii przebijasz wszystkich! A teraz czemu sobie nie pójdziesz, zanim urz¹dzê sobie pó³godzinn¹ przeja¿d¿kê po twojej twarzy?}
-{128}{}{No dobra.}
+{128}{}{No dobrze.}
 {129}{}{Niedobry jaszczur. Teraz muszê ciê zastrzeliæ.}
 {130}{}{Hej, przepraszam. Od tej pory bêdê pilnowaæ swojego jêzyka.}
 {131}{}{Tak. Doœæ znacznie ró¿nimy siê pod wzglêdem poziomu wykszta³cenia. Staram siê w miarê mo¿liwoœci w wolnym czasie poszerzaæ swoj¹ wiedzê.}
@@ -49,4 +49,5 @@
 {148}{}{Jasne.}
 {149}{}{Mi³ego dnia.}
 {150}{}{¯a³ujê, ¿e muszê ciê zabiæ.}
+
 {151}{}{.}

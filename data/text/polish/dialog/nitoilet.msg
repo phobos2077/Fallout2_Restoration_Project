@@ -1,3 +1,3 @@
-{100}{}{Uh... it's a toilet.}
-{101}{}{Hey, somebody stashed some grenades inside the toilet tank.}
-{102}{}{Nothing more here... well, nothing worth taking.}
+{100}{}{Hmmh... to jest ubikacja!}
+{101}{}{Hej, ktoœ schowa³ parê granatów w zbiorniku!}
+{102}{}{Nie ma tu nic... nic wartego zabrania.}

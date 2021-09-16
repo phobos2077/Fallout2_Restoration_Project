@@ -1,24 +1,38 @@
-{100}{}{You see one of the Corsican Brothers' bodyguards.}
-{150}{}{You see a tough-looking woman with a green mohawk. She is cradling her sub-machine gun like a baby.}
-{151}{}{You see one of the Corsican Brothers' bodyguards.}
-{200}{}{Saved the world, huh? Big frickin' deal.}
-{201}{}{Oh, gee, you're my hero. Now PISS OFF.}
-{300}{}{Hullow?}
-{301}{}{You know there's this cute blonde...}
-{302}{}{What, you too good to talk to me?}
-{303}{}{Say something. Anything!}
-{400}{}{Prick.}
-{401}{}{Jerkhole.}
-{402}{}{Fucker.}
-{403}{}{Yeah, keep walking, idiot.}
-{404}{}{I hope I never have the "pleasure" of meeting that asshead again.}
-{405}{}{That chick needs some breath mints.}
+# 0. QUICK LOOK
+{100}{}{Widzisz ochroniarza braci Corsican.}
+
+# 1. LOOK (WTG)
+{150}{}{Widzisz napakowan¹ kobietê z zielonym irokezem. Ko³ysze swój automat jakby to by³o jej dziecko.}
+{151}{}{Widzisz ochroniarza braci Corsican.}
+
+
+# 2. FLOAT (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
+{200}{}{Ratuje siê œwiat, co? Te¿ mi kurwa coœ.}
+{201}{}{Och, jej, maj hiro³. A teraz ODWAL SIÊ.}
+
+# 3. What, you too good for me or what?
+{300}{}{Czyyyœæ?}
+{301}{}{Wiesz, by³a sobie s³odka blondynka...}
+{302}{}{Co, za dobra, ¿eby ze mn¹ rozmawiaæ?}
+{303}{}{Powiedz coœ. Cokolwiek!}
+
+# 4. Prick
+{400}{}{Kutas.}
+{401}{}{Ruda cipa.}
+{402}{}{Jebus.}
+{403}{}{Jasne, idŸ sobie je³opo.}
+{404}{}{Mam nadziejê, ¿e nie kopnie mnie wiêcej "zaszczyt" spotkania takiej pó³g³ówki.}
+{405}{}{Tej lasce potrzeba miêtowego odœwie¿acza powietrza.}
 {406}{}{Suka.}
-{500}{}{She just looks at you blankly.}
-{501}{}{She apparently has nothing to say.}
-{600}{}{I'd really like to take him to the ball game.}
-{601}{}{Can you hook me up with him sometime?}
+
+# 5. Nothing
+{500}{}{Patrzy na ciebie bez wyrazu.}
+{501}{}{NajwyraŸniej nie ma nic do powiedzenia.}
+
+# 6. Porn Star
+{600}{}{Naprawdê chcia³abym pójœæ z nim na krêgle.}
+{601}{}{Mo¿esz mnie z nim kiedyœ umówiæ?}
 {602}{}{Hmmm...}
-{603}{}{Can you hook me up with her sometime?}
-{604}{}{I'd really like to get with her.}
-{605}{}{I have the *biggest* crush on her, but I'm too afraid to say anything.}
+{603}{}{Mo¿esz mnie z ni¹ kiedyœ umówiæ?}
+{604}{}{Naprawdê chcia³abym siê do niej dobraæ.}
+{605}{}{Ona na mnie *naprawdê* dzia³a, ale zbyt siê bojê, ¿eby coœ powiedzieæ.}

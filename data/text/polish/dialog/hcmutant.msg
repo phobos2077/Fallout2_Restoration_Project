@@ -1,59 +1,64 @@
-{100}{}{You see an old mutant.}
-{101}{}{You see an old mutant, a resident of Broken Hills.}
-{102}{}{On closer examination, you see an aging mutant. The strength in the mutant's muscles is still
- apparent, as is the defensive pride with which it carries itself.}
-{103}{}{I think... that... the radon gas keeps the miners young.}
-{104}{}{I'm losing my memories... it all comes back to me... wait...}
-{105}{}{Have you heard that the humans are plotting to kill us?}
-{106}{}{I wish we were more accepted by the humans. We're human in our own way.}
-{107}{}{How goes the world outside? I don't hear much these days.}
-{108}{}{Someone said the FEV that made us is making us senile.}
-{109}{}{It all seems to be slipping away from me. I used to be strong and quick... now I am little more
- than a human, it seems.}
-{110}{}{What does life matter when it all ends anyway?}
-{132}{}{Who let those dogs out? I'll crush them!}
-{133}{}{Franc and Manson better stay in hiding... I'll crush their skulls barehanded if I catch them.}
-{134}{}{Franc. Manson. Scum o' the earth.}
-{135}{}{Little fuckwads are free to kill again, eh?}
-{136}{}{We ought to get a search party going on those two.}
-{137}{}{I ain't gonna sleep easy 'til those freaks are dead.}
-{138}{}{There goes any thought of security.}
-{139}{}{Well... ummm... who were you?}
-{140}{}{Franc and Manson will behave? That's a promise made in Stockton if I ever heard one.}
-{141}{}{We'll not be thanking you if those two shitheads cause more trouble, y'know.}
-{142}{}{All right... I'm willing to give those two wankers a chance...}
-{143}{}{How do I get home?}
-{144}{}{Didn't I just talk to you?}
-{145}{}{I ain't gonna sleep easy 'til those freaks are dead.}
-{146}{}{There goes any thought of security.}
-{147}{}{Well... ummm... who were you?}
-{148}{}{I knew it! I knew those gobs of shit had it in for us!}
-{149}{}{I never did trust that Jacob bastard.}
-{150}{}{So... humans try to kill us. Maybe we kill them instead.}
-{151}{}{Ain't all the humans're doin' this, right?}
-{152}{}{Well, well, well... more human trickery?}
-{153}{}{I lose more every day... my memories and my faith in humanity went today.}
-{154}{}{You're a good one, you are.}
-{162}{}{Francis is impressed. So am I.}
-{163}{}{How can a human beat a mutant arm-wrestling? Did you cheat?}
-{164}{}{So how are you going to use your new prize?}
-{165}{}{Strong. Very strong.}
-{166}{}{Once you've known a mutie, you never go back.}
-{167}{}{I hear you were nice and- yeah... for Francis.}
-{168}{}{I'm surprised you're even walking.}
-{169}{}{Heh... Francis may be old, but he's still got it!}
-{170}{}{Those poor people.}
-{171}{}{Being trapped underneath the ground...}
-{172}{}{I said then, I said, "Jacob and Aileen are trouble. So're Franc and Manson." But would anyone
- listen? Noooooo.}
-{173}{}{Tunnels, eh? I always knew those bastards were rats and worms.}
-{174}{}{So those bodies are what that stench was, huh?}
-{175}{}{Why do you hurt us?}
-{176}{}{Humans never trust me.}
+{100}{}{Widzisz starego mutanta.}
+{101}{}{Widzisz starego mutanta, mieszkañca Broken Hills.}
+{102}{}{Po dok³adniejszym przyjrzeniu siê widzisz starzej¹cego siê mutanta. Si³a w jego miêœniach jest wci¹¿ widoczna, tak jak defensywna duma, z któr¹ siê nosi.}
+
+{103}{}{S¹dzê... ¿e... gaz radonowy odm³adza górników.}
+{104}{}{Tracê moje wspomnienia... to wszystko do mnie wraca... chwileczkê...}
+{105}{}{Powiadaj¹, ¿e ludzie spiskuj¹, aby nas zabiæ.}
+{106}{}{Chcia³bym, abyœmy byli bardziej akceptowani przez ludzi. Na swój sposób tak¿e jesteœmy ludŸmi.}
+{107}{}{Jak tam w szerokim œwiecie? Obecnie niedu¿o do mnie dociera informacji.}
+{108}{}{Ktoœ powiedzia³, ¿e FEV, który nas stworzy³, czyni nas chorymi i s³abymi.}
+{109}{}{Tak jakby wszystko ode mnie odchodzi³o. Kiedyœ by³em silny i szybki... teraz wygl¹da na to, ¿e jestem tylko trochê lepszy od cz³owieka.}
+{110}{}{Có¿ znaczy ¿ycie, kiedy i tak siê to wszystko koñczy?}
+
+{132}{}{Kto wypuœci³ te psy? Zmia¿d¿ê ich!}
+{133}{}{Franc i Manson lepiej niech siê ukrywaj¹... je¿eli ich dorwê, to go³ymi rêkami zgniotê im czaszki.}
+{134}{}{Franc. Manson. Œmieci Ziemi.}
+{135}{}{Mali popaprañcy znowu mog¹ swobodnie zabijaæ, co?}
+{136}{}{Powinniœmy zorganizowaæ na tych dwóch ob³awê.}
+{137}{}{Nie bêdê móg³ spokojnie spaæ, dopóki te dwa szajbusy nie bêd¹ martwe.}
+{138}{}{Ca³e poczucie bezpieczeñstwa w³aœnie siê zawali³o.}
+{139}{}{Có¿... hmmmm... kim jesteœ?}
+
+{140}{}{Franc i Manson bêd¹ siê zachowywaæ? Obiecanki-cacanki, a g³upiemu kula w ³eb.}
+{141}{}{Wiesz, nie bêdziemy ci dziêkowaæ, je¿eli te dwa gnojki znowu zaczn¹ nam sprawiaæ k³opoty.}
+{142}{}{Dobra... Jestem sk³onny daæ tym ³obuzom szansê...}
+{143}{}{Jak dostaæ siê do domu?}
+{144}{}{Czy ja w³aœnie z tob¹ nie rozmawia³em?}
+{145}{}{Nie bêdê móg³ spokojnie spaæ, dopóki te dwa szajbusy nie bêd¹ martwe.}
+{146}{}{Ca³e poczucie bezpieczeñstwa w³aœnie siê zawali³o.}
+{147}{}{Có¿... hmmmm... kim jesteœ?}
+
+{148}{}{Wiedzia³em! Wiedzia³em, ¿e te kawa³ki gówna ca³y czas na nas nastawa³y!}
+{149}{}{Nigdy nie ufa³em temu draniowi Jacobowi.}
+{150}{}{A wiêc... ludzie próbuj¹ nas zabiæ. Mo¿e zamiast tego my ich zabijemy.}
+{151}{}{Czy nie wszyscy ludzie tak postêpuj¹, co?}
+{152}{}{Co my tu mamy... kolejne zdradzieckie, ludzkie sztuczki?}
+{153}{}{Ka¿de dnia tracê coraz wiêcej... moje wspomnienia i moja wiara w ludzkoœæ umar³y dziœ.}
+{154}{}{To by³o dobre, o tak.}
+
+{162}{}{Francis jest pod wra¿eniem. Ja te¿.}
+{163}{}{Jak cz³owiek mo¿e pokonaæ mutanta w si³owaniu siê na bary? Bez oszukiwania?}
+{164}{}{A wiêc jak wykorzystasz swoj¹ nagrodê?}
+{165}{}{Si³a. Du¿a si³a.}
+
+{166}{}{Gdy ju¿ poznasz mutanta, ju¿ siê nie cofasz.}
+{167}{}{S³ysza³em o twojej uprzejmoœci i- ta... dla Francisa.}
+{168}{}{Dziwiê siê, ¿e wci¹¿ mo¿esz chodziæ.}
+{169}{}{Heh... Francis mo¿e i jest stary, a wci¹¿ ma to coœ!}
+
+{170}{}{Ci biedni ludzie.}
+{171}{}{Uwiêzieni pod ziemi¹...}
+{172}{}{Mówi³em wtedy, powtarza³em - "Jacob i Aileen bêd¹ sprawiaæ k³opoty. Tak samo Franc i Manson". Ale czy ktokolwiek s³ucha³? Ooo nieee.}
+{173}{}{Tunele, co? Zawsze wiedzia³em, ¿e ci dranie to szczury i robaki.}
+{174}{}{A wiêc ten smród to od tych cia³, co?}
+
+{175}{}{Dlaczego nas krzywdzisz?}
+{176}{}{Ludzie nigdy mi nie ufaj¹.}
 {177}{}{Zostaw mnie w spokoju.}
-{178}{}{Why don't you die already?}
-{179}{}{Why is it that humans always crush what they fear?}
-{180}{}{You are scum.}
-{181}{}{Your life is worthless.}
-{182}{}{You... I remember a person like you...}
-{183}{}{I'm too old even to hate you.}
+{178}{}{Dlaczego jeszcze nie umierasz?}
+{179}{}{Dlaczego tak jest, ¿e ludzie zawsze niszcz¹ to, czego siê obawiaj¹?}
+{180}{}{Jesteœ œmieciem.}
+{181}{}{Twoje ¿ycie jest bezwartoœciowe.}
+{182}{}{Ty... Pamiêtam kogoœ takiego jak ty... }
+{183}{}{Jestem za stary nawet, aby ciê nienawidziæ.}

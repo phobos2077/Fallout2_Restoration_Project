@@ -10,7 +10,7 @@
 {109}{}{Nie mów do mnie! Nie chcê kolejnego bicia.}
 {110}{}{Niewolnictwo to tylko twór umys³u. Bo tak naprawdê, czy czujesz swoj¹ wolnoœæ?}
 {111}{}{Ju¿ nie! B³agam, nie Dom Bólu!}
-{112}{}{Trzymaj siê z daleka ode mnie!}
+{112}{}{OdejdŸ ode mnie!}
 {113}{}{Potworze! Ty i inni tacy jak ty mi to zrobili!}
 {114}{}{Sprawiedliwoœæ Wszechpotê¿nego spadnie na ciebie!}
 {115}{}{Wykonujê ka¿de twoje s³owo.}

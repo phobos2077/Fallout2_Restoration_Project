@@ -1,22 +1,22 @@
-{100}{}{You see a dirty, ill-kempt person.}
-{101}{}{Widzisz squattera.}
-{102}{}{You see a dirty, ill-kempt person.}
-{103}{}{This is one of the best homes we've had in years!}
-{104}{}{Ahh... sea air!}
-{105}{}{This is the life, eh? No bosses, no governments... just the clean sea breeze.}
-{106}{}{There's a car in the ocean there. Too bad it's rusted out.}
-{107}{}{I'll bet the kids love it here.}
-{108}{}{Fresh seafood every night! Tasty, even if it has two heads.}
-{109}{}{Our neighbors are certainly "interesting."}
-{110}{}{We'll be moving on sometime, I'm sure.}
-{111}{}{You like our homes?}
-{112}{}{I love living on the beach.}
-{113}{}{Proszê, nie rób mi krzywdy!}
-{114}{}{No! Don't hurt me!}
-{115}{}{Leave my children alone!}
-{116}{}{Stop! Don't hurt us!}
-{117}{}{I'll do anything!}
-{118}{}{Pomocy!}
-{119}{}{Oh no! An oppressor!}
-{120}{}{Oh, if only we had guards!}
-{121}{}{I regret giving up the protection of society now...}
+{100}{}{Widzisz brudn¹, zaniedban¹ osobê.}
+{101}{}{Widzisz bezdomn¹ osobê.}
+{102}{}{Widzisz brudn¹, zaniedban¹ osobê.}
+{103}{}{To chyba najfajniejszy lokal w jakim zdarzy³o mi siê mieszkaæ!}
+{104}{}{Ach... morska bryza!}
+{105}{}{To dopiero ¿ycie, co? ¯adnych szefów, ¿adnych rz¹dów... Tylko orzeŸwiaj¹ce morskie powietrze.}
+{106}{}{Tam pod wod¹ jest samochód. Szkoda tylko, ¿e przerdzewia³.}
+{107}{}{Dzieciaki pewnie œwietnie siê tu bawi¹.}
+{108}{}{Co noc œwie¿e owoce morza! Niez³e, nawet, jeœli maj¹ kilka g³ów za du¿o.}
+{109}{}{Ale s¹siadów to mamy naprawdê "ciekawych".}
+{110}{}{Kiedyœ siê st¹d wyprowadzimy, s³owo honoru.}
+{111}{}{Podoba ci siê nasz dom?}
+{112}{}{Uwielbiam ¿ycie na pla¿y.}
+{113}{}{B³agam, nie rób mi krzywdy!}
+{114}{}{Nie! Nie rób mi krzywdy!}
+{115}{}{Zostaw moje dzieci w spokoju!}
+{116}{}{Stój! Nie mêcz nas ju¿!}
+{117}{}{Zrobiê co zechcesz!}
+{118}{}{Na pomoc!}
+{119}{}{Och nie! Ciemiê¿yciel!}
+{120}{}{Gdybyœmy tylko mieli stra¿!}
+{121}{}{Teraz ¿a³ujê, ¿e nie stanowiê czêœci zwartej spo³ecznoœci...}

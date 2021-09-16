@@ -1,1 +1,6 @@
-{100}{}{You see some bones.}
+#############################################################
+#The following lines are for describing the item when
+#glanced and and examined.
+#############################################################
+
+{100}{}{Widzisz jakieœ koœci.}

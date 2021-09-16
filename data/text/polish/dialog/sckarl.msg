@@ -2,7 +2,7 @@
 {101}{}{To Karl, zastêpca szeryfa.}
 {102}{}{Widzisz m³odego cz³owieka, który dopiero co z wyszed³ z lat m³odzieñczych. Wygl¹da na chêtnego do pomocy.}
 {103}{}{Witaj, przybyszu. Jestem Karl, zastêpca szeryfa. Co mogê dla ciebie zrobiæ?}
-{104}{}{To znaczy?}
+{104}{}{Na przyk³ad?}
 {105}{}{Hm.....}
 {106}{}{Jestem pierwszy raz w RNK. Co mo¿esz mi powiedzieæ o tym mieœcie?}
 {107}{}{Có¿, poszukuje Krypty 13.}
@@ -22,13 +22,13 @@
 {121}{}{Twardziel, co?}
 {122}{}{Co macie z nim zamiar zrobiæ?}
 {123}{}{S³uchaj, czy ja o tobie czasem nie s³ysza³em? Ach tak pamiêtam - wiele dobrych rzeczy. Znam tu kilku ludzi, którym przyda³by siê ktoœ taki, jak ty. IdŸ do sklepu samochodowego i zapytaj o Elise. Powiedz jej, ¿e Karl przesy³a pozdrowienia.}
-{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{124}{}{Praca? Stowarzyszenie Wolarzy poszukuje stra¿ników. NajeŸdŸcy ponawiaj¹ swoje ataki na ich transporty byd³a. S³ysza³em te¿, ¿e pani prezydent szuka kogoœ "obdarzonego", jak to okreœla. Pomog³o?}
 {125}{}{Có¿, mam inne pytania.}
 {126}{}{Odrobinê. Dziêki.}
 {127}{}{To jest oficer Jack. Jeden z naszych ludzi. Nie rozmawia³eœ z Mir¹, prawda?}
 {128}{}{Tak.}
 {129}{}{Kim jest Mira?}
-{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
+{130}{}{Ten sukinkot? Ma ranczo tu¿ za miastem. Po prostu skrêæ w drogê obok Wolarzy.}
 {131}{}{Za bardzo go nie lubisz.}
 {132}{}{Có¿, mam inne pytania.}
 {133}{}{Dziêki.}

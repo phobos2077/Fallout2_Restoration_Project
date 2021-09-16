@@ -25,7 +25,7 @@
 {124}{}{Czy jesteœ tu bezpieczna?}
 {125}{}{Niewa¿ne. Na razie.}
 {126}{}{Jasne. Moja mama ci¹gle mówi mi, gdzie mogê chodziæ, a gdzie nie. Mówi mi, gdzie mogê siê bawiæ i kiedy jeœæ, i kiedy iœæ spaæ, i kiedy robiæ siusiu, i kiedy iœæ do szko³y, i w ogóle. Myœlê, ¿e to nie jest w porz¹dku, ¿e ona mo¿e robiæ, co tylko chce, a ja ci¹gle muszê robiæ to, co ona mi ka¿e.}
-{127}{}{Dobrze.}
+{127}{}{Dobra.}
 {128}{}{Ja musi ju¿ iœæ.}
 {129}{}{Rozumiem.}
 {130}{}{Chyba wiem ju¿ wszystko. Na razie.}
@@ -37,5 +37,5 @@
 {136}{}{Pewnie. Mama siê mn¹ opiekuje, a Valdis nie pozwoli³by nikomu mnie skrzywdziæ. Jestem tu bezpieczna.}
 {137}{}{Dobra. Ja ju¿ iœæ.}
 {138}{}{To dobrze, pójdê ju¿.}
-{139}{}{Hej.}
+{139}{}{Czeœæ.}
 {140}{}{IdŸ sobie! Nie lubiê ciê!}

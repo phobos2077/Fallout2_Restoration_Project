@@ -1,1 +1,1 @@
-{100}{}{You see the remains of several Broken Hills citizens.}
+{100}{}{Widzisz szcz¹tki kilku mieszkañców Broken Hills.}

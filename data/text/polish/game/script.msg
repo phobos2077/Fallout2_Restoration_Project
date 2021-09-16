@@ -1,3 +1,8 @@
-{20}{}{Loophole}
-{21}{}{Testing, one, two, me!}
-{22}{}{yeah.  Right!}
+#
+# Messages from scripts
+#
+# strings
+#
+{20}{}{Przerwa}
+{21}{}{Próba, raz, dwa, ja!}
+{22}{}{Taa. Akurat!}

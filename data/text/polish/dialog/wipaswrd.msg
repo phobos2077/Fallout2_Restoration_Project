@@ -1,1 +1,1 @@
-{100}{}{A folded piece of paper with the word TCHAIKOVSKY written on it.}
+{100}{}{Ma³y kawa³ek papieru z odrêcznym napisem "Czajkowski".}

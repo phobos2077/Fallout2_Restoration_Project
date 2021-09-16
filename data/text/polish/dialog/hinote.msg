@@ -1,4 +1,2 @@
-{100}{}{"Zaius: Marcus isn't doing anything about that mutant-hater Jacob and his damned conspirators. First they disable the air
- purifier... and then what? I found their secret meeting tunnels. I figure a body or two down there could implicate Jacob. If you
- want in, let me know. And burn the damn note this time!" - Signed, Francis}
-{101}{}{Oh my God! If I tell Marcus about this note, the town will go up in flames. I'd better just talk to Zaius or Francis about it... and get some answers.}
+{100}{}{"Zaius: Marcus nic nie robi z tym wrogiem mutantów - Jacobem, i jego przeklêt¹ band¹ spiskowców. Najpierw uszkodzili systemy uzdatniania powietrza... co bêdzie dalej? Znalaz³em tunele, w których siê spotykaj¹. Zostawienie tam kilku cia³ powinno wskazaæ na Jacoba. Jeœli ci to pasuje, to daj mi znaæ. Tym razem spal tê cholern¹ kartkê!" - Podpisane, Francis}
+{101}{}{Mój Bo¿e! Jeœli Marcus dowie siê o tej wiadomoœci, w mieœcie rozpêta siê piek³o. Lepiej bêdzie jak porozmawiam najpierw z Zaiusem albo Francisem... i uzyskam kilka odpowiedzi.}

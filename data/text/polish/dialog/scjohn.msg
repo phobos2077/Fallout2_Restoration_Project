@@ -1,13 +1,13 @@
-{100}{}{Widzisz squattera.}
-{101}{}{You see Bill, the squatter}
-{102}{}{You see a middle age man wearing worn clothing.}
-{103}{}{Sorry stranger. I don't have time to chat with you.}
-{104}{}{Dlaczego nie rozmawiaæ?}
-{105}{}{Ok, wavy.}
-{106}{}{W porz¹dku, do zobaczenia.}
-{107}{}{Zaczekaj. Dlaczego nie chcesz ze mn¹ porozmawiaæ?}
-{108}{}{We're a very private community here and we don't want any trouble or interference from outside sources. Please just leave us be.}
-{109}{}{Dobrze.}
+{100}{}{Widzisz bezdomnego.}
+{101}{}{Widzisz Billa, bezdomnego.}
+{102}{}{Widzisz mê¿czyznê w œrednim wieku nosz¹cego zniszczone ubranie.}
+{103}{}{Przykro mi, przybyszu. Nie mam czasu z tob¹ rozmawiaæ.}
+{104}{}{Czemu nie mówiæ?}
+{105}{}{Ok, papa.}
+{106}{}{Dobra, na razie.}
+{107}{}{Czekaj. Czemu nie chcesz ze mn¹ porozmawiaæ?}
+{108}{}{Jesteœmy bardzo zamkniêt¹ spo³ecznoœci¹ i nie chcemy ¿adnych problemów ani zak³óceñ z zewn¹trz. Proszê, zostaw nas w spokoju.}
+{109}{}{Ok.}
 {110}{}{Witaj... i ¿egnaj.}
-{111}{}{Thank you for all that you've done. I apologize for the cold shoulder.}
-{112}{}{Screw you asshole!}
+{111}{}{Dziêkujê za wszystko, co zosta³o przez ciebie uczynione. Przepraszam za ch³odne przyjêcie.}
+{112}{}{Pierdol siê, dupku!}

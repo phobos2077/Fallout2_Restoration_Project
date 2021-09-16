@@ -1,10 +1,10 @@
-{100}{}{You see... a black hero model.}
-{101}{}{You see a heavily muscled black man in a Vault 13 jumpsuit. He is glaring at you resentfully.}
-{102}{}{You see a black hero model. He is glaring at you resentfully.}
-{103}{}{You see a black hero model. He is glaring at you resentfully.}
-{104}{}{I was originally one of the hero models for Fallout 1.}
-{105}{}{Of course, *I* didn't make the final cut.}
-{106}{}{They claimed it was 'too much animation.' 'Too many frames,' they said.}
-{107}{}{I'm black. *You* figure it out.}
-{108}{}{Every time you think you're getting ahead, whitey changes the rules.}
-{109}{}{I wish I could get my hands on....}
+{100}{}{Widzisz... model czarnoskórego bohatera gry komputerowej.}
+{101}{}{Widzisz muskularnego Murzyna w kombinezonie Krypty 13. Przygl¹da ci siê ze z³oœci¹.}
+{102}{}{Widzisz czarnoskórego bohatera gry. Przygl¹da ci siê ze z³oœci¹.}
+{103}{}{Widzisz czarnoskórego bohatera gry. Przygl¹da ci siê ze z³oœci¹.}
+{104}{}{Pierwotnie to ja mia³em wyst¹piæ w grze "Fallout 1".}
+{105}{}{Rzecz jasna, nie mia³em nic do gadania.}
+{106}{}{Po prostu powiedzieli, ¿e maj¹ "za du¿o animacji". "Za du¿o klatek" - to powiedzieli.}
+{107}{}{Ale ja jestem czarny! £apiesz ju¿, o co biega?}
+{108}{}{Za ka¿dym razem, kiedy ju¿ myœlisz, ¿e do czegoœ doszed³eœ, jakiœ bia³as zmienia regu³y gry.}
+{109}{}{Jak ja bym chcia³ dorwaæ tego...}

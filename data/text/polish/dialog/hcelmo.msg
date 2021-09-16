@@ -1,20 +1,20 @@
-{100}{}{You see a bleary-eyed mutant.}
-{101}{}{You see Elmo, the drunken mutant.}
-{102}{}{You see a bleary-eyed mutant who appears to have difficulty focusing on you.}
-{103}{}{Oh, my aching head.}
-{104}{}{Why do I always wake up in jail?}
-{105}{}{Someone stop the room spinning...}
-{106}{}{I think I'm gonna puke.}
-{107}{}{Porcelain goddess, hear my cry! Ooh, my head...}
-{108}{}{Shhhhhh! Please! Shhhhh!}
-{109}{}{Does someone have my shades?}
-{110}{}{Marcus must be pissed that I keep gettin' drunk like this.}
-{111}{}{Y'got any booze? Hair o' the dog and all that.}
-{112}{}{Man, I'm thirsty.}
-{113}{}{Geez... one bourbon, one scotch, and one beer, and suddenly I'm in jail.}
-{114}{}{Don't show me food... don't show me food...}
-{115}{}{...don't go in the corner... I puked there.}
-{116}{}{Man... another night in the drunk tank.}
-{117}{}{Wanna fight? I'm kinda wasted.}
-{118}{}{::weave:: ::stagger::}
-{119}{}{I love you, stranger!}
+{100}{}{Widzisz mutanta z przekrwionymi oczami.}
+{101}{}{Widzisz Elmo - pijanego mutanta.}
+{102}{}{Widzisz mutanta z przekrwionymi oczami, który ma wyraŸne k³opoty z alkoholem.}
+{103}{}{Och, moja biedna g³owa.}
+{104}{}{Dlaczego ja zawsze muszê siê budziæ w pudle?}
+{105}{}{Niech ktoœ zatrzyma tê karuzelê...}
+{106}{}{Chyba zwymiotujê.}
+{107}{}{Porcelanowa bogini, us³ysz me wo³anie! Och, moja g³owa...}
+{108}{}{Ciiiiiii! B³agam! Ciiiiii!}
+{109}{}{Kto ma moje ciemne okulary?}
+{110}{}{Marcus musi byæ nieŸle wkurzony, skoro tu znowu wyl¹dowa³em.}
+{111}{}{Masz mo¿e piwo? [mruga] Bezalkoholowe oczywiœcie.}
+{112}{}{Ale¿ mam pragnienie.}
+{113}{}{Kurde... jeden burbon, jedna szkocka, i jedno piwo, i nagle jestem w wiêzieniu.}
+{114}{}{Nie pokazuj mi jedzenia... nie pokazuj mi jedzenia...}
+{115}{}{...nie idŸ tam... przed chwil¹ tam zwymiotowa³em.}
+{116}{}{Kurde... kolejna w izbie wytrzeŸwieñ.}
+{117}{}{Chcesz siê biæ? Nie czujê siê najlepiej.}
+{118}{}{[chwieje siê, potrz¹sa g³ow¹]}
+{119}{}{Mimo ¿e ciê nie znam - kocham ciê!}

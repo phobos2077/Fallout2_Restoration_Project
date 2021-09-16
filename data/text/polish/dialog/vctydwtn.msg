@@ -1,1 +1,1 @@
-{100}{}{You have entered Vault City's Downtown.}
+{100}{}{Jesteœ w œródmieœciu Kryptopolis.}

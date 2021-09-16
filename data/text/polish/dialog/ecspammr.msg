@@ -1,16 +1,18 @@
-{100}{}{You see a pathetic looking spammer.}
-{110}{}{You see absolutely nothing of interest.}
-{120}{}{Will there be a Mac version?}
-{121}{}{I want multi-player!}
-{122}{}{I hate you all!}
-{123}{}{Aaaa!}
-{124}{}{You can't hurt me!}
-{125}{}{I'm the Grim Reaper, you can't kill me. Aren't I funny.}
-{126}{}{I want a tank!}
-{127}{}{Where's my chainsaw?}
-{128}{}{Nie rób mi krzywdy.}
-{129}{}{I didn't mean to be such a jerk.}
-{130}{}{I didn't mean those death threats.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
-{133}{}{I want an on-line version!}
+{100}{}{Widzisz ¿a³osnego spamera.}
+{110}{}{Nie widzisz nic ciekawego.}
+
+# Grim's Floats
+{120}{}{A kiedy bêdzie wersja na Maca?!}
+{121}{}{A kiedy bêdzie gra przez sieæ?!}
+{122}{}{Nienawidzê was! Nienawidzê was wszystkich!}
+{123}{}{Aaa!}
+{124}{}{Mo¿ecie mnie poca³owaæ w...!}
+{125}{}{Jestem wielki Grim Reaper, nie mo¿ecie mnie zabiæ. Dobre, nie?}
+{126}{}{A bêdzie jakiœ czo³g?!}
+{127}{}{A bêdzie mo¿na siê naparzaæ bambusow¹ pa³¹?!}
+{128}{}{Nie bijcie mnie!}
+{129}{}{Nie chcia³em byæ takim strasznym palantem!}
+{130}{}{No co wy! Grozi³em wam œmierci¹ tak... dla jaj.}
+{131}{}{Przepraszam, Buffy!}
+{132}{}{Przepraszam wszystkich! Chcia³em, ¿eby mnie wreszcie ktoœ zauwa¿y³.}
+{133}{}{Gra przez sieæ! Gra przez sieæ!}

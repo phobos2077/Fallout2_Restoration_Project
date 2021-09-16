@@ -1,199 +1,279 @@
-{100}{}{You see one of Mordino's men.}
-{101}{}{You see Ramirez.}
-{150}{}{You see a sunburned man with a lot of stubble and flaking skin. He's glancing around nervously.}
-{151}{}{You see one of Mordino's men.}
-{152}{}{You see one of Mordino's men. He looks a little jumpy.}
-{153}{}{You see one of Mordino's men. He looks nervous.}
-{154}{}{You see one of Mordino's men. He looks like he hasn't slept in a while.}
-{160}{}{You see a shifty-looking man with spiky black hair. He is glancing around nervously.}
-{200}{}{Jo! }
-{201}{}{Ale by³o pierdut, }
-{202}{}{::Pokazuje kciuk wysuniêty do góry::}
+# QUICK LOOK
+{100}{}{Widzisz jednego z ludzi rodziny Mordino.}
+# RAMIREZ
+{101}{}{Widzisz Ramireza.}
+
+# LOOK
+{150}{}{Widzisz odpychaj¹cego, zaroœniêtego, spalonego s³oñcem mê¿czyznê. Rozgl¹da siê nerwowo doko³a.}
+{151}{}{Widzisz jednego z ludzi Mordino.}
+{152}{}{Widzisz jednego z ludzi Mordino. Wygl¹da na podenerwowanego.}
+{153}{}{Widzisz jednego z ludzi Mordino. Wygl¹da na zdenerwowanego.}
+{154}{}{Widzisz jednego z ludzi Mordino. Chyba od dawna porz¹dnie siê nie wyspa³.}
+# RAMIREZ
+{160}{}{Widzisz cz³owieka o chytrej twarzy i sztywnych, czarnych w³osach. Rozgl¹da siê nerwowo doko³a.}
+
+# 1. FLOAT [ENCLAVE DESTROYED]
+{200}{}{Hej! }
+{201}{}{Zajebista robota, }
+{202}{}{::Unosi kciuki do góry::}
 {203}{}{::Gwi¿d¿e::}
-{205}{}{Jak mo¿esz chodziæ na siusiu z czymœ takim na grzbiecie?}
-{210}{}{Niez³y masz tu sprzêt, }
-{215}{}{Po co siê tak skradasz, ech, }
-{220}{}{Got any Jet on you, homes?}
+
+# 2. FLOAT [POWER ARMOR]
+{205}{}{Jak ty siê odlewasz z ca³ym tym ¿elastwem na sobie?}
+
+# 3. FLOAT/CLICK [MADE MAN, SAME FAM, ARMED
+{210}{}{Niez³a spluwa, }
+
+# 4. FLOAT/CLICK [MADE MAN, SAME FAMILY, SNEAK]
+{215}{}{Po cholerê siê tak skradasz, co, }
+
+# 5. FLOAT [MADE MAN, SAME FAMILY]
+{220}{}{Masz przy sobie trochê Jetu?}
 {221}{}{Hej, }
-{222}{}{Sure could use a drink. Damn...}
-{223}{}{Kuuu-rna, ale gor¹co.}
-{224}{}{Any news from the top, eh, }
-{230}{}{Jo! Cabron! Szukasz Anio³a Œmierci? Spadaj!}
-{231}{}{Co do ku... ty! Ty, co ty tu robisz?}
-{232}{}{Jo! Puta! Szukasz Anio³a Œmierci? Spadaj!}
-{235}{}{Yo! Sorry hombre, you can't be carrying that around in here.}
-{236}{}{Jo! Homes, od³ó¿ ten sprzêt, zanim ludzie zaczn¹ siê denerwowaæ.}
-{240}{}{Jo! Chica, nie mo¿esz tak tym tutaj wymachiwaæ.}
-{241}{}{Jo! Chica, od³ó¿ ten sprzêt, zanim ludzie zaczn¹ siê denerwowaæ.}
-{245}{}{Po kiego licha siê tak przemykasz, }
-{250}{}{Po co siê tak przemykasz, chica? Z takim prawym sierpowym jak twój, powinnaœ chodziæ prosto.}
-{255}{}{Gdzie ciê uczono walki, }
-{256}{}{Masz cojones niczym prawdziwy Mordino.}
-{257}{}{Ostatnia walka by³a niesamowita, hombre.}
-{258}{}{Uwa¿aj na Masticatora. On lubi odgryzaæ uszy.}
-{259}{}{Fruwasz jak motyl i ¿¹dlisz jak pszczo³a. To w³aœnie ty, }
-{260}{}{I used to fight in the ring, but I hurt my arm, so I don't fight no more, y'know?}
-{261}{}{Wiesz co, Mordino przyda³yby siê takie miêœnie jak twoje, }
-{262}{}{Sk¹d jesteœ, ¿e tak walczysz? Jesteœ w tym dobry. To znaczy, DOBRY.}
-{263}{}{You should talk to Lil' Jesus about a job, }
-{264}{}{Bet on you, best money I ever placed. You were throwing down like nobody's business.}
-{265}{}{Widzia³em twoj¹ walkê w ringu, }
-{266}{}{Ile wyciskasz, }
-{267}{}{Gdzie æwiczysz miêœnie, ech?}
-{268}{}{Postawi³bym ci drinka, gdybym nie straci³ wszystkich pieniêdzy stawiaj¹c na twojego przeciwnika.}
-{269}{}{Gdzie siê uczy³aœ walczyæ, chica? Jesteœ niebezpieczna. Umiesz siê RUSZAÆ.}
-{270}{}{You got the spirit to be a Mordino.}
-{271}{}{Last fight was something out of an epic, chica.}
-{272}{}{Gdzie æwiczysz miêœnie? Potrzebujesz trenera?}
-{273}{}{Watch out for the Masticator. He likes to eat ears... he's one sick fella.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
-{281}{}{Co, chcesz ¿ebym ciê rozebra³, przeszuka³ i w ogóle? No ju¿, schowaj to ¿elastwo, zanim bêdê musia³ zrobiæ siê niemi³y.}
-{285}{}{Po kiego licha siê tak przemykasz, }
-{290}{}{No way you're sneaking by a Mordino with a bod like that, chica.}
-{295}{}{Your film wasn't bad, but you obviously need a few pointers from me.}
-{296}{}{Give a good word to the brothers for me, allright?}
+{222}{}{Zasch³o mi w gêbie. Niech to szlag...}
+{223}{}{Ja pieprzê, ale gor¹c.}
+{224}{}{S¹ jakieœ polecenia z góry, co, }
+
+# 7. FLOAT [MADE MAN, NOT SAME FAMILY]
+{230}{}{Hej! Cabron! Masz randkê z Anio³em Œmierci? Spieprzaj st¹d!}
+{231}{}{Co do kur... ty! Co ty tu robisz?!}
+{232}{}{Hej! Puta! Masz randkê z Anio³em Œmierci? Spieprzaj st¹d!}
+
+# 9. FLOAT [MALE, ARMED, RESPECTFUL]
+{235}{}{Hej! Przykro mi hombre, ale z gnatem tu nie wejdziesz.}
+{236}{}{Hej! Koleœ, od³ó¿ tê spluwê zanim siê powa¿nie zdenerwujê.}
+
+# 10. FLOAT [FEMALE, ARMED, RESPECTFUL]
+{240}{}{Hej! Chica, z gnatem tu nie wejdziesz.}
+{241}{}{Hej! Chica, od³ó¿ tê spluwê zanim siê powa¿nie zdenerwujê.}
+
+# 11. FLOAT [MALE, SNEAK, PRIZEFIGHTER]
+{245}{}{Po cholerê siê tak skradasz, }
+
+# 12. FLOAT [FEMALE, SNEAK, PRIZEFIGHTER]
+{250}{}{Po cholerê siê tak skradasz, chica? Z twoim prawym sierpowym nie musisz siê chyba nikogo obawiaæ?}
+
+# 13. FLOAT/CLICK [PRIZEFIGHTER]
+{255}{}{Kto ciê nauczy³ tak walczyæ, }
+{256}{}{Masz cojones prawdziwego Mordino.}
+{257}{}{Twoja ostatnia walka przejdzie do legendy.}
+{258}{}{Uwa¿aj na Prze¿uwacza. Lubi odgryzaæ ludziom uszy.}
+{259}{}{Lata jak motyl, ¿¹dli jak pszczo³a. To w³aœnie ty - }
+{260}{}{Kiedyœ sam walczy³em na ringu, ale dosta³em kontuzji ramienia i musia³em zrezygnowaæ, wiesz?}
+{261}{}{Wiesz co, rodzinie Mordino przyda³by siê ktoœ taki jak ty, }
+{262}{}{Gdzie ciê nauczyli tak walczyæ? Jestem pod du¿ym wra¿eniem. Serio.}
+{263}{}{Mo¿e Ma³y Jesus bêdzie mia³ dla ciebie jak¹œ robotê, }
+{264}{}{Postawi³em na ciebie spor¹ kasê. Warto by³o. Jeszcze nie widzia³em tak zaciêtej walki.}
+{265}{}{Widzia³em ciê ostatnio na ringu, }
+{266}{}{Du¿o æwiczysz, }
+{267}{}{Gdzie trenujesz?}
+{268}{}{Postawi³bym ci drinka, ale przepuœci³em ca³¹ forsê stawiaj¹c na twojego przeciwnika.}
+{269}{}{Kto ciê nauczy³ tak walczyæ, chica? Jesteœ zabójcza. Nikt siê nie porusza tak jak ty.}
+{270}{}{Masz w sobie ducha prawdziwego Mordino.}
+{271}{}{Twoja ostatnia walka przejdzie do legendy, chica.}
+{272}{}{Gdzie trenujesz? Mo¿e przyda ci siê masa¿ysta?}
+{273}{}{Uwa¿aj na Prze¿uwacza. Lubi odgryzaæ ludziom uszy... goœæ jest chyba chory.}
+
+# 15. FLOAT/CLICK [ARMED, PORN STAR, FEMALE]
+{280}{}{Hej, hej! Chica, od³ó¿ w tej chwili swoj¹ broñ!}
+{281}{}{Mam ci zrobiæ rewizjê osobist¹, czy co? Natychmiast od³ó¿ tê broñ. Chyba nie chcesz, ¿ebym siê zdenerwowa³.}
+
+# 16. FLOAT [MALE, SNEAK, PORN STAR]
+{285}{}{Czemu siê tak skradasz, }
+
+# 17. FLOAT/CLICK [SNEAK, PORN STAR, FEMALE]
+{290}{}{Z takim cia³em nie masz szans przeœlizgn¹æ siê niepostrze¿enie obok Mordino, chica.}
+
+# 18. FLOAT [PORN STAR]
+{295}{}{Twój film nie by³ taki z³y, ale najwyraŸniej potrzebujesz kilku wskazówek...}
+{296}{}{Pozdrów ode mnie Braci, dobra?}
 {297}{}{Hej, }
-{298}{}{Jestem gotów, jestem dostêpny, wkrêæ mnie do filmu, dobra? Podbijemy listê przebojów, }
-{299}{}{Jestem niezwyciê¿onym latynoskim kochankiem. Nie ma drugiego takiego latynoskiego kochanka jak ja.}
-{300}{}{Porozmawiaj o mnie z Braæmi, }
-{301}{}{Podobno Tommy Trzy Jajca chce umówiæ siê z tob¹ na prywatny casting.}
-{302}{}{Co powiesz na wspólny film? Bêdê ciê dobrze traktowa³ chica. Poka¿ê ci, co potrafi latynoski kochanek.}
-{303}{}{Mo¿e wpadnij tu czasem po pracy?}
-{304}{}{Masz przyjació³ki?}
-{305}{}{Dobrze robisz, wpadaj¹c czasem do Mordino. Liczymy siê tu i tam.}
-{306}{}{Chcesz Jetu? Mogê ci go za³atwiæ, chica.}
-{307}{}{Chica, nie ma nic, czego bym dla ciebie nie zrobi³... no ju¿. Daj mi ma³ego buziaczka.}
-{308}{}{Potrzebujesz prochów? Bimbru? Pieniêdzy? Mogê ci to za³atwiæ. Mam pod-wi¹zania, ³apiesz?}
-{315}{}{Nie machaj tak tutaj tym ¿elastwem. Od³ó¿ to.}
-{320}{}{Nie skradaj siê tak, dobrze? Mordino s¹ przyjació³mi ³owców niewolników.}
-{325}{}{Jo! Coœ z twoim s³uchem? Od³ó¿ to zanim bêdê musia³ ci zrobiæ krzywdê.}
-{326}{}{Masz ochotê na ma³¹ zau³kow¹ lobotomiê? Od³ó¿ to.}
-{327}{}{Jo, chica! G³upiaœ, czy co? Od³ó¿ to zanim bêdê musia³ zrobiæ ci krzywdê.}
-{330}{}{U kiego licha tak siê skradasz? Chcesz dostaæ kulkê?}
-{335}{}{U kiego licha tak siê skradasz, chica? Chcesz dostaæ kulkê?}
-{340}{}{Zabieraj st¹d tê swoj¹ kupê z³omu.}
-{341}{}{Robotom wstêp wzbroniony. Sp³ywaj.}
-{342}{}{Zabieraj tego robota, chyba, ¿e chcesz go straciæ.}
-{345}{}{WYDAWA£O mi siê, ¿e poczu³em zapach mutanta. Zabierz go st¹d zanim siê wkurzymy.}
-{346}{}{A ty co - przyjaciel mutantów? Zabieraj go st¹d, albo po¿a³ujesz.}
-{347}{}{Mam sobie zrobiæ z tego mutanta ¿yw¹ tarczê? Nie? To zabieraj go st¹d w te pêdy.}
-{350}{}{WYDAWA£O mi siê, ¿e poczu³em, jak coœ gnije. Zabieraj st¹d tego twojego ghula.}
-{351}{}{Zabierz st¹d tego œmierdz¹cego ghula. Natychmiast.}
-{352}{}{Jak nie zabierzesz st¹d tego chodz¹cego œcierwa, to bêdzie jeszcze bardziej martwy, ni¿ jest teraz.}
-{355}{}{I auditioned for the part of one of the major NPCs, but I only got this bit NPC part. I hope I don't get typecast.}
-{356}{}{New Reno was designed by Chris Avellone and scripted by Tom French. They're a coupla sick fellas.}
-{357}{}{Jo! }
-{358}{}{Ale by³o pierdut, }
-{359}{}{Heard the Corsican Brothers are lookin' for you.}
-{360}{}{I thought the President was just a legend.}
-{361}{}{Wygl¹dasz jak ktoœ, kto w³aœnie wraca z wycieczki do piek³a. Uspokój siê trochê. Nale¿y ci siê.}
-{362}{}{Man, those Enclave bastards are lucky they didn't mess with the Mordinos.}
-{370}{}{Got any Jet on you, homes?}
-{371}{}{How's it hanging? Hangs like a hammer, man, thaz all.}
-{372}{}{Heh? ::Spits:: Whazzup, }
-{373}{}{Good t'see you, }
-{374}{}{Sure could use a drink. Damn...}
-{375}{}{Y'know, same old, same old. How's with you, }
-{376}{}{Kuuu-rna, ale gor¹co.}
-{377}{}{Big Man Mordino doing all right? Tell him I'm looking out for him, eh, }
-{378}{}{Plugged a scorp last night. Nearly stung me, it did.}
-{379}{}{Bishops mess with us, they gonna be worm food, right?}
-{380}{}{Any news from the top, eh, }
-{381}{}{When we gonna whack some Bishops, eh? My gun's getting rusty.}
-{382}{}{Them Salvatores walk 'round like they own Reno. They need to be taken back to school, you know?}
-{383}{}{I hear Tommy the Balls is in town. Better lay low.}
-{384}{}{You got any Jet on you, chica? I'm dyin' over here.}
-{400}{}{Masz tupet, tak tu przychodziæ. Nie zgrywaj bohatera i lepiej st¹d spadaj.}
-{401}{}{Your mother shoulda been in a kennel, from the looks of you.}
-{402}{}{You look like a man who don't know when he's about to die.}
+{298}{}{Jestem naprawdê dobry w te klocki. Mo¿e zatrudnisz mnie przy swoim nastêpnym filmie, co? Bêdzie z tego hicior. Mówiê ci, }
+{299}{}{Jestem idea³em latynoskiego kochanka. Kobiety marz¹ o kimœ takim jak ja.}
+{300}{}{Wspomnij o mnie Braciom, dobra, }
+{301}{}{Podobno Tommy Twardziel chcia³by ciê widzieæ w swoim prywatnym filmie.}
+{302}{}{Mo¿e zagramy razem w jakimœ filmie, co? Poka¿ê ci co potrafi latynoski kochanek, chica.}
+{303}{}{Mo¿e zajrzysz do mnie po pracy?}
+{304}{}{Masz jakieœ kole¿anki?}
+{305}{}{Dobrze robisz uk³adaj¹c siê z rodzin¹ Mordino. Bêd¹ z ciebie ludzie.}
+{306}{}{Potrzebujesz Jetu? Mogê ci trochê za³atwiæ, chica.}
+{307}{}{Chica, przecie¿ wiesz, ¿e zrobiê dla ciebie wszystko... no ju¿, daj mi buziaka.}
+{308}{}{Potrzebujesz prochów? Wódy? Kasy? Mogê ci wszystko za³atwiæ. Mam Znajomoœci, ³apiesz?}
+
+# 20. FLOAT/CLICK [ARMED, SLAVER]
+{315}{}{Nie wa³êsaj siê tu z broni¹ w rêku. Schowaj to.}
+
+# 21. FLOAT/CLICK [SNEAK, SLAVER]
+{320}{}{Przestañ siê tak skradaæ, £owco. Jesteœ wœród przyjació³.}
+
+# 22. FLOAT/CLICK [ARMED, NO REP]
+{325}{}{Hej! Na uszy ci pad³o, czy co? Od³ó¿ broñ, zanim zrobiê ci krzywdê.}
+{326}{}{Przewietrzyæ ci mózg? Schowaj broñ!}
+{327}{}{Hej, chica! G³ucha jesteœ, czy co? Od³ó¿ broñ, zanim zrobiê ci krzywdê.}
+
+# 24. FLOAT/CLICK [SNEAK, MALE, NO REP]
+{330}{}{Po cholerê siê tak skradasz? Chcesz zarobiæ kulkê?}
+
+# 25. FLOAT/CLICK [SNEAK, FEMALE, NO REP]
+{335}{}{Po cholerê siê tak skradasz, chica? Chcesz zarobiæ kulkê?}
+
+# 26. FLOAT/CLICK [COMPANION: ROBOBRAIN]
+{340}{}{Zabieraj st¹d tê kupê z³omu.}
+{341}{}{Nie wpuszczamy tu robotów. Spadaj.}
+{342}{}{Zabieraj tego robota, zanim zrobiê z niego miazgê.}
+
+# 27. FLOAT/CLICK [COMPANION: MARCUS]
+{345}{}{A tak mi coœ œmierdzia³o mutantem... Zabieraj go st¹d, zanim siê wkurzê.}
+{346}{}{A ty co - mi³oœnik mutantów? Zabieraj go st¹d.}
+{347}{}{Ten mutant chce chyba zostaæ tarcz¹ strzelnicz¹? Jak st¹d zaraz nie pójdzie, to spe³niê jego ¿yczenie.}
+
+# 28. FLOAT/CLICK [COMPANION: LENNY]
+{350}{}{A tak mi coœ œmierdzia³o zgnilizn¹. Zabieraj st¹d to chodz¹ce œcierwo.}
+{351}{}{Zabieraj st¹d tego œmierdz¹cego ghula. Ale ju¿!}
+{352}{}{Jeœli ten ghul zaraz st¹d nie zniknie, bêdzie jeszcze bardziej martwy.}
+
+
+# 29. FLOAT [ENCLAVE DESTROYED]
+{355}{}{Bra³em udzia³ w castingu na jednego z g³ównych BNów, ale dosta³em tylko tê rólkê. Mam nadziejê, ¿e nie zaszufladkuj¹ mnie jako typowy czarny charakter.}
+{356}{}{Nowe Reno zosta³o zaprojektowane przez Chrisa Avellone i opisane przez Toma Frencha. Ci kolesie s¹ jacyœ chorzy.}
+{357}{}{Hej! }
+{358}{}{Zajebista robota, }
+{359}{}{Podobno Bracia Corsican ciê szukaj¹.}
+{360}{}{Myœla³em, ¿e Prezydent to tylko legenda.}
+{361}{}{To musia³o byæ prawdziwe piek³o. Odpocznij trochê. Zas³ugujesz na to.}
+{362}{}{Te palanty z Enklawy mia³y prawdziwe szczêœcie, ¿e nie zadar³y z rodzin¹ Mordino.}
+
+# 30. FLOAT [MADE MAN, SAME FAMILY]
+{370}{}{Masz przy sobie trochê Jetu?}
+{371}{}{Co s³ychaæ? Stara nuda, nic poza tym.}
+{372}{}{Hê? ::Spluwa:: Co jest, }
+{373}{}{Dobrze ciê widzieæ, }
+{374}{}{Zasch³o mi w gardle. Cholera...}
+{375}{}{No wiesz, stara bida. A co u ciebie, }
+{376}{}{Cholera, ale upa³.}
+{377}{}{Co u starego Mordino, wszystko w porz¹dku? Powiedz mu, ¿e odwalam swoj¹ robotê, dobra, }
+{378}{}{Wczoraj zat³uk³em skorpiona. Prawie mnie u¿¹dli³, sukinsyn.}
+{379}{}{Jeœli ludzie Bishopa znów nam podskocz¹, wszyscy trafi¹ do piachu, nie?}
+{380}{}{Jakieœ wieœci z góry, co, }
+{381}{}{Kiedy wreszcie zajmiemy siê ludŸmi Bishopa, co? Spluwa zaczyna mi rdzewieæ.}
+{382}{}{Ci goœcie od Salvatore zachowuj¹ siê, jakby ca³e miasto nale¿a³o do nich. Ktoœ powinien wreszcie daæ im nauczkê, nie?}
+{383}{}{Podobno Tommy Twardziel wróci³ do miasta. Lepiej siê nie wychylaj.}
+{384}{}{Masz przy sobie trochê Jetu, chica? Jestem w cholernej potrzebie.}
+
+# 32. CLICK [MADE MAN, NOT SAME FAMILY]
+{400}{}{Masz wielkie cojones, ¿eby tu tak przychodziæ. Jeœli nie chcesz ich straciæ, lepiej st¹d spadaj.}
+{401}{}{A ty co - dziecko sapera? Masz gêbê jak niewypa³.}
+{402}{}{Twoja twarz bêdzie œlicznie wygl¹daæ na nekrologu.}
 {403}{}{Hijo de puta...}
-{404}{}{You talking to me? You talking to me?}
-{405}{}{Talk to me again, and I'll fill you so full o' lead even Superman couldn't see through you.}
-{406}{}{::Pluje na twoje stopy::}
-{407}{}{You think you can just walk up and talk to a Mordino, chat it up? Beat it.}
-{408}{}{Talk to me again, and I'll kill your family, your dog, then you. Twice.}
-{409}{}{::Pluje na twoje stopy::}
-{410}{}{You think you can just walk up and talk to a Mordino, chat it up? Beat it.}
-{411}{}{Talk to me again, puta, and I'll fill you so full o' lead even Superman couldn't see through you.}
-{412}{}{Ain't you better be getting back to your kennel, puta?}
-{413}{}{You must be the stupidest puta in all th'world to even talk to me.}
+{404}{}{Co siê kurwa patrzysz? Nas tu nie ma...}
+{405}{}{Spieprzaj st¹d, albo nafaszerujê ciê o³owiem tak, ¿e bêdziesz zatrzymywaæ promieniowanie.}
+{406}{}{::Pluje ci pod nogi::}
+{407}{}{Myœlisz, ¿e mo¿esz tak po prostu podejœæ do Mordino i sobie pogawêdziæ? Spieprzaj st¹d.}
+{408}{}{Jak jeszcze raz spróbujesz siê do mnie odezwaæ, zabijê ciebie, twoj¹ rodzinê, twojego psa i wreszcie ciebie. A potem zacznê byæ naprawdê niemi³y.}
+{409}{}{::Pluje ci pod nogi::}
+{410}{}{Myœlisz, ¿e mo¿esz tak po prostu podejœæ do Mordino i sobie pogawêdziæ? Spieprzaj st¹d.}
+{411}{}{ Spieprzaj st¹d, puta, albo nafaszerujê ciê o³owiem tak, ¿e bêdziesz zatrzymywaæ promieniowanie.}
+{412}{}{Wracaj lepiej do swojej psiarni, puta.}
+{413}{}{Musisz byæ najbardziej popieprzonym stworzeniem na tej ziemi, ¿e tak sobie tutaj spacerujesz.}
 {414}{}{Hija de puta...}
-{420}{}{Naw, I ain't the guy to talk to about slaves... you should talk to Lil' Jesus.}
-{421}{}{When are you going be bringing down some good-looking slaves? Sorry crop last season, slaver. Shabby.}
-{422}{}{Mordinos don't need no slaves to get it on. Course if you got any you need to unload...}
-{423}{}{I ain't the person to talk to about dealing with slaves.}
-{424}{}{You're doin' the right thing, brushing up with the Mordinos. We're going places.}
-{425}{}{How's things at the Den, eh?}
-{430}{}{Looking for work, eh? Talk to Lil' Jesus.}
-{435}{}{Look, I ain't your compadre, so don't be talking to me no more.}
-{436}{}{Mordinos ain't got no friends except Mordinos. Blow, tribal.}
-{437}{}{Blow, tribal.}
-{438}{}{I ain't got TIME for you right now.}
-{439}{}{Wynoœ siê st¹d.}
-{440}{}{Tribal trash...}
-{441}{}{What the hell YOU want, tribal?}
-{442}{}{I ain't got TIME for you right now.}
-{443}{}{Get.}
-{444}{}{Tribal trash...}
-{445}{}{I ain't gonna give you any Jet no matter how much you beg. Git.}
-{446}{}{Look, I AIN'T your brother, so don't be talking to me no more.}
-{447}{}{Look, I need a whore, I'll go buy one. Now git, chica.}
-{448}{}{Mordinos ain't got no friends except Mordinos. Blow, puta.}
-{449}{}{Blow, puta.}
-{460}{}{(Looks up as you approach, sneers.) You lookin' for trouble, homes?}
-{461}{}{(Looks up as you approach, sneers.) You lookin' for trouble, chica?}
-{462}{}{You Ramirez? Big Jesus gave me this package to give to you.}
-{463}{}{No trouble. I'll be going.}
-{470}{}{(Takes box.) 'Bout time. We runnin' almost outta Jet. (Sniffs, coughs slightly.) Can't imagine where it all
- goes... eh?}
-{471}{}{Yeah, well, you take care now --}
-{472}{}{Judging by your Jet cough and the way you're rubbing your nose, I am at a loss to say where all the Jet delivered here goes.}
-{473}{}{Big J, see, he takes care of us, eh? Just last week, I caught three slaves who was dumb enough to run.
- So I gets a reward, see? Heh. And you ain't get sheee-it. You jest bend and fetch. Me, I'm a GUARD.}
-{474}{}{Yeah, great. You take care, now.}
-{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
- guards such as yourself.}
-{476}{}{Ramirez... be careful what you say to me, all right? Don't let your mouth get your ass into trouble.}
-{480}{}{(Blinks.) Eh...? What you say?}
-{481}{}{Nothing you'd understand or I'd care to repeat right now. You take care, okay?}
-{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
- perceptive, Jet-addicted guards such as yourself."}
-{490}{}{(Blinks, smiles in confusion.) Eh? Yeah, yeah. I'm sharp, see... per-septive... I'm a GUARD, right?}
-{491}{}{Yeah, you mentioned that before. If I were you, Ramirez, I'd do all humanity a favor and take that entire box
- of Jet all at once. See you.}
-{492}{}{Boy, am I glad someone had the wisdom to give you all automatic weapons. Makes me feel safe. Later, Ramirez.}
-{493}{}{(Blinks.) Eh...? What you say?}
-{494}{}{Forget it. Go squat on a firearm and pull the trigger, all right?}
-{495}{}{Nothing. If I were you, Ramirez, I'd do all humanity a favor and take that entire box of Jet all at once. See you.}
-{496}{}{[Odchodzisz.]}
-{500}{}{(As you turn away, Ramirez grunts.) Hey! This box's been opened! }
-{501}{}{You skimmin', homes? }
-{502}{}{You skimmin', chica? }
-{503}{}{No one messes with Ramirez, you hear me?!}
-{504}{}{Yeah, I hear you. But not for much longer.}
-{505}{}{Those are piss-poor last words, Ramirez.}
-{600}{}{You delivered Big Jesus's package to Ramirez.}
-{1200}{}{! Dobra robota z t¹ Enklaw¹!}
-{1201}{}{, way to teach them Enclave bastards how things are done DOWNTOWN.}
+
+# 34. CLICK [SLAVER]
+{420}{}{Nie, jeœli chcesz sprzedaæ paru niewolników pogadaj z Ma³ym Jesusem.}
+{421}{}{Kiedy wreszcie dostarczysz nam jakichœ porz¹dnie wygl¹daj¹cych niewolników? W zesz³ym roku jakoœ nie obrodzili. S³abizna.}
+{422}{}{Mordino poradz¹ sobie i bez niewolników... No ale jeœli masz jakiœ towar do opchniêcia...}
+{423}{}{Ja tam nic nie wiem o kupowaniu niewolników.}
+{424}{}{Dobrze robisz uk³adaj¹c siê z rodzin¹ Mordino. Bêd¹ z ciebie ludzie.}
+{425}{}{Co tam s³ychaæ w Norze, co?}
+
+# 35. CLICK [MALE/FEMALE, NO REP, GOOD REACTION]
+{430}{}{Szukasz pracy, tak? Pogadaj z Ma³ym Jesusem.}
+
+# 36. CLICK [NO REP, BAD REACTION]
+{435}{}{S³uchaj, nie jestem twoim compadre, wiêc przestañ do cholery mnie zaczepiaæ!}
+{436}{}{Mordino maj¹ za przyjació³ wy³¹cznie Mordino. Spadaj, dzikusie.}
+{437}{}{Spadaj, dzikusie.}
+{438}{}{Nie mam czasu na pogawêdki.}
+{439}{}{Zmykaj st¹d.}
+{440}{}{Pieprzone dzikusy...}
+{441}{}{Czego do cholery chcesz, dzikusie?}
+{442}{}{Nie mam czasu z tob¹ gadaæ.}
+{443}{}{IdŸ.}
+{444}{}{Pieprzone dzikusy...}
+{445}{}{Nawet nie zaczynaj skamleæ - nie dostaniesz Jetu! Won.}
+{446}{}{A co ja ci jestem - brat, czy swat? Spadaj st¹d.}
+{447}{}{S³uchaj, jak bêdê chcia³ coœ przelecieæ, to kupie sobie dziwkê. A teraz spadaj, chica.}
+{448}{}{Mordino maj¹ za przyjació³ wy³¹cznie innych Mordino. P³yñ, puta.}
+{449}{}{P³yñ, puta.}
+
+# RAMIREZ UNIQUE DIALOG
+# 37. CLICK [DELIVERY = ASSIGNED] (WTG)
+{460}{}{(Patrzy jak podchodzisz, parska) Szukasz k³opotów, homes?}
+{461}{}{(Patrzy jak podchodzisz, parska) Szukasz k³opotów, chica?}
+{462}{}{Ty jesteœ Ramirez? Du¿y Jesus kaza³ mi daæ ci tê paczkê.}
+{463}{}{¯adnych k³opotów. Ju¿ st¹d idê.}
+
+# 38. CLICK [DELIVERY = ASSIGNED] (37)
+{470}{}{(Bierze pude³ko) Najwy¿szy czas. Koñczy siê nam Jet. (Poci¹ga nosem, kaszle) Ciekawe co siê z nim dzieje, nie?}
+{471}{}{No tak, jasne, trzymaj siê...}
+{472}{}{S¹dz¹c po twoim kaszlu i sposobie w jaki pocierasz nos, nie mam bladego pojêcia, co siê dzieje z ca³ym dostarczanym tu Jetem.}
+
+# 39. CLICK [DELIVERY = ASSIGNED] (38)
+{473}{}{Widzisz, Du¿y J dobrze o nas dba, nie? W zesz³ym tygodniu z³apa³em trzech niewolników, którzy byli na tyle g³upi, ¿eby spróbowaæ ucieczki. No i dosta³em nagrodê. He he. A ty dostaniesz gówno. Jesteœ na posy³ki, a JA jestem STRA¯NIKIEM.}
+{474}{}{Taa, œwietnie. Trzymaj siê.}
+{475}{}{Ciekawe, czy Du¿y Jesus zdaje sobie sprawê, w jaki sposób tych trzech niewolników uciek³o sprzed NOSA jego bystrych, naæpanych jak bela STRA¯NIKÓW.}
+{476}{}{Ramirez... uwa¿aj co mówisz, jasne? Ta twoja niewyparzona gêba napyta ci kiedyœ k³opotów.}
+
+# 40. CLICK [DELIVERY = ASSIGNED] (39)
+{480}{}{(Mruga) He...? ¯e co?}
+{481}{}{Nie bêdê powtarzaæ - i tak byœ nie zrozumia³. Trzymaj siê.}
+{482}{}{Mówiê: "Ciekawe, czy Du¿y Jesus zdaje sobie sprawê, w jaki sposób tych trzech niewolników uciek³o sprzed NOSA jego bystrych, naæpanych jak bela STRA¯NIKÓW."}
+
+
+# 41. CLICK [DELIVERY = ASSIGNED] (40)
+{490}{}{(Mruga, uœmiecha siê g³upkowato) He? Tak, tak. Jestem niez³y... bys-try... jestem STRA¯NIKIEM, nie?}
+{491}{}{Tak, ju¿ coœ tym wspomina³eœ. Wyœwiadcz ludzkoœci przys³ugê, Ramirez, i za¿yj ca³¹ zawartoœæ tego pud³a za jednym razem. Trzymaj siê.}
+{492}{}{Rany, jakie to szczêœcie, ¿e ktoœ by³ na tyle rozs¹dny, ¿eby daæ ci do rêki automatyczn¹ broñ. Od razu czujê siê bezpieczniej. Trzymaj siê, Ramirez.}
+
+# 42. CLICK [DELIVERY = ASSIGNED] (39)
+{493}{}{(Mruga) He...? ¯e co?}
+{494}{}{Niewa¿ne. Possij sobie lufê swojego pistoletu i poci¹gnij przypadkiem za spust, dobra?}
+{495}{}{Wyœwiadcz ludzkoœci przys³ugê, Ramirez, i za¿yj ca³¹ zawartoœæ tego pud³a za jednym razem. Trzymaj siê.}
+{496}{}{(OdejdŸ.)}
+
+# 43. CLICK [DELIVERY = ASSIGNED] (39, 40, 41, 42)
+{500}{}{(Odwracasz siê, nagle Ramirez krzyczy) Hej! To pud³o ktoœ otwiera³!}
+{501}{}{Masz lepkie palce, homes?}
+{502}{}{Masz lepkie palce, chica?}
+{503}{}{Nikt nie bêdzie próbowa³ or¿n¹æ Ramireza, s³yszysz?!}
+{504}{}{S³yszê, ale zaraz przestanê.}
+
+{505}{}{To gówniane ostatnie s³owa, Ramirez.}
+
+# delivered box
+{600}{}{Paczka Du¿ego Jesusa zosta³a dorêczona Ramirezowi.}
+
+# END OF LINES
+{1200}{}{! Enklawa nie mia³a szans!}
+{1201}{}{, ktoœ wreszcie pokaza³ Enklawie gdzie raki zimuj¹.}
 {1210}{}{.}
-{1215}{}{? Mordino s¹ pe³ni dumy.}
+{1215}{}{? Mordino chodz¹ dumnie.}
 {1221}{}{! Que pasa?}
 {1224}{}{?}
-{1245}{}{? Jak siê ma taki prawy sierpowy, to siê powinno chodziæ w wypiêta piersi¹.}
-{1255}{}{? You're vicious. You got the MOVES, homes.}
+{1245}{}{? Z takim prawym sierpowym nie masz chyba czego siê obawiaæ.}
+{1255}{}{? Jesteœ prawdziwym zwierzakiem. Jesteœ królem!}
 {1259}{}{.}
-{1261}{}{. Jak inne rodziny zobacz¹, ¿e nadchodzisz, to siê od razu zabunkruj¹.}
+{1261}{}{. Na sam twój widok pozosta³e rodziny popuszcz¹ w gacie.}
 {1263}{}{.}
-{1265}{}{. You were WASTING that guy.}
+{1265}{}{. To by³a masakra!}
 {1266}{}{?}
-{1285}{}{? No ju¿, chodŸ prosto.}
-{1297}{}{! Que pasa? Za³atwisz mi wejœcie u Braci, czy nie?}
-{1298}{}{, szczyt listy przebojów!}
-{1300}{}{... c'mon. I can DO it.}
-{1357}{}{! Dobra robota z t¹ Enklaw¹!}
-{1358}{}{, way to teach them Enclave bastards how things are done DOWNTOWN.}
+{1285}{}{? No ju¿, przestañ.}
+{1297}{}{! Que pasa? Za³atwisz mi spotkanie z Braæmi?}
+{1298}{}{, hicior!}
+{1300}{}{... Daj mi szansê.}
+{1357}{}{! Enklawa nie mia³a szans!}
+{1358}{}{, ktoœ wreszcie pokaza³ Enklawie gdzie raki zimuj¹.}
 {1372}{}{?}
-{1373}{}{. Gdzie ciê wywia³o?}
+{1373}{}{. Gdzie ciê nosi³o?}
 {1375}{}{?}
 {1377}{}{?}
 {1380}{}{?}

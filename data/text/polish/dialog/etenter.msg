@@ -1,2 +1,1 @@
-{100}{}{It looks as if the entrance to this cave was collapsed recently. A well-placed explosive
- charge might be able to clear the debris.}
+{100}{}{Wygl¹da na to, ¿e wejœcie do tej jaskini niedawno siê zawali³o. Byæ mo¿e dobrze pod³o¿ony ³adunek wybuchowy usun¹³by gruzy.}

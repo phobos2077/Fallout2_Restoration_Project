@@ -1,2 +1,2 @@
-1:You fought valiantly, but to no avail.
-2:The Enclave triumphs, and soon the entire world dies.
+1:Twoje dzielne zmagania nie przynios³y rezultatu.
+2:Enklawa zwyciê¿a i wkrótce œwiat czeka zag³ada.

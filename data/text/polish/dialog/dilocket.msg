@@ -1,2 +1,7 @@
-{100}{}{You see an old locket.}
-{101}{}{This is most likely the locket that the ghost was looking for.}
+#############################################################
+#he following lines are for describing the item when
+#lanced and and examined.
+#############################################################
+
+{100}{}{Widzisz stary medalik.}
+{101}{}{To zapewne medalik, którego szuka³ duch.}

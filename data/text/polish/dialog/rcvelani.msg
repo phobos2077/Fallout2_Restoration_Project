@@ -4,6 +4,7 @@
 {103}{}{Twoja osoba jest po prostu ¿a³osna. Gdybym mia³ odrobinê wiêcej si³y, to nie uda³oby ci siê ju¿ nigdy wiêcej opuœciæ ¿adnej karawany. A teraz zejdŸ mi z oczu.}
 {104}{}{To du¿y b³¹d okradaæ rodzinê Mordino. Zap³acisz za to - w swoim czasie. Na razie wynoœ siê st¹d.}
 {105}{}{Okradaæ? Zapamiêtam to sobie, ty niewdziêczniku. Odchodzê. ¯egnam.}
+{200}{}{Dlaczego nie ustalimy tego tutaj, w tej chwili? Szykuj siê na œmieræ, dupku.}
 {106}{}{Któregoœ dnia, ju¿ nied³ugo, po¿a³ujesz, ¿e ze mn¹ zadar³eœ. ¯egnam.}
 {107}{}{Ta karawana to hañba. Cieszê siê, ¿e Savinelli nie prze¿y³. Nie mogê uwierzyæ w to, ¿e myœlisz, ¿e dostaniesz za tê pora¿kê pieni¹dze. Won!}
 {108}{}{Ty draniu! Zap³acisz mi za to oszustwo. ¯egnam.}
@@ -22,4 +23,3 @@
 {121}{}{Savinelli zgin¹³. Cholera, nie mogê w to uwierzyæ. Jestem Velani. Uregulujê nasze zobowi¹zania.}
 {122}{}{Ee, dziêki.}
 {123}{}{Cholera, nie mogê w to uwierzyæ, ¿e Savinelli zgin¹³.}
-{200}{}{Dlaczego nie ustalimy tego tutaj, w tej chwili? Szykuj siê na œmieræ, dupku.}

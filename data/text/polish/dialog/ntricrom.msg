@@ -1,2 +1,2 @@
-{100}{}{This was Richard's old room.}
-{200}{}{Maybe I should take a look around.}
+{100}{}{To by³y pokój Richarda.}
+{200}{}{Rozejrzyj siê tu dobrze.}

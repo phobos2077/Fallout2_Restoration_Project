@@ -1,8 +1,7 @@
-{100}{}{You see a terminal with a functioning water chip.}
-{101}{}{You see a terminal with a malfunctioning water chip.}
-{102}{}{You have broken the water chip... it might be anywhere from 100 to 150 days before this
- Vault runs out of water. For some reason, this thought comforts you.}
-{103}{}{Whoops.}
+{100}{}{Widzisz terminal z dzia³aj¹cym hydroprocesorem.}
+{101}{}{Widzisz terminal z zepsutym hydroprocesorem.}
+{102}{}{Hydroprocesor zosta³ uszkodzony... minie od 100 do 150 dni, zanim skoñcz¹ siê zapasy wody tej Krypty. Nie wiedzieæ czemu ta myœl przynosi ci ulgê.}
+{103}{}{Uuups.}
 {104}{}{*Bip*}
-{105}{}{*Bi-ap*}
-{106}{}{*Beep* *Bee-Oop*}
+{105}{}{*Biii-up*}
+{106}{}{*Biiip* *Biii-uup*}

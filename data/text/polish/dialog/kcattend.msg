@@ -1,59 +1,65 @@
-{100}{}{You see an attractive young woman.}
-{101}{}{You see a bath attendant.}
-{102}{}{You see one of Big Nose Sally's girls.}
-{103}{}{You see a bored looking woman.}
-{104}{}{You see a woman checking you out.}
-{105}{}{You're being mentally undressed by this woman.}
+{100}{}{Widzisz atrakcyjn¹, m³od¹ kobietê.}
+{101}{}{Widzisz k¹pielow¹.}
+{102}{}{Widzisz jedn¹ z dziewcz¹t Wielkonosej Sally.}
+{103}{}{Widzisz znudzon¹ kobietê.}
+{104}{}{Widzisz kobietê. Taksuje ciê wzrokiem.}
+{105}{}{Widzisz kobietê. Rozbiera ciê wzrokiem.}
 {106}{}{Widzisz m³od¹ kobietê.}
-{110}{}{That was quick.}
-{111}{}{Been a long time, honey?}
-{112}{}{Maybe it will last longer next time.}
-{113}{}{It's not a race, you know.}
-{114}{}{Do your friends call you 'Speedy'?}
-{115}{}{If all my customers were that quick, I could go home early.}
-{116}{}{It's more fun if you wait 'til I help you.}
-{117}{}{If you waited until I undressed, I bet you'd like it more.}
-{120}{}{That was real nice. You're a real man, all right.}
-{121}{}{That was special. You're wonderful. Next!}
-{122}{}{Oh yeah, baby, never had it like that before. (yawn)}
-{123}{}{You're the best. Come back soon.}
-{124}{}{I'm sure you'll make some tribal gal very happy.}
-{125}{}{No, honey, size doesn't matter at all. That was nice.}
-{126}{}{Aren't you just a hunk o' hunk o' burnin' love.}
-{127}{}{What a cute little feller you got there.}
-{130}{}{Size does matter! Sweet mystery of life... }
-{131}{}{I'm putting in for overtime next time you come around.}
-{132}{}{You sure get your money's worth.}
-{133}{}{I'm taking the rest of the day off.}
-{134}{}{Wow! Did the earth move for you, too?}
-{135}{}{Now I know what Catherine the Great felt like.}
-{140}{}{Well, a buck's a buck, I guess.}
-{141}{}{That was, uh, different, I guess.}
-{142}{}{That was real special. Next!}
-{143}{}{No, you can't use my perfume.}
-{144}{}{Well, at least your mustache is smaller than most of my customers'.}
-{145}{}{You're sure you're a gal?}
-{150}{}{That was kinda nice.}
-{151}{}{That was different, but not a bad different.}
-{152}{}{I think I'd like to try that again sometime.}
-{153}{}{We should do that off-the-clock sometime.}
-{154}{}{That was sweet, sugar.}
-{155}{}{Wow! My life's going to be a lot different from here on in.}
-{156}{}{I didn't know it could be like that.}
-{160}{}{You should go talk to Big Nose Sally.}
-{161}{}{Aren't you a cutey?}
-{162}{}{Love you long-time!}
-{163}{}{Come up and see me sometime.}
-{164}{}{You know how to whistle, doncha?}
-{165}{}{I used to be pure as snow, but then I drifted.}
-{166}{}{(Wolf whistles)}
-{167}{}{Hey there, tiger.}
-{168}{}{Hey, baaaaaby...}
-{169}{}{Go talk to Sally if you want some action.}
-{170}{}{Scrub a-dub-dub...}
-{171}{}{Looks like you could use a wash.}
-{172}{}{Oh, a tribal; I just love exotics.}
-{173}{}{I don't usually do tribals.}
-{174}{}{Like what you see, baby?}
-{175}{}{You want me?}
-{176}{}{Gotta pay to play, sugar.}
+
+{110}{}{To by³o... krótkie.}
+{111}{}{Za ma³o praktyki, co s³onko?}
+{112}{}{Nie bój siê, nastêpnym razem pójdzie ci lepiej.}
+{113}{}{To nie jest wyœcig, skarbie. Nie trzeba skoñczyæ jak najszybciej.}
+{114}{}{Pewnie znajomi mówi¹ na ciebie 'Chwilka'?}
+{115}{}{Gdyby wszyscy moi klienci tak szybko koñczyli, mog³abym wczeœniej wracaæ do domu.}
+{116}{}{Nastêpnym razem zaczekaj, a¿ zacznê ci pomagaæ.}
+{117}{}{Wiesz co, nastêpnym razem zaczekaj chocia¿, a¿ siê rozbiorê.}
+
+{120}{}{To by³o naprawdê mi³e. Prawdziwy z ciebie mê¿czyzna.}
+{121}{}{To by³o wspania³e... Niestamowite. Nastêpny!}
+{122}{}{Och tak, skarbie. Jeszcze nigdy nie by³o mi tak dobrze. (ziewa)}
+{123}{}{To by³o niesamowite. Wróæ do mnie kiedyœ, dobrze?}
+{124}{}{Jakaœ dzikuska bêdzie z ciebie mia³a du¿o po¿ytku...}
+{125}{}{Nie, kochanie. Rozmiar wcale nie jest taki wa¿ny. By³o naprawdê mi³o.}
+{126}{}{Jeszcze nigdy nie by³am z tak dobrym kochankiem.}
+{127}{}{A có¿ to za krasnala tam chowasz?}
+
+{130}{}{Rozmiar nie jest taki wa¿ny! Najs³odsza tajemnica natury.}
+{131}{}{Nastêpnym razem jak przyjdziesz wezmê nadgodziny!}
+{132}{}{P³acisz i wymagasz.}
+{133}{}{Wezmê sobie wolne do koñca dnia.}
+{134}{}{Jej! Czy ziemia naprawdê siê zatrzês³a?}
+{135}{}{Teraz wiem co czu³a caryca Katarzyna.}
+
+{140}{}{Có¿, business is business.}
+{141}{}{By³o... inaczej.}
+{142}{}{By³o naprawdê super. Nastêpny!}
+{143}{}{Nie, nie mo¿esz u¿ywaæ moich perfum.}
+{144}{}{Có¿, przynajmniej masz mniejszy zarost ni¿ reszta moich klientów.}
+{145}{}{Na pewno jesteœ kobiet¹?}
+
+{150}{}{To by³o ca³kiem mi³e.}
+{151}{}{To by³o coœ innego... bardzo ciekawe.}
+{152}{}{Kiedyœ chêtnie znowu spróbujê.}
+{153}{}{Musimy siê kiedyœ spotkaæ po pracy.}
+{154}{}{To by³o milutkie.}
+{155}{}{Jej! Od tej pory moje ¿ycie bêdzie wygl¹da³o zupe³nie inaczej.}
+{156}{}{Nie wiedzia³am, ¿e mo¿e byæ tak wspaniale.}
+
+{160}{}{Porozmawiaj z Wielkonos¹ Sally.}
+{161}{}{Ale z ciebie s³onko!}
+{162}{}{Uwielbiam ciê!}
+{163}{}{Zajrzyj jeszcze kiedyœ.}
+{164}{}{Umiesz gwizdaæ, prawda?}
+{165}{}{Kiedyœ by³am bardzo nieœmia³a...}
+{166}{}{(Gwi¿d¿e)}
+{167}{}{ChodŸ tu, tygrysie.}
+{168}{}{Hej, s³ooonko...}
+{169}{}{Jeœli szukasz rozrywki, porozmawiaj z Sally.}
+{170}{}{Pucu-pucu...}
+{171}{}{Przyda ci siê k¹piel.}
+{172}{}{Och, dzikus... Uwielbiam egzotykê.}
+{173}{}{Normalnie nie obs³ugujê dzikusów.}
+{174}{}{Podobam ci siê, skarbie?}
+{175}{}{Chcesz mnie?}
+{176}{}{Nie ma nic za darmo, s³onko.}

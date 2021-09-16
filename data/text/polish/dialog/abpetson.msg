@@ -1,11 +1,13 @@
 {100}{}{Widzisz m³odego mê¿czyznê. Wygl¹da na silnego.}
 {101}{}{Widzisz Pana Petersona.}
+
 {200}{}{Witaj. Nie widzia³em ciê tu wczeœniej. Pierwszy raz w Opactwie?}
 {201}{}{Dobrze ciê znowu widzieæ. Co mogê dla ciebie zrobiæ?}
 {202}{}{Ta. Co mo¿esz mi powiedzieæ o tym miejscu?}
 {203}{}{Jestem w trakcie misji odnalezienia œwiêtego GECKa. Czy wiesz coœ na ten temat?}
 {204}{}{Brat Samuel powiedzia³, ¿e mo¿esz coœ wiedzieæ na temat naruszania grobów. Powiedzia³, ¿e s³ysza³eœ jakieœ ha³asy dochodz¹ce od strony twoich pól.}
-{205}{}{Niewa¿ne, Muszê ju¿ iœæ.}
+{205}{}{Niewa¿ne, muszê ju¿ iœæ.}
+
 {300}{}{Razem z ¿on¹ przyjechaliœmy tu z karawan¹ kilka lat temu. Tak nam siê tu spodoba³o, ¿e postanowiliœmy zostaæ i za³o¿yæ
  nasz¹ ma³¹ farmê. Pozwól, ¿e coœ ci powiem, Opactwo mo¿e nie b³yszczy jak Nowe Reno, ani nie jest tak zaawansowane jak Kryptopolis, ale
  wed³ug mnie, to najlepsze miejsce jakie Pustkowie ma do zaoferowania. Mieszkañcy s¹ uczciwi, ludzie dbaj¹ o siebie na wzajem. Jasne, niektóre miasta oferuj¹ lepsz¹ ochronê, ale kosztem swobód obywatelskich. Nie dziêkujê.}
@@ -14,14 +16,17 @@
 {303}{}{Brzmi œwietnie, ale naprawdê muszê ju¿ iœæ.}
 {304}{}{Interesuj¹ce. By³em ciekaw jeszcze czegoœ.}
 {305}{}{Niewa¿ne, Muszê ju¿ iœæ.}
+
 {400}{}{Co jeszcze chcia³byœ wiedzieæ?}
-{401}{}{Co mo¿esz powiedzieæ mi o Opactwie?}
-{402}{}{Czy wiesz coœ o Generatorze Ekosystemu Cudownej Krainy?}
+{401}{}{Co mo¿esz mi powiedzieæ o Opactwie?}
+{402}{}{Wiesz coœ mo¿e o Generatorze Ekosystemu Cudownej Krainy?}
+
 {500}{}{Przepraszam, ale nigdy o nim nie s³ysza³em. Je¿eli ma to coœ wspólnego z przedwojenn¹ technik¹, to za³o¿ê siê, ¿e znajdziesz coœ na ten temat
  w komputerach klasztoru. Na twoje nieszczêœcie, ci mnisi naprawdê ich strzeg¹—boj¹ siê,
  ¿e wybuchnie kolejna wojna, je¿eli ludzie naucz¹ siê zbyt wiele. Mimo to, mo¿e warto tam rozpytaæ.}
 {501}{}{Dziêki, pójdê to sprawdziæ. Ale najpierw mam jeszcze kilka pytañ.}
 {502}{}{Dziêki. Pójdê to sprawdziæ teraz.}
+
 {600}{}{Brat Samuel ciê tu przys³a³? Co ten pijak teraz kombinuje?}
 {601}{}{Ci¹gle zajmujê siê grobami, jak przypuszczam. Odnoœnie tego, co s³ysza³eœ...}
 {602}{}{[John siada na swoim krzeœle i bierze solidny ³yk whisky.] Có¿, wszystko zaczê³o siê kilka dni temu. By³em wtedy w domu z ¿on¹ kiedy us³yszeliœmy jakieœ szelesty w polu. Z³apa³em latarniê i wybieg³em na zewn¹trz maj¹c nadziejê, ¿e znajdê Ÿród³o ha³asu. Ale kiedy tylko dotar³em do pola, ha³asy usta³y.}
@@ -29,7 +34,8 @@
 {604}{}{S³uchaj, naprawdê muszê ju¿ iœæ.}
 {605}{}{Có¿, kolejnej nocy nic nie s³yszeliœmy. Ale nastêpnej nocy znowu us³yszeliœmy dziwne szelesty na polu. Tym razem podszed³em do okna, zamiast wybiegaæ na zewn¹trz. I zobaczy³em migotliwe œwiat³o, jak ze starej latarni czy czegoœ podobnego, jak przedziera siê przez pole. Po kilku minutach œwiat³o zbli¿y³o siê do cmentarza.}
 {606}{}{Chcia³em wyjœæ zobaczyæ kto lub co to by³o, ale ¿ona przekona³a mnie ¿eby zostaæ w œrodku i sprawdziæ co siê sta³o rano. 
- Nastêpnego dnia poszed³em sprawdziæ uprawy i zobaczy³em, ¿e ktoœ objad³ mi grz¹dki oraz zauwa¿y³em œwie¿e œlady stóp wszêdzie naoko³o. Nie mam nic przeciwko ¿eby pomóc biednemu, ale nie traktujê zbyt ³askawie z³odziei.}
+ Nastêpnego dnia poszed³em sprawdziæ uprawy i zobaczy³em, ¿e ktoœ objad³ mi grz¹dki oraz zauwa¿y³em œwie¿e œlady stóp wszêdzie naoko³o. Nie mam nic przeciwko ¿eby pomóc biednemu, ale nie traktujê zbyt ³askawie z³odziei.} 
+{6061}{}{Po tym jak ogo³ocono moje uprawy, zapyta³em Brata Samuela czy coœ siê nie sta³o na cmentarzu. Wtedy powiedzia³ mi, ¿e ktoœ rozkopa³ niektóre groby. NajwyraŸniej jest to ktoœ na tyle silny ¿eby przekopaæ te groby w ci¹gu jednej nocy. Prawdopodobnie to jakiœ ¿ebrak maj¹cy nadziejê na znalezienie czegoœ cennego. Je¿eli zdarzy³oby ci siê na niego wpaœæ, powiedz mu ¿eby do mnie zajrza³. Nie ma potrzeby kraœæ tu w Opactwie, chêtnie pomogê tej osobie jak tylko bêdê móg³.}
 {607}{}{Spróbujê z³apaæ tego osobnika. Mo¿e poczekam do pó³nocy i zobaczê co siê stanie, mo¿e uda mi siê czegoœ dowiedzieæ w ten sposób. Có¿, dziêki za informacje. Trzymaj siê.}
 {608}{}{Zobaczê co mogê z tym zrobiæ. Ale zanim pójdê mam jeszcze kilka pytañ.}
 {609}{}{Ta historia staje siê nieco przyd³uga. Czeœæ.}
@@ -39,6 +45,8 @@
 {613}{}{OK twardzielu, teraz ten "w³ócz¹cy siê prymityw" zabije ciê, na oczach ¿ony. A póŸniej zabije j¹.
  Cholera, a mo¿e po prostu zabije wszystkich w tej pieprzonej, ¿a³osnej dziurze. Myœleliœcie, ¿e mo¿ecie ukryæ siê przed horrorami pustkowi?
  No to zgadujcie jeszcze raz? Horror was znalaz³, a jego imiê to }
+
 {700}{}{Wynoœ siê st¹d, do cholery.}
+
+#added in RP 2.1
 {710}{}{Dobrze Ciê znowu widzieæ. Tom bardzo nam pomaga. Jeszcze raz dziêki za pomoc. A teraz, co mogê dla Ciebie zrobiæ?}
-{6061}{}{Po tym jak ogo³ocono moje uprawy, zapyta³em Brata Samuela czy coœ siê nie sta³o na cmentarzu. Wtedy powiedzia³ mi, ¿e ktoœ rozkopa³ niektóre groby. NajwyraŸniej jest to ktoœ na tyle silny ¿eby przekopaæ te groby w ci¹gu jednej nocy. Prawdopodobnie to jakiœ ¿ebrak maj¹cy nadziejê na znalezienie czegoœ cennego. Je¿eli zdarzy³oby ci siê na niego wpaœæ, powiedz mu ¿eby do mnie zajrza³. Nie ma potrzeby kraœæ tu w Opactwie, chêtnie pomogê tej osobie jak tylko bêdê móg³.}

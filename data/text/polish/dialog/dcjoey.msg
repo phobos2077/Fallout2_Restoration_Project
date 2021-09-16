@@ -1,129 +1,175 @@
-{100}{}{Widzisz bandziora.}
-{101}{}{You see Joey.}
-{150}{}{This guy doesn't look too friendly.}
+{100}{}{Widzisz groŸnie wygl¹daj¹cego mê¿czyznê.}
+{101}{}{Widzisz Joey'a.}
+
+{150}{}{Ten goœæ nie wygl¹da zbyt przyjaŸnie.}
 {151}{}{[ROZMAWIAJ]}
-{152}{}{I'm gonna cut you up, fucker!}
-{153}{}{Yeah? Come on and try.}
-{154}{}{Hey, wait just one minute!}
-{155}{}{I'd think twice if I were you.}
-{156}{}{What do you want? Why shouldn't I just kill you rather than listen
- to your bullshit after what you've done?}
-{157}{}{I want to talk to you about a ghost that comes around here at night.}
-{158}{}{Did you take a locket from the haunted house?}
-{159}{}{Never mind. I'll just kick your ass instead.}
-{160}{}{Nothing. Just passing through.}
-{161}{}{O czym ty do cholery bredzisz?}
-{162}{}{Did you steal a locket from that haunted house?}
-{163}{}{Niczego. Zapomnijmy o tym.}
-{164}{}{Forget it. I'll kill you now and sort out the pieces later.}
-{165}{}{I-I don't know what you're talking about.}
-{166}{}{Oh, I think you do! You stole a dead girl's locket, and now her spirit can't rest.}
-{167}{}{Then I'll take it by force.}
-{168}{}{T-That's f-fucking crazy! Y-you must h-have been r-really fucked up on some of Tubby's shit. I-I n-never s-saw no g-ghost w-when I stayed t-there- just a bad trip, wasn't f-fucking real.}
-{169}{}{Look, I'll buy it from you.}
-{170}{}{Give it to me or you can join her.}
-{171}{}{If you don't return it now, she'll come after you. And she can't
- be stopped.}
-{172}{}{Huh? Oh yeah. Yeah. T-That's for damn sure. You're gonna have to fork over some bucks for sure. You ain't gettin' this for free! $50 or beat it!}
-{173}{}{Okay, here's the money.}
-{174}{}{Take $20 and be happy I don't just take it from you.}
-{175}{}{Nah, I changed my mind. See ya.}
-{176}{}{Give it to me or I kill you for it.}
-{177}{}{Here. Now just leave me alone.}
-{178}{}{Gladly.}
-{179}{}{Don't let me catch you doing this again!}
-{180}{}{H-Hey! You don't have the money! Get the hell out of here!}
-{181}{}{Oops. I'll come back.}
-{182}{}{Then I guess I have to kill you.}
-{183}{}{Hey. How's it goin'?}
-{184}{}{OK, and you?}
-{185}{}{Nie za dobrze.}
-{186}{}{Did you take a locket from that haunted house?}
-{187}{}{What do you know about that ghost that comes around here at night?}
-{188}{}{Hey, man, I'm Joey. What're you doin' on my turf?}
-{189}{}{Your turf? I don't think so.}
-{190}{}{Maybe I'm looking for you.}
-{191}{}{Just leaving. Bye.}
-{192}{}{Looking for some information.}
-{193}{}{Hey, baby cakes. You looking for Joey? Here I am.}
-{194}{}{No. Go away.}
-{195}{}{Maybe. What are you offering me?}
+
+# 1.
+{152}{}{Zaraz ciê potnê skurwielu!}
+{153}{}{Tak? ChodŸ i spróbuj.}
+{154}{}{Hej, poczekaj chwilkê!}
+{155}{}{Znasz takie powiedzenia, ¿eby zawsze zastanowiæ siê dwa razy? Mo¿e warto skorzystaæ z tej ludowej m¹droœci?}
+
+# 2.
+{156}{}{Czego chcesz? Liczysz na to, ¿e ciê po tym wszystkim wys³ucham? Podaj mi chocia¿ jeden powód dlaczego nie mia³bym ciê od razu zabiæ?}
+{157}{}{Mam kilka pytañ. Chodzi o ducha, który czasem krêci siê tutaj w nocy.}
+{158}{}{Czy wzi¹³eœ ten medalion z nawiedzonego domu?}
+{159}{}{Nic wa¿nego. Powetujê to sobie kopniakiem w twój ty³ek.}
+{160}{}{Nic. Tylko têdy przechodzê.}
+
+# 3.
+{161}{}{O czym u diab³a mówisz?}
+{162}{}{Ukrad³eœ medalion z tego nawiedzonego domu?}
+{163}{}{O niczym. Nie zawracaj sobie g³owy.}
+{164}{}{Niewa¿ne. Zamierzam teraz ciê zabiæ, czêœci posortujê sobie póŸniej.}
+
+# 4.
+{165}{}{J-ja nie mam pojêcia o czym mówisz.}
+{166}{}{Ach tak? Bo ja myœlê, ¿e dobrze wiesz! Ukrad³eœ medalion tej martwej dziewczyny i teraz jej dusza nie mo¿e zaznaæ spokoju.}
+{167}{}{W takim razie u¿yjê si³y, ¿eby ci go odebraæ.}
+
+# 5.
+{168}{}{T-to jakieœ k-kurwa sz-szaleñstwo! M-musia³o ciê n-nieŸle po-po-pierdoliæ po t-tym gównie od Tubby'ego. Kiedy tam b-by³em, to n-nie w-widzia³em ¿adnego d-ducha. To m-musia³ byæ z³y haluk, t-to nie m-mog³o byæ k-kurwa prawdziwe.}
+{169}{}{Zaczekaj, odkupiê go od ciebie.}
+{170}{}{Oddaj mi go, albo do niej do³¹czysz.}
+{171}{}{Jeœli nie zwrócisz go teraz, ona po ciebie przyjdzie. A jej nie da siê powstrzymaæ.}
+
+# 6.
+{172}{}{Hê? Naprawdê. Mo¿e. Ale musisz wybuliæ na to parê dolców. Nie dostaniesz go za darmo! $50 albo spadaj!}
+{173}{}{Dobra, oto pieni¹dze.}
+{174}{}{Bierz $20 i ciesz siê, ¿e ci go od tak nie zabiorê.}
+{175}{}{Albo nie, darujê sobie. Do zobaczenia.}
+{176}{}{Lepiej mi go daj, albo wezmê go sobie z twojego trupa.}
+
+# 7.
+{177}{}{Masz. Teraz zostaw mnie w spokoju.}
+{178}{}{Nareszcie.}
+{179}{}{Lepiej, ¿ebyœmy siê nie spotkali w podobnej sytuacji!}
+
+# 8.
+{180}{}{H-Hej! Przecie¿ ty nie masz pieniêdzy! IdŸ do diab³a!}
+{181}{}{Uups. Zaraz wracam.}
+{182}{}{Eee, a wiêc pozostaje mi tylko zabiæ ciê.}
+
+# 9.
+{183}{}{Hej. Jak leci?}
+{184}{}{NieŸle, a jak u ciebie?}
+{185}{}{Nie najlepiej.}
+{186}{}{Czy wzi¹³eœ medalion z tego nawiedzonego domu?}
+{187}{}{Co wiesz o duchu krêc¹cym siê noc¹ po okolicy?}
+
+# 10.
+{188}{}{Hej, koleœ, jestem Joey. Co robisz na moim terenie?}
+{189}{}{To twój teren? Nie wydaje mi siê.}
+{190}{}{Mo¿e to w³aœnie ciebie szukam.}
+{191}{}{Ju¿ sobie idê. Czeœæ.}
+{192}{}{Szukam informacji.}
+
+# 11.
+{193}{}{Hej, s³oneczko. Szukasz Joey'a? Oto jestem.}
+{194}{}{Nie. Spadaj.}
+{195}{}{Kto wie. Co mo¿esz mi zaoferowaæ?}
 {196}{}{Potrzebujê informacji.}
-{197}{}{No, sorry. I have to go now.}
-{198}{}{Hey, I got some Jet. It's great stuff and brand new from Reno. Want some?}
-{199}{}{Nigdy!}
-{200}{}{Za ile?}
-{201}{}{No, I want information.}
-{202}{}{Muszê ju¿ iœæ. Na razie.}
-{203}{}{How about you and I get it on?}
-{204}{}{Dobra.}
-{205}{}{Not if you were the last nonmutated man on the planet.}
-{206}{}{Er, no... I don't think so. I need something else.}
-{207}{}{You'll be coming back.}
+{197}{}{Nie, przykro mi. Muszê ju¿ iœæ.}
+
+# 12.
+{198}{}{Hej, mam trochê Jet'u. To wspania³y, œwie¿y towar z Reno. Chcesz trochê?}
+{199}{}{Nie ma mowy!}
+{200}{}{Ile?}
+{201}{}{Nie, potrzebujê informacji.}
+{202}{}{Muszê iœæ. Czeœæ.}
+
+# 13.
+{203}{}{Co ty na to, jakbyœmy tak ja i ty... tentego?}
+{204}{}{Czemu nie.}
+{205}{}{Nie, nawet gdybyœ by³ ostatnim niezmutowanym mê¿czyzn¹ na tej ziemi.}
+{206}{}{Eee, nie... raczej nie. Potrzebujê trochê innej przys³ugi.}
+
+# 14.
+{207}{}{Jeszcze tu wrócisz.}
 {208}{}{Mo¿e.}
-{209}{}{Don't count on it.}
-{210}{}{Wait! Can I ask you something?}
-{211}{}{Nobody talks to me like that!}
-{212}{}{I just did. You do anything more than talk?}
-{213}{}{Whatever. Are you selling anything or just making small talk?}
-{214}{}{My apologies. I'm actually looking around and don't know the area.}
-{215}{}{Co chcesz zrobiæ?}
-{216}{}{I'm looking for a locket.}
-{217}{}{I need to know more about that haunted house.}
-{218}{}{What's the deal with the old church and those guards?}
-{219}{}{Nothing you can provide.}
-{220}{}{S³ysza³eœ mo¿e o Krypcie 13?}
-{221}{}{Um, never mind. See you around.}
-{222}{}{Oh, you mean Tyler and his gang? They guard some shit that comes in from Vault City. Big fucking crates. Once in a while you see them get picked up by caravans heading to New Reno.}
-{223}{}{Can I ask you more about them?}
-{224}{}{Mogê spytaæ o coœ jeszcze?}
-{225}{}{OK, thanks. Bye.}
-{226}{}{What else you wanna know?}
-{227}{}{Who's Tyler?}
-{228}{}{Gdzie le¿y to Nowe Reno?}
-{229}{}{So, what are they guarding?}
-{230}{}{I want to ask you about something else.}
-{231}{}{That's it. Bye.}
-{232}{}{Tyler's just some weasel who screwed all the rest of us out of a sweet deal with
- Metzger, but fuck that shit! I don't fucking care anymore. I could kick his fucking ass though.
- Lara and him still have some really bad blood. Something about Tyler and her brother.}
-{233}{}{That could be useful. Can I ask you more about them?}
-{234}{}{Mogê spytaæ o coœ jeszcze?}
-{235}{}{OK, thanks. Bye.}
-{236}{}{New Reno is down to the south a long ways, then east some. There's a lot
- of action to be made there, but it's pretty fucking dangerous too. I might head back
- some day. Here, I can show you where it's at on that fancy screen thing of yours.}
-{237}{}{I think I can find it now. Can I ask you more about them?}
-{238}{}{Mogê spytaæ o coœ jeszcze?}
-{239}{}{OK, thanks. Bye.}
-{240}{}{Hell if I know.}
-{241}{}{Interesting. Can I ask you more about them?}
-{242}{}{Mogê spytaæ o coœ jeszcze?}
-{243}{}{OK, thanks. Bye.}
-{244}{}{For you, I will sell Jet for $500.}
-{245}{}{Nie, dziêki. Do zobaczenia.}
-{246}{}{No, thanks, but I would like to ask you something.}
-{247}{}{That's too much!}
-{248}{}{OK, I'll buy it.}
-{249}{}{If you don't have the money, come back when you can afford it. Don't let me see
- you buying from anyone else or I'll kick your fucking ass. I'm the only one with the pure
- uncut shit, shipped directly from New Reno. }
-{250}{}{Wait, I'll buy it.}
-{251}{}{Well, can I ask you something?}
-{252}{}{Pa.}
-{253}{}{OK, I'll drop the price to $350, but no less! That's my final offer. You got to pay
- top dollar for the good shit. Don't buy from Tubby or any of those losers. They cut their
- shit. I'm the only one for miles that can get a hold of the best stuff.}
-{254}{}{Forget it. Can I ask you something?}
-{255}{}{OK, I'll buy it.}
+{209}{}{Nie licz na to.}
+{210}{}{Chwileczkê! Mogê ciê jeszcze o coœ spytaæ?}
+
+# 15.
+{211}{}{Nikt nie bêdzie tak do mnie mówi³!}
+{212}{}{W³aœnie ktoœ tak powiedzia³. Masz zamiar zrobiæ coœ wiêcej... poza gadaniem?}
+{213}{}{Dobra, dobra. Sprzedajesz coœ, czy serwujesz tylko g³upawe gadki?}
+{214}{}{Przyjmij moje przeprosiny. Dopiero siê rozgl¹dam i nie znam jeszcze terenu.}
+
+# 16.
+{215}{}{Czego chcesz?}
+{216}{}{Szukam pewnego medalionu.}
+{217}{}{Wiesz mo¿e coœ o tym nawiedzonym domu? Bardzo mnie interesuje.}
+{218}{}{Co jest grane z tym starym koœcio³em i krêc¹cymi siê ko³o niego stra¿nikami?}
+{219}{}{Nic, w czym móg³byœ mi pomóc.}
+{220}{}{S³ysza³eœ cokolwiek o Krypcie 13?}
+{221}{}{Uhm, niewa¿ne. Do zobaczenia.}
+
+# 17. Koœció³
+{222}{}{Och, masz na myœli Tylera i jego gang? Pilnuj¹ jakiegoœ syfu z Kryptopolis. Kurewsko wielkie skrzynki. Od czasu do czasu zabieraj¹ je karawany z Nowego Reno.}
+{223}{}{Wiesz o tym coœ wiêcej?}
+{224}{}{Mogê zapytaæ ciê o coœ innego?}
+{225}{}{Dobra, dziêki. Na razie.}
+
+# 18.
+{226}{}{Chcesz siê jeszcze czegoœ dowiedzieæ?}
+{227}{}{Kim jest Tyler?}
+{228}{}{Gdzie jest Nowe Reno?}
+{229}{}{Czego oni tam strzeg¹?}
+{230}{}{Mam kilka innych pytañ.}
+{231}{}{To wszystko. Czeœæ.}
+
+# 19 Kim jest Tyler?
+{232}{}{Tyler to spryciarz, który wyœlizga³ wszystkich z intratnego uk³adu z Metzgerem. Ale ja to pierdolê! Nie zale¿y mi na tym gównie. Gdybym chcia³, to skopa³bym mu dupê. Lara i on maj¹ ze sob¹ na pieñku. Jakieœ stare dzieje z Tylerem i jej bratem.}
+{233}{}{To mi siê mo¿e przydaæ. Wiesz coœ jeszcze?}
+{234}{}{Mogê zapytaæ ciê o coœ innego?}
+{235}{}{Dobra, dziêki. Czeœæ.}
+
+# 20. New Reno?
+{236}{}{Nowe Reno... to kawa³ drogi na po³udniowy wschód. Mo¿na tam zrobiæ du¿o ciekawych rzeczy, ale jest te¿ kurewsko niebezpiecznie. Mo¿e kiedyœ tam wrócê. Mogê ci pokazaæ gdzie to jest na tym twoim zabawnym ekraniku.}
+{237}{}{Myœlê, ¿e ju¿ tam trafiê. Wiesz coœ jeszcze?}
+{238}{}{Mogê zapytaæ ciê o coœ innego?}
+{239}{}{Dobra, dziêki. Czeœæ.}
+
+# 21. Contents?
+{240}{}{Zabij mnie, ale nie wiem.}
+{241}{}{Ciekawe. Wiesz mo¿e coœ jeszcze?}
+{242}{}{Mogê zapytaæ ciê o coœ innego?}
+{243}{}{OK, dziêki. Czeœæ.}
+
+# 22.
+{244}{}{Dla ciebie sprzedam Jet za $500.}
+{245}{}{Nie, dziêki. Czeœæ.}
+{246}{}{Nie, dziêki, ale mam kilka pytañ.}
+{247}{}{To za du¿o!}
+{248}{}{Dobra, biorê.}
+
+# 23.
+{249}{}{Jeœli nie masz kasy, to wróæ kiedy bêdzie ciê staæ. I lepiej, ¿ebym nie zobaczy³ ciê kupuj¹cego Jet od kogoœ innego, bo skopiê tê twoj¹ zawszon¹ dupê. Jestem tu jedynym, który sprzedaje czysty towar, sprowadzany prosto z Nowego Reno.}
+{250}{}{Zaczekaj, jednak kupiê.}
+{251}{}{Mogê siê jeszcze o coœ spytaæ?}
+{252}{}{Czeœæ.}
+
+# 24.
+{253}{}{Dobra, zni¿ê cenê do $350, ale wiêcej ju¿ nie utargujesz! To moje ostatnie s³owo. Za dobry towar trzeba dobrze zap³aciæ. Nie warto kupowaæ od Tubby'ego i innych palantów. Oni rozcieñczaj¹ towar. Jestem tu jedynym, który sprzedaje naprawdê czysty towar.}
+{254}{}{Mowy nie ma. Mogê ciê o coœ spytaæ?}
+{255}{}{Dobra, chyba siê zdecydujê.}
 {256}{}{Niewa¿ne. Czeœæ.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
-{258}{}{No, you moron.}
-{259}{}{No, it's a place. Can I ask something else?}
-{260}{}{Yes, a wonderful drug.}
-{261}{}{No, bye.}
-{262}{}{Joey here isn't much of a conversationalist.}
-{300}{}{Nie wydaje mi siê. ¯egnaj.}
-{350}{}{You been sleeping? Turns out that Lara's a mean little bitch after all. She gunned Tyler down. I hear Metzger was in on it. Well, I better get back to... work.}
-{351}{}{You been sleeping? Turns out that Lara was a mean little bitch after all- too bad she's dead. Whipped out Tyler's group. Her gang's running things over there now, last I heard.}
+
+# 25
+{257}{}{Krypta... Krypta... Krypta 13? Nie, nigdy o czymœ takim nie s³ysza³em. Nie mów, ¿e wchodz¹ z nowym narkotykiem. Przecie¿ nic przebije Jetu!}
+{258}{}{Nie, ty kretynie.}
+{259}{}{Nie, to jest takie miejsce. Mogê zapytaæ ciê o coœ innego?}
+{260}{}{Tak, to wspania³y, nowy towar.}
+{261}{}{Nie. Czeœæ.}
+
+# Don't know what this is for.
+{262}{}{W tym temacie Joey nie jest najlepszym rozmówc¹.}
+
+# 4. extra
+{300}{}{Pewnie nie. Czeœæ.}
+
+# Addition for Node 17
+{350}{}{Œpisz czy co? Lara pokaza³a jednak swoje pazurki. Wystrzela³a gang Tylera. S³ysza³em, ¿e Metzger siê na to zgodzi³. Có¿, lepiej ju¿ wrócê do... pracy.}
+{351}{}{Œpisz czy co? Ta ma³a suka Lara zaatakowa³a gang Tylera. Wybili ich do nogi, ale sama Lara zginê³a. Teraz jej gang przejmie schedê po Tylerze. Przynajmniej tak s³ysza³em.}

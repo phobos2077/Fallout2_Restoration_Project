@@ -42,7 +42,7 @@
 {141}{}{Moja rozumie. Ju¿ iœæ.}
 {142}{}{Pytaæ wiêcej.}
 {143}{}{Du¿o zaryzykowa³eœ. Masz szczêœcie, ¿e nie zap³aci³eœ ¿yciem.}
-{144}{}{No dobra.}
+{144}{}{W porz¹dku.}
 {145}{}{Dobry pomys³. Cieszê siê, ¿e wypali³.}
 {146}{}{Có¿, pomyœlmy... Szpony œmierci s¹ najwyraŸniej zmutowanymi Kameleonami Jacksona, z gatunku rogatych. Do dziœ widaæ wiele podobieñstw, ale nawet wiêcej ró¿nic. Stopieñ mutacji jest niezwykle wysoki. Ten gatunek jest bardzo inteligentny - zdolnoœci intelektualne odpowiadaj¹ mniej wiêcej oœmioletniemu dziecku. Niektóre osobniki osi¹gnê³y nawet poziom w³aœciwy dla doros³ych ludzi. Ich zdolnoœæ uczenia jest bardzo wysoka. Potrafi¹ myœleæ abstrakcyjnie.}
 {147}{}{Uch... jasne.}
@@ -57,7 +57,10 @@
 {156}{}{Jesteœ naprawdê wielkim cz³owiekiem. Cieszê siê, ¿e dane mi by³o ciê poznaæ.}
 {157}{}{To ciekawe.}
 {158}{}{Nie pomogê komuœ takiemu jak ty. OdejdŸ.}
+
 {159}{}{Wyruszy³em do innego miasta i mieszka³em tam przez tydzieñ. Kiedy wróci³em przywitano mnie serdecznie. Gruthar, przywódca stada, przyszed³ do mnie i osobiœcie podziêkowa³ mi, ¿e do nich wróci³em. Jak widzisz - jestem tu z w³asnej, nieprzymuszonej woli.}
+
 {160}{}{Chocia¿ nie maj¹ strun g³osowych, szpony œmierci potrafi¹ naœladowaæ ludzk¹ mowê w taki sam sposób, jak robi to papuga. Nie wiem jeszcze na jakiej zasadzie siê to odbywa. Pod wzglêdem spo³ecznym stanowi¹ nadal stado o bardzo silnie wykszta³conym kodzie zachowañ. Przewodzi im silny samiec alfa. Szpony œmierci s¹ niezwykle oddane stadu, traktuj¹c je jako jedn¹, du¿¹ rodzinê.}
 {161}{}{Maj¹ jasno okreœlone pojêcie dobra i z³a. Ca³e stado œciœle przestrzega swoistego kodeksu etyczno-moralnego. Póki co, nie zauwa¿y³em, ¿eby stosowa³y przemoc wewn¹trz stada. Nigdy nie pope³niono tu 'ciê¿kiej zbrodni,' wiêc nie wiem, jak by post¹pi³y w takiej sytuacji. Hmmm. To ju¿ chyba wszystko, czego uda³o mi siê dowiedzieæ. Mam nadziejê, ¿e ci pomog³em.}
+
 {162}{}{Powiedzia³em, ¿e bêdê leczy³ ka¿d¹ rann¹ istotê, niezale¿nie od tego kim lub czym jest. Myœla³em, ¿e rozmawiam z jakimœ bandyt¹, który zosta³ postrzelony i potrzebowa³ teraz pomocy lekarza. Mo¿esz sobie wyobraziæ moje przera¿enie, kiedy z mroku wy³oni³y siê sylwetki kilku szponów œmierci nios¹cych rannego kompana. Ktoœ zrobi³ z niego sito. Powiedzia³em im, ¿e nie mogê mu pomóc w tych warunkach, wiêc zawi¹zali mi oczy i przyprowadzili tutaj. I tak siê tu znalaz³em.}

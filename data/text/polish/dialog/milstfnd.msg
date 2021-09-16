@@ -1,2 +1,3 @@
-{100}{}{You see a box labeled "Lost and Found."}
-{110}{}{You see a box labeled "Lost and Found."}
+{100}{}{Widzisz pud³o oznaczone napisem "Rzeczy znalezione".}
+
+{110}{}{Widzisz pud³o oznaczone napisem "Rzeczy znalezione".}

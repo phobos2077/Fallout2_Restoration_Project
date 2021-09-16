@@ -1,5 +1,5 @@
 {100}{}{Widzisz Amandê.}
-{101}{}{Widzisz zmêczon¹ kobietê, która wygl¹da jakby niedawno p³aka³a.}
+{101}{}{Widzisz zmeczon¹ kobietê, która wygl¹da jakby niedawno p³aka³a.}
 {102}{}{Widzisz Amandê.}
 {103}{}{Widzisz zmêczon¹ kobietê, która wygl¹da jakby niedawno p³aka³a.}
 {104}{}{Widzisz Amandê. Teraz, kiedy Joshua jest wolny, wydaje siê byæ o wiele szczêœliwsza.}
@@ -12,12 +12,12 @@
 {111}{}{Joshua! Jestem taka szczêœliwa, ¿e jesteœ wolny. Martwi³am siê...}
 {112}{}{Przykro mi, ale nie mam dla ciebie ¿adnej nagrody.}
 {113}{}{Proszê, zostaw mnie, bo zawo³am stra¿.}
-{114}{}{Co chcesz zrobiæ?}
+{114}{}{Czego chcesz?}
 {115}{}{Wszystko w porz¹dku? Wygl¹dasz na zmartwion¹.}
 {116}{}{Nic. Wybacz, ¿e ciê niepokoje.}
 {117}{}{Ja... to... to mój m¹¿ Joshua. On... wpakowa³ siê w k³opoty w... barze. Przypadkowo uderzy³ Obywatela i zosta³ aresztowany. On nie chcia³, ale przedtem trochê pi³ i....}
 {118}{}{Aresztowany? Gdzie jest teraz?}
-{119}{}{Jeœli by³ pijany i zaatakowa³ kogoœ, to powinien zostaæ aresztowany.}
+{119}{}{Jeœli upi³ siê, i zaatakowa³ kogoœ, to powinien zostaæ aresztowany.}
 {120}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e go wypuszcz¹.}
 {121}{}{W mieœcie, w Centrum Rozmieszczania S³u¿¹cych... Powiedzieli, ¿e móg³by odpracowaæ swój wyrok jako s³u¿¹cy... Ale to potrwa latami!}
 {122}{}{Co mogê zrobiæ, aby mu pomóc?}
@@ -31,7 +31,7 @@
 {130}{}{To brzmi jak dobre rozwi¹zanie. S³u¿¹cy w Kryptopolis s¹ traktowani ca³kiem dobrze, czy¿ nie?}
 {131}{}{Daj mi pomyœleæ, dobrze? Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
 {132}{}{Mogê ci pomóc. Ale nic za darmo.}
-{133}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e go wypuszcz¹.}
+{133}{}{Przykro mi to s³yszeæ, mam nadziejê, ¿e go wypuszcz¹.}
 {134}{}{Nie chcê, ¿eby mój syn by³ wychowany na niewolnika! Przybyliœmy do Kryptopolis bo s³yszeliœmy, ¿e to wolne miasto... ale kiedy tu przybyliœmy, poznaliœmy tutejsze prawa... op³aty dla stra¿y... I... to nie s¹ rzeczy, które nam opowiedziano.}
 {135}{}{Daj mi pomyœleæ, dobrze? Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
 {136}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e go wypuszcz¹.}
@@ -39,7 +39,7 @@
 {138}{}{Nie martw siê. Zobaczê co mogê zrobiæ.}
 {139}{}{Ale ja nie mam zbyt wiele pieniêdzy...}
 {140}{}{Nie myœla³em o twoich pieni¹dzach.}
-{141}{}{Niewa¿ne. Mo¿e mogê porozmawiaæ z kimœ z Centrum Rozmieszczania...}
+{141}{}{Niewa¿ne. Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
 {142}{}{Przykro mi to s³yszeæ. Mo¿e po prostu go wypuszcz¹. ¯egnaj.}
 {143}{}{Co mia³eœ na my...? Och, nie. Ja... nie mog³abym, ja... to znaczy.. ja...}
 {144}{}{Chcesz, ¿eby twój m¹¿ by³ wolny czy nie? Twój m¹¿ nie musi siê o tym dowiedzieæ.}

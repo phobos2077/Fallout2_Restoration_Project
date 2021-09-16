@@ -14,18 +14,18 @@
 {113}{}{Widzisz obraz z³o¿ony z czerwonych, zielonych i niebieskich punktów œwietlnych, które uk³adaj¹ w jakiœ obrazek...}
 {114}{}{Z tego ekranu patrzy na ciebie jakaœ paskudna zjawa. Nie, czekaj, ten terminal jest wy³¹czony.}
 {115}{}{To okno wygl¹da na mroczny wymiar poza przestrzeni¹ i czasem.}
-{116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
+{116}{}{Ten terminal wyœwietla komunikat: "Trwa uruchamianie Fenestra '98". Pokrywa go gruba warstwa kurzu. }
 {117}{}{To jest chyba terminal marki Morela. Aktualnie pracuje na nim coœ, co siê nazywa Fallout 3. Jejku, to jest w 3D i ma chyba nawet opcjê multiplayer.}
 {118}{}{WprowadŸ nazwê u¿ytkownika:}
 {119}{}{(Zobaczmy czy zadzia³a) Wyœwietl listê u¿ytkowników.}
 {120}{}{(Ciekawe, czy zadzia³a?) Smith, J.}
 {121}{}{Wróæ.}
 {123}{}{Chyba lepiej spróbujê tych sztuczek gdzieœ indziej.}
-{124}{}{Listing (the terminal displays a list of about 500 names).}
-{125}{}{Listing (the computer displays a list of names).}
+{124}{}{Lista u¿ytkowników: (terminal pokazuje listê oko³o 500 imion)}
+{125}{}{Lista u¿ytkowników: (komputer pokazuje listê imion)}
 {126}{}{Wybierz nazwê u¿ytkownika lub roz³¹cz siê:}
 {127}{}{(Ten u¿ytkownik ma niez³e prawa dostêpu.) Smith, J.}
-{128}{}{(This one looks kind of special.) Presidential Passkey-Security Override.}
+{128}{}{(To chyba jakiœ specjalny u¿ytkownik.) Przejêcie kontroli zabezpieczeñ - Klucz Prezydencki.}
 {129}{}{(Ten u¿ytkownik ma lepsze prawa dostêpu ni¿ inni.) Murray, T.}
 {130}{}{(Ten u¿ytkownik ma chyba najwy¿sze prawa dostêpu.) Curling, dr C.}
 {131}{}{(Ten u¿ytkownik ma naprawdê wspania³e prawa dostêpu.) Bird, D.}
@@ -33,7 +33,7 @@
 {133}{}{Wybierz opcjê: }
 {134}{}{A. E. C.: Sterowanie Elektrowni¹ Atomow¹,}
 {135}{}{Status Bezpieczeñstwa?}
-{136}{}{Download A. E. C.: Atomic Power plant Operations.}
+{136}{}{Pobierz A. E. C.: Sterowanie Elektrowni¹ Atomow¹.}
 {137}{}{Status Bezpieczeñstwa.}
 {138}{}{Powrót do menu nazwy u¿ytkownika:}
 {139}{}{Wybierz opcjê: }
@@ -41,9 +41,9 @@
 {141}{}{Korpus chemiczny: Raport nt. postêpów Projektu,}
 {142}{}{A. E. C.: Sterowanie Elektrowni¹ Atomow¹,}
 {143}{}{Status Bezpieczeñstwa?}
-{144}{}{Zabezpieczenia/poziom: aktualny status.}
-{145}{}{Download Chemical Corps: Project Status Report.}
-{146}{}{Download A. E. C.: Atomic Power plant Operations.}
+{144}{}{Zabezpieczenia/poziom: aktualny status}
+{145}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
+{146}{}{Pobierz A. E. C.: Sterowanie Elektrowni¹ Atomow¹.}
 {147}{}{Status Bezpieczeñstwa.}
 {148}{}{Powrót do menu nazwy u¿ytkownika:}
 {149}{}{Wybierz opcjê: }
@@ -54,25 +54,25 @@
 {154}{}{A. E. C.: Sterowanie Elektrowni¹ Atomow¹,}
 {155}{}{Status Bezpieczeñstwa?}
 {156}{}{Stan Narodu: stan bie¿¹cy.}
-{157}{}{Pobierz Lista S³ów.}
+{157}{}{Pobierz Listê S³ów.}
 {158}{}{Zabezpieczenia/poziom: aktualny status.}
-{159}{}{Download Chemical Corps: Project Status Report.}
-{160}{}{Download A. E. C.: Atomic Power plant Operations.}
+{159}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
+{160}{}{Pobierz A. E. C.: Sterowanie Elektrowni¹ Atomow¹.}
 {161}{}{Status Bezpieczeñstwa.}
 {162}{}{Powrót do menu nazwy u¿ytkownika:}
 {163}{}{Wybierz: Status Bezpieczeñstwa?}
 {164}{}{Status Bezpieczeñstwa.}
-{165}{}{End Access.}
+{165}{}{Koniec.}
 {166}{}{Pobieranie nie powiod³o siê - brak pliku Status Bezpieczeñstwa.}
 {167}{}{Stan Narodu: stan bie¿¹cy.}
 {168}{}{Pobierz Lista S³ów.}
-{169}{}{Zabezpieczenia/poziom: Aktualny poziom.}
-{170}{}{Download Chemical Corps: Project Status Report.}
-{171}{}{Download A. E. C.: Atomic Power plant Operations.}
+{169}{}{Zabezpieczenia/poziom: aktualny status.}
+{170}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
+{171}{}{Pobierz A. E. C.: Sterowanie Elektrowni¹ Atomow¹.}
 {172}{}{Powrót do menu nazwy u¿ytkownika:}
 {173}{}{Pobieranie zakoñczone.}
-{174}{}{Pobierz Lista S³ów.}
-{175}{}{Zabezpieczenia/poziom: Aktualny poziom.}
+{174}{}{Pobierz Lista s³ów.}
+{175}{}{Zabezpieczenia/poziom: Aktualny status.}
 {176}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
 {177}{}{Pobierz A. E. C.: Sterowanie Elektrowni¹ Atomow¹.}
 {178}{}{Status Bezpieczeñstwa.}
@@ -99,25 +99,25 @@
 {199}{}{Poziom si³owni i informatyczny: Wie¿e obronne w trybie Alarm.}
 {200}{}{Poziom si³owni i informatyczny: Wie¿e obronne w trybie Normalny.}
 {201}{}{Poziom si³owni i informatyczny: Wie¿e obronne w trybie Wy³¹czony - Konserwacja.}
-{202}{}{Adjust security level.}
+{202}{}{Zmieñ poziom zabezpieczeñ.}
 {203}{}{Stan Narodu: stan bie¿¹cy.}
 {204}{}{Pobierz Lista S³ów.}
-{205}{}{Download Chemical Corps: Project Status Report.}
-{206}{}{Download A. E. C.: Atomic Power plant Operations.}
+{205}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
+{206}{}{Pobierz A. E. C.: Sterowanie Elektrowni¹ Atomow¹.}
 {207}{}{Status Bezpieczeñstwa.}
 {208}{}{Powrót do menu nazwy u¿ytkownika:}
 {209}{}{Pobieranie zakoñczone.}
-{210}{}{Download State of the Nation: Current status.}
-{211}{}{Pobierz Lista S³ów.}
+{210}{}{Pobierz Stan Narodu: stan bie¿¹cy.}
+{211}{}{Pobierz Lista s³ów.}
 {212}{}{Zabezpieczenia/poziom: aktualny status.}
-{213}{}{Download A. E. C.: Atomic Power plant Operations.}
+{213}{}{Pobierz A. E. C.: Sterowanie Elektrowni¹ Atomow¹.}
 {215}{}{Status Bezpieczeñstwa.}
 {216}{}{Powrót do menu nazwy u¿ytkownika:}
 {217}{}{Pobieranie zakoñczone.}
-{218}{}{Download State of the Nation: Current status.}
+{218}{}{Pobierz Stan Narodu: stan bie¿¹cy.}
 {219}{}{Pobierz Lista S³ów.}
 {220}{}{Zabezpieczenia/poziom: aktualny status.}
-{221}{}{Download Chemical Corps: Project Status Report.}
+{221}{}{Pobierz Korpus chemiczny: Raport nt. postêpów Projektu.}
 {222}{}{Status Bezpieczeñstwa.}
 {223}{}{Powrót do menu nazwy u¿ytkownika:}
 {224}{}{Ten terminal w tej chiwli przeprowadza dok³adn¹ procedurê diagnostyczn¹. Proszê skorzystaæ z innego terminala. Dziêkujê.}
@@ -153,15 +153,16 @@
 {254}{}{Nie rozpoznano klucza prezydenckiego. Odmowa dostêpu.}
 {255}{}{(Hmmm, ciekawe, czy dam radê oszukaæ skaner, ¿e mam klucz, jeœli w³amiê siê do pliku dostêpowego. Chyba spróbujê.)}
 {256}{}{(No có¿, zawsze warto by³o spróbowaæ.) Wróæ.}
-{257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
-{258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey...)}
-{259}{}{(Damn, well nothing ventured...) Back.}
-{260}{}{Scanner reinitialized. Rescanning...}
+{257}{}{Zanotowano awariê skanera kluczy dostêpowych... trwa ponowne uruchamianie skanera...}
+{258}{}{(To dobra okazja, muszê teraz tylko sprawiæ, ¿eby pomyœla³, ¿e dosta³ klucz prezydencki...)}
+{259}{}{(Cholera. Przynajmniej nic siê nie spieprzy³o...) Wróæ.}
+{260}{}{Ponowne uruchamianie skanera zakoñczone. Ponawiam skanowanie...}
 {261}{}{(Nadesz³a wielka chwila.) - Gor¹czkowo klepiesz w klawiaturê.}
 {262}{}{Wykryto niedozwolon¹ operacjê. Odmowa dalszego dostêpu do tego terminalu... Wysy³am zawiadomienie do administratora.}
 {263}{}{Cholera. Zupe³nie nie o to mi chodzi³o.}
 {264}{}{Klucz prezydencki rozpoznany. Dzieñ dobry panie Prezydencie. (Tak! Zobaczmy co teraz mogê zrobiæ...)}
 {265}{}{(Co jeszcze mogê zrobiæ?)}
-{266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
+#added by killap
+{266}{}{Klucz prezydencki rozpoznany. Dzieñ dobry, Panie Prezydencie... Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu zainicjowany... **B³¹d** Cel nieznaleziony. Proszê upewniæ siê, ¿e czujniki dzia³aj¹ prawid³owo. Jeœli nie, proszê wype³niæ formularz FG-I-106-32-0635 w celu zlecenia naprawy. Dziêkujemy za korzystanie z doskona³ych produktów firmy Krypt-Tech. Mi³ego dnia.}
 {267}{}{(Hmm... Mo¿e zadzia³a kiedy ktoœ tu bêdzie. Spróbuje póŸniej.) Powrót do menu nazwy u¿ytkownika.}
 {268}{}{(Ciekawe czego jeszcze mogê spróbowaæ?) Wróæ.}

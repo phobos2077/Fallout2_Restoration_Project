@@ -1,4 +1,9 @@
-{100}{}{You see a still.}
-{101}{}{Ahhh, so Becky has a still. I'd better get this information to Frankie.}
-{102}{}{You see a demolished still.}
-{103}{}{The still has been destroyed.}
+#############################################################
+#he following lines are for describing the item when
+#lanced and and examined.
+#############################################################
+
+{100}{}{Widzisz aparaturê destylacyjn¹.}
+{101}{}{Ach, wiêc Becky pêdzi bimber. Muszê powiedzieæ o tym Frankiemu.}
+{102}{}{Widzisz zniszczon¹ aparaturê destylacyjn¹.}
+{103}{}{Aparatura zosta³a zniszczona.}

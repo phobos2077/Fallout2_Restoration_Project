@@ -1,7 +1,7 @@
-{100}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Jego oczy intensywnie wpatruj¹ siê w ziemiê.}
+{100}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Intensywnie wpatruje siê w ziemiê.}
 {101}{}{Widzisz niewolnika Kryptopolis.}
 {102}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Jego oczy intensywnie wpatruj¹ siê w ziemiê.}
-{103}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Jej oczy intensywnie wpatruj¹ siê w ziemiê.}
+{103}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Intensywnie wpatruje siê w ziemiê.}
 {104}{}{Widzisz niewolnika Kryptopolis.}
 {105}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Jej oczy intensywnie wpatruj¹ siê w ziemiê.}
 {106}{}{S³yszeliœmy o twoich wspania³ych wyczynach. To zadziwiaj¹ce, ¿e chcia³o ci siê ryzykowaæ ¿ycie dla Kryptopolis... i ca³ego œwiata.}
@@ -32,8 +32,8 @@
 {131}{}{Przykro mi, ale... nie mam pozwolenia na rozmawianie z kimkolwiek.}
 {132}{}{Je¿eli Obywatele z³api¹ mnie na rozmawianiu z handlarzem to w³adze miasta surowo mnie ukarz¹.}
 {133}{}{Stra¿nicy zostan¹ powiadomieni o tobie, je¿eli zaraz nie przestaniesz ze mn¹ rozmawiaæ.}
-{134}{}{Nie mogê z tob¹ rozmawiaæ. Mam obowi¹zki.}
-{135}{}{OdejdŸ st¹d, ³owco niewolników. Nie chcê mieæ k³opotów.}
+{134}{}{Nie mogê z tob¹ rozmawiaæ. Mam pilne obowi¹zki.}
+{135}{}{OdejdŸ natychmiast. Nie chcê tutaj ¿adnych problemów.}
 {136}{}{Uciekaæ? Ja... nigdy nawet przez myœl nie przesz³a mi próba ucieczki z tego miejsca. ¯ycie jest tutaj naprawdê wspania³e.}
 {137}{}{Mieszkañcy powiedzieli mi, ¿e je¿eli bêdê pracowa³ ciê¿ej, pewnego dnia zostanê pe³noprawnym Obywatelem.}
 {138}{}{Obywatele nauczyli nas, ¿e praca jest dla nas najwspanialsz¹ nagrod¹.}
@@ -49,11 +49,11 @@
 {148}{}{Pewnego dnia z wioski na pó³nocy zosta³o wywiezionych wiele osób... miedzy innymi ja. ¯ycie tutaj jest o wiele lepsze.}
 {149}{}{Pierwszy raz zabrano mnie z Nory, chodzi oczywiœcie o handel ¿ywym towarem. Na szczêœcie wszystko skoñczy³o siê tutaj.}
 {150}{}{Kr¹¿¹ plotki, ¿e Pierwszy Obywatel czasem traci panowanie nad sob¹, gdy chodzi o s³u¿¹cych.}
-{151}{}{Nie wolno mi z tob¹ rozmawiaæ. Mam du¿o pracy.}
+{151}{}{Nie mogê z tob¹ teraz rozmawiaæ. Mam wiele rzeczy do zrobienia.}
 {152}{}{Muszê skoñczyæ moja robotê w przeci¹gu godziny.}
 {153}{}{Rozmawianie z obcymi jest sprzeczne z zasadami.}
 {154}{}{Uciekaæ? Po co?}
 {155}{}{Tak? W czym mogê pomóc?}
-{156}{}{Schwytano mnie wiele lat temu. Prawie tego nie pamiêtam.}
+{156}{}{Handlarze ¿ywym towarem z³apali mnie dawno temu. By³o to dla mnie okropne prze¿ycie.}
 {157}{}{Dwójkê moich uroczych dzieci wywieziono daleko na pó³noc. Mam nadziejê, ¿e pewnego dnia zawitaj¹ do tego miasta.}
-{158}{}{Przykro mi, ale nie mam czasu na pogawêdki.}
+{158}{}{Przykro mi, ale nie mam czasu na rozmowê.}

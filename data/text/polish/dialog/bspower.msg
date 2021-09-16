@@ -1,12 +1,11 @@
-{100}{}{The generator is functioning normally. Power output is optimal.}
-{101}{}{The generator seems to be in an emergency stand-by mode. The power output is minimal.}
-{102}{}{Try to diagnose the problem.}
-{103}{}{Oh well. Gotta go.}
-{104}{}{There must have been a short in the system at some time. The emergency circuit breakers kicked
- in, but fused in the open position. You may be able to free them up and restore power.}
-{105}{}{You can't seem to find anything wrong. It just doesn't work.}
-{106}{}{Try to repair it.}
-{107}{}{Time to leave.}
-{108}{}{You manage to break the contacts loose and restore power!}
-{109}{}{Damn. This is tougher than it looks.}
-{110}{}{W porz¹dku.}
+{100}{}{Generator pracuje normalnie. Produkcja mocy w normie.}
+{101}{}{Wygl¹da na to, ¿e generator dzia³a w trybie awaryjnym. Produkcja mocy minimalna.}
+{102}{}{Spróbuj znaleŸæ problem.}
+{103}{}{No có¿. Trzeba ju¿ iœæ.}
+{104}{}{W pewnym momencie musia³o byæ jakieœ przepiêcie w systemie. Bezpieczniki zaskoczy³y, ale póŸniej pozosta³y nadal wy³¹czone. Chyba jesteœ w stanie je odblokowaæ i przywróciæ zasilanie.}
+{105}{}{Nie udaje ci siê znaleŸæ nic nienormalnego. Po prostu nie dzia³a.}
+{106}{}{Spróbuj naprawiæ generator.}
+{107}{}{Czas uciekaæ.}
+{108}{}{Udaje ci siê odblokowaæ po³¹czenie i przywróciæ zasilanie!}
+{109}{}{Cholera. To jest trudniejsze, ni¿ siê wydaje.}
+{110}{}{Dalej.}

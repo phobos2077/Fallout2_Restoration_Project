@@ -1,52 +1,52 @@
-{100}{}{You see an enthusiastic Shi.}
-{101}{}{You see Mai Da Chiang, the owner of Red 888 Guns.}
-{102}{}{This is a rotund Shi who looks like he's running on permanent overdrive.}
-{103}{}{Hi! Welcome to Red 888 Guns! I'm Mai Da Chiang, the owner. How can I help you?}
+{100}{}{Widzisz rozpromienionego Shi.}
+{101}{}{Widzisz Mai Da Chianga, w³aœciciela Red 888 Guns.}
+{102}{}{To zaokr¹glony Shi, który wygl¹da, jakby ca³y czas dzia³a³ na wysokich obrotach.}
+{103}{}{Witam! Witam w Red 888 Guns! Jestem Mai Da Chiang, w³aœciciel. Czym mogê ci s³u¿yæ?}
 {104}{}{Grokken di ma!}
-{105}{}{Me buy!}
-{106}{}{I was looking for some weaponry.}
+{105}{}{Moja kupiæ!}
+{106}{}{Interesuje mnie pewne uzbrojenie.}
 {107}{}{Opowiedz mi o tym miejscu.}
-{108}{}{Zapomnij o tym.}
-{109}{}{I'm sorry! I don't speak your language! Have a nice day!}
+{108}{}{Niewa¿ne.}
+{109}{}{Przykro mi! Nie mówiê w twoim jêzyku! Mi³ego dnia ¿yczê!}
 {110}{}{Rrr?}
-{111}{}{Ahh, a weapon, eh? Well, this is what I have.}
-{112}{}{[Dalej.]}
-{113}{}{Great, great. Thank you for your business. Come back soon!}
-{114}{}{More questions!}
-{115}{}{Pa!}
-{116}{}{No. Is not good enough. So sorry. Something else perhaps?}
-{117}{}{Jeszcze tylko kilka.}
-{118}{}{No. Bye}
-{119}{}{You need something else?}
-{120}{}{Me buy!}
-{121}{}{No. Bye.}
-{122}{}{I was looking for some weaponry.}
+{111}{}{Ach, broñ, co? Có¿, oto, co posiadam.}
+{112}{}{[dalej]}
+{113}{}{Wspaniale, wspaniale. Dziêkujê za zakupy. Proszê nied³ugo wróciæ!}
+{114}{}{Wiêcej pytañ!}
+{115}{}{Na razie!}
+{116}{}{Nie. To nie wystarczy. Przykro mi. Mo¿e coœ innego?}
+{117}{}{Wiêcej pytañ.}
+{118}{}{Nie. Na razie.}
+{119}{}{Potrzebujesz czegoœ jeszcze?}
+{120}{}{Moja kupiæ!}
+{121}{}{Nie. Czeœæ.}
+{122}{}{Interesuje mnie pewne uzbrojenie.}
 {123}{}{Opowiedz mi o tym miejscu.}
-{124}{}{Zapomnij o tym.}
-{125}{}{We have lived here for years, but we did not always live here. Dr. Fung knows the complete history. I'll bet what you're looking for is what we do now.}
-{126}{}{Tak.}
-{127}{}{No, actually, I wanted to know the history. I'll go find Fung. See you.}
-{128}{}{Now, we are mainly fishermen and scientists. Our fishermen catch fish. Our scientists are working on a project that they say will change the world.}
-{129}{}{Change the world how?}
-{130}{}{What else is happening in town?}
-{131}{}{Hmm. Interesting. I have more questions.}
-{132}{}{Dziêki. Pa.}
-{133}{}{I do not know. They keep their secrets to themselves.}
-{134}{}{I see. What else is happening in town?}
-{135}{}{Rozumiem. Mam inne pytania.}
-{136}{}{Dziêki. Pa.}
-{137}{}{We have two rivals of martial arts in town. They are Lo Pan, a lover of self, and the Dragon, who loves others. It is said that whoever wins will determine the future of martial arts.}
-{138}{}{I see. Anything else in town?}
-{139}{}{Rozumiem. Mam inne pytania.}
+{124}{}{Niewa¿ne.}
+{125}{}{¯yjemy tu ju¿ od wielu lat, ale nie zawsze tak by³o. Dr Fung zna ca³¹ historiê. Za³o¿ê siê, ¿e chodzi ci raczej o to, co robimy obecnie.}
+{126}{}{Ta.}
+{127}{}{Nie, tak naprawdê, to chcê poznaæ historiê. Pójdê poszukaæ Funga. Na razie.}
+{128}{}{Teraz jesteœmy g³ównie rybakami i naukowcami. Nasi rybacy ³owi¹ ryby. Nasi naukowcy pracuj¹ nad projektem, który, jak mówi¹, zmieni œwiat.}
+{129}{}{Jak zmieni œwiat?}
+{130}{}{Co jeszcze dzieje siê w mieœcie?}
+{131}{}{Hmm. Ciekawe. Mam te¿ inne pytania.}
+{132}{}{Dziêki. Do zobaczenia.}
+{133}{}{Nie wiem. Zachowuj¹ swoje tajemnice dla siebie.}
+{134}{}{Rozumiem. Co jeszcze dzieje siê w mieœcie?}
+{135}{}{Rozumiem. Mam te¿ inne pytania.}
+{136}{}{Dziêki. Do zobaczenia.}
+{137}{}{Mamy dwóch przeciwników w sztukach walki. Jest Lo Pan, który kocha siebie, i Smok, który kocha innych. Powiedziane jest, ¿e ten, kto wygra, zdecyduje o przysz³oœci sztuk walki.}
+{138}{}{Rozumiem. Czy coœ jeszcze dzieje siê w mieœcie?}
+{139}{}{Rozumiem. Mam te¿ inne pytania.}
 {140}{}{Dziêki.}
-{141}{}{There is a gang of vagrants who have moved onto the Poseidon Oil tanker on the wharf. There were monsters living inside it, but the vagrants have sealed them into the lower hull. Though they are outsiders, we are grateful to the drifters for this task.}
-{142}{}{Any other news?}
-{143}{}{Rozumiem. Mam inne pytania.}
-{144}{}{Dziêki. Pa.}
-{145}{}{The scientists report that someone has broken through their computer security and stolen our secrets.}
-{146}{}{Any other news?}
-{147}{}{Rozumiem. Mam inne pytania.}
-{148}{}{Dziêki. Pa.}
-{149}{}{That is all I can think of at the moment. Good day.}
-{150}{}{Mi³ego dnia.}
-{151}{}{You are a thief, a murderer, and a villain. I'm afraid I must kill you.}
+{141}{}{Jest te¿ gang wyrzutków, którzy wprowadzili siê do Tankowca Posejdona na przystani. W œrodku by³y potwory, ale wyrzutkowie odciêli je na dolnym pok³adzie. Pomimo tego, ¿e s¹ obcy, jesteœmy im wdziêczni za ten czyn.}
+{142}{}{Jakieœ inne wieœci?}
+{143}{}{Rozumiem. Mam te¿ inne pytania.}
+{144}{}{Dziêki. Do zobaczenia.}
+{145}{}{Naukowcy donosz¹, ¿e ktoœ przedar³ siê przez nasze zabezpieczenia komputerowego i wykrad³ nasze tajemnice.}
+{146}{}{Jakieœ inne wieœci?}
+{147}{}{Rozumiem. Mam te¿ inne pytania.}
+{148}{}{Dziêki. Do zobaczenia.}
+{149}{}{To wszystko, co w tej chwili przychodzi mi do g³owy. Do widzenia.}
+{150}{}{Do widzenia.}
+{151}{}{Na takich jak ty mówi siê z³odzieje, mordercy i ³ajdacy. Obawiam siê, ¿e muszê ciê zabiæ.}

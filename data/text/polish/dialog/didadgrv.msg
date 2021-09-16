@@ -1,1 +1,1 @@
-{101}{}{The name above the grave reads: "Mr. Christopher Winslow."}
+{101}{}{Napis nad grobem g³osi: "Christopher Winslow".}

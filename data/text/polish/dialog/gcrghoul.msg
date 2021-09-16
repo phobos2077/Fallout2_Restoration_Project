@@ -1,52 +1,57 @@
-{100}{}{Widzisz kogoœ z mocno poparzon¹ skór¹.}
-{101}{}{Widzisz ghula - mieszkañca Gecko.}
-{102}{}{You see someone whose skin seems to have been burned with radiation. That much radiation looks
- as though it should have killed 'em, but it seems well enough.}
-{110}{}{Hello. Do you need some supplies?}
-{111}{}{If you want supplies, you'll need a requisition form.}
-{112}{}{If you need something here, you better talk to Jeremy.}
-{113}{}{Jeremy takes care of all the supply requests.}
-{114}{}{You better talk to Jeremy. He hates it when people get stuff behind his back.}
-{115}{}{I can't help you unless you talk to Jeremy first.}
-{116}{}{Talk to Jeremy. You know the rules.}
-{120}{}{I think some of these old gauges are broken.}
-{121}{}{I just hit the console to get it working again.}
-{122}{}{I don't think this machine ever worked right.}
-{123}{}{I'm proud to be on reactor duty.}
-{124}{}{It feels best in here when the gauges are all in the red.}
-{125}{}{I hope we get another uranium shipment from Broken Hills soon.}
-{126}{}{We're starting to run low on uranium.}
-{127}{}{I'm harnessing the power of the atom. What're you doing?}
-{128}{}{Getting nice and toasty in here now.}
-{129}{}{After a while, you don't need to look at the gauges.}
-{130}{}{I'm so bored -- none of these gauges work, anyhow.}
-{131}{}{Leak? What leak?}
-{140}{}{This is the best place to live in all of Gecko.}
-{141}{}{Nothing warms these old bones better than a hefty dose of roentgens.}
-{142}{}{Mmm, it's so warm and toasty in here all the time. I love it.}
-{143}{}{Surprised to see you here, smoothskin.}
-{144}{}{Most smoothskins are afraid of a little bit of radiation.}
-{145}{}{A day without leakage is like a day without sunshine.}
-{146}{}{Sure glad I got these choice digs.}
-{147}{}{Be it ever so humble...}
-{148}{}{Without this reactor, everyone here would die.}
-{149}{}{Sure hope those Vault City-types don't kill all of us.}
-{150}{}{Thank you, thank you, thank you.}
+{100}{}{Widzisz osobê, której skóra uleg³a silnemu poparzeniu.}
+{101}{}{Widzisz jednego z ghuli zamieszkuj¹cych Gecko.}
+{102}{}{Widzisz osobê, która w wyniku silnego napromieniowania utraci³a niemal ca³¹ skórê. Taka dawka napromieniowania powinna byæ œmiertelna. Jak widaæ - nie by³a.}
+
+{110}{}{Witaj. Potrzebujesz czegoœ?}
+{111}{}{Jeœli potrzebujesz czegoœ z magazynu, musisz mieæ formularz zamówienia.}
+{112}{}{Jeœli potrzebujesz czegoœ, porozmawiaj z Jeremym.}
+{113}{}{Jeremy zajmuje siê wydawaniem rzeczy z magazynu.}
+{114}{}{Lepiej porozmawiaj z Jeremym. Bardzo siê z³oœci, gdy ktoœ wynosi rzeczy z magazynu bez pozwolenia.}
+{115}{}{Nie mogê ci pomóc. Porozmawiaj z Jeremym.}
+{116}{}{Znasz zasady: porozmawiaj z Jeremym.}
+
+{120}{}{Te stare wskaŸniki chyba ca³kiem siê popsu³y.}
+{121}{}{Tê konsolê trzeba mocno waln¹æ, inaczej nie bêdzie dzia³aæ.}
+{122}{}{Ten sprzêt chyba zawsze by³ uszkodzony.}
+{123}{}{Uwielbiam pracê przy reaktorze.}
+{124}{}{Najfajniej jest, jak zapal¹ siê na raz wszystkie lampki ostrzegawcze.}
+{125}{}{Mam nadziejê, ¿e wkrótce dostaniemy now¹ dostawê uranu z Broken Hills.}
+{126}{}{Zaczyna nam brakowaæ uranu.}
+{127}{}{Ja poskramiam potêgê atomu. A ty czym siê zajmujesz?}
+{128}{}{Robi siê tu przyjemnie i cieplutko.}
+{129}{}{Po pewnym czasie nie muszê nawet sprawdzaæ wskaŸników.}
+{130}{}{Strasznie siê nudzê -te wskaŸniki i tak nie dzia³aj¹.}
+{131}{}{Przeciek? Jaki przeciek?}
+
+{140}{}{To najfajniejsze miejsce w ca³ym Gecko.}
+{141}{}{Nic tak nie pomaga na reumatyzm jak solidna dawka promieniowania.}
+{142}{}{Mmm, tutaj ca³y czas jest ciep³o i przyjemnie. Lubiê tu siedzieæ.}
+{143}{}{Dziwiê siê, ¿e ciê tu widzê, g³adkoskóra istoto.}
+{144}{}{Wiêkszoœæ g³adkoskurych boi siê nawet odrobiny promieniowania.}
+{145}{}{Dzieñ bez drobnego wycieku to dzieñ stracony.}
+{146}{}{Jak dobrze jest powygrzewaæ siê trochê przy reaktorze.}
+{147}{}{Chocia¿ odrobinkê...}
+{148}{}{Bez reaktora wszyscy byœmy zginêli.}
+{149}{}{Mam nadziejê, ¿e ci z Kryptopolis nie spróbuj¹ nas zaatakowaæ.}
+
+{150}{}{Dziêki, dziêki, dziêki.}
 {151}{}{Dziêki za naprawienie naszego reaktora.}
-{152}{}{Our home's safe now, thanks to you.}
-{153}{}{Our reactor's purring like a kitten now. Thanks.}
-{154}{}{The reactor is running much better now.}
-{160}{}{I can't believe that Vault City helped us.}
-{161}{}{Thanks for getting our reactor running so well.}
-{162}{}{I'm glad the reactor's working better.}
-{163}{}{It's cooler in here lately.}
-{164}{}{Does it feel colder in here?}
-{170}{}{What the heck are you sneaking around here for?}
-{171}{}{Uh, I can still see you, you know.}
-{172}{}{Do you always walk that strangely?}
-{173}{}{I thought I heard an elephant trampling around here somewhere. Oh, it's you.}
-{174}{}{We're watching you, smoothskin.}
-{175}{}{You better not be up to something.}
-{176}{}{If something goes wrong, your sneaking ass is the one that's going to be blamed.}
-{177}{}{Guards! There's some smoothskin here trying to be sneaky.}
-{178}{}{You must be up to no good.}
+{152}{}{Dziêki tobie nic ju¿ nam nie grozi.}
+{153}{}{Nasz reaktor pracuje ju¿ bez zak³óceñ. Dziêki.}
+{154}{}{Reaktor pracuje teraz o wiele lepiej.}
+
+{160}{}{Nie mogê uwie¿yæ, ¿e Kryptopolis nam pomog³o.}
+{161}{}{Dziêki za pomoc przy naprawieniu reaktora.}
+{162}{}{Cieszê siê, ¿e reaktor pracuje ju¿ bez zak³óceñ.}
+{163}{}{Ostatnio jakoœ siê tu och³odzi³o.}
+{164}{}{Czy tylko mi wydaje siê, ¿e jest jakoœ ch³odniej?}
+
+{170}{}{Czemu siê tak skradasz?}
+{171}{}{Zdajesz sobie sprawê, ¿e i tak ciê widzê?}
+{172}{}{Zawsze poruszasz siê w taki dziwny sposób?}
+{173}{}{Co to - stado s³oni? A, nie - to tylko ty siê skradasz.}
+{174}{}{Mamy na ciebie oko, g³adkoskóra istoto.}
+{175}{}{Mam nadziejê, ¿e nie szukasz k³opotów.}
+{176}{}{Jeœli coœ pójdzie nie tak, ca³a wina spadnie na ciebie.}
+{177}{}{Stra¿! Ta g³adkoskóra istota podejrzanie siê zachowuje.}
+{178}{}{Na pewno coœ knujesz.}

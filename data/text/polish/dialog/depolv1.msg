@@ -10,6 +10,8 @@
 {109}{}{Œluzy antybiologiczne poziomu 1 zawiod³y.}
 {110}{}{Poziom 1 zagro¿ony ca³kowitym ska¿eniem.}
 {111}{}{Poziom 1 ska¿ony.}
+
+# X minutes and Y seconds to evacuate.
 {112}{}{ minut i }
 {113}{}{ sekund na ewakuacjê.}
 {114}{}{ minuta i }

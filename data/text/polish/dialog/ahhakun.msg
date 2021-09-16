@@ -4,9 +4,9 @@
 {103}{}{Hakunin jest strasznie poparzony. Pachnie jak przypieczony kurczak, wygl¹da jak spalony kotlet i nie masz pojêcia jak uda³o mu siê prze¿yæ tak d³ugo w tym stanie.}
 {104}{hak001}{Witaj, Dziecko Przeznaczenia. Czemu¿ to ziemia przede mn¹ ogrzewa siê od twego dotyku?}
 {105}{}{Hê? }
-{106}{}{Przychodzê, aby siê po¿egnaæ. Wyruszam ze œwiêt¹ misj¹. }
-{107}{}{Odchodzê st¹d. Przysz³o mi na myœl, ¿e mo¿e chocia¿ ten jeden raz bêdziesz gadaæ jak prawdziwa osoba. }
-{108}{}{Bierzesz za du¿o prochów. Wynoszê siê st¹d. }
+{106}{}{Przychodzê, ¿eby siê po¿egnaæ. Wyruszam ze œwiêt¹ misj¹. }
+{107}{}{Odchodzê st¹d. Przysz³o mi na myœl, ¿e mo¿e chocia¿ ten jeden raz bêdziesz gadaæ jak cz³owiek. }
+{108}{}{Za du¿o grzebiesz siê w prochach. Wynoszê siê st¹d. }
 {109}{}{Zraniono mnie. Mo¿esz mnie uzdrowiæ?}
 {110}{}{W twoim ogrodzie wyros³o kilka wrednych roœlin - trzeba by³o je wyplewiæ.}
 {111}{hak001a}{Proszê, wyjaw zamglonym oczom cel swego przybycia.}
@@ -16,7 +16,7 @@
 {115}{}{Bierzesz za du¿o prochów. Wynoszê siê st¹d. }
 {116}{}{W twoim ogrodzie wyros³o kilka wrednych roœlin - trzeba by³o je wyplewiæ.}
 {117}{hak002}{Ziemia œpiewa o nadejœciu nowej duszy bohatera... mo¿e przed odejœciem wyœwiadczysz mi grzecznoœæ?}
-{118}{}{Jasne. Czego potrzebujesz?}
+{118}{}{Pewnie. Czego potrzebujesz?}
 {119}{}{To zale¿y... co mi dasz?}
 {120}{hak002a}{Na œwiat mo¿na patrzeæ z wielu ró¿nych stron - to lekcja, której ju¿ nied³ugo doœwiadczysz... mo¿e przed odejœciem wyœwiadczysz mi grzecznoœæ?}
 {121}{}{Czy w³aœnie poprosi³eœ mnie o przys³ugê? Jeœli tak, to czemu nie?}
@@ -69,7 +69,7 @@
 {168}{}{W sumie lubiê swoj¹ duszê tak¹, jaka jest. ¯egnam.}
 {169}{}{To by³by dla mnie zbyt wielki zaszczyt. Odejdê natychmiast.}
 {170}{hak014}{Dziecko, oto znowu istota twego jestestwa jest ca³oœci¹, jak b³ogos³awiona kraina.}
-{171}{}{Dziêki ci.}
+{171}{}{Dziêkujê.}
 {172}{}{Masz na myœli, ¿e ju¿ mi lepiej, tak?}
 {173}{hak015}{Czynienie czegoœ ca³oœci¹ daje poczucie spe³nienia, którego zrozumienie da ci m¹droœæ, moje dziecko.}
 {174}{}{Czekaj, nie podpowiadaj. Czujê siê lepiej i fakt, ¿e mi pomog³eœ, sprawia ci przyjemnoœæ, tak? Dziêki.}
@@ -79,10 +79,10 @@
 {178}{}{Zraniono mnie. Mo¿esz mnie uzdrowiæ?}
 {179}{}{Och, to nic takiego. Do widzenia.}
 {180}{hak018}{Ach. Przywracasz œwiatu ducha Przybysza i przynosisz uœmiech duszy starego, przemijaj¹cego cz³owieka. W nagrodê dam ci lecznicze proszki. Pamiêtaj, ¿e one m¹c¹ umys³ tak samo, jak oczyszczaj¹ cia³o.}
-{181}{}{Dziêki ci.}
+{181}{}{Dziêkujê.}
 {182}{hak018a}{Ponadto zmieszam ze sob¹ kwiat Broca i korzeñ xandrowy zawsze wtedy, gdy je do mnie przyniesiesz. Niech twoje œcie¿ki wiod¹ ciê prosto, a twoje serce wiernie ci s³u¿y.}
 {183}{}{Gdzie mogê znaleŸæ te rzeczy?}
-{184}{}{Dziêki ci.}
+{184}{}{Dziêkujê.}
 {185}{}{Prawie mi przykro, ¿e muszê ju¿ iœæ. Ju¿ niemal potrafiê ciê zrozumieæ. Do widzenia.}
 {186}{hak019}{Ach, Dziecko, mój ogród ma siê dobrze, a twój?}
 {187}{}{Wszystko w porz¹dku.}
@@ -94,25 +94,25 @@
 {193}{}{Ouu?}
 {194}{}{Uuug! Bak!}
 {195}{hak020}{Wype³nia mnie radoœæ z tych s³ów. Zaprawdê, bogowie szepcz¹ do mnie. Do widzenia.}
-{196}{}{Pa.}
+{196}{}{Do widzenia.}
 {197}{}{Wci¹¿ mieszasz jakieœ dziwne zio³a, co? Na razie.}
 {198}{hak021}{Wszyscy mamy swoje ogrody. Niech twoje czyny s³u¿¹ dogl¹daniu twego. Nich ci siê dobrze wiedzie. Tymczasem bêdê zabiega³ o ³askê bogów.}
-{199}{}{Do zobaczenia.}
+{199}{}{Na razie.}
 {200}{}{Za³o¿ê siê, ¿e ci¹gasz ze sob¹ to swoje towarzystwo, gdziekolwiek pójdziesz. Trzymaj siê.}
 {201}{hak022}{Spójrz na pó³noc, Dziecko, a droga stanie otworem.}
-{202}{}{Dobra, dziêki.}
+{202}{}{Dobra. Dziêki.}
 {203}{hak023}{Czujê siê zaszczycony, ¿e mogê s³u¿yæ Dziecku Przeznaczenia.}
 {204}{hak024}{Takie jest ¿ycie. Dwoje tworzy trzecie. Do stworzenia leczniczego proszku bêd¹ ci potrzebne korzeñ xandrowy i kwiat Broca.}
 {205}{}{Och. Dziêki.}
 {206}{}{Puu.}
 {207}{hak025}{Oby nigdy nie zasz³a potrzeba jego u¿ycia.}
-{208}{}{Dobra, dziêki.}
+{208}{}{Dobra. Dziêki.}
 {209}{}{Uch!}
 {210}{hak026}{Zdrowie do ciebie powróci³o.}
-{211}{}{Dziêki ci.}
+{211}{}{Dziêkujê.}
 {212}{}{¯adnych lekcji? ¯adnych niezrozumia³ych przemówieñ? Na pewno wszystko z tob¹ w porz¹dku?}
 {213}{hak027}{Witaj, Dziecko. Pob³ogos³aw nas nowin¹, ¿e GECK zostanie nied³ugo znaleziony. Nasza wioska cierpi, nasza potrzeba jest wielka, a nasz czas - krótki.}
-{214}{}{Ne.}
+{214}{}{Nuch.}
 {215}{}{A twoja zdolnoœæ do mówienia po ludzku, nieistniej¹ca. Wci¹¿ szukam.}
 {216}{}{Pracujê nad tym. }
 {217}{}{Odczep siê ode mnie, staruchu. Robiê co mogê.}
@@ -126,18 +126,18 @@
 {225}{}{Uch.}
 {226}{}{Huh?!}
 {227}{hak029}{Witaj z powrotem, Dziecko. Z wyrazu twej twarzy czytam, ¿e ocalenie przez GECK nie jest jeszcze naszym udzia³em. Nie ustawaj w d¹¿eniach jak pracowita mrówka, dopóki nasze rezerwy siê nie wyczerpi¹. Jesteœ nasz¹ ostatni¹ nadziej¹.}
-{228}{}{Uhuh.}
+{228}{}{Uch-huh.}
 {229}{}{Staram siê. Ciekawe, czy jest jakaœ mrówka, która przesz³a tyle mil co ja.}
 {230}{}{Robiê co mogê.}
 {231}{}{Podwojê swoje wysi³ki, œwiêty ojcze. Nie zawiodê ciê.}
 {232}{}{Jasne, jasne. Ju¿ to mówi³eœ.}
 {233}{hak030}{Dziecko - wioska p³acze z rozpaczy. Ludzie s³abn¹ z g³odu. Proszê, nie wytrzymamy ju¿ zbyt d³ugo.}
-{234}{}{Uhuh.}
+{234}{}{Uch-huh.}
 {235}{}{Staram siê. Staram siê! Dajcie mi wszyscy spokój!}
 {236}{}{Znajdê GECK, o œwiêty. Masz moje s³owo.}
 {237}{}{Zrobiê co tylko bêdê w stanie, by odnaleŸæ GECK.}
 {238}{hak031}{Dziecko, zosta³o nam ju¿ tylko kilka ziaren z ca³ego piasku czasu. Proszê, przynieœ szybko GECK i spraw, by przysz³oœæ naszej wioski przypomina³a pla¿ê nad oceanem. Szybko, zanim ostatnie ziarno siê przesypie.}
-{239}{}{Uhuh.}
+{239}{}{Uch-huh.}
 {240}{}{W porz¹dku. Wyruszam na poszukiwania.}
 {241}{}{¯ycie jest pla¿¹, co?}
 {242}{}{Znajdê GECK, o œwiêty. Nie zawiodê naszego ludu.}
@@ -156,7 +156,7 @@
 {255}{hak104}{Nie! Nie b³yszczy ³adnie! Porwali nasz lud i zabrali go na po³udniowy zachód.}
 {256}{}{Auu.}
 {257}{hak105}{Tak. Wielki smutek i ból. Stojê miêdzy œwiatami, by ci to powiedzieæ, Dziecko Przeznaczenia. Uratuj swój lud.}
-{258}{}{Hm?}
+{258}{}{Uch?}
 {259}{hak106}{Dziecko, pozwól moim s³owom dotkn¹æ twojej duszy. IdŸ na po³udniowy zachód. Po³udnie i zachód. Uratuj nasz lud. Uratuj nasz lud.}
 {260}{}{Uch-huh..}
 {261}{hak107}{Dziêkujmy przodkom. Teraz moja dusza mo¿e do³¹czyæ do wiecznej pieœni. Bezpiecznej podró¿y, Dziecko.}
@@ -187,8 +187,9 @@
 {286}{hak120}{Ocean ³ez wyp³akanych przez matkê za swoje dzieci.}
 {287}{}{Och, ocean. Ale co mam zrobiæ?}
 {288}{hak121}{Dziwna mg³a ukrad³a ich myœli i wys³a³a ich do krainy Snu. li ludzie wêdrowali miêdzy œni¹cymi, ale sami nie œnili.}
-{289}{}{I co?}
+{289}{}{A potem?}
 {290}{hak122}{Zbyt wiele lat i zbyt wiele ran, Dziecko. Zamiast tego musisz pos³uchaæ.}
-{291}{}{No dobra.}
+{291}{}{Dobrze.}
+
 {300}{}{Ci którzy kradn¹ dŸwigaj¹ ciê¿kie brzemiê. Pamiêtaj o tym, Dziecko Przeznaczenia.}
 {301}{}{Teraz musisz zap³aciæ za swoje grzechy, Dziecko Przeznaczenia.}

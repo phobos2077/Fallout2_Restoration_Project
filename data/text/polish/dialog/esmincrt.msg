@@ -1,15 +1,13 @@
-{100}{}{Maybe you shouldn't set the timer. That could be dangerous.}
-{101}{}{This does not appear to be a powerful enough explosive to
- clear the opening.}
-{102}{}{The mining cart looks functional. You could probably push it.}
-{103}{}{Attaching dynamite to the metal pole might give it enough power to bust open the
- entrance.}
-{104}{}{The dynamite is attached to a metal pole on the cart.}
-{105}{}{One good push should get this thing rolling.}
-{106}{}{You strain yourself pushing the cart.}
-{107}{}{You push the cart down the tracks.}
-{108}{}{The cart by itself isn't going to be enough to open the mine.}
-{109}{}{You have nothing to attach that too.}
-{110}{}{If only you had a metal pole to attach to the front of the mining cart.}
-{111}{}{You attach the metal pole to the cart.}
-{112}{}{You attach the dynamite to the metal pole.}
+{100}{}{Mo¿e nie powinno siê tu ustawiaæ zapalnika. To mo¿e byæ niebezpieczne.}
+{101}{}{Ten ³adunek wybuchowy chyba nie jest wystarczaj¹co silny do utorowania przejœcia.}
+{102}{}{Ten wózek górniczy jest chyba sprawny. Prawodopodobnie da³o by siê go popchn¹æ.}
+{103}{}{Po³¹czenie dynamitu z metalowym prêtem mo¿e daæ si³ê wybuchu wystarczaj¹c¹ do zniszczenia rumowiska i otwarcia przejœcia.}
+{104}{}{Dynamit jest po³¹czony z metalowym prêtem na wózku.}
+{105}{}{Jedno dobre popchniêcie, a wózek ju¿ dalej pojedzie sam.}
+{106}{}{Wysilasz siê próbuj¹c popchn¹æ wózek.}
+{107}{}{Popychasz wózek po torze.}
+{108}{}{Sam wózek nie wystarczy do otwarcia kopalni.}
+{109}{}{Nie masz do czego tego przy³¹czyæ.}
+{110}{}{Gdyby tylko znalaz³ siê w twoim posiadaniu metalowy prêt, który mo¿na by przyczepiæ z przodu wózka.}
+{111}{}{Przymocowujesz prêt do wózka.}
+{112}{}{Przymocowujesz dynamit do prêta.}

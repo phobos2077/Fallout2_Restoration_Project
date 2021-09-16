@@ -21,11 +21,11 @@
 {120}{}{Tak, zdecydowanie rozumiem. Bardzo dobrze. Jeœli rozstaniemy siê jak przyjaciele, cz³owieku, to polecam ci rozmowê z Gorisem. On ma wiêcej zrozumienia dla tych kwestii ni¿ ja. Zwykle mo¿na go znaleŸæ w bibliotece Krypty.}
 {121}{}{Dziêkujê. Z niecierpliwoœci¹ oczekujê spotkania z Gorisem.}
 {122}{}{Nie mam zamiaru dodawaæ szpona œmierci do listy moich przyjació³. ¯egnaj!}
-{123}{}{No dobra.}
+{123}{}{W porz¹dku.}
 {124}{}{Nie ma ich tu, cz³owieku. Nie zabiliœmy ich, by zabraæ im dom. To nie jest sposób, w jaki postêpujemy. Rozumiem, ¿e mo¿esz mi nie uwierzyæ, ale mam nadziejê, ¿e bêdziesz mnie s¹dziæ po moich czynach wobec ciebie, a nie po w³asnych uprzedzeniach i lêku.}
 {125}{}{Hej, mo¿e ci przyjdzie do ³ba, ¿e mogê skopaæ twój ty³ek?}
 {126}{}{Grutharze, sprawiasz wra¿enie istoty postêpuj¹cej zgodnie z zasadami honoru.}
-{127}{}{Ta, chyba tak.}
+{127}{}{Jasne, ja myœlê.}
 {128}{}{GECK. Czy to nie jest ma³a jaszczurka... nie, zaczekaj... to gekon. Przykro mi, ale nie wiem, czym jest GECK, ani gdzie mo¿na go znaleŸæ.}
 {129}{}{Tak, wydaje mi siê, ¿e ju¿ wczeœniej o tym rozmawialiœmy. Nie wiem, czym jest GECK, ani gdzie mo¿na go znaleŸæ.}
 {130}{}{Czy wpuœcisz mnie i pozwolisz mi go poszukaæ?}
@@ -39,7 +39,7 @@
 {138}{}{Rozumiem to. Nie znasz mnie wystarczaj¹co dobrze, by mi zaufaæ. A mo¿e pomogê wam jakoœ, a w zamian za to ty pozwolisz mi siê rozejrzeæ?}
 {139}{}{[Gruthar przez chwilê uporczywie wpatruje siê w ciebie] Czy mo¿e ciê interesowaæ pomaganie nam? Tak, wyczuwam, ¿e niewiele w tobie z³a. Bardzo dobrze, zaufam ci.}
 {140}{}{[Gruthar przez chwilê uporczywie wpatruje siê w ciebie] Nie s¹dzê. Wyczuwam w tobie z³o, cz³owieku. Nie mogê ryzykowaæ ¿yciem tych, których chroniê, ryzykuj¹c wspó³pracê z tob¹.}
-{141}{}{Dziêki ci.}
+{141}{}{Dziêkujê.}
 {142}{}{Œwietnie. Myœlê, ¿e ma³okalibrowa lobotomia jest w³aœciwym rozwi¹zaniem mojego problemu.}
 {143}{}{Przykro mi, ¿e tak to odbierasz, Grutharze.}
 {144}{}{A wiêc bêdê siê ju¿ zbieraæ.}
@@ -55,7 +55,7 @@
 {154}{}{Dziêki. Od razu siê za to zabiorê.}
 {155}{}{Rzeczywiœcie co minutê rodzi siê kolejny...}
 {156}{}{Rozumiem... no có¿, szpony œmierci s¹ z natury niebezpieczne i kiedy siê je spotyka w dziczy, nale¿y zachowaæ ogromn¹ ostro¿noœæ. Jednak¿e jestem pewien, ¿e nie usz³o twej uwadze, i¿ stanowimy wyj¹tek. Moje stado nie stanowi zagro¿enia dla ciebie ani dla waszych ludzkich spo³ecznoœci. Wyewoluowaliœmy dalej ni¿ nasi zwykli kuzyni i ¿yczymy sobie jedynie, by nas zostawiono w spokoju.}
-{157}{}{Uch... taa.}
+{157}{}{Uch... jasne.}
 {158}{}{Grutharze, twoja podwy¿szona inteligencja mog³aby uczyniæ ciê jeszcze wiêkszym zagro¿eniem ni¿ przeciêtny szpon œmierci.}
 {159}{}{Dostrzegam to, ¿e nie jesteœcie takimi dzikimi zabójcami, za jakich zwykle uchodz¹ szpony œmierci.}
 {160}{}{Spêdzi³em wiele bezsennych nocy, zastanawiaj¹c siê nad tym i rozpatruj¹c tego rodzaju kwestie. Wreszcie doszed³em do wniosku, ¿e ciê¿ary i zobowi¹zania zwi¹zane z darem inteligencji s¹ nieŸliczone. S¹ tylko dwie rzeczy, które mo¿e wybraæ ka¿da myœl¹ca istota. Mo¿e albo zaakceptowaæ ¿ycie i wyci¹gn¹æ z niego najwiêksz¹ korzyœæ dla siebie i dla innych, albo zwyczajnie przestaæ istnieæ. Postanowi³em zaakceptowaæ wyzwania, jakie przede mn¹ stawia ¿ycie. Jeœli to czyni mnie zagro¿eniem dla ludzkoœci, to ¿al mi ma³ego rozumu, który widzi to w ten sposób...}
@@ -68,14 +68,14 @@
 {167}{}{Wiem ju¿ dosyæ. Muszê to teraz przemyœleæ.}
 {168}{}{Rozumiem...}
 {169}{}{Nie podoba mi siê twoja decyzja, ale akceptujê j¹. Mo¿esz odejœæ, ale proszê, wróæ tu, jeœli zmienisz zdanie.}
-{170}{}{W porz¹dku.}
-{171}{}{Witaj}
+{170}{}{Koniec.}
+{171}{}{Witaj} // Goes to 231
 {172}{}{Nie, ale ju¿ siê za to zabieram.}
 {173}{}{Przykro mi, Grutharze. Zepsu³ siê modu³ rozpoznawania mowy. Muszê pójœæ znaleŸæ jakiœ.}
-{174}{}{Nie rozumiem, jak dzia³aj¹ takie rzeczy, ale ci ufam,}
-{175}{}{W porz¹dku.}
+{174}{}{Nie rozumiem, jak dzia³aj¹ takie rzeczy, ale ci ufam,} // 232
+{175}{}{Koniec.}
 {176}{}{Jeszcze wrócê, masz moje s³owo.}
-{177}{}{Witaj}
+{177}{}{Witaj} // 233
 {178}{}{Nie, wci¹¿ szukam.}
 {179}{}{Tak, oto ona!}
 {180}{}{}
@@ -93,14 +93,14 @@
 {192}{}{Uch, ja przepraszaæ.}
 {193}{}{Witaj, cz³owieku. Czy twoje zdanie uleg³o zmianie? Pomo¿esz nam?}
 {194}{}{Kurde, nie. Chcê tylko jeszcze trochê pos³uchaæ, jak zarzynasz jêzyk.}
-{195}{}{Nie, nie s¹dze.}
+{195}{}{No, nie s¹dzê.}
 {196}{}{Tak Grutharze. Pomogê wam.}
 {197}{}{Witam ciê z przyjaŸni¹. Czy wiesz ju¿, co siê sta³o maszynie?}
 {198}{}{Jeszcze nie, ale zaraz siê za to zabiorê.}
 {199}{}{Witam ciê z przyjaŸni¹. Stado zawdziêcza ci ratunek i dziêkujemy ci za to.}
 {200}{}{}
 {201}{}{}
-{202}{}{Giñ, zdradziecki cz³ecze!}
+{202}{}{Giñ, zdradziecki cz³owieku!}
 {203}{}{}
 {204}{}{}
 {205}{}{Nie mam z tob¹ zatargów, cz³owieku i nie chcê ich mieæ. Staram siê odnosiæ do ciebie w cywilizowany sposób. Proszê, odwzajemnij tê uprzejmoœæ!}
@@ -124,15 +124,17 @@
 {223}{}{Ju¿ siê robi!}
 {224}{}{}
 {225}{}{W tej chwili nie ¿yczymy sobie ciê tu widzieæ. Mo¿esz odejœæ.}
-{226}{}{¯egnam.}
+{226}{}{¯egnam}
 {227}{}{¯egnam.}
-{228}{}{W porz¹dku.}
+{228}{}{Koniec.}
 {229}{}{Przeprosiny przyjête, cz³owieku. Mi³ego dnia!}
-{230}{}{W porz¹dku.}
+{230}{}{Koniec.}
 {231}{}{. Czy wiesz ju¿, co siê sta³o maszynie?}
 {232}{}{. Poczekam, a¿ wrócisz.}
 {233}{}{. Czy masz ju¿ czêœæ potrzebn¹ do naprawienia maszyny?}
-{234}{}{Uch, no dobrze.}
+
+#added later
+{234}{}{Uch, dobrze.}
 {235}{}{Mam nadziejê, ¿e podoba ci siê u nas.}
 {236}{}{Niestety musia³o do tego dojœæ. Pozwoli³em mu zostaæ bez szwanku tak d³ugo, jak nie przedstawia³ zagro¿enia dla stada. Sam wybra³ swoj¹ œcie¿kê. Mam nadziejê, ¿e rozumiesz.}
 {237}{}{Ty z³y.}

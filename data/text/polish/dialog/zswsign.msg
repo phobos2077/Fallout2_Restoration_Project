@@ -1,5 +1,5 @@
-{100}{}{A wanted poster with a crude charcoal sketch of a wanted person. The person on the poster looks familiar.}
-{101}{}{The caption reads.}
-{102}{}{Wanted Dead or Alive for Child Killing and being a Rat Bastard. Reward $10,000 Dead or $5,000 Alive.}
-{103}{}{Wanted Dead or Alive for Child Killing. Reward $10,000 Dead or $5,000 Alive.}
-{104}{}{Wanted Dead or Alive for Being a Rat Bastard. Reward $10,000 Dead or $5,000 Alive.}
+{100}{}{List goñczy ze schematycznym rysunkiem poszukiwanej osoby namalowanym za pomoc¹ wêgla. Osoba na plakacie wygl¹da znajomo.}
+{101}{}{Podpis g³osi:}
+{102}{}{Osoba poszukiwana ¿ywa lub martwa za Mordowanie Dzieci i bycie Szczurzym Draniem. Nagroda $10000 za zabicie lub $5000 za schwytanie ¿ywcem.}
+{103}{}{Osoba poszukiwana ¿ywa lub martwa za Mordowanie Dzieci. Nagroda $10000 za zabicie lub $5000 za schwytanie ¿ywcem.}
+{104}{}{Osoba poszukiwana ¿ywa lub martwa za bycie Szczurzym Draniem. Nagroda $10000 za zabicie lub $5000 za schwytanie ¿ywcem.}

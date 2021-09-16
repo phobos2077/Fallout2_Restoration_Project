@@ -1,4 +1,4 @@
-{200}{}{And I told you I loved you.}
-{201}{}{Ahhhhh....}
-{202}{}{Whaaaaa...}
-{203}{}{My daddy's gonna kick your ass.}
+{200}{}{Przecie¿ ci¹gle ci mówiê, ¿e ciê kocham.}
+{201}{}{Aaach....}
+{202}{}{£aaaaa...}
+{203}{}{Mój tatko skopie ci dupê.}

@@ -18,10 +18,10 @@
 {117}{}{Co mo¿esz mi powiedzieæ o Franku Westinie?}
 {118}{}{Pragnê spotkaæ siê ze Starym Carlsonem. Znasz kogoœ, kto móg³by mi pomóc?}
 {119}{}{Czy masz GECK?}
-{120}{}{That's nice, stranger, but I ain't no charity.}
+{120}{}{To mi³e z twojej strony, ale ja nie jestem organizacj¹ charytatywn¹.}
 {121}{}{Mo¿e. Móg³bym mieæ celownik Triveld x10 - akurat pasowa³by do karabinu myœliwskiego, gdyby znalaz³ siê ktoœ zainteresowany. Puszczê go tanio - 500$.}
 {122}{}{Hej, nic mi ju¿ nie zosta³o.}
-{123}{}{Sure, it's a deal.}
+{123}{}{Dobra, umowa stoi.}
 {124}{}{Nie, dziêki.}
 {125}{}{Republika Nowej Kalifornii - oto czym jest. Prezydent Tandi i jej zgraja mówi¹, ¿e próbuj¹ przywróciæ dawne dni. Ja myœlê, ¿e oni tylko próbuj¹ zgarn¹æ, co siê da. Cholera, nie mam na co narzekaæ - dawne dni by³y d³ugo przed moimi czasami. Ale i tak strasznie z nich pruderyjna banda - nie lubi¹ niewolnictwa, hazardu, niczego. To dlatego siedzê tu, na zewn¹trz. Nie lubiê zasad - nigdy nie lubi³em.}
 {126}{}{Rozumiem.}

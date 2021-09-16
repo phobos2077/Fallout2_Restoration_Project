@@ -1,20 +1,18 @@
-{100}{}{You see... a red-haired heroine model.}
-{101}{}{You see a strikingly attractive red-haired woman in a Vault 13 jumpsuit. She is glaring angrily
- into the distance.}
-{102}{}{You see a red-haired heroine model. She is glaring into the distance.}
-{103}{}{You see a red-haired heroine model. She is glaring into the distance.}
-{104}{}{I can't believe I didn't make the final cut in Fallout 1.}
-{105}{}{They chose that black-haired *strumpet* instead. Of all the nerve!}
-{106}{}{A *black-haired* female model. Can you get any more generic? BOR-ing.}
-{107}{}{Redheads are infinitely more interesting.}
-{108}{}{That black-haired female model got in only because she slept with *every* artist on the team.}
-{109}{}{AND the programmers.}
-{110}{}{AND the project leader. They're soooo easily swayed. Show a little skin, and their spines turns to
- rubber.}
-{111}{}{So I get shafted and end up being "filler NPCs" in Vault 13. Keee-rist. Talk about typecasting.}
-{112}{}{I'm surprised they rendered that black-haired female model with any clothes.}
-{113}{}{I mean, it's not like she was IN them very much during the screening process.}
-{114}{}{*Westchnienie*}
-{115}{}{I hate men.}
-{116}{}{Well, except for that dreamy Scotty Everts.}
-{117}{}{I think he stuck up for me. I only had to sleep with him a few times for him to vote for me.}
+{100}{}{Widzisz... model rudow³osej bohaterki.}
+{101}{}{Widzisz niezwykle piêkn¹, rudow³os¹ kobietê w kombinezonie Krypty 13. Ze z³oœci¹ wpatruje siê w horyzont.}
+{102}{}{Widzisz model rudow³osej bohaterki. Wypatruje czegoœ na horyzoncie.}
+{103}{}{Widzisz model rudow³osej bohaterki. Wypatruje czegoœ na horyzoncie.}
+{104}{}{Nie mogê uwierzyæ, ¿e nie zatrudnili mnie w Fallout 1.}
+{105}{}{Zamiast tego wybrali tê czarnow³os¹ puszczalsk¹. Jak mogli!}
+{106}{}{Czarnow³osa bohaterka? Ju¿ bardziej sztampowo byæ nie mog³o. Nuda.}
+{107}{}{Rudzielce s¹ tysi¹æ razy bardziej interesuj¹ce.}
+{108}{}{Ta czarnow³osa dosta³a robotê tylko dlatego, ¿e przespa³a siê z *wszystkimi* grafikami z zespo³u.}
+{109}{}{I z programistami.}
+{110}{}{I z szefem projektu. Ch³opami tak ³atwo manipulowaæ. Poka¿ im trochê cia³a, a zaczn¹ ci jeœæ z rêki.}
+{111}{}{No i skoñczy³am jako "statysta-BN" w Krypcie 13. Chryste, to by³ dopiero koszmar.}
+{112}{}{Dziwiê siê, ¿e wyposa¿yli tê laluniê w jakieœ ciuchy.}
+{113}{}{W koñcu nie by³y jej szczególnie potrzebne podczas castingu.}
+{114}{}{*Wzdycha*}
+{115}{}{Nienawidzê mê¿czyzn.}
+{116}{}{No, mo¿e poza tym niesamowitym Scottym Evertsem.}
+{117}{}{On chyba siê za mn¹ wstawi³. I wystarczy³o siê z nim przespaæ tylko kilka razy.}

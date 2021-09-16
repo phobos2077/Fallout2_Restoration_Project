@@ -1,17 +1,16 @@
 {100}{}{Widzisz terminal komputerowy.}
-{101}{}{You see the control center computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{The terminal indicates that the security force field at the vault entrance has been activated
- now that power has been restored.}
-{104}{}{The terminal indicates that all security systems in the vault are off line due to power
- failure.}
-{105}{}{Turn the force field off.}
-{106}{}{Turn the force field on.}
-{107}{}{W porz¹dku.}
-{108}{}{You give the command to deactivate the force field.}
-{109}{}{W porz¹dku.}
-{110}{}{You give the command to activate the force field.}
-{111}{}{W porz¹dku.}
-{112}{}{The terminal indicates that the field is off by manual override.}
-{113}{}{The terminal indicates that the field system has been compromised.}
-{114}{}{The terminal indicates that the field system is off.}
+{101}{}{Widzisz terminal centrum kontroli.}
+{102}{}{Widzisz standardowy terminal komputerowy. Wygl¹da na to, ¿e jest w pe³ni sprawny i oczekuje na komendy.}
+{103}{}{Ze wskazañ terminalu wynika, ¿e pole si³owe zabezpieczaj¹ce wejœcie do krypty zosta³o uaktywnione wraz z przywróceniem zasilania.}
+{104}{}{Ze wskazañ terminalu wynika, ¿e wszystkie systemy bezpieczeñstwa s¹ wy³¹czone z powodu awarii zasilania.}
+{105}{}{Wy³¹cz pole si³owe.}
+{106}{}{W³¹cz pole si³owe.}
+{107}{}{Dalej.}
+{108}{}{Wydajesz komendê wy³¹czenia pola si³owego.}
+{109}{}{Dalej.}
+{110}{}{Wydajesz komendê w³¹czenia pola si³owego.}
+{111}{}{Dalej.}
+
+{112}{}{Ze wskazañ terminala wynika, ¿e pole zosta³o rêcznie wy³¹czone.}
+{113}{}{Ze wskazañ terminala wynika, ¿e system wytwarzaj¹cy pole zosta³ naruszony przez si³y obce.}
+{114}{}{Ze wskazañ terminala wynika, ¿e system wytwarzaj¹cy pole jest wy³¹czony.}

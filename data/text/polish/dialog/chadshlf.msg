@@ -1,6 +1,6 @@
 {100}{}{W otwartej szafce znajduj¹ siê rzêdy segregatorów oraz zeszytów.}
 {101}{}{Przeszukujesz szafkê.}
-{102}{}{[OdejdŸ]}
+{102}{}{Zostaw.}
 {103}{}{Podczas, gdy przeszukujesz przeró¿ne zapisy w dokumentach, zauwa¿asz jak¹œ cienk¹ skórzan¹ teczkê g³êboko wepchniêt¹ miêdzy segregatory.}
 {104}{}{Wyci¹gnij teczkê.}
 {105}{}{Zignoruj i kontynuuj przegl¹danie.}

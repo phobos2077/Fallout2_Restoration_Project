@@ -1,1 +1,1 @@
-{100}{}{You have entered the underground tunnels of Gecko.}
+{100}{}{Przed tob¹ podziemne tunele Gecko.}

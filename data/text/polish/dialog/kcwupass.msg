@@ -1,2 +1,2 @@
-{100}{}{You see a Security Bot.}
-{101}{}{You see a Security Bot.}
+{100}{}{Widzisz Robota Ochronnego.}
+{101}{}{Widzisz Robota Ochronnego.}

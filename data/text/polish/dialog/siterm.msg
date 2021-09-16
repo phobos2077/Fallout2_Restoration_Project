@@ -1,5 +1,7 @@
 {100}{}{Widzisz terminal.}
 {101}{}{Zwyk³y terminal komputerowy. Czêsto u¿ywany jest do kontrolowania innych obiektów.}
+
+# Specific
 {200}{}{Ten terminal chyba kontroluje drzwi w tym bloku.}
 {201}{}{Nieprawid³owa sekwencja kodowa.}
 {202}{}{Drzwi s¹ teraz otwarte.}

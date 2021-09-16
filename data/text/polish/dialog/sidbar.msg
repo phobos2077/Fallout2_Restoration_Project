@@ -1,2 +1,2 @@
-{100}{}{You see a bar.}
-{101}{}{This is a slab of wood intended to hold things. You notice it is very clean.}
+{100}{}{Widzisz bar.}
+{101}{}{To po prostu kawa³ drewna, na którym mo¿na stawiaæ ró¿ne rzeczy. Jest zaskakuj¹co czysty.}

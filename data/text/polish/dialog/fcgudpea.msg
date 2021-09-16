@@ -12,8 +12,8 @@
 {111}{}{Smok to bohater.}
 {112}{}{Uwa¿aj na Lo Pana. Jego imiê oznacza same k³opoty.}
 {113}{}{Te punki s¹ zawsze takie g³oœne.}
-{114}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [Wzdycha.]}
-{115}{}{Czy w ¿yciu nie ma niczego wiêcej?}
+{114}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
+{115}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
 {116}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
 {117}{}{Patrzcie! Lao wai!}
 {118}{}{Chyba ciê nie lubiê.}
@@ -33,8 +33,8 @@
 {132}{}{Zostaw nas w spokoju.}
 {133}{}{Niech ¿yje Smok!}
 {134}{}{Niech ¿yje Imperator!}
-{135}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [Wzdycha.]}
-{136}{}{Czy w ¿yciu nie ma niczego wiêcej?}
+{135}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
+{136}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
 {137}{}{Smok... martwy...}
 {138}{}{O nie! Smok jest martwy!}
 {139}{}{¯ycie nie ma znaczenia.}
@@ -55,6 +55,7 @@
 {154}{}{Czy w ¿yciu nie ma niczego wiêcej?}
 {155}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
 {156}{}{Patrzcie! Lao wai!}
+
 {164}{}{Uda³o ci siê zabiæ UKC-9? Dobra robota!}
 {165}{}{Ci Centrolodzy przyprawiaj¹ mnie o dreszcze.}
 {166}{}{Czcigodny goœciu, twój czyn to dla nas wielka przys³uga.}

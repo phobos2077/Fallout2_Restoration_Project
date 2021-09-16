@@ -2,13 +2,14 @@
 {101}{}{Widzisz Laddie.}
 {102}{}{Ten pies wygl¹da na bardzo inteligentn¹ i czujn¹ bestiê.}
 {103}{}{Nie masz w¹tpliwoœci, ¿e ten pies jest prawdopodobnie bystrzejszy od ciebie.}
-{150}{}{£uf!}
+
+{150}{}{Hau!}
 {151}{}{Hau! Hau!}
 {152}{}{Hau! Hau! Hau!}
 {153}{}{[Ten pies jest czymœ bardzo zdenerwowany.]}
 {154}{}{Dobry piesek.}
 {155}{}{Piesku, czy wiesz, gdzie jest Jonny?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Zostañ tu, Laddie.}
 {157}{}{ChodŸmy poszukaæ Jonny'ego.}
 {158}{}{Laddie, czy Jonny wpad³ do studni?}
 {159}{}{Co jest piesku, chcesz mi coœ powiedzieæ?}
@@ -34,6 +35,7 @@
 {183}{}{Poszed³ na zachód?}
 {186}{}{Hau?}
 {187}{}{W porz¹dku, wiêc mo¿e gdzie indziej?}
+
 {190}{}{Bawi³ siê w policjantów i z³odziei i przypadkowo wpad³ do studni, a ty chcesz, ¿eby zdobyæ linê i zejœæ na dó³, by go uratowaæ. Dobrze wiêc, chodŸmy, Laddie. [Zdumiewaj¹ce!]}
 {191}{}{Bawi³ siê w policjantów i z³odziei i przypadkowo wpad³ do studni, a ty chcesz, ¿eby u¿yæ mojej liny i zejœæ na dó³, by go uratowaæ. Dobrze wiêc, chodŸmy, Laddie. [Zdumiewaj¹ce!]}
 {195}{}{W porz¹dku, zdobêdê linê i zejdê po niej w g³¹b studni po Jonnego.}

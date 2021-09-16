@@ -1,7 +1,6 @@
 {100}{}{Widzisz terminal komputerowy.}
-{101}{}{You see the library computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{You access the computer and quickly scan all available files. You find the location of Vault 13
- and copy it to your PIP-Boy.}
-{104}{}{You are having difficulty accessing the files.}
-{106}{}{Other than the location of Vault 13, the computer contains no useful information.}
+{101}{}{Widzisz biblioteczny terminal komputerowy.}
+{102}{}{Widzisz standardowy terminal komputerowy. Wygl¹da na to, ¿e jest w pe³ni sprawny i oczekuje na komendy.}
+{103}{}{Logujesz siê do komputera i szybko przegl¹dasz wszystkie dostêpne pliki. Znajdujesz po³o¿enie Krypty 13 i kopiujesz je do swojego PipBoya.}
+{104}{}{Masz pewne problemy z dostêpem do danych.}
+{106}{}{Poza po³o¿eniem Krypty 13 komputer ten nie zawiera ju¿ ¿adnych u¿ytecznych informacji.}

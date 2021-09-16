@@ -22,7 +22,7 @@
 {121}{}{To niedobrze - dla ciebie. Jesteœmy Stra¿nikami NCR. Mo¿e obi³o ci siê o uszy? Zabijamy ³owców niewolników.}
 {122}{}{£¿esz jak pies. Braæ go!}
 {123}{}{Witaj przybyszu. Jestem Ezekiel, nale¿ê do Stra¿ników NCR. Ktoœ ty?}
-{124}{}{Nie twój zasrany interes.}
+{124}{}{Nie twój interes.}
 {125}{}{Hej, chyba gdzieœ ju¿ s³ysza³em to imiê. Nale¿ysz do Stra¿ników, prawda?}
 {126}{}{Tak.}
 {127}{}{Nie twój zasrany interes.}

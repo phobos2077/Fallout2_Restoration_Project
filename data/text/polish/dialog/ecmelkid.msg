@@ -1,11 +1,13 @@
-{100}{}{You see a little rugrat.}
-{101}{}{You see Melchior, Jr.}
-{150}{}{He seems like a smiley, big-eyed kid.}
-{200}{}{Hello! I'm Melchior, Jr.}
-{201}{}{My dad's a miner. His name is Melchior just like mine.}
-{202}{}{My dad is a good miner, but he wants to be a magician.}
-{203}{}{Daddy's stage name is Melchior the Magnificent.}
-{204}{}{His best trick was pulling a rat out of a hat.}
-{205}{}{He went away with some men dressed in metal clothes.}
-{206}{}{I hope dad comes back soon. I miss his magic tricks.}
-{207}{}{I'm going to be a great magician like my dad.}
+{100}{}{Widzisz ma³ego urwipo³cia.}
+{101}{}{Widzisz m³odego Melchiora.}
+
+{150}{}{Wygl¹da na weso³ego, pogodnego ch³opca.}
+
+{200}{}{Dzieñ dobry! Jestem Melchior Junior.}
+{201}{}{Mój tato jest górnikiem. Nazywa siê Melchior, zupe³nie jak ja.}
+{202}{}{Mój tato jest dobrym górnikiem, ale chce zostaæ czarodziejem.}
+{203}{}{Tato ma swój pseudonim artystyczny - Melchior Wspania³y.}
+{204}{}{Jego najlepsza sztuczka to wyci¹ganie szczura z kapelusza.}
+{205}{}{Tato poszed³ z jakimiœ ludŸmi w metalowych strojach.}
+{206}{}{Mam nadziejê, ¿e nied³ugo wróci. Brakuje mi jego magicznych sztuczek.}
+{207}{}{Zostanê kiedyœ wielkim magiem jak mój Tato!}

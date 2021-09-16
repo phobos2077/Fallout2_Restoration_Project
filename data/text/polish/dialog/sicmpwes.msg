@@ -1,3 +1,3 @@
-{100}{}{That doesn't seem to work.}
-{101}{}{You can't seem to figure out what buttons to push.}
-{102}{}{Uda³o ci siê, zniszczyæ komputer.}
+{100}{}{To nie dzia³a.}
+{101}{}{Nie jesteœ w stanie domyœliæ siê, które przyciski nale¿y naciskaæ.}
+{102}{}{Komputer zosta³ zniszczony.}

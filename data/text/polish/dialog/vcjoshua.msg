@@ -1,3 +1,3 @@
-{100}{}{To Joshua.}
-{101}{}{You see a scruffy-haired young man with a sheepish smile.}
-{102}{}{Thanks for bailing me out. I appreciate it. Me and the wife'll be moving on soon.}
+{100}{}{Widzisz Joshuê.}
+{101}{}{Widzisz rozczochranego, m³odego ch³opaka o têpawym uœmiechu.}
+{102}{}{Dziêki za wyci¹gniêcie mnie z k³opotów. Jestem ci bardzo wdziêczny. Wkrótce ja i moja ¿ona ruszymy dalej.}

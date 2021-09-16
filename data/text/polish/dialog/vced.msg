@@ -9,10 +9,10 @@
 {108}{}{Znasz kupca imieniem Vic? Podobno kupi³ od ciebie tê manierkê z Krypty.}
 {109}{}{Znasz kupca imieniem Vic?}
 {110}{}{Mój przyjaciel, Vic twierdzi, ¿e kupi³ od ciebie pewn¹ manierkê.}
-{111}{}{Przypomnia³eœ sobie mo¿e sk¹d wzi¹³eœ tê manierkê?}
+{111}{}{Przypomnia³eœ sobie sk¹d wzi¹³eœ tê manierkê?}
 {112}{}{Szukam Krypty.}
-{113}{}{Co mo¿esz mi powiedzieæ o Kryptopolis?}
-{114}{}{W³aœciwie czym siê tutaj zajmujesz?}
+{113}{}{Opowiedz mi o Kryptopolis?}
+{114}{}{Czym siê zajmujesz?}
 {115}{}{Do widzenia.}
 {116}{}{Vic?}
 {117}{}{Sprzeda³ ci manierkê? Tak¹ z du¿¹ trzynastk¹?}
@@ -30,7 +30,7 @@
 {129}{}{Ach, trudno. Mimo to - dziêki.}
 {130}{}{Kiedy by³em m³odszy czêsto przeprowadza³em stada braminów przez 'Wielkie Ko³o'... Broken Hills, Nowe Reno, Redding, Norê, Modoc, i znowu tu. Jakiœ czas temu takie wyprawy sta³y siê zbyt niebezpieczne, wiêc da³em sobie spokój i osiad³em tutaj.}
 {131}{}{Gdzie s¹ te wszystkie miasta?}
-{132}{}{Rozumiem. Có¿, dziêki za informacje.}
+{132}{}{Rozumiem. Dziêki za informacje.}
 {133}{}{Zaznaczê je na twojej mapie. Widzisz, Broken Hills jest na po³udnie... potem idŸ na zachód, i dotrzesz do Reno. Na pó³nocny zachód od Reno jest Redding, potem na pó³noc do Nory, na wschód do Modoc, i dalej do Kryptopolis.}
 {134}{}{Pamiêtasz gdzie dok³adnie znalaz³eœ tê manierkê?}
 {135}{}{Dziêki za informacje.}
@@ -41,26 +41,26 @@
 {140}{}{Krypta 13 znajduje siê za murami?}
 {141}{}{Dziêki za informacje.}
 {142}{}{Có¿, nie wiem, czy akurat "13", ale jakaœ Krypta jest tam na pewno. Nawet jeœli nie jest to ta, której szukasz, to centralny komputer powinien wiedzieæ, gdzie s¹ pozosta³e. Ta maszyna wie prawie wszystko.}
-{143}{}{Mam kilka innych pytañ...}
-{144}{}{Dziêki za informacje.}
+{143}{}{Mam jeszcze kilka pytañ...}
+{144}{}{Dziêki za informacjê.}
 {145}{}{Jasne. Co chcesz wiedzieæ?}
 {146}{}{Znasz kupca imieniem Vic? Podobno kupi³ od ciebie tê manierkê z Krypty.}
 {147}{}{Znasz kupca imieniem Vic?}
 {148}{}{Mój przyjaciel, Vic twierdzi, ¿e kupi³ od ciebie pewn¹ manierkê.}
 {149}{}{Przypomnia³eœ sobie mo¿e sk¹d wzi¹³eœ tê manierkê?}
 {150}{}{Szukam Krypty.}
-{151}{}{Co mo¿esz mi powiedzieæ o Kryptopolis?}
-{152}{}{W³aœciwie czym siê tutaj zajmujesz?}
+{151}{}{Opowiedz mi o Kryptopolis.}
+{152}{}{Czym siê zajmujesz?}
 {153}{}{Do widzenia.}
 {154}{}{Có¿... mamy tu Kryptê w g³ównej czêœci miasta. Mo¿e to ta, której szukasz?}
 {155}{}{Có¿... mamy tu Kryptê w g³ównej czêœci miasta. Tego szukasz?}
-{156}{}{Byæ mo¿e. Mam parê innych pytañ...}
+{156}{}{Mo¿e. Mam jeszcze kilka pytañ...}
 {157}{}{Mo¿liwe. Dziêki za informacje.}
 {158}{}{Spoko miejsce... jeœli wiesz, jak obchodziæ siê z Obywatelami. Nie podzielam czêœci ich pogl¹dów, ale da siê tu jakoœ wy¿yæ.}
-{159}{}{Mam kilka innych pytañ...}
+{159}{}{Mam jeszcze kilka pytañ...}
 {160}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
 {161}{}{Sprzedajê braminy ludziom, którzy chc¹ je kupiæ. Trzeba jakoœ p³aciæ rachunki.}
-{162}{}{Mam kilka innych pytañ...}
+{162}{}{Mam jeszcze kilka pytañ...}
 {163}{}{Rozumiem. Dziêki za informacje. Do zobaczenia.}
 {164}{}{Znam braminy m¹drzejsze od ciebie. Spadaj.}
 {165}{}{To chyba dom Eda. To od niego kupi³em tê manierkê.}

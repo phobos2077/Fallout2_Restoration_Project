@@ -13,7 +13,7 @@
 {112}{}{W³aœnie, có¿, przepraszam. Lecz nie mo¿esz prosiæ wszystkich o to samo jednoczeœnie.}
 {113}{}{Zawsze fajnie dostaæ dobrze p³atn¹ robotê. Pozwól, ¿e spytam o coœ jeszcze.}
 {114}{}{Sk¹d wiesz, ¿e akurat mam modu³ do koparki?}
-{115}{}{Ile jest on dla ciebie wart?}
+{115}{}{Ile jest to dla ciebie warte?}
 {116}{}{Jeœli zdobêdê, bêdziesz pierwsz¹ osob¹, która siê o tym dowie.}
 {117}{}{Myœlê, ¿e ju¿ bêdê siê zrywaæ. Na razie.}
 {118}{}{Hej, dziêki za urwanie tej zadymy. Czasami moi górnicy trochê przegn¹, ale tak w³aœciwie to s¹ w porz¹dku, dopóki nie przedobrz¹ z Jetem.}
@@ -26,19 +26,19 @@
 {125}{}{Przechodzi³em tylko w pobli¿u. I myœlê, ¿e pójdê dalej. Bywaj.}
 {126}{}{Hejka. Jestem Marge LeBarge. Prowadzê tê kopalniê.}
 {127}{}{Co Marge mo¿e dla ciebie zrobiæ?}
-{128}{}{Co tu wydobywacie?}
-{129}{}{Czy s³ysza³eœ kiedyœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
+{128}{}{Co tutaj wydobywacie?}
+{129}{}{Czy kiedykolwiek s³ysza³aœ o czymœ zwanym Generator Ekosystemu Cudownej Krainy?}
 {130}{}{Czy jesteœ rdzenn¹ mieszkank¹ Redding?}
 {131}{}{Czy wiesz coœ mo¿e o jakiejœ robocie albo czymkolwiek, co siê tutaj dzieje?}
 {132}{}{Ja tylko rozgl¹dam siê odrobinkê. Na razie.}
 {133}{}{Oczywiœcie z³oto. Wydobywamy je tu, w kopalni Kokoweef, i wysy³amy do Kryptopolis, Nowego Reno, oraz do Republiki Nowej Kalifornii.}
 {134}{}{Wysy³acie je do wszystkich tych miejsc?}
 {135}{}{Dlaczego nazwa³aœ swoj¹ kopalniê Kokoweef?}
-{136}{}{Pozwól, ¿e spytam ciê o coœ innego.}
+{136}{}{Pozwól, ¿e spytam o coœ innego.}
 {137}{}{Aha. Dziêki. To wszystko, czego potrzebujê. Na razie.}
 {138}{}{Oczywiœcie. Ka¿dy lubi z³oto. Spróbuj zagadaæ do prowadz¹cego karawany, niejakiego Jamesa Hoffy, jeœli naprawdê zale¿y ci na tym.}
-{139}{}{Pozwól, ¿e spytam ciê o coœ innego.}
-{140}{}{Dziêki, tak zrobiê. Na razie.}
+{139}{}{Pozwól, ¿e spytam o coœ innego.}
+{140}{}{Dziêki, zrobiê to. Na razie.}
 {141}{}{Eee... Generator Ekosystemu Cudownej Krainy? Brzmi bardzo imponuj¹co. Jeœli mia³abym coœ takiego, na pewno nie grzeba³abym teraz w ziemi a¿ do usranej œmierci. A teraz, czy mo¿esz ...?}
 {142}{}{Myœlê, ¿e nie. Pozwól, ¿e spytam o coœ innego.}
 {143}{}{Ja tak tylko z ciekawoœci pytam. Na razie.}
@@ -49,7 +49,7 @@
 {148}{}{Có¿, zawsze s¹ jakieœ plotki... ale, jest coœ co mog³oby byæ zrobione.}
 {149}{}{Wrócimy jeszcze do tego. Ale pozwól, ¿e zapytam jeszcze o coœ innego.}
 {150}{}{ZdradŸ mi parê plotek.}
-{151}{}{I co to jest?}
+{151}{}{Có¿ to?}
 {152}{}{Za³o¿ê siê, ¿e tak. Przykro mi, ale nie mam ju¿ wiêcej czasu dla ciebie. Do widzenia.}
 {153}{}{Mam wspania³¹ star¹ koparkê w mojej kopalni na dole. Problem le¿y w tym, ¿e modu³ kontrolny do niej jest uszkodzony. Potrzebujê nowego, by kontynuowaæ pracê.}
 {154}{}{To interesuj¹ce, ale co mi do tego?}
@@ -73,14 +73,14 @@
 {172}{}{Myœlê, ¿e ludzie gadaj¹ o niektórych sprawach wszêdzie to samo. Powiedz mi coœ innego.}
 {173}{}{Mi³o siê s³ucha ale, muszê lecieæ. Na razie.}
 {174}{}{Có¿, ludzie zazwyczaj mówi¹ ¿e, Kryptopolis próbuje nas wycyckaæ ze z³ota. Albo o którejœ z rodzin z Nowego Reno, która próbuje si³¹ przej¹æ w³adzê tylko dla siebie. A nawet o RNK chc¹cej nas wzi¹æ pod swoje skrzyd³a. Mówiê ci, RNK jest dla nas najlepszym wyjœciem, ale wszyscy chc¹ naszego z³ota. Redding wci¹¿ jednak pozostaje niepodleg³e.}
-{175}{}{Co z innymi plotkami?}
-{176}{}{To chyba na razie wszystko, co chcê wiedzieæ. Do widzenia.}
+{175}{}{A co z innymi plotkami?}
+{176}{}{Myœlê, ¿e na razie wystarczy gadania. Bywaj.}
 {177}{}{Wanamingo to tak bardzo zakrêcony stwór. Wysokie jak dwóch ch³opa, silniejsze od byka braminy i z d³ugimi mackami zamiast ramion. Praktycznie odporne na broñ paln¹. Mówi¹, ¿e to zemsta za to, co bia³y cz³owiek uczyni³ ze œwiatem poprzez wojnê. Ale w to, akurat, nie za bardzo wierzê.}
 {178}{}{Co z innymi plotkami?}
-{179}{}{To chyba na razie wszystko, co chcê wiedzieæ. Do widzenia.}
+{179}{}{Myœlê, ¿e na razie wystarczy gadania. Bywaj.}
 {180}{}{Ach tak. Có¿, paru moich górników trochê polata³o na Jecie, jeœli rozumiesz, co mam na myœli. Ale wszyscy kln¹ siê na wszystko, na czym œwiat stoi, ¿e widzieli przelatuj¹cy statek, zmierzaj¹cy na po³udniowy zachód.}
 {181}{}{Co z innymi plotkami?}
-{182}{}{To chyba na razie wszystko, co chcê wiedzieæ. Do widzenia.}
+{182}{}{Myœlê, ¿e na razie wystarczy gadania. Bywaj.}
 {183}{}{Có¿, Dan i górnicy z Morningstar wol¹ tych pieprzonych gnoi z Reno. Myœlê, ¿e Redding stanie siê za nied³ugo koloni¹ Nowego Reno.}
 {184}{}{Nie moja sprawa. Opowiedz mi o czymœ innym.}
 {185}{}{Có¿... Na razie.}

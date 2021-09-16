@@ -1,80 +1,67 @@
-{100}{}{You see a ragged-looking farmer.}
-{101}{}{You see Smith.}
-{102}{}{Don't think I've seen you around before, stranger. The name's Smith. Help
- you with something?}
-{103}{}{Was there something else you wanted?}
-{104}{}{Co mo¿esz mi powiedzieæ o Kryptopolis?}
-{105}{}{W³aœciwie czym siê tutaj zajmujesz?}
+{100}{}{Widzisz farmera w ³achmanach.}
+{101}{}{Widzisz Smitha.}
+{102}{}{Chyba wczeœniej ciê tu nie widzia³em. Jestem Smith. Mogê ci w czymœ pomóc?}
+{103}{}{Chcesz jeszcze czegoœ?}
+{104}{}{Opowiesz mi o Kryptopolis?}
+{105}{}{Co tu porabiasz, cz³owieku?}
 {106}{}{Szukam Krypty.}
-{107}{}{I'd like to help you with that plow.}
-{108}{}{Your wife says things have been hard.}
-{109}{}{No, just passing through. Goodbye.}
+{107}{}{Pomogê ci z tym p³ugiem.}
+{108}{}{Twoja ¿ona mówi, ¿e sprawy nie uk³adaj¹ siê najlepiej.}
+{109}{}{Nie. Na razie.}
 {110}{}{Um... Waga Nu-kik?}
-{111}{}{Well, what you see here ain't really Vault City... you're actually standing
- in the city's Courtyard.}
-{112}{}{Why aren't you in the city?}
-{113}{}{Czym siê zajmujesz?}
-{114}{}{Mogê spytaæ o coœ jeszcze?}
-{115}{}{Dziêki. Do zobaczenia.}
-{116}{}{My family and I work a farm here in the Courtyard. We get by. Don't know
- for how long, though.}
-{117}{}{Na czym polega k³opot?}
-{118}{}{Why aren't you in the city?}
-{119}{}{Mogê spytaæ o coœ jeszcze?}
-{120}{}{Yeah, times are tough. Goodbye.}
-{121}{}{That's right, big fella. I gotta get going.}
-{122}{}{You talking about the Vault inside the city? I've only seen it once... it's
- inside the gates, along the cliff, I think. They only let the Citizens into it,
- though.}
-{123}{}{Mogê spytaæ o coœ jeszcze?}
-{124}{}{Dziêki za wskazówki. Na razie.}
-{125}{}{Me and the family ain't the kind of people they let in there. So we
- live here under their protection.}
-{126}{}{Why aren't you allowed to live in the city?}
-{127}{}{Protection? What kind of protection? }
-{128}{}{Mogê spytaæ o coœ jeszcze?}
-{129}{}{I see. Well, thanks for your time. Goodbye.}
-{130}{}{Well, it's tough without a plow. Me and the wife try, but the farming goes
- slow.}
-{131}{}{Can I help?}
-{132}{}{Mogê spytaæ o coœ jeszcze?}
-{133}{}{Oh, well, I'm sorry to hear that. Goodbye.}
+{111}{}{Dobra, to co tu widzisz to nie jest prawdziwe Kryptopolis... stoisz na obszarze Podmurza.}
+{112}{}{Dlaczego nie ¿yjesz wewn¹trz miasta?}
+{113}{}{Co tu robisz?}
+{114}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{115}{}{Dziêki. Na razie.}
+{116}{}{Razem z rodzin¹ pracujemy na farmie tutaj, na Podmurzu. Jakoœ przêdziemy. Nie wiem, jak d³ugo jeszcze.}
+{117}{}{Jakieœ problemy?}
+{118}{}{Dlaczego nie jesteœ w mieœcie?}
+{119}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{120}{}{Taaa, przysz³y ciê¿kie czasy. Trzymaj siê.}
+{121}{}{Prawda, nêdza woko³o. Muszê ju¿ iœæ.}
+{122}{}{Mówisz o Krypcie wewn¹trz miasta? Widzia³em tylko jedn¹... wewn¹trz, za brama... Myœlê, ¿e to o ni¹ ci chodzi. Musisz jednak wiedzieæ, ¿e tylko obywatele mog¹ tam wchodziæ.}
+{123}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{124}{}{Dziêki za wskazówki. Powodzenia.}
+{125}{}{Ja i moja rodzina - nie takich ludzi tam wpuszczaj¹. Wiêc ¿yjemy tu, pod ich ochron¹.}
+{126}{}{Dlaczego nie pozwalaj¹ wam ¿yæ w mieœcie?}
+{127}{}{Ochron¹? Co masz dok³adnie na myœli? }
+{128}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{129}{}{Taa. Dziêki za poœwiêcony czas. Powodzenia.}
+{130}{}{Nie do ¿ycia. ¯y³y sobie mo¿na wypruæ bez p³ugu. Próbujemy z ¿on¹ jakoœ sobie radziæ, ale bez p³ugu przyjdzie nam zdechn¹æ.}
+{131}{}{Mogê pomóc?}
+{132}{}{Mogê jeszcze o coœ zapytaæ?}
+{133}{}{Taa, przykro mi to s³yszeæ. Na razie.}
 {134}{}{Jasne.}
-{135}{}{Well, we're from the wasteland... like yourself. So all we can get is
- protection from Vault City.}
-{136}{}{What kind of protection?}
-{137}{}{Mogê spytaæ o coœ jeszcze?}
-{138}{}{Dziêki. Do zobaczenia.}
-{139}{}{They keep us safe from the outside, but it costs me and the wife quite
- a bit. And without a plow... well, making ends meet is difficult.}
-{140}{}{Can I help with the plow?}
-{141}{}{Mogê spytaæ o coœ jeszcze?}
-{142}{}{Oh, well, I'm sorry to hear that. Goodbye.}
-{143}{}{Me and the wife don't talk with your kind.}
-{144}{}{Mary, keep away from this fella.}
-{145}{}{You'd help people like us? We can't offer much, but we sure would
- appreciate it.}
-{146}{}{Whoa! If you can't pay, I can't help you.}
-{147}{}{No problem. I'd like to help.}
-{148}{}{Mogê spytaæ o coœ jeszcze?}
-{149}{}{I'll have to think about it. Goodbye.}
-{150}{}{Well, we have about a hundred and fifty saved, if that would help. But
- we won't be able to make our next payment if we don't have the plow by next week.}
-{151}{}{I'll take the money.}
-{152}{}{Don't worry about the money. I'll help you anyway.}
-{153}{}{Never mind... I can't help you. Goodbye.}
-{154}{}{Well, thank you kindly, stranger.}
-{155}{}{Do you know where I can find a plow?}
-{156}{}{There's one over near the Guns and Ammo store. Harry might be selling it.}
-{157}{}{All right, I'll go look for it.}
-{158}{}{Did you find a plow?}
-{159}{}{Sorry, not yet.}
-{160}{}{I don't think I'm going to be able to get one for you.}
-{161}{}{Well, we can do without for a little longer. But not much beyond that.}
-{162}{}{My Pa told me to watch out for people like you... get outta here. Go on, get!}
-{163}{}{Thank you kindly. Here's a little something my pa gave me before he
- left this world. With the guards protecting us, we don't need it... but you might be
- able to make some use of it.}
-{164}{}{Thanks very much. I'm sure this will come in handy. Take care.}
-{165}{}{Thanks for the help, stranger. Much appreciated.}
-{166}{}{You have found a plow for Mr. Smith and his family.}
+{135}{}{Hmm, jesteœmy z pustkowi... jak ty. Wszystko na co mo¿emy liczyæ, to ochrona Kryptopolis.}
+{136}{}{Jaki rodzaj ochrony?}
+{137}{}{Mogê jeszcze o coœ spytaæ?}
+{138}{}{Dziêki. Na razie.}
+{139}{}{Trzymaj¹ nas z dala od dzikusów z zewn¹trz, ale to trochê kosztuje. A bez p³ugu... rozumiesz, nie ma jak zwi¹zaæ koniec z koñcem.}
+{140}{}{Mogê jakoœ pomóc z tym p³ugiem?}
+{141}{}{Mogê jeszcze o coœ spytaæ?}
+{142}{}{Och, przykro mi to s³yszeæ. Do widzenia.}
+{143}{}{Nie rozmawiamy z ludŸmi twojego pokroju.}
+{144}{}{Mary, trzymaj siê od tego z daleka.}
+{145}{}{Pomagasz ludziom takim jak my? Nie mo¿emy wiele zaoferowaæ, ale gwarantujemy ci nasz¹ dozgonn¹ wdziêcznoœæ.}
+{146}{}{Hola! Jeœli nie mo¿esz zap³aciæ, to ja nie mogê ci pomóc.}
+{147}{}{Nie ma problemu. Lubiê pomagaæ.}
+{148}{}{Mogê jeszcze o coœ zapytaæ?}
+{149}{}{Bêdê musia³ o tym pomyœleæ. Na razie.}
+{150}{}{Dobrze. Zaoszczêdziliœmy oko³o sto piêtnaœcie dolców. Jeœli móg³byœ pomóc... Ale nie bêdziemy zdolni uregulowaæ naszej nastêpnej p³atnoœci jeœli nie zdobêdziemy p³ugu do nastêpnego tygodnia.}
+{151}{}{Wezmê pieni¹dze.}
+{152}{}{Nie martw siê o pieni¹dze. Pomogê ci tak czy inaczej.}
+{153}{}{Nie wydaje mi siê... Nie mogê ci pomóc. Na razie.}
+{154}{}{Du¿e dziêki uprzejmy przybyszu, nigdy ci tego nie zapomnimy.}
+{155}{}{Nie wiesz gdzie mo¿na znaleŸæ taki p³ug?}
+{156}{}{Jest jeden blisko sklepu z broni¹. Harry móg³by go sprzedaæ.}
+{157}{}{W porz¹dku, poszukam go.}
+{158}{}{Uda³o ci siê znaleŸæ p³ug?}
+{159}{}{Nie, jeszcze nie.}
+{160}{}{Nie wydaje mi siê, ¿eby by³ tu jakiœ mo¿liwy do zdobycia.}
+{161}{}{Hmm. Jeszcze trochê mo¿emy bez niego popracowaæ. Ale nie d³ugo.}
+{162}{}{Mój ojciec kaza³ mi siê trzymaæ z daleka od takich ludzi jak ty... Wynoœ siê. Won!}
+{163}{}{Jesteœ bardzo uprzejmy. Dziêki. Tu jest coœ, co da³ mi ojciec zanim zmar³. Teraz chroni¹ nas stra¿nicy wiêc tego nie potrzebujemy... ale tobie mo¿e siê przydaæ. Mo¿e dziêki temu uda ci siê zrobiæ jeszcze coœ dobrego.}
+{164}{}{Du¿e dziêki. Z pewnoœci¹ bardzo mi siê przyda. Uwa¿aj na siebie.}
+{165}{}{Dziêkujemy za pomoc przybyszu. Dziêkujemy bardzo.}
+{166}{}{Znalaz³eœ p³ug dla pana Smith i jego rodziny.}

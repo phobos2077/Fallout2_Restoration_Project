@@ -132,7 +132,7 @@
  Pobraæ?}
 {201}{}{}
 {202}{}{Tak}
-{203}{}{Nie.}
+{203}{}{Nie}
 {204}{}{[Fale mózgowe s¹ aktywne, ale ró¿ni¹ siê od tych, które       
  ma mózg cz³owieka.]                                                 
  Pobraæ?}
@@ -155,7 +155,7 @@
  Pobraæ?}
 {224}{}{}
 {225}{}{Tak}
-{226}{}{Nie.}
+{226}{}{Nie}
 {227}{}{[Cia³o Szeregowego Dobbsa le¿y teraz u twych stóp, ale ku twemu zaskoczeniu, wstaje i zaczyna do ciebie mówiæ. Zabawne, wcale nie wygl¹da na trupa.]}
 {228}{}{WyjdŸ.}
 {229}{}{W tej chwili w magazynie nie ma ¿adnych zw³ok.}
@@ -164,4 +164,5 @@
 {232}{}{[Mimo i¿ na w³asne oczy widzisz puste pojemniki, odczyty wskazuj¹, ¿e s¹ one pe³ne. Widocznie w programie jest jakiœ b³¹d. Zreszt¹ kto by siê tym przejmowa³.]}
 {233}{}{Wróæ do Menu G³ównego}
 {234}{}{WyjdŸ. }
+
 {300}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}

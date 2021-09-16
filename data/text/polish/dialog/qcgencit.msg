@@ -11,15 +11,15 @@
 {110}{}{Bo¿e b³ogos³aw Amerykê.}
 {111}{}{Projekt jest naszym wybawieniem.}
 {112}{}{Cieszê siê, ¿e nie jestem na kontynencie.}
-{113}{}{Kolejny alarm próbny.}
+{113}{}{To tylko kolejne æwiczenia.}
 {114}{}{Co to za ha³as?}
 {115}{}{To alarm reaktora.}
-{116}{}{Uk, och.}
+{116}{}{Ych, ach.}
 {117}{}{Lepiej znowu znajdê trochê Rad-X.}
 {118}{}{Ta rzecz zawsze siê psujê.}
 {119}{}{Moja skóra jest ca³a poparzona.}
 {120}{}{Czy nie robi siê tu coraz gorêcej?}
-{121}{}{Nie-dobrze.}
+{121}{}{To niedobrze.}
 {122}{}{Cholera, cholera, jasna cholera!}
 {123}{}{Gdzie moja maska p-gaz?}
 {124}{}{Coœ tu dziwnie pachnie.}

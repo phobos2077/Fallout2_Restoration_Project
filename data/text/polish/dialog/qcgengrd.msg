@@ -3,9 +3,9 @@
 {102}{}{Widzisz postaæ w wygl¹daj¹cym na bardzo zaawansowany, pancerzu wspomaganym.}
 {103}{}{Kto idzie?}
 {104}{}{Dalej.}
-{105}{}{Na co siê gapisz?}
-{106}{}{Ruszaj siê.}
-{107}{}{Nie zatrzymywaæ siê.}
+{105}{}{Na co siê patrzysz?}
+{106}{}{Dalej, ruszaj siê.}
+{107}{}{Nie wa³êsaj siê tak.}
 {108}{}{Staniesz do raportu.}
 {109}{}{Wracaj do pracy.}
 {110}{}{Czy masz pozwolenie dla tej sekcji?}
@@ -42,7 +42,7 @@
 {141}{}{Zachowajcie spokój, ludzie.}
 {142}{}{Mamy tu robotê do zrobienia.}
 {143}{}{Jasne, sier¿ancie.}
-{144}{}{Tak jest!}
+{144}{}{Tak, jest.}
 {145}{}{Sekcja B, czysto.}
 {146}{}{Korytarz czysty.}
 {147}{}{Wracam na posterunek.}

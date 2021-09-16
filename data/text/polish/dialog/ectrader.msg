@@ -1,56 +1,47 @@
-{100}{}{A salesman.}
+{100}{}{Sprzedawca.}
 {101}{}{Willy.}
-{102}{}{A slick traveling salesman.}
-{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
-{104}{}{Zzzzzzz...}
-{105}{}{[You groggily open your eyes as you finally notice that someone is kicking you.] Well, are you
- interested or not?}
-{106}{}{Interested in what?}
+{102}{}{Typowy akwizytor.}
+{103}{}{Witaj, nazywam siÍ Willy i mam dla ciebie niesamowitπ ofertÍ. [Zdaje siÍ czytaÊ coú z kartki. Po kilku minutach zasypiasz.]}
+{104}{}{Chrrrrr...}
+{105}{}{[Z trudem otwierasz oczy i ze zdziwieniem zauwaøasz, øe ktoú ciÍ kopie!] No i jak, kupujesz?}
+{106}{}{KupujÍ? Niby co?}
 {107}{}{Erg?}
-{108}{}{Why, it slices it dices and it'll also come in handy against pesky critters. A bargain at any
- price, but for you it's on special for only }
-{109}{}{Why it's made of only the finest wood around. Use it to jab at critters to keep them at bay or,
- if you're skilled enough, throw it. It's very aerodynamic and won't break on impact.  What do you say?
- It's a steal at only }
-{110}{}{This weapon is made of the finest recycled steel. Just feel how that fits comfortably into your
- hand. And don't worry, our engineers have tested it for safety and reliability. No robber in his right
- mind would dare try to steal from if you wave this baby around.  And it'll only set you back }
-{111}{}{This little gem is truly one of a kind. From the far reaches of... It works by pointing it
- like- Look, I don't know what the hell this is. You want it or not? The price is }
-{112}{}{This little dandy just screams. "Don't mess with me!" The mere sight of it will send your
- enemies running. A bargain at }
-{113}{}{I can tell you're the type of person that likes to get close up and personal when dealing with
- riff raff. Well this little doohickey is just what you need, and it'll only cost you }
-{114}{}{W porzπdku.}
-{115}{}{I'll pass.}
-{116}{}{Yes indeedy, you won't regret this. It was nice giving you the business. See you around.}
+{108}{}{No wiesz... kroi, sieka i jest niezastπpiony w tÍpieniu szkodnikÛw. Wart kaødych pieniÍdzy, a dziú moøe ciÍ kosztowaÊ tylko }
+{109}{}{Zrobiony ze specjalnie selekcjonowanych gatunkÛw drewna. Osobiúcie uøywam go do dügania wúcibskich szkodnikÛw, albo (jeúli dysponujesz odpowiednimi umiejÍtnoúciami) do rzucania. Jest bardzo aerodynamiczny i nie pÍka przy uderzeniu. No i co ty na to? Przecieø to jak za darmo, tylko }
+{110}{}{Ta broÒ zosta≥a wykonana z najlepszej, pozyskanej z recyclingu stali. Popatrz tylko, jak idealnie leøy w d≥oni. Nie obawiaj siÍ, nasi inøynierowie przeprowadzili setki testÛw na bezpieczeÒstwo i niezawodnoúÊ. Øaden bandzior przy zdrowych zmys≥ach nie zbliøy siÍ do osoby wymachujπcej tym maleÒstwem. I wszystko to za jedyne }
+{111}{}{A to mÛj ma≥y skarb. Z najdalszych zakπtkÛw... Wystarczy skierowaÊ tym koÒcem - s≥uchaj, nie mam pojÍcia co to jest. Kupujesz czy nie? ChcÍ za to }
+{112}{}{Posiadacz tej zabawki wysy≥a úwiatu jasnπ wiadomoúÊ: "Ze mnπ nie ma øartÛw!" Na sam jej widok twoi wrogowie zwiejπ ile si≥ w nogach. Za jedyne }
+{113}{}{Na pierwszy rzut oka widaÊ, øe naleøysz do ludzi, ktÛrzy lubiπ stanπÊ oko w oko z niebezpieczeÒstwem. A czym by≥a by walka na krÛtkie dystanse bez tego cacka? ChoÊ trudno w to uwierzyÊ, oddam ci je za jedyne }
+{114}{}{BiorÍ.}
+{115}{}{Nie, dziÍkujÍ.}
+{116}{}{Wspania≥y wybÛr. Nie poøa≥ujesz. Mi≥o siÍ z tobπ robi interesy. Do zobaczenia.}
 {117}{}{[Koniec]}
-{118}{}{Shit! What a waste of my time. Go on, beat it!}
+{118}{}{Cholera! Szkoda mojego czasu. No juø, spadaj!}
 {119}{}{[Koniec]}
-{120}{}{Well, that was a wasted speech. $}
-{121}{}{Nooo.}
+{120}{}{Takie fajne przemÛwienie na nic. $} #continue on 152
+{121}{}{Dobra.}
 {122}{}{Nie.}
-{123}{}{Hey, it's you again. I got some new stuff - you interested?}
-{124}{}{Sure, let's hear what you got.}
-{125}{}{Not a chance, Willy.}
-{126}{}{Nooo.}
+{123}{}{Hej, to znowu ty. Mam nowy towar - chcesz zobaczyÊ?}
+{124}{}{Jasne, co tam masz?}
+{125}{}{Nie ma szans, Willy.}
+{126}{}{Dobra.}
 {127}{}{Nie.}
-{128}{}{Beat it! I'm busy.}
-{129}{}{Come back when you got some money.}
-{130}{}{GO AWAY!}
-{131}{}{No refunds.}
-{132}{}{No exchanges.}
-{133}{}{No credit.}
-{134}{}{Go away, I'm busy.}
-{135}{}{Not a smart move.}
-{136}{}{Skurwiel!}
-{137}{}{Is this supposed to get me to lower my prices?}
-{138}{}{All right, I'll lower the prices.}
-{139}{}{How about a 20% discount?}
-{140}{}{How about a 40% discount?}
-{141}{}{How about an 80% discount?}
-{142}{}{Okay, FREE; here, take it!}
+{128}{}{Spadaj! Nie mam czasu.}
+{129}{}{WrÛÊ, jak dorobisz siÍ jakichú pieniÍdzy.}
+{130}{}{ODEJDè ST•D!}
+{131}{}{Øadnych reklamacji.}
+{132}{}{Øadnej wymiany.}
+{133}{}{Øadnych kredytÛw.}
+{134}{}{Odejdü, nie mam czasu.}
+{135}{}{To nie by≥o mπdre.}
+{136}{}{Sukinsyn!}
+{137}{}{Chcesz, øebym obniøy≥ ceny, tak?}
+{138}{}{W porzπdku, obniøÍ ceny.}
+{139}{}{Moøe 20% zniøki?}
+{140}{}{Moøe 40% zniøki?}
+{141}{}{Moøe 80% zniøki?}
+
+{142}{}{Dobra, ZA DARMO, proszÍ bardzo!}
 {143}{}{Willy}
 {144}{}{George}
 {145}{}{Mike}
@@ -60,5 +51,6 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-{152}{}{. You want it or not?}
+
+{152}{}{. Chcesz czy nie?}
 {200}{}{.}

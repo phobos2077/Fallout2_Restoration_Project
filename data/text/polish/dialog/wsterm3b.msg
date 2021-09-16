@@ -39,14 +39,14 @@
 {127}{}{}
 {128}{}{}
 {129}{}{Pomórz Skynet.}
-{130}{}{Co chcesz zrobiæ?}
+{130}{}{Czego ode mnie chcesz?}
 {131}{}{Czemu próbowa³eœ mnie zabiæ?}
 {132}{}{Sztuczna inteligencja?}
-{133}{}{Czekasz na mnie?}
+{133}{}{Czeka³eœ na mnie?}
 {134}{}{WyjdŸ.}
 {135}{}{WyjdŸ.}
 {136}{}{Kontynuuj}
-{137}{}{Co chcesz zrobiæ?}
+{137}{}{Czego ode mnie chcesz?}
 {138}{}{Czemu próbowa³eœ mnie zabiæ?}
 {139}{}{Sztuczna inteligencja?}
 {140}{}{Czekasz na mnie?}
@@ -79,7 +79,7 @@
 {160}{}{}
 {161}{}{WyjdŸ.}
 {162}{}{Skynet pragnie opuœciæ to miejsce.}
-{163}{}{Czemu wiêc nie odejdziesz?}
+{163}{}{Wiêc czemu sobie nie pójdziesz?}
 {164}{}{Dobrze jest chcieæ.}
 {165}{}{Jak mogê ci pomóc?}
 {166}{}{Obawiam siê, ¿e nie dam rady ciê st¹d wynieœæ.}
@@ -173,5 +173,6 @@
 {227}{}{Ten mózg zosta³ zmodyfikowany do funkcjonowania z usprawnionym cia³em robota znajduj¹cym siê w laboratorium robotyki na poziomie 3.}
 {228}{}{Pomogê ci.}
 {229}{}{Nie pomogê ci.}
+
 {250}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}
 {300}{}{Komputer wydaje siê mieæ jakiœ rodzaj mechanizmu obronnego.}

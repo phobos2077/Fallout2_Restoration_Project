@@ -2,7 +2,7 @@
 {101}{}{To dzieciak wiceprezydenta Carlsona.}
 {102}{}{Wygl¹da na ma³ego, rozpuszczonego szczeniaka. W dodatku grubego.}
 {103}{}{Mój tata to wiceprezydent Carlson, wiêc lepiej traktuj mnie dobrze! Kim jesteœ?}
-{104}{}{[Imiê gracza]}
+{104}{}{[Twoje imiê]}
 {105}{}{Pilnujê twojego taty.}
 {106}{}{Gdzie jest twój tata?}
 {107}{}{Widzisz ten nó¿? L¹dowa³y ju¿ na nim dzieciaki grzeczniejsze od ciebie.}
@@ -14,7 +14,7 @@
 {113}{}{Pewnie. O ludzie.}
 {114}{}{Jest w œrodku. W gabinecie. Zawsze tam jest.}
 {115}{}{Gdzie jest jego gabinet?}
-{116}{}{Dobra, dziêki.}
+{116}{}{Dobra. Dziêki.}
 {117}{}{Obok zbiornika z wod¹. Czasem siê tam bawiê. Podgl¹dam go, jak pracuje.}
 {118}{}{Jesteœ wyj¹tkowo upierdliwym bachorem, co nie?}
 {119}{}{Dziêki dzieciaku, to mi bardzo pomog³o.}

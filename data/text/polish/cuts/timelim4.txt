@@ -1,8 +1,8 @@
-1:Chosen?
-2:Chosen?
-3:Do you hear me?
-4:[The] village [dies].
-5:[All of our] futures die, too.
-6:We have little [left in both time and] essence.
-7:Hurry.
-8:Hur-...
+1:Dziecko?
+2:Dziecko Przeznaczenia?
+3:S³yszysz mnie?
+4:Wioska [umiera].
+5:[Nie ma ju¿] dla nas nadziei.
+6:Zosta³o ju¿ bardzo niewiele [czasu].
+7:Spiesz siê.
+8:Spiesz-...

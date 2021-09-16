@@ -1,1 +1,1 @@
-{100}{}{You have entered the Gecko junkyard.}
+{100}{}{Przed tob¹ z³omowisko w Gecko.}

@@ -1,6 +1,6 @@
 {100}{}{Terminal komputerowy.}
 {101}{}{To chyba jest terminal systemu bezpieczeñstwa.}
-{102}{}{Nie mo¿esz odczytaæ tego, co wyœwietla monitor.}
+{102}{}{Nie mo¿esz przeczytaæ tego, co pokazuje monitor.}
 {103}{}{System Bezpieczeñstwa Skynet                                     
  Dostêp Zabroniony}
 {104}{}{}
@@ -11,5 +11,7 @@
 {107}{}{}
 {108}{}{}
 {109}{}{WyjdŸ.}
-{200}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}
-{300}{}{Komputer wydaje siê mieæ jakiœ rodzaj mechanizmu obronnego.}
+
+
+{200}{}{ nie mo¿e przeczytaæ tego, co pokazuje monitor.}
+{300}{}{Komputer jest najwyraŸniej wyposa¿ony w jakiœ mechanizm obronny.}

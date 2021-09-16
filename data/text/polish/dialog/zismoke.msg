@@ -3,9 +3,11 @@
 {102}{}{Wewn¹trz he³mu znajduje siê ostrze¿enie: 'Uwaga! - Zakaz Palenia!!'. Chyba lepiej go przestrzegaæ.}
 {103}{}{Wypalasz ca³¹ paczkê.}
 {104}{}{Potrzebujesz zapalniczki.}
+
 {200}{}{Palisz skrêta.}
 {201}{}{Palisz kolejnego skrêta.}
 {203}{}{Skoñczy³o ci siê zio³o.}
+
 {210}{}{Uuaaa. To zio³o jest LA SUPERB.}
 {211}{}{Dobra, po prostu siê tu po³o¿ê na chwilkê.}
 {212}{}{Zrobi³o ci siê BARDZO lekko w g³owie.}
@@ -15,4 +17,5 @@
 {216}{}{O cholera...}
 {217}{}{Tracisz przytomnoœæ.}
 {218}{}{Budzisz siê z uczuciem zmieszania i oszo³omienia.}
+
 {250}{}{Palenie to odra¿aj¹cy na³óg u kobiety.}

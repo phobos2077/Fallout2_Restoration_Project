@@ -2,7 +2,7 @@
 {101}{}{Daj nam jeœæ!}
 {102}{}{Jesteœmy g³odni!}
 {103}{}{Rzuæ grosik tym, którym siê tak dobrze nie powodzi.}
-{104}{}{Pomó¿cie nam!}
+{104}{}{Pomó¿ nam!}
 {105}{}{Jeœæ!}
 {106}{}{Jestem taki g³odny.}
 {107}{}{Moje dzieci g³oduj¹.}

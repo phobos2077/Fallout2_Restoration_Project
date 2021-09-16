@@ -15,7 +15,7 @@
 {114}{}{[W³am siê do komputera]}
 {115}{}{[OdejdŸ]}
 {116}{}{Intruz wykryty, alarm aktywowany. Wy³¹czenie systemu. Mi³ego dnia ¿yczê.}
-{117}{}{[Zrobione]}
+{117}{}{[GOTOWE]}
 {118}{}{(Po przekopaniu siê przez z³o¿one wzory chemiczne i notatki laboratoryjne dochodzisz do wniosku, ¿e Shi stworzyli pewien rodzaj paliwa z wyci¹gu z roœlin i organizmów morskich. Wygl¹da równie¿ na to, ¿e przy³¹czyli siê do istniej¹cych ju¿ uprzednio rur przesy³owych, dziêki czemu mog¹ transportowaæ paliwo do szerokiego wachlarza miejsc.)}
 {119}{}{(Napotykasz ogromn¹ iloœæ skomplikowanych formu³ chemicznych i notatek laboratoryjnych. Nie masz zbytniej pewnoœci, co to wszystko mo¿e znaczyæ.)}
 {120}{}{Skieruj paliwo do tankowca Posejdona.}
@@ -24,16 +24,18 @@
 {123}{}{(Po przerzuceniu dyskusji technicznych i symboliki odkrywasz, ¿e Shi pracuj¹ nad nowym rodzajem polimerycznego pancerza bojowego, odpornego zarówno na ogieñ, jak i na przebicie. Min¹ jednak lata, zanim zostanie ukoñczony. Widzisz tak¿e wzmianki o nowym uzbrojeniu i mo¿liwoœciach konstrukcyjnych. Najwidoczniej Shi maj¹ jakieœ plany na przysz³oœæ.)}
 {124}{}{Wróæ.}
 {125}{}{Paliwo przekierowane zgodnie z planem. Zbiorniki puste. Zamykam program.}
-{126}{}{[Zrobione]}
+{126}{}{[GOTOWE]}
 {127}{}{Paliwo przekierowane zgodnie z planem. Zbiorniki puste. Zamykam program.}
-{128}{}{[Zrobione]}
+{128}{}{[GOTOWE]}
 {129}{}{Stacja wy³¹czona.}
 {130}{}{W³¹cz stacjê.}
 {131}{}{[OdejdŸ]}
 {132}{}{[Twoja próba na chybi³-trafi³ czyni cuda... jesteœ w komputerze!]}
-{133}{}{[Dalej]}
+{133}{}{[Dalej.]}
+
 {134}{}{Ten komputer nie odpowiada na ¿adne komendy.}
 {135}{}{Nie znajdujesz ¿adnego miejsca, gdzie mo¿na by to w³o¿yæ.}
+
 {136}{}{[Zgadnij has³o.]}
 {137}{}{Skieruj paliwo przez rury.}
 {138}{}{Wymagany kierunek.}

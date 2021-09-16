@@ -1,6 +1,6 @@
-{100}{}{Terminal komputerowy.}
-{101}{}{It controls the Vault-Tec organ extraction unit.}
-{102}{}{Nie mo¿esz odczytaæ tego, co wyœwietla monitor.}
+{100}{}{Terminal}
+{101}{}{Kontroluje KrypTechow¹ jednostkê pozyskiwania organów.}
+{102}{}{Nie mo¿esz przeczytaæ tego, co pokazuje monitor.}
 {103}{}{Witamy w systemie obs³ugi najnowszego aparatu do pozyskiwania organów firmy Krypt-Tech. Aby z niego skorzystaæ, proszê umieœciæ dawcê w sali operacyjnej, ustawiæ pokrêt³o na odpowiedni gatunek i wybraæ organ, który ma zostaæ pobrany.}
 {104}{}{Wybierz Gatunek}
 {105}{}{Wybierz Organ}
@@ -22,13 +22,13 @@
 {116}{}{Wybierz Strusia Pêdziwiatra}
 {117}{}{Wybierz Gryzonia}
 {118}{}{Wybierz Cz³owieka}
-{119}{}{[Scratch a new name onto console.]}
+{119}{}{Wydrap na konsoli now¹ nazwê.}
 {120}{}{WyjdŸ.}
 {121}{}{[Podnosisz z pod³ogi kawa³ek metalu i rozwa¿asz, co wydrapaæ na konsoli.]}
-{122}{}{Carve the word 'Mutant' onto console.}
-{123}{}{Carve the word 'Deathclaw' onto console.}
+{122}{}{Wydrap na konsoli s³owo "Mutant".}
+{123}{}{Wydrap na konsoli s³owa "Szpon œmierci".}
 {124}{}{WyjdŸ.}
-{125}{}{Current Selection: }
+{125}{}{Aktualny Wybór: }
 {126}{}{Gatunek: }
 {127}{}{Organ: }
 {128}{}{Wybierz Gatunek}
@@ -59,26 +59,29 @@
 {146}{}{Wybierz Jelito}
 {147}{}{WyjdŸ.}
 {148}{}{Cia³o dawcy nie zosta³o wprowadzone do sali operacyjnej.}
-{149}{}{Extraction failed.}
-{150}{}{Extraction completed.}
-{151}{}{Extraction completed.
-                                           Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
+{149}{}{Pozyskiwanie nieudane}
+{150}{}{Pozyskiwanie zakoñczone}
+{151}{}{Pozyskiwanie zakoñczone                                             
+ Dziêkujemy za u¿ycie produktu Krypt-Techu. Prosimy         
+ obejrzeæ nasz katalog w celu zapoznania siê z pe³n¹ gam¹  
+ produktów firmy Krypt-Tech.}
 {152}{}{}
 {153}{}{WyjdŸ.}
-{154}{}{Extraction failed-- local sensor overload.}
-{155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
-{170}{}{Human }
-{171}{}{Canine }
-{172}{}{Feline }
-{173}{}{Road Runner }
-{174}{}{Rodent }
+
+{170}{}{Cz³owiek }
+{171}{}{Psowaty }
+{172}{}{Kotowaty }
+{173}{}{Struœ Pêdziwiatr }
+{174}{}{Gryzoñ }
 {175}{}{Mutant }
-{176}{}{Deathclaw }
-{180}{}{Brain }
-{181}{}{Heart }
-{182}{}{Kidney }
-{183}{}{Liver }
-{184}{}{Lung }
-{185}{}{Appendix }
-{186}{}{Colon }
-{200}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}
+{176}{}{Szpon œmierci }
+
+{180}{}{Mózg}
+{181}{}{Serce}
+{182}{}{Nerka}
+{183}{}{W¹troba}
+{184}{}{P³uco}
+{185}{}{Wyrostek Robaczkowy}
+{186}{}{Jelito}
+
+{200}{}{ nie mo¿e przeczytaæ tego, co pokazuje monitor.}

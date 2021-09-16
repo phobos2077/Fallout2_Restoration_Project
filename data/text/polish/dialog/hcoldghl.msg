@@ -1,36 +1,36 @@
-{100}{}{You see a withered old ghoul.}
-{101}{}{You see one of the several old ghouls that make this house their residence.}
-{102}{}{I'm so tired.}
-{103}{}{So tired, tired of waiting, tired of waiting for yo-oo-ou.}
-{104}{}{When's bedtime?}
-{105}{}{What's that horrible smell? Oh, it's me.}
-{106}{}{Is it 4 o'clock yet? I want dinner!}
-{107}{}{Wow, I haven't broken my hip for almost an hour!}
-{108}{}{Anyone seen my teeth?}
-{109}{}{Where's my food?}
-{110}{}{Death! I'm the one you want! Over here!}
-{111}{}{Hello, Billy! I'm so glad you came back to see me.}
-{112}{}{Getting old isn't for sissies.}
-{113}{}{Oooops! My bowels!}
-{114}{}{Does anyone have a diaper?}
-{115}{}{I got a lot of wisdom I could impart, but I don't feel like it.}
-{116}{}{Ghouls these days... bah!}
-{117}{}{No respect... no one's got respect anymore.}
-{118}{}{I remember that old Set...}
-{119}{}{Wonder how ol' Jed is up in Gecko.}
-{120}{}{You like muties? I like muties.}
-{121}{}{I like potatahs! I like 'em mashed! I like 'em fried!}
-{122}{}{I'm hungry!}
-{123}{}{Wish we had some plants around.}
-{124}{}{I don't like being outside.}
-{125}{}{That ol' uranium mine's gotta give out soon.}
-{126}{}{You ain't from Vault City, are you?}
-{127}{}{I remember fightin' the Glowin' Ones under Necropolis... those were the days...}
-{128}{}{Let me tell you 'bout when we opened the Vault...}
-{129}{}{...what was I sayin'?}
-{130}{}{::yawn::}
-{131}{}{::pffffft::}
-{132}{}{I ain't got nothing to say to no-one!}
-{133}{}{I need a nap.}
-{134}{}{It's cold and there are wolves after me.}
-{135}{}{Dogs keep waggin' their tails for HOURS after they die!}
+{100}{}{Widzisz starego, pomarszczonego ghula.}
+{101}{}{Widzisz jednego ze starych ghuli zamieszkuj¹cych ten dom.}
+{102}{}{Jestem taki zmêczony.}
+{103}{}{Mam ju¿ doœæ, doœæ czekania, doœæ czekania na cie-eee-bie.}
+{104}{}{Idziemy ju¿ spaæ?}
+{105}{}{Co tak strasznie œmierdzi? Ach, to ja!}
+{106}{}{Jest ju¿ czwarta? Co z t¹ kolacj¹!}
+{107}{}{Jej, ju¿ od prawie godziny nie z³ama³em sobie biodra!}
+{108}{}{Ktos fie, kcie jest moja scenka?}
+{109}{}{Gdzie jedzenie?}
+{110}{}{Œmierci, przybywaj! Czekam na ciebie!}
+{111}{}{Hej, Billy! Cieszê siê, ¿e znów tu jesteœ.}
+{112}{}{Nie³atwo jest byæ starym.}
+{113}{}{Uuuups! Moje wnêtrznoœci!}
+{114}{}{Ma ktoœ czyst¹ pieluchê?}
+{115}{}{Móg³bym siê dzieliæ moj¹ wiedz¹, ale chwilowo nie mam ochoty.}
+{116}{}{Ach, te dzisiejsze ghule... phi!}
+{117}{}{Brak szacunku... nikt ju¿ dzisiaj nie okazuje nale¿ytego szacunku.}
+{118}{}{Pamiêtam starego Seta...}
+{119}{}{Ciekawe, jak siê powodzi staremu Jedowi w Gecko.}
+{120}{}{Lubisz mutanty? Bo ja lubiê.}
+{121}{}{Lubiê ziemniaki! Lubiê gotowane! Lubiê sma¿one!}
+{122}{}{Jestem g³odny!}
+{123}{}{Przyda³yby siê tutaj jakieœ roœlinki.}
+{124}{}{Nie lubiê przebywaæ na zewn¹trz.}
+{125}{}{Ta stara kopalnia uranu d³ugo ju¿ nie poci¹gnie.}
+{126}{}{Nie jesteœ chyba z Kryptopolis, co?}
+{127}{}{Pamiêtam bitwê ze Œwiec¹cymi pod Nekropolis... to by³y czasy...}
+{128}{}{Opowiem ci o tym, jak otwieraliœmy Kryptê...}
+{129}{}{...o czym to ja mówi³em?}
+{130}{}{::ziewa::}
+{131}{}{::stêka::}
+{132}{}{Nie mam ci nic do powiedzenia!}
+{133}{}{Muszê siê zdrzemn¹æ.}
+{134}{}{Zimno jak jasna cholera, i goni¹ mnie wilki.}
+{135}{}{Psy merdaj¹ ogonami nawet parê godzin po œmierci!}

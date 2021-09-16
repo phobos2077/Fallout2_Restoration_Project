@@ -4,26 +4,26 @@
 {103}{Cas0103}{No, proszê. Nie widzia³em ciê tu jeszcze. Nazywam siê Cassidy. Prowadzê tê spelunê. Co mogê dla ciebie zrobiæ?}
 {104}{Cas0104}{No proszê, to znowu ty. Co mogê dzisiaj dla ciebie zrobiæ?}
 {105}{}{Ug Nog?}
-{106}{}{OdejdŸ, jak gdyby nigdy nic.}
+{106}{}{[Spadam]}
 {107}{}{Szukam Krypty.}
-{108}{}{Czy wci¹¿ myœlisz o tym, ¿eby siê st¹d wynieœæ?}
-{109}{}{Co masz do picia?}
+{108}{}{Ju¿ chcesz siê st¹d wydostaæ?}
+{109}{}{Co podajesz?}
 {110}{}{Dzieje siê tutaj coœ ciekawego?}
-{111}{}{Niczego dziœ nie potrzebujê, dziêki.}
+{111}{}{Dzisiaj nic, dziêki.}
 {112}{Cas0112}{Zbyt wiele uderzeñ w g³owê, co? Przykro mi, nie mówiê po debilnemu.}
 {113}{}{Ne-mu?}
 {114}{Cas0114}{Krypty? Jedyna jak¹ znam jest w mieœcie. Wielgachna dziura... Nie przeoczysz jej - wierz mi.}
-{115}{}{Masz coœ do picia?}
+{115}{}{Masz tutaj coœ do picia?}
 {116}{}{Dzieje siê tutaj coœ ciekawego?}
-{117}{}{Dziêki za wskazówki. Na razie.}
+{117}{}{Dziêki za wskazówki. ¯egnam.}
 {118}{Cas0118}{Piwo za 20$, kolejka whisky za 30$. Nic szczególnego. A co? Chcesz coœ?}
 {119}{}{Szukam Krypty.}
-{120}{}{Poproszê piwo.}
-{121}{}{Strzelê sobie setê.}
+{120}{}{Wezmê piwo.}
+{121}{}{Wezmê whisky.}
 {122}{}{Dzieje siê tutaj coœ ciekawego?}
 {123}{}{Nieszczególnie. Ale dziêki.}
 {124}{Cas0124}{"Ciekawego"? Ech, przyjacielu. Kryptopolis nie jest "ciekawym" miejscem... Chyba ¿e stra¿nicy siê nudz¹ - wtedy lepiej siê kryæ. Czemu pytasz? Szukasz czegoœ w tej dziurze?}
-{125}{}{Masz coœ do picia?}
+{125}{}{Co masz tutaj do picia?}
 {126}{}{W³aœciwie, szukam Krypty.}
 {127}{}{Nie mo¿e tu byæ a¿ tak Ÿle.}
 {128}{}{Nieszczególnie. Ale dziêki.}
@@ -46,20 +46,20 @@
 {145}{}{Przykro mi to s³yszeæ. Szukam Krypty. Mo¿esz mi pomóc?}
 {146}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e sytuacja siê poprawi.}
 {147}{Cas0147}{Mam chore serce. Potrzebne mi zastrzyki kardio-dopalacza, by nie przesta³o biæ. To miasto jest jedynym miejscem, które ma jakieœ mo¿liwoœci medyczne, wiêc wymyœli³em sobie, ¿e osiedlê siê tu i spróbujê jakoœ zarobiæ na ¿ycie.}
-{148}{}{Zdaje siê masz ju¿ ca³kiem doœæ tego miejsca.}
+{148}{}{Chyba masz doœæ tego miejsca.}
 {149}{}{Rozumiem. S³uchaj, szukam Krypty. Mo¿esz mi w tym pomóc?}
 {150}{}{Mam nadziejê, ¿e sprawy siê wyprostuj¹. Do zobaczenia.}
 {151}{Cas0151}{Mam ochotê zwin¹æ interes i pozwoliæ, by to miasto zgni³o. Pieprzê ich.}
-{152}{}{Wiêc czemu nie odejdziesz?}
+{152}{}{Dlaczego st¹d nie wyjedziesz?}
 {153}{}{Przykro mi to s³yszeæ. Mam nadziejê, ¿e sprawy jakoœ siê u³o¿¹.}
 {154}{Cas0154}{Mam sam iœæ na Pustkowie? Ha! Mam doœæ tego miejsca, ale nie jestem g³upi!}
-{155}{}{Wybieram siê nied³ugo w podró¿. Chcia³byœ siê przy³¹czyæ?}
+{155}{}{Ja siê tam wybieram. Mo¿e siê do mnie przy³¹czysz?}
 {156}{}{Có¿, wobec tego - powodzenia.}
 {157}{Cas0157}{Bez urazy i tak dalej, ale nie wygl¹dasz na kogoœ, kto móg³by przewodziæ wyprawie. Pustkowie ciê zabije.}
 {158}{Cas0158}{Nie, nie zadaje siê z ³owcami niewolników. Maj¹ paskudny nawyk sprzedania ciê, gdy zabraknie im kasy. Bez urazy.}
 {159}{Cas0159}{Nie. Wygl¹dasz na kogoœ, kto jedn¹ nog¹ stoi w grobie, a druga w piekle. Nie zamierzam jeszcze bardziej szargaæ swojej reputacji.}
 {160}{Cas0160}{Nie... Wygl¹da na to, ¿e i tak jest wokó³ ciebie t³oczno.}
-{161}{}{W porz¹dku. Trzymaj siê.}
+{161}{}{W porz¹dku. ¯yczê powodzenia.}
 {162}{}{Zapomnij o tym pytaniu, dupku. Wracaj do swojego gównianego baru.}
 {163}{}{Wobec tego niewa¿ne. Twoja strata.}
 {164}{Cas0164}{Co? Powa¿nie?}
@@ -72,15 +72,16 @@
 {171}{Cas0171}{Co jest? Znowu masz tê minê typu "muszê powiedzieæ ci coœ, co ci siê nie spodoba".}
 {172}{Cas0172}{Taa?}
 {173}{Cas0173}{Co jest? Znowu masz tê minê typu "to ja tu rz¹dzê".}
-{174}{}{Mam do ciebie kilka pytañ...}
+{174}{}{Chcê ci zadaæ kilka pytañ...}
 {175}{}{Wygl¹da na to, ¿e trochê oberwa³eœ. U¿yj stimpaków, by siê podleczyæ.}
-{176}{}{Cassidy, chcê byœ tu poczeka³, a¿ wrócê.}
+{176}{}{Cassidy, zaczekaj tutaj na mój powrót.}
 {177}{}{Schowaj broñ.}
 {178}{}{Trzymaj siê blisko mnie.}
-{179}{}{Nie odchodŸ za daleko.}
-{180}{}{Powinniœmy siê trochê rozsun¹æ.}
-{181}{}{ChodŸmy, Cassidy. Czas ruszaæ.}
-{182}{}{Niewa¿ne. Nie zawracaj sobie g³owy.}
+{179}{}{Nie oddalaj siê zbytnio.}
+{180}{}{Powinniœmy siê nieco rozproszyæ.}
+{181}{}{ChodŸ, Cassidy, czas na nas.}
+{182}{}{Nic, niewa¿ne.}
+
 {261}{Cas0261}{Chcesz, bym wpakowa³ kulkê w ³eb Myrona, prawda? ¯aden problem. Powiedz tylko s³owo.}
 {262}{Cas0262}{Co masz na myœli?}
 {263}{}{Po co ci ten Myron?}
@@ -108,7 +109,7 @@
 {285}{}{Hmmm. Mam inne pytanie...}
 {286}{}{W porz¹dku. Dziêki za raport.}
 {287}{Cas0287}{Ej, nie ¿artuj sobie z Cassidym. Nie jesteœ dzikusem.}
-{288}{}{Jestem.}
+{288}{}{Owszem, jestem.}
 {289}{}{Wszystko jedno. Mam inne pytanie...}
 {290}{}{Niewa¿ne. Nie chcê tego teraz roztrz¹saæ.}
 {291}{Cas0291}{Ech, có¿... Niech to diabli... Mogê ciê zaraz przeprosiæ. Nie chcia³em ciê uraziæ.}
@@ -192,42 +193,68 @@
 {369}{}{Bêdê potrzebowa³ kul i wózka inwalidzkiego.}
 {370}{}{Cassidy umiera na atak serca.}
 {371}{}{Uda³o ci siê przekonaæ Cassidy'ego ¿eby przy³¹czy³ siê do twojej dru¿yny.}
-{372}{}{Pozwól mi najpierw po³kn¹æ tabletkê na serce...}
+{372}{}{Pozwól mi najpierw po³kn¹æ tabletkê na serce...} # Seraph's Code
+
 {1000}{Cas1000}{No dobra. Zaczekam, a¿ wrócisz.}
 {1100}{Cas1100}{Jasne. Ale nie mogê obiecaæ, ¿e jej nie wyci¹gnê, jeœli wpadniemy w k³opoty.}
 {1200}{Cas1200}{Dobra, bêdê trzymaæ siê blisko. Pewnie spodziewasz siê k³opotów.}
 {1300}{Cas1300}{Dobra, bêdê siê trzyma³ dalej. Dziêki temu bêdê mia³ lepszy wgl¹d na sytuacjê.}
 {1400}{Cas1400}{Dobra, bêdê pilnowa³ ty³ów. Jeœli bêdê potrzebny, zawo³aj, a przybiegnê.}
+
 {2000}{Cas2000}{Bez urazy i tak dalej, ale nie wygl¹dasz na kogoœ, kto móg³by przewodziæ wyprawie. Pustkowie ciê zabije i zje na obiad.}
 {2100}{Cas2100}{Nie, nie zadaje siê z ³owcami niewolników. Maj¹ paskudny nawyk sprzedawania ciê, gdy zabraknie im kasy. Bez urazy.}
 {2200}{Cas2200}{Nie. Wygl¹dasz na kogoœ, kto jedn¹ nog¹ stoi w grobie, a drug¹ w piekle. Nie zamierzam jeszcze bardziej szargaæ swojej reputacji.}
 {2300}{Cas2300}{Nie... Wygl¹da na to, ¿e i tak jest wokó³ ciebie t³oczno.}
 {2400}{Cas2400}{No to w porz¹dku.}
+
 {2999}{}{W porz¹dku. Uwa¿aj na siebie.}
 {3000}{}{No to ruszajmy.}
 {3100}{}{Wiêc zapomnij o tym, dupku.}
 {3200}{}{No to niewa¿ne. Twoja strata.}
+
 {4100}{Cas4100}{Dobra, wszystko pozszywane, mogê iœæ.}
 {4200}{Cas4200}{Dobra, wszystko pozalepiane.}
 {4300}{Cas4300}{To pomog³o, ale przyda³oby siê jeszcze parê stimpaków.}
 {4400}{Cas4400}{Zu¿y³em to, co mia³em, ale nadal ze mn¹ kiepsko. Mogê chodziæ, ale jeœli masz jeszcze parê stimpaków, chêtnie z nich skorzystam.}
-{9999}{}{Mam do ciebie kilka pytañ...}
+
+{9999}{}{Chcê ciê o coœ zapytaæ...}
 {10001}{}{WeŸ wiêcej stimpaków i wylecz siê.}
 {10002}{}{Cassidy, chcê byœ tu poczeka³, a¿ wrócê.}
 {10003}{}{Schowaj broñ.}
-{10004}{}{Trzymaj siê blisko mnie.}
-{10005}{}{Nie odchodŸ za daleko.}
-{10006}{}{Powinniœmy siê trochê rozsun¹æ.}
-{10007}{}{No to ruszajmy.}
+{10004}{}{Zostañ blisko mnie.}
+{10005}{}{Nie oddalaj siê zbytnio.}
+{10006}{}{Powinniœmy siê nieco rozproszyæ.}
 {10100}{}{ChodŸmy, Cassidy. Czas ruszaæ.}
+{10007}{}{No to ruszajmy.}
+
+# NEW TOM PARTY MEMBER ADDITIONS
+
+# NODE 1007 WE NEED TO CHANGE DISTANCE
 {20000}{Cas20000}{W porz¹dku, s³ucham.}
+
+# NODE 1008 TALK ABOUT GEAR
 {20001}{Cas20001}{Mój sprzêt? Co z nim?}
+
+# NODE 1009 REMOVE ARMOR
 {20002}{Cas20002}{Nie ma sprawy. I tak jest za gor¹co na takie wdzianko. Spoci³em siê w nim jak dziwka w Nowym Reno.}
+
+# NODE 1010 WHAT WEAPONS CAN YOU USE -- DAN NEEDS TO REPLACE THIS.
+
+# NODE 1100 CAN'T JOIN PARTY BECAUSE LOW CHR -- DAN NEEDS TO REPLACE THIS.
+
+# We need to change our distance from one another
 {20003}{}{Zmieñmy szyk.}
-{20004}{}{Muszê z tob¹ porozmawiaæ o walce.}
+# I need to talk to you about your gear.
+{20004}{}{Chcê pogadaæ o twoim sprzêcie.}
+# On second thought, I think this distance is OK for now.
 {20005}{}{Niewa¿ne. Zostañmy przy tym szyku.}
+# Actually, I guess there's nothing I need to really know right about your gear.
 {20006}{}{Niewa¿ne. Niczego nie potrzebujê wiedzieæ o twoim sprzêcie.}
+# I need to remove the armor that you're wearing.
 {20007}{}{Zdejmij swój pancerz.}
+# I need to know what kind of weapons you can use. Transplant original comment from Question Node Line: 264
+
+#added by killap - expansion
 {30000}{}{Ach, po tym faktycznie poczu³em siê lepiej. Mam wra¿enie, ¿e teraz bêdê znacznie... skuteczniejszy.}
 {30001}{}{£a³, czujê siê inaczej. Te pigu³ki na serce musz¹ naprawdê dzia³aæ.}
 {30100}{}{Tak, dlaczego nie... To pomo¿e mi poczuæ siê jak martwy.}

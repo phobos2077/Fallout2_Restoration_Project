@@ -1,59 +1,59 @@
-{100}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Jego oczy intensywnie wpatruj¹ siê w ziemiê.}
+{100}{}{Widzisz silnego mê¿czyznê w drelichu. Stara siê nie patrzeæ ci w oczy.}
 {101}{}{Widzisz niewolnika Kryptopolis.}
-{102}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Jego oczy intensywnie wpatruj¹ siê w ziemiê.}
-{103}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Jej oczy intensywnie wpatruj¹ siê w ziemiê.}
-{104}{}{Widzisz niewolnika Kryptopolis.}
-{105}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Jej oczy intensywnie wpatruj¹ siê w ziemiê.}
-{106}{}{S³yszeliœmy o twoich wspania³ych wyczynach. To zadziwiaj¹ce, ¿e chcia³o ci siê ryzykowaæ ¿ycie dla Kryptopolis... i ca³ego œwiata.}
-{107}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
+{102}{}{Widzisz silnego mê¿czyznê w drelichu. Stara siê nie patrzeæ ci w oczy.}
+{103}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê w ubraniu roboczym. Jej spuszczony wzrok b³¹ka siê gdzieœ po ziemi.}
+{104}{}{Niewolnik Kryptopolis.}
+{105}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê w ubraniu roboczym. Jej spuszczony wzrok b³¹ka siê gdzieœ po ziemi.}
+{106}{}{S³yszeliœmy o twoim wyczynie. To by³o niesamowite. Uda³o ci siê uratowaæ Kryptopolis... i kilka innych miast.}
+{107}{}{Twoja walka przeciwko Enklawie zadziwi³a nawet Pierwszego Obywatela.}
 {108}{}{Chcielibyœmy podarowaæ ci coœ, za twoje niesamowite wyczyny. Nie mamy jednak nic... prócz naszych szczerych podziêkowañ.}
 {109}{}{Inni s³u¿¹cy bêd¹ zazdroœni o to, ¿e rozmawia³ ze mn¹ ktoœ tak bohaterski jak ty.}
 {110}{}{Tak, Kapitanie?}
 {111}{}{Kapitanie?}
-{112}{}{Kapitanie, czy jest coœ do zrobienia?}
-{113}{}{Kapitanie, czy ma Pan dla mnie jakieœ polecenia?}
-{114}{}{Przykro mi Kapitanie. Postaram siê pracowaæ ciê¿ej.}
-{115}{}{Przykro mi Kapitanie. Postaramy siê byæ bardziej uwa¿ni.}
-{116}{}{Tak, Obywatelu?}
+{112}{}{Co móg³bym dla pana zrobiæ, Kapitanie?}
+{113}{}{Masz dla mnie jakieœ zadanie, Kapitanie?}
+{114}{}{Przepraszam, Kapitanie. Bêdê pracowa³ ciê¿ej.}
+{115}{}{Przepraszam, Kapitanie. Spróbujemy byæ bardziej uwa¿ni.}
+{116}{}{Tak, obywatelu?}
 {117}{}{Obywatelu?}
-{118}{}{Obywatelu, co mogê dla ciebie zrobiæ?}
-{119}{}{Obywatelu, czy masz dla mnie jakieœ zadanie?}
-{120}{}{Przykro mi, Obywatelu. Postaram siê pracowaæ ciê¿ej.}
-{121}{}{Przykro mi. Postaramy siê byæ bardziej uwa¿ni.}
-{122}{}{Mutanty nie maj¹ prawa wstêpu do miasta!}
+{118}{}{Co mogê dla ciebie zrobiæ, obywatelu?}
+{119}{}{Masz dla mnie jakieœ zadania, obywatelu?}
+{120}{}{Przepraszam, obywatelu. Bêdê pracowa³ ciê¿ej.}
+{121}{}{Przepraszam, obywatelu. Spróbujemy byæ bardziej uwa¿ni.}
+{122}{}{Mutanci nie mog¹ przebywaæ w obrêbie miasta!}
 {123}{}{Je¿eli stra¿nik zobaczy z tob¹ jakiegokolwiek mutanta ka¿e ci opuœciæ miasto!}
-{124}{}{Mutanty nie maj¹ prawa wstêpu do miasta! Musisz opuœciæ ten teren!}
-{125}{}{Ghule nie maj¹ prawa wstêpu do miasta!}
+{124}{}{Mutanci maj¹ zakaz przebywania w obrêbie miasta! Musicie odejœæ!}
+{125}{}{Ghule maj¹ zakaz przebywania w mieœcie!}
 {126}{}{Je¿eli stra¿nik zobaczy z tob¹ jakiegokolwiek ghula zmusi ciê do opuszczenia miasta!}
-{127}{}{Ghule nie maj¹ prawa wstêpu do miasta! Musisz opuœciæ ten teren!}
-{128}{}{Tak zgadza siê. Centrum Rozmieszczania S³u¿¹cych posiada obecnie moje papiery.}
-{129}{}{Please leave me be. I am a servant of Vault City.}
+{127}{}{Ghule maj¹ zakaz przebywania w mieœcie! Musicie odejœæ!}
+{128}{}{Tak, rzeczywiœcie. Moje papiery s¹ w Centrum Rozmieszczania S³u¿¹cych.}
+{129}{}{Proszê pozwól. Jestem s³ug¹ Kryptopolis.}
 {130}{}{B³agam ciê, proszê, pomó¿ mi: dwójka dzieci... ciemnow³osych... mówi ci to coœ...? Zosta³y pojmane przez handlarzy jakieœ dwa lata temu i sprzedani gdzieœ na pó³nocy.}
-{131}{}{Przykro mi, ale... nie mam pozwolenia na rozmawianie z kimkolwiek.}
-{132}{}{Je¿eli Obywatele z³api¹ mnie na rozmawianiu z handlarzem to w³adze miasta surowo mnie ukarz¹.}
-{133}{}{Stra¿nicy zostan¹ powiadomieni o tobie, je¿eli zaraz nie przestaniesz ze mn¹ rozmawiaæ.}
-{134}{}{Nie mogê z tob¹ rozmawiaæ. Mam obowi¹zki.}
-{135}{}{OdejdŸ st¹d, ³owco niewolników. Nie chcê mieæ k³opotów.}
-{136}{}{Uciekaæ? Ja... nigdy nawet przez myœl nie przesz³a mi próba ucieczki z tego miejsca. ¯ycie jest tutaj naprawdê wspania³e.}
-{137}{}{Mieszkañcy powiedzieli mi, ¿e je¿eli bêdê pracowa³ ciê¿ej, pewnego dnia zostanê pe³noprawnym Obywatelem.}
-{138}{}{Obywatele nauczyli nas, ¿e praca jest dla nas najwspanialsz¹ nagrod¹.}
-{139}{}{Obywatele powiedzieli nam, ¿e nasza praca pozwala im zaoszczêdziæ mnóstwo czasu i mog¹ zaj¹æ siê innymi sprawami.}
-{140}{}{Kryptopolis potrzebowa³o s³u¿¹cych i to by³a praca dla mnie. Inaczej mój koniec mia³by miejsce w Nowym Reno.}
-{141}{}{Kryptopolis nagradza s³u¿¹cych dodatkowymi racjami ¿ywnoœciowymi za piln¹ i dok³adn¹ pracê.}
-{142}{}{Dochodz¹ do nas okropne wieœci o niewolnikach z Nowego Reno.}
-{143}{}{Obywatele przewieŸli moj¹ ca³¹ wioskê do miasta, abyœmy pracowali jako s³u¿¹cy. }
-{144}{}{Obywatele przywieŸli mnie z Pustkowia i nauczyli wszystkiego - czytania, pisania...}
-{145}{}{Mieszkañcy traktuj¹ mnie tutaj bardzo dobrze, a jedzenie jest wyœmienite.}
-{146}{}{Nie mam pozwolenia na rozmawianie z obcymi.}
-{147}{}{Dawno temu rodzina mnie opuœci³a i pojmali mnie ³owcy niewolników. Obywatele z Kryptopolis uratowali mnie i teraz jestem tutaj.}
-{148}{}{Pewnego dnia z wioski na pó³nocy zosta³o wywiezionych wiele osób... miedzy innymi ja. ¯ycie tutaj jest o wiele lepsze.}
-{149}{}{Pierwszy raz zabrano mnie z Nory, chodzi oczywiœcie o handel ¿ywym towarem. Na szczêœcie wszystko skoñczy³o siê tutaj.}
-{150}{}{Kr¹¿¹ plotki, ¿e Pierwszy Obywatel czasem traci panowanie nad sob¹, gdy chodzi o s³u¿¹cych.}
-{151}{}{Nie wolno mi z tob¹ rozmawiaæ. Mam du¿o pracy.}
-{152}{}{Muszê skoñczyæ moja robotê w przeci¹gu godziny.}
-{153}{}{Rozmawianie z obcymi jest sprzeczne z zasadami.}
-{154}{}{Uciekaæ? Po co?}
+{131}{}{Proszê... Nie wolno mi z nikim rozmawiaæ.}
+{132}{}{Jeœli obywatel przy³apie mnie na rozmowie z handlarzem niewolników, czeka mnie kara.}
+{133}{}{Stra¿nicy donios¹ jeœli dalej bêdziemy rozmawiaæ.}
+{134}{}{Nie mogê z tob¹ rozmawiaæ... Mam obowi¹zki.}
+{135}{}{Proszê odejdŸ, ³owco niewolników. Nie chcê ¿adnych problemów.}
+{136}{}{Uciekaæ? Ja... nigdy nawet przez myœl nie przesz³a mi próba ucieczki z tego miejsca... W sumie nie jest tu tak Ÿle.}
+{137}{}{Obywatele mówi¹, ¿e jeœli bêdê ciê¿ko pracowaæ, pewnego dnia mogê zostaæ jednym z nich.}
+{138}{}{Obywatele ucz¹ nas, ¿e praca jest dla nas nagrod¹.}
+{139}{}{Obywatele powiedzieli nam, ¿e nasze us³ugi pozwalaj¹ im zaj¹æ siê du¿o wa¿niejszymi sprawami.}
+{140}{}{Ca³e szczêœcie, ¿e Kryptopolis potrzebowa³o s³u¿¹cych. Mój koniec móg³by byæ w Nowym Reno.}
+{141}{}{Kryptopolis nagradza swoich pilnie pracuj¹cych s³u¿¹cych dodatkowymi racjami.}
+{142}{}{Podobno w Nowym Reno robi¹ straszne rzeczy z niewolnikami.}
+{143}{}{Obywatele przenieœli ca³e moje plemiê do miasta abyœmy s³u¿yli jako robotnicy. }
+{144}{}{Obywatele sprawili, ¿e przesta³em byæ bezu¿yteczny i nauczyli mnie czytaæ.}
+{145}{}{Obywatele traktuj¹ mnie bardzo dobrze. Tutejsze jedzenie jest wspania³e.}
+{146}{}{Nie wolno mi rozmawiaæ z obcymi.}
+{147}{}{Moja rodzina.... minê³o wiele lat od kiedy ostatnio siê widzieliœmy.}
+{148}{}{Zabrano mnie z mojej rodzinnej wioski na pó³nocy. ¯ycie tutaj jest du¿o lepsze.}
+{149}{}{Z³apali mnie w Norze. Szczêœliwym trafem uda³o mi siê trafiæ tutaj.}
+{150}{}{Podobno Pierwszy Obywatel czasami pozwala sobie ze swoimi s³ugami...}
+{151}{}{Nie mogê z tob¹ rozmawiaæ. Mam robotê do zrobienia.}
+{152}{}{Muszê skoñczyæ moje obowi¹zki w przeci¹gu godziny.}
+{153}{}{Rozmowa z obcymi to ³amanie prawa.}
+{154}{}{Uciekaæ? Dlaczego?}
 {155}{}{Tak? W czym mogê pomóc?}
-{156}{}{Schwytano mnie wiele lat temu. Prawie tego nie pamiêtam.}
+{156}{}{£owcy niewolników z³apali mnie dawno temu. Ledwo to pamiêtam.}
 {157}{}{Dwójkê moich uroczych dzieci wywieziono daleko na pó³noc. Mam nadziejê, ¿e pewnego dnia zawitaj¹ do tego miasta.}
-{158}{}{Przykro mi, ale nie mam czasu na pogawêdki.}
+{158}{}{Przepraszam, ale nie mam czasu na rozmowy.}

@@ -1,138 +1,245 @@
+# look_at_proc
 {100}{}{Widzisz drewniane drzwi.}
 {101}{}{Widzisz metalowe drzwi.}
-{102}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a highly explosive trap in the doorframe, which
- you may be able to pry open.}
-{103}{}{Widzisz mocne drzwi zamkniête za pomoc¹ zamka z silnym ³adunkiem wybuchowym we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{104}{}{Widzisz mocne drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego z silnym ³adunkiem wybuchowym we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{105}{}{Widzisz mocne drzwi ze starym, zardzewia³ym zamkiem i z silnym ³adunkiem wybuchowym we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{106}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem) i chronione pu³apk¹ ukryt¹ we framudze. Mo¿e uda ci siê je sforsowaæ.}
-{107}{}{Widzisz mocne drzwi zamkniête za pomoc¹ zamka, z pu³apk¹ we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{108}{}{Widzisz mocne drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego i z pu³apk¹ we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{109}{}{Widzisz mocne drzwi ze starym, zardzewia³ym zamkiem i pu³apk¹ we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{110}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe, which you may be
- able to pry open.}
-{111}{}{Widzisz mocne drzwi zamkniête za pomoc¹ zamka, z pu³apk¹ we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{112}{}{Widzisz mocne drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego, z drutem kolczastym we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{113}{}{Widzisz mocne drzwi ze starym, zardzewia³ym zamkiem, z drutem kolczastym we framudze, które byæ mo¿e uda ci siê wywa¿yæ.}
-{114}{}{Widzisz solidne drzwi zamkniête na zamek (który mo¿esz otworzyæ wytrychem). Mo¿e uda ci siê je sforsowaæ.}
-{115}{}{Widzisz mocne drzwi zamkniête za pomoc¹ zamka, które byæ mo¿e uda ci siê wywa¿yæ.}
-{116}{}{Widzisz mocne drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego, które byæ mo¿e uda ci siê wywa¿yæ.}
-{117}{}{Widzisz mocne drzwi ze starym, zardzewia³ym zamkiem, które byæ mo¿e uda ci siê wywa¿yæ.}
-{118}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a highly explosive trap in the doorframe.}
-{119}{}{Widzisz mocne drzwi zamkniête za pomoc¹ zamka z silnym ³adunkiem wybuchowym we framudze.}
-{120}{}{Widzisz mocne drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego, z silnym ³adunkiem wybuchowym we framudze.}
-{121}{}{Widzisz mocne drzwi ze starym, zardzewia³ym zamkiem i silnym ³adunkiem wybuchowym we framudze.}
-{122}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a trap in the doorframe.}
-{123}{}{Widzisz mocne drzwi z pu³apk¹ we framudze zamkniête za pomoc¹ zamka.}
-{124}{}{Widzisz drzwi z pu³apk¹ we framudze bez ¿adnego widocznego urz¹dzenia zamykaj¹cego.}
-{125}{}{Widzisz mocne drzwi ze starym, zardzewia³ym zamkiem i pu³apk¹ we framudze.}
-{126}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe.}
-{127}{}{Widzisz mocne drzwi, zamkniête za pomoc¹ zamka, z drutem kolczastym we framudze.}
-{128}{}{Widzisz mocne drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego i z drutem kolczastym we framudze.}
-{129}{}{Widzisz mocne drzwi ze starym, zardzewia³ym zamkiem i z drutem kolczastym we framudze.}
-{130}{}{You see a sturdy door with a lock, which can be picked with
- lockpicks, on it.}
-{131}{}{Widzisz mocne drzwi z zamkiem.}
-{132}{}{Widzisz drzwi bez ¿adnego widocznego zamka.}
-{133}{}{Widzisz mocne drzwi ze starym, zardzewia³ym zamkiem.}
-{134}{}{You see a damaged door with a lock, which can be picked with
- lockpicks, and a highly explosive trap in the doorframe.}
-{135}{}{Widzisz uszkodzone drzwi zamkniête za pomoc¹ zamka z silnym ³adunkiem wybuchowym we framudze.}
-{136}{}{Widzisz uszkodzone drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego z silnym ³adunkiem wybuchowym we framudze.}
-{137}{}{Widzisz uszkodzone drzwi ze starym, zardzewia³ym zamkiem i silnym ³adunkiem wybuchowym we framudze.}
-{138}{}{You see a damaged door with a lock, which can be picked with
- lockpicks, and a trap in the doorframe.}
-{139}{}{Widzisz uszkodzone drzwi zamkniête za pomoc¹ zamka i z pu³apk¹ we framudze.}
-{140}{}{Widzisz uszkodzone drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego i z pu³apk¹ we framudze.}
-{141}{}{Widzisz uszkodzone drzwi ze starym, zardzewia³ym zamkiem i z pu³apk¹ we framudze.}
-{142}{}{You see a damaged door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe.}
-{143}{}{Widzisz uszkodzone drzwi zamkniête za pomoc¹ zamka, z drutem kolczastym we framudze.}
-{144}{}{Widzisz uszkodzone drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego, z drutem kolczastym we framudze.}
-{145}{}{Widzisz uszkodzone drzwi ze starym, zardzewia³ym zamkiem, z drutem kolczastym we framudze.}
-{146}{}{You see a damaged door with a lock, which can be picked with
- lockpicks.}
+
+# description_proc
+
+# Perception Check Critical Success
+{102}{}{Widzisz solidne drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e silny ³adunek wybuchowy we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{103}{}{Widzisz solidne drzwi z zamkiem, a tak¿e silny ³adunek wybuchowy we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{104}{}{Widzisz solidne drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e silny ³adunek wybuchowy we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{105}{}{Widzisz solidne drzwi ze starym, zardzewia³ym zamkiem, a tak¿e silny ³adunek wybuchowy we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+
+{106}{}{Widzisz solidne drzwi z zamkiem (który mo¿na by otworzyæ wytrychami), a tak¿e jak¹œ pu³apkê we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{107}{}{Widzisz solidne drzwi z zamkiem, a tak¿e jak¹œ pu³apkê we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{108}{}{Widzisz solidne drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e jak¹œ pu³apkê we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{109}{}{Widzisz solidne drzwi ze starym, zardzewia³ym zamkiem, a tak¿e jak¹œ pu³apkê we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+
+{110}{}{Widzisz solidne drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e przeciêty kabel we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{111}{}{Widzisz solidne drzwi z zamkiem, a tak¿e przeciêty kabel we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{112}{}{Widzisz solidne drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e przeciêty kabel we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+{113}{}{Widzisz solidne drzwi ze starym, zardzewia³ym zamkiem, a tak¿e przeciêty kabel we framudze. Mo¿esz spróbowaæ je wywa¿yæ.}
+
+{114}{}{Widzisz solidne drzwi z zamkiem (który mo¿na by otworzyæ wytrychami), które mo¿esz spróbowaæ wywa¿yæ.}
+{115}{}{Widzisz solidne drzwi z zamkiem, które mo¿esz spróbowaæ wywa¿yæ.}
+{116}{}{Widzisz solidne drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, które mo¿esz spróbowaæ wywa¿yæ.}
+{117}{}{Widzisz solidne drzwi ze starym, zardzewia³ym zamkiem, które mo¿esz spróbowaæ wywa¿yæ.}
+
+# Perception Check Success
+
+{118}{}{Widzisz solidne drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e silny ³adunek wybuchowy we framudze.}
+{119}{}{Widzisz solidne drzwi z zamkiem, a tak¿e silny ³adunek wybuchowy we framudze.}
+{120}{}{Widzisz solidne drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e silny ³adunek wybuchowy we framudze.}
+{121}{}{Widzisz solidne drzwi ze starym, zardzewia³ym zamkiem, a tak¿e silny ³adunek wybuchowy we framudze.}
+
+{122}{}{Widzisz solidne drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e jak¹œ pu³apkê we framudze.}
+{123}{}{Widzisz solidne drzwi z zamkiem, a tak¿e jak¹œ pu³apkê we framudze.}
+{124}{}{Widzisz solidne drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e jak¹œ pu³apkê we framudze.}
+{125}{}{Widzisz solidne drzwi ze starym, zardzewia³ym zamkiem, a tak¿e jak¹œ pu³apkê we framudze.}
+
+{126}{}{Widzisz solidne drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e przeciêty kabel we framudze.}
+{127}{}{Widzisz solidne drzwi z zamkiem, a tak¿e przeciêty kabel we framudze.}
+{128}{}{Widzisz solidne drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e przeciêty kabel we framudze.}
+{129}{}{Widzisz solidne drzwi ze starym, zardzewia³ym zamkiem, a tak¿e przeciêty kabel we framudze.}
+
+{130}{}{Widzisz solidne drzwi z zamkiem, który mo¿na by otworzyæ wytrychami.}
+{131}{}{Widzisz solidne drzwi z zamkiem.}
+{132}{}{Widzisz solidne drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego.}
+{133}{}{Widzisz solidne drzwi ze starym, zardzewia³ym zamkiem.}
+
+# Perception Check Critical Failure
+
+{134}{}{Widzisz uszkodzone drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e silny ³adunek wybuchowy we framudze.}
+{135}{}{Widzisz uszkodzone drzwi z zamkiem, a tak¿e silny ³adunek wybuchowy we framudze.}
+{136}{}{Widzisz uszkodzone drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e silny ³adunek wybuchowy we framudze.}
+{137}{}{Widzisz uszkodzone drzwi ze starym, zardzewia³ym zamkiem, a tak¿e silny ³adunek wybuchowy we framudze.}
+
+{138}{}{Widzisz uszkodzone drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e jak¹œ pu³apkê we framudze.}
+{139}{}{Widzisz uszkodzone drzwi z zamkiem, a tak¿e jak¹œ pu³apkê we framudze.}
+{140}{}{Widzisz uszkodzone drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e jak¹œ pu³apkê we framudze.}
+{141}{}{Widzisz uszkodzone drzwi ze starym, zardzewia³ym zamkiem, a tak¿e jak¹œ pu³apkê we framudze.}
+
+{142}{}{Widzisz uszkodzone drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e przeciêty kabel we framudze.}
+{143}{}{Widzisz uszkodzone drzwi z zamkiem, a tak¿e przeciêty kabel we framudze.}
+{144}{}{Widzisz uszkodzone drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e przeciêty kabel we framudze.}
+{145}{}{Widzisz uszkodzone drzwi ze starym, zardzewia³ym zamkiem, a tak¿e przeciêty kabel we framudze.}
+
+{146}{}{Widzisz uszkodzone drzwi z zamkiem, który mo¿na by otworzyæ wytrychami.}
 {147}{}{Widzisz uszkodzone drzwi z zamkiem.}
-{148}{}{Widzisz uszkodzone drzwi bez ¿adnego widocznego zamka.}
+{148}{}{Widzisz uszkodzone drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego.}
 {149}{}{Widzisz uszkodzone drzwi ze starym, zardzewia³ym zamkiem.}
-{150}{}{You see an old door with a lock, which can be picked with
- lockpicks, and a highly explosive trap in the doorframe.}
-{151}{}{Widzisz stare drzwi zamkniête za pomoc¹ zamka, z silnym ³adunkiem wybuchowym we framudze.}
-{152}{}{Widzisz stare drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego, z silnym ³adunkiem wybuchowym we framudze.}
-{153}{}{Widzisz stare drzwi ze starym, zardzewia³ym zamkiem, z silnym ³adunkiem wybuchowym we framudze.}
-{154}{}{You see an old door with a lock, which can be picked with
- lockpicks, and a trap in the doorframe.}
-{155}{}{Widzisz stare drzwi zamkniête za pomoc¹ zamka, z pu³apk¹ we framudze.}
-{156}{}{Widzisz stare drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego, z pu³apk¹ we framudze.}
-{157}{}{Widzisz stare drzwi ze starym, zardzewia³ym zamkiem, z pu³apk¹ we framudze.}
-{158}{}{You see an old door with a lock, which can be picked with
- lockpicks, and a cut wire in the doorframe.}
-{159}{}{Widzisz stare drzwi zamkniête za pomoc¹ zamka, z drutem kolczastym we framudze.}
-{160}{}{Widzisz stare drzwi bez ¿adnego widocznego urz¹dzenia zamykaj¹cego, z drutem kolczastym we framudze.}
-{161}{}{Widzisz stare drzwi ze starym, zardzewia³ym zamkiem, z drutem kolczastym we framudze.}
-{162}{}{You see an old door with a lock, which can be picked with
- lockpicks,.}
+
+# Perception Check Failure
+
+
+{150}{}{Widzisz stare drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e silny ³adunek wybuchowy we framudze.}
+{151}{}{Widzisz stare drzwi z zamkiem, a tak¿e silny ³adunek wybuchowy we framudze.}
+{152}{}{Widzisz stare drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e silny ³adunek wybuchowy we framudze.}
+{153}{}{Widzisz stare drzwi ze starym, zardzewia³ym zamkiem, a tak¿e silny ³adunek wybuchowy we framudze.}
+
+{154}{}{Widzisz stare drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e jak¹œ pu³apkê we framudze.}
+{155}{}{Widzisz stare drzwi z zamkiem, a tak¿e jak¹œ pu³apkê we framudze.}
+{156}{}{Widzisz stare drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e jak¹œ pu³apkê we framudze.}
+{157}{}{Widzisz stare drzwi ze starym, zardzewia³ym zamkiem, a tak¿e jak¹œ pu³apkê we framudze.}
+
+{158}{}{Widzisz stare drzwi z zamkiem, który mo¿na by otworzyæ wytrychami, a tak¿e przeciêty kabel we framudze.}
+{159}{}{Widzisz stare drzwi z zamkiem, a tak¿e przeciêty kabel we framudze.}
+{160}{}{Widzisz stare drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego, a tak¿e przeciêty kabel we framudze.}
+{161}{}{Widzisz stare drzwi ze starym, zardzewia³ym zamkiem, a tak¿e przeciêty kabel we framudze.}
+
+{162}{}{Widzisz stare drzwi z zamkiem, który mo¿na by otworzyæ wytrychami.}
 {163}{}{Widzisz stare drzwi z zamkiem.}
-{164}{}{Widzisz stare drzwi bez ¿adnego widocznego zamka.}
+{164}{}{Widzisz stare drzwi bez ¿adnego widocznego mechanizmu zamykaj¹cego.}
 {165}{}{Widzisz stare drzwi ze starym, zardzewia³ym zamkiem.}
-{166}{}{Rozbrajasz pu³apkê i otrzymujesz }
-{167}{}{ punktów obra¿eñ.}
-{168}{}{ rozbraja pu³apkê i otrzymuje }
-{169}{}{ punktów obra¿eñ.}
-{170}{}{Zrêcznie otwierasz zamek w tych drzwiach.}
-{171}{}{Twój brak umiejêtnoœci spowodowa³ zablokowanie siê zamka.}
-{172}{}{Nie uda³o ci siê otworzyæ zamka w tych drzwiach.}
-{173}{}{ zrêcznie otwiera zamek w drzwiach.}
-{174}{}{ swym brakiem umiejêtnoœci powoduje zablokowanie siê zamka.}
-{175}{}{ podejmuje nieudan¹ próbê otwarcia drzwi.}
-{176}{}{Rozbijasz zamek w drzwiach.}
-{177}{}{While trying to bust the lock, you strain your back and
- take a point of damage.}
-{178}{}{While trying to bust the lock, you strain your back and
- take }
-{179}{}{ punktów obra¿eñ.}
-{180}{}{Nie masz si³y, aby zniszczyæ zamek.}
-{181}{}{ Rozbija zamek w drzwiach.}
-{182}{}{ nadwyrê¿a krêgos³up podczas próby zniszczenia zamka i otrzymuje jeden punkt obra¿eñ.}
-{183}{}{ nadwyrê¿a krêgos³up podczas próby zniszczenia zamka i otrzymuje }
-{184}{}{ punktów obra¿eñ.}
-{185}{}{ jest za s³aby by zniszczyæ zamek.}
-{186}{}{ nadwyrê¿a krêgos³up podczas próby zniszczenia zamka i otrzymuje jeden punkt obra¿eñ.}
-{187}{}{ nadwyrê¿a krêgos³up podczas próby zniszczenia zamka i otrzymuje }
-{188}{}{ punktów obra¿eñ.}
+
+
+#############################################################
+#The following lines are for damage done to the player or #
+#critter who tried to open the door, or failed a traps
+#roll.
+#############################################################
+
+# The following sets of lines are to be translated as:
+# You set off the trap and were hit for [x] points of damage.
+# NPC sets of the trap and was hit for [x] points of damage.
+
+# Player sets off the trap
+{166}{}{Uruchamiasz pu³apkê, która zadaje ci }
+{167}{}{ obra¿eñ.}
+
+# NPC sets off the trap
+{168}{}{ uruchamia pu³apkê i otrzymuje }
+{169}{}{ obra¿eñ.}
+
+#############################################################
+#The following lines are for when the player uses skills
+#on the door.
+#############################################################
+
+# Player uses a skill on the door
+# Unlock Door
+{170}{}{Zrêcznie otwierasz zamek w drzwiach.}
+{171}{}{Twój brak umiejêtnoœci spowodowa³ zaciêcie siê zamka w tych drzwiach.}
+{172}{}{Nie udaje ci siê otworzyæ zamka w tych drzwiach.}
+
+# Lock Door
 {189}{}{Zrêcznie zamykasz drzwi.}
-{190}{}{Nie uda³o ci siê zamkn¹æ drzwi.}
-{191}{}{ zrêcznie zamyka drzwi.}
-{192}{}{ podejmuje nieudan¹ próbê zamkniêcia drzwi.}
-{193}{}{To nawet nie zadrapa³o tych drzwi.}
-{194}{}{W tych drzwiach jest pu³apka.}
-{195}{}{Nie znajdujesz w tych drzwiach ¿adnych pu³apek.}
-{196}{}{Zrêcznie rozbrajasz pu³apkê.}
+{190}{}{Nie udaje ci siê zamkn¹æ drzwi.}
+
+# Find Trap on the Door
+{194}{}{Znajdujesz w drzwiach pu³apkê.}
+{195}{}{Nie udaje ci siê znaleŸæ ¿adnych pu³apek w drzwiach.}
+
+# Disarm the Trap on the Door
+{196}{}{Umiejêtnie rozbrajasz pu³apkê.}
 {198}{}{Nie udaje ci siê rozbroiæ pu³apki.}
+
+# NPC uses a skill on the door
+# The following lines are appended with the NPC's name
+
+# Unlock Door
+{173}{}{ zrêcznie otwiera zamek w drzwiach.}
+{174}{}{ zacina zamek, z powodu braku umiejêtnoœci.}
+{175}{}{ zawodzi przy otwieraniu zamka.}
+
+# Lock Door
+{191}{}{ zrêcznie zamyka drzwi.}
+{192}{}{ zawodzi przy zamykaniu drzwi.}
+
+# Find Trap on the Door
 {199}{}{ znajduje pu³apkê w drzwiach.}
-{200}{}{ nie znajduje ¿adnych pu³apek w tych drzwiach.}
-{201}{}{ zrêcznie rozbraja pu³apkê.}
-{202}{}{ nie potrafi rozbroiæ pu³apki.}
-{203}{}{The door appears to be locked. It looks like it takes some kind of thin card as a key.}
-{204}{}{You hear the crackling of electricity running through the door.}
-{205}{}{ notices the crackling of electricity running through the door.}
-{206}{}{You are unable to place a trap on this door because
- the door is open.}
-{207}{}{ is unable to place a trap on this door because the
- door is open.}
-{208}{}{Umiejêtnie zastawiasz pu³apkê we framudze.}
-{209}{}{You fail to set the trap properly in the door frame.}
-{210}{}{ umiejêtnie zastawia pu³apkê we framudze.}
-{211}{}{ fails to set the trap properly in the door frame.}
+{200}{}{ nie znajduje ¿adnych pu³apek w drzwiach.}
+
+# Disarm the Trap on the Door
+{201}{}{ umiejêtnie rozbraja pu³apkê.}
+{202}{}{ zawodzi przy rozbrajaniu pu³apki.}
+
+# Using a key on the door.
+{400}{}{Otwierasz drzwi.}
+
+#############################################################
+#The following lines are for when the player tries to
+#use items on the door which are not lockpicks.
+#############################################################
+
+# Player uses an item on the door
+{176}{}{Wy³amujesz z drzwi zamek.}
+{177}{}{W trakcie wy³amywania zamka nadwyrê¿asz sobie krêgos³up i otrzymujesz punkt obra¿eñ.}
+
+# The following set of lines is to be translated as:
+# While trying to bust the lock, you strain your back and
+# take [x] points of damage.
+
+{178}{}{W trakcie wy³amywania zamka nadwyrê¿asz sobie krêgos³up i otrzymujesz }
+{179}{}{ obra¿eñ.}
+{180}{}{Nie masz na tyle si³y, aby wy³amaæ zamek.}
+
+# NPC uses an item on the door
+# The following lines are prepended by the NPC's name
+{181}{}{ wy³amuje z drzwi zamek.}
+{182}{}{ podczas wywa¿ania drzwi nadwyrê¿a krêgos³up i otrzymuje punkt obra¿eñ.}
+
+# The following line set of lines is to be translated as:
+# NPC strains his back while trying to bust the lock and
+# takes [x] points of damage
+
+{183}{}{ podczas wywa¿ania drzwi nadwyrê¿a krêgos³up i otrzymuje }
+{184}{}{ obra¿eñ.}
+
+{185}{}{ nie ma si³y, aby wywa¿yæ drzwi.}
+{186}{}{ podczas wywa¿ania drzwi nadwyrê¿a krêgos³up i otrzymuje punkt obra¿eñ.}
+
+# The following line set of lines is to be translated as:
+# NPC strains her back while trying to bust the lock and
+# takes [x] points of damage
+
+{187}{}{ podczas wywa¿ania drzwi nadwyrê¿a krêgos³up i otrzymuje }
+{188}{}{ obra¿eñ.}
+
+#############################################################
+#Damage done to the door due to explosives.
+#############################################################
+
+{193}{}{£adunki wybuchowe nawet nie zarysowa³y powierzchni tych drzwi.}
+
+#############################################################
+#Reporting Door Status should it be used.
+#############################################################
+
+{203}{}{Drzwi wygl¹daj¹ na zamkniête. Wydaje siê, ¿e u¿ywaj¹ jakichœ cienkich kart jako kluczy.}
+{204}{}{S³yszysz trzaski elektrycznoœci p³yn¹cej przez drzwi.}
+
+# NPC finds trap
+# The following line is to be translated as:
+# NPC notices a trap in the door jamb.
+
+{205}{}{ zauwa¿a trzaski elektrycznoœci p³yn¹cej przez drzwi.}
+
+#############################################################
+#Setting traps on a door and whether the door is open or
+#closed to set the trap.
+#############################################################
+
+# Player tries to set a trap on an open door
+{206}{}{Nie udaje ci siê za³o¿yæ pu³apki w tych drzwiach, gdy¿ s¹ one otwarte.}
+
+# NPC tries to set a trap on an open door
+{207}{}{ zawodzi przy zak³adaniu pu³apki w tych drzwiach, gdy¿ s¹ one otwarte.}
+
+# Player tries to set a trap on a closed door
+{208}{}{Umiejêtnie zak³adasz pu³apkê we framudze drzwi.}
+{209}{}{Nie udaje ci siê za³o¿yæ prawid³owo pu³apki we framudze drzwi.}
+
+# NPC tries to set a trap on a closed door
+{210}{}{ umiejêtnie zak³ada pu³apkê we framudze drzwi.}
+{211}{}{ zawodzi przy zak³adaniu poprawnie pu³apki we framudze drzwi.}
+
 {300}{}{Otwierasz drzwi.}
 {301}{}{Zamykasz drzwi.}
-{302}{}{Nie mo¿esz zamkn¹æ na klucz otwartych drzwi!}
-{303}{}{Ten klucz nie pasuje do zamka.}
-{320}{}{Nie mo¿na zamkn¹æ tych drzwi na klucz.}
-{400}{}{Otwierasz drzwi.}
-{500}{}{There is no way to untrap the door.}
+{302}{}{Nie mo¿esz zamkn¹æ tych drzwi na klucz, gdy s¹ jeszcze otwarte.}
+{303}{}{Ten klucz nie pasuje do tych drzwi.}
+
+# for broken doors
+{320}{}{Nie ma sposobu, aby zamkn¹æ te drzwi.}
+
+{500}{}{Nie ma sposobu, aby zdj¹æ pu³apkê z tych drzwi.}

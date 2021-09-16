@@ -5,11 +5,11 @@
 {104}{}{Trzymaj siê z dala od k³opotów a wszystko bêdzie w porz¹dku, zrozumiano?}
 {105}{}{Masz jakieœ pytania? Porozmawiaj z szeryfem Dumontem. On udzieli ci wszelkich informacji.}
 {106}{}{Kodeks praw znajdziesz na tablicy, na zewn¹trz - ¿adnej broni, ¿adnych pijaków, ¿adnych k³opotów.}
-{107}{}{Co mogê dla ciebie zrobiæ, wêdrowcze?}
+{107}{}{Co mogê dla ciebie zrobiæ?}
 {108}{}{Znowu ty?}
 {109}{}{Ja wejœæ.}
 {110}{}{Chcê siê dostaæ do RNK.}
-{111}{}{Niczego.}
+{111}{}{Nic.}
 {112}{}{Niegdzie nie wejdziesz, dopóki nie pozbêdziesz siê tej broni.}
 {113}{}{Ka¿dy musi odk³adaæ broñ na czas pobytu.}
 {114}{}{Hmm... có¿, wygl¹dasz na kogoœ wa¿nego. Jak siê nazywasz? Muszê ciê wpisaæ do dziennika.}

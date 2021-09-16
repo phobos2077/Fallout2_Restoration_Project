@@ -3,7 +3,7 @@
 {102}{}{S¹dz¹c po tym ca³ym smarze i brudzie, który j¹ pokrywa, jest kimœ w typie z³otej r¹czki, tym bardziej, ¿e ci¹gle za ni¹ ³azi robot konserwacyjny.}
 {103}{}{O Bo¿e, ktoœ musi coœ zrobiæ! Co ja teraz zrobiê? Potrzebujê pomocy i to zaraz.}
 {104}{}{Hê? Gugu?}
-{105}{}{Co bêdzie z nami dalej?}
+{105}{}{Co siê sta³o?}
 {106}{}{Ty chodŸ. Zatrzymaj z³ego cz³owieka. Zatrzymaj go niech nie psuje maszyna. Dobra?}
 {107}{}{Dobra.}
 {108}{}{Nie, nie iœæ.}
@@ -40,8 +40,10 @@
 {139}{}{Naprawdê go od tego odwiod³eœ? To niesamowite! Miasto ma wobec ciebie wielki d³ug. Wiem, ¿e to nie za wiele, ale mam tu uzbierane kilka instrukcji. Mo¿e dasz radê je komuœ sprzedaæ, albo co.}
 {140}{}{Chcê ci tylko powiedzieæ, ¿e wci¹¿ jestem pod wra¿eniem tego, jak uda³o ci siê poradziæ z Jackiem. Musimy ju¿ zmykaæ razem z Toto. Na razie!}
 {141}{}{Kurrrde! Mam dla ciebie s³owo dobrej rady - WIEJ!}
+
 {142}{}{Hej, popatrz Toto. To ta nieznajoma, która nam pomog³a. Dziêkujemy pani.}
 {143}{}{Naprawdê go od tego odwiod³aœ? To niesamowite! Miasto ma wobec ciebie wielki d³ug siostro. Wiem, ¿e to nie za wiele, ale mam tu uzbierane kilka instrukcji. Mo¿e dasz radê je komuœ sprzedaæ, albo co.}
+
 {144}{}{Nie marnuj czasu! On mówi powa¿nie.}
 {145}{}{Muszê natychmiast coœ zrobiæ!}
 {146}{}{Nie stój tak - powstrzymaj go!}

@@ -5,14 +5,14 @@
 {104}{}{Uurmph}
 {105}{}{Ech}
 {106}{}{Potrzebie}
-{107}{}{OdejdŸ, jak gdyby nigdy nic.}
+{107}{}{Zmiataj}
 {108}{}{Nie, raczej nie.}
 {109}{}{A ty jesteœ...?}
 {110}{}{Nie. I nie muszê. ¯egnam. }
 {111}{}{S³owo... To s³owo to EGOIZM. Co otrzymamy po dodaniu arogancji? Kryptopolis! Przy ca³ej swojej praworz¹dnoœci, gloryfikuje handel niewolnikami.}
 {112}{}{Czemu tu mieszkasz, skoro ci siê tu nie podoba?}
 {113}{}{Amen, bracie!}
-{114}{}{To ju¿ chyba wszystko, co chcê wiedzieæ. Do widzenia.}
+{114}{}{Chyba mam doœæ. ¯egnam.}
 {115}{}{Sprzedawaj szajbê komuœ innemu, kolego... Ja mam jej dosyæ.}
 {116}{}{Tak! }
 {117}{}{Nadszed³ CZAS us³yszeæ naszych braci, czekaj¹cych za murami i wpuœciæ ich! Jesteœmy w stanie ich wy¿ywiæ i utrzymaæ... Nie wolno nam siê bogaciæ, gdy jest tylu BIEDNYCH.}
@@ -81,7 +81,7 @@
 {180}{}{Mam pytanie: sk¹d w Kryptopolis niewolnicy? To podobno wolne miasto.}
 {181}{}{Chcê us³yszeæ s³owo, bracie!}
 {182}{}{To miasto zbudowano na grzechu i niewolnictwie, a ja chcê to naprawiæ!}
-{183}{}{Niczego dziœ nie potrzebujê, dziêki.}
+{183}{}{Dzisiaj nic, dziêki.}
 {184}{}{Wiem, ¿e staraj¹ siê o prawdê i sprawiedliwoœæ, a my nawet nie kiwamy palcem, by im pomóc.}
 {185}{}{Có¿ mo¿emy zrobiæ?}
 {186}{}{To brzmi jak zdrada.}
@@ -100,7 +100,7 @@
 {199}{}{Uurmph}
 {200}{}{Ech}
 {201}{}{Potrzebie}
-{202}{}{OdejdŸ, jak gdyby nigdy nic.}
+{202}{}{Zmiataj}
 {203}{}{Tylko udajê ³owcê, ¿eby zdobyæ informacje.}
 {204}{}{Có¿, chcê o coœ zapytaæ: sk¹d w Kryptopolis niewolnicy? To podobno wolne miasto.}
 {205}{}{Szlachetny cel uœwiêca nawet najgorsze œrodki.}
@@ -109,7 +109,7 @@
 {208}{}{Udaj¹c ³owcê, nie jest siê lepszym ni¿ bêd¹c nim. OdejdŸ.}
 {209}{}{Ale teraz rozumiem swoj¹ pomy³kê!}
 {210}{}{Doœæ tego. Czas ciê rozkroiæ i zobaczyæ, co masz w œrodku...}
-{211}{}{Dobra.}
+{211}{}{W porz¹dku.}
 {212}{}{Nie mam o czym rozmawiaæ z kimœ w tak marnym stanie. OdejdŸ.}
 {213}{}{Chcesz marnego stanu? POKA¯E ci marny stan...}
 {214}{}{Rozumiem ju¿ moje b³êdy. Chcê za nie odpokutowaæ i us³yszeæ s³owo!}
@@ -123,7 +123,7 @@
 {222}{}{Tak, chcê tylko daæ ci znaæ, ¿e sprawa za³atwiona.}
 {223}{}{Cieszy mnie, ¿e moje s³owa znalaz³y miejsce w twym sercu. Mo¿e nasze œcie¿ki jeszcze siê skrzy¿uj¹.}
 {224}{}{Byæ mo¿e. Nie traæ wiary, bracie.}
-{225}{}{Do widzenia.}
+{225}{}{¯egnaj.}
 {226}{}{RNK przyniesie honor i porz¹dek ca³ej Kalifornii, a Kryptopolis pomo¿e to umo¿liwiæ! Pomyœl, ile dobra mo¿na zdzia³aæ, maj¹c dostêp do technologii Kryptopolis!}
 {227}{}{Nie wierzê. Myœlê, ¿e muszê ciê wsypaæ, chyba ¿e chcesz kupiæ moje milczenie.}
 {228}{}{Ale ta technologia nale¿y do Kryptopolis. Inni nie maj¹ do niej prawa.}

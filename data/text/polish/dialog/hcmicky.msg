@@ -7,18 +7,18 @@
 {106}{}{Nie skaaaarby dziiisiaj.}
 {107}{}{Ta. Moja chcieæ pomóc.}
 {108}{}{Kto twoja?}
-{109}{}{Pa.}
+{109}{}{Pa pa.}
 {110}{}{Nie, nie dzisiaj. Je¿eli jednak natrafiê na jakieœ, natychmiast ciê o nich powiadomiê.}
 {111}{}{No có¿, owszem. S¹dzê, ¿e jesteœ doskona³ym partnerem do, nazwijmy to, "joint venture".}
 {112}{}{Jak siê nazywasz?}
 {113}{}{Niewa¿ne.}
 {114}{}{Ja? Jestem Micky, szarmancki i uroczy poszukiwacz skarbów z Broken Hills.}
 {115}{}{Possssszukiwacz?}
-{116}{}{Pa-pa.}
+{116}{}{Pa pa.}
 {117}{}{Poszukiwacz skarbów?}
 {118}{}{Jak mi³o. Uszanowanie.}
 {119}{}{Nie mów, ¿e nie znasz mojego imienia! Nigdy nie opowiadano ci historii o Szybkim Mickym? O potyczkach strzeleckich, pojedynkach bokserskich i z³owrogich grabie¿ach?}
-{120}{}{Nie-e.}
+{120}{}{Nie.}
 {121}{}{Obawiam siê, ¿e nie dane mi by³o o tym us³yszeæ.}
 {122}{}{Có¿, du¿o tracisz, przyjazna duszo. Któregoœ dnia bêdê ci musia³ to wszystko opowiedzieæ w najkrwawszych szczegó³ach.}
 {123}{}{Doobreee.}

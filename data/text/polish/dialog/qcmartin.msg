@@ -22,7 +22,7 @@
 {121}{}{ChodŸ tu!}
 {122}{}{Powiem ci, co chcesz wiedzieæ.}
 {123}{}{Mam na imiê Martin.}
-{124}{}{Mogê ci opowiedzieæ, co siê sta³o.}
+{124}{}{Mogê powiedzieæ ci, co siê sta³o.}
 {125}{}{Witaj, nazywam siê Martin Frobisher. Mówiê w imieniu tych ludzi. Dziêki Bogu jesteœ tu.}
 {126}{}{Co chcesz wiedzieæ?}
 {127}{}{Niez³e ubranka, podobne do mojego. Kim jesteœcie?}
@@ -83,3 +83,7 @@
 {182}{}{Mam nadziejê, ¿e znajdê sposób, aby was ocaliæ.}
 {183}{}{Pomyœlê o tym.}
 {184}{}{Có¿ za dziwny zbieg okolicznoœci! Pozwól, ¿e spytam ciê o coœ jeszcze.}
+
+{190}{}{Taki mam zamiar. Zejdê do elektrowni i wy³¹czê zasilanie ¿eby was uwolniæ. Kiedy opadn¹ pola si³owe, biegnijcie na górê, mam tam Latacza.}
+{191}{}{Œwietny pomys³. Mogê u¿yæ moich ³adunków wybuchowych do wysadzenia komputera. Wtedy bêdziecie mogli biec na górê do mojego Latacza. Bêdê zaraz za wami.}
+{192}{}{Dobry pomys³. Mogê zdobyæ ³adunki wybuchowe i u¿yæ ich do wysadzenia komputera. Wtedy bêdziecie mogli biec na górê do mojego Latacza. Bêdê zaraz za wami.}

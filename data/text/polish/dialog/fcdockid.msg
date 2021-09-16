@@ -1,17 +1,17 @@
-{100}{}{Widzisz dziecko.}
-{101}{}{You see a dock kid.}
-{102}{}{Widzisz dziecko.}
-{103}{}{I don't like this place.}
-{104}{}{There's a big dead smelly fish on the beach.}
-{105}{}{Eww! What's that?}
-{106}{}{The air smells funny here.}
-{107}{}{Wanna go swimming?}
-{108}{}{I'm gonna go play.}
-{109}{}{Where's my mommy?}
-{110}{}{We live on the beach!}
-{111}{}{I'm boooored.}
-{112}{}{Eeeee!}
+{100}{}{Widzisz dzieciaka.}
+{101}{}{Widzisz dzieciaka z doków.}
+{102}{}{Widzisz dzieciaka.}
+{103}{}{Nie podoba mi siê tutaj.}
+{104}{}{Na pla¿y le¿y wielka i œmierdz¹ca zdech³a ryba!}
+{105}{}{Blee! Co to jest?}
+{106}{}{Jakoœ dziwnie tu pachnie.}
+{107}{}{Chcesz trochê pop³ywaæ?}
+{108}{}{Idê siê bawiæ.}
+{109}{}{Gdzie jest moja mama?}
+{110}{}{Mieszkamy na pla¿y!}
+{111}{}{Nuuudy.}
+{112}{}{Aaaa!}
 {113}{}{Pomocy!}
-{114}{}{Oh no! The boogeyman!}
-{115}{}{Mommeeeeeeeeeeeeeeeee!}
-{116}{}{Run away! It's a monster!}
+{114}{}{Och nie! Straszny potwór!}
+{115}{}{Maaamoooo!}
+{116}{}{Uciekajcie! To potwór!}

@@ -1,12 +1,14 @@
-{100}{}{A large piece of machinery.}
-{101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
-{102}{}{The air purifier whirs quietly. It appears to be in working order.}
-{110}{}{That part could not possibly fix this.}
-{120}{}{You repaired the air purifier.}
-{125}{}{You destroyed the air purifier.}
-{129}{}{The conspirators can no longer send the destruct signal to the explosive switch. It is useless, so you throw it away.}
-{130}{}{It is already fixed.}
-{131}{}{Clunk}
-{132}{}{Creak}
-{133}{}{Clank}
+{100}{}{Spory kawa³ machinerii.}
+{101}{}{Oczyszczacz powietrza wydaje stukaj¹ce i skrzypi¹ce dŸwiêki. Wygl¹da na zepsuty. Mo¿e potrzebna jest jakaœ czêœæ...}
+
+{102}{}{Oczyszczacz powietrza cicho warkocze. Wydaje siê, ¿e pracuje w porz¹dku.}
+
+{110}{}{Ta czêœæ nie pomo¿e w naprawie.}
+{120}{}{Uda³o ci siê naprawiæ oczyszczacz.}
+{125}{}{Uda³o ci siê zniszczyæ oczyszczacz.}
+{129}{}{Sabota¿yœci nie mog¹ ju¿ wys³aæ sygna³u zniszczenia do prze³¹cznika. Jest ju¿ bezu¿yteczny, wiêc go wyrzucasz.}
+{130}{}{Jest ju¿ naprawiony.}
+{131}{}{Stuk}
+{132}{}{Skrzyp}
+{133}{}{Brzdêk}
 {134}{}{Whirrrrrrrr}

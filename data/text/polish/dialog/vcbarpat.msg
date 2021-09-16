@@ -1,53 +1,53 @@
-{100}{}{You see a dusty-looking traveler.}
-{101}{}{Widzisz sta³ego bywalca baru.}
-{102}{}{You see a dusty-looking traveler.}
-{103}{}{Hey! Everybody! It's the one who kicked the Enclave's ass!}
-{104}{}{Congratulations, hero!}
-{105}{}{Hey, hero! Lemme buy you a drink, all right?}
-{106}{}{Looks like the Captain's slumming...}
-{107}{}{Well, if it ain't the First Citizen's favorite toadie...}
-{108}{}{Well, if it ain't th' "Captain..."}
-{109}{}{Everybody watch out. The law just walked in.}
-{110}{}{You slumming, Citizen?}
-{111}{}{Don't you belong inside the city, "Citizen?"}
-{112}{}{Damn Citizens just stroll on in whenever they feel like it...}
-{113}{}{Whoa... that a mutant?!}
-{114}{}{Clear out, boys. There's a mutant in the house.}
-{115}{}{There's gonna be trouble if them guards see that mutant...}
-{116}{}{They're letting *mutants* in here now?}
-{117}{}{That mutant's gonna find himself in the Detention Center...}
-{118}{}{Tell me that's not a ghoul.}
-{119}{}{What's that *stink?!* Get that ghoul outta here!}
-{120}{}{Get that filthy ghoul outta the bar!}
-{121}{}{If that ghoul sheds any body parts in here, I'll gut him.}
-{122}{}{That ghoul's gonna be target practice if the guards see him. }
-{123}{}{Can barely afford a Day Pass nowadays...}
-{124}{}{Brahmin prices keep going up...}
-{125}{}{Gonna be a bad season if the drought continues...}
-{126}{}{Slumming, Captain?}
-{127}{}{Look, I ain't done nothing, Captain. I'm just minding my own business.}
-{128}{}{I don't know nothing, Captain. Now leave me alone.}
-{129}{}{Take a hike, "Captain."}
-{130}{}{Looks like Lynette'll make anyone a Citizen nowadays.}
-{131}{}{I already paid the guards their protection money. Now leave me alone.}
-{132}{}{Slumming, Citizen?}
-{133}{}{Maybe you better get inside the walls, Citizen.}
-{134}{}{Beat it, Citizen.}
-{135}{}{Take a hike, Citizen.}
-{136}{}{Looks like Lynette'll make anyone a Citizen nowadays.}
-{137}{}{That Smith's a nice fella.}
-{138}{}{I don't think I'll ever be able to get a Day Pass.}
-{139}{}{Don't drink the water around here. It makes geiger counters tick.}
-{140}{}{Whenever those Citizens walk by, they don't make eye contact or say hello.}
-{141}{}{Vault City may not love us, but at least they protect us.}
-{142}{}{Watch out for that Auto-Doc. It cures you... most of the time. Just don't press your luck.}
-{143}{}{Ed, the brahmin dealer, had to raise his prices again to meet the monthly guard payment.}
-{144}{}{That Skeev let me slip some hootch into town for a percentage. }
-{145}{}{Been on the road for the past week. Came from NCR, way down south.}
-{146}{}{Some friends of mine went to Reno... ain't seen 'em since.}
-{147}{}{I hear Reno's getting tense again. Them families hate each other.}
-{148}{}{I hear those ghouls up at Gecko are planning to attack the city.}
-{149}{}{Don't cross any of the Citizens or they'll slap you in the Detention Center.}
-{150}{}{That Lynette is a cold one.}
-{151}{}{Vault City ain't exactly a "free" city. It ain't bad, though.}
-{152}{}{Vault City's better than the Den. Ain't as much fun, though.}
+{100}{}{Widzisz podró¿nika. Wygl¹da na doœæ zakurzon¹ osobê.}
+{101}{}{Widzisz bywalca baru.}
+{102}{}{Widzisz podró¿nika. Wygl¹da na doœæ zakurzon¹ osobê.}
+{103}{}{HEJ! Ludzie! Oto postrach Enklawy!}
+{104}{}{Gratulacje!}
+{105}{}{Hej! Za takie bohaterstwo pozwól, ¿e postawiê ci drinka, dobra?}
+{106}{}{Czy¿by Kapitan na patrolu...}
+{107}{}{Czy¿by to by³ ulubiony Miœ Pierwszego Obywatela...}
+{108}{}{Czy¿by to by³ "Kapitan"...}
+{109}{}{Uwaga. W³aœnie wkroczy³o Prawo.}
+{110}{}{Obywatele w takiej okolicy?}
+{111}{}{Czy nie lepiej by³oby ci w mieœcie, "obywatelu"?}
+{112}{}{Cholerni obywatele! Po prostu spaceruj¹ sobie gdzie i kiedy maj¹ ochotê...}
+{113}{}{Hola! To jest mutant?!}
+{114}{}{WyjdŸcie st¹d ch³opcy. W tym domu jest mutant.}
+{115}{}{Bêdziemy mieli k³opoty jeœli stra¿nicy zobacz¹ tego mutanta...}
+{116}{}{Wpuszczaj¹ tutaj teraz *mutantów*?}
+{117}{}{Ten mutant znajdzie siê w Centrum Zatrzymañ...}
+{118}{}{Powiedz, ¿e to nie jest ghul.}
+{119}{}{Co to za *smród*?! Zabierzcie st¹d tego ghula!}
+{120}{}{Zabierzcie z tego baru tego ohydnego ghula!}
+{121}{}{Jeœli ten ghul zgubi tu jak¹œ czêœæ cia³a, wyprujê mu flaki.}
+{122}{}{Ten ghul stanie siê tarcz¹ strzelnicz¹, jeœli zobacz¹ go stra¿nicy. }
+{123}{}{W dzisiejszych czasach ciê¿ko sobie pozwoliæ na Przepustkê Dzienn¹...}
+{124}{}{Ceny braminów ci¹gle rosn¹...}
+{125}{}{Jeœli ta susza siê przeci¹gnie, to bêdzie kiepski sezon...}
+{126}{}{Zstêpujemy w mroczne zau³ki, co nie Kaptanie?}
+{127}{}{Kapitanie, ja naprawdê nie mam z tym nic wspólnego. Zajmujê siê tylko moimi w³asnymi sprawami.}
+{128}{}{Kapitanie, nic nie wiem. A teraz mnie zostaw.}
+{129}{}{"Kapitanie", odtenteguj siê.}
+{130}{}{Wygl¹da na to, ¿e Lynette teraz z ka¿dego robi obywatela.}
+{131}{}{Stra¿e dosta³y ju¿ moj¹ op³atê za ochronê. Zostaw mnie.}
+{132}{}{Zstêpujemy w mroczne zau³ki, co nie?}
+{133}{}{Mo¿e lepiej schowaj siê za mury.}
+{134}{}{Spadaj.}
+{135}{}{Odtenteguj siê.}
+{136}{}{Wygl¹da na to, ¿e Lynette teraz z ka¿dego robi obywatela.}
+{137}{}{Ten Smith to mi³y facet.}
+{138}{}{Pewnie nigdy nie uda mi siê zdobyæ Przepustki Dziennej.}
+{139}{}{Nie pij tutejszej wody. Liczniki Geigera zaczynaj¹ od niej tykaæ.}
+{140}{}{Gdy obywatel gdzieœ siê zjawi, nigdy nie spojrzy ci w oczy ani siê nie przywita.}
+{141}{}{Kryptopolis mo¿e nas nie kocha, ale przynajmniej nas chroni.}
+{142}{}{Uwa¿aj na Autodoktora. On leczy choroby... zazwyczaj. Po prostu nie nadu¿ywaj szczêœcia.}
+{143}{}{Ed, sprzedawca braminów, znowu musia³ podnieœæ ceny, ¿eby zarobiæ na comiesiêczne op³aty za ochronê.}
+{144}{}{Ten Skeev w zamian za udzia³ w zysku pomóg³ mi wrzuciæ do miasta trochê bimbru. }
+{145}{}{Ostatni tydzieñ byliœmy w podró¿y. Przychodzimy z po³udnia, z RNK.}
+{146}{}{Niektórzy z moich przyjació³ poszli do Reno... wiêcej siê nie pokazali.}
+{147}{}{Podobno w Reno znowu robi siê gor¹co. Te ich rodziny nie znosz¹ siê nawzajem.}
+{148}{}{Podobno te ghule z Gecko chc¹ zaatakowaæ miasto.}
+{149}{}{Nie wchoæ w drogê obywatelom, albo wsadz¹ ciê do Centrum zatrzymañ.}
+{150}{}{Ta Lynette to zimna bestia.}
+{151}{}{Kryptopolis nie jest tak do koñca "wolnym" miastem. Ale nie jest Ÿle.}
+{152}{}{Kryptopolis jest lepsze ni¿ Nora. Ale mniej tu rozrywek.}

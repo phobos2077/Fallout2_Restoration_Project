@@ -1,44 +1,57 @@
-{100}{}{Widzisz wielkiego, prymitywnie wygl¹daj¹cego cz³owieka.}
-{101}{}{You see a slender primitive woman.}
-{200}{}{You see a strange-looking man.}
-{201}{}{Widzisz poranionego cz³owieka.}
-{202}{}{You see a man in tattered clothing.}
-{210}{}{You see a very grimy woman.}
-{211}{}{You see a rather dirty woman.}
-{212}{}{You see a scrawny looking woman.}
-{270}{}{They no find me.}
-{271}{}{Must hide. Must hide.}
-{272}{}{Why they want hurt?}
-{273}{}{Me scared.}
-{274}{}{Me no fight.}
-{275}{}{Me want live.}
-{276}{}{No hurt family.}
-{280}{}{O, cholera!}
-{281}{}{Why are they doing this?}
-{282}{}{What about my family?}
-{283}{}{I don't want to die.}
-{284}{}{I don't want to be a slave.}
-{285}{}{I deserve better than this.}
-{300}{}{Aaaa!}
-{301}{}{No kill! No kill!}
-{302}{}{Stop!}
-{303}{}{Pomocy!}
-{304}{}{Zwiewaj!}
-{305}{}{Leave alone!}
-{306}{}{Don't hurt!}
-{307}{}{No hurt you!}
-{308}{}{I don't fight!}
-{350}{}{Run for your lives!}
-{351}{}{Don't let them catch you!}
-{352}{}{Slavers! Run for it!}
-{353}{}{Help, someone! Please!}
-{354}{}{Run for it, Marty!}
-{355}{}{Aaaa!}
-{356}{}{Stop the insanity!}
-{357}{}{We didn't do anything! Leave us alone!}
-{358}{}{I recognize that tattoo!}
-{359}{}{No, please!}
-{360}{}{Please don't kill me!}
-{361}{}{I won't fight; don't kill me!}
-{362}{}{Please, I don't want to die!}
-{363}{}{You're slavers aren't you? Oh god.}
+# looks
+# primitive
+{100}{}{Widzisz wielkiego mê¿czyznê. Wygl¹da na dzikusa.}
+{101}{}{Widzisz szczup³¹ dzikuskê.}
+
+# nomads
+{200}{}{Widzisz dziwnie wygl¹daj¹cego mê¿czyznê.}
+{201}{}{Widzisz mê¿czyznê odzianego w ³achmany.}
+{202}{}{Widzisz obdartego mê¿czyznê.}
+
+{210}{}{Widzisz bardzo brudn¹ kobietê.}
+{211}{}{Widzisz brudn¹ kobietê.}
+{212}{}{Widzisz chorowit¹ kobietê.}
+
+# 10. BF: Fleeing Primitive
+{270}{}{Nie znajd¹ mnie.}
+{271}{}{Trzeba chowaæ. Trzeba chowaæ.}
+{272}{}{Dlaczego oni krzywdz¹?}
+{273}{}{Strach!}
+{274}{}{Ja nie walczê.}
+{275}{}{Ja bêdê ¿yæ.}
+{276}{}{Nie krzywdziæ rodziny.}
+
+# 11. BF: Fleeing Nomad
+{280}{}{Cholera!}
+{281}{}{Dlaczego oni to robi¹?}
+{282}{}{A co z moj¹ rodzin¹?}
+{283}{}{Nie chcê umieraæ.}
+{284}{}{Nie chcê byæ niewolnikiem.}
+{285}{}{Nie zas³ugujê na taki los.}
+
+# 14. Fleeing Primitive
+{300}{}{Aaach!}
+{301}{}{Nie zabijaj! Nie zabijaj!}
+{302}{}{Stój!}
+{303}{}{Pomooocy!}
+{304}{}{Biegiem!}
+{305}{}{Zostaw nas!}
+{306}{}{Nie rób tak!}
+{307}{}{Ja nie niebezpiecznie!}
+{308}{}{Ja nie bijê!}
+
+# 15. Fleeing Nomad
+{350}{}{Ratuj siê kto mo¿e!}
+{351}{}{Nie pozwólcie siê z³apaæ!}
+{352}{}{£owcy! W nogi!}
+{353}{}{Ratunku! Pomocy!}
+{354}{}{Uciekaj, Marty!}
+{355}{}{Aaach!}
+{356}{}{Przestañcie, b³agam!}
+{357}{}{Nic wam nie zrobiliœmy! Zostawcie nas w spokoju!}
+{358}{}{Poznajê ten tatua¿!}
+{359}{}{Nie, b³agam!}
+{360}{}{Nie zabijaj mnie, proszê!}
+{361}{}{Poddajê siê, nie strzelaj!}
+{362}{}{B³agam, Nie chcê umieraæ!}
+{363}{}{Jesteœcie £owcami, prawda? Bo¿e...}

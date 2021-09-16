@@ -1,4 +1,4 @@
-{100}{}{Widzisz robota Pana Z³ot¹ R¹czkê.}
+{100}{}{Widzisz robota, Pana Z³ot¹ R¹czkê.}
 {101}{}{Widzisz robota, Pana Z³ot¹ R¹czkê cierpi¹cego z powodu depresji.}
 {102}{}{Ten robot wydaje siê mieæ depresjê z jakiegoœ powodu.}
 {200}{}{Ach, jak wielki jest mój smutek!}
@@ -12,5 +12,6 @@
 {208}{}{¯ycie... Nawet mi nie mów o ¿yciu.}
 {209}{}{Myœlê, ¿e powinienem ci powiedzieæ o mojej depresji.}
 {210}{}{Wybacz, ¿e oddycham, czego w sumie i tak nie robiê, wiêc nie wiem po co w ogóle to mówiê, o Bo¿e, ale mam depresjê.}
-{500}{}{Yeah, just push me over a cliff.}
+
+{500}{}{Ta, po prostu zrzuæ mnie ze zbocza.}
 {501}{}{***bzzt Przestañ!*** bzzt}

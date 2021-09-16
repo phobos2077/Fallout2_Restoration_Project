@@ -1,32 +1,32 @@
-{100}{}{Widzisz handlarza.}
-{101}{}{You see Jenna, the merchant.}
-{102}{}{You see a pretty shop owner.}
-{103}{}{Hi! I'm Jenna. May I help you?}
-{104}{}{Ja chcieæ informacje.}
+{100}{}{Widzisz w³aœcicielkê sklepu.}
+{101}{}{Widzisz Jennê, w³aœcicielkê sklepu.}
+{102}{}{Widzisz œliczn¹ w³aœcicielkê sklepu.}
+{103}{}{Czeœæ! Jestem Jenna. Czym mogê s³u¿yæ?}
+{104}{}{Ja chcieæ informancje.}
 {105}{}{A co masz?}
-{106}{}{Nie, ja iœæ.}
+{106}{}{Niczym, ja iœæ.}
 {107}{}{Potrzebujê informacji.}
-{108}{}{Sure, show me what you've got.}
-{109}{}{Jeszcze nie teraz.}
-{110}{}{I've learned that the less you know, the longer you live. I have no other information for you. Would you like to see my goods?}
+{108}{}{A co masz do zaoferowania.}
+{109}{}{Chwilowo niczym.}
+{110}{}{Mówi¹, ¿e im mniej wiesz, tym d³u¿ej ¿yjesz. Wiêcej informacji ode mnie nie uzyskasz. Chcesz obejrzeæ mój towar?}
 {111}{}{Tak.}
 {112}{}{Nie.}
-{113}{}{Great. Have a look.}
+{113}{}{Œwietnie. Rozejrzyj siê.}
 {114}{}{}
 {115}{}{Dobrze.}
 {116}{}{Coœ jeszcze?}
 {117}{}{Tak.}
 {118}{}{Nie.}
-{119}{}{Well, you have a great day then.}
+{119}{}{W takim razie ¿yczê mi³ego dnia.}
 {120}{}{}
-{121}{}{Dobrze.}
-{122}{}{Hello again. Is there something else I can help you with?}
+{121}{}{W porz¹dku.}
+{122}{}{Witaj ponownie. Mogê ci pomóc jeszcze w czymœ?}
 {123}{}{Tak.}
 {124}{}{Nie.}
-{125}{}{I'm sorry but I'm closed. I open at eight; please come back then.}
+{125}{}{Przykro mi, ale jest ju¿ zamkniête. Otwieram o ósmej, przyjdŸ wtedy.}
 {126}{}{}
-{127}{}{Dobrze.}
-{128}{}{Nie chcê ciê tu widzieæ. Wynoœ siê!}
+{127}{}{W porz¹dku.}
+{128}{}{Nie chcê ciê tutaj. Wynoœ siê st¹d!}
 {129}{}{}
 {130}{}{Dobrze.}
-{131}{}{I hope that shipment comes in soon.}
+{131}{}{Mam nadziejê, ¿e ta dostawa w koñcu tu dotrze.}

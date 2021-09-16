@@ -15,7 +15,7 @@
 {114}{}{Œwietna robota.}
 {115}{}{Projekt rozwija siê zgodnie z planem.}
 {116}{}{Œwietne rezultaty.}
-{117}{}{Co teraz?}
+{117}{}{Co znowu?}
 {118}{}{Przez to cholerne promieniowanie ca³a praca pójdzie na nic.}
 {119}{}{Kolejny alarm próbny.}
 {120}{}{Nie mogê teraz zostawiæ mojej pracy.}
@@ -46,8 +46,8 @@
 {145}{}{Tak, ciekawe sk¹d by siê tu wzi¹³ jakiœ intruz?}
 {146}{}{Jakbyœmy nie potrafili rozpoznaæ intruza.}
 {147}{}{Alarm siê znowu popsu³. Œwietnie.}
-{148}{}{Nie mam na to czasu.}
-{149}{}{Co chcesz zrobiæ?}
+{148}{}{Nie mam czasu na duperele.}
+{149}{}{Czego chcesz?}
 {150}{}{Nie widzisz, ¿e ja tu pracujê?}
 {151}{}{OdejdŸ. Mam jeszcze du¿o pracy.}
 {152}{}{Nie masz nic lepszego do roboty?}
@@ -55,5 +55,5 @@
 {154}{}{Czego do cholery chcesz?}
 {155}{}{Spadaj.}
 {156}{}{IdŸ przeszkadzaæ komuœ innemu.}
-{157}{}{S³ucham.}
+{157}{}{Tak?}
 {158}{}{To bardzo precyzyjny eksperyment. Przestañ mi przeszkadzaæ.}

@@ -1,1 +1,1 @@
-1:Time to reload.
+1:Pora odczytaæ zapisany stan gry.

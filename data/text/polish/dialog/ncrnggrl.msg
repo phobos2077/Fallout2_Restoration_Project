@@ -1,2 +1,2 @@
-{100}{}{Round }
-{101}{}{ mo¿e mi, kurwa, rozkazywaæ!}
+{100}{}{Runda }
+{101}{}{!}

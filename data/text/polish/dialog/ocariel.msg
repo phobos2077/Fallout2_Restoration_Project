@@ -2,7 +2,7 @@
 {101}{}{Widzisz wdowê Ariel.}
 {102}{}{Widzisz nisk¹, szczup³¹ kobietê ubran¹ w niebiesk¹, aksamitn¹ sukienkê letni¹. Wygl¹da na zasmucon¹.}
 {103}{}{Witaj, jestem Ariel. Chyba ciê tu wczeœniej nie widzia³am. Kim jesteœ?}
-{104}{}{Ja}
+{104}{}{Moja }
 {105}{}{Uch... ty smutna. Czemu?}
 {106}{}{Moja ju¿ iœæ.}
 {107}{}{Witaj Ariel, nazywam siê}
@@ -11,9 +11,9 @@
 {110}{}{Wybacz. Nie mam na to czasu.}
 {111}{}{Mi³o mi ciê poznaæ. Jak mogê ci pomóc?}
 {112}{}{Odpowie pytania?}
-{113}{}{Niczego. Czeœæ.}
+{113}{}{Nic. Pa.}
 {114}{}{Raczej nie jesteœ w stanie mi pomóc. Na razie.}
-{115}{}{Najpierw chcê zadaæ wam kilka pytañ!}
+{115}{}{Chcê zadaæ ci kilka pytañ.}
 {116}{}{Przepraszam za zak³ócanie ci spokoju, ale czy mog³abyœ odpowiedzieæ mi na kilka pytañ?}
 {117}{}{Mam tylko trochê problemów osobistych. Naprawdê nic wielkiego.}
 {118}{}{Ty mówi, moja s³ucha. To pomaga.}
@@ -24,22 +24,22 @@
 {123}{}{Wybacz, ale nie mam czasu dla kogoœ z twoim tupetem. Do widzenia.}
 {124}{}{}
 {125}{}{}
-{126}{}{No dobra.}
+{126}{}{W porz¹dku.}
 {127}{}{Co chcesz wiedzieæ?}
-{128}{}{Ty uwiêzieniec?}
+{128}{}{Ty wiêzieñ?}
 {129}{}{Sz'mierci dobre dla ty?}
 {130}{}{Chce wyjœæ?}
 {131}{}{Czemu ty smutna?}
 {132}{}{Jak ty tu przyjœæ?}
 {133}{}{Musi ju¿ iœæ.}
-{134}{}{Jesteœ tu wiêŸniem?}
+{134}{}{Czy jesteœ tu wiêŸniem?}
 {135}{}{Czy szpony œmierci dobrze ciê traktuj¹?}
 {136}{}{Czy chcesz opuœciæ to miejsce?}
 {137}{}{Powiedz mi Ariel - czemu jesteœ smutna?}
 {138}{}{Jak to siê sta³o, ¿e znalaz³aœ siê w tej Krypcie?}
 {139}{}{Muszê ju¿ iœæ.}
 {140}{}{Nie, mogê odejœæ, kiedy tylko zechcê. Szpony œmierci wyrazi³y siê w tej kwestii bardzo jasno. Z tego, co wiem, nie przebywam tu wbrew ich woli.}
-{141}{}{Uch, no dobrze.}
+{141}{}{Uch, dobra.}
 {142}{}{Kuma, Ja iœæ.}
 {143}{}{Rozumiem.}
 {144}{}{Myœlê suko, ¿e k³amiesz.}
@@ -75,7 +75,7 @@
 {174}{}{}
 {175}{}{OdejdŸ st¹d, draniu! Nie mam ci nic do powiedzenia.}
 {176}{}{OdejdŸ st¹d, dziwko! Nie mam ci nic do powiedzenia.}
-{177}{}{Pa.}
+{177}{}{Na razie.}
 {178}{}{.}
 {179}{}{. Tak, jestem tu od niedawna.}
 {180}{}{Trzyma³am Sandy za sob¹, usi³uj¹c chroniæ j¹ przed potworem, który zastrzeli³ Randa, a on sta³ tak nad cia³em mojego mê¿a i œmia³ siê, celuj¹c w moj¹ g³owê. Nagle wielka ³apa z pazurami wychynê³a z ciemnoœci, z³apa³a go od ty³u i... no, ca³e szczêœcie, ¿e Sandy nie widzia³a, co siê sta³o potem. W ka¿dym razie bandyci zostali wykoszeni przez tê grupê szponów œmierci. Ten, który uratowa³ Sandy i mnie, sta³ niedaleko i mówi³ do mnie. Ci¹gle zapewnia³ mnie, ¿e jestem bezpieczna, i ¿e przykro mu, i¿ nie mogli przybyæ wczeœniej, by nam pomóc. Potem szpony œmierci przyprowadzi³y nas tutaj.}

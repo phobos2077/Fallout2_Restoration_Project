@@ -1,38 +1,50 @@
-{100}{}{This man looks fairly strong and alert.}
-{101}{}{She seems strong despite her size.}
-{200}{}{He seems to be awfully thin but angry.}
-{201}{}{This one looks fairly strong.}
-{202}{}{He moves with great speed.}
-{210}{}{She doesn't seem to have ever bathed.}
-{211}{}{She looks like strong fighter.}
-{212}{}{This one doesn't seem like much trouble.}
-{245}{}{Quiet! They near.}
-{246}{}{Kill bad men.}
-{247}{}{No take family from me.}
-{248}{}{I protect family.}
-{249}{}{Must not find us.}
-{250}{}{They bad people.}
-{260}{}{Slavers are coming. Everyone quiet.}
-{261}{}{Get ready. I think they're close now.}
-{262}{}{I'm not going down without a fight.}
-{263}{}{They'll never enslave us.}
-{264}{}{Those slavers will pay for this.}
-{265}{}{No slaver's going to take my family.}
-{300}{}{You die now!}
-{301}{}{Me kill!}
-{302}{}{You no hurt family!}
-{303}{}{You no take family!}
-{304}{}{I protect!}
-{305}{}{I hurt you!}
-{306}{}{You pay!}
+# 8. BF: Hostile Primitive
+{245}{}{Cicho! Oni blisko.}
+{246}{}{Zabiæ bandziora!}
+{247}{}{Nie oddam rodziny.}
+{248}{}{Broniæ rodziny.}
+{249}{}{Nie mog¹ nas znaleŸæ.}
+{250}{}{Oni Ÿli ludzie.}
+
+# 9. BF: Hostile Nomad
+{260}{}{£owcy niewolników! B¹dŸcie cicho.}
+{261}{}{Przygotujcie siê. S¹ ju¿ blisko.}
+{262}{}{Nie poddam siê bez walki.}
+{263}{}{Nie wezm¹ nas ¿ywych.}
+{264}{}{Po¿a³uj¹, ¿e tu przyszli.}
+{265}{}{Nie pozwolê skrzywdziæ mojej rodziny.}
+# looks
+# primitive
+{100}{}{Mê¿czyzna czujnie rozgl¹da siê po okolicy.}
+{101}{}{Mimo swoich rozmiarów zdaje siê byæ niebezpieczna.}
+
+# nomads
+{200}{}{Chyba jest wœciek³y.}
+{201}{}{Wygl¹da na niez³ego osi³ka.}
+{202}{}{Porusza siê szybko i zwinnie.}
+
+{210}{}{Chyba nigdy w ¿yciu siê nie my³a.}
+{211}{}{Wygl¹da na groŸnego przeciwnika.}
+{212}{}{Ta nie powinna sprawiaæ k³opotów.}
+
+# 12. Combat Float: Hostile Primitive
+{300}{}{Giñ!}
+{301}{}{Zabijê!}
+{302}{}{Nie krzywdziæ rodziny!}
+{303}{}{Nie z³apaæ rodziny!}
+{304}{}{Broniæ!}
+{305}{}{Biæ!}
+{306}{}{Zap³acisz!}
 {307}{}{Giñ!}
-{308}{}{I'm gonna hurt you.}
-{350}{}{You're not going to take my family, slaver!}
-{351}{}{Giñ, ohydo!}
-{352}{}{You'll pay, you bastard!}
-{353}{}{I'll fight to the death for my family!}
-{354}{}{You won't get away with this!}
-{355}{}{You're not leaving here with my friends!}
-{356}{}{I'm going to get you for this!}
-{357}{}{God damn slavers!}
-{358}{}{You'll pay for this!}
+{308}{}{Zat³ukê ciê.}
+
+# 13. Combat Float: Hostile Nomad
+{350}{}{Nie pozwolê ci skrzywdziæ mojej rodziny!}
+{351}{}{Giñ przeklêty £owco!}
+{352}{}{Zap³acisz mi za to!}
+{353}{}{Prêdzej zdechnê, ni¿ pozwolê ci skrzywdziæ moich bliskich!}
+{354}{}{Nie ujdzie ci to na sucho!}
+{355}{}{Nie pozwolê krzywdziæ moich przyjació³!}
+{356}{}{Jeszcze mi za to zap³acisz!}
+{357}{}{Niech szlag wszystkich £owców!}
+{358}{}{Nie darujê ci tego!}

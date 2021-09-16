@@ -1,68 +1,71 @@
-{100}{}{You see someone in a floppy robe.}
-{101}{}{It's another robed Hubologist.}
-{102}{}{It appears to be someone wearing a robe.}
-{103}{}{Kim jesteœ? Co tu robisz?}
-{104}{}{You're not supposed to be here, are you?}
-{105}{}{Look! Rim meat!}
-{106}{}{Hey! Who let the rim meat in?}
-{107}{}{You shouldn't be wandering without an escort.}
-{108}{}{Ahh! You're messing with my neurodynes!}
-{109}{}{Go away, infidel!}
-{110}{}{Don't talk to me - I'm a busy person.}
-{111}{}{Hey! You're pot-holing my neurodynes!}
-{112}{}{Maybe I'd like you better if you got aligned.}
-{113}{}{The Star Father will love you if you let him.}
-{114}{}{Don't you want to see Quetzel? Come join us!}
-{115}{}{Go talk to AHS-7 and join up!}
-{116}{}{We have celebrities who are Hubologists, you know.}
-{117}{}{Juan Cruz and Vikki Goldman are famous! That's why I joined.}
-{118}{}{I'll bet the celebrities will talk to you if you're nice and cool.}
-{119}{}{I love the Hub.}
-{120}{}{I like being a Hubologist.}
-{121}{}{I want to actuate my potentiality.}
-{122}{}{I'm still learning the lingo, to tell the truth.}
-{123}{}{Praise the Hub!}
-{124}{}{Praise the Great Wheel!}
-{125}{}{We're going to Quetzel!}
-{126}{}{I'm looking forward to going home to the stars.}
-{127}{}{Please don't bother me; I'm concentrating my neurodynes.}
-{128}{}{Please don't de-align my neurodynes.}
-{138}{}{Oh no! The persecutor!}
-{139}{}{The unenlightened one!}
-{140}{}{Keep away from me, evil meat!}
-{141}{}{You obviously have some bad neurodynes!}
-{142}{}{No! Do not pollute me with your hatred!}
-{143}{}{Guards! Guards! The barbarian is here!}
-{144}{}{Nie dotykaj mnie.}
-{145}{}{Ratunku! Stra¿!}
-{146}{}{The enemy of our people!}
-{147}{}{The dark times are upon us again!}
-{148}{}{Star Father! Save me from the heathen!}
-{149}{}{Someone will smite you for your perfidy!}
-{150}{}{I love the Hub.}
-{151}{}{I like being a Hubologist.}
-{152}{}{I want to actuate my potentiality.}
-{153}{}{I'm still learning the lingo, to tell the truth.}
-{154}{}{Praise the hub!}
-{155}{}{Praise the Great Wheel!}
-{156}{}{We're going to Quetzel!}
-{157}{}{I'm looking forward to going home to the stars.}
-{158}{}{I'm about due for an alignment.}
-{159}{}{I'm waiting to hear AHS-9 speak again!}
-{160}{}{I hope my neurodynes are all right.}
-{161}{}{I want to be a higher Aligned Hub Seeker!}
-{162}{}{Time for me to focus on my self-growth.}
-{163}{}{"Real" science is all a pack of lies.}
-{164}{}{Don't listen to what "scientists" tell you.}
-{165}{}{Only the Hub and AHS-9 have the answer.}
-{178}{}{Praise the Star Father! We're going to the stars at last!}
-{179}{}{Planet Quetzel, here we come!}
-{180}{}{All that hard work has finally paid off!}
-{181}{}{My neurodynes are entirely relaxed now!}
-{182}{}{I'd better get aligned before we take off.}
-{183}{}{Ooh! The Star Father! The Star Father!}
-{184}{}{I'm all aflutter for the take-off!}
-{185}{}{How soon do we leave?}
-{186}{}{I'll bet the high AHS's aren't this jittery.}
-{187}{}{Wow... the stars. At last.}
-{188}{}{I won't have to wear a tinfoil hat anymore!}
+{100}{}{Widzisz kogoœ w pomiêtym habicie.}
+{101}{}{To kolejny zakapturzony Centrolog.}
+{102}{}{Wygl¹da na kogoœ nosz¹cego habit.}
+{103}{}{Kim jesteœ? Co tutaj robisz?}
+{104}{}{Nie powinno ciê tu byæ, prawda?}
+{105}{}{Patrzcie! Miêcho!}
+{106}{}{Hej! Kto wpuœci³ tutaj miêcho?}
+{107}{}{Nie mo¿esz tak chodziæ bez eskorty.}
+{108}{}{Ach! Zak³ócasz moje neurodyny!}
+{109}{}{OdejdŸ, niewierny!}
+{110}{}{Nie mów do mnie - jestem zajêt¹ osob¹.}
+{111}{}{Hej! Sma¿ysz moje neurodyny!}
+{112}{}{Mo¿e bardziej bêdê ciê lubiæ, jeœli poddasz siê uszeregowaniu.}
+{113}{}{Gwiezdny Ojciec bêdzie ciê kochaæ, jeœli tylko mu na to pozwolisz.}
+{114}{}{Czy nie chcesz zobaczyæ Quetzel? Do³¹cz do nas!}
+{115}{}{IdŸ porozmawiaæ z UKC-7 i do³¹cz do nas!}
+{116}{}{Wiesz, wœród Centrologów s¹ tak¿e gwiazdy.}
+{117}{}{Juan Cruz i Vikki Goldman s¹ s³awni! Dlatego siê przy³¹czy³em.}
+{118}{}{Za³o¿ê siê, ¿e gwiazdy porozmawiaj¹ z tob¹, jeœli zachowasz siê mi³o i otwarcie.}
+{119}{}{Uwielbiam Centrum.}
+{120}{}{Lubiê byæ Centrologiem.}
+{121}{}{Chcê pobudziæ mój potencja³.}
+{122}{}{Có¿, po prawdzie, to wci¹¿ uczê siê nowomowy.}
+{123}{}{Wielbcie Centrum!}
+{124}{}{Wielbcie Wielkie Ko³o!}
+{125}{}{Wyruszamy na Quetzel!}
+{126}{}{Ju¿ nie mogê siê doczekaæ powrotu do domu do gwiazd.}
+{127}{}{Proszê, nie przeszkadzaj mi, koncentrujê moje neurodyny.}
+{128}{}{Proszê, nie deszereguj moich neurodyn.}
+
+{138}{}{O nie! Przeœladowca!}
+{139}{}{Pogañskie nasienie!}
+{140}{}{OdejdŸ ode mnie, miêcho!}
+{141}{}{Widaæ, ¿e masz z³e neurodyny!}
+{142}{}{Nie! Nie kalaj mnie swoj¹ nienawiœci¹!}
+{143}{}{Stra¿! Stra¿! Barbarzyñca jest tutaj!}
+{144}{}{Nie dotykaj mnie!}
+{145}{}{Ratunku! Stra¿e!}
+{146}{}{Wróg naszego ludu!}
+{147}{}{Znowu zst¹pi³y na nas czarne chmury!}
+{148}{}{Gwiezdny Ojcze! Uratuj mnie przed poganinem!}
+{149}{}{Ktoœ ukarze ciê za twoj¹ perfidnoœæ!}
+
+{150}{}{Uwielbiam Centrum.}
+{151}{}{Lubiê byæ Centrologiem.}
+{152}{}{Chcê pobudziæ mój potencja³.}
+{153}{}{Có¿, po prawdzie, to wci¹¿ uczê siê nowomowy.}
+{154}{}{Wielbcie Centrum!}
+{155}{}{Wielbcie Wielkie Ko³o!}
+{156}{}{Wyruszamy na Quetzel!}
+{157}{}{Ju¿ nie mogê siê doczekaæ powrotu do domu do gwiazd.}
+{158}{}{Nied³ugo zostanê uszeregowany.}
+{159}{}{Czekam, a¿ UKC-9 znowu przemówi!}
+{160}{}{Mam nadziejê, ¿e moje neurodyny s¹ w porz¹dku.}
+{161}{}{Chcê byæ wy¿szym Uszeregowanym Kandydatem Centrum!}
+{162}{}{Czas skoncentrowaæ siê nad w³asnym rozwojem.}
+{163}{}{"Prawdziwa" nauka to tylko kupa bzdur.}
+{164}{}{Nie s³uchaj tego, co mówi¹ "naukowcy".}
+{165}{}{Tylko Centrum i UKC-9 maj¹ odpowiedŸ.}
+
+{178}{}{Wielbcie Gwiezdnego Ojca! W koñcu wyruszamy do gwiazd!}
+{179}{}{Planeto Quetzel, oto nadchodzimy!}
+{180}{}{Ca³a ta ciê¿ka praca wreszcie przynosi rezultaty!}
+{181}{}{Moje neurodyny s¹ w tej chwili ca³kowicie zrelaksowane!}
+{182}{}{Lepiej szybko siê uszeregujê zanim odlecimy.}
+{183}{}{Ooch! Gwiezdny Ojciec! Gwiezdny Ojciec!}
+{184}{}{Czujê podniecenie przed odlotem!}
+{185}{}{Kiedy odlatujemy?}
+{186}{}{Za³o¿ê siê, ¿e starsi UKC nie s¹ tak podenerwowani.}
+{187}{}{Rany... gwiazdy. Nareszcie.}
+{188}{}{W koñcu nie bêdê ju¿ nigdy musieæ nosiæ kapelusz z folii!}

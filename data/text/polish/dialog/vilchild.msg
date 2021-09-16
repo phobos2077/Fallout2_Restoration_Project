@@ -6,6 +6,7 @@
 {105}{}{Spogl¹da na ciebie niepewnie.}
 {106}{}{Krzywo na ciebie patrzy.}
 {107}{}{Krzywo na ciebie patrzy.}
+
 {200}{}{Dziêkujê, ¿e Pan nam pomóg³!}
 {201}{}{Hura, jesteœmy bezpieczni!}
 {202}{}{Dziêkujê, ¿e Pani nam pomog³a!}

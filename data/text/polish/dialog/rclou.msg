@@ -2,15 +2,20 @@
 {101}{}{Widzisz Lou, w³aœcicielkê Saloonu Malamute.}
 {102}{}{Widzisz starsz¹ kobietê z na³o¿on¹ doœæ grub¹ warstw¹ ró¿u.}
 {103}{}{Chcê ci tylko powiedzieæ, ¿e jestem wdziêczna za to, co tu siê sta³o. Jak mogê ci pomóc?}
+{1103}{}{Witaj. Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Chcê ci tylko powiedzieæ, ¿e jestem wdziêczna za to, co tu siê sta³o. Jak mogê ci pomóc?}
 {104}{}{Wiêzienie to za ³agodna kara za to, co zrobi³ ten drañ.}
+{1104}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Wiêzienie to za ³agodna kara za to, co zrobi³ ten drañ.}
 {105}{}{Nie mogê uwierzyæ, ¿e ten drañ, który poci¹³ moj¹ dziewczynê, przez ciebie chodzi wolny. Masz czelnoœæ siê tu pokazywaæ. Czego tu do cholery chcesz?}
+{1105}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Nie mogê uwierzyæ, ¿e ten drañ, który poci¹³ moj¹ dziewczynê, przez ciebie chodzi wolny. Masz czelnoœæ siê tu pokazywaæ. Czego tu do cholery chcesz? Czego chcesz?}
 {106}{}{Wci¹¿ masz nie po kolei w g³owie. Ale ¿ycie p³ynie dalej, dla reszty z nas. A teraz czego do cholery chcesz?}
+{1106}{}{Wci¹¿ masz nie po kolei w g³owie. Ale ¿ycie p³ynie dalej, dla reszty z nas. Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. A teraz czego chcesz?}
 {107}{}{Pamiêtaj, co powiedzia³am. Za du¿o pieniêdzy nie jest dobre dla tej panienki. A teraz czego chcesz?}
+{1107}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Pamiêtaj, co powiedzia³am. Za du¿o pieniêdzy nie jest dobre dla tej panienki. A teraz, czego potrzebujesz?}
 {108}{}{Witaj. Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran.}
 {109}{}{Co teraz?}
 {110}{}{Ooo?}
 {111}{}{Witaj, Lou. Ciekawi mnie, co mo¿na tutaj dostaæ?}
-{112}{}{Czy s³ysza³eœ mo¿e o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
+{112}{}{S³ysza³aœ mo¿e o czymœ zwanym Generatorem Ekosystemu Cudownej Krainy?}
 {113}{}{Witaj, Lou. Co dzieje siê w tym mieœcie?}
 {114}{}{Co to jest Malamute?}
 {115}{}{Gdzie znajduje siê San Francisco, patrz¹c st¹d?}
@@ -49,7 +54,7 @@
 {148}{}{San Francisco jest kawa³ drogi na po³udnie. Po³udnie i tyækê na zachód. Jest tu¿ przy oceanie, nie wiesz tego? Nie wiem jednak, po co ktokolwiek przy zdrowych zmys³ach chcia³by tam jechaæ.}
 {149}{}{Czemu? Czy to niebezpieczne?}
 {150}{}{Interesuj¹ce. Teraz jednak powiedz mi coœ innego.}
-{151}{}{Dziêki za informacje. Do widzenia.}
+{151}{}{Dziêki za informacjê. Do zobaczenia.}
 {152}{}{Có¿, s³yszê ró¿ne rzeczy o tym ca³ym mieœcie pe³nym samych kopniêtych wyznawców jakiejœ szajbniêtej religii.}
 {153}{}{Kopniêtych wyznawców?}
 {154}{}{Pewne rzeczy nie zmieni³y siê tak, jak inne. Dziêki. Na razie.}
@@ -70,17 +75,17 @@
 {169}{}{Czy mogê zobaczyæ siê z t¹ dziewczyn¹?}
 {170}{}{Czy wiesz, co zasz³o?}
 {171}{}{Weksel kopalni Morningstar? Co to takiego?}
-{172}{}{Pozwól, ¿e spytam ciê o coœ innego.}
+{172}{}{Spytam ciê o coœ innego.}
 {173}{}{Zakoñczê tê sprawê dla ciebie, mo¿esz na to liczyæ. Do zobaczenia.}
 {174}{}{No có¿, us³ysza³am krzyki i odg³osy szamotaniny, wiêc posz³am do tego pokoju. Gdy ju¿ tam dotar³am, tego drania ju¿ nie by³o, a moja dziewczyna by³a w kiepskim stanie. Wiêc wezwa³am doktora, a potem szeryfa. Resztê ju¿ znasz.}
 {175}{}{Czy wiesz, kto to zrobi³?}
 {176}{}{Czy mogê zobaczyæ siê z t¹ dziewczyn¹?}
-{177}{}{Pozwól, ¿e spytam ciê o coœ innego.}
+{177}{}{Spytam ciê o coœ innego.}
 {178}{}{Zakoñczê tê sprawê dla ciebie, mo¿esz na to liczyæ. Do zobaczenia.}
 {179}{}{W pó³nocnej czêœci miasta Dan McGrew prowadzi kopalniê Morningstar. Zazwyczaj górnikom p³aci siê z góry, lub wystawia siê porêczenia dla ka¿dej z kopalñ... no wiesz, weksle. No i moja dziewczyna zosta³a znaleziona w³aœnie z takim kawa³kiem weksla w rêce. Oto on. Popatrz na to. (podaje ci œwistek papieru)}
 {180}{}{A, rozumiem. Czy mogê zobaczyæ siê z dziewczyn¹?}
 {181}{}{A, rozumiem. Czy wiesz, co zasz³o?}
-{182}{}{Pozwól, ¿e spytam ciê o coœ innego.}
+{182}{}{Spytam ciê o coœ innego.}
 {183}{}{Zakoñczê tê sprawê dla ciebie, mo¿esz na to liczyæ. Do zobaczenia.}
 {184}{}{Có¿, cieszê siê, ¿e ktoœ nad tym pracuje. Taka sprawa jest fatalna dla wszystkiego. Mam tylko nadziejê, ¿e ten drañ, dziêki tobie, zap³aci za to, co zrobi³ mojej dziewczynie. Upewnij siê, ¿e nie bêdzie móg³ tego ju¿ nigdy wiêcej nikomu zrobiæ.}
 {185}{}{Có¿, zrobiê, co w mojej mocy. Pozwól, ¿e spytam ciê o coœ innego.}
@@ -89,7 +94,7 @@
 {188}{}{Chcê puste ³ó¿ko, Lou.}
 {189}{}{Z niespodziank¹? Brzmi zachêcaj¹co. Opowiedz mi o tym.}
 {190}{}{Alkohol i inne towary. Tak, o to mi chodzi³o. Pohandlujmy.}
-{191}{}{Pozwól, ¿e spytam ciê o coœ innego.}
+{191}{}{Hmm, pozwól, ¿e spytam ciê o coœ innego.}
 {192}{}{To ci wystarczy, czy chcesz kupiæ coœ jeszcze?}
 {193}{}{Wygl¹da na to, ¿e masz problemy ze zdecydowaniem siê. To wszystko, czy chcesz jeszcze coœ zobaczyæ?}
 {194}{}{Nie. Mam ju¿ wszystko, czego teraz potrzebujê. Odpowiedz mi jeszcze na moje pytania.}
@@ -114,7 +119,7 @@
 {213}{}{To, co zrobi³a ze swoim ¿yciem, to ju¿ jej sprawa. ¯egnaj.}
 {214}{}{Dosta³a ode mnie jedyne wyzwolenie z tej gównianej egzystencji, jakie mog³a przyj¹æ. Ty te¿ œwiêta nie jesteœ, Lou. ¯egnaj.}
 {215}{}{A wiêc to ty jesteœ t¹ ofiar¹, która da³a Fannie ca³e te pieni¹dze. Na twoim miejscu bym tego nie robi³a. Nie pomagasz jej tak, jak pewnie myœlisz.}
-{216}{}{Jak to?}
+{216}{}{Co masz na myœli?}
 {217}{}{Pomagam jej rozpocz¹æ nowe ¿ycie.}
 {218}{}{Ta, jak chcesz. Pogadajmy o czymœ innym.}
 {219}{}{Mam na myœli to, ¿e Fannie ma problem i pieni¹dze go nie rozwi¹¿¹. Przykro mi ³amaæ ci serce, ale Fannie wystrychnê³a ciê na dudka. Ona chce pieniêdzy, aby kupiæ sobie Jet. Cholernie za du¿o Jetu.}
@@ -133,11 +138,7 @@
 {232}{}{Có¿...dobra. Czy jest jeszcze coœ, co chcesz?}
 {233}{}{Interesuje mnie dostanie czegoœ.}
 {234}{}{Co siê dzieje w tym mieœcie?}
+
 {300}{}{Uda³o ci siê pomóc Fannie's wyleczyæ siê z uzale¿nienia.}
 {301}{}{Do widzenia.}
 {310}{}{Chyba mam coœ co pomo¿e Fannie. [Daj Lou antidotum na jet.]}
-{1103}{}{Witaj. Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Chcê ci tylko powiedzieæ, ¿e jestem wdziêczna za to, co tu siê sta³o. Jak mogê ci pomóc?}
-{1104}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Wiêzienie to za ³agodna kara za to, co zrobi³ ten drañ.}
-{1105}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Nie mogê uwierzyæ, ¿e ten drañ, który poci¹³ moj¹ dziewczynê, przez ciebie chodzi wolny. Masz czelnoœæ siê tu pokazywaæ. Czego tu do cholery chcesz? Czego chcesz?}
-{1106}{}{Wci¹¿ masz nie po kolei w g³owie. Ale ¿ycie p³ynie dalej, dla reszty z nas. Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. A teraz czego chcesz?}
-{1107}{}{Jestem Lou, w³aœcicielka Saloonu Malamute, najlepszego domu na pó³noc od San Fran. Pamiêtaj, co powiedzia³am. Za du¿o pieniêdzy nie jest dobre dla tej panienki. A teraz, czego potrzebujesz?}

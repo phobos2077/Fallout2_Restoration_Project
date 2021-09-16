@@ -1,1 +1,1 @@
-{100}{}{Who did you piss off to get stuck in this?}
+{100}{}{Kogo uda³o ci siê wkurzyæ, ¿e wpakowa³ ciê w coœ takiego?}

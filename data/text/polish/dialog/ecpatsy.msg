@@ -1,4 +1,4 @@
-{100}{}{A man.}
+{100}{}{Mê¿czyzna.}
 {101}{}{Patsy.}
-{102}{}{Stuka dwiema po³ówkami kokosa.}
+{102}{}{Zderza ze sob¹ dwie po³ówki kokosa.}
 {103}{}{Klip! Klap!}

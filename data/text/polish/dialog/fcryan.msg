@@ -1,27 +1,27 @@
-{100}{}{You see a partially head-shaven punk.}
-{101}{}{You see Ryan, Font of All Wisdom.}
-{102}{}{You see a punk who has an air of cockiness and laughter about him.}
-{103}{}{You gotta fight through that shit, man.}
-{104}{}{This place is a shit hole.}
-{105}{}{I'm gonna do you until you bleed. Sorry, was that out loud?}
+{100}{}{Widzisz czêœciowo wygolonego punka.}
+{101}{}{Widzisz Ryana, Krynicê Wszelkiej Wiedzy.}
+{102}{}{Widzisz punka, wokó³ którego czuje siê aurê zarozumialstwa i œmiesznoœci.}
+{103}{}{Musisz walczyæ przez to gówno.}
+{104}{}{To miejsce to szambo.}
+{105}{}{Zrobiê ci tak, ¿e bêdziesz krwawiæ. Wyrazi³em siê wystarczaj¹co jasno?}
 {106}{}{Ay carumba! Nalgas con queso!}
-{107}{}{Woo hoo hoo hoo hoo!}
-{108}{}{Zmiatam st¹d.}
-{109}{}{I knew Big Jesus Mordino when he was Baby Jesus.}
-{110}{}{Jesus Mary Mother of God!}
-{111}{}{I am a producer. I make games. Games are fun. Play my games.}
-{112}{}{Buy flamers for flamers.}
-{113}{}{They call me... THE POLISH HAMMER.}
-{114}{}{I came to San Fran to make some games and kick some ass.}
-{115}{}{Summer lovin'...}
-{116}{}{Hola, senor! Or is it senorita?}
-{117}{}{Tee hee!}
-{118}{}{Man... this place is like a promise made in Stockton - all wind and no action.}
-{119}{}{My friend Scott thought the capital of Old California was Stockton. Promise!}
-{120}{}{I'd like to blow some hot goo on Chip.}
-{121}{}{Dude!}
-{122}{}{Awww, come ON!}
-{123}{}{Aggro-suuuuuuuuuurge!}
-{124}{}{Don't make me put the mosh face on.}
-{125}{}{Yeah, right?}
-{126}{}{Exactly, sir. Heh heh heh.}
+{107}{}{Wu hu hu hu hu!}
+{108}{}{To ja znikam.}
+{109}{}{Zna³em Du¿ego Jezusa Mordina, gdy by³ jeszcze ma³ym dzieci¹tkiem.}
+{110}{}{Jezus Maria Matko Boska!}
+{111}{}{Jestem producentem. Robiê gry. Gry s¹ fajne. Zagraj w moje gry.}
+{112}{}{Kupujcie kartki za bony.}
+{113}{}{Nazywaj¹ mnie AMERYKAÑSKI M£OTEK.}
+{114}{}{Przyby³em do San Francisco, ¿eby robiæ gry i skopaæ parê dup.}
+{115}{}{Lato, laato, lato wszêdzie...}
+{116}{}{Hola, senor! Czy to senorita?}
+{117}{}{Iii-ha!}
+{118}{}{Rany... Niby ca³y czas tu wieje, a jest zero akcji.}
+{119}{}{Mój przyjaciel Scott myœla³, ¿e stolic¹ Starej Kalifornii by³o Stockton. Serio!}
+{120}{}{Ale bym se ola³ Chipa ciep³ym moczem.}
+{121}{}{Stary!}
+{122}{}{Eee, no dawaj!}
+{123}{}{Bryyyyyzzzzzza aktiv fresh!}
+{124}{}{Nie zmuszaj mnie do udawania twardziela.}
+{125}{}{Ta, prawda?}
+{126}{}{Dok³adnie, he he he.}

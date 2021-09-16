@@ -1,52 +1,38 @@
 {100}{}{Widzisz m³od¹ kobietê.}
-{101}{}{You see Chrissy, Rebecca's daughter.}
-{102}{}{You see a pretty young woman. She looks confident and able to handle herself in a fight.}
-{103}{}{If you're here to try and rape me, you're going to be wearing your balls as a bow tie. Get it?}
-{104}{}{Let me guess. The guys are tired of me kicking them where it hurts, so they sent you in here to
- do something obscene. Well, I can hurt you just as bad; I just need to kick higher. Get it?}
-{105}{}{Bow tie?}
+{101}{}{Widzisz Chrissy, córkê Rebeki.}
+{102}{}{Widzisz ³adn¹ m³od¹ kobietê. Wygl¹da na pewn¹ siebie i wydaje ci siê, ¿e potrafi³aby daæ sobie radê w walce.}
+{103}{}{Jeœli myœlisz, ¿e uda ci siê mnie zgwa³ciæ, to b¹dŸ pewien, ¿e najpierw zrobiê ci krawat z jaj i zawi¹¿ê ci go na szyi. Kapujesz?}
+{104}{}{Pozwól mi zgadn¹æ. Ch³opaki maj¹ ju¿ dosyæ obrywania tam, gdzie ich boli najbardziej i przys³ali ciebie, ¿ebyœ zrobi³a coœ nieprzyzwoitego. Musisz wiedzieæ, ¿e ciebie mogê za³atwiæ tak samo. Wystarczy tylko kopaæ trochê wy¿ej. Kapujesz?}
+{105}{}{Krawat?}
 {106}{}{}
-{107}{}{What go on here? Who you?}
+{107}{}{Co tu dzieje? Kto ty?}
 {108}{}{}
-{109}{}{I'd like to know who you are and what is going on here.}
-{110}{}{Yeah. A fancy piece of cloth worn around the neck for decoration. It's like a scarf, but for
- men. Now, just imagine me kicking you SO hard that you end up wearing your dangly about your neck. Get
- it?}
-{111}{}{Me understand. You no hurt me.}
-{112}{}{I got the picture; please don't hurt me.}
-{113}{}{Okay, so why are you here?}
+{109}{}{Chcê wiedzieæ kim jesteœ i co siê tutaj dzieje.}
+{110}{}{Zgadza siê. Fantazyjny kawa³ek materia³u noszony wokó³ szyi dla ozdoby. Podobny do szarfy, ale dla mê¿czyzn. A teraz wyobraŸ sobie mnie jak ciê kopiê TAK MOCNO, ¿e twoje dzwonki zawijaj¹ ci siê na szyi. Kapujesz?}
+{111}{}{Moja rozumieæ. Ty nie robiæ moja krzywda.}
+{112}{}{Kapujê, proszê nie rób mi krzywdy.}
+{113}{}{W porz¹dku, wiêc czego tutaj szukasz?}
 {114}{}{}
-{115}{}{Me want know what go on here? Who you?}
+{115}{}{Moja chcieæ wiedzieæ, co tu dzieje? Kto ty?}
 {116}{}{}
-{117}{}{I'd like to know who you are and what is going on here.}
-{118}{}{Really? Awesome! Let's go.}
-{119}{}{Dobra.}
-{120}{}{In a nutshell, my name is Chrissy and I'm from the Squat. I was out exploring last week when I
- found that entrance out there. I thought it might be an abandoned mine or something, so I decided to
- check it out. Well, it's not a mine; it's a secret entrance into Vault 15. The vault is being
- used as a base for a band of raiders called the Khans. They caught me snooping around and their leader, Darion, had me locked up in here.}
-{121}{}{Okay. Me take you home.}
-{122}{}{All right, I'll take you home.}
-{123}{}{Well, I'll be damned. Today must be my lucky day. To what do I owe the pleasure of seeing you
- again?}
+{117}{}{Chcê wiedzieæ kim jesteœ i co siê tutaj dzieje.}
+{118}{}{Naprawdê? To super! ChodŸmy.}
+{119}{}{W porz¹dku.}
+{120}{}{W skrócie: nazywam siê Chrissy i jestem z osiedla. Kiedy w ubieg³ym tygodniu bada³am okolicê znalaz³am tamto wejœcie. Myœla³am, ¿e to mo¿e byæ opuszczona kopalnia czy coœ, wiêc postanowi³am to sprawdziæ. Tyle, ¿e to nie jest kopalnia - to ukryte wejœcie do Krypty 15, która jest u¿ywana jako baza przez bandytów zw¹cych siebie Chanami. Z³apali mnie, kiedy wêszy³am w pobli¿u. Ich przywódca, Darion, kaza³ mnie zamkn¹æ tutaj.}
+{121}{}{Dobra. Moja zabraæ ty do domu.}
+{122}{}{W porz¹dku. Zabiorê ciê do domu.}
+{123}{}{A niech mnie... Dzisiaj musi byæ mój szczêœliwy dzieñ. Czemu zawdziêczam przyjemnoœæ ogl¹dania ciê znowu?}
 {124}{}{}
-{125}{}{What go on here? Who you?}
+{125}{}{Co siê dziaæ tu? Kto ty?}
 {126}{}{}
-{127}{}{I'd like to know who you are and what is going on here.}
-{128}{}{Please take me to my mother, Rebecca.}
-{129}{}{My knight in shining armor returns. Well, it would shine if you'd clean it every once in a
- while. Oh, and you might want to consider bathing yourself as well. So, what can I do for you?}
-{130}{}{Ja tylko czeœæ. Ja ju¿ iœæ.}
-{131}{}{Just thought I'd say hello. I'll be going now.}
-{132}{}{Hey, I know I have a smart mouth, but I want you to know that I'm very grateful for you saving
- my butt. Thanks very much!}
-{133}{}{Niezamaco.}
-{134}{}{Nie ma za co.}
-{135}{}{The people of the Squat are protecting these guys by helping them keep the vault a secret, but they
- don't know what's really going on here. Darion told us that the vault was being repaired so we could have
- a safe place to live with lots of food and water, but it's all a lie. I've been in there and looked
- around. The vault is dead, and the food and water machines don't work. Our food and water's been coming
- from the spoils
- of raids against caravans.}
-{136}{}{Look, I've got to go home and warn everyone about what's really going on here. We can't help these
- monsters. Will you take me home?}
+{127}{}{Chcê wiedzieæ kim jesteœ i co siê tutaj dzieje.}
+{128}{}{Proszê, zabierz mnie do mojej matki - Rebeki.}
+{129}{}{Mój ksi¹¿ê w lœni¹cej zbroi powróci³. No, mo¿e by i lœni³a gdyby by³a czyszczona co jakiœ czas. A, i dobrze by by³o pomyœleæ równie¿ o k¹pieli. Wiêc, co mogê dla ciebie zrobiæ?}
+{130}{}{Moja tylko przywitaæ. Moja ju¿ iœæ teraz.}
+{131}{}{Pomyœla³em tylko, ¿e siê przywitam. Teraz chyba ju¿ pójdê.}
+{132}{}{Hej, wiem, ¿e jestem wyszczekana, ale chcê ci powiedzieæ, ¿e jestem ci bardzo wdziêczna za uratowanie mojego ty³ka. Wielkie dziêki!}
+{133}{}{Prosiæ bardzo.}
+{134}{}{Nie ma sprawy.}
+
+{135}{}{Ludzie z Przytu³ka chroni¹ tych goœci pomagaj¹c utrzymaæ istnienie Krypty 15 w tajemnicy, ale nie wiedz¹ co siê tu naprawdê dzieje. Darion powiedzia³ nam, ¿e krypta jest remontowany, ¿ebyœmy w przysz³oœci mieli bezpieczne miejsce do ¿ycia z mnóstwem jedzenia i wody, ale to wszystko k³amstwo. By³am tam i rozejrza³am siê trochê. Krypta jest martwa, a maszyny produkuj¹ce ¿ywnoœæ i dostarczaj¹ce wodê nie dzia³aj¹. Wszystko co od nich dostajemy pochodzi z grabie¿y.}
+{136}{}{Pos³uchaj, muszê wróciæ do domu i ostrzec wszystkich o tym, co tu siê naprawdê dzieje. Nie mo¿emy pomagaæ tym potworom. Pomo¿esz mi siê st¹d wydostaæ?}

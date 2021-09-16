@@ -1,1 +1,1 @@
-{100}{}{You see a door with no visible handle or lock.}
+{100}{}{Widzisz drzwi bez klamki ani zamka.}

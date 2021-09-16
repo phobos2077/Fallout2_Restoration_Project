@@ -1,11 +1,11 @@
-{100}{}{You see a computer console for the power station.}
-{101}{}{This console must be used to divert and regulate power in Broken Hills.}
-{102}{}{You probably shouldn't touch this equipment without a good reason.}
-{103}{}{Unscientifically fiddling with the controls isn't going to get Eric his extra power.}
-{104}{}{You've already routed more power to Eric's home.}
-{105}{}{You probably shouldn't touch this equipment without a good reason.}
-{106}{}{You attempt to increase the power flow to Eric's home, but are unsuccessful.}
-{107}{}{In your bumbling attempt to figure out how to regulate power flow, you incur a massive electrical shock.}
-{108}{}{You manage to figure out how to route more power to Eric's home.}
-{109}{}{You successfully route more power to Eric's home. In addition, you optimize Broken Hills' entire power grid.}
-{110}{}{You've already routed more power to Eric's home.}
+{100}{}{Widzisz konsolê komputerow¹ stacji zasilania.}
+{101}{}{Ta konsola s³u¿y do rozdzielania i regulowania energii Broken Hills.}
+{102}{}{Lepiej nie dotykaæ tego wyposa¿enia bez konkretnego powodu.}
+{103}{}{Odkrywanie tajników elektroniki metod¹ prób i b³êdów nie pomo¿e raczej Ericowi.}
+{104}{}{Dom Erica otrzyma³ ju¿ dodatkowe zasilanie.}
+{105}{}{Lepiej nie dotykaæ tego wyposa¿enia bez konkretnego powodu.}
+{106}{}{Próbujesz zwiêkszyæ dop³yw energii do domu Erica, ale nie udaje ci siê.}
+{107}{}{Jedyne, co udaje siê uzyskaæ takiemu elektrykowi-amatorowi jak ty, to silne pora¿enie pr¹dem.}
+{108}{}{Udaje ci siê skierowaæ wiêcej energii do domu Erica.}
+{109}{}{Udaje ci siê skierowaæ wiêcej energii do domu Erica. Dodatkowo usprawniasz ca³¹ sieæ energetyczn¹ Broken Hills.}
+{110}{}{Dom Erica otrzyma³ ju¿ dodatkowe zasilanie.}

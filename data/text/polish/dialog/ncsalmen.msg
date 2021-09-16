@@ -1,132 +1,186 @@
-{100}{}{You see one of Salvatore's men.}
-{150}{}{You see a sullen looking man. His face is set in a frown, and he is staring straight ahead.
- He is carrying a strange pistol in his hand.}
-{151}{}{You see a sullen looking man. His face is set in a frown, and he is staring straight ahead.}
-{152}{}{You see one of Salvatore's men. He looks like he hasn't relaxed in years.}
-{153}{}{You see one of Salvatore's men. He is staring straight ahead with a grim expression.}
-{154}{}{You see one of Salvatore's men. He looks silent, deadly, and possibly asleep.}
-{155}{}{You see one of Salvatore's men. He looks silent, deadly, and potentially very bored.}
-{160}{}{::Nods Respectfully::}
-{161}{}{¯eby tak daæ w koœæ Enklawie, trzeba mieæ niez³e mu³y.}
-{162}{}{You're almost as tough as Tommy the Balls.}
-{163}{}{I heard what you did to the Enclave. Word travels fast.}
-{164}{}{Thought about replaying the game as a different character?}
-{170}{}{Why are you sneaking around?}
-{171}{}{Why the secrecy? Somebody looking for you?}
-{172}{}{You trying to keep a low profile?}
-{173}{}{Why you sneaking around? Somebody chasing you?}
-{180}{}{Niech mnie szlag, jeœli to nie jest }
-{181}{}{You LOST, pal? You better get out of here.}
-{182}{}{Ten goœæ siê prosi o k³opoty.}
-{183}{}{Get out of here. Now.}
-{184}{}{Unless you're looking for trouble, you better leave right now.}
-{185}{}{Niech mnie szlag, jeœli to nie jest }
-{186}{}{You LOST, girl? You better get out of here.}
-{187}{}{This chick's asking for trouble...}
-{195}{}{No weapons allowed in here.}
-{196}{}{Put that weapon away.}
-{200}{}{Miss, I'm afraid I'll have to ask you to put that weapon away.}
-{201}{}{Miss, I'm sorry, but weapons aren't allowed in here.}
-{205}{}{You! Slaver! Secure that weapon NOW.}
-{206}{}{Weapons aren't allowed in here, slaver.}
-{207}{}{Put that weapon away, slaver.}
-{208}{}{Slaver, I need you to secure that weapon right now.}
-{210}{}{You! Slaver! Stop sneaking around in here!}
-{215}{}{You! Secure that weapon NOW.}
-{216}{}{Weapons aren't allowed in here.}
-{217}{}{Put that weapon away. Now.}
-{218}{}{Secure that weapon right now.}
-{220}{}{You! Stop sneaking around in here!}
-{225}{}{Robots aren't allowed in here. Get it outta here. Now.}
-{226}{}{No robots. Get it outta here.}
-{230}{}{No mutants allowed in here. Get him outta here. Now.}
-{231}{}{Mutants aren't allowed in here. Get him outta here. Now.}
-{235}{}{Jak mo¿esz korzystaæ z ³azienki w czymœ takim na grzbiecie?}
+# QUICK LOOK
+{100}{}{Widzisz jednego z ludzi rodziny Salvatore.}
+
+# LOOK (IF THUG HAS LASER WEAPON.)
+{150}{}{Widzisz dobrze zbudowanego, zasêpionego mê¿czyznê. Patrzy beznamiêtnie przed siebie. W d³oni trzyma dziwnie wygl¹daj¹cy pistolet.}
+{151}{}{Widzisz dobrze zbudowanego, zasêpionego mê¿czyznê. Patrzy beznamiêtnie przed siebie.}
+{152}{}{Widzisz jednego z ludzi Salvatore. Wygl¹da na bardzo spiêtego.}
+{153}{}{Widzisz jednego z ludzi Salvatore. Patrzy przed siebie ponurym spojrzeniem.}
+{154}{}{Widzisz jednego z ludzi Salvatore. Wygl¹da na silnego, zabójczego i... bardzo œpi¹cego.}
+{155}{}{Widzisz jednego z ludzi Salvatore. Wygl¹da na silnego, zabójczego i... bardzo znudzonego.}
+
+# 2. FLOAT/CLICK DIALOGUE: ENCLAVE DESTROYED IS TRUE
+{160}{}{::K³ania siê z szacunkiem::}
+{161}{}{Trzeba mieæ nie lada odwagê, ¿eby tak stawiæ czo³a Enklawie.}
+{162}{}{Tommy Twardziel to przy tobie pestka.}
+{163}{}{Plotka g³osi, ¿e to tobie zawdziêczamy zniszczenie Enklawy. To zaszczyt ciê poznaæ.}
+{164}{}{Mo¿e zagrasz ponownie inn¹ postaci¹, co?}
+
+# 3. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=SALVATORE, PRIZEFIGHTER, PORN STAR [SNEAK]
+{170}{}{Czemu siê tak skradasz?}
+{171}{}{Co to za podchody? Ktoœ ciê szuka?}
+{172}{}{Starasz siê nie rzucaæ w oczy?}
+{173}{}{Czemu siê tak skradasz? Ktoœ ciê goni?}
+
+# 4. FLOAT DIALOGUE: PLAYER = MADE MAN, FA=NOT SALVATORE
+{180}{}{Hej, przecie¿ to }
+{181}{}{Zgubi³eœ siê, koleœ? Lepiej szybko st¹d spadaj.}
+{182}{}{Ten goœæ a¿ prosi siê o k³opoty...}
+{183}{}{Wynoœ siê st¹d. I to ju¿.}
+{184}{}{Wynoœ siê st¹d natychmiast, no chyba, ¿e szukasz k³opotów.}
+{185}{}{Hej, to¿ to }
+{186}{}{Zgubi³aœ siê, dziewczynko? Lepiej szybko st¹d spadaj.}
+{187}{}{Ta panna a¿ siê prosi o k³opoty...}
+
+# 6. FLOAT DIALOGUE: POLITE [ARMED]
+{195}{}{Nie mo¿esz tu wejœæ z broni¹.}
+{196}{}{Od³ó¿ broñ.}
+
+# 7. FLOAT DIALOGUE: FEMALE, PORN STAR, POLITE [ARMED]
+{200}{}{Przykro mi panienko, ale nie mo¿esz siê tu wa³êsaæ z broni¹.}
+{201}{}{Przyro mi panienko, ale musisz od³o¿yæ broñ.}
+
+# 8. FLOAT DIALOGUE: SLAVER [ARMED]
+{205}{}{Hej, ty! £owco! Natychmiast schowaj tê broñ.}
+{206}{}{Nie tolerujemy tu uzbrojonych ludzi, £owco.}
+{207}{}{Od³ó¿ tê broñ, £owco.}
+{208}{}{Schowaj tê broñ, £owco.}
+
+# 9. FLOAT DIALOGUE: SLAVER [SNEAK]
+{210}{}{Hej, ty! £owco! Przestañ siê tu skradaæ!}
+
+# 10. FLOAT DIALOGUE: NORMAL [ARMED]
+{215}{}{Hej, ty! Natychmiast schowaj tê broñ.}
+{216}{}{Nie wpuszczamy tu ludzi z broni¹.}
+{217}{}{Natychmiast od³ó¿ tê broñ.}
+{218}{}{Natychmiast schowaj tê broñ.}
+
+# 11. FLOAT DIALOGUE: NORMAL [SNEAK]
+{220}{}{Hej, ty! Przestañ siê tak skradaæ!}
+
+# 12. FLOAT DIALOGUE: COMPANION: ROBOBRAIN
+{225}{}{Nie wpuszczamy tu robotów. Zabieraj go st¹d natychmiast.}
+{226}{}{¯adnych robotów. Zabieraj go st¹d.}
+
+# 13. FLOAT DIALOGUE: COMPANION: MARCUS
+{230}{}{Nie wpuszczamy tu mutantów. Zabieraj go st¹d natychmiast.}
+{231}{}{Nie chcemy tu mutantów. Wynoœcie siê st¹d, ale ju¿!}
+
+# 15. CLICK DIALOGUE: POWER ARMOR
+{235}{}{Jak sobie radzisz w ubikacji w takim wdzianku?}
+
+# 16. CLICK [MADE MAN, FA = SALVATORE]
 {240}{}{Sir.}
-{241}{}{Hello, sir.}
-{242}{}{Nothing to report, sir.}
-{243}{}{Anything you need, sir?}
-{244}{}{Anyone bothers you, sir, let us know.}
-{245}{}{Watch out for Tommy the Balls. He has a long dick and a short temper.}
-{246}{}{Mr. Salvatore's been in poor health for as long as I've known him. He's really old.}
-{247}{}{These new pistols have really allowed us to gain ground in New Reno.}
-{248}{}{These new pistols may look strange, but they are really easy to use.}
-{249}{}{I shot this one Bishop smartass with my new pistol, and it drilled a hole through him AND
- the wall behind him.}
-{250}{}{None of the boys really know where these new pistols are coming from. It's best not to ask.}
-{251}{}{The rest of the families have been givin' us a lot of space ever since the Massacre.}
-{252}{}{The other families have been giving us a lot of space since we got these new pistols.
- They know what will happen if they don't.}
-{253}{}{These new pistols fire beams of light. The beams drill through ANYTHING.}
-{254}{}{Family Salvatore's been good to me. No complaints.}
-{255}{}{The Bishops talk big. Salvatores don't need to talk.}
-{256}{}{All's quiet on the northern front.}
-{257}{}{Saw some Bishops today, and they steered clear. They're getting smarter.}
-{258}{}{Spokojnie dziœ.}
-{259}{}{Ma'am.}
-{260}{}{Hello, ma'am.}
-{261}{}{Nothing to report, ma'am.}
-{262}{}{Anything you need, ma'am?}
-{263}{}{Anyone bothers you, ma'am, let us know.}
-{275}{}{You better leave before there's trouble.}
-{276}{}{Play it smart - leave before we have to get rough.}
-{277}{}{There's going to be trouble if you stick around.}
-{278}{}{Don't know what you want }
-{279}{}{Don't know what you're trying to prove, }
-{280}{}{I suggest you leave right now.}
-{285}{}{Where did you learn to fight? You're vicious.}
-{286}{}{You know, Family Salvatore could really use someone like you.}
-{287}{}{You should talk to Mason about a job.}
-{288}{}{If prizefighting loses its charm, you might want to consider joining up with us.}
+{241}{}{Witam, sir.}
+{242}{}{Nic nowego, sir.}
+{243}{}{Potrzebuje pan czegoœ, sir?}
+{244}{}{Jeœli ktoœ pana wkurzy, sir, proszê daæ nam znaæ.}
+{245}{}{Niech pan uwa¿a na Tommy'ego Twardziela. Ma du¿¹ fujarê i ma³y rozumek.}
+{246}{}{Pan Salvatore choruje odk¹d tu pracujê. Jest bardzo stary.}
+{247}{}{Dziêki tym nowym pistoletom wyrobiliœmy sobie œwietn¹ pozycjê w Nowym reno.}
+{248}{}{Te nowe pistolety wygl¹daj¹ trochê dziwnie, ale s¹ bardzo ³atwe w u¿yciu.}
+{249}{}{Zastrzeli³em tym nowym pistoletem jednego z pajaców Bishopa. Wypali³o wielk¹ dziurê I w goœciu I w œcianie, o któr¹ siê opiera³.}
+{250}{}{¯aden z ch³opców nie ma pojêcia sk¹d wziê³y siê te nowe pistoletu. O niektóre rzeczy lepiej nie pytaæ.}
+{251}{}{Od czasu Masakry pozosta³e rodziny omijaj¹ nas z daleka.}
+{252}{}{Odk¹d zdobyliœmy te nowe pistolety, pozosta³e rodziny trzymaj¹ siê z dala od nas. Wiedz¹, co im grozi.}
+{253}{}{Te nowe pistolety wystrzeliwuj¹ takie promienie. Wypalaj¹ dziury dos³ownie we wszystkim.}
+{254}{}{Rodzina Salvatore zawsze by³a dla mnie bardzo dobra. Nigdy nie narzeka³em.}
+{255}{}{Ci od Bishopa strasznie du¿o gadaj¹. Salvatore ma³o mówi¹, ale du¿o robi¹.}
+{256}{}{Na pó³nocnym froncie ci¹gle spokój.}
+{257}{}{Widzia³em dziœ paru goœci od Bishopa. Omijali mnie szerokim ³ukiem. Chyba wreszcie zm¹drzeli.}
+{258}{}{Strasznie dziœ cicho.}
+{259}{}{Psze pani.}
+{260}{}{Witam pani¹.}
+{261}{}{Nic nowego, psze pani.}
+{262}{}{Potrzebuje pani czegoœ?}
+{263}{}{Jeœli ktoœ pani¹ wkurzy, proszê daæ nam znaæ.}
+
+# 18. CLICK [MALE/FEMALE, MADE MAN, FA = NOT SALVATORE]
+{275}{}{Spadaj st¹d, albo bêd¹ k³opoty.}
+{276}{}{Nie r¿nij g³upa. Uciekaj st¹d, póki mo¿esz.}
+{277}{}{Jak st¹d szybko nie pójdziesz, poleje siê krew.}
+{278}{}{Nie wiem, czego tu szukasz }
+{279}{}{Nie wiem, co ty sobie wyobra¿asz, }
+{280}{}{Lepiej bêdzie, jak szybko st¹d pójdziesz.}
+
+# 19. CLICK [MALE/FEMALE, PRIZEFIGHTER]
+{285}{}{Kto ciê nauczy³ tak walczyæ?}
+{286}{}{Wiesz co? Rodzinie Salvatore przyda³by siê ktoœ taki jak ty.}
+{287}{}{Pogadaj z Masonem. Znajdzie dla ciebie jak¹œ robotê.}
+{288}{}{Jeœli znudzi ci siê bycie bokserem zajrzyj do nas - na pewno znajdzie siê dla ciebie robota.}
 {289}{}{Postawi³em na ciebie $20!}
-{290}{}{Hej, miszczu! Twoja ostatnia walka by³a wspania³a!}
-{291}{}{Widzia³em ciê na ringu. Masz cholernie mocny prawy sierpowy.}
-{292}{}{Ile wyciskasz?}
-{293}{}{Gdzie pakujesz?}
-{294}{}{Uwa¿aj na Prze¿uwacza. On lubi uszy.}
-{295}{}{Postawi³bym ci drinka, gdybym nie straci³ wszystkich pieniêdzy stawiaj¹c na twojego przeciwnika.}
-{305}{}{Something I can do for you?}
-{306}{}{This ain't the porn studio, lover-boy.}
-{307}{}{Take your business elsewhere, lover-boy.}
-{310}{}{I'm really sorry... really... but I haven't got time to talk right now. Stop by after work
- if you're free then.}
-{311}{}{Breaks my heart, but I really can't talk right now.}
-{312}{}{C'mon now, you're distracting me, sweetheart.}
-{313}{}{I can't help you.}
-{314}{}{Podobno Tommy Trzy Jajca chce umówiæ siê z tob¹ na prywatny casting.}
-{315}{}{Not now, sweetheart. Business.}
-{316}{}{I'd chat, but the boss could be watching.}
-{325}{}{Secure that weapon NOW, slaver.}
-{326}{}{Weapons aren't allowed in here, slaver.}
-{327}{}{Put that weapon away, slaver.}
-{330}{}{Stop sneaking around in here, slaver.}
-{331}{}{People sneaking around in here makes my trigger finger itch.}
-{332}{}{Sneaking around in here can get you shot, slaver.}
-{335}{}{Secure that weapon NOW.}
-{336}{}{Weapons aren't allowed in here.}
-{337}{}{Put that weapon away. Now.}
-{338}{}{Secure that weapon right now.}
-{340}{}{Stop sneaking around in here, or there's gonna be trouble.}
-{345}{}{I'm not the person to talk to about dealing slaves. Talk to Mason.}
-{346}{}{Salvatores already got all the slaves we need.}
-{347}{}{I haven't got time to talk right now.}
-{348}{}{I can't help you.}
-{349}{}{Look, I ain't got the time. You want conversation, go to Virgin Street and talk to a whore.}
-{355}{}{If you're looking to deal some slaves, talk to the boss.}
-{356}{}{Don't think the boss is looking for any more slaves, but you might want to try him anyway.}
-{360}{}{Looking for work? Talk to Mason.}
-{361}{}{If you're looking for work, you should talk to Mason.}
-{365}{}{Look, I ain't got the time. You want conversation, go to Virgin Street and talk to a whore.}
-{366}{}{I haven't got time to talk right now.}
-{367}{}{I can't help you.}
-{368}{}{Can't help you. Sorry.}
-{369}{}{Not now, sweetheart. Business.}
-{370}{}{I'd chat, but the boss could be watching.}
-{371}{}{Look, I ain't got the time for chit-chat.}
-{380}{}{That ghoul better leave right NOW.}
-{381}{}{If that ghoul's still here when I turn around, we'll burn it.}
-{382}{}{That ghoul's asking to be a torch if it sticks around.}
-{1180}{}{. His name's gonna be corpse if he doesn't get out of here...}
-{1185}{}{. Her name's gonna be corpse if she doesn't get out of here...}
-{1278}{}{, but you better take it elsewhere.}
-{1279}{}{, but I'd take it somewhere else.}
+{290}{}{Hej, zabijako! Widzia³em twoj¹ ostatni¹ walkê!}
+{291}{}{Widzia³em jedn¹ z twoich walk. Masz nie ziemski prawy sierpowy.}
+{292}{}{Du¿o æwiczysz?}
+{293}{}{Gdzie trenujesz?}
+{294}{}{Uwa¿aj na Prze¿uwacza. To prawdziwy œwir.}
+{295}{}{Postawi³bym ci drinka, ale przepuœci³em ca³¹ forsê stawiaj¹c na twojego przeciwnika.}
+
+# 20. CLICK [MALE, PORN STAR]
+{305}{}{Mogê coœ dla ciebie zrobiæ?}
+{306}{}{Nie jesteœ u siebie w studiu, kochasiu.}
+{307}{}{Zabieraj siê st¹d, kochasiu.}
+
+# 21. CLICK [PORN STAR, FEMALE]
+{310}{}{Bardzo mi przykro... naprawdê... ale nie mam teraz czasu na rozmowê. Mo¿e wpadniesz tu jak skoñczê pracê?}
+{311}{}{Strasznie mi przykro, ale nie mam teraz czasu.}
+{312}{}{Hej, rozpraszasz mnie, s³onko.}
+{313}{}{Nie mogê ci pomóc.}
+
+{314}{}{Podobno Tommy Twardziel chcia³by ciê widzieæ w swoim prywatnym filmie.}
+{315}{}{Nie teraz, s³onko. Pracujê.}
+{316}{}{Chêtnie bym pogada³, ale szef mo¿e patrzeæ.}
+
+# 22. FLOAT DIALOGUE: SLAVER [ARMED]
+{325}{}{Natychmiast schowaj tê broñ, £owco.}
+{326}{}{Nie wpuszczamy tu uzbrojonych ludzi.}
+{327}{}{Od³ó¿ tê broñ, £owco.}
+
+# 23. FLOAT DIALOGUE: SLAVER [SNEAK]
+{330}{}{Przestañ siê tak skradaæ, £owco.}
+{331}{}{Jeœli nie przestaniesz siê skradaæ bêd¹ k³opoty.}
+{332}{}{Przez takie skradanie siê mo¿na ³atwo zgin¹æ.}
+
+# 24. FLOAT DIALOGUE: NORMAL [ARMED]
+{335}{}{Natychmiast schowaj tê broñ.}
+{336}{}{Nie mo¿na tu wchodziæ z broni¹.}
+{337}{}{Natychmiast od³ó¿ tê broñ.}
+{338}{}{Chowaj tê broñ, ale ju¿.}
+
+# 25. FLOAT DIALOGUE: NORMAL [SNEAK]
+{340}{}{Przestañ siê tak skradaæ, albo bêd¹ k³opoty.}
+
+# 26. [SLAVER, IF BAD REACTION]
+{345}{}{Jeœli chcesz sprzedaæ jakichœ niewolników pogadaj lepiej z Masonem.}
+{346}{}{Salvatore nie potrzebuj¹ ju¿ wiêcej niewolników.}
+{347}{}{Nie mam czasu na pogawêdki.}
+{348}{}{Nie mogê ci pomóc.}
+{349}{}{S³uchaj, nie mam czasu. Jak chcesz sobie pogadaæ, przejdŸ siê do Alei Dziewic i poszukaj towarzystwa.}
+
+# 27. [SLAVER, GOOD REACTION]
+{355}{}{Jeœli chcesz sprzedaæ jakichœ niewolników, pogadaj z szefem.}
+{356}{}{Szef chyba nie potrzebuje wiêcej niewolników, ale nie zaszkodzi, jak z nim porozmawiasz.}
+
+# 28. CLICK [FEMALE/MALE, NO REP, GOOD REACTION]
+{360}{}{Szukasz pracy? Pogadaj z Masonem.}
+{361}{}{Jeœli szukasz pracy, musisz porozmawiaæ z Masonem.}
+
+# 29. CLICK [NO REP, BAD REACTION]
+{365}{}{S³uchaj, nie mam czasu. Jak chcesz sobie pogadaæ, przejdŸ siê do Alei Dziewic i poszukaj towarzystwa.}
+{366}{}{Nie mam teraz czasu na pogawêdki.}
+{367}{}{Nie mogê ci pomóc.}
+{368}{}{Przykro mi, nie mogê ci pomóc.}
+{369}{}{Nie teraz, s³onko. Pracujê.}
+{370}{}{Chêtnie bym pogada³, ale szef mo¿e patrzeæ.}
+{371}{}{S³uchaj, nie mam czasu na gadanie o pierdo³ach.}
+
+# 30. CLICK/FLOAT: LENNY
+{380}{}{Lepiej, ¿eby ten ghul szybko siê st¹d wyniós³.}
+{381}{}{Jeœli ten ghul natychmiast st¹d nie zniknie, bêdzie po nim.}
+{382}{}{Ten ghul a¿ prosi siê o k³opoty. Zabieraj go st¹d.}
+
+# END OF LINES
+{1180}{}{. Jeœli zaraz st¹d nie zniknie, bêdzie po nim...}
+{1185}{}{. Jeœli zaraz st¹d nie zniknie, bêdzie po niej...}
+{1278}{}{, ale tutaj tego nie znajdziesz.}
+{1279}{}{, ale lepiej st¹d spadaj.}

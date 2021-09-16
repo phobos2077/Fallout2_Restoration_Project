@@ -1,33 +1,33 @@
-{100}{}{You see a cheat character.}
-{101}{}{This guy shouldn't be here.}
-{102}{}{Hey it's a cheat character.}
-{103}{}{Hey that hurt.}
-{104}{}{Hello what would you like to happen.}
-{105}{}{Setting Westin's flags.}
-{106}{}{Set Accept Snuffing westin?}
-{107}{}{Unset Accept Snuffing Westin.}
-{108}{}{Set Westin Dead.}
-{109}{}{Unset Westin Dead.}
-{110}{}{Set Westin Cancel Snuff}
-{111}{}{Unset Westin Cancel Snuff.}
-{112}{}{Set Westin Drugs Known.}
-{113}{}{Unset westin Drugs known.}
-{114}{}{Set Westin Fail}
-{115}{}{Unset westin Fail.}
-{116}{}{Set Westin Complete}
-{117}{}{Unset Westin Complete.}
-{118}{}{Set Westin Snuff Known.}
-{119}{}{Unset westin snuff known.}
-{120}{}{Setting Carlson's Flags.}
-{121}{}{Set Carlson Accept Snuff.}
-{122}{}{Unset Carlson Accept Snuff.}
-{123}{}{Set Carlson Dead.}
-{124}{}{Unset Carlson Dead.}
-{125}{}{Set Carlson Security Duty.}
-{126}{}{Unset Carlson Security Duty.}
-{127}{}{Set Carlson Cancel Snuff.}
-{128}{}{Unset Carlson Cancel Snuff.}
-{129}{}{Set Carlson Complete.}
-{130}{}{Unset Carlson Complete.}
-{131}{}{Set Carlson fail.}
-{132}{}{Unset Carlson Fail.}
+{100}{}{Widzisz postaæ s³u¿¹c¹ do oszustw.}
+{101}{}{Tego goœcia nie powinno tu byæ.}
+{102}{}{Hej, to postaæ s³u¿¹ca do oszustw.}
+{103}{}{Hej, to boli.}
+{104}{}{Witaj. Co chcia³byœ, aby siê zdarzy³o?}
+{105}{}{Ustawianie znaczników Westina.}
+{106}{}{Zaznacz: akceptacja uciszenia Westina?}
+{107}{}{Odznacz: akceptacja uciszenia Westina.}
+{108}{}{Zaznacz: Westin nie ¿yje.}
+{109}{}{Odznacz: Westin nie ¿yje.}
+{110}{}{Zaznacz: uciszanie Westina odwo³ane.}
+{111}{}{Odznacz: uciszanie Westina odwo³ane.}
+{112}{}{Zaznacz: poznano fakty dotycz¹ce leków Westina.}
+{113}{}{Odznacz: poznano fakty dotycz¹ce leków Westina.}
+{114}{}{Zaznacz: misja z Westinem nieudana.}
+{115}{}{Odznacz: misja z Westinem nieudana.}
+{116}{}{Zaznacz: misja z Westinem udana.}
+{117}{}{Odznacz: misja z Westinem udana.}
+{118}{}{Zaznacz: uciszanie Westina zauwa¿one.}
+{119}{}{Odznacz: uciszanie Westina zauwa¿one.}
+{120}{}{Ustawianie znaczników Carlsona.}
+{121}{}{Zaznacz: uciszanie Carlsona zaakceptowane.}
+{122}{}{Odznacz: uciszanie Carlsona zaakceptowane.}
+{123}{}{Zaznacz: Carlson martwy.}
+{124}{}{Odznacz: Carlson martwy.}
+{125}{}{Zaznacz: zadanie ochrony Carlsona.}
+{126}{}{Odznacz: zadanie ochrony Carlsona.}
+{127}{}{Zaznacz: uciszanie Carlsona odwo³ane.}
+{128}{}{Odznacz: uciszanie Carlsona odwo³ane.}
+{129}{}{Zaznacz: misja z Carlsonem udana.}
+{130}{}{Odznacz: misja z Carlsonem udana.}
+{131}{}{Zaznacz: misja z Carlsonem nieudana.}
+{132}{}{Odznacz: misja z Carlsonem nieudana.}

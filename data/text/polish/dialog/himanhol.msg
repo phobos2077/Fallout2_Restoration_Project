@@ -1,1 +1,1 @@
-{100}{}{You successfully entered Liz's hidden weapons cache.}
+{100}{}{Uda³o ci siê wejœæ do skrytki na broñ Liz.}

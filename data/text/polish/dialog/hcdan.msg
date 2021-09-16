@@ -3,7 +3,7 @@
 {102}{}{Widzisz dobrze ubranego mê¿czyznê. Jego twarz wskazuje na to, ¿e jest na skraju histerii.}
 {103}{}{Kim jesteœ? Co robisz w moim domu?}
 {104}{}{Ack? Oop?}
-{105}{}{To ja jestem }
+{105}{}{Nazywam siê }
 {106}{}{Nikim wa¿nym.}
 {107}{}{Jestem tu, aby ciê okraœæ.}
 {108}{}{Nic. Nikim. ¯egnam.}

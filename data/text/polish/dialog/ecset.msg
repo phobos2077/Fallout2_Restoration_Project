@@ -1,17 +1,16 @@
-{100}{}{You see... Set.}
-{101}{}{You see a decaying ghoul with machine parts sticking out of his head. It's hard to tell whether
- he's senile or not.}
-{102}{}{You see Set. He is talking to himself.}
-{103}{}{You see Set. He is talking to himself.}
-{104}{}{"Dirtnap!"}
-{105}{}{"Dirtnap!"}
-{106}{}{"Dirtnap... Makes my shadow GROW."}
-{107}{}{He-he.}
-{108}{}{Dirt.}
-{109}{}{Nap.}
-{110}{}{Dirtnap!}
-{111}{}{Heh-heh. I ruuule Necropolis.}
-{112}{}{Normies. Everywhere, normies.}
-{113}{}{Name's Set. Yours is World-a-hurt.}
-{114}{}{Chuckle-chuckle.}
-{115}{}{Nap. Dirt. Napdirt!}
+{100}{}{Widzisz... Seta.}
+{101}{}{Widzisz rozk³adaj¹cego siê ghula z wystaj¹cymi z czaszki œrubkami i zêbatkami. Ciê¿ko powiedzieæ, czy jest zniedo³ê¿nia³y, czy nie.}
+{102}{}{Widzisz Seta. Mówi sam do siebie.}
+{103}{}{Widzisz Seta. Mówi sam do siebie.}
+{104}{}{"Gryz¹ ziemiê!"}
+{105}{}{"Gryz¹ ziemiê!"}
+{106}{}{"Gryz¹ ziemiê... A¿ serce roœnie".}
+{107}{}{He, he.}
+{108}{}{Gryz¹!}
+{109}{}{Ziemiê!}
+{110}{}{Gryz¹ ziemiê!}
+{111}{}{He he. Rz¹dzê Necropolis.}
+{112}{}{Normale. Wszêdzie normale.}
+{113}{}{Nazywam siê Set. A ty Weltschmerz.}
+{114}{}{Chi, chi.}
+{115}{}{Ziemiê. Gryz¹. Ziemiê gryz¹!}

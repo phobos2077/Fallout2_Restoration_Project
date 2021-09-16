@@ -1,4 +1,3 @@
-{100}{}{You see a dog.}
-{101}{}{You see Darion's dog.}
-{102}{}{You see an animal with a lot of fur and four legs. If a dog could grin evilly, you would swear
- this one is doing it.}
+{100}{}{Widzisz psa.}
+{101}{}{Widzisz psa Dariona.}
+{102}{}{Widzisz futrzastego zwierzaka na czterech ³apach. Gdyby psy mog³y siê z³owieszczo uœmiechaæ mo¿na by przysi¹c, ¿e ten w³aœnie tak robi.}

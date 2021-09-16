@@ -1,16 +1,16 @@
-{100}{}{You see a typical Vault door.}
-{101}{}{This is a typical Vault door. It looks like its power couplings are stuck.}
-{102}{}{Door no move.}
-{103}{}{This door's stuck. It'd take a very strong person to open it.}
+{100}{}{To typowe drzwi krypty.}
+{101}{}{To typowe drzwi krypty. Wygl¹da na to, ¿e z³¹cza s¹ odciête.}
+{102}{}{Drzwi siê nie ruszaæ.}
+{103}{}{Te drzwi siê zaciê³y. Do ich otwarcia potrzeba kogoœ bardzo silnego.}
 {104}{}{*Hrnnnnnn*... *hfff*... *hfff*}
-{105}{}{Even with the crowbar, you still aren't strong enough to force the door.}
+{105}{}{Nawet z ³omem nie jesteœ wystarczaj¹co silny, by je otworzyæ.}
 {106}{}{*Hrnnnnnn*}
-{107}{}{With the help of the crowbar, you force open the door.}
+{107}{}{Z pomoc¹ ³omu otwierasz drzwi.}
 {108}{}{*Hrnnnnn*}
-{109}{}{Using your raw physical strength, you force open the door.}
-{110}{}{Wow. That didn't even scratch it.}
-{111}{}{BOOM no hurt door.}
-{112}{}{The door's stuck, not locked.}
-{113}{}{Door stuckie not lockie.}
-{114}{}{The door won't close. It's jammed.}
-{115}{}{Door no move.}
+{109}{}{U¿ywaj¹c swej si³y fizycznej otwierasz drzwi.}
+{110}{}{To ich nawet nie zarysowa³o.}
+{111}{}{BUM nie rozwaliæ drzwi}
+{112}{}{Te drzwi s¹ zaciête, nie zamkniête.}
+{113}{}{Drzwi zaci¹æ nie zamkn¹æ.}
+{114}{}{Nie mo¿na ich ruszyæ. S¹ zaklinowane.}
+{115}{}{Drzwi nie ruszaæ.}

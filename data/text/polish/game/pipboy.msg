@@ -1,16 +1,36 @@
-{100}{}{Szczêœliwego Nowego Roku!}
-{101}{}{Szczêœliwego Dnia œw. Walentego!}
-{102}{}{Weso³ego Prima Aprilis!}
-{103}{}{Weso³ego dnia wysy³ki. }
-{104}{}{Szczêœliwego Dnia Niepodleg³oœci!}
-{105}{}{Weso³ego Halloween!}
-{106}{}{Szczêœliwego Dnia Dziêkczynienia!}
-{107}{}{Weso³ych Œwi¹t!}
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in PIPBOY.C
+#
+# (These MUST match "text message" enumeration on the top of PIPBOY.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+
+# Hubologist - Centrolog  = zam. z Hubologów
+# Hub, Huba, Piasta itd. ? = Centra, Centrobel
+
+#
+# Special holiday dates
+#
+{100}{}{Szczêœliwego Nowego Roku!}            # New years
+{101}{}{Szczêœliwego Dnia œw. Walentego!}     # April fools
+{102}{}{Weso³ego Prima Aprilis!}              # April fools
+{103}{}{Weso³ego dnia wysy³ki. }              # Shipping day!
+{104}{}{Szczêœliwego Dnia Niepodleg³oœci!}    # Independence day
+{105}{}{Weso³ego Halloween!}                  # Halloween
+{106}{}{Szczêœliwego Dnia Dziêkczynienia!}    # Thanksgiving
+{107}{}{Weso³ych Œwi¹t!}                      # X-mas
+
+#
+# System messages
+#
 {200}{}{WIÊCEJ}
 {201}{}{POWRÓT}
 {202}{}{STATUS}
 {203}{}{Brak bie¿¹cych zadañ.}
-{204}{}{WSKAZÓWKI}
+{204}{}{WSKAZÓWKI}  # clues gone
 {205}{}{AUTOMAPY}
 {206}{}{ARCHIWA VIDEO}
 {207}{}{DANE}
@@ -20,10 +40,14 @@
 {211}{}{DANE}
 {212}{}{/}
 {213}{}{Strona}
-{214}{}{GOTOWE}
+{214}{}{KONIEC}
 {215}{}{Nie mo¿esz odpoczywaæ w tym miejscu!}
+
+#
+# Alarm clock
+#
 {300}{}{BUDZIK}
-{301}{}{PW}
+{301}{}{Punkty wytrzyma³oœci}
 {302}{}{Odpoczynek dziesiêciominutowy}
 {303}{}{Odpoczynek trzydziestominutowy}
 {304}{}{Odpoczynek godzinny}
@@ -38,6 +62,10 @@
 {313}{}{Odpoczynek do pó³nocy (0000)}
 {314}{}{Odpoczynek do pe³nego wyleczenia}
 {315}{}{Odpoczynek do wyleczenia ca³ej ekipy}
+
+#
+# Holodisk titles
+#
 {400}{}{Holodysk z Krypty 13}
 {401}{}{Okolice bazy wojskowej}
 {402}{}{Baza wojskowa - poziom 1}
@@ -59,7 +87,12 @@
 {418}{}{Lista s³ówek}
 {419}{}{Projekt}
 {420}{}{Funkcjonowanie elektrowni}
-{500}{}{Logo InterPlay}
+
+#
+# Movie archive titles
+# Order must match the list (see gmovie.h)
+#
+{500}{}{Logo InterPlay}               # Not shown in Pipboy
 {501}{}{Wstêp}
 {502}{}{Przemowa Starszej Wioski}
 {503}{}{Odnalezienie kombinezonu z Krypty}
@@ -76,27 +109,44 @@
 {514}{}{Trzeci sen o Arroyo}
 {515}{}{Czwarty sen o Arroyo}
 {516}{}{Twórcy}
+
+#
+# Things for the Mac version to speak
+#
+#
 {600}{}{Status}
-{601}{}{Clues}
+{601}{}{Clues}  # Clues gone
 {602}{}{Automaps}
 {603}{}{Archives}
 {604}{}{Alarm Clock}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the RobCo Pip-Boy 2000.}
-{607}{}{Do zobaczenia.}
+{606}{}{Welcome to the Rob Co Pipboy 2000.}
+{607}{}{So long.}
 {608}{}{Wake up.}
+
+
+#
+# Status thread text
+#
+# Format:
+# 0 City name
+# 1 ... 9 thread/quest name
+#
 {700}{}{Krypta 13}
 {701}{}{Spacyfikuj buntowników.}
 {702}{}{Wyeliminuj przywódcê mutantów.}
 {703}{}{Wyeliminuj Ÿród³o mutantów.}
 {704}{}{Zdob¹dŸ hydroprocesor.}
 {705}{}{Wykryj z³odzieja wody.}
+#
 {710}{}{Pogrzebana Krypta}
+#
 {720}{}{Cieniste Piaski}
 {721}{}{Wylecz Jarvisa z zatrucia jadem radskorpiona.}
-{722}{}{Zrób odtrutkê.}
+{722}{}{Sporz¹dŸ antidotum na jad.}
 {723}{}{Ocal Tandi z r¹k najeŸdŸców.}
 {724}{}{Powstrzymaj radskorpiony.}
+#
 {730}{}{Z³omowo}
 {731}{}{Pomó¿ Saulowi.}
 {732}{}{Zabij Killiana.}
@@ -104,23 +154,30 @@
 {734}{}{Ocal Trish.}
 {735}{}{Powstrzymaj Gizma}
 {736}{}{Rozbij Czachy.}
+#
 {740}{}{NajeŸdŸcy}
+#
 {750}{}{Nekropolis}
 {751}{}{Wyeliminuj supermutantów przy Wododziale.}
 {752}{}{Napraw pompê wodn¹ Nekropolis.}
+#
 {760}{}{Centrum}
 {761}{}{Wyeliminuj szpona œmierci.}
 {762}{}{Wyeliminuj Jain.}
 {763}{}{Wyeliminuj kupca.}
 {764}{}{OdnajdŸ zaginione karawany.}
 {765}{}{Ukradnij naszyjnik.}
-{770}{}{Cytadela Bractwa Stali}
+#
+{770}{}{Bractwo Stali}
 {771}{}{Zostañ kadetem.}
 {772}{}{Ocal kadeta z Centrum.}
-{780}{}{Baza wojskowa}
+#
+{780}{}{Baza Wojskowa}
+#
 {790}{}{Blask}
 {791}{}{Rozbrój pu³apki na obszarze kompleksu.}
 {792}{}{Uruchom zasilanie kompleksu.}
+#
 {800}{}{Smêtarz}
 {801}{}{Zostañ Ostrzem.}
 {802}{}{Dostarcz medalion w imieniu Romera.}
@@ -129,12 +186,23 @@
 {805}{}{Napraw hydroponiczne farmy Adytum.}
 {806}{}{Ocal Jasona Zimmermana.}
 {807}{}{Powstrzymaj gangi od atakowania Adytum.}
+#
 {810}{}{Katedra}
+
+
+#
+# Holodisk text
+#
+
+# GVAR_NCR_FAKE_VAULT13_HOLODISK
+#
 {1000}{}{HOLODYSK Ziggiego Z KRYPTY 13}
-{1001}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{1001}{}{**END-PAR**}
 {1002}{}{Na tym dysku zapisane jest po³o¿enie Krypty 13. }
 {1003}{}{Lokalizacja zosta³a zaznaczona na twojej mapie. }
-{1004}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{1004}{}{**END-DISK**}
+# *** ***
+# GVAR_HOLODISK_MB_OUTSIDE
 {2000}{}{Do: CHQ}
 {2001}{}{Nasi naukowcy zakoñczy³ wstêpne testy próbki}
 {2002}{}{zdobytej w bazie. Stopieñ czystoœci zosta³ okreœlony}
@@ -144,16 +212,23 @@
 {2006}{}{czystego Ÿród³a. Ponosimy ciê¿kie, ale akceptowalne}
 {2007}{}{straty. Wyda³em ju¿ rozkaz ewakuacji bazy. Jak tylko}
 {2008}{}{opuœci j¹ ostatni cz³owiek, wysadzimy wejœcie}
-{2009}{}{}
-{2010}{}{Colonel Sanders}
-{2011}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{2009}{}{i zasypiemy tych sukinsynów w œrodku.}
+{2010}{}{}
+{2011}{}{P³k. Sanders}
+{2012}{}{**END-DISK**}
+
+# *** ***
+# GVAR_HOLODISK_MB_LEVEL_1
 {3000}{}{Melduje siê kapitan Pickard z pierwszego punktu}
 {3001}{}{kontrolnego. Odciêty zosta³ wszelki kontakt z punktami}
 {3002}{}{kontrolnymi 2 i 3. Mo¿emy spodziewaæ siê najgorszego.}
 {3003}{}{Te stworzenia wspinaj¹ siê szybami wind. Wszelkie próby}
 {3004}{}{powstrzymania ich spe³z³y na niczym. Zrobimy wszystko,}
 {3005}{}{by zatrzymaæ atak na tej pozycji tak d³ugo, jak siê da.}
-{3006}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{3006}{}{**END-DISK**}
+
+# *** ***
+# GVAR_HOLODISK_MB_LEVEL_2
 {4000}{}{Trzeci punkt kontrolny w defensywie. Zablokowaliœmy}
 {4001}{}{windy, ale i tak s³yszê, jak próbuj¹ wspinaæ siê w górê}
 {4002}{}{szybów. Jasna cholera! Wielkie, obrzydliwe, zielone}
@@ -162,7 +237,11 @@
 {4005}{}{tylko zastrzelimy jednego, dwóch nastêpnych wy³azi mu}
 {4006}{}{zza pleców, a nim minie minuta, ten którego}
 {4007}{}{zastrzeliliœmy wstaje i kontynuuje atak na nasze}
-{4008}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{4008}{}{pozycje. Potrzebujemy natychmiastowego wspar...}
+{4009}{}{**END-DISK**}
+
+# *** ***
+# GVAR_HOLODISK_MB_LEVEL_3
 {5000}{}{Sier¿ant Bracks z punktu kontrolnego 3. Sytuacja bez}
 {5001}{}{zmian, tak jak wczoraj i o dziwo zupe³nie tak samo jak}
 {5002}{}{dzieñ wczeœniej. Nie wiem po jak¹ choinkê góra kaza³a}
@@ -176,7 +255,12 @@
 {5010}{}{wszystkich przyprawia o dreszcze. Chwila... Przyjecha³}
 {5011}{}{z do³u kolejny ³adunek... Mój bo¿e! Co to jest? Atakuj¹}
 {5012}{}{nasz¹ pozycjê! Proszê o natychmiastowe wsparcie!}
-{5013}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{5013}{}{Powtarzam, tutaj punkt kontrolny 3, przyœlijcie}
+{5014}{}{dodatkowe oddzia...}
+{5015}{}{**END-DISK**}
+
+# *** ***
+# GVAR_HOLODISK_MB_LEVEL_4
 {6000}{}{Wykopaliska przebiegaj¹ zgodnie z planem. S¹dz¹c po}
 {6001}{}{starych planach bazy, powinniœmy wkrótce dotrzeæ}
 {6002}{}{w okolice kadzi. W próbkach powietrza i gleby notujemy}
@@ -184,7 +268,8 @@
 {6004}{}{zapewniaj¹ stosown¹ ochronê. Przeka¿ cz³onkom Enklawy,}
 {6005}{}{¿e wkrótce otrzymaj¹ próbkê czystego mutagenu.}
 {6006}{}{**END-PAR**}
-{6007}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+#
+{6007}{}{Zauwa¿y³em te¿ zachodz¹ce w górnikach zmiany.}
 {6008}{}{Zwiêkszaj¹ca siê si³a, ¿ywotnoœæ, przebarwienia skóry}
 {6009}{}{stanowi¹ oczywiste dowody mutacji wywo³anej przez FEV.}
 {6010}{}{Ludzie zaczynaj¹ siê niepokoiæ, jako ¿e sami zd¹¿yli ju¿}
@@ -206,11 +291,14 @@
 {6026}{}{Sugerujê permanentne zablokowanie wejœcia do bazy}
 {6027}{}{z chwil¹ zdobycia czystej próbki. Zapobiegnie to}
 {6028}{}{wydostaniu siê ska¿onych górników na zewn¹trz}
-{6029}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{6029}{}{i uniemo¿liwi naszym wrogom zdobycie wirusa, gdy ju¿}
+{6030}{}{opuœcimy to miejsce.}
+{6031}{}{**END-DISK**}
+#
 {7000}{}{Sk³ad Wojskowy Sierra - Dzia³ Analiz i Rozwoju}
 {7001}{}{Lekarz G³ówny - dr H. Lector}
 {7002}{}{Dziennik osobisty}
-{7003}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{7003}{}{**END-PAR**}
 {7004}{}{28 czerwca, 2077}
 {7005}{}{Dzisiaj ch³opaki z biosk³adu wyciêli mi niez³y numer.}
 {7006}{}{Jeden z nich zmieni³ ustawienia w automatycznym}
@@ -220,16 +308,16 @@
 {7010}{}{inaczej mia³bym spore k³opoty. Przerobi³em maszynê tak,}
 {7011}{}{¿êby teraz poddawa³a ekstrakcji jedynie mózgi,}
 {7012}{}{wiêc wypadek ten siê nie powtórzy. Dopadnê ich za to.}
-{7013}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{7013}{}{**END-PAR**}
 {7014}{}{29 czerwca, 2077}
 {7015}{}{Usun¹³em w¹trobê szeregowego Callowa i ugotowa³em j¹}
 {7016}{}{z fasolk¹. Potem wys³a³em j¹ do tych cwaniaków}
 {7017}{}{z biosk³adu wraz z butelk¹ Chianti. Pomyœleli, ¿e to}
 {7018}{}{genera³ postanowi³ zafundowaæ im obiad w ramach}
 {7019}{}{podziêkowañ za wykonanie dobrej roboty.}
-{7020}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{7020}{}{Uwielbiam swoj¹ pracê.}
 {7021}{}{**END-PAR**}
-{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
+{7022}{}{30 czerwca, 2077}
 {7023}{}{Wypróbowa³em dziœ na jednym z pacjentów swój nowy}
 {7024}{}{koktajl z Wygrzewu, Psycho i paru specjalnych dodatków,}
 {7025}{}{z którymi ostatnio eksperymentowa³em. Rezultaty by³y}
@@ -237,7 +325,7 @@
 {7027}{}{strasznie nerwowy i da³ radê wydostaæ siê ze swojego}
 {7028}{}{pomieszczenia. Na szczêœcie nowe roboty wartownicze by³y}
 {7029}{}{na miejscu i szybko poradzi³y sobie z tym zagro¿eniem.}
-{7030}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{7030}{}{Dam znaæ obs³udze, ¿e drzwi s¹ do wymiany.}
 {7031}{}{**END-PAR**}
 {7032}{}{1 lipca, 2077}
 {7033}{}{Mój ulubiony obiekt eksperymentów w³aœnie wyzion¹³}
@@ -245,20 +333,20 @@
 {7035}{}{z moimi specjalnymi dodatkami. Jego IQ skoczy³o z 39 do}
 {7036}{}{200 w ci¹gu zaledwie kilku tygodni. Jest mi przykro,}
 {7037}{}{gdy¿ pacjent ten by³ jednym z niewielu ludzi, z którymi}
-{7038}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{7039}{}{5 lipca, 2077}
+{7038}{}{mog³em naprawdê porozmawiaæ. Bêdzie mi go wielce}
+{7039}{}{brakowa³o.}
 {7040}{}{**END-PAR**}
 {7041}{}{5 lipca, 2077}
 {7042}{}{S¹dzimy, ¿e nowy mózg cybernetyczny jest ju¿ w pe³ni}
-{7043}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{7043}{}{gotowy. Musimy wykonaæ jeszcze kilka testów, ale sprawy}
 {7044}{}{wygl¹daj¹ nadzwyczaj obiecuj¹co.}
 {7045}{}{**END-PAR**}
 {7046}{}{6 lipca, 2077}
 {7047}{}{Dzia³ Robotyki jest wysoce niezadowolony z faktu, ¿e ich}
 {7048}{}{cenny komputer zmodyfikowany zosta³ do obs³ugi}
 {7049}{}{systemów bezpieczeñstwa bazy na czas ewakuacji.}
-{7050}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{7051}{}{9 lipca, 2077}
+{7050}{}{Nie mogê powiedzieæ ¿ebym i ja by³ z tego zadowolony,}
+{7051}{}{gdy¿ wk³ad Skynetu w rozwój nowego mózgu}
 {7052}{}{cybernetycznego by³ do tej pory nieoceniony.}
 {7053}{}{**END-PAR**}
 {7054}{}{9 lipca, 2077}
@@ -267,13 +355,16 @@
 {7057}{}{cybernetycznego. Mówi¹, ¿e ewakuacja jest tylko chwilowa}
 {7058}{}{i nied³ugo wrócê do swoich badañ. Prawdopodobnie bêdzie}
 {7059}{}{to mój ostatni zapis w dzienniku na jakiœ czas, muszê}
-{7060}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{7060}{}{teraz zaj¹æ siê zbieraniem wyników swoich badañ, zanim}
+{7061}{}{nas st¹d zabior¹.}
+{7062}{}{**END-DISK**}
+#
 {8000}{}{5 lipca, 2077}
 {8001}{}{Sk³ad Wojskowy Sierra - Lecznica}
 {8002}{}{Lekarz G³ówny - dr Solomon}
 {8003}{}{Pacjent - Kapral Dixon}
 {8004}{}{Raport Zdarzenia # 8332-523D}
-{8005}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{8005}{}{**END-PAR**}
 {8006}{}{Poszkodowany próbowa³ uzbroiæ minê na terenie}
 {8007}{}{magazynu w ramach procedury aktywacji ewakuacyjnych}
 {8008}{}{systemów obronnych Sk³adu Wojskowego Sierra. Mina}
@@ -296,7 +387,7 @@
 {8025}{}{¿ywych. Los sprawi³, i¿ przysz³o nam go testowaæ}
 {8026}{}{w niezbyt szczêœliwych okolicznoœciach.}
 {8027}{}{**END-DISK**}
-{8028}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+#
 {9000}{}{9 lipca, 2077}
 {9001}{}{Wiadomoœæ Priorytetowa}
 {9002}{}{Zawiadomienie Ogólne}
@@ -311,15 +402,17 @@
 {9011}{}{identyfikatory.}
 {9012}{}{}
 {9013}{}{Z rozkazu genera³a Cliftona}
-{9014}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
-{10000}{}{Baza Wojskowa Sierra}
+{9014}{}{**END-DISK**}
+
+# Sierra Base Mission Statement
+{10000}{}{Sk³ad Wojskowy Sierra}
 {10001}{}{Deklaracja Przeznaczenia 1942 - 1991}
 {10002}{}{Przechowanie i konserwacja sprzêtu wojskowego}
 {10003}{}{i wyposa¿enia obronnego. W przypadku inwazji,}
 {10004}{}{zapewnienie dostaw zaopatrzenia do s¹siaduj¹cych baz}
 {10005}{}{i instalacji wojskowych.}
-{10006}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{10007}{}{Baza Wojskowa Sierra}
+{10006}{}{**END-PAR**}
+{10007}{}{Sk³ad Wojskowy Sierra}
 {10008}{}{Deklaracja Przeznaczenia 1992 - 2050}
 {10009}{}{Neutralizacja nadwy¿ek amunicji okreœlonej jako}
 {10010}{}{przestarza³a lub niezdatna do celów wojskowych.}
@@ -327,8 +420,8 @@
 {10012}{}{(IOC) we wspó³pracy z Agencj¹ Ochrony Œrodowiska}
 {10013}{}{(EPA) w celu zapewnienia bezpiecznych metod}
 {10014}{}{neutralizacji i pozbywania siê materia³ów}
-{10015}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{10016}{}{Baza Wojskowa Sierra}
+{10015}{}{pochodzenia wojskowego.}
+{10016}{}{**END-PAR**}
 {10017}{}{Sk³ad Wojskowy Sierra}
 {10018}{}{Deklaracja Przeznaczenia 2050 - 2076}
 {10019}{}{UTAJNIONE}
@@ -336,15 +429,19 @@
 {10021}{}{Baza po unowoczeœnieniu i wyposa¿eniu w zaawansowane}
 {10022}{}{technologicznie urz¹dzenia, s³u¿yæ bêdzie jako tajny}
 {10023}{}{oœrodek badawczy zajmuj¹cy siê rozwojem i testowaniem}
-{10024}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{10025}{}{Baza Wojskowa Sierra}
+{10024}{}{broni cybernetycznej, biologicznej i konwencjonalnej.}
+{10025}{}{**END-PAR**}
 {10026}{}{Sk³ad Wojskowy Sierra}
 {10027}{}{Deklaracja Przeznaczenia 2077}
 {10028}{}{Z powodu niedoboru wykwalifikowanego personelu, Sk³ad}
-{10029}{}{personnel are to be relocated to neighboring}
-{10030}{}{installations or sent to the front line.}
-{10031}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
-{11000}{}{sprawnego kierowania pañstwem.}
+{10029}{}{Wojskowy Sierra bêdzie przerobiony na automatyczn¹}
+{10030}{}{instalacjê obronn¹. Dotychczasowy personel zostanie}
+{10031}{}{rozlokowany w s¹siednich bazach lub wys³any na liniê}
+{10032}{}{frontu.}
+{10033}{}{**END-DISK**}
+
+# Sierra Base GNN Transscript
+{11000}{}{Galaxy News Network}
 {11001}{}{Kopia wiadomoœci z 11 stycznia, 2073}
 {11002}{}{Wiadomoœæ dnia w GNN. Dziêki mistrzowskiemu}
 {11003}{}{posuniêciu, Stany Zjednoczone wesz³y w posiadanie}
@@ -358,7 +455,7 @@
 {11011}{}{Stany Zjednoczone ów wyœcig wygra³y i tym samym}
 {11012}{}{sta³y siê w³aœcicielem ostatniego z³o¿a ropy}
 {11013}{}{naftowej na œwiecie. Oby tak dalej!}
-{11014}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{11014}{}{**END-PAR**}
 {11015}{}{Podczas gdy wieœci o sukcesie odbijaj¹ siê po}
 {11016}{}{œwiecie szerokim echem, rz¹d chiñski zg³asza swój}
 {11017}{}{stanowczy sprzeciw. Prezydent Xin ujawni³,}
@@ -369,17 +466,17 @@
 {11022}{}{Prezydent Xin stwierdzi³, i¿ rz¹d jego kraju jest}
 {11023}{}{w posiadaniu dowodu na udzia³ Stanów Zjednoczonych}
 {11024}{}{w aktach sabota¿u maj¹cych miejsce na platformie}
-{11025}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{11025}{}{wiertniczej. Chiñski przywódca z³o¿y³ tak¿e formalne}
 {11026}{}{¿¹danie utworzenia miêdzynarodowej komisji, która}
 {11027}{}{przeprowadzi³aby œledztwo w tej sprawie.}
 {11028}{}{**END-PAR**}
 {11029}{}{Pozosta³e wiadomoœci. Przez kraj przetacza siê fala}
-{11030}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{11030}{}{zamieszek wywo³anych ostatnimi podwy¿kami cen paliw,}
 {11031}{}{które osi¹gnê³y niespotykany dot¹d poziom.}
 {11032}{}{**END-PAR**}
 {11033}{}{Pogoda. Zimowa aura nas nie rozpieszcza - temperatury}
-{11034}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{11035}{}{sprawnego kierowania pañstwem.}
+{11034}{}{wzd³u¿ wybrze¿a bêd¹ utrzymywaæ siê w okolicach 37°C}
+{11035}{}{- 43°C, temperatura minimalna 32°C. Nie zapomnijcie}
 {11036}{}{ciep³o siê ubraæ!}
 {11037}{}{**END-PAR**}
 {11038}{}{Galaxy News Network}
@@ -389,15 +486,15 @@
 {11042}{}{zrezygnowa³ z dalszych negocjacji na temat}
 {11043}{}{wykorzystania ostatniego z³ó¿a ropy naftowej.}
 {11044}{}{Po gor¹cej debacie, prezydent opuœci³ nagle zebranie}
-{11045}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{11045}{}{i og³osi³, ¿e ostatnia znana rezerwa ropy naftowej}
 {11046}{}{eksploatowana bêdzie wy³¹cznie przez USA, bez}
 {11047}{}{mo¿liwoœci sprzeda¿y paliw do innych krajów, mimo}
 {11048}{}{groŸby na³o¿enia przez ONZ sankcji gospodarczych}
 {11049}{}{na Stany Zjednoczone.}
 {11050}{}{**END-PAR**}
 {11051}{}{Produkcja przemys³owa ca³ego œwiata zostaje}
-{11052}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{11053}{}{sprawnego kierowania pañstwem.}
+{11052}{}{wstrzymana wraz z wyczerpaniem ostatnich rezerw ropy}
+{11053}{}{naftowej. Pozbawieni paliwa nie s¹ jednak}
 {11054}{}{pozostawieni sami sobie, jako ¿e eksport produktów}
 {11055}{}{przemys³owych wzros³ w USA dwudziestokrotnie, mimo}
 {11056}{}{sankcji ONZ. Gospodarka Stanów Zjednoczonych}
@@ -408,7 +505,7 @@
 {11061}{}{Dziœ zapisana zosta³a kolejna karta historii.}
 {11062}{}{Kanada, za poparciem ogó³u swych obywateli,}
 {11063}{}{sta³a siê czêœci¹ Stanów Zjednoczonych Ameryki}
-{11064}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{11064}{}{Pó³nocnej. Prezydent powiedzia³: "Kanada jest krajem}
 {11065}{}{pochodzenia jednych z najlepszych hokeistów na}
 {11066}{}{œwiecie i bêdzie mile widziana jako cz³onek USA."}
 {11067}{}{Jak podaj¹ Ÿród³a, w zamian Kanada otrzyma 10%}
@@ -416,8 +513,8 @@
 {11069}{}{kontrolowanych wy³¹cznie przez rz¹d USA, jak równie¿}
 {11070}{}{50% obni¿kê stawek podatkowych, jako ¿e podlegaæ}
 {11071}{}{bêdzie od tej pory amerykañskiemu prawu podatkowemu.}
-{11072}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{11073}{}{sprawnego kierowania pañstwem.}
+{11072}{}{**END-PAR**}
+{11073}{}{Ze sportu: Œwiêci z Little Rock i Odrzutowce}
 {11074}{}{z Anaheim starli siê dzisiaj w finale Super Bowl}
 {11075}{}{CXII. Walka by³a wyrównana, ale J. Montana IV}
 {11076}{}{w ostatnich sekundach spotkania wykona³ zagrywkê}
@@ -425,8 +522,8 @@
 {11078}{}{boiska, gdzie wykona³ efektowne przy³o¿enie daj¹ce}
 {11079}{}{zwyciêstwo Odrzutowcom z Anaheim. Koñcowy wynik}
 {11080}{}{95 - 90.}
-{11081}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{11082}{}{sprawnego kierowania pañstwem.}
+{11081}{}{**END-PAR**}
+{11082}{}{Galaxy News Network}
 {11083}{}{Kopia wiadomoœci z 15 lutego, 2075}
 {11084}{}{Wykazuj¹c niespotykan¹ jednomyœlnoœæ, Kongres i Izba}
 {11085}{}{Reprezentantów przeg³osowa³y rozpoczêcie procedury}
@@ -434,7 +531,7 @@
 {11087}{}{o przechodzenie ulicy w niedozwolonym miejscu. Obie}
 {11088}{}{izby uzna³y, ¿e prezydent nie mo¿e staæ ponad prawem.}
 {11089}{}{Zaprzeczono równie¿, jakoby istnia³ zwi¹zek miêdzy}
-{11090}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{11090}{}{t¹ spraw¹, a niedawn¹ aneksj¹ Kanady.}
 {11091}{}{**END-PAR**}
 {11092}{}{Galaxy News Network}
 {11093}{}{Kopia wiadomoœci z 30 marca, 2076}
@@ -444,8 +541,8 @@
 {11097}{}{gdzieœ na Oceanie Spokojnym. Powodem tego posuniêcia}
 {11098}{}{maj¹ byæ æwiczenia wojskowe chiñskiej floty, które}
 {11099}{}{"odbywaj¹ siê niebezpiecznie blisko naszych rezerw}
-{11100}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{11101}{}{sprawnego kierowania pañstwem.}
+{11100}{}{strategicznych ropy naftowej." Rz¹d chiñski}
+{11101}{}{zaprzeczy³ jakoby mia³ wobec USA wrogie zamiary.}
 {11102}{}{**END-PAR**}
 {11103}{}{Wyniki ostatnich sonda¿y wskazuj¹, i¿ 54% widzów GNN}
 {11104}{}{uwa¿a, ¿e posunêcie prezydenta pos³u¿yæ mia³o jako}
@@ -456,7 +553,7 @@
 {11109}{}{interesuje siê romansami g³owy pañstwa i wyra¿a}
 {11110}{}{zadowolenie ze sposobu, w jaki prezydent rz¹dzi}
 {11111}{}{krajem. Ca³e 60% stwierdzi³o, ¿e prezydent powinien}
-{11112}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{11112}{}{romansowaæ dalej, jeœli tego potrzebuje do dalszego}
 {11113}{}{sprawnego kierowania pañstwem.}
 {11114}{}{**END-PAR**}
 {11115}{}{Galaxy News Network}
@@ -464,7 +561,25 @@
 {11117}{}{WOJNA! USA znalaz³y siê w stanie wojny po tym, jak}
 {11118}{}{armia chiñska wkroczy³a na Alaskê! Protesty}
 {11119}{}{na arenie miêdzynarodowej nie przynios³y rezultatu,}
-{11120}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{11120}{}{zaœ Rada Bezpieczeñstwa ONZ postanowi³a zignorowaæ}
+{11121}{}{ten jawny akt agresji. Prezydent Stanów}
+{11122}{}{Zjednoczonych wzywa CIÊ, byœ pomóg³ broniæ naszego}
+{11123}{}{kraju przed tymi, którzy pragn¹ jego krzywdy.}
+{11124}{}{iezw³ocznie udaj siê do miejscowego biura}
+{11125}{}{werbunkowego i wst¹p do si³ zbrojnych. Wujek Sam}
+{11126}{}{potrzebuje CIÊ! Dla Sprawiedliwoœci, Wolnoœci}
+{11127}{}{i Jab³ecznika Mamusi.}
+{11128}{}{**END-PAR**}
+{11129}{}{Galaxy News Network}
+{11130}{}{Kopia wiadomoœci z 22 paŸdziernika, 2077}
+{11131}{}{Dziêki walecznej postawie naszych ¿o³nierzy z si³}
+{11132}{}{zbrojnych i nowym, wspomaganym pancerzom bojowym,}
+{11133}{}{armia Stanów Zjednoczonych odpar³a atak chiñskich}
+{11134}{}{najeŸdŸców. Nêkane brakami paliwa wojska wroga}
+{11135}{}{zepchniête zosta³y a¿ do bram swej stolicy, Pekinu.}
+{11136}{}{**END-DISK**}
+
+# Elron Bible
 {12000}{}{Witaj!}
 {12001}{}{Witaj w elektronicznych zasobach Centrologii!}
 {12002}{}{Znajdziesz tutaj krótki opis naszych wierzeñ}
@@ -472,13 +587,13 @@
 {12004}{}{Holodysk, który trzymasz nie przedstawia}
 {12005}{}{ostatecznego s³owa w temacie Centrologii}
 {12006}{}{- potraktuj go raczej jak elementarz, a nas}
-{12007}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12007}{}{jako swoich duchowych opiekunów.}
 {12008}{}{**END-PAR**}
 {12009}{}{MENU G£ÓWNE}
 {12010}{}{Historia}
 {12011}{}{Filozofia}
 {12012}{}{Skorowidz}
-{12013}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12013}{}{Bibliografia}
 {12014}{}{**END-PAR**}
 {12015}{}{HISTORIA}
 {12016}{}{Wspólnotê nasz¹ za³o¿y³ jeszcze przed Wielkim}
@@ -489,12 +604,12 @@
 {12021}{}{nowego... Œwiat potrzebowa³ Centrologii.}
 {12022}{}{Zainspirowany ówczesn¹ muzyk¹ i swymi}
 {12023}{}{doœwiadczeniami z pozaziemskimi przybyszami,}
-{12024}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12024}{}{naucza³ nas o ko³ach na niebie, jak sprawiaæ by}
 {12025}{}{siê roz¿arzy³y i jak poj¹æ Wielki Okr¹g ¯ycia.}
 {12026}{}{**END-PAR**}
 {12027}{}{Nazywamy go Centrum, przez niego poznaliœmy swe}
 {12028}{}{miejsce w Okrêgu - on jest nasz¹ piast¹, a my jego}
-{12029}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12029}{}{szprychami. Obracamy siê wokó³ jego nauk.}
 {12030}{}{**END-PAR**}
 {12031}{}{Publikuj¹c niezliczone iloœci ksi¹¿ek}
 {12032}{}{i dzienników, Centrum g³osi³ s³owo Centrologii}
@@ -506,7 +621,7 @@
 {12038}{}{maj¹cych miejsce na ca³ym globie, wrogowie}
 {12039}{}{obstawali przy krytyce s³ów Centrum. Wiemy,}
 {12040}{}{¿e byli zwyk³ymi g³upcami ma³ej wiary, ale}
-{12041}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12041}{}{wielkiej w³adzy. W ich szeregach stali cz³onkowie}
 {12042}{}{rz¹dów, ponadnarodowych korporacji i innych}
 {12043}{}{organizacji, ukrywaj¹cy najwspanialsz¹ wiadomoœæ}
 {12044}{}{wszechczasów przed mieszkañcami Ziemi.}
@@ -515,13 +630,13 @@
 {12047}{}{gotuj¹c swe si³y przeciwko tym, którzy zazdroœcili}
 {12048}{}{jej prostoty i przydatnoœci dla zwyk³ych ludzi.}
 {12049}{}{Kiedy w koñcu ówczeœni Centrologowie przyst¹pili}
-{12050}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12050}{}{do kontrataku, ma³o kto potrafi³ im siê}
 {12051}{}{przeciwstawiæ - zinfiltrowali organizacje,}
 {12052}{}{które stara³y siê ich zniszczyæ, stworzyli}
 {12053}{}{programy "telewizyjne", maj¹ce na celu obna¿anie}
 {12054}{}{k³amstw, kórymi rz¹d ca³ymi latami karmi³ lud.}
 {12055}{}{**END-PAR**}
-{12056}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12056}{}{Wywo³a³o to chwilow¹ reakcjê negatywn¹. Przeciêtny}
 {12057}{}{cz³owiek w¹tpi³ w Centrologiê z powodu wypaczonych}
 {12058}{}{informacji pojawiaj¹cych siê w mediach. Czeka³a}
 {12059}{}{nas jeszcze d³uga walka z tymi, którzy nazywali}
@@ -536,7 +651,7 @@
 {12068}{}{i¿ prawdziw¹ by³a droga, któr¹ kroczyliœmy.}
 {12069}{}{Wzd³u¿ niej pojawiali siê nowi wyznawcy, wielu}
 {12070}{}{których zwyczajnie pragnê³o zaznaæ wiary,}
-{12071}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12071}{}{i¿ gdzieœ tam jest miejsce lepsze od tego œwiata.}
 {12072}{}{Zaoferowaliœmy im dowód na istnienie ¿ycia}
 {12073}{}{na innych planetach i filozofiê, która pozwala}
 {12074}{}{na zrozumienie Wszechœwiata. Ludzie garnêli siê}
@@ -547,7 +662,7 @@
 {12079}{}{**END-PAR**}
 {12080}{}{FILOZOFIA}
 {12081}{}{Centrologia sk³ada siê z prostych regu³,}
-{12082}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12082}{}{stworzonych przez najwybitniejsze religijne}
 {12083}{}{i filozoficzne umys³y przedpotopowej Ziemi}
 {12084}{}{- wierzymy, ¿e ¿ycie, wszechœwiat i wszystko inne}
 {12085}{}{najlepiej symbolizuje obracaj¹cy siê okr¹g.}
@@ -556,7 +671,7 @@
 {12088}{}{Nazywamy ich "wieñcem rozpaczy", jako ¿e Okr¹g}
 {12089}{}{z ka¿dym obrotem mia¿d¿y ich puste jestestwa.}
 {12090}{}{**END-PAR**}
-{12091}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12091}{}{Wyznawcy Centrologii s¹ Szprychami Ko³a.}
 {12092}{}{Rozumiemy co wprawia Okr¹g w ruch i robimy}
 {12093}{}{wszystko, ¿eby ten ruch utrzymaæ. Ci, którzy}
 {12094}{}{panuj¹ nad czêœci¹ okrêgu nazywani s¹ Piastami}
@@ -568,12 +683,12 @@
 {12100}{}{**END-PAR**}
 {12101}{}{Praktykuj¹c nasz¹ religiê, stosujemy naukowe metody}
 {12102}{}{stworzone przez Centrum i ulepszone przez jego}
-{12103}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12103}{}{spadkobierców, których celem jest uszeregowanie}
 {12104}{}{wadliwych neurodyn, które tworz¹ dysharmoniê}
 {12105}{}{i asymetriê ko³a. Pozwala nam to na oczyszczenie}
 {12106}{}{naszych wnêtrz i przygotowanie siê do samokontroli.}
 {12107}{}{Tylko poprzez proces samokontroli jesteœmy w stanie}
-{12108}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12108}{}{osi¹gn¹æ cel i tylko samokontrola pozwala nam}
 {12109}{}{zrozumieæ nasze miejsce w kosmosie i na Wielkim}
 {12110}{}{Okrêgu. Jedynie w samokontroli odnajdujemy drogê}
 {12111}{}{do stania siê godnymi wejœcia na pok³ad ognistych}
@@ -586,7 +701,7 @@
 {12118}{}{wkrótce bêdziesz tak na to patrzy³!}
 {12119}{}{**END-PAR**}
 {12120}{}{Oto nasza historia stworzenia:}
-{12121}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12121}{}{Przed wiekami wszyscy ¿yli w pokoju i wzajemnej}
 {12122}{}{harmonii. Cia³o, umys³ i duch by³y jednoœci¹ we}
 {12123}{}{wszystkich stworzeniach, a istniej¹ce technologie}
 {12124}{}{przekracza³y wszelkie wyobra¿enia. By³ to czas}
@@ -595,11 +710,11 @@
 {12127}{}{nauki o rozszczepieniu cia³a i umys³u i od³¹czeniu}
 {12128}{}{ducha. Wybuch³a Wielka Wojna, która zniszczy³a dusze}
 {12129}{}{i cia³a, rozsiewaj¹c ich szcz¹tki po ca³ym}
-{12130}{}{Okrêgu.}
+{12130}{}{wszechœwiecie. Wielki Okr¹g by³ bliski oddzielenia}
 {12131}{}{od osi istnienia, a jego szprychy po³ama³y siê}
 {12132}{}{na koleinach, które stworzy³ Thrakazog.}
 {12133}{}{Musia³o powstaæ nowe ¿ycie.}
-{12134}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12134}{}{**END-PAR**}
 {12135}{}{I tak siê sta³o, na planecie Terra, jak i na innych}
 {12136}{}{planetach we wszechœwiecie. (Skupiamy siê g³ównie}
 {12137}{}{na ¿yciu, które powsta³o na Terrze, gdy¿ mimo,}
@@ -607,14 +722,15 @@
 {12139}{}{szprychy wraz ze swymi gwiezdnymi braæmi, musimy}
 {12140}{}{najpierw skoncentrowaæ siê na uczynieniu z nas}
 {12141}{}{samych sprawnych szprych.) Nowe ¿ycie ska¿one}
+{12142}{}{by³o umar³ymi skrawkami dusz. Prowadzi³o to do}
 {12142}{}{nienawiœci i nieporozumieñ, a przez Terrê}
-{12143}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12143}{}{przetacza³y siê kolejne wojny. Wreszcie przyszed³}
 {12144}{}{dzieñ, w którym pewien wizjoner uœwiadomi³ sobie,}
 {12145}{}{¿e jedyn¹ drog¹ do pokoju, porozumienia}
 {12146}{}{i oœwiecenia by³o oczyszczenie ludzkich dusz}
 {12147}{}{z umar³ych skrawków. Tym wizjonerem by³ Centrum.}
 {12148}{}{Proces oczyszczania trwa do dziœ.}
-{12149}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12149}{}{**END-PAR**}
 {12150}{}{SKOROWIDZ}
 {12151}{}{UKC/Uszeregowany Kandydat Centrum: Poziomy}
 {12152}{}{oœwiecenia mierzone s¹ stopniem oczyszczenia}
@@ -622,7 +738,7 @@
 {12154}{}{energii twojej tkanki i zamiany jej w pozytywn¹}
 {12155}{}{energiê psychiczn¹. Gdy osi¹gniesz odpowiedni}
 {12156}{}{poziom zetañskiej energii, mo¿esz udaæ siê w podró¿}
-{12157}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12157}{}{na Quetzel, lub mo¿esz czekaæ w nadziei, ¿e}
 {12158}{}{Podniesienie odbêdzie siê jeszcze za twego ¿ycia.}
 {12159}{}{**END-PAR**}
 {12160}{}{Uszeregowanie: Gdy neurodyny pozostaj¹}
@@ -630,33 +746,34 @@
 {12162}{}{kandydata, poddajemy je "uszeregowaniu" -}
 {12163}{}{na uniwersalnym Okrêgu przeprowadzaj¹c Skan Zeta}
 {12164}{}{uszkodzonej neurodyny i usuwaj¹c zanieczyszczenia.}
-{12165}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12165}{}{Zbyt czêste i zbyt szybkie uszeregowanie jest}
 {12166}{}{szkodliwe dla ducha.}
 {12167}{}{**END-PAR**}
 {12168}{}{Oœwiecenie: Oœwiecenie jest stanem nastêpuj¹cym}
 {12169}{}{po UKC-9 - gdy kandydat zdoby³ ju¿ na tyle du¿¹}
-{12170}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12170}{}{wiedzê, ¿e staje siê integraln¹ czêœci¹ Wielkiego}
 {12171}{}{Okrêgu i mo¿e zakoñczyæ sw¹ ziemsk¹ egzystencjê.}
+{12172}{}{Niektórzy z oœwieconych pozostaj¹ na Terrze,}
 {12172}{}{by doprowadziæ resztê z nas do stanu ³aski}
 {12173}{}{i udzielaæ wskazówek jak pokierowaæ ko³em w³asnego}
 {12174}{}{losu.}
 {12175}{}{**END-PAR**}
 {12176}{}{Wielki Okr¹g: okreœlenie to odnosi siê do}
 {12177}{}{cyklicznej natury wszechœwiata, czasu}
-{12178}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12178}{}{i przestrzeni. Wszystko jest czêœci¹ Wielkiego}
 {12179}{}{Okrêgu. S¹ tacy, którzy potrafi¹ sterowaæ Okrêgiem}
 {12180}{}{- lub po prostu rozumiej¹ w jakim kierunku siê on}
 {12181}{}{porusza - my nazywamy ich bogami, prorokami}
 {12182}{}{i wizjonerami. Ci, którzy opanowali sztukê}
-{12183}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12183}{}{kierowania Wielkim Okrêgiem s¹ prawdziwie}
 {12184}{}{oœwieceni.}
 {12185}{}{**END-PAR**}
-{12186}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12186}{}{Neurodyny: Neurodyny s¹ stanami ducha. Staro¿ytne}
 {12187}{}{religie nazywa³y je "shakrami". Mog¹ zostaæ}
 {12188}{}{zanieczyszczone umar³ymi skrawkami dusz i negatywn¹}
 {12189}{}{energi¹ emanuj¹c¹ z drêczycieli.}
 {12190}{}{**END-PAR**}
-{12191}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12191}{}{Drêczyciele: Osobnicy tak pe³ni negatywnej energii}
 {12192}{}{i ska¿onych skrawków dusz, ¿e potrafi¹ wywrzeæ swój}
 {12193}{}{z³y wp³yw na szukaj¹cych oœwiecenia sam¹ swoj¹}
 {12194}{}{obecnoœci¹. Nale¿y ich unikaæ - wielu z nich jest}
@@ -664,7 +781,7 @@
 {12196}{}{p³yn¹cej z dobrego oczyszczenia i staraj¹ siê}
 {12197}{}{zmieniæ kurs Wielkiego Okrêgu.}
 {12198}{}{**END-PAR**}
-{12199}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12199}{}{Quetzel: Planeta, na któr¹ zabierze nas Gwiezdny}
 {12200}{}{Ojciec, gdy staniemy siê Zoptymalizowani, spotkamy}
 {12201}{}{na niej swych gwieŸdzistych braci i do³¹czymy do}
 {12202}{}{nich w niebiañskiej wêdrówce ognistych tarcz.}
@@ -674,7 +791,7 @@
 {12206}{}{i oczyszczenia neurodyn.}
 {12207}{}{**END-PAR**}
 {12208}{}{Gwiezdny Ojciec: Niektórzy nazwaliby go "bogiem".}
-{12209}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{12209}{}{My wolimy o nim myœleæ jako o uniwersalnej sile,}
 {12210}{}{z której pobieramy swoj¹ energiê i której tê}
 {12211}{}{energiê oddajemy w cyklicznym zwi¹zku.}
 {12212}{}{**END-PAR**}
@@ -683,9 +800,32 @@
 {12215}{}{pozaziemskich braci i zbli¿ymy siê do œrodka}
 {12216}{}{Wielkiego Okrêgu. Ci, którzy podjêli próbê}
 {12217}{}{zrozumienia s³ów Centrum, obojêtnie jaki by³by}
-{12218}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{12218}{}{ich poziom UKC, zostan¹ zaproszeni do po³¹czenia}
+{12219}{}{siê z Gwiezdny Ojcem w niebiosach planety Quetzel.}
+{12220}{}{**END-PAR**}
+{12221}{}{Skan Zeta: Inne okreœlenie na "uszeregowanie",}
+{12222}{}{Skan Zeta pomaga w oczyszczeniu neurodyn i ducha.}
+{12223}{}{W procesie tym bierze udzia³ urz¹dzenie, które}
+{12224}{}{przepuszcza wielkie dawki elektrycznoœci przez}
+{12225}{}{skórê - napiêcie elektryczne jest dok³adnie}
+{12226}{}{obliczone, co do wolta, do wartoœci potrzebnej}
+{12227}{}{do usuniêcia negatywnej energii z neurodyny.}
+{12228}{}{Gdy poddajesz siê Skanowi Zeta, œcie¿ka twego}
+{12229}{}{¿ycia staje siê bardziej zgodna z ruchem Wielkiego}
+{12130}{}{Okrêgu.}
+{12231}{}{**END-PAR**}
+{12232}{}{BIBLIOGRAFIA}
+{12233}{}{Ksi¹¿ki Centrum}
+{12234}{}{(Wymienione s¹ tutaj setki tytu³ów, miêdzy innymi:}
+{12235}{}{Naukowa Duchowoœæ, Pole bitewne Quetzel,}
+{12236}{}{A Ponad Nami Gwiezdny Ojciec, Zebrane Listy}
+{12237}{}{Zakupów, Notatki i Przemyœlenia, Jak Skutecznie}
+{12238}{}{Pozwaæ Wroga, Jak Stworzyæ Kult, Ksi¹¿ki Które}
+{12239}{}{Napiszê Po Œmierci.)}
+{12240}{}{**END-DISK**}
+
 {13000}{}{ZAPISKI PROJEKTANTÓW KRYPTOPOLIS}
-{13001}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{13001}{}{**END-PAR**}
 {13002}{}{Kryptopolis ma wielu ojców. Zosta³o zaprojektowane}
 {13003}{}{przez Leonarda Boyarskiego, Jasona Andersona,}
 {13004}{}{Feargusa Urquharta i Chrisa Avellone. Scott Everts}
@@ -693,17 +833,17 @@
 {13006}{}{skrypty do tego architektonicznego Frankensteina}
 {13007}{}{byli Rob Hertenstein III i Dan Spitzley. W koñcu,}
 {13008}{}{Eric Pribish prawie odda³ ¿ycie testuj¹c tê}
-{13009}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{13009}{}{potwornoœæ, jak¹ jest Kryptopolis.}
 {13010}{}{**END-PAR**}
 {13011}{}{Chris chcia³by podziêkowaæ ni¿ej wymienionym}
 {13012}{}{osobom, które pomaga³y w trakcie produkcji gry}
 {13013}{}{Fallout 2: Rob, Scotty, i Dan (oczywiœcie), Eileen}
 {13014}{}{Suh, Sarah Smart, Emily Yance, Thuy Dang (któremu}
-{13015}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{13015}{}{nigdy za nic nie dziêkujê), Chris Wright}
 {13016}{}{i Tim Winkle.}
 {13017}{}{**END-PAR**}
 {13018}{}{Scotty chcia³by podziêkowaæ ni¿ej wymienionym}
-{13019}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{13019}{}{osobom: Don & Aileen Everts i Avis Andre. I dziêki}
 {13020}{}{dla Billa Bridgesa za te wszystkie œwietne ksi¹¿ki}
 {13021}{}{z serii Fading Suns!}
 {13022}{}{**END-PAR**}
@@ -713,14 +853,14 @@
 {13026}{}{eksplozje), Chong's z Triangle Square (za}
 {13027}{}{dokarmianie), Carlos Kotkin (za to, ¿e wreszcie}
 {13028}{}{rzuci³ siê na g³êbokie wody (lada dzieñ zobaczycie}
-{13029}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{13029}{}{premierê jego pierwszego filmu)), Jon Land (za}
 {13030}{}{œrednio zabawne opowiadania Blaine McCrackena),}
 {13031}{}{Red Dwarf (za kupê œmiechu) i w koñcu, jak zawsze,}
 {13032}{}{dziêkujê Mamie i Tacie za to, ¿e s¹ fajni.}
 {13033}{}{**END-PAR**}
 {13034}{}{Rob Hertenstein chcia³by podziêkowaæ ni¿ej}
 {13035}{}{wymienionym osobom: Becky Warner (ci¹gle pilnuje,}
-{13036}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{13036}{}{¿ebym nie wpad³ w tarapaty), Billie Ryder (za}
 {13037}{}{utrzymanie mojej higieny psychicznej podczas}
 {13038}{}{tworzenia tego projektu), Little Ryder (która ma}
 {13039}{}{pojawiæ siê jednoczeœnie z t¹ gr¹) i Nicole Roman}
@@ -730,17 +870,25 @@
 {13043}{}{osobom: Tommy Hood, Jr., Joe Isip i Julio Mata (za}
 {13044}{}{to, ¿e siê mnie nie wyrzekli). Dziêkujê moim starym}
 {13045}{}{przyjacio³om Bradowi i Dave'owi Carnes za to, ¿e}
-{13046}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{13046}{}{utrzymywali kontakt przez te wszystkie lata.}
 {13047}{}{Chcia³bym tak¿e z³o¿yæ najwa¿niejsze podziêkowania}
 {13048}{}{mojej kochaj¹cej dziewczynie - Rhondzie Lauffer}
 {13049}{}{za zrozumienie podczas tych d³ugich nocy}
 {13050}{}{i weekendów, gdy praca trzyma³a mnie z dala od domu}
-{13051}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{13051}{}{i za to, ¿e zawsze czeka³a na mnie, gdy wreszcie}
 {13052}{}{wraca³em.}
 {13053}{}{**END-PAR**}
-{13054}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{13054}{}{W ramach nagrody za pokonanie Enklawy, Chris,}
+{13055}{}{Scotty, Rob, Dan i Eric chcieliby podzieliæ siê}
+{13056}{}{pewn¹ rad¹ - podejdŸ do terminala komputerowego}
+{13057}{}{w górnym, lewym k¹cie tego poziomu i u¿yj go.}
+{13058}{}{**END-PAR**}
+{13059}{}{Gratulujemy ocalenia œwiata. I dziêki jeszcze raz}
+{13060}{}{za granie w Fallout 2.}
+{13061}{}{**END-DISK**}
+
 {14000}{}{PRZEWODNIK PODRÓ¯NY Z KRYPTOPOLIS - PN KALIFORNIA}
-{14001}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{14001}{}{**END-PAR**}
 {14002}{}{UWAGA: Jeœli Obywatele miasta uwa¿aj¹ za konieczne}
 {14003}{}{udanie siê w podró¿, powinni zaopatrzyæ siê w ni¿ej}
 {14004}{}{wymienione przedmioty:}
@@ -748,48 +896,48 @@
 {14006}{}{1. Zapas racji ¿ywnoœciowych wyprodukowanych}
 {14007}{}{w Kryptopolis. Nigdy nie spo¿ywaj ¿ywnoœci oferowanej}
 {14008}{}{przez obcych, gdy¿ grozi to przedostaniem siê bakterii}
-{14009}{}{lub otarcie grozi przedostaniem siê szkodliwych}
+{14009}{}{lub cz¹steczek radioaktywnych do twego ustroju!}
 {14010}{}{}
 {14011}{}{2. Licznik Geigera. Zawsze pamiêtaj o monitorowaniu}
 {14012}{}{poziomu radiacji otoczenia, gdziekolwiek bêdziesz}
-{14013}{}{}
-{14014}{}{3. At least two stim-packs at all times. The slightest}
+{14013}{}{podró¿owa³!}
+{14014}{}{}
 {14015}{}{3. Co najmniej dwa stimpaki. Najmniejsza rana lub}
 {14016}{}{lub otarcie grozi przedostaniem siê szkodliwych}
-{14017}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{14017}{}{drobnoustrojów do krwiobiegu!}
 {14018}{}{**END-PAR**}
 {14019}{}{REDDING: Ma³a miejscowoœæ górnicza na zachód od}
 {14020}{}{Kryptopolis. Redding handluje rud¹ z³ota w zamian za}
 {14021}{}{medykamenty z Kryptopolis. Obywatele naszego miasta}
 {14022}{}{powinni zachowaæ daleko id¹c¹ ostro¿noœæ podró¿uj¹c}
 {14023}{}{do Redding, jako ¿e lokalna spo³ecznoœæ nie posiada}
-{14024}{}{}
-{14025}{}{POPULATION: A census is unavailable, but Redding is}
+{14024}{}{stosownego aparatu policyjnego.}
+{14025}{}{}
 {14026}{}{LUDNOŒÆ: Dok³adne dane niedostêpne. Liczba mieszkañców}
 {14027}{}{waha siê w okolicach kilkuset.}
-{14028}{}{spo³ecznoœci jest MUTANT. Wydaje siê to nadzwyczaj}
-{14029}{}{obywateli.}
+{14028}{}{W£ADZE: Burmistrz i rada miejska.}
+{14029}{}{POZIOM PROMIENIOWANIA T£A: Wskazania niedostêpne.}
 {14030}{}{ }
-{14031}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{14031}{}{TEMPO MUTACJI: Nieznane, przypuszczalnie niskie.}
 {14032}{}{**END-PAR**}
 {14033}{}{NOWE RENO: Miasto le¿¹ce na pd-zachód od Kryptopolis.}
 {14034}{}{Handluje rud¹ z³ota w zamian za medykamenty. Reno}
 {14035}{}{nie odnios³o zbyt wielu zniszczeñ podczas wojny (choæ}
 {14036}{}{rabunek mienia i zamieszki zebra³y swoje ¿niwo), dlatego}
 {14037}{}{wiele ulic i budynków nadal stoi na swoim miejscu.}
-{14038}{}{enforcement. Gambling, prostitution, and drug use}
+{14038}{}{Uwaga! Brak centralnej w³adzy i aparatu policyjnego.}
 {14039}{}{Szerz¹ siê hazard, prostytucja. Wszechobecne s¹}
 {14040}{}{narkotyki. Obywatelom Kryptopolis ZDECYDOWANIE odradza}
-{14041}{}{}
-{14042}{}{POPULATION: No current census, but believed to be}
+{14041}{}{siê sk³adanie wizyt w Nowym Reno!}
+{14042}{}{}
 {14043}{}{LUDNOŒÆ: Dok³adne dane niedostêpne. Liczba}
 {14044}{}{"mieszkañców" waha siê w okolicach kilku tysiêcy.}
 {14045}{}{W£ADZE: Nowe Reno w chwili obecnej znajduje siê w stanie}
 {14046}{}{bliskim anarchii. Meldunki mówi¹ o kilku przestêpczych}
-{14047}{}{spo³ecznoœci jest MUTANT. Wydaje siê to nadzwyczaj}
-{14048}{}{obywateli.}
-{14049}{}{ }
-{14050}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{14047}{}{"rodzinach", które dokona³y miêdzy sob¹ podzia³u miasta.}
+{14048}{}{POZIOM PROMIENIOWANIA T£A: Wskazania niedostêpne.}
+{14049}{}{}
+{14050}{}{TEMPO MUTACJI: Nieznane, przypuszczalnie niskie.}
 {14051}{}{**END-PAR**}
 {14052}{}{REPUBLIKA NOWEJ KALIFORNII: Terytoria RNK le¿¹ daleko}
 {14053}{}{na po³udnie od Kryptopolis. Handel obejmuje sprzêt}
@@ -797,16 +945,16 @@
 {14055}{}{za technologie medyczne pochodz¹ce z Kryptopolis.}
 {14056}{}{RNK nasili³a ostatnimi czasy próby wch³oniêcia naszego}
 {14057}{}{miasta jako terytorium pogranicza, dlatego naszym}
-{14058}{}{}
+{14058}{}{Obywatelom doradza siê zachowanie du¿ej ostro¿noœci}
 {14059}{}{podczas podró¿y do RNK.}
-{14060}{}{not have access to the figures. NCR is believed to have}
+{14060}{}{}
 {14061}{}{LUDNOŒÆ: Mimo przeprowadzenia spisu ludnoœci, nie mamy}
 {14062}{}{dostêpu do uzyskanych danych. RNK przypuszczalnie}
-{14063}{}{spo³ecznoœci jest MUTANT. Wydaje siê to nadzwyczaj}
+{14063}{}{zaludniona jest przez wiele dziesi¹tków tysiêcy}
 {14064}{}{obywateli.}
 {14065}{}{W£ADZE: Prezydent i Kongres.}
-{14066}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{14067}{}{BROKEN HILLS: A mining community to the south of Vault}
+{14066}{}{POZIOM PROMIENIOWANIA T£A: Wskazania niedostêpne.}
+{14067}{}{}
 {14068}{}{TEMPO MUTACJI: Uzale¿nione od terytorium.}
 {14069}{}{**END-PAR**}
 {14070}{}{BROKEN HILLS: Spo³ecznoœæ górnicza na po³udnie od}
@@ -814,11 +962,11 @@
 {14072}{}{uranu, która jest nastêpnie sprzedawana do Kryptopolis,}
 {14073}{}{w zamian za medykamenty, g³ównie Rad-X i AntyRad.}
 {14074}{}{Przypuszcza siê, ¿e tutejsi ludzie zmuszeni s¹ do}
-{14075}{}{}
+{14075}{}{koegzystencji z mutantami i ghulami. W zwi¹zku ze}
 {14076}{}{specyficzn¹ natur¹ mieszkañców i wysokim zagro¿eniem}
 {14077}{}{ska¿eniem, Obywatele Kryptopolis powinni unikaæ Broken}
 {14078}{}{Hills za wszelk¹ cenê!}
-{14079}{}{Citizen of this community. This is extremely unlikely,}
+{14079}{}{}
 {14080}{}{LUDNOŒÆ: Dok³adne dane niedostêpne. Przypuszczalna}
 {14081}{}{liczba mieszkañców waha siê w granicach kilkuset.}
 {14082}{}{W£ADZE: Plotka g³osi, ¿e Pierwszym Obywatelem}
@@ -826,7 +974,7 @@
 {14084}{}{nieprawdopodobne, jako ¿e wiêkszoœæ mutantów niezdolna}
 {14085}{}{jest do œcis³ego rozumowania. Jeœli jednak plotka ta}
 {14086}{}{JEST prawdziwa, daje to kolejny powód do skrupulatnego}
-{14087}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{14087}{}{unikania Broken Hills.}
 {14088}{}{POZIOM PROMIENIOWANIA T£A: Wskazania niedostêpne.}
 {14089}{}{Przypuszczalnie wysoki.}
 {14090}{}{TEMPO MUTACJI: Przypuszczalnie wysokie. W Broken Hills}
@@ -835,17 +983,24 @@
 {14093}{}{**END-PAR**}
 {14094}{}{KRYPTOPOLIS: Kraina Szczêœliwoœci, wolna od zbrodni}
 {14095}{}{i innych defektów socjologicznych, nêkaj¹cych inne}
-{14096}{}{}
+{14096}{}{spo³ecznoœci Pó³nocnej Kalifornii. Istnieje jako}
 {14097}{}{niezale¿na kolonia od czasu swego powstania z Krypty 8}
 {14098}{}{i prosperuje jako centrum eksportu technologii}
 {14099}{}{medycznych do Zewnêtrznych regionów Pó³nocnej}
 {14100}{}{Kalifornii. Wszystkich Obywateli zachêca siê do}
 {14101}{}{pozostania w Kryptopolis, jeœli jest to tylko mo¿liwe.}
-{14102}{}{MUTATION RATE: Files have been deleted, missing the}
+{14102}{}{}
 {14103}{}{LUDNOŒÆ: Stan obecny - 103 Obywateli.}
-{14104}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{14104}{}{W£ADZE: Pierwszy Obywatel i Rada.}
+{14105}{}{POZIOM PROMIENIOWANIA T£A: Pliki skasowane,}
+{14106}{}{brak nastêpuj¹cych ci¹gów: [-$Gecko-/-$WodyGruntowe}
+{14107}{}{Ska¿enie-]}
+{14108}{}{TEMPO MUTACJI: Pliki skasowane, brak nastêpuj¹cych}
+{14109}{}{ci¹gów: [-$PrzyrostNaturalny %-]}
+{14110}{}{**END-DISK**}
+
 {15000}{}{HOLODYSK INFORMACYJNY REPUBLIKI NOWEJ KALIFORNII NR 5}
-{15001}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{15001}{}{**END-PAR**}
 {15002}{}{Holodysk ten wydaje siê zawieraæ meldunki o RNK:}
 {15003}{}{³¹czny poziom miesiêcznej produkcji, harmonogram}
 {15004}{}{karawan, grafik s³u¿b ochrony, protoko³y przes³uchañ}
@@ -855,22 +1010,23 @@
 {15008}{}{Tandi. Nie ma tu za to nic o Krypcie 13 albo}
 {15009}{}{o GECKu. Wszystkie meldunki zaadresowane s¹}
 {15010}{}{do Darion i podpisane przez "F-".}
-{15011}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{15011}{}{**END-DISK**}
+
 {16000}{}{HOLODYSK INFORMACYJNY REPUBLIKI NOWEJ KALIFORNII NR 1}
-{16001}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16001}{}{**END-PAR**}
 {16002}{}{Jesteœmy tu! Do³¹cz do nas!}
-{16003}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16003}{}{**END-PAR**}
 {16004}{}{Przed nami le¿y cudowna przysz³oœæ - mo¿esz mieæ}
 {16005}{}{w niej swój udzia³, wraz z Republik¹ Nowej Kalifornii!}
-{16006}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16006}{}{**END-PAR**}
 {16007}{}{Chcesz wiedzieæ wiêcej?}
-{16008}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16008}{}{**END-PAR**}
 {16009}{}{JAK DU¯A JEST RNK?}
 {16010}{}{Za³o¿ona 80 lat temu, RNK sk³ada siê obecnie ze}
 {16011}{}{spo³ecznoœci Cienistych, Los Angeles, Maxson, Centrum}
 {16012}{}{i Brzasku Dnia. W przybli¿êniu 700 000 obywateli}
 {16013}{}{ma zaszczyt nazywaæ RNK domem.}
-{16014}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16014}{}{**END-PAR**}
 {16015}{}{CO OFERUJE I CZEGO BRONI RNK?}
 {16016}{}{Republika Nowej Kalifornii oddana jest sprawie pokoju,}
 {16017}{}{bezpieczeñstwa i sprawiedliwoœci i broni tych wartoœci}
@@ -883,7 +1039,7 @@
 {16024}{}{dostêp do s¹dów i prawo do g³osowania na}
 {16025}{}{przedstawicieli spo³ecznych, którzy zasiadaj¹}
 {16026}{}{w gmachu Kongresu.}
-{16027}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16027}{}{Mówi¹c s³owami prezydent Tandi,}
 {16028}{}{"Bezpieczny naród, to silny naród."}
 {16029}{}{**END-PAR**}
 {16030}{}{KTO TU RZ¥DZI?}
@@ -896,7 +1052,7 @@
 {16037}{}{którzy przewodz¹ zgromadzeniu, z rad którego}
 {16038}{}{korzystaj¹ przy podejmowaniu decyzji. Do tej pory,}
 {16039}{}{przez 10 kadencji do pe³nienia roli g³owy narodu}
-{16040}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16040}{}{jednog³oœnie wybierano prezydent Tandi, której}
 {16041}{}{m¹droœæ i umiejêtnoœæ przewidywania zawsze}
 {16042}{}{budzi³y g³êboki respekt.}
 {16043}{}{**END-PAR**}
@@ -905,12 +1061,12 @@
 {16046}{}{ludzie czy mutanci, mog¹ staæ siê pe³noprawnymi}
 {16047}{}{obywatelami RNK. Wszystko, co musisz zrobiæ, to}
 {16048}{}{przeprowadziæ siê tutaj i przedstawiæ zg³oszenie}
-{16049}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16049}{}{imigracyjne. Po przejœciu szkolenia obywatelskiego}
 {16050}{}{i rozpatrzeniu podania, poinformowany zostaniesz}
 {16051}{}{o przyznaniu statusu tymczasowego obywatela. Teraz}
 {16052}{}{od pe³nego obywatelstwa dzieliæ ciê bêdzie tylko}
-{16053}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
-{16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
+{16053}{}{krok!}
+{16054}{}{**END-PAR**}
 {16055}{}{Oczywiœcie, RNK nie jest dla ka¿dego. £owcy}
 {16056}{}{niewolników, niezreformowani mutanci, znani bandyci}
 {16057}{}{i inny niepo¿¹dany element nie ma szans!}
@@ -920,83 +1076,96 @@
 {16061}{}{wiosek, miast, baz, pañstw-miast, a nawet niewielkich}
 {16062}{}{królestw. Wraz z pozytywnym rozpatrzeniem wniosku,}
 {16063}{}{RNK przyzna twemu miastu status terytorialny.}
-{16064}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16064}{}{Po ustanowieniu koniecznej obecnoœci si³ policyjnych}
 {16065}{}{i wojskowych, i po rozprawieniu siê z lokalnymi}
-{16066}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16066}{}{grupami przestêpczymi, twoja wioska mo¿e staraæ siê}
 {16067}{}{o pe³ne cz³onkostwo w RNK. Proste, prawda?}
-{16068}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{16068}{}{**END-PAR**}
 {16069}{}{Zatem pamiêtaj - JESTEŒMY TU! DO£¥CZ DO NAS!}
 {16070}{}{**END-PAR**}
-{16071}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{16071}{}{Przygotowane przez Komitet Doradczy Relacji}
+{16072}{}{Spo³ecznych Nowej Kalifornii}
+{16073}{}{**END-PAR**}
+{16074}{}{RNKAP Pub. #A7-7893b}
+{16075}{}{Ta strona jest umyœlnie pozostawiona pusta.}
+{16076}{}{**END-DISK**}
+
 {17000}{}{Pierwszy Obywatel Lynette}
-{17001}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{17001}{}{**END-PAR**}
 {17002}{}{Kurier dostarczy³ wys³any przez ciebie dysk.}
 {17003}{}{Oczywiœcie mia³aœ racjê. Ta informacja powinna}
 {17004}{}{okazaæ siê nadzwyczaj u¿yteczna na nastêpnym}
 {17005}{}{posiedzeniu rady. Z tym co mi przes³a³aœ bêde}
 {17006}{}{w stanie utrudniæ, a nawet udaremniæ dalsze próby}
-{17007}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{17007}{}{nawi¹zania przymierza pomiêdzy RNK, a Nowym Reno.}
 {17008}{}{**END-PAR**}
 {17009}{}{Mogê ciê zapewniæ, ¿e jeœli wszystko pójdzie}
 {17010}{}{po mojej myœli, nie bêdzie ¿adnych nowych prowokacji}
 {17011}{}{ze strony RNK, ani mieszania siê w interesy}
 {17012}{}{Kryptopolis. Respektujê wasz¹ suwerennoœæ}
 {17013}{}{i nie zgadzam siê z intrygantami, którzy staraj¹ siê}
-{17014}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{17014}{}{odebraæ wolnoœæ naszym niewinnym s¹siadom.}
 {17015}{}{**END-PAR**}
 {17016}{}{Twój przyjaciel i sojusznik,}
-{17017}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{17017}{}{Roger Westin}
+{17018}{}{**END-DISK**}
+
+# State of the Nation
 {18000}{}{Nota: Orêdzie do Narodu}
 {18001}{}{Od: Prezydent Dick Richardson}
 {18002}{}{Do: Obywatele tego Wspania³ego Narodu}
 {18003}{}{Temat: Zjednoczenie Pañstwa}
-{18004}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{18004}{}{**END-PAR**}
 {18005}{}{Bracia rodacy, mam ten szczególny zaszczyt bycia}
 {18006}{}{przywódc¹, który poprowadzi naród amerykañski}
 {18007}{}{z powrotem na sta³y l¹d, aby przywróciæ Amerykê jej}
 {18008}{}{w³asnym obywatelom. Po ponad stu latach bêdziemy}
 {18009}{}{pierwszym pokoleniem wolnym od groŸby ataku mutantów.}
-{18010}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{18010}{}{**END-PAR**}
 {18011}{}{Przysz³o nam d³ugo czekaæ na tê chwilê, a praca,}
 {18012}{}{która nas do niej doprowadzi³a by³a trudna i mozolna.}
 {18013}{}{Momentami wydawa³o siê, ¿e przyjdzie nam prze³kn¹æ}
 {18014}{}{gorycz pora¿ki, jednak niestrudzone wysi³ki szefa}
 {18015}{}{Korpusu Chemicznego, dr Charlesa Curlinga, sprawi³y,}
 {18016}{}{i¿ wybi³a godzina naszego ocalenia.}
-{18017}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{18017}{}{**END-PAR**}
 {18018}{}{Odwa¿ny, niez³omny, bla, bla, bla. Czy ktoœ tych}
 {18019}{}{rzeczy w ogóle s³ucha?}
-{18020}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{18020}{}{**END-PAR**}
 {18021}{}{--Przypominad³o--}
 {18022}{}{1) Ponadawaæ tak d³u¿sz¹ chwilê, by przedstawiæ}
 {18023}{}{projekt Curlinga.}
 {18024}{}{2) Powiedzieæ wszystkim, jacy s¹ niez³omni itd.}
-{18025}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{18025}{}{Pierdu, pierdu}
 {18026}{}{**END-PAR**}
-{18027}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{18027}{}{Pamiêtaæ o zrobieniu ma³ej wstawki na temat}
 {18028}{}{reelekcji.}
 {18029}{}{**END-PAR**}
-{18030}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{18030}{}{Pamietaæ, ¿eby schodz¹c z podium NIE obœciskiwaæ}
 {18031}{}{mojej sekretarki.}
 {18032}{}{**END-PAR**}
 {18033}{}{Wa¿ne: Szybko skoñczyæ to pismo. Damy radê zagazowaæ}
-{18034}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{18034}{}{tych cholernych mutantów w ci¹gu tygodnia, jeœli}
+{18035}{}{tylko raport Curlinga jest dok³adny.}
+{18036}{}{**END-DISK**}
+
+# Word List
 {19000}{}{Nota: Lista s³ówek}
 {19001}{}{Od: wiceprezydent Daniel Bird}
 {19002}{}{Do: Mnie}
 {19003}{}{Temat: Moja Lista S³ówek}
-{19004}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{19004}{}{**END-PAR**}
 {19005}{}{Trudne s³owa:}
 {19006}{}{--------------------}
 {19007}{}{Ziemniak}
 {19008}{}{Jab³ko}
-{19009}{}{Psycho.}
+{19009}{}{Psycho}
 {19010}{}{Kalifornia}
 {19011}{}{Do przygotowania}
 {19012}{}{Gadatliwoœæ}
 {19013}{}{Nieartyku³owany}
 {19014}{}{Subtelny}
-{19015}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{19015}{}{**END-PAR**}
 {19016}{}{S³owa do zmiany:}
 {19017}{}{----------------------}
 {19018}{}{Ziemniok}
@@ -1007,31 +1176,33 @@
 {19023}{}{Suptelny}
 {19024}{}{D¿akilopa - zrobiæ z tego now¹ maskotkê narodow¹}
 {19025}{}{(czy to amerykañskie zwierzê?)}
-{19026}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{19026}{}{**END-DISK**}
+
+# The Project
 {20000}{}{Nota: Projekty, Wyci¹g kwartalny}
 {20001}{}{Od: ppk, dr Charles Curling}
-{20002}{}{     przewodnicz¹cy Komisji Energii Atomowej}
+{20002}{}{      Korpus Chemiczny Stanów Zjednoczonych}
 {20003}{}{Do: Gabinet}
-{20004}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{20004}{}{Temat: Projekt bliski osi¹gniêcia pe³nego stanu}
 {20005}{}{gotowoœci.}
 {20006}{}{**END-PAR**}
 {20007}{}{Mam zaszczyt i przywilej og³osiæ, i¿ wkroczyliœmy}
 {20008}{}{w finaln¹ fazê Projektu. Po latach pracy uda³o nam}
 {20009}{}{siê wyizolowaæ najtoksyczniejsze sk³adniki wirusa}
 {20010}{}{F.E.V. Czêœæ ostatnio zdekodowanych informacji}
-{20011}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{20011}{}{zdobytych w opuszczonym kompleksie wojskowym,}
 {20012}{}{zlokalizowanym na sta³ym l¹dzie okaza³a siê}
-{20013}{}{designed to be used as an agent for the creation of}
-{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
+{20013}{}{prze³omowa w toku naszych badañ.}
+{20014}{}{**END-PAR**}
 {20015}{}{Uda³o nam siê stwierdziæ, i¿ wirus F.E.V. nie by³}
 {20016}{}{pierwotnie zaprojektowany jako czynnik s³u¿¹cy}
-{20017}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{20017}{}{do stworzenia rasy super-¿o³nierzy. Pocz¹tkowo,}
 {20018}{}{jak siê wydaje, F.E.V. zosta³ skonstruowany jako}
 {20019}{}{zjadliwa toksyna. Dopiero jakiœ czas póŸniej}
 {20020}{}{podjêto próby manipulacji kodu wirusa w celu zmiany}
 {20021}{}{jego charakteru.}
 {20022}{}{**END-PAR**}
-{20023}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{20023}{}{Cofaj¹c siê nieco w swoich badaniach, oraz przy}
 {20024}{}{pomocy dodatkowych informacji zawartych w zapiskach}
 {20025}{}{z bazy wojskowej, uda³o nam siê zamieniæ nasz¹}
 {20026}{}{wersjê F.E.V. (F.E.V. Curling-13) w znacznie bardziej}
@@ -1040,7 +1211,7 @@
 {20029}{}{Koñcowe testy, przeprowadzone na potomkach}
 {20030}{}{mieszkañców krypty pochodz¹cych z wioski "Arroyo",}
 {20031}{}{wykaza³y stuprocentow¹ œmiertelnoœæ, z wiêkszoœci¹}
-{20032}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{20032}{}{zejœæ wystêpuj¹cych w ci¹gu godziny po wystawieniu}
 {20033}{}{na dzia³anie 0.0001% roztworu aerozolowego.}
 {20034}{}{Nieco odmiennie reagowa³y obiekty z Krypty 13,}
 {20035}{}{doznaj¹c wylewu krwi do mózgu i drgawek w ci¹gu}
@@ -1051,21 +1222,31 @@
 {20040}{}{W obu przypadkach poziom toksycznoœci F.E.V. jest}
 {20041}{}{wystarczaj¹cy do zapewnienia pe³nego "wyczyszczenia"}
 {20042}{}{terenu z wszelkich istot ¿ywych. W chwili obecnej}
-{20043}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{20043}{}{iloœæ F.E.V. Curling-13, któr¹ jesteœmy w stanie}
 {20044}{}{uwolniæ, daje 95% prawdopodobieñstwo osi¹gniêcia}
 {20045}{}{0.00007% przeciêtnego nasycenia. Chocia¿ w Korpusie}
 {20046}{}{panuje powszechna zgoda co do tego, i¿ wystarczy³oby}
-{20047}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{20047}{}{to do pe³nego sukcesu Projektu, uwa¿amy, ¿e warto}
 {20048}{}{poczekaæ, a¿ zgromadzimy wystarczaj¹co du¿o toksyny}
 {20049}{}{F.E.V., aby osi¹gn¹æ zak³adane nasycenie 0.0001%}
-{20050}{}{Bo¿e b³ogos³aw Amerykê.}
-{20051}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{20050}{}{i 99.5% pewnoœci unicestwienia.}
+{20051}{}{**END-PAR**}
+{20052}{}{Obecny poziom produkcji F.E.V. Curling-13 daje}
+{20053}{}{gwarancjê, ¿e osi¹gniemy wymagan¹ iloœæ 63 tys.}
+{20054}{}{litrów w ci¹gu szeœciu tygodni.}
+{20055}{}{**END-PAR**}
+{20056}{}{Gratulacje, panie i panowie, d³ugie lata ciê¿kiej}
+{20057}{}{pracy dobiegaj¹ koñca.}
+{20058}{}{Niech Bóg b³ogos³awi Amerykê.}
+{20059}{}{**END-DISK**}
+
+# Power Plant Operations
 {21000}{}{Nota: A.E.C., Raport sytuacyjny}
 {21001}{}{Od: Tom Murray,}
 {21002}{}{     przewodnicz¹cy Komisji Energii Atomowej}
 {21003}{}{Do: Gabinet}
 {21004}{}{Temat: Niebezpieczeñstwa wynikaj¹ce ze zbytniej}
-{21005}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{21005}{}{zale¿noœci od centralnego komputera kontroluj¹cego}
 {21006}{}{reaktory.}
 {21007}{}{**END-PAR**}
 {21008}{}{UWAGA dla GABINETU: Nie chcê wyjœæ na zrzêdê}
@@ -1073,7 +1254,7 @@
 {21010}{}{przeceniæ wa¿noœci zró¿nicowania systemów kontroli}
 {21011}{}{naszej elektrowni atomowej. Oto mój oficjalny raport.}
 {21012}{}{Wydaje mi siê, ¿ê po jego przeczytaniu zrozumiecie}
-{21013}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{21013}{}{dlaczego potrzebujemy systemu zapasowego.}
 {21014}{}{--Tom}
 {21015}{}{**END-PAR**}
 {21016}{}{Regulator Reaktora Energii Atomowej}
@@ -1082,7 +1263,7 @@
 {21019}{}{dzia³a jak dot¹d bez zarzutu. Dziêki}
 {21020}{}{najnowoczeœniejszemu systemowi komputerowemu,}
 {21021}{}{stworzonemu specjalnie dla celów regulacji}
-{21022}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{21022}{}{temperatury ch³odziwa, jak i kontrolowania wielu}
 {21023}{}{innych krytycznych funkcji reaktora, mo¿emy pozwoliæ}
 {21024}{}{sobie na zminimalizowanie iloœci personelu}
 {21025}{}{niezbêdnego do jego obs³ugi.}
@@ -1094,7 +1275,7 @@
 {21031}{}{wlewu zimnej wody morskiej, ujœcia zu¿ytego ch³odziwa}
 {21032}{}{i odpadów pozosta³ych z reakcji. Bez systemu}
 {21033}{}{komputerowego, reaktor rozregulowa³by siê niemal}
-{21034}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{21034}{}{natychmiast, wywo³uj¹c reakcjê ³añcuchow¹}
 {21035}{}{lawinowego wypromieniowania izotopów uranu.}
 {21036}{}{W ci¹gu dwóch lub mniej godzin, doprowadzi³oby to}
 {21037}{}{do eksplozji j¹drowej o sile 100 kiloton.}
@@ -1109,7 +1290,7 @@
 {21046}{}{kontrolne. Tam kr¹¿y wokó³ rdzenia, nagrzewaj¹c siê}
 {21047}{}{od zachodz¹cej reakcji j¹drowej. Gdy woda osi¹ga}
 {21048}{}{temperaturê wrzenia, powstaje para wodna, która}
-{21049}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{21049}{}{wprawia w ruch turbiny generatora wytwarzaj¹cego pr¹d}
 {21050}{}{elektryczny. Para wodna kondensuje i powraca do}
 {21051}{}{zbiornika filtracyjnego. Oczyszczona woda gromadzi}
 {21052}{}{siê w zbiorniku wstêpnym, gotowa do przejœcia ca³ego}
@@ -1118,7 +1299,7 @@
 {21055}{}{Silnie napromieniowana woda, zmieszana z ró¿nymi}
 {21056}{}{materia³ami toksycznymi, wypompowywana jest poza}
 {21057}{}{stacjê poprzez kana³ odpadowy, koñcz¹cy siê pó³tora}
-{21058}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{21058}{}{kilometra na po³udnie. Meldunki naszych zespo³ów}
 {21059}{}{zwiadowczych stwierdzaj¹, ¿e zanieczyszczenia unosz¹}
 {21060}{}{siê wraz z pr¹dem morskim wzd³u¿ wybrze¿a po³udniowej}
 {21061}{}{Kalifornii i Meksyku, powoduj¹c nieodwracalne szkody}
@@ -1129,7 +1310,7 @@
 {21066}{}{Niezale¿nie od wszystkiego, na wypadek wy³¹czenia}
 {21067}{}{reaktora mamy w odwodach trochê zapasowych baterii,}
 {21068}{}{które mog¹ zasilaæ krytyczne systemy Enklawy do czasu}
-{21069}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{21069}{}{ponownego uruchomienia reaktora. Do systemów tych}
 {21070}{}{nie nale¿¹ jednak energoch³onne urz¹dzenia,}
 {21071}{}{np. generatory pól si³owych. Procedury bezpieczeñstwa}
 {21072}{}{wymagaj¹ tak¿e zamkniêcia niektórych grodzi}
@@ -1138,9 +1319,19 @@
 {21075}{}{zapobiegaj¹c zalaniu korytarzy. Ograniczy to swobodê}
 {21076}{}{poruszania po stacji, jednak dotarcie na górê}
 {21077}{}{bêdzie wci¹¿ mo¿liwe przy u¿yciu tras zastêpczych.}
-{21078}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
+{21078}{}{**END-PAR**}
 {21079}{}{Prawdziwym problemem jednak pozostaje komputer,}
 {21080}{}{którego wy³¹czenie lub zniszczenie, jakkolwiek}
 {21081}{}{wydarzenia te by³yby nieprawdopodobne, spowoduje}
 {21082}{}{awariê reaktora i stopienie rdzenia w ci¹gu zaledwie}
 {21083}{}{dwóch godzin. Musimy zainstalowaæ jakiœ rezerwowy}
+{21084}{}{system regulacji obs³ugiwany przez cz³owieka. Wiem,}
+{21085}{}{¿e moje obawy mog¹ wydawaæ siê przesadzone,}
+{21086}{}{a sytuacja nie do pomyœlenia, jednak lepiej jest byæ}
+{21087}{}{przygotowanym na wszelk¹ ewentualnoœæ.}
+{21088}{}{**END-PAR**}
+{21089}{}{W miêdzyczasie upewnijmy siê, ¿e nikt nie wysadzi}
+{21090}{}{naszego komputera w powietrze (ha, ha).}
+{21091}{}{**END-PAR**}
+{21092}{}{Wasz Tom Murray, przewodnicz¹cy A.E.C.}
+{21093}{}{**END-DISK**}

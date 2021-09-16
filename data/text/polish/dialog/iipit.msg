@@ -1,4 +1,4 @@
-{100}{}{You have fallen down a pit into the caves below.}
-{101}{}{You see a pit in the cave floor.}
-{102}{}{ sees a pit in the cave floor.}
-{103}{}{You see a pit in the cave floor.}
+{100}{}{Wpadasz w dziurê i l¹dujesz w rozci¹gaj¹cych siê poni¿ej jaskiniach.}
+{101}{}{Widzisz dziurê na dnie jaskini.}
+{102}{}{ widzi dziurê na dnie jaskini.}
+{103}{}{Widzisz dziurê na dnie jaskini.}

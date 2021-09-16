@@ -1,9 +1,10 @@
-{100}{}{Here mousy, mousy.}
-{101}{}{Grundel need you to make stew.}
-{102}{}{Come here, wittle mousy.}
-{103}{}{Kind Grundel no hurt you.}
-{104}{}{Tasty little ones.}
-{105}{}{Come on, mousy. Me hungry.}
-{106}{}{Squeek, Squeeeek. SQUEEEEK!}
-{107}{}{OK, OK, me lied, me gonna to eat you.}
-{110}{}{Oooh! You a big mousy. Make good dinner for Grundel.}
+{100}{}{ChodŸ tu! Mysia, mysia, mysia.}
+{101}{}{Grundel musi zrobiæ zupkê.}
+{102}{}{No chodŸ malusia mysiu.}
+{103}{}{Dobry Grundel ciê nie skrzywdzi.}
+{104}{}{Smaczne maluchy.}
+{105}{}{No chodŸ, mysia. Ja chcieæ jeœæ.}
+{106}{}{Pisk, Pisk. PIIIISK!}
+{107}{}{Dobra, dobra, ja sk³amaæ. Teraz ciê zjeœæ!}
+
+{110}{}{Oooch! Du¿a mycha. Dobra kolacja dla Grundel.}

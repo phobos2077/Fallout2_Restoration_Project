@@ -1,18 +1,28 @@
-{100}{}{You see a scruffy little lad hard at work caring for the brahmin.}
-{101}{}{You see the stable boy.}
-{150}{}{He seems to be busy.}
-{200}{}{Sorry, the stables are full. You'll have to look elsewhere.}
-{201}{}{I'm really busy right now.}
-{250}{}{Smell? I guess you get used to it.}
-{251}{}{It doesn't smell that bad.}
-{252}{}{I guess I don't have to fertilize the fields this year. Thanks.}
-{300}{}{This one needs some fresh hay.}
-{301}{}{Got to get some more water.}
-{302}{}{Whew! Time to get the shovel.}
-{303}{}{Everything seems okay with this one.}
-{304}{}{Better keep an eye on this one. Looks a little sick.}
-{350}{}{Zzz... I'm sleeping... Zzz...}
-{351}{}{*YAWN* I've gotta be up early.}
-{352}{}{Hey, I'm still growing. I need my sleep.}
-{353}{}{Why don't you go talk to someone else.}
-{354}{}{Boy, I sure am sleepy. If only someone wouldn't keep talking to me.}
+# Description
+{100}{}{Widzisz rozczochranego, ma³ego ch³opca zajmuj¹cego siê Braminami.}
+{101}{}{Widzisz ch³opca stajennego.}
+# Examine:
+{150}{}{Wygl¹da na zapracowanego.}
+
+# General
+{200}{}{Przykro mi, stajnie s¹ pe³ne. Musisz poszukaæ gdzie indziej.}
+{201}{}{Jestem teraz naprawdê zajêty.}
+
+# If shitter is exploded
+{250}{}{Smród? Chyba mo¿na do niego przywykn¹æ.}
+{251}{}{Nie œmierdzi a¿ tak bardzo.}
+{252}{}{Chyba nie bêdê musia³ nawoziæ pola w tym roku. Dziêki.}
+
+# General Stable Comments
+{300}{}{Ten potrzebuje œwie¿ego siana.}
+{301}{}{Muszê przynieœæ trochê wiêcej wody.}
+{302}{}{Uff! Chyba czas pójœæ po ³opatê.}
+{303}{}{Z tym chyba wszystko w porz¹dku.}
+{304}{}{Tego lepiej mieæ na oku. Wygl¹da na nieco chorego.}
+
+# trying to sleep
+{350}{}{Chrr... Œpiê... Chrr...}
+{351}{}{*ZIEW* Muszê byæ wczeœnie na nogach.}
+{352}{}{Hej, ja jeszcze rosnê. Potrzebujê snu.}
+{353}{}{Mo¿e idŸ lepiej pogadaæ z kimœ innym.}
+{354}{}{Ale chce mi siê spaæ. Gdyby tylko nie to ci¹g³e glêdzenie nad uchem.}

@@ -1,2 +1,1 @@
-{100}{}{There is an overwhelming smell of methane gas down here. One tiny spark would blow this hole
- sky high.}
+{100}{}{Powietrze przesycone jest zapachem metanu. Jedna iskra i ca³a ta dziura wyleci w powietrze.}

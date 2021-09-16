@@ -1,9 +1,9 @@
-{100}{}{You see a moonshiner.}
-{101}{}{We sell only the highest quality liquor. You interested?}
-{102}{}{Yes, let's see what you got.}
+{100}{}{Widzisz bimbrownika.}
+{101}{}{Sprzedajemy wy³¹cznie alkohol najwy¿szej klasy. Dasz siê skusiæ?}
+{102}{}{Tak. Poka¿ co tam masz.}
 {103}{}{Nie.}
 {104}{}{Ug.}
-{105}{}{Then beat it! We're busy.}
-{106}{}{I make sure the mix of alcohol is just right.}
-{107}{}{Baka. BAka BAKA!}
-{108}{}{Thanks for the business.}
+{105}{}{To spadaj! Jesteœmy zajêci.}
+{106}{}{Dbamy o najlepsz¹ kombinacjê aromatów.}
+{107}{}{Baka. Baka BAKA!}
+{108}{}{Dziêki.}

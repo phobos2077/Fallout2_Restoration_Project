@@ -1,1 +1,1 @@
-{100}{}{The scraps combine to make a password list.}
+{100}{}{Po z³o¿eniu kawa³ki tworz¹ listê hase³.}

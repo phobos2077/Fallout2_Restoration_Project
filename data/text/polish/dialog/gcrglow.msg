@@ -1,31 +1,34 @@
-{100}{}{Osoba, któr¹ widzisz, delikatnie œwieci. Jej skóra jest mocno poparzona.}
-{101}{}{You see a Glowing One, a citizen of Gecko.}
-{102}{}{You see someone who has been exposed to so much radiation that they are glowing faintly.
- That much radiation looks as though it should have killed them, but it they seem well enough.}
-{110}{}{This much radiation sure spells job security for me.}
-{111}{}{Look at it glow. Can you see it?}
-{112}{}{I love coming to work everyday.}
-{113}{}{Going to need more uranium again.}
-{114}{}{I guess we're all atomic powered here.}
-{120}{}{I just love the warmth here.}
-{121}{}{It feels wonderful here.}
-{122}{}{I don't know what I'd do If I had to live elsewhere.}
-{123}{}{I love the feel of radiation in the morning.}
-{124}{}{At least I never need a nightlight.}
-{125}{}{(holds his glowing finger out to you) Phone home.}
-{126}{}{You know, if you shut the door, I don't glow anymore.}
-{127}{}{This is one place I really feel like I belong.}
-{128}{}{I can't believe those Vault City people want to destroy my home.}
-{129}{}{Reactor, sweet reactor.}
-{130}{}{Be it ever so humble.}
-{131}{}{Atomic powered heating... gotta love it.}
-{140}{}{Thanks for fixing the reactor. It's a little cooler now, but not too bad.}
-{141}{}{Brrr... thanks for fixing our reactor.}
-{142}{}{I wish I could have gotten that part.}
-{143}{}{Dziêki za pomoc.}
-{144}{}{Maybe those Vault City people aren't so bad after all.}
-{150}{}{I can't remember when the reactor ran this well.}
-{151}{}{It's downright chilly in here today.}
-{152}{}{Brrrr, I'm freezing.}
-{153}{}{I think I've got frostbite or something.}
-{154}{}{Does it feel cold to you?}
+{100}{}{Osoba, któr¹ widzisz, delikatnie œwieci. Jej skóra wygl¹da na okropnie poparzon¹.}
+{101}{}{Widzisz Jarz¹cego, mieszkañca Gecko.}
+{102}{}{Widzisz kogoœ, kto zosta³ wystawiony na dzia³anie takich iloœci promieniowania, ¿e s³abiutko œwieci. Tyle promieniowania powinno go zabiæ, pomimo to wygl¹da on ca³kiem dobrze.}
+
+{110}{}{Tyle promieniowania z pewnoœci¹ daje mi pewnoœæ zatrudnienia.}
+{111}{}{Popatrz na to jarzenie. Widzisz je?}
+{112}{}{Uwielbiam codziennie przychodziæ do pracy.}
+{113}{}{Znowu potrzeba wiêcej uranu.}
+{114}{}{Chyba wszyscy tutaj mamy w sobie ma³e reaktorki atomowe.}
+
+{120}{}{Ja po prostu uwielbiam tutejsze ciepe³ko.}
+{121}{}{Czujê siê tu wspaniale.}
+{122}{}{Nie wiem co bym zrobi³, gdybym musia³ mieszkaæ gdzie indziej.}
+{123}{}{Uwielbiam to uczucie porannego napromieniowania.}
+{124}{}{Przynajmniej nigdy nie potrzebujê nocnej lampki.}
+{125}{}{(Wystawia w twoim kierunku swój œwiec¹cy palec) Dzwoniæ dom.}
+{126}{}{Wiesz co, je¿eli zamkniesz drzwi, to ju¿ nie bêdê œwieciæ.}
+{127}{}{To jest jedyne miejsce, gdzie naprawdê czujê, ¿e tu jest moje miejsce.}
+{128}{}{Nie mogê uwierzyæ, ¿e Kryptopolis chce zniszczyæ mój dom.}
+{129}{}{Wszêdzie dobrze, ale w reaktorze najlepiej.}
+{130}{}{Skromnie, ale przytulnie.}
+{131}{}{Ogrzewanie energi¹ atomow¹... nie mo¿na nie lubiæ.}
+
+{140}{}{Dziêki za naprawê reaktora. Jest nieco ch³odniej, ale nie tak Ÿle.}
+{141}{}{Brrr... dziêki za naprawê reaktora.}
+{142}{}{Chcê mieæ tê czêœæ.}
+{143}{}{Dziêkujemy za pomoc.}
+{144}{}{Mo¿e ci ludzie z Kryptopolis mimo wszystko nie s¹ a¿ tacy Ÿli.}
+
+{150}{}{Nie przypominam sobie, kiedy ostatnio reaktor dzia³a³ a¿ tak dobrze.}
+{151}{}{Ale dzisiaj przenikliwy zi¹b.}
+{152}{}{Brrrr, zamarzam.}
+{153}{}{Chyba sobie zaraz coœ odmro¿ê.}
+{154}{}{Nie jest ci czasem zimno?}

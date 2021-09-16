@@ -8,13 +8,13 @@
 {107}{}{Wykoñczmy tê ofiarê!}
 {108}{}{Podziurawmy go.}
 {109}{}{Jestem gotowy.}
-{110}{}{No to walimy!}
+{110}{}{Jazda!}
 {111}{}{Podpalê to dziwad³o!}
 {112}{}{Nie lubiê zabijaæ przyg³upów.}
 {113}{}{Mo¿esz iœæ.}
 {114}{}{Ja tam nic nie widzia³em.}
 {115}{}{To nie tych droidów szukamy.}
-{116}{}{Ruszaj siê.}
+{116}{}{Nie zatrzymuj siê.}
 {117}{}{Mam ju¿ doœæ zabijania.}
 {118}{}{No ju¿, do dzie³a!}
 {119}{}{Spocznij.}
@@ -22,7 +22,7 @@
 {121}{}{¯yczê szczêœcia, mutancie. Przyda ci siê.}
 {122}{}{Stój! Czego tu szukasz?}
 {123}{}{Chcê wróciæ do mojego ludu.}
-{124}{}{Nie twój zasrany interes.}
+{124}{}{Nie twój interes.}
 {125}{}{Nie mam czasu na twoje pytania.}
 {126}{}{A kim ty jesteœ?}
 {127}{}{No wiesz, ten œwir, Agent Horrigan, mija³ mnie przed chwil¹. On tylko czeka, ¿eby ktoœ spróbowa³ st¹d zwiaæ.}
@@ -62,3 +62,5 @@
 {161}{}{Kompanii KE?}
 {162}{}{Kompanii Kontroli Enklawy. Zabezpieczamy granice. Przynajmniej zwykle.}
 {163}{}{Rozumiem. Jak to zwykle?}
+
+{170}{}{Chyba, ¿e pomo¿ecie mi pokonaæ Horrigana i dostaæ siê do mojego Latacza.}

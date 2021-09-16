@@ -1,9 +1,11 @@
 {100}{}{Widzisz kogoœ z mocno poparzon¹ skór¹.}
 {101}{}{Widzisz ghula - mieszkañca Gecko.}
 {102}{}{Widzisz kogoœ, czyja skóra zosta³a poparzona promieniowaniem. Tyle promieniowania powinno go zabiæ, ale jednak wci¹¿ ¿yje.}
+
 {110}{}{Osoba, któr¹ widzisz, delikatnie œwieci. Jej skóra jest mocno poparzona.}
 {111}{}{Widzisz jarz¹cego siê mieszkañca Gecko.}
 {112}{}{Widzisz kogoœ, kto by³ nara¿ony na dzia³anie promieniowania tak silnego, ¿e a¿ zacz¹³ œwieciæ. Tyle promieniowania powinno go zabiæ, ale osoba ta wci¹¿ ¿yje.}
+
 {120}{}{Dziêki za uratowanie nas przed Kryptopolis.}
 {121}{}{Gdyby nie ty, ci bigoci z Kryptopolis by nas pozabijali.}
 {122}{}{Có¿ za bohaterstwo!}
@@ -17,21 +19,23 @@
 {130}{}{Dziêki za pomoc.}
 {131}{}{Jesteœ super. Dziêki.}
 {132}{}{NieŸle jak na g³adkoskórka.}
+
 {140}{}{Witaj g³adkoskórku.}
 {141}{}{Witaj w Gecko.}
 {142}{}{Witaj.}
 {143}{}{Nie jesteœ jak inne g³adkoskórki.}
 {144}{}{Co tam s³ychaæ na pustkowiu?}
-{145}{}{Sie masz.}
+{145}{}{Witaj.}
 {146}{}{Czo³em.}
 {147}{}{Dziêki naszemu reaktorowi wszyscy jarzymy siê nasz¹ dum¹.}
 {148}{}{Uda³o nam siê tutaj zapanowaæ nad poteg¹ atomu.}
 {149}{}{Któregoœ dnia inni te¿ bêd¹ mogli korzystaæ z naszego pr¹du.}
 {150}{}{Cieszê siê, ¿e nie wszystkie g³adkoskórki s¹ takie jak ci z Kryptopolis.}
 {151}{}{Gdyby ludzie z Kryptopolis byli tacy jak ty, nie mielibyœmy z nimi problemów.}
+
 {160}{}{Hmmm, kolejny oszukañczy g³adkoskórek.}
 {161}{}{Witaj, g³adoskórek...}
-{162}{}{Czeœæ.}
+{162}{}{Witaj.}
 {163}{}{Co tam s³ychaæ?}
 {164}{}{Tylko siê zachowuj, póki jesteœ w mieœcie.}
 {165}{}{Z daleka jesteœ?}
@@ -39,6 +43,7 @@
 {167}{}{Jesteœmy tolerancyjni, ale nie g³upi...}
 {168}{}{Trzymaj siê z dala od Kryptopolis. Ci goœcie to dupki.}
 {169}{}{Witaj. Ostatnio jest dosyæ sucho.}
+
 {180}{}{Ostatnio wcale nie pada.}
 {181}{}{Cholerne chwasty.}
 {182}{}{Nasz reaktor powoduje, ¿e chwasty s¹ coraz wiêksze.}
@@ -49,6 +54,7 @@
 {187}{}{Warzywa s¹ dobre.}
 {188}{}{Prawie mamy ju¿ ¿niwa.}
 {189}{}{Przyda³oby siê trochê deszczu.}
+
 {200}{}{Muszê pilnowaæ braminów.}
 {201}{}{Te braminy s¹ takie urocze. Przykro bêdzie je zabijaæ.}
 {202}{}{Nudzi mi siê.}
@@ -59,6 +65,7 @@
 {207}{}{Ktoœ wczoraj jednego przewróci³.}
 {208}{}{Niektóre s¹ ³adniejsze ni¿ inne.}
 {209}{}{Ciekawe czemu nikt na nich nie jeŸdzi.}
+
 {220}{}{Witaj, g³adkoskórku.}
 {221}{}{Kup nam drinka, g³adkoskórku.}
 {222}{}{Ale¿ mi siê chce piæ.}
@@ -69,6 +76,7 @@
 {227}{}{Zaœpiewajmy coœ.}
 {228}{}{...No i co z tymi g³owami? Nie rozumiem Wooza.}
 {229}{}{Co to jest jab³ko?}
+
 {240}{}{Jak na g³adkoskórka nieŸle wygl¹dasz.}
 {241}{}{Kup nam jeszcze rundkê.}
 {242}{}{./~ Jak¿esz jestem trzeŸwy, jak¿esz trzeŸwy.... ./~}
@@ -79,6 +87,7 @@
 {247}{}{Ktoœ w mieœcie powinien zaj¹æ siê krawiectwem.}
 {248}{}{Aach, piwo jest dobre.}
 {249}{}{To piwo jest œwietne. To przez wodê i du¿o innych rzeczy.}
+
 {260}{}{Jesteœ super g³adkoskórkiem.}
 {261}{}{Wiêcej œwiec¹cego soczku! Wiêcej!}
 {262}{}{To jeszcze po jednym, nie, g³adoskórek?}
@@ -89,10 +98,11 @@
 {267}{}{Podobno Chester to szpieg Kryptopolis.}
 {268}{}{Chcê byæ znów g³adki.}
 {269}{}{Podobno w nocy nad miastem coœ lata.}
+
 {280}{}{Kocham ciê.}
 {281}{}{Jesteœ super.}
 {282}{}{£adowaæ atomówkami w Kryptopolis, dopóki nie zacznie œwieciæ!}
-{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
+{283}{}{./~99 strzykawek Rad-awaya na œcianie, 99 strzykawek.... ./~}
 {284}{}{./~Ca³y dzieñ harujê przy reaktorze, calutki dzionek.... ./~}
 {285}{}{Gdyby nie ty, to nie moglibyœmy ufaæ g³adkoskórym.}
 {286}{}{Chyba niektorzy g³adcy s¹ jednak w porz¹dku.}
@@ -101,6 +111,7 @@
 {289}{}{Cieszê siê, ¿e nasz reaktor dzia³a.}
 {290}{}{Chyba siê upi³em. Mam wra¿enie, ¿e Wooz zaczyna gadaæ z sensem.}
 {291}{}{Chyba raz widzia³em jablko... a mo¿e to by³ banan?}
+
 {300}{}{Reaktor dzia³a tak dobrze, ¿e a¿ s³ychaæ jego buczenie.}
 {301}{}{Dziêki, ¿e uda³o ci siê za³atwiæ dla nas sprawy z Kryptopolis.}
 {302}{}{Teraz mamy wbród energii.}
@@ -111,6 +122,7 @@
 {307}{}{Dziêki za naprawienie naszego reaktora atomowego.}
 {308}{}{Reaktor a¿ mruczy z zachwytu. Dziêki.}
 {309}{}{Jesteœ super g³adkoskórkiem.}
+
 {320}{}{Odnów siê, odnów.}
 {321}{}{Jesteœ z nami.}
 {322}{}{Witaj. Odnowa jest w zasiêgu rêki.}
@@ -121,6 +133,7 @@
 {327}{}{Mam tutaj twoj¹ odnowê, kole¿ko.}
 {328}{}{Nie mozna siê nawet obróciæ by nie wpaœæ na kolejnego cholernego sekciarza.}
 {329}{}{Nigdy nie bêdê czciæ przeroœniêtego szczura.}
+
 {340}{}{Pogadaj z Lennym na temat tych ran.}
 {341}{}{Wygl¹dasz jak mumia. Pogadaj z Lennym.}
 {342}{}{Nie trzeba siê by³o mocowaæ ze szponem œmierci. Pogadaj z Lennym.}

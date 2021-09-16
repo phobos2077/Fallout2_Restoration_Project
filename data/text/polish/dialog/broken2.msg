@@ -1,1 +1,1 @@
-{100}{}{You have entered the East side of Broken Hills.}
+{100}{}{Przed tob¹ wschodnia czêœæ Broken Hills.}

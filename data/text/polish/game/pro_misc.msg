@@ -23,12 +23,13 @@
 {2200}{}{Obszar Wyjœciowy}
 {2300}{}{Obszar Wyjœciowy}
 {2400}{}{flara}
+
 {2500}{}{granat}
 {2600}{}{ska³a}
 {2700}{}{Eksplozja}
 {2800}{}{Eksplozja}
 {2900}{}{Eksplozja}
-{3000}{}{koktajl Mo³otowa}
+{3000}{}{koktail Mo³otowa}
 {3100}{}{Obszar Wyjœciowy}
 {3200}{}{Obszar Wyjœciowy}
 {3300}{}{Obszar Wyjœciowy}
@@ -49,6 +50,6 @@
 {4701}{}{}
 {4800}{}{Bum!}
 {4801}{}{}
-{4900}{}{Kolczasta roœlina}
+{4900}{}{Kolec}
 {4901}{}{}
 {5000}{}{Podwójna kula plazmowa}

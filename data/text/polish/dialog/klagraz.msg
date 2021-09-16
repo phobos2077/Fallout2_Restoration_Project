@@ -1,3 +1,4 @@
-{100}{}{You have entered a grazing area for brahmin.}
-{200}{}{You have successfully protected the brahmin.}
-{202}{}{You failed to help Torr protect all the brahmin.}
+{100}{}{Jesteœ na pastwisku dla braminów.}
+
+{200}{}{Uda³o ci siê ochroniæ braminy.}
+{202}{}{Nie uda³o ci siê pomóc Torrowi ochroniæ wszystkie braminy.}

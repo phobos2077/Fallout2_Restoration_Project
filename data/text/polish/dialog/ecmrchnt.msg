@@ -1,18 +1,20 @@
-{100}{}{You see a well-traveled person.}
-{101}{}{Widzisz handlarza.}
-{102}{}{Wow, I rarely see people out here.}
-{103}{}{Hey! Wait! I have things that could help you along!}
-{104}{}{Hey! Do you have anything to trade for these?}
-{105}{}{This must be my lucky day. Come, see what I have for sale.}
-{200}{}{Greetings, traveler! I rarely see many people along this route, but
- am always happy to have new customers. Would you like to trade?}
-{201}{}{Hey there! It's really great that you stopped. Most people along this
- route just keep right on going. Hey, would you like to trade some things?}
-{202}{}{Would you be interested in a little trade?}
-{250}{}{That'd be good.}
-{251}{}{Sorry, have to keep on moving.}
-{252}{}{Yah. Me got stuff!}
+{100}{}{Widzisz znu¿on¹ podró¿¹ osobê.}
+{101}{}{Widzisz kupca.}
+{102}{}{Ho ho! Rzadko widujê ludzi na tym pustkowiu.}
+{103}{}{Hej! Czekaj! Mam kilka rzeczy, które mog³y by ci siê przydaæ!}
+{104}{}{Hej! Mo¿e masz coœ na wymianê?}
+{105}{}{To chyba mój szczêœliwy dzieñ. ChodŸ, zobacz co mam do sprzedania.}
+
+{200}{}{Witaj podró¿niku! Rzadko widujê ludzi na tym szlaku, ale zawsze chêtnie witam nowego klienta. Chcesz coœ kupiæ?}
+{201}{}{Halo! Dobrze, ¿e tu jesteœ. Wiêkszoœæ ludzi na tym szlaku po prostu idzie dalej, bez zatrzymywania siê. Mo¿e chcesz coœ kupiæ lub sprzedaæ?}
+{202}{}{Mo¿e chcesz coœ kupiæ lub sprzedaæ?}
+
+{250}{}{Bardzo chêtnie.}
+{251}{}{Przykro mi, spieszê siê.}
+{252}{}{Tak. U mnie TOWAR!}
 {253}{}{Ja iœæ.}
-{260}{}{Good trading with you. Good luck in your travels.}
-{261}{}{Pa.}
-{270}{}{Glad to have you back. Can I interest you in something else?}
+
+{260}{}{Interesy z tob¹ to przyjemnoœæ. Uwa¿aj na siebie.}
+{261}{}{¯egnaj.}
+
+{270}{}{Mi³o, ¿e znów tu jesteœ. Mo¿e zainteresuje ciê coœ innego?}

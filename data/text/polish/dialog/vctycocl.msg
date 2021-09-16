@@ -1,1 +1,1 @@
-{100}{}{You have entered Vault City's Council Area.}
+{100}{}{Jesteœ w Dzielnicy Rady w Kryptopolis.}

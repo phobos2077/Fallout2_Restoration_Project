@@ -1,31 +1,39 @@
-{100}{}{A soldier in a duty uniform.}
-{101}{}{Some Pfc-Tech, grade X.}
-{102}{}{He's wearing a military uniform, but it's clear this guy's more a technician than a soldier.}
-{103}{}{Look, how many times I got to tell you goons? Don't get in the way!}
-{104}{}{Don't you have something to shoot?}
-{105}{}{Greetings, trooper.}
-{106}{}{Who are you? Guards!}
-{107}{}{What the hell is this? Infiltrator on base!}
-{108}{}{Shit! Where's my gun!}
-{109}{}{Look, they already searched here and they didn't find anything.}
-{110}{}{Jeez, these false alarms make me jumpy as hell.}
-{111}{}{Great, another false alarm. Now we'll have to tear the whole system down and put it back
- together again. }
-{112}{}{Goddamn it! Over here! Get the spy!}
-{113}{}{Shit! It's an attack! Where's my piece?}
-{114}{}{Shooting? Nobody said there'd be any shooting!}
-{115}{}{Who the hell are you? Guards!}
-{116}{}{You're not Enclave! Guards!}
-{117}{}{Infiltrators! Saboteurs! Over here!}
-{118}{}{Hey, don't mess up the plans. I'm working here.}
-{119}{}{Where the hell's that gyrovator part?}
-{120}{}{Damn fly-boys, always breaking my machines.}
-{121}{}{Roger that, we got you on the scope -- don't bother me, I'm working.}
-{122}{}{Look, no personal calls allowed, soldier.}
-{123}{}{Sorry, can't help you now.}
-{124}{}{You have business down here? If not, out of my way.}
-{125}{}{This is a restricted area, soldier.}
-{126}{}{Move out of my way, soldier.}
-{127}{}{What the hell? What's going on up there?}
-{128}{}{Shit! They've broken in!}
-{129}{}{Those clowns! It's probably just another false alarm.}
+{100}{}{Widzisz ¿o³nierza w mundurze s³u¿bowym.}
+{101}{}{Jakiœ technik Pfc, stopieñ X.}
+{102}{}{Jego ubiór to mundur wojskowy, ale nie ma w¹tpliwoœci, ¿e ten facen jest bardziej technikiem ni¿ ¿o³nierzem.}
+
+{103}{}{S³uchaj, ile razy mam ciê opierdalaæ? Nie w³aŸ mi w drogê!}
+{104}{}{Nie musisz przypadkiem pójœæ gdzieœ, ¿eby sobie postrzelaæ?}
+{105}{}{Witaj, ¿o³nierzu.}
+
+{106}{}{Kim jesteœ? Stra¿!}
+{107}{}{Co to jest u diab³a? Dywersja w bazie!}
+{108}{}{Kurwa, gdzie jest mój pistolet!}
+
+{109}{}{S³uchaj, oni ju¿ tu szukali i nic nie znaleŸli.}
+{110}{}{Raany, te fa³szywe alarmy masakruj¹ moje nerwy.}
+{111}{}{Wspaniale, jeszcze jeden fa³szywy alarm. Teraz znowu bêdziemy musieli wywaliæ ca³y system i stawiaæ go od nowa. }
+
+{112}{}{Cholera! ChodŸcie tutaj! Z³apcie szpiega!}
+{113}{}{Cholera, to atak! Gdzie moja broñ?}
+{114}{}{Strzelaæ? Nikt nie mówi³, ¿e bêdzie jakieœ strzelanie!}
+
+{115}{}{Kim ty kurwa jesteœ? Stra¿!}
+{116}{}{Nie jesteœ z Enklawy! Stra¿!}
+{117}{}{Dywersanci! Sabota¿yœci! S¹ tutaj!}
+
+{118}{}{Hej, nie psuj tych planów. Ja tu pracujê.}
+{119}{}{Gdzie u licha jest ten ¿yrowator?}
+{120}{}{Cholerne pilociki, ci¹gle psuj¹ moje maszyny.}
+
+{121}{}{Zrozumia³em, mam ciê w zasiêgu - nie zawracaj mi g³owy, pracujê.}
+{122}{}{¯adnych pogaduszek na s³u¿bie, ¿o³nierzu.}
+{123}{}{Przykro mi, nie mogê ci teraz pomóc.}
+
+{124}{}{Masz tu jakiœ interes? Jeœli nie to zejdŸ mi z drogi.}
+{125}{}{¯o³nierzu, ten obszar jest zastrze¿ony.}
+{126}{}{ZejdŸ mi z drogi, ¿o³nierzu.}
+
+{127}{}{Co jest? Co siê tam, kurwa, na górze dzieje?}
+{128}{}{Cholera! W³amali siê!}
+{129}{}{Pajace! To pewnie znowu fa³szywy alarm.}

@@ -7,7 +7,7 @@
 {106}{}{Krypta 13?}
 {107}{}{GECK?}
 {108}{}{Niewa¿ne. Podaj mi specjalnoœæ zak³adu.}
-{109}{}{Gimme a beer.}
+{109}{}{Piwo.}
 {110}{}{Informacje.}
 {111}{}{Szukam pracy.}
 {112}{}{Có¿, przecie¿ to ty! Dok³adnie tak jak lubiê.}
@@ -22,10 +22,10 @@
 {121}{}{Tak.}
 {122}{}{Nie.}
 {123}{}{Rad-A-Waster raz, proszê bardzo! 10$.}
-{124}{}{Dobra.}
+{124}{}{W porz¹dku.}
 {125}{}{Dziesiêæ dolców? To dla mnie za du¿o.}
 {126}{}{W porz¹dku, jeden dolar.}
-{127}{}{Dobra.}
+{127}{}{W porz¹dku.}
 {128}{}{Nie mam tyle kasy.}
 {129}{}{Spróbuj u Merka. Jest w pokoju obok.}
 {130}{}{Tutaj nic dla ciebie nie ma.}
@@ -51,11 +51,11 @@
 {150}{}{S³uchaj, nie mam nic wiêcej do powiedzenia na ten temat.}
 {151}{}{Hmm.}
 {152}{}{Jeszcze kilka pytañ...}
-{153}{}{Có¿, dziêki. Bêdê o tym pamiêtaæ.}
+{153}{}{Dziêki, postaram siê nie zapomnieæ.}
 {154}{}{Ty te¿ szukasz zaginionego skarbu? Musisz spotkaæ siê z Bobem z rancza Westina. On ci¹gle o nim myœli. Zapewne jednak bêdzie mu potrzebna pewna zachêta.}
 {155}{}{Bob? Moja iœæ.}
 {156}{}{Jeszcze kilka pytañ...}
-{157}{}{Có¿, dziêki. Bêdê o tym pamiêtaæ.}
+{157}{}{Có¿, dziêki. Postaram siê o tym pamiêtaæ.}
 {158}{}{Powiedz mi jak to siê robi, a ja ci to przygotujê.}
 {159}{}{Nie byæ drink. GECK to... GECK.}
 {160}{}{To nie jest drink. To Generator Ekosystemu Cudownej Krainy.}
@@ -81,9 +81,11 @@
 {180}{}{IdŸ w nocy. ZnajdŸ linê. Zakradnij siê do du¿e miejsce przy bramie. ZnajdŸ Jacka. SkrzywdŸ Jacka. Mira da ci gnata. A teraz idŸ ju¿. Ja byæ widziana z ty - nie byæ dobrze. Pomó¿ Miri i wróæ. Zrozumiano?}
 {181}{}{Mira s³yszeæ, ¿e Jack skrzywdzony. Dobra robota. Tu gnat, ty braæ. Dziêki.}
 {182}{}{Ty te¿ siê chrzañ. Nigdy siê nie uwolniê od tego drania.}
+#latter additions
 {183}{}{Musisz pogadaæ z Merkiem, ale tu go nie ma. PrzyjdŸ w nocy. Wtedy siê tu zjawia.}
 {184}{}{Nie mam pojêcia, co siê przez ciebie sta³o Lenny'emu, ale na twoim miejscu nie krêci³abym siê tu. To nie przysporzy ci wielbicieli.}
 {185}{}{Hej, ostrzega³am ciê. Och, trudno...}
+
 {186}{}{Ty jesteœ Mira, prawda? Jakiœ glina coœ mi o tobie mówi³.}
 {187}{}{Ty Mira? Z³e Jack rzeczy mówiæ o ty.}
 {188}{}{Ten drañ Jack? Co ci powiedzia³?}
@@ -94,7 +96,7 @@
 {193}{}{¯artujesz? To najlepsza wiadomoœæ jak¹ dzisiaj us³ysza³am. Mam nadziejê, ¿e z jego mózgu by³a ³adna tapeta. Przeklêty psychol zas³u¿y³ sobie na to. Masz tu Rad-a-Wastera na mój koszt.}
 {194}{}{Moja lubiæ.}
 {195}{}{Moja ju¿ iœæ.}
-{196}{}{Dziêki - mam nadziejê. S³uchaj, masz czas by odpowiedzieæ na kilka pytañ?}
+{196}{}{Dziêki - mam nadziejê. S³uchaj, masz czas by odpowiedzieæ mi na kilka pytañ?}
 {197}{}{Dziêki. Po prostu uwa¿am, ¿e powinnaœ o tym wiedzieæ.}
 {198}{}{Co? O, gdybym nie by³a w pracy, wspiê³abym siê na bar i... có¿, poca³owa³a ciê. Ta ma³a gnida zas³u¿y³a sobie na to. Nie mów nikomu, ale mia³am nadziejê znaleŸæ jakiegoœ g³upiego osi³ka ¿eby to dla mnie za³atwi³. Mam nawet nagrodê. Jest twoja. Z tego co s³ysza³am, w pe³ni na ni¹ zas³ugujesz.}
 {199}{}{Dziêki - mam nadziejê. S³uchaj, masz czas by odpowiedzieæ na kilka pytañ?}

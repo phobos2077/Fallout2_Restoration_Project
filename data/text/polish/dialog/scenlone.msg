@@ -5,7 +5,7 @@
 {104}{}{[œlinotok]}
 {105}{}{Jasne, czemu nie?}
 {106}{}{Có¿, jestem Dzieckiem Przeznaczenia.}
-{107}{}{Um, naprawdê nie wiem, o czym ty mówisz.}
+{107}{}{Ee, naprawdê nie wiem, o czym mówisz.}
 {108}{}{A wiêc to ty jesteœ tym wrzodem na ty³ku Merka!}
 {109}{}{Tak.}
 {110}{}{Nie.}
@@ -15,7 +15,7 @@
 {114}{}{Ktoœ nie ma.}
 {115}{}{Ojej, Poziom Pierwszy. Wci¹¿ uwiêziony w swoim prymitywnym stanie. Mo¿e pomo¿e ci uszeregowanie zeta-skanem. Chcesz tego?}
 {116}{}{Zej-ta!}
-{117}{}{Ne!}
+{117}{}{Nie!}
 {118}{}{Proszê, nie szydŸ z Koœcio³a Centrologicznego. To w³aœnie tacy jak ty s¹ utrapieniem dla reszty z nas. Ojej. Ca³a jestem teraz roztrzêsiona!}
 {119}{}{Dziecko Przeznaczenia? Chyba masz na myœli Dziecko Centrum? Tak w³aœciwie to z jakiego tekstu korzystasz?}
 {120}{}{To proste. Jestem Dzieckiem Przeznaczenia, poniewa¿ tak musi byæ.}
@@ -27,7 +27,7 @@
 {126}{}{Nie, szukam GECKa.}
 {127}{}{Pomóc? Jak?}
 {128}{}{Wyrzutnia rakiet daje mi ca³y spokój duchowy, jakiego potrzebujê, paniusiu.}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
+{129}{}{"Prawdziwie zrozum" to (Pokazujesz jej œrodkowy palec.)}
 {130}{}{Merk? Czego on chce?}
 {131}{}{To proste. Chcê twojej œmierci. Powiedz pa pa.}
 {132}{}{Nie wiem, co zrobi³aœ, ale mam na pani¹ zlecenie. Dobranoc.}
@@ -75,11 +75,11 @@
 {174}{}{Tak!}
 {175}{}{Zrobione. Ale pamiêtaj, w ¿yciu liczy siê nie tylko zbieranie punktów doœwiadczenia na kolejny poziom. Jest tam jeszcze ca³y "prawdziwy" œwiat. A teraz, skoro mamy to ju¿ za³atwione, spróbujemy jeszcze raz?}
 {176}{}{Oœwieconych? Zaprawdê, jak niby mam tutaj g³osiæ s³owo, je¿eli nawet nie informuj¹ mnie na bie¿¹co o ostatniej obowi¹zuj¹cej doktrynie!?}
-{177}{}{[Dalej.]}
+{177}{}{[dalej]}
 {178}{}{Co to, spa³o siê na indoktrynacji? Hmm - nie nale¿ysz do oœwieconych!}
 {179}{}{A wiêc twierdzisz, ¿e jest jakaœ si³a wy¿sza, która stworzy³a nas dla jakiegoœ celu, a potem tak po prostu opuœci³a nas? Nie mogê uwierzyæ, ¿e ktoœ móg³by byæ tak bezduszny. ChodŸ, przyjmij Koœció³ Centrologiczny. Pozwól pokazaæ sobie prawdziw¹ drogê.}
 {180}{}{Jak¹ prawdziw¹ drogê?}
-{181}{}{Nie, dziêkujê.}
+{181}{}{Nie, dziêki.}
 {182}{}{Jednak¿e bez kontroli nad swoim w³asnym ¿ycie, jakie to ma znaczenie? Nic, co robisz, nie ma znaczenia. Czy wstanie dzisiejszego ranka by³o twoj¹ w³asn¹ decyzj¹? Nie, wed³ug twojej filozofii jesteœ tylko kukie³k¹. Zaœ Koœció³ Centrologiczny zna prawdziw¹ odpowiedŸ.}
 {183}{}{To znaczy?}
 {184}{}{Oczywiœcie, ¿e znacie.}
@@ -114,7 +114,8 @@
 {213}{}{Koœció³ jest zamkniêty. PrzyjdŸ jutro.}
 {214}{}{Bardzo chcia³abym ci pomóc, ale nawet UKC-4 musi kiedyœ spaæ. PrzyjdŸ, gdy wzejdzie s³oñce.}
 {215}{}{Intruz! Zamierzasz zbezczeœciæ to miejsce? Won!}
+
 {216}{}{Wspaniale, siostro. A jaki ty masz poziom?}
 {217}{}{. I na pewno je¿eli bêdê nadal podró¿owaæ i zabijaæ przypadkowe stwory, szybko osi¹gnê poziom 99.}
-{218}{}{Zyskujesz }
+{218}{}{Zdobywasz }
 {219}{}{PD za zajêcie siê Centrologiem dla Merka.}

@@ -1,10 +1,16 @@
+#
+# Messages from skill.c
+#
+#
+# SKILL NAMES
+#
 {100}{}{Rêczna broñ palna}
 {101}{}{Broñ ciê¿ka}
 {102}{}{Broñ energetyczna}
-{103}{}{Bez broni}
+{103}{}{Walka wrêcz}
 {104}{}{Broñ bia³a}
 {105}{}{Rzucanie}
-{106}{}{First Aid}
+{106}{}{Pierwsza pomoc}
 {107}{}{Leczenie}
 {108}{}{Skradanie siê}
 {109}{}{Otwieranie zamków}
@@ -16,24 +22,33 @@
 {115}{}{Handel}
 {116}{}{Hazard}
 {117}{}{Sztuka przetrwania}
+#
+# SKILL DESCRIPTIONS
+#
 {200}{}{U¿ytkowanie, konserwacja i ogólna znajomoœæ rêcznej broni palnej - pistoletów, rewolwerów, pistoletów maszynowych i karabinów.}
 {201}{}{U¿ytkowanie i konserwacja naprawdê du¿ych spluw - wielolufowych karabinów maszynowych, wyrzutni rakiet, miotaczy ognia itp.}
-{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
+{202}{}{Konserwacja i ³adowanie broni energetycznych. Wiedza, jak uzbroiæ i pos³u¿yæ siê broni¹ wykorzystuj¹c¹ technologiê laserow¹ b¹dŸ plazmow¹.}
+{203}{}{Suma wschodnich sztuk walki, boksu i innych technik walki bez broni. Zasady prowadzenia boju za pomoc¹ samego cia³a.}
 {204}{}{Zasady pos³ugiwania siê broni¹ bia³¹ - kastetami, no¿ami, m³otami, w³óczniami itd. - w bezpoœrednim starciu.}
 {205}{}{Umiejêtnoœæ pos³ugiwania siê broni¹ miotan¹ - ciskanymi no¿ami, w³óczniami i granatami.}
-{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
-{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
-{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
-{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
+{206}{}{Podstawowa umiejêtnoœæ medyczna, wykorzystywana do leczenia skaleczeñ, otaræ i innych pomniejszych dolegliwoœci. Opatrzenie ran jest na krótk¹ metê w stanie zniwelowaæ wiêcej obra¿eñ ni¿ sam odpoczynek.}
+{207}{}{Sztuka uzdrawiania powa¿nych ran i okaleczonych koñczyn. Bez zastosowania umiejêtnoœci leczenia, powrót tych ostatnich do pe³nej sprawnoœci trwa o wiele d³u¿ej.}
+{208}{}{Zdolnoœæ skrytego przemieszczania siê, po³¹czona z bieg³oœci¹ w kamufla¿u. Umiejêtnie zastosowane, powa¿nie utrudni twoje wykrycie. Podczas skradania tryb biegu nie jest dostêpny.}
+{209}{}{Umiejêtnoœæ otwierania zamków bez w³aœciwego klucza. Pos³ugiwanie siê wytrychami (klasycznymi lub elektronicznymi) bardzo w tym pomaga.}
+{210}{}{Zdolnoœæ czynienia cudzych rzeczy w³asnymi. Okradaæ mo¿na zarówno osoby (najlepiej zakradaj¹c siê od ty³u), jak i miejsca.}
+{211}{}{Umiejêtnoœæ wykrywania i usuwanie pu³apek, jak równie¿ podk³adania ³adunków wybuchowych.}
 {212}{}{Obejmuj¹ wiele zaawansowanych dziedzin, takich jak m.in. informatyka, biologia, fizyka i geologia.}
 {213}{}{Praktyczne zastosowanie znajomoœci nauk œcis³ych. Naprawianie zepsutego wyposa¿enia, maszyn oraz urz¹dzeñ elektronicznych.}
-{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
-{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
-{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
-{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
+{214}{}{Sztuka efektywnego komunikowania siê, przekonywania innych do w³asnego zdania, oraz ³gania w sposób wykluczaj¹cy przy³apanie.}
+{215}{}{Umiejêtnoœæ uzyskiwania lepszych cen na sprzedawane i kupowane przedmioty.}
+{216}{}{Teoria i praktyka zak³adów. Umiejêtnoœæ grania w karty, koœci i inne gry hazardowe.}
+{217}{}{Praktyczna znajomoœæ zasad ¿ycia na niezamieszka³ych terenach, umiejêtnoœæ korzystania z darów natury (i materia³ów rozszczepialnych). Wiedza o florze i faunie.}
+#
+# SKILL ATTRIBUTES
+#
+# Updated: 6/5/97 KSW
+# Updated to New Skill System: 9/16/98 rwh2
+#
 {300}{}{+ (4 x ZR)}
 {301}{}{+ (2 x ZR)}
 {302}{}{+ (2 x ZR)}
@@ -52,6 +67,9 @@
 {315}{}{+ (4 x CH)}
 {316}{}{+ (5 x SZ)}
 {317}{}{+ (2 x (WT + IN))}
+#
+# Skill Use Text
+#
 {500}{}{Leczysz %d PW.}
 {501}{}{Ju¿ i tak wygl¹dasz zdrowo.}
 {502}{}{%s ju¿ i tak wygl¹da zdrowo.}
@@ -65,11 +83,13 @@
 {521}{}{Przywracasz pe³niê sprawnoœci %s twojego pacjenta.}
 {525}{}{Nie udaje ci siê przywróciæ pe³ni sprawnoœci twojej %s.}
 {526}{}{Nie udaje ci siê przywróciæ pe³ni sprawnoœci %s twojego pacjenta.}
+# Lines 530-534 are the endings to lines 525 & 526.
 {530}{}{uszkodzonej ga³ce ocznej}
 {531}{}{okaleczonej lewej rêce}
 {532}{}{okaleczonej prawej rêce}
 {533}{}{okaleczonej prawej nodze}
 {534}{}{okaleczonej lewej nodze}
+
 {550}{}{Nie udaje ci siê otworzyæ zamka.}
 {551}{}{Nie udaje ci siê znaleŸæ jakichkolwiek pu³apek.}
 {552}{}{Nie udaje ci siê czegokolwiek nauczyæ.}
@@ -81,14 +101,22 @@
 {590}{}{Twoja zdolnoœæ pos³ugiwania siê t¹ umiejêtnoœci¹ zosta³a nadwerê¿ona. Odczekaj chwilê.}
 {591}{}{Odczuwasz teraz zbyt du¿e zmêczenie.}
 {592}{}{Ten wysi³ek móg³by ciê zabiæ.}
+# Fallout 2!
 {600}{}{Nie posiadasz wystarczaj¹cych umiejêtnoœci, by leczyæ powa¿ne rany.}
 {601}{}{Robot nie nadaje siê do naprawy.}
+#
+# Fallout 2: Party Member skill use generic responses
+#
+
+#   I'll try
 {1000}{}{Mo¿e pomóc?}
-{1001}{}{Mogê to zrobiæ.}
+{1001}{}{Mogê siê tym zaj¹æ.}
 {1002}{}{Rozumiem.}
 {1003}{}{Ca³a przyjemnoœæ po mojej stronie.}
-{1004}{}{Dobra.}
+{1004}{}{W porz¹dku.}
 {1005}{}{Spróbujê.}
+
+#   Player wants to do it
 {1100}{}{Gdyby by³y jakieœ problemy, daj znaæ.}
 {1101}{}{Rozumiesz?}
 {1102}{}{Je¿eli tego chcesz.}

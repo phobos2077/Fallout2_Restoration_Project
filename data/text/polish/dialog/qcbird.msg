@@ -20,10 +20,10 @@
 {119}{}{Ee, przez.}
 {120}{}{Oczywiœcie, ¿e nie.}
 {121}{}{Oczywiœcie, ¿e tak, oczywiœcie. Ka¿dy lojalny obywatel Stanów Zjednoczonych tak by zrobi³.}
-{122}{}{Dlaczego?}
+{122}{}{A to dlaczego?}
 {123}{}{Mam robotê do wykonania. Do widzenia.}
 {124}{}{Kontynuujcie, ¿o³nierzu. Nasza przysz³oœæ to lepsze jutro.}
-{125}{}{Co masz na myœli?}
+{125}{}{Co chcia³ pan przez to powiedzieæ?}
 {126}{}{Nie dla ciebie. W³aœnie eksterminujê wszystkie gnidy z Enklawy - ty jesteœ nastêpny na liœcie.}
 {127}{}{Ee, tak. Niewa¿ne. Do widzenia.}
 {128}{}{Musimy wspó³pracowaæ, poniewa¿ jeœli nam siê nie powiedzie, nara¿amy siê na niepowodzenie.}
@@ -44,7 +44,7 @@
 {143}{}{Tak, w³aœnie widzê.}
 {144}{}{A jaki wp³yw na historiê chce mieæ pan?}
 {145}{}{Tak, lubiê ten kierunek. W przesz³oœci dokonywa³em dobrych wyborów. W przysz³oœci równie¿. A wiêc, jak wszystko na to wskazuje, idŸmy w tym kierunku.}
-{146}{}{Tak.}
+{146}{}{Ee, tak.}
 {147}{}{Wierzê, ¿e jesteœmy na bezpowrotnej drodze do wolnoœci i demokracji - ale to mo¿e siê zmieniæ.}
 {148}{}{Zanieczyszczonemu œrodowisku Pustkowi przyda³aby siê dla odmiany odrobina wolnoœci.}
 {149}{}{Nie wytrzymam tego d³u¿ej - pan po prostu musi zostaæ zlikwidowany.}
@@ -60,7 +60,7 @@
 {159}{}{Nie jestem czêœci¹ problemu, jestem republikaninem.}
 {160}{}{Czyli jak ju¿ mówi³em - problem.}
 {161}{}{Ach, rozumiem. No có¿, jak prawdopodobnie wiesz, ju¿ od d³u¿szego czasu myœlimy, ¿e czas najwy¿szy, aby rodzaj ludzki wkroczy³ w uk³ad s³oneczny.}
-{162}{}{Aren't we already in the... Uh, to go *where*?}
+{162}{}{A czy my przypadkiem ju¿ nie... Ee, gdzie wkroczyæ?}
 {163}{}{A jak niby mielibyœmy tego dokonaæ?}
 {164}{}{Myœlê, ¿e Mars by³by ca³kiem niez³y, poniewa¿ ma zbli¿ona orbitê... Mars znajduje siê w mniej wiêcej tej samej odleg³oœci od S³oñca, co jest dla nas bardzo wa¿ne. Widzieliœmy zdjêcia, na których uwieczniono kana³y i, jak s¹dzimy, wodê. Jeœli jest tam woda - to jest te¿ tlen. Jeœli zaœ jest tlen - to mo¿emy tam oddychaæ.}
 {165}{}{No to mnie zaskoczy³eœ a¿ tak *pe³n¹* odpowiedzi¹.}

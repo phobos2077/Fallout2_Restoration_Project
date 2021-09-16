@@ -1,3 +1,3 @@
-{100}{}{Widzisz sfatygowana taœmê.}
-{101}{}{Pip-Boy wyœwietla: Plik znaleziony w Systemie. Kopiowanie przerwane.}
-{102}{}{Pip-Boy wyœwietla: Kopiowanie danych z Dysku.}
+{100}{}{Widzisz poobijany dysk.}
+{101}{}{PipBoy wyœwietla: Plik znaleziony w systemie. Kopiowanie anulowane.}
+{102}{}{PipBoy wyœwietla: Kopiowanie danych z dysku.}

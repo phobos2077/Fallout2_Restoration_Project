@@ -1,6 +1,6 @@
-{100}{}{You see a Vault City learning terminal.}
-{101}{}{This computer appears to be a teaching system of some sort. A friendly Pip-Boy is on the side.}
-{102}{}{You see the Vault City computer teaching system.}
-{103}{}{You tinker with the computer a bit, but you'll need to use some scientific skill to actually get anything useful out of the terminal.}
-{104}{}{You spend some time studying the computer archives.}
-{105}{}{You spend some time studying the archives but learn nothing more of importance.}
+{100}{}{Widzisz terminal edukacyjny Kryptopolis.}
+{101}{}{Ten komputer wydaje siê byæ systemem ucz¹cym. Z boku jest Pip-Boy.}
+{102}{}{Widzisz komputerowy system ucz¹cy Kryptopolis.}
+{103}{}{Mieszasz trochê przy komputerze, ale musisz u¿yæ jakichœ umiejêtnoœci naukowych, by znaleŸæ tam coœ po¿ytecznego.}
+{104}{}{Spêdzasz trochê czasu przeszukuj¹c archiwa.}
+{105}{}{Spêdzasz trochê czasu przegl¹daj¹c archiwa, lecz nie znajdujesz nic wa¿nego.}

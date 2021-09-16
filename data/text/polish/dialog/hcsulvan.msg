@@ -1,65 +1,65 @@
-{100}{}{You see a tall, graying, man with a tankard of beer.}
-{101}{}{You see John L. Sullivan. The pugilist.}
-{102}{}{You see a tall, older, man with muscular arms and a gray, but neatly groomed, handlebar mustache.}
-{103}{}{Sure now, you've had a wee bit too much already.}
-{104}{}{Begorah, but aren't you a stupid one.}
-{105}{}{You'd give Torr a good run for his money.}
-{106}{}{On your way now, ya wee strange one.}
-{107}{}{Ach, another tribal tiched in the hayed.}
-{108}{}{(Looks you up and down appraisingly) Well now, what have we here? Looks as though you dinnay know much about the sweet science at all do ye?}
-{109}{}{If you would get off your wee high horse, I could see helpin' ye a bit with your skills.}
+{100}{}{Widzisz wysokiego, siwiej¹cego mê¿czyznê z kufelkiem piwa.}
+{101}{}{Widzisz Johna L. Sullivana, piêœciarza.}
+{102}{}{Widzisz wysokiego, starszego mê¿czyznê z muskularnymi ramionami i siwymi, piêknie zaczesanymi sumiastymi w¹sami.}
+{103}{}{Ta, ju¿ masz ciutkê za wiela.}
+{104}{}{Dla boga, ale masz wióry pod klepk¹.}
+{105}{}{NieŸle by Torr dosta³ za jego pieniundze.}
+{106}{}{No, ruszaj siê, dziwactwo takowe jakieœ.}
+{107}{}{A, nastêpny dzikus kopniêty przez matulê naturê w ¿yæ.}
+{108}{}{[Ogl¹da ciê z góry na dó³ z zadowoleniem] No, co my tu mamy? Co widzio³, to nie znalisz ty za wiele naszej nauki, co?}
+{109}{}{Jak se zejdziesz z tego twojego bochego padu³u, to dyæ i mo¿e pomogo ci trocha z twemi machaniami.}
 {110}{}{O czym ty mówisz?}
-{111}{}{Uh, yeah, whatever, mister. See you around. Maybe.}
-{112}{}{Well, it's just my educated opinion but I can see by the way you move that you could do with a few pointers.}
-{113}{}{Pointers? With what?}
-{114}{}{I don't think so, old man. I doubt that *you* could teach me anything. Goodbye.}
-{115}{}{About the sweet science, of course. The sportin' art.}
-{116}{}{Uh, the art? Are you talking about magic!?! Can you teach me magic spells?}
+{111}{}{A tak, jasne, prze pana. Zobaczymy siê kiedy indziej. Mo¿e.}
+{112}{}{No, toæ tylko moja wyedukacyjowana myœl, li mog³o by ci siê nadaæ trochê wskazówek.}
+{113}{}{Wskazówek? W czym?}
+{114}{}{Nie s¹dzê, starcze. W¹tpiê, ¿ebyœ *ty* móg³ mnie czegokolwiek nauczyæ. Na razie.}
+{115}{}{Dyæ w s³odziutkiej nauce. W sztuce sportowej.}
+{116}{}{Ee, sztuce? Mówisz o magii!?! Mo¿esz mnie nauczyæ magicznych czarów?}
 {117}{}{O czym ty mówisz?}
-{118}{}{(he grins broadly) Sure and begorah, I could teach you about the wee folk, leprechauns, spriggans, Ban'sidhe and the like. Would you like that?}
-{119}{}{That sounds great. Teach away.}
-{120}{}{Pugilism, the manly art of hand-to-hand combat. That's what I mean.}
-{121}{}{Pugilism, the manly, uh, and womanly art of hand-to-hand combat. That's what I mean.}
-{122}{}{Well, I guess I could use some help with that.}
-{123}{}{I think I already know more about that than you could possibly teach me.}
-{124}{}{(talking to those around you) Did ye hear that? I got myself a live one here. Wants to hear bout the fairies and wee goblins and such. (Hooo, haah, haah-he doubles over in laughter) Here lad, have a drink on me, that's your ticket to the realms of the fay folk.}
-{125}{}{(talking to those around you) Did ye hear that? I got myself a live one here. Wants to hear bout the fairies and wee goblins and such. (Hooo, haah, haah-he doubles over in laughter) Here lass, have a drink on me, that's your ticket to the realms of the fay folk.}
-{126}{}{All I need is a drink? That's great. Thanks for the tip.}
-{127}{}{Somehow, I feel as though you're pulling my leg a bit.}
-{128}{}{Well, the drink's just a start. You have to find a fairy mound. (winks at the surrounding patrons)}
-{129}{}{What then?}
-{130}{}{Well, you sit by the mound and wait until you can see the fairy circle in the dew. If you jump into the fairy ring, you'll be made to dance until dawn with the wee folk. If you survive, they'll steal you away to the land of fairie. (heee, hah, hah, hah)}
-{131}{}{Wow, how'd you find this out?}
-{132}{}{Somehow, I think you're pulling my leg.}
-{133}{}{Oh, it's in me blood, of course. Erin go bragh! (he hefts his tankard aloft)}
-{134}{}{Yeah, go brag about Erin. Okay. Thanks for the tips. Hey, let me ask you about something else.}
-{135}{}{Somehow, I think you're pulling my leg about this whole thing.}
-{136}{}{Uh, well, uh, I can see that you're a busy man. See you later. Goodbye.}
-{137}{}{(He looks you over.) Mebbe' so. Mebbe' so. Well then, suit yourself.}
-{138}{}{Tak zrobiê. Do widzenia.}
-{139}{}{Well, mebbe' I am at that. Ne'er-the-less, you were a bonny good sport about it. Here's a beer, on me, for takin' it so well.}
-{140}{}{Thanks. Now what were you saying about the sweet science?}
-{141}{}{I'm not taking a beer from you. I know more than you could teach me, you old drunk. Goodbye.}
-{142}{}{Well, let's go outside and see what I can teach you. You see, it's all about getting your whole wee body to snap just like a whip...}
-{143}{}{Uh, huh.}
-{144}{}{I don't have time for this right now. Goodbye.}
-{145}{}{(Several, sweaty, hours later) So you see what you were doin' wrong then?}
-{146}{}{Yes, I do. Thanks for taking the time to help me out, Mr. Sullivan.}
-{147}{}{That was great. Let me give you $10 for some brew on me. It's the least I can do.}
-{148}{}{Yeah, I guess so. Thanks. Goodbye.}
-{149}{}{It was me very own pleasure. You take care o' yourself now. And if anyone asks... you just tell 'em that Fightin' John Sullivan taught you how to fight that way.}
-{150}{}{Will do, John. Thanks. Goodbye.}
-{151}{}{No, no, no. I could nay take money from ye. It was my very own pleasure to teach what I know. You take darn good care of yourself now. You've got real potential.}
-{152}{}{That's great, let me ask you one thing though. Where'd you learn how to fight like that?}
-{153}{}{Thanks, John. Goodbye.}
-{154}{}{That was a long time ago. When I was a wee young lad, an' dinnay have any sense in me thick head. A place called Reno. You keep your nose clean and stay away from the likes o' that place.}
-{155}{}{Where's Reno?}
-{156}{}{Oh, okay. Thanks, John. Goodbye.}
-{157}{}{I dinnay want to tell ye. You get on now. Just keep out o' harm's way. Goodbye now.}
-{158}{}{OK, thanks again. Goodbye, John.}
-{159}{}{Keep yourself outa trouble. I've taught you all I know.}
-{160}{}{Thanks. You mentioned something about the art before?}
-{161}{}{Thanks, John. I sure appreciate it. Goodbye.}
-{162}{}{I mean the art of pugilism. I was just pulling your leg about the other stuff. I'd best be getting' back to me cup now. Good luck to ye.}
-{163}{}{Oh, okay. Thanks, John. Goodbye.}
-{164}{}{John Sullivan has helped you improve your Melee and Unarmed Combat skills.}
+{118}{}{[Uœmiecha siê szeroko] Takoj, móg³¿ebym bajaæ ci o strzygoniach, utopcach i innych w¹pierzach. Chcesz li tego?}
+{119}{}{Brzmi wspaniale. Naucz mnie tego.}
+{120}{}{Piêœciarstwo, mêska sztuka bitki na rêce. Zalim to mia³ na umyœle.}
+{121}{}{Piêœciarstwo, mêska, ee, i kobica, sztuka bitki na rêce. Zalim to mia³ na umyœle.}
+{122}{}{Có¿, chyba to te¿ mi mo¿e siê przydaæ.}
+{123}{}{Chyba wiem o tym wiêcej, ni¿ mo¿esz mnie jeszcze douczyæ.}
+{124}{}{[mówi¹c do ludzi dooko³a] S³yszali? Mam ja tu takowego. Chce s³uchaæ o krasnoludkach, po³udnicach i innych strzygach. [ze œmiechu prawie nie zlatuje ze sto³ka] Dali, brachu, piwo na mnie, toæ twój bilet do œwiata dziwów.}
+{125}{}{[mówi¹c do ludzi dooko³a] S³yszali? Mam ja tu takowego. Chce s³uchaæ o krasnoludkach, po³udnicach i innych strzygach. [ze œmiechu prawie nie zlatuje ze sto³ka] Dali, krasawico, piwo na mnie, toæ twój bilet do œwiata dziwów.}
+{126}{}{Potrzebujê tylko siê napiæ? To wspaniale. Dziêki za radê.}
+{127}{}{Jakoœ wydaje mi siê, ¿e mnie trochê nabierasz.}
+{128}{}{Zali, napitek to zacz¹tek. Musita znaleŸæ oczko rusa³kowe. [mruga do siedz¹cych obok]}
+{129}{}{I co potem?}
+{130}{}{No, siadasz przy stawiku i œlepia wypatrujesz za rusa³eczk¹ w wodzie. Jak wskoczysz w toñ, porw¹ ciê w tan do samej jutrzni. Jeœli wy¿yjesz, to ukradn¹ ciê do rusa³kowej krainy. [h³e, h³e, cha, cha]}
+{131}{}{Jak siê o tym dowiedzia³eœ?}
+{132}{}{Jakoœ wydaje mi siê, ¿e mnie nabierasz.}
+{133}{}{O, dyæ w mojej krwi to, pakoj. Jakem ja dêb! [podnosi swój kufel]}
+{134}{}{Tak, jedŸ sobie tym jakiem. Dobra. Dziêki za rady. S³uchaj, pozwól, ¿e zapytam ciê o coœ innego.}
+{135}{}{Jakoœ wydaje mi siê, ¿e wszystko to sobie zmyœli³eœ.}
+{136}{}{Yy, có¿, ee, widzê, ¿e z ciebie zajêty cz³owiek. Do zobaczenia póŸniej.}
+{137}{}{[Patrzy na ciebie] Mo¿e i to prawda jest. Mo¿e tak. No to oporz¹dŸ siê.}
+{138}{}{Dobrze, do widzenia.}
+{139}{}{Mo¿e i tak. Ale tak czy owak pysznie ¿em siê ubawi³. Tu masz piwko, na mnie, za takie ³ykniêcie tego.}
+{140}{}{Dziêki. A teraz co tam mówi³eœ o tej s³odkiej nauce?}
+{141}{}{Nie wezmê od ciebie piwa. Wiem wiêcej, ni¿ móg³byœ mnie nauczyæ, stary pijaku. ¯egnam.}
+{142}{}{No, chodŸmy na s³oñce. Znajesz, to wszystko biega o to, sztoby ca³e cia³o uderza³o jako ten œwiñski bat...}
+{143}{}{A, cha.}
+{144}{}{Nie mam na to teraz czasu. Na razie.}
+{145}{}{[Po kilku sp³ywaj¹cych potem godzinach] Tera poznajesz, co siê by³o robi³o Ÿle?}
+{146}{}{Tak, rozumiem. Dziêkujê, ¿e poœwiêci³eœ mi pan swój czas, panie Sullivan.}
+{147}{}{To by³o wspania³e. Pozwól, ¿e dam ci $10 na browar. Przynajmniej tyle mogê zrobiæ.}
+{148}{}{Ta, chyba tak. Dziêki. Na razie.}
+{149}{}{Mojaszto by³a radnoj. A jakby kto pyta³... rzeknij, i¿li to Pi¹stka John Sullivan nauczy³ by³ ciê takiej bitki.}
+{150}{}{Zrobi siê, Johnie. Dziêkujê i do zobaczenia.}
+{151}{}{Nie, nie. Nie móg³¿ebym wzi¹æ twoich pieniundzów. Toæ by³a moja przyjemnoœæ nauczaja ciê, com umia³. Baczaj na siebie. Masz-li iskrê.}
+{152}{}{To wspaniale, ale pozwól, ¿e spytam ciê o jedn¹ rzecz. Gdzie siê tak nauczy³eœ walczyæ?}
+{153}{}{Dziêki, John. Do widzenia.}
+{154}{}{To dawne dzieje. Jak¿em by³ jeszcze ma³ym knypkiem, nie mia³em oleju w ³bie. Sadyba nazywajo Reno. Nie szukaj guza i trzymajta siê z dala od ludzisk stamt¹d.}
+{155}{}{Gdzie jest Reno?}
+{156}{}{Och, w porz¹dku. Dziêki, John. Do widzenia.}
+{157}{}{Nie rzeknê ci. Ruszajta ju¿. I nie figluj. Bywaj.}
+{158}{}{OK, jeszcze raz dziêki. Do zobaczenia, John.}
+{159}{}{Trzymajta siê z dala od k³opotów. Umisz ju¿ to co ja.}
+{160}{}{Dziêki. Wspomina³eœ coœ przedtem o sztuce?}
+{161}{}{Dziêki, John. Doceniam twoj¹ pomoc. Do zobaczenia.}
+{162}{}{Rzek³em by³em o piêœciarstwie. Reszta to by³a bujda. Ju¿li lepiej wróca do mojego kufelka. Miej szczêœcie.}
+{163}{}{Och, w porz¹dku. Dziêki, John. Do zobaczenia.}
+{164}{}{John Sullivan pomóg³ ci polepszyæ twoje zdolnoœci walki wrêcz i broni¹ bia³¹.}

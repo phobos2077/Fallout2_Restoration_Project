@@ -1,21 +1,32 @@
-{100}{}{You see a strange beast.}
-{101}{}{You see a super-mutant that looks a bit deranged.}
-{102}{}{Stop!}
-{103}{}{Approach no further! Melchior the Magnificent commands you!}
-{104}{}{Behold, I am the greatest magician in the world!}
-{105}{}{Tremble before the might of Melchior the Magnificent!}
-{106}{}{My pets will feast on your bones!}
-{107}{}{I warned you! Attack, my pets!}
-{1000}{}{SHAHOOEY!}
-{1001}{}{My claw pets take care you.}
-{1002}{}{Claw thing attack!}
-{1010}{}{ABADABRA!}
-{1011}{}{Melchior make fire pets to burn human.}
-{1012}{}{Burn da HU - MUN!}
-{1020}{}{ZIMZOWY!}
-{1021}{}{Jaw pet tear you up!}
-{1022}{}{Chomp him my precious.}
-{1030}{}{KALIMAJIGGER!}
-{1031}{}{Shit! Me only got fat rats left.}
-{1032}{}{Me running out of pets.}
-{1050}{}{Uh Oh. Me outta furries to mootate.}
+{100}{}{Widzisz dziwn¹ bestiê.}
+{101}{}{Widzisz supermutanta. Zdaje siê byæ niespe³na rozumu.}
+{102}{}{Stój!}
+{103}{}{Ani kroku dalej! Taka jest wola Melchiora Wspania³ego!}
+{104}{}{Padnij na kolana przed najwiêkszym magiem tego œwiata!}
+{105}{}{Chyl czo³a przed Melchiorem Wspania³ym!}
+{106}{}{Nakarmiê tob¹ moje zwierz¹tka!}
+{107}{}{Ostrzega³em ciê! Do ataku, moje zwierz¹tka!}
+
+# CREATION COMMENTS
+# DEATH CLAWS
+{1000}{}{CZARYMARY!}
+{1001}{}{Moje szponiaste zwierz¹tka ciê ukatrupiæ.}
+{1002}{}{Szponiasty zwierzaku - atakuj!}
+
+# FIRE GECKOS
+{1010}{}{ABRADABRA!}
+{1011}{}{Melchior zrobiæ ogniste zwierz¹tka. One spaliæ cz³owiek.}
+{1012}{}{Spaliæ CZ£O-WIEK!}
+
+# FLOATERS
+{1020}{}{SALABIM!}
+{1021}{}{Zêbate zwierz¹tka ciê za³atwiæ!}
+{1022}{}{UgryŸæ! UgryŸæ!}
+
+# MOLE RATS
+{1030}{}{HOKUPOKU!}
+{1031}{}{Cholera! Moja ma ju¿ tylko grube szczury.}
+{1032}{}{Mojej koñczyæ siê zwierzaki.}
+
+# OUT
+{1050}{}{Ojojoj... Nie ma futrzaków?}

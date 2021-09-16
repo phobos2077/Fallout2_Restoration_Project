@@ -1,8 +1,8 @@
-{100}{}{It looks like a generator.}
-{101}{}{This generator probably powers the elevator.}
-{200}{}{The generator needs repairs first.}
-{201}{}{The generator is already running.}
-{202}{}{You shutdown the generator.}
-{300}{}{That skill is useless on a generator.}
-{400}{}{You repair the generator and start it up.}
-{401}{}{You failed to repair the generator.}
+{100}{}{To wygl¹da jak generator.}
+{101}{}{Ten generator zapewne zasila windê.}
+{200}{}{Ten generator trzeba najpierw naprawiæ.}
+{201}{}{Ten generator ju¿ dzia³a.}
+{202}{}{Wy³¹czasz generator.}
+{300}{}{Ta umiejêtnoœæ nie przyda siê przy generatorze.}
+{400}{}{Naprawiasz generator i uruchamiasz go.}
+{401}{}{Nie udaje ci siê naprawiæ generatora.}

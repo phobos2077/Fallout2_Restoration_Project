@@ -47,6 +47,7 @@
 {146}{}{[Dalej.]}
 {147}{}{Och, nic. MÛj b≥πd. 13, tak? CÛø, nic o tym nie wiem.}
 {148}{}{[Dalej.]}
+
 {149}{}{Moja naprawiÊ problem. èli zabite. ChcieÊ szmala.}
 {150}{}{Powiedz jej, øe jej problem z osiedleÒcami jest juø rozwiπzany.}
 {151}{}{Darion nie øyje. Och, przepraszam. Wejdü, proszÍ.}
@@ -54,6 +55,8 @@
 {153}{}{Nie.}
 {154}{}{Ta, jest jeszcze coú - coú o szpiegu.}
 {155}{}{Co za ulg... znaczy, cieszÍ siÍ, øe juø po wszystkim. Wejdü, proszÍ.}
+
+#messages for when the player is tampering with something he shouldn't
 {500}{}{Przykro mi, ale nie moøesz tam wejúÊ bez pozwolenia.}
 {501}{}{Nie majstruj przy tym, proszÍ.}
 {502}{}{To twoje ostatnie ostrzeøenie - odejdü, albo poniesiesz konsekwencje.}

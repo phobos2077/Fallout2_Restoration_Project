@@ -1,10 +1,11 @@
 {100}{}{Widzisz starego cz³owieka.}
 {101}{}{Widzisz Corneliusa.}
 {102}{}{Poza odrobinê niespokojnym wyrazem twarzy nie ma w nim nic niezwyk³ego.}
+
 {150}{}{Witaj w Pensjonacie Rose. Mam na imiê Rose - znaczy... Cornelius - i prowadzê ten pensjonat. W czym mogê ci pomóc?}
 {151}{}{Jeœli prowadzisz pensjonat, dlaczego nazywa siê Pensjonat ROSE?}
 {152}{}{Szukam z³otego zegarka.}
-{153}{}{Czym siê zajmujesz?}
+{153}{}{Co pan tu robi?}
 {154}{}{Kim jest Rose?}
 {155}{}{Szukam pokoju.}
 {156}{}{Pytania? Czy ja ciebie o coœ pyta³em? Witam, mam na imiê Cornelius.}
@@ -17,7 +18,7 @@
 {177}{}{Zosta³ zabity przeze mnie. Co masz zamiar z tym zrobiæ, pomylony starcze?}
 {178}{}{Rany! Która to ju¿ godzina. Muszê lecieæ.}
 {179}{}{Rose jest moj¹ ¿on¹. Nazwa³em to miejsce jej imieniem. Wiesz, ¿e jestem ¿onaty?}
-{180}{}{Czy mogê ci zadaæ kilka pytañ?}
+{180}{}{Mogê zadaæ jeszcze kilka pytañ?}
 {181}{}{DLACZEGO NIE SPYTASZ TEGO NIEDOBREGO FARRELA!? MO¯E SPRZEDA CI ZEGAREK, KTÓRY MI UKRAD£! Teraz, jeœli pozwolisz, jestem nieco zajêty. Muszê ogoliæ braminê.}
 {182}{}{Prowadzê ten motel. Taak, to miejsce ju¿ by siê dawno rozlecia³o, gdyby nie ja. A wychodek? Najczystszy wychodek, w jakim zdarzy³o ci siê byæ. To moja robota.}
 {183}{}{Co ma czysty wychodek do prowadzenia motelu?}
@@ -61,12 +62,16 @@
 {223}{}{ZNALAZ£EM MORDERCÊ! PRZYZNA£ SIÊ, ¯E ZABI£ FARRELA! BIERZMY GO!}
 {224}{}{ZNALAZ£EM MORDERCZYNIÊ! PRZYZNA£A SIÊ, ¯E ZABI£A FARRELA! BIERZMY J¥!}
 {225}{}{Moja zabiæ Farrel.}
+
 {300}{}{[Hmmm... Zdaje siê, ¿e trzeba znaleŸæ pewne s³owa - klucze.] Rose... Pokój... Prowadziæ...}
 {301}{}{Uuga.}
+
 {501}{}{Zawsze wiedzia³em, ¿e to ty jesteœ z³odziejem!}
 {502}{}{Jak mog³eœ zrobiæ coœ takiego swojemu najlepszemu przyjacielowi!}
 {503}{}{Zabijê ciê!}
 {504}{}{Zawieszê sobie twoj¹ g³owê na œcianie!}
+
 {550}{}{Wydaje siê, ¿e jest teraz trochê zajêty.}
+
 {600}{}{Uda³o ci siê zwróciæ zegarek Corneliusowi.}
 {650}{}{Uda³o ci siê rozwi¹zaæ spór pomiêdzy Corneliusem i Farrelem.}

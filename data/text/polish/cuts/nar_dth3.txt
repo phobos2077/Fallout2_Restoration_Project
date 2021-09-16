@@ -1,2 +1,2 @@
-1:The wasteland has claimed your life.
-2:Arroyo attempts to send out others to search for the GECK, but they die quickly, and the village soon follows.
+1:Pustkowie upomnia³o siê o twoje ¿ycie.
+2:Kolejni ludzie wyruszaj¹ z Arroyo na poszukiwania GECKa, lecz szybko gin¹ i wioska umiera.

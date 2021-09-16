@@ -13,5 +13,6 @@
 {112}{}{Drzwi trzeszcz¹ i za³amuj¹ siê pod naciskiem.}
 {113}{}{Drzwi s¹ ju¿ otwarte.}
 {114}{}{Drzwi nie widz¹ w tobie ¿adnego wyzwania.}
+
 {120}{}{Harro, Ra Ra?}
 {121}{}{Hehe, drzwi gadajo. Czeœæ!}

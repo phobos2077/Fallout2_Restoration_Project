@@ -1,2 +1,1 @@
-{100}{}{The book contains TONS of inside information on Fallout 2, more than enough
- to modify yourself for the better.}
+{100}{}{Ksi¹¿ka zawiera MNÓSTWO informacji wewnêtrznych o Falloucie 2, o wiele wiêcej ni¿ potrzeba do ulepszenia samego siebie.}

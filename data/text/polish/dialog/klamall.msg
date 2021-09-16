@@ -1,1 +1,1 @@
-{100}{}{You have entered Trapper Town.}
+{100}{}{Jesteœ w Osiedlu Traperów.}

@@ -1,1 +1,1 @@
-{100}{}{You notice a ladder going down into the black hole.}
+{100}{}{Zauwa¿asz drabinê prowadz¹c¹ w g³¹b czarnej dziury.}

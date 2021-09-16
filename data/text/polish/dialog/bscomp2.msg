@@ -1,10 +1,8 @@
 {100}{}{Widzisz terminal komputerowy.}
-{101}{}{You see Darion's computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{You access the computer and quickly scan all available files. Among some personal journal
- entries, you find several detailed reports on the NCR. It seems there is a spy on their council.
- You copy the reports to a holodisk.}
-{104}{}{You are having difficulty accessing the files.}
-{105}{}{W porz¹dku.}
-{106}{}{Other than the information about the NCR spy, the computer contains no useful information.}
-{107}{}{W porz¹dku.}
+{101}{}{Widzisz komputerowy terminal Dariona.}
+{102}{}{Widzisz standardowy terminal komputerowy. Wygl¹da na to, ¿e jest w pe³ni sprawny i oczekuje na komendy.}
+{103}{}{Logujesz siê do komputera i szybko przegl¹dasz wszystkie dostêpne pliki. Poœród osobistych wpisów do dziennika znajdujesz kilka dok³adnych raportów dotycz¹cych RNK. Wygl¹da na to, ¿e w ich radzie znajduje siê szpieg. Kopiujesz raporty na holodysk.}
+{104}{}{Masz trudnoœci z dostêpem do plików.}
+{105}{}{Dalej.}
+{106}{}{Poza informacj¹ o szpiegu w RNK komputer ten nie zawiera ju¿ ¿adnych u¿ytecznych informacji.}
+{107}{}{Dalej.}

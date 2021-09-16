@@ -1,17 +1,12 @@
-{100}{}{You see... a white hero model.}
-{101}{}{You see a heavily muscled white man in a Vault 13 jumpsuit. He is smiling and laughing as he
- tells his story.}
-{102}{}{You see a white hero model. He is smiling and laughing.}
-{103}{}{You see a white hero model. He is smiling and laughing.}
-{104}{}{So... my player was SO stupid, that...}
-{105}{}{Get this, get this - he thinks that the shotgun ammo is the water chip, and he takes it back to
- the Overseer...}
-{106}{}{Czy ty nie masz rozumu!?!}
-{107}{}{I had one of those 'violent, dumb as a stone' players running me. And let me tell you...}
-{108}{}{It was fun for a while, but it gets old quick.  There's only so much killing to do before you
- get jaded.}
-{109}{}{We musta spent three hours on the character gen screen before my player FINALLY decided to
- actually *play* the game.}
-{110}{}{Ian was more dangerous to *me* than the enemies we were fighting. I hope he's dead, wherever he
- is.}
-{111}{}{Check out the muscles on this character model I've got. It's so exaggerated, it's ridiculous!}
+{100}{}{Widzisz... model bia³ego bohatera gry.}
+{101}{}{Widzisz silnie umiêœnionego mê¿czyznê w kombinezonie Krypty 13. Z uœmiechem ci¹gnie swoj¹ opowieœæ.}
+{102}{}{Widzisz model bia³ego bohatera gry. Opowiada coœ ze œmiechem.}
+{103}{}{Widzisz model bia³ego bohatera gry. Opowiada coœ ze œmiechem.}
+{104}{}{No i ten mój gracz... by³ taki g³upi, ¿e...}
+{105}{}{Ale to nie wszystko - wydaje mu siê, ¿e amunicja do strzelby to hydroprocesor, wiêc zanosi j¹ do Nadzorcy...}
+{106}{}{Co za dureñ!}
+{107}{}{Mia³em kiedyœ za gracza jednego z tych brutalnych troglodytów. Mówiê ci...}
+{108}{}{Przez jakiœ czas jest fajnie, ale szybko siê nudzi. W koñcu ile mo¿na bezmyœlnie zabijaæ.}
+{109}{}{Spêdziliœmy TRZY GODZINY na ekranie generowania postaci, zanim mój gracz wreszcie siê zdecydowa³ i zacz¹³ grê.}
+{110}{}{Ian stanowi³ wiêksze zagro¿enie dla mnie ni¿ dla naszych przeciwników. Mam nadziejê, ¿e goœæ kopn¹³ ju¿ w kalendarz.}
+{111}{}{Popatrz tylko, jakie mi zrobili miêœnie. Wygl¹dam jak kretyn! Co oni sobie myœl¹?!}

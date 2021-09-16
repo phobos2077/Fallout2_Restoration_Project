@@ -1,23 +1,31 @@
-{100}{}{You see a mercenary captain.}
-{150}{}{You see a rugged looking man dressed in combat armor. His armor and weapons look well-maintained, almost new.}
-{151}{}{You see a mercenary captain. He is scanning the area and fingering his weapon.}
-{200}{}{Well, look at the brass balls on this son of a bitch...}
-{201}{}{Kontakt!}
-{202}{}{Mamy intruza!}
-{203}{}{Zbiórka, ch³opcy! Mamy intruza}
-{204}{}{Well, look who stopped in ta die...}
-{205}{}{Damn! Somebody found us!}
-{206}{}{Nadchodzi burza piaskowa...}
-{207}{}{You just walked into the *wrong* place, bitch.}
-{208}{}{Proszê, proszê, popatrzcie tylko na ta nadêta sukê...}
-{215}{}{Better call those killer teams in soon...}
-{216}{}{I think Bravo team is a few klicks south of Vault City... they're still tracking that caravan.}
-{217}{}{That desert cherry better shape up soon... that sort of shit won't wash around here.}
-{218}{}{Almost time to send some men to check the perimeter...}
-{219}{}{If we could only sabotage those Vault City laser cannons...}
-{220}{}{Still waiting for word from Bishop...}
-{221}{}{Been a week since Bishop sent a messenger.}
-{222}{}{I figure the next caravan ought to be from NCR to Vault City...}
-{223}{}{We gotta be ready to move out at a moment's notice.}
-{224}{}{Hope those boys checked the traps.}
-{225}{}{Have Alpha and Bravo team checked back in yet?}
+# 0. QUICK LOOK
+{100}{}{Widzisz kapitana najemników.}
+
+# 0. LOOK
+{150}{}{Widzisz twardo wygl¹daj¹cego faceta ubranego w skórzany pancerz. Jego pancerz i broñ wygl¹daj¹ na dobrze utrzymane, prawie nowe.}
+{151}{}{Widzisz kapitana najemników. Obserwuje teren z palcem na cynglu.}
+
+# 1. FLOAT DIALOGUE: INTRUDER (WTG)
+{200}{}{Hej, popatrzcie na te mosiê¿ne kule u tego sukinsyna...}
+{201}{}{Widzê go!}
+{202}{}{Mamy intruza, ch³opaki!}
+{203}{}{Ruszaæ siê, ch³opaki, mamy intruza!}
+{204}{}{Có¿, patrzcie no, kto tu wpad³, ¿eby umrzeæ...}
+{205}{}{Cholera! Ktoœ nas znalaz³!}
+{206}{}{Jakiœ piasek tu wchodzi...}
+{207}{}{Trafi³aœ w *niew³aœciwe* miejsce, suko.}
+{208}{}{Pa, jaki chojrak z tej suki...}
+
+
+# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{215}{}{Lepiej szybko wezwaæ te dru¿yny zabójców...}
+{216}{}{Chyba dru¿yna Bravo jest kilka klików na po³udnie od Kryptopolis... wci¹¿ tropi¹ tamt¹ karawanê.}
+{217}{}{Lepiej, ¿eby ta pustynna wisienka szybciej siê wykszta³ci³a... takie gówno siê tu nie utrzyma.}
+{218}{}{Prawie czas, ¿eby wys³aæ ludzi na obchód...}
+{219}{}{Gdyby tylko uda³o nam siê zniszczyæ te wie¿yczki laserowe z Kryptopolis...}
+{220}{}{Wci¹¿ czekam na znak od Bishopa...}
+{221}{}{To ju¿ tydzieñ, odk¹d Bishop przys³a³ mi pos³añca.}
+{222}{}{Wygl¹da na to, ¿e nastêpna karawana powinna byæ z RNK do Kryptopolis...}
+{223}{}{Musimy byæ gotowi na wyjœcie w ka¿dym momencie.}
+{224}{}{Mam nadziejê, ¿e ci ch³opcy sprawdzili pu³apki.}
+{225}{}{Czy dru¿yny Alfa i Bravo ju¿ siê zg³osi³y?}

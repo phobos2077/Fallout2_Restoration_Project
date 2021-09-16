@@ -1,1 +1,1 @@
-{100}{}{You are on the outskirts of Vault City. Inside the walls lie orderly rows of pristine, white adobe buildings.}
+{100}{}{Znajdujesz siê na Podmurzu Kryptopolis. Po drugiej stronie murów widzisz równe rzêdy schludnych, bia³ych budynków.}

@@ -5,6 +5,7 @@
 {104}{}{Odwal siê!}
 {105}{}{Szukasz guza?}
 {106}{}{Auæ! Przestañ mnie sztuchaæ!}
+
 {200}{}{Ale, ale! Masz lodowate rêce!}
 {201}{}{To nie nale¿y do ciebie.}
 {202}{}{Hej, to moje rzeczy!}

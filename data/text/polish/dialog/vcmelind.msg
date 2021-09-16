@@ -9,23 +9,23 @@
 {108}{}{Czy to Kryptopies?}
 {109}{}{Nie, nie... nie pozwól daæ siê zwieœæ otoczeniu. Teraz znajdujesz siê na Podmurzu. W³aœciwe miasto le¿y na pó³noc st¹d.}
 {110}{}{Jaka jest ró¿nica miedzy tymi dwoma obszarami?}
-{111}{}{Mogê spytaæ o coœ jeszcze?}
-{112}{}{Dziêkujê ci za pomoc. Czeœæ.}
+{111}{}{Czy mogê spytaæ ciê o coœ innego?}
+{112}{}{Dziêki za twoj¹ pomoc. Pa.}
 {113}{}{Dziêki}
 {114}{}{Krypta? Jest na terenie miasta. Jednak, muszê ci powiedzieæ, ¿e tylko Obywatele maj¹ do niego dostêp.}
 {115}{}{Muszê siê dostaæ do Krypty.}
-{116}{}{Mogê spytaæ o coœ jeszcze?}
-{117}{}{Dziêkujê ci za pomoc. Czeœæ.}
+{116}{}{Mogê spytaæ o coœ innego?}
+{117}{}{Dziêki za pomoc. Pa.}
 {118}{}{Jak siê nazywam? Melinda. Jestem G³ówn¹ Witaj¹c¹ Urzêdniczk¹ Kryptopolis.}
 {119}{}{Brzmi jak ciê¿ka robota.}
-{120}{}{Mogê spytaæ o coœ jeszcze?}
-{121}{}{Dziêki za pomoc.}
+{120}{}{Mogê spytaæ ciê o coœ innego?}
+{121}{}{Dziêki za twoj¹ pomoc.}
 {122}{}{Podmurze jest obszarem, w którym chronimy mniej szczêœliwych Przybyszów. Wielu z nich ¿yje pod nasz¹ ochrona i staje siê czêœci¹ wspania³oœci Kryptopolis. Wewnêtrzne Miasto to obszar, w którym ¿yj¹ Obywatele.}
 {123}{}{Dlaczego tylko Obywatele ¿yj¹ w wewnêtrznej czêœci?}
 {124}{}{Mogê spytaæ o coœ jeszcze?}
 {125}{}{Dziêki za pomoc.}
 {126}{}{Przykro mi, ale jak ju¿ mówi³am, tylko Obywatelom wolno przebywaæ w Krypcie. Nie mogê przyznaæ ci dostêpu. Porozmawiaj z Wallacem, naszym Urzêdnikiem Celnym. Mo¿e on bêdzie w stanie ci pomóc. Jego biuro jest na pó³nocnym krañcu Podmurza, tu¿ przy bramie do miasta.}
-{127}{}{Mogê spytaæ o coœ jeszcze?}
+{127}{}{Mogê spytaæ ciê o coœ jeszcze?}
 {128}{}{Dziêkujê ci za pomoc. Czeœæ.}
 {129}{}{Moja praca przynosi korzyœci Kryptopolis, mam przywilej rozmawiaæ z podró¿nymi o wspania³oœci miasta.}
 {130}{}{Och, no co ty, nigdy ciê to nie nudzi?}

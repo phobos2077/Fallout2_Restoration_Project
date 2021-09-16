@@ -1,4 +1,4 @@
-{100}{}{You see a cross. It says 'Trash.'}
-{101}{}{Uh... it's a cross.}
-{102}{}{Hey, somebody buried some cash beneath the cross.}
-{103}{}{Nothing more here.}
+{100}{}{Widzisz krzy¿. Napis na nim g³osi Œmieæ.'}
+{101}{}{Hmm... to jest krzy¿.}
+{102}{}{Hej, ktoœ zakopa³ pod tym krzy¿em jakieœ pieni¹dze.}
+{103}{}{Nic wiêcej tu nie ma.}

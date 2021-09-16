@@ -1,6 +1,7 @@
 {100}{}{Widzisz mê¿czyznê stroj¹cego lutniê.}
 {101}{}{To Joshua.}
 {102}{}{Jest wêdrownym muzykiem.}
+
 {103}{}{Tak Sir Robin nogê da³...}
 {104}{}{Mê¿ny junak wia³ na schwa³...}
 {105}{}{Gdy œmierci czo³a stawiæ mia³, nasz dzielny m¹¿ jak sta³, tak zwia³...}

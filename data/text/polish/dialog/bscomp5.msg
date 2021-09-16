@@ -1,8 +1,6 @@
 {100}{}{Widzisz terminal komputerowy.}
-{101}{}{You see the power center computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{This terminal monitors the power generator. It indicates that everything is functioning
- normally.}
-{104}{}{This terminal monitors the power generator. It indicates that the unit is off line due to a
- malfunction of some sort.}
-{105}{}{W porz¹dku.}
+{101}{}{Widzisz komputerowy terminal centrum energetycznego.}
+{102}{}{Widzisz standardowy terminal komputerowy. Wygl¹da na to, ¿e jest w pe³ni sprawny i oczekuje na komendy.}
+{103}{}{Ten terminal nadzoruje generator mocy. Ze wskazañ wynika, ¿e wszystko funkcjonuje normalnie.}
+{104}{}{Ten terminal nadzoruje generator mocy. Ze wskazañ wynika, ¿e jednostka ta jest wy³¹czona ze wzglêdu na jakieœ uszkodzenia.}
+{105}{}{Dalej.}

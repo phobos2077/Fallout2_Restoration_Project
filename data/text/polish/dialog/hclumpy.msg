@@ -38,5 +38,7 @@
 {137}{}{Och. Ty OK?}
 {138}{}{Och... có¿, ja... hmmmm. Czy... wszystko w porz¹dku?}
 {139}{}{Mówi³em im. Powtarza³em: "Potrzebujemy znaków drogowych". Ale czy mnie us³uchali? Nieeeee.... po co s³uchaæ starego Lumpyego!}
+
+# Player float
 {200}{}{O, cholera!}
 {201}{}{Uh, oh. Ja trafiæ œmierdziela.}

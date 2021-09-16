@@ -6,64 +6,64 @@
 {105}{}{Domu Starego Ghula?}
 {106}{}{Kim jesteœ?}
 {107}{}{Hej, czy s³ysza³eœ kiedyœ o GECKu?}
-{108}{}{Pa.}
+{108}{}{Do widzenia.}
 {109}{}{Nastêpne dziecko pustyni, co? Hej, dzieciaku, chcesz poznaæ pewien sekret?}
 {110}{}{Taa!}
-{111}{}{Y, y.}
+{111}{}{Nuh uch.}
 {112}{}{Za m³odu stawia³em na wyœcigach i wygra³em trochê forsy. Dawno temu zakopa³em wszystkie moje pieni¹dze niedaleko st¹d. Jeœli ktoœ wyœwiadczy³by mi przys³ugê lub dwie, móg³bym mu powiedzieæ, gdzie jest "skarb".}
 {113}{}{Mów!}
 {114}{}{Nie obchodzi.}
 {115}{}{Jaki skarb?}
 {116}{}{Jak¹ przys³ugê?}
-{117}{}{Mam inne pytania.}
-{118}{}{Pa!}
+{117}{}{Mam parê innych pytañ.}
+{118}{}{Do widzenia!}
 {119}{}{Heh. Dobra, jak sobie chcesz. W takim razie nic dla ciebie nie mam.}
-{120}{}{Pa.}
+{120}{}{Do widzenia.}
 {121}{}{Musisz wyœwiadczyæ mi najpierw przys³ugê, dzieciaku.}
 {122}{}{Okej!}
 {123}{}{Nuh uh!}
-{124}{}{Có¿ to takiego?}
+{124}{}{Jak¹?}
 {125}{}{Zapomnij o tym.}
 {126}{}{Jestem ju¿ stary i du¿o st¹d nie wychodzê. Nie mam zbyt du¿ych szans na akcjê, wiesz co mam na myœli? Chcê wiêc Magazyn Kocia £apka. Przynieœ mi jeden.}
 {127}{}{Masz! [daj Magazyn Kocia £apka Typhonowi]}
 {128}{}{Okej!}
-{129}{}{Y y!}
+{129}{}{Nu!}
 {130}{}{Proszê bardzo. [daj Magazyn Kocia £apka Typhonowi]}
 {131}{}{Dobra. Nied³ugo wrócê.}
 {132}{}{Zapomnij o tym.}
 {133}{}{Dziêki za œwierszczyka, dzieciaku. Pogadam z tob¹ za godzinê lub dwie.}
 {134}{}{Okej!}
 {135}{}{Jeszcze tego nie zrobi³em! Kurwa! Czy stary ghul nie mo¿e mieæ odrobiny prywatnoœci?}
-{136}{}{[Zrobione]}
+{136}{}{[GOTOWE]}
 {137}{}{Jaki to skarb? Forsa, dzieciaku, kupa forsy. Wystarczaj¹co du¿o, by zaspokoiæ ka¿d¹ normaln¹ osobê.}
-{138}{}{O co konkretnie chodzi?}
+{138}{}{Jakiœ haczyk?}
 {139}{}{Nie potrzebujê pieniêdzy.}
 {140}{}{Wróci³eœ, co? Chcesz ten skarb, co, dzieciaku?}
-{141}{}{'ak!}
-{142}{}{Nie-e.}
+{141}{}{Taa!}
+{142}{}{Nuh-uh.}
 {143}{}{Co to za skarb?}
 {144}{}{Tak, powiedz mi o nim.}
 {145}{}{Mam parê pytañ.}
 {146}{}{Nie.}
-{147}{}{Jak co?}
+{147}{}{Na przyk³ad?}
 {148}{}{To Dom Starego Ghula?}
 {149}{}{S³ysza³eœ kiedyœ o GECKu?}
 {150}{}{Kim jesteœ?}
 {151}{}{Mo¿esz powiedzieæ mi coœ jeszcze?}
 {152}{}{To taki dowcip. Przebywaj¹ tu tylko starzy ghule. Widzisz, jesteœmy wszyscy sterylni, ale ¿yjemy bardzo d³ugo. Jesteœmy pierwszym i ostatnim pokoleniem ghuli. To jest miejsce dla tych z nas, którzy chc¹ trochê odpocz¹æ.}
 {153}{}{Rozumiem. Mam parê pytañ.}
-{154}{}{£apiê. Czeœæ.}
+{154}{}{Na razie.}
 {155}{}{Jestem Typhon. S³ysza³eœ kiedykolwiek o Secie? Rz¹dzi³ kiedyœ w Necropolis. Jestem jego synem. Urodzi³em siê, kiedy nadesz³o promieniowanie, wiêc dorasta³em zmutowany. Nigdy nie mia³em innego ¿ycia.}
 {156}{}{Opowiedz mi o Secie.}
 {157}{}{Set? S³ysza³em, ¿e to by³ totalny skurwiel!}
 {158}{}{Rozumiem. Mam parê pytañ.}
-{159}{}{£apiê. Czeœæ.}
+{159}{}{Na razie.}
 {160}{}{Tak. Mieliœmy kiedyœ takie, ale ci niezmutowani ludzie zabrali je nam, ¿eby stworzyæ w³asne Cudowne Krainy. Na twoim miejscu poszuka³bym w Kryptopolis. Albo mo¿e w RNK na po³udniu.}
 {161}{}{Cholera. Mam parê pytañ.}
 {162}{}{Cholera. Na razie.}
 {163}{}{"Totalny Skurwiel" to chyba dobre s³owa na opisanie go. Zmiana w ghula nie zmniejszy³a wcale jego poczucia humoru, ani manii wielkoœci. Oczywiœcie mutacja pomiesza³a ka¿demu trochê w g³owie. Myœlê, ¿e dorastanie jako ghul trochê mi to u³atwi³o.}
 {164}{}{Rozumiem. Mam parê pytañ.}
-{165}{}{Dziêki. Pa.}
+{165}{}{Dziêki. Do widzenia.}
 {166}{}{I co? Masz mój magazyn Kocia £apka?}
 {167}{}{Tak. [daj Typhonowi Koci¹ £apkê]}
 {168}{}{Nie-e.}
@@ -71,26 +71,26 @@
 {170}{}{Jeszcze nie. Mam parê pytañ.}
 {171}{}{Nie.}
 {172}{}{Wiêc siê poœpiesz! Jestem bardzo starym ghulem, mówiê ci, muszê siê trochê rozerwaæ! A teraz idŸ, idŸ, idŸ!}
-{173}{}{[Zrobione]}
+{173}{}{[GOTOWE]}
 {174}{}{Dzieciaku, ten magazyn rozrusza³ trochê starego i myœlê, ¿e za ten skarb móg³byœ przynieœæ mi jeszcze parê rzeczy. Przynieœ mi gumow¹ lalkê. Powinieneœ chyba znaleŸæ jak¹œ w Nowym Reno.}
 {175}{}{Dobrze. Do widzenia!}
 {176}{}{Nie-e!}
 {177}{}{Proszê bardzo! [daj gumow¹ lalkê Typhonowi]}
 {178}{}{W porz¹dku. Mam jeszcze parê pytañ.}
-{179}{}{Dobra. ¯egnam.}
+{179}{}{Dobrze. Do widzenia.}
 {180}{}{Zapomnij o tym.}
 {181}{}{Mam j¹ tu. [daj gumow¹ lalkê Typhonowi]}
 {182}{}{To powinno wystarczyæ. Daj mi parê godzin, a wtedy pogadamy. A teraz spadaj. [spogl¹da po¿¹dliwie na lalkê]}
-{183}{}{[Zrobione]}
+{183}{}{[GOTOWE]}
 {184}{}{Czy nie mo¿na tu mieæ odrobiny prywatnoœci! Spierdalaj!}
-{185}{}{[Zrobione]}
+{185}{}{[GOTOWE]}
 {186}{}{Jestem wyczerpany. Przynieœ mi butelkê samogonu i pogadamy o skarbie. Barman Phil powinien go mieæ.}
 {187}{}{Taa! Nara!}
-{188}{}{Ne!}
+{188}{}{Nie!}
 {189}{}{Masz! [Daj samogon Typhonowi.]}
 {190}{}{Proszê bardzo. [Daj samogon Typhonowi.]}
 {191}{}{Czy to wszystko?}
-{192}{}{Dobra. ¯egnam.}
+{192}{}{Dobra. Na razie.}
 {193}{}{Zapomnij o tym.}
 {194}{}{Bêdê chyba chcia³... och, jeszcze jednej rzeczy. Powiem ci, jak przyniesiesz ten cholerny samogon.}
 {195}{}{Dobra, zrobiê to.}
@@ -100,10 +100,10 @@
 {199}{}{Dziêki. Mam parê pytañ.}
 {200}{}{Dziêki, na razie.}
 {201}{}{Jak tam szukanie skarbu?}
-{202}{}{Y, y.}
-{203}{}{Jeszcze nie.}
+{202}{}{Nuh uh.}
+{203}{}{Nic jeszcze nie mam.}
 {204}{}{Nic jeszcze nie mam. Chcê ciê o coœ spytaæ.}
-{205}{}{Nie. Czeœæ.}
+{205}{}{Niezbyt dobrze. Na razie.}
 {206}{}{Wiêc go szukaj.}
 {207}{}{Dobra.}
 {208}{}{W porz¹dku. Do widzenia.}
@@ -123,6 +123,8 @@
 {222}{}{Dobrze. Gdzie s¹ pieni¹dze?}
 {223}{}{Dobrze. Pamiêtam, ¿e schowa³em pieni¹dze gdzieœ w Centrum. Ale to by³o tyle lat temu, stawiali nowe budynki, przebudowywali stare i tak w kó³ko, teraz nie jestem pewien, gdzie to jest. Jeœli to pomo¿e, pamiêtam, ¿e pomyœla³em wtedy; schowaæ je w miejscu którego nie zburz¹ ani nie rozkopi¹. No wiesz w jakimœ wa¿nym dla miasta miejscu. Powodzenia.}
 {224}{}{Uda³o ci siê przekonaæ Typhona, do powiedzenia ci o miejscu ukrycia skarbu.}
+
+# Typhon/Seymour Floats.
 {300}{}{Ale dialektyka Hegla nie odnosi siê do...}
 {301}{}{Hegel, Hegel, Hegel! Zawsze ten Hegel!}
 {302}{}{A wtedy kobieta mówi, "To nie królik, proboszczu!"}
@@ -130,7 +132,7 @@
 {304}{}{A wtedy pierwszy proton mówi, "Tak, jestem dodatni!"}
 {305}{}{[jêk] Jest TAK Ÿle. Jestem wyczerpany.}
 {306}{}{Nie jest ³atwo byæ zielonym.}
-{307}{}{Powiedz mi coœ o tym.}
+{307}{}{Opowiedz mi o tym.}
 {308}{}{Ale to przecie¿ oczywiste, ¿e to filozoficzna œlepa uliczka!}
 {309}{}{To tylko dlatego, ¿e nie przeanalizowa³eœ wszystkich rozga³êzieñ. Jeœli teraz...}
 {310}{}{Chcesz jakiegoœ owoca?}

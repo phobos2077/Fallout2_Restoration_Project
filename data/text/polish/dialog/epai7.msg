@@ -3,4 +3,5 @@
 {102}{}{Drzwi s¹ ju¿ otwarte.}
 {103}{}{Widzisz drzwi do skrzyd³a ochrony.}
 {104}{}{Widzisz wzmocnione drzwi do skrzyd³a ochrony.}
+
 {200}{}{Brak zamka do otwarcia.}

@@ -31,7 +31,7 @@
 {130}{}{Intruzi! Alarm!}
 {131}{}{Ratujcie ¿ycie! Dzikusy na wolnoœci!}
 {132}{}{Stra¿e! Poooomoocyyy!}
-{133}{}{Uwaga intruz! Uwaga intruz!}
+{133}{}{Intruzi! Alarm! Intruzi!}
 {134}{}{Wy³¹czyæ? Nie wy³¹czysz *mojego* reaktora.}
 {135}{}{W³aœnie, ¿e wy³¹czê. Lepiej powiedz mi jak, albo wy³¹czê go raz na zawsze.}
 {136}{}{Wy³¹czyæ? Przepraszam, chcê dowiedzieæ siê tylko, jak dzia³a ta elektrownia.}

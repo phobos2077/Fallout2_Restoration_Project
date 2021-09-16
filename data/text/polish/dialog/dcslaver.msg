@@ -1,7 +1,13 @@
+# 0. Look
 {100}{}{Widzisz ³owcê niewolników.}
+
 {150}{}{Jest chyba jednym z osobistych stra¿ników Metzgera.}
+
+# 1. CF: Hostile
 {200}{}{Tu jesteœ.}
 {201}{}{Teraz umrzesz.}
+
+# 2. CF: Normal
 {300}{}{Chcesz rozmawiaæ z szefem? W³aŸ.}
 {301}{}{Musisz porozmawiaæ z Metzgerem, nie ze mn¹.}
 {302}{}{W³aŸ.}

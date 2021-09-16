@@ -1,6 +1,10 @@
 {100}{}{Widzisz w³¹czony terminal.}
 {101}{}{Przygl¹daj¹c siê uwa¿nie terminalowi dostrzegasz napis: "I*tel Inside".}
 {102}{}{Nie mo¿esz przeczytaæ tego, co jest wyœwietlone na monitorze.}
+
+#NPC is unable to read what is on the monitor
+{200}{}{ nie mo¿e przeczytaæ tego, co jest wyœwietlone na monitorze.}
+
 {103}{}{G³ówne Zasilanie = Od³¹czone                                        
  Zasilanie Zapasowe = Pod³¹czone                                 
  Ponowne inicjowanie Programu Ochrony                          
@@ -46,7 +50,7 @@
 {137}{}{To nic nie da. Ten program jest dla ciebie po prostu zbyt skomplikowany, nie zrozumiesz go.}
 {138}{}{Twoja nieudolnoœæ spowodowa³a uruchomienie alarmu.}
 {139}{}{WyjdŸ.}
-{200}{}{ nie mo¿e przeczytaæ tego, co jest wyœwietlone na monitorze.}
+
 {300}{}{Komputer wydaje siê mieæ jakiœ rodzaj mechanizmu obronnego.}
 {301}{}{Ulegasz pora¿eniu za }
 {302}{}{ ulega pora¿eniu za }

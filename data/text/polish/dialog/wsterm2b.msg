@@ -20,7 +20,7 @@
 {111}{}{[Mimo usilnych prób z twojej strony, te wszystkie dziwne kreski nic ci nie mówi¹.]}
 {112}{}{Wy³¹cz P³yty Pora¿aj¹ce                                             
  Proszê Podaæ Has³o:_}
-{113}{}{W³am siê do systemu ochrony.}
+{113}{}{W³am siê do sytemu bezpieczeñstwa}
 {114}{}{Zgadnij Has³o}
 {115}{}{Wróæ do Menu G³ównego}
 {116}{}{WyjdŸ.}
@@ -32,7 +32,7 @@
 {122}{}{WyjdŸ.}
 {123}{}{Wy³¹cz Pola Si³owe                                                     
  Proszê Podaæ Has³o:_}
-{124}{}{W³am siê do systemu ochrony.}
+{124}{}{W³am siê do systemu bezpieczeñstwa}
 {125}{}{Zgadnij Has³o}
 {126}{}{Wróæ do Menu G³ównego}
 {127}{}{WyjdŸ.}
@@ -40,7 +40,7 @@
 {129}{}{Wróæ do Menu G³ównego}
 {130}{}{WyjdŸ.}
 {131}{}{[Dzieciêca igraszka. Pola si³owe s¹ teraz wy³¹czone.]}
-{132}{}{Wróæ do Menu G³ównego}
+{132}{}{Wróæ do Menu G³ównego.}
 {133}{}{WyjdŸ.}
 {134}{}{[Ktoœ zapomnia³ zamkn¹æ swoj¹ skrzynkê pocztow¹.]           
  Potwierdzenie Zamówienia                                          
@@ -83,6 +83,9 @@
 {164}{}{WyjdŸ.}
 {165}{}{[Jakimœ cudem twoje majstrowanie powoduje, ¿e terminal wybucha ci prosto w twarz.]}
 {166}{}{WyjdŸ.}
+
 {200}{}{[Ten terminal nie jest ju¿ sprawny.]}
-{300}{}{Udaje ci siê rozbroiæ p³ytkê pora¿acza.}
-{400}{}{Komputer znajduje siê w trybie diagnostycznym. Proszê zaczekaæ, a¿ procedura diagnostyczna zostanie ukoñczona.}
+
+{300}{}{Udaje ci siê wy³¹czyæ p³yty pora¿aj¹ce.}
+
+{400}{}{Komputer jest w trybie diagnostycznym. Proszê czekaæ na zakoñczenie procedury diagnostycznej.}

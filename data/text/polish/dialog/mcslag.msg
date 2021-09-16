@@ -1,22 +1,31 @@
-{100}{}{Zwiewaj!}
+# Flee
+{100}{}{Uciekaæ!}
 {101}{}{Pomocy!}
-{102}{}{We're being attack by the surfacers.}
+{102}{}{Powierzchniowcy atakuj¹.}
 {103}{}{Zostaw nas w spokoju.}
-{104}{}{Nie moglibyœmy po prostu ustaliæ dobre stosunki?}
-{150}{}{Go back where you came from.}
-{151}{}{You're not wanted here.}
-{152}{}{All you surfacers are alike.}
-{153}{}{You will not escape.}
-{200}{}{Grrrr!}
-{201}{}{Boo!}
-{202}{}{Moaaaaaaan.}
-{203}{}{*Clank*}
-{204}{}{*Dzyñ*}
-{250}{}{We used to live above ground.}
-{251}{}{What's it like above ground?}
-{252}{}{It's so BIG up there.}
-{253}{}{What's the sun look like?}
-{254}{}{Hello, surfacer.}
-{300}{}{I knew we could trust you.}
-{301}{}{Dziêkujê za pomoc.}
+{104}{}{Czy nie mo¿emy ¿yæ w zgodzie?}
+
+# Attack
+{150}{}{Wracaj, sk¹d przychodzisz!}
+{151}{}{Nie chcemy ciê tutaj.}
+{152}{}{Wy wszyscy powierzchniowcy jesteœcie tacy sami.}
+{153}{}{Nie uciekniesz.}
+
+# General Dialogue (above ground)
+{200}{}{Uuuaa!}
+{201}{}{Buu!}
+{202}{}{Ieeeuuaa.}
+{203}{}{*Klank*}
+{204}{}{*Klink*}
+
+# General Dialogue (below ground)
+{250}{}{Kiedyœ ¿yliœmy na górze.}
+{251}{}{Jak tam jest, na górze?}
+{252}{}{Tam na górze jest tak OGROMNIE.}
+{253}{}{Jak wygl¹da s³oñce?}
+{254}{}{Witaj, powierzchniowcu.}
+
+# General Dialogue when Seed is completely done
+{300}{}{Wiedzieliœmy, ¿e mo¿emy na ciebie liczyæ.}
+{301}{}{Dziêkujemy ci za pomoc.}
 {302}{}{Mi³o ciê znowu widzieæ.}

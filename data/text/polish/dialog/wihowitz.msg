@@ -1,8 +1,10 @@
-{100}{}{You see an SIAD-BG-type howitzer.}
-{101}{}{Although it looks a bit dilapidated, you think it might still fire. If only you could find a shell.}
-{102}{}{The firing mechanism is fused. You're now looking at a 2-ton paperweight.}
-{200}{}{The howizter is already loaded.}
-{201}{}{You load the shell into the howizter.}
-{210}{}{You fire the howitzer at the door, blowing it open.}
-{211}{}{The howitzer has nothing to fire.}
-{212}{}{You fire the howitzer.}
+{100}{}{Widzisz haubicê typu SIAD-BG.}
+{101}{}{Choæ wygl¹da jakby mia³a siê zaraz rozlecieæ, myœlisz, ¿e mo¿e wystrzeliæ. Gdybyœ tylko znalaz³ amunicjê...}
+{102}{}{Wyrzutnia siê stopi³a. Patrzysz teraz na dwutonowy przycisk do papieru.}
+
+{200}{}{Haubica jest ju¿ na³adowana.}
+{201}{}{£adujesz haubicê.}
+
+{210}{}{Strzelasz z haubicy w drzwi, niszcz¹c je.}
+{211}{}{Haubica nie ma do czego strzelaæ.}
+{212}{}{Strzelasz z haubicy.}

@@ -1,46 +1,49 @@
 {100}{}{Widzisz stra¿nika.}
-{150}{}{The guard is guarding the old church.}
+
+{150}{}{Stra¿nik pilnuje starego koœcio³a.}
 {151}{}{[ROZMAWIAJ]}
-{152}{}{How dare you show your face again!}
-{153}{}{[GOTOWE]}
-{154}{}{Ho! No one enters the Family Wright warehouse at night!}
-{155}{}{Well, Mr. Wright himself sent me on an errand. If you don't know about it, too bad.}
-{156}{}{I'll come back tomorrow.}
-{157}{}{I need to get in there now.}
-{158}{}{[Looking nervous] Sorry... I didn't know. Do you have any papers?}
-{159}{}{Please! Can you even read?}
-{160}{}{No, he didn't give me any.}
-{161}{}{I left them back with my guard. I'll go fetch them.}
-{162}{}{You cannot get in without papers.}
-{163}{}{Here's my authorization! Attack!}
-{164}{}{Wrócê póŸniej.}
-{165}{}{[Embarrassed] No... um... alright, just go on in...}
-{166}{}{Dziêki ci.}
-{167}{}{No, tak ju¿ lepiej.}
-{168}{}{What do you people want?}
-{169}{}{We need to go inside.}
-{170}{}{We were sent here by the boss.}
-{171}{}{I would have heard if a group was sent here. Be off!}
-{172}{}{Off with your head!}
-{173}{}{OK, OK; we're going.}
-{174}{}{What is your business here?}
-{175}{}{I need to go inside.}
-{176}{}{I've been sent on official business by the boss. Stand aside!}
-{177}{}{Removing your head from your shoulders.}
-{178}{}{Sorry, wrong place.}
-{179}{}{Hello again. You can go on in.}
+{152}{}{Jak œmiesz siê tu znowu pokazywaæ!}
+{153}{}{[KONIEC]}
+{154}{}{Hola! Nikt nie mo¿e wejœæ w nocy do magazynu Rodziny Wright!}
+{155}{}{Pan Wright wys³a³ mnie w pewnej sprawie. Jeœli nic o tym nie wiesz, to ju¿ twój problem.}
+{156}{}{Przyjdê jutro.}
+{157}{}{Muszê siê tam natychmiast dostaæ.}
+{158}{}{[Wygl¹da na zdenerwowanego] Przepraszam... nie wiedzia³em. Masz ze sob¹ jakieœ papiery?}
+{159}{}{Daj spokój! W ogóle potrafisz czytaæ?}
+{160}{}{Nie, ¿adnych mi nie da³.}
+{161}{}{Zostawi³em u jednego z moich ludzi. Zaraz przyniosê.}
+{162}{}{Nie mo¿esz wejœæ bez papierów.}
+{163}{}{Oto moje upowa¿nienie! Do ataku!}
+{164}{}{Jeszcze tu wrócê.}
+{165}{}{[Zak³opotany] Nie... ech... dobra, w³aŸ ju¿...}
+{166}{}{Dziêkujê.}
+{167}{}{No, to mi siê podoba.}
+{168}{}{Ludzie, czego wy chcecie?}
+{169}{}{Musimy wejœæ do œrodka.}
+{170}{}{Szef nas tu przys³a³.}
+{171}{}{Powinni mnie uprzedziæ, ¿e przyjdzie ca³a grupa. Spadajcie!}
+{172}{}{Twoja g³owa te¿ zaraz spadnie!}
+{173}{}{Dobra, dobra. Ju¿ nas nie ma.}
+{174}{}{Jaki tu macie interes?}
+{175}{}{Muszê wejœæ do œrodka.}
+{176}{}{Szef mnie przys³a³ w interesach. Odsuñ siê!}
+{177}{}{Usun¹æ twoj¹ g³owê z szyi.}
+{178}{}{Przepraszam, pomyli³y mi siê domy.}
+{179}{}{Witaj znowu. Mo¿esz wejœæ.}
 {180}{}{Dziêki.}
-{181}{}{Hey, get the hell away from the door!}
-{182}{}{Don't touch the door again unless you want trouble.}
-{183}{}{I see you touch that door again, you're gonna get a bullet in the head.}
-{184}{}{Hej, co ty wyprawiasz?}
-{185}{}{I've had enough of you.}
-{186}{}{Sorry; I can let you in, but your friends are gonna have to wait outside.}
-{187}{}{Only one of you are allowed in at a time.}
-{200}{}{Good evening.}
-{201}{}{Good afternoon.}
-{202}{}{Good morning.}
-{203}{}{Just finish up your business, thank you.}
-{250}{}{You know, pal, I've had enough of your shit!}
-{251}{}{You know, bitch, I've had enough of your shit!}
+{181}{}{Hej, odpiernicz siê od tych drzwi!}
+{182}{}{Nie dotykaj tych drzwi. No chyba, ¿e szukasz k³opotów.}
+{183}{}{Jeœli zobaczê, ¿e dotykasz tych drzwi, dostaniesz kulkê w ³eb.}
+{184}{}{Hej, co ty sobie myœlisz?}
+{185}{}{Mam ciê doœæ.}
+{186}{}{Przepraszam. Ty mo¿esz wejœæ, ale twoi koledzy musz¹ poczekaæ na zewn¹trz.}
+{187}{}{Tylko jedna osoba mo¿e wejœæ.}
+
+{200}{}{Dobry wieczór.}
+{201}{}{Dzieñ dobry.}
+{202}{}{Dzieñ dobry.}
+{203}{}{Ju¿ koñczê robotê, dziêkujê.}
+
+{250}{}{Wiesz co, mam ju¿ doœæ tego twojego pieprzenia!}
+{251}{}{Wiesz co, mam dosyæ twojego pieprzenia!}
 {252}{}{[KONIEC]}

@@ -1,3 +1,3 @@
-{100}{}{You have entered the Gecko Nuclear Power Plant.}
+{100}{}{Przed tob¹ Elektrownia Atomowa w Gecko.}
 {200}{}{Reaktor zosta³ zniszczony.}
-{300}{}{The robot has repaired the power plant.}
+{300}{}{Robot naprawi³ elektrowniê.}

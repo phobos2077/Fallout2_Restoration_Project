@@ -4,7 +4,7 @@
 {103}{}{Czy mogê s³u¿yæ?}
 {104}{}{Hej, to dziêki tobie Jack siê podda³, prawda? Kawa³ dobrej roboty. Czym mogê s³u¿yæ?}
 {105}{}{Jasne.}
-{106}{}{Drinka.}
+{106}{}{Poproszê coœ do picia.}
 {107}{}{Kim jest tamten wielki goœæ?}
 {108}{}{Co s³ychaæ w mieœcie?}
 {109}{}{Do widzenia.}
@@ -18,15 +18,16 @@
 {117}{}{Dziêki.}
 {118}{}{Córka prezydenta Aradesha, za³o¿yciela RNK. Rz¹dzi tutaj od paru ³adnych lat, i - trzeba przyznaæ - ca³kiem nieŸle sobie radzi.}
 {119}{}{I szuka specjalisty? Jakiego rodzaju?}
-{120}{}{Co to za wielkolud?}
+{120}{}{Co to za olbrzym, o tam?}
 {121}{}{Dziêki.}
 {122}{}{Nie wiem. Gunther, jej asystent, pewnie wie wiêcej. Powinien siê gdzieœ krêciæ w gmachu Kongresu.}
 {123}{}{Co to za wielkolud?}
-{124}{}{Dziêki.}
+{124}{}{Dziêki}
 {125}{}{Napijesz siê czegoœ?}
-{126}{}{Jasne.}
-{127}{}{Nie.}
+{126}{}{Pewnie.}
+{127}{}{Nie, dziêki.}
 {128}{}{Mogê ci postawiæ drinka?! Od dawna mia³em ochotê mu tak przy³o¿yæ!}
 {129}{}{Mam kilka pytañ.}
 {130}{}{Dobrze! Czeœæ.}
+
 {131}{}{Ch³opie, aleœ skopa³ ty³ek Hossowi! Co mogê dla ciebie zrobiæ?}

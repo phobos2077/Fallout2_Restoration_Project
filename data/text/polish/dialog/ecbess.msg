@@ -1,2 +1,2 @@
-{100}{}{O mój Bo¿e! To Bess!}
-{101}{}{This brahmin looks vaguely familiar.}
+{100}{}{O mój Bo¿e, to¿ to Bess!}
+{101}{}{Ten bramin wygl¹da dziwnie znajomo.}

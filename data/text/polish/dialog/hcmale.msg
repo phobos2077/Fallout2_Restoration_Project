@@ -1,96 +1,107 @@
-{100}{}{You see a male biped of the species homosapien.}
-{101}{}{You see a male townsperson.}
-{102}{}{You see a male townsperson. He's dirty, but he carries his head high.}
-{131}{}{All the mutants... dead... I can't believe it.}
-{132}{}{Who'd do such a thing?}
-{133}{}{Where did that poison come from?}
-{134}{}{With all the mutants dead, we're going to need NCR for protection.}
-{135}{}{I want revenge on the bastards responsible.}
-{136}{}{Who can we kill in return?}
-{137}{}{Does NCR have an army? Who'll protect us now?}
-{138}{}{I guess we don't have to worry about possible mutant uprisings now...}
-{139}{}{Poor Marcus... who'll lead us now?}
-{147}{}{Is nowhere safe now?}
-{148}{}{When did thuggery become so common?}
-{149}{}{I'm thinking about moving... it's not safe here anymore.}
-{150}{}{I heard Franc and Manson are real mutie-haters.}
-{151}{}{I'm glad they got out... I wonder where they are now.}
-{152}{}{Franc and Manson are poison. This town will never be the same until they're caught again.}
-{153}{}{Who would kill those guards? That's inhuman.}
-{154}{}{I can't believe that this town used to be so peaceful.}
-{155}{}{How did you manage to convince the guards to let those two bastards out?}
-{156}{}{Thanks for letting out Franc and Manson. They weren't causing any real trouble.}
-{157}{}{Where are Franc and Manson now? They really should be back in jail.}
-{158}{}{Some of my best friends are mutants and ghouls...}
-{159}{}{I wish we had some more lightbulbs.}
+{100}{}{Widzisz dwuno¿nego osobnika p³ci mêskiej, nale¿¹cego do gatunku cz³owiek.}
+{101}{}{Widzisz mieszkañca miasta p³ci mêskiej.}
+{102}{}{Widzisz mieszkañca miasta p³ci mêskiej. Jest brudny, ale g³owê trzyma podniesion¹.}
+
+{131}{}{Wszyscy mutanci... martwi... nie mogê w to uwierzyæ.}
+{132}{}{Kto móg³by zrobiæ coœ takiego?}
+{133}{}{Sk¹d siê wziê³a ta trucizna?}
+{134}{}{Bez mutantów bêdziemy potrzebowaæ ochrony RNK.}
+{135}{}{Chcê zemœciæ siê na draniach, którzy to zrobili.}
+{136}{}{Kogo by tu zabiæ w odwecie?}
+{137}{}{Czy RNK ma armiê? Kto nas teraz ochroni?}
+{138}{}{Teraz ju¿ chyba nie musimy siê martwiæ groŸb¹ mutanckiej rewolucji...}
+{139}{}{Biedny Marcus... kto nas teraz poprowadzi?}
+
+{147}{}{Czy nie ma ju¿ bezpiecznych miejsc?}
+{148}{}{Od kiedy to zbrodnie s¹ tak powszechne?}
+{149}{}{Zastanawiam siê, czy by siê nie przeprowadziæ... tu ju¿ nie jest bezpiecznie.}
+{150}{}{S³ysza³em, ¿e Frank i Manson nienawidz¹ mutków.}
+{151}{}{Cieszê siê, ¿e ju¿ ich nie ma... Ciekawe, gdzie s¹ teraz.}
+{152}{}{Franc i Manson to trucizna. To miasto nie bêdzie takie jak dawniej, póki ktoœ ich nie z³apie.}
+{153}{}{Kto móg³ zabiæ stra¿ników? To nieludzkie.}
+{154}{}{Nie mogê uwierzyæ, ¿e kiedyœ to miasteczko by³o takie spokojne.}
+
+{155}{}{Jak uda³o ci siê przekonaæ stra¿ników, ¿eby wypuœcili tych dwóch drani?}
+{156}{}{Dziêki za wypuszczenie Franca i Mansona. Nie sprawiali du¿ych k³opotów.}
+{157}{}{Gdzie s¹ teraz Franc i Manson? Naprawdê powinno siê ich wsadziæ z powrotem do wiêzienia.}
+{158}{}{Niektórzy z moich najlepszych przyjació³ to ghule i mutanci.}
+{159}{}{Szkoda, ¿e nie mamy wiêcej ¿arówek.}
 {160}{}{Co to za zapach?}
-{161}{}{I'm worried that NCR might try to suck us in.}
-{162}{}{Do you think New Reno would be a good place to live?}
-{163}{}{I don't have anything against mutants, but they're so funny looking.}
-{164}{}{I'd tell you "nice work," but you'd probably turn me in.}
-{165}{}{Jacob and Aileen were mutie-haters, huh? They seemed so nice.}
-{166}{}{Come on... Aileen?}
-{167}{}{I can't believe that human/mutant relations have sunk so low.}
-{168}{}{Marcus must be pissed at the humans now.}
-{169}{}{I think all us humans better just relax and breathe easy for a while.}
-{170}{}{I heard the mutants are getting together to destroy the humans!}
-{171}{}{What do the ghouls think about all this?}
-{172}{}{The mine... destroyed... our homes are worthless now. }
-{173}{}{We're ruined.}
-{174}{}{This is the end of Broken Hills.}
-{175}{}{I'm gonna head for NCR.}
-{176}{}{Who would do such a thing?}
-{177}{}{My god... the mine...}
-{178}{}{Where's the justice in the world?}
-{179}{}{I guess I'll just kill myself. Without the mine, I can't support myself.}
-{180}{}{Oh, baby... life is hard.}
-{181}{}{Wow... I never knew anyone strong enough to beat Francis.}
-{182}{}{You're so strong!}
-{183}{}{You're real tough, huh?}
-{184}{}{Sometimes I feel like a magic 8-ball. I just spout random sayings and walk away.}
-{185}{}{Have you ever wrestled a deathclaw?}
-{186}{}{Are you as smart as you are strong?}
-{187}{}{Francis sure seems happy lately.}
-{188}{}{Francis has quite a glow. Did he get laid?}
-{189}{}{Hey there, gimp!}
-{190}{}{Still walking straight?}
-{191}{}{Did Francis scar you?}
-{192}{}{You're walking a little loose, there.}
-{193}{}{How could you be stupid enough to wrestle Francis for those odds?}
-{194}{}{I hope you enjoyed it as much as Francis did.}
-{198}{}{Glad to have you in town.}
-{199}{}{Gonna stick around for a while?}
-{200}{}{I hope you like it here!}
-{201}{}{You're doing a fine job. Ever consider being sheriff?}
-{202}{}{Town seems so much nicer lately.}
-{203}{}{I think things are finally starting to go our way.}
-{204}{}{Get away from me, scumbag.}
-{205}{}{I don't associate with your kind.}
+{161}{}{Obawiam siê, ¿e RNK spróbuje nas zaanektowaæ.}
+{162}{}{Jak s¹dzisz - czy Nowe Reno to dobre miejsce do mieszkania?}
+{163}{}{Nie mam nic przeciwko mutantom, ale oni tak zabawnie wygl¹daj¹..}
+
+{164}{}{Powiedzia³bym ci "dobra robota", ale nie chcê zostaæ zakapowany.}
+{165}{}{Jacob i Aileen nienawidzili mutków, tak? A sprawiali takie dobre wra¿enie.}
+{166}{}{No co ty... Aileen?}
+{167}{}{Nie mogê uwierzyæ, ¿e stosunki ludzko - mutanckie upad³y tak nisko.}
+{168}{}{Marcus musi byæ teraz nieŸle wkurzony na ludzi.}
+{169}{}{Chyba bêdzie lepiej, jeœli my, ludzie, weŸmiemy g³êboki oddech i trochê siê uspokoimy.}
+{170}{}{S³ysza³em, ¿e mutanci zbieraj¹ siê, by zniszczyæ ludzi!}
+{171}{}{Co ghule myœl¹ o tym wszystkim?}
+
+{172}{}{Kopalnia... zniszczona... nasze domy nie maj¹ teraz ¿adnej wartoœci.}
+{173}{}{Jesteœmy zrujnowani.}
+{174}{}{To koniec Broken Hills.}
+{175}{}{Przeprowadzê siê do RNK.}
+{176}{}{Kto móg³by zrobiæ coœ takiego?}
+{177}{}{Mój Bo¿e... kopalnia...}
+{178}{}{I gdzie w tym wszystkim jest sprawiedliwoœæ?}
+{179}{}{Chyba po prostu siê zabijê. Bez kopalni nie zdo³am siê utrzymaæ.}
+{180}{}{Och, kochanie... ¿ycie jest ciê¿kie.}
+
+{181}{}{O rany... Nigdy nie widzia³em takiego, kto by³by na tyle silny, ¿eby daæ radê Francisowi.}
+{182}{}{Tyle si³y w jednym cz³owieku!}
+{183}{}{Prawdziwa z ciebie góra miêœni, co?}
+{184}{}{Czasem czujê siê jak magiczna bila nr 8. Chodzê tu i tam i wyg³aszam przypadkowo dobrane zdania.}
+{185}{}{Zdarzy³o ci siê kiedyœ si³owaæ ze szponem œmierci?}
+{186}{}{Czy masz tyle rozumu co si³y?}
+
+{187}{}{Francis jest ostatnio zdecydowanie zadowolony z siebie.}
+{188}{}{Francis chodzi dumny jak paw. Przespa³ siê z kimœ?}
+{189}{}{Pozdrówka, kowboju!}
+{190}{}{Trzymasz siê jeszcze na nogach?}
+{191}{}{Bêdziesz mieæ po tym blizny?}
+{192}{}{Wiesz, chodzisz trochê jak kaczka.}
+{193}{}{Jak mo¿na byæ tak g³upim, ¿eby biæ siê z Francisem maj¹c takie ma³e szanse?}
+{194}{}{Mam nadziejê, ¿e tobie podoba³o siê tak samo, jak Francisowi.}
+
+{198}{}{Mi³o widzieæ ciê w mieœcie.}
+{199}{}{Zostaniesz tu na trochê?}
+{200}{}{Mam nadziejê, ¿e ci siê tu podoba!}
+{201}{}{Odwalasz dobr¹ robotê! Przysz³o ci kiedyœ na myœl, ¿eby zostaæ szeryfem?}
+{202}{}{Ostatnio miasto zrobi³o siê du¿o milsze.}
+{203}{}{Chyba w koñcu rzeczy zaczynaj¹ uk³adaæ siê po naszej myœli.}
+
+{204}{}{Zabieraj siê st¹d, œmieciu.}
+{205}{}{Nie zadajê siê z kimœ w twoim typie.}
 {206}{}{Kto ciê tu wpuœci³?}
-{207}{}{I don't know why they don't run you out of town.}
-{208}{}{Proszê, daj mi spokój.}
+{207}{}{Nie wiem, czemu jeszcze nie wygonili ciê z miasta.}
+{208}{}{Proszê, zostaw mnie w spokoju.}
 {209}{}{Nie zawracaj mi g³owy.}
-{210}{}{I can't help you. Go away.}
-{211}{}{Die in the desert, jerk.}
+{210}{}{Nie mogê ci pomóc. OdejdŸ.}
+{211}{}{IdŸ zdychaæ na pustyni, kanalio.}
 {212}{}{OdejdŸ.}
-{213}{}{Pomó¿ mi!}
-{214}{}{He's over here!}
+
+{213}{}{Ratunku!}
+{214}{}{On jest tutaj!!}
 {215}{}{Aaaaaaaaaaah!}
-{216}{}{Traitor!}
-{217}{}{Scumbag!}
-{218}{}{Zostaw mnie w spokoju!}
+{216}{}{Zdrada!}
+{217}{}{Œcierwo!}
+{218}{}{Zostaw mnie!}
 {219}{}{Nie! Nie! Nie!}
-{220}{}{Nie dotykaj mnie.}
-{221}{}{Nie bij mnie!}
-{250}{}{Those poor people.}
-{251}{}{Who fell down Jacob's ladder?}
-{252}{}{Well, look what the desert dragged in.}
-{253}{}{Some of my best friends are mutants and ghouls...}
-{254}{}{I wish we had some more lightbulbs.}
-{255}{}{Co to za zapach?}
-{256}{}{I'm worried that NCR might try to suck us in.}
-{257}{}{Do you think New Reno would be a good place to live?}
-{258}{}{I don't have anything against mutants, but they're so funny looking.}
-{259}{}{Life is hard. Phil's rotgut shouldn't be.}
-{260}{}{I can't believe that son of a bitch.}
-{261}{}{My cat's breath smells like cat food.}
+{220}{}{Nie dotykaj mnie!}
+{221}{}{Nie rób mi krzywdy!}
+
+{250}{}{Biedni ludzie.}
+{251}{}{Kto spad³ z drabiny Jakubowej?}
+{252}{}{Hej, zobaczcie, co tu przywia³o z pustyni.}
+{253}{}{Niektórzy z moich najlepszych przyjació³ s¹ ghulami i mutantami...}
+{254}{}{Chcia³bym, ¿ebyœmy mieli wiêcej ¿arówek.}
+{255}{}{Co to za smród?}
+{256}{}{Obawiam siê, ¿e RNK mo¿e chcieæ nas zaanektowaæ.}
+{257}{}{Czy myœlisz, ¿e Nowe Reno to dobre miejsce do mieszkania?}
+{258}{}{Nie mam nic przeciwko mutantom, ale oni tak œmiesznie wygl¹daj¹.}
+{259}{}{¯ycie mocno daje po ³bie. Nie to co bimber Phila.}
+{260}{}{Nie wierzê temu skurwysynowi.}
+{261}{}{Oddech mojego kota œmierdzi kocim ¿arciem.}

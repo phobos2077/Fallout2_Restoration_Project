@@ -1,1 +1,1 @@
-{100}{}{You hear some sounds coming from within the caves.}
+{100}{}{S³yszysz jakieœ dŸwiêki dochodz¹ce z jaskiñ.}

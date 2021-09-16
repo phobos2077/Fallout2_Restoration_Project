@@ -15,11 +15,11 @@
 {114}{}{Œwiêty Granat Rêczny z Antiochii? To¿ to najwspanialsza broñ w swojej klasie.}
 {115}{}{Dlaczego wiêc szukacie tak straszliwego orê¿a?}
 {116}{}{My, Bractwo Stali, poszukujemy tej niszczycielskiej broni by nie wpad³a one w rêce niepowo³anych osób, które wykorzysta³y by Œwiêty Granat Rêczny z Antiochii do mrocznych i niecnych celów.}
-{117}{}{Czemu?}
+{117}{}{Dlaczego?}
 {118}{}{No... bo Bractwo Stali postawi³o sobie za szczytny cel obronê s³abych i bezsilnych, a t¹ zabawk¹ mo¿na komuœ zrobiæ niez³¹ krzywdê.}
-{119}{}{Czemu?}
+{119}{}{Dlaczego?}
 {120}{}{Umm... bo tak nakazuje moralnoœæ!}
-{121}{}{Czemu?}
+{121}{}{Dlaczego?}
 {122}{}{Ja... um... S³uchaj, jesteœmy bardzo zajêci. To jak - pomo¿esz nam czy nie? Wiesz gdzie jest Œwiêty Granat Rêczny z Antiochii?}
 {123}{}{Tak.}
 {124}{}{Nie.}
@@ -35,6 +35,7 @@
 {134}{}{Skoro macie dwa, mo¿e dalibyœcie mi jednego.}
 {135}{}{Nie. Nie. Tego nie zrobimy. Nie mo¿esz tak szybko skoñczyæ swojego zadania. Poza tym - jest ich wiêcej. ZnajdŸ sobie w³asnego. [Wskazuje kierunek wskazany przez ciebie, gdy zapyta³ ciê o Œwiêty Granat Rêczny z Antiochii.]}
 {136}{}{[KONIEC]}
+
 {200}{}{Czy mówisz z dworsk¹ manier¹?}
 {201}{}{Haaalo.}
 {202}{}{Hej, jestem tutaj.}
@@ -42,6 +43,9 @@
 {204}{}{Ahem.}
 {205}{}{No, daj spokój. Przestañ mnie ignorowaæ.}
 {206}{}{B³agam! Mam bardzo wa¿ne pytanie.}
+
 {207}{}{Có¿, pora wyruszyæ na poszukiwanie Œwiêtego Granatu Rêcznego z Antiochii. ChodŸ, Patsy.}
+
+#added by killap - RP 1.3
 {300}{}{Nasza misja zosta³a wype³niona!}
 {301}{}{Artur, do us³ug.}

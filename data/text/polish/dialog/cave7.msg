@@ -1,1 +1,1 @@
-{100}{}{You enter a dark cave. There are rat droppings everywhere.}
+{100}{}{Wchodzisz do ciemnej jaskini. Wszêdzie wokó³ le¿¹ szczurze odchody.}

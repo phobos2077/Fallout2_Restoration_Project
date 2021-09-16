@@ -1,34 +1,38 @@
-{0}{}{ST}
+#
+# Inventory messages from inventry.c
+#
+{0}{}{SI}
 {1}{}{PE}
-{2}{}{EN}
+{2}{}{WT}
 {3}{}{CH}
 {4}{}{IN}
-{5}{}{AG}
-{6}{}{LK}
+{5}{}{ZR}
+{6}{}{SZ}
 {7}{}{PW}
-{8}{}{Klasa pancerza}
-{9}{}{  Normal}
+{8}{}{Klasa Panc.}
+{9}{}{  Konw.}
 {10}{}{  Laser}
-{11}{}{  Fire}
-{12}{}{  Plasma}
-{13}{}{  Explode}
-{14}{}{No item}
-{15}{}{Dmg:}
-{16}{}{Rng:}
-{17}{}{Ammo:}
-{18}{}{(Not worn)}
-{19}{}{You don't have enough action points to use inventory.}
-{20}{}{Total Wt:}
-{21}{}{MOVE ITEMS}
-{22}{}{ALL}
-{23}{}{SET TIMER}
-{24}{}{Unarmed dmg:}
-{25}{}{You cannot pick that up. You are at your maximum weight capacity.}
-{26}{}{There is no space left for that item.}
-{27}{}{OK, that's a good trade.}
-{28}{}{No, your offer is not good enough.}
-{29}{}{You gain %d experience points for successfully using your Steal skill.}
-{30}{}{Wt.}
-{31}{}{Sorry, you cannot carry that much.}
-{32}{}{Sorry, that's too much to carry.}
-{50}{}{You can't find anything to take from that.}
+{11}{}{  Ogieñ}
+{12}{}{  Plazma}
+{13}{}{  Wybuchy}
+{14}{}{Bez broni}
+{15}{}{Moc:}
+{16}{}{Zas:}
+{17}{}{Amn:}
+{18}{}{(Ten egzemplarz nie jest w tej chwili u¿ywany)}
+{19}{}{Masz za ma³o punktów akcji, by skorzystaæ z ekwipunku.}
+{20}{}{Obci¹¿.:}
+{21}{}{PRZENIEŒ}
+{22}{}{CA£OŒÆ}
+{23}{}{USTAW ZAPALNIK}
+{24}{}{Moc bez broni:}
+{25}{}{Za ciê¿kie. Nie jesteœ w stanie tego podnieœæ.}
+{26}{}{Nie ma ju¿ miejsca na ten przedmiot.}
+{27}{}{OK, to dobry interes.}
+{28}{}{Nie, twoja oferta jest za s³aba.}
+{29}{}{Zyskujesz %d PD za skuteczne zastosowanie umiejêtnoœci kradzie¿y.}
+{30}{}{Waga.}
+{31}{}{Nie jesteœ w stanie unieœæ a¿ tyle.}
+{32}{}{Jest tego za du¿o, ¿eby móc to unieœæ.}
+
+{50}{}{Nie znajdujesz noc wartego zabrania.}

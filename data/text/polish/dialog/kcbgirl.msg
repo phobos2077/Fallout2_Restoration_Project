@@ -1,64 +1,70 @@
-{100}{}{You see an attractive young woman.}
-{101}{}{You see a bath attendant.}
-{102}{}{You see one of Big Nose Sally's girls.}
-{103}{}{You see a bored looking woman.}
-{104}{}{You see a woman checking you out.}
-{105}{}{You're being mentally undressed by this woman.}
+{100}{}{Widzisz atrakcyjn¹ m³od¹ kobietê.}
+{101}{}{Widzisz ³aziebn¹.}
+{102}{}{Widzisz jedn¹ z dziewczyn Wielkonosej Sally.}
+{103}{}{Widzisz znudzon¹ kobietê.}
+{104}{}{Widzisz kobietê taksuj¹c¹ ciê wzrokiem.}
+{105}{}{Jesteœ rozbierany w myœlach przez tê kobietê.}
 {106}{}{Widzisz m³od¹ kobietê.}
-{110}{}{You see an attractive young woman. Her face is covered with a light dusting of some kind of
- white powder.}
-{111}{}{You see a middle-aged woman with an ample bosom.}
-{112}{}{You see an attractive woman wearing partially fastened clothing.}
-{113}{}{You see a woman looking you over appraisingly... with a grimace on her face.}
-{120}{}{That was quick.}
-{121}{}{Been a long time, honey?}
-{122}{}{Maybe it will last longer next time.}
-{123}{}{It's not a race, you know.}
-{124}{}{Do your friends call you 'Speedy'?}
-{125}{}{If all my customers were that quick, I could go home early.}
-{126}{}{It's more fun if you wait 'til I help you.}
-{127}{}{If you waited until I undressed, I bet you'd like it more.}
-{130}{}{That was real nice. You're a real man, all right.}
-{131}{}{That was special. You're wonderful. Next!}
-{132}{}{Oh yeah, baby, never had it like that before. (yawn)}
-{133}{}{You're the best. Come back soon.}
-{134}{}{I'm sure you'll make some tribal gal very happy.}
-{135}{}{No, honey, size doesn't matter at all. That was nice.}
-{136}{}{Aren't you just a hunk o' hunk o' burnin' love.}
-{137}{}{What a cute little feller you got there.}
-{140}{}{Size does matter! Sweet mystery of life... }
-{141}{}{I'm putting in for overtime next time you come around.}
-{142}{}{You sure get your money's worth.}
-{143}{}{I'm taking the rest of the day off.}
-{144}{}{Wow! Did the earth move for you, too?}
-{145}{}{Now I know what Catherine the Great felt like.}
-{150}{}{Well, a buck's a buck, I guess.}
-{151}{}{That was, uh, different, I guess.}
-{152}{}{That was real special. Next!}
-{153}{}{No, you can't use my perfume.}
-{154}{}{Well, at least your mustache is smaller than most of my customers'.}
-{155}{}{You're sure you're a gal?}
-{160}{}{That was kinda nice.}
-{161}{}{That was different, but not a bad different.}
-{162}{}{I think I'd like to try that again sometime.}
-{163}{}{We should do that off-the-clock sometime.}
-{164}{}{That was sweet, sugar.}
-{165}{}{Wow! My life's going to be a lot different from here on in.}
-{166}{}{I didn't know it could be like that.}
-{170}{}{You should go talk to Big Nose Sally.}
-{171}{}{Aren't you a cutey?}
-{172}{}{Love you long-time!}
-{173}{}{Come up and see me sometime.}
-{174}{}{You know how to whistle doncha?}
-{175}{}{I used to be pure as snow, but then I drifted.}
-{176}{}{(Wolf whistles)}
-{177}{}{Hey there, tiger.}
-{178}{}{Hey, baaaaaby.}
-{179}{}{Go talk to Sally if you want some action.}
-{180}{}{Scrub a-dub-dub...}
-{181}{}{Looks like you could use a wash.}
-{182}{}{Oh, a tribal; I just love exotics.}
-{183}{}{I don't usually do tribals.}
-{184}{}{Like what you see, baby?}
-{185}{}{You want me?}
-{186}{}{Gotta pay to play, sugar.}
+
+{110}{}{Widzisz atrakcyjn¹ m³od¹ kobietê. Jej twarz pokryta jest jakimœ jasnym pudrem.}
+{111}{}{Widzisz kobietê w œrednim wieku z du¿ym biustem.}
+{112}{}{Widzisz atrakcyjn¹ kobietê nosz¹c¹ czêœciowo...}
+{113}{}{Widzisz kobietê taksuj¹c¹ ciê wzrokiem... z grymasem na twarzy.}
+
+{120}{}{To by³o szybkie.}
+{121}{}{D³ugo by³o, kochanie?}
+{122}{}{Mo¿e potrwa to d³u¿ej nastêpnym razem.}
+{123}{}{No wiesz, to nie wyœcig.}
+{124}{}{Czy przyjaciele nazywaj¹ ciê 'Szybki Bill'?}
+{125}{}{Gdyby wszyscy moi klienci byli tacy szybcy, mog³abym wczeœniej wracaæ do domu.}
+{126}{}{Jest bardziej zabawnie, jeœli poczekasz, dopóki ci nie pomogê.}
+{127}{}{Za³o¿ê siê, ¿e gdybyœ poczeka³, a¿ siê rozbiorê, podoba³oby ci siê bardziej.}
+
+{130}{}{By³o naprawdê mi³o. NieŸle, jesteœ prawdziwym mê¿czyzn¹.}
+{131}{}{To by³o coœ specjalnego. Jesteœ cudowny. Nastêpny!}
+{132}{}{Och tak, dziecinko, nigdy takiego wczeœniej nie mia³am. (ziewniêcie)}
+{133}{}{Jesteœ najlepszy. Wróæ wkrótce.}
+{134}{}{Jestem pewna, ¿e bardzo uszczêœliwisz jak¹œ plemienn¹ pannê.}
+{135}{}{Nie, kochanie, rozmiar wcale nie jest wa¿ny. By³o mi³o.}
+{136}{}{Och ty mój rozpalony ogierze....}
+{137}{}{Co za s³odziutkiego ma³ego kole¿kê tam masz.}
+
+{140}{}{Rozmiar jest wa¿ny! S³odka tajemnica ¿ycia...}
+{141}{}{Nastêpnym razem z³o¿ê podanie o nadgodziny.}
+{142}{}{Z pewnoœci¹ potrafisz wykorzystaæ czas, za który p³acisz.}
+{143}{}{Robiê sobie wolne na resztê dnia.}
+{144}{}{Hej! Tobie te¿ Ziemia ucieka spod nóg?}
+{145}{}{Teraz wiem co czu³a Katarzyna Wielka.}
+
+{150}{}{Có¿, myœlê ¿e ¿aden pieni¹dz nie œmierdzi.}
+{151}{}{Myœlê, ¿e to by³o, uch, nietypowe.}
+{152}{}{To by³o naprawdê coœ niesamowitego. Nastêpny!}
+{153}{}{Nie, nie mo¿esz u¿yæ moich perfum.}
+{154}{}{Có¿, przynajmniej twoje w¹sy s¹ mniejsze od tych u wiêkszoœci moich klientów.}
+{155}{}{Jesteœ pewna, ¿e jesteœ dziewczyn¹?}
+
+{160}{}{To by³o ca³kiem przyjemne.}
+{161}{}{To by³o nietypowe, ale nie w negatywnym znaczeniu.}
+{162}{}{Myœlê, ¿e chcia³abym kiedyœ spróbowaæ tego jeszcze raz.}
+{163}{}{Powinniœmy kiedyœ zrobiæ to po godzinach.}
+{164}{}{To by³o s³odkie, cukiereczku.}
+{165}{}{Och! Od teraz moje ¿ycie bardzo siê zmieni.}
+{166}{}{Nie wiedzia³am, ¿e tak bêdzie.}
+
+{170}{}{Powinieneœ pogadaæ z Wielkonos¹ Sally.}
+{171}{}{Och, có¿ za s³odziutki anio³ek...}
+{172}{}{Bêdê ciê kochaæ - nawet kilka godzin!}
+{173}{}{Wpadnij do mnie czasem.}
+{174}{}{Umiesz bzykaæ, nieprawda¿?}
+{175}{}{Kiedyœ by³am czysta jak œnieg, ale póŸniej nadesz³y roztopy...}
+{176}{}{[Wycie wilczycy]}
+{177}{}{Hej tam, tygrysie.}
+{178}{}{Hej, dzieeeecinko.}
+{179}{}{Pogadaj z Sally, jeœli chcesz pobaraszkowaæ.}
+{180}{}{I bum bara bara...}
+{181}{}{Wygl¹dasz na kogoœ potrzebuj¹cego k¹pieli.}
+{182}{}{Och, dziki... Po prostu uwielbiam egzotykê.}
+{183}{}{Zwykle nie obs³uguje dzikich.}
+{184}{}{Podobam ci siê, dziecinko?}
+{185}{}{Chcesz mnie?}
+{186}{}{To us³uga pre-paid, kochanie.}

@@ -1,197 +1,202 @@
-{100}{}{You see a casino patron.}
-{150}{}{You see one of the casino patrons. He looks tired.}
-{151}{}{You see one of the casino patrons. He has a golden gleam in his eye.}
-{152}{}{You see one of the casino patrons. He is cupping his face in his hands.}
-{153}{}{You see one of the casino patrons. He looks a little tipsy.}
-{154}{}{You see one of the casino patrons. He gives you a broad wink, then staggers off.}
-{155}{}{You see one of the casino patrons. He is trying to get the waitress's attention.}
-{156}{}{You see one of the casino patrons. She looks tired.}
-{157}{}{You see one of the casino patrons. She has a golden gleam in her eye.}
-{158}{}{You see one of the casino patrons. She is cupping her face in her hands.}
-{159}{}{You see one of the casino patrons. She looks a little tipsy.}
-{160}{}{You see one of the casino patrons. She gives you a broad wink, then staggers off.}
-{161}{}{You see one of the casino patrons. She is trying to get the waiter's attention.}
+# quick look
+{100}{}{Widzisz sta³ego goœcia kasyna.}
+
+# examines
+{150}{}{Widzisz jednego z bywalców kasyna. Wygl¹da na zmêczonego.}
+{151}{}{Widzisz jednego z bywalców kasyna. W jego oczach widaæ z³ote odblaski.}
+{152}{}{Widzisz jednego z bywalców kasyna. Skrywa twarz w d³oniach.}
+{153}{}{Widzisz jednego z bywalców kasyna. Jest chyba trochê podchmielony.}
+{154}{}{Widzisz jednego z bywalców kasyna. Rzuca ci mrugniêcie okiem i odtacza siê na bok.}
+{155}{}{Widzisz jednego z bywalców kasyna. Stara siê zwróciæ na siebie uwagê kelnerki.}
+{156}{}{Widzisz jedn¹ z bywalczyñ kasyna. Wygl¹da na zmêczon¹.}
+{157}{}{Widzisz jedn¹ z bywalczyñ kasyna. W jej oczach widaæ z³ote odblaski.}
+{158}{}{Widzisz jedn¹ z bywalczyñ kasyna. Skrywa twarz w d³oniach.}
+{159}{}{Widzisz jedn¹ z bywalczyñ kasyna. Jest chyba trochê podchmielona.}
+{160}{}{Widzisz jedn¹ z bywalczyñ kasyna. Rzuca ci mrugniêcie okiem i odtacza siê na bok.}
+{161}{}{Widzisz jedn¹ z bywalczyñ kasyna. Stara siê zwróciæ na siebie uwagê kelnera.}
+
+# float
 {200}{}{::Klaszcze::}
 {201}{}{::Wiwatuje::}
-{202}{}{Way to burn those Enclave bastards! Way to go!}
-{203}{}{Way to crush the Enclave, }
-{204}{}{Congrats on stomping the Enclave, }
-{205}{}{Congrats on stomping the Enclave, }
-{206}{}{Uh-oh. Get out of the way.}
-{207}{}{Just looking at him... her... it...*whatever* it is gives me the shivers.}
-{208}{}{Think that thing's looking to cap anyone?}
-{209}{}{It's hell's fury given flesh. Uh, underneath the armor, that is.}
-{210}{}{Stay outta that thing's path.}
-{211}{}{Talk about dangerous-looking...}
+{202}{}{Ale¿ ta Enklawa dosta³a po dupie! Dobra robota!}
+{203}{}{Ale ci siê uda³o z t¹ Enklaw¹, }
+{204}{}{Gratulacje z okazji zgnicenia Enklawy, }
+{205}{}{Gratulacje z okazji zgnicenia Enklawy, }
+{206}{}{Uch-och. ZejdŸcie z drogi.}
+{207}{}{Mam dreszcze od samego patrzenia na niego... na ni¹... na to... *cokolwiek* to jest.}
+{208}{}{Myœlicie, ¿e to coœ da komuœ po ³bie?}
+{209}{}{Oto piekielna furia z krwi i koœci. Uch, to znaczy, pod tym pancerzem.}
+{210}{}{Lepiej nie w³aŸcie temu czemuœ w drogê.}
+{211}{}{Skoro ju¿ o mowa o groŸnym wygl¹dzie...}
 {212}{}{*Gulp*}
-{213}{}{I think that Mr. Roboto dude was scanning me.}
-{214}{}{I think that walking tank just gave me the stare of death. I'm outta here.}
-{215}{}{I heard that thing fragged three hitmen just yesterday.}
-{216}{}{Just looking at him gives me the shivers.}
-{217}{}{Think he's looking to cap anyone?}
-{218}{}{Stay outta that man's path.}
-{219}{}{I think he was looking at me.}
-{220}{}{I think he just gave me the stare of death. I'm outta here.}
-{221}{}{I heard he shot down three hitmen just yesterday.}
-{222}{}{Uh-oh. Get out of the way.}
-{223}{}{It's hell's fury given flesh.}
-{224}{}{Talk about dangerous-looking...}
+{213}{}{Myœlê, ¿e ten Pan Roboto mnie namierza.}
+{214}{}{Ten chodz¹cy czo³g w³aœnie chyba ¿yczy³ mi œmierci. Zmiatam st¹d.}
+{215}{}{Podobno to coœ sfragowa³o wczoraj trzech p³atnych zabójców.}
+{216}{}{Dostajê dreszczy od samego patrzenia na niego.}
+{217}{}{Myœlicie, ¿e on chce daæ komuœ po ³bie?}
+{218}{}{ZejdŸcie z drogi temu facetowi.}
+{219}{}{On mi siê chyba przygl¹da.}
+{220}{}{On mi chyba w³aœnie ¿yczy³ œmierci. Zmiatam st¹d.}
+{221}{}{Podobno on wczoraj zastrzeli³ trzech p³atnych zabójców.}
+{222}{}{Uch-och. ZejdŸcie z drogi.}
+{223}{}{Oto piekelna furia z krwi i koœci.}
+{224}{}{Skoro ju¿ mowa o groŸnym wygl¹dzie...}
 {225}{}{*Gulp*}
-{226}{}{La Femme Nikita, then some.}
-{227}{}{Just looking at her gives me the shivers.}
-{228}{}{Think she's looking to cap anyone?}
-{229}{}{I think she was looking at me.}
-{230}{}{I think she just gave me the stare of death. I'm outta here.}
-{231}{}{I heard she shot down three hitmen just yesterday.}
-{232}{}{What an ass! Uh, bad ass, that is.}
-{233}{}{Wcale nie wygl¹dasz na takiego twardego, panie Mistrzowski Pas.}
-{234}{}{I got 20 chips riding on ye!}
-{235}{}{Hej, miszczu! Twoja ostatnia walka by³a wspania³a!}
-{236}{}{Widzia³em ciê na ringu. Masz cholernie mocny prawy sierpowy.}
-{237}{}{Staniesz do nastêpnej walki? Postawi³em na ciebie 30 dolców.}
+{226}{}{La Femme Nikita, coœtam coœtam.}
+{227}{}{Dostajê dreszczy od samego patrzenia na ni¹.}
+{228}{}{Myœlicie, ¿e ona chce daæ komuœ po ³bie?}
+{229}{}{Ona mi siê chyba przygl¹da.}
+{230}{}{Ona mi chyba w³aœnie ¿yczy³a œmierci. Zmiatam st¹d.}
+{231}{}{Podobno ona wczoraj zastrzeli³a trzech p³atnych zabójców.}
+{232}{}{Ale babka! To znaczy, twarda babka.}
+{233}{}{Nie wygl¹dasz wcale na takiego twardego, panie Mistrz Wagi ciê¿kiej.}
+{234}{}{Stawiam na ciebie 20 dolców!}
+{235}{}{Hej, miszczuniu! Ta ostatnia walka by³a œwietna!}
+{236}{}{Widzieliœmy ciê w ringu. Naprawdê niez³y masz ten prawy sierpowy.}
+{237}{}{Bêdziesz jeszcze walczyæ? Stawiam na ciebie 30 dolców.}
 {238}{}{Ile wyciskasz?}
 {239}{}{Gdzie pakujesz?}
-{240}{}{Uwa¿aj na Prze¿uwacza. On lubi uszy.}
-{241}{}{Postawi³bym ci drinka, gdybym nie straci³ wszystkich pieniêdzy stawiaj¹c na twojego przeciwnika.}
-{242}{}{Wcale nie wygl¹dasz tak twardo, panno Lewy Sierpowy.}
-{243}{}{Czy mogê zobaczyæ jak napinasz swoje miêœmie brzuszne?}
-{244}{}{Whoa. Check that out.}
-{245}{}{Would you look at *that*?}
-{246}{}{::Krêci g³ow¹ z niedowierzaniem::}
-{247}{}{I KNEW I should have shaved today.}
-{248}{}{Come chat with me for a sec, honey-tits.}
-{249}{}{Tribals got them tits! Damn!}
-{250}{}{Check out the rack on that tribal.}
-{251}{}{That there's the main filly of my herd.}
-{252}{}{I'd bathe for that woman.}
-{253}{}{I got your mother lode right here.}
-{254}{}{Shake it!}
-{255}{}{Work it!}
+{240}{}{Uwa¿aj na Prze¿uwacza. On ma s³aboœæ do uszu.}
+{241}{}{Postawilibyœmy ci drinka, gdybyœmy ni stracili wszystkich pieniêdzy stawiaj¹c na twojego przeciwnika.}
+{242}{}{Nie wygl¹dasz wcale tak twardo, panno Lewy Sierpowy.}
+{243}{}{Czy mogê zobaczyæ jak napinasz swoje miêœnie brzuszne?}
+{244}{}{Hejhejhej. Zobaczcie.}
+{245}{}{No tylko popatrzcie na *to*!}
+{246}{}{::Rusza ustami, jakby chcia³ powiedzieæ "kurde".::}
+{247}{}{WIEDZIA£EM, ¿e powinienem siê dziœ ogoliæ.}
+{248}{}{ChodŸ tu na chwilê, s³odziutka, i pogadajmy.}
+{249}{}{Te dzikuski to dopiero maj¹ cyce! Kurde!}
+{250}{}{Popatrzcie tylko na zderzaki tej dzikuski.}
+{251}{}{Oto najlepsza koza z mojego stada.}
+{252}{}{Dla tej kobiety móg³bym siê nawet wyk¹paæ.}
+{253}{}{Mam tu zaraz przy sobie twoj¹ ¿y³ê z³ota.}
+{254}{}{Potrz¹œnij nimi!}
+{255}{}{Wypnij siê!}
 {256}{}{::Gwi¿d¿e::}
-{257}{}{Them legs go all the way up?}
-{258}{}{Daaaaaamn.}
-{259}{}{You got fries to go with that shake, beautiful?}
-{260}{}{Maybe she'll dance tonight.}
-{261}{}{Did you see her latest film? Red hot, man, red HOT.}
-{262}{}{Excuse me. I have to go to the bathroom and er, comb my hair for a sec.}
-{263}{}{I'd like to be her underpants.}
-{264}{}{I'd like to be her underwear.}
-{265}{}{I'd like to smell her shorts.}
-{266}{}{That is one foxy bitch.}
+{257}{}{Te twoje nogi naprawdê s¹ takie d³ugie?}
+{258}{}{Kuuuuurde.}
+{259}{}{}
+{260}{}{Mo¿e dziœ zatañczy.}
+{261}{}{Widzieliœcie jej ostatni film? Rozgrzewa do czerwonoœci, mówie wam, do CZERWONOŒCI.}
+{262}{}{Przepraszam. Muszê iœæ na chwilê do ³azienki, ¿eby siê, eeee, uczesaæ.}
+{263}{}{Chcia³bym byæ jej majtkami.}
+{264}{}{Chcia³bym byæ jej bielizn¹.}
+{265}{}{Chcia³bym pow¹chaæ jej szorty.}
+{266}{}{Niez³a z niej sztuka.}
 {267}{}{Kurde. Same zakrêty, a ja nie mam hamulców.}
-{268}{}{Well, hellloooo stud.}
-{269}{}{A stallion like you in need of a saddle? I'm free tomorrow night.}
-{270}{}{What you doing later, sailor?}
-{271}{}{Can I feel your muscles?}
-{272}{}{How come you don't pass out when you get erect?}
-{273}{}{Wanna come over to my place for a drink?}
-{274}{}{I want to eat my dinner off your chest.}
-{275}{}{Need a partner for your next film?}
-{276}{}{::Stares at your biceps.::}
-{277}{}{Czy to coœ, co za tob¹ ³azi, to jakiœ rodzaj automatu do gry?}
-{278}{}{Czy to jest robo-automat do robo-gry?}
-{279}{}{Czy twój robot potrafi robiæ sztuczki? Eee... magiczne sztuczki!}
-{280}{}{That sounds crazier than foxes lovin' hens.}
-{281}{}{Roll the bones.}
-{282}{}{Baby needs a new pair of shoes...}
-{283}{}{Damn lowrolling tourists...}
-{284}{}{Dammit! I was up *53* chips, then...}
-{285}{}{Of all the rotten luck...}
-{286}{}{So close!}
-{287}{}{I'm making bank.}
-{288}{}{Me? I'm making bank. Watch me go.}
-{289}{}{House was against me.}
-{290}{}{Fortune's against me.}
-{291}{}{Lady Luck, don't fail me now.}
-{292}{}{The House ha'mercy on me.}
-{293}{}{Between tips and these drunken spending sprees...}
-{294}{}{Keep betting like that, and you're going to be calling Golgotha home...}
-{295}{}{Waitress, another drink!}
-{296}{}{Waiter, another drink!}
-{297}{}{These drinks taste... odd.}
-{298}{}{I got the fever!}
-{299}{}{Are all my chips gone already?}
-{300}{}{Luck's a fickle bitch, and so is my mother-in-law.}
-{301}{}{More slavers in town recently.}
-{302}{}{Wonder what goes on in the stables outside of town.}
-{303}{}{Another feud may start soon.}
-{304}{}{Damned crossroaders all over the place...}
-{305}{}{Great, another low roller.}
-{306}{}{I am SO money.}
-{307}{}{I'll sleep when I'm dead.}
-{308}{}{Man, I gotta piss. My teeth are swimming.}
-{309}{}{Man, I gotta drain the snake.}
-{310}{}{Damn, they'll let anyone in here.}
-{311}{}{C'mon 7!}
-{312}{}{You've got moxy, baby.}
-{313}{}{Who's the big winner tonight? Mikey!}
-{314}{}{Don't crap out... c'mon...}
-{315}{}{I've gotta 'jet'...if you know what I mean.}
-{316}{}{This is SUCH bullshit.}
-{317}{}{I only lost 60 chips. In the first five minutes, that is.}
-{318}{}{Red 23! Red 23! C'mon... red 23...}
-{319}{}{50 chips on Black 15...}
-{320}{}{Round and round it goes... where it stops, nobody knows...}
-{321}{}{Way to burn those Enclave bastards! Way to go!}
-{322}{}{I always knew the President wanted to kill us all.}
-{323}{}{The President was alive? When was the last election?}
-{324}{}{Destroyed the Enclave, huh? Well, let me buy you a drink.}
-{325}{}{Way to crush the Enclave, }
-{326}{}{With the destruction of the Enclave, you've made this casino a better place for my children. How can I ever thank you?}
-{327}{}{The Enclave never messed with me, but I'm glad they're gone.}
-{328}{}{I can't believe the Enclave were still fighting the war after all this time. Idiots.}
-{329}{}{I felt a great disturbance... as if a hundred evil bastards on an oil derrick suddenly cried out in terror
- and were suddenly silenced. Strange.}
-{330}{}{Congrats on stomping the Enclave, }
-{331}{}{Congrats on stomping the Enclave, }
-{332}{}{You looking for your brother Robby? You know, the Robot? Aw, nevermind.}
-{333}{}{Sorry, was I in your way? I'll leave town.}
-{334}{}{Sorry, was I breathing your air? I'll stop.}
-{335}{}{I wasn't aware they made doorways in your size.}
-{336}{}{::Knocks on armor:: Anybody in there?}
-{337}{}{'Danger, Will Robinson! Danger, Will Robinson!' Heh-heh. Uh... just a joke.}
-{338}{}{Niiiiice armor. Does it have air conditioning?}
-{339}{}{Don't you get hot in there?}
-{340}{}{Can I rub these dice against your armor for luck?}
-{341}{}{Lose your heart, tin man?}
-{342}{}{Uh, hello, sir... or ma'am... or whatever you are.}
-{343}{}{Give my regards to whoever gave that armor to you.}
-{344}{}{Anything wrong, sir... ma'am... uh, whatever you are?}
-{345}{}{Are you one of the new bouncers? Or some new walking arcade game?}
-{346}{}{No, I'm NOT going to oil your joints.}
-{347}{}{Can your armor transform into a jet and fly around? Just curious.}
-{348}{}{Yeah, yeah, 'clank-whirrr-clank' to you, too.}
-{349}{}{If you think that armor intimidates me, you're right.}
-{350}{}{You must be one of those pre-war video game consoles.}
-{351}{}{Look, please... I don't want any trouble. I'm just in town for the day.}
-{352}{}{Look, please... I don't want any trouble.}
-{353}{}{Sorry, was I in your way? I'll leave town.}
-{354}{}{Sorry, was I breathing your air? I'll stop.}
-{355}{}{Give my regards to your boss.}
-{356}{}{Uh...*gulp*...anything wrong?}
-{357}{}{Look, please... I don't want any trouble. I'm just in town for the day.}
-{358}{}{Look, please... I don't want any trouble.}
-{359}{}{You selling?}
-{360}{}{Can I buy your clothes? I mean, right now?}
-{361}{}{I KNEW I should have shaved today.}
-{362}{}{Come chat with me for a sec, honey-tits.}
-{363}{}{C'mon, honey-lips... walk with me.}
-{364}{}{Nimble little minx, aincha?}
-{365}{}{I'd bathe for you.}
-{366}{}{I got your mother lode right here.}
-{367}{}{Them legs go all the way up?}
-{368}{}{You gonna dance tonight?}
-{369}{}{Excuse me. I have to go to the bathroom and er, comb my hair for a sec.}
-{370}{}{I'd like to be your underwear.}
-{371}{}{I'd like to smell your shorts.}
-{372}{}{You are one foxy bitch.}
-{373}{}{Screw me if I'm wrong, darling, but don't you want to kiss me?}
+{268}{}{Proszê proszê, wiiiitaj ogierze.}
+{269}{}{Potrzebne ci mo¿e siod³o ogierze? Jutro wieczorem jestem do wziêcia.}
+{270}{}{Co porabiasz wieczorem marynarzu?}
+{271}{}{Czy mogê dotkn¹æ twoich miêœni?}
+{272}{}{Jak to mo¿liwe, ¿e nie mdlejesz, gdy ci staje?}
+{273}{}{Chcesz zajrzeæ do mnie na drinka?}
+{274}{}{Chcê zjeœæ kolacjê z twojej klaty.}
+{275}{}{Potrzebujesz towarzystwa do nastêpnego filmu?}
+{276}{}{::Gapi siê na twoje bicepsy.::}
+{277}{}{Czy to coœ, co za tob¹ ³azi, to jakaœ nowa odmiana automatu do gry?}
+{278}{}{Czy to jakiœ robo-automat do gry?}
+{279}{}{Czy twój robot potrafi robiæ szkuczki? Uch... to znaczy, magiczne sztuczki.}
+{280}{}{To brzmi gorzej ni¿ opowieœci o ¿elaznym wilku.}
+{281}{}{}
+{282}{}{Dzidzi potrzebuje nowej pary butów...}
+{283}{}{Cholerni turyœci za trzy centy...}
+{284}{}{Cholera! A by³o ju¿ *53* dolary na plus...}
+{285}{}{Takie ju¿ moje psie szczêœcie...}
+{286}{}{Tak ma³o brakowa³o!}
+{287}{}{Rozbijê bank.}
+{288}{}{Ja? Rozbijam bank. Tylko popatrz.}
+{289}{}{Los jest przeciwko mnie.}
+{290}{}{Szczêœcie mi nie sprzyja.}
+{291}{}{Nie zawiedŸ mnie teraz Fortuno.}
+{292}{}{Los zlitowa³ siê nade mn¹.}
+{293}{}{Miêdzy ustami a brzegiem morza wódzi...}
+{294}{}{Obstawiaj tak dalej, a Golgota stanie siê twoim domem...}
+{295}{}{Kelnerka, jeszcze jednego!}
+{296}{}{Kelner, jeszcze jednego!}
+{297}{}{Te drinki smakuj¹... dziwnie.}
+{298}{}{Mam goro¹czkê!}
+{299}{}{Czy¿by skoñczy³y mi siê ju¿ pieni¹dze?}
+{300}{}{Fortuna to niesta³a dziwka, zupe³nie jak moja macocha.}
+{301}{}{Ostatnio du¿o w mieœcie ³owców niewolników.}
+{302}{}{Ciekawe, co siê dzieje w tych stajniach za miastem.}
+{303}{}{Nied³ugo mo¿e siê zacz¹æ nowa wendetta.}
+{304}{}{Cholerni podró¿ni, wszêdzie siê tu krêc¹...}
+{305}{}{Œwietnie, nastêpny tani gracz.}
+{306}{}{ALE mam szczêœcie.}
+{307}{}{Wyœpiê siê jak umrê.}
+{308}{}{O ludzie, muszê siê wysikaæ. Zaczyna siê ze mnie wylewaæ.}
+{309}{}{O ludzie, muszê iœc wyprowadziæ ptaszta na spacer.}
+{310}{}{Kurde, wpuszczaj¹ tu teraz byle kogo.}
+{311}{}{Dawaj 7!}
+{312}{}{Al emasz krzepê, kochanie.}
+{313}{}{I kto jest dzisiaj wielkim zwyciêzc¹? Mikey!}
+{314}{}{Nie schrzañ tego... no dawaj...}
+{315}{}{Mam odrzutowy 'cug'... jeœli wiesz, co mam na myœli.}
+{316}{}{STRASZNE bzdury.}
+{317}{}{Jestem tylko 60 dolców do ty³u. To znaczy, przez pierwsze piêæ minut.}
+{318}{}{Czerwone 23! Czerwone 23! No dawaj, czerwone 23...}
+{319}{}{50 dolców na Czarne 15...}
+{320}{}{Krêci siê i krêci... gdzie siê zatrzyma, nie wie nikt...}
+{321}{}{Œwietnie ci siê uda³o wysadziæ tych drani z Enklawy! Dobra robota!}
+{322}{}{Zawsze wiedzieliœmy, ¿e Prezydent chcia³ nas wszystkich zabiæ.}
+{323}{}{To Prezydent by³ wci¹¿ ¿ywy? Kiedy by³y ostatnie wybory?}
+{324}{}{Zniszczy³o siê Enklawê, co? No, niech¿e wiêc postawiê ci drinka.}
+{325}{}{Dziêki tobie Enklawa dosta³a za swoje. Brawo }
+{326}{}{Wraz ze zniszczeniem Enklawy to kasyno sta³o siê lepszym miejscem dla moich dzieci. Jak ja ci siê odwdziêczê?}
+{327}{}{Enklawa nigdy ze mn¹ nie zadziera³a, ale cieszê siê, ¿e ju¿ jej nie ma.}
+{328}{}{Nie mogê uwierzyæ, ¿e ludzie z Enklawy wci¹¿ byli na wojnie, choæ minê³o ju¿ tyle czasu. Idioci.}
+{329}{}{Odczuliœmy tu dziwny niepokój... jakby setka wrednych drani na platformie wiertniczej nagle zakrzyknê³a z przera¿enia i zosta³a równie nagle uciszona. Dziwne.}
+{330}{}{Brawka z okazli zgniecenia Enklawy, }
+{331}{}{Brawka z okazli zgniecenia Enklawy, }
+{332}{}{Szukasz swojego brata Robby'ego? No wiesz, Robota? Ech, niewa¿ne.}
+{333}{}{Przepraszem, stojê ci na drodze? Odejdê z miasta.}
+{334}{}{Przepraszam, czy oddycham twoim powietrzem? Przestanê.}
+{335}{}{Nie przysz³o mi do g³owy, ¿e ktoœ robi drzwi w twoim rozmiarze.}
+{336}{}{::Stuka w zbrojê:: Jest tam kto?}
+{337}{}{"Uwaga, nadchodzi Will Robinson! Uwaga, nadchodzi Will Robinson!" he he. Uch... to tylko taki ¿art.}
+{338}{}{£aaaaadna zbroja. Masz tam klimatyzacjê?}
+{339}{}{Nie jest ci w tym za gor¹co?}
+{340}{}{Czy mogê dotkn¹æ koœæmi twojej zbroi na szczêœcie?}
+{341}{}{Straci³eœ swoje serce, ¿elazny drwalu?}
+{342}{}{Uch, dzieñ dobry panu... lub pani... lub kimkolwiek jesteœ.}
+{343}{}{Przeka¿ wyrazy szacunku temu, kto da³ ci tê zbrojê.}
+{344}{}{Czy wszystko u pana... pani... uch, czymkolwiek jesteœ, wszystko w porz¹ku?}
+{345}{}{Jesteœ nowym bramkarzem? Czy mo¿e jak¹œ chodz¹c¹ gr¹ zrêcznoœciow¹?}
+{346}{}{Nie, NIE mam ochoty oliwiæ twoje zawiasy.}
+{347}{}{Czy twoja zbroja mo¿e zmieniæ siê w odrzutowiec i odlecieæ? Tak tylko pytam.}
+{348}{}{Jasne, jasne, ty te¿ "dzyñ, trrrr, dzyñ".}
+{349}{}{Jeœli myœlisz, ¿e ta zbroja mnie onieœmiela, to masz racjê.}
+{350}{}{Musisz byæ jedn¹ z tych przedwojennych konsol do gry.}
+{351}{}{S³uchaj, proszê ciê... nie szukam k³opotów. Jestem tu tylko przejazdem.}
+{352}{}{S³uchaj, proszê ciê... nie szukam k³opotów.}
+{353}{}{Przepraszem, stojê ci na drodze? Odejdê z miasta.}
+{354}{}{Przepraszam, czy oddycham twoim powietrzem? Przestanê.}
+{355}{}{Przeka¿ pozdrowienia swojemu szefowi.}
+{356}{}{Uch... *glup*... wszystko w porz¹dku?}
+{357}{}{S³uchaj, proszê ciê... nie szukam k³opotów. Jestem tu tylko przejazdem.}
+{358}{}{S³uchaj, proszê ciê... nie szukam k³opotów.}
+{359}{}{Sprzedajesz?}
+{360}{}{Czy mogê kupiæ twoje ciuchy? To znaczy - tu, na miejscu?}
+{361}{}{WIEDZIA£EM, ¿e trzeba by³o siê dziœ ogoliæ.}
+{362}{}{Choæ tu, s³odziutka, i pogadaj ze mn¹.}
+{363}{}{No, œlicznoœci, pospacerujmy.}
+{364}{}{Jesteœ ma³a zwinna pinda, co nie?}
+{365}{}{Dla ciebie móg³bym siê nawet wyk¹paæ.}
+{366}{}{Mam tu pod rêk¹ twoj¹ ¿y³ê z³ota.}
+{367}{}{Te twoje nogi naprawdê s¹ takie d³ugie?}
+{368}{}{Bêdziesz tañczyæ dziœ wieczorem?}
+{369}{}{Przepraszam. Muszê iœæ na chwilê do ³azienki, ¿eby siê, eeee, uczesaæ.}
+{370}{}{Chcia³bym byæ twoj¹ bielizn¹.}
+{371}{}{Chcia³bym pow¹chaæ twoje szorty.}
+{372}{}{Ale z ciebie niez³a sztuka.}
+{373}{}{Popraw mnie, jeœli siê mylê, ale czy nie chcesz przypadkiem daæ mi buziaka?}
 {374}{}{Kurde. Same zakrêty, a ja nie mam hamulców.}
-{375}{}{Know what would look good on you? Me.}
-{376}{}{Your panties may not be the best thing on earth, but they're damn close to it.}
-{503}{}{ mo¿e mi, kurwa, rozkazywaæ!}
-{504}{}{! You kick ass! You kick ASS!}
-{505}{}{! You are so MONEY!}
-{625}{}{ mo¿e mi, kurwa, rozkazywaæ!}
-{630}{}{! You kick ass! You kick ASS!}
-{631}{}{! You are so MONEY!}
+{375}{}{Wiesz, co by dobrze na tobie le¿a³o? Ja.}
+{376}{}{Twoje spodnie nie s¹ mo¿e najwspanialsz¹ rzecz¹ na ziemi, ale maj¹ do niej bardzo blisko.}
+
+{503}{}{!}
+{504}{}{! Rz¹dzisz! RZ¥DZISZ!}
+{505}{}{! Jesteœ jak ¿y³a Z£OTA!}
+{625}{}{!}
+{630}{}{! Rz¹dzisz! RZ¥DZISZ!}
+{631}{}{! Jesteœ jak ¿y³a ¯£OTA!}

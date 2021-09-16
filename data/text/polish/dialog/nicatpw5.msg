@@ -1,1 +1,1 @@
-{100}{}{You have learned some valuable tips on how to use energy weapons.}
+{100}{}{Poznajesz kilka interesuj¹cych sztuczek dotycz¹cych walki broni¹ energetyczn¹.}

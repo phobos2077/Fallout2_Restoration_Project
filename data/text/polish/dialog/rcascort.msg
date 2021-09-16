@@ -1,231 +1,180 @@
-{100}{}{You see a short man with Jet-black hair and a nice smile.}
-{101}{}{You see Ascorti, Redding's Mayor.}
-{102}{}{You see a well-dressed man with a greasy look to him.}
-{103}{}{Keep on movin', pal.}
-{104}{}{If you're here to try your luck, you're welcome.}
-{105}{}{Play or get out.}
-{106}{}{You better not make a mess in my place.}
-{107}{}{You should try the tables, tribal.}
-{108}{}{You should try the slots, tribal. Heap good magic there.}
-{109}{}{Take it easy on the firewater, tribal.}
-{110}{}{Hello there; welcome to the fine city of Redding... and welcome to my casino. Everyone's an Ace
- here at Ascorti's. I'm Ascorti, proprietor and mayor of this fine town.}
-{111}{}{What can Mayor Ascorti do for you?}
-{112}{}{Is there any work here in Redding?}
-{113}{}{Co s³ychaæ w mieœcie?}
-{114}{}{Have you heard of anything called a Garden of Eden Creation Kit?}
-{115}{}{Czym siê zajmujesz?}
-{116}{}{I was just looking around, Mayor. See you later. Goodbye.}
-{117}{}{I run this here casino, and I help to run things in town, too. I keep track of things like deeds
- and such.}
-{118}{}{Deeds? Deeds to what?}
-{119}{}{I see; let me ask you something else, Mayor.}
-{120}{}{Deeds like the one to that Great Wanamingo Mine that I want to buy from you. Ready to sell it
- yet?}
-{121}{}{I might be. How much were you going to offer for it?}
-{122}{}{Maybe. Let me ask you about something else first.}
-{123}{}{I'm still thinking it over. Goodbye, Mayor.}
-{124}{}{Well, just the one deed. The one I sold to you. You know, for the Great Wanamingo Mine?}
-{125}{}{Oh, that deed. Now I remember. Let me ask you about something else, Mayor.}
-{126}{}{Of course - I was just wondering if you had any other bargains. Well, I better get to work
- clearing that mine. Goodbye.}
-{127}{}{Just that deed for the Great Wanamingo Mine that you sold back to me. Remember?}
-{128}{}{Of course I do. Uh, let me ask you about something else, Mayor.}
-{129}{}{Yes, of course. I was just checking. Goodbye, Mayor Ascorti.}
-{130}{}{All kinds of private property. Why, right now, I have a Jim-dandy of a deed for sale.}
-{131}{}{I co to jest?}
-{132}{}{I bet you do, but let me ask you about something else first, Mayor.}
-{133}{}{Hmm, I think I'll look around town first, Mayor. Goodbye.}
-{134}{}{It's the deed to the Great Wanamingo Mine just outside of town. I can sell it to you for only
- $1,000, too. Special offer; just your luck to hit me on a generous day like this.}
-{135}{}{That sounds interesting. Tell me more.}
-{136}{}{What's the catch, Mayor?}
-{137}{}{I don't think I want to buy that right now, Mayor. Let me ask you about something else.}
-{138}{}{Well, there are some dang critters in there that need to be killed before anyone will work the
- mine. If'n you were to buy the deed - and then kill off the critters infesting it - I'd be happy to buy
- the deed back off you for a nice profit.}
-{139}{}{A profit? How much of a profit?}
-{140}{}{Why don't you clear it out yourself if it's so profitable?}
-{141}{}{Critters? What kind of critters?}
-{142}{}{No catch. No catch at all. You just have to evict some of the squatters that have taken up
- residence there. No hardship at all for a rugged customer like yourself. I can tell you more if you'd
- like.}
-{143}{}{Okay, I'll bite. Tell me more.}
-{144}{}{I don't think I want to get into that sort of business, Mayor. Let me ask you about something
- else.}
-{145}{}{I see. I think I'll leave that to someone else. Goodbye, Mayor.}
-{146}{}{Heck, more than double. I figure that's the least that your time's worth to you. I couldn't
- afford to pay any more than that. There's still a lot of work that needs to be put back into the mine
- before I can start to turn a profit with it.}
-{147}{}{Sounds good to me. How much was that again?}
-{148}{}{I don't think I want to do that. Let me ask you about something else, Mayor.}
-{149}{}{$1,000 for the deed to the Great Wanamingo Mine. You want it?}
-{150}{}{Yes, I'll buy the deed.}
-{151}{}{I'd like to buy the deed, but I don't have enough money for it right now. Let me ask you about
- something else.}
-{152}{}{I don't think I want to buy that right now. Let me ask you about something else.}
-{153}{}{Maybe some other time, Mayor. Goodbye.}
-{154}{}{I'll go ahead and record the Great Wanamingo Mine's deed in your name. Let me know when you've
- got it all cleared out, and I'll buy it back from you.}
-{155}{}{I'll do that. Let me ask you about something else right now, though.}
-{156}{}{Okay. See you in a while, Mayor.}
-{157}{}{I can't really do that. I'm not a real danger-seeking kind of guy. I know my strengths and
- fighting just isn't one of them. Now you, you look like a real tough hombre. This should be just up
- your alley.}
-{158}{}{Maybe so. How much are you willing to pay to buy the deed back once I clear it out?}
-{159}{}{Maybe, maybe not. I'll think about it. Let me ask you something else, Mayor.}
-{160}{}{I don't think I have time for that right now. Sorry, Mr. Mayor. Goodbye.}
-{161}{}{So, you clear out that mine yet?}
-{162}{}{I sure did.}
-{163}{}{I haven't right now, but I will. In the meantime, let me ask you about something else.}
-{164}{}{I'm working on it. Goodbye, Mayor Ascorti.}
-{165}{}{You know, I don't think you got all of those damn Wanamingos. You better go back and check. I
- won't buy it back from you until every last one of them is dead.}
-{166}{}{I see. Let me ask you about something else first, Mayor.}
-{167}{}{Well, I better go back and check then.}
-{168}{}{You did a great job of clearing all them damn Wanamingos out of that mine, but you've got a
- problem.}
-{169}{}{A problem? Like what?}
-{170}{}{You cleared out the whole mine. Thanks so much. Ready to sell me the deed? I'll give you $2,500
- for it.}
-{171}{}{I don't think so. I think I'll hold on to it for now. Goodbye, Mayor.}
-{172}{}{You bet. I'll be happy to unload this deed, Mayor Ascorti.}
-{173}{}{We call 'em Wanamingos. They're some kind of all-fired weird critter with nasty teeth and suckers
- or somesuch. Not too intelligent, but nasty up-close.}
-{174}{}{I see. And you want me to get rid of them?}
-{175}{}{You've got it. I knew you weren't as slow as you look. You can be right quick when you're of a
- mind to be.}
-{176}{}{Yeah. So how much do I stand to make on my $1,000?}
-{177}{}{It was so homey-looking that someone else moved in. A nasty type by the name of Frog Morton, uh,
- and his gang too, from what I hear.}
-{178}{}{Czemu nazywaj¹ go ¯aba Morton?}
-{179}{}{How's that my problem?}
-{180}{}{Great, what do I do about this?}
-{181}{}{I guess it's because he's got a reputation for croaking people. He's a real nasty customer who
- won't be missed... and you'll be a hero. You'd like to be a hero, wouldn't you?}
-{182}{}{Maybe, but I still don't see how this is my problem.}
-{183}{}{Yeah, sure. What do I do about this?}
-{184}{}{I guess I've got some more house-clearing to do. I'll be back when I've kicked some more ass,
- Mayor.}
-{185}{}{Well, until the mine is cleared out I can't send miners in to work it. So, if you want to sell
- me the mine, it's your problem.}
-{186}{}{Czemu nazywaj¹ go ¯aba Morton?}
-{187}{}{Great. What do I do about this?}
-{188}{}{I better get busy, then. Goodbye, Mayor.}
-{189}{}{I think you should go back to the Wanamingo Mine and kill off Frog and his gang. When you do
- that, you can come back here and I'll be happy to buy the mine from you.}
-{190}{}{Nothing's ever easy, is it? Okay, Mayor. I'll see you later. I've got some business to attend to.}
-{191}{}{You ready to sell that Wanamingo Mine deed back to me yet?}
-{192}{}{Sure thing, Mayor. How much was that again?}
-{193}{}{Not yet, Mayor. Goodbye.}
-{194}{}{I hear that you've decided to help the Sheriff. Good. I can't afford to allow that deadbeat
- Rooney to keep her marvelous house.}
-{195}{}{You mean that tiny, drafty shack you're overcharging her for?}
-{196}{}{I bet. How much does she owe you?}
-{197}{}{Well, I'll see what I can find out. Let me ask you something else, though.}
-{198}{}{Yeah. So who are you, anyway?}
-{199}{}{I prefer to call it cozy, with flow-through seasonal ventilation. It's quite reasonably priced,
- too.}
-{200}{}{I bet it is. How much back-rent does she owe you?}
-{201}{}{Hmm, well I better be going, Mayor. Goodbye.}
-{202}{}{Let's see here... Mrs. Rooney owes me... yes, here it is, $120. That's it. $120.}
-{203}{}{Is that all? I've got that right here.}
-{204}{}{That's not that much. Let me ask you about something else.}
-{205}{}{I'll see what I can do to make her pay up. Goodbye.}
-{206}{}{That'll do it. Now she's current. Thanks for settling that account.}
-{207}{}{Not a problem. Let me ask you about something else, though.}
-{208}{}{I guess some people are just more generous than others. Goodbye, Mayor.}
-{209}{}{Thanks for clearing out my property, Sheriff. Now I can rent it to someone that can actually pay
- for it.}
-{210}{}{I sure didn't feel good about what I did.}
-{211}{}{That makes sense. }
-{212}{}{Why not? You should have. By kicking out Widow Rooney, you've enabled me to keep paying all of
- my employees. If I didn't pay them, then their families would go hungry. That's not right, is it?}
-{213}{}{I guess not. I didn't think about it that way. But I still don't feel great about it.}
-{214}{}{It doesn't look like you're suffering much here. I'm sure your casino makes enough.}
-{215}{}{It takes a big individual to do the right thing, even when that thing doesn't leave them
- feeling good. You did a hard thing, and you did it well. Have a beer on me.}
-{216}{}{Thanks, Mayor; that's mighty nice of you.}
-{217}{}{I don't think I want to drink with you. Now or ever. Goodbye.}
-{218}{}{No problem at all. Happy to wet the whistle of local law enforcement.}
-{219}{}{Thanks again, Mayor. Let me ask you about something else, though.}
-{220}{}{Thanks, Mayor. I'll see you around. Goodbye.}
-{221}{}{Today, maybe, but it's not always so lucky. I've got to maintain a good balance, good income. I
- owe it to my employees - as well as a little something for myself, of course.}
-{222}{}{I guess that's fair enough.}
-{223}{}{You're lower than a gecko's belly. I've heard enough. Goodbye.}
-{224}{}{I just wanted to thank you again for doing the right thing by Mrs. Rooney. I sure didn't want to
- kick that old gal out of her home.}
-{225}{}{But you would have. Well, let's talk about something else.}
-{226}{}{Somehow, I knew you'd say something like that. Goodbye, Mayor.}
-{227}{}{You went too far with the Widow Rooney. She wasn't no threat to nobody. Why'd you have to go and
- kill her?}
-{228}{}{She had it coming.}
-{229}{}{It was an accident.}
-{230}{}{Had it coming? She weren't nothing but a little harmless old lady. You're plumb crazy. Just get
- out of here.}
-{231}{}{You talkin' to me?}
-{232}{}{I was already on my way out of this shack. Goodbye.}
-{233}{}{An accident? They still can't find all of her body parts. You just better make sure you don't
- make a habit out of accidents like that. They're bad for business.}
-{234}{}{I understand. Let me ask you about something else, Mayor.}
-{235}{}{I'll be more careful next time.}
-{236}{}{Yes, I'm talking to you. Do you see anyone else around that I might be talking to? Get the hell
- out of my bar.}
-{237}{}{Are *you* talkin' to *me*?}
-{238}{}{I'm going, I'm going.}
-{239}{}{What? Are you deaf or just stupid? *I'm* talking to *you*, all right. Now get out!}
-{240}{}{Well, you must be talkin' to me 'cause I don't see no one else around here.}
-{241}{}{All right. I'm leaving. Don't give yourself a stroke. Goodbye.}
-{242}{}{Is everyone in your tribe this stupid? That's it. You want to dance? Then let's dance. Guards!}
-{243}{}{You've gotta be talkin' to me and I don't like what you're saying.}
-{244}{}{Whoa, hey... easy there, sparky. I was just leaving.}
-{245}{}{I hear you're working for Earl Marion as a sort of fill-in Sheriff until he gets better. That
- oughta keep your hands full for a while. Cain't think of any other real work for you in town, anyhow.}
-{246}{}{I see. Let me ask you about something else then, Mayor Ascorti.}
-{247}{}{Hey, tell me about the mine owners.}
-{248}{}{Thanks anyhow, Mayor. Goodbye.}
-{249}{}{I hear you did a real good job of helping Sheriff Marion out. Town's been pretty quiet since you
- helped him out. I cain't rightly think of anything that would suit your talents.}
-{250}{}{Thanks, Mayor. That means a lot coming from you. Let me ask you about something else here.}
-{251}{}{Hey, tell me about the mine owners.}
-{252}{}{Thanks anyhow. Guess I'll be moseying on then. Goodbye.}
-{253}{}{I understand that Sheriff Earl Marion is looking for someone to fill in for him until his bum
- leg heals up a fetch. You might go talk to him. His office is just South of here, across the street.}
-{254}{}{Thanks for the tip. Before I go, though, let me ask you about something else.}
-{255}{}{Hey, tell me about the mine owners.}
-{256}{}{Maybe I'll take a look over there, then. Thanks.}
-{257}{}{Well, there's the Sheriff, and then the mine owners are looking for someone to retrieve some
- kind of part for one of their machines.}
-{258}{}{What about the Sheriff?}
-{259}{}{What about the mine owners?}
-{260}{}{Interesting. Let me ask you about something else, Mayor.}
-{261}{}{Maybe I'll look around a bit. Thanks and goodbye.}
-{262}{}{Heck, that's right. I hear you already went ahead and got that chip for one of 'em.}
-{263}{}{Well, tell me about the Sheriff, then.}
-{264}{}{Yup, that was me. Tell me about something else then, Mayor.}
-{265}{}{Oh, I thought there was something new. Well, goodbye then.}
-{266}{}{I don't know too much about it. You should go talk to either Dangerous Dan McGrew at the
- Morningstar Mine, or to Marge LeBarge at the Kokoweef Mine. They're both just north of the downtown
- area here, across from the graveyard.}
-{267}{}{Thanks. Now, what about the Sheriff?}
-{268}{}{Thanks. Let me ask you about something else, though.}
-{269}{}{Maybe I'll take a walk up there and talk to them. Thanks, Mayor. Goodbye.}
-{270}{}{Lately our gold shipments have started to slow down because the miners are spending too much
- time flying high on Jet.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
- are up, and our exports are down. Bad for business all the way around.}
-{272}{}{Everyone's getting too high on Jet to work effectively. We aren't making but a tenth of our
- regular gold shipments, and we've jacked the price way up on that. This can't last.}
-{273}{}{Seems like everyone got a bad batch of Jet. All of the regular Jet Jockeys are going through
- some kind of massive detox. I guess something didn't agree with 'em. I don't know what all happened but
- I think it'll turn out for the better.}
-{274}{}{Things are almost back to normal. Everyone who was sick on Jet has just about sworn it off. Our
- mine production and shipping schedule is just about back up to normal, too. Looks like the worst is
- over.}
-{275}{}{Hmm. That's interesting. Let me ask you about something else, Mayor Ascorti.}
-{276}{}{I see. Thanks for the info, Mayor. Goodbye.}
-{277}{}{A Garden of Eden Creation Kit? I think they made Vault City out of one of those. All of the
- vaults were supposed to have one, but there sure ain't one around here nowheres.}
-{278}{}{Oh, well. Let me ask you something else, Mayor.}
-{279}{}{I better keep looking then. Thanks, Mayor Ascorti.}
+{100}{}{Widzisz niskiego mê¿czyznê z kruczoczarnymi w³osami i mi³ym uœmiechem.}
+{101}{}{Widzisz Ascortiego, burmistrza Redding.}
+{102}{}{Widzisz dobrze ubranego mê¿czyznê wygl¹daj¹cego doœæ zgrabnie.}
+{103}{}{Rusz siê, koleœ.}
+{104}{}{Jeœli chcesz wypróbowaæ swoje szczêœcie, to proszê bardzo.}
+{105}{}{Graj albo wynocha!}
+{106}{}{Lepiej nie narób tu ba³aganu...}
+{107}{}{Spróbuj zabawy przy sto³ach do gry. Mówiê ci to, bo wygl¹dasz jak ktoœ, kto mieszka w dziczy.}
+{108}{}{Spróbuj zabawy przy maszynach do gry, jesteœ z dziczy, wiêc ci to mówiê. Jest w nich mnóstwo dobrej magii.}
+{109}{}{Tylko nie przesadzaj z ognist¹ wod¹...}
+{110}{}{Witaj w œlicznym miasteczku - Redding... no i w moim kasynie. Ka¿dy jest asem u Ascortiego. To w³aœnie ja, Ascorti, w³aœciciel i burmistrz tego œlicznego miasta.}
+{111}{}{Co burmistrz Ascorti mo¿e dla ciebie zrobiæ?}
+{112}{}{Czy w Redding mo¿na dostaæ jak¹œ robotê?}
+{113}{}{Co tam ostatnio s³ychaæ w mieœcie?}
+{114}{}{Czy s³ysza³eœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
+{115}{}{Co tu robisz?}
+{116}{}{Tak tylko siê rozgl¹dam, burmistrzu. Do zobaczenia.}
+{117}{}{Prowadzê to kasyno oraz ogólnie zarz¹dzam ca³ym miastem. Monitorujê te¿ na przyk³ad takie sprawy jak akty w³asnoœci.}
+{118}{}{Akty w³asnoœci? Czego na przyk³ad?}
+{119}{}{Aha. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{120}{}{Przyk³adowo ten od wielkiej kopalni Wanamingo, który chcê od ciebie odkupiæ. Czy mo¿esz ju¿ mi go odsprzedaæ?}
+{121}{}{Chyba tak. Ile mia³eœ mi daæ za niego?}
+{122}{}{Mo¿e... Ale pozwól, ¿e najpierw spytam ciê o coœ.}
+{123}{}{Jeszcze muszê to przemyœleæ. Do widzenia, burmistrzu.}
+{124}{}{W zasadzie to tylko jeden akt. Ten, który ci sprzeda³em. No wiesz, od kopalni Wanamingo?}
+{125}{}{A, ten... Teraz sobie przypominam. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{126}{}{Jasne, tak tylko siê zastanawiam, czy masz mo¿e coœ jeszcze do sprzedania. Muszê wracaæ do pracy przy jej czyszczeniu. Do widzenia.}
+{127}{}{Tylko kopalni Wanamingo, który odkupi³em od ciebie. Pamiêtasz?}
+{128}{}{Jasne, ¿e tak. Ale pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{129}{}{Ale¿ tak. Tak tylko sprawdzam. Do widzenia, burmistrzu Ascorti.}
+{130}{}{Ró¿nych posiad³oœci. Np. teraz mam do sprzedania naprawdê super sprawê!}
+{131}{}{To znaczy co?}
+{132}{}{Za³o¿ê siê, ¿e tak, ale pozwól, ¿e spytam ciê najpierw o coœ innego, burmistrzu.}
+{133}{}{Hmm, myœlê, ¿e najpierw siê trochê rozejrzê po mieœcie. Do widzenia.}
+{134}{}{Akt w³asnoœci wielkiej kopalni Wanamingo znajduj¹cej siê tu¿ za miastem. Mogê ci j¹ sprzedaæ za œmieszn¹ sumkê $1000. Oferta specjalna! Po prostu masz fart, uda³o ci siê trafiæ na dobry dzieñ.}
+{135}{}{Brzmi interesuj¹co. Powiedz mi wiêcej na ten temat.}
+{136}{}{Gdzie jest haczyk, burmistrzu?}
+{137}{}{Chyba nie chcê jej teraz kupowaæ, burmistrzu. Pozwól, ¿e spytam ciê o coœ innego.}
+{138}{}{No, s¹ w niej takie cholerne zwierz¹tka i trzeba je pozabijaæ zanim bêdzie mo¿na w niej pracowaæ. Jeœli kupisz akt, pozabijasz wszystkie - to chêtnie j¹ od ciebie odkupiê ze sporym zyskiem.}
+{139}{}{Z zyskiem? Jak du¿ym?}
+{140}{}{Skoro jest tak wartoœciowa, to czemu sam jej nie oczyœcisz?}
+{141}{}{Zwierz¹tka? Jakie?}
+{142}{}{Nie ma haczyka. Tylko najpierw musisz wyeksmitowaæ paru niechcianych lokatorów mieszkaj¹cych w niej. Dla ciebie to raczej nic trudnego. Mogê powiedzieæ ci wiêcej, jeœli chcesz...}
+{143}{}{Okej, biorê tê sprawê. Mów...}
+{144}{}{Chyba nie chcê siê mieszaæ w takie interesy, burmistrzu. Ale pozwól, ¿e spytam ciê o coœ innego.}
+{145}{}{Aha. Tak wiêc chyba zostawiê to komuœ innemu. Do widzenia, burmistrzu.}
+{146}{}{Nawet podwójnym! To zapewne rozs¹dna zap³ata za twój trud. Niestety, na wiêcej mnie nie staæ. Bêdê musia³ sporo zainwestowaæ w tê kopalniê, zanim zacznie ona przynosiæ zyski.}
+{147}{}{Brzmi nieŸle. To ile p³acê?}
+{148}{}{Chyba jednak dam sobie spokój. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{149}{}{$1000 za akt w³asnoœci wielkiej kopalni Wanamingo. Bierzesz?}
+{150}{}{Tak, biorê go.}
+{151}{}{Chêtnie, ale nie mam przy sobie tyle pieniêdzy. Pozwól, ¿e spytam ciê o coœ innego.}
+{152}{}{Nie bardzo. Pozwól, ¿e spytam ciê o coœ innego.}
+{153}{}{Mo¿e innym razem, burmistrzu. Do widzenia.}
+{154}{}{Tylko zapiszê sobie, ¿e kopalnia Wanamingo jest twoj¹ w³asnoœci¹. Daj mi znaæ, jak ju¿ j¹ oczyœcisz, to j¹ od ciebie odkupiê.}
+{155}{}{Tak zrobiê. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{156}{}{Dobra. Nied³ugo wrócê, burmistrzu.}
+{157}{}{Nie mogê. Nie jestem goœciem szukaj¹cym niebezpieczeñstwa na ka¿dym kroku. Znam swoje mocne strony i walka nie jest jedn¹ z nich. Ale ty, to co innego, wygl¹dasz na tward¹ osobê. Tak w ogóle, to chyba w³aœnie takimi rzeczami siê przecie¿ zajmujesz.}
+{158}{}{Byæ mo¿e. Z jakim zyskiem odkupisz ode mnie akt w³asnoœci, gdy oczyszczê kopalniê?}
+{159}{}{Mo¿e tak, a mo¿e nie. Pomyœlê nad tym. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{160}{}{Nie bardzo mam teraz czas na takie rzeczy. Przepraszam, panie burmistrzu. Do widzenia.}
+{161}{}{To jak? Uda³o ci siê ju¿ oczyœciæ kopalniê?}
+{162}{}{Jasne!}
+{163}{}{Jeszcze nie, ale zrobiê to. Ale w miedzyczasie pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{164}{}{Pracujê nad tym. Do widzenia, burmistrzu Ascorti.}
+{165}{}{Wiesz co, chyba jeszcze nie uda³o ci siê za³atwiæ wszystkich Wanamingos. Lepiej to sprawdŸ. Nie odkupiê kopalni, dopóki nie pozabijasz wszystkich.}
+{166}{}{Aha. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{167}{}{W takim razie muszê tam wróciæ i to sprawdziæ.}
+{168}{}{Oczyszczenie kopalni to œwietna robota! Ale jest problem.}
+{169}{}{Problem? Jaki?}
+{170}{}{Uda³o ci siê oczyœciæ ca³¹ kopalniê! Dziêki. Czy odsprzedasz mi teraz akt? Dam ci za niego $2500.}
+{171}{}{Nie s¹dzê, chyba go jeszcze potrzymam. Do widzenia, burmistrzu.}
+{172}{}{Jasne. Cieszê siê, ¿e siê go pozbêdê, burmistrzu Ascorti.}
+{173}{}{Nazywamy je Wanamingos. To jakieœ dziwne stworzenia z wielkimi zêbami i z przyssawkami jak u oœmiornic. Nie s¹ zbyt inteligentne, ale s¹ wredne z bliska.}
+{174}{}{Aha. I ja mam siê ich pozbyæ?}
+{175}{}{No pewnie. Wiedzia³em, ¿e nie myœlisz tak a¿ tak wolno.}
+{176}{}{Taa. To ile zarobiê na tym $1000?}
+{177}{}{Wiedzia³em, ¿e ktoœ inny siê tam wprowadzi zamiast Wanamingos. Zrobi³ to wredny koleœ zwany ¯aba Morton. Z tego, co wiem, razem ze swoim gangiem.}
+{178}{}{Dlaczego mówi¹ na niego ¯aba?}
+{179}{}{I gdzie tu mój problem?}
+{180}{}{I co mam z tym zrobiæ?}
+{181}{}{To chyba dlatego, ¿e ¿abija ludzi. Wredny z niego koleœ, za którym nikt nie zatêskni... a ty bêdziesz bohaterem! Chcesz byæ bohaterem, nie?}
+{182}{}{Mo¿e, ale nadal nie widzê tu mojego problemu.}
+{183}{}{Tak, jasne. Co mogê z tym zrobiæ?}
+{184}{}{Chyba mam jeszcze trochê do poczyszczenia. Wrócê, gdy nakopiê jeszcze parê ty³ków, burmistrzu.}
+{185}{}{No, dopóki kopalnia nie bêdzie czysta, nie mogê wys³aæ górników do pracy w niej. Wiêc jeœli chcesz mi j¹ sprzedaæ, to masz problem.}
+{186}{}{A dlaczego nazywaj¹ go ¯aba Morton?}
+{187}{}{Œwietnie. To co mam z tym zrobiæ?}
+{188}{}{W takim razie idê siê nim zaj¹æ. Do widzenia, burmistrzu.}
+{189}{}{Myœlê, ¿e nale¿a³oby pójœæ z powrotem do kopalni Wanamingo i za³atwiæ ¯abê i jego gang. Gdy to zrobisz, mo¿esz do mnie wróciæ, a ja z chêci¹ odkupiê od ciebie kopalniê.}
+{190}{}{Nic nie jest ³atwe... Do zobaczenia, muszê siê czymœ zaj¹æ...}
+{191}{}{Czy chcesz mi ju¿ odsprzedaæ akt w³asnoœci kopalni Wanamingo?}
+{192}{}{Jasne, burmistrzu. Ile on mia³ kosztowaæ?}
+{193}{}{Jeszcze nie, burmistrzu. Do widzenia.}
+{194}{}{S³ysza³em, ¿e pomagasz szeryfowi. To dobrze. Nie staæ mnie ju¿ na to, by ta sp³ukana Rooney mieszka³a sobie nadal w tym luksusowym domu.}
+{195}{}{Masz na myœli ten malutki, przewiewny barak, za który liczysz sobie "nieco" za du¿o?}
+{196}{}{No pewnie. Ile jest ci ona dlu¿na?}
+{197}{}{Aha, mogê siê tym zainteresowaæ. Ale pozwól, ¿e spytam ciê o coœ innego.}
+{198}{}{Tia. A kto ty niby jesteœ?}
+{199}{}{Wolê nazywaæ go przytulnym z przyjemn¹ letni¹ wentylacj¹. Równie¿ i cena za niego jest ca³kiem rozs¹dna.}
+{200}{}{Tak, na pewno. Ile jest ci winna za czynsz?}
+{201}{}{Hmm, lepiej ju¿ sobie pójdê, burmistrzu. Do widzenia.}
+{202}{}{Zobaczmy... Pani Rooney jest mi winna... tak, no jest, $120. Tak. $120.}
+{203}{}{To wszystko? Mam tyle przy sobie. Masz...}
+{204}{}{To nie tak du¿o. Pozwól, ¿e spytam ciê o coœ innego.}
+{205}{}{Zobaczê, co mogê zrobiæ, by zmusiæ j¹ do zap³acenia. Do widzenia.}
+{206}{}{Dobrze... Teraz jest na bie¿¹co. Dziêki za uregulowanie tego d³ugu.}
+{207}{}{Nie ma sprawy. Pozwól, ¿e spytam ciê o coœ innego.}
+{208}{}{Po prostu jedni ludzie s¹ bardziej hojni ni¿ inni. Do widzenia, burmistrzu.}
+{209}{}{Dziêki, ¿e uda³o ci siê opró¿niæ moj¹ posiad³oœæ, szeryfie. Teraz bêdê móg³ j¹ wynaj¹æ komuœ, kto bêdzie móg³ za ni¹ zap³aciæ.}
+{210}{}{Nie czujê siê zbyt dobrze po tym...}
+{211}{}{Brzmi sensownie. }
+{212}{}{Czemu nie? Mo¿esz siê spokojnie czuæ dobrze. Wywalaj¹c wdowê Rooney, pozwalasz mi na dalsze p³acenie pracownikom. Jeœli nie zap³aci³bym im, to ich rodziny musia³yby g³odowaæ. To dopiero nie jest w porz¹dku, nie?}
+{213}{}{No tak. Moja wizja tego by³a nieco inna. Ale nadal nie czujê siê zbyt dobrze.}
+{214}{}{Nie wygl¹dasz na takiego biedaka. W koñcu zarabiasz kupê kasy na swoim kasynie.}
+{215}{}{Potrzeba silnej osobowoœci, by zrobiæ co trzeba, nawet jeœli po tym ktoœ nie bêdzie siê czu³ zbyt dobrze. Uda³o ci siê zrobiæ coœ bardzo trudnego, i to do tego dobrze. Masz piwo na koszt firmy!}
+{216}{}{Dziêki, burmistrzu. To mi³o z twojej strony.}
+{217}{}{Nie chcê z tob¹ piæ, ani teraz, ani kiedykolwiek. Do widzenia.}
+{218}{}{Nie ma problemu. Dobrze jest czasami zmoczyæ gwizdek lokalnej policji.}
+{219}{}{Jeszcze raz dziêki, burmistrzu. Pozwól, ¿e spytam ciê o coœ innego.}
+{220}{}{Dziêki, burmistrzu. Do zobaczenia.}
+{221}{}{Dzisiaj mo¿e i tak, ale nie zawsze ma takie szczêœcie. Muszê utrzymywaæ wysokie zyski. Jestem to winny moim pracownikom - no i trochê te¿ sobie, oczywiœcie.}
+{222}{}{Brzmi sprawiedliwie.}
+{223}{}{Upad³eœ tak nisko, jak brzuch gekona! Mam tego doœæ. Do widzenia.}
+{224}{}{Chcê ci tylko jeszcze raz podziêkowaæ, ¿e zrobi³eœ to dla pani Rooney. W koñcu nie chcia³bym jej wyrzucaæ z domu.}
+{225}{}{Ale zrobi³byœ to. Pozwól, ¿e spytam ciê o coœ innego.}
+{226}{}{Mo¿na by³o przewidzieæ, ¿e tak powiesz. Do widzenia, burmistrzu.}
+{227}{}{Nie no, tym razem przesadzasz. Pani Rooney nie zagra¿a³a nikomu! Po co by³o j¹ zabijaæ?!?}
+{228}{}{Sama siê o to prosi³a.}
+{229}{}{To by³ wypadek.}
+{230}{}{Pros³a siê? Przecie¿ ona by³a tylko ma³¹, bezbronn¹ staruszk¹. Coœ ci odbi³o? Wynoœ siê!}
+{231}{}{Mówisz do mnie?}
+{232}{}{I tak ju¿ wychodzê z tego sza³asu. Do widzenia.}
+{233}{}{Wypadek? Nadal nie mog¹ znaleŸæ wszystkich czêœci jej cia³a. Lepiej, ¿eby takie wypadki wiêcej siê nie zdarza³y... Dzia³aj¹ Ÿle na biznes.}
+{234}{}{Rozumiem. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{235}{}{Nastêpnym razem bêdê uwa¿aæ.}
+{236}{}{Tak, mówiê do ciebie. Widzisz tu jeszcze kogoœ, do kogo móg³bym mówiæ? Spierdalaj z mojego baru.}
+{237}{}{Czy *ty* mówisz do *mnie*?}
+{238}{}{Ju¿ idê. Ju¿ idê...}
+{239}{}{Co? Niedos³yszysz, czy masz coœ z g³ow¹? Mówiê do ciebie! Wy-noœ-siê!}
+{240}{}{Musisz wiêc mówiæ do mnie, bo nie widzê w okolicy nikogo innego.}
+{241}{}{W porz¹dku. Ju¿ wychodzê. Nie denerwuj siê, bo dostaniesz wylewu! Do widzenia.}
+{242}{}{Czy wszyscy w twoim plemieniu s¹ tak g³upi? O tak. Chcesz tañczyæ? Dobra, zatañczymy. Stra¿nicy!}
+{243}{}{Mówisz do mnie... i nie podobaj¹ mi siê twoje slowa.}
+{244}{}{Hej, spokojnie... Ju¿ sobie idê.}
+{245}{}{S³ysza³em, ¿e pracujesz dla Earla Mariona jako zastêpca szeryfa, dopóki nie wyzdrowieje. Musisz wiêc mieæ rêce pe³ne roboty. Innej roboty dla ciebie raczej na razie nie znajdzie siê w mieœcie.}
+{246}{}{Aha. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu Ascorti.}
+{247}{}{Opowiedz mi o w³aœcicielach kopalni.}
+{248}{}{I tak dziêkujê, burmistrzu. Do widzenia.}
+{249}{}{S³ysza³em, ¿e robisz kawa³ dobrej roboty, pomagaj¹c szeryfowi Marionowi. W mieœcie jest doœæ cicho dziêki tobie. Nie wiem, co jeszcze móg³bym zleciæ tak utalentowanej osobie.}
+{250}{}{Dziêki, burmistrzu. Wiele dla mnie znacz¹ takie s³owa, gdy wychodz¹ od takiej osoby. Pozwól, ¿e spytam ciê o coœ innego.}
+{251}{}{Opowiedz mi o w³aœcicielach kopalni.}
+{252}{}{I tak dziêkujê, burmistrzu. Do widzenia.}
+{253}{}{O ile siê nie mylê, szeryf Earl Marion szuka zastêpcy, dopóki nie zagoi siê jego chora noga. Mo¿esz spróbowaæ z nim pogadaæ. Jego biuro jest parê metrów na po³udnie st¹d, po drugiej stronie ulicy.}
+{254}{}{Dziêki za poradê. Ale zanim tam pójdê, pozwól, ¿e spytam ciê o coœ innego.}
+{255}{}{Opowiedz mi o w³aœcicielach kopalni.}
+{256}{}{Mo¿e siê tym zainteresujê. Dziêki.}
+{257}{}{No, jest szeryf, no i s¹ te¿ w³aœciciele kopalni, którzy szukaj¹ jakiejœ czêœci do jednej z ich maszyn.}
+{258}{}{Co z tym szeryfem?}
+{259}{}{Co z tymi w³aœcicielami kopalni?}
+{260}{}{Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{261}{}{Mo¿e siê trochê porozgl¹dam. Dziêkujê i do widzenia.}
+{262}{}{No tak. S³ysza³em, ¿e ju¿ uda³o ci siê zdobyæ ten chip dla jednego z nich.}
+{263}{}{A co w takim razie z szeryfem?}
+{264}{}{No tak, to moja robota. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{265}{}{Aha, zdawa³o mi siê, ¿e mo¿e chodzi o coœ nowego. Do widzenia.}
+{266}{}{Nie bardzo wiem, o co chodzi. Musisz pogadaæ albo z Niebezpiecznym Danem McGrew w kopalni Morningstar, albo z Marge LeBarge w kopalni Kokoweef. Obie kopalnie s¹ na pó³noc od œrodmieœcia, Po drugiej stronie cmentarza.}
+{267}{}{Dziêki. A co z szeryfem?}
+{268}{}{Dziêki. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{269}{}{W takim razie pójdê tam i pogadam z nimi. Dziêki, burmistrzu. Do widzenia.}
+{270}{}{Ostatnio nasze transporty z³ota zaczê³y trochê siê zmniejszaæ, poniewa¿ górnicy spêdzaj¹ zbyt du¿o czasu lataj¹c na Jecie.}
+{271}{}{Prawie wszyscy górnicy lataj¹ na Jecie zamiast wydobywaæ z³oto... tak wiêc nasze ceny id¹ w górê, a import spada. To bardzo niedobrze dla biznesu.}
+{272}{}{Ka¿dy zbyt wysoko lata na Jecie, by móc dobrze pracowaæ. Nie wyrabiamy nawet jednej dziesi¹tej normy i musieliœmy przez to bardzo podnieœæ cenê z³ota. Tak nie mo¿e byæ!}
+{273}{}{Wygl¹da na to, ¿e ka¿dy trafi³ na jak¹œ trefn¹ dzia³kê jetu. Wszyscy Jetowi d¿okeje przechodz¹ jakiœ masowy detoks. Zapewne coœ by³o z nimi nie tak. Nie bardzo wiem, co siê sta³o, ale jestem pewien, ¿e wyjdzie im to na dobre.}
+{274}{}{Wszystko ju¿ prawie wróci³o do normy. Ka¿dy, kto rozchorowa³ siê po Jecie, przeszed³ ju¿ najgorsze i raczej wiêcej ju¿ go nie weŸmie. Nasza produkcja i transport wróci³y te¿ do normy. Wygl¹da na to, ¿e najgorsze mamy za sob¹.}
+{275}{}{Hmm. Interesuj¹ce. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu Ascorti.}
+{276}{}{Aha. Dziêki za informacje, burmistrzu. Do widzenia.}
+{277}{}{Generator Ekosystemu Cudownej Krainy? Chyba w³aœnie z tego zrobili Kryptopolis. Wszystkie krypty mia³y mieæ coœ takiego, ale teraz nie ma ich ju¿ nigdzie w okolicy.}
+{278}{}{Szkoda. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
+{279}{}{W takim razie muszê nadal szukaæ. Dziêki, burmistrzu Ascorti.}

@@ -1,1 +1,1 @@
-{100}{}{You have entered a wooded area.}
+{100}{}{Wkraczasz na zalesiony teren.}

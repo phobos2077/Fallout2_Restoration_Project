@@ -1,3 +1,4 @@
 {100}{}{Widzisz stra¿nika.}
-{200}{}{Vegeir says you can't leave just yet.}
-{210}{}{Vegeir said it's alright to let you through.}
+
+{200}{}{Vegeir powiedzia³, ¿e jeszcze nie mo¿esz wyjœæ.}
+{210}{}{Vegeir powiedzia³, ¿e mogê ciê przepuœciæ.}

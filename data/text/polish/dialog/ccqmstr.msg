@@ -26,9 +26,9 @@
 {125}{}{Witaj, rekrucie. W³aœnie dzwoni³ do mnie twój sier¿ant. Powiedzia³, ¿e ciê wyposa¿yæ i wys³aæ z powrotem do niego. Racja?}
 {126}{}{Tak.}
 {127}{}{W tej bazie og³oszono alarm, a ja ciê nie poznajê. Poka¿ mi swoje papiery, ¿o³nierzu.}
-{128}{}{Ja nie ma dokumenty u ja.}
-{129}{}{Ja nie musi dokumenty!}
-{130}{}{Nie mam przy sobie swoich dokumentów. Zosta³y w mojej szafce.}
-{131}{}{Papiery? Zaraz ci poka¿e papiery!}
+{128}{}{Ja nie mieæ papiery tu.}
+{129}{}{Ja nie musi papiery!}
+{130}{}{Nie mam moich papierów przy sobie. Zosta³y w mojej szafce.}
+{131}{}{Papiery? Zaraz ci poka¿ê papiery!}
 {132}{}{Z³a odpowiedŸ. Masz obowi¹zek nosiæ swoje papiery przy sobie przez ca³y czas i ka¿dy ¿o³nierz powinien to wiedzieæ!}
-{133}{}{Ups.}
+{133}{}{Uups.}

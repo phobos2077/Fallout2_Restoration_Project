@@ -1,17 +1,17 @@
-{100}{}{Must warn Lynette!}
-{101}{}{Must warn Vault City!}
-{102}{}{Outworlder scum...}
-{103}{}{Degenerate filth...}
-{104}{}{Time to weed out more outworlder trash... Die, outworlders!}
-{105}{}{What are you doing around Vault City?}
-{106}{}{What is your business near Vault City?}
-{107}{}{This is part of the Vault City territory.}
-{108}{}{Pilnuj siê.}
-{109}{}{Vault City is not a sanctuary for *everyone.* So move on.}
-{110}{}{Your kind belongs at the Den.}
-{111}{}{I suggest you go there now.}
-{112}{}{Hello, citizen.}
-{113}{}{Anything we can do for you, citizen?}
-{114}{}{Do you need an escort to Vault City?}
-{115}{}{What are you doing so far from Vault City, citizen?}
-{116}{}{We were worried you might have been hurt, citizen.}
+{100}{}{Trzeba uprzedziæ Lynette!}
+{101}{}{Trzeba ostrzec Kryptopolis!}
+{102}{}{Cholerny obcy...}
+{103}{}{Przeklêci degeneraci...}
+{104}{}{Trzeba pozbyæ siê tych przeklêtych chwastów... Giñcie!}
+{105}{}{Czego szukasz w pobli¿u Kryptopolis?}
+{106}{}{Co robisz w pobli¿u Kryptopolis?}
+{107}{}{Znajdujesz siê na terenach nale¿¹cych do Kryptopolis.}
+{108}{}{Mamy ciê na oku.}
+{109}{}{Kryptopolis nie przyjmie byle kogo. Ruszaj dalej.}
+{110}{}{Dla takich jak ty jest Nora.}
+{111}{}{Mo¿e lepiej tam siê udaj.}
+{112}{}{Witaj, obywatelu.}
+{113}{}{Co mo¿emy dla ciebie zrobiæ, obywatelu?}
+{114}{}{Czy potrzebujesz eskorty do Kryptopolis?}
+{115}{}{Co robisz tak daleko od Kryptopolis, obywatelu?}
+{116}{}{Martwiliœmy siê, ¿e coœ mog³o ci siê staæ, obywatelu.}

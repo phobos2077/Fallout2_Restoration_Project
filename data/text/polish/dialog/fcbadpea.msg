@@ -7,61 +7,62 @@
 {106}{}{Cha cha! Patrzcie na te œmieszne okr¹g³e oczy!}
 {107}{}{Wygl¹dasz mi na Centrologa.}
 {108}{}{Zostaw nas w spokoju.}
-{109}{}{Long live Lo Pan!}
-{110}{}{Down with the Dragon!}
-{111}{}{Lo Pan is a hero.}
-{112}{}{Look out for the Dragon. He's trouble.}
+{109}{}{Niech ¿yje Lo Pan!}
+{110}{}{Precz ze Smokiem!}
+{111}{}{Lo Pan to bohater.}
+{112}{}{Uwa¿aj na Smoka. Jego imiê oznacza same k³opoty.}
 {113}{}{Te punki s¹ zawsze takie g³oœne.}
-{114}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [Wzdycha.]}
-{115}{}{Czy w ¿yciu nie ma niczego wiêcej?}
+{114}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
+{115}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
 {116}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
 {117}{}{Patrzcie! Lao wai!}
-{118}{}{Welcome to San Francisco.}
-{119}{}{You seem like a person with a straight head.}
-{120}{}{Lo Pan can use your help.}
-{121}{}{Don't hurt the people in red, lao wai.}
-{122}{}{Lao wai means "foreigner".}
-{123}{}{You're on our side, right?}
-{124}{}{Kill the Dragon for us, will you?}
-{125}{}{You honor us with your presence.}
-{126}{}{Our leader! Stricken!}
-{127}{}{We must get vengeance for Lo Pan!}
-{128}{}{Who will lead us to greatness if Lo Pan is dead?}
-{129}{}{What shall we do now?}
-{130}{}{We are dishonored. We should be dead like Lo Pan.}
-{131}{}{Life holds no meaning.}
-{132}{}{If Lo Pan is dead our dreams are crushed.}
-{133}{}{Lo Pan was the last great leader.}
-{134}{}{The Dragon is dead! Lo Pan is victorious!}
-{135}{}{Mock the losers!}
-{136}{}{The Dragon has fallen!}
+{118}{}{Witamy w San Francisco.}
+{119}{}{Wygl¹dasz na kogoœ z g³ow¹ na karku.}
+{120}{}{Lo Panowi mo¿e przydaæ siê twoja pomoc.}
+{121}{}{Nie rób krzywdy ludziom w szkar³acie, lao wai.}
+{122}{}{Lao wai znaczy "obcy".}
+{123}{}{Jesteœ po naszej stronie, prawda?}
+{124}{}{Zabij dla nas Smoka, dobrze?}
+{125}{}{Zaszczycasz nas swoj¹ obecnoœci¹.}
+{126}{}{Nasz przywódca! Pokonany!}
+{127}{}{Musimy dokonaæ zemsty za Lo Pana!}
+{128}{}{Kto poprowadzi nas do œwietnoœci je¿eli Lo Pan nie ¿yje?}
+{129}{}{Co teraz zrobimy?}
+{130}{}{Jesteœmy zhañbieni. Powinniœmy nie ¿yæ jak Lo Pan.}
+{131}{}{¯ycie nie ma ju¿ znaczenia.}
+{132}{}{Wraz ze œmierci¹ Lo Pana nasze marzenia leg³y w gruzach.}
+{133}{}{Lo Pan by³ ostatnim wielkim przywódc¹.}
+{134}{}{Smok nie ¿yje! Lo Pan zwyciê¿y³!}
+{135}{}{Wyœmiaæ przegranych!}
+{136}{}{Smok upad³!}
 {137}{}{Lo Pan! Lo Pan! Lo Pan!}
-{138}{}{We are the winners!}
-{139}{}{The Dragon is dead. Yeah!}
-{140}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [Wzdycha.]}
+{138}{}{Zwyciê¿yliœmy!}
+{139}{}{Smok nie ¿yje - to wspaniale!}
+{140}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
 {141}{}{Czy w ¿yciu nie ma niczego wiêcej?}
 {142}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
 {143}{}{Patrzcie! Lao wai!}
-{144}{}{The Emperor's mouthpiece! Dead! The city will fall apart!}
-{145}{}{Co teraz?}
-{146}{}{I hope the savages don't overrun us now.}
+{144}{}{Usta Cesarza - martwy! Miasto legnie w gruzach!}
+{145}{}{Co siê teraz stanie?}
+{146}{}{Mam nadziejê, ¿e dzicy nas teraz nie podbij¹.}
 {147}{}{Dobrzy zawsze gin¹ m³odo.}
-{148}{}{I hope we can survive without Ken Lee.}
-{149}{}{Podobno Ken Lee by³ jedynym, który utrzymywa³ Imperatora w formie.}
-{150}{}{Chodz¹ s³uchy, ¿e Imperator to tylko przykrywka dla Kena Lee. }
-{151}{}{Maybe Lo Pan could take Ken Lee's spot...}
-{152}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [Wzdycha.]}
+{148}{}{Mam nadziejê, ¿e przetrwamy bez Kena Lee.}
+{149}{}{Podobno Ken Lee by³ jedynym, który utrzymywa³ Cesarza w formie.}
+{150}{}{Chodz¹ s³uchy, ¿e Cesarz to tylko przykrywka dla Kena Lee. }
+{151}{}{Mo¿e Lo Pan móg³by zaj¹æ miejsce Kena Lee...}
+{152}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
 {153}{}{Czy w ¿yciu nie ma niczego wiêcej?}
 {154}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
 {155}{}{Patrzcie! Lao wai!}
-{163}{}{You killed AHS-9? Yeah!}
+
+{163}{}{Uda³o ci siê zabiæ UKC-9? Wspaniale!}
 {164}{}{Ci Centrolodzy przyprawiaj¹ mnie o dreszcze.}
-{165}{}{You have done us a great service.}
+{165}{}{Jesteœmy ci wdziêczni za oddan¹ nam wielk¹ przys³ugê.}
 {166}{}{Œmieræ Centrologom!}
-{167}{}{This will hurry those Hubologists out of here.}
+{167}{}{To przegoni st¹d tych Centrologów na dobre.}
 {168}{}{G³upi Centrolodzy, nie potrafili nawet ochroniæ swojego w³asnego przywódcy.}
-{169}{}{The Hubologists better not come after us in revenge.}
-{170}{}{I guess you're not a spy.}
+{169}{}{Lepiej, ¿eby Centrolodzy nie próbowali na nas wywrzeæ swojej zemsty.}
+{170}{}{Chyba jednak nie jesteœ szpiegiem.}
 {171}{}{Œwiñski synu! Giñ!}
 {172}{}{Moja rodzina jest przez ciebie zhañbiona!}
 {173}{}{Zostaw nas w spokoju, lao wai!}

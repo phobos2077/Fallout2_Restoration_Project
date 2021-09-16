@@ -1,1 +1,1 @@
-{100}{}{You have entered the toxic caves.}
+{100}{}{Jesteœ w toksycznych jaskiniach.}

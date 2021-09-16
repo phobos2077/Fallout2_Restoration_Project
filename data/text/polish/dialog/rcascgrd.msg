@@ -1,93 +1,93 @@
-{100}{}{You see a burly-looking guard checking you out.}
-{101}{}{You see one of Ascorti's security people.}
-{102}{}{You see a competent, vigilant guard watching the crowd.}
-{103}{}{Keep your hands off our stack, Jack.}
-{104}{}{Gettin' greedy's gonna cost you.}
-{105}{}{You shoulda known better than that.}
-{106}{}{You thought you'd get away with that?}
-{107}{}{You ain't gonna be able to spend anything now.}
-{108}{}{There's gonna be a fee for this withdrawal.}
-{109}{}{And I was just thinking how bored I am. Thanks, stranger.}
-{110}{}{Yeah, party time begins.}
-{111}{}{What a maroon. }
-{112}{}{You'd think that even someone like you would know better than that.}
-{113}{}{And I was just starting to get bored too.}
-{114}{}{Yeah! Party's on!}
+{100}{}{Widzisz potê¿nego stra¿nika patrz¹cego na ciebie.}
+{101}{}{Widzisz jednego z ochroniarzy Ascortiego.}
+{102}{}{Widzisz kompetentnego, czujnego stra¿nika obserwuj¹cego t³um.}
+{103}{}{£apy przy sobie.}
+{104}{}{Chciwoœæ bêdzie ciê kosztowaæ.}
+{105}{}{Trzeba by³o uwa¿aæ.}
+{106}{}{Myœla³eœ, ¿e ci siê uda?}
+{107}{}{Teraz nic ju¿ nie wydasz.}
+{108}{}{Ta kradzie¿ bêdzie ciê s³ono kosztowaæ.}
+{109}{}{W³aœnie siê nudzi³em. Dziêki, przybyszu.}
+{110}{}{Zabawa siê zaczyna.}
+{111}{}{Co za skurwiel. }
+{112}{}{A myœla³em, ¿e nawet ktoœ taki jak ty choæ trochê myœli.}
+{113}{}{A w³aœnie zaczyna³em siê nudziæ.}
+{114}{}{Œwietnie! Zaczyna siê zabawa!}
 {115}{}{Zatañczmy.}
-{116}{}{Ready to rumble?}
-{117}{}{Oh yeah, bring it on, badman.}
-{118}{}{I wanna see what your insides look like.}
-{119}{}{Glad I'm not going to hafta clean up the mess your guts are gonna make in here.}
-{120}{}{I ain't had a good fight for a week now.}
-{121}{}{Oh yeah, oh yeeeeaaahhh!}
-{122}{}{Good to go here.}
-{123}{}{Don't fuck with the customers.}
-{124}{}{You'll see what full service is all about.}
-{125}{}{You can't attack the guests and get away with it.}
-{126}{}{This ain't that kind of place, pally.}
-{127}{}{No disruptin' the boss's business.}
-{128}{}{You just gambled with your life, and lost.}
-{129}{}{Looks like you're gonna lose this one.}
-{130}{}{Gonna turn you into scraps for startin' a fight in here.}
-{131}{}{You dumbass.}
-{132}{}{You can't do that and live.}
-{133}{}{Time to take you outta' da' gene-pool.}
-{134}{}{You shoulda known better.}
-{135}{}{Sorry it had to come to this.}
-{136}{}{You loser.}
-{137}{}{Gotta keep the peace here.}
-{138}{}{This is gonna hurt you more'n us.}
-{139}{}{Gotta pay to play, pal.}
-{140}{}{Told you to knock it off. Too bad you didn't listen.}
-{141}{}{Now we've gotta come down hard on you.}
-{142}{}{This is really going to hurt... you.}
-{143}{}{Better put up that gat, pal.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
-{145}{}{Better put that piece away.}
-{146}{}{Keep it in the holster, bub.}
-{147}{}{Put that weapon away.}
-{148}{}{Better put up that weapon.}
-{149}{}{Keep your hands off the weapons while you're in here.}
-{150}{}{Put that weapon away, pal.}
-{151}{}{Sorry, gotta ask you to put that weapon away.}
-{152}{}{Put your weapon away. We want things to stay friendly here.}
-{153}{}{Just keepin' things in line here.}
-{154}{}{Play nice.}
-{155}{}{Keep things nice and frosty.}
-{156}{}{Ruszaj siê.}
-{157}{}{Nothing to see here.}
+{116}{}{Gotowy?}
+{117}{}{No, dawaj.}
+{118}{}{Zobaczê, co masz w œrodku.}
+{119}{}{Ca³e szczêœcie, ¿e to nie ja bêdê sprz¹taæ twoje flaki.}
+{120}{}{Ju¿ od tygodnia nie mia³em porz¹dnej walki.}
+{121}{}{O tak, o taaaaaaaaaak!}
+{122}{}{Œwietnie, ¿e wpad³eœ.}
+{123}{}{Odpierdol siê od goœci.}
+{124}{}{Zobaczysz, co znaczy pe³na obs³uga.}
+{125}{}{Nie myœla³eœ chyba, ¿e atakowanie goœci ujdzie ci na sucho.}
+{126}{}{To nie ten rodzaj miejsca, o jakim myœlisz.}
+{127}{}{Nie przeszkadzaj w interesach szefa.}
+{128}{}{W³aœnie zagra³eœ w koœci swoim ¿yciem i przegra³eœ.}
+{129}{}{Wygl¹da na to, ¿e przegra³eœ.}
+{130}{}{Rozerwê ciê na strzêpy za rozpoczynanie tu bójki.}
+{131}{}{Ty dupku.}
+{132}{}{Po czymœ takim nie mo¿esz ujœæ z ¿yciem.}
+{133}{}{Czas usun¹æ ciê z tego pado³u}
+{134}{}{Powinieneœ by³ pomyœleæ.}
+{135}{}{Przykro mi, ¿e do tego dosz³o.}
+{136}{}{Ty palancie.}
+{137}{}{Musimy utrzymywaæ tu spokój.}
+{138}{}{To ciê zaboli bardziej ni¿ nas.}
+{139}{}{Teraz zap³acisz.}
+{140}{}{Kaza³em ci to od³o¿yæ. Szkoda, ¿e nie s³ucha³eœ.}
+{141}{}{Bêdziemy musieli post¹piæ z tob¹ twardo.}
+{142}{}{To naprawdê zaboli... ciebie.}
+{143}{}{Lepiej to od³ó¿.}
+{144}{}{Nie chcemy tu k³opotów. Od³o¿ to.}
+{145}{}{Lepiej od³ó¿ tego gnata.}
+{146}{}{Lepiej wsadŸ to do kabury.}
+{147}{}{Od³ó¿ tê broñ.}
+{148}{}{Lepiej od³ó¿ tê broñ.}
+{149}{}{Trzymaj ³apy z daleka od broni, kiedy tu jesteœ.}
+{150}{}{Od³ó¿ tê broñ, stary.}
+{151}{}{Przykro mi, muszê ciê prosiæ o od³o¿enie tej broni.}
+{152}{}{Od³ó¿ tê broñ. Nie chcemy tu rozróby.}
+{153}{}{Po prostu utrzymujemy porz¹dek.}
+{154}{}{Zachowuj siê grzecznie.}
+{155}{}{Lepiej uwa¿aj.}
+{156}{}{Rusz siê.}
+{157}{}{Nie ma tu nic do zobaczenia.}
 {158}{}{Mi³ego dnia.}
-{159}{}{Welcome to Ascorti's.}
-{160}{}{Play friendly.}
+{159}{}{Witamy u Ascortiego.}
+{160}{}{Zachowuj siê przyjaŸnie.}
 {161}{}{Mi³ego dnia.}
-{162}{}{Everyone's an Ace here at Ascorti's.}
-{163}{}{So then I says to them, get your hands off my...}
-{164}{}{I can't believe that someone'd be dumb enough to double up on that.}
-{165}{}{Yup, that's a sucker-bet if I ever saw one.}
-{166}{}{Man, I don't feel so great.}
-{167}{}{That Ascorti's one sharp customer.}
-{168}{}{Psst, straighten up, the boss's looking.}
-{169}{}{See, it was like this, there was at least twenty...}
-{170}{}{That Gecko pie's givin' me heartburn.}
-{171}{}{Late night last night?}
-{172}{}{You gotta still be hung over after that.}
-{173}{}{Breakin' the law, breakin' the law.}
-{174}{}{You can't come into our town and do that.}
-{175}{}{You can't pull that kind of shit here.}
-{176}{}{We don't need your kind here.}
-{177}{}{Somebody's gotta stomp you flat.}
-{178}{}{There's a stink in this town and I think it's you.}
-{179}{}{I smell shitheel... oh, there you are.}
-{180}{}{Get out of our town, fucknut.}
-{181}{}{I ain't popped a skull for too long.}
-{182}{}{I'm gonna watch you bleed for that one.}
-{183}{}{Did you *really* think we wouldn't notice?}
-{184}{}{I can't believe you're pulling that shit right in front of us.}
-{185}{}{Uh, excuse me. KNOCK THAT SHIT OFF!}
-{186}{}{Stop fucking with the door, you idiot.}
+{162}{}{Tu, u Ascortiego, ka¿dy jest asem.}
+{163}{}{Wiêc ja im mówiê, bierzcie ³apy z mojego...}
+{164}{}{Nie s¹dzi³em, ¿e ktoœ mo¿e byæ tak g³upi.}
+{165}{}{Tak, to dopiero frajer.}
+{166}{}{Stary, nie czujê siê dobrze.}
+{167}{}{To specjalny goœæ Ascortiego.}
+{168}{}{Psst, wyprostuj siê, szef patrzy.}
+{169}{}{Widzisz, to by³o tak, by³o ich co najmniej dwudziestu...}
+{170}{}{Niedobrze mi po tym cieœcie z gekona.}
+{171}{}{Balowa³o siê w nocy, co?}
+{172}{}{Zawiœniesz za to.}
+{173}{}{Z³ama³eœ prawo.}
+{174}{}{Nie mo¿esz przyjœæ do naszego miasta i robiæ czegoœ takiego.}
+{175}{}{Nie mo¿esz robiæ tu czegoœ takiego.}
+{176}{}{Nie chcemy tu takich jak ty.}
+{177}{}{Zgnieciemy ciê na miazgê.}
+{178}{}{Coœ œmierdzi w tym mieœcie i myœlê, ¿e to ty.}
+{179}{}{Czujê gówno... O, jesteœ.}
+{180}{}{Spierdalaj z naszego miasta, zjebie.}
+{181}{}{Nie z³owi³em ostatnio ¿adnej g³owy.}
+{182}{}{Za to bêdziesz krwawi³.}
+{183}{}{Czy ty *naprawdê* myœla³eœ, ¿e nie zauwa¿ymy?}
+{184}{}{Nie mogê uwierzyæ, ¿e robisz coœ takiego na naszych oczach.}
+{185}{}{Uch, przepraszam bardzo, OD£Ó¯ TO GÓWNO!}
+{186}{}{Odpierdol siê od drzwi, idioto.}
 {187}{}{Co robisz?}
-{188}{}{Sheesh, just a lower quality of criminals every day. }
-{189}{}{Step away from the door.}
-{190}{}{Don't touch that door again.}
-{191}{}{Step away from the door.}
-{192}{}{Don't touch that door again.}
+{188}{}{Codziennie mniejsza jakoœæ przestêpstw. }
+{189}{}{OdejdŸ od tych drzwi.}
+{190}{}{Nie dotykaj tych drzwi.}
+{191}{}{OdejdŸ od tych drzwi.}
+{192}{}{Nie dotykaj tych drzwi.}

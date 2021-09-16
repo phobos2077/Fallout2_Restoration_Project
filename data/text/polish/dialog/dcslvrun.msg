@@ -1,84 +1,119 @@
-{100}{}{You see a big, primitive looking man.}
-{101}{}{This man looks fairly strong and alert.}
-{110}{}{You see a slender primitive woman.}
-{111}{}{She seems strong despite her size.}
-{120}{}{You see a strange looking man.}
-{121}{}{He seems to be awfully thin.}
-{130}{}{You see a ragged looking man.}
-{131}{}{This one looks fairly strong.}
-{140}{}{You see a man in tattered clothing.}
-{141}{}{He moves with suggesting speed.}
-{150}{}{You see a very grimy woman.}
-{151}{}{She doesn't seem to have ever bathed.}
-{160}{}{You see a rather large woman.}
-{161}{}{She looks like strong fighter.}
-{170}{}{You see a scrawny looking woman.}
-{171}{}{This one doesn't seem like much trouble.}
+# 0. Male Look - Primitive
+{100}{}{Widzisz wielkiego mê¿czyznê. Wygl¹da na dzikusa.}
+{101}{}{Mê¿czyzna czujnie rozgl¹da siê po okolicy.}
+
+# 1. Female Look - Primitive
+{110}{}{Widzisz szczup³¹ dzikuskê.}
+{111}{}{Mimo swoich rozmiarów zdaje siê byæ niebezpieczna.}
+
+# 2. Male Look - Nomad
+{120}{}{Widzisz dziwnie wygl¹daj¹cego mê¿czyznê.}
+{121}{}{Jest niesamowicie wychudzony.}
+
+{130}{}{Widzisz mê¿czyznê odzianego w ³achmany.}
+{131}{}{Wygl¹da na ca³kiem silnego.}
+
+{140}{}{Widzisz obdartego mê¿czyznê.}
+{141}{}{Porusza siê bardzo szybko i zwinnie.}
+
+# 3. Female Look - Nomad
+{150}{}{Widzisz bardzo brudn¹ kobietê.}
+{151}{}{Chyba nigdy w ¿yciu siê nie my³a.}
+
+{160}{}{Widzisz postawn¹ kobietê.}
+{161}{}{Wygl¹da na groŸnego przeciwnika.}
+
+{170}{}{Widzisz chorowit¹ kobietê.}
+{171}{}{Ta nie powinna sprawiaæ k³opotów.}
+
+# 4. CF: Hostile Primitive
 {200}{}{Giñ!}
-{201}{}{Where you at?}
-{202}{}{I'm gunna hurt you.}
-{210}{}{I'm going to get your for this!}
-{211}{}{God damn slavers!}
-{212}{}{You'll pay for this!}
-{220}{}{Leave alone!}
-{221}{}{Don't hurt!}
-{222}{}{No hurt you!}
-{223}{}{I don't fight!}
-{230}{}{I recognize that tattoo!}
-{231}{}{No, please!}
-{232}{}{Please don't kill me!}
-{233}{}{I won't fight; don't kill me!}
-{234}{}{Please, I don't want to die!}
-{235}{}{You're slavers aren't you? Oh, god.}
-{245}{}{Quiet! They near.}
-{246}{}{Kill bad men.}
-{247}{}{No take family from me.}
-{248}{}{I protect family.}
-{249}{}{Must not find us.}
-{250}{}{They bad people.}
-{260}{}{Slavers are coming. Everyone quiet.}
-{261}{}{Get ready; I think they're close now.}
-{262}{}{I'm not going down without a fight.}
-{263}{}{They'll never enslave us.}
-{264}{}{Those slavers will pay for this.}
-{265}{}{No slaver's going to take my family.}
-{270}{}{They no find me.}
-{271}{}{Must hide. Must hide.}
-{272}{}{Why they want hurt.}
-{273}{}{Me scared.}
-{274}{}{Me no fight.}
-{275}{}{Me want live.}
-{276}{}{No hurt family.}
-{280}{}{O, cholera!}
-{281}{}{Why are they doing this?}
-{282}{}{What about my family?}
-{283}{}{I don't want to die.}
-{284}{}{I don't want to be a slave.}
-{285}{}{I deserve better than this.}
-{290}{}{You die now!}
-{291}{}{Me kill!}
-{292}{}{You no hurt family!}
-{293}{}{You no take family!}
-{294}{}{I protect!}
-{295}{}{I hurt you!}
-{296}{}{You pay!}
-{300}{}{You're not going to take my family, slaver!}
-{301}{}{Giñ, ohydo!}
-{302}{}{You'll pay, you bastard!}
-{303}{}{I'll fight to the death for my family!}
-{304}{}{You won't get away with this!}
-{305}{}{You're not leaving here with my friends!}
-{310}{}{Aaaa!}
-{311}{}{No kill! No kill!}
-{312}{}{Stop!}
-{313}{}{Pomocy!}
-{314}{}{Zwiewaj!}
-{315}{}{No do that!}
-{320}{}{Run for your lives!}
-{321}{}{Don't let them catch you!}
-{322}{}{Slavers! Run for it!}
-{323}{}{Help someone! Please!}
-{324}{}{Run for it, Marty!}
-{325}{}{Aaaa!}
-{326}{}{Stop the insanity!}
-{327}{}{We didn't do anything! Leave us alone!}
+{201}{}{Czego tu?}
+{202}{}{Rozwalê ci ³eb.}
+
+# 5. CF: Hostile Nomad
+{210}{}{Zap³acisz mi za to!}
+{211}{}{Przeklêci ³owcy niewolników!}
+{212}{}{Nie darujê ci tego!}
+
+# 6. CF: Fleeing Primitive
+{220}{}{Zostaw!}
+{221}{}{Nie bij!}
+{222}{}{Czemu bijesz?!}
+{223}{}{Ja nie walczê!}
+
+# 7. CF: Fleeing Nomad
+{230}{}{Znam ten tatua¿!}
+{231}{}{Nie, proszê!}
+{232}{}{B³agam, nie zabijaj mnie!}
+{233}{}{Poddajê siê, nie strzelaj!}
+{234}{}{B³agam! Nie chcê umieraæ!}
+{235}{}{Jesteœcie £owcami, prawda? Bo¿e...}
+
+# 8. BF: Hostile Primitive
+{245}{}{Cicho! Us³ysz¹.}
+{246}{}{Zabiæ z³ych.}
+{247}{}{Nie dam rodziny.}
+{248}{}{Broniæ rodziny.}
+{249}{}{Nie dam siê znaleŸæ.}
+{250}{}{To Ÿli ludzie.}
+
+# 9. BF: Hostile Nomad
+{260}{}{£owcy s¹ w pobli¿u. B¹dŸcie cicho.}
+{261}{}{B¹dŸcie czujni. Chyba s¹ ju¿ niedaleko.}
+{262}{}{Nie poddam siê bez walki.}
+{263}{}{Nigdy nas nie schwytaj¹.}
+{264}{}{Ci £owcy jeszcze za to zap³ac¹.}
+{265}{}{¯aden £owca nie skrzywdzi mojej rodziny.}
+
+# 10. BF: Fleeing Primitive
+{270}{}{Nie znajd¹ mnie.}
+{271}{}{Trzeba chowaæ. Trzeba chowaæ.}
+{272}{}{Dlaczego oni krzywdz¹?}
+{273}{}{Strach!}
+{274}{}{Ja nie walczê.}
+{275}{}{Ja bêdê ¿yæ.}
+{276}{}{Nie krzywdziæ rodziny.}
+
+# 11. BF: Fleeing Nomad
+{280}{}{Cholera!}
+{281}{}{Dlaczego oni to robi¹?}
+{282}{}{A co z moj¹ rodzin¹?}
+{283}{}{Nie chcê umieraæ.}
+{284}{}{Nie chcê byæ niewolnikiem.}
+{285}{}{Nie zas³ugujê na taki los.}
+
+# 12. Combat Float: Hostile Primitive
+{290}{}{Ty giñ!}
+{291}{}{Ja zabijê!}
+{292}{}{Nie krzywdziæ rodziny!}
+{293}{}{Nie z³apaæ rodziny!}
+{294}{}{Broniæ!}
+{295}{}{Ja bijê!}
+{296}{}{Zap³acisz!}
+
+# 13. Combat Float: Hostile Nomad
+{300}{}{Nie pozwolê skrzywdziæ mojej rodziny, £owco!}
+{301}{}{Giñ, przeklêty £owco!}
+{302}{}{Zap³acisz mi za to!}
+{303}{}{Nie weŸmiecie mnie ¿ywcem!}
+{304}{}{Nie ujdzie to wam na sucho!}
+{305}{}{Nie pozwolê skrzywdziæ moich przyjació³!}
+
+# 14. Combat Float: Fleeing Primitive
+{310}{}{Aaach!}
+{311}{}{Nie zabijaj! Nie zabijaj!}
+{312}{}{Stój!}
+{313}{}{Pomooocy!}
+{314}{}{Biegiem!}
+{315}{}{Nie rób tak!}
+
+# 15. Combat Float: Fleeing Nomad
+{320}{}{Ratuj siê kto mo¿e!}
+{321}{}{Uciekajcie st¹d!}
+{322}{}{£owcy niewolników! W nogi!}
+{323}{}{Ratunku! Pomocy!}
+{324}{}{Uciekaj, Marty!}
+{325}{}{Aaach!}
+{326}{}{Przestañcie, b³agam!}
+{327}{}{Co wam zrobiliœmy! Zostawcie nas w spokoju!}

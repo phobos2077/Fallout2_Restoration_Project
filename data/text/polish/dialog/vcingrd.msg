@@ -1,69 +1,67 @@
-{100}{}{I'm watching you, Outworlder.}
-{101}{}{Myœlê, ¿e to najwy¿sza pora dla ciebie, aby sobie st¹d pójœæ.}
-{102}{}{Nie lubiê twojego widoku.}
-{103}{}{Keep your nose clean, or I'll take that Pass away.}
-{104}{}{It's past 6 PM. Time for you to return to the courtyard.}
-{105}{}{Okay. I'll leave right now.}
-{106}{}{Okay. I'll be going in a minute.}
-{107}{}{I got things to do. I'll go when I'm ready to go.}
+{100}{}{Obserwujê ciê, przybyszu.}
+{101}{}{S¹dzê, ¿e najwy¿szy czas byœ sobie poszed³.}
+{102}{}{Nie podoba mi siê twój wygl¹d.}
+{103}{}{Nie b¹dŸ wœcibski, bo cofnê ci Przepustkê.}
+{104}{}{Ju¿ po 18. Czas wracaæ na Podmurze.}
+{105}{}{Okay. W³aœnie odchodzê.}
+{106}{}{Oka. Jeszcze minutê.}
+{107}{}{Mam parê spraw na g³owie. Odejdê, gdy je za³atwie.}
 {108}{}{Umag Nak!?! Umag NAK!}
-{109}{}{Well, I'll just make sure you get to the courtyard safe and sound. C'mon, let's
- go.}
-{110}{}{Dobra. ChodŸmy.}
+{109}{}{Có¿, chcia³em siê tylko upewniæ, czy trafisz na Podmurze. Ruszajmy.}
+{110}{}{Oka. Ruszajmy.}
 {111}{}{Brog Frup}
-{112}{}{I can find my own way.}
-{113}{}{Sorry, got my orders. I'll need to escort you to the other side of the gate.}
-{114}{}{Okay... but I'm not happy about it. I may file a formal compla --}
-{115}{}{Sorry, I've got *my* orders. I'm staying.}
-{116}{}{(Leans in.) Look, it's been a *long* day, friend. Come with me, don't cause any trouble,
- and this day won't get any worse for either one of us. Understand?}
-{117}{}{Okay, fine. I'll go.}
-{118}{}{Over my dead body!}
-{119}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{120}{}{Mi³o mi ciê widzieæ, Obywatelu.}
-{121}{}{Pracowity dzieñ, Obywatelu?}
-{122}{}{Za tob¹, Obywatelu.}
-{123}{}{Witaj wêdrowcze.}
-{124}{}{Zajmij siê swoimi sprawami, cudzoziemcze.}
-{125}{}{Remember, you have until 6 PM.}
-{126}{}{You're out of here after 6 PM.}
-{127}{}{Look, I'm a Citizen.}
-{128}{}{Nic siê nie dzieje, Kapitanie.}
-{129}{}{Mam tutaj na wszystko oko, Kapitanie.}
+{112}{}{Znajdê drogê.}
+{113}{}{Przepraszam, mam rozkazy. Bêdê eskortowa³ was a¿ do bramy.}
+{114}{}{Dobra... ale nie cieszy mnie to zbytnio. Chyba z³o¿ê formalny protest...}
+{115}{}{Przykro mi, mam *w³asne* rozkazy. Zostaje.}
+{116}{}{(Kiwaj¹c siê) Có¿, to by³o *dawno* temu. ChodŸ ze mn¹ - unikniesz k³opotów, a ten dzieñ nie bêdzie taki najgorszy dla nikogo z nas. Kapujesz?}
+{117}{}{Dobra, œwietnie. Pójdê sobie.}
+{118}{}{Po moim trupie!}
+{119}{}{Kryptopolis ponad wszystkim, obywatelu.}
+{120}{}{Mi³o ciê widzieæ, obywatelu.}
+{121}{}{Pracowity dzieñ, obywatelu?}
+{122}{}{Ty przodem, obywatelu.}
+{123}{}{Witaj, wêdrowcze.}
+{124}{}{Zajmij siê swoimi sprawami, przybyszu.}
+{125}{}{Pamiêtaj, masz czas do 18.}
+{126}{}{Musisz opuœciæ to miejsce po 18.}
+{127}{}{Pos³uchaj, jestem obywatelem.}
+{128}{}{Nic szczególnego, Kapitanie.}
+{129}{}{Po prostu miej oczy szeroko otwarte, Kapitanie.}
 {130}{}{Kryptopolis ponad wszystkim, Kapitanie.}
-{131}{}{Mi³ego dnia, Kapitanie.}
-{132}{}{You there! Halt! What is that ghoul doing here in Vault City?!}
-{133}{}{You there! Halt! What is that mutant doing here in Vault City?!}
-{134}{}{Breep-oop foop foop}
+{131}{}{Witaj, Kapitanie.}
+{132}{}{Ty tam! Stój! Co ten ghul robi w Kryptopolis?!}
+{133}{}{Ty tam! Stój! Co ten mutant robi w Kryptopolis?!}
+{134}{}{Tam-tara taram ram}
 {135}{}{Ghul? Gdzie?}
 {136}{}{Mutant? Gdzie?}
-{137}{}{Jest ze mn¹.}
-{138}{}{On podró¿uje ze mn¹. Je¿eli jakiœ rasista ma z tym problem to mo¿e powinniœmy go rozwi¹zaæ tu i teraz.}
-{139}{}{He's with you? Then you're coming with us. We're going back to the Courtyard where you... and that thing... belong.}
-{140}{}{Dobra... odchodzimy.... spokojnie.}
-{141}{}{Czemu nie spróbujesz nas st¹d odeskortowaæ? Zapewniam ciê, to bêdzie pouczaj¹ce doœwiadczenie.}
-{142}{}{Great, looks like we got us a pair of idiots. All right, dim.}
-{143}{}{Very funny.}
-{144}{}{You're coming with us. We're going back to the Courtyard where you... and that thing... belong.}
-{145}{}{JA NIE IŒÆ ON KUMEL! TY NIE KUMPEL!}
+{137}{}{On jest ze mn¹.}
+{138}{}{Podró¿uje ze mn¹. Jeœli któryœ z was, rasistów, ma z tym jakiœ problem, chêtnie o tym podyskutuje.}
+{139}{}{ON jest z tob¹? Wiêc pójdziesz z nami. Wracamy na Podmurze gdzie ty... i ta rzecz... powinniœcie siê znajdowaæ.}
+{140}{}{W porz¹dku, odejdziemy, jak gdyby nigdy nic...}
+{141}{}{Nie zechcia³byœ nas eskortowaæ? Zapewniam ciê, ¿e by³oby to pouczaj¹ce doœwiadczenie.}
+{142}{}{Œwietnie, wygl¹da na to, ¿e mamy tu parê idiotów. W porz¹dku, ciemniaku.}
+{143}{}{Bardzo zabawne.}
+{144}{}{Pójdziesz z nami. Wracamy na Podmurze gdzie ty... i ta rzecz... powinniœcie siê znajdowaæ.}
+{145}{}{JAAAA NEH GUL TFOHJA KHAAMRATH! TYYH NEEH KHAAMRATH!}
 {146}{}{Odejdziemy po-ci-chu-tku}
-{147}{}{Dobra... odchodzimy.... spokojnie.}
-{148}{}{He's traveling with me. Any of you assholes have a problem with that, we can get down to shedding blood right now.}
-{149}{}{You want to do this the hard way? Fine. Guards! Intruders!}
-{150}{}{Hrnghhhhhhhhhh!}
-{151}{}{Bêdziesz martwy zanim zjawi¹ siê ci twoi przyjaciele.}
-{152}{}{Hey! It's the one who defeated the Enclave!}
-{153}{}{Hey, congratulations on defeating the Enclave!}
-{154}{}{Welcome to Vault City, hero!}
-{155}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
-{156}{}{S³ysza³em, ¿e uda³o ci siê dotrzeæ a¿ do San Francisco. To prawda?}
-{157}{}{Czy to prawda, ¿e Stany Zjednoczone nadal toczy³y wojnê?}
-{158}{}{Ktoœ powinien spisaæ twoje podró¿e w komputerze Kryptopolis.}
-{159}{}{Mo¿esz zostaæ w Kryptopolis tak d³ugo jak chcesz.}
-{160}{}{Mo¿esz skatalogowaæ swoje dokonania przeciwko Enklawie i umieœciæ je na Liœcie Serwera.}
-{161}{}{I don't recognize you. Where's your papers?}
-{162}{}{Here they are, "officer." I think you'll find everything in order.}
-{163}{}{I don't have them on me at the moment, but --}
-{164}{}{Hmmmm. All right, everything seems to be in order. Sorry to disturb you, Citizen. Vault City prevails.}
-{165}{}{Yes. Vault City prevails.}
-{166}{}{You're lucky I don't report you. Get out of here.}
+{147}{}{W porz¹dku, odejdziemy w pokoju.}
+{148}{}{On podró¿uje ze mn¹. A jak któryœ z was dupków ma z tym jakiœ problem, mo¿emy porównaæ nasze grupy krwi - tu i teraz!}
+{149}{}{Takiœ twardziel? Œwietnie. Stra¿e! Intruzi!}
+{150}{}{Hrnggghh!}
+{151}{}{Bêdziesz trupem, zanim twoim kolesie siê zorientuj¹.}
+{152}{}{Hej! To ten, który podbi³ Enklawê!}
+{153}{}{Hej, gratulujê podbicia Enklawy!}
+{154}{}{Witaj w Kryptopolis, œmia³ku!}
+{155}{}{Twój podbój Enklawy zaimponowa³ nawet Pierwszemu Obywatelowi.}
+{156}{}{Dosz³y mnie s³uchy, ¿e by³eœ na po³udniu i dotar³eœ a¿ do San Francisco. Czy to prawda?}
+{157}{}{A czy prawda jest, ¿e USA ci¹gle toczy wojnê?}
+{158}{}{Twoje wyprawy powinny byæ skatalogowane w komputerze Kryptopolis.}
+{159}{}{Jesteœ zawsze mile widziany w Kryptopolis.}
+{160}{}{Twoje wyprawy przeciw Enklawie powinno siê skatalogowaæ w komputerze Kryptopolis.}
+{161}{}{Nie rozpoznajê ciê. Gdzie masz swoje dokumenty?}
+{162}{}{Oto i one, "panie oficerze". Wszystko w porz¹dku, jak s¹dzê?}
+{163}{}{Nie mam ich na razie, ale...}
+{164}{}{Hmmmm. Dobra, wygl¹da na to, ¿e wszystko jest w porz¹dku. Przepraszam za k³opot, obywatelu. Kryptopolis ponad wszystkim.}
+{165}{}{Tak. Kryptopolis ponad wszystkim, obywatelu.}
+{166}{}{Masz dziœ szczêœcie, nie doniosê na ciebie. A teraz spieprzaj st¹d.}

@@ -14,5 +14,7 @@
 {113}{}{*mamrocze*}
 {114}{}{Nie widzisz, ¿e ja tu staram siê napiæ? *hik*}
 {115}{}{Nie przeszkadzaj mi. *hik*}
+
 {116}{}{W³aœciwie dopiero dochodzi jedenasta, ale to nie jest teraz najwa¿niejsze. A tak na serio, wiesz gdzie jest twoje dziecko?}
 {117}{}{W³aœciwie jest trochê po jedenastej, ale to nie jest teraz najwa¿niejsze. A tak na serio, wiesz gdzie jest twoje dziecko?}
+

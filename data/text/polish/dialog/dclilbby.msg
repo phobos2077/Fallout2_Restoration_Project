@@ -23,10 +23,13 @@
 {122}{}{Uda³o ci siê odmieniæ ¿ycie Bobbiego na lepsze.}
 {123}{}{Witaj ponownie! Dziêkuje za wszystko. Uwielbiam to nowe miejsce. Mama to cudowna kobieta!}
 {124}{}{Uwielbiam to nowe miejsce. Mama to cudowna kobieta!}
+
 {125}{}{Tak siê cieszê! Czas siê spakowaæ.}
 {126}{}{Ciekawe czy tata zauwa¿y, ¿e mnie nie ma.}
 {127}{}{Tam bêdzie mi du¿o lepiej.}
+
 {200}{}{Nie lubiê ciê. IdŸ sobie!}
+
 {210}{}{Zabrzmia³o to tak jak byœ nie lubi³ swojego ojca. Mogê zapytaæ dlaczego?}
 {211}{}{Ty ma³y szczeniaku, kto pozwoli³ tak ci mówiæ o swoim tacie?}
 {220}{}{Bo mój tata nie jest zbyt mi³y. Ci¹gle zostawia mnie samego w domu, a kiedy *jest* w domu, to zawsze pijany albo mówi ¿e leci na Jetcie, czyli k³amie bo nigdy nie widzia³em ¿eby gdzieœ lecia³. Czasami, przyprowadza do domu dziewczynê, ma mnóstwo dziewczyn i ka¿e mi wyjœæ z domu na d³ugo, nawet w œrodku nocy, jak zimno i jak pada.}

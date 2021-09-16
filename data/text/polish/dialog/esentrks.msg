@@ -1,2 +1,1 @@
-{100}{}{The placement of the explosive wasn't high enough to blow apart the cave-in. Perhaps
- there is a better way.}
+{100}{}{£adunek znajdowa³ siê zbyt nisko, ¿eby oczyœciæ drogê. Mo¿e istnieje lepszy sposób.}

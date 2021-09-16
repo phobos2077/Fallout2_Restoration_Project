@@ -1,12 +1,12 @@
-{100}{}{Ah! Another recruit.}
-{101}{}{Join or die!}
-{102}{}{Be all you can be.}
-{103}{}{The few, the proud, the mercenaries.}
-{104}{}{Join us!}
-{105}{}{4F.}
-{106}{}{Time to look elsewhere.}
-{107}{}{Go join the Navy.}
+{100}{}{Ach! Jeszcze jeden rekrut.}
+{101}{}{Zaci¹gnij siê, albo giñ!}
+{102}{}{Zostañ prawdziwym mê¿czyzn¹.}
+{103}{}{Dumni najemnicy!}
+{104}{}{Do³¹cz do nas!}
+{105}{}{Kategoria A1.}
+{106}{}{Lepiej poszukam gdzie indziej.}
+{107}{}{Lepiej zaci¹gnij siê do marynarki.}
 {108}{}{Cholera!}
-{109}{}{Whoa! Look at the time, I gotta go!}
-{110}{}{Recruit.}
-{111}{}{Sergeant.}
+{109}{}{Jej! Zrobi³o siê póŸno, muszê ju¿ iœæ!}
+{110}{}{Rekrut.}
+{111}{}{Sier¿ant.}

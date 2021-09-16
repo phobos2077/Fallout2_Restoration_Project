@@ -1,17 +1,23 @@
-{100}{}{You see a tightly sealed door.}
-{101}{}{This door appears to be electro-magnetically sealed. Perhaps you can open it
- elsewhere.}
-{105}{}{You temporarily bypass the electric field.}
-{106}{}{ temporarily bypasses the electric field.}
-{110}{}{You fail miserably on disarming the electric field.}
-{111}{}{ fails miserably on disarming the electric field.}
-{115}{}{You fail on disarming the electric field.}
-{116}{}{ fails on disarming the electric field.}
-{120}{}{You encounter an electric field.}
-{121}{}{ encounters an electric field.}
-{125}{}{You are unable move this door.}
-{126}{}{ is unable to move this door.}
-{130}{}{You failed to unlock this door.}
-{131}{}{ failed to unlock this door.}
-{135}{}{You manage to open the door.}
-{136}{}{ manages to open the door.}
+{100}{}{Widzisz drzwi zamkniête na siedem spustów.}
+{101}{}{Te drzwi s¹ zamkniête na elektromagnetyczny zamek. Mo¿e otwiera siê je gdzie indziej.}
+
+{105}{}{Udaje ci siê tymczasowo obejœæ pole elektryczne.}
+{106}{}{ obchodzi tymczasowo pole elektryczne.}
+
+{110}{}{Nie masz nawet co myœleæ o obejœciu pola elektrycznego.}
+{111}{}{ nie ma nawet co myœleæ o obejœciu pola elektrycznego.}
+
+{115}{}{Nie udaje ci siê obejœæ pola elektrycznego.}
+{116}{}{ nie jest w stanie obejœæ pola elektrycznego.}
+
+{120}{}{Odkrywasz pole elektryczne.}
+{121}{}{ odkrywa pole elektryczne.}
+
+{125}{}{Nie jesteœ w stanie otworzyæ tych drzwi.}
+{126}{}{ nie jest w stanie otworzyæ tych drzwi.}
+
+{130}{}{Nie udaje ci siê otworzyæ tych drzwi.}
+{131}{}{ nie mo¿e otworzyæ tych drzwi.}
+
+{135}{}{Udaje ci siê otworzyæ drzwi.}
+{136}{}{ otwiera drzwi.}

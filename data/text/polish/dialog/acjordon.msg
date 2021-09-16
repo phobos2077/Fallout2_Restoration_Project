@@ -1,4 +1,4 @@
-{100}{}{Widzisz Jordana, jak zwykle wywijaj¹cego w³óczni¹.}
+{100}{}{Widzisz Jordana. Jak zwykle wywija w³óczni¹.}
 {101}{}{Widzisz Jordana, jak zwykle wywijaj¹cego w³óczni¹.}
 {102}{}{Powodzenia! Muszê wracaæ do swojego treningu.}
 {103}{}{Witaj, Dziecko Przeznaczenia. Widzê, ¿e przyda³by ci siê ma³y trening. Mogê w czymœ pomóc?}

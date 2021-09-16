@@ -20,12 +20,12 @@
 {119}{}{Chcê siê tylko upewniæ, ¿e zabijê w³aœciw¹ osobê. Dziêki i dobranoc!}
 {120}{}{Hmm. Nic. Chyba muszê ju¿ iœæ.}
 {121}{}{Niesamowite. Naprawdê myœlisz, ¿e mo¿esz tu tak po prostu wleŸæ i zadawaæ pytania?! A zreszt¹, co mi tam - i tak zaraz zginiesz - trzymamy tu jej córeczkê, mam z ni¹ wiele zabawy. Ta stara suka, Rebeka, próbuje j¹ odnaleŸæ wiêc trzymamy j¹ na oku, na wypadek gdyby coœ wywêszy³a.}
-{122}{}{Twoja chora w g³ówkê. Moja zabraæ ci g³ówkê.}
+{122}{}{Twoja chora w g³owa. Moja zabraæ ci g³owa.}
 {123}{}{Jak to mieæ z ni¹ zabawy?}
 {124}{}{O, to wszystko jasne. Moja iœæ.}
 {125}{}{Niez³y z ciebie œwir. Chyba pora ciê uœpiæ, kundlu.}
-{126}{}{Fajnie. ¯yczê mi³ej zabawy, muszê ju¿ iœæ.}
-{127}{}{Oddaj dziewczynê, a nikomu nie stanie siê krzywda.}
+{126}{}{Fajnie, to bawcie siê dalej, ja ju¿ sobie pójdê.}
+{127}{}{Oddaj dziewczynê, to mo¿e pozwolê ci odejœæ.}
 {128}{}{Przemyœl to sobie umieraj¹c, pó³g³ówku.}
 {129}{}{}
 {130}{}{}
@@ -52,5 +52,6 @@
 {151}{}{Niez³y z ciebie œwir. Chyba pora ciê uœpiæ, kundlu.}
 {152}{}{Fajnie. ¯yczê mi³ej zabawy, muszê ju¿ iœæ.}
 {153}{}{Oddaj dziewczynê, a nikomu nie stanie siê krzywda.}
+
 {154}{}{Znowu tu jesteœ? Dobra, przekonajmy siê kto do¿yje jutra.}
 {155}{}{Zabiliœmy tê kurewkê, Chrissy! Teraz twoja kolej!!!}

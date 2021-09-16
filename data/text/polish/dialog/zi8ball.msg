@@ -1,46 +1,50 @@
+# EXAMINES
 {151}{}{}
+
+# USE MESSAGES
 {199}{}{Co to za kretyñskie pytanie?}
-{200}{}{Outlook good.}
-{201}{}{Outlook not so good.}
-{202}{}{My reply is no.}
-{203}{}{Don't count on it.}
-{204}{}{You may rely on it.}
-{205}{}{Ask again later.}
-{206}{}{Most likely.}
-{207}{}{Cannot predict now.}
+{200}{}{Dobre widoki.}
+{201}{}{Kiepskie widoki.}
+{202}{}{Moja odpowiedŸ brzmi "nie".}
+{203}{}{Nie licz na to.}
+{204}{}{Mo¿esz na tym polegaæ.}
+{205}{}{Zapytaj o to póŸniej.}
+{206}{}{Najprawdopodobniej.}
+{207}{}{Trudno teraz powiedzieæ.}
 {208}{}{Tak.}
-{209}{}{Yes. Definitely.}
-{210}{}{Better not to tell you now.}
-{211}{}{It is certain.}
-{212}{}{Very doubtful.}
-{213}{}{It is decidedly so.}
-{214}{}{Concentrate and ask again.}
-{215}{}{Signs point to yes.}
-{216}{}{My sources say no.}
+{209}{}{Tak. Zdecydowanie.}
+{210}{}{Lepiej ci tego teraz nie mówiæ.}
+{211}{}{To pewne.}
+{212}{}{Bardzo w¹tpliwe.}
+{213}{}{Zdecydowanie tak.}
+{214}{}{Skup siê i zapytaj ponownie.}
+{215}{}{Wszystkie znaki na niebie i ziemi wskazuj¹ na "tak".}
+{216}{}{Moje Ÿród³a twierdz¹, ¿e nie.}
 {217}{}{Bez w¹tpienia.}
-{218}{}{Reply hazy, try again.}
-{219}{}{As I see it, yes.}
-{220}{}{Stop shaking me so hard. It hurts.}
-{221}{}{You have a strong right arm.}
-{222}{}{Please wipe your hands before shaking me again.}
-{223}{}{Temporarily out of service.}
-{224}{}{Closed by order of the RPG Board.}
-{225}{}{Keep shaking me, and there'll be trouble.}
-{226}{}{I'm getting sick.}
-{227}{}{I'm getting nauseous.}
-{228}{}{Your hands are warm.}
-{229}{}{Feargus was against putting me in the game. He's a big meanie.}
-{230}{}{Your score is 23 out of 100. You have quite a ways to go yet.}
-{231}{}{Scott Everts sighs a lot when he sees how many inventory items are in the game.}
-{232}{}{Look in the first floor men's bathroom toilet in the Mordino casino in New Reno.}
-{233}{}{Somebody buried some cash beneath the cross labeled 'Trash' in Golgotha.}
-{234}{}{Go back and talk to Father Tully in New Reno after you have finished the game.}
-{235}{}{There is an Easter Egg somewhere in New Reno.}
-{236}{}{Stop shaking me so hard.}
-{237}{}{Your LUCK is very high. Keep shaking me for clues!}
-{238}{}{Yes, we KNOW Descent to Undermountain was crap.}
-{239}{}{If you sell Bessie to the butchers in Modoc, you can set her free again.}
-{240}{}{Pay attention to what Curtis says after you return Mr. Nixon to him in Vault City.}
-{241}{}{With the feuding couple in Broken Hills, the wife really did throw the Cat's Paw in the trash.}
-{242}{}{You need a high STR *and* a high END to have a chance of beating Francis in the arm-wrestling contest.}
-{243}{}{The code to activate the first terminal in the Vault in Vault City is 3PCF186.}
+{218}{}{OdpowiedŸ niejasna, zapytaj ponownie.}
+{219}{}{Tak jak to widzê, to tak.}
+{220}{}{Nie trzêœ mn¹ tak bardzo. To boli.}
+{221}{}{Masz mocne prawe ramiê.}
+{222}{}{Proszê, wytrzyj rêce zanim mn¹ znów potrz¹œniesz.}
+{223}{}{Chwilowo nieczynne.}
+{224}{}{Zamkniête na podstawie zarz¹dzenia Urzêdu d/s Gier Fabularnych.}
+{225}{}{Trz¹œ mn¹ tak dalej, a bêdziesz mieæ k³opoty.}
+{226}{}{Chyba siê rozchorujê.}
+{227}{}{Niedobrze mi.}
+{228}{}{Masz ciep³e d³onie.}
+# 9 or greater luck
+{229}{}{Feargus nie chcia³, ¿eby umieszczaæ mnie w grze. Straszny z niego drañ.}
+{230}{}{Twój wynik to 23 na 100. Masz jeszcze du¿o do zrobienia.}
+{231}{}{Scott Everts ci¹gle wzdycha, kiedy widzi, ile siê narobi³o w grze ró¿nych przedmiotów.}
+{232}{}{Zajrzyj do mêskiej ubikacji na parterze kasyna Mordino w Nowym Reno.}
+{233}{}{Ktoœ zakopa³ na Golgocie trochê kasy pod krzy¿em z napisem "Œmieci".}
+{234}{}{Kiedy ju¿ skoñczysz grê, idŸ pogadaæ z Ojcem Tullym w Nowym Reno.}
+{235}{}{Gdzieœ w Nowym Reno mo¿na znaleŸæ coœ, co po staropolsku nazywa siê "Easter Egg".}
+{236}{}{Nie trz¹œ mn¹ tak mocno.}
+{237}{}{Masz du¿o SZCZÊŒCIA. Trz¹œ mn¹ dalej, a dostaniesz podpowiedŸ!}
+{238}{}{Tak, WIEMY, ¿e Descent to Undermountain by³o kich¹.}
+{239}{}{Jeœli sprzedasz Bessie rzeŸnikom w Modoc, to bêdzie mo¿na j¹ z powrotem uwolniæ.}
+{240}{}{Uwa¿aj na to, co ci powie Curtis z Kryptopolis, kiedy oddasz mu Pana Nixona.}
+{241}{}{Co do sk³óconego ma³¿eñstwa w Broken Hills, to ¿ona rzeczywiœcie wyrzuci³a do kosza jego œwierszczyki.}
+{242}{}{Aby pokonaæ Francisa w si³owaniu siê, bêdziesz potrzebowaæ wysokiej SI£Y *oraz* wysokiej WYTRZYMA£OŒÆI.}
+{243}{}{Kod aktywuj¹cy pierwszy terminal w Krypcie w Kryptopolis to 3PCF186.}

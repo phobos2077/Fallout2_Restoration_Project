@@ -1,12 +1,13 @@
-{100}{}{You see an intimidating ruffian.}
-{101}{}{You see a guard of the Den.}
-{102}{}{Not now; I'm on duty.}
-{103}{}{I cannot speak to you.}
-{104}{}{IdŸ sobie, proszê.}
-{105}{}{Do not bother me.}
-{106}{}{Please see my boss.}
-{107}{}{I am not allowed to answer your questions.}
-{108}{}{You must cease bothering me.}
-{109}{}{I just work here.}
-{110}{}{I know nothing.}
-{111}{}{I speak only to my boss.}
+{100}{}{Widzisz groŸnie wygl¹daj¹cego awanturnika.}
+{101}{}{Widzisz miejscowego stra¿nika.}
+
+{102}{}{Nie teraz - jestem na s³u¿bie.}
+{103}{}{Nie mogê z tob¹ rozmawiaæ.}
+{104}{}{Proszê, odejdŸ.}
+{105}{}{Nie naprzykrzaj mi siê.}
+{106}{}{Lepiej zobacz siê z moim szefem.}
+{107}{}{Nie wolno mi odpowiadaæ na takie pytania.}
+{108}{}{Musisz przestaæ mi siê naprzykrzaæ.}
+{109}{}{Ja tu tylko pracujê.}
+{110}{}{Nic nie wiem.}
+{111}{}{Rozmawiam tylko z moim szefem.}

@@ -1,32 +1,42 @@
-{100}{}{Fast Metabolism}
+#
+# Messages from trait.c
+#
+#
+# TRAIT NAMES
+#
+{100}{}{Szybki metabolizm}
 {101}{}{Miêœniak}
-{102}{}{Small Frame}
-{103}{}{One Hander}
-{104}{}{Finesse}
-{105}{}{Kamikaze}
-{106}{}{Heavy Handed}
-{107}{}{Fast Shot}
-{108}{}{Bloody Mess}
-{109}{}{Pechowiec}
-{110}{}{Good Natured}
-{111}{}{Drug Reliant}
-{112}{}{Drug Resistant}
-{113}{}{Sex Appeal}
-{114}{}{Skilled}
-{115}{}{Gifted}
-{200}{}{Your metabolic rate is twice normal.  This means that you are much less resistant to radiation and poison, but your body heals faster.}
-{201}{}{A little slower, but a little bigger.  You may not hit as often, but they will feel it when you do!  Your total action points are lowered, but your Strength is increased.}
-{202}{}{You are not quite as big as the other villagers, but that never slowed you down.  You can't carry as much, but you are more agile.}
-{203}{}{One of your hands is very dominant.  You excel with single-handed weapons, but two-handed weapons cause a problem.}
-{204}{}{Your attacks show a lot of finesse.  You don't do as much damage, but you cause more critical hits.}
-{205}{}{By not paying attention to any threats, you can act a lot faster in a turn.  This lowers your armor class to just what you are wearing, but you sequence much faster in a combat turn.}
-{206}{}{You swing harder, not better.  Your attacks are very brutal, but lack finesse.  You rarely cause a good critical, but you always do more melee damage.}
-{207}{}{You don't have time to aim for a targeted attack, because you attack faster than normal people.  It costs you one less action point for guns and thrown weapons.}
-{208}{}{By some strange twist of fate, people around you die violently.  You always see the worst way a person can die.}
-{209}{}{The good thing is that everyone around you has more critical failures in combat, the bad thing is so do you!}
-{210}{}{You studied less-combative skills as you were growing up.  Your combat skills start at a lower level, but First Aid, Doctor, Speech and Barter are substantially improved.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
-{213}{}{You've got the "right" stuff.  Members of the opposite sex are attracted to you, but those of the same sex tend to become quite jealous.}
-{214}{}{Since you spent more time improving your skills than a normal person, you gain 5 additional skill points per experience level. The tradeoff is that you do not gain as many extra abilities. You gain a perk every four levels.}
-{215}{}{You have more innate abilities than most, so you have not spent as much time honing your skills.  Your primary statistics are each +1, but you lose -10% on all skills to start, and receive 5 less skill points per level.}
+{102}{}{Drobna postura}
+{103}{}{Jednorêcznoœæ}
+{104}{}{Finezja}
+{105}{}{Kamikadze}
+{106}{}{Ciê¿ka rêka}
+{107}{}{Szybki cyngiel}
+{108}{}{Krwawa jatka}
+{109}{}{Fatum}
+{110}{}{Dobrotliwoœæ}
+{111}{}{Chemiozale¿noœæ}
+{112}{}{Chemioodpornoœæ}
+{113}{}{Seksapil}
+{114}{}{Kujon}
+{115}{}{Zdolniacha}
+#
+# TRAIT DESCRIPTIONS
+#
+{200}{}{Przemiana materii w twoim organizmie przebiega dwukrotnie szybciej ni¿ u przeciêtnego cz³owieka. Oznacza to, ¿e masz o wiele ni¿sz¹ odpornoœæ na promieniowanie i trucizny, ale ³atwiej zdrowiejesz.}
+{201}{}{Poruszasz siê nieco wolniej, ale za to masz imponuj¹c¹ posturê. Mo¿e nie uderzasz zbyt czêsto, lecz gdy ju¿ to zrobisz, przeciwnicy to rzeczywiœcie odczuwaj¹! Liczba twoich punktów akcji ulega zmniejszeniu, ale twoja si³a roœnie.}
+{202}{}{Nie dorównujesz gabarytami innym mieszkañcom Krypty, ale za to twój ciê¿ar ciê nie spowalnia. Nie jesteœ w stanie zbyt wiele udŸwign¹æ, lecz zyskujesz na zrêcznoœci.}
+{203}{}{Jedna z twoich r¹k jest skrajnie dominuj¹ca. Celujesz w broniach jednorêcznych, lecz obs³uga broni dwurêcznych sprawia ci k³opot.}
+{204}{}{Twoje ataki wykazuj¹ wiele finezji. Zwykle nie wyrz¹dzasz nimi zbyt wielkich szkód, lecz za to czêœciej zadajesz trafienia krytyczne.}
+{205}{}{Nie zwracasz uwagi na ¿adne zagro¿enia, wiêc w trakcie walki dzia³asz du¿o szybciej ni¿ inni. Obni¿a to klasê pancerza do wartoœci tego, co okrywa twoje cia³o, lecz twoja inicjatywa znacz¹co wzrasta.}
+{206}{}{Uderzasz mocniej, co nie znaczy, ¿e lepiej. Twoje ataki s¹ bardzo brutalne, lecz brakuje im finezji. Rzadko przydarza ci siê zadaæ trafienie krytyczne, choæ w walce wrêcz zawsze wyrz¹dzasz przeciwnikom wiêcej szkód.}
+{207}{}{Nie masz czasu na celowanie w konkretne czêœci cia³a wrogów, gdy¿ atakujesz szybciej ni¿ zwykli œmiertelnicy. U¿ycie broni palnej kosztuje ciê ka¿dorazowo o 1 punkt akcji mniej.}
+{208}{}{Za spraw¹ jakiegoœ dziwnego zrz¹dzenia losu otaczaj¹ce ciê osoby gin¹ niezwykle gwa³town¹ œmierci¹. Zawsze ogl¹dasz zgony w mo¿liwie najstraszliwszym wydaniu.}
+{209}{}{Zaleta: wszyscy wokó³ ciebie doznaj¹ w czasie walki wiêcej krytycznych niepowodzeñ. Wada: to samo przydarza siê tobie!}
+{210}{}{W okresie dorastania twoje studia skupia³y siê na umiejêtnoœciach cywilnych. Co za tym idzie, na pocz¹tku wyprawy dysponujesz s³abymi umiejêtnoœciami bojowymi, ale znasz siê na udzielaniu pierwszej pomocy, leczeniu, retoryce oraz handlu.}
+{211}{}{£atwo uzale¿niasz siê od chemicznych specyfików. Ryzyko wpadniêcia w na³óg jest dwukrotnie wy¿sze ni¿ przeciêtne, ale z drugiej strony twój organizm szybciej zwalcza ich negatywne efekty.}
+{212}{}{Chemiczne specyfiki oddzia³ywuj¹ na ciebie tylko przez po³owê standardowego czasu, ale ryzyko, ¿e siê od nich uzale¿nisz, równie¿ wynosi tylko 50% normy.}
+{213}{}{Masz "to coœ". £atwo przyci¹gasz uwagê przedstawicieli p³ci przeciwnej, ale w zwi¹zku z tym szybko wzbudzasz zazdroœæ przedstawicieli w³asnej...}
+{214}{}{W rodzinnej Krypcie uda³o ci siê poœwiêciæ na naukê wiêcej czasu ni¿ innym, wiêc wyprawê zaczynasz z wy¿szym poziomem umiejêtnoœci. P³acisz za to wolniejszym tempem nabywania nowych profitów - co 4 poziomy.}
+{215}{}{Masz wiêksze wrodzone zdolnoœci ni¿ ogó³ œredniaków, wiêc nie poœwiêcasz szczególnej uwagi nauce. Ka¿dy ze wspó³czynników jest wy¿szy o 1 pkt, lecz wszystkie umiejêtnoœci s¹ ni¿sze o 10%, a przy awansach dostajesz o 5 pkt. mniej.}
+

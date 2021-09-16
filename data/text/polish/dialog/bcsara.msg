@@ -1,7 +1,7 @@
-{100}{}{Widzisz squattera.}
-{101}{}{You see Sara, a squatter.}
-{102}{}{You see a middle aged woman wearing worn clothing.}
-{103}{}{Please don't bother me; I'm really busy right now.}
-{104}{}{Please go away. There's nothing here for you.}
-{105}{}{Thanks for helping out Rebecca. It was a wonderful thing for you to do for a stranger.}
-{106}{}{I'm no threat to you. Please don't kill me.}
+{100}{}{Widzisz jedn¹ z osiedleñców.}
+{101}{}{Widzisz Sarê, bezdomn¹.}
+{102}{}{Widzisz kobietê w œrednim wieku w zu¿ytym ubraniu.}
+{103}{}{Proszê nie przeszkadzaj mi. Jestem teraz zajêta.}
+{104}{}{OdejdŸ proszê. Nic tu dla ciebie nie ma.}
+{105}{}{Dziêki, za pomoc Rebece. To by³ wspania³y uczynek bior¹c pod uwagê to, ¿e nawet jej nie znasz.}
+{106}{}{Nie jestem dla ciebie zagro¿eniem. Proszê, nie zabijaj mnie.}

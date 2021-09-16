@@ -1,5 +1,7 @@
-{100}{}{You see a robot.}
-{101}{}{You see the Reactor Maintenance and Repair Robot.}
-{102}{}{You see a robot. It appears to be functional.}
-{200}{}{The robot has repaired the power plant.}
-{300}{}{You programmed the robot to start a meltdown.}
+{100}{}{Widzisz robota.}
+{101}{}{Widzisz robota do napraw i obs³ugi reaktora.}
+{102}{}{Widzisz robota. Wygl¹da na to, ¿e dzia³a.}
+
+{200}{}{Robot naprawi³ elektrowniê.}
+
+{300}{}{Zaprogramowany przez ciebie robot zainicjowa³ stopienie rdzenia.}

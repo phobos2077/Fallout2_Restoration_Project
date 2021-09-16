@@ -1,5 +1,5 @@
 {100}{}{Widzisz komputer.}
-{101}{}{This is a computer. It appears to be working correctly.}
-{102}{}{This is a computer. It is obviously damaged.}
-{103}{}{On-line. Running self-test...}
-{104}{}{That didn't work.}
+{101}{}{Po prostu komputer. Wygl¹da na to, ¿e dzia³a poprawnie.}
+{102}{}{Zwyk³y komputer. Widaæ wyraŸnie, ¿e jest uszkodzony.}
+{103}{}{Jednostka on-line. Uruchomiono diagnostykê wewnêtrzn¹...}
+{104}{}{Niestety nie zadzia³a³o.}

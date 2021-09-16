@@ -1,2 +1,1 @@
-{100}{}{You have a funny feeling about this place. The enchanting smell of cow dung and rotting flesh
- emanates a few feet from here.}
+{100}{}{Masz dziwne uczucie jeœli chodzi o to miejsce. Czaruj¹cy zapach krowiego ³ajna i gnij¹cego miêsa dolatuje do ciebie z zaledwie paru metrów.}

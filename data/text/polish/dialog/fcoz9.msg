@@ -80,7 +80,7 @@
 {179}{}{Na co id¹ wszystkie pieni¹dze, które ofiarowujemy?}
 {180}{}{Ach, nic takiego. Niewa¿ne.}
 {181}{}{Mój przeciwnik, Cesarz miasta Shi, powoduje, ¿e moje ¿ycie staje siê ¿a³osne. Chcê, ¿eby jego ¿ycie ju¿ siê zakoñczy³o. W podziêce dopilnujê, aby twoja osoba znalaz³a siê tam, gdzie musi.}
-{182}{}{Jasne szefie. Na razie.}
+{182}{}{Jasne, szefie. Na ra.}
 {183}{}{Raczej nie.}
 {184}{}{Poszukaj Badgera, którego obrzydliwa obecnoœæ trzyma w kupie tych ¿a³osnych w³óczêgów z tankowca. Usuñ tê skazê z naszego miasta. Gdy ju¿ to zrobisz, porozmawiaj z UKC-9.}
 {185}{}{Jasne szefie. Na razie.}
@@ -92,13 +92,13 @@
 {191}{}{No spróbuj.}
 {192}{}{Chwileczkê, jednak chyba to zrobiê.}
 {193}{}{Za póŸno, miêcho. Okaza³o siê, ¿e nie mo¿na ci ufaæ. Giñ!}
-{194}{}{[Zrobione]}
+{194}{}{[Dalej]}
 {195}{}{Moje dziecko, s¹ rzeczy na niebie i ziemi, których nie mo¿esz na razie znaæ. [Uœmiecha siê mi³o.]}
 {196}{}{W porz¹dku. Mam kilka innych pytañ.}
 {197}{}{Hmmm. Do zobaczenia.}
 {198}{}{ESS Quetzel wystartuje, gdy uk³ad gwiazd bêdzie odpowiedni.}
 {199}{}{O-oczywiœcie. Mam inne pytania.}
-{200}{}{Dziêki. Pa.}
+{200}{}{Dziêki. Na razie.}
 {201}{}{Twoja odpychaj¹ca aura mówi mi, ¿e twoja obecnoœæ tutaj nie znaczy dla mnie nic dobrego. Powiedz mi moje dziecko, czy chcesz mieæ korzyœci ze swojego szczêœcia?}
 {202}{}{Tak.}
 {203}{}{Nie.}
