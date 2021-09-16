@@ -47,7 +47,7 @@
 {271}{}{Ouais, tu sais ce que c'était ?}
 {272}{}{Je crois que c'était un oiseau.}
 {273}{}{Non, un chien.}
-{274}{}{But it was flying, man.}
+{274}{}{Mais, ça volait !}
 {275}{}{La vache... Ca a traversé le sol en trombe.}
 {276}{}{T'as des hallus mon vieux !}
 {277}{}{Mais non, j'délire pas !}
@@ -98,7 +98,7 @@
 {406}{}{Tu sens des picotements dans la peau, hein ?}
 {407}{}{Dodu est le meilleur fournisseur de toute la ville !}
 {408}{}{Je me sens tellement en vie !}
-{420}{}{Did you hear a loud bang?}
+{420}{}{As-tu entendu un grand "Boum" ?}
 {421}{}{Je n'ai pas vu Dodu depuis un bout de temps.}
 {422}{}{Où il est Dodu ?}
 {423}{}{T'aurais pas vu Dodu ?}

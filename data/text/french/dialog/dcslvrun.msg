@@ -7,7 +7,7 @@
 {130}{}{Tu vois un homme en haillons.}
 {131}{}{Celui-ci a l'air plutôt fort.}
 {140}{}{Tu vois un homme avec des vêtements en lambeaux.}
-{141}{}{He moves with suggesting speed.}
+{141}{}{Ses mouvements témoignent d'une certaine rapidité.}
 {150}{}{Vous voyez une femme très sale.}
 {151}{}{On dirait qu'elle ne s'est jamais lavée.}
 {160}{}{Tu vois une femme plutôt large.}

@@ -24,7 +24,7 @@ Quand tu as fini de lire la phrase, tu le regardes, il te regarde puis secoue to
 {305}{}{J'ai découvert que si tu lis une phrase spécifique, en prononçant chaque lettre avec l'intonation adéquate, tu peux guérir l'autisme ou l'épilepsie.}
 {306}{}{Extra. J'apprécie vraiment ce que tu as fait. Tiens, prends ces Stimpaks. Je les ai trouvés en fouillant les poubelles pour de la nourriture derrière ces bâtiments.}
 {307}{}{Merci. A plus tard.}
-{350}{}{Ouaf !}
+{350}{}{Wouaf !}
 {351}{}{Ouaf ! Ouaaaaf !}
 {352}{}{::Se griffe::}
 {400}{}{Ouaaf ! Hé, je te fais marcher. Merci de m'avoir soigné.}

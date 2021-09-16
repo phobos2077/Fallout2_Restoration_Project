@@ -35,7 +35,7 @@
 {134}{}{Je vais aller voir. Si je ne la trouve pas, je la chercherai.}
 {135}{}{Alors laisse-moi tranquille.}
 {136}{}{Ok.}
-{137}{}{Ok, je marche.}
+{137}{}{Bien reçu.}
 {138}{}{Rebonjour. Les fonctions vitales de mon maître sont détruites. Es-tu mon nouveau maître ?}
 {139}{}{Ok.}
 {140}{}{Non.}

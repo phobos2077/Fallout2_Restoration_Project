@@ -55,7 +55,7 @@
 {500}{}{Tu guéris %d points d'impact.}
 {501}{}{Tu n'as pas besoin de soins.}
 {502}{}{%s n'a pas besoin de soins.}
-{503}{}{Tes soins restent sans effets.}
+{503}{}{Tu ne parviens pas à guérir.}
 {505}{}{Tu mérites %d PE pour avoir su affiner tes compétences.}
 {510}{}{\nskill_use: compétence utilisée incorrecte.}
 {512}{}{On ne peut plus rien pour les morts.}

@@ -12,7 +12,7 @@
 {219}{}{Alors, j'ai encore une question à te poser.}
 {220}{}{Merci, j'y vais tout de suite.}
 {221}{}{Medger}
-{222}{}{Uh... kay.}
+{222}{}{Hum... D'accord.}
 {230}{}{Maintenant, crève.}
 {240}{}{Tu rigoles ou quoi ? On capture et on vend des esclaves ici, c'est pour ça qu'on est là. Tu cherches un peu d'action ?}
 {241}{}{Tu rigoles ou quoi ? On capture et on vend des esclaves ici, c'est pour ça qu'on est là. Si c'est pas pour ça que t'es là, que veux-tu ?}
@@ -86,7 +86,7 @@
 {384}{}{Une autre question.}
 {385}{}{Merci, j'y vais tout de suite.}
 {386}{}{Medger}
-{387}{}{Uh... kay.}
+{387}{}{Hum... D'accord.}
 {400}{}{Non, mais je verrai avec le patron. Il a pas mal bourlingué et il est allé partout.}
 {401}{}{Une autre question.}
 {402}{}{D'accord, merci. Salut.}

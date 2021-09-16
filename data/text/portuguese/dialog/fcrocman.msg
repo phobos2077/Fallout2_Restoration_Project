@@ -51,19 +51,19 @@
 {184}{}{Tenho-o. Tchau.}
 {185}{}{Você tem os planos? Ótimo! Agora precisamos de combustivel! E os Shi tem um monte. Veja se você pode pegar um tanto para nós. Boa sorte, recruta!}
 {186}{}{[FEITO]}
-{187}{}{Then you must go get them, yes? Now please excuse me, comrade - I must continue readying the ship for our epic journey.}
+{187}{}{Então você deve ir buscá-los, correto? Agora, por favor, me de licença, irmão - devo continuar preparando a nave para nossa grande jornada.}
 {188}{}{Tenho os planos para o vertibird.}
-{189}{}{Sure thing.}
-{190}{}{We have all we need for our journey now! Excellent! Now we just await the word of AHS-9 - and I'm sure he'll want you to come with us. Go get whatever you need done - and then come back and join us with the Star Father!}
-{191}{}{See ya then!}
-{192}{}{First, we need vertibird plans to ensure that we've got the aerodynamics right. If you can do this, check with the Shi or go up that old base in Navarro.}
-{193}{}{Remember, you are finding the plans for the vertibirds for us. Either try the Shi or that old base in Navarro.}
-{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
-{195}{}{Remember, recruit! The hated Shi have the plans.}
+{189}{}{Claro.}
+{190}{}{Temos tudo o que precisamos para nossa jornada! Excelente! Agora vamos aguardar a palavra de AHS-9 - e tenho certeza que ele vai querer que você venha conosco. Vá fazer o que estiver precisando - e depois volte e junte-se a nós com o Pai da Estrela!}
+{191}{}{Até logo!}
+{192}{}{Primeiro, precisamos dos planos do vertibird para nos assegurar que a aerodinâmica está bem. Se você pode fazer isso, verifique com o Shi ou suba aquela antiga base em Navarro.}
+{193}{}{Lembre-se, você está encontrando os planos dos vertibirds para nós. Tente com os Shi ou aquela antiga base de Navarro.}
+{194}{}{Ninguém conseguiu fazer planos para os vertibirds dos Shi, ou daquela velha base de Navarro. Você reconsiderou nos ajudar?}
+{195}{}{Lembre-se, recruta! As miseráveis dos Shi possuem os planos.}
 {196}{}{Tenho os planos para o vertibird.}
 {197}{}{Esqueça.}
-{198}{}{Ok, I'll do it.}
-{199}{}{Now you know what we need? Gas. A lot of it. The Shi have some. See if you can get it.}
-{200}{}{Remember, you were getting us gas for our great spaceship.}
-{201}{}{Oh, ok. Bye.}
-{300}{}{We had a breach in security and our fuel reserves have been depleted. I'm a little busy to talk right now.}
+{198}{}{OK, eu vou fazer isso.}
+{199}{}{Sabe do que precisamos agora? Combustivel. E bastante. Os Shi tem. Veja se consegue consegui-lo.}
+{200}{}{Lembre-se, você está conseguindo combustível para nossa grande nave espacial.}
+{201}{}{Oh, ok. Adeus.}
+{300}{}{Ocorreu uma violação de segurança e nossas reservas de combustível se esgotaram. Estou um pouco ocupado para conversar agora.}

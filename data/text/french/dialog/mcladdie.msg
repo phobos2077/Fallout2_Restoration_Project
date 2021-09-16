@@ -2,8 +2,8 @@
 {101}{}{Tu vois Laddie.}
 {102}{}{Ce chien a l'air très vif et intelligent.}
 {103}{}{Il n'y pas de doute, ce chien est sûrement plus malin que toi.}
-{150}{}{Ouaf !}
-{151}{}{Ouaf ! Ouaf !}
+{150}{}{Wouaf !}
+{151}{}{Wouaf ! Wouaf !}
 {152}{}{Ouaf ! Ouaf ! Ouaf !}
 {153}{}{[Ce chien a l'air particulièrement agité.]}
 {154}{}{T'es un bon toutou toi.}

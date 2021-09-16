@@ -153,10 +153,8 @@
 {532}{}{Merci infiniment.}
 {533}{}{Mèssi !}
 {534}{}{Ugg ! Jolie da-dame.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Tu es merveilleux... même si je ne peux pardonner ton geste. Tu as rendu un fier service au monde entier.}
+{541}{}{Tu es merveilleuse... même si je ne peux pardonner ton geste. Tu as rendu un fier service au monde entier.}
 {542}{}{Merci.}
 {550}{}{Ta présence ici n'est pas la bienvenue. Va-t'en, s'il te plaît.}
 {551}{}{Va-t'en, s'il te plaît.}

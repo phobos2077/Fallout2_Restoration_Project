@@ -23,4 +23,4 @@
 {202}{}{Ouaf !}
 {203}{}{Ouaf, ouaf, ouaf !}
 {204}{}{[Il te fixe de son regard affectueux.]}
-{205}{}{Ouaf !}
+{205}{}{Wouaf !}

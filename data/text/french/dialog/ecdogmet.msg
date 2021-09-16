@@ -38,7 +38,7 @@
 {137}{}{Hé, le chien, te fous pas de moi !}
 {138}{}{Grrrrr....}
 {139}{}{(Je m'demande si Canigou pourrait me suivre d'une manière différente ?)}
-{150}{}{Ouaf ! Ouaf !}
+{150}{}{Wouaf ! Wouaf !}
 {200}{}{Regarde ce que j'ai pour toi, mon beau ! Voyons voir si quelqu'un s'en prend à toi maintenant ! (Tu mets le Kevlar de K9 sur Canigou.)}
 {201}{}{Cette armure te pèse, hein mon beau ? Allez enlève là. (Tu enlèves le Kevlar de K-9 à Canigou.)}
 {300}{}{*Aboie*}

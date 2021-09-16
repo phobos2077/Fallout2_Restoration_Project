@@ -65,14 +65,14 @@
 {164}{}{The common way to express thanks is through gifts of money or equipment.}
 {165}{}{Don't, then. I'm fine with your thanks.}
 {166}{}{Francis the mutant has a power fist. He keeps betting it in arm-wrestling contests. The problem is being stronger than him. If you're interested, I can give you some pills that should give you the edge over him.}
-{167}{}{Sure thing.}
+{167}{}{Claro.}
 {168}{}{I'd rather have cash, if you have it.}
 {169}{}{I don't want a reward.}
 {170}{}{These pills are called buffouts. They'll increase your strength, but your mind will suffer for a little bit. Don't take too many or you might get hooked. Good luck with the fist!}
 {171}{}{Obrigado! Até mais!}
 {172}{}{Do you think you can help me with my fly problem? I'd be very grateful.}
 {173}{}{How grateful?}
-{174}{}{Sure thing.}
+{174}{}{Claro.}
 {175}{}{Let me think about it.}
 {176}{}{No way in hell.}
 {177}{}{Here's all the money I have... $150. Thank you.}

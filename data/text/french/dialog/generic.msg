@@ -32,7 +32,7 @@
 {450}{}{La zone est dégagée. Le secteur est pacifié. Beau travail. Allons-y !}
 {900}{}{On dirait qu'un explosif bien placé pourrait détruire cette très vieille porte.}
 {901}{}{Tu vois la charrette à esclaves utilisée pour ramener les esclaves à la Fosse.}
-{905}{}{Ouaf ! Ouaf !}
+{905}{}{Wouaf ! Wouaf !}
 {910}{}{Tu reçois une décharge du sol électrifié.}
 {911}{}{ reçoit une décharge du sol électrifié.}
 {912}{}{Le niveau de puissance tombe à zéro, puis remonte à 50% lorsque les générateurs de secours se mettent en marche.}

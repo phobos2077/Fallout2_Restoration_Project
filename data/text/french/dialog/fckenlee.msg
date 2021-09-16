@@ -60,7 +60,7 @@
 {159}{}{Ok, mon nom est }
 {160}{}{C'est mon vrai nom ! A présent, laisse-moi parler à l'Empereur !}
 {161}{}{Parfait. Voilà ce que je veux que tu fasses : il y a une petite base militaire, appelée Navarro, au Nord d'ici. Elle abrite de nombreux hélicos. Nous avons besoin des plans et des schémas pour fabriquer nos propres hélicos. Débrouille-toi pour te les procurer et tu pourras alors rencontrer l'empereur.}
-{162}{}{Ok, je marche.}
+{162}{}{Bien reçu.}
 {163}{}{Laisse tomber.}
 {164}{}{Que dirais-tu de tenter notre épreuve ?}
 {165}{}{Non.}

@@ -1,63 +1,63 @@
-{100}{}{You see someone wearing a captain's hat.}
-{101}{}{You see Captain A. Ron Meyers.}
-{102}{}{You see a punk in tattered clothes wearing a captain's hat.}
-{103}{}{What the hell do you want? I don't speak to anyone unless they're friends or good people. Do something for one of my buddies and then come talk to me.}
+{100}{}{Você vê alguém usando um chapéu de capitão.}
+{101}{}{Você vê o capitão A. Ron Meyers.}
+{102}{}{Você vê um punk em roupas esfarrapadas usando um chapéu de capitão.}
+{103}{}{Que porra você quer? Eu não converso com ninguém a menos que seja amigo ou gente boa. Faça algo por um dos meus amigos e depois venha falar comigo.}
 {104}{}{[FEITO]}
-{105}{}{I heard what you did for my men. Thanks. What can I help you with?}
+{105}{}{Eu ouvi o que você fez pelos meus homens. Obrigado. Em que posso ajudar?}
 {106}{}{Você quem?}
-{107}{}{I hear you're the one who knows all about this ship.}
-{108}{}{Why do they call you the Captain?}
-{109}{}{How do you get this thing to go?}
+{107}{}{Ouvi dizer que você é quem sabe tudo sobre este navio.}
+{108}{}{Porque te chamam de Capitão?}
+{109}{}{Como você faz essa coisa funcionar?}
 {110}{}{Nada.}
-{111}{}{I'm the Captain. I run the ship. Any more questions, go talk to one of the Shi or Badger or someone. I don't have time for you.}
+{111}{}{Eu sou o Capitão. Dirijo esse barco. Se tiver mais perguntas, vá falar com um dos Shi ou Badger ou qualquer outro. Não tenho tempo pra você.}
 {112}{}{[FEITO]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
+{113}{}{Esse navio é o petroleiro Poseidon. Está equipado com tecnologia que durou durante a guerra. Tem um controle remoto que permite o acesso à sala do computador de navegação, e tem um transpondedor IFF que o protege das armas Poseidon. Claro, isso não vai ajudar ninguém contra aquele antigo submarino chinês, então espero que o negócio esteja tão morto quanto parece.}
 {114}{}{Como você sabe tudo isso?}
-{115}{}{What's an IFF transponder?}
-{116}{}{How do you get it to go?}
+{115}{}{O que é um transpondedor IFF?}
+{116}{}{Como faz para zarpar?}
 {117}{}{Obrigado. Tchau.}
-{118}{}{I used to serve with the Enclave. Then I realized it wasn't the USA I was fighting for; it was for the rich old bastards who didn't want to give up their power. I deserted and now I live here with more honest people.}
-{119}{}{More honest people? These guys?}
-{120}{}{What exactly is the Enclave?}
-{121}{}{How do you get this thing to go?}
+{118}{}{Servi com a Enclave. Então eu percebi que eu não estava lutando pelo USA; era para esses velhos mercenários que não queriam desistir de seu poder. Desertei e agora vivo aqui com gente mais honesta.}
+{119}{}{Gente mais honesta? Esses caras?}
+{120}{}{O que exatamente é a Enclave?}
+{121}{}{Como você faz essa coisa funcionar?}
 {122}{}{Adeus.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{124}{}{Sure. How do you know all this?}
-{125}{}{What's an IFF transponder and a FOB?}
-{126}{}{What oil rig?}
-{127}{}{Yes. Bye.}
-{128}{}{IFF: Identify Friend or Foe. It means that this ship is identified as a friend, so other Poseidon things - like, say, an oil rig - won't fire at you when you come into range. Oh, and a FOB is some sort of Enclave technology that lets you enter a door electronically. You'd probably find one of them at one of their bases or some such place.}
+{123}{}{Como eu piloto tudo isso? É só encher com um pouco de gás - experimente os Hubologistas ou o Shi depois de cuidar de todo o resto - e pressione o botão. O computador faz todo o resto, se ainda estiver funcionando. Ele navegará direto para a plataforma de petróleo - a menos que aquele velho submarino mande tudo pro ar. Mas pelo menos você não terá que se preocupar com a Enclave disparando contra você, porque você tem o transponder IFF. apenas certifique-se de que tem o que precisa para acessar tudo: FOB, computador funcionando e combustível. Moleza, hein?}
+{124}{}{Certo. Como você sabe tudo isso?}
+{125}{}{O que seria um transpondedor IFF e um FOB?}
+{126}{}{Qual plataforma de petróleo?}
+{127}{}{Sim. falou.}
+{128}{}{IFF: Identificador de amigo e inimigo. Significa que esse navio será identificado como amigo, então outras coisas do Poseidon - como, digamos, uma plataforma de petróleo - não atirarão em você quando você entrar no alcance. Ah, e um FOB é um tipo de tecnologia da Enclave que permite que você entre por uma porta eletronica. Você provavelmente encontraria um deles em uma de suas bases ou em outro lugar assim.}
 {129}{}{Como você sabe tudo isso?}
-{130}{}{What oil rig?}
+{130}{}{Qual plataforma de petróleo?}
 {131}{}{Obrigado. Tchau.}
-{132}{}{Yes. With these people, you know exactly where you stand. They don't play games. The Enclave was like a pack of hyenas - they'd turn on you in a second.}
-{133}{}{What exactly is the Enclave?}
-{134}{}{How did you hook up with them?}
-{135}{}{The Enclave is remnants of old times. If you take this thing across the water to the rig, you'll find out for yourself.}
-{136}{}{How do I pilot it?}
-{137}{}{What rig?}
-{138}{}{Easy enough. I just left the Navarro base one day and headed down here. I figured it was the last place anyone would look. Besides, I'm not important enough for the Enclave to look for me - I'm just a loose end.}
-{139}{}{What exactly is the Enclave?}
+{132}{}{Sim. Com essa gente você sabe exatamente qual é sua posição. Eles não jogam. A Enclave era uma cambada de hienas - elas se voltariam contra você em um piscar de olhos.}
+{133}{}{O que exatamente é a Enclave?}
+{134}{}{Como se uniu a eles?}
+{135}{}{A Enclave é remanescente dos velhos tempos. Se você atravessar até a plataforma, descobrirá por si mesmo.}
+{136}{}{Como faço para pilotar?}
+{137}{}{Que plataforma?}
+{138}{}{Bem fácil. Acabei de sair da base de Navarro um dia e desci para cá. Achei que era o último lugar que alguém iria olhar. Além disso, não sou importante o suficiente para que a Enclave me procure - sou apenas uma ponta solta.}
+{139}{}{O que exatamente é a Enclave?}
 {140}{}{Obrigado. Tchau.}
-{141}{}{There's a big Poseidon oil rig left out on the water. That's the final base of the Enclave}
+{141}{}{Há uma grande plataforma de petróleo Poseidon no meio do mar. Essa é a última base da Enclave.}
 {142}{}{Como você sabe tudo isso?}
-{143}{}{What else is going on out there on the rig?}
+{143}{}{O que mais está acontecendo na plataforma?}
 {144}{}{Obrigado. Tchau.}
-{145}{}{Word gets around.}
-{146}{}{I see. What else is going on out there on the rig?}
+{145}{}{As pessoas falam muito.}
+{146}{}{Entendi. O que mais está acontecendo na plataforma?}
 {147}{}{Eu vejo. Tchau.}
-{148}{}{Beats me. I was a Navarro tech, not a rig operator. We talked to them over the comm lines, and that was about the extent of it.}
-{149}{}{I see. How do I pilot this again?}
+{148}{}{Nem sei. Eu era um técnico em Navarro, não um operador de plataforma. Conversamos com eles pelas linhas de comunicação, e isso era tudo.}
+{149}{}{Entendi. Pode repetir como posso pilotar?}
 {150}{}{Obrigado. Tchau.}
-{151}{}{You made a bad mistake messin' with the Captain and his friends...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{153}{}{Oh, yeah. You gotta get the navigation computer working as well. I bet you'd find parts for it in one of those old vaults.}
-{154}{}{Good to see you again. What do you need?}
-{155}{}{, and unless I miss my bet, that's where your friends are, too.}
+{151}{}{Você cometeu um grande erro mexendo com o capitão e seus amigos...}
+{152}{}{Como pilota isso aqui? Bem, vejo que você já está exausto com isso. Depois de cuidar de todo o resto, basta pressionar o botão. O computador fará o resto, se ainda estiver funcionando. Ele navegará direto para a plataforma de petróleo - a menos que aquele velho submarino mande tudo pro ar. Mas pelo menos você não terá que se preocupar com o Enclave disparando contra você, porque você tem o transponder IFF. apenas certifique-se de que tem o que precisa para acessar tudo: FOB, computador em funcionamento e combustível. Moleza, hein?}
+{153}{}{Oh, sim. Você precisa fazer o computador de navegação funcionar também. Talvez você encontre peças para ele em uma daquelas vaults antigas.}
+{154}{}{Eai, que bom te ver. Do que precisa?}
+{155}{}{, e a menos que eu perca minha aposta, seus amigos também estão lá.}
 {156}{}{.}
-{200}{}{What old sub?}
-{210}{}{There's an old Chinese submarine marooned out there in the bay. Damn thing gives me the creeps, lurking out there under the water like a rusty ghost. I doubt it's still active, but if it was, its automated weapons systems could blow this tanker to hell before you even got close to that oil rig.}
-{211}{}{Why don't you think the sub's still active?}
-{220}{}{Well, for one, she's been sitting there rotting in the ocean since the great war. Plus, if she were active, she would've fired on this rig back when the Enclave first docked it here. Course, I wouldn't put it past the Shi to go there and start tinkering with it, so you never know. Might be worth checking into before you set sail.}
-{221}{}{How would I go about checking into it?}
-{230}{}{If anyone knows what's going on with that sub, it'd be the Shi. The sub's what brought 'em here in the first place - I wouldn't be surprised if they worship the thing. The Shi Emperor would know everything, of course, but good luck with that. You'd be better off asking Lao Chou, over at the Flying Dragon 8 - he's been known to dole out information from time to time. Hell, maybe you could even get one of the dock workers to talk.}
+{200}{}{Qual submarino velho?}
+{210}{}{Há um antigo submarino chinês largado na baía. Aquela velharia me da arrepios, correndo lá embaixo d'água como um fantasma enferrujado. Duvido que ainda funcione, mas se estivesse, seus sistemas de armas automatizados podem trucidar esse petroleiro antes mesmo de você chegar perto da plataforma.}
+{211}{}{Por que não pensar que ele segue ativo?}
+{220}{}{É que ele está lá apodrecendo no oceano desde a grande guerra. Além disso, se ela fosse ativa, ela teria atirado neste equipamento quando a Enclave o ancorou aqui. Claro, tem a questão dos Shi irem lá e começarem a mexer nele, então você nunca sabe. Pode valer a pena conferir antes de zarpar.}
+{221}{}{Como eu faria para verificar isso?}
+{230}{}{Se alguém sabe o que está acontecendo com aquele submarino, esses são os Shi. São eles que trouxeram ele para cá - eu não ficaria surpreso se eles adorassem esse negócio. O imperador Shi saberia de tudo, é claro, mas boa sorte com isso. Seria melhor você perguntar a Lao Chou, no Flying Dragon 8 - ele é conhecido ser meio boca larga. Hhmm, talvez você pudesse até mesmo fazer um dos trabalhadores falar.}

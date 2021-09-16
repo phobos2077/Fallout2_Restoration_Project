@@ -98,7 +98,7 @@
 {834}{}{Tu as l'air d'avoir beaucoup à faire, Boss. Je vais t'attendre ici, le temps que tu t'occupes de tout. La cuisine de la Mamma me rappelle mon ex-femme... Je ne sais pas si c'est une bonne ou une mauvaise chose.}
 {835}{}{Ca me ferait plaisir, Boss. C'est juste que tu ne sembles pas avoir beaucoup de place. Je vais aller chez la Mamma. Je n'y suis pas allé depuis un moment. Viens me chercher si tu trouves de la place pour moi.}
 {840}{}{Ed est à la Cité de l'Abri. C'est un trafiquant de Brahmines. Il faisait juste partie de mes nombreux fournisseurs. La Cité de l'Abri n'est pas loin d'ici.}
-{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
+{845}{}{Je te l'ai dit, c'est là-bas. [Vic désigne une direction sur ton Pip-Boy.]}
 {900}{}{Tu savais que Vic était marchand.}
 {1000}{}{J'ai besoin de te demander quelque chose.}
 {1100}{}{Guérison complète, Patron. Autre chose ?}

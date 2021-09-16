@@ -62,7 +62,7 @@
 {161}{}{Ouais, pour ça, il m'a réclamé $1 000.}
 {162}{}{}
 {163}{}{Ouah ! Tu as de bonnes relations, toi. Reviens demain, je vais voir ce que je pourrai faire pour te rendre service.}
-{164}{}{Ok, je marche.}
+{164}{}{Bien reçu.}
 {165}{}{Peux-tu me couvrir ?}
 {166}{}{Ouais, je suppose.}
 {167}{}{Non.}

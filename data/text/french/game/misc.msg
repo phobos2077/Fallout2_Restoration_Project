@@ -69,11 +69,11 @@
 {9050}{}{Oh... Quelle surprise ! J'ai bel et bien appris quelque chose.}
 {9051}{}{Cela me fera mourir de honte.}
 {9052}{}{Je ne peux pas croire que j'ai survécu jusqu'ici.}
-{9060}{}{Ouaf !}
-{9061}{}{Ouaf !}
-{9062}{}{Ouaf !}
-{9063}{}{Ouaf !}
-{9064}{}{Ouaf ! Ouaf !}
+{9060}{}{Wouaf !}
+{9061}{}{Wouaf !}
+{9062}{}{Wouaf !}
+{9063}{}{Wouaf !}
+{9064}{}{Wouaf ! Wouaf !}
 {9070}{}{J'ai appris des nouveaux trucs !}
 {9071}{}{J'ai appris des nouveaux trucs !}
 {9080}{}{Je crois bien que j'ai appris quelque chose d'utile !}

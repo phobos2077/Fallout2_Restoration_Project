@@ -16,7 +16,7 @@
 {115}{}{<Ffffrrrrr> Ni oiseau, ni avion, ni grenouille... Ce n'est que moi, Robochien ! <Click>}
 {116}{}{Roubi-Douuu !}
 {117}{}{Ii-bii-dii-bii-ii-bii-dii-bii !}
-{118}{}{Ouaf !}
+{118}{}{Wouaf !}
 {119}{}{GRRR OAUF !}
 {120}{}{Ouaf ouaf ouaf ouaf ouaf !}
 {121}{}{D'accord.}

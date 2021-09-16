@@ -161,7 +161,7 @@
 {675}{}{Je ne peux pas faire ça.}
 {676}{}{Je ne pense pas pouvoir faire ça.}
 {677}{}{Ouaf !}
-{678}{}{Ouaf !}
+{678}{}{Wouaf !}
 {700}{}{Tu n'as pas assez de points d'action.}
 {800}{}{Tu lis le livre.}
 {801}{}{Tu n'apprends rien de nouveau.}

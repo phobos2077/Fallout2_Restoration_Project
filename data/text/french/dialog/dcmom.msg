@@ -114,12 +114,8 @@
 {600}{}{Que sais-tu de cette maison hantée ?}
 {800}{}{Les orphelins sont vraiment nombreux dans cette ville.}
 {801}{}{Oui, c'est malheureux hein ? Ces enfants n'ont pas de maison et ils volent pour vivre... C'est terrible.}
-{802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that
- actually gives a damn about those kids.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
+{802}{}{Il doit bien y avoir quelque chose que l'on puisse faire à ce sujet. D'après ce que j'ai entendu, tu sembles être la seule personne aux alentours qui se préoccupe vraiment de ces enfants.}
+{803}{}{Ces enfants ont besoin d'un endroit pour vivre et d'une vraie éducation. Il y a quelques années je voulais ouvrir un orphelinat mais c'était impossible. Personne n'en voulait, et il n'y a jamais eu d'endroit pour ça. C'est vraiment navrant. Les enfants sont notre futur... Ils ont tous oublié ça depuis la guerre.}
 {804}{}{Ca m'intéresse. Que puis-je faire pour t'aider ?}
 {805}{}{Quel dommage. Bon, c'était sympa de te parler. Allez, salut.}
 {806}{}{Tu veux m'aider ? Génial ! Je connais un endroit parfait qui pourrait facilement être reconverti en orphelinat. Il y a un grand bâtiment abandonné dans la zone résidentielle. Il reste des squatteurs là-bas, mais si on trouve un moyen de les faire partir, on pourra restaurer le bâtiment et ce sera parfait. Qu'en penses-tu ?}

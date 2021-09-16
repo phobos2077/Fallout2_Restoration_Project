@@ -11,6 +11,6 @@
 {128}{}{Ne me fais pas mal.}
 {129}{}{Je ne pensais pas être un tel crétin.}
 {130}{}{Je ne pensais pas ces menaces de mort.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
+{131}{}{Je suis désolé Buffy !}
+{132}{}{Je suis désolé ! Je voulais juste être remarqué.}
 {133}{}{Je veux une version on-line !}
