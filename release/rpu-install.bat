@@ -6,6 +6,9 @@ if not exist %bdir% mkdir %bdir%
 if exist patch000.dat (
   move patch000.dat %bdir%\
 )
+if exist f2_res.dat (
+  move f2_res.dat %bdir%\
+)
 
 :: I don't know how to iterate over files in batch properly, so just moving back and forth
 move /y data %bdir%\

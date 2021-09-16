@@ -33,6 +33,9 @@ mkdir -p "$bdir"/data/sound
 if [[ -f patch000.dat ]]; then
   mv patch000.dat "$bdir"/
 fi
+if [[ -f f2_res.dat ]]; then
+  mv f2_res.dat "$bdir"/
+fi
 
 # keep savegames, character files, sound
 for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
