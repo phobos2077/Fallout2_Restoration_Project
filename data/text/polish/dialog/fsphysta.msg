@@ -15,7 +15,7 @@
 {114}{}{[W³am siê do komputera.]}
 {115}{}{[OdejdŸ.]}
 {116}{}{Intruz wykryty, alarm aktywowany. Wy³¹czenie systemu. Mi³ego dnia ¿yczê.}
-{117}{}{[Dalej.]}
+{117}{}{[dalej]}
 {118}{}{"Wraz z niedawnym uzyskaniem planów lataczy, mo¿liwoœæ stworzenia praktycznej maszyny lataj¹cej przybli¿y³a siê o wiele lat. Oczekujemy stworzenia dzia³aj¹cego prototypu do koñca tego roku, a mo¿liwoœci masowej produkcji w ci¹gu dwóch lat." - dr Wong}
 {119}{}{[Skopiuj plany.] Wróæ.}
 {120}{}{Wróæ.}
@@ -27,8 +27,7 @@
 {126}{}{W³¹cz stacjê.}
 {127}{}{[OdejdŸ.]}
 {128}{}{[W jakiœ sposób twoja przypadkowa sekwencja liter i znaków da³a ci dostêp! To lepiej ni¿ wygraæ w totka!]}
-{129}{}{[Dalej.]}
+{129}{}{[dalej]}
 {130}{}{Ten komputer nie odpowiada na ¿adne komendy.}
 {131}{}{Nie znajdujesz ¿adnego miejsca, gdzie mo¿na by to w³o¿yæ.}
-
 {132}{}{Kopiujê plany... Kopiowane zakoñczone... Powrót do... b³¹d we/wy... GPF... Terminal wy³¹czony.}

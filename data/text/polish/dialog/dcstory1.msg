@@ -1,11 +1,11 @@
-{100}{}{Widzisz sta³ego bywalca baru.}
+{100}{}{Widzisz bywalca baru.}
 {101}{}{Widzisz Leanne.}
 {102}{}{Jest bardzo piêkna, ale zdaje siê byæ ca³kowicie pogr¹¿ona w myœlach.}
 {103}{}{Przestañ!}
 {104}{}{Dlaczego to robisz?}
 {105}{}{Zostaw mnie w spokoju!}
-{106}{}{B³agam, przestañ!}
-{107}{}{Morderca!}
+{106}{}{Proszê, przestañ!}
+{107}{}{To morderstwo z premedytacj¹!}
 {108}{}{Jak mo¿na by³o tak skrzywdziæ Becky!}
 {109}{}{Co ona ci zrobi³a?}
 {110}{}{Zgnijesz w piekle.}
@@ -23,9 +23,6 @@
 {122}{}{Chwilowo nie mogê rozmawiaæ. Pa.}
 {123}{}{Igsbi?}
 {124}{}{Bgu.}
-
-# Node005 removed.
-
 {131}{}{Przykro mi, ale nie rozumiem. Chyba ktoœ dzisiaj trochê za du¿o wypi³. (œmiech)}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
@@ -37,8 +34,8 @@
 {139}{}{Hmmm, jasne. Mi³o ciê by³o poznaæ, Dziecko Przeznaczenia... Prawdê mówi¹c, s³ysza³am ju¿ coœ o Mistrzu...}
 {140}{}{Niesamowite. Przypomnia³a mi siê pewna historia, któr¹ us³ysza³am dawno temu. Te¿ mówi³a o Mistrzu.}
 {141}{}{Naprawdê? Opowiesz mi j¹?}
-{142}{}{Opowiedz mi j¹.}
-{143}{}{To œwietnie. Pa.}
+{142}{}{Powiedz mi.}
+{143}{}{Rozumiem. Pa.}
 {144}{}{To zajmie trochê czasu. B¹dŸ gentlemanem i postaw mi drinka, dobrze? Ale nie whiskey - poproszê Nuka-Colê.}
 {145}{}{To zajmie trochê czasu. Mog³abyœ postawiæ mi drinka? Tylko nie whiskey - poproszê Nuka-Colê.}
 {146}{}{Mo¿emy zaczynaæ? Ju¿ sobie wszystko przypomnia³am.}
@@ -55,11 +52,11 @@
 {157}{}{Tak. Byli te¿ inni, w podartych, purpurowych szatach... mamrotali coœ o tym, ¿e Mistrz nie ¿yje...}
 {158}{}{Ciekawe.}
 {159}{}{Niektórzy nawet pope³nili samobójstwo tutaj, w mieœcie!}
-{160}{}{No i?}
+{160}{}{I co z tego?}
 {161}{}{Nie rozumiesz? Oni mówili o Mistrzu, tym samym, którego zg³adzi³ twój przodek.}
-{162}{}{Dziêkujê za opowieœæ.}
+{162}{}{Dziêki za opowieœæ.}
 {163}{}{Robi siê ju¿ póŸno. Pa.}
 {164}{}{Ca³a przyjemnoœæ po mojej stronie. Pa.}
-{165}{}{Do zobaczenia.}
+{165}{}{Bywaj.}
 {166}{}{Niewa¿ne.}
 {167}{}{Leanne opowiedzia³a ci swoj¹ historiê o Mistrzu.}

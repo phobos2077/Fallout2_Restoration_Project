@@ -51,11 +51,10 @@
 {150}{}{Mam nadziejê, ¿e przetrwamy bez Kena Lee.}
 {151}{}{Podobno Ken Lee by³ jedynym, który utrzymywa³ Imperatora w formie.}
 {152}{}{Chodz¹ s³uchy, ¿e Imperator to tylko przykrywka dla Kena Lee. }
-{153}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [Wzdycha.]}
-{154}{}{Czy w ¿yciu nie ma niczego wiêcej?}
+{153}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
+{154}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
 {155}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
 {156}{}{Patrzcie! Lao wai!}
-
 {164}{}{Uda³o ci siê zabiæ UKC-9? Dobra robota!}
 {165}{}{Ci Centrolodzy przyprawiaj¹ mnie o dreszcze.}
 {166}{}{Czcigodny goœciu, twój czyn to dla nas wielka przys³uga.}

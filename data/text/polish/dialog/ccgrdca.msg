@@ -1,23 +1,18 @@
-{100}{}{Widzisz stra¿nika.}
-{101}{}{Widzisz stra¿nika w pancerzu bojowym.}
+{100}{}{Widzisz stra¿niczkê.}
+{101}{}{Widzisz stra¿niczkê w pancerzu bojowym.}
 {102}{}{Widzisz osobê w pancerzu bojowym. Na napierœniku widnieje jakiœ nieznany ci symbol.}
-
-{103}{}{Nic siê nie dzieje.}
-{104}{}{U mnie strasznie nudno, a u ciebie?}
-{105}{}{Nie powinieneœ byæ na posterunku, ¿o³nierzu? Lepiej siê tutaj nie w³óczyæ.}
-
+{103}{}{U mnie wszystko w porz¹dku.}
+{104}{}{Nic mi nie jest, a tobie?}
+{105}{}{¯o³nierzu, mo¿e lepiej udaj siê na swój posterunek? Niedobrze jest siê tu krêciæ.}
 {106}{}{Gdzie masz swój uniform? }
-{107}{}{Zg³oœ siê do sier¿anta po odbiór wyposa¿enia.}
-{108}{}{Cholernie ryzykujesz w³ócz¹c siê tu bez uniformu. Zg³oœ siê lepiej do zaopatrzenia.}
-
-{109}{}{A wy co za jedni... Alarm! Intruzi!}
-{110}{}{Wróg w bazie! Alarm!}
-{111}{}{Nieprzyjaciel! W³¹czyæ alarm!}
-
-{112}{}{Alarm! Zamykaæ bramy!}
-{113}{}{Wszyscy na stanowiska! Alarm!}
-{114}{}{Intruzi! Najwy¿szy stan gotowoœci!}
-
-{115}{}{Ju¿ nie ¿yjesz!}
+{107}{}{Lepiej zg³oœ siê do sier¿anta po wyposa¿enie.}
+{108}{}{Chodz¹c bez munduru du¿o ryzykujesz. Lepiej zg³oœ siê do zaopatrzenia.}
+{109}{}{Kim wy u licha jesteœcie... Alarm! Intruzi!}
+{110}{}{Zostaliœmy zinfiltrowani! Alarm!}
+{111}{}{Liczni intruzi! Og³osiæ alarm!}
+{112}{}{Alarm! Zamkn¹æ bazê!}
+{113}{}{Zabezpieczyæ wszystkie odcinki! Mamy alarm!}
+{114}{}{Alarm! Intruzi! Kod czerwony!}
+{115}{}{Rozgnieciemy ciê!}
 {116}{}{Enklawa bêdzie rz¹dziæ œwiatem!}
-{117}{}{Ty zginiesz, a Enklawa przetrwa!}
+{117}{}{Umrzesz, by Enklawa mog³a przetrwaæ!}

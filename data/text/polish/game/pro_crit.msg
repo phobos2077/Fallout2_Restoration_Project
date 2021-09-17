@@ -3,18 +3,18 @@
 {200}{}{BG kobieta}
 {201}{}{}
 {300}{}{Mieszkaniec wioski}
-{400}{}{Mieszkanka wioski}
+{400}{}{Mieszkaniec wioski}
 {500}{}{Radskorpion}
 {501}{}{Ma³y, zmutowany radskorpion.}
 {600}{}{Radskorpion}
 {601}{}{Zmutowany radskorpion.}
-{700}{}{Szpon œmierci}
+{700}{}{Szpon œmierci }
 {701}{}{M³odociany szpon œmierci.}
-{800}{}{Szpon œmierci}
+{800}{}{Szpon œmierci }
 {801}{}{M³odociany szpon œmierci.}
 {900}{}{Pies}
 {901}{}{Prawdopodobnie skundlony przedstawiciel rodziny psowatych.}
-{1000}{}{Bramina}
+{1000}{}{Braminy}
 {1001}{}{Dwug³owa, zmutowana krowa.}
 {1100}{}{Szczur}
 {1101}{}{Typowy, du¿y szczur.}
@@ -28,59 +28,59 @@
 {1700}{}{Piêkna niewolnica}
 {1800}{}{Przystojny niewolnik}
 {1900}{}{Zdrowa niewolnica}
-{2000}{}{Zdrowy niewolnik}
+{2000}{}{Zdrowa niewolnica}
 {2100}{}{Silna niewolnica}
-{2200}{}{Silny niewolnik}
+{2200}{}{Silna niewolnica}
 {2300}{}{Waleczna niewolnica}
-{2400}{}{Waleczny niewolnik}
+{2400}{}{Waleczna niewolnica}
 {2500}{}{Sprytna niewolnica}
-{2600}{}{Sprytny niewolnik}
+{2600}{}{Sprytna niewolnica}
 {2700}{}{Niewolnica}
-{2800}{}{Niewolnik}
+{2800}{}{Niewolnica}
 {2900}{}{Anna}
 {3000}{}{Twardy bandzior}
-{3100}{}{Twarda bandytka}
+{3100}{}{Twardy bandzior}
 {3200}{}{Bandzior walcz¹cy wrêcz}
-{3300}{}{Bandytka walcz¹ca wrêcz}
+{3300}{}{Bandzior walcz¹cy wrêcz}
 {3400}{}{Zrêczny bandzior}
-{3500}{}{Zrêczna bandytka}
+{3500}{}{Zrêczny bandzior}
 {3600}{}{Bandzior ze spluw¹}
-{3700}{}{Bandytka ze spluw¹}
+{3700}{}{Bandzior ze spluw¹}
 {3800}{}{Bandzior z wielk¹ spluw¹}
-{3900}{}{Bandytka z wielk¹ spluw¹}
+{3900}{}{Bandzior z wielk¹ spluw¹}
 {4000}{}{Twardy stra¿nik}
-{4100}{}{Twarda stra¿niczka}
+{4100}{}{Twardy stra¿nik}
 {4200}{}{Stra¿nik walcz¹cy wrêcz}
-{4300}{}{Stra¿niczka walcz¹ca wrêcz}
+{4300}{}{Stra¿nik walcz¹cy wrêcz}
 {4400}{}{Zrêczny stra¿nik}
-{4500}{}{Zrêczna stra¿niczka}
+{4500}{}{Zrêczny stra¿nik}
 {4600}{}{Stra¿nik ze spluw¹}
-{4700}{}{Stra¿niczka ze spluw¹}
+{4700}{}{Stra¿nik ze spluw¹}
 {4800}{}{Stra¿nik z wielk¹ spluw¹}
-{4900}{}{Stra¿niczka z wielk¹ spluw¹}
+{4900}{}{Stra¿nik z wielk¹ spluw¹}
 {5000}{}{Ch³opczyk-sierota}
 {5100}{}{Dziewczynka-sierota}
 {5200}{}{Ch³opiec}
 {5300}{}{Dziewczynka}
 {5400}{}{Przegrany}
-{5500}{}{Przegrana}
+{5500}{}{Przegrany}
 {5600}{}{Z³y handlarz}
-{5700}{}{Z³a handlarka}
+{5700}{}{Z³y handlarz}
 {5800}{}{Œredni handlarz}
-{5900}{}{Œrednia handlarka}
-{6000}{}{Mistrz handlu}
-{6100}{}{Mistrzyni handlu}
+{5900}{}{Œredni handlarz}
+{6000}{}{Mistrz kupiecki}
+{6100}{}{Mistrz kupiecki}
 {6200}{}{Vic}
 {6300}{}{S³aby wieœniak}
-{6400}{}{S³aba wieœniaczka}
+{6400}{}{S³aby wieœniak}
 {6500}{}{Œredni wieœniak}
-{6600}{}{Œrednia wieœniaczka}
+{6600}{}{Œredni wieœniak}
 {6700}{}{Silny wieœniak}
-{6800}{}{Silna wieœniaczka}
+{6800}{}{Silny wieœniak}
 {6900}{}{S³aby stra¿nik walcz¹cy wrêcz}
-{7000}{}{S³aba stra¿niczka walcz¹ca wrêcz}
+{7000}{}{S³aby stra¿nik walcz¹cy wrêcz}
 {7100}{}{S³aby stra¿nik ze spluw¹}
-{7200}{}{S³aba stra¿niczka ze spluw¹}
+{7200}{}{S³aby stra¿nik ze spluw¹}
 {7300}{}{Robot naprawczy}
 {7400}{}{Ulepszony robot naprawczy}
 {7500}{}{Robomózg}
@@ -93,7 +93,7 @@
 {8200}{}{Dziki pies}
 {8201}{}{Przynosz¹cy pecha kundel.}
 {8300}{}{Z³oty gekon}
-{8400}{}{Szpon œmierci}
+{8400}{}{Szpon œmierci }
 {8500}{}{Pomiot szpona œmierci}
 {8600}{}{Twardy z³oty gekon}
 {8700}{}{Lynette}
@@ -105,11 +105,11 @@
 {9300}{}{Obywatelka klasy wy¿szej}
 {9400}{}{Obywatel klasy wy¿szej}
 {9500}{}{Traper}
-{9600}{}{Traperka}
+{9600}{}{Traper}
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
-{10000}{}{Lumpy}
+{10000}{}{Paker}
 {10100}{}{Œwiec¹cy z reaktora}
 {10200}{}{Ghul z reaktora}
 {10300}{}{Stra¿nik reaktora}
@@ -147,16 +147,16 @@
 {13100}{}{Hero Female (don't use)}
 {13200}{}{Hero Male (don't use)}
 {13300}{}{Hero Female (don't use)}
-{13400}{}{Stra¿nik bramy Kryptopolis}
-{13500}{}{Stra¿niczka bramy Kryptopolis}
+{13400}{}{Stra¿nik miejski}
+{13500}{}{Stra¿nik miejski}
 {13600}{}{Cyberpies}
 {13700}{}{Stra¿nik RNK}
 {13800}{}{Stra¿nik RNK}
 {13900}{}{Walcz¹cy wrêcz stra¿nik RNK}
-{14000}{}{£owca niewolników}
+{14000}{}{Nadzorca niewolników}
 {14100}{}{Nadzorca niewolników}
 {14200}{}{Mistrz handlu}
-{14300}{}{Mistrzyni handlu}
+{14300}{}{Mistrz handlu}
 {14400}{}{Tandi}
 {14500}{}{Merc}
 {14600}{}{Ratch}
@@ -181,7 +181,7 @@
 {16500}{}{Laddie}
 {16600}{}{Rondo}
 {16700}{}{Kowboj}
-{16800}{}{Kowbojka}
+{16800}{}{Kowboj}
 {16900}{}{Kowboj}
 {17000}{}{Bramkarz}
 {17100}{}{Bramkarz}
@@ -198,10 +198,10 @@
 {18200}{}{£owca nagród (1-6)}
 {18300}{}{Szefowa ³owców nagród (7-12)}
 {18400}{}{£owca nagród (7-12)}
-{18500}{}{£owczyni nagród (7-12)}
+{18500}{}{£owca nagród (7-12)}
 {18600}{}{Szefowa ³owców nagród (13-18)}
 {18700}{}{£owca nagród (13-18)}
-{18800}{}{£owczyni nagród (13-18)}
+{18800}{}{£owca nagród (13-18)}
 {18900}{}{Szef ³owców nagród (19-?)}
 {19000}{}{£owca nagród (19-?)}
 {19100}{}{Bess}
@@ -217,41 +217,41 @@
 {20000}{}{RzeŸnik}
 {20100}{}{Petey}
 {20200}{}{Prymitywny ³owca}
-{20300}{}{Prymitywna ³owczyni}
+{20300}{}{Prymitywny ³owca}
 {20400}{}{Kanibal}
-{20500}{}{Kanibalka}
+{20500}{}{Kanibal}
 {20600}{}{Œwiêty Cz³owiek}
 {20700}{}{Œwiêta Kobieta}
 {20800}{}{Koczownik - s³.}
 {20900}{}{Koczownik - œr.}
-{21000}{}{Koczowniczka - s³.}
-{21100}{}{Koczowniczka - œr.}
+{21000}{}{Koczownik - s³.}
+{21100}{}{Koczownik - œr.}
 {21200}{}{Bandyta}
-{21300}{}{Bandytka}
-{21400}{}{Wieœniak}
-{21500}{}{Wieœniaczka}
+{21300}{}{Bandyta}
+{21400}{}{Farmer}
+{21500}{}{Farmer}
 {21600}{}{Modliszka}
 {21700}{}{£owca niewolników}
-{21800}{}{£owczyni niewolników}
+{21800}{}{£owca niewolników}
 {21900}{}{Dzika bramina}
 {22000}{}{Posiadacz ziemski}
-{22100}{}{Posiadaczka ziemska}
+{22100}{}{Posiadacz ziemski}
 {22200}{}{Cz³onek patrolu Kryptopolis}
-{22300}{}{Cz³onkini patrolu Kryptopolis}
+{22300}{}{Cz³onek patrolu Kryptopolis}
 {22400}{}{Silny ³owca niewolników}
-{22500}{}{Silna ³owczyni niewolników}
+{22500}{}{Silny ³owca niewolników}
 {22600}{}{Œwiry}
 {22700}{}{Œcierwojady}
 {22800}{}{Œwiry z Blasku}
 {22900}{}{Œcierwojady z Blasku}
 {23000}{}{Rybak}
 {23100}{}{Rybaczka}
-{23200}{}{Dziki cz³owiek}
-{23300}{}{Dzika kobieta}
+{23200}{}{Dzikus}
+{23300}{}{Dzikus}
 {23400}{}{Trep}
-{23500}{}{Trepka}
+{23500}{}{Trep}
 {23600}{}{Poszukiwacz z³ota}
-{23700}{}{Poszukiwaczka z³ota}
+{23700}{}{Poszukiwacz z³ota}
 {23800}{}{NajeŸdŸca}
 {23900}{}{NajeŸdŸca}
 {24000}{}{Ognisty gekon}
@@ -265,27 +265,27 @@
 {24800}{}{Centaur}
 {24900}{}{Wredny centaur}
 {25000}{}{Cz³onek patrolu Enklawy}
-{25100}{}{Cz³onkini patrolu Enklawy}
+{25100}{}{Cz³onek patrolu Enklawy}
 {25200}{}{Cz³onek gangu}
-{25300}{}{Cz³onkini gangu}
+{25300}{}{Cz³onek gangu}
 {25400}{}{Najemnik}
-{25500}{}{Najemniczka}
+{25500}{}{Najemnik}
 {25600}{}{Pomiot Nocy}
 {25700}{}{Twardy Pomiot Nocy}
 {25800}{}{Twardy ghul}
-{25900}{}{Mafioso}
+{25900}{}{Cz³onek gangu}
 {26000}{}{Yakuza}
 {26100}{}{Stra¿nik RNK}
-{26200}{}{Stra¿niczka RNK}
+{26200}{}{Stra¿nik RNK}
 {26300}{}{Maruder}
-{26400}{}{Maruderka}
+{26400}{}{Maruder}
 {26500}{}{Œliczny Ch³opiec Lloyd}
-{26600}{}{Widmowy szczur}
+{26600}{}{Widmowy Szczur}
 {26700}{}{Mê¿czyzna z Krypty 13}
 {26800}{}{Kobieta z Krypty 13}
 {26900}{}{Stra¿nik mostu}
-{27000}{}{Tejemniczy nieznajomy}
-{27100}{}{Tejemnicza nieznajoma}
+{27000}{}{Tajemniczy Wêdrowiec}
+{27100}{}{Tajemniczy Wêdrowiec}
 {27200}{}{Hakeswill}
 {27300}{}{Du¿y Jesus Mordino}
 {27400}{}{Dumar}
@@ -293,15 +293,15 @@
 {27600}{}{Smok}
 {27700}{}{Lo Pan}
 {27800}{}{Centrolog}
-{27900}{}{Centrolo¿ka}
-{28000}{}{Tejemniczy nieznajomy}
-{28100}{}{Tejemnicza nieznajoma}
-{28200}{}{Tejemniczy nieznajomy}
-{28300}{}{Tejemnicza nieznajoma}
-{28400}{}{Tejemniczy nieznajomy}
-{28500}{}{Tejemnicza nieznajoma}
-{28600}{}{Tejemniczy nieznajomy}
-{28700}{}{Tejemnicza nieznajoma}
+{27900}{}{Centrolog}
+{28000}{}{Tajemniczy Wêdrowiec}
+{28100}{}{Tajemniczy Wêdrowiec}
+{28200}{}{Tajemniczy Wêdrowiec}
+{28300}{}{Tajemniczy Wêdrowiec}
+{28400}{}{Tajemniczy Wêdrowiec}
+{28500}{}{Tajemniczy Wêdrowiec}
+{28600}{}{Tajemniczy Wêdrowiec}
+{28700}{}{Tajemniczy Wêdrowiec}
 {28800}{}{Ochroniarz prezydenta}
 {28900}{}{Jajo szponów œmierci}
 {29000}{}{Metzger}
@@ -314,14 +314,14 @@
 {29700}{}{Dr Fung}
 {29800}{}{Dziecko}
 {29900}{}{Dziecko}
-{30000}{}{Handlarz broni¹}
-{30100}{}{Technik laboratorium Shi}
+{30000}{}{Sprzedawca broni}
+{30100}{}{Technik laboratoriów Shi}
 {30200}{}{Stra¿nik Shi}
 {30300}{}{Wieœniak Shi}
-{30400}{}{Wieœniaczka Shi}
+{30400}{}{Wieœniak Shi}
 {30500}{}{Wieœniak Lo Pana}
-{30600}{}{Wieœniaczka Lo Pana}
-{30700}{}{Pracownik doków}
+{30600}{}{Wieœniak Lo Pana}
+{30700}{}{Pracownik portu}
 {30800}{}{Handlarz Shi}
 {30900}{}{Kruul Szczu'ur}
 {31000}{}{Sulik - poziom 1}
@@ -376,15 +376,15 @@
 {35900}{}{Najemnik}
 {36000}{}{Najemnik}
 {36100}{}{Cieñ-Który-Chodzi}
-{36200}{}{Punkówa}
+{36200}{}{Punk}
 {36300}{}{Punk}
 {36400}{}{Mark}
 {36500}{}{Dave H.}
 {36600}{}{Kpt. A. Ron Meyers}
 {36700}{}{Chip}
-{36800}{}{UKC-9}
+{36800}{}{AHS-9}
 {36900}{}{Stra¿nik Centrologów}
-{37000}{}{Stra¿niczka Centrologów}
+{37000}{}{Stra¿nik Centrologów}
 {37100}{}{Juan}
 {37200}{}{Vikki}
 {37300}{}{Vic - poziom 1}
@@ -396,9 +396,9 @@
 {37900}{}{Robomózg - szympans}
 {38000}{}{Robomózg - nienormalny}
 {38100}{}{Robomózg - cz³owiek}
-{38200}{}{olbrzymia mrówka}
+{38200}{}{Wielka mrówka}
 {38300}{}{Twarda olbrzymia mrówka}
-{38400}{}{Wychud³y pies}
+{38400}{}{Pies z kulaw¹ nog¹}
 {38500}{}{Zurak}
 {38600}{}{Imbot}
 {38700}{}{Jimmy}
@@ -454,7 +454,7 @@
 {43700}{}{Ojciec Tully}
 {43800}{}{Bramkarz kasyna 1}
 {43900}{}{Bramkarz kasyna 2}
-{44000}{}{Dziewczynka z kasyna}
+{44000}{}{Personel kasyna}
 {44100}{}{Diler/Alfons1}
 {44200}{}{Diler/Alfons2}
 {44300}{}{Diler/Alfons3}
@@ -463,7 +463,7 @@
 {44600}{}{Panna Kitty}
 {44700}{}{Dziwka 1}
 {44800}{}{Dziwka 2}
-{44900}{}{Jagged Jimmy J}
+{44900}{}{Szramiasty Jimmy J}
 {45000}{}{Renesco}
 {45100}{}{Naukowiec}
 {45200}{}{Eldridge}
@@ -506,7 +506,7 @@
 {48501}{}{Szaman Plemienia}
 {48600}{}{Wojownik 	   }
 {48601}{}{wojownik Plemienia}
-{48700}{}{Wartownik}
+{48700}{}{Stra¿nik}
 {48800}{}{siostra Sulika}
 {48900}{}{Kaga}
 {49000}{}{Kaga}
@@ -536,7 +536,7 @@
 {50501}{}{Wojownik dla doktora}
 {50600}{}{muszka owocówka}
 {50601}{}{Zmutowana muszka owocówka.}
-{50700}{}{hologram}
+{50700}{}{Hologram}
 {50701}{}{Hologram.}
 {50800}{}{Kitsune - poziom 1}
 {50900}{}{Kitsune - poziom 2}
@@ -575,10 +575,10 @@
 {54200}{}{Krom}
 {54300}{}{Matka Drapie¿nych Roœlin}
 {54400}{}{Matka Obcych}
-{54500}{}{Drapie¿na Roœlina z AOŒ}
+{54500}{}{Drapie¿na Roœlina AOŒ}
 {54501}{}{Obrzydliwie zmutowana drapie¿na roœlina}
-{54600}{}{Dziki Pies}
-{54600}{}{Mieszaniec zdzicza³ych psów.}
-{54700}{}{Robot Stra¿niczy Typ II}
+{54600}{}{Dziki pies}
+{54601}{}{Przynosz¹cy pecha kundel.}
+{54700}{}{Ulepszony robot stra¿niczy}
 {54800}{}{Stary Joe}
 {54900}{}{Roœlina Monstrum}

@@ -1,9 +1,9 @@
-{100}{}{Widzisz starego mê¿czyznê.}
+{100}{}{Widzisz starego cz³owieka.}
 {101}{}{Widzisz Chrisa, pracownika stacji benzynowej.}
 {102}{}{Widzisz obszarpanego, zaniedbanego staruszka w purpurowej szacie.}
 {103}{}{Witaj, przybyszu. O rany! Popatrz tylko na ten wózek. Od lat nie widzia³em ju¿ ¿adnego. Co mo¿e zrobiæ dla ciebie stary Chris?}
 {104}{}{Witaj, przybyszu. Nie widzia³em ciê wczeœniej w tej okolicy. Co mo¿e zrobiæ dla ciebie stary Chris?}
-{105}{}{Co to miejsce?}
+{105}{}{To miejsce co?}
 {106}{}{Ja szuka Navarro. To tu?}
 {107}{}{Ty widzia³ metalowy ptak tu lataæ?}
 {108}{}{Ty s³yszeæ o Enklawa? Oni tutaj?}
@@ -40,9 +40,9 @@
 {139}{}{Co ty w³aœciwie robisz, co?}
 {140}{}{Hej, ju¿ siê st¹d wynoszê.}
 {141}{}{(Mówi do radia) Alarm! Mamy intruza na stacji! Alarm!}
-{142}{}{Dalej.}
+{142}{}{[dalej]}
 {143}{}{Wiesz co, mi³o siê z tob¹ rozmawia, ale mam dla ciebie radê - w tej okolicy nie ma nic poza pustyni¹ i promieniowaniem. Cywilizacja jest na po³udnie st¹d. Na twoim miejscu skierowa³bym siê w³asnie w tamtym kierunku.}
-{144}{}{Dziêki.}
+{144}{}{Dziêkujê.}
 {145}{}{Metalowe ptaki? Och, pewnie chodzi ci o latacze. A dlaczego w³aœciwie o nie pytasz?}
 {146}{}{Latacze? To ciekawy temat. A dlaczego w³aœciwie pytasz mnie o nie?}
 {147}{}{Szaman mówi metalowy ptak zabraæ wioska, polecieæ do Navarro. Ja chcê znaleŸæ.}
@@ -81,7 +81,7 @@
 {180}{}{Wiêc powie najlepsza droga do baza... ju¿!}
 {181}{}{A wiêc sugerujê, abyœ wskaza³ mi najlepsz¹ drogê do bazy... natychmiast!}
 {182}{}{Podejrzewam, ¿e najlepiej bêdzie przejœæ przez klapê w pod³odze w moim pokoju. Tylko ju¿ sobie pójdŸ i mnie zostaw.}
-{183}{}{Dobra ja iœæ.}
+{183}{}{Dobra, moja iœæ.}
 {184}{}{No dobra. Zrobiê jak mówisz.}
 {185}{}{Wiem tyle, ¿e przelatuj¹ têdy od czasu do czasu. Zwykle kieruj¹ siê na po³udnie, w stronê San Francisco. Jeœli ciekawi¹ ciê latacze, to radzi³bym pójœæ w³asnie tam.}
 {186}{}{Dobra, ja tam spróbujê.}
@@ -99,7 +99,7 @@
 {198}{}{Mówiê powa¿nie. Pragnê przy³¹czyæ siê do Enklawy.}
 {199}{}{Poczekaj chwilê g³upku. Chcesz przez to powiedzieæ, ¿e jesteœ tu w ramach posi³ków dla Enklawy?}
 {200}{}{Poczekaj chwilê. Chcesz przez to powiedzieæ, ¿e jesteœ tu w ramach posi³ków dla Enklawy?}
-{201}{}{Uch... taa.}
+{201}{}{Uch... jasne.}
 {202}{}{Dok³adnie.}
 {203}{}{Cholera. Przepraszam za zamieszanie. Moim zadaniem jest wskazanie drogi paru rekrutom, którzy maj¹ têdy przechodziæ, ale muszê przy okazji pozbywaæ siê œmieci. W ka¿dym razie idŸ w góre przez ten zagajnik, prosto do bramy i podaj has³o stra¿nikom. Brzmi ono "rudy okoñ". Aha, pamiêtaj, ¿eby trzymaæ siê œcie¿ki!}
 {204}{}{Dziêki!}
@@ -108,14 +108,14 @@
 {207}{}{Uch... eskorta?}
 {208}{}{To moja wynajêta eskorta!}
 {209}{}{Wiesz, nie chcê byæ niegrzeczny i w ogóle, ale to jest teren prywatny. Jeœli masz zamiar zagl¹daæ po k¹tach, to lepiej nie rób tego tutaj.}
-{210}{}{Koniec.}
+{210}{}{[dalej]}
 {211}{}{Jesteœ z powrotem. W czym mo¿e pomóc ci stary Chris?}
 {212}{}{Ty mówi³ Navarro na po³udnie. Ty k³ama³! Ja tu po prawda.}
 {213}{}{Powiedzia³eœ mi staruchu, ¿e Navarro le¿y na po³udnie st¹d. A teraz chcê dowiedzieæ siê prawdy.}
 {214}{}{Wygl¹dasz znajomo. Staremu Chrisowi wydaje siê, ¿e ciê ju¿ kiedyœ widzia³... nie, niemo¿liwe.}
 {215}{}{Intruz na stacji! Przyœlijcie pomoc!}
 {216}{}{Og³oœcie alarm!}
-{217}{}{Uwaga intruz! Uwaga intruz!}
+{217}{}{Intruzi! Alarm! Intruzi!}
 {218}{}{Giñ œmieciu!}
 {219}{}{Jak ciê zabijê, to dostanê od Enklawy awans!}
 {220}{}{Giñ, zewnêtrzniaku!}
@@ -124,14 +124,13 @@
 {223}{}{Gorzko po¿a³ujesz, jeœli u¿yjesz tego radia!}
 {224}{}{Odwal siê! Chcesz zobaczyæ, co to znaczy ¿a³owaæ? Mam tu paru kumpli, którzy zaraz naucz¹ ciê zupe³nie nowego znaczenia tego s³owa! (zaczyna w³¹czaæ radio)}
 {225}{}{Ja ciê zabiæ na œmieræ!}
-{226}{}{Co robi?}
-{227}{}{Ja iœæ}
+{226}{}{Co ty teraz robiæ?}
+{227}{}{Ja odejœæ.}
 {228}{}{To by³o z³e posuniêcie, koleœ.}
-{229}{}{A co ty w³aœciwie robisz, co?}
-{230}{}{Hej, ju¿ sobie idê.}
+{229}{}{Co ty w³aœciwie robisz, co?}
+{230}{}{Hej, ju¿ siê st¹d wynoszê.}
 {231}{}{Jasne.}
 {232}{}{On wyci¹ga radio. Zaraz postawi na nogi ca³¹ bazê! Muszê go szybko za³atwiæ.}
 {233}{}{O, nie. Facet wyci¹ga krótkofalówkê. Zamelduje o mnie. Muszê go powstrzymaæ.}
-
 {800}{}{Uda³o siê przekonaæ Chrisa, ¿eby poda³ ci has³o.}
 {810}{}{Chris zosta³ zabity, zanim zdo³a³ zaalarmowaæ bazê.}

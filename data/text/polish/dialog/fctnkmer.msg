@@ -1,19 +1,19 @@
-{100}{}{Widzisz w³aœcicielkê sklepu.}
+{100}{}{Widzisz handlarza.}
 {101}{}{Widzisz Jennê, w³aœcicielkê sklepu.}
 {102}{}{Widzisz œliczn¹ w³aœcicielkê sklepu.}
 {103}{}{Czeœæ! Jestem Jenna. Czym mogê s³u¿yæ?}
-{104}{}{Ja chcieæ informancje.}
+{104}{}{Ja chcieæ informacji.}
 {105}{}{A co masz?}
 {106}{}{Niczym, ja iœæ.}
 {107}{}{Potrzebujê informacji.}
-{108}{}{A co masz do zaoferowania.}
-{109}{}{Chwilowo niczym.}
+{108}{}{A co masz do zaoferowania?}
+{109}{}{Nie teraz.}
 {110}{}{Mówi¹, ¿e im mniej wiesz, tym d³u¿ej ¿yjesz. Wiêcej informacji ode mnie nie uzyskasz. Chcesz obejrzeæ mój towar?}
 {111}{}{Tak.}
 {112}{}{Nie.}
 {113}{}{Œwietnie. Rozejrzyj siê.}
 {114}{}{}
-{115}{}{Dobrze.}
+{115}{}{W porz¹dku.}
 {116}{}{Coœ jeszcze?}
 {117}{}{Tak.}
 {118}{}{Nie.}
@@ -28,5 +28,5 @@
 {127}{}{W porz¹dku.}
 {128}{}{Nie chcê ciê tutaj. Wynoœ siê st¹d!}
 {129}{}{}
-{130}{}{Dobrze.}
-{131}{}{Mam nadziejê, ¿e ta dostawa w koñcu tu dotrze.}
+{130}{}{W porz¹dku.}
+{131}{}{Mam nadziejê, ¿e ta dostawa nied³ugo tu dotrze.}

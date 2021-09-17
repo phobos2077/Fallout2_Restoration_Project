@@ -211,9 +211,9 @@
 {3005}{}{Je v'veux rien avoir aff'faire avec t'toi.}
 {4000}{}{Très bien, mais je veux pas qu'on me laisse ici sans personne.}
 {4001}{}{Ma foi, si tu crois que c'est vraiment une bonne idée.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
+{4002}{}{Eh bien, j'aime pas me servir d'une arme, mais si j'ai pas le choix... Je crois que je saurais jouer du couteau. Du pistolet aussi, du moins je savais. S'il fallait vraiment, je pense que je saurais manier un fusil. Dommage que ce soit si bruyant. Je suis guérisseur, pas combattant.}
 {4003}{}{Sapristi, j'espère que j'aurai pas besoin de ça.}
-{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
+{4004}{}{Eh bien, j'aime pas me servir d'une arme, mais si j'ai pas le choix... Je crois que je saurais jouer du couteau. Du pistolet aussi, du moins je savais. S'il fallait vraiment, je pense que je saurais manier un fusil. Dommage que ce soit si bruyant. Je suis guérisseur, pas combattant.}
 {5000}{}{Je crois que je me suis cassé un membre.}
 {5001}{}{J'ai l'impression d'être irradié.}
 {5002}{}{Je pense que j'ai été empoisonné.}

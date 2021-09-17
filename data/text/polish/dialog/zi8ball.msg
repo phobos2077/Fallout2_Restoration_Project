@@ -1,7 +1,4 @@
-# EXAMINES
 {151}{}{}
-
-# USE MESSAGES
 {199}{}{Co to za kretyñskie pytanie?}
 {200}{}{Dobre widoki.}
 {201}{}{Kiepskie widoki.}
@@ -32,7 +29,6 @@
 {226}{}{Chyba siê rozchorujê.}
 {227}{}{Niedobrze mi.}
 {228}{}{Masz ciep³e d³onie.}
-# 9 or greater luck
 {229}{}{Feargus nie chcia³, ¿eby umieszczaæ mnie w grze. Straszny z niego drañ.}
 {230}{}{Twój wynik to 23 na 100. Masz jeszcze du¿o do zrobienia.}
 {231}{}{Scott Everts ci¹gle wzdycha, kiedy widzi, ile siê narobi³o w grze ró¿nych przedmiotów.}

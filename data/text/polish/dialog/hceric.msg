@@ -36,7 +36,7 @@
 {135}{}{Gdzie jest generator pr¹du?}
 {136}{}{Kim jesteœ?}
 {137}{}{Jest tu o wiele przyjemniej. Wygodnie?}
-{138}{}{Nic. Niewa¿ne.}
+{138}{}{Nic takiego. Nie zawracaj sobie g³owy.}
 {139}{}{Móg³bym coœ dla ciebie za to uzbieraæ. Nie mogê obiecaæ wiele, ale przecie¿ to nie jest te¿ du¿a przys³uga.}
 {140}{}{Umowa stoi. Tylko upewnij siê, ¿e bêdziesz coœ dla mnie mia³, gdy ju¿ zdobêdê dla ciebie ten pr¹d.}
 {141}{}{Zrobiê to za darmo. Bez zap³aty.}
@@ -72,8 +72,8 @@
 {171}{}{Dziêki! Na razie!}
 {172}{}{S¹dzisz, ¿e mo¿esz pomóc mi z moim muszym problemem. By³bym bardzo wdziêczny.}
 {173}{}{Jak wdziêczny?}
-{174}{}{Jasna sprawa.}
-{175}{}{Zastanowiê siê nad tym.}
+{174}{}{Jasne.}
+{175}{}{Pozwól, ¿e siê nad tym zastanowiê.}
 {176}{}{Nigdy w ¿yciu!}
 {177}{}{Oto wszystkie pieni¹dze, które mam... 150$. Dziêkujê.}
 {178}{}{Nie, to ja dziêkujê. Na razie.}

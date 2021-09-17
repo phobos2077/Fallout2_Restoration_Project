@@ -1,13 +1,7 @@
-# 0. Look
 {100}{}{Widzisz ³owcê niewolników.}
-
 {150}{}{Jest chyba jednym z osobistych stra¿ników Metzgera.}
-
-# 1. CF: Hostile
-{200}{}{Tu jesteœ.}
-{201}{}{Teraz umrzesz.}
-
-# 2. CF: Normal
+{200}{}{Tutaj jesteœ.}
+{201}{}{Teraz zginiesz.}
 {300}{}{Chcesz rozmawiaæ z szefem? W³aŸ.}
 {301}{}{Musisz porozmawiaæ z Metzgerem, nie ze mn¹.}
 {302}{}{W³aŸ.}
@@ -16,13 +10,13 @@
 {305}{}{Nie wkurzaj Metzgera.}
 {306}{}{Nie sprzedajemy towaru, jeœli po to tu jesteœ.}
 {307}{}{Ci¹gle nie mogê siê przyzwyczaiæ do kobiety-³owcy niewolników.}
-{308}{}{Mi³o, ¿e jesteœ z nami.}
-{309}{}{Czeœæ. Jak leci?}
-{310}{}{Masz ju¿ jakichœ z³apanych niewolników na koncie?}
-{311}{}{Witaj ponownie.}
+{308}{}{Dobrze ciê mieæ po naszej stronie.}
+{309}{}{Hej. Jak leci?}
+{310}{}{Uda³o ci siê ju¿ spa³owaæ jakiegoœ niewolnika?}
+{311}{}{Witam ponownie.}
 {312}{}{Wybierasz siê na nastêpne polowanie?}
-{313}{}{Spokojnie tu ostatnio.}
-{314}{}{Kiedy wreszcie zobaczê jak¹œ akcjê?}
+{313}{}{Jest doœæ spokojnie.}
+{314}{}{Kiedy wreszcie doczekam siê jakiejœ akcji?}
 {315}{}{Brakuje mi polowañ na niewolników. Stanie na stra¿y jest do dupy.}
-{316}{}{Polowania na niewolników s¹ œwietne.}
+{316}{}{Wypady po niewolników s¹ super.}
 {317}{}{Cieszê siê, ¿e jesteœ z nami.}

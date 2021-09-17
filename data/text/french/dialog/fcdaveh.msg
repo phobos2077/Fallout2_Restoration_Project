@@ -13,8 +13,7 @@
 {112}{}{J'ai parlé à Vikki. Elle a dit que tu étais canon et qu'elle aimerait bien te rencontrer un jour.}
 {113}{}{Tu veux que je parle à Vikki pour toi ?}
 {114}{}{Ca n'a pas d'importance. Salut.}
-{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[As you turn to look, he whips back to what he was doing and ignores you.]}
+{115}{}{Hum... Ok. Qu'importe. Eh, que se passe-t-il là ? [Alors que tu te retournes pour regarder, il se remet au travail et fait comme s'il ne te voyait pas.]}
 {116}{}{[Terminé]}
 {117}{}{Je m'appelle Dave Handy. Je viens du Canada.}
 {118}{}{Alors, que fais-tu ici ?}

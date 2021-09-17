@@ -43,7 +43,7 @@
 {142}{}{O-on je-jezd t-tutaj. To t-t-ten ga-ga-gad¹jacy ko-komputer.}
 {143}{}{(On jest tutaj. To ten gadaj¹cy komputer.)}
 {144}{}{Co masz tutaj do roboty?}
-{145}{}{Dziêki. Na razie.}
+{145}{}{Dziêki. Do zobaczenia.}
 {146}{}{Rzuciæ cz-czasem o-okiem na rz-rzeczy tu magazynofane. U-U-pewniæ ziem, ¿e fszystkie drzwi s¹ zam-zamkniete.}
 {147}{}{(Rzuciæ czasem okiem na rzeczy tu zmagazynowane. Upewniæ siê, ¿e wszystkie drzwi s¹ zamkniête.)}
 {148}{}{Masz klucz?}

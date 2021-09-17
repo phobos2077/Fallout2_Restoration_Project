@@ -1,8 +1,8 @@
 {100}{}{Um vendedor.}
 {101}{}{Willy.}
 {102}{}{Uma mancha de caixeiro-viajante.}
-{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
+{103}{}{Saudações, amigo, meu nome é Willy e tenho um acordo para você. [Ele parece estar lendo de
+  um cartão, e depois de um tempo você cochila.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[Você groggily abre seus olhos como você finalmente percebe que alguém está chutando você.] Bem, você está
   interessado ou não?}

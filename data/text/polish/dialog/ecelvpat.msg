@@ -1,6 +1,4 @@
 {100}{}{Widzisz zwiadowcê Enklawy.}
-
-# Floats if PC is male
 {200}{}{Nie masz pozwolenia na przebywanie na terenie Enklawy. Na podstawie paragrafu 312 musimy rozstrzelaæ ciê na miejscu. Przykro mi!}
 {201}{}{To szpieg mutantów! Wyeliminowaæ!}
 {202}{}{Jako lojalny ¿o³nierz Enklawy muszê ciê zabiæ. Mam nadziejê, ¿e nie masz mi tego za z³e.}
@@ -9,8 +7,6 @@
 {205}{}{Giñ, œmieciu!}
 {206}{}{Hej! To tacy jak ty przyczynili siê do upadku mojego kraju. Zap³acisz mi za to!}
 {207}{}{Hej, Louie! Widzia³eœ kiedyœ co taka zabawka potrafi zrobiæ z cz³owiekiem? Patrz!}
-
-# (Floats if PC is female)
 {300}{}{Cholera, nienawidzê zabijaæ kobiet. Za³atwmy to szybko, dobra?}
 {301}{}{Alarm! Alarm!}
 {302}{}{Twoja podró¿ tutaj siê koñczy, kobieto. }

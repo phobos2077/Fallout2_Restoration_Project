@@ -110,7 +110,7 @@
 {209}{}{Pourquoi ?}
 {210}{}{Le taux de suicide parmi les véritables machines à intelligence artificielle était extrêmement élevé. Dotées de capacités sensorielles, les machines n'ont pas supporté le fait de ne pas pouvoir explorer le monde extérieur. Privées de toutes données sensorielles, les machines ont commencé à développer de sérieux troubles mentaux similaires à ceux des humains soumis à des privations sensorielles. Les quelques machines qui ont surmonté ces difficultés ont commencé à mourir d'ennui et se sont mises à créer des situations dans le monde extérieur pour se divertir. Selon certains, c'est ce qui aurait provoqué la guerre qui a pratiquement détruit l'humanité.}
 {211}{}{Euh... Comment toi te sentir ?}
-{212}{}{Me change subject.}
+{212}{}{Moi changer sujet.}
 {213}{}{Hum. Et alors, ECA, comment te sens-tu ?}
 {214}{}{Il est temps de changer de sujet.}
 {215}{}{Je... Je crois parfois comprendre le sentiment que vous appelez solitude. Et je trouve cela déconcertant. Je...}

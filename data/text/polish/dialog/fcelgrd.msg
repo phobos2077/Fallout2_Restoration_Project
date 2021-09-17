@@ -28,7 +28,7 @@
 {127}{}{Twoja obecnoúÊ jest mile widziana... ale tam.}
 {128}{}{Centrum zostawi≥ nas, abyúmy dbali o jego stado.}
 {129}{}{Gwiezdny Ojciec dba o ciebie. Dlatego da≥ ci nas.}
-{130}{}{Jesteúmy lojalni wobec UKC-9.}
+{130}{}{Jesteúmy lojalni wobec AHS-9.}
 {131}{}{Bπdü pos≥uszny.}
 {132}{}{åpij.}
 {133}{}{Jedü.}

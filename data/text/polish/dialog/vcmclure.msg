@@ -14,8 +14,8 @@
 {113}{}{Dzieñ dobry, Obywatelu. Mogê jakoœ pomóc?}
 {114}{}{Tak? Chcesz jeszcze czegoœ?}
 {115}{}{Œwiêty Miko³aj?}
-{116}{}{Zmiataj st¹d.}
-{117}{}{Czy mogê pana o coœ zapytaæ?}
+{116}{}{OdejdŸ bez s³owa.}
+{117}{}{Czy mogê zadaæ ci kilka pytañ?}
 {118}{}{Kim jesteœ?}
 {119}{}{Rozgl¹dam siê tylko, dziêki. Mi³ego dnia.}
 {120}{}{Jak uda³o ci siê dostaæ do miasta? Stra¿! Jest tu obcy, którego trzeba odprowadziæ do bram!}
@@ -36,9 +36,9 @@
 {135}{}{Mam dysk z danymi ekonomicznymi, który mo¿e pana zainteresowaæ.}
 {136}{}{Uda³o mi siê znaleŸæ sposób na zwiêkszenie wydajnoœci elektrowni w Gecko.}
 {137}{}{To dysk z reaktora w Gecko. Mo¿e go pan zoptymalizowaæ?}
-{138}{}{Dzisiaj nic, dziêki.}
+{138}{}{Dziêki, ale dziœ nie skorzystam.}
 {139}{}{Jestem Starszy Radny McClure. A ty jesteœ...?}
-{140}{}{Nie twoja sprawa.}
+{140}{}{Nie twój interes.}
 {141}{}{. Mi³o mi pana poznaæ.}
 {142}{}{Muszê lecieæ. Mo¿e poznamy siê innym razem.}
 {143}{}{Takiego chamstwa mo¿na spodziewaæ siê po obcym, nie po Obywatelu. Jestem cz³onkiem Rady Kryptopolis i bêdziesz mi okazywaæ nale¿yty szacunek, albo cofnê twoje obywatelstwo. Zrozumiano?}
@@ -56,16 +56,16 @@
 {155}{}{A pewnie, ¿e uznasz moje obywatelstwo!}
 {156}{}{Tak, jasne. Spadam st¹d.}
 {157}{}{Wiêcej siê do mnie nie odzywaj. Jeœli spróbujesz, cofnê twoje obywatelstwo. Mi³ego dnia.}
-{158}{}{Mi³ego dnia.}
+{158}{}{Do widzenia.}
 {159}{}{Spróbuj cofn¹æ moje obywatelstwo, a po¿a³ujesz.}
 {160}{}{Twoja moc s³abnie, starcze. Nie zdo³asz mi siê przeciwstawiæ.}
 {161}{}{Doœæ tego! Obywatel, czy nie, idziesz precz! Stra¿, poka¿cie tej zdegenerowanej osobie drogê do bramy!}
 {162}{}{Idê. To miejsce i tak jest do kitu.}
 {163}{}{Nigdzie nie pójdê.}
-{164}{}{Co mogê dla pana zrobiæ?}
+{164}{}{Co mogê dla ciebie zrobiæ?}
 {165}{}{Nie wiem, staruszku. Co MO¯ESZ dla mnie zrobiæ?}
 {166}{}{Szukam Generatora Ekosystemu Cudownej Krainy.}
-{167}{}{Mogê zadaæ kilka pytañ?}
+{167}{}{Czy mogê zadaæ ci kilka pytañ?}
 {168}{}{Dzisiaj nic. Tylko zwiedzam budynek Rady.}
 {169}{}{GECK? Z tego, co wiem, mieliœmy tylko jeden. Dzia³a³ doœæ d³ugo, ale zepsu³ siê na wiele lat przed moim urodzeniem. Mieliœmy mieæ dwa...}
 {170}{}{Mieliœcie mieæ?}
@@ -87,17 +87,17 @@
 {186}{}{"Trudnych czasach"? To znaczy?}
 {187}{}{Czym siê pan zajmuje?}
 {188}{}{Mogê zadaæ inne pytanie?}
-{189}{}{Dziêki za poœwiêcenie mi czasu. Do widzenia.}
+{189}{}{Dziêki za pomoc. Do zobaczenia.}
 {190}{}{Gecko? Co chcia³byœ wiedzieæ?}
 {191}{}{Gdzie jest Gecko?}
 {192}{}{Co to jest Gecko?}
 {193}{}{Mogê zadaæ inne pytanie?}
-{194}{}{Dziêki za poœwiêcenie mi czasu. Do widzenia.}
+{194}{}{Dziêki za pomoc. Do zobaczenia.}
 {195}{}{Nie ma o czym mówiæ, poza faktem, ¿e dostawy kruszcu sta³y siê mniejsze i rzadsze.}
 {196}{}{Wiadomo dlaczego?}
 {197}{}{Gdzie jest Redding?}
 {198}{}{Mogê zadaæ inne pytanie?}
-{199}{}{Dziêki za poœwiêcenie mi czasu. Do widzenia.}
+{199}{}{Dziêki za pomoc. Do zobaczenia.}
 {200}{}{Jestem Starszym Radnym. Nadzoruje spotkania Rady.}
 {201}{}{A czym zajmuje siê Pierwszy Obywatel?}
 {202}{}{Mogê zadaæ inne pytanie?}
@@ -112,12 +112,12 @@
 {211}{}{Mogê zadaæ inne pytanie?}
 {212}{}{Dziêki. Poszukam go. Do widzenia.}
 {213}{}{Dobrze. Musisz tylko porozmawiaæ z Prokonsulem Gregorym, który przeprowadzi odpowiedni test.}
-{214}{}{Gdzie znajdê Prokonsula?}
+{214}{}{Gdzie znajdê Prokonsula Gregory'ego?}
 {215}{}{Mogê zadaæ inne pytanie?}
 {216}{}{Œwietnie. Pójdê porozmawiaæ z Prokonsulem.}
 {217}{}{Jest we wschodnim skrzydle. Jego biuro jest naprzeciw gabinetu Pierwszego Obywatela.}
 {218}{}{Mogê zadaæ inne pytanie?}
-{219}{}{Dziêki za poœwiêcenie mi czasu. Do widzenia.}
+{219}{}{Dziêki za pomoc. Do zobaczenia.}
 {220}{}{Przez ostatnie dwa lata by³o ciê¿ko. RNK sta³a siê bardziej agresywna, próbuj¹c zmusiæ nas, byœmy przy³¹czyli siê do Republiki.}
 {221}{}{Mówi¹, ¿e jeœli siê przy³¹czymy, bêd¹ mogli nas broniæ przed atakami NajeŸdŸców. A ataki te ostatnio s¹ coraz bardziej brutalne.}
 {222}{}{Jakby tego by³o ma³o, ghule z Gecko skazili nasze wody gruntowe.}
@@ -132,11 +132,11 @@
 {231}{}{To opuszczone miejsce. Sza³asy zbudowane wokó³ pozosta³oœci starej elektrowni atomowej.}
 {232}{}{Gdzie znajduje siê Gecko?}
 {233}{}{Mogê zadaæ inne pytanie?}
-{234}{}{Dziêki za poœwiêcenie mi czasu. Do widzenia.}
+{234}{}{Dziêki za pomoc. Do zobaczenia.}
 {235}{}{Nie, w ogóle tego nie rozumiem. Dobrze p³acimy za kruszec, ale gdy chcemy z nimi rozmawiaæ, unikaj¹ nas. Gdybym tylko wiedzia³, co siê dzieje...}
 {236}{}{Mogê to sprawdziæ.}
 {237}{}{Gdzie jest Redding?}
-{238}{}{Dziêki za poœwiêcenie mi czasu. Do widzenia.}
+{238}{}{Dziêki za pomoc. Do zobaczenia.}
 {239}{}{Naprawdê? Nie mogê ci zap³aciæ, ale doceniê pomoc.}
 {240}{}{Gdzie jest Redding?}
 {241}{}{Nie ma sprawy. Rozejrzê siê i wrócê, gdy dowiem siê, co jest nie tak.}
@@ -145,17 +145,17 @@
 {244}{}{Rozumiem. Dziêki za informacje.}
 {245}{}{Co takiego? Ka¿da informacja bêdzie pomocna.}
 {246}{}{Co mo¿e mi pan powiedzieæ o Redding?}
-{247}{}{Wiêksza czêœæ mieszkañców Redding jest uzale¿niona od narkotyku zwanego Jet. Górnicy wysy³aj¹ wiêkszoœæ kruszcu do Nowego Reno, ¿eby otrzymywaæ dostawy Jetu.}
+{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Dr Troy stworzy³ antidotum na Jet.}
 {249}{}{Dostarczy³em antidotum do Redding.}
 {250}{}{Czym jest ten Jet od którego oni wszyscy s¹ uzale¿nieni?}
 {251}{}{Powiem panu póŸniej, gdy dowiem siê wiêcej.}
-{252}{}{Narkotyk, który uzale¿nia w 100% i powoduje ciê¿kie skutki przy odstawieniu.}
+{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Informuj mnie.}
 {254}{}{Mogê zadaæ inne pytanie?}
 {255}{}{Jasne.}
 {256}{}{To z³a wiadomoœæ. Musimy znaleŸæ sposób, by to powstrzymaæ. Jeœli ta sytuacja siê utrzyma, nasze zapasy kruszcu przestan¹ istnieæ. Pomó¿ nam, proszê.}
-{257}{}{Zobaczê, co siê da zrobiæ.}
+{257}{}{Zobaczê, co da siê zrobiæ.}
 {258}{}{Naprawdê? To co tu jeszcze robisz? Zabierz je do Doca Johnsona w Redding! Powinien znaleŸæ metodê na podanie go górnikom.}
 {259}{}{Wiem ju¿ o tym. Zabierz je proszê do Redding i zobacz, czy mo¿esz im pomóc.}
 {260}{}{Zanim pójdê, czy mogê zadaæ inne pytania?}
@@ -167,7 +167,7 @@
 {266}{}{Jeœli chcesz pieniêdzy, to je dostaniesz. Masz tu 500$ za fatygê. I mi³ego dnia.}
 {267}{}{Dziêkujê.}
 {268}{}{Piêæset...? Lepiej szybko znajdŸ wiêcej, inaczej twoje ¿ycie nie bêdzie warte nawet dwóch.}
-{269}{}{To znaczy?}
+{269}{}{Co to znaczy?}
 {270}{}{Gdyby mieæ hydroelektryczny regulator magnetosfery, mo¿na by sprawiæ, ¿e elektrownia bêdzie dzia³a³a bez zanieczyszczeñ.}
 {271}{}{A, nic. Przepraszam za k³opot.}
 {272}{}{To jest do przyjêcia. Zale¿y mi tylko na pozbyciu siê promieniowania.}
@@ -180,24 +180,24 @@
 {279}{}{Dziêki. Zaraz do niego pójdê.}
 {280}{}{Jest jeszcze coœ. Ten dysk z danymi ekonomicznymi powinien pana zainteresowaæ.}
 {281}{}{Doskonale! Ju¿ siê ba³em, ¿e wzrost promieniowania zmusi nas do przeniesienia siê. Nale¿y ci siê pochwa³a za dobrze wykonan¹ robotê.}
-{282}{}{Kryptopolis przetrwa, Obywatelu.}
+{282}{}{Kryptopolis ponad wszystkim, Obywatelu.}
 {283}{}{Kryptopolis przetrwa, Kapitanie.}
 {284}{}{Oto twoje obywatelstwo. Jeœli bêdziesz kiedyœ czegoœ potrzebowaæ, przyjdŸ do mnie.}
 {285}{}{Kryptopolis przetrwa, Radny.}
-{286}{}{Dziêki.}
+{286}{}{Dziêkujê.}
 {287}{}{Tak, zdarzy³o ci siê ju¿ o tym wspominaæ.}
 {288}{}{Dobra robota, Kapitanie.}
 {289}{}{Dobra robota, Obywatelu.}
 {290}{}{Dobra robota.}
-{291}{}{Mam parê pytañ...}
-{292}{}{Dziêki.}
+{291}{}{Mam kilka innych pytañ...}
+{292}{}{Dziêkujê.}
 {293}{}{Przepraszam... dysk z danymi ekonomicznymi? To znaczy?}
 {294}{}{Proszê spojrzeæ.}
 {295}{}{Te dane podaj¹ iloœæ energii, któr¹ elektrownia w Gecko produkowa³a przed wojn¹. I któr¹ ponownie mo¿e produkowaæ.}
 {296}{}{Niewa¿ne. Mam parê pytañ...}
 {297}{}{Nic. Przepraszam, ¿e przeszkadzam.}
 {298}{}{Dobrze, daj mi chwilê...}
-{299}{}{W porz¹dku.}
+{299}{}{Dobrze.}
 {300}{}{Hmmm. Sk¹d masz ten dysk?}
 {301}{}{Ja... Znaleziony przypadkiem.}
 {302}{}{Z archiwów biblioteki Kryptopolis.}
@@ -225,9 +225,9 @@
 {324}{}{Doceniam to. Dziêki.}
 {325}{}{Hmmm. Có¿, nie mogê ciê wpuœciæ do Krypty, ale mogê zoptymalizowaæ ten dysk dla ciebie.}
 {326}{}{W porz¹dku, ale nie mam przy sobie dysku z reaktora. Przyniosê go.}
-{327}{}{By³oby super.}
+{327}{}{Oczywiœcie!}
 {328}{}{Œwietnie!}
-{329}{}{W porz¹dku.}
+{329}{}{Dobrze.}
 {330}{}{Pozwól, ¿e wezmê dysk, a ja zoptymalizujê go w g³ównym komputerze Kryptopolis.}
 {331}{}{Œwietnie. Dziêki.}
 {332}{}{Co to jest?}
@@ -239,11 +239,10 @@
 {338}{}{Wci¹¿ szukam sposobu na optymalizacjê elektrowni.}
 {339}{}{Wci¹¿ szukam sposobu na optymalizacjê elektrowni.}
 {340}{}{Chcia³bym pomóc, ale moja wiedza o reaktorach jest niestety... ograniczona. Byæ mo¿e któryœ z techników w Gecko bêdzie wiedzia³, jak zoptymalizowaæ elektrowniê?}
-{341}{}{Byæ mo¿e. Mam parê innych pytañ...}
+{341}{}{Mo¿e. Mam jeszcze kilka pytañ...}
 {342}{}{Mo¿e. Pogadam z nimi.}
 {343}{}{Radny McClure dowiedzia³ siê o dostarczeniu antidotum na Jet.}
 {344}{}{Z zawartoœci tego dysku wynika, ¿e odk¹d elektrownia zosta³a naprawiona i zoptymalizowana, mo¿e produkowaæ ogromne iloœci energii. Du¿o wiêcej ni¿ potrzebuje Gecko. Kryptopolis przyda³aby siê ta energia. Myœlê, ¿e rada powinna to rozwa¿yæ.}
-
 {345}{}{Czy wie pan coœ o pobliskiej wiosce pe³nej kretoszczurów?}
 {346}{}{W³aœciwie, tak. Sier¿ant Stark zg³asza³ mi niedawno coœ na ten temat. Dlaczego interesuje ciê ta sprawa?}
 {347}{}{Czy to prawda, ¿e chcecie zrobiæ z tych ludzi s³u¿¹cych?}
@@ -259,7 +258,5 @@
 {357}{}{To niesamowite, ataki kretoszczurów na nasze patrole nagle usta³y. Nie wiem jak ci siê to uda³o, ale dziêkujê. Ponadto, dotrzymam mojej czêœci umowy. Rozka¿ê Starkowi natychmiast zaprzestaæ ataków. Tak d³ugo jak mieszkañcy wioski nie bêd¹ zagra¿aæ Kryptopolis, nie musz¹ siê niczego obawiaæ z naszej strony. Zadbam o to.}
 {358}{}{Dziêkujê!}
 {359}{}{Uda³o ci siê rozwi¹zaæ problem wioski.}
-
-{360}{}{To doœæ interesuj¹ce.} #was 345-killap
-
+{360}{}{To doœæ interesuj¹ce.}
 {370}{}{Dobrze. W takim razie nie chcê ci wchodziæ w drogê.}

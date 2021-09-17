@@ -32,7 +32,7 @@
 {210}{}{Ok ? Que veux-tu dire ? T'es bête ou quoi ?}
 {211}{}{Gloup ?}
 {220}{}{Dégage d'ici. Cortex n'a pas de temps à perdre avec des gens comme toi.}
-{221}{}{OK. I'll be going now.}
+{221}{}{Ok. Je vais partir.}
 {230}{}{There’s nothing else down here but The Brain’s lair. Boy, are you dumb.}
 {231}{}{Cortex ?}
 {232}{}{Je voulais juste te faire passer un test. Tu as réussi. Maintenant, laisse-moi entrer.}

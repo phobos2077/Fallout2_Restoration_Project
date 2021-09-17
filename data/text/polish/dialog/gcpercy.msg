@@ -46,7 +46,6 @@
 {145}{}{Co jest? Nie kojarzysz jeszcze?! Bojê siê, ¿e Woody uci¹³ sobie ma³¹ drzemkê gdzieœ w Norze - w koñcu to spory kawa³ drogi - a nieprzyzwyczajeni mieszkañcy pochowali biedaka ¿ywcem! Szukam w³aœnie kogoœ, kto zechcia³by go tam poszukaæ.}
 {146}{}{I...?}
 {147}{}{Có¿, brakuje mi go. Ot co. (Percy mruga trochê intensywniej) Och, rozumiem, chcesz wiedzieæ czy ci siê to op³aci?}
-
 {148}{}{Te s³owa bardzo pozytywnie wp³ywaj¹ na moj¹ motywacjê. Mów dalej.}
 {149}{}{No tak... wiem gdzie mo¿na znaleŸæ ca³e mnóstwo przedwojennego towaru - g³ównie oryginalnych Anty-Radów i Rad-Xu. Mi siê ju¿ nie przydadz¹, ale dla g³adkoskórych s¹ na pewno sporo warte. To jak - pomo¿esz mi czy nie? Zap³acê ci dopiero jak bêdê mia³ pewnoœæ, ¿e Woody jest bezpieczny.}
 {150}{}{Ca³e mnóstwo? To znaczy ile?}
@@ -54,7 +53,7 @@
 {152}{}{Przykro mi. Chwilowo nie mogê ci pomóc.}
 {153}{}{Zastanowiê siê jeszcze. Do widzenia.}
 {154}{}{Wiêcej, ni¿ dasz radê kiedykolwiek zu¿yæ. To jak - umowa stoi?}
-{155}{}{Dobra, zrobiê to. Odezwê siê do ciebie nied³ugo.}
-{156}{}{Obawiam siê, ¿e chwilowo nie mogê ci pomóc.}
-{157}{}{Jeszcze siê zastanowiê. Do widzenia.}
+{155}{}{Dobra, umowa stoi. Odezwê siê wkrótce.}
+{156}{}{Przykro mi. Chwilowo nie mogê ci pomóc.}
+{157}{}{Zastanowiê siê jeszcze. Do widzenia.}
 {158}{}{Piêkne dziêki za odnalezienie mojego kumpla Woody'ego. Co stary Percy mo¿e dla ciebie zrobiæ?}

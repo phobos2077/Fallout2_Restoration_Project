@@ -401,10 +401,10 @@
 {1023}{}{Nous et tueur d'enfants, jamais amis. Jamais. }
 {1025}{}{Toi avoir fait grabuge à Klamath. Nous partir.}
 {1026}{}{Toi causer problèmes dans mon village natal. Nous partir.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Esprits nous accompagner.}
+{2301}{}{Nous partir maintenant.}
 {2302}{}{Ok, ne t'emballe pas.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Pas de problème, nous partir maintenant.}
 {2304}{}{Nous penser toi avoir besoin te reposer. Grand-père Esprit des Os dire toi en faire trop. Toi prendre la vie plus tranquille.}
 {2305}{}{We be movin' an' groovin'.}
 {2306}{}{Nous aller là maintenant.}

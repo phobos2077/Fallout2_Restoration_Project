@@ -182,7 +182,7 @@
 {490}{}{With silver-bells and cockleshells and... Boy, you are dumb, aren't you? Severe radiation. That's
  how. How do you think? You know, many bombs go boom, flash of light and heat, flesh burns off, but you
  don't-quite-die-type severe radiation?}
-{491}{}{Uh well, I mean...}
+{491}{}{Uh bem, quero dizer...}
 {500}{}{Well, I didn't think so. Fuck you very much for bringing back all those intensely painful
  memories. Asshole. We're a town of fucking leftovers -- slightly overcooked leftovers.}
 {501}{}{I prefer medium-rare myself. Hey, let me ask you something else.}

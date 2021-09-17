@@ -7,14 +7,14 @@
 {106}{}{A wiec, co jest na sprzeda¿?}
 {107}{}{Wygl¹dasz na kogoœ, kto potrafi dobrze u¿yæ swoich r¹k. Masz rêce, prawda?}
 {108}{}{Mam 5$. S³ysza³eœ jakieœ ciekawe plotki?}
-{109}{}{Na razie.}
+{109}{}{¯egnaj.}
 {110}{}{Widzisz to tam? To jest moja ulubienica - nazywa siê Edna. Widzisz, nazywam wszystkie moje rzeczy - s¹ dla mnie jak dzieci. Nie znoszê ich sprzedawaæ, ale muszê jeœæ.}
 {111}{}{Zadzierasz ze wszystkimi moimi dzieæmi!}
 {112}{}{Ta, jasne. Masz pi¹taka. S³ysza³eœ jakieœ ciekawe plotki?}
 {113}{}{O-kej czy nie, jesteœ po prostu szczególny! Mo¿e bêdê kupowaæ gdzie indziej.}
 {114}{}{Pozwól, ¿e przejrzê twój towar jeszcze raz.}
 {115}{}{Chyba ja i Edna ju¿ sobie pójdziemy.}
-{116}{}{Có¿, dziêki Bogu, ¿e ten nieznajomy nie zabra³ ci dziecka... Moje rzeczy, rozumiesz, s¹ dla mnie jak dzieci.}
+{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
 {117}{}{Yy - jasne.}
 {118}{}{Có¿, chyba ju¿ sobie pójdê.}
 {119}{}{Potrafiê naprawiæ ró¿ne rodzaje sprzêtu. Mam dopalacz, nazwa³em go Klaudia, pasuje do wiêkszoœci wozów - daje im o wiele wiêcej mocy. Tylko 1000$. Interesuje ciê to?}
@@ -34,7 +34,7 @@
 {133}{}{W porz¹dku. Zobaczymy siê póŸniej.}
 {134}{}{S³uchaj, jak bêdziesz mieæ kasê, to wróæ. Zapewne wci¹¿ bêdê j¹ mia³.}
 {135}{}{W porz¹dku.}
-{136}{}{Na razie.}
+{136}{}{¯egnaj.}
 {137}{}{Gotowe! Klaudia jest ju¿ zainstalowana.}
 {138}{}{Daj mi jeszcze trochê czasu. Wci¹¿ pracujê nad t¹ oporn¹ dziewczynk¹.}
 {139}{}{Hej! Nie s¹dzê, ¿ebym mia³ dla ciebie jakiœ wolny mózg.}

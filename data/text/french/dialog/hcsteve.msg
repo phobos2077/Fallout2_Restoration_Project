@@ -23,7 +23,7 @@
 {122}{}{On vend ce qu'on extrait aux autres villes du coin. Elles en ont besoin. Si tu veux vendre quelque chose, tu peux parler à de nombreux marchands ici. Mais je dois continuer à bosser. Sois cool et fais attention ici, Ok ?}
 {123}{}{Oh-ké ! Saluuut !}
 {124}{}{Je dois continuer à travailler. Sois cool et fais attention, Ok ?}
-{125}{}{You again? Well, you know what you have to do -- be good and careful. Take care!}
+{125}{}{Encore toi ? Bien, tu sais ce que t'as à faire. Tiens-toi bien et fais attention à toi !}
 {126}{}{Oh-ké ! Saaaaaalut !}
 {127}{}{Range tes armes. Tu n'obtiendras pas de réponse de ma part si tu continues à les brandir comme ça.}
 {128}{}{On est une petite communauté minière. Elle a été fondée il y a plusieurs décennies par notre shérif, Marcus, et un homme du nom de Jacob. Ils ont choisi ce site car il est proche des gisements d'uranium. Tu veux en savoir plus ?}
@@ -43,7 +43,7 @@
 {142}{}{Si on oublie que les mutants sont tous morts et que notre ressource principale est détruite...}
 {143}{}{Si on oublie l'héroïsme dont tu as fait preuve en démasquant la corruption en notre sein...}
 {144}{}{Si on oublie qu'on a un cancer qui se développe avec l'évasion de Franc et de Manson...}
-{145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
+{145}{}{Si on oublie la trahison de Chad et la façon dont tu as rendu la justice (et nous te sommes tous reconnaissants)...}
 {146}{}{Pas grand-chose, en fait.}
 {147}{}{J'ai d'autres questions.}
 {148}{}{Salut.}
@@ -73,8 +73,7 @@
 {172}{}{Ah vraiment ? J'aurais pensé que la plupart étaient déjà morts...}
 {173}{}{Un shérif mutant, hein ? J'imagine que la plupart des gens d'ici respectent bien la loi... Ca doit pas mal fonctionner.}
 {174}{}{Salut.}
-{175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
- to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
+{175}{}{On vivote et on crée notre propre version de la civilisation, en essayant à tout prix de ne pas capituler devant la Cité de l'Abri ou RNC : on ne veut pas de leur style de gouvernement. C'est tout.}
 {176}{}{Génial. J'ai d'autres questions.}
 {177}{}{Merci. Au revoir.}
 {178}{}{Si tu continues à croire dur comme fer que tu peux juger quelqu'un d'après son apparence, alors oui. Tu es indéniablement inculte.}
@@ -83,17 +82,14 @@
 {181}{}{C'est tout ce que je voulais dire. Bienvenue aux Collines Brisées.}
 {182}{}{[Attendre]}
 {183}{}{Salut.}
-{184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
- forever -- in fact, most of them are going senile now. Building a community isn't going to help them
- achieve their aims.}
+{184}{}{Si les mutants nous voulaient du mal, ce serait déjà fait. Ils ne vont pas vivre éternellement. En fait, la plupart sont aujourd'hui séniles. Le fait de créer une communauté ne va pas les aider à atteindre leurs buts.}
 {185}{}{Tu as raison.}
 {186}{}{Ils sont tout de même mauvais.}
 {187}{}{Salut.}
 {188}{}{Plus je te parle et plus j'ai l'impression de devenir bête. Avec une telle attitude, tu n'as pas vraiment ta place aux Collines. Maintenant, excuse-moi. J'ai du travail.}
 {189}{}{Ordure.}
 {190}{}{Crève !}
-{191}{}{We have a mine, a refinery, a tavern, a hotel -- which, by the way, has lost its owner, so we
- just let people stay there free -- a hospital, a general store, and a chemist. We grow our own food.}
+{191}{}{On a une mine, une raffinerie, une taverne, un hôtel (qui d'ailleurs n'a plus de propriétaire, les gens y séjournent gratuitement), un hôpital, un magasin et une pharmacie. On fait pousser notre nourriture.}
 {192}{}{Très bien. J'ai d'autres questions.}
 {193}{}{Salut.}
 {194}{}{Oui, la plupart sont morts. Les mutants étant stériles... Du moins c'est ce que j'ai cru comprendre... Ils disparaissent. Ceux qui restent semblent devenir séniles aussi. Mais pas Marcus. Lui il est toujours aussi vif.}

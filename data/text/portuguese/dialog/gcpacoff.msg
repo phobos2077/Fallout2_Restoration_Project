@@ -32,7 +32,7 @@
 {131}{}{I'd love to stick around and talk to all of your pals about that bridal shower you've been planning but I've got better things to do with my time. Goodbye.}
 {132}{}{Well, I, uh, I've got to be going. Goodbye.}
 {133}{powr5_a}{Try the gain.}
-{134}{}{There... that should do it. Any better?}
+{134}{}{Pronto... isso deve bastar. Melhor agora?}
 {135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
 {136}{}{I'll just try back later. Goodbye.}
 {137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
@@ -59,7 +59,7 @@
 {158}{}{So you're not in New Reno then?}
 {159}{}{Well, I better get back to work. Gotta get this link fixed. Goodbye.}
 {160}{powr12}{The President of the United-fucking-States-of-America. Who'd you think I was talking about? Who the fu - Who is - What - I should kick your fucking ass, who is this?}
-{161}{}{I'm the Chosen One. Kiss my... feet.}
+{161}{}{Eu sou o escolhido. Beije meus pés. }
 {162}{}{I'm the Chosen One.}
 {163}{}{I'm the President. You're in a heap of trouble.}
 {164}{}{You're not important enough for that information.}

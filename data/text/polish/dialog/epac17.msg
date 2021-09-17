@@ -8,17 +8,16 @@
 {107}{}{Widzisz Doktora.}
 {108}{}{G³ównego i jedynego Doktora pozosta³ego w AOŒ.}
 {109}{}{Niem¹drze by³oby mnie atakowaæ.}
-
 {120}{}{Tak?}
 {121}{}{Czeœæ, mam na imiê }
-{122}{}{. Kim jesteœ?}
+{122}{}{. Kim ty jesteœ?}
 {123}{}{Przepraszam, ¿e przeszkadzam. Do widzenia.}
 {130}{}{Jestem znany jako Doktor.}
 {131}{}{Dobra, ale co tu robisz? Czemu jesteœ tu sam? Reszta tego miejsca wygl¹da na opuszczon¹.}
 {132}{}{Dobra, dziêki.}
 {140}{}{Wygl¹dasz na kogoœ, kto wie coœ o nauce. Mo¿e bêdziesz w stanie zrozumieæ co Ja tu robiê. Co chcesz wiedzieæ?}
 {141}{}{Dlaczego tu jesteœ?}
-{142}{}{Co tutaj robisz?}
+{142}{}{Czym siê tutaj zajmujesz?}
 {150}{}{Przykro mi, ale nie masz potrzebnej wiedzy, aby zrozumieæ moj¹ rolê tutaj. Wróæ jak siê doszkolisz.}
 {151}{}{Hej, czekaj. O czym ty mówisz, zrozumiem wszystko co mi powiesz!}
 {152}{}{Có¿, w porz¹dku. Do widzenia.}
@@ -31,7 +30,7 @@
 {181}{}{Poradzê sobie. SprawdŸ mnie.}
 {190}{}{[Uœmiecha siê.] Có¿, kto wie. Dobrze, skoro nalegasz, dam ci szansê. Co chcesz wiedzieæ?}
 {191}{}{Dlaczego tu jesteœ?}
-{192}{}{Co tutaj robisz?}
+{192}{}{Czym siê tutaj zajmujesz?}
 {200}{}{Oczywiœcie! Nikt nade mn¹ nie stoi. ¯adnych zasad. Robiê co chce i kiedy chcê. Poza tym bêd¹c tu sam, mam dostêp do ca³ego sprzêty jakiego potrzebujê bez ¿adnych ograniczeñ. Coœ jeszcze?}
 {201}{}{Kim s¹ ci ludzie w klatkach?}
 {202}{}{Co to za œmieszny kolorowy p³yn, który mo¿na znaleŸæ wszêdzie w AOŒ?}
@@ -92,9 +91,9 @@
 {400}{}{Chwileczkê, zanim odejdziesz. Proszê przyjmij to jako wyraz mojej wdziêcznoœci za przyprowadzenie do mnie Myrona. Mi to tutaj i tak siê nie przyda.}
 {401}{}{Hej, dziêki. Co to jest?}
 {410}{}{To s³oneczny spopielacz. Jeden z moich eksperymentów. Zasilany jest energi¹ s³oneczn¹, czyli nie wymaga ¿adnej amunicji. Myœlê, ¿e na pustkowiach bêdzie bardzo przydatny, ale w zwi¹zku z tym mam do ciebie jeszcze jedn¹ proœbê...}
-{411}{}{O co chodzi?}
+{411}{}{Co to takiego?}
 {420}{}{Wygl¹da, ¿e du¿o podró¿ujesz. Ja jestem ograniczony do terenu AOŒ, muszê mieæ oko na moje eksperymenty, a potrzebujê pewnych rzeczy, które mi siê skoñczy³y. Mo¿e uda³oby ci siê je dla mnie zebraæ?}
-{421}{}{Tak, mo¿e. Czego potrzebujesz?}
+{421}{}{Ta. Myœlê, ¿e tak.  Czego potrzebujesz?}
 {422}{}{Nie, muszê uratowaæ moj¹ wioskê. Mo¿e innym razem.}
 {430}{}{Nie mia³em jeszcze okazji zbadaæ z³otego gekona. Potrzebujê trochê materia³u do badañ. Zbierz 10 skór z³otego gekona i przynieœ je tutaj? Na pewno znajdê tu coœ godnego twojego trudu.}
 {431}{}{Nie ma problemu. Wrócê jak tylko je zbiorê.}
@@ -115,13 +114,13 @@
 {483}{}{Szukam pracy. Masz coœ?}
 {484}{}{Sk¹d masz sprzêt?}
 {490}{}{Masz te skóry, o które ciê prosi³em?}
-{491}{}{Tak, proszê.}
+{491}{}{Tak, oto on.}
 {492}{}{Nie, jeszcze nie.}
 {500}{}{Cudownie! Wyœmienicie! Niech no zobaczê...aaa tak, nadaj¹ siê! A teraz, zrobisz jeszcze coœ dla mnie?}
 {501}{}{Tak, jeœli masz jeszcze coœ.}
 {502}{}{Nie teraz. Czeœæ.}
 {510}{}{Dobrze, wiêc s³uchaj. Mimo, ¿e wiêkszoœæ badañ prowadzê w magazynach, to od czasu do czasu muszê wejœæ do g³ównego budynku. Ale jest tam problem z oœwietleniem. Napraw je dla mnie, abym móg³ wejœæ do budynku AOŒ.}
-{511}{}{¯aden problem.}
+{511}{}{Nie ma sprawy.}
 {512}{}{Nie mam teraz na to czasu.}
 {513}{}{Ju¿ zrobione! Na tablicy z bezpiecznikami by³o trochê luŸnych kabli wiêc...}
 {520}{}{Pokonuj¹c moich wojowników, uda³o ci siê dowieœæ swojej wartoœci. Proponujê ci pracê dla mnie.}
@@ -129,8 +128,8 @@
 {522}{}{Dziêki, ale nie. Do widzenia.}
 {530}{}{Oœwietlenie naprawione?}
 {531}{}{Tak, tak, tak, nie muszê znaæ szczegó³ów. Dziêkujê. Ale mam jeszcze jedno zadanie dla ciebie.}
-{532}{}{Co takiego?}
-{533}{}{Nie, ci¹gle nad tym pracujê.}
+{532}{}{Co to takiego?}
+{533}{}{Nie, wci¹¿ nad tym pracujê.}
 {540}{}{Eksperymentujê z serum maj¹cym zwiêkszaæ zrêcznoœæ i spostrzegawczoœæ ludzi, aby pomóc im prze¿yæ w dzisiejszym brutalnym œwiecie. Pozwolisz, ¿e przetestujê je na tobie?}
 {541}{}{Có¿...chyba tak, w koñcu co z³ego mo¿e siê staæ?}
 {550}{}{Nawet sobie nie wyobra¿asz...yyy to znaczy jakby posz³o coœ nie tak... A teraz nie ruszaj siê przez chwilê, to nie bêdzie bola³o! Chyba.}
@@ -143,19 +142,18 @@
 {581}{}{Tak zrobiê. Do widzenia.}
 {590}{}{Pomo¿esz mi wreszcie czy nie?}
 {591}{}{Tak pomogê ci. Wrócê jak przywrócê zasilanie.}
-{592}{}{Nie, przykro mi.}
+{592}{}{Nie.}
 {600}{}{Przepraszam, ale w tej chwili nie mogê dla ciebie nic wiêcej zrobiæ. Nie mam te¿ ju¿ ¿adnych zadañ. Dziêki za twoj¹ pomoc.}
 {601}{}{W takim razie ¿egnaj.}
 {602}{}{Tak, by³o trochê luŸnych przewodów, no i trzeba te¿ by³o...}
 {603}{}{NIE! Co robisz?}
-
 {700}{}{Czekaj, czekaj! Jesteœ czêœci¹ oryginalnego personelu?! Ale, musia³byœ mieæ co najmniej 200 lat!}
 {701}{}{W pewnym sensie, to prawda. Urodzi³em siê dok³adnie 202 lata temu. Oczywiœcie, nie móg³bym tak d³ugo ¿yæ w "normalny" sposób.}
 {702}{}{Mów dalej. S³ucham.}
 {703}{}{Kiedy wybuch³a wojna, ja, tak samo jak i pozostali naukowcy zostaliœmy zamro¿eni w komorach kriogenicznych. Przekazaliœmy kontrolê nad oœrodkiem w rêce Hologramów i robotów, a póŸniej weszliœmy do hibernatorów, ¿eby przetrwaæ w ten sposób najgorsze.}
 {704}{}{Ale, wojna zakoñczy³a siê wiele lat temu.}
 {705}{}{To prawda. Zostaliœmy odmro¿eni 90 lat temu, tylko po to ¿eby zobaczyæ jak to miejsce zosta³o zdewastowane. Wiêkszoœæ naukowców wróci³a do swoich przerwanych badañ, po prostu nie wiedz¹c co robiæ.}
-{706}{}{[DALEJ]}
+{706}{}{[KONTYNUUJ]}
 {707}{}{Nie mog³em uwierzyæ w ich naukow¹ krótkowzrocznoœæ... w ich ra¿¹cy brak wyobraŸni! A przecie¿ nadarzy³a siê okazja do zrobienia rzeczy niezwyk³ych. Mieliœmy szansê uczyniæ œwiat wed³ug naszego pomys³u. To smutne, ale moi koledzy zap³acili za swój brak wizji...}
 {708}{}{Zabi³eœ ich!?}
 {709}{}{To zrozumia³e.}
@@ -181,37 +179,28 @@
 {729}{}{Wiesz co, jesteœ pokrêcony. Czas pokazaæ ci jak JA eksperymentujê na ludziach. Czas umieraæ.}
 {730}{}{I co, taka sytuacja ci odpowiada? Mam na myœli to, ¿e zosta³eœ tu sam?}
 {731}{}{Co jeszcze chcesz us³yszeæ?}
-
 {800}{}{W³aœciwie, poczekaj chwilê. Wygl¹dasz na poszukiwacza przygód. Twoje umiejêtnoœci mog¹ mi siê przydaæ.}
-{801}{}{Jasne. W czym mogê pomóc?}
-{802}{}{Nie, dziêki. Czeœæ.}
+{801}{}{Jasne. Czego potrzebujesz?}
+{802}{}{Dziêki, ale nie. Do widzenia.}
 {803}{}{Dobrze, zbiera³em próbki na jednym z moich miejsc i wygl¹da na to, ¿e zapomnia³em jednego z moich narzêdzi. Normalnie sam bym to za³atwi³, ale jestem w tej chwili bardzo zajêty, a w dodatku nie pamiêtam gdzie je zostawi³em. W ka¿dym razie, id¹c na pó³nocny-zachód od tego budynku trafisz do miejsca, w którym zosta³o. Dla ciebie to powinno byæ ³atwe zadanie.}
 {804}{}{Przyniosê je.}
 {805}{}{Nie interesuje mnie to. Czeœæ.}
 {806}{}{Czekaj. Na pewno nie chcesz mi wyœwiadczyæ drobnej przys³ógi?}
-
 {810}{}{Wyœmienicie! A teraz muszê wracaæ do pracy. [Do siebie.] Wszystko idzie zgodnie z planem.}
-{811}{}{[GOTOWE]}
-
+{811}{}{[dalej]}
 {820}{}{Trudno. Có¿, muszê wracaæ do pracy. [Do siebie.] Prawie ciê mia³em. Gdzie ja teraz znajdê nastêpny obiekt do badañ.}
-{821}{}{[GOTOWE]}
-
+{821}{}{[dalej]}
 {830}{}{[Wygl¹da na zaskoczonego.] Co do ...?!}
 {831}{}{Ci¹gle szukam.}
 {832}{}{Proszê, zgubione narzêdzie. Faktycznie ³atwizna.}
 {833}{}{Co to mia³o byæ, chcia³eœ mnie zabiæ? To by³ labirynt pe³en zmutowanych potworów. To nie by³a zwyk³a proœba odzyskania zguby, prawda?}
-
 {840}{}{Co?! Oddaj mi to! [Wyrywa ci z rêki znalezione przez ciebie narzêdzie.] Jak ci siê uda³o..., a z reszt¹ nieistotne. Trzeba bêdzie nad tym popracowaæ...}
 {841}{}{[Ignorujesz zachowanie mê¿czyzny.] Proszê bardzo, gdybyœ jeszcze czegoœ potrzebowa³ daj mi znaæ. Czeœæ.}
- 
 {850}{}{To nie twój interes. [Wyrywa ci z rêki znalezione przez ciebie narzêdzie.] A teraz wynoœ siê st¹d. Mam coœ do zrobienia. [Odwraca siê od ciebie, mamrocz¹c coœ pod nosem.]}
-{851}{}{A co mnie to... Czeœæ.}
+{851}{}{Dobra, dobra. Czeœæ.}
 {852}{}{A wiêc jednak. Próbowa³eœ mnie zabiæ, wiêc zamierzam ci siê odwdziêczyæ. Przygotuj siê na œmieræ!}
- 
 {860}{}{Yyy, tak, oczywiœcie. Wiêc zabieraj siê za to.}
-{861}{}{[GOTOWE]}
-
+{861}{}{[dalej]}
 {900}{}{[Mamrocze w niezadowoleniu.]}
 {901}{}{[Do siebie.] By³em pewny, ¿e nie wróci.}
-
 {1000}{}{Zwracasz Doktorowi jego zapomniane narzêdzie.}

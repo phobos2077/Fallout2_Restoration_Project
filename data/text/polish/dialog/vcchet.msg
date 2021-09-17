@@ -16,12 +16,12 @@
 {115}{}{Daj mi papiery ³owcy niewolników.}
 {116}{}{Wpisuj, ¿e zabijam dzieci.}
 {117}{}{Nic takiego... po prostu obni¿ moj¹ karmê o 100.}
-{118}{}{Niewa¿ne. Chodzi³o mi o coœ innego...}
+{118}{}{Niewa¿ne. Mam pytanie...}
 {119}{}{Nie, niczego.}
-{120}{}{Kogo?}
+{120}{}{Kim?}
 {121}{}{Marcusa.}
 {122}{}{Lenny'ego.}
 {123}{}{Vica.}
 {124}{}{Myrona.}
 {125}{}{Nikogo. Mam inne plany.}
-{126}{}{Niewa¿ne. Trzymaj siê.}
+{126}{}{Niewa¿ne. Czeœæ.}

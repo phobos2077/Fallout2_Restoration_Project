@@ -2,14 +2,14 @@
 {101}{}{Widzisz Gorisa, uczonego.}
 {102}{}{Widzisz humanoidaln¹ postaæ ubran¹ w habit z kapturem i d³ugimi rêkawami. W jego postawie jest coœ nienaturalnego, ale nie masz pewnoœci, co dok³adnie.}
 {103}{}{Witaj, jestem Goris. Nie poznajê ciê - jesteœ tu od niedawna?}
-{104}{}{Ja} # 213
+{104}{}{Ja}
 {105}{}{Ja iœæ.}
 {106}{}{Tak, a bo co?}
-{107}{}{Witaj. Jestem} # 214
+{107}{}{Witaj. Jestem}
 {108}{}{Witaj Gorisie. Gruthar powiedzia³, ¿e warto do ciebie zajrzeæ. On chyba myœli, ¿e jesteœ cz³owiekiem, który zna odpowiedzi na wiele pytañ.}
-{109}{}{Mogê zadaæ ci kilka pytañ?}
-{110}{}{Wybacz, muszê iœæ.}
-{111}{}{Mi³o mi ciê poznaæ,} # 215
+{109}{}{Czy mogê zadaæ ci kilka pytañ?}
+{110}{}{Przepraszam, muszê ju¿ iœæ.}
+{111}{}{Mi³o mi ciê widzieæ,}
 {112}{}{Wiêc rozmawia³eœ ju¿ z Grutharem. Jego opinia o mnie jest raczej przesadna. W rzeczywistoœci nie wiem nawet po³owy tego, co jemu siê wydaje. Poza tym...}
 {113}{}{A wiêc jesteœ z zewn¹trz! Widzia³em kilkoro z was. Niektórzy zostaj¹ tu, w Krypcie, ale ty wygl¹dasz inaczej. Sprawiasz wra¿enie kogoœ bardziej "wyroœniêtego", jeœli wiesz, co mam na myœli. Za³o¿ê siê, ¿e znasz wiele miejsc i masz na koncie wiele sukcesów. Mam racjê?}
 {114}{}{Uch... "wyroœniêtego"?}
@@ -17,12 +17,12 @@
 {116}{}{Wybacz, ale chyba ju¿ pójdê.}
 {117}{}{Tak, zdarzy³o mi siê kilka przygód. Wiesz co, gdybyœ odpowiedzia³ mi na kilka pytañ, móg³byœ w zamian us³yszeæ ode mnie co nieco o moich przygodach.}
 {118}{}{Nie twój interes.}
-{119}{}{Czy bêdziesz mia³ coœ przeciwko, jeœli zadam ci kilka pytañ?}
+{119}{}{Mogê ci zadaæ jeszcze parê pytañ?}
 {120}{}{Umowa stoi! Z chêci¹ wys³ucham wszystkiego, co mi powiesz.}
 {121}{}{Poza tym nie móg³bym odmówiæ ¿adnemu z przyjació³ Gruthara.}
-{122}{}{Co pragniesz wiedzieæ?}
+{122}{}{Co chcesz wiedzieæ?}
 {123}{}{Co tutaj robisz?}
-{124}{}{Czy jesteœ tu wiêŸniem?}
+{124}{}{Jesteœ wiêŸniem?}
 {125}{}{Od jak dawna tu jesteœ?}
 {126}{}{Co mo¿esz mi powiedzieæ o tutejszych szponach œmierci?}
 {127}{}{Czy wiesz, co sta³o siê z ludŸmi, którzy ¿yli w tej Krypcie wczeœniej?}
@@ -73,7 +73,7 @@
 {172}{}{Dotrzyma³em swojej czêœci umowy i odpowiedzia³em na wszystkie twoje pytania. A teraz mo¿e, zgodnie z obietnic¹, opowiesz mi kilka historii o swoich przygodach?}
 {173}{}{Z przyjemnoœci¹. Bardzo mi³o mi siê z tob¹ rozmawia.}
 {174}{}{Obietnic¹? Jak¹ obietnic¹?}
-{175}{}{Jasne, pewnie.}
+{175}{}{Jasne.}
 {176}{}{[Goris zastanawia siê, a ty masz wra¿enie, ¿e podlegasz szczegó³owemu badaniu] Podró¿owanie z tob¹ by³oby dla mnie zaszczytem!}
 {177}{}{[Goris zastanawia siê, a ty masz wra¿enie, ¿e podlegasz szczegó³owemu badaniu] Przykro mi, ale nie s¹dzê ¿ebyœmy wyznawali te same idea³y. Wspólne przedsiêwziêcie nie by³oby w naszym interesie.}
 {178}{}{dobra, przegra³eœ.}
@@ -85,7 +85,7 @@
 {184}{}{}
 {185}{}{Jasne, wiesz, obie¿yœwiat... ktoœ wykszta³cony... ktoœ doœwiadczony... nie masz pojêcia, o czym mówiê, prawda? }
 {186}{}{Jedzenie wyroœniête, nie ja.}
-{187}{}{Ja ju¿ iœæ.}
+{187}{}{Moja iœæ ju¿}
 {188}{}{Och hmm. Twoje IQ jest byæ mo¿e mniejsze ni¿ twój rozmiar buta, ale z pewnoœci¹ masz w sobie coœ, co pozwoli³o ci prze¿yæ tak d³ugo... no dobra, mo¿e tak. Ja chce iœæ st¹d. Ja chce chodziæ z ty. Dobrze?}
 {189}{}{Och hmm. Twoje IQ jest byæ mo¿e mniejsze ni¿ twój rozmiar buta, ale z pewnoœci¹ masz w sobie coœ, co pozwoli³o ci prze¿yæ tak d³ugo... to musi byæ ten g³ówny w¹tek, który w tobie wyczuwam. A zreszt¹. Do widzenia.}
 {190}{}{Uch... dobra.}
@@ -102,7 +102,7 @@
 {201}{}{Uch... ja zgubiæ. Ja iœæ.}
 {202}{}{Tak tylko wpadam przelotem. Na razie.}
 {203}{}{Hej, szukam towarzysza podró¿y. Co ty na to?}
-{204}{}{Co mogê dla ciebie zrobiæ,} # 216
+{204}{}{Co mogê dla ciebie zrobiæ,}
 {205}{}{Ty z³y! Czemu nie mówi?}
 {206}{}{Jesteœ szponem œmierci? Czy jest jakiœ powód, dla którego nie wspomnia³eœ mi o tym?}
 {207}{}{Jak to powiedzieæ... z³y ty zabiæ, nie rozmawiaæ. Ja nie mówiæ ty ¿eby ty widzi ja dobry. Nie zabiæ ja. Mo¿e ja zostaæ ty?}
@@ -111,68 +111,59 @@
 {210}{}{Dobra, ty zostaæ.}
 {211}{}{Przykro mi, ale nie lubiê jak siê mnie oszukuje. Powinieneœ odejœæ.}
 {212}{}{Rozumiem, dlaczego odczu³eœ koniecznoœæ ukrycia swojej to¿samoœci. Myœlê, ¿e mo¿emy wspó³pracowaæ, wiêc proszê ciê, abyœ zosta³ - ale Gorisie, nie oszukuj mnie wiêcej.}
-
-# the name usually precedes these lines
 {213}{}{. Ja tu niedawna.}
 {214}{}{. Tak, przybywam spoza Krypty.}
 {215}{}{.}
 {216}{}{?}
-
 {217}{}{Wiêc Enklawa zaczê³a m¹ciæ coœ z wirusem, czy coœ takiego i wstrzyknê³a go szponom œmierci. Ten wirus potrafi³ zmieniaæ ludzi w jakieœ nadrzêdne istoty, wiêc Enklawa chcia³a zobaczyæ, co zrobi³by szponom œmierci. No có¿, efektem by³y szpony œmierci tak inteligentne, ¿e zorientowa³y siê, ¿e ich przeznaczeniem jest niewola. A wiêc udawa³y g³upotê, a¿ uda³o im siê wydostaæ na wolnoœæ. I oto tu s¹!}
 {218}{}{Jestem przeciwko atakowaniu szponów œmierci.}
-
 {219}{}{Nagle poczu³em, ¿e moje stado ma k³opoty. Przykro mi, ¿e ciê opuszczam, ale muszê dowiedzieæ, siê co z mymi braæmi.}
-{220}{}{Dobrze.}
+{220}{}{W porz¹dku.}
 {221}{}{Kamery bezpieczeñstwa zarejestrowa³y wszystko, co tu siê sta³o. Lepiej pójdŸ to zobaczyæ.}
-
 {222}{}{Widzisz szarego szpona œmierci. To Goris.}
 {223}{}{Widzisz humanoidaln¹ postaæ ubran¹ w habit z kapturem i d³ugimi rêkawami. To Goris.}
-
-#specific party messages
-{1064}{}{Ty staæ blisko.}
-{1065}{}{Ty nie iœæ daleko.}
-{1066}{}{Ty za blisko. Suñ siê dalej.}
-{1073}{}{Trzymaj siê blisko mnie.}
-{1074}{}{Nie oddalaj siê zbytnio.}
-{1075}{}{Powinniœmy siê trochê rozsun¹æ.}
-{1001}{}{Ty lecz ty.}
-{1002}{}{Ty czekaæ. Ja wróciæ i zabraæ.}
-{1003}{}{Uch... tera ¿adna broñ. Dobra?}
-{1167}{}{Ja myœli ty musi ruszaæ inaczej.}
-{1008}{}{Ty Sz'mieræ? Czemu ty nie mówi?}
-{1009}{}{Ja ju¿.}
-{1010}{}{Powinieneœ siê teraz wyleczyæ.}
-{1011}{}{Chcê, ¿ebyœ zosta³ tu i na mnie poczeka³.}
-{1012}{}{Upewnij siê, ¿e nie masz pod rêk¹ ¿adnej broni, dobrze?}
-{1166}{}{Zmieñmy odleg³oœæ miêdzy nami.}
-{1016}{}{ChodŸmy.}
-{1017}{}{Jesteœ szponem œmierci? Czy jest jakiœ powód, dla którego nie wspomnia³eœ mi o tym wczeœniej?}
-{1018}{}{To na razie wszystko.}
 {1000}{}{Tak }
-{1156}{}{? }
+{1001}{}{Ty leczyæ siê.}
+{1002}{}{Ty tu czekaæ. Ja wróciæ i zabraæ.}
+{1003}{}{Uch... tera ¿adna broñ. Dobra?}
+{1008}{}{Ty Sz'mieræ? Czemu ty nie mówi?}
+{1009}{}{Wszystko.}
+{1010}{}{Myœlê, ¿e to dobra pora, ¿eby siê podleczyæ.}
+{1011}{}{Poczekaj tu a¿ wrócê, dobrze?}
+{1012}{}{Upewnij siê, ¿e nie masz pod rêk¹ ¿adnej broni, dobrze?}
+{1016}{}{Ruszajmy.}
+{1017}{}{Jesteœ szponem œmierci? Czy jest jakiœ powód, dla którego nie wspomnia³eœ mi o tym wczeœniej?}
+{1018}{}{To tyle. Przynajmniej na razie.}
 {1019}{}{Jestem zdrowy i mogê ruszaæ,}
 {1020}{}{Jestem prawie ca³kowicie wyleczony,}
 {1021}{}{Jestem z grubsza wyleczony, ale przyda³aby mi siê jakaœ pomoc, gdy tylko bêdziemy mieli ku temu okazjê,}
 {1022}{}{Uleczy³em siê na tyle, na ile mog³em, ale wci¹¿ jestem mocno poharatany,}
-{1157}{}{. }
 {1041}{}{Bêdê tu na ciebie czeka³, a¿ po mnie wrócisz,}
 {1060}{}{Postaram siê wygl¹daæ tak niepozornie, jak tylko siê da,}
+{1064}{}{Ty staæ blisko.}
+{1065}{}{Ty nie odchodziæ.}
+{1066}{}{Ty za blisko. Ty siê odsun¹æ.}
+{1073}{}{B¹dŸ blisko mnie.}
+{1074}{}{Nie odchodŸ za daleko.}
+{1075}{}{Musimy siê trochê rozsun¹æ.}
+{1078}{}{To tyle. Przynajmniej na razie.}
 {1079}{}{Bêdê siê trzyma³ tak blisko, jak tylko siê da,}
-{1078}{}{To na razie wszystko.}
 {1098}{}{Odsunê siê trochê, ¿eby daæ ci trochê oddechu,}
 {1117}{}{Bêdê siê ciebie trzymaæ, ale zrobiê ci trochê miejsca,}
 {1136}{}{Przykro mi,}
+{1137}{}{Wiele siê nauczy³em z naszych wspólnych podró¿y. Chêtnie pójdê z tob¹, }
+{1156}{}{? }
+{1157}{}{. }
 {1158}{}{, ale¿ masz ze sob¹ zbyt wiele osób. Poczekam tu, a¿ zwolni siê miejsce.}
 {1159}{}{Myœlê, ¿e lepiej poradzê sobie samodzielnie.}
 {1160}{}{Twoja nie kto ja chce byæ blisko ja iœæ.}
-{1137}{}{Wiele siê nauczy³em z naszych wspólnych podró¿y. Chêtnie pójdê z tob¹, }
 {1161}{}{Chcê pomœciæ mych braci.}
 {1162}{}{Dobrze. Zróbmy to.}
 {1163}{}{Mo¿e powinieneœ zrobiæ to na w³asn¹ rêkê.}
 {1164}{}{Ty racja my zabijaæ.}
 {1165}{}{Ty iœæ sam.}
-
-#added by killap - NPC info
+{1166}{}{Zmieñmy odleg³oœæ miêdzy nami.}
+{1167}{}{Ja myœli ty musi ruszaæ inaczej.}
 {2000}{}{Chyba mam z³aman¹ koñczynê. Niezbêdna bêdzie pomoc medyczna.}
 {2001}{}{S¹dzê, ¿e cierpiê z powodu napromieniowania. Czy masz mo¿e coœ, czym mo¿esz mi pomóc?}
 {2002}{}{S¹dzê, ¿e cierpiê z powodu zatrucia. Czy masz mo¿e coœ, czym mo¿esz mi pomóc?}

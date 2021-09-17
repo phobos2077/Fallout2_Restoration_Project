@@ -2,7 +2,6 @@
 {101}{}{To Harry, kierownik ds. rakiety.}
 {102}{}{Widzisz zabieganego, ³ysego mê¿czyznê.}
 {103}{}{Aaaa! Niewierni! Ratunku! Stra¿e!}
-
 {107}{}{Hej! Miêcho! Kim jesteœ? Co tutaj robisz?}
 {108}{}{Yy?}
 {109}{}{Mam list dla UKC-9. Gdzie mam go dostarczyæ?}
@@ -30,16 +29,18 @@
 {131}{}{Nic takiego. Na razie.}
 {132}{}{Nie chcemy wspó³pracowaæ, co? Stra¿e! Zabiæ intruza!}
 {133}{}{Twoi stra¿nicy s¹ ju¿ martwi.}
-{134}{}{ZejdŸ na dó³ do stra¿nicy i porozmawiaj z UKC-9. On ciê ju¿ odpowiednio pokieruje.}
-{135}{}{Dziêki, na razie.}
-
+{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{135}{}{Dziêki. Na razie.}
+{161}{}{. Tylko siê rozgl¹dam.}
+{162}{}{. Tylko siê rozgl¹dam.}
+{163}{}{. Tylko siê rozgl¹dam.}
 {170}{}{Dziecko, potrzebujê pomocy. Czy mo¿esz mi pomóc?}
 {171}{}{Wci¹¿ potrzebujê pomocy, dziecko. Czy mo¿esz mi pomóc?}
 {172}{}{Kim jesteœ?}
 {173}{}{Co tutaj robisz?}
 {174}{}{Mam kopie planów od Shi.}
 {175}{}{Mam plany latacza.}
-{176}{}{Shi maj¹ plany lataczy.}
+{176}{}{The Shi have the plans for the vertibird.}
 {177}{}{Co mogê dla ciebie zrobiæ?}
 {178}{}{Zapomnij, na razie.}
 {179}{}{Jestem Harry, UKC-5. Jestem gwiezdnym bratem odpowiedzialnym za rakietê kosmiczn¹. U¿yjemy jej do podró¿y na Quetzel.}
@@ -49,9 +50,9 @@
 {183}{}{Czy mogê spytaæ o coœ innego?}
 {184}{}{Rozumiem. Na razie.}
 {185}{}{Masz plany? Doskonale! Wiêc wszystko, czego teraz potrzebujemy, to paliwo! Shi maj¹ go pe³no. Zobacz, czy nie uda³oby ci siê trochê go do nas przekierowaæ. Powodzenia, rekrucie!}
-{186}{}{[GOTOWE]}
+{186}{}{[dalej]}
 {187}{}{Wiêc musisz je zdobyæ, prawda? A teraz przepraszam ciê - muszê dalej przygotowywaæ statek do naszej wiekopomnej wyprawy.}
-{188}{}{Mam plany lataczy.}
+{188}{}{Mam plany latacza.}
 {189}{}{Jasne.}
 {190}{}{Mamy ju¿ wszystko, czego potrzebujemy do podró¿y! Wspaniale! Teraz tylko musimy czekaæ na s³owo od UKC-9 - z pewnoœci¹ bêdzie chcia³ widzieæ ciebie z nami. IdŸ zrób, co jeszcze musisz uczyniæ - a wtedy wróæ i po³¹cz siê z nami i Gwiezdnym Ojcem!}
 {191}{}{Wiêc do zobaczenia!}
@@ -59,16 +60,10 @@
 {193}{}{Pamiêtaj, szukasz dla nas planów lataczy. Albo spróbuj poszukaæ u Shi, albo w tej starej bazie w Navarro.}
 {194}{}{Nikomu nie uda³o siê zdobyæ planów lataczy od Shi, ani z tej starej bazy w Navarro. Mo¿e jednak zmienisz zdanie co do pomocy nam?}
 {195}{}{Pamiêtaj, rekrucie! Znienawidzeni Shi maj¹ plany.}
-{196}{}{Mam plany lataczy.}
-{197}{}{Niewa¿ne.}
+{196}{}{Mam plany latacza.}
+{197}{}{Zapomnij o tym.}
 {198}{}{Dobrze, zrobiê to.}
 {199}{}{Wiesz, czego teraz nam potrzeba? Paliwa. I to du¿o. Shi maj¹ go trochê. Zobacz, czy uda ci siê je zdobyæ.}
 {200}{}{Pamiêtaj, ¿e zdobywasz paliwo do naszego wspania³ego statku.}
 {201}{}{Ach, w porz¹dku. Na razie.}
-
-{161}{}{. Tylko siê rozgl¹dam.}
-{162}{}{. Tylko siê rozgl¹dam.}
-{163}{}{. Tylko siê rozgl¹dam.}
-
-#added by killap
 {300}{}{Ktoœ prze³ama³ zabezpieczenia i nasze zapasy paliwa zosta³y wyczerpane. Jestem odrobinê zbyt zajêty, ¿eby teraz rozmawiaæ.}

@@ -81,7 +81,7 @@
 {180}{}{Certamente é. E eu lido com essas pessoas diariamente. Ai de mim!}
 {181}{}{Bem, eu tenho mais perguntas.}
 {182}{}{É, coitado de você. Tchau.}
-{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
+{183}{}{Você é certamente um destinatário digno do nosso combustível. Eu acredito que posso confiar em você com nossos segredos. Na sala de trás, você descobrirá que o campo de força para o grande computador foi desligado. Digite a senha "CSPDMSHR-Shih-huang-ti-X9372" e você estará conectado ao Computador do Imperador. O Imperador será capaz de direcionar nosso combustível para onde você precisar.}
 {184}{}{Obrigado.}
 {185}{}{Guardas! O inimigo está entre nós! Guardas!}
 {186}{}{Sério? Talvez você gostaria de virar a mesa sobre eles? Eu posso te prometer nossa ajuda se você concordar em matar o AHS-9.}

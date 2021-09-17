@@ -7,14 +7,14 @@
 {106}{}{Kto ojciec Sz'mierci?}
 {107}{}{Drzwi wygl¹da jak z³om. Co jest?}
 {108}{}{Kto zrobiæ pokój na gniazdo?}
-{109}{}{Ja ju¿ iœæ.}
+{109}{}{Moja iœæ ju¿}
 {110}{}{A wiêc to ty jesteœ matk¹ szponów œmierci?}
 {111}{}{Kto jest ojcem szponów œmierci?}
 {112}{}{Co siê sta³o z drzwiami? Wygl¹daj¹ jakby najlepsze dni mia³y ju¿ za sob¹.}
 {113}{}{Kto zbudowa³ tê wylêgarniê?}
-{114}{}{Bêdê ju¿ siê zbieraæ.}
+{114}{}{Lepiej ju¿ sobie pójdê.}
 {115}{}{Tak. W tej chwili jestem matk¹ stada. Kiedy z moich jaj wylêgn¹ siê potomkowie, przyjdzie kolej innych matek.}
-{116}{}{Dobra.}
+{116}{}{W porz¹dku.}
 {117}{}{Innych matek?}
 {118}{}{Rozumiem.}
 {119}{}{S¹ jeszcze inne matki?}
@@ -22,7 +22,7 @@
 {121}{}{Uch, ja rozumi.}
 {122}{}{Rozumiem.}
 {123}{}{Te jaja zosta³y zap³odnione przez Gruthara, przywódcê stada. To Gruthar decyduje, kto bêdzie siê kojarzyæ, a kto nie. Gruthar umocni nasze stado.}
-{124}{}{Uch, dobra.}
+{124}{}{Uhm, w porz¹dku.}
 {125}{}{Hmmm. Rozumiem. Hodowla selektywna w celu ulepszenia rasy.}
 {126}{}{To bolesne wspomnienie. W czasie mego snu zdradziecki cz³owiek wkrad³ siê tutaj i umieœci³ wœród jaj bombê. Na szczêœcie nie zachowywa³ siê tak cicho, gdy odchodzi³, wiêc obudzi³am siê i znalaz³am bombê. Nie by³o czasu, by w³aœciwie zaj¹æ siê tym urz¹dzeniem, wiêc rzuci³am je w stronê drzwi i umieœci³am siebie miêdzy nim a jajami. Jaja i ja prze¿yliœmy. Drzwi nie.}
 {127}{}{Co byæ z cz³owiek?}
@@ -33,12 +33,12 @@
 {132}{}{Mam jeszcze kilka pytañ.}
 {133}{}{Nazywa siê Matt i jest tu wiêŸniem. Osobiœcie pragnê³am jego œmierci - ale Gruthar na to nie pozwoli³. Nie widzê w tym ¿adnej m¹droœci, ale s³owo Gruthara jest prawem, którego siê dotrzymuje. Uwa¿aj na siebie, gdy bêdziesz rozmawiaæ z tym cz³owiekiem. Nie mo¿na mu ufaæ!}
 {134}{}{Jak on przejœæ obok stra¿nik?}
-{135}{}{Dobra.}
-{136}{}{Jak uda³o siê tej osobie przejœæ obok stra¿nika?}
-{137}{}{Dobra.}
+{135}{}{W porz¹dku.}
+{136}{}{Jak tej osobie uda³o siê przejœæ obok stra¿nika?}
+{137}{}{W porz¹dku.}
 {138}{}{Stra¿nik zosta³ dodany po tym wydarzeniu. Wczeœniej mieliœmy wiêcej zaufania. Teraz jesteœmy ostro¿niejsi.}
-{139}{}{Co staæ cz³owiek?}
-{140}{}{Ja kuma.}
+{139}{}{Co byæ z cz³owiek?}
+{140}{}{Moja kapuje.}
 {141}{}{Co siê sta³o z t¹ osob¹?}
 {142}{}{Rozumiem.}
 {143}{}{Wybudowaliœmy tê jaskiniê, a ludzki przyjaciel zamontowa³ drzwi. Zdoby³ czêœci z osady na pó³nocny wschód st¹d.}

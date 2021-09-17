@@ -1,10 +1,10 @@
 {100}{}{Widzisz Curtisa.}
 {101}{}{Widzisz ma³ego, ciemnow³osego ch³opca. Wygl¹da jakby niedawno p³aka³.}
 {102}{}{Widzisz Curtisa.}
-{103}{}{Widzisz ma³ego, ciemnow³osego ch³opca. Wygl¹da jakby przed chwila p³aka³.}
+{103}{}{Widzisz ma³ego, ciemnow³osego ch³opca. Wygl¹da jakby niedawno p³aka³.}
 {104}{}{Widzisz ma³ego, ciemnow³osego ch³opca. Wygl¹da na weselszego nie poprzednio.}
 {105}{}{Widzisz Curtisa.}
-{106}{}{Widzisz ma³ego, ciemnow³osego ch³opca. Wygl¹da na weselszego ni¿ poprzednio.}
+{106}{}{Widzisz ma³ego, ciemnow³osego ch³opca. Wygl¹da na weselszego nie poprzednio.}
 {107}{}{*Smark*}
 {108}{}{Napije siê pan herbatki, Panie Nixon?}
 {109}{}{"Och tak. Z przyjemnoœci¹, Curtisie."}
@@ -24,7 +24,7 @@
 {123}{}{Jeju! Metalowy piesek wygl¹da jakby chcia³ mnie zjeœæ.}
 {124}{}{Zgubi³em Pana Nixona. Nie pamiêtam, gdzie go zostawi³em.}
 {125}{}{Teeeen Nikson?}
-{126}{}{Spadam}
+{126}{}{OdejdŸ bez s³owa.}
 {127}{}{To jest Pan Nixon? On te¿ ciê szuka³.}
 {128}{}{Oto i twój Pan Nixon. Ale wiesz co? Myœlê, ¿e Pan Nixon powinien zostaæ ukarany za to, ¿e próbowa³ ci uciec. Myœlê, ¿e powinien zapamiêtaæ, ¿e nie wolno uciekaæ Curtisowi. Dlatego najpierw... Wyrwê mu rêce, a potem....}
 {129}{}{No to ja mam wiedzieæ?}

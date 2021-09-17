@@ -36,7 +36,7 @@
 {135}{}{Jakoœ wydaje mi siê, ¿e wszystko to sobie zmyœli³eœ.}
 {136}{}{Yy, có¿, ee, widzê, ¿e z ciebie zajêty cz³owiek. Do zobaczenia póŸniej.}
 {137}{}{[Patrzy na ciebie] Mo¿e i to prawda jest. Mo¿e tak. No to oporz¹dŸ siê.}
-{138}{}{Dobrze, do widzenia.}
+{138}{}{Tak zrobiê. Do widzenia.}
 {139}{}{Mo¿e i tak. Ale tak czy owak pysznie ¿em siê ubawi³. Tu masz piwko, na mnie, za takie ³ykniêcie tego.}
 {140}{}{Dziêki. A teraz co tam mówi³eœ o tej s³odkiej nauce?}
 {141}{}{Nie wezmê od ciebie piwa. Wiem wiêcej, ni¿ móg³byœ mnie nauczyæ, stary pijaku. ¯egnam.}
@@ -61,5 +61,5 @@
 {160}{}{Dziêki. Wspomina³eœ coœ przedtem o sztuce?}
 {161}{}{Dziêki, John. Doceniam twoj¹ pomoc. Do zobaczenia.}
 {162}{}{Rzek³em by³em o piêœciarstwie. Reszta to by³a bujda. Ju¿li lepiej wróca do mojego kufelka. Miej szczêœcie.}
-{163}{}{Och, w porz¹dku. Dziêki, John. Do zobaczenia.}
+{163}{}{Och, w porz¹dku. Dziêki, John. Do widzenia.}
 {164}{}{John Sullivan pomóg³ ci polepszyæ twoje zdolnoœci walki wrêcz i broni¹ bia³¹.}

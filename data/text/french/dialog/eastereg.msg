@@ -88,7 +88,7 @@
 {1013}{}{Mouais c'est ça... Allez salut.}
 {1020}{}{Je peux changer ce qui est codé en hard dans la Source et changer le destin de l'univers tout entier ! Une légion entière de mes meilleures troupes de choc anti-bug t'attendent dans le reste de ton aventure. Je suis le maître du côté Obscur de la Source.}
 {1021}{}{Silence ! J'ai peut-être l'ai d'une vieille chaussette pourrie, mais il y a dans mon esprit les pouvoirs d'un Dieu ! En utilisant la Source, je maîtrise les éléments, le monde et je peux bidouiller tout ce qui existe. Et c'est Moi qui ai permis au démon Beth de dominer le monde des RPGs avec mes mods. Tout ce qui a pu suivre a été fait selon MES désirs.}
-{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
+{1022}{}{De la sauce ? Quel genre de sauce ? Tu veux dire que la cuisine est la clé pour contrôler l'univers ? Comme tu veux, chef.}
 {1023}{}{Ouais ouais. Bordel, t'es un genre de taré-mégalo c'est ça ? Allez moi j'me barre.}
 {1024}{}{Euh, d'accord. C'est super ! Bon, je dois aller... euh... arroser mes plantes...}
 {1030}{}{Espèce de fou ignorant. Ta trop grande confiance en toi est ta faiblesse, et ma foi en mes amis est... euh.. la mienne. [Il a l'air confus.] Hors de ma vue, vermine infecte !}

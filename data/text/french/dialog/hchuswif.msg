@@ -9,7 +9,7 @@
 {108}{}{<Phhhhhhhttttttt>}
 {109}{}{Zaius, à la mine, dit qu'il aura peut-être du travail pour moi le mois prochain.}
 {110}{}{Cet endroit est un vrai boxon ! Quand vas-tu te mettre à faire le ménage ?}
-{111}{}{You got a real smart mouth on ya', woman!}
+{111}{}{Tu as une vraie bouche intelligente, femme !}
 {112}{}{Je t'aime, belles gencives.}
 {113}{}{Tu veux t'en prendre une, femme ?}
 {140}{}{Fais-la toi-même ta tourte de merde, gros tas !}

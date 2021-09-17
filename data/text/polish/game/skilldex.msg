@@ -1,6 +1,3 @@
-#
-# Messages from skilldex.c
-#
 {100}{}{Umiejêtn.}
 {101}{}{Anuluj}
 {102}{}{Skradaj}
@@ -11,4 +8,3 @@
 {107}{}{Lecz}
 {108}{}{Nauka}
 {109}{}{Naprawa}
-

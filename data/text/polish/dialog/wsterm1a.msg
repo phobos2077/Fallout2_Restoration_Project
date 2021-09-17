@@ -1,10 +1,6 @@
 {100}{}{Widzisz w³¹czony terminal.}
 {101}{}{Przygl¹daj¹c siê uwa¿nie terminalowi dostrzegasz napis: "I*tel Inside".}
 {102}{}{Nie mo¿esz przeczytaæ tego, co jest wyœwietlone na monitorze.}
-
-#NPC is unable to read what is on the monitor
-{200}{}{ nie mo¿e przeczytaæ tego, co jest wyœwietlone na monitorze.}
-
 {103}{}{G³ówne Zasilanie = Od³¹czone                                        
  Zasilanie Zapasowe = Pod³¹czone                                 
  Ponowne inicjowanie Programu Ochrony                          
@@ -18,7 +14,7 @@
 {106}{}{Otwórz Mówiê Ja}
 {107}{}{Sierra}
 {108}{}{Armagedon}
-{109}{}{W³am siê do systemu ochrony.}
+{109}{}{W³am siê do systemu bezpieczeñstwa.}
 {110}{}{Nie mam pojêcia. WyjdŸ.}
 {113}{}{Pola Si³owe Nieaktywne - Poziom 1}
 {115}{}{WyjdŸ.}
@@ -41,7 +37,7 @@
 {131}{}{W³am siê do systemu ochrony.}
 {132}{}{Nie mam pojêcia. WyjdŸ.}
 {133}{}{[Naciœniêcie <Ctrl><Alt><C> powoduje wykrzaczenie programu. Masz nadziejê, ¿e reszta zabezpieczeñ bêdzie równie ³atwa do pokonania.]}
-{134}{}{WyjdŸ.}
+{134}{}{Wyjœcie.}
 {135}{}{Naruszenie Bezpieczeñstwa na Poziomie 1                         
  Uruchamianie Protokó³u Bezpieczeñstwa                         
  Dostêp do tego terminala zostaje odciêty                      
@@ -50,7 +46,7 @@
 {137}{}{To nic nie da. Ten program jest dla ciebie po prostu zbyt skomplikowany, nie zrozumiesz go.}
 {138}{}{Twoja nieudolnoœæ spowodowa³a uruchomienie alarmu.}
 {139}{}{WyjdŸ.}
-
+{200}{}{ nie mo¿e przeczytaæ tego, co jest wyœwietlone na monitorze.}
 {300}{}{Komputer wydaje siê mieæ jakiœ rodzaj mechanizmu obronnego.}
 {301}{}{Ulegasz pora¿eniu za }
 {302}{}{ ulega pora¿eniu za }

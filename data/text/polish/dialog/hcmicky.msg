@@ -7,7 +7,7 @@
 {106}{}{Nie skaaaarby dziiisiaj.}
 {107}{}{Ta. Moja chcieæ pomóc.}
 {108}{}{Kto twoja?}
-{109}{}{Pa pa.}
+{109}{}{Bywaj.}
 {110}{}{Nie, nie dzisiaj. Je¿eli jednak natrafiê na jakieœ, natychmiast ciê o nich powiadomiê.}
 {111}{}{No có¿, owszem. S¹dzê, ¿e jesteœ doskona³ym partnerem do, nazwijmy to, "joint venture".}
 {112}{}{Jak siê nazywasz?}

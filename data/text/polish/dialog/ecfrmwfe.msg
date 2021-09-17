@@ -1,5 +1,5 @@
 {100}{}{To mój dom.}
-{101}{}{Przeklêci bandyci.}
+{101}{}{Cholerni bandyci.}
 {102}{}{Zostaw nas w spokoju!}
 {103}{}{Nienawidzê bandytów.}
 {104}{}{Nie mamy nic, co moglibyœcie ukraœæ.}

@@ -1,8 +1,6 @@
 {100}{}{Widzisz ma³ego urwipo³cia.}
 {101}{}{Widzisz m³odego Melchiora.}
-
 {150}{}{Wygl¹da na weso³ego, pogodnego ch³opca.}
-
 {200}{}{Dzieñ dobry! Jestem Melchior Junior.}
 {201}{}{Mój tato jest górnikiem. Nazywa siê Melchior, zupe³nie jak ja.}
 {202}{}{Mój tato jest dobrym górnikiem, ale chce zostaæ czarodziejem.}

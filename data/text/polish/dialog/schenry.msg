@@ -22,7 +22,7 @@
 {121}{}{Och, to kompletnie nowa dziedzina - bardzo interesuj¹ca. W tej chwili w³aœnie pracujê nad kilkoma projektami - radykalnie nowe podejœcie do problemu mutantów. Widzisz, to jest naprawdê ca³kiem proste - mutacje nie s¹ wyrokiem. Da siê je wyleczyæ.}
 {122}{}{Oczywiœcie moi jednowymiarowi koledzy chc¹ rozwi¹zaæ ca³y ten problem w najbrutalniejszy mo¿liwy sposób. Oczyszczanie, tak. Przyznajê, ¿e pojawi³y siê na pocz¹tku pewne problemy, ale teraz ju¿ je wszystkie rozwi¹za³em... Tak s¹dzê.}
 {123}{}{}
-{124}{}{Dalej}
+{124}{}{Kontynuuj.}
 {125}{}{Po prawdzie, to mo¿esz mi pomóc w przeprowadzeniu testu w warunkach zewnêtrznych. Interesuje ciê to?}
 {126}{}{W warunkach zewnêtrznych? To znaczy?}
 {127}{}{Nie ma mowy.}
@@ -31,9 +31,9 @@
 {130}{}{To ju¿ za wiele, idê st¹d.}
 {131}{}{Ty? O nie - serum nie jest wystarczaj¹co oczyszczone, aby da³o sobie radê z tak niskim poziomem mutacji. To musi zostaæ u¿yte na supermutancie. Wstrzyknij serum supermutantowi, a potem wróæ do mnie i podaj wyniki. Jak rozumiem Broken Hills jest ich pe³ne.}
 {132}{}{Co ono robi?}
-{133}{}{A co jest w tym dla mnie?}
+{133}{}{Co bêdê z tego mieæ?}
 {134}{}{Có¿, powinno spowodowaæ regres w matrycy genetycznej, co prowadzi do destabilizacji i asymilacji wadliwego DNA, pozostawiaj¹c organizm wolny od potencja³u mutagennego. Gdybym wiedzia³ na pewno, to nie potrzebowa³bym ciebie do przetestowania tego.}
-{135}{}{A co jest w tym dla mnie?}
+{135}{}{Co bêdê z tego mieæ?}
 {136}{}{WeŸmiesz udzia³ w wa¿nych eksperymencie, tak naprawdê, to najwa¿niejszym, naukowym, och, masz na myœli pieni¹dze. Có¿, mam Cyber-Brytana Mk. II, Model Ochrony Osobistej, którego przywioz³em ze sob¹. S¹dzê, ¿e móg³bym go uruchomiæ do czasu twojego powrotu. Czy to wystarczy?}
 {137}{}{Cyber-Brytan? Jasne, czemu nie.}
 {138}{}{Pomiesza³o ci siê w g³owie. Jesteœ kompletnym œwirem.}

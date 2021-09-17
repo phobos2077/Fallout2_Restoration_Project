@@ -1,9 +1,9 @@
 {100}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Intensywnie wpatruje siê w ziemiê.}
 {101}{}{Widzisz niewolnika Kryptopolis.}
-{102}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Jego oczy intensywnie wpatruj¹ siê w ziemiê.}
+{102}{}{Widzisz silnego mê¿czyznê w roboczym ubraniu. Intensywnie wpatruje siê w ziemiê.}
 {103}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Intensywnie wpatruje siê w ziemiê.}
 {104}{}{Widzisz niewolnika Kryptopolis.}
-{105}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Jej oczy intensywnie wpatruj¹ siê w ziemiê.}
+{105}{}{Widzisz zdrowo wygl¹daj¹c¹ kobietê ubran¹ w robocze ciuchy. Intensywnie wpatruje siê w ziemiê.}
 {106}{}{S³yszeliœmy o twoich wspania³ych wyczynach. To zadziwiaj¹ce, ¿e chcia³o ci siê ryzykowaæ ¿ycie dla Kryptopolis... i ca³ego œwiata.}
 {107}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
 {108}{}{Chcielibyœmy podarowaæ ci coœ, za twoje niesamowite wyczyny. Nie mamy jednak nic... prócz naszych szczerych podziêkowañ.}

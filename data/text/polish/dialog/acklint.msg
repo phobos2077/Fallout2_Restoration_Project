@@ -1,15 +1,15 @@
 {100}{}{Widzisz Klinta, swego wspó³plemieñca.}
 {101}{}{Widzisz Klinta.}
-{102}{}{Widzisz m³odego, bardzo umiêœnionego cz³owieka, który sprawia wra¿enie bardzo pewnego siebie.}
+{102}{}{Widzisz m³odego, potê¿nie zbudowanego i budz¹cego respekt mê¿czyznê.}
 {103}{}{Witaj, }
 {104}{}{. Nie mo¿esz przejœæ, twoja próba jeszcze siê nie zakoñczy³a.}
 {105}{}{Uch...}
 {106}{}{Muszê wróciæ do wioski.}
-{107}{}{Chcê zadaæ ci kilka pytañ.}
+{107}{}{Chcê ciê o coœ zapytaæ.}
 {108}{}{Dobra, idê przejœæ tê próbê.}
 {109}{}{[westchnienie] }
 {110}{}{. IdŸ do œwi¹tyni. Ukoñcz próbê. Nie wracaj tu wiêcej! To rozkaz Starszej. IdŸ!}
-{111}{}{Moja iœæ.}
+{111}{}{Ja iœæ.}
 {112}{}{Wybacz mi, }
 {113}{}{, ale nie mogê ciê przepuœciæ. Jeœli chcesz wróciæ do wioski, musisz ukoñczyæ próbê, która czeka na ciebie w œwi¹tyni.}
 {114}{}{Rozumiem. Do zobaczenia.}

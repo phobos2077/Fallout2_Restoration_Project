@@ -2,7 +2,7 @@
 {101}{}{You see Skeeter, the Ghoul Gadgeteer.}
 {102}{}{You see a grubby but intelligent-looking ghoul, wearing greasy overalls with a micrometer
  sticking out of his pocket.}
-{110}{}{Just don't touch anything -- you might hurt yourself.}
+{110}{}{Apenas não toque em nada - você pode se machucar.}
 {111}{}{I thought tribals were just unsophisticated.}
 {112}{}{You can watch. You might learn something, but I doubt it.}
 {113}{}{Well, ain't you something else.}

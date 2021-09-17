@@ -12,7 +12,7 @@
 {111}{}{[Wrzeszczy] Mamusiu! Mamusiu!}
 {112}{}{Jestem Sandy. Nie jestem prawdziwym kotem. Lubiê go tylko udawaæ.}
 {113}{}{Ja te¿ udawaæ. Ja zapyta pytania?}
-{114}{}{Ja sobie iœæ.}
+{114}{}{Moja ju¿ iœæ.}
 {115}{}{Rozumiem. Mogê zadaæ ci kilka pytañ?}
 {116}{}{Dobra, ju¿ zmykam.}
 {117}{}{O co chcesz mnie zapytaæ?}
@@ -23,9 +23,9 @@
 {122}{}{Czy ktoœ zmusza ciê, ¿ebyœ tu zosta³a?}
 {123}{}{Podoba ci siê tutaj?}
 {124}{}{Czy jesteœ tu bezpieczna?}
-{125}{}{Niewa¿ne. Na razie.}
+{125}{}{Niewa¿ne. ¯egnaj.}
 {126}{}{Jasne. Moja mama ci¹gle mówi mi, gdzie mogê chodziæ, a gdzie nie. Mówi mi, gdzie mogê siê bawiæ i kiedy jeœæ, i kiedy iœæ spaæ, i kiedy robiæ siusiu, i kiedy iœæ do szko³y, i w ogóle. Myœlê, ¿e to nie jest w porz¹dku, ¿e ona mo¿e robiæ, co tylko chce, a ja ci¹gle muszê robiæ to, co ona mi ka¿e.}
-{127}{}{Dobra.}
+{127}{}{W porz¹dku.}
 {128}{}{Ja musi ju¿ iœæ.}
 {129}{}{Rozumiem.}
 {130}{}{Chyba wiem ju¿ wszystko. Na razie.}

@@ -35,7 +35,7 @@
 {134}{}{Voilà... Ca devrait aller. Quoi de mieux ?}
 {135}{}{Améliorer ? Améliorer quoi ? Je n'arrête pas, je ne pense pas pouvoir améliorer quoi que ce soit de plus.}
 {136}{}{Je réessaierai plus tard. Au revoir.}
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
+{137}{powr6_a}{Etre Elu, hein ? Eh bien, pardonne-moi de ne pas faire de génuflexion, mais j'ai autre chose à faire que d'écouter tes conneries, votre altesse.}
 {138}{}{Agenouille-toi devant moi et je t'épargnerai... Ca alors, ça sonne bien.}
 {139}{}{Je n'insisterai pas pour la génuflexion. Embrasse ma bague, ça devrait suffire.}
 {140}{}{Euh, je voulais dire que j'étais la personne *élue* pour réparer l'unité de communications. On dirait que plus rien ne fonctionne.}

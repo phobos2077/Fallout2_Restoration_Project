@@ -1,6 +1,6 @@
 {100}{}{Terminal komputerowy.}
 {101}{}{Terminal Kontroli Zasobów Biologicznych.}
-{102}{}{Nie mo¿esz odczytaæ tego, co wyœwietla monitor.}
+{102}{}{Nie mo¿esz odczytaæ, co pokazuje monitor.}
 {103}{}{Zak³ad Przechowywania Zasobów Biologicznych                   
  --Menu G³ówne--                                                    
  Pobierz                                                                
@@ -90,7 +90,7 @@
 {164}{}{Wróæ do G³ównego Menu Pobierania}
 {165}{}{Spróbuj póŸniej.}
 {166}{}{[Na skutek niedorzecznoœci twoich dzia³añ wszystkie mózgi umieraj¹. Mo¿e podniesienie temperatury do 98.6 stopni Celsjusza by³o lekk¹ przesad¹. Nauki œcis³e nigdy nie by³y twoj¹ mocn¹ stron¹.]}
-{167}{}{WyjdŸ.}
+{167}{}{Wyjœcie.}
 {168}{}{[Metoda prób i b³êdów jest chyba twoj¹ g³ówn¹ metod¹ rozwi¹zywania tego problemu. Udaje ci siê uratowaæ jeden z czterech mózgów. Zreszt¹ nauka jest dla frajerów.]}
 {169}{}{Pobierz Mózg}
 {170}{}{[U¿ywaj¹c prawa uœredniania udaje ci siê uratowaæ piêædziesi¹t procent mózgów. Naukowcem to ty nie jesteœ.]}
@@ -164,5 +164,4 @@
 {232}{}{[Mimo i¿ na w³asne oczy widzisz puste pojemniki, odczyty wskazuj¹, ¿e s¹ one pe³ne. Widocznie w programie jest jakiœ b³¹d. Zreszt¹ kto by siê tym przejmowa³.]}
 {233}{}{Wróæ do Menu G³ównego}
 {234}{}{WyjdŸ. }
-
 {300}{}{ nie mo¿e odczytaæ tego, co wyœwietla monitor.}

@@ -67,7 +67,7 @@
 {166}{}{Non.}
 {167}{}{Formatage en cours... Formatage en cours... Formatage terminé. Réinitialisation nécessaire pour valider l'installation. Fermeture en cours. Fermeture en cours... Terminée...}
 {168}{}{[Terminé]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{169}{}{Données à rechercher : - Programme botanique - Programme génétique - Programme Xeno.}
 {170}{}{Programme botanique.}
 {171}{}{Programme génétique.}
 {172}{}{Programme Xeno.}
@@ -80,7 +80,7 @@
 {179}{}{Programme botanique.}
 {180}{}{Programme Xeno.}
 {181}{}{[Retour]}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{"Le sujet sur lequel nous avions espéré établir une série d'expériences significatives a disparu, vraisemblablement détruit ou volé par les Hubologistes. Les recherches qui ont suivi se sont révélées infructueuses. Jusqu'à l'obtention de nouveaux spécimens, cette base de données restera inopérationnelle" - Docteur Sheng.}
 {183}{}{Programme botanique.}
 {184}{}{Programme génétique.}
 {185}{}{[Retour]}
@@ -101,7 +101,7 @@
 {200}{}{[Terminé]}
 {201}{}{Base de données de Physique : Exploration - Théorie}
 {202}{}{Exploration.}
-{203}{}{Theory.}
+{203}{}{Théorie.}
 {204}{}{[Retour]}
 {205}{}{"Grâce à la récente acquisition des plans des hélicos, le projet de création d'une machine volante a fait un immense pas en avant. Nous espérons mettre au point un prototype en état de marche d'ici la fin de l'année et entamer la production en masse de ces véhicules d'ici deux ans " - Docteur Wong}
 {206}{}{[Copier les plans et revenir en arrière]}

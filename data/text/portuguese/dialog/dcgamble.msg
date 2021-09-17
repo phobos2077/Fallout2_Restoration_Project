@@ -66,7 +66,7 @@
 {514}{}{Não é mau.}
 {515}{}{Como foi que isso aconteceu?}
 {516}{}{Oops.}
-{517}{}{No whammies, no whammies. Stop!}
+{517}{}{Sem brincadeiras, sem brincadeiras. Pare!}
 {518}{}{Bem, o jogo faz jus ao seu nome.}
 {519}{}{Eu só preciso de uma grande vitória.}
 {520}{}{Figuras!}

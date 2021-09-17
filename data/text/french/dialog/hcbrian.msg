@@ -26,7 +26,7 @@
 {125}{}{Si cette machine est alimentée avec des barres d'uranium, tu peux fournir de l'énergie non seulement à cette ville MAIS AUSSI à New Reno, sans qu'on remarque quoi que ce soit. Maintenant fais péter.}
 {126}{}{Mais... mais... il souffre.}
 {127}{}{Alors tu ne peux pas faire quelques petits réglages ?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
+{128}{}{[Il regarde ses boutons d'un air maussade et dit d'une petite voix.] Tu es sans coeur.}
 {129}{}{Ouaip. Salut !}
 {130}{}{Hé ! Ne touche à rien ! Ce matériel est fragile ! Dehors ! Tout de suite ! Allez, rentre chez toi !!}
 {131}{}{Ooooh ! Boutooon !}

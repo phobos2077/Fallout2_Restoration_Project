@@ -1,7 +1,6 @@
 {100}{}{Pewna bardzo pijana osoba. [Ma tabliczkê: "Mogê pracowaæ za jedzenie"]}
 {101}{}{Widzisz Karla.}
 {102}{}{Jest on tak brudny, i¿ mo¿na dostrzec jakieœ dzikie kwiaty rosn¹ce w jego w³osach.}
-
 {150}{}{Hej, masz piwo.}
 {151}{}{Hej, masz butelkê czegoœ mocniejszego.}
 {152}{}{Hej, masz Nuka-Colê.}
@@ -23,15 +22,15 @@
 {169}{}{Och, jaka mi³a i hojna osoba. [hik] Jak Karl mo¿e ci dziœ pomóc? [hik] [Zdejmuje swoj¹ czapkê i wyci¹ga przed siebie d³oñ]}
 {170}{}{Masz. Tu 100$.}
 {173}{}{Wybacz, ale nie mam niczego dla ciebie. Do widzenia.}
-{174}{}{Wiesz mo¿e, gdzie móg³bym odnaleŸæ GECK?}
+{174}{}{Wiesz mo¿e, gdzie znajdê GECKa?}
 {175}{}{Wspomnia³eœ coœ wczeœniej o ogrodzie. Opowiedz mi o tym wiêcej.}
-{178}{}{Moja iœæ.}
+{178}{}{Ja iœæ.}
 {179}{}{Hej, sknero! [hik] Daj spokój, wiem, ¿e masz jakieœ pieni¹dze... [hik] Jakieœ drobne... [hik] cokolwiek, cokolwiek! Oka¿ trochê wspó³czucia.}
 {180}{}{Masz. Tu 25$.}
 {184}{}{Masz. Tu 1$.}
 {185}{}{Tu pin¹dz.}
 {186}{}{Nie pin¹dz.}
-{187}{}{Czego sobie ¿yczysz?}
+{187}{}{Czego chcesz?}
 {188}{}{[Powtórz Karlowi, co powiedzia³ Jo.]}
 {189}{}{Karl, duchy... one s¹ wszêdzie. Patrz, widzê tam jednego!}
 {190}{}{Gibba gibba.}
@@ -91,11 +90,8 @@
 {253}{}{Hrrrrrrrrrrrrrrrrr.}
 {254}{}{Hrrrrrrrrrrrrrrrrrrrrrrrrr.}
 {255}{}{*Hhr* *Khhh* *Hrrr*}
-
-{260}{}{O jeeej. Pieni¹dze musia³y mi siê gdzieœ zapodziaæ po drodze. Oto }
+{260}{}{O jeej. Pieni¹dze musia³y mi siê gdzieœ zapodziaæ po drodze. Proszê, oto }
 {261}{}{$. To wszystko co mam.}
 {262}{}{O jeeej. Pieni¹dze musia³y mi siê gdzieœ zapodziaæ po drodze. Przepraszam bardzo, i tak by³o fajnie.}
-
 {300}{}{Wracam do domu, dziêki tobie!}
-
 {400}{}{Uda³o ci siê odes³aæ Karla z powrotem do Modoc.}

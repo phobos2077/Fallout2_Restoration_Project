@@ -47,7 +47,7 @@
 {301}{}{Ralliez les Mal Lavés ! Exterminez les camelots !}
 {302}{}{Mort au camelot !}
 {303}{}{C'est pour menacer les existences des gens !}
-{304}{}{Now you will die, Grim Reaper.}
+{304}{}{Maintenant, vous allez mourir.}
 {305}{}{Vous retournez en-dessous de tout !}
 {306}{}{Le génotype a besoin d'un peu de chlore.}
 {307}{}{Revanche !}
@@ -65,7 +65,7 @@
 {319}{}{Nous n'avons pas encore fini !}
 {320}{}{J'attends ce jour depuis trèèèès longtemps.}
 {400}{}{On ne me menace pas !}
-{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
+{401}{}{J'en suis sûre ! Vous ne frapperiez pas une fille, n'est-ce pas ?}
 {402}{}{'La vengeance est un plat qui se mange froid.'}
 {403}{}{I'm Buffy... you're toast.}
 {405}{}{Personne ne menace Doombot !}

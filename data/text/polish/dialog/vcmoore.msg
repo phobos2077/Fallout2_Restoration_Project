@@ -5,20 +5,20 @@
 {104}{}{Uurmph}
 {105}{}{Ech}
 {106}{}{Potrzebie}
-{107}{}{Zmiataj}
+{107}{}{OdejdŸ bez s³owa.}
 {108}{}{Nie, raczej nie.}
 {109}{}{A ty jesteœ...?}
 {110}{}{Nie. I nie muszê. ¯egnam. }
 {111}{}{S³owo... To s³owo to EGOIZM. Co otrzymamy po dodaniu arogancji? Kryptopolis! Przy ca³ej swojej praworz¹dnoœci, gloryfikuje handel niewolnikami.}
 {112}{}{Czemu tu mieszkasz, skoro ci siê tu nie podoba?}
 {113}{}{Amen, bracie!}
-{114}{}{Chyba mam doœæ. ¯egnam.}
+{114}{}{Przykro mi, nie tym razem. Do zobaczenia.}
 {115}{}{Sprzedawaj szajbê komuœ innemu, kolego... Ja mam jej dosyæ.}
 {116}{}{Tak! }
 {117}{}{Nadszed³ CZAS us³yszeæ naszych braci, czekaj¹cych za murami i wpuœciæ ich! Jesteœmy w stanie ich wy¿ywiæ i utrzymaæ... Nie wolno nam siê bogaciæ, gdy jest tylu BIEDNYCH.}
 {118}{}{S³yszê ciê!}
 {119}{}{Nareszcie ktoœ tu mówi do rzeczy! Czemu inni musz¹ cierpieæ, skoro tu mo¿na im pomóc?}
-{120}{}{Mam doœæ. ¯egnam.}
+{120}{}{To mi wystarczy. ¯egnaj.}
 {121}{}{Gdy patrzê na ciebie, widzê SI£Ê. Widzê WIARÊ. Czy oczy mnie zwodz¹? Czy te¿ widz¹ pokrewn¹ duszê, która jest po mojej stronie?}
 {122}{}{A pewnie!}
 {123}{}{Tak! Wiem, ¿e ju¿ CZAS... Czas, by to miasto, zbudowane na grzechu i niewolnictwie, otworzy³o bramy dla wszystkich! }
@@ -81,7 +81,7 @@
 {180}{}{Mam pytanie: sk¹d w Kryptopolis niewolnicy? To podobno wolne miasto.}
 {181}{}{Chcê us³yszeæ s³owo, bracie!}
 {182}{}{To miasto zbudowano na grzechu i niewolnictwie, a ja chcê to naprawiæ!}
-{183}{}{Dzisiaj nic, dziêki.}
+{183}{}{Dziêki, ale dziœ nie skorzystam.}
 {184}{}{Wiem, ¿e staraj¹ siê o prawdê i sprawiedliwoœæ, a my nawet nie kiwamy palcem, by im pomóc.}
 {185}{}{Có¿ mo¿emy zrobiæ?}
 {186}{}{To brzmi jak zdrada.}
@@ -100,7 +100,7 @@
 {199}{}{Uurmph}
 {200}{}{Ech}
 {201}{}{Potrzebie}
-{202}{}{Zmiataj}
+{202}{}{OdejdŸ bez s³owa.}
 {203}{}{Tylko udajê ³owcê, ¿eby zdobyæ informacje.}
 {204}{}{Có¿, chcê o coœ zapytaæ: sk¹d w Kryptopolis niewolnicy? To podobno wolne miasto.}
 {205}{}{Szlachetny cel uœwiêca nawet najgorsze œrodki.}
@@ -109,7 +109,7 @@
 {208}{}{Udaj¹c ³owcê, nie jest siê lepszym ni¿ bêd¹c nim. OdejdŸ.}
 {209}{}{Ale teraz rozumiem swoj¹ pomy³kê!}
 {210}{}{Doœæ tego. Czas ciê rozkroiæ i zobaczyæ, co masz w œrodku...}
-{211}{}{W porz¹dku.}
+{211}{}{No to trudno.}
 {212}{}{Nie mam o czym rozmawiaæ z kimœ w tak marnym stanie. OdejdŸ.}
 {213}{}{Chcesz marnego stanu? POKA¯E ci marny stan...}
 {214}{}{Rozumiem ju¿ moje b³êdy. Chcê za nie odpokutowaæ i us³yszeæ s³owo!}

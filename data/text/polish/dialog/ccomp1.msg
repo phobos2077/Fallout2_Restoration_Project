@@ -1,23 +1,18 @@
 {100}{}{Widzisz technika.}
 {101}{}{Widzisz technika komputerowego.}
 {102}{}{Widzisz osobê ubran¹ w laboratoryjny fartuch.}
-
 {103}{}{Dzieñ dobry, ¿o³nierzu.}
 {104}{}{Niczego nie dotykaj!}
 {105}{}{Szeregowym wstêp wzbroniony!}
-
-{106}{}{A gdzie masz swój uniform? }
-{107}{}{Lepiej siê przebierz. Zbrojownia jest tam, po lewej.}
-{108}{}{Lepiej nie w³ócz siê tu bez uniformu. IdŸ do zaopatrzenia.}
-
-{109}{}{Czego tu do cholery... Alarm! Intruzi!}
-{110}{}{Nieprzyjaciel! Alarm!}
-{111}{}{Nieprzyjaciele! W³¹czcie alarm!}
-
-{112}{}{Cholera! W³¹czaæ systemy awaryjne!}
-{113}{}{Zamykaæ tajne projekty!}
-{114}{}{Zabezpieczyæ system! W³¹czyæ wszystkie has³a dostêpu.}
-
+{106}{}{Gdzie masz swój uniform? }
+{107}{}{Lepiej siê ubierz. Zbrojownia mieœci siê na koñcu korytarza, po lewej.}
+{108}{}{Chodz¹c bez munduru du¿o ryzykujesz. Lepiej zg³oœ siê do zaopatrzenia.}
+{109}{}{Kim wy u licha jesteœcie... Alarm! Intruzi!}
+{110}{}{Zostaliœmy zinfiltrowani! Alarm!}
+{111}{}{Liczni intruzi! Og³osiæ alarm!}
+{112}{}{Cholera. Za³adowaæ kopiê rezerwow¹.}
+{113}{}{Zamkn¹æ wszystkie zastrze¿one procesy.}
+{114}{}{Zabezpieczyæ system i uaktywniæ wszystkie has³a.}
 {115}{}{Jestem naukowcem, nie ¿o³nierzem!}
-{116}{}{W¹ski koniec z diod¹ laserow¹ skierowaæ w stronê wroga I nacisn¹æ spust...}
-{117}{}{Pomocy! Ratunku! Do laboratorium komputerowego!}
+{116}{}{Ostry koniec z diod¹ laserow¹ skierowaæ na przeciwnika. Nacisn¹æ przycisk.}
+{117}{}{Pomocy! Pomocy! Zagro¿enie w pracowni komputerowej!}

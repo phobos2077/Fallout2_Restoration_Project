@@ -22,7 +22,7 @@
 {121}{}{Potrzebujê paru chwil, ¿eby siê przygotowaæ.}
 {122}{}{Droga Dziecka Przeznaczenia nie jest prost¹ œcie¿k¹, }
 {123}{}{. W swoim ¿yciu napotkasz wiele wyzwañ, a najtrudniejszymi z nich bêd¹ te, w których staniesz naprzeciw swoich w³asnych towarzyszy. Nadejd¹ czasy, gdy dyplomacja i uprzejmoœæ oka¿¹ siê bezu¿yteczne i trzeba bêdzie podnieœæ na drugiego rêkê. To wyzwanie przygotowuje ciê na spotkanie twarz¹ w twarz z innym cz³owiekiem oraz potrzebê spojrzenia mu prosto w oczy i zdania sobie sprawy, ¿e byæ mo¿e trzeba bêdzie go zabiæ.}
-{124}{}{Dobra.}
+{124}{}{W porz¹dku.}
 {125}{}{Rozumiem.}
 {126}{}{Nie, musisz mnie tylko pokonaæ. Gdy nadejdzie stosowny czas, zakoñczymy walkê.}
 {127}{}{Moja rozumie.}
@@ -33,7 +33,7 @@
 {132}{}{Rozumiem.}
 {133}{}{Doskonale. Czy mo¿emy zaczynaæ?}
 {134}{}{Moja gotowa.}
-{135}{}{Nie, ja siê najpierw przygotowaæ.}
+{135}{}{Nie, moja musi najpierw siê przygotuje.}
 {136}{}{Zaczynajmy.}
 {137}{}{Nie, potrzebujê chwilkê, ¿eby siê przygotowaæ.}
 {138}{}{Dobrze. Wróæ tu i daj mi znaæ, kiedy siê przygotujesz.}
@@ -68,13 +68,10 @@
 {170}{}{Hmm... rozumiem twój punkt widzenia. Jednak¿e i tak musimy walczyæ. Po prostu postaram siê nie zrobiæ ci zbyt du¿ej krzywdy.}
 {171}{}{Dziêki! Zobaczymy siê w wiosce.}
 {172}{}{Rozumiem.}
-
 {200}{}{Nie przypominam sobie naszej ostatniej walki, Dziecko Przeznaczenia. Nigdy nie przestanê zastanawiaæ siê, jak uda³o ci siê mnie omin¹æ.}
 {201}{}{Masz jêzyk z najczystszego srebra, Dziecko. Twoje umiejêtnoœci w pos³ugiwaniu siê s³owem otworz¹ ci jeszcze wiele drzwi.}
-
 {300}{}{Ja tobie równie¿, Dziecko. Niech duchy poprowadz¹ ciê w twojej misji.}
 {301}{}{Dziêki, Cameronie.}
-
 {302}{}{Dziecko, muszê niestety zauwa¿yæ, ¿e brak ci umiejêtnoœci bojowych. Z mojego doœwiadczenia wynika, ¿e nie zawsze bêdziesz w stanie zapewniæ sobie bezpieczeñstwo z pomoc¹ sprytu i s³ów. Za twoim pozwoleniem nauczê ciê kilku rzeczy, które, jak s¹dzê, oka¿¹ siê bardzo przydatne.}
 {303}{}{Tak, ty uczyæ.}
 {304}{}{Nie, moja nie musi.}
@@ -84,18 +81,14 @@
 {308}{}{Ja dziêkuje Cameron.}
 {309}{}{Dziêkujê, Cameronie. Zapamiêtam twoje s³owa.}
 {310}{}{Niech tak bêdzie. Wróæ, kiedy zmienisz zdanie.}
-{311}{}{Moja dziêkuje Cameron.}
+{311}{}{Ja dziêkuje Cameron.}
 {312}{}{Dziêkujê, Cameronie. Zapamiêtam twoj¹ propozycjê.}
-
-#added by killap - expansion
 {400}{}{Czy myœla³eœ kiedykolwiek o zrezygnowaniu ze stanowiska Ostatniej Próby w Œwi¹tyni? Mam na myœl, ¿e jest to doœæ ryzykowne.}
 {401}{}{¯ycie to ci¹g³e ryzyko, Dziecko Przeznaczenia. Ka¿dego œwitu, podejmujemy ryzyko samym wyjœciem z namiotu na przywitanie nieznanego dnia. Czemu pytasz?}
 {402}{}{Bez powodu. Porozmawiamy póŸniej, Cameron.}
 {403}{}{Có¿, pytam ze wzglêdu na to co siê sta³o z twoim poprzednikiem, no wiesz, podczas walki z... tym no, "Tym-Którego-Imienia-Nie-Wypowiadamy".}
-
 {410}{}{A tak, to by³ czarny dzieñ, nasze plemiê straci³o dwóch dobrych ludzi: jednego cia³em, drugiego duchem. Ale plugawe czyny tamtego dnia nie s¹ moim zmartwieniem. Mój czas nadejdzie kiedy zdecyduj¹ o tym Bogowie.}
 {411}{}{I obyœmy d³ugo czekali na ten dzieñ. Do zobaczenia, Cameron.}
 {412}{}{W ogóle zamierzaj¹ jeszcze kogoœ pos³aæ do Œwi¹tyni? Czy nie zosta³o ju¿ zdecydowane, ¿e ja jestem Dzieckiem Przeznaczenia?}
-
 {420}{}{Zawszê bêdzie potrzeba testowania si³y naszych ludzi. A pe³nienie tej funkcji jest dla mnie wielkim zaszczytem.}
 {421}{}{W porz¹dku, do zobaczenia Cameron.}

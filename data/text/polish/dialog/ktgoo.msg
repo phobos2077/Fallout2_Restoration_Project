@@ -1,14 +1,5 @@
-#############################################################
-#he following lines are for describing the NPC when
-#lanced and and examined.
-#############################################################
 {100}{}{Widzisz Toksyczny Szlam.}
-{101}{}{To tylko Toksyczny Szlam.}
-
-#############################################################
-#he following lines are floaters for citizens
-#############################################################
-
+{101}{}{Widzisz Toksyczny Szlam.}
 {110}{}{A³a! Pali jak kwasem!}
 {120}{}{W tych starych kaloszach nie muszê siê ju¿ obawiaæ truj¹cego szlamu.}
 {130}{}{Twoje obuwie w³aœnie siê rozpuœci³o.}

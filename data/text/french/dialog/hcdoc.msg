@@ -100,7 +100,7 @@
 {199}{}{Umm...}
 {200}{}{Merci. A une prochaine !}
 {201}{}{Qui est blessé ? Bon, mettez-vous-en file indienne et je vais m'occuper de vous tous.}
-{202}{}{One more thing...}
+{202}{}{Encore une chose...}
 {203}{}{Merci ! Salut !}
 {204}{}{Pas grand-chose en fait. Désolé, mais quand je me concentre pour soigner quelqu'un, je ne m'occupe en général pas de ses secrets intimes.}
 {205}{}{Oh. Acceptes-tu de répondre à d'autres questions ?}

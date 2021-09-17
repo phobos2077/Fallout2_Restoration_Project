@@ -1,6 +1,5 @@
 {100}{}{Widzisz potwornie zniekszta³conego "cz³owieka".}
 {101}{}{Widzisz, jak siê okazuje nieszczêsnego cz³owieka z groteskowymi cechami zwierzêcymi. Wygl¹da na g³odnego.}
-
 {200}{}{Urg!}
 {201}{}{G³oodnyy!}
 {202}{}{*warczy*}

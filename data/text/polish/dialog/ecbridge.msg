@@ -1,18 +1,18 @@
 {100}{}{Widzisz Stra¿nika Mostu Œmierci.}
 {101}{}{Widzisz starca o dzikim spojrzeniu, i skrzecz¹cym g³osie. Ma zmierzwion¹ brodê, a jego lewe oko chyba chce wyskoczyæ z oczodo³u.}
 {102}{}{Widzisz Stra¿nika Mostu Œmierci.}
-{103}{}{Widzisz starca o dzikim spojrzeniu, i skrzecz¹cym g³osie. Ma zmierzwion¹ brodê, a jego lewe oko chyba zaraz wyskoczy z oczodo³u.}
+{103}{}{Widzisz starca o dzikim spojrzeniu, i skrzecz¹cym g³osie. Ma zmierzwion¹ brodê, a jego lewe oko chyba chce wyskoczyæ z oczodo³u.}
 {104}{}{Stój! Kto chce przekroczyæ Œmierci Most, odpowie na pytania trzy nim drug¹ stronê zobaczy.}
 {105}{}{Cee... Deeee... Eee... efff... Ggiee}
-{106}{}{OdejdŸ.}
-{107}{}{Niech bêdzie.}
+{106}{}{Odcz³ap.}
+{107}{}{Dobrze.}
 {108}{}{Zadaj pytanie, Stra¿niku Mostu. Ja siê nie bojê.}
 {109}{}{Mo¿e lepiej st¹d pójdê.}
-{110}{}{Jak siê nazywasz?}
+{110}{}{Jak masz na imiê?}
 {111}{}{Hhhh.... Iii... Jot... Kaaaa... elll...}
 {112}{}{?}
-{113}{}{Ja} #continue at 172
-{114}{}{OdejdŸ.}
+{113}{}{Ja}
+{114}{}{Odcz³ap.}
 {115}{}{Z Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakunin}
@@ -20,11 +20,11 @@
 {119}{}{Richard Grey}
 {120}{}{Boguœ Linda}
 {121}{}{Dziecko Przeznaczenia!}
-{122}{}{Mo¿e lepiej bêdzie, jak sobie pójdê.}
+{122}{}{Mo¿e lepiej st¹d pójdê.}
 {123}{}{Jaki jest twój cel?}
 {124}{}{Mmmm... nnnn... ooo... peee}
 {125}{}{GEK. Arro-yo}
-{126}{}{(OdejdŸ)}
+{126}{}{(OdejdŸ jakby nigdy nic)}
 {127}{}{OdnaleŸæ œwiêtego GECKa.}
 {128}{}{ZnaleŸæ sposób na ocalenie mojej wioski.}
 {129}{}{OdnaleŸæ moje plemiê.}
@@ -35,7 +35,7 @@
 {134}{}{Który z BNów z Fallout 1 pojawi³ siê w czêœci drugiej?}
 {135}{}{Hmm MPEC?}
 {136}{}{D³uga czeœæ?}
-{137}{}{(OdejdŸ)}
+{137}{}{(OdejdŸ jakby nigdy nic)}
 {138}{}{Co...?! Tego nie wiem!}
 {139}{}{Uch... Ian?}
 {140}{}{Uch... Dogmeat?}
@@ -68,17 +68,14 @@
 {167}{}{Och, dziêkujê. Dziêkujê bardzo.}
 {168}{}{Tego nie wiem!}
 {169}{}{Gracz zosta³ zdezintegrowany.}
-{170}{}{He-he.}
+{170}{}{He, he.}
 {171}{}{Chyba muszê pilnie zapisaæ stan gry.}
-{1171}{}{Uh, yyy. Ja powinien zapisaæ stan gry w nowy slot.}
-
 {172}{}{Jak ty na imiê?}
-
 {173}{}{Nigdy nie pozwalaj¹ mi zadawaæ fajnych pytañ.}
 {174}{}{Muszê to omówiæ z moim agentem.}
 {175}{}{Zawsze powtarzam, ¿e doœæ mam ju¿ tych ról epizodycznych.}
 {176}{}{Jak ja mam niby zostaæ gwiazd¹, graj¹c tylko w nisko bud¿etowych filmach I grach komputerowych?}
 {177}{}{Hmmm... Chyba powinienem zmieniæ bran¿ê. Mo¿e zostanê akwizytorem?}
 {178}{}{Podobno w akwizycji mo¿na zrobiæ niez³¹ kasê.}
-
 {200}{}{AAAAAAAAACH!}
+{1171}{}{Uh, yyy. Ja powinien zapisaæ stan gry w nowy slot.}

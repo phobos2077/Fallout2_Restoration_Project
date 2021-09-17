@@ -255,7 +255,7 @@ pouco mais fora da cidade fazem minha fama.}
 {715}{}{Thank you! Bye.}
 {716}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
 {717}{}{I'm on it.}
-{718}{}{Umm... yeah, maybe later.}
+{718}{}{Eh, talvez mais tarde. Tchau.}
 {719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
 {720}{}{Very well, I shall help you.}
 {721}{}{No, screw you rat brain! I've had enough of this. Time to die!}

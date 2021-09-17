@@ -1,6 +1,3 @@
-#
-# Inventory messages from inventry.c
-#
 {0}{}{SI}
 {1}{}{PE}
 {2}{}{WT}
@@ -8,8 +5,8 @@
 {4}{}{IN}
 {5}{}{ZR}
 {6}{}{SZ}
-{7}{}{PW}
-{8}{}{Klasa Panc.}
+{7}{}{Punkty wytrzym.}
+{8}{}{Klasa pancerza}
 {9}{}{  Konw.}
 {10}{}{  Laser}
 {11}{}{  Ogieñ}
@@ -34,5 +31,4 @@
 {30}{}{Waga.}
 {31}{}{Nie jesteœ w stanie unieœæ a¿ tyle.}
 {32}{}{Jest tego za du¿o, ¿eby móc to unieœæ.}
-
 {50}{}{Nie znajdujesz noc wartego zabrania.}

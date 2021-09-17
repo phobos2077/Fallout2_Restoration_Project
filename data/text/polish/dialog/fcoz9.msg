@@ -18,16 +18,16 @@
 {117}{}{Agga gaga gigi gugagu! [Och, dziêki bogu. Szukam mojego ludu. Muszê dostaæ siê za wielka wodê.]}
 {118}{}{Pe³ne pory! [Có¿, dziêkujê za twój czas. Muszê ju¿ wyruszaæ. Mi³o mi by³o z tob¹ rozmawiaæ.]}
 {119}{}{Nie rozumiem s³owa z tego, co mówisz. Zapytaj mo¿e Juana lub Vikki o oœwiecenie.}
-{120}{}{Kuje!}
+{120}{}{Dzienki!}
 {121}{}{Oczywiœcie, moje dziecko. Szeregowanie oczyœci³o twoje podstawowe neurodyny i ukierunkowa³o je z moimi oraz ze Szprychami Wielkiego Ko³a. Czego sobie ¿yczysz?}
 {122}{}{Agga gaga gigi gugagu! [Och, dziêki bogu. Szukam mojego ludu. Muszê dostaæ siê za wielka wodê.]}
 {123}{}{J-j-j-ózio. [Nic, dziêkujê. Po prostu to mi³e potrafiæ siê z tob¹ porozumieæ. Do zobaczenia!]}
 {124}{}{Je¿eli zgodzisz siê wyœwiadczyæ mi przys³ugê, bêdê móg³ ci pomóc, moje dziecko.}
 {125}{}{Ojk? [Có¿ to takiego? Chêtnie us³u¿ê ci pomoc¹.]}
-{126}{}{Ne!}
+{126}{}{Nie!}
 {127}{}{Mój przeciwnik, Cesarz miasta Shi, powoduje, ¿e moje ¿ycie staje siê ¿a³osne. Chcê, ¿eby jego ¿ycie ju¿ siê zakoñczy³o. W podziêce dopilnujê, aby twoja osoba znalaz³a siê tam, gdzie musi.}
 {128}{}{Ajs! [Zrobiê to.]}
-{129}{}{Ne!}
+{129}{}{Nie!}
 {130}{}{Daj mi znaæ, je¿eli zmienisz zdanie. Pamiêtaj jednak, ¿e mogê byæ jedyn¹ osob¹, przez któr¹ mo¿esz dotrzeæ do rodziny.}
 {131}{}{OK. [Jaka jest ta przys³uga?]}
 {132}{}{Didzeruu! [Dziêkujê, ale wolê nie byæ niczyim d³u¿nikiem. ¯egnaj!]}
@@ -55,9 +55,9 @@
 {154}{}{To, moje dziecko, musisz odkryæ samodzielnie. Popytaj dooko³a, a odnajdziesz prawdê.}
 {155}{}{Bardzo mi to pomog³o. Mam inne pytania.}
 {156}{}{Sk¹d ty to wszystko wiesz?}
-{157}{}{Jak chcesz. Na razie.}
+{157}{}{Dobra, dobra. Czeœæ.}
 {158}{}{Dziecko, jestem UKC-9. Widzê rzeczy, które przenikaj¹ do rzeczywistego œwiata. Czy masz jeszcze inne pytania, czy mogê powróciæ do moich medytacji?}
-{159}{}{Jeszcze tylko kilka.}
+{159}{}{Wiêcej pytañ.}
 {160}{}{Wróæ do swoich medytacji. Nie mam wiêcej pytañ.}
 {161}{}{Cesarz i jego s³udzy zostali zabici?}
 {162}{}{Tak.}
@@ -73,7 +73,7 @@
 {172}{}{Jak chcesz.}
 {173}{}{Ach, list od mojego agenta operacyjnego. Szkoda, ¿e nazywa siebie "Oœwiecon¹" - to tylko wskazuje na to, jak bardzo ni¹ nie jest. Masz moj¹ wdziêcznoœæ.}
 {174}{}{Nie ma sprawy. Mam jednak jedno, dwa pytania.}
-{175}{}{Wspaniale. Do zobaczenia.}
+{175}{}{Wspaniale. Na razie.}
 {176}{}{Tak, moje dziecko?}
 {177}{}{Kiedy odlatuje statek kosmiczny?}
 {178}{}{Czy masz dla mnie jakieœ zadania?}
@@ -83,7 +83,7 @@
 {182}{}{Jasne, szefie. Na ra.}
 {183}{}{Raczej nie.}
 {184}{}{Poszukaj Badgera, którego obrzydliwa obecnoœæ trzyma w kupie tych ¿a³osnych w³óczêgów z tankowca. Usuñ tê skazê z naszego miasta. Gdy ju¿ to zrobisz, porozmawiaj z UKC-9.}
-{185}{}{Jasne szefie. Na razie.}
+{185}{}{Jasne, szefie. Na ra.}
 {186}{}{Raczej nie.}
 {187}{}{Chyba nie da³em do zrozumienia, ¿e jest to moja PROŒBA, dziecko. Zabij go!}
 {188}{}{Nie.}
@@ -92,9 +92,9 @@
 {191}{}{No spróbuj.}
 {192}{}{Chwileczkê, jednak chyba to zrobiê.}
 {193}{}{Za póŸno, miêcho. Okaza³o siê, ¿e nie mo¿na ci ufaæ. Giñ!}
-{194}{}{[Dalej]}
+{194}{}{[dalej]}
 {195}{}{Moje dziecko, s¹ rzeczy na niebie i ziemi, których nie mo¿esz na razie znaæ. [Uœmiecha siê mi³o.]}
-{196}{}{W porz¹dku. Mam kilka innych pytañ.}
+{196}{}{Mam wiêcej pytañ.}
 {197}{}{Hmmm. Do zobaczenia.}
 {198}{}{ESS Quetzel wystartuje, gdy uk³ad gwiazd bêdzie odpowiedni.}
 {199}{}{O-oczywiœcie. Mam inne pytania.}
@@ -104,10 +104,10 @@
 {203}{}{Nie.}
 {204}{}{Nie, po prostu chcê, abyœ zgin¹³.}
 {205}{}{A wiêc oto moja propozycja: wróæ do Shi i wyeliminuj Kena Lee i Cesarza. Zap³acê ci wiêcej pieniêdzy, ni¿ kiedykolwiek ci siê œni³o.}
-{206}{}{Nie, nie s¹dze.}
+{206}{}{Nie, nie s¹dzê.}
 {207}{}{Umowa stoi, grubasie.}
 {208}{}{A wiêc idŸ i odci¹¿ ich cia³a od zagubionych dusz. Czekam na wiadomoœæ o sukcesie [Uœmiecha siê anielsko.]}
-{209}{}{Do zobaczenia.}
+{209}{}{Do widzenia.}
 {210}{}{Nie, zaczekaj. Chyba jednak wolê uwolniæ CIEBIE od problemów doczesnych.}
 {211}{}{Ach, moje dziecko, jak mo¿esz tak zejœæ ze œcie¿ki prawdy? Z twojej aury widzê, ¿e zamierzasz mnie zabiæ. Jestem gorzko zawiedziony. No có¿. Zaczynajmy.}
 {212}{}{Tak, zacznijmy. Giñ.}

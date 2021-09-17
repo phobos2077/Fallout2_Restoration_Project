@@ -7,14 +7,14 @@
 {106}{}{Zabawimy siê.}
 {107}{}{Wykoñczmy tê ofiarê!}
 {108}{}{Podziurawmy go.}
-{109}{}{Jestem gotowy.}
-{110}{}{Jazda!}
+{109}{}{Dobra, jestem gotowy do drogi.}
+{110}{}{No to walimy!}
 {111}{}{Podpalê to dziwad³o!}
 {112}{}{Nie lubiê zabijaæ przyg³upów.}
 {113}{}{Mo¿esz iœæ.}
 {114}{}{Ja tam nic nie widzia³em.}
 {115}{}{To nie tych droidów szukamy.}
-{116}{}{Nie zatrzymuj siê.}
+{116}{}{Ni tamuj ruchu.}
 {117}{}{Mam ju¿ doœæ zabijania.}
 {118}{}{No ju¿, do dzie³a!}
 {119}{}{Spocznij.}
@@ -62,5 +62,3 @@
 {161}{}{Kompanii KE?}
 {162}{}{Kompanii Kontroli Enklawy. Zabezpieczamy granice. Przynajmniej zwykle.}
 {163}{}{Rozumiem. Jak to zwykle?}
-
-{170}{}{Chyba, ¿e pomo¿ecie mi pokonaæ Horrigana i dostaæ siê do mojego Latacza.}

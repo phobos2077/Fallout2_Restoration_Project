@@ -28,7 +28,7 @@
 {127}{}{To wszystko. Dziêki.}
 {128}{}{Zawdziêczam ci ¿ycie. Odpowiem na wszystkie twoje pytania.}
 {129}{}{Taaa.}
-{130}{}{Co tam robi³aœ na dole?}
+{130}{}{Co tu robi³aœ?}
 {131}{}{Czy znalaz³aœ coœ ciekawego?}
 {132}{}{Sk¹d jesteœ?}
 {133}{}{Jak pozna³aœ Borsuka?}

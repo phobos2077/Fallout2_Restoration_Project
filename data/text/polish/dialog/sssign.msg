@@ -27,5 +27,4 @@
 {126}{}{Powiedziane nieco bez ogródek, ale to uœwiadamia, o co tu chodzi.}
 {127}{}{(wróæ)}
 {128}{}{Wystarczy ju¿ tego czytania.}
-
 {130}{}{Moja go³wa boleæ. Za du¿o czytaæ.}

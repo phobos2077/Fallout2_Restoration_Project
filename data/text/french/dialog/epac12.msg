@@ -338,6 +338,6 @@
 {3210}{}{Ok, maintenant que je connais la vie de ton père, pourrais-tu en venir au moment te concernant ?}
 {3260}{}{Donc ils étaient des traîtres à leur peuple, mais pour le bien de ce peuple. Je vois.}
 {3261}{}{Bon, j'en ai assez entendu sur tes parents. Et si tu passais directement au moment ou tu es devenue une espionne ?}
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
+{5000}{}{[La personne te regarde dans les yeux, ses yeux s'ouvrent soudainement et elle se met inspirer profondément.]}
 {5001}{}{[FIN]}
 {5002}{}{Bordel de merde !}

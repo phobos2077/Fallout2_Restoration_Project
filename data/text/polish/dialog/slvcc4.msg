@@ -1,8 +1,5 @@
 {100}{}{Widzisz niewolnika.}
 {101}{}{Widzisz zdrowo wygl¹daj¹cego niewolnika.}
-
-
-# 3. CF: PC is Slaver
 {320}{}{Ty z³y!}
 {321}{}{My nie mówiæ z ty.}
 {322}{}{My siê uwolniæ.}
@@ -17,9 +14,7 @@
 {331}{}{Zostaw nas w spokoju, ³owco!}
 {332}{}{Nie rób mi krzywdy!}
 {333}{}{OdejdŸ ode mnie!}
-
-# 4. CF: PC is Not Slaver
-{350}{}{Kto ty?}
+{350}{}{Twoja kto?}
 {351}{}{Nie jesteœ ³owc¹ niewolników.}
 {352}{}{Nie jesteœ ranny?}
 {353}{}{Przyjaciel?}
@@ -30,7 +25,6 @@
 {358}{}{Myœl¹, ¿e kim s¹?}
 {359}{}{Proszê pomó¿ nam!}
 {360}{}{Uwolnij mnie st¹d.}
-
 {400}{}{Dlaczego ja!}
 {401}{}{*kaszle*}
 {402}{}{*drapie siê*}

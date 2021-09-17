@@ -5,7 +5,7 @@
 {104}{}{Toi, dis-moi ce que tu viens faire.}
 {105}{}{Aaagh ! Nan ! Nu !}
 {106}{}{J'ai une lettre pour AHS-9 de la part de l'Eclairée de la RNC.}
-{107}{}{I'm here to speak to Crockett about some armor.}
+{107}{}{Je suis ici pour parler à Crockett au sujet d'une armure.}
 {108}{}{J'aimerais faire un tour.}
 {109}{}{J'ai plus ou moins l'intention de rejoindre votre groupe.}
 {110}{}{Qui es-tu ?}
@@ -28,7 +28,7 @@
 {127}{}{Ooh ! Des stars !}
 {128}{}{Je suis AHS-7, le vice-responsable de cette installation. Avant que tu le demandes, sache qu'AHS veut dire Adorateur d'Hubol Suprême, ce qui signifie que j'ai supprimé sept niveaux de neurodines de mon esprit et que je suis plus éclairé et plus près du centre de la Grande Roue que toi. Et cela signifie également que tu vas me dire ce que tu fais ici. Sur-le-champ.}
 {129}{}{J'ai une lettre pour AHS-9 de la part de l'Eclairée de la RNC.}
-{130}{}{I'm here to speak to Crockett about some armor.}
+{130}{}{Je suis ici pour parler à Crockett au sujet d'une armure.}
 {131}{}{J'aimerais faire un tour.}
 {132}{}{J'ai plus ou moins l'intention de rejoindre votre groupe.}
 {133}{}{Je suis ici pour vous exterminer.}
@@ -76,7 +76,7 @@
 {175}{}{Où puis-je me procurer du carburant pour le pétrolier Poséidon ?}
 {176}{}{Où puis-je trouver la signification de tous ces termes que tu emploies ?}
 {177}{}{Quand le vaisseau décolle-t-il ?}
-{178}{}{Where is Crockett?}
+{178}{}{Où se trouve Crockett ?}
 {179}{}{Rien, merci. Au revoir.}
 {180}{}{Préviens-nous lorsque tu auras mené à bien ta tâche.}
 {181}{}{Je n'y manquerai pas. J'ai d'autres questions.}

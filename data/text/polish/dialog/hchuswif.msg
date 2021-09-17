@@ -9,10 +9,9 @@
 {108}{}{**Prrrrrrrrdddddddddd**}
 {109}{}{Zaius od kopalni mówi, ¿e mo¿e mieæ dla mnie jak¹œ pracê w przysz³ym miesi¹cu.}
 {110}{}{To miejsce to jeden wielki burdel! Kobieto, kiedy ty w koñcu zabierzesz siê za sprz¹tanie?}
-{111}{}{Masz naprawdê niewyparzon¹ gêbê, babo!}
+{111}{}{You got a real smart mouth on ya', woman!}
 {112}{}{Kocham ciê, z³otko.}
 {113}{}{Czy chcesz dostaæ z ty³u mojej rêki, babo?}
-
 {140}{}{Sam sobie zrób te twoje cholerne ciasto, ty g³upia, t³usta beko!}
 {141}{}{...[mamrocze] daæ mu tyle tego cholernego pieprzu, ile bêdê chcia³a... [mamrocze]}
 {142}{}{Przy miejskiej studni myj¹c twoje brudne gacie na tarze, zreszt¹ tak jak zwykle!}
@@ -23,6 +22,5 @@
 {147}{}{Musi byæ trochê rozumu GDZIEŒ w tym domu!}
 {148}{}{Ja te¿ ciê kocham, misiaczku.}
 {149}{}{Nie chcê mieæ NIC do czynienia z czymœ zwi¹zanym z twoim ty³em!}
-
 {200}{}{Czego do diab³a chcesz? Wynocha z mej rezydencji, ró¿owy prosiaku.}
 {201}{}{Przysiêgam, któregoœ dnia po prostu spakujê siê i pójdê w diab³y. I co wtedy jego leniwa moœæ zrobi?}

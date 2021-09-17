@@ -2,8 +2,8 @@
 {101}{}{Widzisz Smitha.}
 {102}{}{Chyba wczeœniej ciê tu nie widzia³em. Jestem Smith. Mogê ci w czymœ pomóc?}
 {103}{}{Chcesz jeszcze czegoœ?}
-{104}{}{Opowiesz mi o Kryptopolis?}
-{105}{}{Co tu porabiasz, cz³owieku?}
+{104}{}{Opowiedz mi o Kryptopolis?}
+{105}{}{Czym siê zajmujesz?}
 {106}{}{Szukam Krypty.}
 {107}{}{Pomogê ci z tym p³ugiem.}
 {108}{}{Twoja ¿ona mówi, ¿e sprawy nie uk³adaj¹ siê najlepiej.}
@@ -11,42 +11,42 @@
 {110}{}{Um... Waga Nu-kik?}
 {111}{}{Dobra, to co tu widzisz to nie jest prawdziwe Kryptopolis... stoisz na obszarze Podmurza.}
 {112}{}{Dlaczego nie ¿yjesz wewn¹trz miasta?}
-{113}{}{Co tu robisz?}
-{114}{}{Mogê ciê jeszcze o coœ zapytaæ?}
-{115}{}{Dziêki. Na razie.}
+{113}{}{Czym siê tutaj zajmujesz?}
+{114}{}{Mogê zapytaæ ciê o coœ innego?}
+{115}{}{Dziêki. Do zobaczenia.}
 {116}{}{Razem z rodzin¹ pracujemy na farmie tutaj, na Podmurzu. Jakoœ przêdziemy. Nie wiem, jak d³ugo jeszcze.}
-{117}{}{Jakieœ problemy?}
-{118}{}{Dlaczego nie jesteœ w mieœcie?}
-{119}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{117}{}{Na czym polega k³opot?}
+{118}{}{Dlaczego nie ¿yjesz wewn¹trz miasta?}
+{119}{}{Mogê zapytaæ ciê o coœ innego?}
 {120}{}{Taaa, przysz³y ciê¿kie czasy. Trzymaj siê.}
 {121}{}{Prawda, nêdza woko³o. Muszê ju¿ iœæ.}
 {122}{}{Mówisz o Krypcie wewn¹trz miasta? Widzia³em tylko jedn¹... wewn¹trz, za brama... Myœlê, ¿e to o ni¹ ci chodzi. Musisz jednak wiedzieæ, ¿e tylko obywatele mog¹ tam wchodziæ.}
-{123}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{123}{}{Mogê zapytaæ ciê o coœ innego?}
 {124}{}{Dziêki za wskazówki. Powodzenia.}
 {125}{}{Ja i moja rodzina - nie takich ludzi tam wpuszczaj¹. Wiêc ¿yjemy tu, pod ich ochron¹.}
 {126}{}{Dlaczego nie pozwalaj¹ wam ¿yæ w mieœcie?}
 {127}{}{Ochron¹? Co masz dok³adnie na myœli? }
-{128}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{128}{}{Mogê zapytaæ ciê o coœ innego?}
 {129}{}{Taa. Dziêki za poœwiêcony czas. Powodzenia.}
 {130}{}{Nie do ¿ycia. ¯y³y sobie mo¿na wypruæ bez p³ugu. Próbujemy z ¿on¹ jakoœ sobie radziæ, ale bez p³ugu przyjdzie nam zdechn¹æ.}
 {131}{}{Mogê pomóc?}
-{132}{}{Mogê jeszcze o coœ zapytaæ?}
+{132}{}{Mogê zapytaæ ciê o coœ innego?}
 {133}{}{Taa, przykro mi to s³yszeæ. Na razie.}
 {134}{}{Jasne.}
 {135}{}{Hmm, jesteœmy z pustkowi... jak ty. Wszystko na co mo¿emy liczyæ, to ochrona Kryptopolis.}
 {136}{}{Jaki rodzaj ochrony?}
-{137}{}{Mogê jeszcze o coœ spytaæ?}
-{138}{}{Dziêki. Na razie.}
+{137}{}{Mogê zapytaæ ciê o coœ innego?}
+{138}{}{Dziêki. Do zobaczenia.}
 {139}{}{Trzymaj¹ nas z dala od dzikusów z zewn¹trz, ale to trochê kosztuje. A bez p³ugu... rozumiesz, nie ma jak zwi¹zaæ koniec z koñcem.}
 {140}{}{Mogê jakoœ pomóc z tym p³ugiem?}
-{141}{}{Mogê jeszcze o coœ spytaæ?}
-{142}{}{Och, przykro mi to s³yszeæ. Do widzenia.}
+{141}{}{Mogê zapytaæ ciê o coœ innego?}
+{142}{}{Taa, przykro mi to s³yszeæ. Na razie.}
 {143}{}{Nie rozmawiamy z ludŸmi twojego pokroju.}
 {144}{}{Mary, trzymaj siê od tego z daleka.}
 {145}{}{Pomagasz ludziom takim jak my? Nie mo¿emy wiele zaoferowaæ, ale gwarantujemy ci nasz¹ dozgonn¹ wdziêcznoœæ.}
 {146}{}{Hola! Jeœli nie mo¿esz zap³aciæ, to ja nie mogê ci pomóc.}
 {147}{}{Nie ma problemu. Lubiê pomagaæ.}
-{148}{}{Mogê jeszcze o coœ zapytaæ?}
+{148}{}{Mogê zapytaæ ciê o coœ innego?}
 {149}{}{Bêdê musia³ o tym pomyœleæ. Na razie.}
 {150}{}{Dobrze. Zaoszczêdziliœmy oko³o sto piêtnaœcie dolców. Jeœli móg³byœ pomóc... Ale nie bêdziemy zdolni uregulowaæ naszej nastêpnej p³atnoœci jeœli nie zdobêdziemy p³ugu do nastêpnego tygodnia.}
 {151}{}{Wezmê pieni¹dze.}

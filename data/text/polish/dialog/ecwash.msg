@@ -10,8 +10,6 @@
 {109}{}{Widzisz Alexand the Killer Bee, cz³onka Unwashed Villagers.}
 {110}{}{Widzisz Hatchetmana, cz³onka Unwashed Villagers.}
 {111}{}{Widzisz BlueCrossa, cz³onka Unwashed Villagers.}
-
-# Examines
 {113}{}{Widzisz Buffy, piêkn¹, inteligentn¹ i zdoln¹ cheerliderkê. Pierwsz¹ kobietê w Unwashed Villagers.}
 {114}{}{Widzisz Doombot, Boginiê DŸwiêków i siostrê Buffy. Przypomina trochê Marie Osmond.}
 {115}{}{Widzisz Panoply, drobniutk¹ dziewczynê, w której oczach czai siê odrobina szaleñstwa.}
@@ -24,8 +22,6 @@
 {122}{}{Widzisz Alexand the Killer Bee - inteligentn¹ odmianê pszczo³y-zabójcy - Wielkiego Kronikarza Unwashed Villagers.}
 {123}{}{Widzisz Hatchetmana, Dzia³onowego Unwashed Villagers - Wzniecaj¹cego Po¿ary - stra¿nika wiedzy Shadowrun.}
 {124}{}{Widzisz BlueCrossa, Podkap³ana Unwashed Villagers - dyrektora produkcji.}
-
-# UV Leaving Floats
 {200}{}{Unwashed Villagers znów ratuj¹ œwiat!}
 {201}{}{Œmieræ to dla niego zbyt ³agodna kara.}
 {202}{}{I nie wstawaj!}
@@ -47,13 +43,11 @@
 {218}{}{Unwashed Villagers. Stra¿nicy spokoju na Pustkowiu.}
 {219}{}{Sam siê o to prosi³.}
 {220}{}{Berek!}
-
-# UV Combat Floats
 {300}{}{Myd³o? A po cholerê nam myd³o?!}
 {301}{}{Dalej wieœniacy! Œmieræ Spamerowi!}
 {302}{}{Œmieræ Spamerom!}
 {303}{}{Masz, na co zas³u¿y³eœ!}
-{304}{}{Grim Reaper - ju¿ po tobie.}
+{304}{}{Now you will die, Grim Reaper.}
 {305}{}{Sma¿ siê w piekle!}
 {306}{}{Po¿egnaj siê ze œwiatem.}
 {307}{}{Czas na rewan¿!}
@@ -66,50 +60,26 @@
 {314}{}{Chroñcie Dziecko Przeznaczenia przed kretyñstwem Spamera!}
 {315}{}{Dziecko Przeznaczenia! Do³¹cz do nas!}
 {316}{}{NIEDOMYTA ŒMIERÆ!}
-{317}{}{Nigdy nie bêdziesz jednym z nas! Nigdy nie bêdziesz NIEDOMYTY!}
+{317}{}{You will never be 'Unwashed', childish fool!}
 {318}{}{Nie masz szans!}
 {319}{}{To jeszcze nie koniec!}
 {320}{}{D³ugo czeka³em na ten dzieñ.}
-
-# 1 Buffy Personal Floats
 {400}{}{To za te twoje pogró¿ki!}
-{401}{}{Chyba nie uderzy³byœ dziewczyny, co?}
+{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
 {402}{}{'Zemsta smakuje najlepiej podana na zimno.'}
-{403}{}{Jestem Buffy... a ty jesteœ martwy.}
-
-# 2 Doombot Personal Floats
+{403}{}{I'm Buffy... you're toast.}
 {405}{}{Nikt nie bêdzie grozi³ Doombot!}
 {406}{}{Ju¿ nie ¿yjesz, Grim!}
-
-# 3 Panoply Personal Floats
 {410}{}{Ach, s³odki smak zwyciêstwa. Prawie tak znakomity jak smak iguany na patyku...}
-
-# 4 Lerk Personal Floats
 {415}{}{Wioska to radosne miejsce, ale ty mnie BARDZO rozz³oœci³eœ.}
-
-# 5 Ymir Personal Floats
 {420}{}{Po raz ostatni przynios³eœ wstyd naszemu krajowi!}
-
-# 6 Iguana Eater Personal Floats - None
-
-# 7 Night Owl Personal Floats
 {430}{}{Uœpiê ciê na dobre!}
-
-# 8 Shadow Dancer Personal Floats
 {435}{}{Wszyscy pójdziemy do piek³a, a ja nas tam poprowadzê.}
 {436}{}{ChodŸ, moje dziecko. Uœmierzê twój ból.}
 {437}{}{Ju¿ nie ¿yjesz. Tylko jeszcze o tym nie wiesz.}
-
-# 9 Amish Commando Personal Floats
 {440}{}{A masz!}
 {441}{}{Chcesz jeszcze trochê?}
 {442}{}{Tylko nie w twarz, tylko nie w twarz!}
-
-# 10 Killer Bee Personal Floats
 {445}{}{Piek³o Dantego to piknik w porównaniu z tym, co ciê czeka...}
-
-# 11 Hatchetman Personal Floats
 {450}{}{Spluwy! Spluwy! Gdzie s¹ moje spluwy!}
 {451}{}{Ach, tak. Jestem stukniêty. I co teraz?}
-
-# 12 BlueCross Personal Floats - None

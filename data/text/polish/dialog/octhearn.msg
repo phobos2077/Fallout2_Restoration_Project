@@ -1,14 +1,14 @@
-{100}{}{Widzisz szpona œmierci, który przygl¹da ci siê wyj¹tkowo inteligentnym wzrokiem.}
+{100}{}{Widzisz szpona œmierci, który obserwuje ciê dziwnie inteligentnym wzrokiem.}
 {101}{}{Widzisz Thearna, szpona œmierci.}
 {102}{}{Widzisz typowego szpona œmierci. To ogromne stworzenie ma potê¿n¹ budowê cia³a, ostre zêby i d³ugie pazury.}
 {103}{}{Wybacz. Nie mówiæ dobrze. Spróbujê z ty rozmawiaæ.}
 {104}{}{Ty czego chce?}
-{105}{}{Kto ty?}
+{105}{}{Twoja kto?}
 {106}{}{Co ty robiæ?}
 {107}{}{Jak ty sprytny?}
-{108}{}{Ja ju¿ iœæ.}
+{108}{}{Moja iœæ ju¿}
 {109}{}{Kim jesteœ?}
-{110}{}{Czym siê tutaj zajmujesz?}
+{110}{}{Co tutaj robisz?}
 {111}{}{Bez obrazy, ale jak bardzo inteligentny jesteœ?}
 {112}{}{Och, tylko têdy przechodzê.}
 {113}{}{Ja Thearn. Kto ty?}
@@ -16,7 +16,7 @@
 {115}{}{Ja odejœæ}
 {116}{}{Muszê ju¿ iœæ.}
 {117}{}{Mi³o mi ciê poznaæ Thearnie. Jestem}
-{118}{}{Rozumiem.}
+{118}{}{Kapujê.}
 {119}{}{Jak tak teraz o tym pomyœlê, to gówno mnie obchodzi, kim jesteœ.}
 {120}{}{Pilnujê korytarz. Bezpieczeñstwo stada cel.}
 {121}{}{Och... Uch...}
@@ -41,5 +41,4 @@
 {140}{}{Witaj znowu. Wci¹¿ tu pilnujê.}
 {141}{}{}
 {142}{}{Arrrrrrrrrgggh! Giñ!}
-
 {143}{}{.}

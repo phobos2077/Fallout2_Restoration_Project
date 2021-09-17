@@ -40,7 +40,7 @@
 {920}{}{Tu trébuches sur ce qui reste de Nagor, qui est mort en essayant de sauver son chien.}
 {921}{}{Nagor est mort en essayant de rapporter le corps de son chien au village.}
 {930}{}{::Huuuuuurlement::}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
+{950}{}{Tu prends un peu de temps pour t'entraîner. Tes compétences de combat au Corps à Corps augmentent.}
 {951}{}{Le rataupe attaque et essuie un coup fatal.}
 {952}{}{Le match est terminé.}
 {1000}{}{Tu as réussi le test de citoyenneté.}

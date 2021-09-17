@@ -76,58 +76,45 @@
 {175}{}{Co do cholery? Stra¿e! Mamy intruza!}
 {176}{}{WejdŸ tam, a rozpierdolê ci ³eb. Kapujesz?}
 {177}{}{Jest ju¿ póŸno, mamy zamkniête. Wróæ rano.}
-
-#added by killap - expansion
 {200}{}{Dobra robota. Ale mam dla ciebie jeszcze jedn¹ propozycjê. Jesteœ ³owc¹ niewolników, prawda? Co powiesz na u¿yczenie mi swoich talentów i zniszczenie tych kryjówek. Móg³bym ci zap³aciæ, powiedzmy 1000$.}
 {201}{}{Dobra robota. Ale mam dla ciebie jeszcze jedn¹ propozycjê. Wygl¹dasz na twardego skurczybyka. Co powiesz na wymiecenie Stra¿ników z ich kryjówek. Jest za to nagroda, powiedzmy 1000$.}
-{202}{}{Chêtnie.}
+{202}{}{Jasne.}
 {203}{}{Nie interesuje mnie to.}
 {204}{}{Wyœmienicie. Czekaj, zaznaczê ci ich po³o¿enie. Zg³oœ siê jak skoñczysz.}
 {205}{}{Twoja strata. W takim razie lepiej kup sobie czapkê niewidkê, w razie gdyby Stra¿nicy RNK siê wycwanili.}
 {206}{}{Dobra. Czeœæ.}
 {207}{}{W³aœciwie, lepiej by by³o gdyby ktoœ poszed³ ze mn¹. By³oby szybciej i pewniej.}
-
 {210}{}{Jesteœ z powrotem? I jak posz³o, uda³o ci siê pozbyæ Stra¿ników RNK?}
 {211}{}{Oczywiœcie, ¿e tak. Bu³ka z mas³em.}
 {212}{}{Jeszcze nie. Ci¹gle nad tym pracujê.}
-
 {215}{}{Naprawdê? Jasna cholera. To najlepsza wiadomoœæ jak¹ kiedykolwiek s³ysza³em. To musia³ byæ cios dla Stra¿ników RNK. Œwietna robota. Twoja zap³ata. Teraz najlepiej siê st¹d ulotnij, bo Stra¿nicy w mieœcie na pewno ciê szukaj¹.}
 {216}{}{A niech sobie szukaj¹ -- nie bojê siê. Dziêki za pieni¹dze.}
 {217}{}{Wiêc lepiej wyjadê z miasta. Do zobaczenia póŸniej.}
 {218}{}{Ostatnio wszystko co robiê kogoœ wkurza. ¯adna nowoœæ. Czeœæ.}
-
 {220}{}{W ¿adnych cholernym razie. Nie wyœlê do tego ¿adnego z moich ch³opaków. Jeœli myœlisz, ¿e sobie z tym nie poradzisz, wyjdŸ.}
 {221}{}{Nigdy, niczego takiego nie mówiê. Chcê tylko ¿eby twoi ludzie te¿ mieli z tego trochê zabawy. Ale jak wolisz, zajmê siê ty w pojedynkê, ¿aden problem. Zg³oszê siê jak skoñczê.}
 {222}{}{Dobra, wypisuje siê z tego, frajerze. Nie bêdziesz siê mn¹ wys³ugiwa³. Czeœæ.}
 {223}{}{Nazywasz mnie tchórzem? Nikt nie nazywa mnie tchórzem, i ¿yje ¿eby o tym opowiadaæ!}
-
 {225}{}{Có¿, dobra. Myœlê, ¿e mogê zebraæ paru ch³opaków do pomocy. Do³¹cz¹ po drodze. Mo¿esz wyruszyæ od razu?}
 {226}{}{Daj mi trochê czasu na przygotowania. Wrócê póŸniej.}
 {227}{}{Natychmiast. Czas zaszaleæ.}
 {228}{}{Mogê. Ruszajmy.}
 {229}{}{Myœlê, ¿e dam sobie z tym spokój. Ju¿ mnie to nie interesuje. Czeœæ.}
-
 {230}{}{Bierzesz siê za to, czy jesteœ tu ¿eby marnowaæ mój czas?}
 {231}{}{Potrzebujê wiêcej czasu.}
-{232}{}{Mo¿emy ruszaæ.}
-
+{232}{}{Mogê. Ruszajmy.}
 {240}{}{Uda³o ci siê oczyœciæ kryjówki ze Stra¿ników RNK. To by³ cios dla Stra¿ników w ich walce z niewolnictwem.}
-
 {241}{}{Szukam miejsca, w którym mogê kupiæ jakichœ niewolników.}
-
 {250}{}{Cholernie mi³o. Nie sprzedajemy tutaj niewolników. Metzger, na pó³noc st¹d, w Norze mo¿e ci w tym pomóc.}
 {251}{}{By³em tam, niestety, nie dogadaliœmy siê.}
 {252}{}{Nie wiem czy twoja dzia³alnoœæ jest komukolwiek potrzebna. Wiesz co? Poka¿e ci jak zabi³em Metzgera.}
-
 {260}{}{Có¿, nie jesteœcie wybredni, cholera. Zdajesz sobie sprawê, ¿e jego wp³yw nie jest ograniczony tylko do Nory, prawda? Ma swoje w³asne gospodarstwa, gdzie trzyma innych niewolników.}
 {261}{}{Ciekawe. Jak dostaæ siê do tej innej lokalizacji?}
-
 {270}{}{Czy ty kurwa myœlisz, ¿e mo¿esz dostaæ wszystko i to za darmo? 1000 dolarów. Bierz albo wyjdŸ.}
 {271}{}{Czy ty kurwa myœlisz, ¿e mo¿esz dostaæ wszystko i to za darmo? Plus za œluz cnoty. Nie podoba mi siê to. 2000 dolarów. Bierz albo wyjdŸ.}
 {272}{}{Dobra, trzymaj.}
 {273}{}{Niewa¿ne.}
 {274}{}{Robiê co chcê. I myœlê, ¿e ciê teraz zabijê.}
 {275}{}{Wrócê, gdy zdobêde wiêcej pieniêdzy.}
-
 {280}{}{[Wskazuje na mapê lokalizacjê obozu niewolników.] To jest gdzieœ tu. Nadal masz zamiar marnowaæ mój czas?}
 {281}{}{Mam to, czego potrzebujê. Pa.}

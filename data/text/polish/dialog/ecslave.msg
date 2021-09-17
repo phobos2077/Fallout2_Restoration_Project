@@ -1,4 +1,4 @@
-{100}{}{Proszê, nie rób mi krzywdy!}
+{100}{}{Nie rób mi krzywdy!}
 {101}{}{Nale¿ê teraz do ciebie?}
 {102}{}{B³agam, puœæ mnie wolno.}
 {103}{}{Marzê o wolnoœci.}

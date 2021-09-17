@@ -27,7 +27,7 @@
 {126}{}{DAAAAAAAJ!!!}
 {127}{}{Przywi¹¿ worek do liny! Wyci¹gnê go!}
 {128}{}{Ta, jasne! I zaraz znikniesz wraz z moj¹ dol¹? Nie s¹dzê! Daj mi sekundê, ¿eby sprawdziæ.}
-{129}{}{OKI.}
+{129}{}{W porz¹dku.}
 {130}{}{Jak chcesz. I tak nigdzie st¹d siê nie ruszysz.}
 {131}{}{Otwieram sakwê. To... to piêkne! Takie œwiec¹ce! To... to... Och Ach...}
 {132}{}{Och Ach?}
@@ -38,7 +38,7 @@
 {137}{}{Zobaczmy, co my tu mamy.}
 {138}{}{[W poœpiechu otwierasz torbê, wyzwalaj¹c przyp³yw adrenaliny. Materia³ torby ukazuje...]}
 {139}{}{Ta, ta?}
-{140}{}{Có¿ to takiego?}
+{140}{}{Co to jest?}
 {141}{}{10000 kapsli.}
 {142}{}{KAPSLI?!}
 {143}{}{Cholernych kapsli?!}
@@ -50,7 +50,8 @@
 {149}{}{Ee... s³uchaj. Tu na dole jest pewne du¿e wielono¿ne coœ, które chcia³bym doœæ szybko po¿egnaæ. Mo¿esz siê poœpieszyæ?}
 {150}{}{Typhon powinien przecie¿ wiedzieæ, ¿e kapsle s¹ w dzisiejszych czasach bezu¿yteczne. Czy¿ nie?}
 {151}{}{O BO¯E! Pe³za po mnie! RATUNKU!}
-{152}{}{Wiecie co, to naprawdê s³odkie, gdy siê o tym pomyœli. On naprawdê myœla³, ¿e mi pomaga. Mo¿e troszkê za bardzo z¿ynam siê na starego. [ech] No to tyle, jeœli chodzi o skarb. Chyba czas ruszaæ w drogê.}
+{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
+ shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
 {153}{}{[Skomlenie...]}
 {154}{}{Studnie nie wa¿ny ju¿.}
 {155}{}{Hmmmm... Wci¹¿ mam wra¿enie, ¿e coœ wylecia³o mi z g³owy co do tej studni. No có¿, nie ma czasu do stracenia.}

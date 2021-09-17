@@ -1,7 +1,6 @@
 {100}{}{Widzisz barczystego trapera.}
 {101}{}{Widzisz krzepkiego trapera.}
 {102}{}{Widzisz ³owcê gekonów.}
-
 {200}{}{Bêdziesz tu nieŸle pasowaæ.}
 {201}{}{Mo¿e postawisz kolejkê?}
 {202}{}{Bêdziesz siê próbowaæ z Duntonami?}
@@ -27,7 +26,6 @@
 {222}{}{W kanionie na wschód st¹d straszy!}
 {223}{}{Traperstwo to nie zabawa. Parê tygodni temu straciliœmy jednego z najlepszych ludzi.}
 {224}{}{Lubiê siê dra¿niæ z tym Torrem.}
-
 {300}{}{Patrzcie no, kto tu zajrza³.}
 {301}{}{(mamrocze) ...i wysmykn¹³ oknem na pole... (be³kocze)}
 {302}{}{Chyba ci siê pomyli³y czêœci miasta?}

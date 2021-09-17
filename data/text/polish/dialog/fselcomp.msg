@@ -3,12 +3,12 @@
 {102}{}{Widzisz komputer. Pomimo ¿e jest prymitywny, wygl¹da na dobrze utrzymany.}
 {103}{}{Ta jednostka nie przyjmuje komend. Do widzenia.}
 {104}{}{[Pomimo wszystkich twoich prób nie udaje ci siê z³amaæ kodu, który kontroluje ten komputer]}
-{105}{}{Wyloguj siê.}
+{105}{}{Wyloguj.}
 {106}{}{Witamy w CentroLinku.}
 {107}{}{Proszê teraz wprowadziæ komendy.}
 {108}{}{Udostêpnij bazê danych.}
 {109}{}{Udostêpnij sterowanie.}
-{110}{}{Wyloguj siê.}
+{110}{}{Wyloguj.}
 {111}{}{Wybierz bazê danych.}
 {112}{}{Badania.}
 {113}{}{Przysz³e cele.}
@@ -29,26 +29,20 @@
 {128}{}{Wróæ.}
 {129}{}{Wyloguj siê.}
 {130}{}{Operacja wymaga wy¿szych uprawnieñ. Skontaktuj siê z administratorem systemu. Wylogowujê siê. Do widzenia.}
-{131}{}{[GOTOWE]}
+{131}{}{[dalej]}
 {132}{}{Nie widzisz do tego interfejsu.}
-
 {133}{}{ESS Quetzel zatankowany i gotowy do startu.}
 {134}{}{ESS Quetzel niezatankowany.}
 {135}{}{G³ówny uk³ad w³¹czony. Ruroci¹g dzia³a. Stacje badawcze w³¹czone. Centrum naprawcze sprawne. Kamery aktywne.}
 {136}{}{Wróæ.}
-{137}{}{Wyloguj siê.}
-
+{137}{}{Wyloguj.}
 {200}{}{[Koœció³ Centrologów musi byæ baaardzo bogaty. Ka¿dy nowy cz³onek Koœcio³a oddaje wszystkie swoje dobra jako znak dobrej woli. Je¿eli ktoœ nie zostanie o to poproszony, oznacza to, ¿e Centrolodzy nie zamierzaj¹ postêpowaæ uczciwie z danym kandydatem. Maj¹ ogromy tajny sk³ad takich ³upów gdzieœ na pustyni. Po w³amaniu siê do ich systemu i dokonaniu paru obliczeñ, udaje ci siê okreœliæ po³o¿enie ich kryjówki. Zaznaczasz je w PipBoyu.]}
- 
-{201}{}{[Koœció³ Centrologów musi byæ baaardzo bogaty. Ka¿dy nowy cz³onek Koœcio³a oddaje wszystkie swoje dobra jako znak dobrej woli. Je¿eli ktoœ nie zostanie o to poproszony, oznacza to, ¿e Centrolodzy nie zamierzaj¹ postêpowaæ uczciwie z danym kandydatem. Maj¹ ogromy tajny sk³ad takich ³upów gdzieœ na pustyni. Ju¿ masz wspó³rzêdne ich kryjówki.]} 
-
+{201}{}{[Koœció³ Centrologów musi byæ baaardzo bogaty. Ka¿dy nowy cz³onek Koœcio³a oddaje wszystkie swoje dobra jako znak dobrej woli. Je¿eli ktoœ nie zostanie o to poproszony, oznacza to, ¿e Centrolodzy nie zamierzaj¹ postêpowaæ uczciwie z danym kandydatem. Maj¹ ogromy tajny sk³ad takich ³upów gdzieœ na pustyni. Ju¿ masz wspó³rzêdne ich kryjówki.]}
 {210}{}{W³am siê do systemu.}
 {211}{}{[Po pewnym czasie udaje ci siê uzyskaæ pe³ny dostêp administratora do jednostki centralnej. Teraz mo¿esz zrobiæ co zechcesz z ich systemem.]}
 {212}{}{Formatuj dysk systemowy.}
 {213}{}{Rozpoczynam procedurê formatowania...Rozpoczêto...Formatowanie...Formatowanie zakoñczone...System zostanie zamkniêty. Do widzenia.}
-
 {220}{}{Uda³o ci siê sformatowaæ dysk g³ównego komputera Centrologów.}
-
 {250}{}{Skieruj paliwo do tankowca Posejdon.}
 {251}{}{Paliwo przes³ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
-{252}{}{[GOTOWE]}
+{252}{}{[dalej]}

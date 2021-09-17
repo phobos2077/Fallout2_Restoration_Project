@@ -3,7 +3,7 @@
 {102}{}{Starsza jest dok³adnie tym - star¹ kobiet¹. Tak star¹, ¿e nie pamiêtasz, ¿eby kiedykolwiek by³a m³oda. Mimo to, wci¹¿ tli siê w niej ogieñ i si³a potrzebne do przewodzenia wiosce w tych trudnych czasach.}
 {103}{aeld1}{Gratulujê, Dziecko Przeznaczenia. Uda³o ci siê przejœæ przez Œwi¹tyniê Prób. Czy jesteœ w stanie wyruszyæ w drogê?}
 {104}{}{Co to mia³o byæ - chcieliœcie mnie zabiæ w tej œwi¹tyni?}
-{105}{}{Oczywiœcie.}
+{105}{}{Spoko.}
 {106}{}{Muszê to jeszcze przemyœleæ.}
 {107}{aeld2a}{Jestem z ciebie dumna, Dziecko Przeznaczenia. To musia³o byæ dla ciebie trudne. Teraz musisz pójœæ i odszukaæ Kryptê 13. Krypta 13. Przynieœ tu GECK. GECK. Tu masz ma³¹ b³yszcz¹c¹ buteleczkê. Da³ nam j¹ Vic. Vic. To kupiec z Klamath. Klamath. IdŸ do Vica. ZnajdŸ Kryptê 13. ZnajdŸ GECK. Wróæ. Postaraj siê, dziecko.}
 {112}{aeld2b}{Nadal nie wiesz gdzie jest Krypta. ZnajdŸ Kryptê! Krypta 13.}
@@ -19,7 +19,7 @@
 {122}{}{Jeszcze raz - co jest moim zadaniem?}
 {123}{}{Wyruszam w tej chwili.}
 {124}{aeld5}{To dobra wiadomoœæ, ale to nie wystarczy, ¿eby nas uratowaæ. Musisz prêdko wróciæ tu z GECKiem, albo ca³y nasz lud umrze!}
-{125}{}{Muszê dowiedzieæ siê jeszcze kilku rzeczy.}
+{125}{}{Potrzebujê dowiedzieæ siê jeszcze kilku rzeczy.}
 {126}{}{Dobrze, wyruszê tam natychmiast.}
 {127}{aeld6}{Uda³o ci siê przetrwaæ. Dziecko Przeznaczenia nie mo¿e byæ s³abe, bo oznacza³oby to nasz¹ zag³adê. Czy jesteœ w stanie wyruszyæ ze swoj¹ misj¹?}
 {128}{}{Mój test zosta³ ukoñczony pomyœlnie. Oczywiœcie, ¿e mogê wyruszyæ, choæby zaraz.}
@@ -73,12 +73,10 @@
 {177}{}{Zrobiê wszystko, co w mojej mocy, by znaleŸæ GECK i uratowaæ wioskê.}
 {178}{}{Nie dra¿nij mnie starucho. Robiê co mogê.}
 {179}{aeld20}{Dziecko. Jesteœmy w wiêkszej potrzebie ni¿ kiedykolwiek wczeœniej. Ludzie choruj¹, braminy zdychaj¹, a zapasy jedzenia prawie siê wyczerpa³y. Niep³odnoœæ ziemi mo¿e zostaæ uleczona tylko za pomoc¹ GECKa. ZnajdŸ GECK i uratuj nas.}
-{180}{}{Moja rozumieæ.}
-{181}{}{Wyruszam natychmiast.}
+{180}{}{Moja rozumie.}
+{181}{}{Ju¿ idê.}
 {182}{}{Wybacz mi. Znajdê GECK najszybciej, jak to tylko mo¿liwe.}
 {183}{}{Dobrze ju¿, dobrze. Zaczynasz rzêziæ jak zepsuty holodysk...}
-
-
 {200}{eeld1}{Dziecko Przeznaczenia! Jak uda³o ci siê tu dostaæ?}
 {201}{}{Uuch... duh?}
 {202}{}{Przybywam, by was uratowaæ.}
@@ -119,6 +117,3 @@
 {237}{eeld13a}{Potem skóra zaczyna kipieæ, jakby pod spodem by³o stado wij¹cych siê czerwi. Wielkie b¹ble wyrastaj¹ i pêkaj¹. Krew zaczyna p³yn¹c z uszu, a jêzyk puchnie. Ci, którzy maj¹ szczêœcie, d³awi¹ siê nim na œmieræ. Ci, którzy maj¹ pecha...}
 {238}{}{Zap³ac¹ mi za to.}
 {239}{}{To z pewnoœci¹ musia³o byæ obrzydliwe. Co mam zrobiæ?}
-
-{240}{}{Mam Latacza, yyy... to znaczy jedn¹ z ich lataj¹cych maszyn.}
-{241}{}{Jeœli zniszczysz te machinê, znajdziemy twoj¹ lataj¹c¹ maszynê. Poœpiesz siê, nie zosta³o ju¿ nas wielu. }

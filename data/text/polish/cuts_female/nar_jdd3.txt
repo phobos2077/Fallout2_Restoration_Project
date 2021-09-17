@@ -1,0 +1,1 @@
+1:Pora odczytaæ zapisany stan gry.

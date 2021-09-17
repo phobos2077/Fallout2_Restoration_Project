@@ -1,33 +1,7 @@
-#############################################################
-#  Message File: mcChild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
-
 {100}{}{Widzisz ma³ego ch³opca.}
 {101}{}{Widzisz ma³¹ dziewczynkê.}
-
 {120}{}{Widzisz ma³ego, rozbrykanego ch³opca.}
 {121}{}{Widzisz ma³¹ dziewczynkê. Jest bardzo ¿ywa.}
-
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
 {150}{}{Nie jedz mnie!}
 {151}{}{Aaaaaa! Potwór!}
 {152}{}{Tata mówi, ¿e jesteœ z³ym cz³owiekiem.}
@@ -46,9 +20,8 @@
 {165}{}{Nienawidzê ciê!}
 {166}{}{Mamo mamo mamo!}
 {167}{}{Zostaw mnie w spokoju!}
-{168}{}{Œmierdzisz!}
-
-{170}{}{Czeœæ.}
+{168}{}{Sam œmierdzisz!}
+{170}{}{Czeœæ wszystkim.}
 {171}{}{Pobawisz siê ze mn¹ w dom?}
 {172}{}{Naprawdê wtykasz sobie koœci do nosa?}
 {173}{}{Dlaczego tak œmiesznie wygl¹dasz?}
@@ -58,7 +31,7 @@
 {177}{}{Za³o¿ê siê, ¿e masz lepszy charakter, ni¿ na to wygl¹dasz.}
 {178}{}{Pobawmy siê w berka. Berek.}
 {179}{}{Nie œmierdzisz tak strasznie.}
-{180}{}{Widzisz mojego niewidzialnego przyjaciela?}
+{180}{}{Widzia³eœ mojego niewidzialnego przyjaciela?}
 {181}{}{Kiedy bêdê ju¿ w twoim wieku, to mam zamiar podró¿owaæ po ca³ym œwiecie.}
 {182}{}{Jesteœ mi³ym dzikusem, nie tak jak inni.}
 {183}{}{Za³o¿ê siê, ¿e siê k¹piesz.}
@@ -67,14 +40,13 @@
 {186}{}{Kiedy dorosnê, to chcê byæ taki jak ty.}
 {187}{}{Mój pies uwielbia suszone miêso.}
 {188}{}{A ja mam b³yszcz¹cy kamyk.}
-{189}{}{Nie wiesz, gdzie jest mój niewidzialny przyjaciela?}
-
+{189}{}{Widzia³eœ mojego niewidzialnego przyjaciela?}
 {190}{}{Mogê do³¹czyæ do twojego plemienia?}
 {191}{}{Jesteœ OK.}
 {192}{}{Zabawnie wygl¹dasz.}
 {193}{}{Co masz na sobie?}
 {194}{}{Chcê siê przejechaæ na braminie!}
-{195}{}{Z daleka jesteœ?}
+{195}{}{Jesteœ z daleka?}
 {196}{}{Iiiiii! Ha, ha, ha!}
 {197}{}{Nie odchodŸ!}
 {198}{}{Masz coœ do jedzenia?}
@@ -84,13 +56,13 @@
 {202}{}{Ile masz lat?}
 {203}{}{Jak siê nazywasz?}
 {204}{}{Lubisz dzieci?}
-{205}{}{Co to?}
+{205}{}{To znaczy?}
 {206}{}{Pobawisz siê ze mn¹?}
 {207}{}{Co robisz?}
 {208}{}{Poszukasz ze mn¹ robaków?}
 {209}{}{Sk¹d to masz?}
 {210}{}{Dasz mi to?}
-{211}{}{Co robisz?}
+{211}{}{Co tutaj robisz?}
 {212}{}{Umiem szybko biegaæ. Chcesz zobaczyæ?}
 {213}{}{Patrz na mnie! Patrz!}
 {214}{}{Mamusia mówi, ¿e za du¿o mówiê.}
@@ -103,5 +75,4 @@
 {221}{}{Lubisz mnie?}
 {222}{}{Czy masz kogoœ?}
 {223}{}{Jeden, dwa, trzy... Iiiii!}
-
 {300}{}{Obcy!}

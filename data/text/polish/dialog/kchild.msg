@@ -1,131 +1,99 @@
-#############################################################
-#  Message File: kchild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Widzisz jedno z dzieci z Klamath.}
 {101}{}{Widzisz jedno z dzieci z Klamath.}
-
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
-
 {150}{}{Nie jedz mnie!}
-{151}{}{Iiiii! Czarownik VooDoo!}
-{152}{}{Tatuœ mówi, ¿e jesteœ z³¹ osob¹.}
-{153}{}{Ajjj! Uciekajcie!}
-{154}{}{Przera¿asz mnie.}
-{155}{}{Przestañ patrzeæ na mnie.}
-{156}{}{Nie mogê rozmawiaæ z dzikusami.}
-{157}{}{Jesteœ jak Bracia Dunton.}
-{158}{}{Moja mamusia powiedzia³a, ¿e mnie zjesz, jeœli bêdê siê Ÿle zachowywaæ.}
+{151}{}{Aaaaaa! Potwór!}
+{152}{}{Tata mówi, ¿e jesteœ z³ym cz³owiekiem.}
+{153}{}{Aaaaaa! Uciekajmy!}
+{154}{}{Bojê siê ciebie.}
+{155}{}{Przestañ siê na mnie patrzeæ.}
+{156}{}{Nie wolno mi rozmawiaæ z dzikusami.}
+{157}{}{Jesteœ zupe³nie jak ci przeklêci Duntonowie.}
+{158}{}{Mama mówi, ¿e jak bêdê siê Ÿle zachowywaæ, to przyjdziesz i mnie zjesz.}
 {159}{}{Nie bojê siê ciebie!}
-{160}{}{Pomocy!}
-{161}{}{Goni mnie!}
-{162}{}{Proszê, nie rób mi krzywdy!}
-{163}{}{Trzymaj siê z daleka ode mnie!}
-{164}{}{Iiiiiiii!}
+{160}{}{Poomocy!}
+{161}{}{To mnie goni!}
+{162}{}{Nie rób mi krzywdy!}
+{163}{}{Nie zbli¿aj siê!}
+{164}{}{Eeeeeeeee!}
 {165}{}{Nienawidzê ciê!}
 {166}{}{Mamo! Mamo! Mamo!}
 {167}{}{Zostaw mnie w spokoju!}
-{168}{}{Œmierdzisz!}
-
-{170}{}{Czeœæ.}
-{171}{}{Chcesz pobawiæ siê w dom?}
-{172}{}{Naprawdê przebijasz sobie nos koœæmi?}
-{173}{}{Jak to mo¿liwe, ¿e tak œmiesznie wygl¹dasz?}
-{174}{}{Moja mama mówi, ¿e jesteœ prymitywem.}
-{175}{}{Czy twoje plemiê przesta³o ju¿ jeœæ ludzi?}
+{168}{}{Sam œmierdzisz!}
+{170}{}{Czeœæ wszystkim.}
+{171}{}{Pobawisz siê ze mn¹ w dom?}
+{172}{}{Naprawdê wtykasz sobie koœci do nosa?}
+{173}{}{Dlaczego tak œmiesznie wygl¹dasz?}
+{174}{}{Mama mówi, ¿e jesteœ prymitywem.}
+{175}{}{Czy twoje plemiê przesta³o jeœæ ludzi?}
 {176}{}{Kto ciê tak œmiesznie ubra³?}
 {177}{}{Za³o¿ê siê, ¿e masz lepszy charakter, ni¿ na to wygl¹dasz.}
 {178}{}{Pobawmy siê w berka. Berek.}
-{179}{}{Nie œmierdzisz a¿ tak Ÿle.}
-{180}{}{Widzisz mojego niewidzialnego przyjaciela?}
-{181}{}{Chcê podró¿owaæ po œwiecie, kiedy bêdê w twoim wieku.}
-{182}{}{Jesteœ mi³ym plemieñcem, nie tak jak inni.}
+{179}{}{Nie œmierdzisz tak strasznie.}
+{180}{}{Widzia³eœ mojego niewidzialnego przyjaciela?}
+{181}{}{Kiedy bêdê ju¿ w twoim wieku, to mam zamiar podró¿owaæ po ca³ym œwiecie.}
+{182}{}{Jesteœ mi³ym dzikusem, nie tak jak inni.}
 {183}{}{Za³o¿ê siê, ¿e siê umyjesz.}
-{184}{}{Jesteœ bystrzejszy ni¿ Torr.}
-{185}{}{Czy to ostrze, które tam masz, jest rzeczywiœcie ostre?}
-{186}{}{Chcê byæ dok³adnie jak ty, kiedy dorosnê.}
-{187}{}{Mój pies uwielbia suszone miêso polecane przez najlepszych hodowców.}
-{188}{}{Mam œwiec¹cy kamyk, a ty nie-e.}
-{189}{}{Skocz po nuka-colê, bo ostatniego mia³em.}
-
-{190}{}{Mogê siê przy³¹czyæ do twojego plemienia?}
-{191}{}{Jesteœ w porz¹dku.}
-{192}{}{Œmiesznie wygl¹dasz.}
+{184}{}{Nie zachowujesz siê tak g³upio jak Torr.}
+{185}{}{Czy to ostrze jest naprawdê ostre?}
+{186}{}{Kiedy dorosnê, to chcê byæ taki jak ty.}
+{187}{}{Mój pies uwielbia suszone miêso.}
+{188}{}{A ja mam b³yszcz¹cy kamyk.}
+{189}{}{Widzia³eœ mojego niewidzialnego przyjaciela?}
+{190}{}{Mogê do³¹czyæ do twojego plemienia?}
+{191}{}{Jesteœ OK.}
+{192}{}{Zabawnie wygl¹dasz.}
 {193}{}{Co masz na sobie?}
-{194}{}{Chcê przeja¿d¿kê na braminie!}
+{194}{}{Chcê siê przejechaæ na braminie!}
 {195}{}{Jesteœ z daleka?}
 {196}{}{£iiii! Ha Ha Ha!}
 {197}{}{Nie odchodŸ!}
-{198}{}{Masz jakieœ jedzenie?}
+{198}{}{Masz coœ do jedzenia?}
 {199}{}{Przeszkadzam ci?}
-{200}{}{Dok¹d idziesz?}
+{200}{}{Gdzie idziesz?}
 {201}{}{Mogê iœæ z tob¹?}
 {202}{}{Ile masz lat?}
 {203}{}{Jak siê nazywasz?}
 {204}{}{Lubisz dzieci?}
-{205}{}{Co to?}
-{206}{}{Chcesz zagraæ w coœ?}
+{205}{}{To znaczy?}
+{206}{}{Pobawisz siê ze mn¹?}
 {207}{}{Co robisz?}
-{208}{}{Jak wygl¹daj¹ skorpioludzie?}
+{208}{}{Poszukasz ze mn¹ robaków?}
 {209}{}{Sk¹d to masz?}
-{210}{}{Mogê to dostaæ?}
-{211}{}{Czym siê zajmujesz?}
-{212}{}{Potrafiê szybko biegaæ. Chcesz zobaczyæ?}
-{213}{}{Patrzcie! Patrzcie!}
-{214}{}{Mama mówi, ¿e za du¿o gadam.}
+{210}{}{Dasz mi to?}
+{211}{}{Co tutaj robisz?}
+{212}{}{Umiem szybko biegaæ. Chcesz zobaczyæ?}
+{213}{}{Patrz na mnie! Patrz!}
+{214}{}{Mamusia mówi, ¿e za du¿o mówiê.}
 {215}{}{Gdzie jest twój dom?}
-{216}{}{Hiiii! Hiiii!}
-{217}{}{Zostaniesz tu?}
+{216}{}{Heeee! Heeee!}
+{217}{}{Zostaniesz tutaj?}
 {218}{}{Masz dzieci?}
-{219}{}{Dlaczego tu jesteœ?}
+{219}{}{Po co tu jesteœ?}
 {220}{}{Lubiê ciê.}
 {221}{}{Lubisz mnie?}
-{222}{}{Jesteœ po œlubie?}
+{222}{}{Czy masz kogoœ?}
 {223}{}{Raz, dwa, trzy - ³iiii!}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
 {1000}{}{Starsza}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
+{1001}{}{Za³o¿yciel}
+{1002}{}{Przybysz z Krypty}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1005}{}{Krypta}
+{1006}{}{Dziecko Przeznaczenia}
+{1007}{}{Szaman}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{Proszek Leczniczy}
+{1010}{}{Most}
 {1011}{}{Mynoc}
-
-{1100}{}{Starsza jest twoj¹ matk¹ i nasz¹ przewodniczk¹.}
-{1101}{}{Nasz wielki przodek, który da³ nam œwiadomoœæ.}
-{1102}{}{Pierwszy do walki i zwyciêstwa nad chaosem.}
-{1103}{}{To moglaby byæ nasza piekna osada.}
-{1104}{}{To jest handlowy posterunek, kilka dni na wschod st¹d.}
-{1105}{}{Krypta jest niebem.}
-{1106}{}{Ty jesteœ Wybrañcem.}
-{1107}{}{On nas wyleczy swoimi ziolami i magia. Jest w polnocnej czêœci naszej osady.}
-{1108}{}{On nas wyleczy swoimi ziolami i magia. Jest w polnocnej czêœci naszej osady.}
-{1109}{}{To jest magiczny proszek, który wyleczy ciê, ale mo¿esz siê zrobiæ senny.}
-{1110}{}{Great Bridge wychodzi z naszej osady na poludnie.}
-{1111}{}{Pilnuje mostu prowadzacego do naszej osady.}
+{1100}{}{Starsza jest nasz¹ matk¹ i przywódczyni¹.}
+{1101}{}{To nasz wielki przodek, który da³ nam wiedzê.}
+{1102}{}{Pierwszy, który walczy³ i zwyciê¿y³ chaos.}
+{1103}{}{To jest nasza piêkna wioska.}
+{1104}{}{To placowka handlowa kilka dni na wschod st¹d.}
+{1105}{}{Krypta jest rajem.}
+{1106}{}{Ty jesteœ Dzieckiem Przeznaczenia.}
+{1107}{}{Leczy nas za pomoc¹ zió³ i magii. Znajduje siê w polnocnej czêœci wioski.}
+{1108}{}{Leczy nas za pomoc¹ zió³ i magii. Znajduje siê w polnocnej czêœci wioski.}
+{1109}{}{To magiczny proszek, który ciê wyleczy, lecz uspi twe zmysly.}
+{1110}{}{Wielki Most stanowi wyjœcie z naszej wioski od po³udnia.}
+{1111}{}{Mynoc strze¿e mostu prowadz¹cego do naszej wioski.}

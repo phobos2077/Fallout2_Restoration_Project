@@ -15,9 +15,9 @@
 {114}{}{Œwietna robota.}
 {115}{}{Projekt rozwija siê zgodnie z planem.}
 {116}{}{Œwietne rezultaty.}
-{117}{}{Co znowu?}
+{117}{}{Co teraz?}
 {118}{}{Przez to cholerne promieniowanie ca³a praca pójdzie na nic.}
-{119}{}{Kolejny alarm próbny.}
+{119}{}{To tylko kolejne æwiczenia.}
 {120}{}{Nie mogê teraz zostawiæ mojej pracy.}
 {121}{}{I tak nie dotrê do schronu.}
 {122}{}{Nie czujê siê najlepiej.}
@@ -46,7 +46,7 @@
 {145}{}{Tak, ciekawe sk¹d by siê tu wzi¹³ jakiœ intruz?}
 {146}{}{Jakbyœmy nie potrafili rozpoznaæ intruza.}
 {147}{}{Alarm siê znowu popsu³. Œwietnie.}
-{148}{}{Nie mam czasu na duperele.}
+{148}{}{Nie mam na to czasu.}
 {149}{}{Czego chcesz?}
 {150}{}{Nie widzisz, ¿e ja tu pracujê?}
 {151}{}{OdejdŸ. Mam jeszcze du¿o pracy.}

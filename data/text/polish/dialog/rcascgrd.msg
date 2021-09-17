@@ -31,7 +31,7 @@
 {130}{}{Rozerwê ciê na strzêpy za rozpoczynanie tu bójki.}
 {131}{}{Ty dupku.}
 {132}{}{Po czymœ takim nie mo¿esz ujœæ z ¿yciem.}
-{133}{}{Czas usun¹æ ciê z tego pado³u}
+{133}{}{Time to take you outta' da' gene-pool.}
 {134}{}{Powinieneœ by³ pomyœleæ.}
 {135}{}{Przykro mi, ¿e do tego dosz³o.}
 {136}{}{Ty palancie.}
@@ -42,7 +42,7 @@
 {141}{}{Bêdziemy musieli post¹piæ z tob¹ twardo.}
 {142}{}{To naprawdê zaboli... ciebie.}
 {143}{}{Lepiej to od³ó¿.}
-{144}{}{Nie chcemy tu k³opotów. Od³o¿ to.}
+{144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Lepiej od³ó¿ tego gnata.}
 {146}{}{Lepiej wsadŸ to do kabury.}
 {147}{}{Od³ó¿ tê broñ.}
@@ -54,7 +54,7 @@
 {153}{}{Po prostu utrzymujemy porz¹dek.}
 {154}{}{Zachowuj siê grzecznie.}
 {155}{}{Lepiej uwa¿aj.}
-{156}{}{Rusz siê.}
+{156}{}{Ni tamuj ruchu.}
 {157}{}{Nie ma tu nic do zobaczenia.}
 {158}{}{Mi³ego dnia.}
 {159}{}{Witamy u Ascortiego.}
@@ -85,7 +85,7 @@
 {184}{}{Nie mogê uwierzyæ, ¿e robisz coœ takiego na naszych oczach.}
 {185}{}{Uch, przepraszam bardzo, OD£Ó¯ TO GÓWNO!}
 {186}{}{Odpierdol siê od drzwi, idioto.}
-{187}{}{Co robisz?}
+{187}{}{Co tu robisz?}
 {188}{}{Codziennie mniejsza jakoœæ przestêpstw. }
 {189}{}{OdejdŸ od tych drzwi.}
 {190}{}{Nie dotykaj tych drzwi.}

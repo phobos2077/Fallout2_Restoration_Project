@@ -12,14 +12,14 @@
 {120}{}{É melhor você dar uma olhada em outro lugar, ou Zomak vai te mostrar as estrelas.}
 {130}{}{Então você deve ver Ele.}
 {131}{}{Ele? Onde está ele?}
-{132}{}{I'm not worthy of seeing him. Goodbye.}
+{132}{}{Não sou digno de vê-lo. Adeus.}
 {140}{}{É ele quem concede o esclarecimento. É ele quem promete a renewal para todos os que o seguirem.}
 {141}{}{Bem, eu estou quase pronto pra Renewal. Onde ele está?}
-{142}{}{Sounds like another nutcase to me. I'm outta here.}
+{142}{}{Parece outro babaca pra mim. Estou saindo fora.}
 {150}{}{Bem, ele está atrás... Ei! Quem é você mesmo?}
-{151}{}{I'm just a wanderer.}
+{151}{}{Eu sou apenas um andarilho.}
 {152}{}{Sou o Chosen One.}
-{153}{}{I'm just here for my annual renewal.}
+{153}{}{Estou aqui apenas por minha renovação anual.}
 {154}{}{It'll be okay. I just have to ask him a couple of questions.}
 {160}{}{Bem, ande pra fora daqui, então.}
 {161}{}{Hã, certo. Tchau.}
@@ -32,16 +32,16 @@
 {201}{}{Tudo bem.}
 {210}{}{Ook? O que você quer dizer com isso? Você é idiota?}
 {211}{}{Goop?}
-{220}{}{Get out of here. The Brain doesn't have time for the likes of you.}
+{220}{}{Saia daqui. O cérebro não perde tempo com gente como você.}
 {221}{}{Okay. I'll be going now.}
 {230}{}{Não tem mais nada aqui a não ser o covil do Brain. Cara, você é um idiota.}
 {231}{}{O Cérebro?}
 {232}{}{Eu só estava te testando. Você passou. Agora me deixa entrar.}
 {233}{}{Acho que me confundi. Deve ser toda essa radiação. Tchau.}
 {240}{}{Opa. Hã, não há nada aqui. Nada mesmo. Agora vá embora.}
-{241}{}{You're sure there's nothing here?}
+{241}{}{Tem certeza de que não há nada aqui?}
 {242}{}{Certo. Tchau.}
-{250}{}{Yup. I'm sure. Now get out.}
+{250}{}{Sim. Certeza absoluta. Agora saia.}
 {251}{}{Bem, se você está dizendo. Tchau.}
 {260}{}{Ah, he, he... é. Eu sabia disso. Humm, bem, er, eu passei? }
 {261}{}{Claro que sim. Agora me deixe entrar.}

@@ -1,16 +1,14 @@
 {100}{}{Widzisz niechlujnie wygl¹daj¹c¹ osobê.}
 {101}{}{Widzisz obywatela Klamath.}
-{102}{}{Widzisz bezdomnego.}
+{102}{}{Widzisz osiedleñca.}
 {103}{}{Widzisz tropiciela œladów.}
 {104}{}{Widzisz trapera.}
-{105}{}{Widzisz myœliwego.}
-
+{105}{}{Widzisz trapera.}
 {110}{}{He, he - wydaje ci siê, ¿e nale¿ysz ju¿ do nas, co?}
 {111}{}{Nie ma tu ju¿ nic, co mo¿na by ukraœæ.}
 {112}{}{Osiedle Traperów z dnia na dzieñ nawiedzaj¹ wiêksze szczury. Niektóre zaczê³y nawet ³aziæ na dwóch ³apach.}
 {113}{}{Nie ma tu dla ciebie miejsca.}
 {114}{}{Nie zosta³ tu ¿aden bezdomny.}
-
 {115}{}{Na co siê gapisz?}
 {116}{}{Cholerne dzikusy, zawsze s¹ z nimi k³opoty.}
 {117}{}{IdŸ na po³udnie.}
@@ -23,7 +21,6 @@
 {124}{}{Nie chcemy ciê w tej czêœci miasta.}
 {125}{}{Coœ ci siê nie podoba?}
 {126}{}{(Mamrocze) ...jest tylko jeden dobry rodzaj dzikusa...(mamrocze)}
-
 {130}{}{W tej czêœci miasta mog¹ przebywaæ wy³¹cznie profesjonalni myœliwi.}
 {131}{}{Hmm... Wygl¹dasz na kogoœ, kto nie odró¿ni³by pyska gekona od jego ty³ka.}
 {132}{}{Dziwiê siê, ¿e uda³o ci siê zajœæ tak daleko.}
@@ -43,7 +40,6 @@
 {146}{}{Niech siê tylko te robaludy pojawi¹ tutaj - szczury je ze¿r¹ w piêæ minut. He, he.}
 {147}{}{Mówiê wam, pod Klamath ci¹gn¹ siê stare tunele. Dlaczego mi nie wierzycie?}
 {148}{}{Do tych budynków lepiej nie wchodziæ.}
-
 {150}{}{Wygl¹dasz mi na kogoœ, kto nieŸle radzi sobie w dziczy.}
 {151}{}{Polowanie na gekony jest bardzo niebezpieczne, ale i bardzo op³acalne.}
 {152}{}{Nie cierpiê tych cholernych szczurów. S¹ zbyt sprytne, ¿eby siê daæ z³apaæ w pu³apki!}
@@ -57,7 +53,6 @@
 {160}{}{Pamiêtaj, jeœli sprzedasz na raz zbyt wiele skórek gekonów, ich cena spadnie.}
 {161}{}{Muszê sobie wreszcie sprawiæ spluwê o wiêkszym zasiêgu.}
 {162}{}{Przysiêgam, widzia³em robaludy obok pastwiska bramin na wschodzie!}
-
 {170}{}{Cholerne szczury. Dobrze, ¿e wreszcie znik³y.}
 {171}{}{Polowanie na gekony to ciê¿ki kawa³ek chleba, ale mo¿na nieŸle zarobiæ.}
 {172}{}{Uwa¿aj na z³ociste gekony. S¹ dwa razy bardziej wredne od normalnych.}
@@ -70,7 +65,6 @@
 {179}{}{Ten dziwny g³os dobiegaj¹cy czasem z tamtych budynków ostatnio jakoœ ucich³. Ciekawe co siê sta³o?}
 {180}{}{Nie œmiej siê, ale wydaje Szczurzy Bóg chyba nie ¿yje.}
 {181}{}{Podobno Szczurzy Bóg nie ¿yje. Nie, ¿ebym wierzy³ w takie brednie.}
-
 {200}{}{Widzisz nieokrzesanego trapera w skórzanych butach.}
 {201}{}{Widzisz kogoœ spalonego s³oñcem pustyni.}
 {202}{}{Widzisz kogoœ w gêsto ³atanym ubraniu.}

@@ -35,10 +35,10 @@
 {134}{}{Mój m¹¿ Jacob z pewnoœci¹ zajmie siê tob¹.}
 {135}{}{Uch, czy mo¿esz przestaæ mi siê naprzykrzaæ?}
 {136}{}{Nie mogê ci pomóc, ale mój m¹¿, Jacob, na pewno mo¿e.}
-{137}{}{Po prostu mnie zostaw.}
+{137}{}{Zostaw mnie w spokoju.}
 {138}{}{To mi³e, ¿e nas odwiedzasz. A teraz siê st¹d wynoœ.}
 {139}{}{Po co nanosisz mi tu tyle b³ota?}
 {140}{}{Czy tak samo zachowujesz siê we w³asnym, ee, namiocie?}
-{141}{}{Proszê zostawiæ mnie w spokoju.}
+{141}{}{Daj mi, proszê, spokój.}
 {142}{}{Nie wiem, czego chcesz, ale ja chcê po prostu mieæ œwiêty spokój.}
 {143}{}{Wrobiono nas! Te trupy w tunelach to nie nasza robota!}

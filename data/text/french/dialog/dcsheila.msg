@@ -44,7 +44,7 @@
 {194}{}{Ouais.}
 {195}{}{Super !}
 {196}{}{Voilà, terminé. Salut.}
-{197}{}{That's it?}
+{197}{}{C'est tout ?}
 {198}{}{Bon. Salut.}
 {199}{}{C'était bon.}
 {200}{}{Salut.}

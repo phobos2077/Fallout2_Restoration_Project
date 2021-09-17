@@ -1,8 +1,6 @@
 {100}{}{Spory kawa³ machinerii.}
-{101}{}{Oczyszczacz powietrza wydaje stukaj¹ce i skrzypi¹ce dŸwiêki. Wygl¹da na zepsuty. Mo¿e potrzebna jest jakaœ czêœæ...}
-
+{101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
 {102}{}{Oczyszczacz powietrza cicho warkocze. Wydaje siê, ¿e pracuje w porz¹dku.}
-
 {110}{}{Ta czêœæ nie pomo¿e w naprawie.}
 {120}{}{Uda³o ci siê naprawiæ oczyszczacz.}
 {125}{}{Uda³o ci siê zniszczyæ oczyszczacz.}

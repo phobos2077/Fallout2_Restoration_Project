@@ -1,7 +1,5 @@
 {100}{}{Widzisz ma³ego ch³opca.}
 {101}{}{Widzisz ma³¹ dziewczynkê.}
-
-
 {200}{}{Jesteœmy ju¿ na miejscu?}
 {201}{}{Mam ju¿ doœæ.}
 {202}{}{Poniesiesz mnie trochê?}

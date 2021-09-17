@@ -1,7 +1,6 @@
 {100}{}{Widzisz skrzynkê.}
 {101}{}{Drewniana skrzynka, która wygl¹da na pe³n¹ stimpaków.}
 {102}{}{Widzisz skrzynkê pe³n¹ bezu¿ytecznych fa³szywych stimpaków.}
-
 {200}{}{[Po szybkim przegl¹dniêciu skrzynki, stwierdzasz, ¿e zawiera oko³o piêædziesiêciu stimpaków, dok³adnie tak jak mówi³ handlarz.]}
 {201}{}{[Zbadaj je dok³adniej.]}
 {202}{}{[ZROBIONE.]}

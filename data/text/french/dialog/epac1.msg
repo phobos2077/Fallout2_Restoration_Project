@@ -12,5 +12,5 @@
 {208}{}{La vie. Ne me parlez pas de la vie.}
 {209}{}{Je pense que vous voudriez savoir, je me sens très déprimé.}
 {210}{}{Désolé pour la respiration, ce que je ne fais jamais de toute façon donc je ne sais pas pourquoi je me donne la peine d'en parler, oh Dieu, je suis si diminué.}
-{500}{}{Yeah, just push me over a cliff.}
+{500}{}{Oui, Pousse-moi du haut d'une falaise.}
 {501}{}{<Bzzt> Arrête ! <Bzzt>}

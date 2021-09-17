@@ -15,7 +15,7 @@
 {320}{}{O Mestre responderá todas suas perguntas. Venha.}
 {321}{}{Acho que não.}
 {322}{}{Tudo bem. Eu vou conhecer esse seu mestre.}
-{400}{}{Uuuhhhhh...}
+{400}{}{Uuuhhh...}
 {401}{}{Grrraaah!}
 {402}{}{Hheesssss...}
 {403}{}{Ohhh...}

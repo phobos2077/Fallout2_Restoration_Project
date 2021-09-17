@@ -3,7 +3,6 @@
 {102}{}{Widzisz z³odzieja.}
 {103}{}{Widzisz rabusia.}
 {104}{}{Widzisz przestêpcê.}
-
 {200}{}{Poddaj siê!}
 {201}{}{Pieni¹dze albo ¿ycie!}
 {202}{}{To jest napad!}
@@ -14,7 +13,6 @@
 {207}{}{Bez paniki. Za minutê bêdzie po wszystkim.}
 {208}{}{Chcê widzieæ wasze rece. I ¿adnych sztuczek!}
 {209}{}{Kryjcie mnie ch³opaki.}
-
 {210}{}{Nie udawaj twardziela.}
 {211}{}{Zabieraæ wszystko.}
 {212}{}{Braæ ich ch³opcy.}

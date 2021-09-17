@@ -10,7 +10,6 @@
 {109}{}{Dzieñ dobry. Od niedawna w mieœcie?}
 {110}{}{Proszê iœæ dalej. Nie ma tu nic ciekawego.}
 {111}{}{Jestem na s³u¿bie. Jeœli bêdziesz mieæ jakieœ k³opoty, spróbuj zg³osiæ to u szeryfa.}
-
 {112}{}{Hej, nie baw siê tym.}
 {113}{}{Zostaw to w spokoju.}
 {114}{}{To nie jest do zabawy.}

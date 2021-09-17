@@ -4,7 +4,7 @@
 {103}{}{Mo¿e uda ci siê wydobyæ wiêcej informacji z tego terminala, je¿eli podejdziesz do niego bardziej naukowo.}
 {104}{}{Nie udaje ci siê zrozumieæ, jak dzia³a ten terminal.}
 {105}{}{Cholerne komputery.}
-{106}{}{Nie udaje ci siê wykoncypowaæ, jak dzia³a ten terminal.}
+{106}{}{Nie udaje ci siê zrozumieæ, jak dzia³a ten terminal.}
 {107}{}{G³upie kompaktery.}
 {108}{}{Logujesz siê do Bazy Medycznej Kryptopolis. Jej obs³uga jest k³opotliwa, a baza danych jest rozbita na wiele archiwów.}
 {109}{}{Poszukaj w archiwum lokalizacji ró¿nych Krypt.}
@@ -13,7 +13,7 @@
 {112}{}{Wyloguj siê z terminala.}
 {113}{}{W bazie tej nie znajdujesz ¿adnych wzmianek na temat Krypt. S¹ tam g³ównie informacje medyczne dotycz¹ce anatomii, znanych chorób, leczenia, leków i implantów.}
 {114}{}{Poszukaj w archiwum jakichkolwiek wzmianek na temat Generatora Ekosystemu Cudownej Krainy.}
-{115}{}{Poszukaj w bazie medycznej czegokolwiek interesujacego.}
+{115}{}{Poszukaj w bazie medycznej czegokolwiek interesuj¹cego.}
 {116}{}{Wyloguj siê z terminala.}
 {117}{}{W bazie tej nie znajdujesz ¿adnych wzmianek na temat GECKa. S¹ tam g³ównie informacje medyczne dotycz¹ce anatomii, znanych chorób, leczenia, leków i implantów.}
 {118}{}{Poszukaj w archiwum lokalizacji ró¿nych Krypt.}

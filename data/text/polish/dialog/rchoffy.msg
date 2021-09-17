@@ -18,7 +18,7 @@
 {117}{}{Dziêki, ¿e mi o tym powiedzia³eœ. Do widzenia.}
 {118}{}{Witam, nazywam siê James Hoffy, ale zazwyczaj mówi¹ na mnie Jimmy. Organizujê karawany w okolicy}
 {119}{}{Czego szukasz, hê?}
-{120}{}{Czy w tej chwili wyje¿d¿aj¹ jakieœ karawany?}
+{120}{}{Czy wkrótce wyje¿d¿aj¹ jakieœ karawany?}
 {121}{}{Dok¹d zazwyczaj wyje¿d¿aj¹ karawany z Redding?}
 {122}{}{S³ysza³eœ mo¿e ostatnio jakieœ wieœci o mieœcie?}
 {123}{}{S³ysza³eœ kiedyœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
@@ -30,7 +30,7 @@
 {129}{}{Co wiesz na temat Kryptopolis?}
 {130}{}{Co wiesz na temat Nowego Reno?}
 {131}{}{Co wiesz na temat RNK?}
-{132}{}{Pomówmy o czymœ innym.}
+{132}{}{Mogê ciê zapytaæ o coœ jeszcze?}
 {133}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
 {134}{}{A czym¿e innym jest dom? Kurczê... Wychowali ciê w namiocie czy co?}
 {135}{}{W zasadzie... Tak!}
@@ -39,23 +39,23 @@
 {138}{}{Skoro ju¿ to sobie wyjaœniliœmy, pozwól, ¿e o coœ ciê spytam.}
 {139}{}{Tak, ale¿ oczywiœcie. Do widzenia.}
 {140}{}{Kryptopolis [Jimmy pluje pogardliwie]. Tia... Opowiem ci o tych skurwysynach. Pierdolone dranie, czuj¹ siê lepszymi od wszystkich. Daj¹ nam lekarstwa tylko dlatego, ¿e potrzebuj¹ naszego z³ota. Gdyby nie ono, to pozwoliliby nam wszystkim zdechn¹æ. Za d³ugo bym z nimi nie siedzia³. Ale jeœli chcesz tam jechaæ, to Ben Wade wyje¿d¿a tam 1-szego ka¿dego miesi¹ca.}
-{141}{}{A co powiesz na temat Nowego Reno?}
-{142}{}{A co powiesz na temat RNK?}
+{141}{}{Co wiesz na temat Nowego Reno?}
+{142}{}{Co wiesz na temat RNK?}
 {143}{}{Dziêki. Pozwól, ¿e spytam o coœ innego.}
 {144}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
 {145}{}{To siê nazywa miasto! Pamiêtaj tylko, by zachowaæ g³upie komentarze dla siebie i mieæ gnata w pogotowiu. Sporo ostatnio tam walcz¹. Gdyby te wszystkie rodziny zaczê³y ze soba wspó³pracowaæ, to Nowe Reno by³oby naprawdê potêg¹! Ale na razie nie zanosi siê na to... Jeœli chcesz siê tam dostaæ, to do³¹cz do Savinelliego - wyje¿d¿a 21-szego ka¿dego miesi¹ca.}
-{146}{}{A co powiesz na temat Kryptopolis?}
-{147}{}{A co powiesz na temat RNK?}
+{146}{}{Co wiesz na temat Kryptopolis?}
+{147}{}{Co wiesz na temat RNK?}
 {148}{}{Dziêki. Pozwól, ¿e spytam o coœ innego.}
 {149}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
 {150}{}{Republika Nowej Kalifornii jest po prostu pe³na dobrotliwych skurwysynków. Ustawili sobie wszystko po swojemu, ³adnie i prawid³owo. Miejscami a¿ za prawid³owo. S¹ najbardziej praworz¹dn¹ grupk¹ ludzi, jak¹ mo¿na spotkaæ. Stanwell jeŸdzi tam ze swoj¹ karawan¹ 11-tego ka¿dego miesi¹ca.}
-{151}{}{A co powiesz na temat Kryptopolis?}
-{152}{}{A co powiesz na temat Nowego Reno?}
+{151}{}{Co wiesz na temat Kryptopolis?}
+{152}{}{Co wiesz na temat Nowego Reno?}
 {153}{}{Dziêki. Pozwól, ¿e spytam o coœ innego.}
 {154}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
 {155}{}{Generator Ekosystemu Cudownej Krainy? Nie bardzo... Na pewno nie ma go tutaj. Mo¿esz spróbowaæ w jakiejœ Krypcie. Tam powinni mieæ ró¿ne tek-nie-logiczne rzeczy.}
 {156}{}{Muszê spróbowaæ. Pozwól, ¿e spytam ciê jeszcze o coœ.}
-{157}{}{Dziêki za podpowiedŸ. Na razie}
+{157}{}{Dziêki za radê. Do widzenia.}
 {158}{}{Ta, s³ysza³em, ¿e dopadli kogoœ, by znalaz³ procesor do maszyny odkrywkowej w kopalni Wanamingo.}
 {159}{}{S³ysza³em, ¿e szeryf znalaz³ kogoœ od mokrej roboty.}
 {160}{}{Nie za wiele siê dzieje. To co zwykle, kopanie, karawany i inne takie.}
@@ -64,14 +64,14 @@
 {163}{}{Pozwól, ¿e o coœ ciê spytam.}
 {164}{}{Tak tylko sprawdzam. Dziêki i na razie.}
 {165}{}{Nie ma problemu. Ale wiesz, ¿e mieszasz siê w politykê, robi¹c to?}
-{166}{}{Jak to?}
+{166}{}{Co to znaczy?}
 {167}{}{Ale¿ tak, oczywiœcie. Do widzenia.}
 {168}{}{No, bo zale¿nie od tego, komu oddasz ten procesor, ten dorobi siê naprawdê ciê¿kiej kasy, a drugi pójdzie z torbami.}
-{169}{}{No i?}
+{169}{}{I...?}
 {170}{}{Tak to jest w kapitalizmie, przyjacielu. Do zobaczenia.}
 {171}{}{Jeœli dostanie go kopalnia Morningstar, to w mieœcie pojawi siê du¿o wiêcej Jetu. Z kolei jeœli dasz procesor Marge LeBarge z kopalni Kokoweef, to w mieœcie pojawi siê du¿o pajaców z RNK. W ka¿dym razie ktoœ wygra, a ktoœ inny przegra.}
 {172}{}{Jeœli nie ja, to i tak ktoœ inny to zrobi. Powiedz mi jeszcze coœ...}
 {173}{}{Tak to ju¿ jest na œwiecie. Do widzenia.}
 {174}{}{Dopóki to mnie nie dotyczy, to w porz¹dku...}
-{175}{}{Pozwól, ¿e o coœ spytam.}
+{175}{}{Pozwól, ¿e o coœ ciê spytam.}
 {176}{}{Tak tylko sprawdzam. Na razie.}

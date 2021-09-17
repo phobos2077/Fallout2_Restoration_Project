@@ -1,5 +1,5 @@
 {100}{}{Tu vois un scientifique plutôt jeune à la chevelure dégarnie. Il a l'air absorbé par son travail.}
-{101}{}{You see Crockett, the Hubologist scientist.}
+{101}{}{Tu vois Crockett, le scientifique Hubologiste.}
 {102}{}{Tu vois un scientifique plutôt jeune à la chevelure dégarnie. Il est débraillé et semble négligé.}
 {103}{}{Ouais ? Qu'est-ce tu veux ?}
 {104}{}{Agh. Hum. Duur.}
@@ -15,7 +15,7 @@
 {114}{}{Je peux payer.}
 {115}{}{Je te laisserai en vie.}
 {116}{}{Rien. Laisse tomber.}
-{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
+{117}{}{Je m'appelle Crockett. Je suis scientifique et bricoleur. J'peux me remettre au travail là ?}
 {118}{}{Non. J'ai d'autres questions.}
 {119}{}{Ouais, bien sûr.}
 {120}{}{Je mets au point une nouvelle technologie et je prends ma part du gâteau sur les membres de la secte, si tu vois ce que je veux dire.}

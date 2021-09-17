@@ -1,4 +1,4 @@
-1:Dziecko?
+1:Dziecko Przeznaczenia?
 2:Dziecko Przeznaczenia?
 3:S³yszysz mnie?
 4:Wioska [umiera].

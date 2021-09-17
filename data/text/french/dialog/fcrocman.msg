@@ -29,7 +29,7 @@
 {131}{}{Rien. Salut.}
 {132}{}{Tu ne veux pas coopérer, hein ? Gardes ! Eliminez l'intrus !}
 {133}{}{Tes gardes sont des hommes morts.}
-{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{Descends les escaliers et va parler à AHS-7 au poste de garde, il te renseignera comme il faut.}
 {135}{}{Merci. Au revoir.}
 {161}{}{. Je jetais juste un oeil aux alentours.}
 {162}{}{. Je jetais juste un oeil aux alentours.}

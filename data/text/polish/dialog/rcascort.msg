@@ -11,9 +11,9 @@
 {110}{}{Witaj w œlicznym miasteczku - Redding... no i w moim kasynie. Ka¿dy jest asem u Ascortiego. To w³aœnie ja, Ascorti, w³aœciciel i burmistrz tego œlicznego miasta.}
 {111}{}{Co burmistrz Ascorti mo¿e dla ciebie zrobiæ?}
 {112}{}{Czy w Redding mo¿na dostaæ jak¹œ robotê?}
-{113}{}{Co tam ostatnio s³ychaæ w mieœcie?}
+{113}{}{Co s³ychaæ w mieœcie?}
 {114}{}{Czy s³ysza³eœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
-{115}{}{Co tu robisz?}
+{115}{}{Czym siê tutaj zajmujesz?}
 {116}{}{Tak tylko siê rozgl¹dam, burmistrzu. Do zobaczenia.}
 {117}{}{Prowadzê to kasyno oraz ogólnie zarz¹dzam ca³ym miastem. Monitorujê te¿ na przyk³ad takie sprawy jak akty w³asnoœci.}
 {118}{}{Akty w³asnoœci? Czego na przyk³ad?}
@@ -29,7 +29,7 @@
 {128}{}{Jasne, ¿e tak. Ale pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
 {129}{}{Ale¿ tak. Tak tylko sprawdzam. Do widzenia, burmistrzu Ascorti.}
 {130}{}{Ró¿nych posiad³oœci. Np. teraz mam do sprzedania naprawdê super sprawê!}
-{131}{}{To znaczy co?}
+{131}{}{Co to takiego?}
 {132}{}{Za³o¿ê siê, ¿e tak, ale pozwól, ¿e spytam ciê najpierw o coœ innego, burmistrzu.}
 {133}{}{Hmm, myœlê, ¿e najpierw siê trochê rozejrzê po mieœcie. Do widzenia.}
 {134}{}{Akt w³asnoœci wielkiej kopalni Wanamingo znajduj¹cej siê tu¿ za miastem. Mogê ci j¹ sprzedaæ za œmieszn¹ sumkê $1000. Oferta specjalna! Po prostu masz fart, uda³o ci siê trafiæ na dobry dzieñ.}
@@ -76,7 +76,7 @@
 {175}{}{No pewnie. Wiedzia³em, ¿e nie myœlisz tak a¿ tak wolno.}
 {176}{}{Taa. To ile zarobiê na tym $1000?}
 {177}{}{Wiedzia³em, ¿e ktoœ inny siê tam wprowadzi zamiast Wanamingos. Zrobi³ to wredny koleœ zwany ¯aba Morton. Z tego, co wiem, razem ze swoim gangiem.}
-{178}{}{Dlaczego mówi¹ na niego ¯aba?}
+{178}{}{Czemu nazywaj¹ go ¯aba Morton?}
 {179}{}{I gdzie tu mój problem?}
 {180}{}{I co mam z tym zrobiæ?}
 {181}{}{To chyba dlatego, ¿e ¿abija ludzi. Wredny z niego koleœ, za którym nikt nie zatêskni... a ty bêdziesz bohaterem! Chcesz byæ bohaterem, nie?}
@@ -84,7 +84,7 @@
 {183}{}{Tak, jasne. Co mogê z tym zrobiæ?}
 {184}{}{Chyba mam jeszcze trochê do poczyszczenia. Wrócê, gdy nakopiê jeszcze parê ty³ków, burmistrzu.}
 {185}{}{No, dopóki kopalnia nie bêdzie czysta, nie mogê wys³aæ górników do pracy w niej. Wiêc jeœli chcesz mi j¹ sprzedaæ, to masz problem.}
-{186}{}{A dlaczego nazywaj¹ go ¯aba Morton?}
+{186}{}{Czemu nazywaj¹ go ¯aba Morton?}
 {187}{}{Œwietnie. To co mam z tym zrobiæ?}
 {188}{}{W takim razie idê siê nim zaj¹æ. Do widzenia, burmistrzu.}
 {189}{}{Myœlê, ¿e nale¿a³oby pójœæ z powrotem do kopalni Wanamingo i za³atwiæ ¯abê i jego gang. Gdy to zrobisz, mo¿esz do mnie wróciæ, a ja z chêci¹ odkupiê od ciebie kopalniê.}
@@ -169,7 +169,8 @@
 {268}{}{Dziêki. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
 {269}{}{W takim razie pójdê tam i pogadam z nimi. Dziêki, burmistrzu. Do widzenia.}
 {270}{}{Ostatnio nasze transporty z³ota zaczê³y trochê siê zmniejszaæ, poniewa¿ górnicy spêdzaj¹ zbyt du¿o czasu lataj¹c na Jecie.}
-{271}{}{Prawie wszyscy górnicy lataj¹ na Jecie zamiast wydobywaæ z³oto... tak wiêc nasze ceny id¹ w górê, a import spada. To bardzo niedobrze dla biznesu.}
+{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
+ are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Ka¿dy zbyt wysoko lata na Jecie, by móc dobrze pracowaæ. Nie wyrabiamy nawet jednej dziesi¹tej normy i musieliœmy przez to bardzo podnieœæ cenê z³ota. Tak nie mo¿e byæ!}
 {273}{}{Wygl¹da na to, ¿e ka¿dy trafi³ na jak¹œ trefn¹ dzia³kê jetu. Wszyscy Jetowi d¿okeje przechodz¹ jakiœ masowy detoks. Zapewne coœ by³o z nimi nie tak. Nie bardzo wiem, co siê sta³o, ale jestem pewien, ¿e wyjdzie im to na dobre.}
 {274}{}{Wszystko ju¿ prawie wróci³o do normy. Ka¿dy, kto rozchorowa³ siê po Jecie, przeszed³ ju¿ najgorsze i raczej wiêcej ju¿ go nie weŸmie. Nasza produkcja i transport wróci³y te¿ do normy. Wygl¹da na to, ¿e najgorsze mamy za sob¹.}

@@ -25,6 +25,6 @@
 {124}{}{Nie twój interes.}
 {125}{}{Hej, chyba gdzieœ ju¿ s³ysza³em to imiê. Nale¿ysz do Stra¿ników, prawda?}
 {126}{}{Tak.}
-{127}{}{Nie twój zasrany interes.}
+{127}{}{Nie twój interes.}
 {128}{}{Niech i tak bêdzie. Grunt, ¿e nie jesteœ ³owc¹ niewolników. ¯egnaj.}
 {129}{}{Mi³o ciê poznaæ. Miej oczy szeroko otwarte. Do zobaczenia!}

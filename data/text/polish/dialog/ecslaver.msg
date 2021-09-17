@@ -6,7 +6,7 @@
 {105}{}{Mo¿e przerzucê siê na handel meblami.}
 {106}{}{£owcy niewolników nie walcz¹ miêdzy sob¹.}
 {107}{}{Gildia siê o wszystkim dowie!}
-{108}{}{Co ty wyprawiasz?}
+{108}{}{Co tu robisz?}
 {109}{}{Jak leci?}
 {110}{}{Jak tam polowanie?}
 {111}{}{Szukamy nowego towaru.}

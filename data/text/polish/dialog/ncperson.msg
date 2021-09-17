@@ -1,31 +1,22 @@
-# 0. QUICK LOOK (ANY)
 {100}{}{Widzisz mieszkañca Reno.}
-
-# 1. LOOK, MALE (WTG)
 {150}{}{Widzisz zaniedbanego mê¿czyznê. Wygl¹da na znudzonego.}
 {151}{}{Widzisz zaniedbanego mê¿czyznê. Jego spojrzenie nie ma ¿adnego wyrazu.}
 {152}{}{Widzisz zaniedbanego mê¿czyznê. Wygl¹da jakby bola³a go g³owa.}
 {153}{}{Widzisz zaniedbanego mê¿czyznê. Wygl¹da na trochê podchmielonego.}
 {154}{}{Widzisz zaniedbanego mê¿czyznê. Rzuca ci rozdra¿nione spojrzenie, po czym przestaje zwracaæ na ciebie uwagê.}
 {155}{}{Widzisz zaniedbanego mê¿czyznê. Wygl¹da na nieziemsko wkurzonego.}
-
-# 2. LOOK, FEMALE (WTG)
 {160}{}{Widzisz zaniedban¹ kobietê. Wygl¹da na znudzon¹.}
 {161}{}{Widzisz zaniedban¹ kobietê. Jej spojrzenie nie ma ¿adnego wyrazu.}
 {162}{}{Widzisz zaniedban¹ kobietê. Gapi siê w jakiœ punkt tysiace mil st¹d.}
 {163}{}{Widzisz zaniedban¹ kobietê. Wygl¹da na nieco pijan¹.}
 {164}{}{Widzisz zaniedban¹ kobietê. Rzuca ci rozdra¿nione spojrzenie, po czym przestaje zwracaæ na ciebie uwagê.}
 {165}{}{Widzisz zaniedban¹ kobietê. Uœmiecha siê z przek¹sem, gdy wasz wzrok siê spotyka.}
-
-# 3. FLOAT (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
 {200}{}{::Klaszcze::}
 {201}{}{::Wiwatuje::}
 {202}{}{Ci dranie z Enklawy dostali za swoje! Co za wyczyn!}
 {203}{}{Doskona³a robota z t¹ Enklaw¹, }
 {204}{}{Brawka z okazji rozdeptania Enklawy, }
 {205}{}{Brawka z okazji rozdeptania Enklawy, }
-
-# 4. FLOAT (ANY) TO [POWER ARMOR] (WTG)
 {215}{}{Uch-och. ZejdŸcie z drogi.}
 {216}{}{Jedno spojrzenie na niego... na ni¹... na to... na COKOLWIEK to jest, przyprawia mnie o dreszcze.}
 {217}{}{Myœlicie, ¿e to coœ da komuœ w czapê?}
@@ -36,8 +27,6 @@
 {222}{}{Myœlê, ¿e ten pan Roboto mnie w³aœnie przeskanowa³.}
 {223}{}{Myœlê, ¿e ten chodz¹cy czo³g w³aœnie ¿yczy³ mi œmierci. Zmiatam st¹d.}
 {224}{}{Podobno ta rzecz rozwali³a wczoraj trzech zabójców.}
-
-# 5. FLOAT AND CLICK (FEMALE) TO [MALE, PORN STAR] (WTG)
 {240}{}{No no, wiiiiitaj przeœliczny.}
 {241}{}{Mo¿e taki ogier jak ty potrzebuje siod³a? Jutro wieczorem mam wolne.}
 {242}{}{Co robisz po godzinach ¿eglarzu?}
@@ -48,8 +37,6 @@
 {247}{}{Potrzebujesz partnerki do nastêpnego filmu?}
 {248}{}{::Gapi siê na twoje bicepsy::}
 {249}{}{::Klaszcze, gwi¿d¿e::}
-
-# 6. FLOAT (MALE) TO [FEMALE, PORN STAR] (WTG)
 {255}{}{£ochoo. Tylko spójrzcie.}
 {256}{}{Tylko spójrz na NI¥.}
 {257}{}{::Wymyka mu siê s³ówko "o kurde"::}
@@ -65,7 +52,7 @@
 {267}{}{::Gwi¿d¿e::}
 {268}{}{Te twoje nogi naprawdê s¹ takie d³ugie?}
 {269}{}{Hej, piêkna, czy twoja dupcia potrzebuje, ¿eby ktoœ siê ni¹ zaopiekowa³?}
-{270}{}{}
+{270}{}{You got fries to go with that shake, beautiful?}
 {271}{}{Mo¿e bêdzie dzisiaj tañczyæ.}
 {272}{}{Widzia³eœ jej ostatni film? Mówiê ci, cz³owieku, GOR¥CY.}
 {273}{}{Przepraszam. Muszê iœæ na chwilê do ³azienki, no tego i uczesaæ siê.}
@@ -80,8 +67,6 @@
 {282}{}{Kuuuurde.}
 {283}{}{Popatrzcie na te reflektory.}
 {284}{}{Za³o¿ê siê, ¿e ma k³opoty z krêgos³upem.}
-
-# 7. FLOAT AND CLICK (ANY) TO [MALE, PRIZEFIGHTER] (WTG)
 {285}{}{Nie patrz tak spode ³ba, panie Mistrzowski Pas.}
 {286}{}{Stawiam na ciebie 20 dolców!}
 {287}{}{Hej, mistrzu! Ta ostatnia walka by³a œwietna!}
@@ -90,11 +75,9 @@
 {290}{}{Ile wyciskasz?}
 {291}{}{Gdzie pakujesz?}
 {292}{}{Uwa¿aj na Masticatora. On ma s³aboœæ do uszu.}
-{293}{}{Postawilibyœmy ci drinka, gdybyœmy nie stracili wszystkich pieniêdzy stawiaj¹c na twojego przeciwnika.}
+{293}{}{Postawi³bym ci drinka, ale przepuœci³em ca³¹ forsê stawiaj¹c na twojego przeciwnika.}
 {294}{}{Nie wygl¹dasz na zbyt tward¹, panno Lewy Sierpowy.}
 {295}{}{Mogê zobaczyæ jak ruszasz swoimi miêœniami brzusznymi?}
-
-# 8. FLOAT (ANY) TO [MADE MAN] (WTG)
 {300}{}{Nie w³aŸcie mu pod nogi.}
 {301}{}{Chyba na mnie spojrza³.}
 {302}{}{Myœlê, ¿e w³aœnie ¿yczy³ mi œmierci. Spadam st¹d.}
@@ -112,8 +95,6 @@
 {314}{}{Myœlê, ¿e ona w³aœnie ¿yczy³a mi œmierci. Spadam st¹d.}
 {315}{}{Podobno zastrzeli³a wczoraj trzech zabójców.}
 {316}{}{Co za baba! Uch, to znaczy, twarda baba.}
-
-# 9. FLOAT (ANY) TO [SLAVER] (WTG)
 {320}{}{O co chodzi z tymi wszystkimi ³owcami niewolników, którzy siê tu ostatnio krêc¹?}
 {321}{}{Nigdy wczeœniej nie by³o tu ¿adnych ³owców niewolników...}
 {322}{}{Zastanawiam siê, czy pójdzie do Stajni...}
@@ -152,20 +133,14 @@
 {355}{}{To miasto jest wspania³e... nie licz¹c turystów.}
 {356}{}{To miasto jest wspania³e... nie licz¹c ³owców niewolników.}
 {357}{}{To miasto jest wspania³e... nie licz¹c dziwek i alfonsów.}
-
-# 10. FLOAT AND CLICK (ANY) TO [COMPANION: ROBOBRAIN] (WTG)
 {365}{}{Czy to coœ za tob¹ to jakiœ automat do gry?}
 {366}{}{Czy to jest robo-automat do gry?}
-{367}{}{Czy twój robot robi sztuczki? Uch... to znaczy, magiczne sztuczki.}
-
-# 11. FLOAT (ANY) TO [COMPANION: MARCUS] (WTG)
+{367}{}{Czy twój robot potrafi robiæ sztuczki? Eee... magiczne sztuczki!}
 {375}{}{Powiedz mi, ¿e to nie jest mutant.}
 {376}{}{To mutant?}
 {377}{}{O kurde. Mutanty w Nowym Reno. To musi oznaczaæ k³opoty.}
 {378}{}{Ten mutant to...}
 {379}{}{Wstrêtni mi³oœnicy mutantów...}
-
-# 12. FLOAT (ANY) TO [COMPANION: BONE-NOSE] OR MALE TOWNSPERSON REACTION TO [COMPANION = FEMALE SPOUSE] (WTG)
 {385}{}{Twój kumpel ma w nosie koœæ.}
 {386}{}{Czy wszyscy w tej twojej ma³ej bandzie wsadzaj¹ sobie do nosa koœci, ¿eby siê wykazaæ?}
 {387}{}{Ty i ten goœæ jesteœcie z plemienia "wsadŸ-sobie-koœæ-do-tr¹by"?}
@@ -177,32 +152,32 @@
 {393}{}{Ilu jeszcze dzikusów zamierza przyjœæ do miasta?}
 {394}{}{Jeszcze jedna ma³pa.}
 {395}{}{Ten ch³opak nied³ugo trafi na Golgotê.}
-{396}{}{Zesz³ej nocy smród od Golgoty by³ nie do wytrzymania...}
+{396}{}{Ten smród od Golgoty by³ zesz³ej nocy nie do wytrzymania...}
 {397}{}{Jebani turyœci.}
-{398}{}{Takie ju¿ moje psie szczêœcie...}
-{399}{}{Podobno ³owcy niewolników zebrali nowe ¿niwo.}
+{398}{}{Takie ju¿ moje psie szczêœcie.}
+{399}{}{Podobno ³owcy niedawno zebrali nowe ¿niwo.}
 {400}{}{Wespó³ w zespó³.}
 {401}{}{Obrobiê bank.}
-{402}{}{Czasem za du¿o do picia to za ma³o.}
+{402}{}{Czasem za du¿o picia to za ma³o.}
 {403}{}{Ci cholerni przejezdni w kasynach...}
 {404}{}{Niebiosa mi nie sprzyjaj¹.}
 {405}{}{Szczêœcie mi nie sprzyja.}
-{406}{}{Dobrze, ¿e powiesili tego faceta...}
+{406}{}{Dobrze, ¿e powiesili tego goœcia...}
 {407}{}{Brudny œmierdziuch...}
 {408}{}{Niebiosa siê nade mn¹ ulitowa³y.}
-{409}{}{Du¿y pech, z³e wiatry, kiepskie czasy, kiepskie czasy...}
+{409}{}{Du¿y pech, z³e wiatry, kieskie czasy, kiepskie czasy...}
 {410}{}{W Reno robi siê gor¹co, czas siê przeprowadziæ.}
 {411}{}{Ta córka Bishopa jest nieobliczalna.}
-{412}{}{Jeœli Unia WstrzemiêŸliwoœci znowu palnie mi kazanie...}
+{412}{}{Jeœli Unia WstrzemiêŸliwoœci jeszcze raz palnie mi kazanie...}
 {413}{}{Tully znowu siê stoczy³.}
 {414}{}{Cholerni przyjezdni.}
 {415}{}{A to coœ jest nie st¹d.}
-{416}{}{Muszê wynieœæ siê z tego miasta.}
+{416}{}{Muszê siê wynieœæ z tego miasta.}
 {417}{}{Dziœ rano znowu le¿a³ tu jakiœ œ.p. Mia³ w ustach pe³no much. I UŒMIECHA£ siê.}
 {418}{}{PRÓBUJÊ z tym skoñczyæ, ale...}
 {419}{}{Po co ryzykowaæ takimi stwierdzeniami?}
 {420}{}{Nienawidzê tego przeklêtego miasta.}
-{421}{}{Ju¿ zbyt d³ugo ¿yjê w tym mieœcie.}
+{421}{}{Zbyt d³ugo ju¿ siedzê w tym mieœcie.}
 {422}{}{To miasto jest wspania³e... nie licz¹c turystów.}
 {423}{}{To miasto jest wspania³e... nie licz¹c ³owców niewolników.}
 {424}{}{To miasto jest wspania³e... nie licz¹c dziwek i alfonsów.}
@@ -211,33 +186,31 @@
 {427}{}{Ta kobieta, która siê z tob¹ krêci, to dopiero jest ³adna.}
 {428}{}{Czy ta twoja kobieta umie gotowaæ? Jeœli tak, to j¹ wezmê.}
 {429}{}{Ile chcesz za tê twoj¹ szmatê?}
-{430}{}{}
+{430}{}{Check out the new boss o' the walk.}
 {431}{}{Ktoœ tu bêdzie mia³ dziœ w nocy niez³¹ rozrywkê!}
 {432}{}{Pani Bishop to dopiero ma ³adniusi ty³eczek.}
-
-# 13. FLOAT [NO REP] (WTG)
 {450}{}{Pani Bishop to dopiero ma ³adniusi ty³eczek.}
-{451}{}{Jeœli Unia WstrzemiêŸliwoœci palnie mi jeszcze jedno kazanie...}
-{452}{}{Œwietnie. To jeden z tym dzikusowatych osi³ków.}
+{451}{}{Jeœli Unia WstrzemiêŸliwoœci jeszcze raz palnie mi kazanie...}
+{452}{}{Œwietnie. To jeden z tych dzikusowatych osi³ków.}
 {453}{}{Ilu jeszcze dzikusów zamierza przyjœæ do miasta?}
-{454}{}{Kolejna ma³pa.}
+{454}{}{Jeszcze jedna ma³pa.}
 {455}{}{Dzikusy czêsto l¹duj¹ na Golgocie.}
-{456}{}{Zesz³ej nocy smród od Golgoty by³ nie do wytrzymania...}
+{456}{}{Ten smród od Golgoty by³ zesz³ej nocy nie do wytrzymania...}
 {457}{}{W takiej burzy piaskowej nie znajdziesz nawet w³asnego ty³ka...}
 {458}{}{Jebani turyœci.}
 {459}{}{Takie ju¿ moje psie szczêœcie.}
-{460}{}{Podobno ³owcy niewolników zebrali nowe ¿niwo.}
+{460}{}{Podobno ³owcy niedawno zebrali nowe ¿niwo.}
 {461}{}{Wespó³ w zespó³.}
-{462}{}{Rozbijê bank.}
-{463}{}{Czasem za du¿o do wypicia to za ma³o.}
-{464}{}{Cholerni przyjezdni w kasynach...}
-{465}{}{Wspaniale, jeszcze jeden tani gracz.}
+{462}{}{Obrobiê bank.}
+{463}{}{Czasem za du¿o picia to za ma³o.}
+{464}{}{Ci cholerni przejezdni w kasynach...}
+{465}{}{Œwietnie, jeszcze jeden tani gracz.}
 {466}{}{Niebiosa mi nie sprzyjaj¹.}
 {467}{}{Szczêœcie mi nie sprzyja.}
-{468}{}{Dobrze, ¿e powiesili tego faceta...}
-{469}{}{Brudny œmierdziuch.}
+{468}{}{Dobrze, ¿e powiesili tego goœcia...}
+{469}{}{Brudny œmierdziuch...}
 {470}{}{Niebiosa siê nade mn¹ ulitowa³y.}
-{471}{}{Du¿y pech, z³e wiatry, kiepskie czasy, kiepskie czasy...}
+{471}{}{Du¿y pech, z³e wiatry, kieskie czasy, kiepskie czasy...}
 {472}{}{W Reno robi siê gor¹co, czas siê przeprowadziæ.}
 {473}{}{Ta córka Bishopa jest nieobliczalna.}
 {474}{}{Tully znowu siê stoczy³.}
@@ -248,14 +221,12 @@
 {479}{}{PRÓBUJÊ z tym skoñczyæ, ale...}
 {480}{}{Po co ryzykowaæ takimi stwierdzeniami?}
 {481}{}{Nienawidzê tego przeklêtego miasta.}
-{482}{}{Ju¿ zbyt d³ugo ¿yjê w tym mieœcie.}
+{482}{}{Zbyt d³ugo ju¿ siedzê w tym mieœcie.}
 {483}{}{To miasto jest wspania³e... nie licz¹c turystów.}
 {484}{}{To miasto jest wspania³e... nie licz¹c ³owców niewolników.}
 {485}{}{To miasto jest wspania³e... nie licz¹c dziwek i alfonsów.}
 {486}{}{Mo¿e by tak pójœæ do œródmieœcia i zobaczyæ, czy w mieœcie s¹ jacyœ nowi faceci...}
-{487}{}{Jeœli Unia WstrzemiêŸliwoœci palnie mi jeszcze jedno kazanie...}
-
-# 14. CLICK (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
+{487}{}{Jeœli Unia WstrzemiêŸliwoœci jeszcze raz palnie mi kazanie...}
 {490}{}{Ci dranie z Enklawy dostali za swoje! Co za wyczyn!}
 {491}{}{To by³o dla mnie zawsze oczywiste, ¿e prezydent chcia³ nas wszystkich zabiæ.}
 {492}{}{To prezydent jeszcze ¿y³? Kiedy by³y ostatnie wybory?}
@@ -270,8 +241,6 @@
 {501}{}{Nowe Reno zosta³o zaprojektowane przez Chrissa Avellone i Toma Frencha. Plotka g³osi, ¿e siê nied³ugo pobior¹. }
 {502}{}{Feragus nabra³ takiego marsowego wyrazu twarzy, kiedy zobaczy³, ile mam niepotrzebnych gadek.}
 {503}{}{Twój wynik to 192 na 208. Naprawdê trzeba by³o u¿yæ na Horriganie tego zmutowanego palca.}
-
-# 15. CLICK (ANY) TO [POWER ARMOR) (WTG)
 {510}{}{Szukasz swojego brata Robby'ego? No wiesz, Robby'ego Robota? Eee, niewa¿ne.}
 {511}{}{Przepraszam, stojê na twojej drodze? Odejdê z miasta.}
 {512}{}{Przepraszam, oddycham twoim powietrzem? Przestanê.}
@@ -288,19 +257,17 @@
 {523}{}{Ty pewnie wêdrujesz do jednej z tych nowych, pecetowych gier o mechach i jesteœ tu przez pomy³kê.}
 {524}{}{Pewnie, pewnie, ty te¿ "klap-zziuu-klap".}
 {525}{}{Jeœli myœlisz, ¿e przera¿a mnie twoja zbroja, to masz racjê.}
-
-# 16. CLICK (MALE) TO [FEMALE, PORN STAR] (WTG)
 {540}{}{Sprzedajesz?}
 {541}{}{Mogê kupiæ twoje ubrania? To znaczy, na miejscu?}
-{542}{}{WIEDZIA£EM, ¿e powinienem siê dziœ ogoliæ.}
+{542}{}{WIEDZIA£EM, ¿e powinienem siê dzisiaj ogoliæ.}
 {543}{}{ChodŸ tu na chwilê, s³odziutka i pogadaj ze mn¹.}
 {544}{}{Po chodŸ gor¹ce usta, przejdŸmy siê.}
 {545}{}{Ma³a zwinna pindzia, co nie?}
 {546}{}{Dla ciebie bym siê nawet wyk¹pa³.}
-{547}{}{Mam tu pod rêk¹ twoj¹ ¿y³ê z³ota.}
-{548}{}{Czy te nogi naprawdê s¹ takie d³ugie?}
+{547}{}{Mam tu zaraz przy sobie twoj¹ ¿y³ê z³ota.}
+{548}{}{Te twoje nogi naprawdê s¹ takie d³ugie?}
 {549}{}{Bêdziesz dziœ wieczorem tañczyæ?}
-{550}{}{Przepraszam, muszê iœæ na chwilê do ³azienki, ¿eby siê, eee, uczesaæ.}
+{550}{}{Przepraszam. Muszê iœæ na chwilê do ³azienki, no tego i uczesaæ siê.}
 {551}{}{Chcia³bym byæ twoj¹ bielizn¹.}
 {552}{}{Chcia³bym pow¹chaæ twoje spodenki.}
 {553}{}{Niez³a z ciebie laska.}
@@ -312,18 +279,14 @@
 {559}{}{£adne fijufiu!}
 {560}{}{Te twoje reflektory mnie oœlepiaj¹.}
 {561}{}{Czy masz k³opoty z krêgos³upem?}
-
-# 17. CLICK (ANY) TO [MALE, MADE MAN) (WTG)
 {580}{}{Dzieñ dobry panu. Jak siê pan miewa?}
 {581}{}{Przepraszam pana, czy wszystko w porz¹dku?}
-{582}{}{Przepraszam, czy stojê ci na drodze? Odejdê z miasta.}
-{583}{}{Przepraszam, czy oddycham twoim powietrzem? Przestanê.}
+{582}{}{Przepraszam, stojê na twojej drodze? Odejdê z miasta.}
+{583}{}{Przepraszam, oddycham twoim powietrzem? Przestanê.}
 {584}{}{Przeka¿ moje pozdrowienia szefowi.}
 {585}{}{S³uchaj, proszê... nie chcê ¿adnych k³opotów.}
 {586}{}{Dzieñ dobry pani. Jak siê pani miewa?}
 {587}{}{Przepraszam pani¹, czy wszystko w porz¹dku?}
-
-# 18. CLICK (ANY) TO [SLAVER] (WTG)
 {600}{}{O co chodzi z tymi wszystkimi ³owcami niewolników, którzy siê tu ostatnio krêc¹?}
 {601}{}{Wczeœniej ciê tu chyba nie by³o...}
 {602}{}{Jeœli chcesz sprzedaæ niewolników, spróbuj u Mordino.}
@@ -331,74 +294,72 @@
 {604}{}{Poka¿ mi swoje towary.}
 {605}{}{Jeœli chcesz sprzedaæ niewolników, sprawdŸ u Mordino.}
 {606}{}{Nienawidzê tego przeklêtego miasta.}
-{607}{}{Zbyt d³ugo ju¿ ¿yjê w tym mieœcie.}
+{607}{}{Zbyt d³ugo ju¿ siedzê w tym mieœcie.}
 {608}{}{To miasto jest wspania³e... nie licz¹c turystów.}
 {609}{}{To miasto jest wspania³e... nie licz¹c ³owców niewolników.}
 {610}{}{To miasto jest wspania³e... nie licz¹c dziwek i alfonsów.}
-{611}{}{Podobno na pó³noc od Nowego Reno przeprowadza siê na niewolnikach testy narkotyków.}
+{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{Golgotha le¿y na po³udnie od Reno, na pustyni.}
 {613}{}{Nie mam bogactw, ale mam bogat¹ duszê.}
 {614}{}{To nie bieda, to tylko pech.}
-{615}{}{Zesz³ej nocy smród od Golgoty by³ nie do wytrzymania...}
+{615}{}{Ten smród od Golgoty by³ zesz³ej nocy nie do wytrzymania...}
 {616}{}{Do licha! Widzisz, ju¿ by³y 53 dolce na plusie, a potem...}
 {617}{}{Lepiej uwa¿aj w tej okolicy, albo siê wybierzesz na Golgotê.}
 {618}{}{Nowe Reno nie by³oby takim z³ym miejscem, gdyby nie ci jebani turyœci.}
 {619}{}{Wespó³ w zespó³.}
-{620}{}{Rozbijê bank.}
-{621}{}{Czasem za du¿o do picia to za ma³o.}
-{622}{}{Cholerni przyjezdni w kasynach...}
+{620}{}{Obrobiê bank.}
+{621}{}{Czasem za du¿o picia to za ma³o.}
+{622}{}{Ci cholerni przejezdni w kasynach...}
 {623}{}{Tani gracz to ktoœ, kto przyje¿d¿a do miasta i stawia w grze tylko dolca albo dwa.}
 {624}{}{Niebiosa mi nie sprzyjaj¹.}
 {625}{}{Szczêœcie mi nie sprzyja.}
-{626}{}{Dobrze, ¿e powiesili tego faceta...}
+{626}{}{Dobrze, ¿e powiesili tego goœcia...}
 {627}{}{Brudny œmierdziuch...}
 {628}{}{Czego chcesz?}
-{629}{}{Du¿y pech, z³e wiatry, kiepskie czasy, kiepskie czasy...}
-{630}{}{W Reno robi siê gor¹co, czas siê st¹d wynosiæ.}
+{629}{}{Du¿y pech, z³e wiatry, kieskie czasy, kiepskie czasy...}
+{630}{}{W Reno robi siê gor¹co, czas siê przeprowadziæ.}
 {631}{}{Ta córka Bishopa jest nieobliczalna.}
-{632}{}{Jeœli Unia WstrzemiêŸliwoœci palnie mi jeszcze jedno kazanie...}
+{632}{}{Jeœli Unia WstrzemiêŸliwoœci jeszcze raz palnie mi kazanie...}
 {633}{}{Tully znowu siê stoczy³.}
 {634}{}{Muszê siê wynieœæ z tego miasta.}
 {635}{}{Dziœ rano znowu le¿a³ tu jakiœ œ.p. Mia³ w ustach pe³no much. I UŒMIECHA£ siê.}
 {636}{}{PRÓBUJÊ z tym skoñczyæ, ale...}
 {637}{}{Nie zawracaj mi g³owy.}
 {638}{}{S³uchaj, nie mam teraz czasu, ¿eby z tob¹ rozmawiaæ.}
-
-# 19. CLICK (ANY) TO [COMPANION: BONE-NOSE] OR MALE TOWNSPERSON TO (COMPANION: SPOUSE = FEMALE) (WTG)
-{650}{}{Twój przyjaciel ma koœæ w nosie.}
-{651}{}{Czy wszyscy w tej twojej ma³ej bandzie wpychaj¹ sobie do nosa koœci, ¿eby siê wykazaæ?}
+{650}{}{Twój kumpel ma w nosie koœæ.}
+{651}{}{Czy wszyscy w tej twojej ma³ej bandzie wsadzaj¹ sobie do nosa koœci, ¿eby siê wykazaæ?}
 {652}{}{Ty i ten goœæ jesteœcie z plemienia "wsadŸ-sobie-koœæ-do-tr¹by"?}
-{653}{}{Ten goœæ z koœci¹ w nosie to ¿ywy dowód na to, ¿e dzikusów nigdy nie da siê ucywilizowaæ.}
-{654}{}{Ten facet ma koœæ w nosie?}
-{655}{}{Ten facet ma w nosie koœæ wielkoœci mojego ramienia. Chryyy-ste.}
+{653}{}{Ten goœæ z koœci¹ w nosie, co siê z tob¹ krêci to dowód, ¿e dzikusów nigdy nie da siê ucywilizowaæ.}
+{654}{}{Ten goœciu ma koœæ w nosie?}
+{655}{}{Ta koœæ w nosie tego goœcia jest wielkoœci mojego ramienia. Chryyy-ste.}
 {656}{}{Nawet nie chcê wiedzieæ, jak ta koœæ znalaz³a siê w nosie twojego kumpla.}
 {657}{}{Nienawidzê tego przeklêtego miasta.}
-{658}{}{Zbyt d³ugo ju¿ ¿yjê w tym mieœcie.}
+{658}{}{Zbyt d³ugo ju¿ siedzê w tym mieœcie.}
 {659}{}{To miasto jest wspania³e... nie licz¹c turystów.}
 {660}{}{To miasto jest wspania³e... nie licz¹c ³owców niewolników.}
 {661}{}{To miasto jest wspania³e... nie licz¹c dziwek i alfonsów.}
-{662}{}{Podobno na pó³noc od Nowego Reno przeprowadza siê na niewolnikach testy narkotyków.}
-{663}{}{Golgota le¿y na po³udnie od Nowego Reno, na pustyni.}
+{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{663}{}{Golgotha le¿y na po³udnie od Reno, na pustyni.}
 {664}{}{Nie mam bogactw, ale mam bogat¹ duszê.}
 {665}{}{To nie bieda, to tylko pech.}
-{666}{}{Zesz³ej nocy smród od Golgoty by³ nie do wytrzymania...}
+{666}{}{Ten smród od Golgoty by³ zesz³ej nocy nie do wytrzymania...}
 {667}{}{Do licha! Widzisz, ju¿ by³y 53 dolce na plusie, a potem...}
-{668}{}{Lepiej uwa¿aj na siebie w tej okolicy, albo wyl¹dujesz na Golgocie.}
+{668}{}{Lepiej uwa¿aj w tej okolicy, albo siê wybierzesz na Golgotê.}
 {669}{}{Nowe Reno nie by³oby takim z³ym miejscem, gdyby nie ci jebani turyœci.}
 {670}{}{Wespó³ w zespó³.}
-{671}{}{Rozbijê bank.}
-{672}{}{Czasem za du¿o do picia to za ma³o.}
-{673}{}{Cholerni przyjezdni w kasynach...}
-{674}{}{Tani gracz to ktoœ, kto przyje¿d¿a do miasta i stawia w grze tylko dolca lub dwa.}
+{671}{}{Obrobiê bank.}
+{672}{}{Czasem za du¿o picia to za ma³o.}
+{673}{}{Ci cholerni przejezdni w kasynach...}
+{674}{}{Tani gracz to ktoœ, kto przyje¿d¿a do miasta i stawia w grze tylko dolca albo dwa.}
 {675}{}{Niebiosa mi nie sprzyjaj¹.}
 {676}{}{Szczêœcie mi nie sprzyja.}
-{677}{}{Dobrze, ¿e powiesili tego faceta...}
+{677}{}{Dobrze, ¿e powiesili tego goœcia...}
 {678}{}{Brudny œmierdziuch...}
 {679}{}{Czego chcesz?}
-{680}{}{Du¿y pech, z³e wiatry, kiepskie czasy, kiepskie czasy...}
-{681}{}{W Reno robi siê gor¹co, czas st¹d zwiewaæ.}
+{680}{}{Du¿y pech, z³e wiatry, kieskie czasy, kiepskie czasy...}
+{681}{}{W Reno robi siê gor¹co, czas siê przeprowadziæ.}
 {682}{}{Ta córka Bishopa jest nieobliczalna.}
-{683}{}{Jeœli Unia WstrzemiêŸliwoœci palnie mi jeszcze jedno kazanie...}
+{683}{}{Jeœli Unia WstrzemiêŸliwoœci jeszcze raz palnie mi kazanie...}
 {684}{}{Tully znowu siê stoczy³.}
 {685}{}{Muszê siê wynieœæ z tego miasta.}
 {686}{}{Dziœ rano znowu le¿a³ tu jakiœ œ.p. Mia³ w ustach pe³no much. I UŒMIECHA£ siê.}
@@ -407,54 +368,50 @@
 {689}{}{S³uchaj, nie mam teraz czasu, ¿eby z tob¹ rozmawiaæ.}
 {690}{}{To twoja "¿ona", co? Czy mogê po¿yczyæ j¹ na godzinkê lub dwie?}
 {691}{}{Chcesz na trochê zamieniæ siê na ¿ony?}
-{692}{}{Sprzedajesz tê swoj¹ kobietê?}
-{693}{}{Ile za tê kobietê, która krêci siê z tob¹?}
-{694}{}{Ta kobieta, która siê z tob¹ krêci, to dopiero jest œliczna.}
-{695}{}{Czy ta twoja kobieta umie gotowaæ? Wezmê j¹.}
+{692}{}{Chcesz sprzedaæ tê swoj¹ kobietê?}
+{693}{}{Ile za twoj¹ kobietê?}
+{694}{}{Ta kobieta, która siê z tob¹ krêci, to dopiero jest ³adna.}
+{695}{}{Czy ta twoja kobieta umie gotowaæ? Jeœli tak, to j¹ wezmê.}
 {696}{}{Ile chcesz za tê twoj¹ szmatê?}
 {697}{}{Pani Bishop to dopiero ma ³adniusi ty³eczek.}
-
-# 20. CLICK (ANY) TO [NO REP] (WTG)
-{700}{}{Dziœ w nocy bêdziemy szaleæ!}
+{700}{}{Ktoœ tu bêdzie mia³ dziœ w nocy niez³¹ rozrywkê!}
 {701}{}{ZnajdŸ se dziwkê, zabaw siê.}
 {702}{}{Pani Bishop to dopiero ma ³adniusi ty³eczek.}
-{703}{}{Podobno na pó³noc od Nowego Reno przeprowadza siê na niewolnikach testy narkotyków.}
-{704}{}{Golgota le¿y na po³udnie od Reno, na pustyni.}
-{705}{}{Mo¿e i nie mam bogactw, ale mam bogat¹ duszê.}
+{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{704}{}{Golgotha le¿y na po³udnie od Reno, na pustyni.}
+{705}{}{Nie mam bogactw, ale mam bogat¹ duszê.}
 {706}{}{To nie bieda, to tylko pech.}
-{707}{}{Ilu dzikusów przyjdzie jeszcze do miasta?}
+{707}{}{Ilu jeszcze dzikusów zamierza przyjœæ do miasta?}
 {708}{}{Powiedz reszcie swojej wioski, ¿eby zosta³a w domu.}
 {709}{}{Jeszcze jedna ma³pa? Wy, dzikusy, mno¿ycie siê jak szarañcza.}
-{710}{}{Zesz³ej nocy smród od Golgoty by³ nie do wytrzymania...}
-{711}{}{Do licha! Widzisz, by³y ju¿ 53 dolce na plusie, a potem...}
-{712}{}{W tej okolicy lepiej uwa¿aj na siebie, albo wyl¹dujesz na Golgocie.}
+{710}{}{Ten smród od Golgoty by³ zesz³ej nocy nie do wytrzymania...}
+{711}{}{Do licha! Widzisz, ju¿ by³y 53 dolce na plusie, a potem...}
+{712}{}{Lepiej uwa¿aj w tej okolicy, albo siê wybierzesz na Golgotê.}
 {713}{}{Nowe Reno nie by³oby takim z³ym miejscem, gdyby nie ci jebani turyœci.}
-{714}{}{Podobno ³owcy niewolników zebrali nowe ¿niwo...}
-{715}{}{W burdelu wyl¹dowa³a nowa dostawa od ³owców niewolników.}
+{714}{}{Podobno ³owcy niedawno zebrali nowe ¿niwo.}
+{715}{}{W burdelu wyl¹dowa³a ju¿ nowa dostawa od ³owców niewolników.}
 {716}{}{Wespó³ w zespó³.}
-{717}{}{Rozbijê bank.}
-{718}{}{Czasem za du¿o do picia to za ma³o.}
-{719}{}{Cholerni przyjezdni w kasynach...}
-{720}{}{Tani gracz to ktoœ, kto przyje¿d¿a do miasta i obstawia w grze tylko dolca lub dwa.}
+{717}{}{Obrobiê bank.}
+{718}{}{Czasem za du¿o picia to za ma³o.}
+{719}{}{Ci cholerni przejezdni w kasynach...}
+{720}{}{Tani gracz to ktoœ, kto przyje¿d¿a do miasta i stawia w grze tylko dolca albo dwa.}
 {721}{}{Niebiosa mi nie sprzyjaj¹.}
 {722}{}{Szczêœcie mi nie sprzyja.}
-{723}{}{Dobrze, ¿e powiesili tego faceta...}
+{723}{}{Dobrze, ¿e powiesili tego goœcia...}
 {724}{}{Brudny œmierdziuch...}
 {725}{}{Czego chcesz?}
-{726}{}{Du¿y pech, z³e wiatry, kiepskie czasy, kiepskie czasy...}
+{726}{}{Du¿y pech, z³e wiatry, kieskie czasy, kiepskie czasy...}
 {727}{}{W Reno robi siê gor¹co, czas siê przeprowadziæ.}
 {728}{}{Ta córka Bishopa jest nieobliczalna.}
-{729}{}{Jeœli Unia WstrzemiêŸliwoœci palnie mi jeszcze jedno kazanie...}
-{730}{}{Tully znowu siê stoczy³...}
+{729}{}{Jeœli Unia WstrzemiêŸliwoœci jeszcze raz palnie mi kazanie...}
+{730}{}{Tully znowu siê stoczy³.}
 {731}{}{Muszê siê wynieœæ z tego miasta.}
 {732}{}{Dziœ rano znowu le¿a³ tu jakiœ œ.p. Mia³ w ustach pe³no much. I UŒMIECHA£ siê.}
 {733}{}{PRÓBUJÊ z tym skoñczyæ, ale...}
 {734}{}{Nie zawracaj mi g³owy.}
 {735}{}{S³uchaj, nie mam teraz czasu, ¿eby z tob¹ rozmawiaæ.}
-{736}{}{Mo¿e warto by wybraæ siê do œródmieœcia, zobaczyæ, czy s¹ w mieœcie jacyœ nowi faceci...}
+{736}{}{Mo¿e by tak pójœæ do œródmieœcia i zobaczyæ, czy w mieœcie s¹ jacyœ nowi faceci...}
 {737}{}{Dobrze, ¿e powiesili tego dupka...}
-
-# endlines
 {1203}{}{!}
 {1204}{}{! Wymiatasz! WYMIATASZ!}
 {1205}{}{! Ty jesteœ ZYSK!}

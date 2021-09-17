@@ -21,8 +21,7 @@
 {120}{}{Opuszczasz moj¹ karawanê, a póŸniej wracasz ¿ebraæ o pracê? Wynoœ siê st¹d.}
 {121}{}{Powiedzia³em spierdalaj. Twoje uszy s¹ w takim samym stanie jak mózg?}
 {122}{}{Szanujê z³odziei... ale tylko dobrych. Ty jesteœ tylko ma³¹ gnid¹. Wynocha, zanim zrobiê ci krzywdê.}
-{123}{}{Nazywasz mnie z³odziejem? Ty te¿ nim jesteœ, niewdziêczniku. Odchodzê. ¯egnam.}
-{200}{}{Ta zniewaga krwi wymaga!}
+{123}{}{Z³odziejem? Zapamiêtam to sobie, ty pod³y niewdziêczniku. Odchodzê, ¿egnam.}
 {124}{}{Po¿a³ujesz tego. ¯egnam.}
 {125}{}{To by³a jedna z najgorszych karawan, jakie mia³em od lat. Nic na tym nie zarobi³em, wiêc wiesz co? Ty te¿ nie. ZejdŸ mi z oczu.}
 {126}{}{Ta? Ciekawe, jakbyœ wygl¹da³ po tym, draniu. ¯egnam.}
@@ -34,27 +33,28 @@
 {132}{}{Nie chcê ju¿ chyba nigdy wiêcej spêdziæ tyle czasu gapi¹c siê w dupê braminy. Do widzenia.}
 {133}{}{Dziêki. Na razie.}
 {134}{}{Tak powinno siê prowadziæ karawanê. G³adko, jak pupa niemowlêcia. Masz tu swoje 1500$, a dorzucê jeszcze ekstra 200$ za bezwypadkow¹ jazdê.}
-{135}{}{Mi³o widzieæ kogoœ, kto docenia widoczn¹ jakoœæ. Mo¿e jeszcze siê zobaczymy. Na razie.}
+{135}{}{Mi³o znaleŸæ kogoœ, kto docenia widoczn¹ jakoœæ. Mo¿e jeszcze siê zobaczymy. Na razie.}
 {136}{}{Dziêki za dodatkowe drobne, Savinelli. Na razie.}
 {137}{}{Nie wiem dok³adnie, ile zajmie tym cholernym kretom z³o¿enie do kupy mojego transportu z³ota. Bez wzglêdu na wszystko, bêdziemy gotowi na dwudziestego pierwszego. PrzyjdŸ wtedy, jak wci¹¿ bêdzie ciê to interesowaæ.}
 {138}{}{S³uchaj, sk³adam do kupy transport delikatnego towaru. Towar wymaga czasu. No wiesz, nie mo¿na popêdzaæ, bo straci siê na jakoœci. Powinno byæ gotowe na dwudziestego pierwszego. PrzyjdŸ wtedy, jak wci¹¿ bêdzie ciê to interesowaæ.}
-{139}{}{Co zazwyczaj przewozisz?}
-{140}{}{Spytam ciê o coœ innego.}
+{139}{}{Co zazwyczaj transportujecie?}
+{140}{}{Pozwól, ¿e zapytam o coœ innego.}
 {141}{}{Dziêki, tak zrobiê. Na razie.}
 {142}{}{Zazwyczaj szukamy ochraniarzy karawan, ale jeszcze nie jestem gotowy. Bêdziemy mogli wyruszyæ dwudziestego pierwszego. Wróæ wtedy, jak nadal bêdzie ciê to interesowaæ.}
 {143}{}{Czemu dwudziestego pierwszego?}
-{144}{}{Co przewozi ta karawana?}
+{144}{}{Co transportuje ta karawana?}
 {145}{}{OK, dziêki. Na razie.}
 {146}{}{S³uchaj, trzeba wiedzieæ, kiedy powiedzieæ nie. A *ja* to wiem. Wiêc NIE!}
-{147}{}{Och, dobra, dobra.}
+{147}{}{Och, w porz¹dku.}
 {148}{}{Có¿, zazwyczaj przewozimy, ee, zaopatrzenie medyczne - no w³aœnie - z Nowego Reno, i wymieniamy na rudê z³ota w Redding.}
-{149}{}{Interesuj¹ce. Mówi³eœ, ¿e szukasz stra¿ników?}
-{150}{}{Spytam ciê o coœ innego.}
-{151}{}{A, w porz¹dku. Do widzenia.}
-{153}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê 1500$. Przy³¹czasz siê?}
+{149}{}{Interesuj¹ce. Mówi³eœ, ¿e potrzebujesz stra¿ników?}
+{150}{}{Pozwól, ¿e zapytam o coœ innego.}
+{151}{}{A, w porz¹dku. Na razie.}
 {152}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê 1500$, ale tylko dlatego, ¿e potrzebujê jeszcze jednego stra¿nika. Przy³¹czasz siê?}
-{154}{}{Brzmi super. Mo¿emy wyruszaæ.}
-{155}{}{Chyba nie chcê ochraniaæ karawany. Zobaczymy siê póŸniej, na razie.}
+{153}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê 1500$. Przy³¹czasz siê?}
+{154}{}{Brzmi wspaniale. Mo¿emy wyruszaæ.}
+{155}{}{Chyba jednak nie chcê pilnowaæ karawany. Zobaczymy siê kiedy indziej, na razie.}
 {156}{}{Zabawna z ciebie ma³pka, ale teraz ju¿ mnie znudzi³aœ. Wynoœ siê, pó³mózgu.}
 {157}{}{Ó³-ózgu? Pa pa.}
 {158}{}{Grrr! Moja zabijaæ!}
+{200}{}{No dawaj!}

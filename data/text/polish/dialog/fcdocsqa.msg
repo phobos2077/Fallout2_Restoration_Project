@@ -1,5 +1,5 @@
 {100}{}{Widzisz brudn¹, zaniedban¹ osobê.}
-{101}{}{Widzisz bezdomn¹ osobê.}
+{101}{}{Widzisz osiedleñca.}
 {102}{}{Widzisz brudn¹, zaniedban¹ osobê.}
 {103}{}{To chyba najfajniejszy lokal w jakim zdarzy³o mi siê mieszkaæ!}
 {104}{}{Ach... morska bryza!}
@@ -11,12 +11,12 @@
 {110}{}{Kiedyœ siê st¹d wyprowadzimy, s³owo honoru.}
 {111}{}{Podoba ci siê nasz dom?}
 {112}{}{Uwielbiam ¿ycie na pla¿y.}
-{113}{}{B³agam, nie rób mi krzywdy!}
+{113}{}{Nie rób mi krzywdy!}
 {114}{}{Nie! Nie rób mi krzywdy!}
 {115}{}{Zostaw moje dzieci w spokoju!}
 {116}{}{Stój! Nie mêcz nas ju¿!}
 {117}{}{Zrobiê co zechcesz!}
-{118}{}{Na pomoc!}
+{118}{}{Pomocy!}
 {119}{}{Och nie! Ciemiê¿yciel!}
 {120}{}{Gdybyœmy tylko mieli stra¿!}
 {121}{}{Teraz ¿a³ujê, ¿e nie stanowiê czêœci zwartej spo³ecznoœci...}

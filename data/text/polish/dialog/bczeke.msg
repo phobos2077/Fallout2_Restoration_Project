@@ -3,7 +3,7 @@
 {102}{}{Widzisz starszego mê¿czyznê o przerzedzonych, bia³ych w³osach.}
 {103}{}{Nazywam siê Zeke. Przykro mi, ale nie mam czasu na rozmowê z tob¹ - zreszt¹ w tym mieœcie nie ma nic, co powinno ciê interesowaæ. Im szybciej wyruszysz w drogê, tym lepiej.}
 {104}{}{Uhm, w porz¹dku.}
-{105}{}{Moja zapyta.}
+{105}{}{Moja mieæ pytania.}
 {106}{}{Dobrze, odejdê.}
 {107}{}{Chcê tylko zapytaæ o kilka rzeczy.}
 {108}{}{Niestety, odpowiedzi w³aœnie siê nam skoñczy³y. Mo¿e wrócisz, jak otrzymamy now¹ dostawê?}
@@ -11,7 +11,7 @@
 {110}{}{Witam znowu. Niestety, nadal nie mam dla ciebie ¿adnych odpowiedzi. Nie radzisz sobie najlepiej z odczytywaniem aluzji, co?}
 {111}{}{Koniec.}
 {112}{}{Rebeka powiedzia³a mi, ile ci zawdziêcza. Muszê ciê przeprosiæ za przyjêcie, które ci poprzednio zgotowa³em. Myli³em siê co do ciebie. W czym mogê ci pomóc?}
-{113}{}{Moja zapyta.}
+{113}{}{Moja mieæ pytania.}
 {114}{}{W niczym. Pa.}
 {115}{}{Mam kilka pytañ.}
 {116}{}{Chwilowo w niczym, dziêki.}
@@ -27,7 +27,7 @@
 {126}{}{Co jeszcze s³ychaæ w mieœcie?}
 {127}{}{To ju¿ chyba wszystko. Muszê iœæ.}
 {128}{}{Tak. Jestem swego rodzaju ³¹cznikiem miêdzy nim a mieszkañcami. Nie powiem, ¿ebym by³ z tego dumny. Szczególnie teraz, kiedy wiem co on knuje.}
-{129}{}{Jasne.}
+{129}{}{W porz¹dku.}
 {130}{}{Rozumiem.}
 {131}{}{Nic. Oni maj¹ spluwy, kontroluj¹ wodê i ¿ywnoœæ, a to znaczy, ¿e oni tu rz¹dz¹. Kropka. Bez pomocy Dariona nie prze¿yjemy tu zbyt d³ugo.}
 {132}{}{Hmm. Moja chyba rozumuje.}
@@ -45,7 +45,7 @@
 {144}{}{Racja, moja utrupiæ Darion.}
 {145}{}{Moja nie wiem.}
 {146}{}{Tak, pewnie masz racjê.}
-{147}{}{No nie wiem.}
+{147}{}{Nie wiem.}
 {148}{}{Œwietnie. Powodzenia... i dziêkujê.}
 {149}{}{Koniec.}
 {150}{}{Có¿, przemyœl to sobie, ale pamiêtaj - tak d³ugo, jak Darion tu jest nie ma mowy o jakichœ uk³adach z RNK. Tak bêdzie bezpieczniej dla nas wszystkich. Póki co, oficjalnie nie by³o tej rozmowy, a ty jesteœ nadal niemile widzianym goœciem. Rozumiesz?}
@@ -57,9 +57,8 @@
 {156}{}{Dziêki tobie mo¿emy rozpocz¹æ nowe ¿ycie. Jesteœmy twoimi d³u¿nikami.}
 {157}{}{OdejdŸ. Nie mam ci nic do powiedzenia.}
 {158}{}{Czekaj, zanim pójdziesz... Jakiœ czas temu znalaz³em tê kartê i nie mam pojêcia, do czego mo¿e s³u¿yæ. Rebeka twierdzi, ¿e wiesz o jakichœ drzwiach, ko³o których trzymali Chrissy. Mo¿e ta karta je otworzy. Proszê, oto ona.}
-{159}{}{Dziêki.}
+{159}{}{Dziêkujê.}
 {160}{}{W czym mogê ci pomóc?}
 {161}{}{Pozosta³y nasze problemy z RNK, ale zaproponowana przez ciebie umowa powinna je rozwi¹zaæ.}
 {162}{}{Uda³o ci siê! Wreszcie zrzuciliœmy jarzmo Dariona. Dziêkujê!}
-
 {163}{}{Po œmierci Dariona zostaliœmy bez wody i ¿ywnoœci. Ju¿ po nas! Wielkie dziêki.}

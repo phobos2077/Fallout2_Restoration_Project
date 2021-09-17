@@ -19,7 +19,7 @@
 {414}{}{Modifier la coiffure (Cheveux longs).}
 {415}{}{Modifier la coiffure (Chauve).}
 {416}{}{Modifier la coiffure (Cheveux Blond).}
-{417}{}{Alter Hairstyle (Red Hair).}
+{417}{}{Modifier la coiffure (Cheveux roux).}
 {418}{}{Maintenant que j'y pense, je n'ai pas de temps pour ça... A plus.}
 {500}{}{Cette procédure nécessitera quatre semaines de récupération et comporte 50% de risque de mortalité. Souhaitez-vous commencer dès maintenant ?}
 {501}{}{Allons-y.}

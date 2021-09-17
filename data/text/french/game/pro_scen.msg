@@ -2270,7 +2270,7 @@
 {137600}{}{Torche}
 {137601}{}{Une torche allumée dans un support mural.}
 {137700}{}{Hélico}
-{137701}{}{Un imposant dispositif d'aviation militaire.}
+{137701}{}{Un gros avion militaire.}
 {137800}{}{Porte détruite}
 {137801}{}{La porte de la centrale est détruite.}
 {137900}{}{Porte détruite}
@@ -2634,9 +2634,9 @@
 {172200}{}{Verre blindé}
 {172300}{}{Verre blindé}
 {172400}{}{Tourelle laser lourde}
-{172401}{}{La tourelle se retourne dans une position menaçante.}
+{172401}{}{La tourelle tourne d'une manière menaçante.}
 {172500}{}{Tourelle laser lourde}
-{172501}{}{La tourelle se retourne dans une position menaçante.}
+{172501}{}{La tourelle tourne d'une manière menaçante.}
 {172600}{}{Rochers}
 {172700}{}{Rochers}
 {172800}{}{Rochers}
@@ -3459,11 +3459,11 @@
 {229200}{}{Tourelle laser lourde}
 {229201}{}{Cette tourelle se repose dans sa tour de béton.}
 {229300}{}{Tourelle laser lourde}
-{229301}{}{La tourelle se retourne dans une position menaçante.}
+{229301}{}{La tourelle tourne d'une manière menaçante.}
 {229400}{}{Tourelle laser lourde}
 {229401}{}{Cette tourelle se repose dans sa tour de béton.}
 {229500}{}{Tourelle laser lourde}
-{229501}{}{La tourelle se retourne dans une position menaçante.}
+{229501}{}{La tourelle tourne d'une manière menaçante.}
 {229800}{}{Poster de Film}
 {229801}{}{Un vieux poster déchiré. Hobo with a shotgun.}
 {229900}{}{Une créature étrange}

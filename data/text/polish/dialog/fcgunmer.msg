@@ -6,7 +6,7 @@
 {105}{}{Moja kupiæ!}
 {106}{}{Interesuje mnie pewne uzbrojenie.}
 {107}{}{Opowiedz mi o tym miejscu.}
-{108}{}{Niewa¿ne.}
+{108}{}{Zapomnij o tym.}
 {109}{}{Przykro mi! Nie mówiê w twoim jêzyku! Mi³ego dnia ¿yczê!}
 {110}{}{Rrr?}
 {111}{}{Ach, broñ, co? Có¿, oto, co posiadam.}
@@ -22,7 +22,7 @@
 {121}{}{Nie. Czeœæ.}
 {122}{}{Interesuje mnie pewne uzbrojenie.}
 {123}{}{Opowiedz mi o tym miejscu.}
-{124}{}{Niewa¿ne.}
+{124}{}{Zapomnij o tym.}
 {125}{}{¯yjemy tu ju¿ od wielu lat, ale nie zawsze tak by³o. Dr Fung zna ca³¹ historiê. Za³o¿ê siê, ¿e chodzi ci raczej o to, co robimy obecnie.}
 {126}{}{Ta.}
 {127}{}{Nie, tak naprawdê, to chcê poznaæ historiê. Pójdê poszukaæ Funga. Na razie.}
@@ -30,23 +30,23 @@
 {129}{}{Jak zmieni œwiat?}
 {130}{}{Co jeszcze dzieje siê w mieœcie?}
 {131}{}{Hmm. Ciekawe. Mam te¿ inne pytania.}
-{132}{}{Dziêki. Do zobaczenia.}
+{132}{}{Dziêki. Na razie.}
 {133}{}{Nie wiem. Zachowuj¹ swoje tajemnice dla siebie.}
 {134}{}{Rozumiem. Co jeszcze dzieje siê w mieœcie?}
-{135}{}{Rozumiem. Mam te¿ inne pytania.}
-{136}{}{Dziêki. Do zobaczenia.}
+{135}{}{Rozumiem. Mam inne pytania.}
+{136}{}{Dziêki. Na razie.}
 {137}{}{Mamy dwóch przeciwników w sztukach walki. Jest Lo Pan, który kocha siebie, i Smok, który kocha innych. Powiedziane jest, ¿e ten, kto wygra, zdecyduje o przysz³oœci sztuk walki.}
 {138}{}{Rozumiem. Czy coœ jeszcze dzieje siê w mieœcie?}
-{139}{}{Rozumiem. Mam te¿ inne pytania.}
-{140}{}{Dziêki.}
+{139}{}{Rozumiem. Mam inne pytania.}
+{140}{}{Dziêkujê.}
 {141}{}{Jest te¿ gang wyrzutków, którzy wprowadzili siê do Tankowca Posejdona na przystani. W œrodku by³y potwory, ale wyrzutkowie odciêli je na dolnym pok³adzie. Pomimo tego, ¿e s¹ obcy, jesteœmy im wdziêczni za ten czyn.}
 {142}{}{Jakieœ inne wieœci?}
-{143}{}{Rozumiem. Mam te¿ inne pytania.}
-{144}{}{Dziêki. Do zobaczenia.}
+{143}{}{Rozumiem. Mam inne pytania.}
+{144}{}{Dziêki. Na razie.}
 {145}{}{Naukowcy donosz¹, ¿e ktoœ przedar³ siê przez nasze zabezpieczenia komputerowego i wykrad³ nasze tajemnice.}
 {146}{}{Jakieœ inne wieœci?}
-{147}{}{Rozumiem. Mam te¿ inne pytania.}
-{148}{}{Dziêki. Do zobaczenia.}
+{147}{}{Rozumiem. Mam inne pytania.}
+{148}{}{Dziêki. Na razie.}
 {149}{}{To wszystko, co w tej chwili przychodzi mi do g³owy. Do widzenia.}
 {150}{}{Do widzenia.}
 {151}{}{Na takich jak ty mówi siê z³odzieje, mordercy i ³ajdacy. Obawiam siê, ¿e muszê ciê zabiæ.}

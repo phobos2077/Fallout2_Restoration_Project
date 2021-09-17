@@ -1,7 +1,7 @@
 {100}{}{Widzisz... model bia³ego bohatera gry.}
-{101}{}{Widzisz silnie umiêœnionego mê¿czyznê w kombinezonie Krypty 13. Z uœmiechem ci¹gnie swoj¹ opowieœæ.}
-{102}{}{Widzisz model bia³ego bohatera gry. Opowiada coœ ze œmiechem.}
-{103}{}{Widzisz model bia³ego bohatera gry. Opowiada coœ ze œmiechem.}
+{101}{}{Widzisz umiêœnionego mê¿czyznê w kombinezonie Krypty 13. Z uœmiechem opowiada jak¹œ historiê.}
+{102}{}{Widzisz model bia³ego bohatera gry. Opowiada coœ z uœmiechem.}
+{103}{}{Widzisz model bia³ego bohatera gry. Opowiada coœ z uœmiechem.}
 {104}{}{No i ten mój gracz... by³ taki g³upi, ¿e...}
 {105}{}{Ale to nie wszystko - wydaje mu siê, ¿e amunicja do strzelby to hydroprocesor, wiêc zanosi j¹ do Nadzorcy...}
 {106}{}{Co za dureñ!}

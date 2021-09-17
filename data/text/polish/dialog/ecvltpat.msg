@@ -6,7 +6,7 @@
 {105}{}{Czego szukasz w pobli¿u Kryptopolis?}
 {106}{}{Co robisz w pobli¿u Kryptopolis?}
 {107}{}{Znajdujesz siê na terenach nale¿¹cych do Kryptopolis.}
-{108}{}{Mamy ciê na oku.}
+{108}{}{Tylko uwa¿aj.}
 {109}{}{Kryptopolis nie przyjmie byle kogo. Ruszaj dalej.}
 {110}{}{Dla takich jak ty jest Nora.}
 {111}{}{Mo¿e lepiej tam siê udaj.}

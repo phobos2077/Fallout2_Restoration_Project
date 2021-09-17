@@ -1,5 +1,5 @@
 {100}{}{Widzisz mê¿czyznê o czerwonej twarzy i przyjaznym wygl¹dzie.}
-{101}{}{To jest Duppo. Pracuje w Stowarzyszeniu Hodowców Byd³a.}
+{101}{}{It's Duppo. He runs the Stockman's Association.}
 {102}{}{Ten krêpy cz³owiek ma wiecznie zarumienion¹ twarz i strzechê rzadkich, jasnych w³osów na g³owie. Poruszaj¹c siê lekko utyka.}
 {103}{}{Witaj. Nie przypominam sobie, ¿ebym widzia³ ciê kiedyœ w tej okolicy, a to oznacza, ¿e nie jesteœ w³aœcicielem rancza. Szukasz pracy czy chcesz coœ kupiæ?}
 {104}{}{Co dla ciebie?}
@@ -25,13 +25,12 @@
 {124}{}{Szukam Rogera Westina. S³ysza³eœ o nim kiedyœ?}
 {125}{}{Gdzie mogê znaleŸæ Franka Carlsona?}
 {126}{}{Carl-son?}
-{127}{}{Do widzenia.}
+{127}{}{¯egnaj.}
 {128}{}{Masz na myœli Rogera Westina? Zachodnia czêœæ miasta.}
 {129}{}{To jeden z tutejszych hodowców byd³a. Zachodnia czêœæ miasta. Ale jeœli ju¿ o to chodzi, to nie s¹dzê, ¿eby potrzebowa³ pomocy na ranczu.}
 {130}{}{To wiceprezydent. Tyle wiem, ale nie umiem powiedzieæ wiele wiêcej. Prawie bez przerwy siedzi w Domu Prezydenckim. Rzadko wychodzi, w szczególnoœci teraz, z tymi wszystkimi k³opotami na g³owie.}
 {131}{}{Carlson. Du¿y pan wódz. Mieszka du¿y dom. To wszystko.}
 {132}{}{Przykro mi, sezon na karawany z byd³em ju¿ siê skoñczy³. PrzyjdŸ za kilka miesiêcy.}
-
 {133}{}{Dobra, dobra... mo¿na jeszcze zrobiæ w tym mieœcie jak¹œ szybk¹ kasê?}
 {134}{}{Byæ mo¿e. Ale powiedzmy, ¿e w³adze nie chcia³yby wiedzieæ o tego rodzaju mo¿liwoœci.}
 {135}{}{Chêtnie zap³acê za pewn¹ informacjê.}
@@ -54,7 +53,5 @@
 {152}{}{Czy aby nie wchodzisz w jakiœ konflikt z prawem?}
 {153}{}{Tak trzymaæ, ju¿ prawie ci siê uda³o.}
 {154}{}{W porz¹dku, jeszcze tylko trochê, naprawdê.}
-
 {155}{}{B¹dŸ jutro pod bram¹ Westina. Nie przyjdziesz, to nie pójdziesz, rozumiesz?}
-
 {156}{}{Mamy zamiar poprowadziæ kolejny spêd byd³a do Redding. Jak radzisz sobie z broni¹?}

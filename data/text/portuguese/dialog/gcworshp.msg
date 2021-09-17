@@ -4,7 +4,7 @@
 {110}{}{You see a Glowing One with some kind of talisman around its neck.}
 {111}{}{You see a member of the Renewal Cult.}
 {112}{}{You see a contented-looking Glowing One.}
-{120}{}{One of us, one of us...}
+{120}{}{um de nós, um de nós...}
 {121}{}{Renew, comrade! Renew!}
 {122}{}{The time for lastday is here.}
 {123}{}{Soon we will all be smoothskins like you, comrade.}
@@ -25,11 +25,11 @@
 {138}{}{Hail, friend. Renewal is at hand for the chosen.}
 {139}{}{To be a friend of the Brain is a wondrous thing.}
 {140}{}{Hello. You just better be careful.}
-{141}{}{We're watching you.}
+{141}{}{Estamos te observando.}
 {142}{}{Seek enlightenment in the Brain's wisdom.}
-{143}{}{I don't know why we let smoothskins down here.}
+{143}{}{Não sei por que deixamos esses peles lisas por aqui.}
 {144}{}{You better go directly to him.}
-{145}{}{You're here to see the Brain?}
+{145}{}{Você está aqui para ver o cérebro?}
 {150}{}{Hello, smoothskin. Do you seek Renewal?}
 {151}{}{His Sleekness wishes to see you.}
 {152}{}{You too can Renew!}

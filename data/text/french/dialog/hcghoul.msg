@@ -61,7 +61,7 @@
 {160}{}{Les Collines Brisées seront-elles un jour capables de combler le fossé qui sépare les humains et les mutants ?}
 {161}{}{J'ai toujours eu l'impression d'être une personne de deuxième catégorie avec ces salauds de Jacob et d'Hélène. Ca leur apprendra.}
 {162}{}{Je ne pense pas que les Collines Brisées se remette un jour de la perte de la mine...}
-{163}{}{All the mutants... dead...}
+{163}{}{Tous les mutants... morts...}
 {164}{}{On ne saura donc jamais si on aurait pu faire la paix entre les mutants et les humains...}
 {165}{}{Il est temps de partir et de voir ce que le reste du monde a à nous offrir... Ca vaut pas le coup de déblayer les mines.}
 {166}{}{J'me demande si on cherche des raffineurs d'uranium ailleurs en Californie...}

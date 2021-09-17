@@ -40,7 +40,7 @@
 {173}{}{O que faz aqui?}
 {174}{}{Peguei uma cópia dos planos do Shi.}
 {175}{}{Tenho os planos para o vertibird.}
-{176}{}{The Shi have the plans for the vertibird.}
+{176}{}{O Shi tem os planos do vertibird.}
 {177}{}{O que posso fazer por você?}
 {178}{}{Esqueça. Tchau.}
 {179}{}{Eu sou Harry, AHS-5. Eu sou o irmão estelar encarregado do foguete. Vamos usá-lo para viajar para Quetzel.}

@@ -1,14 +1,7 @@
-# 0. Look
-{100}{}{Widzisz stra¿nika.}
-
+{100}{}{Widzisz stra¿niczkê.}
 {150}{}{To jeden ze stra¿ników Tylera.}
-# Seraph: Part of Haenlomal's gang fixes.
 {151}{}{To jedna ze stra¿niczek Tylera.}
-
-# 1. Hostile
 {200}{}{Jeszcze ¿yjesz?}
-
-# 2. CF: Gang 2 Defeated
 {210}{}{Aleœmy im pokazali, co?}
 {211}{}{Nikt z nami nie zadziera.}
 {212}{}{Skopaliœmy im dupy.}
@@ -16,8 +9,6 @@
 {214}{}{Nie mogê zapomnieæ jego miny. To by³o œwietne.}
 {215}{}{Dziwiê siê, ¿e Metzger siê o to nie wkurzy³.}
 {216}{}{Ciekawe dlaczego Metzger siê nie wtr¹ci³.}
-
-# 3. ELSE
 {225}{}{Nie wiem, po co Metzger kaza³ nam pilnowaæ tego gówna.}
 {226}{}{Kto chcia³by to ukraœæ?}
 {227}{}{Ta robota to ³atwizna.}
@@ -26,17 +17,13 @@
 {230}{}{Czego ty tu w ogóle szukasz?}
 {231}{}{Tutaj nikogo nie ma, tylko my, myszy.}
 {232}{}{Nie traæ czasu. Sprawdzaliœmy to ju¿ milion razy.}
-
-# 4. SET
 {233}{}{To jest ta noc.}
-{234}{}{Nienawidzê czekania.}
+{234}{}{Nie znoszê czekania.}
 {235}{}{Stawiam kolejkê za tê akcjê.}
 {236}{}{Czy to ju¿ teraz? Nie mogê siê doczekaæ.}
 {237}{}{Mam nadziejê, ¿e ustrzelê pierwszego.}
 {238}{}{Dlaczego czekali tak d³ugo, ¿eby z nami zadrzeæ?}
 {239}{}{To bêdzie interesuj¹ce.}
-
-# 5. NOSHOW
 {240}{}{Szkoda, ¿e wszystko rozesz³o siê po koœciach.}
 {241}{}{Ciekawe dlaczego zmienili zdanie.}
 {242}{}{Tyle czekania na nic.}

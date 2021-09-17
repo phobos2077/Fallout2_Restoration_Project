@@ -1,7 +1,7 @@
 {100}{}{Widzisz kogoœ w pomiêtym habicie.}
 {101}{}{To kolejny zakapturzony Centrolog.}
 {102}{}{Wygl¹da na kogoœ nosz¹cego habit.}
-{103}{}{Kim jesteœ? Co tutaj robisz?}
+{103}{}{Kim jesteœ? Co tu robisz?}
 {104}{}{Nie powinno ciê tu byæ, prawda?}
 {105}{}{Patrzcie! Miêcho!}
 {106}{}{Hej! Kto wpuœci³ tutaj miêcho?}
@@ -27,7 +27,6 @@
 {126}{}{Ju¿ nie mogê siê doczekaæ powrotu do domu do gwiazd.}
 {127}{}{Proszê, nie przeszkadzaj mi, koncentrujê moje neurodyny.}
 {128}{}{Proszê, nie deszereguj moich neurodyn.}
-
 {138}{}{O nie! Przeœladowca!}
 {139}{}{Pogañskie nasienie!}
 {140}{}{OdejdŸ ode mnie, miêcho!}
@@ -40,7 +39,6 @@
 {147}{}{Znowu zst¹pi³y na nas czarne chmury!}
 {148}{}{Gwiezdny Ojcze! Uratuj mnie przed poganinem!}
 {149}{}{Ktoœ ukarze ciê za twoj¹ perfidnoœæ!}
-
 {150}{}{Uwielbiam Centrum.}
 {151}{}{Lubiê byæ Centrologiem.}
 {152}{}{Chcê pobudziæ mój potencja³.}
@@ -57,7 +55,6 @@
 {163}{}{"Prawdziwa" nauka to tylko kupa bzdur.}
 {164}{}{Nie s³uchaj tego, co mówi¹ "naukowcy".}
 {165}{}{Tylko Centrum i UKC-9 maj¹ odpowiedŸ.}
-
 {178}{}{Wielbcie Gwiezdnego Ojca! W koñcu wyruszamy do gwiazd!}
 {179}{}{Planeto Quetzel, oto nadchodzimy!}
 {180}{}{Ca³a ta ciê¿ka praca wreszcie przynosi rezultaty!}

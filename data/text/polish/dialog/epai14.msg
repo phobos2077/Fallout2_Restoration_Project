@@ -8,6 +8,5 @@
 {107}{}{Nie znajdujesz ¿adnej usterki w generatorze. Po prostu nie dzia³a.}
 {108}{}{Dzia³a. Nie ma tu ju¿ nic do zrobienia.}
 {109}{}{Wygl¹da, ¿e coœ jest nie tak z generatorem.}
-
 {200}{}{*wrri*}
 {201}{}{*bzzt*}

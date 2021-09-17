@@ -3,8 +3,8 @@
 {102}{}{Widzisz podniecon¹ osobê, która gra.}
 {103}{}{No dalej! Potrzebujê nowych butów.}
 {104}{}{Dobrze! O to chodzi!}
-{105}{}{Cholera!}
-{106}{}{Czemu ja?!}
+{105}{}{Kurwa!}
+{106}{}{Dlaczego mnie?}
 {107}{}{Czy ktos ma po¿yczyæ trochê drobnych?}
 {108}{}{Teraz mam pewniaka.}
 {109}{}{Mój system zawsze siê sprawdza.}

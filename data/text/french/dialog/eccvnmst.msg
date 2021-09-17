@@ -42,7 +42,7 @@
 {151}{}{du minerai d'or.}
 {152}{}{du minerai d'uranium.}
 {153}{}{des produits fermiers.}
-{154}{}{des stupéfiants.}
+{154}{}{médicaments.}
 {155}{}{des esclaves.}
 {156}{}{des trucs.}
 {198}{}{New Reno}

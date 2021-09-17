@@ -1,1 +1,1 @@
-{100}{}{Wchodzisz do ciemnej jaskini. Wszêdzie wokó³ le¿¹ szczurze odchody.}
+{100}{}{Wchodzisz do ciemnej jaskini. Wszêdzie dooko³a s¹ szczurze odchody.}

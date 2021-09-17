@@ -30,7 +30,7 @@
 {113}{}{W³¹cz System Alarmowy na Poziomie 1}
 {114}{}{W³¹cz program auto-diagnostyczny.}
 {115}{}{WyjdŸ.}
-{116}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê.]}
+{116}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê]}
 {118}{}{System Bezpieczeñstwa Skynet                                     
  Dostêp z tego terminala zosta³ zablokowany.}
 {120}{}{WyjdŸ.}
@@ -68,5 +68,4 @@
  Uruchamiam Blokadê Bezpieczeñstwa Terminala...                
  Dostêp do tego terminala zosta³ ODCIÊTY}
 {140}{}{WyjdŸ.}
-
 {200}{}{Komputer znajduje siê w trybie diagnostycznym. Proszê zaczekaæ, a¿ procedura diagnostyczna zostanie ukoñczona.}

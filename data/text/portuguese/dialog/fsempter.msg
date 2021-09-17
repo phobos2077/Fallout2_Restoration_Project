@@ -100,7 +100,7 @@
 {199}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
 {200}{}{[FEITO]}
 {201}{}{Physics database: Exploration - Theory}
-{202}{}{Exploration.}
+{202}{}{Exploração.}
 {203}{}{Theory.}
 {204}{}{Voltar.}
 {205}{}{"With recent acquisition of vertibird plans, the possibility of creating a practical flying machine has taken a quantum leap forward. We expect to have a working prototype by the end of the year, and the ability to mass-produce such vehicles within two years." -Dr. Wong}

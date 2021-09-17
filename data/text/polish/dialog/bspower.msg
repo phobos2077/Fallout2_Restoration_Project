@@ -8,4 +8,4 @@
 {107}{}{Czas uciekaæ.}
 {108}{}{Udaje ci siê odblokowaæ po³¹czenie i przywróciæ zasilanie!}
 {109}{}{Cholera. To jest trudniejsze, ni¿ siê wydaje.}
-{110}{}{Dalej.}
+{110}{}{Koniec.}

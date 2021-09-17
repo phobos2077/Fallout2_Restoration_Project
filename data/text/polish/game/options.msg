@@ -1,23 +1,8 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used in OPTIONS.C
-#
-# (These MUST match "text message" enumeration on the top of OPTIONS.C)
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-# ° Main option panel °
-#
-# Buttons
 {0}{}{ZAPISZ GRÊ}
-{1}{}{WCZYTAJ GRÊ}
+{1}{}{WCZYTAJ}
 {2}{}{OPCJE GRY}
 {3}{}{WYJŒCIE}
-{4}{}{OK}
-#
-# Preferences
-#
+{4}{}{GOTOWE}
 {100}{}{OPCJE GRY}
 {101}{}{TRUDNOŒÆ GRY}
 {102}{}{TRUDNOŒÆ WALKI}
@@ -39,47 +24,34 @@
 {118}{}{JASNOŒÆ EKRANU}
 {119}{}{CZU£OŒÆ MYSZY}
 {120}{}{STAND.}
-{121}{}{ANULUJ}
+{121}{}{Anuluj}
 {122}{}{Dotyczy prêdkoœci gracza}
-{123}{}{Mowa Pip-Boya}
-#
-# Label text
-#
-{201}{}{W³.}             # 1
-{202}{}{Wy³.}            # 2
-{203}{}{Min.}           #  1
-{204}{}{Norm.}         #  2
-{205}{}{Maks.}           #  3
-{206}{}{Min.}          # 1
-{207}{}{Norm.}         # 2
-{208}{}{Maks.}          # 3
-{209}{}{Norm.}         #  1
-{210}{}{Maks.}        #  2
-{211}{}{D³ugie}        # 1
-{212}{}{Zwiêz³e}          # 2
+{123}{}{Pip-Boy speech}
+{201}{}{W³.}
+{202}{}{Wy³.}
+{203}{}{Min.}
+{204}{}{Norm.}
+{205}{}{Maks.}
+{206}{}{Min.}
+{207}{}{Norm.}
+{208}{}{Maks.}
+{209}{}{Norm.}
+{210}{}{Maks.}
+{211}{}{D³ugie}
+{212}{}{Zwiêz³e}
 {213}{}{Podczas celowania}
-{214}{}{Brak}           # 1
-{215}{}{Min.}        # 2
-{216}{}{Ocean krwi}  # 3
-{217}{}{Wolno}           #  1
-{218}{}{Szybko}         #  2
+{214}{}{brak}
+{215}{}{Min.}
+{216}{}{Ocean krwi}
+{217}{}{Wolno}
+{218}{}{Szybko}
 {219}{}{Zawsze}
 {220}{}{Mnóstwo}
-{221}{}{Cicho}          # 1
-{222}{}{G³oœno}           # 2
+{221}{}{Cicho}
+{222}{}{G³oœno}
 {223}{}{Jasno}
 {224}{}{Szeroko}
-
-
-#
-# Pause window
-#
-{300}{}{OK}
+{300}{}{GOTOWE}
 {301}{}{PAUZA}
-#
-# Demo versions only
-#
-{1000}{}{Opcje gry nie s¹ dostêpne}  # 1
-{1001}{}{w wersji demo.}      # 2
-
-
+{1000}{}{Opcje gry nie s¹ dostêpne}
+{1001}{}{w wersji demo.}

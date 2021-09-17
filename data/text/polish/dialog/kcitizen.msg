@@ -1,30 +1,5 @@
-#############################################################
-#  Message File: kcitizen.msg                               #
-#                                                           #
-#       Body Type:  NAROBE                                  #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Widzisz jednego z mieszkañców Klamath.}
 {101}{}{Widzisz jednego z mieszkañców Klamath.}
-
-#############################################################
-#  The following lines are floaters for citizens            #
-#############################################################
-
 {150}{}{Dlaczego nie wrócisz do swego plemienia?}
 {151}{}{Dam ci kilka piêknych paciorków, jeœli zostawisz mnie w spokoju.}
 {152}{}{Mi³y dzikus, dobry dzikus, nie krzywdŸ mnie!}
@@ -37,7 +12,6 @@
 {159}{}{Nie potrzebujemy tutaj problemów.}
 {160}{}{Zapewne przychodzisz z Nory.}
 {161}{}{Ostatni¹ rzecz¹, jakiej potrzebujemy to wiêcej takich jak ty.}
-
 {170}{}{Witaj, kimkolwiek jesteœ.}
 {171}{}{Mam nadziejê, ¿e ³owy bêd¹ dobre w tym sezonie.}
 {172}{}{Ostatnio ginie du¿o bramin.}
@@ -57,7 +31,6 @@
 {186}{}{Biedni nie maj¹ odpoczynku.}
 {187}{}{Bol¹ mnie stawy. Pewnie pogoda siê zmienia.}
 {188}{}{Wiatr trochê przewiewa...}
-
 {190}{}{Mi³o ciê widzieæ.}
 {191}{}{Jest was wiêcej?}
 {192}{}{Mam nadziejê, ¿e podoba ci siê w Klamath.}
@@ -68,37 +41,32 @@
 {197}{}{W³aœciwie to nie jesteœ jak Sulik.}
 {198}{}{Jesteœ najbardziej cywilizowanym cz³onkiem plemienia jakiego uda³o mi siê spotkaæ.}
 {199}{}{Uwa¿aj na gekony, które zmieni³y kolor.}
-{200}{}{Witaj podró¿niku.}
+{200}{}{Witaj, wêdrowcze.}
 {201}{}{Cieszê siê, ¿e jesteœ tu z nami w Klamath.}
-{202}{}{Siemanko, kimkolwiek jesteœ.}
+{202}{}{Witaj, przybyszu.}
 {203}{}{Uwa¿aj na Duntonów. S¹ niebezpieczni.}
 {204}{}{W Osadzie Traperów jest cholernie du¿o szczurów.}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
-{1000}{}{Starszej}
-{1001}{}{Za³o¿ycielu}
-{1002}{}{Przybyszu z ...}
+{1000}{}{Starsza}
+{1001}{}{Za³o¿yciel}
+{1002}{}{Przybysz z Krypty}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Krypta}
-{1006}{}{Wybrañcu}
-{1007}{}{Szamanie}
-{1008}{}{Hakunin'ie}
-{1009}{}{Proszku Leczniczym}
-{1010}{}{Moœcie}
-{1011}{}{Mynoc'u}
-
-{1100}{}{Starsza jest nasz¹ matk¹ i przywodczyni¹.}
-{1101}{}{Nasz wielki przodek, który da³ nam wiedze.}
-{1102}{}{Pierwszy by walczyæ i wygrywaæ z chaosem.}
-{1103}{}{To moglaby byæ piekna wioska.}
+{1006}{}{Dziecko Przeznaczenia}
+{1007}{}{Szaman}
+{1008}{}{Hakunin}
+{1009}{}{Proszek Leczniczy}
+{1010}{}{Most}
+{1011}{}{Mynoc}
+{1100}{}{Starsza jest nasz¹ matk¹ i przywódczyni¹.}
+{1101}{}{To nasz wielki przodek, który da³ nam wiedzê.}
+{1102}{}{Pierwszy, który walczy³ i zwyciê¿y³ chaos.}
+{1103}{}{To jest nasza piêkna wioska.}
 {1104}{}{To placowka handlowa kilka dni na wschod st¹d.}
 {1105}{}{Krypta jest rajem.}
-{1106}{}{Ty jesteœ Wybrañcem.}
+{1106}{}{Ty jesteœ Dzieckiem Przeznaczenia.}
 {1107}{}{Leczy nas za pomoc¹ zió³ i magii. Znajduje siê w polnocnej czêœci wioski.}
 {1108}{}{Leczy nas za pomoc¹ zió³ i magii. Znajduje siê w polnocnej czêœci wioski.}
 {1109}{}{To magiczny proszek, który ciê wyleczy, lecz uspi twe zmysly.}
-{1110}{}{Wielki Most zamyka nasz¹ wioske od poludnia.}
-{1111}{}{Strze¿e mostu prowadzacego do naszej wioski.}
+{1110}{}{Wielki Most stanowi wyjœcie z naszej wioski od po³udnia.}
+{1111}{}{Mynoc strze¿e mostu prowadz¹cego do naszej wioski.}

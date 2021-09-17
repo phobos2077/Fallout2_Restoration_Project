@@ -34,7 +34,7 @@
 {133}{}{Informacje? Ja tu cierpiê, a ty chcesz informacje?}
 {134}{}{Co z tob¹?}
 {135}{}{Boli ciê? Cha cha cha.}
-{136}{}{Niewa¿ne.}
+{136}{}{Zapomnij o tym.}
 {137}{}{Czy wiesz ju¿, gdzie jest moja œledziona?}
 {138}{}{Tak. Ma j¹ dr Wong Yi Tze i zwróci ci j¹. IdŸ z nim o tym porozmawiaæ.}
 {139}{}{Tak. IdŸ poszukaæ przy trupie dra Wonga.}
@@ -43,7 +43,7 @@
 {142}{}{Nie, jeszcze nie. Ale znajdê j¹.}
 {143}{}{Nie. W sumie, to nawet jej nie szukam.}
 {144}{}{W porz¹dku [dyszy] Zanim jednak to zrobiê, mo¿e powinniœmy ustaliæ sposób, w jaki j¹ dostanê z powrotem. Porozmawiaj o tym z dr Fungiem, dobrze? Dziêki.}
-{145}{}{W porz¹dku.}
+{145}{}{Dobrze.}
 {146}{}{Nie.}
 {147}{}{Naprawdê doceniam to, co dla mnie robisz. Nie zapomnê ci tego.}
 {148}{}{Nie ma sprawy.}
@@ -78,23 +78,22 @@
 {177}{}{Teraz niczego, dziêki i na razie.}
 {178}{}{Spytaj Kapitana. Mieszka w gabinecie kapitañskim na górze.}
 {179}{}{Dziêki. Kilka innych pytañ...}
-{180}{}{Dziêki. Do zobaczenia.}
+{180}{}{Dziêki. Na razie.}
 {181}{}{Mówi siê, ¿e zabrano ich na zachód, przez wodê. Najlepiej jeœli uda ci siê jakoœ uruchomiæ tê ³ajbê.}
 {182}{}{Dziêki. Kilka innych pytañ...}
-{183}{}{Dziêki. Do zobaczenia.}
+{183}{}{Dziêki. Na razie.}
 {184}{}{Rêki informatyka? Je¿eli nie mo¿esz za³atwiæ tego u Shi albo u Centrologów, to na pewno chcesz rozmawiaæ z Borsukiem. To geniusz komputerowy.}
 {185}{}{Dziêki. Kilka innych pytañ...}
-{186}{}{Dziêki. Do zobaczenia.}
+{186}{}{Dziêki. Na razie.}
 {187}{}{Cholera. Pogadaj z Centrologami, albo z Shi. Nie mam pojêcia, teraz gdy Borsuk nie ¿yje.}
 {188}{}{Dziêki. Kilka innych pytañ...}
-{189}{}{Dziêki. Do zobaczenia.}
+{189}{}{Dziêki. Na razie.}
 {190}{}{Kupa gówna.}
 {191}{}{Bêdziesz potrzebowaæ œrodków przeciwbólowych.}
 {192}{}{Œcierwo. Za³atwiê ciê.}
 {193}{}{Widzisz ³ysego punka.}
 {194}{}{Widzisz Chipa. Wygl¹da na to, ¿e cierpi.}
 {195}{}{Widzisz ³ysego punka. Trzyma siê za bok i sapie z bólu.}
-
 {196}{}{W porz¹dku. Porozmawiam z Fungiem.}
 {197}{}{Jak tam szczêœcie z moj¹ œledzion¹?}
 {198}{}{Ta, i za¿yczy³ sobie $1000 - ju¿ zap³acone.}

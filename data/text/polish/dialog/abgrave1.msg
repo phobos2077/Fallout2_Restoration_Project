@@ -11,7 +11,6 @@
 {110}{}{"Sir Jan Dziwny, tu le¿y uczciwy prawnik i to jest dziwne."}
 {111}{}{"£zy jej nie wskrzesz¹ - dlatego p³aczê."}
 {112}{}{"Ka¿dego dnia i w ka¿dy sposób, staje siê coraz lepszy."}
-
 {250}{}{Nie ma ¿adnego napisu na tym nagrobku.}
 {251}{}{Nagrobek jest zbyt zniszczony ¿eby odczytaæ inskrypcje.}
 {252}{}{Nazwisko na nagrobku Zbyszek Nowak.}

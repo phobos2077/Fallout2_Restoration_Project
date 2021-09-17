@@ -1,4 +1,4 @@
-{100}{}{Widzisz dziecko.}
+{100}{}{Widzisz dzieciaka.}
 {101}{}{Widzisz dziecko.}
 {102}{}{Dziecko, jak kaøde inne.}
 {103}{}{Wyglπdasz groünie.}
@@ -24,7 +24,7 @@
 {123}{}{Patrzcie na tego pajaca!}
 {124}{}{Czy to twoja mama?}
 {125}{}{Ratunku! Goni mnie ogromniasty robot!}
-{126}{}{Pomocy! Goni mnie robot!}
+{126}{}{Ratunku! Goni mnie ogromniasty robot!}
 {127}{}{Nie jest ci w tym za gorπco? Halo? Jest tam kto?}
 {128}{}{Co to takiego? Jesteú cz≥owiekiem?}
 {129}{}{Ale olbrzym.}

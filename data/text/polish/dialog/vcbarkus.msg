@@ -9,16 +9,16 @@
 {108}{}{Tak, Obywatelu?}
 {109}{}{Tak, o co chodzi? Jestem bardzo zajêty.}
 {110}{}{Umm... Moja szuka Krupta!}
-{111}{}{OdejdŸ}
+{111}{}{OdejdŸ bez s³owa.}
 {112}{}{Co to za biuro?}
 {113}{}{Szukam Krypty.}
 {114}{}{Szukam pewnego s³u¿¹cego... nazywa siê Joshua. Macie tu takiego?}
 {115}{}{Chcecie kupiæ jakichœ niewolników... eee, s³u¿¹cych?}
-{116}{}{Chwilowo o nic, dziêki.}
+{116}{}{Dziêki, ale dziœ nie skorzystam.}
 {117}{}{To? Centrum Przydzielania S³u¿¹cych, oczywiœcie. Potrzebujesz s³u¿¹cego?}
 {118}{}{To jest Centrum Przydzielania S³u¿¹cych.}
 {119}{}{Centrum Przydzielania S³u¿¹cych? A co to takiego?}
-{120}{}{Szukam pewnego s³u¿¹cego... nazywa siê Joshua. Jest tu taki?}
+{120}{}{Szukam pewnego s³u¿¹cego... nazywa siê Joshua. Macie tu takiego?}
 {121}{}{Przydzielanie s³u¿¹cych, taa? Skupujecie tu niewolników... eee, s³u¿¹cych?}
 {122}{}{Nie, pytam z ciekawoœci. Dziêki.}
 {123}{}{Pytam z ciekawoœci. Dziêki.}
@@ -26,7 +26,7 @@
 {125}{}{Co to za biuro?}
 {126}{}{Czy ka¿dy mo¿e tam wejœæ?}
 {127}{}{Mam jeszcze jedno pytanie.}
-{128}{}{Dziêki za informacjê. Do widzenia.}
+{128}{}{Dziêki za wskazówki. Powodzenia.}
 {129}{}{Co do...? Jesteœ nowym s³u¿¹cym?}
 {130}{}{Tak.}
 {131}{}{Uh-uh moja ju¿ iœæ.}
@@ -46,7 +46,7 @@
 {145}{}{To ju¿ chyba wszystko co chcê wiedzieæ, dziêki. Mi³ego dnia.}
 {146}{}{Nie, tylko Obywatele maj¹ wstêp do Krypty. S³uchaj, jestem teraz bardzo zajêty, wiêc jeœli pozwolisz...}
 {147}{}{Jeszcze tylko ostatnie pytanie...}
-{148}{}{W porz¹dku. Do widzenia.}
+{148}{}{W porz¹dku. Do zobaczenia.}
 {149}{}{Nasi s³u¿¹cy to zwykle ofiary bandyckich napadów, którzy szukaj¹ u nas schronienia, lub wiêŸniowie, którzy chc¹ odpracowaæ swój d³ug wobec spo³eczeñstwa.}
 {150}{}{Masz na myœli scenarzystów? Ktoœ opowiada³ mi o pewnym goœciu imieniem Dan, który pewnego razu...}
 {151}{}{Za cenê wolnoœci, tak?}
@@ -67,28 +67,28 @@
 {166}{}{Trudne?}
 {167}{}{Ale¿ ja nie chcê, ¿eby mi go przydzielono. W ¿adnym wypadku. Obawiam siê, ¿e ten s³u¿¹cy móg³ zostaæ zainfekowany.}
 {168}{}{Hmmm. W takim razie chcê ciê jeszcze o coœ zapytaæ...}
-{169}{}{W porz¹dku. Do widzenia.}
+{169}{}{W porz¹dku. Do zobaczenia.}
 {170}{}{To chyba nie jest najlepszy pomys³. Poczekaj, a¿ jego szkolenie dobiegnie koñca, wtedy zg³oœ siê do mnie.}
 {171}{}{Mówi³eœ, ¿e by³y z nim k³opoty?}
-{172}{}{Jeszcze jedno pytanie...}
-{173}{}{W porz¹dku. Do widzenia.}
+{172}{}{Jeszcze tylko ostatnie pytanie...}
+{173}{}{W porz¹dku. Do zobaczenia.}
 {174}{}{Tak, to chyba najbardziej uparty s³u¿¹cy jakiego widzia³em. Zachowuje siê, jakby jego ojciec by³ braminem.}
 {175}{}{Takie zachowanie nie mo¿e byæ tolerowane. Co by siê sta³o, gdyby inni s³u¿¹cy poszli za jego przyk³adem?}
 {176}{}{Mo¿e w takim razie chcecie go sprzedaæ? Pozbêdziecie siê k³opotu. Czy Centrum przyjmuje... "datki?"}
-{177}{}{Mam jeszcze jedno pytanie...}
-{178}{}{W porz¹dku. Do widzenia.}
+{177}{}{Jeszcze tylko ostatnie pytanie...}
+{178}{}{W porz¹dku. Do zobaczenia.}
 {179}{}{To prawda. Musia³em go odizolowaæ od pozosta³ych... a wczoraj jeden ze s³u¿¹cych mia³ czelnoœæ kwestionowaæ moje polecenia.}
 {180}{}{Lepiej wypuœæcie go st¹d, zanim sytuacja jeszcze siê pogorszy.}
 {181}{}{Joshua? Tak, mamy tu s³u¿¹cego o tym imieniu. Niedawno przeniesiono go z Centrum Poprawczego. Mogê wiedzieæ, czemu siê nim interesujesz...?}
 {182}{}{Chcê wynegocjowaæ jego zwolnienie.}
 {183}{}{Podejrzewam, ¿e jest nosicielem choroby zakaŸnej. Lepiej wypuœæcie go st¹d, zanim pozara¿a pozosta³ych s³u¿¹cych.}
 {184}{}{Bez powodu. Mam jeszcze kilka pytañ...}
-{185}{}{W porz¹dku. Do widzenia.}
+{185}{}{W porz¹dku. Do zobaczenia.}
 {186}{}{Naprawdê? A czemu niby mielibyœmy go wypuœciæ?}
 {187}{}{Mo¿e pokaŸna dotacja Centrum Przydzielania S³u¿¹cych wp³ynie na wasz¹ decyzjê?}
-{188}{}{Podejrzewam, ¿e jest nosicielem choroby zakaŸnej. Lepiej go wypuœæcie, zanim pozara¿a pozosta³ych s³u¿¹cych.}
+{188}{}{Podejrzewam, ¿e jest nosicielem choroby zakaŸnej. Lepiej wypuœæcie go st¹d, zanim pozara¿a pozosta³ych s³u¿¹cych.}
 {189}{}{Bez powodu. Mam jeszcze kilka pytañ...}
-{190}{}{W porz¹dku. Do widzenia.}
+{190}{}{W porz¹dku. Do zobaczenia.}
 {191}{}{Nie, myœlê raczej o pokaŸniejszej dotacji.}
 {192}{}{Hmm. Dotacja rzeczywiœcie pomog³aby w sprawniejszym dzia³aniu Centrum, ale wypuszczenie Joshuy wymaga niema³ej sumy.}
 {193}{}{Mo¿e $1000?}
@@ -101,7 +101,7 @@
 {200}{}{Có¿... nie jest to mo¿e szczyt moich marzeñ, ale niech bêdzie. Dopilnujê, ¿eby tego twojego Joshuê odstawiono na Podmurze. Jeœli pozwolisz, natychmiast zajmê siê formalnoœciami.}
 {201}{}{W porz¹dku.}
 {202}{}{Zrobione. Joshua nie jest ju¿ s³u¿¹cym i trafi³ na Podmurze, gdzie jest jego miejsce.}
-{203}{}{Dziêki. Mam jeszcze kilka pytañ...}
+{203}{}{Dziêkujê. Mam jeszcze kilka pytañ...}
 {204}{}{Œwietnie. W takim razie pójdê siê z nim spotkaæ.}
 {205}{}{To wspaniale. Mam nadziejê, ¿e nie trafi z powrotem do miasta.}
 {206}{}{Co ty nie powiesz? Zdajesz sobie sprawê, ¿e zanim ktoœ trafi do Centrum Przydzielania S³u¿¹cych, jest poddawany dok³adnym badaniom medycznym?}
@@ -137,10 +137,10 @@
 {236}{}{Mo¿e wrócisz tutaj z jakimœ lepszym towarem. To co masz w tej chwili... jest poœledniej jakoœci.}
 {237}{}{Daj spokój, to stanowczo za ma³o.}
 {238}{}{To uczciwa cena. Sprzedane.}
-{239}{}{Niestety, chwilowo nie jest na sprzeda¿. Chcê ciê jeszcze o coœ zapytaæ...}
-{240}{}{Niestety, nie jest na sprzeda¿. Mo¿e dogadamy siê innym razem.}
-{241}{}{Dobrze. Mam jeszcze kilka pytañ...}
-{242}{}{W porz¹dku. Porozmawiamy innym razem.}
+{239}{}{W³aœciwie to nie chcê jeszcze tego sprzedawaæ. Mam za to kilka pytañ.}
+{240}{}{W³aœciwie to nie chcê jeszcze tego sprzedawaæ. Mo¿e dogadamy siê innym razem.}
+{241}{}{Dobrze. Mam jednak kilka pytañ...}
+{242}{}{Dobrze. Mo¿e wiêc kiedy indziej, gdy zdobêdê lepsze towary.}
 {243}{}{Nie wydaje mi siê... 250 albo nic.}
 {244}{}{Nie, tego ch³opca chyba nie ³atwo bêdzie wyszkoliæ... 200 albo nic.}
 {245}{}{¯artujesz? Trzeba bêdzie tygodnia szorowania, zanim ten dzikus przestanie œmierdzieæ. 100 albo nic.}
@@ -153,8 +153,8 @@
 {252}{}{Hmmmm. W porz¹dku. $200, i koniec targowania siê.}
 {253}{}{Hmmmmmmm. $200, i ani dolara wiêcej.}
 {254}{}{W porz¹dku. Sprzedane.}
-{255}{}{Chyba siê jednak rozmyœlê. Mam za to kilka pytañ...}
-{256}{}{Jednak siê rozmyœlê. Mo¿e nastêpnym razem.}
+{255}{}{W³aœciwie to nie chcê jeszcze tego sprzedawaæ. Mam za to kilka pytañ.}
+{256}{}{W³aœciwie to nie chcê jeszcze tego sprzedawaæ. Mo¿e dogadamy siê innym razem.}
 {257}{}{Œwietnie. Oto twoje pieni¹dze. Ka¿ê j¹ wys³aæ na badania lekarskie i do szkolenia. }
 {258}{}{Œwietnie. Oto twoje pieni¹dze. Ka¿ê go wys³aæ na badania lekarskie i do szkolenia. }
 {259}{}{Œwietnie. Oto twoje pieni¹dze. Ka¿ê wys³aæ tego dzikusa na badania lekarskie i do szkolenia. }
@@ -168,5 +168,4 @@
 {267}{}{Co ty tu znowu robisz? Wys³a³em ciê do Krypty! A niech ciê... No dobrze, ka¿ê komuœ odstawiæ ciê na miejsce.}
 {268}{}{Dybra}
 {269}{}{Uda³o ci siê przekonaæ Barkusa ¿eby wypuœci³ Joshuê.}
-#added by killap
 {300}{}{S³ysza³em, ¿e jesteœ bohaterem. Dobra robota.}

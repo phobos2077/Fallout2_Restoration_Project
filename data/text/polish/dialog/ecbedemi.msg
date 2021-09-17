@@ -5,7 +5,6 @@
 {104}{}{...a oto dowód na to, i¿ ziemia kszta³t banana posiada.}
 {105}{}{Pozwól¿e mi wyjaœniæ, w jaki sposób trzesieniom ziemi zapobiegaæ mo¿na, owczych pêcherzy w celu tym u¿ywaj¹c.}
 {106}{}{Muszê pomyœleæ. Ostaw mnie, proszê, w spokoju.}
-
-{200}{}{Hola! Twoje rêce s¹ zimne jak lód!}
-{201}{}{To nie nale¿y do ciebie!}
+{200}{}{Hej! Masz lodowate rêce!}
+{201}{}{To nie nale¿y do ciebie.}
 {202}{}{Hej, to moje rzeczy!}

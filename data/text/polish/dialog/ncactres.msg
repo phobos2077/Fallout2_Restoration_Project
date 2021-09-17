@@ -1,28 +1,17 @@
-# QUICK LOOK
 {100}{}{Widzisz aktorkê filmów pornograficznych.}
-
-# EXAMINES
 {150}{}{Widzisz atrakcyjn¹ kobietê. Zdaje siê mówiæ sama do siebie.}
 {151}{}{Chyba próbuje zapamiêtaæ swoj¹ kwestiê. Wreszcie daje sobie spokój, uk³ada usta w kszta³t litery "O" i zaczyna rytmicznie poruszaæ g³ow¹.}
 {152}{}{Widzisz aktorkê filmów pornograficznych. Nawet na ciebie nie spojrzy.}
-
-# 1. [MALE, ENCLAVE IS DESTROYED]
 {200}{}{Pewnie powinnam ci podziêkowaæ za ocalenie œwiata od zag³ady, ale chêtniej uprawia³abym z tob¹ dziki, wyuzdany seks. Co ty na to?}
 {201}{}{Podobno to ty jesteœ tym ogierem, który skopa³ ty³ek Enklawie?}
 {202}{}{Faceci którzy kopi¹ ty³ki z³ym rz¹dowym enklawom sprawiaj¹, ¿e robiê siê mokra.}
-{203}{}{Podobno Bracia ciê szukaj¹. Chc¹ zrobiæ film na podstawie twoich przygód.}
-
-# 2. [FEMALE, ENCLAVE IS DESTROYED]
+{203}{}{Podobno Bracia ciê szukaj¹. Maj¹ zrobiæ film na podstawie twoich przygód.}
 {210}{}{Pewnie powinnam ci podziêkowaæ za uratowanie œwiata od zag³ady. Eee... dziêki.}
 {211}{}{Podobno to ty skopa³aœ ty³ki tym z Enklawy. Jestem pod wra¿eniem.}
 {212}{}{Podobno Bracia ciê szukaj¹. Chc¹ zrobi¹ film na podstawie twoich przygód. Eee... mo¿esz mi za³atwiæ jak¹œ rólkê...?}
-
-# 3. [POWER ARMOR]
 {220}{}{Przestaniesz wreszcie tupaæ w tym cholerstwie, czy nie?! Ja tu próbujê nauczyæ siê kwestii. PROSZÊ!}
 {221}{}{Poszukaj sobie jakiejœ gry o mechach! To jest porz¹dne RPG!}
 {222}{}{Rekompensujesz sobie jakieœ braki?}
-
-# 4. [PORN STAR]
 {230}{}{Jak leci, }
 {231}{}{NieŸle wygl¹dasz, }
 {232}{}{Hej, s³oneczko! Wszystko w porz¹dku?}
@@ -32,60 +21,50 @@
 {236}{}{Zobaczmy... (czyta scenariusz) ...on wchodzi, uprawiamy seks. Rozumiem.}
 {237}{}{Kiedyœ chcia³abym zostaæ re¿yserem.}
 {238}{}{Dziêki Bogu, zainstalowali pluszowe obicia na desce rozdzielczej.}
-{239}{}{Nie wiem co Bracia Corsican w niej widz¹...}
+{239}{}{Nie mam pojêcia co Bracia Corsican w niej widz¹...}
 {240}{}{Mog³aby wreszcie siê st¹d wynieœæ.}
 {241}{}{Ona naœladuje mój styl.}
 {242}{}{Och, ona jest poch³aniaczk¹-mê¿czyzn, prawdziwa kanibalka.}
 {243}{}{Hmm. G³upia zdzira.}
-{244}{}{Tyle w niej talentu, co w psiej kupie. Tylko pachnie gorzej.}
-
-# 5. [PRIZEFIGHTER]
+{244}{}{Ma tyle talentu co gumowa lala, tylko jest od niej brzydsza.}
 {250}{}{Jak leci, }
-{251}{}{Nooo... W takie k³opoty mog³abym siê wpakowaæ.}
+{251}{}{W TAKIE k³opoty chêtnie bym siê wpl¹ta³a.}
 {252}{}{Szukasz mnie?}
 {253}{}{Dlaczego nie zagl¹dasz tu czêœciej?}
-{254}{}{Mo¿e wype³nisz... pustkê w moim ¿yciu?}
+{254}{}{Ach. Potrzebujê pilnie mêskiej pomocy.}
 {255}{}{Najwy¿szy czas, ¿eby pojawi³ siê tu prawdziwy mê¿czyzna...}
 {256}{}{Zobaczmy... "O bo¿e"... "G³êbiej..." Cholera! Jaka jest nastêpna kwestia?}
 {257}{}{Tak, ale jaka jest moja MOTYWACJA w tej scenie?}
-{258}{}{Zobaczmy... (czyta scenariusz)... on wchodzi, uprawiamy seks. Rozumiem.}
-{259}{}{Marzê o karierze re¿ysera.}
+{258}{}{Zobaczmy... (czyta scenariusz) ...on wchodzi, uprawiamy seks. Rozumiem.}
+{259}{}{Kiedyœ chcia³abym zostaæ re¿yserem.}
 {260}{}{Dziêki Bogu, zainstalowali pluszowe obicia na desce rozdzielczej.}
-
-# 6. [MADE MAN]
 {265}{}{Jak leci, }
-{266}{}{Nooo... W takie k³opoty mog³abym siê wpakowaæ.}
+{266}{}{W TAKIE k³opoty chêtnie bym siê wpl¹ta³a.}
 {267}{}{Szukasz mnie?}
 {268}{}{Dlaczego nie zagl¹dasz tu czêœciej?}
-{269}{}{Mo¿e wype³nisz... pustkê w moim ¿yciu?}
+{269}{}{Ach. Potrzebujê pilnie mêskiej pomocy.}
 {270}{}{Najwy¿szy czas, ¿eby pojawi³ siê tu prawdziwy mê¿czyzna...}
 {271}{}{Zobaczmy... "O bo¿e"... "G³êbiej..." Cholera! Jaka jest nastêpna kwestia?}
 {272}{}{Tak, ale jaka jest moja MOTYWACJA w tej scenie?}
-{273}{}{Zobaczmy... (czyta scenariusz)... on wchodzi, uprawiamy seks. Rozumiem.}
+{273}{}{Zobaczmy... (czyta scenariusz) ...on wchodzi, uprawiamy seks. Rozumiem.}
 {274}{}{Kiedyœ chcia³abym zostaæ re¿yserem.}
-{275}{}{Dziêki Bogu, zainstalowali wreszcie pluszowe obicia na desce rozdzielczej.}
-
-# 7. [NO REP]
+{275}{}{Dziêki Bogu, zainstalowali pluszowe obicia na desce rozdzielczej.}
 {280}{}{Co to za zapach?}
 {281}{}{Œwietnie. Jeszcze jeden dzikus.}
-{282}{}{Nie odzywaj siê do mnie.}
+{282}{}{Nie mów do mnie.}
 {283}{}{Zobaczmy... "O bo¿e"... "G³êbiej..." Cholera! Jaka jest nastêpna kwestia?}
 {284}{}{Tak, ale jaka jest moja MOTYWACJA w tej scenie?}
 {285}{}{Zobaczmy... (czyta scenariusz)... on wchodzi, uprawiamy seks. Rozumiem.}
 {286}{}{Kiedyœ chcia³abym zostaæ re¿yserem.}
-{287}{}{Dziêki Bogu, zainstalowali wreszcie pluszowe obicia na desce rozdzielczej.}
+{287}{}{Dziêki Bogu, zainstalowali pluszowe obicia na desce rozdzielczej.}
 {288}{}{Jeœli ³aska, wola³abym nie musieæ z tob¹ rozmawiaæ. Pomyœl sobie coœ cichutko, a potem wyobraŸ sobie, ¿e ci odpowiadam.}
 {289}{}{Kim jesteœ?}
 {290}{}{Chcesz tu posprz¹taæ?}
-
-# 8. [POWER ARMOR]
 {295}{}{Nie jesteœ trochê za niski na szturmowca?}
 {296}{}{Aaaiiii! Co ty wyprawiasz? Chcesz, ¿ebym dosta³a ataku serca?! Wynoœ siê st¹d!}
 {297}{}{W jakim filmie ty wystêpujesz? Cz³owiek z ¿elaza? Wynoœ siê st¹d!}
-{298}{}{Przestaniesz wreszcie tupaæ w tym z³omie, czy nie? Ja tu próbujê nauczyæ siê roli. PROSZÊ!}
+{298}{}{Przestaniesz wreszcie tupaæ w tym cholerstwie, czy nie?! Ja tu próbujê nauczyæ siê kwestii. PROSZÊ!}
 {299}{}{Rekompensujesz sobie jakieœ braki?}
-
-# 9. [MALE, PORN STAR]
 {305}{}{Jak leci, }
 {306}{}{Chcesz mi pomóc przy uczeniu siê roli?}
 {307}{}{Mo¿e weŸmiemy razem prysznic przed nastêpn¹ scen¹?}
@@ -96,7 +75,7 @@
 {312}{}{Po ca³ym dniu zdjêæ jestem po prostu... wypompowana.}
 {313}{}{Podobno WRESZCIE mamy razem zagraæ w nowym filmie.}
 {314}{}{Moi narzeczeni nie wiedz¹, ¿e tu pracujê. Nie, ¿eby mnie to szczególnie obchodzi³o.}
-{315}{}{Dzisiaj nie widzia³am tu Braci... mo¿e spróbuj w biurze?}
+{315}{}{Nie widzia³am tu braci... mo¿e zajrzyj do ich biura?}
 {316}{}{Nie interesuje mnie gdzie j¹ wsadzicie! Kamera ma byæ w centrum akcji.}
 {317}{}{Jesteœ mê¿czyzn¹ pe³nym pasji i tajemniczym. Mê¿czyzn¹, którym kieruj¹ ¿¹dze.}
 {318}{}{Mo¿emy to zrobiæ w dowolnej pozycji. Wybór nale¿y do ciebie.}
@@ -106,8 +85,6 @@
 {322}{}{Prawdziwy z ciebie wulkan!}
 {323}{}{Uwielbiam, kiedy mówisz z hiszpañskim akcentem.}
 {324}{}{Œwietnie wygl¹dasz, skarbie.}
-
-# 10. [PORN STAR, FEMALE]
 {330}{}{::Ignoruje ciê::}
 {331}{}{Masz byæ ma³¹ francuzeczk¹ czy ma³¹ rosjaneczk¹ w nastêpnej scenie?}
 {332}{}{Mogliby wreszcie poprawiæ skutecznoœæ œrodków antykoncepcyjnych.}
@@ -125,51 +102,43 @@
 {344}{}{To nie *ja* mówi³am, ¿e jesteœ gruba i brzydka. To musia³ byæ ktoœ inny.}
 {345}{}{Podobno ¿aden z aktorów nie chce z tob¹ pracowaæ.}
 {346}{}{Mog³abyœ siê umyæ przed przyjœciem do pracy.}
-
-# 11. [MALE, PRIZEFIGHTER OR MADE MAN]
 {350}{}{Jak leci, }
-{351}{}{Rezygnujesz z boksu na rzecz pornosów? To w sumie to samo, tylko scena inna.}
-{352}{}{Chcesz wskoczyæ ze mn¹ na ring, mistrzu?}
+{351}{}{Przenosisz siê z boksu do porno? Ta sama bran¿a, inna scena.}
+{352}{}{Mo¿e masz ochotê na parê rund w moim ³ó¿ku, mistrzu?}
 {353}{}{Poboksujemy trochê, mistrzu?}
-{354}{}{Uwa¿aj na Prze¿uwacza. To prawdziwy sukinsyn. Kiedyœ prawie odgryz³ mi ucho.}
-{355}{}{Pomo¿esz mi nauczyæ siê roli?}
-{356}{}{Mo¿esz mi odst¹piæ dzia³kê Jetu?}
-{357}{}{Po ca³ym dniu zdjêæ czujê siê taka... wypompowana.}
+{354}{}{Uwa¿aj na Prze¿uwacza. To prawdziwy cham. Próbowa³ kiedyœ odgryŸæ moje ucho.}
+{355}{}{Chcesz mi pomóc przy uczeniu siê roli?}
+{356}{}{Odst¹pisz mi mo¿e dzia³kê Jetu?}
+{357}{}{Po ca³ym dniu zdjêæ jestem po prostu... wypompowana.}
 {358}{}{Masz ochotê na odrobinê perwersji?}
 {359}{}{Jaka du¿a broñ!}
 {360}{}{Moi narzeczeni nie wiedz¹, ¿e tu pracujê. Nie, ¿eby mnie to szczególnie obchodzi³o.}
 {361}{}{Jeœli szukasz towarzystwa, to dziœ po zdjêciach jestem wolna.}
 {362}{}{Bêdziesz teraz gra³ w filmach? Witamy na pok³adzie.}
-{363}{}{Niez³ego masz gnata.}
-{364}{}{Powinieneœ zacz¹æ graæ w pornosach. Masz wymarzone cia³o.}
-{365}{}{Masz tam niez³y kawa³ ¿elaza!}
+{363}{}{Wpuszczaj¹ ciê na ring z TAK¥ broni¹?!}
+{364}{}{Musisz wejœæ w porno. Masz do tego dobre cia³o.}
+{365}{}{Jaka du¿a broñ!}
 {366}{}{Jeœli szukasz towarzystwa, to dziœ po zdjêciach jestem wolna.}
 {367}{}{S³ysza³am o tobie. Jesteœ }
 {368}{}{Twój szef ciê po mnie wys³a³?}
 {369}{}{Chcesz mnie brutalnie przes³uchaæ? Wycisn¹æ ze mnie wszystko? Proszê!}
 {370}{}{Czy szef czasem o mnie mówi?}
-
-# 12. [FEMALE, PRIZEFIGHTER OR MADE MAN]
 {380}{}{Jak to jest byæ bokserem?}
-{381}{}{Uwa¿aj na Prze¿uwacza. To prawdziwy sukinsyn. Kiedyœ prawie odgryz³ mi ucho.}
+{381}{}{Uwa¿aj na Prze¿uwacza. To prawdziwy cham. Próbowa³ kiedyœ odgryŸæ moje ucho.}
 {382}{}{Podoba mi siê twoje wdzianko. Tres chic.}
 {383}{}{Œwietnie wygl¹dasz w tym stroju.}
 {384}{}{Czego chcesz... och! To pani! Witamy w studiu.}
 {385}{}{Moi narzeczeni nie wiedz¹, ¿e tu pracujê. Nie, ¿eby mnie to szczególnie obchodzi³o.}
 {386}{}{Ummm... mo¿e ma pani na zbyciu odrobinê Jetu?}
-{387}{}{Po ca³ym dniu zdjêæ jestem kompletnie... wypompowana.}
+{387}{}{Po ca³ym dniu zdjêæ jestem po prostu... wypompowana.}
 {388}{}{Czy jestem zajêta po zdjêciach? Eee... nie, proszê pani.}
 {389}{}{Jak to jest pracowaæ pod szefem?}
 {390}{}{Czy szef czasem o mnie wspomina?}
-
-# 13. [LEATHER]
 {395}{}{S³uchaj wi¹zanie i S&M mamy tylko w œrody. A teraz przestañ mi tu piszczeæ tym skórzanym wdziankiem.}
 {396}{}{W¹tpie, ¿eby Bracia zatrudnili kogoœ w skórach, nie po fiasku I ¯yli D³ugo i Skurzanie.}
 {397}{}{Przestañ mi przeszkadzaæ. Próbujê siê nauczyæ roli.}
 {398}{}{Wiedzia³am, ¿e coœ tu pachnie skór¹, ale myœla³am, ¿e to kanapa.}
 {399}{}{S³uchaj skórzany króliczku, jeœli nie masz w³asnego pejcza, Bracia nigdy ciê nie zatrudni¹.}
-
-# 14. [MALE, NO REP]
 {410}{}{Z tob¹? Dziêkujê, nie skorzystam. Moja szminka jest lepszym kochankiem.}
 {411}{}{Mo¿e pobawisz siê temperówk¹ do o³ówków?}
 {412}{}{Chwilowo nie mam czasu na bezsensowne pogawêdki z byle kim.}
@@ -182,7 +151,7 @@
 {419}{}{W³aœnie szukam tego jednego, jedynego. Dziêki, ¿e chcesz mi do tego czasu dotrzymaæ towarzystwa.}
 {420}{}{Trzymaj swoje brudne ³apy z dala ode mnie. Jak bêdê chcia³a mi³o spêdziæ trzy minuty na pewno ciê zawo³am.}
 {421}{}{Przepraszam, przez chwilê wydawa³o mi siê, ¿e jesteœ przystojny.}
-{422}{}{Z tob¹? Przykro mi, ale a¿ tak zdesperowana.}
+{422}{}{Ty? Wybacz, ale NIGDY nie bêdê a¿ tak zdesperowana.}
 {423}{}{Nie mam pojêcia gdzie podziewaj¹ siê Bracia... a teraz przestañ mi przeszkadzaæ. Jestem aktork¹.}
 {424}{}{B³agam... ¿adnych autografów.}
 {425}{}{Chcia³abym kiedyœ zostaæ re¿yserem.}
@@ -190,7 +159,7 @@
 {427}{}{Nawet nie wiesz jak stresuj¹ca jest moja praca.}
 {428}{}{Moi narzeczeni nie wiedz¹, ¿e tu pracujê. Nie, ¿eby mnie to szczególnie obchodzi³o.}
 {429}{}{B³agam, przestañ mi przeszkadzaæ. Próbujê nauczyæ siê roli.}
-{430}{}{Jeœli szukasz pracy porozmawiaj z Braæmi.}
+{430}{}{Jeœli szukasz pracy, pogadaj z braæmi.}
 {431}{}{Jesteœ now¹ podnietk¹?}
 {432}{}{Jesteœ nowym woŸnym? Pewnie tak, w koñcu kim innym móg³byœ byæ.}
 {433}{}{Jeœli jesteœ nowym woŸnym to zacznij od wytarcia mojego ty³ka.}
@@ -198,9 +167,8 @@
 {435}{}{Dziewczyno b³agam... ¿adnych autografów.}
 {436}{}{Mo¿e jeœli siê trochê oporz¹dzisz dostaniesz tu pracê jako podnietka.}
 {437}{}{Przykro mi, ale nie mogê byæ lesbijk¹ za mniej ni¿ 200 ¿etonów. W twoim wypadku za 300.}
-{438}{}{Co czwartek tañczê w kasynach. Wpadnij kiedyœ, tylko weŸ ze sob¹ parê ¿etonów.}
+{438}{}{Co czwartek tañczê w kasynach. Wpadnij kiedyœ i weŸ parê ¿etonów.}
 {439}{}{Dziewczyno, nie masz pojêcia jaka to stresuj¹ca praca.}
-
 {1230}{}{?}
 {1231}{}{.}
 {1250}{}{?}

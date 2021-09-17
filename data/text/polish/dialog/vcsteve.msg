@@ -5,7 +5,7 @@
 {104}{}{Czy ten ogrodzony teren to ju¿ ca³e miasto?}
 {105}{}{Co masz na myœli mówi¹c "najwspanialsze?"}
 {106}{}{Szukam Krypty. Mo¿esz mi powiedzieæ, gdzie j¹ znajdê?}
-{107}{}{Do widzenia.}
+{107}{}{¯egnaj.}
 {108}{}{Umm... (Patrzy na trzyman¹ w rêku ulotkê) Eee... nie, nie - zadajesz niew³aœciwe pytania. Nie mam tutaj takiej odpowiedzi.}
 {109}{}{A wiesz cokolwiek tak sam z siebie, pajacu?}
 {110}{}{Có¿, trudno.}

@@ -4,8 +4,7 @@
 {103}{}{Sir Robin, do us³ug.}
 {104}{}{Chyba nie chcesz zrobiæ mi krzywdy?}
 {105}{}{Przemoc jest niepotrzebna, prawda?}
-{106}{}{IdŸ sobie, proszê.}
-
+{106}{}{Proszê, odejdŸ.}
 {200}{}{Hej! Masz lodowate rêce!}
 {201}{}{To nie nale¿y do ciebie.}
 {202}{}{Hej, to moje rzeczy!}

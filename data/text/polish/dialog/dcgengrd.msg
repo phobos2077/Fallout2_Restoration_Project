@@ -1,6 +1,5 @@
 {100}{}{Widzisz groŸnie wygl¹daj¹cego awanturnika.}
 {101}{}{Widzisz miejscowego stra¿nika.}
-
 {102}{}{Nie teraz - jestem na s³u¿bie.}
 {103}{}{Nie mogê z tob¹ rozmawiaæ.}
 {104}{}{Proszê, odejdŸ.}

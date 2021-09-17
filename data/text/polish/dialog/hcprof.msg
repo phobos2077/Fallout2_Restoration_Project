@@ -7,7 +7,7 @@
 {106}{}{Test!}
 {107}{}{Kim jesteœ? I co to za historia z tym skorpionem?}
 {108}{}{Chcê przyst¹piæ do jednego z twoich testów.}
-{109}{}{Niczego. ¯egnaj.}
+{109}{}{Nic takiego. Na razie.}
 {110}{}{Ach, jeszcze jeden obiekt! Chcesz przyst¹piæ do mojego testu?}
 {111}{}{Tak!}
 {112}{}{Nie!}
@@ -25,13 +25,13 @@
 {124}{}{Mo¿e inteligencjê?}
 {125}{}{Hmm. Chyba jednak zrezygnujê.}
 {126}{}{Œwietnie. Twoim przeciwnikiem bêdzie skorpion. Waszym zadaniem jest otwarcie tych pude³. Powodzenia.}
-{127}{}{Start!}
-{128}{}{Zaczynajmy.}
+{127}{}{Chodu!}
+{128}{}{Zróbmy to.}
 {129}{}{Dobrze. Stañ za t¹ lini¹. Skorpion i ty bêdziecie mi czytaæ litery, które zobaczycie - od góry do do³u i lewej do prawej.}
-{130}{}{Start!}
+{130}{}{Chodu!}
 {131}{}{Jasne. Zaczynajmy.}
 {132}{}{Zagrasz przeciwko skorpionowi w grê, któr¹ wymyœli³em. Z braku lepszej nazwy mówiê na ni¹ "szachy". Mo¿emy zaczynaæ?}
-{133}{}{Taaa!}
+{133}{}{'ak!}
 {134}{}{Tak. Zaczynajmy.}
 {135}{}{Jestem Profesorem. Zajmujê siê badaniem czynników wp³ywaj¹cych na inteligencjê istot ¿ywych. Przeprowadzam testy i pracujê nad œrodkami chemicznymi, które zwiêkszaj¹ potencja³ intelektualny. Po niepowodzeniu badañ nad roœlin¹, eksperymentujê na tym radskorpionie.}
 {136}{}{Wypróbowa³eœ te œrodki na roœlinie?}
@@ -46,9 +46,7 @@
 {145}{}{Dobra, dobra. Chêtnie spróbujê si³ przeciw twojemu skorpionowi. Co ty na to? }
 {146}{}{W porz¹dku, wierzê ci. Niestety, muszê ju¿ iœæ.}
 {147}{}{Jak... jak mo¿na by³o tak po prostu zabiæ mojego skorpiona? A by³em ju¿ tak blisko... tak blisko...}
-{148}{}{OdejdŸ}
-
-# Agility Test
+{148}{}{OdejdŸ bez s³owa.}
 {200}{}{Huu huu! I co ty na to, panie Szkielet Zewnêtrzny.}
 {201}{}{Huuu huuu!}
 {202}{}{Cholera!}
@@ -58,8 +56,6 @@
 {206}{}{Jak ty otforzyæ SZCZYPCEM?}
 {207}{}{::stukot::}
 {208}{}{No to mamy remis.}
-# The following 4 strings are used in the phrase:
-# "You lose. Scorpion: [SCORE], [Player Name]: [SCORE]."
 {209}{}{Przegrywasz. Skorpion: }
 {210}{}{, }
 {211}{}{: }
@@ -67,8 +63,6 @@
 {213}{}{Eee?}
 {214}{}{Twoja zrêcznoœæ dorównuje zrêcznoœci radskorpiona.}
 {215}{}{Proszê, weŸ te Mentaty. Wygl¹dasz na kogoœ, komu siê przydadz¹.}
-
-# Perception Test
 {300}{}{E...Z...W...T...O...D...F...E..R...T...F...P...Y...J...M}
 {301}{}{Tak, zgadza siê.}
 {302}{}{M...U...U...Muuu?}
@@ -76,13 +70,11 @@
 {304}{}{::stukot szmer:: ::klik klak:: ::œwist (machniêcie odw³okiem)::}
 {305}{}{Znakomicie! Dobry ch³opiec! Dooobry ch³opiec! Co raz lepiej radzisz sobie z jêzykiem Morse'a.}
 {306}{}{Twoja percepcja dorównuje percepcji radskorpiona.}
-
-# Intelligence Test
 {400}{}{Szach mat ::kilk::}
 {401}{}{CO? Oszukujesz!}
 {402}{}{Akmat?}
 {403}{}{Nie potrafisz przegrywaæ.}
-{404}{}{I... szach mat!}
+{404}{}{And... checkmate!}
 {405}{}{Szamak!}
 {406}{}{::szelest:: Zabiæ roœlina! ::klik-klak-klik::}
 {407}{}{Potrafisz wyrolowaæ radskorpiona, który jest inteligentniejszy od ciebie.}

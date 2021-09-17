@@ -15,7 +15,7 @@
 {320}{}{Le Maître répondra à toutes tes questions.}
 {321}{}{Je ne pense pas.}
 {322}{}{Très bien. Je rencontrerai ton maître.}
-{400}{}{Uuuhhhhh...}
+{400}{}{Heeeuuuu...}
 {401}{}{Grrraaah !}
 {402}{}{Hhiisssss...}
 {403}{}{Ohhh...}

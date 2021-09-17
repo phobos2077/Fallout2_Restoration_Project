@@ -80,12 +80,10 @@
 {179}{}{No wiesz... Praca-na-plecach. Za³o¿ê siê, ¿e z twoim wygl¹dem mog³abyœ nieŸle siê dorobiæ.}
 {180}{}{No wiesz... Praca-na-plecach. Nawet z twoim wygl¹dem mog³abyœ coœ sobie dorobiæ. Ci górnicy nie s¹ zbyt wybredni, wiesz.}
 {181}{}{Tak myœlisz? Mo¿e powinnam.}
-{182}{}{To chyba nie dla mnie. Do widzenia.}
+{182}{}{To chyba nie dla mnie. Na razie.}
 {183}{}{W tej pracy przydaje siê ma³o wra¿liwy nos. Ci górnicy chyba nie przepadaj¹ za myd³em i wod¹.}
 {184}{}{Na serio? Mo¿e jednak nie powinnam. Ale dziêki za ofertê. Do widzenia.}
 {185}{}{Taki zapaszek musi œcinaæ z nóg. Pewnie dlatego pracujesz-na-plecach. Do widzenia.}
-
-# Begin Seraph's Code
 {186}{}{[Fannie wygl¹da jak by jej ktoœ zdj¹³ z ramion ogromny ciê¿ar] Hej, to ty! Lou powiedzia³ mi o tym co uda³o ci siê zrobiæ. Ten towar który mi podrzuci³a nieŸle odchorowa³am, ale nie czu³am g³odu na Jet od tamtego czasu. (Ca³uje ciê w policzek.) Nie wiem jak mog³aby ci siê odwdziêczyæ... có¿, no mo¿e znam jeden "sposób". Kiedy tylko bêdziesz w nastroju, nie wahaj siê zajrzeæ, nic nie policzê. (mrugniêcie)}
 {187}{}{Bêdê o tym pamiêtaæ. Dziêki, Fannie.}
 {188}{}{Dziêkujê, jeszcze raz. (cmok) Pamiêtaj, zawsze na koszt firmy. (mrugniêcie)}
@@ -93,9 +91,6 @@
 {190}{}{Sory s³onko...Nie czuje siê za dobrze. Ale zapytaj póŸniej.}
 {191}{}{Masz teraz trochê wolnego czasu?}
 {192}{}{Wracaj kiedy tylko zechcesz! Zawsze mi³o powtórzyæ "biznes".}
-{193}{}{[GOTOWE]}
-
+{193}{}{[dalej]}
 {200}{}{Uda³o ci siê podrzuciæ odtrutkê na Jet do drinka Fannie Mae.}
-# End Seraph's Code
-
 {210}{}{Dobra, tu masz 60$. Co powiesz na kolejn¹ rundkê?}

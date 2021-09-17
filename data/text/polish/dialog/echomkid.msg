@@ -1,14 +1,12 @@
-{100}{}{Bla bla. Nie dogonisz mnie.}
-{101}{}{Tata spuœci ci lanie.}
+{100}{}{Bla bla! Nie dogonisz mnie!}
+{101}{}{Mój tato da ci wycisk!}
 {102}{}{A masz.}
-{103}{}{IdŸ sobie!}
+{103}{}{OdejdŸ!}
 {104}{}{Bla bla!}
 {105}{}{£aaa!}
 {106}{}{Mamo!}
-{107}{}{Tato!}
-
+{107}{}{Tatku!}
 {200}{}{Widzisz ma³e dziecko.}
-{201}{}{Widzisz ma³ego ch³opca.}
-{202}{}{Widzisz ma³¹ dziewczynkê.}
-
+{201}{}{To ma³y ch³opiec.}
+{202}{}{To ma³a dziewczynka.}
 {210}{}{Czeœæ.}

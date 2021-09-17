@@ -1,4 +1,4 @@
-{100}{}{Voici un junkie.}
+{100}{}{Tu vois un drogué.}
 {101}{}{Tu vois Pierrot.}
 {150}{}{Celui-là est un paumé.}
 {151}{}{Pierrot a l'air d'avoir besoin d'aide.}

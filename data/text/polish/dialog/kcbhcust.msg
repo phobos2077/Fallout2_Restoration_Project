@@ -3,13 +3,11 @@
 {102}{}{Widzisz mieszkañca miasta.}
 {103}{}{Widzisz odprê¿aj¹cego siê robotnika.}
 {104}{}{Widzisz osobê spêdzaj¹c¹ czas przy kieliszku.}
-
 {106}{}{Widzisz bywalca baru. Wygl¹da na szczêœliwego i z lekka pijanego.}
 {107}{}{Widzisz sta³ego bywalca baru. Wygl¹da zdrowo i jest dobrze od¿ywiony.}
 {108}{}{Widzisz sta³ego bywalca baru rozmawiaj¹cego cicho z kimœ w pobli¿u.}
 {109}{}{Widzisz sta³ego bywalca baru pij¹cego kulerkê piwa.}
 {110}{}{Widzisz sta³ego bywalca baru œmiej¹cego siê do siebie samego.}
-
 {120}{}{Chyba to nie ta tawerna, co?}
 {121}{}{Nie potrzebujemy tu wagabundów.}
 {122}{}{Dzicy zawsze oznaczaj¹ k³opoty.}
@@ -35,7 +33,6 @@
 {142}{}{Nie pozwól, aby dorwa³ ciê Wêdruj¹cy Duch!}
 {143}{}{Nawet nie próbuj kraœæ naszych bramin.}
 {144}{}{Mamy na ciebie oko.}
-
 {150}{}{Mi³o widzieæ kogoœ nowego w mieœcie.}
 {151}{}{Myœlê, ¿e koniec koñców dzicy nie s¹ tacy Ÿli.}
 {152}{}{Postaw nam kolejkê!}
@@ -57,15 +54,14 @@
 {168}{}{Nigdy nie wêdruj w nocy.}
 {169}{}{Tam na wzgórzach jest pe³no Skorpioludów.}
 {170}{}{Jeden z naszych najlepszych traperów zagin¹³.}
-
 {201}{}{Tak, to z pewnoœci¹ przeczyœci moje gardzio³ko.}
-{202}{}{Dziêki.}
+{202}{}{Dziêkujê.}
 {203}{}{Mmm-mm, dobre.}
 {204}{}{Nie ma to jak Karmi Strong.}
 {205}{}{Dziêki za browar.}
 {206}{}{By³em w Gruzach [...Gruzy...] Tam tego nie maj¹...}
 {207}{}{Dzicy wiedz¹, co najlepsze w ¿yciu.}
-{208}{}{Dziêki ci.}
+{208}{}{Dziêkujê.}
 {209}{}{Stokrotne dziêki.}
 {210}{}{Potrzebowa³em tego. Dziêki.}
 {211}{}{Stokrotne dziêki!}
@@ -74,7 +70,7 @@
 {214}{}{W porz¹dku!}
 {215}{}{Tak! Czeka³em na to.}
 {216}{}{Myœla³em, ¿e nigdy nie zapytasz.}
-{217}{}{Dziêki, przyjacielu.}
+{217}{}{Stokrotne dziêki.}
 {218}{}{Dok³adnie jak Sulik.}
-{219}{}{Dziêki.}
+{219}{}{Dziêkujê.}
 {220}{}{Spoko!}

@@ -1,7 +1,4 @@
-#
-#   Interface text from INTFACE.C
-#
-{100}{}{SKRADANIE}
+{100}{}{Skradaj}
 {101}{}{POZIOM}
 {102}{}{ÆPUN}
 {103}{}{TRUCIZNA}

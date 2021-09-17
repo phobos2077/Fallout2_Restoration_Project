@@ -38,17 +38,17 @@
 {137}{}{Naprawdê ciê¿ko powiedzieæ. Myœlê, ¿e to wszystko zale¿y od tego, jak d³ugo zajmie zebranie wystarczaj¹cej iloœci rudy. Nie jestem górnikiem, ale nie s¹dzê, aby zabra³o to wiêcej, ni¿ kilka tygodni.}
 {138}{}{Có¿, poniewa¿ nie wiem dok³adnie, ile czasu bêdzie potrzeba na zebranie ca³ego transportu medycznego. Zapewne niewiele d³u¿ej ni¿ kilka tygodni. Wtedy mo¿emy wyruszyæ. Po prostu zagl¹daj do mnie.}
 {139}{}{Co zazwyczaj transportujecie?}
-{140}{}{Pozwól, ¿e zapytam ciê o coœ innego.}
+{140}{}{Pozwól, ¿e zapytam o coœ innego.}
 {141}{}{Dziêki, tak zrobiê. Na razie.}
 {142}{}{Zazwyczaj szukamy stra¿ników, ale ta karawana jeszcze przez pewien czas nie bêdzie gotowa. Mimo wszystko mo¿esz do mnie wróciæ póŸniej.}
 {143}{}{Dlaczego pierwszego?}
-{144}{}{Co ta karawana transportuje?}
+{144}{}{Co transportuje ta karawana?}
 {145}{}{Okej, dziêki. Na razie.}
 {146}{}{Przykro mi, ale mamy ju¿ wystarczaj¹co ludzi do pracy przy tej karawanie.}
 {147}{}{Och, w porz¹dku.}
 {148}{}{Có¿, zabieramy g³ównie medykamenty z Kryptopolis i wymieniamy je w Redding za rudê z³ota.}
 {149}{}{Interesuj¹ce. Mówi³eœ, ¿e potrzebujesz stra¿ników?}
-{150}{}{Zapytam ciê o coœ innego.}
+{150}{}{Pozwól, ¿e zapytam o coœ innego.}
 {151}{}{A, w porz¹dku. Na razie.}
 {152}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê 1000$, ale tylko dlatego, ¿e potrzebujê jeszcze jednego stra¿nika. Przy³¹czasz siê?}
 {153}{}{Dobrze, ¿e jesteœ. Jesteœmy gotowi do wyruszenia. P³acê 1000$. Przy³¹czasz siê?}

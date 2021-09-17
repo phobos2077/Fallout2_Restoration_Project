@@ -27,7 +27,7 @@
 {126}{}{Nie, szukam GECKa.}
 {127}{}{Pomóc? Jak?}
 {128}{}{Wyrzutnia rakiet daje mi ca³y spokój duchowy, jakiego potrzebujê, paniusiu.}
-{129}{}{"Prawdziwie zrozum" to (Pokazujesz jej œrodkowy palec.)}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? Czego on chce?}
 {131}{}{To proste. Chcê twojej œmierci. Powiedz pa pa.}
 {132}{}{Nie wiem, co zrobi³aœ, ale mam na pani¹ zlecenie. Dobranoc.}
@@ -62,7 +62,7 @@
 {161}{}{Wiêc jak to uszeregowanie dzia³a? Czy to bolesne?}
 {162}{}{Nie, to nie jest bolesne. Po prostu przechodzisz zeta-skan. Mogê go teraz przeprowadziæ, jeœli chcesz.}
 {163}{}{Jasne.}
-{164}{}{Nigdy!}
+{164}{}{Nie ma mowy!}
 {165}{}{Koœció³ Centrologiczny dzia³a, aby wyzwoliæ ludzkoœæ z kajdan, które ograniczaj¹ jego pe³ny potencja³ duchowy.}
 {166}{}{Jak to robicie?}
 {167}{}{A tak, jak "Puszczaj moje psyche", tak?}
@@ -75,11 +75,11 @@
 {174}{}{Tak!}
 {175}{}{Zrobione. Ale pamiêtaj, w ¿yciu liczy siê nie tylko zbieranie punktów doœwiadczenia na kolejny poziom. Jest tam jeszcze ca³y "prawdziwy" œwiat. A teraz, skoro mamy to ju¿ za³atwione, spróbujemy jeszcze raz?}
 {176}{}{Oœwieconych? Zaprawdê, jak niby mam tutaj g³osiæ s³owo, je¿eli nawet nie informuj¹ mnie na bie¿¹co o ostatniej obowi¹zuj¹cej doktrynie!?}
-{177}{}{[dalej]}
+{177}{}{(Dalej)}
 {178}{}{Co to, spa³o siê na indoktrynacji? Hmm - nie nale¿ysz do oœwieconych!}
 {179}{}{A wiêc twierdzisz, ¿e jest jakaœ si³a wy¿sza, która stworzy³a nas dla jakiegoœ celu, a potem tak po prostu opuœci³a nas? Nie mogê uwierzyæ, ¿e ktoœ móg³by byæ tak bezduszny. ChodŸ, przyjmij Koœció³ Centrologiczny. Pozwól pokazaæ sobie prawdziw¹ drogê.}
 {180}{}{Jak¹ prawdziw¹ drogê?}
-{181}{}{Nie, dziêki.}
+{181}{}{Nie, dziêkujê.}
 {182}{}{Jednak¿e bez kontroli nad swoim w³asnym ¿ycie, jakie to ma znaczenie? Nic, co robisz, nie ma znaczenia. Czy wstanie dzisiejszego ranka by³o twoj¹ w³asn¹ decyzj¹? Nie, wed³ug twojej filozofii jesteœ tylko kukie³k¹. Zaœ Koœció³ Centrologiczny zna prawdziw¹ odpowiedŸ.}
 {183}{}{To znaczy?}
 {184}{}{Oczywiœcie, ¿e znacie.}
@@ -87,7 +87,7 @@
 {186}{}{Jak?}
 {187}{}{A, zejdŸ mi z oczu.}
 {188}{}{Krypta 13? Nasi naukowcy szukali jej gdzieœ na zachodzie. To wszystko, co wiem. Na pewno nie chcesz poddaæ siê szeregowaniu?}
-{189}{}{Jasne, czemu nie.}
+{189}{}{Pewnie, czemu nie.}
 {190}{}{Nie, dziêki. Ze mn¹ w porz¹dku.}
 {191}{}{Mówiê ci, g³oszenie s³owa Centrologii jest trudniejsze, ni¿ to sobie mo¿esz wyobraziæ! UKC-9 po prostu nie rozumie tej trudnoœci. Nawet to wszystko spisa³am. S³uchaj, czy zgodzisz siê dostarczyæ to UKC-9 w San Francisco? Nie mogê obiecaæ ¿adnej nagrody, ale wiem, ¿e UKC-9 doceni to.}
 {192}{}{Jasne, czemu nie?}
@@ -99,7 +99,7 @@
 {198}{}{Witam ponownie. W jaki sposób mo¿e ci pomóc Koœció³ Centrologiczny?}
 {199}{}{[œlinotok]}
 {200}{}{A wiêc to ty jesteœ tym wrzodem na ty³ku Merka!}
-{201}{}{Um, naprawdê nie wiem, o czym ty mówisz.}
+{201}{}{Ee, naprawdê nie wiem, o czym mówisz.}
 {202}{}{Co robi koœció³?}
 {203}{}{Ups. Z³e drzwi.}
 {204}{}{Zabicie mnie by³oby bezcelowe. Nie jestem zagro¿eniem dla Merka, po prostu irytujê go z powodu moich przekonañ. Mam nadziejê, ¿e odmówisz spe³nienia kontraktu.}
@@ -114,7 +114,6 @@
 {213}{}{Koœció³ jest zamkniêty. PrzyjdŸ jutro.}
 {214}{}{Bardzo chcia³abym ci pomóc, ale nawet UKC-4 musi kiedyœ spaæ. PrzyjdŸ, gdy wzejdzie s³oñce.}
 {215}{}{Intruz! Zamierzasz zbezczeœciæ to miejsce? Won!}
-
 {216}{}{Wspaniale, siostro. A jaki ty masz poziom?}
 {217}{}{. I na pewno je¿eli bêdê nadal podró¿owaæ i zabijaæ przypadkowe stwory, szybko osi¹gnê poziom 99.}
 {218}{}{Zdobywasz }

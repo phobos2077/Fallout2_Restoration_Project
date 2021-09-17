@@ -28,7 +28,7 @@
 {127}{}{Estou procurando por um baço.}
 {128}{}{Eu ouvi que algumas máquinas voadoras trouxeram uma carga de aldeões por este caminho.}
 {129}{}{Nada. Tchau.}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Fale com Crockett, no acampamento Hubologista. Ele é o cientista chefe deles.}
 {131}{}{Obrigado. Eu preciso de mais informação.}
 {132}{}{Obrigado. Tchau.}
 {133}{}{Olhe para o norte, em Navarro. Há uma base escondida perto do posto de gasolina.}

@@ -1,12 +1,12 @@
 {100}{}{Widzisz Val. Albo Valerie. Wszystko jedno.}
 {101}{}{Widzisz szatynkê ubran¹ w strój roboczy i metalowy pancerz. Wygl¹da na mechanika.}
 {102}{}{Widzisz Val. Albo Valerie. Wszystko jedno.}
-{103}{}{Widzisz kobietê z br¹zowymi w³osami, ubran¹ w kombinezon roboczy i metalow¹ zbrojê. Wygl¹da na mechanika.}
+{103}{}{Widzisz szatynkê ubran¹ w strój roboczy i metalowy pancerz. Wygl¹da na mechanika.}
 {104}{}{Och czeœæ, "Tato"}
-{105}{}{1 sekunda}
+{105}{}{1 Sekunda}
 {106}{}{Valerie. Mi³o ciê znowu widzieæ.}
 {107}{}{Och, czeœæ, tato. Bardzo siê cieszê, ¿e ciê widzê. Naprawdê.}
-{108}{}{1 sekunda}
+{108}{}{1 Sekunda}
 {109}{}{Czeœæ, Valerie. Ja te¿ siê cieszê.}
 {110}{}{Lepiej zabierz st¹d tego mutanta, zanim zobacz¹ go stra¿e.}
 {111}{}{Lepiej zabierz st¹d tego ghula, zanim zobacz¹ go stra¿e.}
@@ -17,7 +17,7 @@
 {116}{}{Jestem otoczona idiotami...}
 {117}{}{Gdybym tylko mia³a odpowiednie narzêdzia!}
 {118}{}{Chyba zabijê tê ³ys¹ ma³pê z Biura Dostawczego...}
-{119}{}{Jest póŸno. Wróæ tu rano.}
+{119}{}{Jest ju¿ póŸno. PrzyjdŸ rano.}
 {120}{}{Sklep jest zamkniêty. Jak tylko skoñczê tê listê dla Pierwszego Obywatela, idê prosto do domu.}
 {121}{}{Jestem zajêta. Wróæ tu za dzieñ lub dwa, wtedy powinnam skoñczyæ.}
 {122}{}{Mam ca³¹ stertê rzeczy do naprawienia. Wróæ tu za dzieñ lub dwa.}
@@ -25,27 +25,27 @@
 {124}{}{Tak?!}
 {125}{}{CHCESZ czegoœ czy zamierzasz staæ tu i gapiæ siê jak palant?}
 {126}{}{Pa-lant.}
-{127}{}{Spadaj.}
+{127}{}{OdejdŸ bez s³owa.}
 {128}{}{Hej, spokojnie. Chcia³em tylko zobaczyæ, co to za miejsce.}
 {129}{}{Uwa¿aj. Nie jestem w nastroju na pierdo³y.}
 {130}{}{Szukam Krypty. Czy mo¿esz powiedzieæ mi, gdzie ona siê znajduje?}
 {131}{}{W³aœciwie w³aœnie wychodzê.}
 {132}{}{To ta du¿a dziura w górze na wschód st¹d, za dwoma ciê¿ko uzbrojonymi stra¿nikami. Chcesz jeszcze czegoœ, czy mogê wracaæ do pracy?}
 {133}{}{Co to za miejsce?}
-{134}{}{Lepiej uwa¿aj, nie jestem w nastroju na pierdo³y.}
-{135}{}{Dziêki za wskazówki. Do widzenia.}
+{134}{}{Uwa¿aj. Nie jestem w nastroju na pierdo³y.}
+{135}{}{Dziêki za wskazówki. Powodzenia.}
 {136}{}{Tak jakby Kryptopolis nie mia³o wystarczaj¹co du¿o ludzkiego byd³a... s³uchaj, NIE MO¯ESZ TU ZOSTAÆ, JASNE? Móg³byœ siê ZRANIÆ! A TERAZ WYPAD! JU¯!}
 {137}{}{*Chlip* ty niedobra... *chlip*... ja pójœæ gdzieœ i mieæ zabawa z clownami... *chlip*... i lody... i ciacho... i nie zaprosiæ niedobrych ludziów jak TY!}
-{138}{}{Spadaj}
+{138}{}{OdejdŸ bez s³owa.}
 {139}{}{Spadaj st¹d. Chyba, ¿e chcesz, abym zawo³a³a stra¿ników, którzy ciê do tego ZMUSZ¥.}
 {140}{}{No, spróbuj.}
-{141}{}{Dobra, ju¿ wychodzê.}
+{141}{}{W porz¹dku, wychodzê.}
 {142}{}{To zak³ad naprawczy Kryptopolis. Chyba, ¿e NIECHC¥CY przegapi³eœ wielki napis na œcianie budynku?}
 {143}{}{Przepraszam. Zdawa³o mi siê, ¿e to jakiœ rodzaj sklepu.}
 {144}{}{W porz¹dku, przepraszam, ¿e przeszkadzam.}
 {145}{}{Masz racjê, jeœli chodzi o "jakiœ rodzaj"... S³uchaj, chcesz, ¿ebym ci coœ naprawi³a, czy zamierzasz mi zadaæ jakieœ g³upie pytania?}
 {146}{}{Co tu naprawiasz?}
-{147}{}{Lepiej uwa¿aj, nie jestem w nastroju na pierdo³y.}
+{147}{}{Uwa¿aj. Nie jestem w nastroju na pierdo³y.}
 {148}{}{Dziœ tylko g³upie pytania. Pogadamy póŸniej.}
 {149}{}{Dystrybutory z syntoholem, radia, broñ paln¹, czêœci wie¿yczek laserowych, monitory komputerowe, i tak dalej... kiedy tylko dostanê jakieœ narzêdzia.}
 {150}{}{Narzêdzia?}
@@ -53,7 +53,7 @@
 {152}{}{W tej chwili moja tokarka ledwo chodzi, a mój klucz francuski zgin¹³... ZNOWU... zaœ moje obcêgi siê rozwalaj¹.}
 {153}{}{Móg³bym w czymœ pomóc?}
 {154}{}{Jaki problem zdobyæ nowe narzêdzia?}
-{155}{}{W takim razie mi³ego dnia.}
+{155}{}{W porz¹dku. Do widzenia.}
 {156}{}{Ty? W¹tpiê.}
 {157}{}{Có¿, mam tu klucz i parê obcêgów.}
 {158}{}{Mo¿e zdoby³bym dla ciebie obcêgi i klucz?}
@@ -65,14 +65,14 @@
 {164}{}{Do diab³a, zamówi³am Super Zestaw Narzêdziowy MIESI¥CE temu, ale jak zwykle, zobaczê go dopiero, gdy nie bêdzie mi ju¿ potrzebny. To cud, ¿e w ogóle coœ mi siê udaje tu zrobiæ...}
 {165}{}{Mo¿e mogê pomóc.}
 {166}{}{Och. Có¿, przykro mi to s³yszeæ. Jeszcze tu wrócê.}
-{167}{}{Tak. Dlaczego?}
-{168}{}{Có¿, mam tu obcêgi i klucz francuski.}
+{167}{}{Tak. A co?}
+{168}{}{Có¿, mam tu klucz i parê obcêgów.}
 {169}{}{Mo¿e ja móg³bym jakieœ znaleŸæ i ci przynieœæ.}
-{170}{}{Jaki problem znaleŸæ nowe narzêdzia?}
+{170}{}{Jaki problem zdobyæ nowe narzêdzia?}
 {171}{}{Och. Có¿, dziêki za radê.}
 {172}{}{Jeœli chcesz, proszê bardzo. To twój czas, nie mój. Mo¿e uzbieram trochê, by zap³aciæ ci za k³opot.}
 {173}{}{Jeœli znajdê klucz francuski i obcêgi, przyniosê je do ciebie.}
-{174}{}{Masz?}
+{174}{}{Zrobisz?}
 {175}{}{Jasne. Proszê bardzo.}
 {176}{}{Uch... dziêki. To znaczy, nie s¹ najlepsze, ale powinny wystarczyæ. Gdzie... och, niewa¿ne. Masz tu parê dolców za k³opot.}
 {177}{}{Dziêki. Mam parê pytañ...}
@@ -84,7 +84,7 @@
 {183}{}{Nie do wiary. DZIEÑ po tym, jak za³atwiasz mi te narzêdzia, przybywa Super Zestaw Narzêdziowy, który zamówi³am. Ale nie jeden. Przysy³aj¹ mi PIÊÆ. Co do diab³a jest z tym biurem zamówieñ?!}
 {184}{}{Mog³abyœ odst¹piæ mi jeden z tych zestawów?}
 {185}{}{Czemu nie?! Co ja mam zrobiæ z PIÊCIOMA?! WeŸ go sobie! Przysiêgam, ¿e obedrê ze skóry szefa Biura Zamówieñ.}
-{186}{}{Dziêki. Mam do ciebie parê pytañ...}
+{186}{}{Dziêki. Mam parê pytañ...}
 {187}{}{Dziêki. Ten zestaw mi siê przyda.}
 {188}{}{Och, wiêc to tak. Czego do diab³a chcesz?}
 {189}{}{Co? Nie mam czasu na gadanie ca³y dzieñ.}
@@ -114,14 +114,14 @@
 {213}{}{Pos³uchaj, Nie mam nic "na sprzeda¿". To nie sklep. Wiêkszoœæ rzeczy, które naprawiam l¹duje w Biurze Udogodnieñ... Za tymi drzwiami i w lewo.}
 {214}{}{Jak ju¿ MÓWI£AM, to nie jest sklep. Jeœli chcesz kupiæ broñ idŸ do Biura Udogodnieñ. PrzyjdŸ tu, jeœli masz coœ do naprawienia.}
 {215}{}{Och. Có¿, czy mog³abyœ w takim razie coœ mi naprawiæ?}
-{216}{}{Czy mog³abyœ coœ mi naprawiæ?}
+{216}{}{Mog³abyœ mi coœ naprawiæ?}
 {217}{}{Dobrze, dobrze. Do widzenia.}
 {218}{}{Có¿, mo¿e. Zobaczmy co masz.}
 {219}{}{Poka¿ jej swoje pistolety.}
 {220}{}{Poka¿ jej swoje karabiny.}
 {221}{}{Poka¿ jej swój ogólny ekwipunek.}
 {222}{}{Niewa¿ne. Mam pytanie...}
-{223}{}{Mo¿e kiedy indziej.}
+{223}{}{Mo¿e innym razem.}
 {224}{}{Mog³abym dorobiæ szybkie ³adowanie do twojego magnum za 800$.}
 {225}{}{Hmmmm. Ten twój Desert Eagle... mog³abym powiêkszyæ mu magazynek, jeœli chcesz. To bêdzie kosztowaæ 1000$.}
 {226}{}{Ulepsz magnum.}
@@ -129,14 +129,14 @@
 {228}{}{Ulepsz Desert Eagle.}
 {229}{}{Mo¿e byæ 850$ za Desert Eagle?}
 {230}{}{Mog³abyœ ulepszyæ inne moje bronie?}
-{231}{}{Chcia³bym o coœ zapytaæ...}
+{231}{}{Chcê zapytaæ o coœ jeszcze...}
 {232}{}{Wrócê, kiedy bêdê mia³ wiêcej forsy.}
 {233}{}{Hmmm. Mo¿e kiedy indziej.}
 {234}{}{Ten twój karabin szturmowy... mogê powiêkszyæ mu magazynek za 1500$.}
 {235}{}{Hmmmm. Mog³abym do³¹czyæ noktowizor do twojego FN FAL za 3500$.}
-{236}{}{Powiêksz magazynek karabinu szturmowego AK-112 .}
+{236}{}{Poszerz magazynek przy karabinie szturmowym AK-112.}
 {237}{}{Mo¿e byæ 1350$ za ulepszenie karabinu szturmowego?}
-{238}{}{Do³¹cz noktowizor do FN FAL.}
+{238}{}{Doczep noktowizor do FN FAL.}
 {239}{}{Mo¿e byæ 3100$ za noktowizor?}
 {240}{}{Mo¿esz ulepszyæ coœ jeszcze?}
 {241}{}{Niewa¿ne. Chcê ciê o coœ spytaæ...}
@@ -148,13 +148,13 @@
 {247}{}{Czy zamiast tego mog³abyœ ulepszyæ jak¹œ inn¹ broñ?}
 {248}{}{Niewa¿ne. Mam pytanie...}
 {249}{}{W³aœciwie to nie chcê nic ulepszaæ. Muszê iœæ.}
-{250}{}{Jak dla mnie za drogo. Wrócê, gdy tylko bêdê mia³ forsê.}
+{250}{}{Jak dla mnie za drogo. Wrócê jak bêdê mieæ wiêcej kasy.}
 {251}{}{Widzê, ¿e nauczy³eœ siê paru sztuczek od mojego sk¹pego ojca. Daj mi godzinê i bêdzie gotowe...}
 {252}{}{Dobra, dobra. Gadasz jak ta sknera - mój Tata. Daj mi godzinê i bêdzie gotowe...}
 {253}{}{Dobra, daj mi godzinê i bêdzie gotowe...}
 {254}{}{Dobrze.}
 {255}{}{Proszê bardzo. Coœ jeszcze?}
-{256}{}{Mam parê pytañ...}
+{256}{}{Mam kilka innych pytañ...}
 {257}{}{Mog³abyœ mi ulepszyæ coœ jeszcze?}
 {258}{}{To wszystko na dziœ. Dziêki.}
 {259}{}{Co ty... uch... Tato?}
@@ -222,7 +222,7 @@
 {321}{}{Jeœli dasz mu WSZYSTKIE czêœci, prawda?}
 {322}{}{Widzê, ¿e podró¿ujesz z ludŸmi o wiele inteligentniejszymi od siebie.}
 {323}{}{2 sekundy}
-{324}{}{Có¿, tak.}
+{324}{}{W³aœciwie to tak.}
 {325}{}{Ub nuwm ub?}
 {326}{}{2 sekundy}
 {327}{}{Ha! Wiedzia³am.}
@@ -246,12 +246,12 @@
 {345}{}{Wróci³eœ tu dla ciszy i spokoju, Wielki Bohaterze?}
 {346}{}{Wróci³aœ tu dla ciszy i spokoju, Wielka Bohaterko?}
 {347}{}{HE-wo? Hee-hee! Yup!}
-{348}{}{Spadaj}
+{348}{}{OdejdŸ bez s³owa.}
 {349}{}{Myœla³em, ¿e zajrzê tu, do Kryptopolis na chwilê. Najpierw jednak, mam do ciebie interes...}
 {350}{}{Nic ciekawego, dziêki.}
 {351}{}{Lepiej tu uwa¿aj, s³yszysz? Jeœli mo¿esz, nie wysadzaj Kryptopolis w powietrze. I... hej, dziêki za uratowanie.}
 {352}{}{Ehe! Pa-pa!}
-{353}{}{Spadaj}
+{353}{}{OdejdŸ bez s³owa.}
 {354}{}{Niewa¿ne. Pogadamy póŸniej.}
 {355}{}{Pomog³eœ Valerie zdobyæ nowe narzêdzia.}
 {356}{}{Przekona³eœ Val by da³a ojcu szansê.}
@@ -259,5 +259,3 @@
 {358}{}{}
 {359}{}{Hej, mam te narzêdzia, które chcia³aœ.}
 {360}{}{Nie widzê u ciebie nic, przy czym mog³abym pogrzebaæ. Zwykle naprawiam pistolety, karabiny i inne takie.}
-
-{370}{}{Hej! Widzê, ¿e uda³o ci siê wróciæ. Ostatnio s³ysza³am, ¿e podró¿ujesz na po³udnie, lataj¹c helikopterami i rozwalaj¹c stare platformy wiertnicze.}

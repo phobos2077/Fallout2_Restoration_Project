@@ -35,7 +35,6 @@
 {134}{}{Skoro macie dwa, mo¿e dalibyœcie mi jednego.}
 {135}{}{Nie. Nie. Tego nie zrobimy. Nie mo¿esz tak szybko skoñczyæ swojego zadania. Poza tym - jest ich wiêcej. ZnajdŸ sobie w³asnego. [Wskazuje kierunek wskazany przez ciebie, gdy zapyta³ ciê o Œwiêty Granat Rêczny z Antiochii.]}
 {136}{}{[KONIEC]}
-
 {200}{}{Czy mówisz z dworsk¹ manier¹?}
 {201}{}{Haaalo.}
 {202}{}{Hej, jestem tutaj.}
@@ -43,9 +42,6 @@
 {204}{}{Ahem.}
 {205}{}{No, daj spokój. Przestañ mnie ignorowaæ.}
 {206}{}{B³agam! Mam bardzo wa¿ne pytanie.}
-
 {207}{}{Có¿, pora wyruszyæ na poszukiwanie Œwiêtego Granatu Rêcznego z Antiochii. ChodŸ, Patsy.}
-
-#added by killap - RP 1.3
 {300}{}{Nasza misja zosta³a wype³niona!}
 {301}{}{Artur, do us³ug.}

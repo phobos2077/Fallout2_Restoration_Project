@@ -1,4 +1,4 @@
-{100}{}{Widzisz straønika w luünym ubraniu, na twarzy nosi úlady znudzenia.}
+{100}{}{Widzisz straønika w luünym ubraniu, wyglπda na znuøonego czuwaniem.}
 {101}{}{Widzisz Straønika Pa≥acowego.}
 {102}{}{Widzisz Straønika Pa≥acowego.}
 {103}{}{Po prostu idü dalej, a nie bÍdzie problemu.}

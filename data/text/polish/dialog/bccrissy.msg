@@ -23,16 +23,15 @@
 {122}{}{W porz¹dku. Zabiorê ciê do domu.}
 {123}{}{A niech mnie... Dzisiaj musi byæ mój szczêœliwy dzieñ. Czemu zawdziêczam przyjemnoœæ ogl¹dania ciê znowu?}
 {124}{}{}
-{125}{}{Co siê dziaæ tu? Kto ty?}
+{125}{}{Co tu dzieje? Kto ty?}
 {126}{}{}
 {127}{}{Chcê wiedzieæ kim jesteœ i co siê tutaj dzieje.}
 {128}{}{Proszê, zabierz mnie do mojej matki - Rebeki.}
 {129}{}{Mój ksi¹¿ê w lœni¹cej zbroi powróci³. No, mo¿e by i lœni³a gdyby by³a czyszczona co jakiœ czas. A, i dobrze by by³o pomyœleæ równie¿ o k¹pieli. Wiêc, co mogê dla ciebie zrobiæ?}
-{130}{}{Moja tylko przywitaæ. Moja ju¿ iœæ teraz.}
+{130}{}{Ja tylko witaæ. Ja ju¿ iœæ.}
 {131}{}{Pomyœla³em tylko, ¿e siê przywitam. Teraz chyba ju¿ pójdê.}
 {132}{}{Hej, wiem, ¿e jestem wyszczekana, ale chcê ci powiedzieæ, ¿e jestem ci bardzo wdziêczna za uratowanie mojego ty³ka. Wielkie dziêki!}
-{133}{}{Prosiæ bardzo.}
-{134}{}{Nie ma sprawy.}
-
+{133}{}{Niezamaco.}
+{134}{}{Ca³a przyjemnoœæ po mojej stronie.}
 {135}{}{Ludzie z Przytu³ka chroni¹ tych goœci pomagaj¹c utrzymaæ istnienie Krypty 15 w tajemnicy, ale nie wiedz¹ co siê tu naprawdê dzieje. Darion powiedzia³ nam, ¿e krypta jest remontowany, ¿ebyœmy w przysz³oœci mieli bezpieczne miejsce do ¿ycia z mnóstwem jedzenia i wody, ale to wszystko k³amstwo. By³am tam i rozejrza³am siê trochê. Krypta jest martwa, a maszyny produkuj¹ce ¿ywnoœæ i dostarczaj¹ce wodê nie dzia³aj¹. Wszystko co od nich dostajemy pochodzi z grabie¿y.}
 {136}{}{Pos³uchaj, muszê wróciæ do domu i ostrzec wszystkich o tym, co tu siê naprawdê dzieje. Nie mo¿emy pomagaæ tym potworom. Pomo¿esz mi siê st¹d wydostaæ?}

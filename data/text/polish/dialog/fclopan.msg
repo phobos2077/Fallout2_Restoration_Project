@@ -8,14 +8,14 @@
 {107}{}{Kim jesteœ?}
 {108}{}{Chcê siê nauczyæ walczyæ tak jak ty. Nauczaj mnie.}
 {109}{}{Chcê siê z tob¹ zmierzyæ.}
-{110}{}{Zapomnij.}
+{110}{}{Zapomnij o tym.}
 {111}{}{Wynocha st¹d, bezmózgu. Nie mam ci nic do powiedzenia.}
 {112}{}{GRR!}
 {113}{}{Jestem Lo Pan. Jestem najlepszym wojownikiem w mieœcie, nie licz¹c Smoka. Któregoœ dnia bêdzie trupem. A kiedy to siê stanie, bêdê uczy³ innych mojego stylu.}
 {114}{}{Naucz mnie!}
 {115}{}{Dziêkuju.}
 {116}{}{Chcesz siê uczyæ? Czy masz to, czego potrzeba? Zobaczmy.}
-{117}{}{[GOTOWE]}
+{117}{}{[dalej]}
 {118}{}{Uczyæ ciê? Nie s¹dzê. Przenika ciê prawoœæ. Wynocha st¹d.}
 {119}{}{Co do... ?}
 {120}{}{Och, s³uchaj ciemnoto. Nie chce mi siê z tob¹ gadaæ. Wynocha.}
@@ -25,7 +25,7 @@
 {124}{}{Co, jesteœ z³y?}
 {125}{}{Rozumiem. Mam inne pytania.}
 {126}{}{Z³y? Niezupe³nie. Raczej sprytny. Je¿eli tak siê przejmujesz czynieniem przez ludzi dobra, to mo¿e lepiej zobacz siê ze Smokiem. On lubi takie œlini¹ce siê, s³abe istoty jak ty.}
-{127}{}{[GOTOWE]}
+{127}{}{[dalej]}
 {128}{}{Tak, rzeczywiœcie. I to robiê. Niestety Smok stoi mi na drodze. Nasze si³y w walce s¹ zbyt wyrównane. Potrzebujê jednego wytrenowanego cz³owieka do pomocy.}
 {129}{}{Ja jestem tym cz³owiekiem.}
 {130}{}{Rozumiem. Mam tak¿e inne pytania.}
@@ -52,7 +52,7 @@
 {151}{}{Interesuj¹ce. Musi ci to du¿o dawaæ. Mam wiêcej pytañ.}
 {152}{}{Dziêki. Na razie.}
 {153}{}{Mo¿e i jestem gnojem, ale nikt nie mo¿e powiedzieæ, ¿e nie stajê w obronie moich ludzi. Bêdzie ciê bardzo bola³o, zanim umrzesz.}
-{154}{}{[GOTOWE]}
+{154}{}{[dalej]}
 {155}{}{Wiêc jesteœ g³upcem i psem na posy³ki innych. Bêdê siê œmia³ nad twoim grobem.}
 {156}{}{[Zaatakuj teraz, z broni¹ i zbroj¹.]}
 {157}{}{[WejdŸ na ring, zdejmij pancerz, od³ó¿ broñ i walcz go³ymi rêkami.]}
@@ -60,16 +60,16 @@
 {159}{}{[Zaatakuj teraz, z broni¹ i zbroj¹.]}
 {160}{}{[WejdŸ na ring, zdejmij pancerz, od³ó¿ broñ i walcz go³ymi rêkami.]}
 {161}{}{Beee, owce, beee! IdŸ do swoich panów w habitach. Nie mam ci nic wiêcej do powiedzenia.}
-{162}{}{[GOTOWE]}
+{162}{}{[dalej]}
 {163}{}{Czy nie mówi³em ci, ¿e tutaj to Smok wys³ucha twoich dylematów moralnych. Potrzyma ciê za r¹czkê. Ja nie. Wynocha.}
-{164}{}{[GOTOWE]}
+{164}{}{[dalej]}
 {165}{}{Przyznajê, umiesz walczyæ lepiej nawet ode mnie. Chcesz siê zmierzyæ ze Smokiem?}
 {166}{}{Tak. Zrobiê to od razu.}
 {167}{}{To nie jest moja walka.}
 {168}{}{Jasne, ale mam kilka pytañ.}
 {169}{}{Nie, nie jest. Ale Smok wci¹¿ mnie pokonuje. Je¿eli masz si³ê charakteru, pokonasz go. Ale przecie¿ nigdy nie oczekiwa³em dumy ze strony lao wai.}
 {170}{}{Dobra. Mam pytania.}
-{171}{}{Dobra, jak chcesz. Czeœæ.}
+{171}{}{Dobra. Na razie.}
 {172}{}{W³aœnie wracam po zabiciu lao wai, który próbowa³ wykraœæ nasze tajemnice. Smok i ja wykoñczyliœmy go. Muszê przyznaæ, ¿e nieŸle ze sob¹ wspó³pracowaliœmy.}
 {173}{}{Wspaniale. Mam kilka pytañ.}
 {174}{}{Wspaniale. Na razie.}
@@ -77,12 +77,10 @@
 {176}{}{Wspaniale. Mam kilka pytañ.}
 {177}{}{Wspaniale. Na razie.}
 {178}{}{W porz¹dku. Zrobiê to, teraz.}
-
 {200}{}{Lo Pan wyczuwa twój ruch i twoja rêka przeœlizguje siê obok niego.}
 {201}{}{S³uchaj, nie lubiê, gdy ktoœ bierze moje rzeczy, wiêc idŸ kraœæ gdzie indziej. Wynoœ siê st¹d.}
 {202}{}{Ostrzega³em ciê ju¿, wiêc teraz umrzesz. Wielka mi rzecz.}
-{203}{}{Wygl¹da na to, ¿e ode mnie niczego siê ju¿ nie nauczysz}
-{203}{}{Próbê Smoka masz ju¿ za sob¹!}
+{203}{}{Wygl¹da na to, ¿e nie potrzebujesz ju¿ wiêcej mojego treningu.}
 {204}{}{Trening na dzisiaj skoñczony. Wróæ jutro.}
 {205}{}{Jestem Mistrz Khung, twoja ostateczna próba.}
 {206}{}{Jestem Imbot. Gotuj siê.}
@@ -96,12 +94,9 @@
 {214}{}{Lo Pan zosta³ pokonany w walce na œmieræ i ¿ycie. Z jakiegoœ powodu s³oñce wydaje siê dzisiaj œwieciæ odrobinê jaœniej.}
 {215}{}{Moi ludzie zostali pokonani, próba udana. Teraz mo¿esz walczyæ ze Smokiem.}
 {216}{}{Twoje umiejêtnoœci s¹ ju¿ ca³kiem dobre. IdŸ, powiedzmy, nauczyæ siê strzelaæ.}
-
-#training messages
 {217}{}{Zaczynajmy. Powtarzaj moje ruchy.}
 {218}{}{Trening na dzisiaj zakoñczony.}
 {219}{}{Twoje umiejêtnoœci dobrze siê rozwinê³y.}
-
 {220}{}{Moi ludzie zostali ju¿ pokonani. Nikt wiêcej nie chce siê z tob¹ zmierzyæ.}
 {221}{}{Pomimo tego, ¿e nie by³o ci o tym wiadomo, twój czyn bardzo mi pomóg³. Wraz ze œmierci¹ Smoka bêdê móg³ w koñcu zapomnieæ o tych przebrzmia³ych zasadach moralnych.}
 {222}{}{Ca³a przyjemnoœæ po mojej stronie. Do zobaczenia.}
@@ -115,7 +110,7 @@
 {230}{}{Najpierw musisz udowodniæ, ¿e mo¿esz to zrobiæ. Zmierzysz siê z moimi piêcioma ludŸmi - po jednym na raz. Je¿eli ich pokonasz, przyst¹pisz do ostatniej próby.}
 {231}{}{To znaczy?}
 {232}{}{Za du¿o zachodu. ¯egnaj.}
-{233}{}{Muszê zostaæ pokonany. Jednak ¿adna z tych walk nie bêdzie na œmieræ i ¿ycie - oczywiœcie, aby chroniæ moich ludzi. [Uœmiecha siê ironicznie.]}
+{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Zaczynajmy!}
 {235}{}{Sam mo¿esz za³atwiæ Smoka.}
 {236}{}{[Lo Pan ogl¹da ciê od stop do g³ów i nagle wyprowadza cios w twój nos, zanim zd¹¿ysz nawet mrugn¹æ.] Nie masz wystarczaj¹cych umiejêtnoœci.}

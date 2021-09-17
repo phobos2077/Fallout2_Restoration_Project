@@ -1,11 +1,6 @@
 {100}{}{Widzisz szczup³ego, spalonego s³oñcem mê¿czyznê.}
-{200}{}{Widzisz szczup³¹, spalon¹ s³oñcem kobietê.}
-# male
 {101}{}{Widzisz farmera.}
-# female
-{201}{}{Widzisz ¿onê farmera.}
 {102}{}{Widzisz spalonego s³oñcem farmera.}
-{202}{}{Widzisz spalon¹ s³oñcem ¿onê farmera.}
 {103}{}{Przybywasz w sam¹ porê. Gdyby ciê tu nie by³o... Có¿, ca³e szczêœcie, ¿e jednak tu jesteœ. Nie mamy wiele, ale chcê ci to daæ, jako nagrodê za twoj¹ pomoc. (Podaje ci coœ.)}
 {104}{}{Dziêkujê.}
 {105}{}{Ug}
@@ -38,5 +33,8 @@
 {132}{}{Jestem tylko biednym farmerem.}
 {133}{}{B³agam, oszczêdŸ moj¹ farmê.}
 {134}{}{I tak nie lubiê ¿ycia na farmie.}
-{135}{}{Jeszcze tu wrócê.}
+{135}{}{Wrócê do ciebie.}
 {136}{}{B³agam - weŸ moj¹ ¿onê...}
+{200}{}{Widzisz szczup³¹, spalon¹ s³oñcem kobietê.}
+{201}{}{Widzisz farmera.}
+{202}{}{Widzisz spalon¹ s³oñcem ¿onê farmera.}

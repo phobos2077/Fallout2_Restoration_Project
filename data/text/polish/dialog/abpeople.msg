@@ -8,7 +8,7 @@
 {107}{}{Te dranie z Enklawy dosta³y od ciebie porz¹dnie po ty³kach, co?}
 {108}{}{Naprawdê jesteœ bohaterem!}
 {109}{}{S³ysza³em, ¿e uda³o ci siê zniszczyæ Enklawê, dobra robota!}
-{110}{}{Witaj.}
+{110}{}{Czeœæ.}
 {111}{}{Mam nadziejê, ¿e wkrótce spadnie deszcz, bo inaczej uprawy nie przetrwaj¹.}
 {112}{}{Nie mamy tu zbyt wielu goœci.}
 {113}{}{Witaj!}
@@ -19,5 +19,4 @@
 {118}{}{Mi³ego dnia.}
 {119}{}{Witaj w Opactwie, wêdrowcze!}
 {120}{}{Macie tu imponuj¹c¹ katedrê, co?}
-
 {200}{}{Zabieraj swoje ³apy od mnie!}

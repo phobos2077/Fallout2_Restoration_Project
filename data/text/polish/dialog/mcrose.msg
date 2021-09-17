@@ -1,7 +1,6 @@
 {100}{}{Widzisz sympatyczna kobietê przy koœci.}
 {101}{}{Widzisz Rose.}
 {102}{}{Jej siwe w³osy s¹ spiête w luŸny kok, a ona sama chodzi ko³ysz¹c siê lekko na boki. W jej obecnoœci czujesz siê dziwnie spokojnie.}
-
 {150}{}{Przykro mi, ale jest zamkniête. Niedawno by³ pogrzeb w rodzinie. [poci¹ga nosem]}
 {151}{}{Hej! Tylko ja mogê przegl¹daæ pud³o rzeczy znalezionych!}
 {152}{}{Zaczynam myœleæ, ¿e chcesz coœ ukraœæ!}
@@ -51,7 +50,7 @@
 {200}{}{Och, to moja specjalnoœæ. Mam nadziejê, ¿e nadal czujesz g³ód. Jestem pewna, ¿e po raz pierwszy jesz tak dobry omlet. [Wychodzi i wraca z najwiêkszym widzianym przez ciebie kiedykolwiek omletem]}
 {201}{}{[Po tak obfitym posi³ku czujesz siê w pe³ni si³]}
 {202}{}{[Znika za lad¹ i szybko wraca z twoim zamówieniem]}
-{203}{}{Czy mogê zadaæ kilka pytañ?}
+{203}{}{Mogê ci zadaæ kilka pytañ?}
 {204}{}{Przykro mi, kochanie. Jestem zajêta innymi klientami. Mo¿e bêdê mog³a chwilê pogawêdziæ, jeœli zamówisz coœ jeszcze.}
 {205}{}{W takim wypadku nadaj czujê g³ód. Co mo¿esz mi poleciæ?}
 {206}{}{Pewnie, ale poœpiesz siê, kochanie. Inni klienci te¿ czekaj¹.}
@@ -62,7 +61,7 @@
 {211}{}{Z czego jest zrobiony kynoburger?}
 {212}{}{Och! Znasz mego mê¿a, Corneliusa? Ta ca³a sprawa z tym zegarkiem jest po prostu okropna. Cornelius przekona³ ju¿ chyba ca³e miasteczko, ¿e zabra³ mu go jego najlepszy przyjaciel, Farrell. Jeœli go znasz, to pewnie wiadomy jest ci fakt, i¿ jego umys³ nie jest ju¿ tak sprawny, jak dawniej. Jestem wiêcej ni¿ pewna, ¿e biedaczek po³o¿y³ gdzieœ zegarek i zapomnia³ gdzie.}
 {213}{}{A teraz, skoro ju¿ niczego wiêcej nie potrzebujesz, wrócê do moich klientów.}
-{214}{}{Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{214}{}{Czy mogê ci zadaæ kilka pytañ?}
 {215}{}{Chwileczkê, wci¹¿ czujê g³ód.}
 {216}{}{GECK, powiadasz? Nie, chyba nie. S³ysza³am o przepisie na niez³¹ zupê z trzech gekonów, ale na pewno nie o GECKu.}
 {217}{}{[Dostrzegasz maluj¹cy siê na jej twarzy strach] Trzymaj siê od niej z dala! S³ysza³am od podró¿ników o gnij¹cych cia³ach przywi¹zanych do s³upów i œwiec¹cych kszta³tach, przemykaj¹cych siê noc¹ przez pola. Nie orientujê siê, ile z tych plotek jest prawd¹, lecz wiem, ¿e jakiœ czas temu Karl wyprowadzi³ siê stamt¹d i od tej pory s³uch po nim zagin¹³.}
@@ -77,5 +76,4 @@
 {229}{}{Czujê silny g³ód. Powiedz mi, co masz w spisie.}
 {230}{}{Naprawdê œlinka mi ciek³a na myœl o skonsumowaniu jeszcze jednego z twoich wybornych omletów. Chyba niestety muszê obejœæ siê smakiem.}
 {231}{}{Aach! Oogie!}
-
 {300}{}{[Szybko wraca ze szklank¹ mêtnego, br¹zowego p³ynu. W szklance jest wiêcej piasku ni¿ wody, ale pragnienie jest tak silne, ¿e prawie tego nie zauwa¿asz.] Masz tu, kochanie, jeszcze ciasteczko do zak¹szenia.}

@@ -88,6 +88,6 @@
 {830}{}{Au moins, j'ai pas fini comme TOI, Marcus !}
 {2900}{}{Je dois d'abord m'habiller. [En regardant aux alentours, Cat repère un placard, l'ouvre et regarde dedans.] C'est vraiment pas mon genre, mais j'imagine que ça va aller. [Il enfile rapidement les vêtements.] Voila, je suis prêt à partir.}
 {2901}{}{[FIN]}
-{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{[L'homme se relève et commence à s'ébrouer comme le ferait un animal mouillé. A peine t'a-t-il regardé, que ses yeux s'exorbitent en même temps qu'il semble manquer d'air.]}
 {5001}{}{[FIN]}
 {5002}{}{Bordel de merde !}

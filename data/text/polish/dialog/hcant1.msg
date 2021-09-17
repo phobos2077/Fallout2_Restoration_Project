@@ -1,2 +1,2 @@
-{100}{}{Widzisz gigantyczn¹ mrówkê.}
-{101}{}{O rany. To jedna wielka pieprzona mrówa.}
+{100}{}{Widzisz du¿¹ mrówkê.}
+{101}{}{O rany! Jaka zajebiœcie du¿a mrówa!}

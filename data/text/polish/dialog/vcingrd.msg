@@ -1,14 +1,14 @@
 {100}{}{Obserwujê ciê, przybyszu.}
 {101}{}{S¹dzê, ¿e najwy¿szy czas byœ sobie poszed³.}
-{102}{}{Nie podoba mi siê twój wygl¹d.}
+{102}{}{Nie lubiê twojego widoku.}
 {103}{}{Nie b¹dŸ wœcibski, bo cofnê ci Przepustkê.}
 {104}{}{Ju¿ po 18. Czas wracaæ na Podmurze.}
 {105}{}{Okay. W³aœnie odchodzê.}
 {106}{}{Oka. Jeszcze minutê.}
-{107}{}{Mam parê spraw na g³owie. Odejdê, gdy je za³atwie.}
+{107}{}{I got things to do. I'll go when I'm ready to go.}
 {108}{}{Umag Nak!?! Umag NAK!}
 {109}{}{Có¿, chcia³em siê tylko upewniæ, czy trafisz na Podmurze. Ruszajmy.}
-{110}{}{Oka. Ruszajmy.}
+{110}{}{Dobra. ChodŸmy.}
 {111}{}{Brog Frup}
 {112}{}{Znajdê drogê.}
 {113}{}{Przepraszam, mam rozkazy. Bêdê eskortowa³ was a¿ do bramy.}
@@ -17,7 +17,7 @@
 {116}{}{(Kiwaj¹c siê) Có¿, to by³o *dawno* temu. ChodŸ ze mn¹ - unikniesz k³opotów, a ten dzieñ nie bêdzie taki najgorszy dla nikogo z nas. Kapujesz?}
 {117}{}{Dobra, œwietnie. Pójdê sobie.}
 {118}{}{Po moim trupie!}
-{119}{}{Kryptopolis ponad wszystkim, obywatelu.}
+{119}{}{Kryptopolis ponad wszystkim, Obywatelu.}
 {120}{}{Mi³o ciê widzieæ, obywatelu.}
 {121}{}{Pracowity dzieñ, obywatelu?}
 {122}{}{Ty przodem, obywatelu.}
@@ -28,8 +28,8 @@
 {127}{}{Pos³uchaj, jestem obywatelem.}
 {128}{}{Nic szczególnego, Kapitanie.}
 {129}{}{Po prostu miej oczy szeroko otwarte, Kapitanie.}
-{130}{}{Kryptopolis ponad wszystkim, Kapitanie.}
-{131}{}{Witaj, Kapitanie.}
+{130}{}{Kryptopolis na wieki, Kapitanie.}
+{131}{}{Dzieñ dobry, Kapitanie.}
 {132}{}{Ty tam! Stój! Co ten ghul robi w Kryptopolis?!}
 {133}{}{Ty tam! Stój! Co ten mutant robi w Kryptopolis?!}
 {134}{}{Tam-tara taram ram}
@@ -45,7 +45,7 @@
 {144}{}{Pójdziesz z nami. Wracamy na Podmurze gdzie ty... i ta rzecz... powinniœcie siê znajdowaæ.}
 {145}{}{JAAAA NEH GUL TFOHJA KHAAMRATH! TYYH NEEH KHAAMRATH!}
 {146}{}{Odejdziemy po-ci-chu-tku}
-{147}{}{W porz¹dku, odejdziemy w pokoju.}
+{147}{}{W porz¹dku, odejdziemy, jak gdyby nigdy nic...}
 {148}{}{On podró¿uje ze mn¹. A jak któryœ z was dupków ma z tym jakiœ problem, mo¿emy porównaæ nasze grupy krwi - tu i teraz!}
 {149}{}{Takiœ twardziel? Œwietnie. Stra¿e! Intruzi!}
 {150}{}{Hrnggghh!}
@@ -53,11 +53,11 @@
 {152}{}{Hej! To ten, który podbi³ Enklawê!}
 {153}{}{Hej, gratulujê podbicia Enklawy!}
 {154}{}{Witaj w Kryptopolis, œmia³ku!}
-{155}{}{Twój podbój Enklawy zaimponowa³ nawet Pierwszemu Obywatelowi.}
-{156}{}{Dosz³y mnie s³uchy, ¿e by³eœ na po³udniu i dotar³eœ a¿ do San Francisco. Czy to prawda?}
-{157}{}{A czy prawda jest, ¿e USA ci¹gle toczy wojnê?}
-{158}{}{Twoje wyprawy powinny byæ skatalogowane w komputerze Kryptopolis.}
-{159}{}{Jesteœ zawsze mile widziany w Kryptopolis.}
+{155}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
+{156}{}{Podobno uda³o ci siê dotrzeæ do samego San Francisco. Czy to prawda?}
+{157}{}{Czy to prawda, ¿e USA wci¹¿ toczy³y wojnê?}
+{158}{}{Musisz koniecznie z³o¿yæ raport ze swoich podró¿y w komputerze Kryptopolis.}
+{159}{}{Mo¿esz zostaæ w Kryptopolis tak d³ugo jak tylko zechcesz.}
 {160}{}{Twoje wyprawy przeciw Enklawie powinno siê skatalogowaæ w komputerze Kryptopolis.}
 {161}{}{Nie rozpoznajê ciê. Gdzie masz swoje dokumenty?}
 {162}{}{Oto i one, "panie oficerze". Wszystko w porz¹dku, jak s¹dzê?}

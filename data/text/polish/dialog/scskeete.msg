@@ -5,7 +5,7 @@
 {104}{}{Cz³owieku, jestem dozorc¹ samochodów. Pilnujê ich - 5$. Nikt ich nawet nie tknie, bo Doofus stoi na stra¿y.}
 {105}{}{Jasne, cz³owieku, oczywiœcie.}
 {106}{}{Wiêc jak, cz³owieku, chcesz mojej ochrony?}
-{107}{}{Dobrze. Do...}
+{107}{}{Good. Do.}
 {108}{}{Nie. Ty nie ruszaæ.}
 {109}{}{Nie mów do mnie ci¹gle "cz³owieku"!}
 {110}{}{Co to za miejsce?}
@@ -19,10 +19,10 @@
 {118}{}{Bezu¿yteczny æpunie - zmiataj st¹d!}
 {119}{}{Cz³owieku, czego chcesz od Doofusa?}
 {120}{}{Hola, widzieliœmy siê ju¿ kiedyœ? Co mogê dla ciebie zrobiæ?}
-{121}{}{Jasne, cz³owieku. Pewnie.}
-{122}{}{Squa?} 
+{121}{}{Jasne, cz³owieku, oczywiœcie.}
+{122}{}{Squa?}
 {123}{}{Nie mów do mnie ci¹gle "cz³owieku"!}
-{124}{}{Czym siê zajmujesz?}
+{124}{}{Co tutaj robisz?}
 {125}{}{Co to za miejsce?}
 {126}{}{Nic nic. Wydawa³o mi siê, ¿e jesteœ kimœ innym. Na razie.}
 {127}{}{Hejo, cz³owieku, ostrzega³em ciê. To z³e miejsce. Ró¿ni Ÿli goœcie tu ¿yj¹. S³ysza³em, ¿e twój wózek ma awariê.}
@@ -36,7 +36,7 @@
 {135}{}{Hej, cz³owieku, Doofus ciê ostrzega³.}
 {136}{}{Odwal siê. Nie bêdê odpowiadaæ na twoje pytania.}
 {137}{}{Co to za miejsce?}
-{138}{}{Do widzenia.}
+{138}{}{¯egnaj.}
 {139}{}{Pa pa.}
 {140}{}{Hola, jaka ostra wypowiedŸ! Odbieram jakieœ mentalne wibracje! Dobra, spróbujmy... uch.... uuuch...}
 {141}{}{Tak?}
@@ -48,7 +48,7 @@
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{W³aœnie - cz³owieku, b¹dŸ pos³uszny olbrzymowi. Tak w³aœnie powinno byæ. Co mam zrobiæ, olbrzymie?}
+{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
 {151}{}{Cz³owieku, to du¿o. Olbrzymie, jestem Doofus, dozorca samochodów i powinienem pilnowaæ samochodów, które ludzie tu przywo¿¹, ale, no wiesz, mam taki... k³opot, widzisz, ¿e czasem potrzebujê trochê dodatkowych pieniêdzy i takich tam, rozumiesz?}
 {152}{}{Taa, w³aœnie. No wiêc czasem mam trochê braków i mam te¿ swoje potrzeby, rozumiesz, tak jakby robiê siê chory, wiêc muszê zebraæ trochê kapsli czy co, wiêc pójdê pogadaæ z Merkiem.}
 {153}{}{Cz³owieku, Merk to swój cz³owiek. Mo¿na siê u niego rozerwaæ i w ogóle. Czasem pozwoli mi pospaæ w Rawhide jak ju¿ pozamykaj¹. Ale potem on chce, ¿ebym mu oddawa³ ma³e przys³ugi.}
@@ -66,8 +66,8 @@
 {165}{}{Dok³adnie, cz³owieku. IdŸ do Merka. On zawsze ma coœ, co wymaga zrobienia.}
 {166}{}{IdŸ pa pa!}
 {167}{}{Och, cz³owieku, zepsu³eœ to! Merk nie bêdzie zadowolony, gdy siê dowie.}
-{168}{}{¯egnaj, kretynie.}
-{169}{}{Dobrze ju¿! S³uchaj, to by³a za³oga Merka. £upili samochody ostatniej nocy. Rozpytaj siê, to ich znajdziesz.}
+{168}{}{Goodbye, dope-head.}
+{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
 {170}{}{Ty ³gaæ, ja zabiæ.}
 {171}{}{Lepiej, ¿ebyœ nie k³ama³. Jeœli k³amiesz, wrócê tu.}
 {172}{}{Pewnie. Ca³y siê trzêsê ze strachu.}
@@ -75,7 +75,6 @@
 {174}{}{Odwal siê, ma³y cz³owieczku.}
 {175}{}{Odwal siê. Zmiatam st¹d.}
 {176}{}{Potrzebujesz, ¿eby popilnowaæ wozu? Nie ma sprawy. Zrobiê to.}
-
 {177}{}{Hej, samochodów pilnuje, wózki, wózki, wózki na ulicach...}
 {178}{}{Widzia³em NA ULICACH WÓZKI... wózki wózki, wózki na ulicach...}
 {179}{}{Na ulicach eR eN Ka wózki... wózki wózki, wózki na ulicach...}
@@ -86,5 +85,4 @@
 {184}{}{Ty lubisz wózki, JA JE PILNUJÊ jak jastrz¹b o ma³ych oczach jak pere³ki.}
 {185}{}{Nigdy nie odchodŸ s mojej ziemi ja pilowywujê ludzie gadaj¹, ale ja tylko pilnujê i pilnujê}
 {186}{}{Taak, wszystko w porz¹dku. TAAK, W PORZ¥DKU, taak.}
-
 {187}{}{Pewnie, koleœ, weŸ wszystko.}

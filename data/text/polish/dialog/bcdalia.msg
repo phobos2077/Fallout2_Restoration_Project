@@ -6,7 +6,7 @@
 {105}{}{Uh, ty kto?}
 {106}{}{Ty co robiæ?}
 {107}{}{Ty jak stra¿nik.}
-{108}{}{Moja ju¿ iœæ.}
+{108}{}{Moja iœæ ju¿}
 {109}{}{Nie, chcê siê tylko przywitaæ.}
 {110}{}{Kim jesteœ?}
 {111}{}{Co tu robisz?}
@@ -16,7 +16,7 @@
 {115}{}{Moja chcieæ rozmawiaæ.}
 {116}{}{Dobra, moja iœæ.}
 {117}{}{Chcê z tob¹ porozmawiaæ.}
-{118}{}{Na razie.}
+{118}{}{Bywaj.}
 {119}{}{Mówi³am, ¿e mam na imiê Dalia. S³uchaj, nie chcê byæ nieuprzejma, ale nie mam ochoty rozmawiaæ teraz z kimkolwiek. Jasne?}
 {120}{}{W porz¹dku. Na razie.}
 {121}{}{Jeszcze chwileczkê...}
@@ -40,8 +40,8 @@
 {139}{}{}
 {140}{}{Czeœæ. Jestem Dalia. Pomóc ci w czymœ?}
 {141}{}{Przechodziæ ktoœ têdy? Szybko?}
-{142}{}{Nic.}
-{143}{}{Nic.}
+{142}{}{Nic nic.}
+{143}{}{Nic nic.}
 {144}{}{Widzia³aœ kogoœ przechodz¹cego têdy w poœpiechu?}
 {145}{}{Codziennie widzê ludzi przechodz¹cych têdy. Prawdê mówi¹c, nie zwracam na nich szczególnej uwagi.}
 {146}{}{Moja nie mieæ czas na te bzdury.}
@@ -55,5 +55,5 @@
 {154}{}{Dziêki. Nie zapomnê ci tego, Dalia.}
 {155}{}{Wiêc idŸ ju¿ do diab³a i zostaw mnie w spokoju!}
 {156}{}{Koniec.}
-{157}{}{Wiêc idŸ ju¿ do diab³a i zostaw mnie!}
+{157}{}{Wiêc idŸ ju¿ do diab³a i zostaw mnie w spokoju!}
 {158}{}{Koniec.}

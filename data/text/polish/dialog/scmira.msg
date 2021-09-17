@@ -3,11 +3,11 @@
 {102}{}{No có¿, jest m³oda i atrakcyjna, ale jest coœ takiego w jej oczach, co mówi ci, ¿e nie zadaje siê z byle kim. To oraz kastety wisz¹ce na ³añcuchu wokó³ jej szyi.}
 {103}{}{Jestem Mira. Co podaæ?}
 {104}{}{Witam ponownie. Podaæ coœ?}
-{105}{}{Drinka.}
-{106}{}{Krypta 13?}
+{105}{}{Poproszê coœ do picia.}
+{106}{}{Krypty 13?}
 {107}{}{GECK?}
 {108}{}{Niewa¿ne. Podaj mi specjalnoœæ zak³adu.}
-{109}{}{Piwo.}
+{109}{}{Gimme a beer.}
 {110}{}{Informacje.}
 {111}{}{Szukam pracy.}
 {112}{}{Có¿, przecie¿ to ty! Dok³adnie tak jak lubiê.}
@@ -31,7 +31,7 @@
 {130}{}{Tutaj nic dla ciebie nie ma.}
 {131}{}{Dziêki, chyba.}
 {132}{}{Wiêc, to wszystko?}
-{133}{}{Krypta 13?}
+{133}{}{Krypty 13?}
 {134}{}{GECK?}
 {135}{}{Masz odrobinê czasu, by odpowiedzieæ mi na kilka pytañ?}
 {136}{}{Moja iœæ, pa pa.}
@@ -55,22 +55,22 @@
 {154}{}{Ty te¿ szukasz zaginionego skarbu? Musisz spotkaæ siê z Bobem z rancza Westina. On ci¹gle o nim myœli. Zapewne jednak bêdzie mu potrzebna pewna zachêta.}
 {155}{}{Bob? Moja iœæ.}
 {156}{}{Jeszcze kilka pytañ...}
-{157}{}{Có¿, dziêki. Postaram siê o tym pamiêtaæ.}
+{157}{}{Dziêki, postaram siê nie zapomnieæ.}
 {158}{}{Powiedz mi jak to siê robi, a ja ci to przygotujê.}
 {159}{}{Nie byæ drink. GECK to... GECK.}
 {160}{}{To nie jest drink. To Generator Ekosystemu Cudownej Krainy.}
 {161}{}{Jeszcze kilka pytañ...}
-{162}{}{Có¿, dziêki. Bêdê o tym pamiêtaæ.}
+{162}{}{Dziêki, postaram siê nie zapomnieæ.}
 {163}{}{To fantastyczny goœæ. Jest moim szefem, spodziewasz siê, ¿e powiem o nim coœ z³ego?}
 {164}{}{Jeszcze kilka pytañ...}
-{165}{}{Có¿, dziêki. Bêdê o tym pamiêtaæ.}
+{165}{}{Dziêki, postaram siê nie zapomnieæ.}
 {166}{}{Ten drañ... To by³ g³oœny rozwód, to wszystko.}
 {167}{}{No có¿, mo¿e porozmawiamy o czymœ innym?}
 {168}{}{Chyba ju¿ sobie pójdê.}
 {169}{}{S³uchaj osio³ku, mo¿esz spróbowaæ u doktora Henry'ego w mieœcie, bo ja mam inne rzeczy na g³owie.}
 {170}{}{Generator Ekosystemu...? Brzmi jak nazwa jakiegoœ urz¹dzenia. O tych sprawach rozmawiaj z Dorot¹, miejskim mechanikiem. }
 {171}{}{Jeszcze kilka pytañ...}
-{172}{}{Có¿, dziêki. Bêdê o tym pamiêtaæ.}
+{172}{}{Dziêki, postaram siê nie zapomnieæ.}
 {173}{}{Hmm - praca? Chcesz pracê? Pomo¿esz Miri?}
 {174}{}{Tak.}
 {175}{}{Nie.}
@@ -81,11 +81,9 @@
 {180}{}{IdŸ w nocy. ZnajdŸ linê. Zakradnij siê do du¿e miejsce przy bramie. ZnajdŸ Jacka. SkrzywdŸ Jacka. Mira da ci gnata. A teraz idŸ ju¿. Ja byæ widziana z ty - nie byæ dobrze. Pomó¿ Miri i wróæ. Zrozumiano?}
 {181}{}{Mira s³yszeæ, ¿e Jack skrzywdzony. Dobra robota. Tu gnat, ty braæ. Dziêki.}
 {182}{}{Ty te¿ siê chrzañ. Nigdy siê nie uwolniê od tego drania.}
-#latter additions
 {183}{}{Musisz pogadaæ z Merkiem, ale tu go nie ma. PrzyjdŸ w nocy. Wtedy siê tu zjawia.}
 {184}{}{Nie mam pojêcia, co siê przez ciebie sta³o Lenny'emu, ale na twoim miejscu nie krêci³abym siê tu. To nie przysporzy ci wielbicieli.}
 {185}{}{Hej, ostrzega³am ciê. Och, trudno...}
-
 {186}{}{Ty jesteœ Mira, prawda? Jakiœ glina coœ mi o tobie mówi³.}
 {187}{}{Ty Mira? Z³e Jack rzeczy mówiæ o ty.}
 {188}{}{Ten drañ Jack? Co ci powiedzia³?}
@@ -95,11 +93,11 @@
 {192}{}{Ju¿ niewiele. Zgin¹³ z moich r¹k.}
 {193}{}{¯artujesz? To najlepsza wiadomoœæ jak¹ dzisiaj us³ysza³am. Mam nadziejê, ¿e z jego mózgu by³a ³adna tapeta. Przeklêty psychol zas³u¿y³ sobie na to. Masz tu Rad-a-Wastera na mój koszt.}
 {194}{}{Moja lubiæ.}
-{195}{}{Moja ju¿ iœæ.}
+{195}{}{Moja iœæ ju¿}
 {196}{}{Dziêki - mam nadziejê. S³uchaj, masz czas by odpowiedzieæ mi na kilka pytañ?}
 {197}{}{Dziêki. Po prostu uwa¿am, ¿e powinnaœ o tym wiedzieæ.}
 {198}{}{Co? O, gdybym nie by³a w pracy, wspiê³abym siê na bar i... có¿, poca³owa³a ciê. Ta ma³a gnida zas³u¿y³a sobie na to. Nie mów nikomu, ale mia³am nadziejê znaleŸæ jakiegoœ g³upiego osi³ka ¿eby to dla mnie za³atwi³. Mam nawet nagrodê. Jest twoja. Z tego co s³ysza³am, w pe³ni na ni¹ zas³ugujesz.}
-{199}{}{Dziêki - mam nadziejê. S³uchaj, masz czas by odpowiedzieæ na kilka pytañ?}
+{199}{}{Dziêki - mam nadziejê. S³uchaj, masz czas by odpowiedzieæ mi na kilka pytañ?}
 {200}{}{Dziêki. Po prostu uwa¿am, ¿e powinnaœ o tym wiedzieæ.}
 {201}{}{Osio³ku, sprawiasz, ¿e jestem najszczêœliwsz¹ kobiet¹ w okolicy! W nagrodê mam dla ciebie niespodziankê, tutaj za barem. Jest twoja.}
 {202}{}{Moja lubiæ Mira.}

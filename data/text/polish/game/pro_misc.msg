@@ -14,42 +14,41 @@
 {1300}{}{Impuls elektryczny}
 {1400}{}{Eksplozja}
 {1500}{}{Eksplozja}
-{1600}{}{Obszar Wyjœciowy}
-{1700}{}{Obszar Wyjœciowy}
-{1800}{}{Obszar Wyjœciowy}
-{1900}{}{Obszar Wyjœciowy}
-{2000}{}{Obszar Wyjœciowy}
-{2100}{}{Obszar Wyjœciowy}
-{2200}{}{Obszar Wyjœciowy}
-{2300}{}{Obszar Wyjœciowy}
+{1600}{}{Wyjœcie}
+{1700}{}{Wyjœcie}
+{1800}{}{Wyjœcie}
+{1900}{}{Wyjœcie}
+{2000}{}{Wyjœcie}
+{2100}{}{Wyjœcie}
+{2200}{}{Wyjœcie}
+{2300}{}{Wyjœcie}
 {2400}{}{flara}
-
 {2500}{}{granat}
 {2600}{}{ska³a}
 {2700}{}{Eksplozja}
 {2800}{}{Eksplozja}
 {2900}{}{Eksplozja}
-{3000}{}{koktail Mo³otowa}
-{3100}{}{Obszar Wyjœciowy}
-{3200}{}{Obszar Wyjœciowy}
-{3300}{}{Obszar Wyjœciowy}
-{3400}{}{Obszar Wyjœciowy}
-{3500}{}{Obszar Wyjœciowy}
-{3600}{}{Obszar Wyjœciowy}
-{3700}{}{Obszar Wyjœciowy}
-{3800}{}{Obszar Wyjœciowy}
-{3900}{}{Obszar Wyjœciowy}
-{4000}{}{Obszar Wyjœciowy}
-{4100}{}{Obszar Wyjœciowy}
-{4200}{}{Obszar Wyjœciowy}
-{4300}{}{Obszar Wyjœciowy}
-{4400}{}{Obszar Wyjœciowy}
-{4500}{}{Obszar Wyjœciowy}
-{4600}{}{Obszar Wyjœciowy}
+{3000}{}{koktajl Mo³otowa}
+{3100}{}{Wyjœcie}
+{3200}{}{Wyjœcie}
+{3300}{}{Wyjœcie}
+{3400}{}{Wyjœcie}
+{3500}{}{Wyjœcie}
+{3600}{}{Wyjœcie}
+{3700}{}{Wyjœcie}
+{3800}{}{Wyjœcie}
+{3900}{}{Wyjœcie}
+{4000}{}{Wyjœcie}
+{4100}{}{Wyjœcie}
+{4200}{}{Wyjœcie}
+{4300}{}{Wyjœcie}
+{4400}{}{Wyjœcie}
+{4500}{}{Wyjœcie}
+{4600}{}{Wyjœcie}
 {4700}{}{rakieta naprowadzana}
 {4701}{}{}
 {4800}{}{Bum!}
 {4801}{}{}
-{4900}{}{Kolec}
+{4900}{}{kolec roœlinny}
 {4901}{}{}
 {5000}{}{Podwójna kula plazmowa}

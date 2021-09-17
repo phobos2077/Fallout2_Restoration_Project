@@ -1,7 +1,7 @@
 {100}{}{Dostrzegasz wielkπ, wykutπ z kamienia g≥owÍ, ktÛra, hmm... mamrocze do siebie?}
 {101}{}{Widzisz wykutπ z kamienia podobiznÍ g≥owy Przybysza z Krypty. Jej twÛrca wyraünie schlebia≥ orygina≥owi, poniewaø wπtpisz, aby g≥owa Przybysza z Krypty by≥a aø tak wielka.}
 {102}{}{Widzisz wielki kamienny posπg.}
-{103}{}{Widzisz wykutπ z kamienia podobiznÍ g≥owy MieszkaÒca Krypty. Jej twÛrca wyraünie schlebia≥ orygina≥owi, poniewaø wπtpisz, aby g≥owa MieszkaÒca Krypty by≥a aø tak wielka.}
+{103}{}{Widzisz wykutπ z kamienia podobiznÍ g≥owy Przybysza z Krypty. Jej twÛrca wyraünie schlebia≥ orygina≥owi, poniewaø wπtpisz, aby g≥owa Przybysza z Krypty by≥a aø tak wielka.}
 {104}{}{Cholerni turyúci...}
 {105}{}{"Jam jest Dziecko Przeznaczenia!" - Co za bzdetny tekst.}
 {106}{}{Gdybym by≥ tobπ, "dziecko przeznaczenia", zabiera≥bym ty≥ek w troki.}
@@ -28,32 +28,25 @@
 {127}{}{*Ahem*}
 {128}{}{KTO åMIE ZBLIØA∆ SI  DO åWI TEGO POS•GU G£OWY MIESZKA—CA KRYPTY?!}
 {129}{}{To ja, Dziecko Przeznaczenia.}
-{1129}{}{Ja Dziecko Przeznacznia.}
 {130}{}{HA HA HA HA HA HA!}
 {131}{}{*TY* ?! DZIECKIEM PRZEZNACZENIA ?!}
 {132}{}{M”J MA£Y PALEC JEST WI KSZY OD CIEBIE!}
 {133}{}{NIE JESTEå DZIECKIEM PRZEZNACZENIA.}
-{134}{}{Aleø jestem.}
-{1134}{}{Ja tu teø.}
+{134}{}{Tak, dok≥adnie.}
 {135}{}{NIE, NIE JESTEå.}
-{136}{}{Jestem.}
-{1136}{}{Ja teø!}
+{136}{}{Tak, dok≥adnie.}
 {137}{}{AHA.}
-{138}{}{Aha.}
-{1138}{}{Uh-huh.}
-{139}{}{UHU.}
-{140}{}{Uhu.}
-{1140}{}{Uh-huh.}
+{138}{}{Yhy.}
+{139}{}{AHA.}
+{140}{}{Yhy.}
 {141}{}{AHAAAA}
 {142}{}{Ech... Uch...}
-{1142}{}{Uh...huh...}
 {143}{}{UCH... DOSY∆ TEGO!}
 {144}{}{NO DOBRZE! MASZ RACJ !}
 {145}{}{JESTEå DZIECKIEM PRZEZNACZENIA!}
 {146}{}{WEè TO!}
 {147}{}{TERAZ ODEJDè!}
 {148}{}{Wielkie dziÍki!}
-{1148}{}{Cysterna!}
 {149}{}{TA, NIEWAØNE, SPADAJ ST•D.}
 {150}{}{CHOLERNI TURYåCI}
 {151}{}{DA£EM CI JUØ PREZENT}
@@ -62,5 +55,11 @@
 {154}{}{CO?! OKRAå∆ MNIE CHCIA£Eå?!}
 {155}{}{GI—!}
 {156}{}{Gracz ginie anihilowany wybuchem plazmy.}
-
 {200}{}{[12 godzin pÛüniej]}
+{1129}{}{Ja Dziecko Przeznacznia.}
+{1134}{}{Ja tu teø.}
+{1136}{}{Ja teø!}
+{1138}{}{Yhy.}
+{1140}{}{Yhy.}
+{1142}{}{Ech... Uch...}
+{1148}{}{Cysterna!}

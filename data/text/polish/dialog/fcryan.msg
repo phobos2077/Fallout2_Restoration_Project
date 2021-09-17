@@ -6,7 +6,7 @@
 {105}{}{Zrobiê ci tak, ¿e bêdziesz krwawiæ. Wyrazi³em siê wystarczaj¹co jasno?}
 {106}{}{Ay carumba! Nalgas con queso!}
 {107}{}{Wu hu hu hu hu!}
-{108}{}{To ja znikam.}
+{108}{}{Zmiatam st¹d.}
 {109}{}{Zna³em Du¿ego Jezusa Mordina, gdy by³ jeszcze ma³ym dzieci¹tkiem.}
 {110}{}{Jezus Maria Matko Boska!}
 {111}{}{Jestem producentem. Robiê gry. Gry s¹ fajne. Zagraj w moje gry.}

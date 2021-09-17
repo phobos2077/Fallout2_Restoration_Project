@@ -28,7 +28,7 @@
 {127}{}{Je cherche une rate.}
 {128}{}{J'ai entendu dire que des machines volantes avaient emmené de nombreux villageois par ici.}
 {129}{}{Rien. Salut.}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Adresse-toi à Crockett, au campement des Hubologistes. Il est le chef des scientifiques.}
 {131}{}{Merci. J'ai besoin de plus d'informations.}
 {132}{}{Merci. Au revoir.}
 {133}{}{Va au Nord, à Navarro. Il y a une base cachée près de la station service.}

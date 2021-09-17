@@ -6,27 +6,16 @@
 {105}{}{Chyl czo³a przed Melchiorem Wspania³ym!}
 {106}{}{Nakarmiê tob¹ moje zwierz¹tka!}
 {107}{}{Ostrzega³em ciê! Do ataku, moje zwierz¹tka!}
-
-# CREATION COMMENTS
-# DEATH CLAWS
 {1000}{}{CZARYMARY!}
 {1001}{}{Moje szponiaste zwierz¹tka ciê ukatrupiæ.}
 {1002}{}{Szponiasty zwierzaku - atakuj!}
-
-# FIRE GECKOS
 {1010}{}{ABRADABRA!}
 {1011}{}{Melchior zrobiæ ogniste zwierz¹tka. One spaliæ cz³owiek.}
 {1012}{}{Spaliæ CZ£O-WIEK!}
-
-# FLOATERS
 {1020}{}{SALABIM!}
 {1021}{}{Zêbate zwierz¹tka ciê za³atwiæ!}
 {1022}{}{UgryŸæ! UgryŸæ!}
-
-# MOLE RATS
 {1030}{}{HOKUPOKU!}
 {1031}{}{Cholera! Moja ma ju¿ tylko grube szczury.}
 {1032}{}{Mojej koñczyæ siê zwierzaki.}
-
-# OUT
 {1050}{}{Ojojoj... Nie ma futrzaków?}

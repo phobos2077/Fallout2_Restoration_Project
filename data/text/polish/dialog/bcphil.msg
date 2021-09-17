@@ -46,12 +46,11 @@
 {145}{}{}
 {146}{}{}
 {147}{}{Masz na myœli tê zamkniêt¹ z ty³u, z któr¹ siê ostatnio zabawiamy? Nie, nie widzia³em jej.}
-{148}{}{Twoja chora w g³ówkê. Moja zabraæ ci g³ówkê.}
+{148}{}{Twoja chora w g³owa. Moja zabraæ ci g³owa.}
 {149}{}{Jak to mieæ z ni¹ zabawy?}
 {150}{}{Och, moja ju¿ iœæ.}
 {151}{}{Niez³y z ciebie œwir. Chyba pora ciê uœpiæ, kundlu.}
-{152}{}{Fajnie. ¯yczê mi³ej zabawy, muszê ju¿ iœæ.}
-{153}{}{Oddaj dziewczynê, a nikomu nie stanie siê krzywda.}
-
+{152}{}{Fajnie, to bawcie siê dalej, ja ju¿ sobie pójdê.}
+{153}{}{Oddaj dziewczynê, to mo¿e pozwolê ci odejœæ.}
 {154}{}{Znowu tu jesteœ? Dobra, przekonajmy siê kto do¿yje jutra.}
 {155}{}{Zabiliœmy tê kurewkê, Chrissy! Teraz twoja kolej!!!}

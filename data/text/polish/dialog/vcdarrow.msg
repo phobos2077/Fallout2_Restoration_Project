@@ -2,14 +2,14 @@
 {101}{}{Widzisz oficer Darrow z Sekcji Udogodnieñ}
 {102}{}{Widzisz Obywatela w jasnoniebieskim kombinezonie. Wygl¹da jak zwyk³y ubiór mieszkañca Krypty, ale na plecach brakuje numeru.}
 {103}{}{::klaszcze::}
-{104}{}{Oto bohater! Patrzcie!}
-{105}{}{Mój bo¿e! To Bohater, tutaj, w Kryptopolis!}
-{106}{}{Mi³ego dnia, Kapitanie.}
-{107}{}{Kryptopolis ponad wszystkim, Kapitanie.}
-{108}{}{Mi³ego dnia, Obywatelu.}
+{104}{}{To nasz wybawca! Patrzcie!}
+{105}{}{A niech mnie! Legenda Pustkowi tutaj, w Kryptopolis!}
+{106}{}{Dzieñ dobry, Kapitanie.}
+{107}{}{Kryptopolis na wieki, Kapitanie.}
+{108}{}{Dzieñ dobry, Obywatelu.}
 {109}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{110}{}{Mutant! Stra¿e! Stra¿e!}
-{111}{}{Ghul! Stra¿e! Stra¿e!}
+{110}{}{Mutant! Stra¿! Stra¿!}
+{111}{}{Ghul! Stra¿! Stra¿!}
 {112}{}{Muszê siê zaj¹æ zamówieniem wiêkszej liczby narzêdzi z Redding.}
 {113}{}{Ma³y dzisiaj ruch.}
 {114}{}{Ciekawe, czy Randal skoñczy³ ju¿ tê listê zakupów.}
@@ -24,10 +24,10 @@
 {123}{}{Mogê ci w czymœ pomóc, Obywatelu?}
 {124}{}{Przepraszam, mogê w czymœ pomóc?}
 {125}{}{Czym? Dudle-dudle duuuuuuuu}
-{126}{}{Wytocz siê na zewn¹trz}
+{126}{}{OdejdŸ bez s³owa.}
 {127}{}{Co to za miejsce?}
-{128}{}{Czy mogê zobaczyæ, co masz na stanie?}
-{129}{}{Nie dzisiaj, dziêki.}
+{128}{}{Mogê zobaczyæ, co masz na sk³adzie?}
+{129}{}{Dziêki, ale dziœ nie skorzystam.}
 {130}{}{Poczekaj tu chwilê, dobra? Przyprowadzê tu kogoœ, ¿eby ci pokazaæ.}
 {131}{}{NIE JA NIE IŒÆ}
 {132}{}{Okiiii-dokiiii }
@@ -37,15 +37,14 @@
 {136}{}{Dziêki za odwiedziny. Kryptopolis ponad wszystkim, Obywatelu.}
 {137}{}{Dziêki za odwiedziny. Kryptopolis ponad wszystkim, Kapitanie}
 {138}{}{Kryptopolis ponad wszystkim, Obywatelu.}
-{139}{}{Mi³ego dnia, Obywatelu.}
+{139}{}{Dzieñ dobry, Obywatelu.}
 {140}{}{Biuro A Sekcji Udogodnieñ. Jestem odpowiedzialna za zapotrzebowania na sprzêt ogólny, jak narzêdzia i sprzêt do napraw. Nazywam siê Darrow... Oficer Sekcji Udogodnieñ Darrow. Widzisz coœ, co by ci by³o potrzebne?}
 {141}{}{To Biuro A Sekcji Udogodnieñ... Zajmujemy siê dostarczaniem narzêdzi i sprzêtu naprawczego dla miasta. Na pewno to jest miejsce, którego szukasz?}
-{142}{}{Czy mogê zobaczyæ, co masz na stanie?}
+{142}{}{Mogê zobaczyæ, co masz na sk³adzie?}
 {143}{}{Tak, to to miejsce. Czy mogê zobaczyæ, co masz na stanie?}
-{144}{}{Nie dzisiaj, dziêki.}
+{144}{}{Dziêki, ale dziœ nie skorzystam.}
 {145}{}{Nie s¹dzê. Do widzenia.}
 {146}{}{Ej! OdejdŸ stamt¹d!}
 {147}{}{Doœæ tego! Wynocha st¹d!}
-
-{148}{}{Dziêki.}
+{148}{}{Dziêkujê.}
 {149}{}{[Dalej.]}

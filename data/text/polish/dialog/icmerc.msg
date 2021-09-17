@@ -1,11 +1,6 @@
-# 0. QUICK LOOK
 {100}{}{Widzisz dobrze uzbrojonego najemnika.}
-
-# 0. LOOK
 {150}{}{Widzisz twardo wygl¹daj¹cego faceta ubranego w skórzany pancerz. Liczne blizny i rany postrza³owe pokrywaj¹ jego cia³o. Z drugiej strony jego pancerz i broñ wygl¹daj¹ na dobrze utrzymane, prawie nowe.}
 {151}{}{Widzisz dobrze uzbrojonego najeŸdŸcê. Obserwuje teren z palcem na cynglu.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{Hej, popatrzcie na te mosiê¿ne kule u tego sukinsyna...}
 {201}{}{Widzê go!}
 {202}{}{Obszar naruszony!}
@@ -13,11 +8,9 @@
 {204}{}{Ruszaæ siê, ch³opaki, mamy intruza!}
 {205}{}{Có¿, patrzcie no, kto tu wpad³, ¿eby umrzeæ...}
 {206}{}{Cholera! Ktoœ nas znalaz³!}
-{207}{}{Jakiœ piasek tu wchodzi...}
+{207}{}{Nadchodzi burza piaskowa...}
 {208}{}{Trafi³aœ w *niew³aœciwe* miejsce, suko.}
-{209}{}{Pa, jaki chojrak z tej suki...}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{209}{}{Proszê, proszê, popatrzcie tylko na ta nadêta sukê...}
 {250}{}{Poszli my siê napiæ, a on nazywa to "godzin¹ dostosowania stosunku", to my mu ten stosunek w dupê wsadzili.}
 {251}{}{Musimy sprawdziæ miny w jaskini...}
 {252}{}{Prawie ju¿ czas na kolejne sprawdzenie terenu...}

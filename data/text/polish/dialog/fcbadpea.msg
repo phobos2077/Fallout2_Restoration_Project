@@ -39,22 +39,21 @@
 {138}{}{Zwyciê¿yliœmy!}
 {139}{}{Smok nie ¿yje - to wspaniale!}
 {140}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
-{141}{}{Czy w ¿yciu nie ma niczego wiêcej?}
+{141}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
 {142}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
 {143}{}{Patrzcie! Lao wai!}
 {144}{}{Usta Cesarza - martwy! Miasto legnie w gruzach!}
-{145}{}{Co siê teraz stanie?}
+{145}{}{Co teraz?}
 {146}{}{Mam nadziejê, ¿e dzicy nas teraz nie podbij¹.}
 {147}{}{Dobrzy zawsze gin¹ m³odo.}
 {148}{}{Mam nadziejê, ¿e przetrwamy bez Kena Lee.}
-{149}{}{Podobno Ken Lee by³ jedynym, który utrzymywa³ Cesarza w formie.}
-{150}{}{Chodz¹ s³uchy, ¿e Cesarz to tylko przykrywka dla Kena Lee. }
+{149}{}{Podobno Ken Lee by³ jedynym, który utrzymywa³ Imperatora w formie.}
+{150}{}{Chodz¹ s³uchy, ¿e Imperator to tylko przykrywka dla Kena Lee. }
 {151}{}{Mo¿e Lo Pan móg³by zaj¹æ miejsce Kena Lee...}
 {152}{}{Praca, praca, praca. Ry¿, ry¿, ry¿ [wzdycha]}
-{153}{}{Czy w ¿yciu nie ma niczego wiêcej?}
+{153}{}{Czy w ¿yciu nie ma czegoœ wiêcej?}
 {154}{}{Jesteœmy m¹drzejsi, ni¿ siê tobie wydaje.}
 {155}{}{Patrzcie! Lao wai!}
-
 {163}{}{Uda³o ci siê zabiæ UKC-9? Wspaniale!}
 {164}{}{Ci Centrolodzy przyprawiaj¹ mnie o dreszcze.}
 {165}{}{Jesteœmy ci wdziêczni za oddan¹ nam wielk¹ przys³ugê.}

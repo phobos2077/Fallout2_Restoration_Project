@@ -9,17 +9,17 @@
 {108}{}{Widzisz kobietê, która prawdopodobnie pracuje w kopalni.}
 {109}{}{Widzisz farmerkê.}
 {110}{}{Na co siê gapisz?}
-{111}{}{Witaj w du¿ym mieœcie.}
+{111}{}{Witaj w wielkim mieœcie.}
 {112}{}{Czeœæ.}
 {113}{}{D³ugo ju¿ jesteœ w Redding?}
 {114}{}{Po raz pierwszy w Reeding, co?}
 {115}{}{Nie chcemy tu klopotów.}
 {116}{}{Ja ciê te¿ obserwujê.}
 {117}{}{Witaj, przybyszu.}
-{118}{}{Jak leci?}
+{118}{}{Co jest?}
 {119}{}{Jak siê masz?}
 {120}{}{Dzieñ dobry.}
-{121}{}{Ehe.}
+{121}{}{Taaa.}
 {122}{}{Hej.}
 {123}{}{Widzisz mê¿czyznê z zimnym drinkiem w d³oni.}
 {124}{}{Widzisz mê¿czyznê zamawiaj¹cego piwo.}
@@ -29,10 +29,10 @@
 {128}{}{Widzisz kobietê z zimnym drinkiem w d³oni.}
 {129}{}{Widzisz kobietê zamawiaj¹c¹ piwo.}
 {130}{}{Ta kobieta chyba za du¿o wypi³a.}
-{131}{}{Widzisz pijaczkê.}
+{131}{}{Widzisz pijaka.}
 {132}{}{Ta kobieta wygl¹da na zatrut¹.}
 {133}{}{Czeœæ, przybyszu.}
-{134}{}{Czeœæ.}
+{134}{}{Czeœæ wszystkim.}
 {135}{}{Hmmm.}
 {136}{}{Urp.}
 {137}{}{Gul-gul-gul.}
@@ -40,7 +40,7 @@
 {139}{}{NieŸle jak na dzikusa.}
 {140}{}{To mi by³o potrzebne.}
 {141}{}{Mmm-hmmm.}
-{142}{}{Dziêki.}
+{142}{}{Dziêkujê.}
 {143}{}{Jesteœ moim najlepszym przyjacielem.}
 {144}{}{Co za kumpel.}
 {145}{}{Jesteœ najlepszy.}
@@ -63,8 +63,8 @@
 {162}{}{Widzisz kobietê ceruj¹c¹ odzie¿.}
 {163}{}{Ta kobieta odpoczywa.}
 {164}{}{Ta kobieta wypoczywa w swoim domu.}
-{165}{}{Dzieñ dobry.}
-{166}{}{Co tu robisz?}
+{165}{}{Czeœæ.}
+{166}{}{Co tutaj robisz?}
 {167}{}{Nikt ciê tu nie zaprasza³.}
 {168}{}{OdejdŸ. Nie mamy tu zasi³ków dla dzikusów.}
 {169}{}{Spierdalaj!}
@@ -89,7 +89,7 @@
 {188}{}{Ta osoba wygl¹da na podekscytowan¹.}
 {189}{}{Bierz go!}
 {190}{}{To by³a moja tygodniowa pensja... znowu.}
-{191}{}{Tak!}
+{191}{}{Spoko!}
 {192}{}{Zabij!}
 {193}{}{Za gard³o go!}
 {194}{}{Dorwij drania!}

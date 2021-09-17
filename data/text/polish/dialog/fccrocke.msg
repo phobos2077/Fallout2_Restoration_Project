@@ -1,23 +1,23 @@
 {100}{}{Widzisz stosunkowo m³odego, ³ysiej¹cego naukowca. Jest poch³oniêty swoj¹ prac¹.}
-{101}{}{Widzisz Crocketa, naukowca Centrologów.}
+{101}{}{You see Crockett, the Hubologist scientist.}
 {102}{}{Widzisz stosunkowo m³odego, ³ysiej¹cego naukowca. Wygl¹da jak laboratoryjny jajog³owy.}
 {103}{}{Ta? Czego?}
 {104}{}{Ag. Um. Duur.}
 {105}{}{Przysy³a mnie dr Jing. Chcia³by dostaæ wzmocniony pancerz wspomagany.}
 {106}{}{Czy mo¿esz ulepszyæ pancerz wspomagany?}
 {107}{}{Kim jesteœ?}
-{108}{}{Czym siê tu zajmujesz?}
-{109}{}{Nic takiego, dziêki.}
+{108}{}{Czym siê tutaj zajmujesz?}
+{109}{}{Nic, dziêki.}
 {110}{}{Przysiêgam, ¿e z ka¿dym dniem pa³êta siê tu coraz wiêcej podludzi. Sio! Sio!}
 {111}{}{A³³³.}
 {112}{}{Ta, mogê to zrobiæ. Ale co mo¿esz mi za to daæ?}
 {113}{}{Dr Jing zapewne bêdzie sk³onny sprzedaæ ci paliwo do statku kosmicznego.}
 {114}{}{Mogê ci zap³aciæ.}
 {115}{}{Pozwolê ci ¿yæ.}
-{116}{}{Nic. Zapomnij o tym.}
-{117}{}{Jestem Crocket, naukowiec i z³ota r¹czka. Mogê ju¿ wróciæ do swoich spraw?}
+{116}{}{Nic takiego. Nie zawracaj sobie g³owy.}
+{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
 {118}{}{Nie. Mam jeszcze kilka pytañ.}
-{119}{}{Tak, oczywiœcie.}
+{119}{}{Jasne.}
 {120}{}{Wynajdujê nowe technologie i korzystam nieco z kultystycznego garnuszka, je¿eli wiesz, o co mi chodzi.}
 {121}{}{A wiêc nie jesteœ Centrologiem?}
 {122}{}{Rozumiem. Mam te¿ inne pytania.}
@@ -39,9 +39,9 @@
 {138}{}{Wrócê tu po ni¹.}
 {139}{}{Nie mogê u¿yæ moich sztuczek, je¿eli jej nie masz. Wróæ, gdy ju¿ bêdziesz j¹ mieæ.}
 {140}{}{Mam wiêcej pytañ.}
-{141}{}{Na razie.}
+{141}{}{Bywaj.}
 {142}{}{[Wzrusza ramionami.] Chcesz ten pancerz czy nie? 10000$ albo nici z interesu.}
-{143}{}{Wrócê jeszcze do ciebie.}
+{143}{}{Wrócê do ciebie póŸniej.}
 {144}{}{W porz¹dku. Masz tu swoj¹ forsê.}
 {145}{}{Rozbój w bia³y dzieñ. Nie ma mowy.}
 {146}{}{[Patrzy ci prosto w oczy i decyduje, ¿e jednak nie ¿artujesz.] Masz tutaj ten pancerz?}
@@ -56,19 +56,19 @@
 {155}{}{Hmm. Mam jeszcze kilka pytañ, które chcê ci zadaæ.}
 {156}{}{Ca³kiem nieŸle. Na razie.}
 {157}{}{Zobaczmy... Zbudowa³em reaktor atomowy do statku kosmicznego. Stworzy³em proces utwardzania pancerza wspomaganego. I naprawiam zepsute rzeczy.}
-{158}{}{Rozumiem. Có¿, mam jeszcze kilka pytañ.}
+{158}{}{Rozumiem. Mam tak¿e inne pytania.}
 {159}{}{Hmm. Muszê ju¿ iœæ. Na razie.}
 {160}{}{Hej, nie mam do ciebie pretensji. Tylko nie rób mi krzywdy.}
-{161}{}{Mam do ciebie kilka pytañ.}
+{161}{}{Chcê ciê o coœ zapytaæ.}
 {162}{}{Jestem tu po moj¹ zbrojê.}
 {163}{}{Za póŸno.}
-{164}{}{Do widzenia.}
+{164}{}{Bywaj.}
 {165}{}{Jeszcze nie jest gotowa. Musisz daæ mi trochê czasu!}
 {166}{}{W porz¹dku. Mam kilka pytañ.}
 {167}{}{W porz¹dku. Wrócê póŸniej.}
 {168}{}{Mam j¹ ju¿ dla ciebie przygotowan¹. Proszê, weŸ j¹.}
 {169}{}{Dziêki. Mam kilka pytañ.}
-{170}{}{Dziêki.}
+{170}{}{Dziêkujê.}
 {171}{}{Dziêki. TERAZ mo¿esz ju¿ umrzeæ.}
 {172}{}{Nie mam ju¿ potrzebnych œrodków chemicznych. Przykro mi.}
 {173}{}{Wiêc mo¿esz odpowiedzieæ mi na parê pytañ.}

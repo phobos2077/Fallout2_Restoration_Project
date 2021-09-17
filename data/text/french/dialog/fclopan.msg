@@ -110,7 +110,7 @@
 {230}{}{Tu vas d'abord devoir prouver que tu en es capable en te battant contre cinq de mes hommes, un par un. Si tu réussis à les battre, tu pourras tenter l'ultime épreuve.}
 {231}{}{Qu'est-ce que c'est ?}
 {232}{}{Ca semble trop compliqué. Au revoir.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
+{233}{}{Tu vas devoir me vaincre. Mais aucune de ces batailles n'ira jusqu'à la mort - pour protéger mes hommes, bien sûr. [Il te regarde avec un sourire sadique.]}
 {234}{}{Allons-y !}
 {235}{}{Tu peux t'occuper du Dragon toi-même.}
 {236}{}{[Lo Pan te fixe et t'envoie un coup sur le nez avant même que tu n'aies le temps de réagir.] Tu n'es pas à la hauteur.}

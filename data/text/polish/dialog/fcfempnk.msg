@@ -9,12 +9,12 @@
 {108}{}{Poflirtowa³abym z tob¹, ale po prostu nie jestem zainteresowana.}
 {109}{}{[sarkazm] Widaæ tu z pewnoœci¹ du¿o silnych kobiet, co?}
 {110}{}{Myœlisz, ¿e zaraz wystawiê ci ty³ek? Lepiej oprzytomniej.}
-{111}{}{Jestem unikalna! Tak jak ka¿dy inny!}
+{111}{}{Jestem unikalny! Tak jak ka¿dy inny!}
 {112}{}{Czasami cynizm znu¿enia œwiatem nudzi mnie.}
-{113}{}{Nastêpnym razem chcê znaleŸæ grupê metalowców.}
-{114}{}{S³ysza³am, ¿e Cesarz Shi jest nieludzko inteligentny.}
+{113}{}{Nastêpnym razem chcê znaleŸæ plemiê metali.}
+{114}{}{S³ysza³em, ¿e Cesarz Shi jest nieludzko inteligentny.}
 {115}{}{Ci Shi tak œmiesznie wygl¹daj¹.}
-{116}{}{Jest wolnomyœlicielk¹, no nie?}
+{116}{}{Jestem wolnomyœlicielem, no nie?}
 {117}{}{Popatrz na tych wszystkich punków. Pozerzy.}
 {118}{}{UKC-9 oszuka³ nas, i oszuka te¿ ciebie, jeœli mu na to pozwolisz.}
 {119}{}{Nastêpny kochaœ, który nazwie mnie "Ÿdzir¹" po¿egna siê z klejnotami.}
@@ -27,8 +27,8 @@
 {126}{}{Wszyscy lubili Chipa. Ciebie nikt nie lubi.}
 {127}{}{Jesteœ gnid¹, nie?}
 {128}{}{Czy kiedykolwiek myœlisz o kimœ oprócz siebie?}
-{129}{}{O, patrzcie, nasz "idea³".}
-{130}{}{Ej, wszyscy! To ta samolubna dupa!}
+{129}{}{O, patrzcie, idzie "idea³".}
+{130}{}{Hej, wszyscy! To ta samolubna gnida!}
 {131}{}{O, znowu ty? Tak jakby ktoœ chcia³ z tob¹ teraz gadaæ.}
 {132}{}{Uosobienie Chipowego rasizmu!}
 {133}{}{Wielka szkoda z t¹ œledzion¹.}
@@ -71,7 +71,7 @@
 {170}{}{Chyba czas pakowaæ manatki.}
 {171}{}{Mi³ej zabawy ³odzi¹.}
 {172}{}{Powodzenia w znalezieniu twoich ludzi.}
-{173}{}{Po prostu ju¿ sobie pójdê.}
+{173}{}{Chyba ju¿ pójdê.}
 {174}{}{Mam nadziejê, ¿e znajdziemy inne miejsce do mieszkania.}
 {175}{}{Biedny Borsuk. By³ naprawdê milutki.}
 {176}{}{Kto chcia³by zabiæ Borsuka?}

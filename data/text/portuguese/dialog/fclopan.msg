@@ -110,7 +110,7 @@
 {230}{}{Primeiro, você precisará provar que você pode fazê-lo. Eu vou ter que enviar cinco dos meus lutadores - um de cada vez. Se você os vencer, você receberá seu teste final.}
 {231}{}{O que é isso?}
 {232}{}{Parece problemas demais. Tchau.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
+{233}{}{Você vai ser testado contra o meu aprendiz escolhido . No entanto, nenhuma dessas batalhas será para a morte - para proteger meus homens, é claro. [ele zomba]}
 {234}{}{Vamos em frente!}
 {235}{}{Você mesmo pode cuidar do Dragão.}
 {236}{}{[Lo Pan o estuda e então te dá um soco rápido que acerta seu nariz antes mesmo que você possa reagir.] Você não é tão bom assim.}

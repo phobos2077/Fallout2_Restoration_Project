@@ -9,7 +9,7 @@
 {114}{}{I guess we're all atomic powered here.}
 {120}{}{I just love the warmth here.}
 {121}{}{It feels wonderful here.}
-{122}{}{I don't know what I'd do If I had to live elsewhere.}
+{122}{}{Não sei o que faria se tivesse que morar em qualquer outro lugar.}
 {123}{}{I love the feel of radiation in the morning.}
 {124}{}{At least I never need a nightlight.}
 {125}{}{(holds his glowing finger out to you) Phone home.}
@@ -26,6 +26,6 @@
 {144}{}{Maybe those Vault City people aren't so bad after all.}
 {150}{}{I can't remember when the reactor ran this well.}
 {151}{}{It's downright chilly in here today.}
-{152}{}{Brrrr, I'm freezing.}
-{153}{}{I think I've got frostbite or something.}
+{152}{}{Brrrr, estou congelando.}
+{153}{}{Acho que estou com queimaduras de frio ou algo assim.}
 {154}{}{Does it feel cold to you?}
