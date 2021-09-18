@@ -29,7 +29,7 @@
 {131}{}{Nic takiego. Na razie.}
 {132}{}{Nie chcemy wspó³pracowaæ, co? Stra¿e! Zabiæ intruza!}
 {133}{}{Twoi stra¿nicy s¹ ju¿ martwi.}
-{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{ZejdŸ na po schodach do stra¿nicy i porozmawiaj z UKC-9. On ciê ju¿ odpowiednio pokieruje.}
 {135}{}{Dziêki. Na razie.}
 {161}{}{. Tylko siê rozgl¹dam.}
 {162}{}{. Tylko siê rozgl¹dam.}
@@ -40,7 +40,7 @@
 {173}{}{Co tutaj robisz?}
 {174}{}{Mam kopie planów od Shi.}
 {175}{}{Mam plany latacza.}
-{176}{}{The Shi have the plans for the vertibird.}
+{176}{}{Shi maj¹ plany lataczy.}
 {177}{}{Co mogê dla ciebie zrobiæ?}
 {178}{}{Zapomnij, na razie.}
 {179}{}{Jestem Harry, UKC-5. Jestem gwiezdnym bratem odpowiedzialnym za rakietê kosmiczn¹. U¿yjemy jej do podró¿y na Quetzel.}

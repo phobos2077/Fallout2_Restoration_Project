@@ -153,10 +153,10 @@
 {532}{}{Dziêkujê bardzo.}
 {533}{}{Dziêki!}
 {534}{}{Ug! Mi³a pani.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Jesteœ wspania³ym cz³owiekiem. Mo¿e nie pochwalam twoich metod, ale odda³eœ
+ œwiatu wielk¹ przys³ugê.}
+{541}{}{Jesteœ wspania³¹ kobiet¹. Mo¿e nie pochwalam twoich metod, ale odda³aœ
+ œwiatu wielk¹ przys³ugê.}
 {542}{}{Dziêkujê.}
 {550}{}{Twoja obecnoœæ w tym miejscu nie jest mile widziana. Proszê, wyjdŸ.}
 {551}{}{Proszê, wyjdŸ.}

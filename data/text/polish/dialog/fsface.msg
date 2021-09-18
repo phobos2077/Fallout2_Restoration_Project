@@ -110,7 +110,7 @@
 {209}{}{Dlaczego?}
 {210}{}{Poziom samobójstw wœród maszyn z prawdziw¹ SI by³ niezwykle du¿y. Gdy maszynom dano pe³ne mo¿liwoœci zmys³owe, ulega³y za³amaniu nerwowemu ze wzglêdu na niemo¿liwoœæ wyjœcia na œwiat i ich doœwiadczenia. Pozbawione zmys³ów maszyny wykszta³ci³y w sobie zachwiania nerwowe podobne do tych, jakie dotykaj¹ ludzi zmuszonych znosiæ pozbawienie ich zmys³ów. Kilka maszyn, które prze¿y³y te trudnoœci, by³y niesamowicie znudzone i zaczê³y dla w³asnej przyjemnoœci tworzyæ ró¿ne sytuacje w œwiecie na zewn¹trz. Istnieje teoria, ¿e doprowadzi³o to do wojny, która prawie zniszczy³a ludzkoœæ.}
 {211}{}{Yy... Jak ty czuæ?}
-{212}{}{Me change subject.}
+{212}{}{Moja zmienia temat.}
 {213}{}{Hmmm. A wiêc, Ace, jak ty siê czujesz?}
 {214}{}{Czas zmieniæ temat.}
 {215}{}{Ja... Czasem wydaje mi siê, ¿e rozumiem to, co wy nazywacie samotnoœci¹. Bardzo mnie to... zawstydza. Ja...}

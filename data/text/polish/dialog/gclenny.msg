@@ -211,7 +211,7 @@
 {3005}{}{Nie chcê mieæ z tob¹ nic wspólnego.}
 {4000}{}{W porz¹dku, ale nie p-podoba mi siê myœl o sterczeniu tu samotnie.}
 {4001}{}{W porz¹dku, jeœli myœlisz, ¿e tak b-bêdzie lepiej.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
+{4002}{}{Có¿, nie lubiê u¿ywaæ broni, ale chyba p-poradzê sobie z no¿em. Kiedyœ nawet strzela³em z pistoletu. W czarnej godzinie m-móg³bym równie¿ strzelaæ z karabinu. Nie cierpiê huku. Jestem lekarzem a nie ¿o³nierzem.}
 {4003}{}{Mam nadziejê, ¿e nie bêdê zmuszony t-tego u¿yæ.}
 {4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
 {5000}{}{Myœlê, ¿e m-mogê mieæ z-z³aman¹ koñczynê.}

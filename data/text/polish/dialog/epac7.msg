@@ -35,7 +35,7 @@
  Jeœli rozœwietlisz to miejsce dla mnie, podam ci has³o. Proszê pamiêtaæ, po wizycie w naszym ma³ym zoo nale¿y dok³adnie umyæ rêce.}
 {311}{}{W porz¹dku, zobaczê co da siê zrobiæ.}
 {312}{}{Niewa¿ne. Nie interesuje mnie to.}
-{320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all waivers must be signed before the end of the tour.}
+{320}{}{Kompleks ci¹gle wygl¹da szaro. Nadal zamierzasz naprawiæ œwiat³o, prawda? Pamiêtajcie odwiedzaj¹cy, wszelkie formularze musz¹ byæ podpisane przed koñcem wycieczki.}
 {321}{}{Nie martw siê. Pracujê nad tym.}
 {322}{}{Zajmê siê tym.}
 {330}{}{Mielibyœmy wiêcej odwiedzaj¹cych gdyby na poziomie gruntu by³o czyœciej.}

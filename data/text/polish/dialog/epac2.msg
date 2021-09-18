@@ -19,7 +19,7 @@
 {250}{}{[Tym razem uda³o siê znacznie szybciej: “Zresetuj mnie!”] No, jasne. [Resetujesz maszynê wyœwietlaj¹c¹ hologram. Dla zabicia czasu, gwi¿d¿esz w takt terkotu maszyny przechodz¹cej procedury startowe.]}
 {251}{}{[Dalej.]}
 {260}{}{Na Hawkinga, uda³o Ci siê! Mój program g³osowy by³ zaciêty w trybie binarnym od *lat*. Minê³o tyle czasu odk¹d mia³em przyjemnoœæ prowadziæ rozmowê z kimœ inteligentnym. Mo¿na by pomyœleæ, ¿e przez ten czas choæ *jeden* z moich towarzyszy móg³by byæ na tyle uprzejmy i nauczyæ siê binarnego, ale nieee.}
-{261}{}{No prob--}
+{261}{}{Nie ma spra--}
 {270}{}{Widzisz, nie mieli dla mnie czasu. O nie, byli zbyt *zajêci* oddawaniem siê swoim biurokratycznym nonsensom.
  Zbyt zajêci nak³adaniem regulacji jeden na drugiego i sprzeczaniem siê jak g³upcy. I zobacz do czego ich to doprowadzi³o: zapêtleni bez koñca w sali konferencyjnej. Ha! Dobrze im tak.}
 {271}{}{Zapêtleni?}

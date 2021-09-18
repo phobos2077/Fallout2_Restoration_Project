@@ -1,8 +1,8 @@
 {100}{}{Sprzedawca.}
 {101}{}{Willy.}
 {102}{}{Typowy akwizytor.}
-{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
+{103}{}{Witaj, nazywam siê Willy i mam dla ciebie niesamowit¹ ofertê. [Zdaje siê czytaæ coœ
+ z kartki. Po kilku minutach zasypiasz.]}
 {104}{}{Chrrrrr...}
 {105}{}{[Z trudem otwierasz oczy i ze zdziwieniem zauwa¿asz, ¿e ktoœ ciê kopie!] No i jak, kupujesz?}
 {106}{}{Kupujê? Niby co?}

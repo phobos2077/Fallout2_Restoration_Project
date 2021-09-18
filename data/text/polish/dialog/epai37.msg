@@ -21,7 +21,7 @@
 {414}{}{Zmieñ fryzurê (D³ugie w³osy).}
 {415}{}{Zmieñ fryzurê (£ysy).}
 {416}{}{Zmieñ fryzurê (Blond w³osy).}
-{417}{}{Alter Hairstyle (Red Hair).}
+{417}{}{Zmieñ fryzurê (Rude W³osy).}
 {418}{}{Po krótkim namyœle, chyba jednak nie mam na to ochoty. Pa.}
 {500}{}{Kuracja zajmie 4 tygodnie i 50% ryzyko zgonu. Czy chcesz rozpocz¹æ?}
 {501}{}{Zróbmy to.}

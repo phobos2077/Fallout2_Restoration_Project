@@ -13,8 +13,8 @@
 {112}{}{Vikki rozmawia³a ze mn¹. Powiedzia³a, ¿e jesteœ sexy i ¿e czasami ciê pragnie.}
 {113}{}{Czy mam porozmawiaæ dla ciebie z Vikki?}
 {114}{}{Niewa¿ne. Czeœæ.}
-{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[As you turn to look, he whips back to what he was doing and ignores you.]}
+{115}{}{Ummm... oookej. Niewa¿ne. S³uchaj, co tam jest?
+[Gdy odwracasz wzrok, zabiera siê do swojej pracy i ignoruje ciê.]}
 {116}{}{[dalej]}
 {117}{}{Jestem Dave Handy. Pochodzê z Kanady.}
 {118}{}{Ach tak. W takim razie czym siê tutaj zajmujesz?}

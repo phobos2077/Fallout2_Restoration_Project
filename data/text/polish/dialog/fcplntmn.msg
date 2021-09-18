@@ -15,10 +15,10 @@
 {320}{}{Mistrz odpowie na wszystkie twoje pytania. A teraz chodŸ ze mn¹.}
 {321}{}{Nie wydaje mi siê.}
 {322}{}{Dobrze. Spotkam siê z tym twoim mistrzem.}
-{400}{}{Uuuhhhhh...}
+{400}{}{Uuchhhhhh...}
 {401}{}{Grrraaarrrr!}
 {402}{}{Hhsssssssss…}
-{403}{}{Ohhh...}
+{403}{}{Oooo...}
 {410}{}{Mistrz mówi³, ¿e nikt nie mo¿e wejœæ.}
 {420}{}{Mistrz mówi³, ¿e mo¿esz wejœæ, cz³owieku.}
 {500}{}{Spryska³eœ stworzenie, które wydaje ciê¿ki jêk. Segmenty rosn¹cych roœlin opadaj¹ bezw³adnie na pod³ogê.}

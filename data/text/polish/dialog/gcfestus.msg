@@ -58,8 +58,8 @@
 {261}{}{Gdyby to by³a bomba, z twoim technicznym doœwiadczeniem ju¿ dawno byœ o tym wiedzia³. Po prostu zainstaluj tê czêœæ.}
 {262}{}{Chyba masz racjê. Lepiej znajdê inny sposób na zainstalowanie tej czêœci.}
 {270}{}{No dobra. Ale wci¹¿ nie jestem pewien, czy to jest w³aœciwa czêœæ, czy tylko jakaœ pu³apka. Wiesz, jestem zbyt cenny, aby mnie straciæ. Mo¿e powinienem pozwoliæ zrobiæ to komuœ innemu... póŸniej... znacznie póŸniej.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
+{271}{}{To musi byæ zrobione teraz. A ty jesteœ jedyn¹ osob¹, która mo¿e to dobrze zrobiæ. No dalej, ca³e Gecko
+ na ciebie liczy!}
 {272}{}{Chyba masz racjê. Lepiej znajdê inny sposób na zainstalowanie tej czêœci.}
 {300}{}{Có¿, z pewnoœci¹ zu¿ywa du¿o uranu. I trochê przecieka. Wiesz, poprosi³bym kogoœ, ¿eby to naprawi³, ale nikt mnie nie s³ucha.}
 {301}{}{Podobno wyciek radioaktywny dostaje siê do wód gruntowych. Czy to prawda?}

@@ -98,7 +98,7 @@
 {834}{}{Chyba masz ju¿ doœæ towarzyszy, szefie. Zaczekam tu, a¿ zwolni siê jakieœ miejsce. Obiady Mamuœki przypominaj¹ mi moj¹ by³¹ ¿onê... Jeszcze nie wiem czy to dobrze, czy Ÿle...}
 {835}{}{Bardzo chêtnie, szefie, ale chwilowo nie masz ju¿ chyba dla mnie doœæ miejsca. Lepiej zajrzê do Mamuœki. Wpadnij tam, jak znajdziesz dla mnie jak¹œ robotê.}
 {840}{}{Ed mieszka w Kryptopolis. Handluje braminami. To jeden z moich sta³ych dostawców. Kryptopolis le¿y ca³kiem niedaleko st¹d.}
-{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
+{845}{}{Mówi³em ci ju¿, jest tutaj. [Vic wskazuje miejsce na twoim Pip-Boyu 2000]}
 {900}{}{Dowiadujesz siê, ¿e Vic jest kupcem.}
 {1000}{}{Muszê ciê o coœ zapytaæ.}
 {1100}{}{Zdrów jak ryba, szefie. Co teraz?}

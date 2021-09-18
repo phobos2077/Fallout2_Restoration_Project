@@ -56,8 +56,8 @@
 {282}{}{Dobra, wezmê twój dysk. Czujê, ¿e uda mi siê przekazaæ go w dobre rêce. Do widzenia.}
 {290}{}{Phi, nie potrzebujê twojej pomocy. Jesteœ tylko dzikusem.}
 {291}{}{A wiec, jak widzê, nie wszyscy bigoci mieszkaj¹ w Kryptopolis, prawda Gordon, staruszku? ¯egnam pana.}
-{300}{}{Our atomic power plant is still barely operational. You must not take the information to
- Vault City yet.}
+{300}{}{Nasza elektrownia ca³y czas ledwie dzia³a. Nie mo¿esz jeszcze zanieœæ tych informacji do
+ Kryptopolis.}
 {301}{}{Nie s¹dzê, ¿eby ludzie w Kryptopolis byli sk³onni ogl¹daæ dane przygotowane przez ghuli.}
 {302}{}{Nie, jeszcze nie... ale zrobiê to. Do widzenia.}
 {303}{}{Dostarczenie tych danych do Kryptopolis to tylko pierwszy z wielu kroków jakie musz¹ byæ zrobione. Nasza elektrownia atomowa ci¹gle ledwo dzia³a i trzeba j¹ naprawiæ.}

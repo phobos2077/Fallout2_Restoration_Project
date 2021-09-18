@@ -136,7 +136,7 @@
 {453}{}{Wezmê zaopatrzenie.}
 {454}{}{Po prostu daj mi pieni¹dze.}
 {455}{}{Zatrzymaj swoj¹ nagrodê. Zrobi³em tylko to, co musia³em.}
-{460}{}{Here you go. [He hands you various high powered weapons]}
+{460}{}{Proszê bardzo. [Wrêcza ci ró¿ne broni o wysokiej sile ra¿enia]}
 {461}{}{[dalej]}
 {470}{}{Proszê bardzo. [Wrêcza ci parê drobiazgów]}
 {471}{}{[dalej]}

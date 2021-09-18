@@ -67,7 +67,7 @@
 {166}{}{Nie.}
 {167}{}{Formatowanie w toku... formatowanie w toku... formatowanie zakoñczone. Bootowanie wymaga ponownej instalacji. Wy³¹czam systemy. Zamykanie... systemu... zakoñczone...}
 {168}{}{[dalej]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{169}{}{Dane do znalezienia: - program botaniczny - program genetyczny - program kseno.}
 {170}{}{Program botaniczny.}
 {171}{}{Program genetyczny.}
 {172}{}{Program kseno.}
@@ -80,7 +80,7 @@
 {179}{}{Program botaniczny.}
 {180}{}{Program kseno.}
 {181}{}{Wróæ.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{"Obiekt, na którym mieliœmy nadziejê przeprowadziæ seriê znacz¹cych eksperymentów znikn¹³, zapewne albo zniszczony, albo skradziony przez Centrologów. Dalsze dochodzenie nie przynios³o rezultatów. Do czasu znalezienia dalszych obiektów badañ ta baza danych pozostanie nieaktywna." - dr Sheng.}
 {183}{}{Program botaniczny.}
 {184}{}{Program genetyczny.}
 {185}{}{Wróæ.}
@@ -88,7 +88,7 @@
 {187}{}{Paliwo i pochodne.}
 {188}{}{Polimery.}
 {189}{}{Wróæ.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{(Po przekopaniu siê przez z³o¿one wzory chemiczne i notatki laboratoryjne dochodzisz do wniosku, ¿e Shi stworzyli pewien rodzaj paliwa z wyci¹gu z roœlin i organizmów morskich. Wygl¹da równie¿ na to, ¿e przy³¹czyli siê do istniej¹cych ju¿ uprzednio rur przesy³owych, dziêki czemu mog¹ transportowaæ paliwo do szerokiego wachlarza miejsc.)}
 {191}{}{(Napotykasz ogromn¹ iloœæ skomplikowanych formu³ chemicznych i notatek laboratoryjnych. Nie masz zbytniej pewnoœci, co to wszystko mo¿e znaczyæ.)}
 {192}{}{Skieruj paliwo do tankowca Posejdon.}
 {193}{}{Skieruj paliwo do Centrologów.}
@@ -100,8 +100,8 @@
 {199}{}{Paliwo przes³ane zgodnie z poleceniem. Zbiorniki paliwa = Puste. Zamykam program.}
 {200}{}{[dalej]}
 {201}{}{Fizyczna baza danych: Badania - Teoria}
-{202}{}{Exploration.}
-{203}{}{Theory.}
+{202}{}{Badania.}
+{203}{}{Teoria.}
 {204}{}{Wróæ.}
 {205}{}{"Wraz z niedawnym uzyskaniem planów lataczy, mo¿liwoœæ stworzenia praktycznej maszyny lataj¹cej przybli¿y³a siê o wiele lat. Oczekujemy stworzenia dzia³aj¹cego prototypu do koñca tego roku, a mo¿liwoœci masowej produkcji w ci¹gu dwóch lat." - dr Wong}
 {206}{}{::skopiuj plany:: Wróæ.}

@@ -105,7 +105,7 @@
  Ca³y legion moich najlepszych poprawek czeka ciê jeszcze w twoich przygodach. Jestem mistrzem Ciemnej strony Kodu ród³owego.}
 {1021}{}{Milcz! Mo¿e wygl¹dam na chorowitego miêczaka, ale w tym umyœle d¿emie moc Boga! U¿ywaj¹c Kodu ród³owego mogê stworzyæ cokolwiek, podbiæ ca³e œwiaty i ulepszyæ to co nie mo¿e byæ ulepszone!
  To ja pozwoli³em Z³ej Beth rz¹dziæ œwiatem cRPG za pomoc¹ moich modów. Wszystko co siê zdarzy³, zdarzy³o siê wed³ug MOJEGO ¿yczenia.}
-{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
+{1022}{}{Sos ród³owy? Jaki Sos ród³owy? Mówisz, ¿e gotowanie jest kluczem do kontroli nad wszystkim? Dobra, cokolwiek powiesz, szefie.}
 {1023}{}{Taaa, jasne. Jezu, masz obsesje na punkcie kontrolowania wszystkiego co? Myœlê, ¿e muszê ju¿ iœæ.}
 {1024}{}{No, dobra. To œwietnie. Có¿, muszê ju¿ iœæ... yyy... podlaæ moje roœlinki...}
 {1030}{}{Ignorancja, g³upota. Twoja nadmierna pewnoœæ siebie jest twoj¹ s³aboœci¹, a moja wiara w twoich przyjació³ jest... no... moja. *wygl¹da na zmieszanego* Znikaj st¹d, niech ciê wiêcej nie ogl¹dam!}

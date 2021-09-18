@@ -44,7 +44,7 @@
 {194}{}{Tak.}
 {195}{}{Wspaniale!}
 {196}{}{Dobra, koniec. Czeœæ.}
-{197}{}{That's it?}
+{197}{}{To wszystko?}
 {198}{}{Dobra, czeœæ.}
 {199}{}{By³o nieŸle.}
 {200}{}{PA PA.}

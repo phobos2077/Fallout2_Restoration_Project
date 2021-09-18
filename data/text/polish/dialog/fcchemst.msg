@@ -23,7 +23,7 @@
 {122}{}{Interesuje mnie, czym siê tu zajmujesz.}
 {123}{}{Jestem tu, aby zdobyæ paliwo dla Centrologów.}
 {124}{}{Nie. W tej chwili wychodzê.}
-{125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crockett, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
+{125}{}{Chcesz paliwo do tankowca? Ja chcê wzmocniony pancerz wspomagany. Jak pamiêtam jeden z Centrologów, nazwiskiem Crockett, zna sposób na ulepszenie zwyk³ego pancerza wspomaganego. Zdob¹dŸ dla mnie taki ubiór, a ja zobaczê, co da siê zrobiæ z paliwem.}
 {126}{}{Zrobiê to.}
 {127}{}{Nie mogê nic obiecywaæ.}
 {128}{}{W³aœnie mam takie coœ przy sobie.}
@@ -31,7 +31,7 @@
 {130}{}{Otó¿ ma to dla mnie znaczenie. Potrzebujê paliwa do Tankowca Posejdon.}
 {131}{}{Za³o¿ê siê, ¿e mia³oby to znaczenie dla Centrologów. Chc¹ paliwa.}
 {132}{}{Jeszcze nie ma. Ale nied³ugo tu wrócê.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
+{133}{}{Chc¹ paliwa, co? Có¿, abstrahuj¹c od tego, jacy s¹ denerwuj¹cy, maj¹ te¿ swoje pomys³y. S³ysza³em, ¿e wynaleŸli proces, w którym pancerz wspomagany mo¿e staæ siê jeszcze bardziej niezniszczalny. Je¿eli przeprowadz¹ taki proces dla mnie, gotowy jestem przes³aæ im rurami paliwo. Domyœlam siê, ¿e jest ono do tej ich zabawki - statku kosmicznego. Poszukaj u nich Crocketta i porozmawiaj z nim o tym.}
 {134}{}{Zrobiê to.}
 {135}{}{Nie mogê nic obiecywaæ.}
 {136}{}{W³aœnie mam takie coœ przy sobie.}
@@ -56,7 +56,7 @@
 {155}{}{Tak zrobiê. Do widzenia.}
 {156}{}{Marne szanse. Na razie.}
 {157}{}{Stra¿e! Stra¿e! Intruz wróci³! Zabiæ go!}
-{158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
+{158}{}{Czy uda³o ci siê rozmówiæ z Centrologiem, który nazywa siê Crockett, i zdobyæ pancerz?}
 {159}{}{Nie, jeszcze nie.}
 {160}{}{No to po co ci¹gle wracasz i zawracasz mi g³owê?}
 {161}{}{Bo mam kilka pytañ.}

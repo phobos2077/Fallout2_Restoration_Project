@@ -14,11 +14,11 @@
 {113}{}{[Wróæ.]}
 {114}{}{Wyloguj siê.}
 {115}{}{B£¥D: Zbiorniki paliwowe puste.}
-{116}{}{ERROR: Navigation Computer non Functional.}
+{116}{}{B£¥D: Komputer Nawigacyjny niefunkcjonalny.}
 {117}{}{-Zbiorniki paliwowe: Puste- £adownia: Pusta- Komputer Nawigacyjny: Funkcjonalny- -Cumy: Rzucone-}
 {118}{}{-Zbiorniki paliwowe: Pe³ne- £adownia: Pusta- Komputer Nawigacyjny: Funkcjonalny- -Cumy: Rzucone-}
-{119}{}{You see a PoseidoNet Navigation Computer.}
+{119}{}{Widzisz Komputer Nawigacyjny PosejdoNetu.}
 {129}{}{[Szybko wprowadzasz procedurê odbijania, a statek odp³ywa prêdko od platformy.]}
 {130}{}{[dalej]}
-{131}{}{Navigation Computer on-line.}
+{131}{}{Komputer nawigacyjny w³¹czony.}
 {200}{}{Uwaga: Okrêt podwodny ci¹gle aktywny. Kontynuowanie spowoduje zniszczenie statku.}

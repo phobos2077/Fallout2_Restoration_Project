@@ -11,6 +11,6 @@
 {128}{}{Nie krzywdŸ mnie.}
 {129}{}{Nie chcia³em byæ takim strasznym palantem!}
 {130}{}{No co wy! Grozi³em wam œmierci¹ tak... dla jaj.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
+{131}{}{Przepraszam, Buffy!}
+{132}{}{Przepraszam, Niedomyci! Chcia³em tylko, ¿eby mnie wreszcie ktoœ zauwa¿y³.}
 {133}{}{Gra przez sieæ! Gra przez sieæ!}

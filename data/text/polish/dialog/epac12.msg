@@ -24,7 +24,7 @@
 {217}{}{Wszystko w porz¹dku?}
 {218}{}{Mój Bo¿e. Niewierze. By³am w tym zamro¿ona przez przesz³o wiek?!}
 {219}{}{Na to wygl¹da. Hej, s³uchaj, nie patrz tak na mnie. Ja nie mam z tym nic wspólnego. Wtedy nawet mojego dziadka jeszcze nie by³o. Po prostu zdarzy³o mi siê trafiæ na po³o¿enie tego miejsca i je zwiedzam.}
-{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
+{220}{}{No to pomo¿esz mi wstaæ, czy wolisz ¿ebym dalej siedzia³a naga u twoich stóp?}
 {221}{}{Taki w³aœnie mam zamiar. [Pomagasz jej wstaæ.]}
 {222}{}{Po co mnie rozmro¿ono?}
 {223}{}{Bez jakiegoœ konkretnego powodu.}
@@ -338,6 +338,6 @@
 {3210}{}{W porz¹dku, skoro ju¿ znam historiê ¿ycia twojego ojca, to czy mog³a byœ wreszcie przejœæ do czêœci dotycz¹cej ciebie?}
 {3260}{}{Czyli byli zdrajcami swojego narodu, ale dla jego dobra. Rozumiem.}
 {3261}{}{S³uchaj, mam doœæ s³uchania o twoich rodzicach. Mo¿e przejdziesz do czêœci w której ty jesteœ szpiegiem?}
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
+{5000}{}{[Kiedy na ciebie patrzy, nagle jej oczy robi¹ siê naprawdê szeroko otwarte i zaczyna ³apaæ oddech.]}
 {5001}{}{[KONIEC]}
 {5002}{}{O cholera!}

@@ -1,5 +1,5 @@
 {100}{}{Widzisz stosunkowo m³odego, ³ysiej¹cego naukowca. Jest poch³oniêty swoj¹ prac¹.}
-{101}{}{You see Crockett, the Hubologist scientist.}
+{101}{}{Widzisz Crocketta, naukowca Centrologów.}
 {102}{}{Widzisz stosunkowo m³odego, ³ysiej¹cego naukowca. Wygl¹da jak laboratoryjny jajog³owy.}
 {103}{}{Ta? Czego?}
 {104}{}{Ag. Um. Duur.}
@@ -15,7 +15,7 @@
 {114}{}{Mogê ci zap³aciæ.}
 {115}{}{Pozwolê ci ¿yæ.}
 {116}{}{Nic takiego. Nie zawracaj sobie g³owy.}
-{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
+{117}{}{Jestem Crockett, naukowiec i z³ota r¹czka. Mogê ju¿ wróciæ do swoich spraw?}
 {118}{}{Nie. Mam jeszcze kilka pytañ.}
 {119}{}{Jasne.}
 {120}{}{Wynajdujê nowe technologie i korzystam nieco z kultystycznego garnuszka, je¿eli wiesz, o co mi chodzi.}

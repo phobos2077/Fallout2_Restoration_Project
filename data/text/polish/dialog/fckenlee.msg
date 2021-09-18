@@ -60,7 +60,7 @@
 {159}{}{Dobrze, tak naprawdê nazywam siê }
 {160}{}{. To moje prawdziwe imiê! A teraz pozwól mi porozmawiaæ z Cesarzem!}
 {161}{}{Doskonale. Oto czego od ciebie oczekujê: na pó³noc st¹d znajduje siê ma³a baza wojskowa o nazwie Navarro. S¹ tam liczne latacze. Potrzebujemy ich planów konstrukcyjnych, aby móc je budowaæ samemu. Zdob¹dŸ je, a bêdziesz na najlepszej drodze do zobaczenia Cesarza.}
-{162}{}{Za³atwione.}
+{162}{}{Jasne.}
 {163}{}{Zapomnij o tym.}
 {164}{}{Czy rozwa¿ysz wziêcie udzia³u w naszym teœcie?}
 {165}{}{¯aden.}

@@ -47,7 +47,7 @@
 {301}{}{Dalej wieœniacy! Œmieræ Spamerowi!}
 {302}{}{Œmieræ Spamerom!}
 {303}{}{Masz, na co zas³u¿y³eœ!}
-{304}{}{Now you will die, Grim Reaper.}
+{304}{}{Grim Reaper - ju¿ po tobie.}
 {305}{}{Sma¿ siê w piekle!}
 {306}{}{Po¿egnaj siê ze œwiatem.}
 {307}{}{Czas na rewan¿!}
@@ -60,14 +60,14 @@
 {314}{}{Chroñcie Dziecko Przeznaczenia przed kretyñstwem Spamera!}
 {315}{}{Dziecko Przeznaczenia! Do³¹cz do nas!}
 {316}{}{NIEDOMYTA ŒMIERÆ!}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Nigdy nie bêdziesz 'Niedomyty', dziecinny g³upcze!}
 {318}{}{Nie masz szans!}
 {319}{}{To jeszcze nie koniec!}
 {320}{}{D³ugo czeka³em na ten dzieñ.}
 {400}{}{To za te twoje pogró¿ki!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
+{401}{}{Chyba nie uderzy³byœ dziewczyny, co?}
 {402}{}{'Zemsta smakuje najlepiej podana na zimno.'}
-{403}{}{I'm Buffy... you're toast.}
+{403}{}{Jestem Buffy... a ty jesteœ martwy.}
 {405}{}{Nikt nie bêdzie grozi³ Doombot!}
 {406}{}{Ju¿ nie ¿yjesz, Grim!}
 {410}{}{Ach, s³odki smak zwyciêstwa. Prawie tak znakomity jak smak iguany na patyku...}

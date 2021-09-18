@@ -5,7 +5,7 @@
 {104}{}{Ty. Czego tu chcesz.}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Mam list dla UKC-9 od Oœwieconej z RNK.}
-{107}{}{I'm here to speak to Crockett about some armor.}
+{107}{}{Jestem tu, aby porozmawiaæ z Crockettem o pewnym pancerzu.}
 {108}{}{Chcê siê tu rozejrzeæ.}
 {109}{}{Byæ mo¿e interesowa³oby mnie wst¹pienie w wasze szeregi.}
 {110}{}{Kim jesteœ?}
@@ -28,7 +28,7 @@
 {127}{}{Ooch! Gwiazdy!}
 {128}{}{Jestem UKC-7, drugi w linii dowodzenia w tym obiekcie. Zanim spytasz: UKC to skrót od Uszeregowanego Kandydata Centrum, co oznacza, ¿e oczyœci³e³em ju¿ siedem poziomów neurodyn mojego ducha. Oznacza to, ¿e jestem bardziej oœwiecony i bli¿ej centrum Wielkiego Ko³a ni¿ ty. A to oznacza, ¿e powiesz mi teraz, czego tutaj chcesz. Teraz.}
 {129}{}{Mam list dla UKC-9 od Oœwieconej z RNK.}
-{130}{}{I'm here to speak to Crockett about some armor.}
+{130}{}{Jestem tu, aby porozmawiaæ z Crockettem o pewnym pancerzu.}
 {131}{}{Chcê siê tu rozejrzeæ.}
 {132}{}{Byæ mo¿e interesowa³oby mnie wst¹pienie w wasze szeregi.}
 {133}{}{Przybywam, aby zabiæ was wszystkich.}
@@ -76,7 +76,7 @@
 {175}{}{Gdzie mogê zdobyæ paliwo do tankowca Posejdon?}
 {176}{}{Gdzie mogê znaleŸæ znaczenie tych wszystkich wyrazów, których u¿ywacie?}
 {177}{}{Kiedy odlatuje statek?}
-{178}{}{Where is Crockett?}
+{178}{}{Gdzie jest Crockett?}
 {179}{}{Nic, dziêki. Do zobaczenia.}
 {180}{}{Powiadom nas, gdy wykonasz misje.}
 {181}{}{Zrobi siê. Mam inne pytania.}

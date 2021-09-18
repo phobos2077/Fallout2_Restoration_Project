@@ -28,7 +28,7 @@
 {127}{}{Szukam œledziony.}
 {128}{}{Podobno jakieœ lataj¹ce maszyny przywioz³y tu pe³no ludzi z wioski.}
 {129}{}{Nic takiego. Na razie.}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Porozmawiaj z Crockettem z obozu Centrologów. Jest ich g³ównym naukowcem.}
 {131}{}{Dziêki. Potrzebujê wiêcej informacji.}
 {132}{}{Dziêki. Na razie.}
 {133}{}{Szukaj na pó³noc, w Navarro. Jest tam ukryta baza w pobli¿u stacji benzynowej.}

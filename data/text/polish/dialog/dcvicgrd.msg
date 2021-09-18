@@ -105,9 +105,9 @@
 {481}{}{W porz¹dku.}
 {482}{}{Dobra.}
 {490}{}{Nie.}
-{491}{}{I said no. Now beat it. You've got to talk to Metzger.}
+{491}{}{Powiedzia³em nie. Teraz spierdalaj. Musisz pogadaæ z Metzgerem.}
 {492}{}{W porz¹dku.}
-{500}{}{Too bad you didn't join us.}
+{500}{}{Szkoda ¿e siê do nas nie przy³¹czy³eœ.}
 {501}{}{Musisz przy³¹czyæ siê do gidili.}
 {502}{}{Po prostu rób to co kryjomu.}
 {503}{}{Mam nadziejê, ¿e Vic nie pracuje tylko dla was.}

@@ -35,7 +35,7 @@
 {134}{}{Pójdê tam. Jeœli nic tam nie znajdê, poszukam w okolicy.}
 {135}{}{A wiêc odejdŸ w pokoju.}
 {136}{}{W porz¹dku.}
-{137}{}{Za³atwione.}
+{137}{}{Jasne.}
 {138}{}{Witam ponownie. Funkcje ¿yciowe mojego pana usta³y. Czy mam byæ odt¹d twym s³ug¹?}
 {139}{}{W porz¹dku.}
 {140}{}{Nie.}

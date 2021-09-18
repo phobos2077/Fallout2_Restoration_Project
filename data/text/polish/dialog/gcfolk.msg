@@ -92,7 +92,7 @@
 {280}{}{Kocham ciê.}
 {281}{}{Jesteœ najlepszy.}
 {282}{}{£adowaæ atomówkami w Kryptopolis, dopóki nie zacznie œwieciæ!}
-{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
+{283}{}{./~99 strzykawek RadAwaya na œcianie, 99 strzykawek... ./~}
 {284}{}{./~Ca³y dzieñ harujê przy reaktorze, calutki dzionek.... ./~}
 {285}{}{Gdyby nie ty, to nie moglibyœmy ufaæ g³adkoskórym.}
 {286}{}{Chyba niektorzy g³adcy s¹ jednak w porz¹dku.}

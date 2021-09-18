@@ -7,7 +7,7 @@
 {130}{}{Widzisz mê¿czyznê odzianego w ³achmany.}
 {131}{}{Wygl¹da na niez³ego osi³ka.}
 {140}{}{Widzisz obdartego mê¿czyznê.}
-{141}{}{He moves with suggesting speed.}
+{141}{}{Porusza siê szybko i zwinnie.}
 {150}{}{Widzisz bardzo brudn¹ kobietê.}
 {151}{}{Chyba nigdy w ¿yciu siê nie my³a.}
 {160}{}{Widzisz postawn¹ kobietê.}

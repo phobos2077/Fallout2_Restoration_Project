@@ -115,10 +115,10 @@
 {800}{}{Nie da siê nie zauwa¿yæ, ¿e na ulicach jest mnóstwo sierot.}
 {801}{}{To naprawdê przykre, prawda? Te biedne dzieci ¿yj¹ce na ulicy, w taki sposób… Wiele z nich kradnie ¿eby przetrwaæ, g³ównie od przyjezdnych, wiêc jeœli przy³apiesz któreœ na odci¹¿aniu twoich kieszeni, proszê miej litoœæ. Nie usprawiedliwiam ich, ale ¿yjemy w brutalnym œwiecie i wszyscy robimy co musimy ¿eby przetrwaæ kolejny dzieñ.}
 {802}{}{Musi byæ coœ, co da siê z tym zrobiæ. A ty wydajesz siê jedyn¹ osob¹, któr¹ obchodz¹ te dzieci.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
+{803}{}{Oczywiœcie, ¿e mnie obchodz¹. Dzieci to nasza przysz³oœæ. Nie *musz¹* wyrosn¹æ na æpunów, oprychów, z³odziei i dziwki jak
+ wiêkszoœæ ich nic niewartych rodziców. Dziêki edukacji, odrobinie mi³oœci i opieki, te dzieci mog¹ wyrosn¹æ na dobrych 
+ uczciwych ludzi, których ten œwiat tak bardzo potrzebuje. Chcia³am otworzyæ dla nich sierociniec, ale niestety, 
+ nie uda³o siê.}
 {804}{}{Mo¿e nadszed³ czas spróbowaæ jeszcze raz. Nie zostanê d³ugo w tym mieœcie, ale zrobiê co w mojej mocy póki tu jestem.}
 {805}{}{To faktycznie smutne. Có¿, mi³o siê z tob¹ rozmawia³o. Czeœæ.}
 {806}{}{Tak, chyba *mo¿esz* pomóc. Widzisz, po zachodniej stronie miasta jest budynek, który przy odrobinie pracy, œwietnie nadawa³by siê na sierociniec. Ale koczuje tam banda mêtów i odmawia opuszczenia budynku o ile nie zap³acê im absurdalnej kwoty. Nawet gdybym *mia³a* pieni¹dze, nie da³abym ich takim oprychom, u¿yliby ich ¿eby siê dalej zatruwaæ. Zwróci³abym siê do w³adz, ale niestety, nie ma czegoœ takiego w Norze. Mo¿e tobie uda siê ich przekonaæ do przeprowadzki?}

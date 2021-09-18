@@ -62,7 +62,7 @@
 {161}{}{Ta, i wystawi³ mi rachunek na $1000.}
 {162}{}{}
 {163}{}{Rany. Masz niez³e powi¹zania. Wróæ jutro, a zobaczê, w czym bêdê ci móg³ pomóc.}
-{164}{}{Za³atwione.}
+{164}{}{Jasne.}
 {165}{}{Masz za mnie zap³aciæ?}
 {166}{}{Ta, chyba tak.}
 {167}{}{Nie.}

@@ -47,7 +47,7 @@
 {271}{}{Ta, wiesz co to by³o?}
 {272}{}{Myœlê, ¿e to by³ ptak.}
 {273}{}{Nie, to by³ pies.}
-{274}{}{But it was flying, man.}
+{274}{}{Ale¿ nie. To by³ lataj¹cy facet.}
 {275}{}{Nie ma bata - przecie¿ przemkn¹³ po ziemi.}
 {276}{}{No, ty to masz wizje.}
 {277}{}{Mówiê ci - to prawda!}
@@ -98,7 +98,7 @@
 {406}{}{Czy czujesz to przyjemne mrowienie?}
 {407}{}{Tubby ma najlepszy towar w mieœcie.}
 {408}{}{Czujê siê bosko!}
-{420}{}{Did you hear a loud bang?}
+{420}{}{Co to za g³oœny huk?}
 {421}{}{Tubby'ego nie by³o tu od jakiegoœ czasu.}
 {422}{}{Gdzie Tubby?}
 {423}{}{Widzia³ ktoœ Tubby'ego?}

@@ -93,6 +93,6 @@
 {2900}{}{Najpierw muszê siê ubraæ. [Rozgl¹da siê, Kot Jules zauwa¿a szafkê, otwiera ja i zagl¹da do œrodka.]
  To naprawdê nie w moim stylu, ale chyba musi wystarczyæ. [Szybko siê ubiera.] W porz¹dku, mo¿emy ruszaæ.}
 {2901}{}{[KONIEC]}
-{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{[Wstaje i otrz¹sa siê z wody jak dzikie zwierze, kiedy na ciebie patrzy, nagle jego oczy otwieraj¹ siê coraz szerzej i zaczyna ³apaæ oddech.]}
 {5001}{}{[KONIEC]}
 {5002}{}{O cholera!}

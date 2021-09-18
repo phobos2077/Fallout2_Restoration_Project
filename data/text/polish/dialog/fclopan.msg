@@ -110,7 +110,7 @@
 {230}{}{Najpierw musisz udowodniæ, ¿e mo¿esz to zrobiæ. Zmierzysz siê z moimi piêcioma ludŸmi - po jednym na raz. Je¿eli ich pokonasz, przyst¹pisz do ostatniej próby.}
 {231}{}{To znaczy?}
 {232}{}{Za du¿o zachodu. ¯egnaj.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
+{233}{}{Muszê zostaæ pokonany. Jednak ¿adna z tych walk nie bêdzie na œmieræ i ¿ycie - oczywiœcie, aby chroniæ moich ludzi. [Uœmiecha siê ironicznie.]}
 {234}{}{Zaczynajmy!}
 {235}{}{Sam mo¿esz za³atwiæ Smoka.}
 {236}{}{[Lo Pan ogl¹da ciê od stop do g³ów i nagle wyprowadza cios w twój nos, zanim zd¹¿ysz nawet mrugn¹æ.] Nie masz wystarczaj¹cych umiejêtnoœci.}

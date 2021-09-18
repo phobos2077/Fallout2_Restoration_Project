@@ -425,6 +425,6 @@
 {4250}{}{Marnujemy tu czas. Kobiety Zombi mnie nie krêc¹. Generalnie to nie lubiê dziewczyn, które wygl¹daj¹ na martwe ZANIM z nimi zacznê.}
 {4260}{}{Serio. Po co do jasnej cholery w ogóle marnujemy tu czas?}
 {4270}{}{Nie s¹dzê ¿ebym z w³asnej woli chcia³ marnowaæ wiêcej mojego czasu w tej placówce.}
-{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{[Obraca g³owê w twoj¹ stronê i podnosi siê na nogi. Kiedy na ciebie patrzy nagle jego oczy otwieraj¹ siê coraz szerzej i zaczyna ³apaæ oddech.]}
 {5001}{}{[KONIEC]}
 {5002}{}{O cholera!}

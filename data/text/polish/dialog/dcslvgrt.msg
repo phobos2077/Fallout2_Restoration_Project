@@ -12,7 +12,7 @@
 {219}{}{Mam jeszcze jedno pytanie.}
 {220}{}{Dziêki, postaram siê.}
 {221}{}{Mezger}
-{222}{}{Uh... kay.}
+{222}{}{Uch... dobra.}
 {230}{}{Teraz zginiesz.}
 {240}{}{W pana sobie lecisz?! £apiemy i sprzedajemy niewolników! Chyba po to tu jesteœ, nie? Szukasz dobrej roboty?}
 {241}{}{W pana sobie lecisz?! £apiemy i sprzedajemy niewolników! Jeœli nie po to tu jesteœ to czego chcesz?}
@@ -86,7 +86,7 @@
 {384}{}{Jeszcze jedno pytanie.}
 {385}{}{Dziêki, postaram siê.}
 {386}{}{Mezger}
-{387}{}{Uh... kay.}
+{387}{}{Uch... dobra.}
 {400}{}{Nie, ale na twoim miejscu pogada³bym z szefem. On zwiedzi³ ju¿ chyba ca³y ten pieprzony œwiat.}
 {401}{}{Jeszcze jedno pytanie.}
 {402}{}{Dobra, dziêki. Do zobaczenia.}
