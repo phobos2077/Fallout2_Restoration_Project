@@ -8,7 +8,7 @@
 {212}{}{Jeszcze raz?}
 {213}{}{Masz tu opaskê uciskow¹, o ile jej potrzebujesz.}
 {214}{}{Nie wdychaj ca³ego Jetu za jednym razem... Sztachnij siê, weŸ g³êboki oddech, a potem pozwól mu siê u³o¿yæ w œrodku.}
-{215}{}{You want two half ounce bags, or a canister?}
+{215}{}{Chcesz w dwóch torebkach po pó³ uncji ka¿da, czy w zbiornikach?}
 {216}{}{Inhalator Jetu jest ekstra...}
 {217}{}{Niech zgadnê: dopisaæ do zamówienia?}
 {218}{}{Sma¿ona atomówka raz.}

@@ -23,7 +23,7 @@
 {122}{}{Sprzedajemy innym miastom w okolicy to, co wykopiemy. To siê im przydaje. Jeœli chcesz coœ sprzedaæ, spróbuj pogadaæ z jednym z licznych miejscowych kupców. Swoj¹ drog¹, muszê wracaæ do pracy. Postaraj siê zachowywaæ ³adnie i ostro¿nie, dobrze?}
 {123}{}{Dop-sze! Paaaaaaaaaa!}
 {124}{}{Muszê wracaæ do pracy. Postaraj siê zachowywaæ ³adnie i ostro¿nie, dobrze?}
-{125}{}{You again? Well, you know what you have to do -- be good and careful. Take care!}
+{125}{}{Znowu ty? No - wiesz, jak masz siê zachowywaæ -- ³adnie i ostro¿nie. Uwa¿aj na siebie!}
 {126}{}{Dop-sze! Paaaaaaaaaa!}
 {127}{}{Cz³owieku, odstaw tê broñ. Nie odpowiem na ¿adne pytanie, kiedy tak machasz mi ni¹ przed nosem.}
 {128}{}{Jesteœmy ma³¹ spo³ecznoœci¹ górnicz¹. To miejsce zosta³o za³o¿one kilkadziesi¹t lat temu przez naszego szeryfa Marcusa i przez cz³owieka o imieniu Jacob. Wybrali to miejsce, poniewa¿ w pobli¿u jest trochê z³ó¿ uranu. Chcesz dowiedzieæ siê wiêcej?}
@@ -43,7 +43,7 @@
 {142}{}{Pomijaj¹c fakt, ¿e mutanci s¹ martwi, a nasze jedyne Ÿród³o utrzymania zniszczone...}
 {143}{}{Pomijaj¹c fakt, ¿e dziêki twoim bohaterskim czynom odkryliœmy wœród nas Ÿród³o zepsucia...}
 {144}{}{Pomijaj¹c fakt, ¿e wraz z ucieczk¹ Franca i Mansona odkryliœmy tocz¹cego nas raka...}
-{145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
+{145}{}{Pomijaj¹c fakt zdrady Chada i wymierzonej przez ciebie sprawiedliwoœci -- za co wszyscy jesteœmy ci bardzo wdziêczni -- }
 {146}{}{W³aœciwie nic siê nie dzieje.}
 {147}{}{Mam wiêcej pytañ.}
 {148}{}{Bywaj.}
@@ -73,8 +73,8 @@
 {172}{}{Naprawdê? Pomyœla³by ktoœ, ¿e wiêkszoœæ z nich ju¿ wymar³a.}
 {173}{}{Szeryf mutant, co? Domyœlam siê wiêc, ¿e w takim razie wiêkszoœæ mieszkañców przestrzega prawa. To musi ca³kiem nieŸle dzia³aæ.}
 {174}{}{Bywaj.}
-{175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
- to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
+{175}{}{Tak wiêc z trudem utrzymujemy siê przy ¿yciu, tworzymy nasz¹ w³asn¹ odmianê cywilizacji i mo¿liwie najlepiej staramy siê nie pozwoliæ,
+ by Kryptopolis i RNK wtr¹ca³y siê w nasze sprawy -- nie potrzebujemy ich stylu zarz¹dzania. To wszystko.}
 {176}{}{Œwietnie. Mam wiêcej pytañ.}
 {177}{}{Dziêki. Na razie.}
 {178}{}{Jeœli masz zamiar obstawaæ przy wierze, ¿e nale¿y oceniaæ czyjœ umys³ po tym, co widaæ na zewn¹trz, to tak. Niew¹tpliwie wykazujesz ignorancjê.}
@@ -83,17 +83,17 @@
 {181}{}{A w ogóle, to ju¿ wszystko, co chcia³em powiedzieæ. Witamy w Broken Hills.}
 {182}{}{Zaczekaj.}
 {183}{}{Bywaj.}
-{184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
- forever -- in fact, most of them are going senile now. Building a community isn't going to help them
- achieve their aims.}
+{184}{}{Gdyby mutanci chcieli zrobiæ nam krzywdê, dawno ju¿ by przeciwko nam wyst¹pili. Nie bêd¹ przecie¿ ¿yli
+ wiecznie -- tak naprawdê, to wiêkszoœæ z nich wkracza w³aœnie w wiek starczy. Wspó³tworzenie spo³ecznoœci nie przybli¿a³oby
+ ich do ¿adnego celu.}
 {185}{}{Racja.}
 {186}{}{Mimo to wci¹¿ s¹ Ÿli.}
 {187}{}{Bywaj.}
 {188}{}{Cz³owieku, im wiêcej z tob¹ gadam, tym g³upszy sam siê czujê. Z takim tupetem jak twój, nie bêdziemy ciê w Broken Hills zbyt mi³o witaæ. A teraz przepraszam. Mam swoje obowi¹zki.}
 {189}{}{Fajans.}
 {190}{}{Czas umrzeæ, fajansie.}
-{191}{}{We have a mine, a refinery, a tavern, a hotel -- which, by the way, has lost its owner, so we
- just let people stay there free -- a hospital, a general store, and a chemist. We grow our own food.}
+{191}{}{Mamy kopalniê, rafineriê, knajpê, hotel -- który swoj¹ drog¹ straci³ w³aœciciela, wiêc
+ po prostu pozwalamy ludziom mieszkaæ tam za darmo -- szpital, sklep i zak³ad chemiczny. Hodujemy te¿ w³asn¹ ¿ywnoœæ.}
 {192}{}{Mam wiêcej pytañ.}
 {193}{}{Bywaj.}
 {194}{}{No có¿, wielu z nich ju¿ umar³o. Poniewa¿ mutanci s¹ bezp³odni... a przynajmniej wszystko na to wskazuje... s¹ skazani na wymarcie. Ci, którzy jeszcze zostali, te¿ siê powoli starzej¹. Ale nie Marcus. Wci¹¿ jest tak samo sprawny, jak zawsze.}
@@ -105,8 +105,8 @@
 {200}{}{[KONTYNUUJ]}
 {201}{}{Cz³owieku, nie chcemy ciê tutaj. Doœæ ju¿ mamy przez ciebie szkody.}
 {202}{}{[dalej]}
-{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
- Jail. Sometimes he's in the tavern or at home, but he's usually working.}
+{300}{}{Zwykle mo¿na znaleŸæ Marcusa w pobli¿u Banku -- który s³u¿y nam za wiêzienie dla wyj¹tkowo niebezpiecznych przestêpców - albo w
+ Areszcie. Czasem siedzi w knajpie albo w domu, ale wiêkszoœæ czasu poœwiêca pracy.}
 {301}{}{Wpadka!}
 {302}{}{Cholera!}
 {303}{}{Hurrraaa!}

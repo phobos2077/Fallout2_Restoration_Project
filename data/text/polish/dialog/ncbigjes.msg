@@ -16,10 +16,10 @@
 {240}{}{(Mê¿czyzna odwraca siê w twoj¹ stronê. Wygl¹da jakby chorowa³ na febrê: pot p³ynie stru¿kami po jego twarzy i plami jego ubranie. }
 {241}{}{Ignoruje ciê i gapi siê na Myrona. Wygl¹da na to, ¿e czeka, a¿ Myron coœ powie.)}
 {242}{}{Gapi siê na ciebie. Wygl¹da na to, ¿e czeka, a¿ coœ powiesz.)}
-{243}{}{[Stare back at him with your meanest stare.]}
-{244}{}{[Stare back at him with mild disinterest.]}
-{245}{}{[Stare back at him with a sneering gaze.]}
-{246}{}{[Stare back at him with affected disinterest.]}
+{243}{}{[Odwzajemnij mu siê swoim najstraszniejszym spojrzeniem.]}
+{244}{}{[Odwzajemnij mu siê doœæ obojêtnym spojrzeniem.]}
+{245}{}{[Odwzajemnij mu siê szyderczym wœlipianiem.]}
+{246}{}{[Odwzajemnij mu siê spojrzeniem wyra¿aj¹cym udawany brak zainteresowania.]}
 {247}{}{[OdejdŸ]}
 {248}{}{Kim jesteœ?}
 {249}{}{To ty jesteœ Jesus Mordino?}
@@ -116,11 +116,11 @@
 {452}{}{A wiêc niewa¿ne. Zmykam.}
 {460}{}{Skieruj siê na pó³noc wzd³u¿ Alei Dziewic, omiñ kasyna... idŸ wzd³u¿ szlaku, który wychodzi z miasta. Doj... dziesz do Stajni. A teraz ruszaj.}
 {461}{}{(IdŸ wed³ug jego wskazówek...)}
-{470}{}{Have... you done as I asked?}
+{470}{}{Czyli... sprawa jest za³atwiona?}
 {471}{}{Nie, paczka jeszcze nie jest dostarczona.}
 {472}{}{Tak, paczka zosta³a dostarczona do Ramireza, tak jak prosi³eœ.}
 {473}{}{Tak, paczka jest ju¿ w Stajniach... czy wiesz, co oni tam ROBI¥ z ludŸmi? Torturuj¹ niewolników narkotykami.}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Tak, ten stra¿nik, Ramirez, dosta³ paczkê... wiesz, ¿e ten facet to stary jetowiec? A¿ siê z niego DYMI od Jetu.}
 {480}{}{Wiêc... czemu tu jesteœ? (Du¿y Jesus przeciera czo³o i bierze g³êboki wdech) DLACZEGO przesy³ka nie zosta³a dostarczona?}
 {481}{}{Mam jeszcze kilka pytañ...}
 {482}{}{Wyruszam z ni¹ w tej chwili.}
@@ -216,7 +216,7 @@
 {751}{}{Zrobiê to. Mam jeszcze kilka pytañ...}
 {752}{}{Zrobiê to. Dziêki Senor Mordino.}
 {760}{}{Wysoka temperatura i ja... nie ¿yjemy w zgodzie. Czasem mam trudnoœci... z oddychaniem. Gdy jestem zestresowany lub wykonujê jakieœ fizyczne czynnoœci, szybko siê mêczê. Czasem mam bóle w klatce.}
-{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
+{761}{}{Naprawdê? Có¿, w takim razie dobrze, ¿e nie bierzesz ¿adnych metaamfetamin albo stymulantów. Mam kilka innych pytañ...}
 {762}{}{Rozumiem. Lepiej ju¿ pójdê.}
 {770}{}{Nie znam ciê... przychodzisz do mnie... bez niczyjego s³owa, które nada³oby twojej ofercie... wagê. (Wyciera czo³o, po czym rzê¿¹c bierze g³êboki wdech) Nie mam dla ciebie ¯ADNEJ pracy.}
 {771}{}{Wyluzuj, daj mi szansê. Daj mi robotê, jakakolwiek robotê... poradzê sobie.}

@@ -32,7 +32,7 @@
 {210}{}{Yyy? Co chcesz przez to powiedzieæ? Masz coœ z g³ow¹?}
 {211}{}{Eeeee?}
 {220}{}{Wynoœ siê. Mózg nie ma czasu dla takich jak ty.}
-{221}{}{OK. I'll be going now.}
+{221}{}{Dobra, ju¿ sobie idê.}
 {230}{}{Nie ma tu niczego wiêcej poza nor¹ Mózga. Ty chyba masz coœ z g³ow¹.}
 {231}{}{Mózga?}
 {232}{}{Tak tylko ciê sprawdzam. Zda³eœ. A teraz mnie wpuœæ.}

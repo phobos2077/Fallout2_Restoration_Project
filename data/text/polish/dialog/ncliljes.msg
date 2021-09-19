@@ -9,7 +9,7 @@
 {230}{}{Niez³a spluwa, }
 {240}{}{Po cholerê siê tak skradasz, co, }
 {250}{}{Cojezd, }
-{251}{}{Heeey... }
+{251}{}{Heeej... }
 {252}{}{Ja pieprzê, ale gor¹c.}
 {253}{}{Heeej! Powiedz, co porabiasz, }
 {254}{}{Dobrze ciê widzieæ, }
@@ -172,7 +172,7 @@
 {820}{}{Dzieciak nazywa siê Myron. A to, gdzie siê ZNAJDUJE, to ju¿ coœ, czego nie musisz wiedzieæ.}
 {821}{}{Dzieciak nazywa siê Myron. Trzymamy go w stajniach na pó³noc od miasta, gdzie testuje nowe prochy. Jeœli chcesz, to mo¿esz tam pójœæ i siê z nim zobaczyæ, ale on przez wiêkszoœæ czasu jest zajêty... prochami, albo kobietami.}
 {822}{}{A mo¿e przestañ siê wyg³upiaæ i mi to powiedz?}
-{823}{}{Got it. I had some other questions...}
+{823}{}{Rozumiem. Mam kilka innych pytañ...}
 {824}{}{Myron, tak? W porz¹dku Jesus, dziêki za rozmowê.}
 {840}{}{Homes, Desperado to najlepsze miejsce. Mamy Jet, gry, akcjê... a zaraz na zewn¹trz mamy wszystkie putas jakich ci tylko trzeba, gor¹ce i chêtne. Prawdziwy raj homes. Pra-dziwy-raj.}
 {841}{}{Chica, Desperado to najlepsze miejsce. Mamy Jet, gry, akcjê. Nie musisz iœæ nigdzie indziej.}
@@ -187,7 +187,7 @@
 {862}{}{Tylko spróbuj i zobacz, co siê stanie, MA£Y Jesusie.}
 {863}{}{Tylko spróbuj, a zrobiê ci na twarzy tyle blizn, ¿e bêdziesz wygl¹da³ jak puzzle.}
 {864}{}{Uspokój siê... tylko sobie ¿artujê.}
-{865}{}{Chill. I had some other questions...}
+{865}{}{Spokojnie. Mam kilka innych pytañ...}
 {867}{}{Odchodzê. Mi³o mi siê rozmawia³o z tak kulturaln¹ osob¹ jak ty.}
 {880}{}{Ha! Jezdeœ w porz¹dku chica. W porz¹deczku. Ma³y Jesus bêdzie mia³ na ciebie oko... nie to, ¿ebym nie móg³ sobie sam poradziæ. Co mogê dla ciebie zrobiæ?}
 {881}{}{Pierwsza rzecz, jak¹ mo¿esz dla mnie zrobiæ, MA£Y Jesusie, to zatrzymaæ swoje oczy dla siebie. Prêdzej zastanowiê siê nad r¿niêciem litej ska³y, ni¿ dotknê tego ksiê¿ycowego krajobrazu, który nazywasz twarz¹.}
@@ -225,7 +225,7 @@
 {951}{}{Ach tak? Wiesz, Mordino to najwiêkszy dostawca Jetu w Nowym Reno. To sprawia, ¿e przede wszystkim was bêdzie siê o to obwiniaæ.}
 {952}{}{Nie wierzê ci. Myœlê, ¿e JESTEŒCIE odpowiedzialni. Ty i ca³a reszta rodziny Mordino.}
 {953}{}{Jak myœlisz, kto to móg³ zrobiæ?}
-{954}{}{Okay... look, I had some other questions...}
+{954}{}{Okej... S³uchaj, mam jeszcze kilka pytañ...}
 {955}{}{Ju¿ dobrze. Tylko siê pytam.}
 {965}{}{(Oczy mu siê zwê¿aj¹) Pos³uchaj, nie mam NIC wspólnego ze œmierci¹ tego dzieciaka. Nie wiem, co ci powiedziano, ale gdybym chcia³ go zabiæ, to bym go ciachn¹³ no¿em, a nie zmusi³ do kraksy na Jecie, rozumiesz? }
 {966}{}{No i co, ¿e bêdzie na nas? Nie mówiê, ¿e to ZROBILIŒMY. Ma³y gówniarz wzi¹³ za du¿o. Nie jest mi przykro, ¿e zgin¹³. A jak siê stary Wright zacznie rzucaæ, to pogrzebiemy go zaraz obok jego æpunowatego dzieciaka.}
@@ -275,7 +275,7 @@
 {1054}{}{Dam ci sto dolarów.}
 {1055}{}{Dam ci dwieœcie dolarów.}
 {1056}{}{Uprawianie mi³oœci przeze mnie to te¿ sztuka. Chcesz siê wymieniæ stylami?}
-{1058}{}{Actually, I had some questions...}
+{1058}{}{W³aœciwie, to mam jeszcze kilka pytañ...}
 {1059}{}{A wiêc mo¿e kiedy indziej... kiedy bêdê mieæ wystarczaj¹co du¿o pieniêdzy, ¿eby ciê przekonaæ.}
 {1060}{}{A wiêc mo¿e innym razem. Dziêki.}
 {1070}{}{Hmmmmm. 200 i umowa stoi.}

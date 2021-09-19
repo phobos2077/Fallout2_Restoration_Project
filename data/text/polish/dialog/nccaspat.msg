@@ -70,7 +70,7 @@
 {256}{}{::Gwi¿d¿e::}
 {257}{}{Te twoje nogi naprawdê s¹ takie d³ugie?}
 {258}{}{Kuuuuurde.}
-{259}{}{You got fries to go with that shake, beautiful?}
+{259}{}{Masz frytki do tego shake'a, piêkna?}
 {260}{}{Mo¿e bêdzie dzisiaj tañczyæ.}
 {261}{}{Widzia³eœ jej ostatni film? Mówiê ci, cz³owieku, GOR¥CY.}
 {262}{}{Przepraszam. Muszê iœæ na chwilê do ³azienki, no tego i uczesaæ siê.}
@@ -92,7 +92,7 @@
 {278}{}{Czy to jest robo-automat do gry?}
 {279}{}{Czy twój robot potrafi robiæ sztuczki? Eee... magiczne sztuczki!}
 {280}{}{To brzmi gorzej ni¿ opowieœci o ¿elaznym wilku.}
-{281}{}{Roll the bones.}
+{281}{}{Rzucaj koœæmi.}
 {282}{}{Dzidzi potrzebuje nowej pary butów...}
 {283}{}{Cholerni turyœci za trzy centy...}
 {284}{}{Cholera! A by³o ju¿ *53* dolary na plus...}

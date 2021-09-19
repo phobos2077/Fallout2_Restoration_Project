@@ -3,7 +3,7 @@
 {102}{}{Blond w³osy, niebieskie oczy... Klasyczny przyk³ad amerykañskiego dzieciaka.}
 {150}{}{£aaaaa!}
 {151}{}{Chcê z powrotem mojego psa!}
-{152}{}{Whimper... }
+{152}{}{Skomlenie...}
 {153}{}{Obcy!}
 {154}{}{Nareszcie jesteœ, Laddie! Têskni³em za tob¹, ma³y. Dziêki za przyprowadzenie mi mojego psiaka.}
 {155}{}{Hej, nie widzia³em ciê tu wczeœniej.}

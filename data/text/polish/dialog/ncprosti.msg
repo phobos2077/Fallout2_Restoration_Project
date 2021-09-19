@@ -8,13 +8,13 @@
 {156}{}{Widzisz prostytutkê. Wygl¹da na tak¹, która po sprawie zabija i po¿era samca.}
 {157}{}{Widzisz prostytutkê. Ocena ciê okiem znawcy.}
 {158}{}{Widzisz prostytutkê. Jej podarte ubranie uwodzicielsko opina jej cia³o.}
-{175}{}{Oh my... it's him.}
+{175}{}{Ojej... to on. }
 {176}{}{Patrzcie! To najwiêkszy ogier na tym œwiecie.}
 {177}{}{::Mdleje::}
 {178}{}{O tak, }
 {179}{}{::Klaszcze::}
 {180}{}{::Wiwatuje::}
-{181}{}{Oh my... it's her.}
+{181}{}{Ojej... to ona. }
 {182}{}{Dobra robota, dziewczyno!}
 {183}{}{::Pokazuje ci wyci¹gniêty do góry kciuk::}
 {190}{}{W tym ¿elastwie nie bêdzie z ciebie raczej wielkiego po¿ytku.}
@@ -171,7 +171,7 @@
 {345}{}{Oczywiœcie, £owco - pozwolê siê zwi¹zaæ!}
 {346}{}{Myron ci¹gle tu zagl¹da...}
 {347}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{348}{}{She ain't no Jet addict, she's a BONE addict.}
+{348}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
 {349}{}{Podobno w Kociej £apce robi siê naprawdê gor¹co...}
 {350}{}{Wczoraj przez dwie godziny ucieka³am przed Myronem...}
 {351}{}{Szukasz przyjació³ki, £owco?}
@@ -283,7 +283,7 @@
 {457}{}{Pali siê gdzieœ, £owczyni?}
 {458}{}{Z tej £owczyni jest niez³y kociak.}
 {459}{}{Przy tej £owczyni mój wewnêtrzny licznik Geigera zaczyna wariowaæ.}
-{460}{}{I guarantee I'm better in the sack than that robot following you around.}
+{460}{}{Zapewniam ciê, ¿e jestem sto razy lepsza ni¿ ta kupa z³omu, któr¹ za sob¹ ci¹gniesz.}
 {461}{}{Czy ten robot jest W PE£NI sprawny?}
 {462}{}{Czy to coœ za tob¹ to jakiœ automat do gry?}
 {463}{}{Czy to jest robo-automat do gry?}
@@ -364,7 +364,7 @@
 {538}{}{Co on sobie myœli, ¿e padnê przed nim na kolana? }
 {539}{}{Ten cholerny znak kiedyœ spadnie mi na g³owê...}
 {540}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{541}{}{She ain't no Jet addict, she's a BONE addict.}
+{541}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
 {542}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
 {543}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
 {544}{}{Szukasz rozrywki, skarbie?}
@@ -527,7 +527,7 @@
 {701}{}{Co on sobie myœli, ¿e padnê przed nim na kolana? }
 {702}{}{Ten cholerny znak kiedyœ spadnie mi na g³owê...}
 {703}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{704}{}{She ain't no Jet addict, she's a BONE addict.}
+{704}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
 {705}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
 {706}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
 {707}{}{Szukasz rozrywki, skarbie?}
@@ -760,7 +760,7 @@
 {934}{}{Myron to prawdziwy pajac.}
 {935}{}{Homo, hetero, jestem uniwersalna...}
 {936}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{937}{}{She ain't no Jet addict, she's a BONE addict.}
+{937}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
 {938}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
 {939}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
 {940}{}{Szukasz rozrywki, skarbie?}
@@ -934,7 +934,7 @@
 {1108}{}{Myron to prawdziwy pajac.}
 {1109}{}{Homo, hetero, jestem uniwersalna...}
 {1110}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{1111}{}{She ain't no Jet addict, she's a BONE addict.}
+{1111}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
 {1112}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
 {1113}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
 {1114}{}{Szukasz rozrywki, skarbie?}
@@ -1107,7 +1107,7 @@
 {1281}{}{Myron to prawdziwy pajac.}
 {1282}{}{Homo, hetero, jestem uniwersalna...}
 {1283}{}{Z tej córki Bishopa jest niez³e zió³ko.}
-{1284}{}{She ain't no Jet addict, she's a BONE addict.}
+{1284}{}{Ona nie jest uzale¿niona od Jetu, tylko od seksu.}
 {1285}{}{Podobno w Kryptopolis s¹ tylko dwa rodzaje obywateli. Mo¿e oni ich klonuj¹?}
 {1286}{}{Czujê siê jakbym wczoraj w nocy bra³a udzia³ w maratonie...}
 {1287}{}{Szukasz rozrywki, skarbie?}
@@ -1255,7 +1255,7 @@
 {3156}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Ocenia ciê okiem znawcy.}
 {3157}{}{Widzisz jedn¹ z dziewczyn z Kociej £apki. Jej podarte ubranie uwodzicielsko opina jej cia³o.}
 {3158}{}{Widzisz jedna z dziewczyn z Kociej £apki. Jej oczy lœni¹ ja zapalony lont.}
-{3200}{}{Och, taak! Och taak! Otaaakotaaakotaaak... ooooooch taaaaaak.}
+{3200}{}{O, taak! O taak! Otaaakotaaakotaaak... oooooo taaaaaak.}
 {3201}{}{Tak! Tak! Taaaaak TakTakTakTakTak TAK TAK TAAAK! Nale¿noœæ proszê wyp³aciæ kasjerowi.}
 {3202}{}{No poœpiesz siê. Licznik tyka.}
 {3203}{}{Chcesz œciereczkê?}

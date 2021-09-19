@@ -31,7 +31,7 @@
 {247}{}{To zale¿y... co jest w menu?}
 {248}{}{Chcê czegoœ specjalnego dla jednego z moich znajomych.}
 {249}{}{Proszê o coœ dla jednego z moich przyjació³. To z okazji... eee, urodzin.}
-{250}{}{I'd like to ask you some questions...}
+{250}{}{Chcê zadaæ ci kilka pytañ...}
 {251}{}{W³aœciwie to nie mam ju¿ na nic ochoty. Trema i tak dalej. Do widzenia.}
 {255}{}{To bardzo mi³e, ale... nie. Nie mogê.}
 {256}{}{Oj, daj spokój. Tylko jeden drink. Bez zobowi¹zañ. Bêdziemy siê dobrze bawiæ.}
@@ -170,7 +170,7 @@
 {596}{}{Nie, nie s¹dzê, ¿ebyœ siê nada³a. Mo¿e gdybyœ siê trochê umy³a, zadba³a o... prezencjê. Przykro mi.}
 {597}{}{Tak... tak, myœlê, ¿e siê doskonale nadasz. Interesuje ciê ta praca? Wszystkie moje dziewczêta ju¿ ni¹... rzygaj¹.}
 {598}{}{Jasne.}
-{599}{}{Hmmmph. I had some other questions...}
+{599}{}{Hmmm. Mam kilka innych pytañ...}
 {600}{}{Nie, ale mo¿e poproszê ciê o to póŸniej. Mam kilka innych pytañ...}
 {610}{}{(Kiwa g³ow¹) Doskonale. Nied³ugo powinien siê pojawiæ jeden z poruczników Mordina. Jeœli usi¹dziesz i poczekasz, przedstawiê ciê jako jedn¹ z... kandydatek.}
 {611}{}{Dobrze... zaczekam na niego.}
@@ -179,7 +179,7 @@
 {620}{}{(Ogl¹da ciê od góry do do³u, po czym kiwa g³ow¹) Myœlê, ¿e potrafimy ci dogodziæ...}
 {621}{}{(Ogl¹da twoje towarzystwo od góry do do³u, po czym kiwa g³ow¹) Myœlê, ¿e potrafimy dogodziæ tej osobie...}
 {623}{}{(Mruga okiem) To jest nieodp³atna us³uga, wiêc nie martw siê o pieni¹dze.}
-{700}{}{Oooooch-taaak.}
+{700}{}{Ooooo-taaak.}
 {701}{}{Wstrz¹saj¹ce.}
 {702}{}{£ojej. To by³o takie mocne.}
 {703}{}{Ojoj.}

@@ -19,7 +19,7 @@
 {233}{}{Twoje sugestie niewiele mnie obchodz¹. O co tu chodzi?}
 {234}{}{Wygl¹dasz na kogoœ w k³opotach. Mo¿e bêdê w stanie ci pomóc.}
 {235}{}{Wygl¹dasz na kogoœ, kto ceni swoj¹ prywatnoœæ. W przypadku kogoœ tak gadatliwego jak ja zapominanie mo¿e byæ bardzo kosztowne.}
-{236}{}{All right then... sorry to bother you.}
+{236}{}{W takim razie w porz¹dku... Przepraszam za k³opot.}
 {245}{}{K³opot? K³opot polega na tym, ¿e stoisz tu przede mn¹. }
 {246}{}{A teraz, ch³opie powiem to jeszcze raz: odejdŸ.}
 {247}{}{A teraz, kochana, powiem to jeszcze raz: odejdŸ.}
@@ -40,7 +40,7 @@
 {284}{}{Myœlê, ¿e MASZ k³opoty. Widzisz, ca³a ta prywatnoœæ sprawia, ¿e trudno bêdzie komukolwiek us³yszeæ, co siê tu na dole dzieje. Mo¿e wiêc ciê po prostu zabijê, co?}
 {285}{}{Wygl¹dasz na cz³owieka w k³opotach i mo¿e jestem w stanie ci pomóc. Co ty na to?}
 {286}{}{Wygl¹dasz na kogoœ, kto ceni swoj¹ prywatnoœæ. W przypadku kogoœ tak gadatliwego jak ja, zapominanie mo¿e byæ bardzo kosztowne.}
-{287}{}{All right then... sorry to bother you.}
+{287}{}{W takim razie w porz¹dku... Przepraszam za k³opot.}
 {295}{}{Uch... nie no... nie ma, uch, potrzeby, ¿eby tak mówiæ. Mo¿e porozmawiajmy o czymœ INNYM: ile pomocy mo¿e ci udzieliæ twój przyjaciel Lloyd.}
 {296}{}{Interesuj¹ce. Mów dalej.}
 {297}{}{Nie interesuje mnie to. Spadam st¹d.}
@@ -130,7 +130,7 @@
 {615}{}{(Sprawia wra¿enie zdyszanego) Bêdê wdziêczny... jeœli w ramach swoich... ochroniarskich obowi¹zków... osobiœcie go rozkopiesz.}
 {616}{}{Uch...}
 {617}{}{S¹ na tym œwiecie, Lloyd, dwa typy ludzi - ci, którzy maj¹ za³adowan¹ broñ oraz ci, którzy kopi¹.}
-{620}{}{All right then, I'll do it...}
+{620}{}{W porz¹dku, zrobiê to...}
 {625}{}{(Lloyd mamrocze coœ pod nosem i zaczyna kopaæ.)}
 {626}{}{(Lloyd mamrocze coœ pod nosem i zaczyna kopaæ... ostro¿nie. Po mniej ni¿ minucie wyci¹ga z piachu minê przeciwpiechotn¹ i odk³ada j¹ na bok. Trzêsie siê jak owca.)}
 {627}{}{Baaardzo ³adnie. Œwietnie ci idzie. Tak trzymaæ. Kop trochê szybciej.}

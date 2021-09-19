@@ -46,7 +46,7 @@
 {271}{}{Twoja ostatnia walka przejdzie do legendy, chica.}
 {272}{}{Gdzie trenujesz? Mo¿e przyda ci siê masa¿ysta?}
 {273}{}{Uwa¿aj na Prze¿uwacza. Lubi odgryzaæ ludziom uszy... goœæ jest chyba chory.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{280}{}{Hej, hej! Chica, chcesz ¿ebym od³o¿y³ t¹ broñ za ciebie?}
 {281}{}{Mam ci zrobiæ rewizjê osobist¹, czy co? Natychmiast od³ó¿ tê broñ. Chyba nie chcesz, ¿ebym siê zdenerwowa³.}
 {285}{}{Po cholerê siê tak skradasz, }
 {290}{}{Z takim cia³em nie masz szans przeœlizgn¹æ siê niepostrze¿enie obok Mordino, chica.}
@@ -149,13 +149,11 @@
 {472}{}{S¹dz¹c po twoim kaszlu i sposobie w jaki pocierasz nos, nie mam bladego pojêcia, co siê dzieje z ca³ym dostarczanym tu Jetem.}
 {473}{}{Widzisz, Du¿y J dobrze o nas dba, nie? W zesz³ym tygodniu z³apa³em trzech niewolników, którzy byli na tyle g³upi, ¿eby spróbowaæ ucieczki. No i dosta³em nagrodê. He he. A ty dostaniesz gówno. Jesteœ na posy³ki, a JA jestem STRA¯NIKIEM.}
 {474}{}{Taa, œwietnie. Trzymaj siê.}
-{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
- guards such as yourself.}
+{475}{}{Ciekawe, czy Du¿y Jesus zdaje sobie sprawê, w jaki sposób tych trzech niewolników uciek³o sprzed NOSA jego bystrych, naæpanych jak bela STRA¯NIKÓW.}
 {476}{}{Ramirez... uwa¿aj co mówisz, jasne? Ta twoja niewyparzona gêba napyta ci kiedyœ k³opotów.}
 {480}{}{(Mruga) He...? ¯e co?}
 {481}{}{Nie bêdê powtarzaæ - i tak byœ nie zrozumia³. Trzymaj siê.}
-{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
- perceptive, Jet-addicted guards such as yourself."}
+{482}{}{Mówiê: "Ciekawe, czy Du¿y Jesus zdaje sobie sprawê, w jaki sposób tych trzech niewolników uciek³o sprzed NOSA jego bystrych, naæpanych jak bela STRA¯NIKÓW."}
 {490}{}{(Mruga, uœmiecha siê g³upkowato) He? Tak, tak. Jestem niez³y... bys-try... jestem STRA¯NIKIEM, nie?}
 {491}{}{Tak, ju¿ coœ tym wspomina³eœ. Wyœwiadcz ludzkoœci przys³ugê, Ramirez, i za¿yj ca³¹ zawartoœæ tego pud³a za jednym razem. Trzymaj siê.}
 {492}{}{Rany, jakie to szczêœcie, ¿e ktoœ by³ na tyle rozs¹dny, ¿eby daæ ci do rêki automatyczn¹ broñ. Od razu czujê siê bezpieczniej. Trzymaj siê, Ramirez.}

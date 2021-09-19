@@ -15,7 +15,7 @@
 {223}{}{Ty. ChodŸ tu. Ju¿.}
 {224}{}{Mniam.}
 {225}{}{Hmmmm.}
-{226}{}{Well, well...}
+{226}{}{Proszê, proszê...}
 {230}{}{NUDZÊ siê.}
 {231}{}{To chyba nowa dziwka tatusia...}
 {232}{}{Jedna z tych tanich suczek tatusia...}
@@ -37,7 +37,7 @@
 {270}{}{¯ebyœ wiedzia³. No chodŸ.}
 {271}{}{Ja iœæ.}
 {272}{}{Ja lubiæ siê bawiæ, ale tylko sam ze sob¹.}
-{280}{}{Exactly...}
+{280}{}{Dok³adnie...}
 {281}{}{[IdŸ za ni¹.]}
 {290}{}{Oj, daj spokój. Prooooszê! Naprawdê chcia³am pokazaæ ci mój pokój. To zajmie tylko minutkê, obiecujê.}
 {291}{}{Nie iœæ! Ja nie iœæ! Nie daæ siê iœæ! Nie braæ ja w z³e miejsce! Nie!}
@@ -179,7 +179,7 @@
 {680}{}{Widzisz Angelê Bishop, która w tej chwili œpi. Cicho chrapie, jej w³osy s¹ w nie³adzie, a jej twarz rozjaœnia uœmiech.}
 {690}{}{Widzisz m³od¹ kobietê w obcis³ej skórze, wydzieraj¹c¹ siê w niebog³osy.}
 {700}{}{Zzhhssnnn... och, }
-{701}{}{Zzzzz...}
+{701}{}{Chrrrr...}
 {800}{}{Ratunku! Gwa³c¹!}
 {801}{}{Ratunku, on mnie zaatakowa³! Pomocy!}
 {802}{}{Gwa³c¹! Gwa³c¹!}

@@ -1,4 +1,4 @@
-{100}{}{You see... Sheb.}
+{100}{}{Widzisz... Seba.}
 {150}{}{Widzisz mizernego me¿czyznê w jasnoniebieskim ubraniu. Zupe³nie jakby jego ubrania nie robi³y wystarczaj¹co du¿o ha³asu, s³ychaæ te¿ ryk znad jego p³uc.}
 {200}{}{Towary, towary, tow-ary!}
 {201}{}{No chodŸcie tu mi³oœnicy towarów!}

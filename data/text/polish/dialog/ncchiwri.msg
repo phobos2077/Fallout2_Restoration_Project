@@ -53,8 +53,7 @@
 {317}{}{Kopnij go butem, który oplu³.}
 {318}{}{OdejdŸ}
 {319}{}{Daj mu spokój i odejdŸ. Wyrównasz rachunki nastêpnym razem.}
-{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{Có¿... ja... to znaczy, rodzina Wrightów... moja rodzina... mo¿e mieæ dla ciebie jak¹œ robotê. Nic nie obiecujê, ale zajrzyj do posiad³oœci, na po³udnie st¹d, znajdŸ mojego brata, Keitha, i powiedz mu, ¿e ja ciê przysy³am. Jestem Chris. Chris Wright.}
 {326}{}{Rodzina Wrightów? Kto to taki?}
 {327}{}{Wright, tak? Znam twoj¹ mamê.}
 {328}{}{Mo¿esz mi powiedzieæ, co siê sta³o z twoim bratem, Richardem?}
@@ -77,17 +76,16 @@
 {370}{}{Pewnie masz racjê. Niestety, muszê ju¿ iœæ.}
 {380}{}{Prawi wszystkim kazania o trzeŸwoœci, ¿yciu bez grzechu i takich tam, a nie ma nawet pojêcia czym zajmuje siê Tato. Albo nie wie, albo nie chce wiedzieæ.}
 {381}{}{A czym zajmuje siê twój Tato?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmmm. Niech bêdzie, mam jeszcze kilka innych pytañ...}
 {383}{}{To ciekawe. Có¿, muszê ju¿ iœæ.}
 {390}{}{Pêdzi bimber, handluje broni¹, zabija ludzi, którzy próbuj¹ go or¿n¹æ... to co ka¿da g³owa rodziny. Mama bardzo by siê wkurzy³a, gdyby wreszcie przejrza³a na oczy. A zw³aszcza, jakby znalaz³a tê aparaturê destylacyjn¹.}
 {391}{}{Jak bardzo by siê wkurzy³a?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hmmmm. Niech bêdzie, mam jeszcze kilka innych pytañ...}
 {393}{}{To ciekawe. Có¿, muszê ju¿ iœæ.}
 {400}{}{Na tyle, ¿eby rozwaliæ to wszystko w drobny mak... co najmniej. Potem zabra³aby siê za nas - kazaniom nie by³o by koñca. He he he.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Ciekawe. Mam jeszcze kilka pytañ...}
 {402}{}{Hmmmmm. Dziêki.}
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
+{410}{}{Richard? No wiesz, znaleŸli go martwego w rynsztoku, jak jednego z tych pieprzonych jetowców. Wszystko wskazuje na to, ¿e ktoœ szprycowa³ go prochami, dopóki biedak nie przesta³ oddychaæ.}
 {411}{}{'Ktoœ' szprycowa³ go prochami? Sk¹d pewnoœæ, ¿e to on sam nie przedawkowa³ przypadkiem?}
 {412}{}{Jak myœlisz, kto to móg³ zrobiæ?}
 {413}{}{Przykro to s³yszeæ. Mam jeszcze kilka pytañ...}

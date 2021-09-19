@@ -70,7 +70,7 @@
 {169}{}{Masz coœ innego?}
 {170}{}{Mam wiêcej pytañ.}
 {171}{}{Bywaj.}
-{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
+{172}{mcs20}{Ktoœ wypuœci³ dwa ptaszki z aresztu w Banku. ZnajdŸ ich, powiedz mi, gdzie s¹, a ja ich zamknê z powrotem w klatce.}
 {173}{}{Masz coœ innego?}
 {174}{}{Mam wiêcej pytañ.}
 {175}{}{Bywaj.}

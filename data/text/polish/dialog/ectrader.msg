@@ -51,5 +51,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-{152}{}{. Chcesz czy nie?}
+{152}{}{. Kupujesz czy nie?}
 {200}{}{.}

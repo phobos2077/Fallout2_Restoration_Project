@@ -37,7 +37,7 @@
 {160}{}{Lepiej uwa¿aj.}
 {161}{}{Witaj w sterowni.}
 {162}{}{Niczego nie dotykaj.}
-{163}{}{If something goes wrong in there, we'll come looking for you.}
+{163}{}{Jeœli coœ pójdzie tutaj nie tak, bêdziemy ciê szukaæ.}
 {164}{}{Jakieœ problemy - obwinimy ciebie.}
 {170}{}{G³adkoskórek tutaj? Có¿ za niespodzianka.}
 {171}{}{Chyba zaczynasz siê trochê opalaæ.}

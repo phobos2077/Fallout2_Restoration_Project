@@ -50,7 +50,7 @@
 {199}{}{[Podaj rekê Grishamowi]}
 {200}{}{Poczekaj chwilkê. Teraz, gdy o tym pomyœlê, to te braminy wygl¹da³y na nieco wychudzone. Co powiesz na $750, zamiast $1000?}
 {201}{}{Zmieniam zdanie: nie chcê ci za nic p³aciæ.}
-{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
+{202}{}{[Wyszczerza do ciebie zêby.] Dobrze wiedzieæ, ¿e jesteœ osob¹ z charakterem.}
 {203}{}{[Grisham robi siê czerwony jak burak i mówi do ciebie przez zaciœniête zêby.] OK, mo¿e byæ $750. Daj mi pieni¹dze!}
 {204}{}{Wiesz co, $750 dalej wydaje siê byæ znacznie zawy¿on¹ kwot¹. Te braminy i tak by zdech³y, nawet gdyby nie dopad³y ich te psy. Znaj jednak moja dobroæ. Dam ci $50.}
 {206}{}{DOBRA! DAWAJ MI PIENI¥DZE I WYNOŒ SIÊ ST¥D!}
@@ -147,7 +147,7 @@
 {1238}{}{Popatrzmy. Wygl¹da mi na to, ¿e ty i moja bratanica naœladowaliœcie braminy w sezonie parzenia.}
 {1239}{}{Popatrzmy. Wygl¹da mi na tu, ¿e ty i mój bratanek odstawialiœcie poziome tango miêdzy przeœcierad³ami.}
 {1403}{}{Jak œmiesz plamiæ honor }
-{1412}{}{daughter.}
-{1413}{}{son.}
+{1412}{}{córki mojego brata.}
+{1413}{}{syna mojego brata.}
 {1600}{}{. Mam nadziejê, ¿e dobrze opiekujesz siê moj¹ córk¹, Miri¹. Ona jest dla mnie œwiate³kiem rozjaœniaj¹cym moje ¿ycie. Pêk³o by mi serce, gdyby coœ mia³o siê jej staæ. Gdzie ona jest, tak przy okazji? Mia³em nadziejê, ¿e znowu siê z ni¹ zobaczê.}
 {1601}{}{. Jak tam ci siê ¿yje w ma³¿eñstwie? Widzê, ¿e mój syn, Davin, nie podró¿uje z tob¹. Bardzo mi go brak. Mo¿e kiedy tu wpadniesz nastêpnym razem, to i on móg³by tu przyjœæ razem z tob¹? Staruszek ucieszy³by siê, gdyby móg³ znowu zobaczyæ swojego syna.}

@@ -20,7 +20,7 @@
 {209}{}{Wrrr - Wrrr.}
 {210}{}{Ja nie chce rozmawiaæ.}
 {211}{}{Tyy ³adnie pachnieæ}
-{212}{}{Yoo smell like mom.}
-{213}{}{Yoo cute. Me no hit you.}
+{212}{}{Tyy pachnieæ jak mama.}
+{213}{}{Tyy s³odka. Ja ty nie biæ.}
 {214}{}{Przez ty ja siê rumieni.}
 {215}{}{Uuuch... ja Rico...}

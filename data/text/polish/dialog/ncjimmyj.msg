@@ -74,7 +74,7 @@
 {360}{}{Ju¿ wiem! WIEDZIA£EM, ¿e gdzieœ ciê ju¿ widzia³em! Kurde, trzeba by³o tak mówiæ od razu, postawiæ Jimmy'ego, gdzie jego miejsce...!}
 {361}{}{Um... ja zapomnieæ. Ja iœæ.}
 {363}{}{Chcê trochê Jetu...}
-{364}{}{Hey, I wanted something else...}
+{364}{}{Hej, Interesuje mnie coœ jeszcze...}
 {365}{}{Muszê iœæ. PóŸniej siê zobaczymy Jimmy.}
 {375}{}{(Jimmy popada w oniemia³¹ ciszê. Wydaje ci siê, ¿e twoje przemówienie sparali¿owa³o jego mózg.)}
 {376}{}{(Ukradnij wszystko, co ma przy sobie.)}
@@ -122,10 +122,9 @@
 {500}{}{Zwykle bra³em swój towar od samego boga, Myrona, tylko widzisz, on wzi¹³ i odszed³... albo dosta³ w czapê. Teraz najczêœciej roznoszê towar, który dostajê prosto od Rodziny Mordino. }
 {501}{}{Wiesz, KIEDYŒ bra³em towar od starego Myrona, zanim zacz¹³ zadzieraæ nosa i odszed³ z bran¿y... no nie Myron? Ha! Teraz g³ównie roznoszê to gówno od Mordino.}
 {502}{}{Ciekawe. Mam jeszcze kilka pytañ...}
-{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
- MYRON.}
+{510}{}{Ja, ja mam powi¹zania z TWÓRC¥, mój pilocie. Dostajê Jet prosto od mózga, od wcielonego boga twórców prochów, MYRONA.}
 {511}{}{Myrona?}
-{512}{}{Interesting. Say, I had some other questions...}
+{512}{}{Ciekawe. Mam jeszcze kilka pytañ...}
 {513}{}{Myrona, tak? Czy mo¿na spotkaæ siê z tym... wcielonym bogiem?}
 {514}{}{Naprawdê? No, na pewno jeszcze wrócê, ¿eby kupiæ trochê tego póŸniej. Dziêki Jimmy.}
 {520}{}{To z³oty ch³opiec Rodziny Mordino. On WYMYŒLI£ Jet. Kupowanie od Szramiastego Jimmy'ego J jest jak kupowanie od samego Myrona, s³yszysz? To dlatego J-J ma czysty Jet. NAJLEPSZY Jet.}
@@ -138,7 +137,7 @@
 {534}{}{Ciekawe. Dziêki za informacjê.}
 {540}{}{Stra¿e, stra¿e i jeszcze wiêcej stra¿y. Plus, najmocniejsze zabezpieczenia elektroniczne w Nowym Reno. Bêdziesz mieæ szczêœcie, jeœli kiedykolwiek US£YSZYSZ o kimœ, kto widzia³ Myrona, tak dobrze go strzeg¹.}
 {541}{}{Dobrze strzeg¹, tak? A gdzie dok³adnie?}
-{543}{}{I see. Say, I had some other questions...}
+{543}{}{Rozumiem. Powiedzmy, ¿e mam jeszcze kilka pytañ...}
 {550}{}{Trzymaj¹ go w tym miejscu, co siê nazywa "Stajnie", na pó³noc st¹d, poza granicami miasta. By³em tam tylko raz - nigdy nie pozwolili mi wejœæ za bramê, a przecie¿ PRACUJÊ dla Rodziny.}
 {551}{}{No co ty, musi byæ jakiœ sposób, ¿eby móc go zobaczyæ.}
 {554}{}{Stajnie, tak? Poza miastem, na pó³noc st¹d... (tylko szybciutko zapiszê to sobie w Pip-Boy'u) ...dziêki za poufn¹ informacjê Jimmy.}
@@ -157,13 +156,13 @@
 {592}{}{Ciekawe.... a tak w ogóle, z CZYSTEJ ciekawoœci, sk¹d Mordino bior¹ te prostytutki i jak je dobieraj¹?}
 {600}{}{(Wzrusza ramionami) Jeden z ch³opaków Mordino idzie do Kociego Pazura, tak s³ysza³em, bierze od Panny Kitty jedn¹ tak¹, co siê mo¿e Myronowi spodobaæ... (Jimmy nagle przestaje mówiæ. Patrzy na ciebie spode ³ba i marszczy brwi) Momencik...}
 {601}{}{Co siê sta³o?}
-{602}{}{Uh... nevermind. Say, I had some other questions...}
+{602}{}{Uch... niewa¿ne. Powiedzmy, ¿e mam jeszcze kilka pytañ...}
 {603}{}{Uch, no có¿, dziêki za informacje Jimmy.}
 {610}{}{Po co chcesz wiedzieæ takie rzeczy? Mam dla ciebie Jet i to wszystko, co TY musisz wiedzieæ. Nie musisz nic wiedzieæ o Myronie, ani o tym, co je na obiad, ani o tym, kogo obrabia, nim pójdzie spaæ.}
 {611}{}{Po co chcesz wiedzieæ takie rzeczy... (Zatrzymuje siê, po czym uœmiecha i ogl¹da ciê od góry do do³u) Aj, teraz kumam. Zamiarujesz iœæ prosto do Ÿróde³ka twojego Jetu, no nie siostro?}
 {612}{}{Nie w tej chwili. Zobaczmy Jimmy, co tam masz.}
 {613}{}{Zapomnij o tym. Pohandlujmy.}
-{614}{}{Nevermind then. I had some other questions...}
+{614}{}{No to trudno. Mam jeszcze kilka pytañ...}
 {615}{}{Mo¿e. Wiesz, mam jeszcze kilka innych pytañ...}
 {616}{}{Nie, to tylko ciekawoœæ. Dziêki Jimmy. Muszê ju¿ iœæ.}
 {617}{}{No dobrze. PóŸniej Jimmy. Muszê ju¿ iœæ.}

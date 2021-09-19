@@ -50,8 +50,8 @@
 {149}{}{Ee... s³uchaj. Tu na dole jest pewne du¿e wielono¿ne coœ, które chcia³bym doœæ szybko po¿egnaæ. Mo¿esz siê poœpieszyæ?}
 {150}{}{Typhon powinien przecie¿ wiedzieæ, ¿e kapsle s¹ w dzisiejszych czasach bezu¿yteczne. Czy¿ nie?}
 {151}{}{O BO¯E! Pe³za po mnie! RATUNKU!}
-{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
- shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
+{152}{}{Wiecie co, to naprawdê s³odkie, gdy siê o tym pomyœli. On naprawdê myœla³, ¿e mi pomaga. Mo¿e
+ troszkê za bardzo z¿ynam siê na starego. ::wzdycha:: To chyba tyle, jeœli chodzi o skarb. Chyba czas ruszaæ w drogê.}
 {153}{}{[Skomlenie...]}
 {154}{}{Studnie nie wa¿ny ju¿.}
 {155}{}{Hmmmm... Wci¹¿ mam wra¿enie, ¿e coœ wylecia³o mi z g³owy co do tej studni. No có¿, nie ma czasu do stracenia.}

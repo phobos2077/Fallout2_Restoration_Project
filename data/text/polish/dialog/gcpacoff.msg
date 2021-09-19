@@ -35,7 +35,7 @@
 {134}{}{Dobrze... powinno wystarczyæ. Lepiej?}
 {135}{}{Podkrêciæ? Co podkrêciæ? Nie æpam i nie zamierzam siê "podkrêcaæ".}
 {136}{}{Spróbujê póŸniej. Do zobaczenia.}
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
+{137}{powr6_a}{Dziecko Przeznaczenia, co? Ee, b³agam o wybaczenie, o Losie mego ¿ycia, S³oñce na moim firnamencie, ¿e nie padnê na twarz, ale nie mam ju¿ czasu na takie pierdo³y.}
 {138}{}{Padnij na kolana, a mo¿e oszczêdzimy ci ¿ycie. Jejku, to mi siê zaczyna podobaæ.}
 {139}{}{Od pewnego czasu nie nalegamy ju¿ na padanie na twarz. Lekki uk³on i uca³owanie pierœcienia powinno wystarczyæ.}
 {140}{}{Ee, to znaczy chcê powiedzieæ, ¿e *przeznaczono* mnie do naprawienia tej jednostki komunikacyjnej. Wygl¹da na to, ¿e nic tu ju¿ nie dzia³a.}

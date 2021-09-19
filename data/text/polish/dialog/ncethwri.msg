@@ -204,6 +204,6 @@
 {1251}{}{. Chcê pani¹ o coœ zapytaæ...}
 {1415}{}{(Podskakuje.) Ojej! (Zezuje na ciebie, wydyma usta.) A niech mnie...! }
 {1430}{}{(Podskakuje.) Ojej! }
-{1431}{}{(Squints at you, then her gaze becomes glacial.) }
+{1431}{}{(Obrzuca ciê szybkim spojrzeniem, jej twarz natychmiast zastyga w niemi³ym grymasie.) }
 {1480}{}{Naprawdê? Ja... có¿, dobrze... (Znowu siê rozkrêca) }
 {1530}{}{. Dopilujê, ¿eby rodzina Wrightów nigdy ju¿ nie zesz³a z prostej œcie¿ki.}

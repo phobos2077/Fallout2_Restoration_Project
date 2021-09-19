@@ -107,7 +107,7 @@
 {2280}{}{(Widzisz automat do gry. Jej po³yskuj¹ca rama i z³oty uchwyt migocz¹ kusz¹co wœród œwiate³ Nowego Reno. Jej wrzutnik dziwnie ciê przyci¹ga - czujesz jak z przejêcia na twarzy robi¹ ci siê wypieki. Kiedy siê tak na ni¹ gapisz, jedno z jej okienek mruga do ciebie. Z wrzutnika dobiega ciê gard³owy g³os) *Witaj, powiadam! Wiiitaaaj, skarbie. Chcesz spêdziæ ze mn¹ kilka upojnych chwil?*}
 {2281}{}{(Widzisz automat do gry. Jego mocna, chropowata rama i z³oty uchwyt lœni¹ jak s³oñce wœród œwiate³ Nowego Reno. Jego wrzutnik kusi ciê i czujesz jak z przejêcia na twarzy robi¹ ci siê wypieki. Kiedy siê tak na niego gapisz, potê¿ny, mêski, szepcz¹cy g³os zaczyna dobiegaæ do ciebie z wrzutnika) *Nigdy wczeœniej nie widzia³em tu tak piêknej kobiety jak ty panienko. Chcesz spróbowaæ szczêœcia ze mn¹?}
 {2282}{}{::Uszczypnij siê::}
-{2283}{}{Uh... hello?}
+{2283}{}{O... czeœæ?}
 {2284}{}{::WeŸ g³êboki oddech i odejdŸ.::}
 {2300}{}{*Wci¹¿ tu jestem, œlicznotko.* (Automat do gry zni¿a g³os) *No nie b¹dŸ taka... chcesz postawiæ zak³ad?*}
 {2301}{}{*Wci¹¿ tu jestem, skarbie.* (Maszyna zni¿a g³os) *Mój ty silny mê¿czyzno... no nie b¹dŸ taki... chcesz wsadziæ kilka monet ma³ej maszynie?}

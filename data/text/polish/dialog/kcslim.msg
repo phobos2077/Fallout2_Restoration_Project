@@ -79,9 +79,9 @@
 {291}{}{Powiedz coœ wiêcej.}
 {300}{}{Pewien naprawdê dobry traper o imieniu Smiley wyruszy³ na pó³noc w poszukiwaniu terenu, sk¹d wy³azi³yby te wszystkie gekony. By³ przekonany, ¿e one wszystkie pochodz¹ z jednego miejsca. Problem w tym, ¿e od kilku miesiêcy s³uch o nim zagin¹³.}
 {301}{}{Jak s¹dzisz, co mu siê mog³o przydarzyæ?}
-{310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
- Buckner runs Buckner house, y'know.}
+{310}{}{Mo¿e znalaz³ miejsce, z którego wy³a¿¹, i zosta³ zjedzony. (heh, hi, hi) Ale coœ ci powiem:
+ kiedy nie wróci³, serce pani Buckner prawie pêk³o. Widzisz, to by³ jej ukochany. Wiesz, by³ jej amantem. Pani
+ Buckner to ta, która prowadzi Faktoriê Bucknerów.}
 {311}{}{Ciekawe. Opowiedz mi o czymœ innym.}
 {312}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
 {320}{}{Mamy ca³kiem sporo, mnóstwo i od zatrzêsienia samochodów. Wszystkie tylko czekaj¹, a¿ ich w³aœciciele wróc¹ z zakupów. Rzecz w tym, ¿e nikt ju¿ nie wróci. Zreszt¹, i tak ¿aden z nich nie dzia³a. Jest jeden taki œliczniutki Kr¹¿ownik szos Chrysalis Motors zaraz na wschód st¹d, ale jeszcze nie wykombinowa³em, jak siê do niego dostaæ.}

@@ -33,8 +33,8 @@
 {132}{}{Liz, porz¹dna kobieta, prowadzi sklep wielobran¿owy tu¿ obok banku. Jeszcze coœ?}
 {133}{}{A wiêc dobrze. Na razie.}
 {134}{}{Cameron jest przywódc¹ tutejszych normalnych ludzi. Mutantów i ghuli niezbyt lubi, ale dobrze nas traktuje. Jest politykiem, wiêc zazwyczaj znajdziesz go w banku lub w saloonie. Czasami nawet mo¿esz go znaleŸæ pracuj¹cego u kowala. Jeszcze co? I w ogóle gdzie jestem? A tak... wiêc... coœ jeszcze?}
-{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
- the jail. Anything else?}
+{135}{}{Marcus jest naszym przywódc¹. Pomaga³ za³o¿yæ Broken Hills. Zazwyczaj mo¿esz go znaleŸæ w Banku lub
+ w wiêzieniu. Jeszcze coœ?}
 {136}{}{Co za chciwoœæ! Czy wiesz, jak ciê¿ko pracujemy? Mam nadziejê, ¿e skiœniesz.}
 {137}{}{Dziêki za rudê!}
 {138}{}{Nie mogê uwierzyæ, ¿e kopalnia wylecia³a w powietrze. Teraz wszyscy umrzemy z g³odu. Ta kopalnia by³a jedyn¹ rzecz¹, która podtrzymywa³a to miasto. Có¿, przynajmniej mogê siê starzeæ ju¿ bez ¿adnej pracy...}

@@ -30,8 +30,8 @@
 {190}{}{Przestañ gadaæ, tylko wszystko zepsujesz. Siadaj wygodnie i baw siê dobrze.}
 {191}{}{To chyba jakieœ nieporozumienie. Chcê zadaæ ci tylko kilka pytañ.}
 {192}{}{Dziêki za propozycjê, ale nie. Uuuch... Muszê ju¿ lecieæ.}
-{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
- imagination.]}
+{193}{}{O Bo¿e! Bierz mnie! Bierz mnie natychmiast! [Zdziera z siebie ubranie, potem z ciebie... a potem... u¿yj swej
+ wyobraŸni]}
 {194}{}{[Chichocze] Ja bêdê "ciuchci¹"! Ty mo¿esz ni¹ byæ nastêpnym razem.}
 {195}{}{[Dwie godziny póŸniej: ziemia zadr¿a³a, a to ³ó¿ko nigdy ju¿ nie bêdzie takie, jak dawniej]}
 {196}{}{[Godzinê (i najlepszy orgazm, jaki zdarzy³o ci siê mieæ) póŸniej]}

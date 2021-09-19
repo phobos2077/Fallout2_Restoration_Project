@@ -61,7 +61,7 @@
 {160}{}{Czy w Broken Hills kiedykolwiek uda siê zmniejszyæ przepaœæ pomiêdzy ludŸmi i mutantami?}
 {161}{}{Dranie, Jacob i Aileen, zawsze traktowali mnie jak obywatela drugiej kategorii. To ich nauczy szacunku.}
 {162}{}{Nie s¹dzê, aby Broken Hills kiedykolwiek podnios³o siê po utracie kopalni...}
-{163}{}{All the mutants... dead...}
+{163}{}{Wszyscy mutanci... zginêli...}
 {164}{}{... teraz ju¿ nigdy nie dowiemy siê, czy mogliœmy uczyniæ pokój pomiêdzy mutantami, a ludŸmi...}
 {165}{}{Czas wyruszyæ w drogê i zobaczyæ, co reszta œwiata ma do zaoferowania... nie warto ju¿ odkopywaæ kopalni.}
 {166}{}{Zastanawiam siê, czy gdziekolwiek indziej w Kalifornii potrzebuj¹ techników rafinacji uranu?}

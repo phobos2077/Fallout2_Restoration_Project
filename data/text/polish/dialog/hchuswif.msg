@@ -9,7 +9,7 @@
 {108}{}{**Prrrrrrrrdddddddddd**}
 {109}{}{Zaius od kopalni mówi, ¿e mo¿e mieæ dla mnie jak¹œ pracê w przysz³ym miesi¹cu.}
 {110}{}{To miejsce to jeden wielki burdel! Kobieto, kiedy ty w koñcu zabierzesz siê za sprz¹tanie?}
-{111}{}{You got a real smart mouth on ya', woman!}
+{111}{}{Masz naprawdê niewyparzon¹ gêbê, babo!}
 {112}{}{Kocham ciê, z³otko.}
 {113}{}{Czy chcesz dostaæ z ty³u mojej rêki, babo?}
 {140}{}{Sam sobie zrób te twoje cholerne ciasto, ty g³upia, t³usta beko!}

@@ -94,7 +94,7 @@
 {475}{}{Myron siê ciebie spodziewa?}
 {477}{}{Tak. Mogê wejœæ? Mamy parê spraw do obgadania.}
 {478}{}{Nie. Trzymajcie siê, ch³opaki.}
-{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
+{479}{}{Tak. Mogê wejœæ? Mamy parê "spraw" do obgadania. Jeœli wiesz co mam na myœli. (Mrugasz do stra¿nika.)}
 {480}{}{Hehe, pewnie, ¿e wiem. Spróbuj nie narobiæ za du¿o ha³asu jak tam bêdziesz. (Do siebie) Cholera, szczêœciarz z tego Myrona.)}
 {485}{}{Myrona nie ma.}
 {487}{}{Ale mogê wejœæ do œrodka?}

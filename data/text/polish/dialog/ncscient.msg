@@ -22,8 +22,7 @@
 {170}{}{SprawdŸ têtno tego tutaj. Jeœli siê jeszcze mieœci w granicach tolerancji, zwiêksz dawkê.}
 {171}{}{Dlaczego niewolnica z grupy kontrolnej zabi³a sama siebie? Nawet nie robiliœmy na niej testów!}
 {200}{}{Testy przebiegaj¹ zgodnie z harmonogramem, panie Myronie.}
-{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
- willing to kill each other for it.}
+{201}{}{Proszê pana, ta nowa odmiana Jetu uzale¿nia wyj¹tkowo silnie. Niewolnicy s¹ niemal gotowi nawzajem siê dla niej pozabijaæ.}
 {202}{}{Jet jest tak potê¿ny, ¿e niewolnicy wol¹ go od jedzenia.}
 {203}{}{Myronie, kim s¹ ci ludzie? To nowe obiekty?}
 {204}{}{Panie Myronie, trzecia grupa testowa ma ze wszystkich grup najlepsze wyniki.}
@@ -33,7 +32,7 @@
 {208}{}{Myron, w koñcu! Proszê pana, czy s¹ jakieœ wieœci o nowej dostawie niewolników?}
 {209}{}{Panie Myronie, przesunêliœmy troje niewolników z grupy kontrolnej do grupy testowej ze wzglêdu na te samoistne uduszenia, które mieliœmy w zesz³ym tygodniu.}
 {210}{}{Panie Myronie... musieliœmy zastrzeliæ jednego niewolnika za próbê ucieczki. Szkoda, ¿e siê zmarnowa³.}
-{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
+{211}{}{Panie Myronie... Ten nowy ³agodny halucynogen, którego pan opracowa³ jest obiecuj¹cy, choæ nie uzale¿nia tak silnie jak Jet...}
 {212}{}{Jeœli masz jakieœ propozycje, spisz je na kartkê, a potem wrzuc prosto do tamtego kosza na œmieci.}
 {213}{}{Tak, co takiego?}
 {214}{}{Nie uzyskamy ¿adnych wyników, jeœli bêdziesz nam przeszkadzaæ.}

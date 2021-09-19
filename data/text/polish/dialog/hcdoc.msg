@@ -100,7 +100,7 @@
 {199}{}{Umm...}
 {200}{}{Dziêki. Do zobaczenia!}
 {201}{}{Który jest ranny? O, niewa¿ne, ustawcie siê w szeregu, to opatrzê wszystkich.}
-{202}{}{One more thing...}
+{202}{}{Jeszcze jedno...}
 {203}{}{Dziêki! Na razie!}
 {204}{}{Zadziwiaj¹co niewiele. Przykro mi, ale koncentrujê siê na operacji i nie mam zbyt wiele czasu na przes³uchiwanie pacjenta.}
 {205}{}{Och. Mo¿esz mi odpowiedzieæ na inne pytania?}

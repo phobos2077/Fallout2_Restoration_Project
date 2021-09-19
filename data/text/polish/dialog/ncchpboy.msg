@@ -38,7 +38,7 @@
 {265}{}{Mam nadziejê, ¿e u pani wszystko w porz¹dku.}
 {266}{}{Nie chcieliœmy pani obraziæ.}
 {267}{}{O kurde. *Glup* Zobaczcie, co tu wesz³o.}
-{268}{}{What can we do for you, }
+{268}{}{Co mo¿emy dla ciebie zrobiæ, }
 {269}{}{Chcesz czegoœ? Piwa? Wody? Ciacho?}
 {270}{}{Co z³ego, to T-Ray. Radzi³bym zajrzeæ do niego.}
 {271}{}{Pozdrów od nas swojego szefa.}

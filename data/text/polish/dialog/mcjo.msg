@@ -161,9 +161,9 @@
 {602}{}{[Jo przerzuca kilka kartek w ksi¹¿ce]}
 {603}{}{Dobra, eee... Zanim zaczniemy, czy jest w tym pokoju ktoœ, kto zna jakiœ powód, dla którego tych dwojga tutaj nie mo¿e zwi¹zaæ œwiêty sakrament ma³¿eñski?}
 {604}{}{Czy ty }
-{605}{}{ chcesz, aby }
-{606}{}{ to be your lawfully wedded }
-{607}{}{A wiêc, z mocy prawa pogranicza, og³aszam was mê¿em i ¿on¹. Mo¿esz teraz poca³owaæ pannê m³od¹.}
+{605}{}{ chcesz }
+{606}{}{ byæ twoim prawnie poœlubionym }
+{607}{}{ A wiêc, z mocy prawa pogranicza, og³aszam was mê¿em i ¿on¹. Mo¿esz teraz poca³owaæ pannê m³od¹.}
 {608}{}{A wiêc, z mocy prawa pogranicza, og³aszam was ma³¿eñstwem. Pañstwo m³odzi mog¹ siê teraz poca³owaæ.}
 {609}{}{A wiêc, z mocy prawa pogranicza, og³aszam was ma³¿eñstwem. Mo¿esz teraz poca³owaæ swoj¹ drug¹ po³owê.}
 {612}{}{[Bo przewraca strony w swojej ksi¹¿ce.]}

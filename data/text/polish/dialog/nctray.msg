@@ -58,7 +58,7 @@
 {304}{}{Nia nia.}
 {306}{}{Zróbcie to od razu.}
 {307}{}{Uch nie, dziêki. Ju¿ nie mam na to o choty. Do widzenia.}
-{320}{}{Aiight then...}
+{320}{}{No dobrze...}
 {321}{}{Uch-uch-uch}
 {330}{}{Aj, wiêc tylko IGRASZ z T-Ray'em? No dobra. Zmiataj, kobieto... mam lepsze suki pod rêk¹.}
 {331}{}{A czaz p³ynie, p³ynie, p³ynie... ku przysz³oœci.}
@@ -77,7 +77,7 @@
 {365}{}{Brzmi nieŸle. No to na razie.}
 {375}{}{Chcesz daæ tyle co BISHOP? Cz³owieku, to mnóstwo kapuchy. KUPA dolców. No, a do tego on jest jedn¹ z najwiêkszych szych w Reno, co nie? Jak mu dam tê maszynê, to bêd¹ z tego... korzyœci w NATURZE.}
 {376}{}{Chcesz daæ tyle co BISHOP? Kobieto, to mnóstwo kapuchy. KUPA dolców. No, a do tego on jest jedn¹ z najwiêkszych szych w Reno, co nie? Jak mu dam tê maszynê, to bêd¹ z tego... korzyœci w NATURZE.}
-{377}{}{I'm listening...}
+{377}{}{Zamieniam siê w s³uch...}
 {378}{}{Czy 1000 dolców zmieni twoje zdanie?}
 {379}{}{Czy 750 dolców zmieni twoje zdanie?}
 {380}{}{Czy 500 dolców zmieni twoje zdanie?}
@@ -155,7 +155,7 @@
 {631}{}{Dobrze.}
 {632}{}{Przykro mi, tylko jeœli to JEST interes. PóŸniej T-Ray.}
 {640}{}{Kurde, suko! Da³em ci ju¿ trochê czu³oœci piêæ minut temu! Chcesz mnie ZABIÆ?}
-{641}{}{Now, hold on...}
+{641}{}{Poczekaj no...}
 {642}{}{No chodŸ, muszê siê na³adowaæ i tylko TWOJE czu³oœci mog¹ mi w tym pomóc.}
 {643}{}{No to bez ³aski. Bywaj.}
 {650}{}{Niaa, dokarmiam ju¿ jednego psa, a nie chcê otwieraæ ca³ego schroniska. S¹dz¹c po twoim wygl¹dzie, nie masz nic, co by³oby warte mojego czasu. Podkrêcenie Highwaymana bêdzie kosztowaæ 500 dolców.}

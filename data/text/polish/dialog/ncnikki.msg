@@ -86,7 +86,7 @@
 {294}{}{Proszê obstawiaæ... minimalna stawka 5 ¿etonów. Proszê obstawiaæ...}
 {295}{}{Moja graæ w pa³kera, tak?}
 {296}{}{Ja graæ jak gówno w spodnie.}
-{297}{}{Jaka gra? Mo¿e postawiæ skórkê gekona? Moja ma gek... oooo... œliczne œwiate³ko!}
+{297}{}{Jaka gra? Mo¿e postawiæ skórkê gekona? Moja ma gek... ooooch... œliczne œwiate³ko!}
 {298}{}{Postawiæ 5 ¿etonów?!}
 {299}{}{Postawiæ 15 ¿etonów?}
 {300}{}{Postawiæ 25 ¿etonów?}
@@ -200,7 +200,7 @@
 {510}{}{Wiêc idŸ do diab³a! Ju¿ NIGDY siê do ciebie nie odezwê.}
 {511}{}{£amiesz mi serce. Trzymaj siê, Nikki.}
 {600}{}{Przekupujesz Nikki aby powiedzia³a ci gdzie mo¿e ukrywaæ siê Lloyd.}
-{1210}{}{. Can I help you with... anything?}
+{1210}{}{. Mogê ci w czymœ pomóc?}
 {1214}{}{.}
 {1235}{}{. Chcesz przepuœciæ trochê ¿etonów?}
 {1239}{}{, zabaw siê trochê.}

@@ -9,7 +9,7 @@
 {108}{}{Co mo¿esz mi powiedzieæ o tym miejscu?}
 {109}{}{Co mo¿esz mi powiedzieæ o Marcusie?}
 {110}{}{Nie mam pojêcia o czym ty gadasz, czubie. ZejdŸ mi z oczu.}
-{111}{}{Oooooh...}
+{111}{}{Ooooch...}
 {112}{}{Jestem Franc. Spyta³bym siê, kim ty jesteœ, ale mam to gdzieœ.}
 {113}{}{A, twardziel, co?}
 {114}{}{W porz¹dku. Mi te¿ wisi, kim ty jesteœ.}

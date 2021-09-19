@@ -73,12 +73,12 @@
 {370}{}{Pewnie masz racjê. Niestety, muszê ju¿ iœæ.}
 {380}{}{Prawi wszystkim kazania o trzeŸwoœci, ¿yciu bez grzechu i takich tam, a nie ma nawet pojêcia czym zajmuje siê Tato. Albo nie wie, albo nie chce wiedzieæ.}
 {381}{}{A czym zajmuje siê twój Tato?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmmm. Niech bêdzie, mam jeszcze kilka innych pytañ...}
 {383}{}{To ciekawe. Có¿, muszê ju¿ iœæ.}
 {390}{}{Pêdzi bimber, handluje broni¹, zabija ludzi, którzy próbuj¹ go or¿n¹æ... to co ka¿da g³owa rodziny. Mama bardzo by siê wkurzy³a, gdyby wreszcie przejrza³a na oczy. A zw³aszcza, jakby znalaz³a tê aparaturê destylacyjn¹.}
 {391}{}{Jak bardzo by siê wkurzy³a?}
 {400}{}{Na tyle, ¿eby rozwaliæ to wszystko w drobny mak... co najmniej. Potem zabra³aby siê za nas - kazaniom nie by³o by koñca. He he he.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Ciekawe. Mam jeszcze kilka pytañ...}
 {402}{}{Hmmmmm. Dziêki.}
 {410}{}{Richard? No wiesz, znaleŸli go martwego w rynsztoku, jak jednego z tych pieprzonych æpunów. Wszystko wskazuje na to, ¿e ktoœ szprycowa³ go prochami, dopóki biedak nie przesta³ oddychaæ.}
 {411}{}{'Ktoœ' szprycowa³ go prochami? Sk¹d pewnoœæ, ¿e to on sam nie przedawkowa³ przypadkiem?}

@@ -45,7 +45,7 @@
 {283}{}{Ja czynie.}
 {290}{}{(Uœmiecha siê) No dobra, jesteœmy umówieni. Stuart jestem, zwykle mówi¹ na mnie Stuart Malutki, ale to tylko dlatego... no, musisz tylko wiedzieæ, ¿e jestem DU¯Y wszêdzie tam, gdzie to jest wa¿ne. A ty pó³g³ówku to jakieœ imiê masz?}
 {291}{}{Ja }
-{292}{}{Me... uh... me...}
+{292}{}{Ja... Yyy... Ja...}
 {293}{}{Ja Du¿y Stu.}
 {296}{}{[IdŸ sobie w poszukiwaniu przygód.]}
 {300}{}{Ty Ma-ja-mi, tak? "Miami"... PODOBA mi siê. PODOBA. No dobra, chodŸmy zadaæ jakieœ obra¿enia.}
@@ -163,7 +163,7 @@
 {530}{}{A co ka¿e ci s¹dziæ, ¿e kiedykolwiek odwiedzi³em cyrk, nie wspominaj¹c ju¿ o byciu zniewolonym przezeñ?}
 {531}{}{Uch... no, wiem, ¿e wielu mieszkañców Nowego Reno zachowuje siê jakby byli z cyrku i wydawa³o mi siê...}
 {540}{}{Wydawa³o siê TOBIE, ¿e poniewa¿ jest osob¹ niskiego wzrostu, to jedyn¹ mozliw¹ dla mnie drog¹ kariery jest droga na czubek namiotu?}
-{541}{}{Uh... well, now...}
+{541}{}{Yyy... có¿, teraz...}
 {550}{}{Jedno KRÓTKIE spojrzenie na mnie wystarczy³o ci do okreœlenia ca³ego mojego ¿ycia. Nigdy wczeœniej nie zdarzy³o ci siê poznaæ osoby mojego wzrostu, która zrobi³aby karierê *mened¿era bokserskiego*.}
 {551}{}{Przepraszam. To by³o obraŸliwe z mojej strony.}
 {560}{}{A dlaczego mia³bym byæ obra¿ony? Tylko dlatego, ¿e wszyscy w tej grze maj¹ zwyczaj dokonywania natychmiastowych os¹dów innych BNów, wy³¹cznie na podstawie ich wygl¹du fizycznego?}
@@ -176,7 +176,7 @@
 {591}{}{A ciebie zdziwi³oby jak wielu mê¿czyzn te¿ tak uwa¿a.}
 {600}{}{Patrz¹c na twoje absurdalnie przeroœniête miêsnie, twój kompleks dzielnego Mad-Maxxa i twój pozbawiony wyobraŸni rozdzia³ punktów cech doszed³em do wniosku, ¿e jesteœ typowym, mini-maksuj¹cym chojrakiem.}
 {601}{}{Patrz¹c na twoje przeroœniête cyce, twoj¹ bezsensown¹ manierê krêcenia ty³kiem przy chodzeniu, twój pozbawiony wyobraŸni rozdzia³ punktów cech i doszed³em do wniosku, ¿e jesteœ typow¹ mini-maksuj¹c¹ postaci¹ z kompleksem Laury Kroft... "po³ergamerem".}
-{602}{}{I...}
+{602}{}{Ja...}
 {610}{}{Jeœli wolisz tak to nazwaæ, to jesteœ niczym wiêcej ni¿ typow¹ "mêsk¹ postaci¹ z gry RPG", jedn¹ z WIELU takich postaci, które zamieszkuj¹ ten œwiat ca³ymi stadami.}
 {611}{}{Jeœli wolisz tak to nazwaæ, to jesteœ niczym wiêcej ni¿ typow¹ "¿eñsk¹ postaci¹ z gry RPG", jedn¹ z WIELU takich postaci, które zamieszkuj¹ ten œwiat ca³ymi stadami.}
 {612}{}{No wiêc...}

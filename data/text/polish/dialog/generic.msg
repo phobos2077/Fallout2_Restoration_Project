@@ -40,7 +40,7 @@
 {920}{}{Wpadasz na szcz¹tki Nagora, który przyp³aci³ ¿yciem próbê uratowania swojego psa.}
 {921}{}{Nagor umar³ próbuj¹c przynieœæ cia³o psa z powrotem do wioski.}
 {930}{}{Auuuuuu!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
+{950}{}{Poœwiêcasz trochê czasu na trenowanie kilku ciosów. Twoja umiejêtnoœæ walki bez broni roœnie.}
 {951}{}{Walcz¹cy kretoszczur zadaje œmiertelny cios.}
 {952}{}{Pojedynek dobiega koñca.}
 {1000}{}{Test na obywatelstwo - Zd.}

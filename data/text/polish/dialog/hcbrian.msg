@@ -26,7 +26,7 @@
 {125}{}{Je¿eli ta maszyna ma prêty uranowe, to mo¿esz mieæ wiêcej ni¿ wystarczaj¹co energii na potrzeby tego miasta ORAZ Nowego Reno, i nawet nie zauwa¿ysz ró¿nicy. A teraz odkrêcaj kurek.}
 {126}{}{Ale... ale... on cierpi.}
 {127}{}{A wiêc nie ma sposobu, abyœ uczyni³ kilka usprawnieñ?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
+{128}{}{[Patrzy ponuro na wskaŸniki i cicho mówi.] To pod³e.}
 {129}{}{Ta. Na razie!}
 {130}{}{Hej! Nie ruszaj nic! To delikatny sprzêt! Wynocha! Na zewn¹trz, ju¿! No ju¿! Sio do domu!}
 {131}{}{Ooooch! Guzzzzyky!}

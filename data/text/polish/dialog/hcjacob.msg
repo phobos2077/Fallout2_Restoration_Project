@@ -29,8 +29,8 @@
 {150}{}{Nie mogê siê zdecydowaæ.}
 {151}{}{Lubiê ich!}
 {152}{}{W takim razie opowiem ci prawdziw¹ historiê.}
-{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
- and forced everyone under his rule. }
+{153}{}{Cz³owiek imieniem Jacob -0 nazwano mnie po nim -- za³o¿y³ to miejsce. Potem przyszed³ mutant Marcus
+ i zmusi³ wszystkich do uleg³oœci pod swoj¹ rêk¹. }
 {154}{}{Wystarczy. Jesteœ szalony. ¯egnam.}
 {155}{}{Powiedz coœ wiêcej.}
 {156}{}{Mo¿e je¿eli opowiem ci prawdziw¹ historiê, to siê zdecydujesz.}
@@ -69,7 +69,7 @@
 {189}{}{Nie ma problemu. To i tak wszystko mutanty. Ale na litoœæ bosk¹, zrób to po cichu.}
 {190}{}{Rozumiem. Mam kilka pytañ.}
 {191}{}{Rozumiem. Do zobaczenia.}
-{192}{}{More questions?}
+{192}{}{Wiêcej pytañ?}
 {193}{}{Mam trochê rudy do oczyszczenia, ale nie chcê p³aciæ cen rafinerii.}
 {194}{}{Co mo¿esz mi powiedzieæ o Broken Hills?}
 {195}{}{Chcê wymieszaæ trochê chemikaliów.}

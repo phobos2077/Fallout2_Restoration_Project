@@ -104,7 +104,7 @@
 {463}{}{Ja szukaæ... um. Ja znowu zapomnieæ.}
 {464}{}{OdejdŸ}
 {465}{}{No dobrze. Jak mo¿esz mi pomóc?}
-{466}{}{Well, I had some questions...}
+{466}{}{Có¿, mam jeszcze kilka pytañ...}
 {467}{}{Wiesz co siê sta³o z synem pana Wrighta? Co Jules?}
 {468}{}{Julesie, widzia³eœ mój samochód? Jeszcze chwilê temu sta³ tu zaparkowany, a teraz go nie ma.}
 {469}{}{S³uchaj... "Jules", czy tak? Z pewnoœci¹ spodziewasz siê czegoœ po tej rozmowie, wiêc powiedz mi to prosto w twarz. Czego TY szukasz?}
@@ -140,7 +140,7 @@
 {535}{}{Rodziny trzymaj¹ wszystko w garœci. Nie LUBI¥ k³opotów w Reno, bo to szkodzi zyskom z turystów, a to oznacza mniej pieniêdzy dla nich. Nie rób k³opotów i dotrzymuj wszystkich zak³adów, a utrzymasz siê z dala od Golgoty.}
 {537}{}{Na Golgocie?}
 {545}{}{Tia, tego cmentarza za miastem. To tam l¹duj¹ d³u¿nicy i ludzie, którzy weszli w drogê rodzinom. Po prostu wieszaj¹ ich na s³upach i zostawiaj¹, by umarli powoli na s³oñcu. Nie chcia³bym tak umrzeæ. A œmierdzi tam jak diabli.}
-{547}{}{Interesting. Say, I had some other questions...}
+{547}{}{Ciekawe. Mam jeszcze kilka pytañ...}
 {548}{}{Brzmi wspaniale. Dziêki za informacjê.}
 {555}{}{Widzisz, KOLEJNA rzecz, jak¹ musisz wiedzieæ o Nowym Reno to to, ¿e nic tu nie jest za darmo. A skoro tak, to uwa¿nie przygl¹daj siê towarom.}
 {556}{}{Widzisz, tego rodzaju info nie jest tanie. Masz kasê? Jeœli tak, to s³ucham uwa¿nie.}
@@ -277,7 +277,7 @@
 {1120}{}{Po takiej uwadze lepiej sobie pójdê.}
 {1121}{}{Có¿ za elokwencja. Twoje s³owa brzmi¹ jak poezja - u¿ycie wyrazu "marchewka" przywo³uje wyj¹tkowo sugestywne wyobra¿enia. DZIÊKUJÊ.}
 {1130}{}{Jakby by³a z ciebie jakaœ ³adna kobieta, to mo¿e, w przeciwnym razie bêdziesz potrzebowaæ zgody Mordino. Obie te rzeczy nie nale¿¹ do prawdopodobnych.}
-{1132}{}{I see. Say, I had some other questions...}
+{1132}{}{Rozumiem. Powiedzmy, ¿e mam jeszcze kilka pytañ...}
 {1145}{}{Jeœli chcesz broni, to idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których w ¿yciu jeszcze nawet nie zdarzy³o ci siê ZOBACZYÆ. Powiedz mu, ¿e ciê przys³a³em.}
 {1146}{}{Kumam bracie, kumam. Jak chcesz najwy¿szej jakoœci, to idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których jeszcze w ¿yciu nawet nie WIDZIA£EŒ. Powiedz mu, ¿e ciê przys³a³em.}
 {1147}{}{Kumam siostro, kumam. Jak chcesz najwy¿szej jakoœci, to idŸ do mojego cz³owieka Eldridge'a w Zachodniej Dzielnicy. On ma takie zabawki do zabijania, których jeszcze w ¿yciu nawet nie WIDZIA£AŒ. Powiedz mu, ¿e ciê przys³a³em.}
@@ -344,7 +344,7 @@
 {1362}{}{...widzia³em paru goœci jak zabierali samochód parê chwil temu. Ale wiesz, by³o ich zbyt wielu, ¿ebym móg³ ich zatrzymaæ, no i...}
 {1363}{}{Zamknij siê i zabierz mnie tam, dok¹d poszli. Teraz.}
 {1364}{}{Niewa¿ne. Poszukam ich bez twojej pomocy.}
-{1375}{}{Okay, okay...}
+{1375}{}{Dobra, dobra...}
 {1376}{}{A tak swoj¹ droga... Julesie? Jeœli tylko Ÿle siê POPATRZYSZ na tego dzieciaka po drugiej stronie ulicy, to wrócê i zabijê ciê tyle razy, ¿e bêdziesz potrzebowa³ kilku testamentów. Zrozumiano? A teraz prowadŸ.}
 {1377}{}{Jeszcze jedno Jules: jeœli tylko us³yszê, ¿e zadziera³eœ z Codym, zabijê ciê. A teraz zabierz mnie tam, gdzie jest mój samochód.}
 {1378}{}{(IdŸ za nim.)}
@@ -378,6 +378,6 @@
 {1486}{}{A "Szramiasty Jimmy J"? Gdzie mogê go znaleŸæ?}
 {1487}{}{Dobrze... wiesz co, mam kilka innych pytañ...}
 {1500}{}{Powiedz temu skurwielowi, ¿e jak bêdzie dalej powtarzaæ takie bzdury, to ZABIJÊ go, zanim zrobi to stary Wright. Wiesz, kto tak mówi? Tak mówi cz³owiek, który siê BOI, oto, kto tak mówi.}
-{1501}{}{I see... say, I had some other questions...}
+{1501}{}{Rozumiem... Powiedzmy, ¿e mam jeszcze kilka pytañ...}
 {1502}{}{Kumam. Pójdê to sprawdziæ.}
 {2000}{}{To jest SAMOCHÓD? Kuuuurde.}

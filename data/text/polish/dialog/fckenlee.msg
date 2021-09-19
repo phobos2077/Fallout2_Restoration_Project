@@ -81,7 +81,7 @@
 {180}{}{Z pewnoœci¹ tak. A ja z takimi ludŸmi mam codziennie do czynienia. Niestety!}
 {181}{}{Có¿, mam jeszcze kilka pytañ.}
 {182}{}{Och, biedaku. Do widzenia.}
-{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
+{183}{}{Z pewnoœci¹ nasze paliwo znalaz³o godnego w³aœciciela. S¹dzê, ¿e mogê powierzyæ ci nasz sekret. W pomieszczeniu za mn¹ zosta³o wy³¹czone pole si³owe broni¹ce dostêpu do du¿ego komputera. Wpisz has³o "CSPDMSHR-Shih-huang-ti-X9372", a po³¹czysz siê z Cesarskim Komputerem. Cesarz bêdzie w stanie przetransportowaæ nasze paliwo tam, gdzie potrzebujesz.}
 {184}{}{Dziêkujê.}
 {185}{}{Stra¿! Wróg jest miedzy nami! Stra¿!}
 {186}{}{Naprawdê? Mo¿e wiêc chcesz zmieniæ strony? Przyrzekam nasz¹ pomoc, je¿eli zgodzisz siê zabiæ UKC-9.}

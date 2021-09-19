@@ -66,7 +66,7 @@
 {514}{}{NieŸle!}
 {515}{}{Jak to siê sta³o?}
 {516}{}{Ups.}
-{517}{}{No whammies, no whammies. Stop!}
+{517}{}{Bez skuchy, bez skuchy. Zatrzymaj siê!}
 {518}{}{Nied³ugo przegram w tej grze w³asne imiê.}
 {519}{}{Potrzebujê tylko jednej du¿ej wygranej.}
 {520}{}{Cyfra!}

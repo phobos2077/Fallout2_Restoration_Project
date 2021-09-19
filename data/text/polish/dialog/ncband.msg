@@ -60,7 +60,7 @@
 {921}{}{A moja wyobraŸnia utrwali moment ten}
 {923}{}{Tylko ty jedna mo¿esz daæ}
 {925}{}{::pogwizduje::}
-{930}{}{I'll... be with yoooou}
+{930}{}{Bêdê... Tuuuu z tob¹}
 {933}{}{Oooch}
 {935}{}{Usta choæ na moment}
 {937}{}{Utrwali moment ten}

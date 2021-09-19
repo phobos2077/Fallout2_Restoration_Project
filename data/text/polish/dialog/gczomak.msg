@@ -42,7 +42,7 @@
 {242}{}{Dobra. Do widzenia.}
 {250}{}{No. Na pewno. Wynocha.}
 {251}{}{Skoro tak twierdzisz. Do widzenia.}
-{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
+{260}{}{A, ha, ha, tak. Wiedzia³em. No i jak, zda³em? }
 {261}{}{Jasne, a teraz mnie wpuœæ.}
 {262}{}{Nie, obla³eœ i teraz muszê ciê zg³osiæ do raportu.}
 {270}{}{Dobra, wchodŸ.}

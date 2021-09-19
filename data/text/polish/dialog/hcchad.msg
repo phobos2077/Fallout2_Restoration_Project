@@ -22,9 +22,9 @@
 {138}{}{Ale nudy.}
 {139}{}{Mam wiêcej pytañ.}
 {140}{}{Dziêki. Na razie.}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{Opowiedzieæ ci o Broken Hills? Có¿... Przeprowadzi³em siê tu kilka lat temu. Dosta³em pracê u Billa --
+ to nasz Zaopatrzeniowiec -- i przenios³em siê tu, gdzie ¿yjê do dzisiaj. Jestem podw³adnym Marcusa i Billa, ale
+ odpowiadam za utrzymanie miasta.}
 {142}{}{Mam wiêcej pytañ.}
 {143}{}{Bywaj.}
 {144}{}{Na przyk³ad?}

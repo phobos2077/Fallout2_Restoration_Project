@@ -74,7 +74,7 @@
 {401}{}{CO? Oszukujesz!}
 {402}{}{Akmat?}
 {403}{}{Nie potrafisz przegrywaæ.}
-{404}{}{And... checkmate!}
+{404}{}{I... szach mat!}
 {405}{}{Szamak!}
 {406}{}{::szelest:: Zabiæ roœlina! ::klik-klak-klik::}
 {407}{}{Potrafisz wyrolowaæ radskorpiona, który jest inteligentniejszy od ciebie.}

@@ -52,7 +52,7 @@
 {267}{}{::Gwi¿d¿e::}
 {268}{}{Te twoje nogi naprawdê s¹ takie d³ugie?}
 {269}{}{Hej, piêkna, czy twoja dupcia potrzebuje, ¿eby ktoœ siê ni¹ zaopiekowa³?}
-{270}{}{You got fries to go with that shake, beautiful?}
+{270}{}{Masz frytki do tego shake'a, piêkna?}
 {271}{}{Mo¿e bêdzie dzisiaj tañczyæ.}
 {272}{}{Widzia³eœ jej ostatni film? Mówiê ci, cz³owieku, GOR¥CY.}
 {273}{}{Przepraszam. Muszê iœæ na chwilê do ³azienki, no tego i uczesaæ siê.}
@@ -298,7 +298,7 @@
 {608}{}{To miasto jest wspania³e... nie licz¹c turystów.}
 {609}{}{To miasto jest wspania³e... nie licz¹c ³owców niewolników.}
 {610}{}{To miasto jest wspania³e... nie licz¹c dziwek i alfonsów.}
-{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{611}{}{Podobno na pó³noc od Nowego Reno przeprowadza siê na niewolnikach testy narkotyków.}
 {612}{}{Golgotha le¿y na po³udnie od Reno, na pustyni.}
 {613}{}{Nie mam bogactw, ale mam bogat¹ duszê.}
 {614}{}{To nie bieda, to tylko pech.}
@@ -338,7 +338,7 @@
 {659}{}{To miasto jest wspania³e... nie licz¹c turystów.}
 {660}{}{To miasto jest wspania³e... nie licz¹c ³owców niewolników.}
 {661}{}{To miasto jest wspania³e... nie licz¹c dziwek i alfonsów.}
-{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{662}{}{Podobno na pó³noc od Nowego Reno przeprowadza siê na niewolnikach testy narkotyków.}
 {663}{}{Golgotha le¿y na po³udnie od Reno, na pustyni.}
 {664}{}{Nie mam bogactw, ale mam bogat¹ duszê.}
 {665}{}{To nie bieda, to tylko pech.}
@@ -377,7 +377,7 @@
 {700}{}{Ktoœ tu bêdzie mia³ dziœ w nocy niez³¹ rozrywkê!}
 {701}{}{ZnajdŸ se dziwkê, zabaw siê.}
 {702}{}{Pani Bishop to dopiero ma ³adniusi ty³eczek.}
-{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
+{703}{}{Podobno na pó³noc od Nowego Reno przeprowadza siê na niewolnikach testy narkotyków.}
 {704}{}{Golgotha le¿y na po³udnie od Reno, na pustyni.}
 {705}{}{Nie mam bogactw, ale mam bogat¹ duszê.}
 {706}{}{To nie bieda, to tylko pech.}

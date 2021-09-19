@@ -61,5 +61,5 @@
 {291}{}{Chcesz trochê pokombinowaæ z tym paliwem do miotacza p³omieni?}
 {292}{}{Masz tu paliwo do miotacza p³omieni. Mo¿esz z tym coœ zrobiæ?}
 {301}{}{Daj mu poganiacz byd³a... tylko upewnij siê, ¿e z³apie go za RÊKOJEŒÆ.}
-{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
+{302}{}{Daj mu swoj¹ wspomagan¹ rêkawicê BeatCo "Bigger Frigger".}
 {400}{}{Moja zabiæ Al. Moja lepiej ju¿ iœæ.}

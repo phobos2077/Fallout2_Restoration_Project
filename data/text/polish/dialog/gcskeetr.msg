@@ -94,7 +94,7 @@
 {362}{}{Widzê, ¿e odpowiedzi masz z góry przygotowane. Mam nadziejê, ¿e masz odpowiedŸ na pytanie czy istnieje ¿ycie po œmierci. A nawet jeœli nie, to zaraz j¹ poznasz...}
 {363}{}{Muszê nad tym pomyœleæ. Do widzenia.}
 {370}{}{Widzê, ¿e masz przy sobie niez³y zestaw narzêdzi. Przydatny, nie? Dam ci za niego kontroler baterii paliwowych.}
-{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
+{371}{}{No czeœæ! Widzê, ¿e masz ju¿ mój zestaw naprawczy. S¹ i c¹¿ki -- lubiê je najbardziej. To jak? Handlujemy?}
 {372}{}{Umowa stoi.}
 {373}{}{Na razie nie. Jeszcze mi siê ten zestaw przyda. Do widzenia.}
 {380}{}{To by³a dobra wymiana. Po prostu wsadŸ to cudo do swojej bryki i ju¿ mo¿esz jechaæ!}
@@ -153,14 +153,13 @@
 {627}{}{Jak dla mnie za drogo. Wrócê jak bêdê mieæ wiêcej kasy.}
 {630}{}{Na pewno mam poprawiæ tê broñ rêczn¹? Mogê ja pod³adowaæ za $}
 {631}{}{Jasne.}
-{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye.] Well, this is a mite challengin', but I think I can fix this up real nice
- for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
- workbench and locks it in a really big vise.]}
+{640}{}{[Skeeter bierze twój sprzêt i patrzy na niego z dziwnym b³yskiem w 
+ oku.] To dopiero wyzwanie! Ale myœlê, ¿e mogê zrobiæ z tego dla ciebie prawdziwe cudo. Usi¹dŸ sobie wygodnie i poczekaj chwilê. [Skeeter bierze broñ na
+  biurko i ustawia j¹ w wielkim imadle.]}
 {641}{}{W porz¹dku.}
-{650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
- don't know exactly what he's doing but that weird chuckle and all the pounding are
- making you nervous.]}
+{650}{}{[Czekasz, a tymczasem widzisz jak Skeeter pracuje nad twoj¹ broni¹. Nie
+ bardzo wiesz co robi, ale to dziwne zgrzytanie i stukanie
+ zaczyna ciê denerwowaæ.]}
 {651}{}{Czekaj...}
 {660}{}{[Jeszcze wiêcej zgrzytów i walenia, podczas gdy ty nadal czekasz...]}
 {661}{}{[Gwi¿d¿esz bez sk³adu i zaczynasz bawiæ siê w cienie na œcianie...]}

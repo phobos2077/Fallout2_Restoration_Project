@@ -71,7 +71,7 @@
 {261}{}{B³agam, zostaw mnie w spokoju. Mam ju¿ w³aœciciela.}
 {262}{}{B³agam ciê: wiesz mo¿e co siê sta³o z moimi dzieæmi...? Zabrali je inni ³owcy i sprzedali gdzieœ na pó³nocy.}
 {263}{}{Proszê... Nie wolno mi z nikim rozmawiaæ.}
-{264}{}{Please... let me be. My master will be back soon.}
+{264}{}{Proszê... zostaw mnie. Mój pan nied³ugo wróci.}
 {265}{}{Jeœli mój pan dowie siê, ¿e rozmawiam z ³owc¹ niewolników, ka¿e mnie zbiæ.}
 {266}{}{Ja ju¿ mam pana. Nie powinniœmy rozmawiaæ.}
 {267}{}{Nie mogê z tob¹ rozmawiaæ. Mam pilne obowi¹zki.}
@@ -88,7 +88,7 @@
 {287}{}{Jak mój pan dowie siê o naszej rozmowie, bêdzie bardzo z³y.}
 {288}{}{Mój pan jest bardzo dobry. Nie bije mnie zbyt czêsto.}
 {289}{}{Nie brakuje mi rodziny. Mój pan jest bardzo dobry.}
-{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
+{290}{}{Pewnego dnia z wioski na pó³nocy zosta³em wywiezionny z wioski plemiennej na pó³noc st¹d. ¯ycie tutaj jest o wiele... Lepsze.}
 {291}{}{Z³apali mnie ko³o Nory.}
 {292}{}{Nie mogê z tob¹ teraz rozmawiaæ. Mam wiele rzeczy do zrobienia.}
 {293}{}{Muszê skoñczyæ pracê zanim wróci mój pan.}

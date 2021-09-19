@@ -32,8 +32,8 @@
 {131}{}{[dalej]}
 {132}{}{W porz¹dku. Wróæ jutro po odbiór towaru.}
 {133}{}{Wspaniale. Na razie.}
-{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
- should do it. You want it or not?}
+{134}{}{¯yczê szczêœcia w poszukiwaniu innej rafinerii. Oczyszczanie rudy to niebezpieczny proces -- zadanie
+ dla profesjonalistów. Kupujesz czy nie?}
 {135}{}{Tak.}
 {136}{}{Nie.}
 {137}{}{Dobra. Nie masz tu czego szukaæ. WyjdŸ st¹d, ¿ebyœmy mogli wróciæ do pracy.}

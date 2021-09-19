@@ -24,6 +24,6 @@
 {242}{}{[Zabij wszystkich i niech Bóg ich os¹dzi.]}
 {250}{}{Przykro mi. Nie mo¿esz têdy wyjœæ.}
 {251}{}{To wyjœcie jest dla robotników.}
-{252}{}{It takes too much effort to set up the ramps for just one person.}
+{252}{}{Za du¿o wysi³ku wymaga³oby ustawienie ramp dla tylko jednej osoby.}
 {253}{}{Je¿eli chcesz st¹d wyjœæ, zapytaj Vegeira.}
 {260}{}{Oki Doki.}

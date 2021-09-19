@@ -86,7 +86,7 @@
 {185}{}{Có¿... Na razie.}
 {186}{}{W tak ma³ej osadzie wszyscy wiedz¹ wiêcej o ka¿dym, ni¿ ten by sobie tego móg³ ¿yczyæ. Wiêc jak bêdzie?}
 {187}{}{Ile dasz mi za procesor?}
-{188}{}{$1000. Tu i teraz. Chcesz, czy nie?}
+{188}{}{$1000. Tu i teraz. Kupujesz czy nie?}
 {189}{}{Dobra, biorê. Oto modu³.}
 {190}{}{Myœlê, ¿e na razie nie chcê tego sprzedawaæ.}
 {191}{}{Myœlisz, ¿e dostaniesz lepsz¹ ofertê? Myœlê, ¿e nie znajdziesz lepszej ceny. Ale to twój czas.}

@@ -12,7 +12,7 @@
 {124}{}{Kiedy twej skórze brakuje tego "wyj¹tkowego po³ysku"...}
 {125}{}{Wybierz Piwo "J¹drowy £yk"!}
 {143}{}{...Koci¹ £apkê!}
-{144}{}{When you got that itch that you NEED to scratch...}
+{144}{}{Kiedy czujesz to pragnienie, które MUSISZ ugasiæ...}
 {145}{}{IdŸ do Kociej £apki!}
 {163}{}{...Bronie z Nowego Reno!}
 {164}{}{Kiedy chcesz kogoœ zabiæ z bezpiecznej odleg³oœci...}

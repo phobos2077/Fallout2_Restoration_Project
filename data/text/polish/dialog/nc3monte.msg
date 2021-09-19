@@ -106,8 +106,8 @@
 {343}{}{(Monte u¿ywa swojej zwyk³ej talii! Musisz ukraœæ mu tê drug¹ taliê, by podmiana odnios³a skutek.)}
 {344}{}{Ty w³o¿yæ rêkawa ty nie gra uczciwy}
 {345}{}{Uch... szczêsna lewa}
-{346}{}{Uh... Middle of th'road}
-{347}{}{Uh... Rightie tightie}
+{346}{}{Uch... Œrodek drogi}
+{347}{}{Uch... Prawa bez obawy.}
 {348}{}{Ty przeklêty OSZUŒCIE. Podmieni³eœ kartê. Oddaj mi moje pieni¹dze, albo zabijê ciê na miejscu.}
 {349}{}{Ta w twoim rêkawie.}
 {350}{}{Uch, ta po lewej.}
@@ -159,7 +159,7 @@
 {431}{}{W porz¹dku Monte. Jesteœmy kwita.}
 {435}{}{(Na twój widok Monte marszczy brwi) S³uchaj, dziœ nie ma ¿adnego grania, dobra? Znikaj.}
 {436}{}{Mogê kupiæ tê kartê, któr¹ mi kiedyœ pokaza³eœ?}
-{437}{}{I wanted some information...}
+{437}{}{Porzebowa³em informacji...}
 {438}{}{No dobra Monte. Idê sobie... ale wrócê.}
 {440}{}{Nie. Nie zamierzam siê jej pozbywaæ. Koniec, kropka. To AUTENTYCZNA pami¹tka sprzed wojny... ma³y kawa³ek historii. NIE MA MOWY.}
 {441}{}{Chcesz mi z³o¿yæ KOLEJN¥ ofertê? Mówi³em ci ju¿, ¿e jej nie sprzedam.}

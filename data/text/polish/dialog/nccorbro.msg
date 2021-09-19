@@ -221,7 +221,7 @@
 {758}{}{Zignoruj go i pójdŸ sobie}
 {759}{}{Uspokój siê. Po prostu nie chcê krêciæ filmu dzisiaj, dobra? Raany. Mo¿e lepiej wrócê, jak siê ju¿ uspokoicie.}
 {760}{}{Walcie siê ch³opaki. Nie potrzebujê tego ca³ego gówna. Jestem gwiazda! Wielka, jasna, b³yszcz¹c¹ gwiazda!}
-{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
+{765}{}{Hej... wszystko w porz¹dku? Wygl¹dasz odrobinê jakby nie z tego wymiaru. Nie jesteœ chyba na prochach, co? Bo ja ciê NIE bêdê filmowaæ w tym stanie.}
 {766}{}{Ja chcieæ filmowaæ TERAZ ma³a cz³owieku}
 {768}{}{Nie jesteœ moim szefem! Chcê siê pieprzyæ, a to jest mój wieki chuj, wiêc niech siê wszyscy NATYCHMIAST przygotuj¹ do robienia tego pierdolonego filmu!}
 {769}{}{Nie jesteœ moim szefem! Chcê siê pieprzyæ, a to jest moja wielka cipa, wiêc niech siê wszyscy NATYCHMIAST przygotuj¹ do robienia tego pierdolonego filmu!}

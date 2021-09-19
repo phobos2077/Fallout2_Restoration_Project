@@ -5,10 +5,10 @@
 {152}{}{Kiedy siê porusza to jak patrzeæ na ocean musku³ów.}
 {153}{}{Patrzy na twoje ucho wyg³odnia³ym wzrokiem.}
 {154}{}{Jego twarz wygl¹da jak surowy kawa³ miêsa.}
-{158}{}{Hurgghhh}
+{158}{}{Hargghhh}
 {159}{}{Gnhrrh}
-{160}{}{Mike smash.}
-{161}{}{I really like vanilla ice cream.}
+{160}{}{Mike zgnieœæ.}
+{161}{}{Bardzo lubiê lody waniliowe.}
 {162}{}{Gnarrrr}
 {163}{}{Nrrrarh}
 {164}{}{Mike like ears.}

@@ -401,12 +401,12 @@
 {1023}{}{Zabójca dzieci nie bêdzie nasz kumpel.}
 {1025}{}{Przez ciebie k³opoty w Klamath. Idziemy sobie.}
 {1026}{}{Przez ciebie k³opoty w mojej rodzinnej wiosce. Idziemy sobie.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Niech duchy nas wspieraj¹.}
+{2301}{}{My i ja idziemy.}
 {2302}{}{W porz¹dku, spokojnie.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Nie obawiaj siê. My i ja idziemy.}
 {2304}{}{Myœlimy - weŸ sobie trochê wolnego. Odpocznij. Koœæ Dziadunia mówi - ty za bardzo siê starasz. Musisz wolniej iœæ przez ¿ycie.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{My idziemy i dajemy czadu.}
 {2306}{}{My i ja pójdziemy tutaj.}
 {2307}{}{Spokojnie, ju¿ idziemy.}
 {3000}{}{Na pó³noc.}
@@ -476,9 +476,9 @@
 {3082}{}{Dobrze byæ znowu w domu.}
 {3083}{}{Tyle m³odych dziewic, którym mo¿naby opowiedzieæ o naszych podró¿ach - a tak ma³o czasu.}
 {3084}{}{My musimy porozmawiaæ z super zielem. Niech œwiat przep³ywa w kó³ko i w kó³ko.}
-{3086}{}{Take care, fren.}
+{3086}{}{Trzymaj siê, kumpel.}
 {3087}{}{My i ja ¿yczymy ci szczêœcia.}
-{3088}{}{Thanks again for everything, fren.}
+{3088}{}{Dziêkujemy Ci jeszcze raz za wszystko, kumpel.}
 {3090}{}{To tu jest nasza wioska. My i ja pójdziemy porozmawiaæ z przyjació³mi.}
 {3091}{}{My i ja pójdziemy jeszcze raz porozmawiaæ z przyjació³mi zanim pójdziemy.}
 {3100}{}{[KONTYNUUJ]}

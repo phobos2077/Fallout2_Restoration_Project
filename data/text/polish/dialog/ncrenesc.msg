@@ -56,7 +56,7 @@
 {309}{}{Masz na myœli coœ jakby sprzedawanie prochów synowi Wrightów?}
 {310}{}{Wracaj do swojej roboty.}
 {320}{}{(Renesco gapi siê na ciebie. Wygl¹da jakby ciê w myœlach rozbiera³, a potem odrywa³ ci po kolei wszystkie koñczyny)}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{W takim razie zapomnijmy o sprawie. Mam jeszcze kilka pytañ...}
 {322}{}{A wiêc niewa¿ne.}
 {330}{}{(Renesco patrzy na ciebie z niesmakiem) Tak. W SKLEPIE. To nie jest 20. wiek, w którym prochy by³y sprzedawane przez naro¿ne robactwo ¿yj¹ce w strachu przed w³adzami.}
 {331}{}{No dobrze, a wiêc...}
@@ -163,7 +163,7 @@
 {632}{}{Wys³awiasz siê jak cz³owiek wyedukowany. S³ysza³eœ mo¿e o GECKu albo o miejscu zwanym Krypt¹ 13?}
 {634}{}{Ju¿ nic. Niewa¿ne. }
 {640}{}{(Renesco wyrywa ci z r¹k okulary i zak³ada je. Jego oczy siê rozszerzaj¹) S³odkie Reno! A wiêc TAK wygl¹da ten przeklêty sklep (Marszczy siê) Co za burdel... a co to le¿y na tych pó³kach? Wygl¹da jak braminie gówno.}
-{641}{}{You're welcome...}
+{641}{}{Ca³a przyjemnoœæ po mojej stronie...}
 {642}{}{Baw siê dobrze. }
 {650}{}{Fffpph? Ja... hmmm... uch... sk¹d je masz?}
 {651}{}{No wiêc, by³ sobie taki ma³y radskorpion, rozumiesz, i by³ taki naukowiec, który go tresowa³, no i... wiesz co? Nawet ja w to nie wierzê. Po prostu je zatrzymaj, dobrze?}
@@ -174,8 +174,8 @@
 {671}{}{Co powiesz na rabat?}
 {672}{}{Nie przejmuj siê tym... wiesz co, po prostu noœ je i niech ci dobrze s³u¿¹, dobrze? Mam kilka innych pytañ...}
 {673}{}{Kiedyœ - a ten dzieñ mo¿e nigdy nie nadejœæ - wezwê ciê, abyœ mi s³u¿y³. Ale zanim ten dzieñ nadejdzie, przyjmij te okulary jako dar z okazji œlubu mojej córki.}
-{680}{}{Ehhh...}
-{681}{}{Errr...}
+{680}{}{Echh...}
+{681}{}{Eeee...}
 {682}{}{No wiêc...}
 {683}{}{Dobrze! Dobrze! Dam ci rabat! Pfft.}
 {684}{}{No. Tylko malutki rabacik. No...}

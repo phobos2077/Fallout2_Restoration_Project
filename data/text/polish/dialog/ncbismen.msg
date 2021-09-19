@@ -42,7 +42,7 @@
 {281}{}{Uwielbiam ciê za "Majtkix".}
 {282}{}{Uwielbiam ciê za film "Ten wibrator 2".}
 {283}{}{Jestem wielkim fanem twojej roli z "Archiwum XXX".}
-{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
+{284}{}{Uwielbiam ciê za "Kryptê 69". To by³ inspiruj¹cy film. Kinematograficzne tour-de-force.}
 {285}{}{::Gwi¿d¿e::}
 {295}{}{Chcesz poszukaæ swojego ¿ywego towaru na Golgocie? Od³ó¿ tê broñ.}
 {296}{}{Od³ó¿ tê broñ, albo zrobiê sobie z ciebie tarczê strzelnicz¹.}
@@ -116,7 +116,7 @@
 {391}{}{Gdzie pakujesz?}
 {392}{}{Uwa¿aj na Masticatora. On ma s³aboœæ do uszu.}
 {393}{}{Postawi³bym ci drinka, ale przepuœci³em ca³¹ forsê stawiaj¹c na twojego przeciwnika.}
-{394}{}{Wanna wrestle?}
+{394}{}{Pobaraszkujemy trochê?}
 {395}{}{Nie wygl¹dasz na zbyt tward¹, panno Lewy Sierpowy.}
 {396}{}{Mogê zobaczyæ jak ruszasz swoimi miêœniami brzusznymi?}
 {400}{}{Podobno pani Bishop ciê szuka. Uwa¿aj, ch³opie.}

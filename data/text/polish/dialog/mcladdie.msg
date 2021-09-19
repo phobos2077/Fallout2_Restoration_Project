@@ -8,7 +8,7 @@
 {153}{}{[Ten pies jest czymœ bardzo zdenerwowany.]}
 {154}{}{Dobry piesek.}
 {155}{}{Piesku, czy wiesz, gdzie jest Jonny?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Zostañ tu, Laddie.}
 {157}{}{ChodŸmy poszukaæ Jonny'ego.}
 {158}{}{Laddie, czy Jonny wpad³ do studni?}
 {159}{}{Co jest piesku, chcesz mi coœ powiedzieæ?}
