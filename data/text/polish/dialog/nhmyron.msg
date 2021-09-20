@@ -49,13 +49,13 @@
 {401}{}{Zastanówmy siê... Niedobrze mi... mam palpitacje... gor¹czkê. Chyba zosta³em zatruty.}
 {402}{}{Uch... d³u¿ej... ju¿... nie... wytrzymam... trucizna... kr¹¿y...}
 {403}{}{Móg³by ktoœ wyssaæ tê truciznê?}
-{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
-{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
+{410}{}{Czy to ja tak œwiecê? Nastêpnym razem jak bêdziemy siê obijaæ w strefie napromieniowanej dajcie mi Rad-X, co?}
+{411}{}{Dajcie mi AntyRad zanim stanê siê bezp³odny.}
 {412}{}{Mo¿e nastêpnym razem po prostu wyk¹piemy siê w radioaktywnym szambie, co? Bêdzie szybciej!}
 {413}{}{Z tak¹ dawk¹ promieniowania móg³bym oœwietliæ ca³e Nowe Reno.}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
+{414}{}{Œwiecê jaœniej ni¿ Nowe Reno o pó³nocy. Ma ktoœ AntyRad?}
 {415}{}{Œwietnie. Odrobina promieniowania i ju¿ œwiecê jak ¿arówka.}
-{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
+{416}{}{Móg³by mi ktoœ po¿yczyæ AntyRad? Nie zu¿yjê ca³ego, obiecujê.}
 {425}{}{Mo¿e wrócimy na pierwszy poziom lochów? Tam gdzie s¹ tylko koboldy.}
 {426}{}{Wiele lat grania w D&D nauczy³o mnie jak byæ mê¿nym rycerzem.}
 {427}{}{Dajcie jakieœ stymulanty. Chyba nied³ugo mi siê przydadz¹.}
@@ -198,7 +198,7 @@
 {683}{}{Widzê, ¿e nie chcesz odpowiedzieæ na to pytanie. Trudno.}
 {690}{myn109}{Chryste! No... jak trafi³em do rodziny Mordino, hodowali kaktusy pejotl i próbowali je sprzedawaæ turystom jako "Specjalnoœæ Reno". Pieprzenie.}
 {691}{}{Mów dalej.}
-{692}{}{Forget this. I had some other questions...}
+{692}{}{Niewa¿ne. Mam kilka innych pytañ...}
 {693}{}{Nie by³o rozmowy.}
 {700}{myn110}{Mam na myœli, pejotl? Litoœci! O po³owê s³abszy od starego LSD!}
 {701}{}{No a Jet?}
@@ -261,7 +261,7 @@
 {882}{}{Myron, jesteœ najpodlejsz¹ istot¹ jak¹ znam. Zabijaæ ludzi, ¿eby przetestowaæ narkotyk... to po prostu okrutne.}
 {883}{}{Myron, zabiliœcie ponad setkê ludzi, ¿eby przetestowaæ swój nowy wynalazek? Co jest z tob¹? Wyciêli ci sumienie w dzieciñstwie?}
 {884}{}{Wiem coœ o tym. Niewolnicy dro¿ej¹ z dnia na dzieñ. To przez to, ¿e ludzie tak wolno siê rozmna¿aj¹. Mam jeszcze kilka pytañ...}
-{885}{}{I... see. Look, I had some other questions...}
+{885}{}{... Rozumiem. S³uchaj, mam kilka innych pytañ...}
 {886}{}{Chyba mam ju¿ doœæ.}
 {887}{}{No tak, TO wszystko t³umaczy, co? Chyba mam ju¿ doœæ.}
 {890}{myn128}{Oburzasz siê na mnie z powodu kilku niewolników? Przecie¿ musieliœmy siê upewniæ, ¿e Jet nie wykoñczy naszych klientów.}
@@ -322,7 +322,7 @@
 {1050}{myn145a}{Hmm, obawiam siê, ¿e nie obejdzie siê bez œwie¿ego ogona radskorpiona. Ironia losu, prawda?}
 {1051}{myn145b}{Och, z mi³¹ chêci¹, ale musisz mi najpierw dostarczyæ ogon radskorpiona. Bez tego ani rusz.}
 {1052}{}{Potrafiæ sporz¹dzaæ jakieœ inne œrodki?}
-{1053}{}{Forget it then. I had some questions...}
+{1053}{}{W takim razie niewa¿ne. Mam kilka pytañ...}
 {1060}{myn146a}{Hmmm, powinno byæ ³atwe. Ile butelek antidotum potrzebujesz?}
 {1061}{myn146b}{Och na litoœæ bosk¹. Mo¿e po prostu nie krêæ siê tak blisko radskorpionów, co? Ile butelek chcesz tym razem?!}
 {1062}{myn146c}{Jak sobie ¿yczysz, œlicznotko. Ha! Ile butelek ¿yczy pani sobie tym razem?}
@@ -337,7 +337,7 @@
 {1085}{}{Dziêki. S³uchaj, mam kilka pytañ...}
 {1086}{}{Dziêki, Myron. Dobry z ciebie ch³opak.}
 {1095}{myn148}{Przykro mi, ale nie mam odpowiednich 'pó³produktów'. I nie zamierzam ich szukaæ}
-{1097}{}{Forget it then. I had some other questions...}
+{1097}{}{W takim razie niewa¿ne. Mam kilka innych pytañ...}
 {1098}{}{Trudno. Mo¿e kiedyœ...}
 {1105}{myn149a}{£atwizna. Ile sztuk potrzebujesz?}
 {1106}{myn149b}{Hej, m¹dralo. Mo¿e po prostu przestañ ci¹gle pakowaæ siê w k³opoty, co? Ach... ile potrzebujesz?}
@@ -548,7 +548,7 @@
 {1675}{myn240}{Zadajesz cholernie du¿o pytañ. OdpowiedŸ na twoje pytanie brzmi 'mo¿e'... s³uchaj, sk¹d ty w ogóle wiesz takie rzeczy? Jesteœ z Kryptopolis, czy co?}
 {1676}{}{OdpowiedŸ na twoje pytanie brzmi... MO¯E. A sk¹d TY wiesz takie rzeczy?}
 {1677}{}{Niezupe³nie. Tak mi siê obi³o o uszy. To w sumie doœæ proste.}
-{1678}{}{No. Look, I had some other questions...}
+{1678}{}{Nie. S³uchaj, mam jeszcze kilka pytañ...}
 {1679}{}{Kryptopolis. A gdzie to jest?}
 {1680}{}{Potrzymam ciê w niepewnoœci. Powiedzia³eœ mi ju¿ wszystko co chcê wiedzieæ.}
 {1685}{myn241a}{Przestañ mnie wkurzaæ. Jestem samoukiem. Nikt mi nie pomaga³. Mam gdzieœ to œwiêtoszkowate podejœcie hipokrytów z Kryptopolis, rozumiesz?}

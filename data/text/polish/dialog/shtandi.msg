@@ -35,7 +35,7 @@
 {134}{}{Znam ju¿ to miejsce i mam czêœci, których poszukujecie.}
 {135}{}{Sprawa za³atwiona. Osiedleñcy chc¹ uk³adu. Wy pomo¿ecie im staæ siê samowystarczalnymi, a oni dadz¹ wam dostêp do Krypty. A tutaj s¹ te czêœci.}
 {136}{tand5}{Do diaska... Twój wybór - ale je¿eli zmienisz zdanie...}
-{137}{}{Koniec.}
+{137}{}{Zrobione.}
 {138}{tand6a}{Zgoda. Wykonaj zadanie dobrze, a bêdzie dla ciebie nagroda.}
 {139}{tand6b}{O Bo¿e, wiem, ¿e pope³niam b³¹d, ale... spróbuj - je¿eli w ogóle cokolwiek z tego, co mówi³am, do ciebie dosz³o.}
 {140}{}{Dobra. Ja iœæ.}

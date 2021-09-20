@@ -86,7 +86,7 @@
 {361}{}{Acho que estarei seguro lá, sei como cuidar de mim. Deixe eu te perguntar outra coisa.}
 {362}{}{Já é o suficiente, Whiskey Bob. Tchau.}
 {370}{}{Atualmente temos duas pessoas desaparecidas, um comerciante chamado Vic que se especializou em material de antes da guerra é um de nossos melhores caçadores.}
-{371}{}{Tell me more about the trader some call... Vic?}
+{371}{}{Conte-me mais sobre o comerciante chamado... Vic?}
 {372}{}{Quero saber mais sobre o caçador.}
 {373}{}{Deixa eu te perguntar outra coisa.}
 {374}{}{É tudo que precisava saber, obrigado, Whiskey Bob.}

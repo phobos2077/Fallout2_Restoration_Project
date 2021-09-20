@@ -103,7 +103,7 @@ because this is going to cost ::cough:: $200.}
 {189}{}{Hey!}
 {190}{}{Old man, don't push me.}
 {191}{}{...are the repository of what our elders once knew...}
-{192}{}{Yeah, yeah, yeah... I gotta go.}
+{192}{}{Sim, sim, sim... Tenho que ir.}
 {193}{}{Relax, kid. Just joking around with you.}
 {194}{}{Yeah, I know. So... ummm... }
 {195}{}{... and what we refuse to tell you little bastards! (he bursts out laughing) Kid, the next time
@@ -114,7 +114,7 @@ because this is going to cost ::cough:: $200.}
 {199}{}{Umm...}
 {200}{}{Thanks. See ya!}
 {201}{}{Who's hurt? Oh, just line up and I'll take care of the lot of ya.}
-{202}{}{One more thing...}
+{202}{}{Só mais uma coisa...}
 {203}{}{Valeu! Tchau!}
 {204}{}{Surprisingly little. Sorry, but when I'm concentrating on healing someone, I don't usually pay
  attention to their innermost secrets.}
@@ -129,14 +129,14 @@ because this is going to cost ::cough:: $200.}
 {212}{}{Then, I came back here and watched Marcus build the town from the shanties I remember from my
  youth into the "sprawling metropolis" you see before you. I saw people attracted by promises of
  wealth. I saw people grow up and die. I saw the currents of history.}
-{213}{}{So that means...}
+{213}{}{Então isso significa...}
 {214}{}{That means that I don't know most of the new people these days. Most of my memories are just
  that -- memories.}
 {215}{}{Oh. Well, thanks for the story.}
 {216}{}{You jerk! You made me wait that long for nothing?}
 {217}{}{No, thank you for listening to me ramble. Next time you're here and need healing, it's on the
  house.}
-{218}{}{Thanks! So anyway...}
+{218}{}{Obrigado! Enfim...}
 {219}{}{Thanks. So long!}
 {220}{}{Yeah. Hope it was worth it! (he cackles)}
 {221}{}{No. Not really. Tell me something else.}

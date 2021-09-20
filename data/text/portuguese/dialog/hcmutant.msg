@@ -23,7 +23,7 @@
 {141}{}{We'll not be thanking you if those two shitheads cause more trouble, y'know.}
 {142}{}{All right... I'm willing to give those two wankers a chance...}
 {143}{}{How do I get home?}
-{144}{}{Didn't I just talk to you?}
+{144}{}{Eu não acabei de falar com você?}
 {145}{}{I ain't gonna sleep easy 'til those freaks are dead.}
 {146}{}{There goes any thought of security.}
 {147}{}{Well... ummm... who were you?}
@@ -33,14 +33,14 @@
 {151}{}{Ain't all the humans're doin' this, right?}
 {152}{}{Well, well, well... more human trickery?}
 {153}{}{I lose more every day... my memories and my faith in humanity went today.}
-{154}{}{You're a good one, you are.}
+{154}{}{Você é uma boa pessoa, é sim.}
 {162}{}{Francis is impressed. So am I.}
 {163}{}{How can a human beat a mutant arm-wrestling? Did you cheat?}
 {164}{}{So how are you going to use your new prize?}
 {165}{}{Strong. Very strong.}
 {166}{}{Once you've known a mutie, you never go back.}
 {167}{}{I hear you were nice and- yeah... for Francis.}
-{168}{}{I'm surprised you're even walking.}
+{168}{}{Me surpreende que você consegue andar.}
 {169}{}{Heh... Francis may be old, but he's still got it!}
 {170}{}{Those poor people.}
 {171}{}{Being trapped underneath the ground...}
@@ -51,9 +51,9 @@
 {175}{}{Why do you hurt us?}
 {176}{}{Humans never trust me.}
 {177}{}{Deixe-me sozinho.}
-{178}{}{Why don't you die already?}
+{178}{}{Por que você não morre agora?}
 {179}{}{Why is it that humans always crush what they fear?}
 {180}{}{You are scum.}
 {181}{}{Your life is worthless.}
 {182}{}{You... I remember a person like you...}
-{183}{}{I'm too old even to hate you.}
+{183}{}{Estou muito velho até para te odiar.}

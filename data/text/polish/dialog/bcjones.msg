@@ -65,7 +65,7 @@
 {164}{}{Och. Có¿, muszê ju¿ iœæ.}
 {165}{}{Nie pomogê komuœ takiemu jak ty. OdejdŸ.}
 {166}{}{Dobra, trzymaj siê. Wróæ jak bêdziesz czegoœ potrzebowaæ.}
-{167}{}{Koniec.}
+{167}{}{Zrobione.}
 {168}{}{Teraz sta³ siê paranoikiem. Wierzy, ¿e Tandi chce go dorwaæ. Opêta³a go ¿¹dza zemsty i chce j¹ widzieæ martw¹. Przepe³nia go wina, bo ukry³ siê i prze¿y³, zamiast zgin¹æ razem z reszt¹ gangu... i mo¿na by tak jeszcze d³ugo wyliczaæ.}
 {200}{}{Darion nie ¿yje.}
 {201}{}{Dar-i-on martwy.}

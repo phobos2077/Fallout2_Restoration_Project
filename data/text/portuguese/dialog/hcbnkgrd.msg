@@ -20,7 +20,7 @@
 {119}{}{Have you considered that you're holding them illegally?}
 {120}{}{Eat this, mutie!}
 {121}{}{Nothing. I'll be going now.}
-{122}{}{Err... what do you mean?}
+{122}{}{Err... O que você quer dizer?}
 {123}{}{What I mean is that they have committed no crimes except for their speech. They have only spoken ill of mutants. I'm not saying they won't commit a crime... but would you want to be detained for a crime you MIGHT commit?}
 {124}{}{That power makes the law. I have the power. Right here.}
 {125}{}{No, I wouldn't, but they're clearly dangerous.}

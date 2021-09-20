@@ -77,7 +77,7 @@
 {189}{}{No problem. They're all mutants anyway. But do it quietly, for god's sake.}
 {190}{}{Tenho-o. Eu tenho mais perguntas.}
 {191}{}{Got it. See ya.}
-{192}{}{More questions?}
+{192}{}{Mais perguntas?}
 {193}{}{I have some ore I want refined, and I don't want to pay the refinery's prices.}
 {194}{}{O que você pode me dizer sobre Broken Hills?}
 {195}{}{I want some chemicals mixed.}

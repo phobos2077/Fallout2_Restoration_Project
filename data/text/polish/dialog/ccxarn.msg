@@ -39,7 +39,7 @@
 {138}{}{Zastanowiê siê nad tym.}
 {139}{}{Nie, nie s¹dzê.}
 {140}{}{Dobrze... w takim razie zaczekam tu, a¿ podejmiesz decyzjê.}
-{141}{}{Koniec.}
+{141}{}{Zrobione.}
 {142}{}{Dobrze... zasmuca mnie twoja decyzja, ale to twój wybór. Jeœli zmienisz swoje zdanie, bêdê tu czeka³.}
 {143}{}{Bywaj.}
 {144}{}{¯egnaj.}

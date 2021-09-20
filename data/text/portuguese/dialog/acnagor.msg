@@ -32,10 +32,8 @@
 {129}{}{Estou ocupada, burro. Vá jogar em outro lugar.}
 {130}{}{Eu vou.}
 {131}{}{Eu vou por trás da fumaça.}
-{200}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito
-  Falar sobre tempos difíceis vindo. }
-{201}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito
-  Falar sobre tempos difíceis vindo. }
+{200}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi falar muito sobre os tempos difíceis que estão por vir.}
+{201}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi falar muito sobre os tempos difíceis que estão por vir.}
 {202}{}{Eu ainda olho, Nagor.}
 {203}{}{Eu ainda estou procurando, primo.}
 {204}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o santo Treze e o GECK?}

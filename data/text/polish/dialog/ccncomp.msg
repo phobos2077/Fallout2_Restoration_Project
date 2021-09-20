@@ -39,7 +39,7 @@
 {138}{}{Dobra.}
 {139}{}{Brzmi nieŸle.}
 {140}{}{Dziêkujê za skorzystanie z EnklawaNet. Trwa zamykanie... }
-{141}{}{Koniec.}
+{141}{}{Zrobione.}
 {142}{}{Polecenie?}
 {143}{}{Wykryto nieupowa¿nion¹ dzia³alnoœæ w g³ównym zespole komputerowym. Alarm. Alarm.}
 {144}{}{Uruchom program powitalny.}

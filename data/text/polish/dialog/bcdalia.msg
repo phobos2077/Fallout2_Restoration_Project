@@ -54,6 +54,6 @@
 {153}{}{Dziêki. Moja nie zapomnieæ to, Dalia.}
 {154}{}{Dziêki. Nie zapomnê ci tego, Dalia.}
 {155}{}{Wiêc idŸ ju¿ do diab³a i zostaw mnie w spokoju!}
-{156}{}{Koniec.}
+{156}{}{Zrobione.}
 {157}{}{Wiêc idŸ ju¿ do diab³a i zostaw mnie w spokoju!}
-{158}{}{Koniec.}
+{158}{}{Zrobione.}

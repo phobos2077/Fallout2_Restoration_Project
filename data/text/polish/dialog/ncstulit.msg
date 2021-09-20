@@ -139,7 +139,7 @@
 {463}{}{Och, kit z tym. Spadam st¹d.}
 {470}{}{Hmmmmm... no dobrze, dam ci szansê... ale nic nie obiecujê. Jeœli mi to chocia¿ trochê popsuje interesy, to wylatujesz. (K³adzie rêce na biodrach) Biorê po³owê ka¿dej wygranej i ¿adnych dyskusji.}
 {471}{}{Hmmmmm... dam ci szansê... ale nic nie obiecujê - bior¹c ciê na ring oddajê ci przys³ugê. Biorê po³owê ka¿dej wygranej... ¿adnych dyskusji.}
-{472}{}{Koniec.}
+{472}{}{Zrobione.}
 {473}{}{Obetnij swoj¹ dzia³kê do 25% i umowa stoi.}
 {474}{}{Och, kit z tym. Spadam st¹d.}
 {480}{}{(Stuart marszczy brwi jeszcze bardziej. Wygl¹da jakby chcia³ zaprotestowaæ, ale zamiast tego potrz¹sa g³ow¹ i uœmiecha siê). No dobrze ju¿, dobrze! Wiêc jak ju¿ CA£KIEM skoñczyliœmy z obdzieraniem mnie ze skóry, to mo¿e porozmawiajmy o szczegó³ach.}

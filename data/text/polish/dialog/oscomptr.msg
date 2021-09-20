@@ -20,11 +20,11 @@
 {119}{}{Zosta³o ju¿ tylko zajrzeæ do œrodka.}
 {120}{}{Zostaw go w spokoju.}
 {121}{}{Przygl¹daj¹c siê uwa¿nie tej ca³ej masie kabli i uk³adów scalonych, zauwa¿asz, ¿e system niew¹tpliwie pad³ ofiar¹ sabota¿u. Jednej z p³yt, modu³u rozpoznawania g³osu, nie da siê naprawiæ i musi zostaæ wymieniona. Teraz wszystko, co trzeba zrobiæ, to znaleŸæ odpowiedni¹ czêœæ zamienn¹.}
-{122}{}{Koniec.}
-{123}{}{Koniec.}
+{122}{}{Zrobione.}
+{123}{}{Zrobione.}
 {124}{}{Montujesz modu³ w terminalu. System zosta³ naprawiony.}
 {125}{}{Terminal potrzebuje modu³u rozpoznawania mowy, zanim znów bêdzie mo¿na go u¿ywaæ.}
-{126}{}{Koniec.}
+{126}{}{Zrobione.}
 {127}{}{System dzia³a teraz bez zarzutu.}
 {128}{}{Przeszukujê zdjêcia z kamer bezpieczeñstwa, rozpoczynam odtwarzanie holograficzne...}
 {129}{}{Gruthar, ju¿ tylko ty zosta³eœ. Plama twojego rodu zostanie niebawem wyczyszczona.}

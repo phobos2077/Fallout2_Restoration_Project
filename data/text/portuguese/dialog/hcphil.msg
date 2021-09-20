@@ -73,7 +73,7 @@
 {192}{}{To tell you my name. It's }
 {193}{}{Nothing, sorry. Bye!}
 {194}{}{Well, all right then! What'll it be?}
-{198}{}{What's been going on in town? Well...}
+{198}{}{Alguma coisa nova na cidade? Bem...}
 {199}{}{Thanks. I have more questions. }
 {200}{}{Obrigado. Tchau.}
 {201}{}{What to do, what to do... let's see...}

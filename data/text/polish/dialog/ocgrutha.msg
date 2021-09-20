@@ -68,12 +68,12 @@
 {167}{}{Wiem ju¿ dosyæ. Muszê to teraz przemyœleæ.}
 {168}{}{Rozumiem...}
 {169}{}{Nie podoba mi siê twoja decyzja, ale akceptujê j¹. Mo¿esz odejœæ, ale proszê, wróæ tu, jeœli zmienisz zdanie.}
-{170}{}{Koniec.}
+{170}{}{Zrobione.}
 {171}{}{Witaj}
 {172}{}{Nie, ale ju¿ siê za to zabieram.}
 {173}{}{Przykro mi, Grutharze. Zepsu³ siê modu³ rozpoznawania mowy. Muszê pójœæ znaleŸæ jakiœ.}
 {174}{}{Nie rozumiem, jak dzia³aj¹ takie rzeczy, ale ci ufam,}
-{175}{}{Koniec.}
+{175}{}{Zrobione.}
 {176}{}{Jeszcze wrócê, masz moje s³owo.}
 {177}{}{Witaj}
 {178}{}{Nie, wci¹¿ szukam.}
@@ -126,9 +126,9 @@
 {225}{}{W tej chwili nie ¿yczymy sobie ciê tu widzieæ. Mo¿esz odejœæ.}
 {226}{}{¯egnam}
 {227}{}{¯egnam}
-{228}{}{Koniec.}
+{228}{}{Zrobione.}
 {229}{}{Przeprosiny przyjête, cz³owieku. Mi³ego dnia!}
-{230}{}{Koniec.}
+{230}{}{Zrobione.}
 {231}{}{. Czy wiesz ju¿, co siê sta³o maszynie?}
 {232}{}{. Poczekam, a¿ wrócisz.}
 {233}{}{. Czy masz ju¿ czêœæ potrzebn¹ do naprawienia maszyny?}

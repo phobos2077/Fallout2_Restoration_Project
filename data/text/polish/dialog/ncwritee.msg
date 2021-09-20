@@ -12,7 +12,7 @@
 {200}{}{::Wiwatuje::}
 {201}{}{::Klaszcze::}
 {202}{}{::Gwi¿d¿e::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
+{203}{}{(Œpiewa) "We don't need another hero, we don't need to know the way home..."}
 {204}{}{Hej! }
 {205}{}{Gratulujê rozprawy z Enklaw¹, }
 {206}{}{Trzeba mieæ jaja nie z tej ziemi, ¿eby tak za³atwiæ Enklawê.}
@@ -58,7 +58,7 @@
 {299}{}{Lepiej uwa¿aj na tego twojego mutanta, kapujesz?}
 {305}{}{Czego chcesz?}
 {306}{}{W czym mogê pomóc?}
-{307}{}{Damn hot...}
+{307}{}{Cholernie gor¹co...}
 {308}{}{Nowe Reno z dnia na dzieñ robi siê paskudniejsze...}
 {309}{}{Co tu robisz?}
 {310}{}{Jeœli szukasz alkoholu, to rozejrzyj siê na stacji kolejowej, w pó³nocnej czêœci miasta... tutaj nic nie kupisz.}
@@ -78,7 +78,7 @@
 {340}{}{Tata powiedzia³, ¿e udusi nas, jeœli chocia¿ pomyœlimy o braniu Jetu.}
 {341}{}{Tata ci¹gle jest wœciek³y, wiêc lepiej uwa¿aj rozmawiaj¹c z nim.}
 {342}{}{Chris dostanie baty jak nie przestanie wymykaæ siê do burdelu.}
-{343}{}{Damn hot...}
+{343}{}{Cholernie gor¹co...}
 {344}{}{Ciekawe, co porabia Mama. Jak j¹ zobaczysz nie mów jej o aparaturze, dobra?}
 {345}{}{W zesz³ym tygodniu Keith roz³o¿y³ na czêœci pianino, a potem posk³ada³ je do kupy. Bystry dzieciak.}
 {346}{}{Za parê dni znów ruszamy polowaæ na radskorpiony.}
@@ -103,7 +103,7 @@
 {368}{}{Tata powiedzia³, ¿e udusi nas, jeœli chocia¿ pomyœlimy o braniu Jetu.}
 {369}{}{Tata ci¹gle jest wœciek³y, wiêc lepiej uwa¿aj rozmawiaj¹c z nim.}
 {370}{}{Chris dostanie baty jak nie przestanie wymykaæ siê do burdelu.}
-{371}{}{Damn hot...}
+{371}{}{Cholernie gor¹co...}
 {372}{}{W zesz³ym tygodniu Keith roz³o¿y³ na czêœci pianino, a potem posk³ada³ je do kupy. Bystry dzieciak.}
 {373}{}{Za parê dni znów ruszamy polowaæ na radskorpiony.}
 {374}{}{Czy naprawdê rozmawiasz z Bogiem, kiedy uprawiasz seks przed kamerami?}

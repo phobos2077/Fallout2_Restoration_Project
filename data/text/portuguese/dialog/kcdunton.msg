@@ -80,7 +80,7 @@
 {232}{}{Não se preocupe, não vou contar nada. Agora me diga outra coisa.}
 {233}{}{Vê-los com raiva!? O que não quero é ver suas caras feias. Tchau.}
 {240}{}{Bem, é um prazer fazer negócios com você. he..he..É precisa de mais alguma coisa?}
-{241}{}{Hmm... I think I forgot to barter for something.}
+{241}{}{Hmm... Acho que esqueci de trocar por algo.}
 {242}{}{Sim, eu conheço.}
 {243}{}{Não, isso é tudo por enquanto, Chuck.}
 {244}{}{Não, isso é tudo por enquanto, Buck.}

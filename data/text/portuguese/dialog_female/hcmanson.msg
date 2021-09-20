@@ -17,9 +17,9 @@
 {114}{}{Isso aí! Abaixo os opressores!}
 {115}{}{Parece mais um fracassado na sociedade.}
 {116}{}{Manson?}
-{117}{}{I ... see. Bye!}
+{117}{}{Eu... Verifico. Tchau!}
 {118}{}{Eu 'tô aqui porque eu e o Franc 'tava agindo contra o que a sociedade quer que a gente acredite.}
-{119}{}{And that is...}
+{119}{}{E isso é...}
 {120}{}{Isso aí! Abaixo os opressores!}
 {121}{}{Broken Hills? Vivi aqui toda a minha vida. Logo, sei de todas as coisas ruins que rolam por aqui.
  Por isso eu sei o quão maus os mutantes são. É bom ter gente como nós que consegue ver a

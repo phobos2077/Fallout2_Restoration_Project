@@ -12,22 +12,22 @@
 {162}{}{Gnarrrr}
 {163}{}{Nrrrarh}
 {164}{}{Mike like ears.}
-{165}{}{Ears mmmmmmm.}
+{165}{}{Uszy mmmmmmm.}
 {166}{}{Grrrrrr}
 {167}{}{Gr. Gr? Grrrrrrr.}
 {168}{}{Gr?}
 {169}{}{Rrrgggg}
-{170}{}{Me eat ears.}
-{171}{}{Ears yum.}
+{170}{}{Ja jeœæ uszy.}
+{171}{}{Uszy mniam.}
 {172}{}{Gr... grrrgr?}
 {173}{}{Snrggg}
-{174}{}{Me hate Robbin' Givens.}
+{174}{}{Ja nie znosiæ Robbin' Givens.}
 {175}{}{Grrrrrgrrrrgrrr... grrr... grrr... grr! Grr! Grrr?}
 {176}{}{Co to jest "udzia³ procentowy"?}
 {200}{}{::Kiedy podchodzisz, Mike siê zas³ania.::}
 {201}{}{::Kiedy podchodzisz, Mike skomle.::}
 {202}{}{::Kiedy podchodzisz, Mike podnosi rêce w poddañczym geœcie.::}
-{203}{}{You cute.}
-{204}{}{Me like your ears.}
+{203}{}{Ty s³odka.}
+{204}{}{Ja lubi twoja uszy.}
 {205}{}{Doœæ gadaæ. Czas do ³ó¿ka.}
 {206}{}{Robin? To ty?}

@@ -7,9 +7,9 @@
 {106}{}{Dobrze, odejdê.}
 {107}{}{Chcê tylko zapytaæ o kilka rzeczy.}
 {108}{}{Niestety, odpowiedzi w³aœnie siê nam skoñczy³y. Mo¿e wrócisz, jak otrzymamy now¹ dostawê?}
-{109}{}{Koniec.}
+{109}{}{Zrobione.}
 {110}{}{Witam znowu. Niestety, nadal nie mam dla ciebie ¿adnych odpowiedzi. Nie radzisz sobie najlepiej z odczytywaniem aluzji, co?}
-{111}{}{Koniec.}
+{111}{}{Zrobione.}
 {112}{}{Rebeka powiedzia³a mi, ile ci zawdziêcza. Muszê ciê przeprosiæ za przyjêcie, które ci poprzednio zgotowa³em. Myli³em siê co do ciebie. W czym mogê ci pomóc?}
 {113}{}{Moja mieæ pytania.}
 {114}{}{W niczym. Pa.}
@@ -47,13 +47,13 @@
 {146}{}{Tak, pewnie masz racjê.}
 {147}{}{Nie wiem.}
 {148}{}{Œwietnie. Powodzenia... i dziêkujê.}
-{149}{}{Koniec.}
+{149}{}{Zrobione.}
 {150}{}{Có¿, przemyœl to sobie, ale pamiêtaj - tak d³ugo, jak Darion tu jest nie ma mowy o jakichœ uk³adach z RNK. Tak bêdzie bezpieczniej dla nas wszystkich. Póki co, oficjalnie nie by³o tej rozmowy, a ty jesteœ nadal niemile widzianym goœciem. Rozumiesz?}
 {151}{}{W porz¹dku.}
 {152}{}{Czeœæ. Ci¹gle czekam na ostateczne rozwi¹zanie naszego problemu. Innymi s³owy - skop dupê Darionowi!}
-{153}{}{Koniec.}
+{153}{}{Zrobione.}
 {154}{}{Uda³o ci siê! Wreszcie zrzuciliœmy jarzmo Dariona. Dziêkujê! Mo¿emy natychmiast przyst¹piæ do pertraktacji z RNK. Niech tylko przyœl¹ tu swoich przedstawicieli.}
-{155}{}{Koniec.}
+{155}{}{Zrobione.}
 {156}{}{Dziêki tobie mo¿emy rozpocz¹æ nowe ¿ycie. Jesteœmy twoimi d³u¿nikami.}
 {157}{}{OdejdŸ. Nie mam ci nic do powiedzenia.}
 {158}{}{Czekaj, zanim pójdziesz... Jakiœ czas temu znalaz³em tê kartê i nie mam pojêcia, do czego mo¿e s³u¿yæ. Rebeka twierdzi, ¿e wiesz o jakichœ drzwiach, ko³o których trzymali Chrissy. Mo¿e ta karta je otworzy. Proszê, oto ona.}

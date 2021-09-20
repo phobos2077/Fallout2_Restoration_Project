@@ -55,7 +55,7 @@
 {500}{}{Leczysz %d PW.}
 {501}{}{Ju¿ i tak wygl¹dasz zdrowo.}
 {502}{}{%s ju¿ i tak wygl¹da zdrowo.}
-{503}{}{Nie udaje ci siê zwieñczyæ zabiegu jakimkolwiek sukcesem.}
+{503}{}{Nie udaje siê ci wyleczyæ.}
 {505}{}{Otrzymujesz %d PD za doskonalenie twoich umiejêtnoœci przez praktykê.}
 {510}{}{\nskill_use: zastosowano niew³aœciw¹ umiejêtnoœæ.}
 {512}{}{Nie jesteœ w stanie uzdrowiæ trupa.}

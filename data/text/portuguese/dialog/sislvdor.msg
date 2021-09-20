@@ -130,7 +130,7 @@ no alizar de porta.}
 {171}{}{A sua falta de habilidade encravou a trava na porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
 {173}{}{ habilmente destranca a fechadura na porta.}
-{174}{}{Sua falta de habilidade só ajudou a emperrar a fechadura.}
+{174}{}{A sua falta de habilidade emperrou a trava na porta.}
 {175}{}{ falhou em destrancar essa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e

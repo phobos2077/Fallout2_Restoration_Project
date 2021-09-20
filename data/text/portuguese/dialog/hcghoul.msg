@@ -19,7 +19,7 @@
 {117}{}{We've worked hard to make Broken Hills what it is today.}
 {118}{}{When's the next meal, anyway?}
 {119}{}{You don't need a weatherman to know which way the wind blows.}
-{120}{}{Stop! Hey... what's that sound?}
+{120}{}{Pare! Ei... Que som é esse?}
 {121}{}{Down with the oppressors!}
 {122}{}{How could you kill Chad like that?}
 {123}{}{What, was Chad violently resisting arrest or something?}
@@ -63,7 +63,7 @@
 {160}{}{Will Broken Hills ever be able to mend the rift between humans and mutants?}
 {161}{}{Those bastards, Jacob and Aileen, always treated me like a second-class citizen. This'll teach 'em.}
 {162}{}{I don't think Broken Hills will ever recover from the loss of the mine...}
-{163}{}{All the mutants... dead...}
+{163}{}{Todos os mutantes... Mortos...}
 {164}{}{... now we'll never know if we could have made peace between the mutants and the humans...}
 {165}{}{Time to head out and see what the rest of the world has to offer... ain't worth it to dig
  out the mines.}

@@ -19,9 +19,9 @@
 {118}{}{Cara... essa buçanha é como uma promessa feita em Stockton - só vento e nada de ação.}
 {119}{}{Meu amigo Scott achava que a capital da Velha Califórnia era Stockton. Promessa!}
 {120}{}{I'd like to blow some hot goo on Chip.}
-{121}{}{Dude!}
-{122}{}{Awww, come ON!}
+{121}{}{Cara!}
+{122}{}{Ahhh, VAMOS!}
 {123}{}{Aggro-suuuuuuuuuurge!}
 {124}{}{Don't make me put the mosh face on.}
-{125}{}{Yeah, right?}
-{126}{}{Exactly, sir. Heh heh heh.}
+{125}{}{Sim, certo?}
+{126}{}{Exatamente, senhor. Heh heh heh.}

@@ -20,11 +20,11 @@
 {151}{}{Eu sou apenas um andarilho.}
 {152}{}{Sou o Chosen One.}
 {153}{}{Estou aqui apenas por minha renovação anual.}
-{154}{}{It'll be okay. I just have to ask him a couple of questions.}
+{154}{}{Está certo. Eu só gostaria de fazer algumas perguntas.}
 {160}{}{Bem, ande pra fora daqui, então.}
 {161}{}{Hã, certo. Tchau.}
 {170}{}{Bem, nesse caso... entre. Ele está na próxima sala. Não o deixe esperando.}
-{171}{}{Not me. I'll go right in. Goodbye.}
+{171}{}{Eu não. Eu vou direto. Adeus.}
 {172}{}{Eu posso voltar mais tarde. Tchau.}
 {180}{}{Bem, você pode escolher ir embora. Saia daqui.}
 {181}{}{Tudo bem.}
@@ -33,7 +33,7 @@
 {210}{}{Ook? O que você quer dizer com isso? Você é idiota?}
 {211}{}{Goop?}
 {220}{}{Saia daqui. O cérebro não perde tempo com gente como você.}
-{221}{}{Okay. I'll be going now.}
+{221}{}{Ok, estou indo agora.}
 {230}{}{Não tem mais nada aqui a não ser o covil do Brain. Cara, você é um idiota.}
 {231}{}{O Cérebro?}
 {232}{}{Eu só estava te testando. Você passou. Agora me deixa entrar.}

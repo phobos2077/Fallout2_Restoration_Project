@@ -8,7 +8,7 @@
 {151}{}{I'm glad they got out... I wonder where they are now.}
 {152}{}{Franc and Manson are poison. This town will never be the same until they're caught again.}
 {153}{}{Who would kill those guards? That's inhuman.}
-{154}{}{I can't believe that this town used to be so peaceful.}
+{154}{}{Eu não posso acreditar que essa cidade costumava ser tão tranquila.}
 {155}{}{How did you manage to convince the guards to let those two bastards out?}
 {156}{}{Thanks for letting out Franc and Manson. They weren't causing any real trouble.}
 {157}{}{Where are Franc and Manson now? They really should be back in jail.}
@@ -20,24 +20,24 @@
 {163}{}{I don't have anything against mutants, but they're so funny looking.}
 {164}{}{I'd tell you "nice work," but you'd probably turn me in.}
 {165}{}{Jacob and Aileen were mutie-haters, huh? They seemed so nice.}
-{166}{}{Come on... Aileen?}
+{166}{}{Venha... Aileen?}
 {167}{}{I can't believe that human/mutant relations have sunk so low.}
 {168}{}{Marcus must be pissed at the humans now.}
 {169}{}{I think all us humans better just relax and breathe easy for a while.}
 {170}{}{I heard the mutants are getting together to destroy the humans!}
 {171}{}{What do the ghouls think about all this?}
 {172}{}{The mine... destroyed... our homes are worthless now. }
-{173}{}{We're ruined.}
+{173}{}{Estamos acabados.}
 {174}{}{This is the end of Broken Hills.}
-{175}{}{I'm gonna head for NCR.}
+{175}{}{Eu vou para a NCR.}
 {176}{}{Who would do such a thing?}
 {177}{}{My god... the mine...}
-{178}{}{Where's the justice in the world?}
+{178}{}{Onde está a justiça desse mundo?}
 {179}{}{I guess I'll just kill myself. Without the mine, I can't support myself.}
 {180}{}{Oh, baby... life is hard.}
 {181}{}{Wow... I never knew anyone strong enough to beat Francis.}
-{182}{}{You're so strong!}
-{183}{}{You're real tough, huh?}
+{182}{}{Você é muito forte!}
+{183}{}{Você é realmente durão, hein?}
 {184}{}{Sometimes I feel like a magic 8-ball. I just spout random sayings and walk away.}
 {185}{}{Have you ever wrestled a deathclaw?}
 {186}{}{Are you as smart as you are strong?}
@@ -59,9 +59,9 @@
 {202}{}{Town seems so much nicer, lately.}
 {203}{}{I think things are finally starting to go our way.}
 {204}{}{Get away from me, scumbag.}
-{205}{}{I don't associate with your kind.}
+{205}{}{Eu não me associo com sua espécie.}
 {206}{}{Quem deixou você?}
-{207}{}{I don't know why they don't run you out of town.}
+{207}{}{Não sei por que não te expulsam da cidade.}
 {208}{}{Please leave me alone.}
 {209}{}{Não me incomode.}
 {210}{}{I can't help you. Go away.}
@@ -86,5 +86,5 @@
 {257}{}{Do you think New Reno would be a good place to live?}
 {258}{}{I don't have anything against mutants, but they're so funny looking.}
 {259}{}{Life is hard. Phil's rotgut shouldn't be.}
-{260}{}{I can't believe that son of a bitch.}
+{260}{}{Eu não acredito naquele morfético. }
 {261}{}{My cat's breath smells like cat food.}

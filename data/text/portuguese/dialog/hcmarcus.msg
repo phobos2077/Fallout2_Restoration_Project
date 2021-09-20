@@ -57,7 +57,7 @@
 {156}{mcs16}{My undying gratitude. Right?}
 {157}{}{Good enough for me.}
 {158}{}{No good. I want something.}
-{159}{}{How 'bout more questions while I think it over.}
+{159}{}{Que tal algumas perguntas enquanto eu penso sobre isso.}
 {160}{}{Let me think about it. Bye.}
 {161}{mcs17}{That ain't good enough for you? Then get out.}
 {162}{}{Adeus.}
@@ -145,12 +145,12 @@
 {244}{}{The Master wanted to enslave humanity!}
 {245}{}{Interesting spin. I gotta go.}
 {246}{mcs41}{Don't forget, I knew the folks involved. They were the best humanity had to offer. Your people are going to tell the story a different way, right?}
-{247}{}{Err... maybe. Umm, I have more questions.}
+{247}{}{Err... Talvez. Umm, eu tenho mais perguntas.}
 {248}{}{Wrong!}
 {249}{mcs42}{The "original Vault Dweller"? You mean the one who killed the Master and destroyed the vats?}
-{250}{}{Ummm... yes.}
+{250}{}{Ummm... sim.}
 {251}{}{Damn right. Gonna do something about it, mutie?}
-{252}{}{Nooo... this is someone else. I don't know what you're talking about.}
+{252}{}{N„„„o... esta È outra pessoa. Eu n„o sei do que vocÍ est· falando.}
 {253}{mcs43}{Not a problem. Like I said, that was a long time ago.}
 {254}{}{I'm not afraid of you.}
 {255}{}{Why did you hate humans back then?}
@@ -181,7 +181,7 @@
 {280}{}{That scares the living crap outta me.}
 {281}{}{Ain't much in the wasteland frightens me... that does.}
 {282}{}{You must be as stupid as you look if you're gonna fight me.}
-{283}{}{Kickin' some ass... again.}
+{283}{}{Chutando algumas bundas... de novo.}
 {284}{}{It's almost too easy.}
 {285}{}{Don't you have some friends who can help ya even this out?}
 {286}{}{Had enough?}
@@ -246,7 +246,7 @@
 {345}{}{I dunno.}
 {346}{}{Ow.}
 {347}{}{That really hurts.}
-{348}{}{That can't feel good...}
+{348}{}{Isso n„o pode ser bom...}
 {349}{}{Uh... when you said 'I hope she doesn't get pregnant' in the Cat's Paw in New Reno,
  what did you mean?}
 {350}{mcs113}{Didn't your folks explain this to you?}
@@ -309,7 +309,7 @@
 {639}{}{Uh... thanks, friend.}
 {640}{}{Err... thanks. I guess.}
 {641}{}{Thanks. I was thirsty.}
-{642}{}{Whoa... I feel a little funny.}
+{642}{}{Eita... Me sinto meio estranho.}
 {643}{}{I guess Francis was right about Jacob. That murderous bastard won't cause any more trouble in this town.}
 {644}{}{You have received a scoped hunting rifle.}
 {1100}{mcs43alt}{Not a problem.}

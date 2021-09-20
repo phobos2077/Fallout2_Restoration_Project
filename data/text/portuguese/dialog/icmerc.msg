@@ -18,7 +18,7 @@
 {254}{}{Damn Vault City laser cannons...}
 {255}{}{Tired of polishing my gun... both of them.}
 {256}{}{How long we gotta stay out here?}
-{257}{}{We should be movin' out in a few days...}
+{257}{}{Devemos nos mudar em alguns dias...}
 {258}{}{Can't wait ta get back ta Reno. *'Specially* the Cat's Paw.}
 {259}{}{Them scorps are gettin' hungry again. Heard 'em clicking last night...*click* *clack* *click*}
 {260}{}{Did you check them mines at the entrance like I *told* you?}
