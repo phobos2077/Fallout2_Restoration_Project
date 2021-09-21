@@ -4,7 +4,7 @@
 {104}{}{You see Sheriff Jo.}
 {105}{}{You see Mayor Jo.}
 {106}{}{You see Justice of the Peace Jo.}
-{150}{}{We killed everyone. Even the children... [sob]}
+{150}{}{Nós matamos todo mundo. Até as crianças... [Soluço]}
 {151}{}{Meet us at the Ghost Farm. We attack immediately.}
 {152}{}{Thank you for saving the residents of Modoc.}
 {153}{}{O que você está fazendo?}

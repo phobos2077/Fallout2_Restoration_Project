@@ -24,5 +24,4 @@
 {290}{}{Podczas poszukiwañ w sejfie pu³apki wywo³ujesz eksplozjê.}
 {291}{}{Podczas rozbrajania pu³apki poci¹gasz za nieodpowiedni kabel.}
 {300}{}{S³yszysz z góry st³umiony wybuch.}
-{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
- if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}
+{400}{}{Podwa¿asz ma³y panel na dnie sejfu. S¹dzisz, ¿e nie znalaz³byœ go, gdyby pani Bishop Ci o nim nie powiedzia³a. W œrodku znajduje siê dziwnie wygl¹daj¹ca przystawka do Pip-Boya.}

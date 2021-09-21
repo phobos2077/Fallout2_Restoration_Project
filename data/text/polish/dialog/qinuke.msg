@@ -12,6 +12,5 @@
 {225}{}{Klucz przyjêty. Autoryzacja poziomu 2 zaakceptowana.}
 {226}{}{Aktywuj bombê.}
 {227}{}{Wyloguj.}
-{228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
- T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
+{228}{}{Bomba aktywna, wybuch za: 5 minut. B³¹d w procedurze odliczania. Odliczanie restartowane wybuch nast¹pi za: 5 sekund. Proszê siê upewniæ, ¿e odleg³oœæ od miejsca wybuchu to wiêcej ni¿ 80 mil. Mi³ego dnia.}
 {229}{}{O kurw...}

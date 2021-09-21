@@ -53,7 +53,7 @@
 {203}{}{Sério? Ninguém me ajuda porque pensam que eu roubei o relógio. Seria bom ter alguém do meu lado, pelo menos uma vez. Já perguntei a todo mundo, mas não custa perguntar novamente. Talvez eles digam a você alguma coisa que não tenham me dito. Também não tiraria pedaço se você desse uma olhada no Café da Manhã da Rose; Cornelius é famoso por esquecer as coisas.}
 {205}{}{Deixe eu ver isso! Sim, é esse! Você disse que um rato que vive no esgoto roubou? Você desceu e pegou? Aeeeee! Eu vou dar isso pro Cornelis agora mesmo! Agora podemos ser amigos de novo. Muito obrigado.}
 {206}{}{Uga prá você também. Você gostaria de fazer um favor ao velho Farrel meu amigo cabeça-de-bagre? Eu tenho um probleminha com uns vermes em meu jardim. Faça as pestes irem embora que eu lhe dou uma recompensa.}
-{207}{}{No, no, no... me no do.}
+{207}{}{Não, não, não... eu não faço.}
 {208}{}{Sim. Eu fazer.}
 {209}{}{Tchau tchau!}
 {210}{}{Então vá embora, homem das cavernas burro!}

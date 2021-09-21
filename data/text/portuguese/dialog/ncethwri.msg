@@ -36,13 +36,13 @@
 {246}{}{I'm sorry, but I have to be going.}
 {250}{}{Me? Why, I am Missus Ethyl Wright, head of the Temperance Union here in New Reno. (Studies you.) And who might you be?}
 {251}{}{I am }
-{252}{}{I am a traveler with some questions about New Reno...}
+{252}{}{Eu sou um viajante com algumas perguntas sobre New Reno...}
 {254}{}{I'd love to stay and talk, but I have to be going.}
 {260}{}{Oh, my! You're a TRIBAL, aren't you? Your accent gave it away! (She raises her voice and starts speaking slowly.)
  WELL -- MAY I BE THE FIRST TO WELCOME YOU TO OUR CITY!}
 {261}{}{What you say? Me simple tribal. No understanda youa.}
 {262}{}{Woman, I am neither deaf nor stupid. I can understand you QUITE well without you raising your voice.}
-{263}{}{Uh, thank you. I had some questions about New Reno...}
+{263}{}{Uh, obrigado. Eu tinha algumas perguntas sobre New Reno...}
 {264}{}{I HAVE TO GO NOW.}
 {270}{}{I SAID, LET *ME*... (Points at herself.) ...WELCOME YOU... (Points at you.) ...TO... (Gestures at the city around her.) ...CITY OF LIGHTS!}
 {272}{}{Perhaps you think this high-tech armor I'm wearing somehow magically attached itself to me. Look, cut out the 'tribal' talk,
@@ -52,16 +52,16 @@
 {274}{}{I BETTER GO NOW BEFORE I LOSE MY TEMPER.}
 {280}{}{Oh! Excuse me! (Seems startled.) Pardons, pardons! It's just that I thought... well... nevermind, let's put that all behind us.
  What can I do for you?}
-{281}{}{I had some questions about New Reno...}
+{281}{}{Eu tenho algumas perguntas sobre New Reno...}
 {282}{}{Nevermind. I have to be going.}
 {290}{}{(Squints, frowns.) I'm sorry, the Garden of... what? No, I'm sorry, I've never heard of such a thing.}
 {291}{}{Eu tenho mais algumas perguntas...}
 {292}{}{Nevermind then, I better be going.}
 {300}{}{Vault 13? (Looks puzzled.) My goodness, no, I haven't... well, no, wait. That's untrue. There IS Vault City to the northeast.
  Is that what you are looking for?}
-{301}{}{No, wrong place. But maybe you can help me with some other questions...}
-{302}{}{Could be. Can you help me with some other questions...?}
-{303}{}{It might be. Goodbye... and thanks for the information.}
+{301}{}{Não, lugar errado. Mas talvez você possa me ajudar com algumas outras perguntas...}
+{302}{}{Não há problema. Você pode me ajudar com algumas outras perguntas ...?}
+{303}{}{É possível. Adeus... e obrigado pela informação.}
 {310}{}{Why, yes! (Wags her finger at you.) New Reno is a beautiful city, but there is SIN here - much of which can be traced
  back to the evils of alcohol... or as you tribesmen call it... (Pauses dramatically.) ...FIREWATER!}
 {311}{}{Uh, we "primitives" call it alcohol, too.}
@@ -137,14 +137,14 @@
 {392}{}{All right. I will. See you then.}
 {395}{}{(Smile dies.) Yes, my son Richard... he... yes, he left us much too soon. I... hmmm. Yes. (Looks at her hands.) I...}
 {396}{}{I heard it was a Jet overdose... is that right?}
-{397}{}{Look, nevermind. Forget I brought it up. I had some other questions...}
+{397}{}{Olha, esqueça. Esqueça que eu disse isso. Eu tinha algumas outras perguntas...}
 {398}{}{Nevermind. I better be going.}
 {400}{}{(Jaw tightens.) That filthy poison! I thought that I'd taught him to stay AWAY from that stuff, and then...}
 {401}{}{Can you tell me where he might have gotten the Jet?}
 {405}{}{I don't know! (Hands clench into fists.) They sell that poison on every corner here in New Reno! EVERYWHERE you go, they're
  peddling it...}
 {406}{}{Do you know any specific dealers?}
-{407}{}{Look, forget I brought it up. I had some other questions...}
+{407}{}{Olha, esqueça que eu disse isso. Eu tinha algumas outras perguntas...}
 {410}{}{Not by name. They know enough to run when they see me coming... but they cluster like flies along Virgin Street at the
  front of town and outside the casinos.}
 {411}{}{Entendo. Eu tenho outras perguntas...}
@@ -174,8 +174,8 @@
 {443}{}{All right then. Good day.}
 {444}{}{All right then. Good night.}
 {450}{}{(You see Mrs. Wright. She looks crushed.)}
-{451}{}{Uh... Ethyl, are you okay?}
-{452}{}{So... what did you find?}
+{451}{}{Ei... Ethyl, você está bem?}
+{452}{}{Então... o que você encontrou?}
 {453}{}{Ah-ha! Was I right or was I right?}
 {454}{}{I'm sorry. I'll be back.}
 {460}{}{All true... everything you said was true. (Sighs.) The still was not dismantled. Not at all! (Frowns.) I trusted that man, but
@@ -235,7 +235,7 @@
 {551}{}{Okay, don't worry... there'll be no casualties.}
 {552}{}{I'll be back when I'm done. I have some other things to take care of first.}
 {553}{}{Uh, I can't promise that... maybe you should get someone else to take care of the problem.}
-{1251}{}{. I had some questions about New Reno...}
+{1251}{}{. Eu tenho algumas sobre New Reno...}
 {1415}{}{(Jumps.) Oh, my! (Squints at you, then purses her lips disapprovingly.) Well, I never! }
 {1430}{}{(Jumps.) Oh, my! }
 {1431}{}{(Squints at you, then her gaze becomes glacial.) }

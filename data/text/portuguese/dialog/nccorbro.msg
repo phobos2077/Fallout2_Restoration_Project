@@ -212,7 +212,7 @@
 {658}{}{Just checking. I've been feeling a little drained, lately.}
 {670}{}{We lucked out... we don't NEED any of that stoneage crap. We stumbled across a WORKING porno... er, holo... graphic projector.
  No bulky equipment, no fuss... and no unsightly mess.}
-{671}{}{Reeeeally... what specs does the projector have?}
+{671}{}{Sééério... quais especificações o projetor tem?}
 {672}{}{I see... well, look: I'm interested in a job, if you're still offering.}
 {673}{}{Nice talking to you, but I have to be going.}
 {680}{}{Well... we ain't hit capacity on the QEWB drive yet - near as I can tell, it's about a 300 GB high density memory cube.
@@ -322,7 +322,7 @@
 {1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
 {1100}{}{Ack! ::spit, spit:: That SUCKED!}
 {1101}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 5 chips is 5 chips!}
-{1200}{}{I... don't feel so good.}
+{1200}{}{Eu... não me sinto muito bem.}
 {1201}{}{True love triumphs once again. Your spouse looks deathly ill, but at least you're 3 chips richer!}
 {1250}{}{You have become a star. A big, bright shining star.}
 {5200}{}{! Just the hero we wanted to see!}

@@ -2,8 +2,8 @@
 {150}{}{You see a fat man with beady black eyes. He is covered in sweat and breathing heavily.}
 {151}{}{You see Big Jesus Mordino. He is covered in sweat and is breathing heavily.}
 {200}{}{Fique longe daí.}
-{201}{}{That does not... belong to you.}
-{202}{}{Touch that again, and you shall... die on Golgotha.}
+{201}{}{Isso... Não te pertence.}
+{202}{}{Toque novamente e você... morrerá no Gólgota.}
 {210}{}{::Wheeze::}
 {211}{}{*Tosse* *Tosse*}
 {212}{}{::Wipes sweat from forehead.::}
@@ -14,8 +14,8 @@
 {232}{}{...my heart...}
 {233}{}{hurrkkkk}
 {240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
-{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
+{241}{}{Ele está te ignorando e olhando para Myron; parece que ele está esperando Myron falar.)}
+{242}{}{Ele está olhando para você; parece que está esperando você falar.)}
 {243}{}{[Stare back at him with your meanest stare.]}
 {244}{}{[Stare back at him with mild disinterest.]}
 {245}{}{[Stare back at him with a sneering gaze.]}
@@ -60,7 +60,7 @@
 {318}{}{Make a run for the door.}
 {319}{}{::Dive for cover, draw weapons in slow motion as thugs explode from the woodwork.::}
 {325}{}{(Mordino waits. As you watch, another bead of sweat trickles down the side of his face.)}
-{326}{}{I was looking to sell some slaves...}
+{326}{}{Eu estava querendo vender alguns escravos...}
 {327}{}{What do you know about Richard Wright's death?}
 {329}{}{Deixa pra lá.}
 {335}{}{(Studies you.) I... do not know you, but I will... hear you. (Wipes sweat from his forehead.) }
@@ -124,13 +124,13 @@
 {442}{}{I will go there now, Senor Mordino.}
 {443}{}{What's in the package?}
 {444}{}{Uh, I've changed my mind. I think I'll pass.}
-{450}{}{I... do not pay you... to ask questions.}
+{450}{}{Eu... Não te pago... para fazer perguntas.}
 {451}{}{Well, I'd like to know what I'm carrying before I drop it off. Is it dangerous?}
 {452}{}{Nevermind then. I'm off.}
 {460}{}{Head north up Virgin street, past the casinos... follow the trail that leads outside of town. You will... come to the
  Stables. Now go.}
 {461}{}{(Follow his directions...)}
-{470}{}{Have... you done as I asked?}
+{470}{}{Você... fez o que eu pedi?}
 {471}{}{No, I haven't delivered the package yet.}
 {472}{}{Yes, I delivered it to Ramirez as you asked.}
 {473}{}{Yes, I've been to the Stables and dropped off your package... do you know what they DO there? They're torturing
@@ -250,7 +250,7 @@
 {744}{}{Thanks for the information, Senor Mordino. I must be going now.}
 {750}{}{(Shakes head.) I... know little of the lives of pushers in Reno. (Takes a raspy breath, coughs slightly.) You... might ask
  my son... in the casino, below.}
-{751}{}{I will. I had some other questions...}
+{751}{}{Eu vou. Eu tinha algumas perguntas...}
 {752}{}{I will. Thanks, Senor Mordino.}
 {760}{}{The temperature does not... agree with me. My breathing is... sometimes difficult. In times of stress or other physical
  activity, I tire quickly. Sometimes, I have chest pains.}

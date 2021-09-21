@@ -73,7 +73,7 @@
 {355}{}{That a *joke?* If so, it damn well missed the funny mark by a mile. You trying to start something with Family
  Wright, wise guy?}
 {356}{}{Start something? No, just *finish* it.}
-{357}{}{No, I'm sorry. I didn't mean it like that. Look, I had some other questions...}
+{357}{}{Não, desculpe. Eu não queria dizer isso. Olha, eu tinha algumas outras perguntas...}
 {358}{}{No, not at all. I think I better be going. }
 {365}{}{She just doesn't pay attention to what's going on around her. I love her n' all, but sometimes, she's as blind as a mule.}
 {366}{}{Well, not long ago, she charged into our alcohol still here and busted up the place, destroying our entire cash crop! I love her n' all, but sometimes she's as blind as a mule.}
@@ -84,16 +84,16 @@
 {380}{}{She goes around and preaches all about sinning and stuff, but she doesn't even really know what Dad does.
  Either that, or she ignores it.}
 {381}{}{What does your Dad do?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
 {383}{}{Interesting. Well, I have to be going. }
 {390}{}{Makes alcohol, runs guns, rubs out people who fuck with him... typical family stuff. Mom'd be pissed
  if she actually paid mind to what was going on. And 'specially if she found this still, here.}
 {391}{}{How pissed would she be?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
 {393}{}{Interesting. Well, I have to be going. }
 {400}{}{Probably pissed enough to wreck this place... at least. Then she'd give us all a tongue lashing and a few
  solid days of preaching. Heh.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Hum. Diga, eu tinha algumas outras perguntas...}
 {402}{}{Hmmmmm. Thanks. }
 {410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
  figure, someone pumped him with drugs until he was dead.}
@@ -113,28 +113,28 @@
 {436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {437}{}{Look, KID, don't start with me. If you know what's good for you, you'll stop trying to throw down every time
  a little truth comes along and bites you in the ass.}
-{438}{}{Sorry, no offense intended. Say, I had some other questions...}
+{438}{}{Desculpe, não queria ofender. Diga, eu tinha algumas outras perguntas...}
 {439}{}{Understood. I better be going. }
 {445}{}{Piss off. I ain't got nothing more to say to you.}
-{446}{}{Wait, I just had one more question...}
+{446}{}{Espere. Eu tenho mais perguntas.}
 {447}{}{I'm leaving, I'm leaving. }
 {455}{}{(Chris stares at you for a moment, then lunges at you!)}
 {456}{}{So THIS is how it's gonna BE, huh? ALL RIGHT THEN, LET'S G --}
 {465}{}{My guess is the Mordinos, either one of their dealers or one of the Mordino family themselves. Bastards make tons of Jet.}
-{466}{}{Got it. Say, I had some other questions...}
+{466}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
 {467}{}{Which of the dealers do you think sold it to Richard?}
 {468}{}{I see. I better be going. }
 {475}{}{Could have been any one of them: Jagged Jimmy J, that scarred son of a bitch at the corner of Virgin Street, or
  Renesco 'the Rocketman,' that weasel who sells Jet outta that fortified shell up on the West Side.}
 {476}{}{Any other dealers?}
-{477}{}{Got it. Say, I had some other questions...}
+{477}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
 {485}{}{Hey, man, thank YOU.}
 {486}{}{Hey, lady, thank YOU.}
 {487}{}{You find out who killed my brother, and all of Family Wright'll be thanking you. And that's no small thanks, understand?}
 {488}{}{I understand. Catch you later, Chris. }
 {495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
  he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
-{496}{}{Got it. Say, I had some other questions...}
+{496}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
 {497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules and Little Jesus... I'll check them out. Thanks for the info, Chris. }
 {1200}{}{! Way to kick the Enclave's ass!}
 {1201}{}{! You rock!}

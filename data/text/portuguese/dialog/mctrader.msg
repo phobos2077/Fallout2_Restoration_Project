@@ -1,5 +1,5 @@
 {100}{}{A Rose faz os melhores omeletes.}
-{101}{}{Psst... Stay away from the brahmin fries.}
+{101}{}{Psst... Fique longe das batatas fritas brahmin.}
 {102}{}{Eu venho aqui sempre que posso.}
 {103}{}{Você já experimentou os omeletes que a Rose faz?}
 {110}{}{Você sentiu esse cheiro?}

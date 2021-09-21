@@ -150,7 +150,7 @@
 {537}{}{Golgotha?}
 {545}{}{Yeah, this graveyard outside o' town. It's where they put debtors and people who've crossed the families.
  They just string 'em up on posts and let 'em die slowly in the sun. Not my choice a' dying. Stinks like hell out there.}
-{547}{}{Interesting. Say, I had some other questions...}
+{547}{}{Hum. Diga, eu tinha algumas outras perguntas...}
 {548}{}{Sounds great. Thanks for the information.}
 {555}{}{Well, now, ANOTHER thing you gotta know about New Reno is nothin's free. If it is, ex-amine the merchandise.}
 {556}{}{Well, now, that kind of info don't come cheap. You got the chips? Then you got my attention.}
@@ -167,7 +167,7 @@
 {578}{}{Tell me about the Salvatore Family.}
 {579}{}{Tell me about the Bishop Family.}
 {580}{}{Tell me about the Wright Family.}
-{581}{}{I had some questions about New Reno...}
+{581}{}{Eu tenho algumas perguntas sobre New Reno...}
 {582}{}{Actually, nevermind. We'll talk some other time.}
 {590}{}{(Holds up two fingers.) The Mordinos are a two-headed beast, friend, an' each head's named Jesus Mordino.}
 {591}{}{Continue...}

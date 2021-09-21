@@ -6,8 +6,8 @@
 {105}{}{Красный мутант!}
 {106}{}{Ты нас всех уничтожил.}
 {107}{}{Ты заплатишь за свои делишки.}
-{108}{ssa2}{Ты (кашель), ты не победил. Ты и твои дружки-выродки вместе со мной попадете в большой-большой грибочек. Я только что запустил самоуничтожение. (Смешок пополам с кашлем...) Работа будет продолжаться. Ты ничего не добился, только подписал себе смертный приговор.  Долг, (кашляет) честь... храбрость... Морская пехо...}
-{109}{ssa2}{Ты (кашель), ты не победил. Ты и твои дружки-выродки вместе со мной попадете в большой-большой грибочек. Я только что запустил самоуничтожение. (Смешок пополам с кашлем...) Работа будет продолжаться. Ты ничего не добился, только подписал себе смертный приговор.  Долг, (кашляет) честь... храбрость... Морская пехо...}
+{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
 {110}{}{О-о... Тут большая бяка. Моя бежать корабль.}
 {111}{}{Побегу-ка я на корабль, смываться отсюда к чертовой матери.}
 {112}{ssa3alt}{Ты зашел куда дальше, чем следовало, но ты пока и не встречался с Фрэнком Хорриганом. Все, выродок, ты попал. Пришло время умирать.}

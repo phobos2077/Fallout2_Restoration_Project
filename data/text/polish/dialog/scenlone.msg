@@ -27,7 +27,7 @@
 {126}{}{Nie, szukam GECKa.}
 {127}{}{Pomóc? Jak?}
 {128}{}{Wyrzutnia rakiet daje mi ca³y spokój duchowy, jakiego potrzebujê, paniusiu.}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
+{129}{}{"Prawdziwie zrozum" to! (Pokazujesz jej œrodkowy palec.)}
 {130}{}{Merk? Czego on chce?}
 {131}{}{To proste. Chcê twojej œmierci. Powiedz pa pa.}
 {132}{}{Nie wiem, co zrobi³aœ, ale mam na pani¹ zlecenie. Dobranoc.}

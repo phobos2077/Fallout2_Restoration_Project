@@ -55,7 +55,7 @@
 {295}{}{(Nods at case.) Well, this briefcase was worth it. A little slice of Vault City inside, some of that precious
  tech that frigid bitch Lynette doesn't want to part with... but hey, tribal, I ain't paid you yet. Here's your cut.}
 {296}{}{Say... I don't have any other jobs lined up at the moment. Do you have any work for me?}
-{297}{}{Yeah... thanks. Look, I've got to be going.}
+{297}{}{Sim... obrigado. Viu, eu tenho que ir..}
 {305}{}{No... I ain't got no more work for you... but hey, thanks for all you've done. }
 {306}{}{No... I ain't got nothing for you. Lotta deaths down in NCR recently have made my life a little easier... but hey, thanks
  for the delivery. }
@@ -160,7 +160,7 @@
 {545}{}{Hold on a minute there, tribal... you did good. I got another job for you, IF you're interested.}
 {547}{}{No, thanks. I'm not interested.}
 {550}{}{(Checks you out for a moment, then nods.) }
-{551}{}{Yeah... I got a job for you. }
+{551}{}{Sim... tenho um trabalho pra você.}
 {552}{}{I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's
  dead yet. }
 {553}{}{I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. }
@@ -202,7 +202,7 @@
 {632}{}{All right, that's good enough to go on. Carlson's a dead man.}
 {640}{}{His wife's dead, but he's got a son, only seven or eight years old, that lives in the mansion with him...(Thinks.)...the
  place is bound to be guarded, though, so keep an eye out for security.}
-{642}{}{Wait a minute... how MANY guards?}
+{642}{}{Espere aí... QUANTOS guardas?}
 {650}{}{Don't know exactly how many. I'd scope out the place, get a feel for the numbers. Of course, dealing with them's
  YOUR problem, tribal.}
 {651}{}{Great, that's really helpful. Look, I had some other questions about Carlson...}
@@ -242,7 +242,7 @@
 {741}{}{...}
 {745}{}{...I like it, I like it. Now, if you wanna cash in on your reputation, hit the bar downstairs, or head down Virgin
  Street to the Cat's Paw. If you want to get some weapons, head on over to New Reno Arms.}
-{746}{}{Will do... boss.}
+{746}{}{Vou fazer... chefe.}
 {750}{}{Hey... }
 {751}{}{. Everybody treating you all right?}
 {752}{}{Everything's going good, Mr. Bishop. Just thought I'd check in, make sure everything's going well for you.

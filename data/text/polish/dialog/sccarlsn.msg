@@ -1,4 +1,4 @@
-{100}{}{You see an elderly, frail man.}
+{100}{}{Widzisz starszego, w¹t³ego mê¿czyznê.}
 {101}{}{To wiceprezydent Carlson.}
 {102}{}{Choæ jest s³aby fizycznie, jego oczy odzwierciedlaj¹ jego ogromn¹ si³ê moraln¹. Oto cz³owiek zdecydowany.}
 {103}{}{Co ty tutaj robisz? Stra¿e!}

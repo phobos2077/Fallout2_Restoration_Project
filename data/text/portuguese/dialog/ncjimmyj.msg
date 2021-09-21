@@ -139,7 +139,7 @@
 {510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
  MYRON.}
 {511}{}{Myron?}
-{512}{}{Interesting. Say, I had some other questions...}
+{512}{}{Hum. Diga, eu tinha algumas outras perguntas...}
 {513}{}{Myron, huh? Can I meet this... living god?}
 {514}{}{Really? Well, I'll be sure to come back and buy some later on. Thanks, Jimmy.}
 {520}{}{He's Family Mordino's golden boy. He MADE Jet. Buying from Jagged Jimmy is like buying from Myron himself, y'hear? That's

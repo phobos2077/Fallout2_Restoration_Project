@@ -56,7 +56,7 @@
 {163}{}{Obrigado.}
 {164}{}{heh..heh!}
 {165}{}{Ecky, ecky, p’tang!}
-{166}{}{I'm going to get pissed.}
+{166}{}{Estou começando a ficar pistola.}
 {167}{}{Nada como mijo de geckos.}
 {168}{}{Obrigado pelo mijo de gecko.}
 {169}{}{Hurra!}
@@ -69,6 +69,6 @@
 {176}{}{Mijo dourado!}
 {177}{}{Certo!}
 {178}{}{Amo essa urina.}
-{179}{}{You're a good Tribal.}
+{179}{}{Você é um bom tribal.}
 {180}{}{Jogada inteligente.}
 {181}{}{Yeah!}

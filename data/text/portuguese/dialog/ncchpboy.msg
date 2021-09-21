@@ -17,7 +17,7 @@
 {224}{}{Would it be too much trouble for you to check under my hood?}
 {225}{}{Aw, hell, I look like crap, then you show up. Don't mind the grease, miss.}
 {226}{}{You looking for talent? T-Ray's in the back, so don't bother going there.}
-{227}{}{I knew I should have washed today...}
+{227}{}{Eu sabia que deveria ter lavado hoje...}
 {228}{}{Check your oil? Heh-heh.}
 {229}{}{Wanna see my lil' grease monkey?}
 {230}{}{::Assobios::}

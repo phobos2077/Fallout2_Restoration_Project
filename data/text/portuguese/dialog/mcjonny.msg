@@ -3,7 +3,7 @@
 {102}{}{Cabelo louro, olhos azuis; um típico garoto americano da cabeça aos pés.}
 {150}{}{Waaaaa!}
 {151}{}{Eu quero o meu cachorro de volta!}
-{152}{}{Whimper... }
+{152}{}{Lamento... }
 {153}{}{Estranho!}
 {154}{}{Laddie! Senti sua falta. Obrigado por devolver meu cão.}
 {155}{}{Olá, eu não vi você por aqui antes.}

@@ -17,7 +17,7 @@
 {173}{}{Why you sneaking around? Somebody chasing you?}
 {180}{}{Ora ora, se não é }
 {181}{}{You LOST, pal? You better get out of here.}
-{182}{}{This guy's asking for trouble...}
+{182}{}{Esse cara tá procurando problemas...}
 {183}{}{Get out of here. Now.}
 {184}{}{Unless you're looking for trouble, you better leave right now.}
 {185}{}{Ora ora, se não é }

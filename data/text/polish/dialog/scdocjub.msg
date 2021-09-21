@@ -114,7 +114,7 @@
 {272}{}{ dnia, }
 {273}{}{braknie mi czasu na zorganizowanie kolejnej partii. Jestem pewien, ¿e znajdziesz farmaceutê, który ma mniej pracy i wiêcej czasu.}
 {274}{}{Rozumiem. Có¿ i tak dziêki.}
-{280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
+{280}{}{(Doktor Jubilee gapi siê na ciebie przez chwilê) Aw, nie dasz mi spokoju, prawda? Nie dasz. (Spogl¹da na ciebie znowu, kiwa g³ow¹ i wypuszcza powietrze z policzków) Hmmm, przyjacielu. Tak czy owak nie by³obym lekarzem, gdybym pozwoli³ ci st¹d odejœæ bez co najmniej kilku wskazówek.}
 {281}{}{Zobaczmy... na pocz¹tek, co nale¿y przestaæ robiæ... Dobrze, a wiêc rzucamy picie, palenie, nie jemy czerwonego miêsa, odk³adamy wszelak¹ chemiê na bok. Staramy siê poœwiêcaæ pó³ godziny dziennie na ³agodne æwiczenia. Wszystko co robimy, robimy spokojnie, bez nerwów. ¯ycie to nie wyœcig, w którym chcemy byæ pierwsi na mecie. Prawdê mówi¹c, nikt nie s³ucha tych rzeczy, ale przynajmniej bêdê móg³ zasn¹æ spokojnie.}
 {282}{}{I najwa¿niejsze trzeba znaleŸæ ci dobrego chemika i zapewniæ regularne dostawy Triproxinilu. Tri-prox-i-nil. Rustkowie nie oferuje takich luksusów jak zawartoœæ tamtej pó³ki, ale jeœli ju¿ uda ci siê znaleŸæ coœ konkretnego to zalecana dawka wynosi 30 miligramów dwa razy dziennie.}
 {283}{}{Po za¿yciu leków pij spor¹ iloœæ wody. Dla jasnoœci, trzymaj siê z dala od tej wiagry z Nowego Reno, ³apiesz? Te tabletki marnie ze sob¹ wspó³graj¹. Facet bierze jedn¹ tabletkê, podczas gdy jest pod dzia³aniem innej, a jego ma³y John Thomas przestajê byæ miêczakiem i staje siê takim twardzielem, ¿e po krótkiej chwili nie czujesz go wcale, nad¹¿asz?}
@@ -141,7 +141,6 @@
 {321}{}{ dni, }
 {322}{}{ dnia, }
 {323}{}{a ja jestem zbyt zajêty by móc wydaæ w tym czasie kolejn¹ partiê.}
-{324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
- Oh, sorry. What can I do for you today?}
+{324}{}{(Mruczy do siebie.) Gdzie ja, do cholery, przesia³em te pigu³ki dla Westin'a. Bez nich jego serce d³ugo nie poci¹gnie. (Patrzy w górê) Oh, przepraszam. Jest coœ co mogê dla ciebie zrobiæ?}
 {325}{}{Mówi³eœ coœ o tabletkach na serce. Chcia³bym siê od ciebie dowiedzieæ czegoœ wiêcej na temat tych leków.}
-{330}{}{(Mutters to himself.) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills precisely. (He looks up) Oh, sorry. What can I do for you today?}
+{330}{}{(Mruczy do siebie.) Nie mogê w to uwierzyæ, Westin nie ¿yje. To nie mog³a byæ moja wina, przecie¿ dok³adnie dawkowa³em pigu³ki. (Patrzy w górê) Oh, przepraszam. Jest coœ co mogê dla ciebie zrobiæ?}

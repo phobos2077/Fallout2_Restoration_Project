@@ -284,7 +284,7 @@
 {582}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
 {583}{}{Me desculpa, por eu estar respirando seu ar? Eu vou parar.}
 {584}{}{Dê minhas saudações para o seu chefe.}
-{585}{}{Look, please... I don't want any trouble.}
+{585}{}{Olha, por favor... Eu não quero problema nenhum.}
 {586}{}{Hello, ma'am. How are you?}
 {587}{}{Anything wrong, ma'am?}
 {600}{}{What's with all the slavers around here recently?}

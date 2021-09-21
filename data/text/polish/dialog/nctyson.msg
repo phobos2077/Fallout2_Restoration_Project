@@ -11,7 +11,7 @@
 {161}{}{Bardzo lubiê lody waniliowe.}
 {162}{}{Gnarrrr}
 {163}{}{Nrrrarh}
-{164}{}{Mike like ears.}
+{164}{}{Mike lubiæ uszy.}
 {165}{}{Uszy mmmmmmm.}
 {166}{}{Grrrrrr}
 {167}{}{Gr. Gr? Grrrrrrr.}

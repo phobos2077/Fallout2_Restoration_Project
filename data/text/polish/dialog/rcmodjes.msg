@@ -35,7 +35,7 @@
 {134}{}{Jestem Madame Modrzejewska. Kiedyœ, miêdzy innymi, za¿ywa³am Jetu. Teraz zajmujê siê innymi sprawami. Zda³am sobie sprawê, ¿e Ja i Jet nie pasujemy do siebie..}
 {135}{}{Co Madame mo¿e zrobiæ dla ciebie?}
 {136}{}{Czym siê tu zajmujesz, Madame Modrzejewska?}
-{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
+{137}{}{Wygl¹da na to, ¿e du¿o ludzi tutaj jest amatorami narkotyków. Co ostatnio dzieje siê w mieœcie?}
 {138}{}{Czy s³ysza³aœ jakieœ ciekawe plotki?}
 {139}{}{Dlaczego mówi¹ na ciebie Madame Modrzejewska?}
 {140}{}{Co z tob¹?}

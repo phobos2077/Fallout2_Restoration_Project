@@ -6,8 +6,8 @@
 {105}{}{Czerwony mutant!}
 {106}{}{Zniszczono nas i to ty za to odpowiadasz.}
 {107}{}{Zap³acisz mi za swoje czyny.}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
 {110}{}{Uch-oh. Niedobre tu bêdzie. Ja szybko dobiec statek.}
 {111}{}{Lepiej wrócê na statek i wyniosê siê st¹d w cholerê.}
 {112}{ssa3alt}{Uda³o ci siê dotrzeæ du¿o dalej, ni¿ powinno, ale te¿ dot¹d nie stan¹³ na twej drodze Frank Horrigan. Koniec jazdy, mutancie. Czas umrzeæ.}

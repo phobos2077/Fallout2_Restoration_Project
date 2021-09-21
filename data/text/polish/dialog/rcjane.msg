@@ -5,7 +5,7 @@
 {104}{}{Oooch. Futerko.}
 {105}{}{Futerko ³aaadne.}
 {106}{}{Ach, rozumiem. Jesteœ od niedawna w mieœcie. Wiesz, powiem ci coœ. Postawiê za ciebie specjalny zak³ad w czasie jutrzejszych walk. Czy chcesz, abym to zrobi³a?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse)}
+{107}{}{(Kiwasz g³ow¹) Uuk, Uuk. (i dajesz swoj¹ sakiewkê).}
 {108}{}{Muuk? Gaga. Pa pa, futerko.}
 {109}{}{Dobry pomys³. Wróæ tu jutro i jeœli twój zwierzak wygra walki, to dam ci twoje pieni¹dze. W porz¹dku?}
 {110}{}{Okej, dobre posuniêcie. Upewniê siê, ¿e otrzymasz naprawdê specjalny zak³ad. Na razie.}

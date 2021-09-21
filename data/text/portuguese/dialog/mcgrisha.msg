@@ -154,7 +154,7 @@ Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matando os brah
 {1239}{}{Let me see. It looked to me that you and my nephew were doing the horizontal tango between the
  sheets.}
 {1403}{}{How dare you sully the honor of my brother's }
-{1412}{}{daughter.}
+{1412}{}{filha.}
 {1413}{}{son.}
 {1600}{}{. Espero que esteja tomando conta da minha filha. Ela é a luz da minha vida e meu coração quebraria se algo acontecesse com ela. Falando nisso, aonde ela está? Tinha esperança de ver ela de novo.}
 {1601}{}{. Como está a vida de casado? Vejo que meu filho não está com você. Sinto muita falta dele. Talvês na sua próxima visita você o traga aqui. Isso faria um velho homem feliz em ver seu filho novamente.}

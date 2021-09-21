@@ -8,7 +8,7 @@
 {153}{}{[Este cão parece estar muito agitado.]}
 {154}{}{Belo cãozinho.}
 {155}{}{Sabe onde Jonny está, menina?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Fique aqui, rapaz.}
 {157}{}{Vamos procurar Jonny.}
 {158}{}{Jonny caiu no poço, Laddie?}
 {159}{}{Qual é o problema? Está tentando me dizer alguma coisa?}

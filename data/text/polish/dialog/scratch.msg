@@ -14,7 +14,7 @@
 {113}{}{O-kej czy nie, jesteœ po prostu szczególny! Mo¿e bêdê kupowaæ gdzie indziej.}
 {114}{}{Pozwól, ¿e przejrzê twój towar jeszcze raz.}
 {115}{}{Chyba ja i Edna ju¿ sobie pójdziemy.}
-{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
+{116}{}{Có¿, dziêki Bogu, ¿e ten nieznajomy nie zabra³ ciebie dziecko... Moje rzeczy, rozumiesz, s¹ dla mnie jak dzieci.}
 {117}{}{Yy - jasne.}
 {118}{}{Có¿, chyba ju¿ sobie pójdê.}
 {119}{}{Potrafiê naprawiæ ró¿ne rodzaje sprzêtu. Mam dopalacz, nazwa³em go Klaudia, pasuje do wiêkszoœci wozów - daje im o wiele wiêcej mocy. Tylko 1000$. Interesuje ciê to?}

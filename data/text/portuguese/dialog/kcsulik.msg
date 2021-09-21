@@ -30,7 +30,7 @@
 {140}{slk6a}{Espíritos comigo, amigo. Eles estar todos ao meu redor. Às vezes eles fala.}
 {141}{}{Parece que você andou fumando algumas, hein?}
 {142}{}{Que espíritos?}
-{143}{}{Ok... Can I ask you something else?}
+{143}{}{Ok... Posso perguntar mais alguma coisa?}
 {150}{slk6b}{Isso ser engraçado, amigo. Vovô Osso acha. Ele diz que você espirituoso. Diz que vai precisar disso.}
 {151}{}{Por quê?}
 {152}{}{Quem é Vovô Osso?}
@@ -481,9 +481,9 @@
 {3082}{}{É bom estar em casa novamente.}
 {3083}{}{Tantas jovens donzelas para contar nossas viagens - e tão pouco tempo.}
 {3084}{}{Nós ver a necessidade de ter uma conversa com a erva-soberba. Deixe o mundo flutuar aos poucos.}
-{3086}{}{Take care, fren.}
+{3086}{}{Se cuida, migo.}
 {3087}{}{Nós te deseja muita sorte.}
-{3088}{}{Thanks again for everything, fren.}
+{3088}{}{Obrigado novamente por tudo, migo.}
 {3090}{}{Esta aqui é a nossa aldeia. Nós falar com os nossos amigos.}
 {3091}{}{Nós falar com os nossos amigos novamente antes cair fora.}
 {3100}{}{[MAIS]}

@@ -3,7 +3,7 @@
 {150}{}{You see a spindly-looking old man with a sunburned face. He's so thin he looks like he's made out of twigs.}
 {151}{}{You see Three-Card Monte. He scopes out the street, spots you, and nods.}
 {152}{}{You see Three-Card Monte. He scopes out the street, spots you, and nods.}
-{200}{}{Don't see how I lost...}
+{200}{}{Não entendo como perdi...}
 {201}{}{Just keep walking... Monte's not in business today.}
 {202}{}{Did I palm the wrong card?}
 {203}{}{How did that stupid tribal keep picking the right card?}
@@ -123,7 +123,7 @@
 {365}{}{Leftie! Leftie!}
 {366}{}{Rightie! Rightie!}
 {367}{}{Middlie! Middlie!}
-{368}{}{Oh, I don't know... the one on the left.}
+{368}{}{Oh, eu não sei... o da esquerda.}
 {369}{}{Hmmmm... maybe the one on the right?}
 {370}{}{Gee, I'm not sure... I think it's the one in the middle.}
 {375}{}{(Monte turns over the card. It is the queen of hearts. He seems paralyzed with shock.) Uh...? Heh. Eh...}
@@ -166,8 +166,8 @@
 {431}{}{All right then, Monte. We're even.}
 {435}{}{(Monte frowns as he sees you.) Look, I ain't running no games today, all right? Blow.}
 {436}{}{Can I buy that card you showed me before?}
-{437}{}{I wanted some information...}
-{438}{}{All right, Monte. I'll leave... for now.}
+{437}{}{Procuro algumas informações...}
+{438}{}{Tudo bem, Monte. Eu vou embora... por enquanto.}
 {440}{}{Nope. Ain't gonna part with that. Period. It's GENUINE pre-war memorabilia... a little slice of history. No WAY.}
 {441}{}{You making me ANOTHER offer? Look, I told you I ain't selling it.}
 {442}{}{How about a thousand chips? I got it with me. It's yours in exchange for that card.}
@@ -177,7 +177,7 @@
 {446}{}{Okay. I had some other questions...}
 {447}{}{Nevermind then, Monte. I'm outta here.}
 {450}{}{You deaf? That amount ain't even enough to interest me.}
-{451}{}{How about I suggest another amount...?}
+{451}{}{Que tal eu sugerir outra quantia...?}
 {452}{}{Eu tenho mais algumas perguntas...}
 {453}{}{Nevermind then, Monte. I'm outta here.}
 {460}{}{Well, it ain't THAT dear to me. It's yours, pal. (He glances to the right and left, then reaches down and pulls off his
@@ -197,7 +197,7 @@
 {479}{}{Not even for 750 chips?}
 {480}{}{How about 500 chips?}
 {481}{}{250 chips sound about right?}
-{482}{}{Uh... Golgotha?}
+{482}{}{Uh... Gólgota?}
 {483}{}{Eu tenho mais algumas perguntas...}
 {484}{}{Nevermind then, Monte. I'm outta here.}
 {490}{}{(Shakes his head.) No way. Talking about that could get somebody killed, startin' with me. Forget it.}
@@ -207,7 +207,7 @@
 {495}{}{Eh... well... that's a lot of chips. (Licks his lips. He looks like he's fighting an inner battle....but the battle is a brief one.) Look, you ain't heard it from me...}
 {496}{}{Understood. Go on.}
 {500}{}{(Sneers) Maybe I heard something, maybe I didn't. Name a price.}
-{501}{}{All right... talk a price.}
+{501}{}{Tudo bem... Diga um preço.}
 {502}{}{How about a thousand chips? I got it with me.}
 {503}{}{Not even for 750 chips?}
 {504}{}{How about 500 chips?}
@@ -222,7 +222,7 @@
 {516}{}{Eu tenho mais algumas perguntas...}
 {517}{}{Entendi. Obrigado.}
 {520}{}{(Shrugs) Maybe I know something about that, maybe I don't. Tell me a price and I might have something to say.}
-{521}{}{All right... talk a price.}
+{521}{}{Tudo bem... Diga um preço.}
 {522}{}{How about a thousand chips? I got it with me.}
 {523}{}{Not even for 750 chips?}
 {524}{}{How about 500 chips?}

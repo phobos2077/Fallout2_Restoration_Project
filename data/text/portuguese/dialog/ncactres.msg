@@ -90,7 +90,7 @@
 {331}{}{Are you the French girl or the Russian girl in the next scene?}
 {332}{}{I wish the birth control was a little more reliable.}
 {333}{}{Did you steal my high heels?}
-{334}{}{I'm feeling a little tired... got any Jet?}
+{334}{}{Estou me sentindo um pouco cansado... tem algum jet?}
 {335}{}{Hmphhh!}
 {336}{}{No, I'm sorry, sweetheart. I don't know where the Brothers are.}
 {337}{}{Show you the way out?}
@@ -154,7 +154,7 @@
 {421}{}{I'm sorry, I thought you were good looking, but I was mistaken.}
 {422}{}{Você? Desculpe, eu NUNCA estive com tanto desespero.}
 {423}{}{I haven't seen the Brothers around... now don't bother me. I'm an actress.}
-{424}{}{Please... no autographs.}
+{424}{}{Por favor... sem autógrafos.}
 {425}{}{I really want to direct.}
 {426}{}{I'm dancing at the casinos on Thursday. Catch my act and bring some chips.}
 {427}{}{You couldn't possibly imagine the stress of my life.}

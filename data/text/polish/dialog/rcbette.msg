@@ -76,8 +76,7 @@
 {175}{}{Chyba masz trochê bystrzejszy umys³ ni¿ na to wygl¹da. Ale w koñcu musisz mieæ, bo stoisz na nogach. Po prostu biegnij do mamusi i powiedz, ¿e nic nie da³o siê zrobiæ.}
 {176}{}{Dobra. Mam doœæ twojego gadania. Ostatnia szansa: chodŸ ze mn¹, albo rozerwê ciê na kawa³ki.}
 {177}{}{Tak te¿ zrobiê. W koñcu nie chcê nikogo krzywdziæ. Do widzenia.}
-{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
- (to Caminetto) Right, my little fuckface?}
+{178}{}{Widzê, do czego to zmierza, ty kupo gówna. Okej, mo¿esz aresztowaæ i mnie i Caminetto. (do Caminetta) Prawda, mój ty ma³y pierdolcu?}
 {179}{}{No, tak ju¿ lepiej.}
 {180}{}{Teraz nigdzie ju¿ nie pójdziecie... Zaraz zacznie siê niez³a jatka... }
 {181}{}{Przypuszczam, ¿e skopiê dupê Cominetto kiedy indziej.}

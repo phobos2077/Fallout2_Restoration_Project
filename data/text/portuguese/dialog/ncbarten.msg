@@ -16,7 +16,7 @@
 {219}{}{Nós não deixamos clientes tomarem Buffout aqui, chapa.}
 {225}{}{É melhor 'cê dar o fora daqui antes que seja servido com mais chumbo do que
  'güenta tomar, entendeu?}
-{226}{}{Go on... get out. We don't want no trouble.}
+{226}{}{Vai logo... saia. Não queremos tretas.}
 {227}{}{Eles vão acabar com você se continuar por aqui. Cai fora.}
 {228}{}{Nós estamos com o estoque vazio. Agora cai fora, otário.}
 {236}{}{! Qual é o seu veneno?}

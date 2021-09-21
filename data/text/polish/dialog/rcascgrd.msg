@@ -31,7 +31,7 @@
 {130}{}{Rozerwê ciê na strzêpy za rozpoczynanie tu bójki.}
 {131}{}{Ty dupku.}
 {132}{}{Po czymœ takim nie mo¿esz ujœæ z ¿yciem.}
-{133}{}{Time to take you outta' da' gene-pool.}
+{133}{}{Czas usun¹æ ciê z tego puli genów.}
 {134}{}{Powinieneœ by³ pomyœleæ.}
 {135}{}{Przykro mi, ¿e do tego dosz³o.}
 {136}{}{Ty palancie.}
@@ -42,7 +42,7 @@
 {141}{}{Bêdziemy musieli post¹piæ z tob¹ twardo.}
 {142}{}{To naprawdê zaboli... ciebie.}
 {143}{}{Lepiej to od³ó¿.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
+{144}{}{Nie chcemy tu k³opotów, przyjacielu. Od³o¿ to.}
 {145}{}{Lepiej od³ó¿ tego gnata.}
 {146}{}{Lepiej wsadŸ to do kabury.}
 {147}{}{Od³ó¿ tê broñ.}

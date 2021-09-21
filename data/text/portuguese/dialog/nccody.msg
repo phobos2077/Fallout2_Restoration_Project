@@ -24,7 +24,7 @@
 {221}{}{(Cody's eyes get wide, and he runs away.)}
 {223}{}{ME KILL YOU ME KILL YOU ME KILL YOU ME KILL --}
 {224}{}{Maybe next time, then.}
-{225}{}{Little shit...}
+{225}{}{Bostinha...}
 {230}{}{(Cody continues to stare at you.)}
 {231}{}{Uh, you all right, Cody?}
 {239}{}{Well, see you later, Cody. Take care.}
@@ -40,7 +40,7 @@
 {263}{}{Hey, Cody. Want some delici... er, edible... slab of Dunton's drymeat? Mmmmmm... uh... good.}
 {270}{}{(Cody grabs the item and runs away.)}
 {271}{}{::Mutter under your breath about the state of youth today.::}
-{272}{}{You're welcome, kid...! Don't mention it...!}
+{272}{}{De nada, criança...! E não mencione isso...!}
 {273}{}{Sheesh. Little bugger.}
 {274}{}{Should sell the ungrateful little bastard into slavery... hmmmm, wait a minute...}
 {280}{}{(Cody nods!)}

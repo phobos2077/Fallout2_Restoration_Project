@@ -27,7 +27,7 @@
 {126}{}{Jak rozumiem pani prezydent ma pewn¹ pracê, któr¹ trzeba zrobiæ.}
 {127}{}{Pani Prezydent ju¿ nie udziela wywiadów dotycz¹cych Krypty 13. Przykro mi. Jest zbyt zajêta, aby spotykaæ siê z ka¿dym poszukiwaczem, który siê tu zjawi.}
 {128}{}{Co? Nie rozumiem.}
-{129}{}{What about a GECK? She might know something about that?}
+{129}{}{A co z GECKiem? Mo¿e ona wie coœ na ten temat?}
 {130}{}{Mówi³o siê coœ o pracy.}
 {131}{}{Jesteœ kompletnie bezu¿yteczny. Idê st¹d.}
 {132}{}{Wiêc sugerujê przeczytaæ tablicê na pomniku na zewn¹trz. A teraz dobrego dnia ¿yczê.}

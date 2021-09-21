@@ -83,8 +83,8 @@ aqui e sentar-se perto de mim.}
 {402}{}{Claro que sim!}
 {410}{}{Uhh...}
 {411}{}{Uhhh... Continue, por favor...}
-{412}{}{I sure the hell...}
-{413}{}{Um... I do.}
+{412}{}{Eu com certeza...}
+{413}{}{Hum... eu faço.}
 {420}{}{Tio Biff!}
 {450}{}{Uhhh, eu acho que o papai é você aquela que deve falar demais}
 {470}{}{Uhhh, eu acho que o tio Biff aquele que você disse que falar demais.}

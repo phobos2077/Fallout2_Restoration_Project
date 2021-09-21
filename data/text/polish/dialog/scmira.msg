@@ -7,7 +7,7 @@
 {106}{}{Krypty 13?}
 {107}{}{GECK?}
 {108}{}{Niewa¿ne. Podaj mi specjalnoœæ zak³adu.}
-{109}{}{Gimme a beer.}
+{109}{}{Podaj mi piwo.}
 {110}{}{Informacje.}
 {111}{}{Szukam pracy.}
 {112}{}{Có¿, przecie¿ to ty! Dok³adnie tak jak lubiê.}

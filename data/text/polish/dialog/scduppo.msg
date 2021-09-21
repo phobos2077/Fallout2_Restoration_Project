@@ -1,5 +1,5 @@
 {100}{}{Widzisz mê¿czyznê o czerwonej twarzy i przyjaznym wygl¹dzie.}
-{101}{}{It's Duppo. He runs the Stockman's Association.}
+{101}{}{To jest Duppo. Pracuje w Stowarzyszeniu Hodowców Byd³a.}
 {102}{}{Ten krêpy cz³owiek ma wiecznie zarumienion¹ twarz i strzechê rzadkich, jasnych w³osów na g³owie. Poruszaj¹c siê lekko utyka.}
 {103}{}{Witaj. Nie przypominam sobie, ¿ebym widzia³ ciê kiedyœ w tej okolicy, a to oznacza, ¿e nie jesteœ w³aœcicielem rancza. Szukasz pracy czy chcesz coœ kupiæ?}
 {104}{}{Co dla ciebie?}

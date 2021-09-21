@@ -3,17 +3,17 @@
 {102}{}{Cabelo loiro, olhos azuis, o todo típico garoto que olha o americano.}
 {150}{}{Waaaaa!}
 {151}{}{Eu quero o meu cachorro de volta!}
-{152}{}{Whimper...}
+{152}{}{Lamento...}
 {153}{}{Estranho!}
 {154}{}{Se Laddie foi para Jonny Laddie! Eu perdi você, garota. Obrigado por trazer o meu cachorro de volta para mim.}
 {155}{}{Olá, eu não vi você por aqui antes.}
 {156}{}{Seu nome é Jonny?}
-{157}{}{What's your name little boy?}
+{157}{}{Qual o seu nome, carinha?}
 {158}{}{Diga-me seu nome que monstrinho.}
 {159}{}{Gostaria alguns doces garotinho.}
 {160}{}{Olá novamente.}
 {161}{}{Seu nome é Jonny?}
-{162}{}{What's your name little boy?}
+{162}{}{Qual o seu nome, carinha?}
 {163}{}{Diga-me seu nome que monstrinho.}
 {164}{}{Gostaria alguns doces garotinho.}
 {165}{}{Olá novamente.}
@@ -29,7 +29,7 @@
 {175}{}{Meu nome é }
 {176}{}{.}
 {177}{}{Meu nome não é importante.}
-{178}{}{My name's Jonny and I don't like you.}
+{178}{}{Meu nome é Jonny e eu não gosto de você.}
 {179}{}{[Ele aponta para você e começa a gritar.] Estranho! Estranho! Estranho!}
 {180}{}{Muito prazer em conhecê- .}
 {181}{}{Sua mãe e seu pai me enviou para te encontrar.}
@@ -41,7 +41,7 @@ não poderia ter me ... Não é que eu duvido de você, mas o qual é o nome do meu p
 {186}{}{Balthas}
 {187}{}{Davin}
 {188}{}{Joshua}
-{189}{}{Don't you trust me Jonny?}
+{189}{}{Você não confia em mim Jonny?}
 {190}{}{Hmm ... .não. Obrigado, por trazer o meu cachorro de volta para mim, mas eu tenho que ir agora. Tchau.}
 {191}{}{Foi com certeza um prazer conhecê-lo, mas eu tenho que ir agora. Tchau.}
 {192}{}{Está certo! Yipee! Eu estou indo para casa. Peça Vegeir se está tudo certo para que você me levar para casa. Ele tem sido

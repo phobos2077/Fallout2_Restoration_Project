@@ -68,7 +68,7 @@
 {348}{}{Not really. Look, I better be going. }
 {355}{}{That a JOKE? If so, it damn well missed the funny mark by a mile. You trying to start something with Family Wright?}
 {356}{}{Start something? No, just FINISH it.}
-{357}{}{No, I'm sorry. I didn't mean it like that. Look, I had some other questions...}
+{357}{}{Não, desculpe. Eu não queria dizer isso. Olha, eu tinha algumas outras perguntas...}
 {358}{}{No, not at all. I think I better be going. }
 {365}{}{(Shrugs.) She just doesn't pay attention to what's going on around her. I love her n' all, but sometimes, she's as blind as a mule.}
 {366}{}{Well, not long ago, she charged into our alcohol still here and busted up the place, destroying our entire cash crop!
@@ -79,14 +79,14 @@
 {370}{}{I suppose. Look, I better be going. }
 {380}{}{She goes around and preaches all about sinning and stuff, but she doesn't even really know what Dad does. Either that, or she ignores it.}
 {381}{}{What does your Dad do?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
 {383}{}{Interesting. Well, I have to be going. }
 {390}{}{Makes alcohol, runs guns, rubs out people who fuck with him... typical family stuff. Mom'd be pissed if she actually paid
  mind to what was going on. And 'specially if she found this still, here.}
 {391}{}{How pissed would she be?}
 {400}{}{Probably pissed enough to wreck this place... at least. Then she'd give us all a tongue lashing and a few solid days of
  preaching. Heh. }
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Hum. Diga, eu tinha algumas outras perguntas...}
 {402}{}{Hmmmmm. Thanks. }
 {410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
  someone pumped him with drugs until he was dead.}
@@ -102,15 +102,15 @@
 {425}{}{I'm not looking for any trouble. I'll be going. }
 {435}{}{Yeah... well, just watch it. Them's fighting words to any Wright, so don't go shooting off your mouth like that, okay?}
 {437}{}{Look, KID, don't start with me. If you know what's good for you, you'll stop trying to throw down every time a little truth comes along and bites you in the ass.}
-{438}{}{Sorry, no offense intended. Say, I had some other questions...}
+{438}{}{Desculpe, não queria ofender. Diga, eu tinha algumas outras perguntas...}
 {439}{}{Understood. I better be going. }
 {445}{}{Piss off. I ain't got nothing more to say to you.}
-{446}{}{Wait, I just had one more question...}
+{446}{}{Espere. Eu tenho mais perguntas.}
 {447}{}{I'm leaving, I'm leaving. }
 {455}{}{(Chris stares at you for a moment, then lunges at you!)}
 {456}{}{So THIS is how it's gonna BE, huh? ALL RIGHT THEN, LET'S GO, MOTHER FU -- }
 {465}{}{My guess is the Mordinos, either one of their dealers or one of the Mordino family themselves. Bastards make tons of Jet.}
-{466}{}{Got it. Say, I had some other questions...}
+{466}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
 {467}{}{Which of the dealers do you think sold it to Richard?}
 {468}{}{I see. I better be going. }
 {475}{}{Could have been any one of them: Jagged Jimmy J, that scarred prick at the corner of Virgin Street, or Renesco

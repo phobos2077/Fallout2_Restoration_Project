@@ -57,7 +57,7 @@
 {275}{}{Hell, musta over-slept... woulda noticed otherwise... what th' hell was I saying?}
 {290}{}{Father Tully, at yer service. I'm th' spiritual advisor to the good p... well, to th' people of New Reno.}
 {291}{}{Is being drunk the only way that you can accomplish that?}
-{292}{}{I had some questions about New Reno...}
+{292}{}{Eu tenho algumas perguntas sobre New Reno...}
 {295}{}{I see. Well, thanks for talking with me.}
 {300}{}{Certintly not! In th' PAST, I was known to indulge in th'spirits, but th' Temperance Union has helped me break th' filthy habit!}
 {301}{}{The Temper --?}

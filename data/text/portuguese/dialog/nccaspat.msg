@@ -94,7 +94,7 @@
 {280}{}{Isso parece tão louco quato raposas transando.}
 {281}{}{Role os ossos.}
 {282}{}{O bebê precisa de um novo par de sapatos...}
-{283}{}{Damn lowrolling tourists...}
+{283}{}{Malditos turistas...}
 {284}{}{Caralho! Eu tinha *53* conto, então…}
 {285}{}{Todos podem ter sorte…}
 {286}{}{Por pouco!}
@@ -125,7 +125,7 @@
 {311}{}{Me dá um 7!}
 {312}{}{Você tem bolas, baby.}
 {313}{}{Quem é o grande vencedor essa noite? Mikey!}
-{314}{}{Don't crap out... c'mon...}
+{314}{}{Não fode tudo... vamos...}
 {315}{}{Eu tenho 'jet'…se é que me entende.}
 {316}{}{Isso é PURA mentira.}
 {317}{}{Eu só perdi 60 conto. Nos primeiros cinco minutos, é isso.}
@@ -164,13 +164,13 @@
 {349}{}{Se você pensa que essa armadura me intimida, você está certo.}
 {350}{}{Deve ser um desses vídeo games pré-guerra.}
 {351}{}{Olhe, por favor…Eu não quero arrumar encrenca. Eu estou na cidade só por um dia.}
-{352}{}{Look, please... I don't want any trouble.}
+{352}{}{Olha, por favor... Eu não quero problema nenhum.}
 {353}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
 {354}{}{Me desculpa, por eu estar respirando seu ar? Eu vou parar.}
 {355}{}{Dê minhas saudações para o seu chefe.}
 {356}{}{Uh…*glup*…algo errado?}
 {357}{}{Olhe, por favor…Eu não quero arrumar encrenca. Eu estou na cidade só por um dia.}
-{358}{}{Look, please... I don't want any trouble.}
+{358}{}{Olha, por favor... Eu não quero problema nenhum.}
 {359}{}{Você ta vendendo?}
 {360}{}{Eu posso comprar suas roupas? Eu digo, agora?}
 {361}{}{Eu SABIA que devia ter me barbeado hoje.}

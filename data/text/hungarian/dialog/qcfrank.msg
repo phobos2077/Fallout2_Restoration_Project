@@ -6,8 +6,8 @@
 {105}{}{Vörös mutáns!}
 {106}{}{Elpusztítottál valamennyiünket.}
 {107}{}{Fizetni fogsz azért, amit tettél!}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
 {110}{}{Ajjaj! Rossz történni itt. Futni vissza hajóra.}
 {111}{}{Jobb, ha felmegyek a hajóra, és eltûnök innen a búsba.}
 {112}{ssa3alt}{Messzire jutottál, messzebb, mint szabad lett volna, de még nem találkoztál Frank Horrigan-nel. A történet most befejezõdik, apró mutánsom. Itt az idõ, hogy meghalj!}

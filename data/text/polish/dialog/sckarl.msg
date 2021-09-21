@@ -22,13 +22,13 @@
 {121}{}{Twardziel, co?}
 {122}{}{Co macie z nim zamiar zrobiæ?}
 {123}{}{S³uchaj, czy ja o tobie czasem nie s³ysza³em? Ach tak pamiêtam - wiele dobrych rzeczy. Znam tu kilku ludzi, którym przyda³by siê ktoœ taki, jak ty. IdŸ do sklepu samochodowego i zapytaj o Elise. Powiedz jej, ¿e Karl przesy³a pozdrowienia.}
-{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{124}{}{Praca? Stowarzyszeniu Hodowców Byd³a poszukuje stra¿ników. NajeŸdŸcy ponawiaj¹ swoje ataki na ich transporty byd³a. S³ysza³em te¿, ¿e pani prezydent szuka kogoœ "obdarzonego", jak to okreœla. Pomog³o?}
 {125}{}{Có¿, mam inne pytania.}
 {126}{}{Odrobinê. Dziêki.}
 {127}{}{To jest oficer Jack. Jeden z naszych ludzi. Nie rozmawia³eœ z Mir¹, prawda?}
 {128}{}{Tak.}
 {129}{}{Kim jest Mira?}
-{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
+{130}{}{Ten sukinsyn? Ma ranczo tu¿ za miastem. Po prostu skrêæ w drogê obok Hodowców Byd³a.}
 {131}{}{Za bardzo go nie lubisz.}
 {132}{}{Có¿, mam inne pytania.}
 {133}{}{Dziêkujê.}

@@ -15,7 +15,7 @@
 {222}{}{Ei, }
 {225}{}{You just walked into the wrong place, dipshit.}
 {226}{}{Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.}
-{227}{}{This guy's asking for trouble...}
+{227}{}{Esse cara tá procurando problemas...}
 {228}{}{I hear the }
 {229}{}{You better leave, }
 {230}{}{Ora ora, se não é }
@@ -98,7 +98,7 @@
 {365}{}{Get you anything, boss?}
 {366}{}{Any word on the other families?}
 {367}{}{Um, got any Jet?}
-{368}{}{I sure could use a drink...}
+{368}{}{Com certeza eu gostaria de um copo...}
 {369}{}{Mrs. Bishop was checking me out again. It makes me uncomfortable.}
 {370}{}{Mrs. Bishop keeps looking at me like a slab of beef. I wish she'd realize that I just
  want to be held.}
@@ -120,7 +120,7 @@
 {391}{}{Onde você trabalha fora do ringue?}
 {392}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
 {393}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
-{394}{}{Wanna wrestle?}
+{394}{}{Quer lutar?}
 {395}{}{Você não parece ser tão forte, Srta. Gancho de esquerda.}
 {396}{}{Posso ver seus músculos abdominais?}
 {400}{}{Heard Mrs. Bishop was looking for you. Watch out, pal.}

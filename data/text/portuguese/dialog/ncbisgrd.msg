@@ -12,7 +12,7 @@
 {221}{}{? Go on up.}
 {225}{}{You just walked into the WRONG place, dipshit.}
 {226}{}{Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.}
-{227}{}{This guy's asking for trouble...}
+{227}{}{Esse cara tá procurando problemas...}
 {228}{}{You better leave, }
 {229}{}{Ora ora, se não é }
 {230}{}{I hear the }

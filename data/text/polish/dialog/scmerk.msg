@@ -25,7 +25,7 @@
 {124}{}{Co to kurde - godzina socjalna?}
 {125}{}{Jestem Merk. Czego chcesz?}
 {126}{}{Znowu ty?}
-{127}{}{Well, keep it polite, punk, or this could get ugly.}
+{127}{}{B¹dŸ grzeczny gnoju, bo mo¿e byæ niemi³o.}
 {128}{}{Oort.}
 {129}{}{Szukam pracy.}
 {130}{}{Z pewnego Ÿród³a wiem, ¿e jesteœ w³aœciwa osob¹ do robienia interesów, jeœli wiesz o czym mówiê.}
@@ -95,7 +95,7 @@
 {194}{}{Jestem wykszta³conym cz³owiekiem. Co chcesz wiedzieæ?}
 {195}{}{Pytaj.}
 {196}{}{Szukam Krypty 13.}
-{197}{}{Ever heard of a GECK?}
+{197}{}{S³ysza³eœ kiedyœ o GECKu?}
 {198}{}{Co wiesz na temat o Stra¿ników?}
 {199}{}{Co mo¿esz mi powiedzieæ o Westinie?}
 {200}{}{Potrzebujê informacji o wiceprezydencie Carlsonie.}
@@ -107,7 +107,7 @@
 {206}{}{Jasne. Zajmê siê tym.}
 {207}{}{Pewnie masz jeszcze jakiœ most na sprzeda¿, co?}
 {208}{}{Mo¿e póŸniej.}
-{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
+{209}{}{To jakiœ narkotyk z Nowego Reno? Nigdy o nim nie s³ysza³em.}
 {210}{}{Nie, ale mam inne pytania.}
 {211}{}{To wszystko, czego potrzebujê.}
 {212}{}{Te dranie? Najlepiej niech siê trzymaj¹ z daleka ode mnie, albo ich podziurawiê.}
@@ -120,7 +120,7 @@
 {219}{}{Có¿, myœlê, ¿e nigdy nie bêdê mia³ szansy siê z nim zobaczyæ. Ja te¿ wiele o nim wiem.}
 {220}{}{To wszystko, czego potrzebujê.}
 {221}{}{To wszystko?}
-{222}{}{No, I've got some more questions.}
+{222}{}{Nie, mam jeszcze kilka pytañ.}
 {223}{}{Tak, to ju¿ wszystko na dzisiaj.}
 {224}{}{Hej, cz³owiek musi siê staraæ. Krypta 13 to praktycznie miejsce kultu w tej okolicy. Zbudowali nawet pomnik jakiemuœ goœciowi, który stamt¹d pochodzi³. To wszystko, co wiem.}
 {225}{}{Da³em ci za to mapê, spróbuj z niej skorzystaæ.}

@@ -169,8 +169,7 @@
 {268}{}{Dziêki. Pozwól, ¿e spytam ciê o coœ innego, burmistrzu.}
 {269}{}{W takim razie pójdê tam i pogadam z nimi. Dziêki, burmistrzu. Do widzenia.}
 {270}{}{Ostatnio nasze transporty z³ota zaczê³y trochê siê zmniejszaæ, poniewa¿ górnicy spêdzaj¹ zbyt du¿o czasu lataj¹c na Jecie.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
- are up, and our exports are down. Bad for business all the way around.}
+{271}{}{Prawie wszyscy górnicy lataj¹ na Jecie zamiast wydobywaæ z³oto... tak wiêc nasze ceny id¹ w górê, a eksport spada. To bardzo niedobrze dla biznesu.}
 {272}{}{Ka¿dy zbyt wysoko lata na Jecie, by móc dobrze pracowaæ. Nie wyrabiamy nawet jednej dziesi¹tej normy i musieliœmy przez to bardzo podnieœæ cenê z³ota. Tak nie mo¿e byæ!}
 {273}{}{Wygl¹da na to, ¿e ka¿dy trafi³ na jak¹œ trefn¹ dzia³kê jetu. Wszyscy Jetowi d¿okeje przechodz¹ jakiœ masowy detoks. Zapewne coœ by³o z nimi nie tak. Nie bardzo wiem, co siê sta³o, ale jestem pewien, ¿e wyjdzie im to na dobre.}
 {274}{}{Wszystko ju¿ prawie wróci³o do normy. Ka¿dy, kto rozchorowa³ siê po Jecie, przeszed³ ju¿ najgorsze i raczej wiêcej ju¿ go nie weŸmie. Nasza produkcja i transport wróci³y te¿ do normy. Wygl¹da na to, ¿e najgorsze mamy za sob¹.}

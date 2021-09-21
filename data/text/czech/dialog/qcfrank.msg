@@ -6,8 +6,8 @@
 {105}{}{Mutante!}
 {106}{}{Všechny jsi nás znièil.}
 {107}{}{Všechno je to tvoje vina. Teï za to zaplatíš.}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
 {110}{}{Ajaj. Zlá vìc stát tady. Já muset utýct na loï.}
 {111}{}{Bude lepší, když z tohohle pekla vypadnu a vrátím se na loï.}
 {112}{ssa3alt}{Dostal ses mnohem dál, než jsi mìl, ale to znamená jenom jediné - dosud jsi nepotkal Franka Horrigana. Tvoje krasojízda skonèila, mutante. Je èas zemøít.}

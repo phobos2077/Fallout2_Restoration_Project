@@ -48,8 +48,8 @@
 {405}{}{Tio Biff!}
 {410}{}{Uhh...}
 {411}{}{Uhhh... Continue, por favor...}
-{412}{}{I sure the hell...}
-{413}{}{Um... I do.}
+{412}{}{Eu com certeza...}
+{413}{}{Hum... eu faço.}
 {450}{}{Uhhh, Eu não sou o único que nem você falou.}
 {500}{}{Sou quem manda aqui.}
 {1000}{}{Sim, meu doce.}

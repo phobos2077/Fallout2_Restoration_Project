@@ -17,6 +17,6 @@
 {241}{}{Not before I beat the living crap out of you.}
 {250}{}{(The man turns his glare on you.) You look like an idiot.}
 {251}{}{Whoa. Back up. I was just asking for your opinion.}
-{252}{}{Uh... thanks for the honesty, then.}
+{252}{}{Uh... Obrigado pela honestidade, Então.}
 {260}{}{(Gestures for you to shut up and let him drink.)}
 {261}{}{(Leave him alone.)}

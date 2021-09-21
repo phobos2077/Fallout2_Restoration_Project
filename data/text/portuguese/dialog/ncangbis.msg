@@ -15,9 +15,9 @@
 {223}{}{You. Come here. Now.}
 {224}{}{O Yum.}
 {225}{}{Hmmmm.}
-{226}{}{Well, well...}
+{226}{}{Bem, bem...}
 {230}{}{I'm BORED.}
-{231}{}{Looks like one of Daddy's new whores...}
+{231}{}{Parece uma das novas putas do papai...}
 {232}{}{One of Daddy's cheap sluts...}
 {240}{}{Haven't seen YOU around before. What's your name, stranger? (Smirks.) Actually, never mind, I don't want to know. You as bored as I am?}
 {241}{}{You again. Bored yet?}
@@ -32,7 +32,7 @@
 {250}{}{Not really. I've got somewhere I've got to be.}
 {260}{}{Oh, this IS going to be interesting. Come with me, I want to show you my room.}
 {261}{}{'Kay pretty girl.}
-{262}{}{Uh... we gonna play?}
+{262}{}{Uh... vamos jogar?}
 {263}{}{Me no go.}
 {270}{}{You bet. Come on.}
 {271}{}{Me come}

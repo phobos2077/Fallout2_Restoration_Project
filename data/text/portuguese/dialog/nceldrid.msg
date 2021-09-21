@@ -143,7 +143,7 @@
 {498}{}{Oh, well. Had to ask. Thanks, Eldridge.}
 {505}{}{(Squints at you, as if deciding whether he can trust you.) I wouldn't say no... if you did it, quiet-like. I'd
  pay you for your trouble...(Frowns.)...assuming you didn't CAUSE any.}
-{506}{}{No trouble at all... I have one on me. Here you go.}
+{506}{}{Tranquilo... Eu tenho um comigo. Aqui está.}
 {507}{}{I'll do it. Before I do, though, I wanted something else...}
 {508}{}{Nevermind then. Maybe you can help me with something else...}
 {509}{}{Done. I'll snag you one, then bring it back.}

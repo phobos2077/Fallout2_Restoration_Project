@@ -4,7 +4,7 @@
 {103}{}{RNK niezbyt przychylnie patrzy na tchórzy. Wynocha st¹d.}
 {104}{}{Wiesz, co myœlê o takich, jak ty. Wynocha sprzed moich oczu.}
 {105}{}{I-haa! Jedziemy.}
-{106}{}{Okay, let's go.}
+{106}{}{Dobra, ruszamy.}
 {107}{}{Jestem Stanwell. Prowadzê karawanê pomiêdzy Redding i Republik¹ Nowej Kalifornii. Braminy za z³oto. Przyda³by nam siê dodatkowy stra¿nik, i jesteœmy w³aœnie gotowi do drogi. }
 {108}{}{Ludzie mówi¹ na mnie Stanwell. Prowadzê karawanê pomiêdzy Redding i Republik¹ Nowej Kalifornii. Braminy za z³oto. Zazwyczaj przyda siê kilka dodatkowych r¹k do pracy. Opuszczamy miasto jedenastego ka¿dego miesi¹ca. Je¿eli piszesz siê na to, to nie zapomnij wtedy siê pokazaæ.}
 {109}{}{Czy jeszcze coœ?}
