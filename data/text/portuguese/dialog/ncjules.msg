@@ -80,7 +80,7 @@
 {413}{}{Women, chips, women, chips... what more do you need?}
 {414}{}{Jet, women, guns... I got it all. All's you gotta do is ASK.}
 {415}{}{Reno... the city that never sleeps.}
-{416}{}{Jet, chips, Jet, chips... what more do you need?}
+{416}{}{Jet, salgadinhos, jet, salgadinhos... Precisa de mais alguma coisa?}
 {417}{}{Come one, come all.}
 {418}{}{Jules is your EYES, your EARS, of New Reno.}
 {419}{}{Biggest little town in all the Wastes, friend.}
@@ -104,10 +104,10 @@
 {461}{}{Name's Jules, and may I say I have NEVER seen a more beautiful woman stride down this street until this moment. It'd
  be MY pleasure to give you a tour of Reno and set you up with WHATEVER you're looking for.}
 {462}{}{Hey, hey, hey, welcome back! What is it you need from Jules, my friend?}
-{463}{}{Me looking for... um. Me forget again}
+{463}{}{Estou procurando por... hum. Eu esqueci de novo}
 {464}{}{Cai fora}
 {465}{}{All right. How can you help me?}
-{466}{}{Well, I had some questions...}
+{466}{}{Bem, eu tenho algumas perguntas...}
 {467}{}{Know what happened to Mr. Wright's son, Jules?}
 {468}{}{Jules, have you seen my car? I parked it here a while ago, and now it's gone.}
 {469}{}{Look..."Jules," is it? You obviously expect something out of this conversation, so level with me up front.
@@ -158,7 +158,7 @@
 {558}{}{Pay him 50 chips.}
 {559}{}{Pay him 75 chips.}
 {560}{}{Pay him 100 chips.}
-{561}{}{Actually, I had some other... non-family... related questions.}
+{561}{}{Na verdade, eu tenho outras perguntas... Mas não são relacionadas a família.}
 {562}{}{Looks like I can't afford any information right now. I'll be back when I have some chips.}
 {563}{}{I'll keep that in mind. Thanks for the tip, Jules.}
 {575}{}{(Jules pockets the chips so quickly, you swear they vanished.) So... which of the fine families interests you today?}
@@ -207,7 +207,7 @@
  firepower this side of Cee-Ay, so nobody with any kinda sense fucks with them, understand?}
 {711}{}{What kind of "firepower" do the Salvatores have?}
 {712}{}{Sounds like they got some pretty heavy shit. What are they packing?}
-{715}{}{Interesting... thanks for the warning.}
+{715}{}{Interessante... Obrigado pelo aviso.}
 {725}{}{Pistols...'cept they shoot LIGHT. Now, Reno's a city o' lights, but the light THOSE pistols shine can cut a man in
  two... *swuppp*... (Jules makes slicing motion.) Makes a clean burn 'tween the two halves, it does.}
 {726}{}{They shoot light? Do they call the pistols 'laser pistols?'}
@@ -248,7 +248,7 @@
  BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
 {880}{}{Now hold on a minute -- I wouldn't even THINK about that if I were you, friend. The Mordinos guard that place like
  rabid dogs. Just put the thought outta your mind.}
-{881}{}{There must be a way in...}
+{881}{}{Deve ter uma forma de entrar...}
 {886}{}{All right, nevermind then. Thanks for the information.}
 {895}{}{Well... if you can talk all smart like you were doing, you could pass for one of the whitecoats there.
  'Course, you could also hire on with the Mordinos and get put there...}
@@ -320,12 +320,12 @@
 {1116}{}{(Leers.) Cause, honey, you look GOOD. And Myron likes women that look GOOD. }
 {1117}{}{Boy's like a rabbit, and is ALWAYS looking for a new cabbage patch.}
 {1118}{}{What was that about Golgotha?}
-{1119}{}{Uh, great. Thanks for the tip, Jules. Say, I had some other questions...}
+{1119}{}{Oh beleza. Obrigado pela dica, Jules. Olha, eu tinha outras perguntas...}
 {1120}{}{Well, on that note, I think I better be going.}
 {1121}{}{How eloquent. When you speak, it's poetry - the use of "cabbage patch" brings forth striking imagery. THANK you.}
 {1130}{}{If you were a fine-looking woman, maybe, but otherwise, you would need the Mordinos' permission first. Both ain't
  very likely.}
-{1132}{}{I see. Say, I had some other questions...}
+{1132}{}{Entendo. Olhe, de qualquer forma, tenho outras questões.}
 {1145}{}{You want weapons, you go see my man Eldridge on the West End. He got shit that'll kill people you ain't even MET yet.
  Tell him I sent you.}
 {1146}{}{I hear you, brother, I hear you. You want the best, you go see my man Eldridge on the West End. He got shit that'll kill
@@ -337,24 +337,24 @@
 {1150}{}{Thanks for the tip, I think I better be going.}
 {1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
  from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
-{1166}{}{I'll keep that in mind. Say, I had some more questions...}
+{1166}{}{Vou me lembrar disso. Olhe, eu tenho mais algumas perguntas...}
 {1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
 {1175}{}{I hear you, brother. Most TOURISTS, see, they stride down Virgin street and get suckered by some two-chip whore.
  You look like you got class, so head over to the Cat's Paw 'cross the street there. Tell 'em Jules sent you.}
 {1176}{}{I hear you, sister. Most TOURISTS, see, they stride down Virgin street and get suckered by some glitterboy.
  You look like you got class, so head over to the Cat's Paw 'cross the street there. Tell 'em Jules sent you.}
 {1177}{}{(Smiles, holds out arms.) Look no farther, my sweet sister. Jules is at your command!}
-{1178}{}{Uh, thanks, Jules, but no. Say, I had some more questions...}
+{1178}{}{Uh, obrigado, Jules, mas não. Eu tenho outras perguntas...}
 {1180}{}{Well, thanks for the tip. I think I better be going.}
 {1181}{}{Well, uh, thanks anyway, but I think I better be going.}
 {1190}{}{You mean Vault CITY, don't you? That's to the northeast. Can't miss it, all the caravan trails lead right to it.}
-{1191}{}{All right. Say, I had some more questions...}
+{1191}{}{Tudo bem. Olha, eu tenho mais perguntas.}
 {1192}{}{Well, thanks for the tip. I better be going.}
 {1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
-{1201}{}{No, it's... well, nevermind. I had some other questions...}
+{1201}{}{Não, é... bem, não importa. Eu tenho outras perguntas...}
 {1202}{}{Nevermind. I really better be going.}
 {1210}{}{Don't know nothing about that. Sorry about your loss. Maybe it was slavers?}
-{1211}{}{Could be. I had some other questions...}
+{1211}{}{Poderia ser. Eu tenho outras perguntas...}
 {1220}{}{A what?}
 {1221}{}{Forget it. I had some other questions...}
 {1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
@@ -373,11 +373,11 @@
  Jimmy J up on 2nd Street, north of here, but he's small time. I'd still check with Renesco, though.}
 {1272}{}{"Jagged Jimmy J?" Who's that?}
 {1273}{}{Lil' Jesus Mordino? Where can I find him?}
-{1274}{}{Maybe I will. Say, I had some other questions...}
+{1274}{}{Talvez eu vá. olha, eu tenho outras perguntas...}
 {1275}{}{Lil' Jesus... Jagged Jimmy J... Renesco. Got it. Thanks.}
 {1290}{}{(Jules' smile dies.) I'm lookin' for people like you comin' into Reno. This is the prime spot to deal. Plus, certain
  establishments pay me to point newcomers their way. THAT a good enough answer for you?}
-{1291}{}{Yes. Now I need the answer to some other questions...}
+{1291}{}{Sim. Agora eu preciso te perguntar mais algumas coisas...}
 {1292}{}{Just curious. Thanks for the honesty.}
 {1305}{}{Your CAR? You sure you parked it here? I ain't seen it.}
 {1306}{}{What, you suddenly gone BLIND? You see my FIST, mother fucker? You SEE it?!! Now tell me again you haven't seen my
@@ -393,7 +393,7 @@
 {1322}{}{I'll keep an eye out for it, though. (Shrugs.) Still, Reno's a big place...}
 {1323}{}{Jules, I have this crazy HUNCH you know where my car went. If you don't tell me where it is, I'll use you for
  target practice. Now talk.}
-{1324}{}{Thanks anyway. I had some other questions...}
+{1324}{}{Obrigado de qualquer forma. Eu tenho mais algumas perguntas...}
 {1340}{}{Sister, I don't know NOTHING about your car. }
 {1341}{}{Brother, I don't know NOTHING about your car. }
 {1342}{}{I AIN'T seen what happened to it, and I DON'T know where it is. }
@@ -406,7 +406,7 @@
 {1362}{}{...I seen some guys take the car not long ago. But there were too many of them for me to stop, y'know, and --}
 {1363}{}{Shut up and take me where they went. Now.}
 {1364}{}{Nevermind. I'll look for them without your help.}
-{1375}{}{Okay, okay...}
+{1375}{}{Ok, tranquilo...}
 {1376}{}{By the way... Jules? If you so much as GLANCE the wrong way at that kid across the street, I'll come back and kill
  you so many times you'll need multiple wills. Understand? Now lead on.}
 {1377}{}{One more thing, Jules: I even so much as hear that you were messing with Cody, I'll kill you. Now take me to
@@ -425,7 +425,7 @@
 {1415}{}{He's this dumb sonuvabitch who thinks he's a big-time dealer. You can't miss him... his face is all scarred up.
  The fool was flying on Jet one night and tried to shave with a combat knife. Sad part is, it didn't KILL 'im.}
 {1416}{}{And Lil' Jesus Mordino? Where can I find him?}
-{1417}{}{Lotta love in this town... say, I had some other questions...}
+{1417}{}{Quanto amor tem nessa cidade. Olha, eu tenho outras perguntas...}
 {1425}{}{Well, friend, I'd be careful about just walkin' in and accusing Lil' Jesus of anything. But if you REALLY want to
  talk with him, I ain't gonna stop you. He hangs out at the Desperado 'cross the street there.}
 {1426}{}{And "Jagged Jimmy J?" Who's that?}
@@ -445,9 +445,9 @@
 {1485}{}{He's this old cracker who runs a pharmacy on Commercial Row... go up a few streets north, make a left where Salvatore's
  and the Bishop casino meet, then keep heading down that street. It's on the right.}
 {1486}{}{And "Jagged Jimmy J?" Where can I find him?}
-{1487}{}{All right... say, I had some other questions...}
+{1487}{}{Está certo... Bem, eu tenho outras perguntas...}
 {1500}{}{You tell that bitch he keeps talking shit like that, an' I'LL kill 'im before old man Wright does. You know what kind
  of talk that is? That's talk from a man who's SCARED, that's what it is.}
-{1501}{}{I see... say, I had some other questions...}
+{1501}{}{Eu vejo... Então, eu tenho outras perguntas...}
 {1502}{}{I hear you. I'll go check it out.}
 {2000}{}{That a CAR? Daaaamn.}

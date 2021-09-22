@@ -6,7 +6,7 @@
 {105}{}{Mam ju¿ dosyæ bramin.}
 {106}{}{S³ysza³em, ¿e Bishopowie dosypali coœ naszemu szefowi.}
 {107}{}{Chcesz z kimœ pogadaæ, to idŸ do brygadzisty, Felixa.}
-{108}{}{You ain't with the Bishops, are you?}
+{108}{}{Nie trzymasz z Bishopami, prawda?}
 {109}{}{Wiemy, ¿e to by³o morderstwo. Z³apiemy gada, jego œmieræ nie bêdzie szybka.}
 {110}{}{Felix przysiêga, ¿e to Bishopowie za tym stoj¹. Mówi, ¿e ktoœ na tym zyska.}
 {111}{}{Có¿, chyba ju¿ czas siê st¹d zabieraæ. Wszystko tu posz³o w diab³y.}

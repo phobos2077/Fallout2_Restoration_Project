@@ -7,7 +7,7 @@
 {210}{}{Nie wiem o czym mówisz. Nie mam ¿adnych kart.}
 {211}{}{Nie k³am. Schowa³eœ je do kieszeni. Chcê tylko wiedzieæ dlaczego.}
 {212}{}{Dobra, niech ci bêdzie. Do zobaczenia.}
-{220}{}{S³uchaj, nikomu nie mów, dobra? Nie wolno nam *u¿ywaæ* przedwojennych relikwii, mo¿emy je tylko czciæ. Ale te karty do Tragica s¹ takie kurcze fajne. [Wydaje siê odp³ywaæ do innego œwiata kiedy patrzy na karty. Po chwili,
+{220}{}{S³uchaj, nikomu nie mów, dobra? Nie wolno nam *u¿ywaæ* przedwojennych relikwii, mo¿emy je tylko czciæ. Ale te karty do Tragica s¹ takie zajebiste. [Wydaje siê odp³ywaæ do innego œwiata kiedy patrzy na karty. Po chwili,
  patrzy znowu na ciebie.] O, przepraszam. Tak przy okazji jestem Brat Jason. Pewnie nie grasz w Tragica?}
 {221}{}{NIECH ROZPOCZNIE SIÊ ZGROMADZENIE!!!}
 {222}{}{Kurde jasne, ¿e tak, uwielbiam "Tragic the Garnering".}

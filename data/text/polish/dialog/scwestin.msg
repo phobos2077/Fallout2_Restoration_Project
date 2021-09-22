@@ -5,7 +5,7 @@
 {104}{}{Znowu ty? Czego chcesz?}
 {105}{}{Czego chcesz?}
 {106}{}{Yy...}
-{107}{}{Me look Vault 13. You help?}
+{107}{}{Moja szukaæ Krypta 13? Twoja pomóc?}
 {108}{}{Poszukujê Krypty 13. Czy mo¿esz mi pomóc?}
 {109}{}{Twoja brudna robota zosta³a wykonana.}
 {110}{}{Z³e gugu przyjœæ. Moja odegnaæ. Mu-mu bezpieczni.}
@@ -54,7 +54,7 @@
 {153}{}{Nie jestem pewien, czy ci uwierzyæ, no ale tutaj jest twoja zap³ata. Cholera, jeœli ³¿esz, to moi ch³opcy ciê dorw¹. Mówi³em te¿, ¿e przeka¿ê ci pewne informacje, wiêc oto, co wiem: S³ysza³em wiele historii o Tandi i Przybyszu z Krypty. Wygl¹da na to, ¿e ocali³ jej ¿ycie ca³e lata przed powstaniem RNK. W ka¿dym b¹dŸ razie legenda mówi, ¿e spêdzi³ on du¿o czasu przeszukuj¹c Kryptê na wschód st¹d. Je¿eli to nie bêdzie Krypta 13, to mo¿e znajdziesz tam jak¹œ wskazówkê, która zaprowadzi ciê do niej.}
 {154}{}{Moja dzienkuju twoja!}
 {155}{}{Dziêkujê.}
-{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
+{156}{}{Pierwszy Obywatel? Doskonale, na to w³aœnie czeka³em. Czy jesteœ Obywatelem Kryptopolis?}
 {157}{}{Tak.}
 {158}{}{Nie.}
 {159}{}{I z pewnoœci¹ jesteœ dobrym Obywatelem. Dostarcz, proszê, ten holodysk z powrotem Pierwszemu Obywatelowi. To wa¿ne. S¹ na nim informacje, które s¹ jej potrzebne do ods³oniêcia planów RNK i Nowego Reno.}

@@ -183,7 +183,7 @@
 {461}{}{::Let her vent.::}
 {462}{}{Oh, yes, Ethyl... further proof of the evil of alcohol. It can make people do terrible things. ESPECIALLY when the twin
  devils of money and power are involved.}
-{463}{}{You may need some time alone... I'll be back later.}
+{463}{}{Você pode precisar de um tempo sozinho... Eu volto depois.}
 {470}{}{(Smolders.) I will MAKE him keep the promise he made, if I have to destroy that still with my own hands. Then
  Orville and I shall have words! We'll see what that little weasel says then!}
 {471}{}{Don't worry about, Mrs. Wright. I took care of it already.}
@@ -221,7 +221,7 @@
 {539}{}{I'm sorry, but I just remembered I have a pressing engagement elsewhere.}
 {540}{}{(Puffs up.) Perhaps it is standard practice in your tribes to slander others in public, but here in New Reno you have some
  sand coming up to me in public and speaking ill of my husband!}
-{541}{}{Look, all I'm saying is...}
+{541}{}{Olha, tudo que estou te dizendo é...}
 {542}{}{Truth hurts. I can see you're going to be in for a lot of pain. Goodbye.}
 {543}{}{Fine. Goodbye.}
 {545}{}{Furthermore, he has resolved to help me and any other unfortunates addicted to alcohol break the habit. Shameful!

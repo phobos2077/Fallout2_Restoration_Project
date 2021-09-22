@@ -48,7 +48,7 @@
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
+{150}{}{W³aœnie - cz³owieku, b¹dŸ pos³uszny olbrzymowi. Tak w³aœnie powinno byæ. Co mam zrobiæ, olbrzymie?}
 {151}{}{Cz³owieku, to du¿o. Olbrzymie, jestem Doofus, dozorca samochodów i powinienem pilnowaæ samochodów, które ludzie tu przywo¿¹, ale, no wiesz, mam taki... k³opot, widzisz, ¿e czasem potrzebujê trochê dodatkowych pieniêdzy i takich tam, rozumiesz?}
 {152}{}{Taa, w³aœnie. No wiêc czasem mam trochê braków i mam te¿ swoje potrzeby, rozumiesz, tak jakby robiê siê chory, wiêc muszê zebraæ trochê kapsli czy co, wiêc pójdê pogadaæ z Merkiem.}
 {153}{}{Cz³owieku, Merk to swój cz³owiek. Mo¿na siê u niego rozerwaæ i w ogóle. Czasem pozwoli mi pospaæ w Rawhide jak ju¿ pozamykaj¹. Ale potem on chce, ¿ebym mu oddawa³ ma³e przys³ugi.}
@@ -66,8 +66,8 @@
 {165}{}{Dok³adnie, cz³owieku. IdŸ do Merka. On zawsze ma coœ, co wymaga zrobienia.}
 {166}{}{IdŸ pa pa!}
 {167}{}{Och, cz³owieku, zepsu³eœ to! Merk nie bêdzie zadowolony, gdy siê dowie.}
-{168}{}{Goodbye, dope-head.}
-{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
+{168}{}{¯egnaj, æpunie.}
+{169}{}{Dobrze ju¿! S³uchaj, to by³a za³oga Merka. £upili samochody ostatniej nocy. Rozpytaj siê, to ich znajdziesz.}
 {170}{}{Ty ³gaæ, ja zabiæ.}
 {171}{}{Lepiej, ¿ebyœ nie k³ama³. Jeœli k³amiesz, wrócê tu.}
 {172}{}{Pewnie. Ca³y siê trzêsê ze strachu.}

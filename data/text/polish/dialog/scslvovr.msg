@@ -14,9 +14,9 @@
 {113}{}{Sorry, nie ciebie szukam.}
 {114}{}{No ju¿, jazda st¹d. Mam ju¿ wystarczaj¹co du¿o g³upich stra¿ników!}
 {115}{}{Co ty, kurwa, pomrocznoœæ jasna ciê trafi³a? To jest obóz niewolników. Jeœli chcesz wiedzieæ wiêcej - pogadaj z Vortisem.}
-{116}{}{Is that so? Well, I'm sending you back in a body bag.}
+{116}{}{Doprawdy? Có¿, w takim razie odeœlê ciê w kawa³kach.}
 {117}{}{IdŸ do Vortisa, tego starego faceta.}
-{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
+{118}{}{Dziêki. S³uchaj, wygl¹dasz mi na bystrzaka. Za³o¿ê siê, ¿e jesteœ w stanie odpowiedzieæ mi na kilka pytañ.}
 {119}{}{Ten starzec, co? W porz¹dku.}
 {120}{}{No có¿, je¿eli tak to ujmujesz, to nie mogê powiedzieæ "nie". Co masz na myœli?}
 {121}{}{Dziêki, przybyszu.}
@@ -42,7 +42,7 @@
 {141}{}{Enklawa.... Wiesz, w mieœcie jest doktor, nazywa siê Henry. Którejœ nocy, kiedy siê spi³, zacz¹³ gadaæ coœ o goœciach z Enklawy.}
 {142}{}{W³aœnie to by³o mi potrzebne. Jesteœ bardzo dobrze poinformowany.}
 {143}{}{To wszystko, czego od ciebie chce. Dziêki.}
-{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
+{144}{}{Ja zawsze jestem czujny - problem w tym, ¿e nikt ju¿ nie chce zatrudniaæ ³owców niewolników. Vortis, mój szef, coœ ukrywa. A w mieœcie zawsze mo¿na siê zatrudniæ u farmerów ze Stowarzyszenia Hodowców Byd³a, a poza tym Dorotce zawsze przyda siê dodatkowa para r¹k do pracy przy elektrowni, jeœli tylko masz odpowiednie umiejêtnoœci. Wieœæ niesie, ¿e nawet Prezydent Tandi poszukuje jakiegoœ specjalisty.}
 {145}{}{Cz³owieku, du¿o wiesz. Móg³bym zmarnowaæ ca³y dzieñ zadaj¹c ci pytania.}
 {146}{}{Có¿, zaraz zajmê siê tymi sprawami.}
 {147}{}{Potnij im... ju¿ ty wiesz co... zrób to dla mnie, co?}

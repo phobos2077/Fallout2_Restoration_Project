@@ -2736,7 +2736,7 @@
 {181300}{}{rozbity wahad³owiec}
 {181301}{}{Jakiœ pojazd kosmiczny. Chyba niedawno siê tu rozbi³.}
 {181400}{}{trumna}
-{181500}{}{szyld Stockman's Assoc.}
+{181500}{}{Szyld Stow. Hodowców Byd³a.}
 {181600}{}{oznaczenie RzeŸni}
 {181700}{}{deska}
 {181800}{}{drewniane drzwi}

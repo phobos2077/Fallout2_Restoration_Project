@@ -74,13 +74,13 @@
 {340}{}{I've turned out a few movies. Heard of }
 {341}{}{I'm in tight with the }
 {342}{}{No, I don't think so, Jimmy. We here to deal or what?}
-{343}{}{No, I don't think so. Hey, I wanted to ask you something...}
+{343}{}{Não, acho que não. Olha, eu queria te perguntar algo...}
 {344}{}{No, I've got to go. Catch you later, Jimmy.}
 {360}{}{That's it! I KNEW I'd seen you somewhere before! Damn, why didn't you pull from the start, put Jimmy in his place...?!
  Hell, what can I do for you?}
-{361}{}{Um... me forgot. Me go.}
-{363}{}{Well, I'm looking for some Jet...}
-{364}{}{Hey, I wanted something else...}
+{361}{}{Hum... eu esqueci. Estou indo.}
+{363}{}{Bão, estou procurando algum Jet...}
+{364}{}{Ei, eu queria algo mais.}
 {365}{}{I've got to go. Catch you later, Jimmy.}
 {375}{}{(Jimmy falls into a stunned silence. You think you've paralyzed his brain.)}
 {376}{}{(Steal everything he has.)}
@@ -88,7 +88,7 @@
 {385}{}{Jagged Jimmy J's got a lot of love, my pilot friend, but the world don't always love Jagged Jimmy J back, see?}
 {386}{}{I hear you. I hear you.}
 {387}{}{Don't I know it. Sometimes the world's a cruel place.}
-{388}{}{That's a GREAT story. Say, Jimmy, I had some other questions...}
+{388}{}{Essa é uma ÓTIMA história. Olhe, Jimmy, eu tenho outras perguntas...}
 {389}{}{Good story. Now you got some Jet, I got some chips... we gonna deal?}
 {390}{}{Good story. I got to go though, Jimmy.}
 {400}{}{(Points at his scar.) I got this while I was stopping this one big UGLY son of a bitch from hitting this chick cuz she don't like
@@ -99,38 +99,38 @@
  in a lucky cut before I...*BAM!* Canceled his ass!}
 {416}{}{Oh, really? Jules says you were 'flying' on Jet and sliced up your face trying to shave with your combat knife.}
 {417}{}{No shit? I don't think I'd have had the iron to step in like that. Hell, that man coulda KILLED you.}
-{418}{}{GREAT story. Hey, I had some other questions...}
+{418}{}{Boa história. Ei, eu tinha outras perguntas...}
 {419}{}{Yeah... look, I got some chips... we gonna deal?}
 {420}{}{Good story... so good I have to leave.}
 {430}{}{Wha...? Well, Jules can kiss my natural black ass, and it'd be the only ass in town he AIN'T kissed yet. He don't know SHIT. He don't
  even have the balls to talk shit to my face. YOU decide who's telling the truth.}
 {431}{}{Yeah, yeah... Look, you got some Jet, I got some chips... we gonna deal?}
-{432}{}{Yeah, yeah... say, Jimmy, I had some other questions...}
+{432}{}{Sim, sim... diga, Jimmy, eu tenho outras perguntas ...}
 {433}{}{Look, Mr. Big Talk, we gonna deal or sit here and listen to you jabber on all day?}
 {434}{}{Well, I've heard enough, Jimmy. You watch yourself shaving, hear?}
 {435}{}{All right then. Catch you later, Jimmy.}
 {445}{}{He almost did, too! Y'know, when I got into it, I wasn't thinking like 'I'm gonna be mister brave man' an' all, but...}
 {446}{}{You just did what was natural to you, right?}
-{447}{}{Uh-huh. Look, I had some other questions...}
+{447}{}{Uh-huh. Olha, eu tenho outras perguntas...}
 {448}{}{I have to be going. Catch you later, Jimmy.}
 {455}{}{Yeah... yeah... I just saw something wrong, and I had to do SOMETHING, right? No way could I let something like that go on
  while I was on the scene, y'know?}
 {456}{}{You got BALLS to do what you did, Jimmy. Most people would've just hung their heads, walked away.}
-{457}{}{I understand. Say, I had some other questions...}
+{457}{}{Entendo. Olhe, eu tenho outras perguntas...}
 {465}{}{I LIKE people, and I AIN'T like it when somebody messes with somebody else just cause they can. That shit's just WRONG.}
 {466}{}{You're a brave man, Jimmy, a brave man. Wear your scar with pride. Say, can I see what you have in stock?}
-{467}{}{You're right about that. Say, I had some other questions...}
+{467}{}{Tem razão. Olha, tenho outras questões....}
 {475}{}{Hell, my pilot friend, I like you, so don't you be pulling up that barter screen with its fuses and wires and all.}
 {476}{}{Uh... okay... then how are we gonna deal...?}
 {480}{}{Look, this is bad business an' all, and don't go telling nobody 'bout it, but lemme give you some Jet
  'tween friends. Next time, a-course, you gotta pay, but this one's on Jagged Jimmy J, all right?}
 {481}{}{Thanks, Jimmy. Say, can I see what else you have in stock?}
-{482}{}{Hey, thanks. Say, I had some other questions...}
+{482}{}{Ei, obrigado. Olhe, eu tenho algumas perguntas...}
 {483}{}{All right then. Thanks, Jimmy.}
 {490}{}{Glad you asked, my pilot friend, glad you asked. See, all them OTHER dealers, right, they get their shit second hand,
  watered down, diluted with all sorts o' shit.}
-{491}{}{But your Jet, on the other hand...}
-{492}{}{Actually, forget I asked. I had some other questions...}
+{491}{}{Mas o seu Jet, por outro lado...}
+{492}{}{Na realidade, esqueça o que eu perguntei. Eu tinha algumas outras perguntas...}
 {500}{}{I used to get it from the god himself, Myron, see, but he up and left... or got aced. Now I mostly peddle straight from the
  Mordino Family.}
 {501}{}{Well, I USEDTA get it from ol' Myron, before he got all uppity and left the business... ain't that right, Myron? Ha!
@@ -150,12 +150,12 @@
  their livelihood, know what I'm saying?}
 {531}{}{I hear you. So how much security they got on this guy?}
 {532}{}{Except that I heard Myron has a lot of prostitute... friends. How does that happen if he's locked up so tight?}
-{533}{}{Understood. Say, I had some other questions...}
+{533}{}{Entendido. Olhe, tenho outras questões.}
 {534}{}{Interesting. Thanks for the information, Jimmy.}
 {540}{}{Guards, guards, and more guards. Plus, tightest electronic security in New Reno. You'd be lucky if you even HEAR
  about somebody seeing Myron, he's so well-guarded.}
 {541}{}{Well-guarded, huh? Where, exactly?}
-{543}{}{I see. Say, I had some other questions...}
+{543}{}{Entendo. Olhe, de qualquer forma, tenho outras questões.}
 {550}{}{They got him stationed at this place called the "Stables," to the North, outside city limits. I only been there
  once - they never let me past the gates, and I WORK for the Family.}
 {551}{}{Come on, there must be some way I could see him.}
@@ -170,7 +170,7 @@
 {572}{}{Esqueça. Eu tenho outras perguntas…}
 {573}{}{I don't think I have time for this story, Jimmy. I got to be going.}
 {580}{}{See, Myron is well taken care of... Mordinos give their little livelihood the BEST of New Reno.}
-{581}{}{And by that, you mean...?}
+{581}{}{E com isso, você quer dizer...?}
 {582}{}{You mean prostitutes, don't you? Out of idle curiosity, where do the Mordinos get these prostitutes and how are they chosen?}
 {584}{}{I see. Thanks, Jimmy. I got to be going.}
 {590}{}{Th' Mordinos deliver whores to the Stables personally, then escort them out again. Heh-heh. Myron's barely nineteen, and
@@ -179,7 +179,7 @@
 {600}{}{(Shrugs.) One of Mordino's boys cruises the Cat's Paw down the street, I hear, picks one Myron might like from Miss Kitty's
  stock...(Jimmy suddenly stops talking. He squints at you and frowns.) Wait a minute...}
 {601}{}{O que há de errado?}
-{602}{}{Uh... nevermind. Say, I had some other questions...}
+{602}{}{Uh... Não importa. Olhe, eu tenho outras perguntas.}
 {603}{}{Uh, well, thanks for the information, Jimmy.}
 {610}{}{Why you want to know shit like that? I got Jet, that's all YOU need to know. You don't need to know nothing about Myron,
  or what he had for dinner, or who he does 'fore he goes to bed at night.}
@@ -187,8 +187,8 @@
  You gonna go straight to the source for yo Jet, right, sister?}
 {612}{}{Not at the moment. Let's see what you got, Jimmy.}
 {613}{}{Forget it, then. Let's deal.}
-{614}{}{Nevermind then. I had some other questions...}
-{615}{}{I might. Say, I had some other questions...}
+{614}{}{Não importa. Eu tenho outras perguntas...}
+{615}{}{Eu poderia... Bem, eu tenho outras perguntas.}
 {616}{}{No, just curious. Thanks, Jimmy. I got to be going.}
 {617}{}{All right then. Later, Jimmy. I got to be going.}
 {625}{}{Hell, all's I'M sayin' is Jimmy likes his buyers happy and ALIVE. Draw yer own conclusions, my pilot friend.
@@ -209,7 +209,7 @@
 {655}{}{You listen, and you listen GOOD. If I hear you were talkin' shit 'bout me havin' anything to do with that Wright kid's
  death, I'll make sure you have a grave in Golgotha right next to him.}
 {656}{}{Renesco said you sell Jet laced with arsenic.}
-{659}{}{No problem. Look, I had some other questions...}
+{659}{}{Sem problema. Eu tenho outras perguntas.}
 {660}{}{Dead, huh? Like Richard?}
 {661}{}{Don't you threaten ME, you little cocksucker. Mess with me, and I'll kill you so many times you'll
  think you were Lazarus.}
@@ -242,4 +242,4 @@
 {5314}{}{ MATAR VOCÊ}
 {5340}{}{?}
 {5341}{}{ family.}
-{6281}{}{ about Jet?}
+{6281}{}{ sobre jet?}

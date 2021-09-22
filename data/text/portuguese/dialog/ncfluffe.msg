@@ -10,7 +10,7 @@
 {204}{}{Isso aí, }
 {205}{}{::Palmas::}
 {206}{}{::Assobios::}
-{207}{}{Oh my... it's her. }
+{207}{}{Deus do céu... é ela. }
 {208}{}{Isso aí, garota!}
 {209}{}{::Faz o sinal de positivo pra você::}
 {225}{}{Sem chances de eu excitar essa coisa.}
@@ -40,7 +40,7 @@
 {260}{}{::Suspiro::}
 {261}{}{Esse garoto sabe o que faz.}
 {262}{}{É uma cobra maldosa que você tem aí.}
-{270}{}{Oh my... it's her. }
+{270}{}{Deus do céu... é ela. }
 {271}{}{Bem vinda ao estúdio, madame.}
 {272}{}{Ela parece tão... (arrepios) perigosa.}
 {273}{}{Ela é muito sexy.}
@@ -51,7 +51,7 @@
 {283}{}{Esse é o cara mais mau que eu já vi.}
 {284}{}{Esse garoto sabe o que faz.}
 {285}{}{É uma cobra perigosa que ele tem ali.}
-{290}{}{Oh my... it's her. }
+{290}{}{Deus do céu... é ela. }
 {291}{}{Bem vinda ao estúdio, madame.}
 {292}{}{Ela parece tão... (arrepios) perigosa.}
 {293}{}{Ela é muito sexy.}
@@ -143,10 +143,10 @@
 {430}{}{Quer lutar?}
 {431}{}{Hum job? I'll tell you about them some other time.}
 {432}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
-{433}{}{Hello, ma'am. Can I help you with...*anything?*}
+{433}{}{Olá, senhora. Posso te ajudar com... *alguma coisa?*}
 {434}{}{Hum, se precisar de companhia mais tarde, madame...}
 {435}{}{Quer o de sempre, madame?}
-{450}{}{Hello, sir. Can I help you with...*anything?*}
+{450}{}{Olá, senhor. Posso te ajudar com...*alguma coisa?*}
 {451}{}{Se precisar de companhia mais tarde...}
 {452}{}{Quer o de sempre, senhor?}
 {453}{}{Precisa de alguém pra tomar conta de você?}
@@ -154,7 +154,7 @@
 {455}{}{Está pensando em entrar nos negócios também?}
 {456}{}{Você deveria estar no pornô. Você tem o corpo pra isso.}
 {457}{}{Hum job? I'll tell you about them some other time.}
-{458}{}{Hello, ma'am. Can I help you with...*anything?*}
+{458}{}{Olá, senhora. Posso te ajudar com... *alguma coisa?*}
 {459}{}{Hum, se precisar de companhia mais tarde, madame...}
 {460}{}{Quer o de sempre, madame?}
 {465}{}{Desculpe. Eu teria mais prazer fazendo sexo com meu batom.}
@@ -174,7 +174,7 @@
 {479}{}{Se estiver procurando trabalho, fale com os Brothers.}
 {480}{}{Só estou fazendo isso pra paga a faculdade.}
 {481}{}{Eu faria de graça com o Avellone.}
-{482}{}{It's not that I don't want to talk to you, but... oh, wait that IS it.}
+{482}{}{Não é que eu não queira falar com você, mas... oh, espere, É isso.}
 {483}{}{Eu preciso me deitar.}
 {484}{}{Hum job? I'll tell you about them some other time.}
 {485}{}{Você não tem problemas de pele, tem?}
@@ -195,7 +195,7 @@
 {508}{}{Se estiver procurando trabalho, fale com os Brothers.}
 {509}{}{Só estou fazendo isso pra paga a faculdade.}
 {510}{}{Eu faria de graça com o Avellone.}
-{511}{}{It's not that I don't want to talk to you, but... oh, wait that IS it.}
+{511}{}{Não é que eu não queira falar com você, mas... oh, espere, É isso.}
 {512}{}{Eu preciso me deitar.}
 {513}{}{Hum job? I'll tell you about them some other time.}
 {514}{}{Você não tem problemas de pele, tem?}

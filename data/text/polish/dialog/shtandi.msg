@@ -74,7 +74,7 @@
 {173}{}{Musieæ wiedzieæ wiêcej.}
 {174}{}{Jeszcze tylko kilka pytañ.}
 {175}{tand11}{No to szybko. Nie mogê tu z tob¹ spêdziæ ca³ego dnia.}
-{176}{}{Ok, me hurry.}
+{176}{}{Ok, moja œpieszyæ.}
 {177}{}{Postaram siê streszczaæ.}
 {178}{tand12}{Z tym strojem, który nosisz na sobie, s¹dzi³am, ¿e ju¿ o tym wiesz.}
 {179}{}{Strój w wiosce byæ dawno. Nale¿eæ do Przybysz z Krypta, plemienie za³o¿yciela.}
@@ -168,7 +168,7 @@
 {267}{}{Jeszcze jedna sprawa. A co powiedzia³abyœ na wieœæ, ¿e Krypta 13 zosta³a przeze mnie odnaleziona?}
 {268}{}{Porozmawiam z nim. Do widzenia.}
 {269}{tand36}{To tylko interes, tak? Dobra. Piêæset, po robocie. Nie targujê siê, wiêc albo bierzesz, albo nie marnuj mojego czasu.}
-{270}{}{Me take but me need ask questions.}
+{270}{}{Moja braæ, ale te¿ musi pytaæ.}
 {271}{}{Moja nie interesowaæ.}
 {272}{}{Biorê, ale potrzebujê trochê informacji.}
 {273}{}{Nie interesuje mnie to.}

@@ -53,8 +53,8 @@
 {152}{}{Dziêki. Zrobiê tak.}
 {153}{}{Wiesz coœ o GECKu?}
 {154}{}{Có¿, to bardzo mi³o z twojej strony, przybyszu - i cholernie zuchwale. Nie znam ciê od Adamy i Ewy, nie podoba mi te¿ twoja twarz! Nie bêdê ciê nikomu poleca³. A teraz, robota czeka.}
-{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
-{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
+{155}{}{Có¿, mamy Duppo'a u Hodowców Byd³a. Zatrudnia ludzi do spêdu bramin. No i pan Westin. Je¿eli bêdziesz z nim mówi³, powiedz mu, ¿e ja ciê przysy³am. Nawet Prezydent Tandi poszukuje naoko³o kogoœ do pomocy.}
+{156}{}{Duppo w Stowarzyszeniu Hodowców Byd³a szuka r¹k przy spêdzie byd³a. Spytaj go.}
 {157}{}{Westin?}
 {158}{}{Prezydent Tandi?}
 {159}{}{Muszê ju¿ iœæ.}
@@ -75,6 +75,6 @@
 {174}{}{Tandi?}
 {175}{}{Wezmê to pod rozwagê.}
 {176}{}{Nie ma ju¿ wiêcej pracy, o której by³oby mi wiadomo.}
-{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
+{177}{}{Duppo u Hodowców Byd³a zatrudnia ludzi do spêdu bramin. Prezydent Tandi poszukuje kogoœ do pomocy..}
 {178}{}{Ka¿dy inny o twojej reputacji ju¿ by opuœci³ miasto zamiast pytaæ o pracê.}
-{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}
+{179}{}{Duppo u Hodowców Byd³a zatrudnia ludzi do spêdu bramin. No i pan Westin. Je¿eli bêdziesz z nim mówi³, powiedz mu, ¿e ja ciê przysy³am.}

@@ -118,7 +118,7 @@
 {292}{}{Oiiiiii, }
 {293}{}{Precisa de companhia, }
 {294}{}{}
-{295}{}{Oh my... it's her. }
+{295}{}{Deus do céu... é ela. }
 {296}{}{Ela é demais.}
 {297}{}{Aí vai uma mulher das boas.}
 {298}{}{Ela parece tão... (arrepios) perigosa.}

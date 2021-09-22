@@ -127,7 +127,7 @@
 {292}{}{dziewuszko, }
 {293}{}{prawda? Otó¿ nie. Jestem dobrze przeszkolonym lekarzem - specjalist¹, dzia³am na rzecz medycyny RNK, a to jest warte o wiele wiêcej.}
 {294}{}{Przepraszam. Oczywiœcie, lekarz twojego kalibru przyjmuje darowizny tylko w wysokoœci nie mniejszej ni¿ 250 dolarów.}
-{295}{}{(Hang head.) Look, I'm really sorry. I'm not proud of myself, and I would normally never have tried anything like that, but I'll be honest with you: I was desperate for those pills.}
+{295}{}{(Zwiesi³ g³owê.) S³uchaj, naprawdê mi przykro. Nie jestem z siebie dumny, normalnie nigdy wczeœniej tego nie próbowa³em, ale bêdê szczery: te pigu³ki s¹ mi NAPRAWDE potrzebne.}
 {296}{}{Przepraszam za k³opot. Myœlê, ¿e lepiej bêdzie jak ju¿ sobie pójdê, zanim pogorszê swoj¹ sytuacjê.}
 {300}{}{(Doktor Jubilee zaczyna siê czerwieniæ.) Chyba siê nie zrozumieliœmy}
 {301}{}{ ch³opcze. }

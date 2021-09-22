@@ -25,12 +25,12 @@
  trying to make his way in this unforgiving world... I'm no hero.}
 {231}{}{I tangled with the Enclave, yes. They started it -- I finished it. But don't get me wrong, Father. I'm just a woman,
  trying to make her way in this unforgiving world... I'm no hero.}
-{232}{}{I better go, Father. It was nice smell... uh, talking to you.}
+{232}{}{É melhor eu ir, padre. Fiquei feliz em sentir o seu cheiro... digo, em vê-lo.}
 {235}{}{Yer a HERO. I got sumfin' fer you. I dinna know what it wazzat first, but I figger you might be needin' it.}
 {236}{}{Me take}
 {237}{}{Me no need it... me want to go outside}
 {238}{}{Sure. I'll take whatever you're giving, Father. Uh, well, within the realms of decency.}
-{239}{}{Er... no thanks, Father. I really have to be going.}
+{239}{}{Er... não, obrigado, padre. Eu realmente preciso ir.}
 {240}{}{(Tully goes over to one of the pews, rips off a board from the seat, and pulls out a grimy soft-cover book.) Here ya go.
  Itzza lil' dirty, but... (Hands it to you.)}
 {241}{}{Thanx}
@@ -64,7 +64,7 @@
 {302}{}{Oh. I didn't --}
 {303}{}{Break th --?}
 {305}{}{Temprance Union, Misssus Wright... same pershun. Tryin' ta clean up New Reeno. Done a pretty good job with me.}
-{306}{}{Sure has. I had some other questions...}
+{306}{}{Claro que sim. Eu tenho algumas outras perguntas...}
 {315}{}{Queshions? Can't say I know tooo much 'bout them. But ast away.}
 {316}{}{Você já ouviu falar do Vault 13?}
 {317}{}{I'm here because I'm looking for my tribe. They were kidnapped from my village.}
@@ -84,7 +84,7 @@
 {338}{}{I could go snag some, if you want.}
 {440}{}{Now I'm onna straight and narrow, thankz to Missus Wright... bless her soul. I've been clean fer almost a... uh, month. Or wazzit
  a week? Aw, hell, I don't know. }
-{441}{}{A week might be pushing it. Say, I had some questions for you...}
+{441}{}{Uma semana deve ser difícil. Olha, eu tenho outras perguntas para você...}
 {442}{}{Dry as sand, huh? How many fingers am I holding up?}
 {443}{}{Temperance Union?}
 {444}{}{Missus Wright?}
@@ -123,7 +123,7 @@
 {492}{}{This th' stud you wanna break vows with? }
 {493}{}{(Looks confused for a moment as he stares at both of you. Then he shrugs, drinks.)}
 {494}{}{You bet. Can we start now?}
-{495}{}{Maybe... I'm still thinking about it. I may be back, though.}
+{495}{}{Talvez... mas ainda estou pensando nisso. Eu pretendo estar de volta, no entanto.}
 {500}{}{Well, I seem to have misplaced my sermon book with all the offishul stuff...}
 {501}{}{Screw the book. Here's some hootch. Can you just make something up?}
 {502}{}{Here's some hooch. Can you just make something up?}
@@ -134,7 +134,7 @@
 {511}{}{No fear. I'll be back.}
 {512}{}{Well, I can go get some. But I'll need some chips first.}
 {520}{}{Sure! Lemme just polish thiz off, git th' fire going...(He downs the bottle with frightening speed.)...all right then, step up to th' podium, you two...}
-{521}{}{Step on up...}
+{521}{}{Mais um passo...}
 {530}{}{Oh. All right then. No harm in asking... so... uh... I'm sorry, who are you again?}
 {531}{}{You know, I could go snag some hootch for you, if you want.}
 {540}{}{Now there's a fine idea! May you be thrice-blesst! Eh... I happen t'know a PLACE on th' East Side, at the old train
@@ -171,7 +171,7 @@
 {612}{}{I trust they didn't reach an agreement?}
 {620}{}{Mostly what you'd 'xpect from a neglected wifey-o with a body whoose curves could cure th' blind. Mostly adultery.
  I mean, have you SEEN her rack? My word!}
-{621}{}{Uh... what else can you tell me about the Bishops, Father?}
+{621}{}{Uh... o que mais pode me dizer sobre os bispos, padre?}
 {622}{}{Yeah, she does have a nice rack. I mean... so I've heard. Uh, what else can you tell me about the Bishops, Father?}
 {623}{}{Er... she didn't say WHO she was adulterous with, did she, Father?}
 {625}{}{Agreed. Well, thanks for talking with me.}
@@ -180,16 +180,16 @@
 {631}{}{Uh, banging her father's help? Did she say who?}
 {632}{}{Jet?}
 {633}{}{This sounds like a great family. What else can you tell me about the Bishops?}
-{634}{}{I had some other questions, Father...}
+{634}{}{Eu tenho algumas outras perguntas, padre...}
 {635}{}{I guess children will be children. Well, thanks for talking with me.}
 {640}{}{Who? A-course she did, but th' list a-who she DIDN'T fool around with would be easier to name off. She tells everyone,
  bragssz 'bout it. Say... what waz yer name again?}
-{641}{}{Uh, nothing... what else can you tell me about the Bishops, Father?}
+{641}{}{Uh, nada... o que mais você pode me dizer sobre os bispos, padre?}
 {642}{}{Me? Celibate monks such as myself don't have names. Say, I did have some other questions, Father...}
 {643}{}{Me? Celibate nuns such as myself don't have names. Say, I did have some other questions, Father...}
 {644}{}{Talk to you later, Father.}
 {650}{}{Devil's blood! Wickedness! Foul secretion from th' very teat of evil!}
-{651}{}{So... you don't like Jet then?}
+{651}{}{Então... você não gosta de Jet?}
 {652}{}{Uh, yes. Teat of evil. Can I ask you some other questions, Father?}
 {653}{}{All right then. Talk to you later, Father.}
 {660}{}{That drug'll be th' death of us. Can't think of another drug...(Drinks, belches.)...that doess more damage than Jet... Killz
@@ -209,25 +209,25 @@
 {690}{}{ETHYL Wright? That blesst woman! Keeps me off th' drink, an' on th' straight n' narrow. (Takes a swig.) She can drive th' sin
  outta you, she can... uh, but... what in hell waz I saying?}
 {691}{}{About Missus Wright in the confessional...}
-{692}{}{You were talking about the Wright Family...}
+{692}{}{Estava falando com a família Wright...}
 {693}{}{Esqueça. Eu tenho outras perguntas…}
 {694}{}{Nothing much more, I think. Thanks for talking with me.}
 {700}{}{Oh, right, right. Well, uh, in th' confessional, she ain't got much t'say. Mostly guilt 'bout stepping on bugs... or 'bout
  enjoying sex with her hubbie too much. Heh-heh. (Takes a swig.) I looove guilt.}
-{701}{}{I had some other questions about the Wrights...}
+{701}{}{Eu tenho algumas perguntas sobre os Wrights...}
 {702}{}{Entendo. Eu tenho outras perguntas...}
 {703}{}{It shows. Thanks for talking with me.}
 {710}{}{Oul' Orville? Well, he's got a lotta guilt on his shoulders. See, he promised th' Missus he'd quit the alcohol biz, but
  he has a secret still in th' train station behind th' house! She'll beat him uglier than he is if she finds it...}
 {711}{}{Heh-heh, herez the funny bit... y'see, ol Mr. Wright promised the Missus he'd quit the alcohol biz, but he has a secret
  still in the train station behind the house! Ha! She'll beat him uglier than he is if she finds it...}
-{712}{}{Tell me about Mrs. Wright...}
-{713}{}{Tell me more about the Wrights...}
+{712}{}{Me conte sobre a senhora Wright...}
+{713}{}{Me conte mais sobre os Wrights...}
 {715}{}{A secret still in the train station behind the house, huh? Very interesting, Father. Thanks for the info.}
 {720}{}{Nuthin'! (Takes a drink.) They're the weakest of th' families, cuz they only brew alke-hol. Barely turn a cent, they do.
  Th' other families buy alke-hol offa them mostly outta pity.}
 {721}{}{Where does this alcohol come from?}
-{722}{}{Interesting. Tell me more about the Wrights...}
+{722}{}{Interessante. Me diga mais sobre os Wrights...}
 {724}{}{Very interesting, Father. Thanks for the info.}
 {730}{}{Th'Mordinos? (Holds up three fingers.) Therez two o' them. (Holds hand up high.) Big Jeezus... (Holds hand down low.) ...an' Leetle
  Jeezus. The Father n' the Son. They control th' drugs and the whoa-men in Reno.}
@@ -288,7 +288,7 @@
 {860}{}{He coulda gotten it from anyone in New Reno! There's a pharmacy jest cross th' street run by a drug dealer, and if
  he's not selling, stop an' ask anyone on th' street! Damn Jet!}
 {862}{}{The pharmacy across the street? I'll check it out. Thanks for talking with me, Father.}
-{957}{}{Awright, lissen up...}
+{957}{}{Tudo bem, es-escuta...}
 {958}{}{::Takes a drink::}
 {959}{}{::Keeps drinking, drains bottle::}
 {960}{}{...by the power divested in me, I divorce ye.}

@@ -21,7 +21,7 @@
 {120}{}{Na to ja, proszê ciebie, mówiê do niego, "S³uchaj", mówiê...}
 {121}{}{Spróbuj pieczonego kretoszczura. Najlepszy w okolicy.}
 {122}{}{Czeœæ. Postawisz kolejkê, nie?}
-{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
+{123}{}{Je¿eli szukasz roboty, przybyszu, to idŸ na dó³ do Hodowców Byd³a.}
 {124}{}{Kurwa! Widzia³eœ to?}
 {125}{}{O Bo¿e, chyba siê porzygam.}
 {126}{}{Dla mnie ju¿ wystarczy.}
