@@ -77,7 +77,7 @@
 {3900}{}{ogniwo termoj¹drowe}
 {3901}{}{Œredniej wielkoœci ogniwo wytwarzaj¹ce energiê w procesie mikrosyntezy termoj¹drowej. Autonomiczna elektrownia atomowa.}
 {4000}{}{Stimpaki.}
-{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
+{4001}{}{Narkotyk leczniczy. Natychmiast po wstrzykniêciu goi drobne rany.}
 {4100}{}{pieni¹dze}
 {4101}{}{Legalny œrodek p³atniczy.}
 {4200}{}{lodówka}
@@ -103,11 +103,11 @@
 {5200}{}{licznik Geigera}
 {5201}{}{Licznik Geigera produkcji Wattz Electronics, model WID-Rad. Wykrywa obecnoœæ i si³ê promieniowania.}
 {5300}{}{Mentaty.}
-{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{Tabletki modyfikuj¹ce funkcjonowanie mózgu. Poprawiaj¹ pracê pamiêci i przyspieszaj¹ inne procesy umys³owe. Silnie uzale¿niaj¹ce.}
 {5400}{}{urz¹dzenie maskuj¹ce}
 {5401}{}{SkradoBoy 3001 - osobiste urz¹dzenie maskuj¹ce produkcji firmy RobCo. Wytwarza pole moduluj¹ce, które zakrzywia promienie œwiat³a wokó³ osoby u¿ytkownika.}
 {5500}{}{hydroprocesor}
-{5501}{}{Uk³ad elektroniczny steruj¹cy systemem uzdatniania wody produkcji Krypt-Tech. Zwykle pakowane po piêæ sztuk w zestawie.}
+{5501}{}{Uk³ad elektroniczny steruj¹cy systemem uzdatniania wody produkcji KrypTech. Zwykle pakowane po piêæ sztuk w zestawie.}
 {5600}{}{nieœmiertelniki}
 {5601}{}{Kilka wojskowych nieœmiertelników. Daje siê odczytaæ nazwisko Dickinson i s³owo Enklawa, ale nic poza tym.}
 {5700}{}{pluskwa}
@@ -159,7 +159,7 @@
 {8000}{}{podrêcznik pierwszej pomocy}
 {8001}{}{Podrêcznik objaœniaj¹cy teoriê i praktykê udzielania pierwszej pomocy.}
 {8100}{}{iguana na patyku}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Iguana upieczona we chrupi¹cej skórce. Palce lizaæ.}
 {8200}{}{klucz}
 {8201}{}{Klucz przeznaczony do konkretnego zamka.}
 {8300}{}{kó³ko z kluczami}
@@ -179,7 +179,7 @@
 {9000}{}{plecak}
 {9001}{}{Prosty plecak z dodatkowymi paskami.}
 {9100}{}{Torbê lekarsk¹.}
-{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
+{9101}{}{Ta czarna torba zawiera przy¿¹dy i œrodki farmakologiczne u¿ywane przez lekarzy do wykonywania swojego zawodu.}
 {9200}{}{ogon radskorpiona}
 {9201}{}{Oderwany ogon radskorpiona.}
 {9300}{}{torba}
@@ -191,7 +191,7 @@
 {9600}{}{czerwona karta dostêpowa}
 {9601}{}{Elektroniczny klucz kodowy w kolorze czerwonym.}
 {9700}{}{niebieska karta dostêpowa}
-{9701}{}{An electronic security key, color coded blue.}
+{9701}{}{Elektroniczny klucz kodowy w kolorze niebieskim.}
 {9800}{}{z³om}
 {9801}{}{Kupka starych czêœci. Po trochu wszystkiego.}
 {9900}{}{medalion}
@@ -215,7 +215,7 @@
 {10800}{}{koœci}
 {10801}{}{Zbiór dziwnych koœci.}
 {10900}{}{Rad-X.}
-{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
+{10901}{}{Narkotyk antyradiacyjny (uwaga, nale¿y stosowaæ go PRZED wystawieniem siê na promieniowanie). Brak znanych efektów ubocznych.}
 {11000}{}{Psycho.}
 {11001}{}{Unikalny system wstrzykiwania, nape³niony niezidentyfikowanymi specyfikami, prawdopodobnie produkcji wojskowej. Ich zadaniem jest zwiêkszanie potencja³u bojowego u¿ytkownika.}
 {11100}{}{amunicja 0,44 cala Magnum FMJ}
@@ -377,19 +377,19 @@
 {18900}{}{szafka}
 {18901}{}{Zwyczajna szafka.}
 {19000}{}{taœma o FEV}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Holotaœma zawieraj¹ca informacje medyczne. Mo¿na je przenieœæ do Pip-Boya.}
 {19100}{}{taœma Ochrony}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Holotaœma z napisem "Dziennik Ochrony" na etykiecie. Zapisane na niej dane mo¿na przenieœæ do Pip-Boya.}
 {19200}{}{taœma z eksperymentu Alfa}
 {19201}{}{Etykieta na tej holotaœmie g³osi "Dziennik eksperymentu Alfa"}
 {19300}{}{taœma z eksperymentu Delta}
 {19301}{}{Etykieta na tej holotaœmie g³osi "Dziennik eksperymentu Delta"}
 {19400}{}{taœma z eksperymentu Vree}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Ta holotaœma zawiera dane medyczne uzyskane przez Vree z BS. Zapisane na niej informacje mo¿na przenieœæ do Pip-Boya.}
 {19500}{}{Kodeks Honorowy Bractwa}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
+{19501}{}{Holotaœma z naniesionym zarysem symbolu Bractwa Stali. Zapisane na niej dane mo¿na przenieœæ do Pip-Boya.}
 {19600}{}{transmisja mutantów}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19601}{}{Wygl¹da na to, ¿e na tê holotaœmê nagra³ siê radiowy przekaz dŸwiêkowy. Jej zawartoœæ mo¿na przenieœæ do Pip-Boya.}
 {19700}{}{skrzynia}
 {19800}{}{skrzynia}
 {19900}{}{skrzynia}
@@ -419,7 +419,7 @@
 {21400}{}{biurko}
 {21401}{}{To jest biurko i nawet bli¿sze oglêdziny tego nie zmieni¹.}
 {21500}{}{Historia Bractwa}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
+{21501}{}{Holotaœma zawieraj¹ca informacje o Bractwie Stali. Mo¿na je przenieœæ do twojego Pip-Boya 2000.}
 {21600}{}{Historia Maxsona}
 {21700}{}{dziennik Maxsona}
 {21800}{}{umowa o leczenie ekonomiczne}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Jet to bardzo silny narkotyk z rodziny metaamfetamin. Stymuluje oœrodkowy uk³ad nerwowy - wywo³any przezeñ stan euforii trwa wprawdzie tylko kilka minut, ale przyp³yw energii i si³y w tym okresie jest ogromny.}
 {26000}{}{antidotum na Jet}
-{26001}{}{This antidote cures the Jet addiction.}
+{26001}{}{To antidotum leczy uzale¿nienie od Jetu.}
 {26100}{}{wiatrówka Jonny'ego}
 {26101}{}{Wiatrówka Czerwony Kapturek z wydrapanym na kolbie napisem 'Jonny'. Min. SI: 3.}
 {26200}{}{gumowe buty}
@@ -696,7 +696,7 @@
 {35500}{}{lekka broñ wsparcia}
 {35501}{}{Ta pneumatyczna broñ wsparcia mia³a zwiêkszyæ si³ê ognia dru¿yn uderzeniowych. Okaza³o siê, ¿e trudno z niej korzystaæ w pozycji le¿¹cej, co spowodowa³o przekazanie jej Gwardii Narodowej. Mimo to, uznawana za broñ niezawodn¹ i skuteczn¹. Min. SI: 6.}
 {35600}{}{komputerowy modu³ g³osowy}
-{35601}{}{Uk³ad scalony po³¹czony z mikrofonem. Napis okreœla go jako "Modu³ rozpoznawania g³osu firmy Krypt-Tech".}
+{35601}{}{Uk³ad scalony po³¹czony z mikrofonem. Napis okreœla go jako "Modu³ rozpoznawania g³osu firmy KrypTech".}
 {35700}{}{amunicja .45}
 {35701}{}{Amunicja kalibru .45.}
 {35800}{}{2mm EC}
@@ -716,7 +716,7 @@
 {36500}{}{kolec roœlinny}
 {36501}{}{Organiczny kolec a zarazem ziarno, którym drapie¿ne roœliny pluj¹ w kierunku potencjalnych celów.}
 {36600}{}{G.E.C.K.}
-{36601}{}{Generator Ekosystemu Cudownej Krainy to standardowe wyposa¿enie ka¿dej Krypty firmy Krypt-Tech, a zarazem narzêdzie umo¿liwiaj¹ce odbudowê cywilizacji po Wojnie. Wystarczy dodaæ wody i zamieszaæ.}
+{36601}{}{Generator Ekosystemu Cudownej Krainy to standardowe wyposa¿enie ka¿dej Krypty firmy KrypTech, a zarazem narzêdzie umo¿liwiaj¹ce odbudowê cywilizacji po Wojnie. Wystarczy dodaæ wody i zamieszaæ.}
 {36700}{}{skrzynia z amunicj¹}
 {36800}{}{skrzynia z amunicj¹}
 {36900}{}{skrzynia z amunicj¹}
@@ -795,7 +795,7 @@
 {40800}{}{apteczka pierwszej pomocy}
 {40801}{}{Ma³y zestaw zawieraj¹cy podstawowe wyposa¿enie medyczne. Banda¿e, opaski, antyseptyki i tym podobne.}
 {40900}{}{torba lekarska}
-{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{Ta torba zawiera narzêdzia i œrodki farmakologiczne, z jakich korzystaj¹ lekarze. Zestaw zosta³ przygotowany przede wszystkim z myœl¹ o leczeniu przypadków wyj¹tkowych i zwi¹zanych z powa¿nymi obra¿eniami.}
 {41000}{}{rozsz. zestaw wytrychów}
 {41001}{}{Zestaw narzêdzi œlusarskich. Zawiera wszelkie wytrychy i klucze dynamometryczne potrzebne do otwarcia konwencjonalnego zamka, a tak¿e pewne specjalne narzêdzia przeznaczone do otwierania skomplikowanych zamków mechanicznych.}
 {41100}{}{wytrych elektroniczny wersja II}
@@ -917,10 +917,10 @@
 {46901}{}{Bardzo mocny alkohol lub œrodek czyszcz¹cy, zale¿nie od potrzeby.}
 {47000}{}{Knebel}
 {47001}{}{Dziwny przedmiot o zastosowaniu erotycznym. Jeœli musisz pytaæ, to nie chcesz znaæ szczegó³ów.}
-{47100}{}{"The Lavender Flower"}
+{47100}{}{"Kwiat lawendy"}
 {47101}{}{Jakiœ romans autorstwa Dorothy Rixon. Ok³adka przedstawia kobietê le¿¹c¹ na ³ó¿ku otoczonym kwiatami.}
 {47200}{}{holotaœma Centrologów}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
+{47201}{}{Napis na taœmie identyfikuje j¹ jako "Centrologia: Prawda, nie k³amstwa". Wygl¹da na to, ¿e jest kompatybilna z twoim Pip-Boyem.}
 {47300}{}{zmutowany palec}
 {47301}{}{Widzisz swój szósty palec u nogi. To ma³a, zmutowana czêœæ twojej osoby. Z jakiegoœ powodu widok usuniêtego palca nape³nia ciê strasznym poczuciem straty.}
 {47400}{}{stokrotki}
@@ -934,7 +934,7 @@
 {47800}{}{holotaœma misji Sierra}
 {47801}{}{' Opis misji'.}
 {47900}{}{czêœci komputera nawigacyjnego}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
+{47901}{}{Czêœci komputerowe. Wydaje ci siê, ¿e pasowa³yby do wnêtrza jakiejœ maszyny. Czytasz nadrukowane na nich napisy "Poseidon Oil" i "Komputer nawigacyjny", co nasuwa ci wniosek, ¿e te czêœci mog¹ byæ przeznaczone do komputera nawigacyjnego Poseidon Oil.}
 {48000}{}{+1 do Zrêcznoœci}
 {48100}{}{+1 do Inteligencji}
 {48200}{}{+1 do Si³y}
@@ -1052,7 +1052,7 @@
 {54400}{}{holodysk Botaniki}
 {54401}{}{Ten dysk informacyjny zawiera dane na temat ró¿nych roœlin rosn¹cych przed Wielka Wojn¹.}
 {54500}{}{przeterminowany G.E.C.K.}
-{54501}{}{Generator Ekosystemu Cudownej Krainy. Jest to standardowe wyposa¿enie wszystkich Krypt Krypt-Techu. GECK jest Ÿród³em do odbudowy po bombie. Po prostu dolej wody i pomieszaj. Ten jest dawno po dacie wa¿noœci. Co za marnotrawstwo!}
+{54501}{}{Generator Ekosystemu Cudownej Krainy. Jest to standardowe wyposa¿enie wszystkich Krypt firmy KrypTech. GECK jest Ÿród³em do odbudowy po bombie. Po prostu dolej wody i pomieszaj. Ten jest dawno po dacie wa¿noœci. Co za marnotrawstwo!}
 {54600}{}{stara moneta}
 {54601}{}{Bardzo stara moneta. Nie wiesz czyja twarz jest na awersie, ale wygl¹da na rzadk¹ i wart¹ du¿o pieniêdzy.}
 {54700}{}{zegarek}

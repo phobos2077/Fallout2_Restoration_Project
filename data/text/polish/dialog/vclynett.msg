@@ -268,7 +268,7 @@
 {367}{}{Muszê znaleŸæ Kryptê, z której wywodzi siê mój lud.}
 {368}{}{Czy macie tu Generator Ekosystemu Cudownej Krainy?}
 {369}{}{Ach, wiêc teraz jestem mile widzianym goœciem? Daruj sobie... Wynoszê siê st¹d.}
-{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
+{370}{}{Nawet sobie nie wyobra¿asz... kiedyœ ci opowiem o Œwi¹tyni Prób. ¯egnaj.}
 {371}{lyn051}{Dam ci szansê, któr¹ otrzyma³o bardzo niewielu obcych. Jeœli chcesz, mo¿esz zdawaæ test na obywatelstwo, ale pomoc w rozwi¹zaniu tego problemu mo¿e ci siê bardziej op³aciæ. Rozumiemy siê?}
 {372}{}{W porz¹dku. Co to za problem?}
 {373}{}{Rozumiem. Zrobiê wszystko, czego wymaga dobro Kryptopolis.}
@@ -628,7 +628,7 @@
 {727}{lyn122}{Roger Westin jest chyba jedynym uczciwym cz³owiekiem w Nowej Kalifornii i w dodatku sympatykiem naszej sprawy.}
 {728}{}{W porz¹dku, dostarczê mu ten dysk.}
 {729}{}{Przykro mi, chwilowo nie mam czasu.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{730}{lyn123}{Twój patriotyzm zostanie nale¿ycie doceniony. Teraz idŸ ju¿, nie mamy wiele czasu.}
 {731}{}{Zanim pójdê, jest coœ, o co chcê zapytaæ...}
 {732}{}{Jasne.}
 {733}{}{Mo¿esz na mnie liczyæ. Wrócê jak tylko dysk trafi do r¹k Westina.}

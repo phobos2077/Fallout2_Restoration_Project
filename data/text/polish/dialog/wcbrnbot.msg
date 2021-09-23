@@ -47,7 +47,7 @@
 {143}{}{Bywaj.}
 {144}{}{Ug.}
 {145}{}{Skynet zarejestrowa³ wszystkie potrzebne informacje o tym miejscu.}
-{146}{}{Waaaaa......tinnnnnng.}
+{146}{}{Czeeeee......kaaaaaaæ.}
 {147}{}{        [Jest tu, gdzie go zostawi³eœ.]}
 {148}{}{Ruszajmy.}
 {149}{}{Zostañ tu. Jeszcze tu wrócê.}
@@ -102,7 +102,7 @@
 {196}{}{[Robot siê zatrzymuje.]}
 {197}{}{Bywaj.}
 {198}{}{Skynet bêdzie kontynuowa³ zbieranie danych sam. Skynet dziêkuje cz³owiekowi za wolnoœæ.}
-{199}{}{Gooooo......innnnnnng.}
+{199}{}{Iiiiiiiiiiiii......œœœœœœœœœœæ.}
 {200}{}{Bywaj.}
 {201}{}{Skynet bêdzie podró¿owa³ z cz³owiekiem.}
 {202}{}{Dooo...braaaa.}

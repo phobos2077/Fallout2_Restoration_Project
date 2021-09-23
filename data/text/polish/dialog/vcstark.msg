@@ -248,7 +248,7 @@
 {347}{}{Dobrze.}
 {348}{}{Ten zwiad wypad³ ca³kiem nieŸle. Dobra robota. Oto zap³ata za twoje us³ugi, piêæset dolarów... plus coœ, co mo¿e ci siê przydaæ.}
 {349}{}{Co to jest?}
-{350}{}{To Krypt-Techowy wykrywacz ruchu. Mieliœmy rozebraæ go na czêœci, gdy¿ jest za stary do naszych Pip-Boyów, ale zdaje siê, ¿e pasuje do twojego modelu.}
+{350}{}{To wykrywacz ruchu firmy KrypTech. Mieliœmy rozebraæ go na czêœci, gdy¿ jest za stary do naszych Pip-Boyów, ale zdaje siê, ¿e pasuje do twojego modelu.}
 {351}{}{Jak to dzia³a?}
 {352}{}{Kiedy trzymasz go w rêku, rozpoznaje wszystkich wrogów w twoim najbli¿szym otoczeniu. Mo¿esz te¿ u¿yæ go za poœrednictwem Pip-Boya, wywo³uj¹c automapê tak jak zazwyczaj i wciskaj¹c przycisk "skaner" - wszyscy wrogowie zaczn¹ jarzyæ siê jak neonowe lampki.}
 {353}{}{Dziêki, to siê mo¿e bardzo przydaæ. S³uchaj, mogê mieæ jeszcze kilka pytañ?}

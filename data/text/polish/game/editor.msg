@@ -197,12 +197,12 @@
 {1102}{}{Twoje czyny sprawi³y, ¿e dla wielu ludzi jesteœ kimœ w rodzaju bohatera. Twoja krucjata przeciwko z³u i niegodziwoœci jest powszechnie znana. Ludzie honoru bêd¹ ciê w zwi¹zku z tym bardziej szanowaæ.}
 {1103}{}{Z twej rêki zginê³o wiele dzieci, m³ody kwiat Pustkowi. Nie zjedna ci to raczej powszechnej sympatii. Paskudna osoba z ciebie.}
 {1104}{}{Wprost uwielbiasz Nuka-Colê, popularny napój postnuklearnego œwiata.}
-{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{Twoja postaæ uzale¿ni³a siê od narkotyku zwanego Wygrzew. Musisz go regularnie za¿ywaæ albo zaczniesz odczuwaæ skutki g³odu narkotykowego.}
+{1106}{}{Twoja postaæ uzale¿ni³a siê od Mentatów. Musisz je regularnie za¿ywaæ, albo zaczniesz odczuwaæ skutki narkotykowego g³odu.}
+{1107}{}{Twoja postaæ uzale¿ni³a siê od narkotyków. Je¿eli nie bêdziesz za¿ywa³ Psycho w regularnych odstêpach czasowych, bêdziesz bardzo cierpia³. Je¿eli je za¿yjesz, to inni bêd¹ bardzo cierpieæ.}
+{1108}{}{Twój organizm uzale¿ni³ siê od Anty-Rada. Choæ twoje ¿ycie nie jest zagro¿one, musisz go regularnie za¿ywaæ.}
 {1109}{}{Masz powa¿ny problem z alkoholem. W³aœciwie to masz wiele problemów zwi¹zanych z twoimi pijackimi nawykami.}
-{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
+{1110}{}{Twoja postaæ uzale¿ni³a siê od narkotyków. Musisz regularnie za¿ywaæ Jet.}
 {1111}{}{Tragedia - twoja postaæ uzale¿ni³a siê od zbieractwa. Wci¹¿ poszukujesz nowych rozszerzeñ.}
 {1112}{}{TYMCZASOWE - Co to jest?}
 {1113}{}{Znasz siê na seksie. Znasz siê na grze wstêpnej. Wiesz, jak zadowoliæ przedstawicieli p³ci przeciwnej i sprawiæ, by b³agali o wiêcej.}

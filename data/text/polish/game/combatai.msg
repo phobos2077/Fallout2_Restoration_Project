@@ -2770,7 +2770,7 @@
 {40964}{}{Ty siê zabawiasz, a ja - zabijam.}
 {40965}{}{Brakuje ci jaj, ¿eby ze mn¹ wygraæ...}
 {40966}{}{Nie doœæ, ¿e brakuje ci inteligencji, to jeszcze masz problemy ze wzrokiem.}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{Kilka centymetrów w bok.}
 {40968}{}{Czy stodo³a te¿ jest dla ciebie za du¿ym celem?}
 {40969}{}{Nie umiesz dobrze celowaæ. Moja kolej.}
 {40970}{}{I ¿ebym ja, staruch, by³ o tyle lepszy...}
@@ -3343,7 +3343,7 @@
 {44436}{}{Awaria systemu}
 {44437}{}{Skoki napiêcia. Aktywacja rezerwowych Ÿróde³ zasilania}
 {44438}{}{Brak spoistoœci kad³uba. G³ówne obwody wra¿liwe na atak}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
+{44439}{}{Uszkodzenie zespo³u rozdzia³u mocy. Operacyjnoœæ na poziomie 75%.}
 {44460}{}{Trafienie w prawy motywator. Uszkodzenia minimalne}
 {44461}{}{Brak kalibracji prawego uk³adu ruchowego}
 {44462}{}{Uszkodzenie prawej czêœci napêdu}

@@ -31,13 +31,13 @@
 {204}{}{Kiedy zajê³o ciê to ca³e ratowanie œwiata, myœla³am, ¿e ju¿ o nas nie pamiêtasz.}
 {215}{}{Witaj, }
 {216}{}{Jeœli szukasz towarzyszki zabaw...}
-{217}{}{Hey, you...[winks]...you looking to gamble?}
-{218}{}{He looks so...[shivers]...dangerous.}
+{217}{}{Hej, ty... [mruga] ...chcesz spróbowaæ szczêœcia?}
+{218}{}{Wygl¹da tak... [dr¿y] ...niebezpiecznie.}
 {219}{}{Witaj w naszym kasynie, }
 {220}{}{Szepnij o mnie ciep³e s³ówko szefowi, dobrze?}
 {221}{}{Witam pani¹. Proszê daæ znaæ, jeœli bêdê mog³a w czymœ pomóc.}
 {222}{}{Chce pani spróbowaæ szczêœcia?}
-{223}{}{She looks so...[shivers]...dangerous.}
+{223}{}{Wygl¹da tak... [dr¿y] ...niebezpiecznie.}
 {235}{}{Hazard hazardem, ale tak ryzykowaæ w³asnym ¿yciem...}
 {236}{}{Chyba pomyli³y siê mu kasyna...}
 {237}{}{Jeœli nie wyjdzie st¹d zanim zobacz¹ go ch³opcy...}

@@ -138,7 +138,7 @@
 {239}{}{(Na razie nie chcê siê d³u¿ej bawiæ komputerem.) Wyloguj.}
 {240}{}{Klucz prezydencki rozpoznany. Dzieñ dobry panie Prezydencie... Uruchomiono Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu... Cel w zasiêgu.}
 {241}{}{(Chyba lepiej odsunê siê i zobaczê, co siê stanie.)}
-{242}{}{Klucz prezydencki rozpoznany. Dzieñ dobry panie Prezydencie... Uruchomiono Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu... **Awaria**... Na tym poziomie nie mo¿na dokonaæ po³¹czenia. Proszê wype³niæ formularz FG-I-106-32-0635 w celu zlecenia naprawy. Dziêkujemy za korzystanie z kolejnego doskona³ego produktu firmy Krypt-Tech. Mi³ego dnia.}
+{242}{}{Klucz prezydencki rozpoznany. Dzieñ dobry panie Prezydencie... Uruchomiono Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu... **Awaria**... Na tym poziomie nie mo¿na dokonaæ po³¹czenia. Proszê wype³niæ formularz FG-I-106-32-0635 w celu zlecenia naprawy. Dziêkujemy za korzystanie z kolejnego doskona³ego produktu firmy Vault-Tec. Mi³ego dnia.}
 {243}{}{(Mo¿e spróbujê na poziomie wejœcia do bazy. Hmmm, To musi byæ ten obszar zaraz przed dokiem.) Porót do menu nazwy u¿ytkownika.}
 {244}{}{(Ciekawe czego jeszcze mogê spróbowaæ?) Wróæ.}
 {245}{}{Ta funkcja wymaga klucza prezydenckiego. Nie znaleziono karty kodowej.}
@@ -162,6 +162,6 @@
 {263}{}{Cholera. Zupe³nie nie o to mi chodzi³o.}
 {264}{}{Klucz prezydencki rozpoznany. Dzieñ dobry panie Prezydencie. (Tak! Zobaczmy co teraz mogê zrobiæ...)}
 {265}{}{(Co jeszcze mogê zrobiæ?)}
-{266}{}{Klucz prezydencki rozpoznany. Dzieñ dobry, Panie Prezydencie... Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu zainicjowany... **B³¹d** Cel nieznaleziony. Proszê upewniæ siê, ¿e czujniki dzia³aj¹ prawid³owo. Jeœli nie, proszê wype³niæ formularz FG-I-106-32-0635 w celu zlecenia naprawy. Dziêkujemy za korzystanie z doskona³ych produktów firmy Krypt-Tech. Mi³ego dnia.}
+{266}{}{Klucz prezydencki rozpoznany. Dzieñ dobry, Panie Prezydencie... Awaryjny Protokó³ Przeciwdzia³ania Zamachom Stanu zainicjowany... **B³¹d** Cel nieznaleziony. Proszê upewniæ siê, ¿e czujniki dzia³aj¹ prawid³owo. Jeœli nie, proszê wype³niæ formularz FG-I-106-32-0635 w celu zlecenia naprawy. Dziêkujemy za korzystanie z doskona³ych produktów firmy KrypTech. Mi³ego dnia.}
 {267}{}{(Hmm... Mo¿e zadzia³a kiedy ktoœ tu bêdzie. Spróbuje póŸniej.) Powrót do menu nazwy u¿ytkownika.}
 {268}{}{(Ciekawe czego jeszcze mogê spróbowaæ?) Wróæ.}

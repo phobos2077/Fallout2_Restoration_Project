@@ -4,7 +4,7 @@
 {200}{}{What're you doing up here?}
 {205}{}{Well, check out this bouquet of assholes.}
 {210}{}{Touch that door again, and I'll turn you into a torch.}
-{215}{}{You can go on in... THIS time.}
+{215}{}{Pode entrar... DESTA vez.}
 {220}{}{You done walking in the wrong place, tribal. Get.}
 {221}{}{This ain't no porn studio. Get.}
 {222}{}{What're you doing here, punchy? Lose your way to the boxing ring? Get outta here.}
@@ -32,8 +32,8 @@
 {268}{}{I SAID, I want to see Mr. Salvatore.}
 {270}{}{(Leave quietly.)}
 {275}{}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. }
-{276}{}{This... man... says he's got something you wanna hear.}
-{277}{}{This... woman... says she's got something you wanna hear.}
+{276}{}{Este... cara... diz que tem algo que você quer ouvir.}
+{277}{}{Esta... mulher... diz que tem algo que você quer ouvir.}
 {278}{}{(Wait...)}
 {279}{}{(Attack Mason before he can continue.)}
 {285}{}{Look, maybe you ain't HEARD, tribal, but this's Salvatore's place. MY job is to make sure the boss
@@ -127,16 +127,16 @@
 {525}{}{Go see Mr. Salvatore. He's waiting for you.}
 {530}{}{Awright, then. You're gonna be a one-man collection agency. Drill's simple: Visit Renesco's Pharmacy
  on Commercial Row, collect the tribute, 1000 chips, then bring it back here.}
-{531}{}{All right... anything else?}
+{531}{}{Tudo bem... mais alguma coisa?}
 {535}{}{You collect the tribute yet?}
 {536}{}{(Frowns.) You collect the tribute yet?}
 {537}{}{(Scowls.) You BETTER have the money this time, dipshit. Mr. Salvatore's waiting.}
 {539}{}{Where was I supposed to collect from again?}
 {540}{}{Renesco's giving me shit. Says he gave two weeks ago, and he shouldn't have to pay for another month.}
-{542}{}{Uh... got it. Here's the money.}
+{542}{}{Uh... certo. Aqui está o dinheiro.}
 {543}{}{Did it, but I don't have the money on me...}
 {544}{}{Almost. I'll have it next time, Mason.}
-{546}{}{I got your tribute right here... dead man.}
+{546}{}{Tenho sua homenagem bem aqui... homem morto.}
 {555}{}{*Renesco's Pharmacy.* On the West Side. A thousand chips. Now get going.}
 {556}{}{That's all I need to know. Now stand back and let me get to work, Mason.}
 {565}{}{Hold on a minute there, speedy. I'll make this REAL clear so you can understand: Don't talk to me again
@@ -198,8 +198,8 @@
 {746}{}{Thanks, Mason.}
 {747}{}{Gee, Mason, thanks... except next time, why don't you call me, "sir?" I'd like that. HA HA HA HA HA HA...}
 {748}{}{Gee, Mason, thanks... except next time, why don't you call me, "ma'am?" I'd like that. HA HA HA HA HA HA...}
-{755}{}{Hello... sir.}
-{756}{}{Hello... ma'am.}
+{755}{}{Olá... Senhor.}
+{756}{}{Olá... senhora.}
 {765}{}{(Mason pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore
  says you may come in, }
 {766}{}{Thanks, assholio. I'll be sure to mention your manners to Mr. Salvatore.}

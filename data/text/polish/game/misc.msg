@@ -5,7 +5,7 @@
 {4}{}{Gra do szybkiego odczytu za³adowana.}
 {5}{}{Gra do szybkiego zapisu zapisana.}
 {6}{}{Koniec limitu czasowego wersji demo.}
-{7}{}{Pip-Boy not available in combat!}
+{7}{}{Pip-Boy nie jest dostêpny podczas walki!}
 {8}{}{B³¹d w trakcie zapisywania zrzutu ekranu.}
 {9}{}{WSTÊP}
 {10}{}{NOWA GRA}
@@ -43,7 +43,7 @@
 {5001}{}{nie ma amunicji do prze³adowania broni:}
 {5002}{}{prze³adowuje }
 {6000}{}{¯e co?}
-{7000}{}{You aren't wearing the Pip-Boy!}
+{7000}{}{Nie masz przy sobie Pip-Boya!}
 {8000}{}{DŸwigasz stanowczo za du¿o.}
 {8001}{}{%s dŸwiga za du¿o rzeczy.}
 {8500}{}{Dziêki umiejêtnemu wykorzystaniu swoich traperskich zdolnoœci, zyskujesz %d PD.}

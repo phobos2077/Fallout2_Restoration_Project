@@ -36,7 +36,7 @@
 {320}{}{Vic by³ naprawdê kochany. Potrafi³ wyruszaæ na ca³e tygodnie i potem wracaæ z wszelkiego rodzaju rzeczami sprzed wojny. Ale czêsto musia³ podró¿owaæ do Nory, aby je sprzedaæ. Nie ma tutaj du¿ego zapotrzebowania na tego typu bajery.}
 {321}{}{Gdzie jest teraz Vic?}
 {322}{}{Gdzie jest Nora?}
-{323}{}{Czy Vic mia³ kiedykolwiek coœ, co mia³o oznakowanie 'Krypt-Tech'?}
+{323}{}{Czy Vic mia³ kiedykolwiek coœ, co mia³o oznakowanie 'KrypTech'?}
 {324}{}{Powiedz mi coœ innego.}
 {325}{}{Chyba to wszystko, co chcê wiedzieæ.}
 {330}{}{Nora jest zbiorowiskiem szumowin i z³oczyñców na po³udniowy wschód st¹d. Z tydzieñ drogi lub coœ oko³o. Nie pamiêtam zbyt dok³adnie. W ka¿dym b¹dŸ razie to ekscytuj¹ce miejsce. Niebezpieczne, ale ekscytuj¹ce. Szkoda stamt¹d odchodziæ, w pewnym sensie.}
@@ -61,7 +61,7 @@
 {382}{}{Mmm, chcia³abym pokazaæ ci osobiœcie, jak dobrze potrafiê siê poruszaæ.}
 {383}{}{Dziêki, ale potrzebujê tylko zadaæ ci kilka pytañ. }
 {384}{}{Szukam informacji o handlarzu. Pracuje w towarze sprzed wojny.}
-{390}{}{Krypt-Tech? Móg³ coœ takiego mieæ. Nie jestem pewna. Wiem, ¿e mia³ wiele naprawdê starych gratów.}
+{390}{}{KrypTech? Móg³ coœ takiego mieæ. Nie jestem pewna. Wiem, ¿e mia³ wiele naprawdê starych gratów.}
 {391}{}{Dziêki, Jenny. Pozwól, ¿e zapytam ciê o coœ innego.}
 {392}{}{Có¿, to chyba wszystko, co w tej chwili potrzebujê.}
 {400}{}{Geck? Co to jest? Zgadywa³abym, ¿e jakiœ rodzaj ma³ego gekona. Przykro mi, nie mam pojêcia, co by to jeszcze mog³o byæ.}

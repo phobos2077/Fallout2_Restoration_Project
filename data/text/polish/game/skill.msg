@@ -4,7 +4,7 @@
 {103}{}{Bez broni}
 {104}{}{Broñ bia³a}
 {105}{}{Rzucanie}
-{106}{}{First Aid}
+{106}{}{Pierwsza Pomoc}
 {107}{}{Leczenie}
 {108}{}{Skradanie siê}
 {109}{}{Otwieranie zamków}

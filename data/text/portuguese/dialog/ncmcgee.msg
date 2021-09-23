@@ -24,7 +24,7 @@
 {239}{}{Vamo lá, garota, seja boazinha com o McGee agora...}
 {240}{}{Me dá um pouco de amor, docinho.}
 {241}{}{I done ast you fer the payoff, c'mon now!}
-{242}{}{Jest one more pull...}
+{242}{}{Só mais um puxão...}
 {243}{}{Vou conseguir meus mardito dinhero, mesmo que leve o ano todo...}
 {244}{}{Pox on yore hide, ye one-armed bandit!}
 {245}{}{Talvez eu tenha mais sorte hoje...}
@@ -35,7 +35,7 @@
 {256}{}{É melhor cê sair de perto da minha máquina se sabe o que é bom procê..}
 {260}{}{Merda! Tô duro de novo!}
 {261}{}{Casa contra eu de novo!}
-{262}{}{Need ta git some more chips...}
+{262}{}{Preciso pegar mais chips...}
 {263}{}{Máquina mardita! Continua pegando toda minha grana...}
 {270}{}{Você tem minhas descurpa. Que a sorte esteje co'cê.}
 {271}{}{Descurpa, perdi o controle. O sol do deserto faz um homem dizer coisas horríveis.}
@@ -112,7 +112,7 @@
 {405}{}{(Uma série de símbolos roda no caça-níqueis. A máquina faz um  *bzzzzt*) Meeeerda!
  Máquina teimosa! Eu vou pegar meu dinheiro de volta qualquer dia...}
 {407}{}{ ir agora! Tcha-aau}
-{409}{}{Uh... how long have you been doing this?}
+{409}{}{Eh... Faz quanto tempo você está fazendo isso?}
 {410}{}{Deixa pra lá. Desculpe incomodá-lo.}
 {415}{}{}
 {416}{}{}

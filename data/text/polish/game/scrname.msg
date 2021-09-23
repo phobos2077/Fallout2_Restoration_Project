@@ -115,7 +115,7 @@
 {215}{}{Pan Smith}
 {216}{}{Skeeve}
 {217}{}{Prokonsul Gregory}
-{218}{}{Nurse Phyllis}
+{218}{}{Widzisz pielêgniarkê Fillis.}
 {219}{}{Randal}
 {220}{}{œwiñstwo}
 {221}{}{Barkus}
@@ -416,7 +416,7 @@
 {516}{}{Monte Trzy-Karty}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Bishop's Bodyguard}
+{519}{}{Stra¿nik Bishopów}
 {520}{}{John Bishop}
 {521}{}{Automat}
 {522}{}{Ch³opak ze Z³odziejskiej Dziupli}
@@ -889,7 +889,7 @@
 {989}{}{Zapasy Darrowa}
 {990}{}{drzwi}
 {991}{}{Super mutant}
-{992}{}{Dr. Jing Tie Gahng}
+{992}{}{dr Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Dzieciak}
 {995}{}{skaner siatkówki}
@@ -964,7 +964,7 @@
 {1064}{}{Skrypt mapy}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Harry the Rocketman}
+{1067}{}{Harry Rakieciarz}
 {1068}{}{UKC-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Kwatermistrz}
 {1156}{}{Stra¿nik}
 {1157}{}{Cyberpies}
-{1158}{}{Doctor Schreber}
+{1158}{}{Doktor Schreber}
 {1159}{}{Technik}
 {1160}{}{Technik}
 {1161}{}{Stra¿nik}

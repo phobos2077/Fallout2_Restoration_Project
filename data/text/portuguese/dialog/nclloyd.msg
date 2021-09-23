@@ -22,7 +22,7 @@
 {234}{}{You sound like a man in trouble. I might be able to help you.}
 {235}{}{You look like a man who values his privacy. For someone as talkative as I am, forgetting
  you could be very expensive.}
-{236}{}{All right then... sorry to bother you.}
+{236}{}{Tudo bem então... desculpe incomodá-lo.}
 {245}{}{Problem? The problem's standing right in front of me. }
 {246}{}{Now I'm not going to say it again, fella: Leave.}
 {247}{}{Now I'm not going to say it again, sweetheart: Leave.}
@@ -46,7 +46,7 @@
 {285}{}{You look like a man in trouble, and I might be able to help you. What do you say?}
 {286}{}{You sound like a man who values his privacy. For someone as talkative as I am, forgetting
  you could be very expensive.}
-{287}{}{All right then... sorry to bother you.}
+{287}{}{Tudo bem então... desculpe incomodá-lo.}
 {295}{}{Uh... hey, now... there's, uh, no need for that kind of talk. Maybe we can talk about something
  ELSE: how much your friend Lloyd can help you.}
 {296}{}{I'm interested. You keep on talking.}
@@ -100,7 +100,7 @@
  Lloyd, but that's them, not me.}
 {387}{}{Hmmmmm. 'm not fool enough to turn down help from a beautiful woman. Name's Lloyd. Some call me Pretty Boy
  Lloyd, but that's them, not me.}
-{388}{}{Pleased to meet you. So... about my offer...?}
+{388}{}{Prazer em conhecê-lo. Então... sobre a minha oferta...?}
 {395}{}{The Salvatore family and I had a... disagreement over my success at one of their gambling tables.
  I think the matter can only be settled by removing myself as far from New Reno as possible.}
 {396}{}{Success at their gambling tables, eh? How much you win, Lloyd?}
@@ -160,10 +160,10 @@
 {565}{}{And as for your offer, I COULD use some help. See, I need to get out of town, but things
  have been complicated because of a certain... misunderstanding...}
 {566}{}{What misunderstanding?}
-{585}{}{Time to get the hell outta Reno...}
-{586}{}{Damn box...}
-{587}{}{Heavier than I remember...}
-{595}{}{Here we are...}
+{585}{}{Hora de dar o fora de Reno...}
+{586}{}{Merda de caixa...}
+{587}{}{Bem mais difícil do que eu me lembro...}
+{595}{}{Aqui estamos...}
 {596}{}{It's this one right here.}
 {605}{}{Here we are...*whew*...the money's in... this grave here.}
 {606}{}{Dig it up, Lloyd.}
@@ -173,7 +173,7 @@
 {615}{}{(Looks winded.) As... part of your... guard duties, I'd... be grateful if you'd... dig it up.}
 {616}{}{Uh...}
 {617}{}{There's two types of people in this world, Lloyd. Those with loaded guns and those that dig.}
-{620}{}{All right then, I'll do it...}
+{620}{}{Tudo bem então, eu farei isso...}
 {625}{}{(Lloyd mumbles under his breath, then proceeds to dig.)}
 {626}{}{(Lloyd mumbles under his breath, then proceeds to dig... carefully. Less than a minute
  later, he pulls out a landmine from beneath the dirt and sets it aside. He shrugs sheepishly.)}
@@ -221,7 +221,7 @@
 {1002}{}{You lose Lloyd once you get outside of New Reno.}
 {1050}{}{You let Lloyd leave.}
 {1051}{}{*grumble* Coulda been my money.}
-{1052}{}{Uh... Thanks for letting me live.}
+{1052}{}{Uh... Obrigado por me deixar viver.}
 {1053}{}{When you reemerge from the grave Llyod is nowhere to be seen.}
 {1054}{}{Forget you. This is my money and you aint getting any of it!}
 {5213}{}{ Me }

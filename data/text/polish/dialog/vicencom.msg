@@ -7,8 +7,8 @@
 {106}{}{Terminal komputerowy wy³¹czy³ siê.}
 {107}{}{Rozpoczynam diagnostykê systemu. }
 {108}{}{Po uruchomieniu diagnostyka systemu mo¿e zostaæ w dowolnym momencie przerwana przez operatora systemu.}
-{109}{}{Krypt-Tech zaleca regularn¹ konserwacjê i diagnostykê dla zachowania niezak³óconej pracy.}
-{110}{}{Krypt-Tech: Pierwsza i ostatnia nazwa w technologii Krypt.}
+{109}{}{KrypTech zaleca regularn¹ konserwacjê i diagnostykê dla zachowania niezak³óconej pracy.}
+{110}{}{KrypTech: Pierwsza i ostatnia nazwa w technologii Krypt.}
 {111}{}{Rozpoczynam Diagnostykê Systemu.}
 {112}{}{Systemy Bezpieczeñstwa...}
 {113}{}{Terminal Wejœciowy: Wy³¹czony.}
@@ -40,8 +40,8 @@
 {139}{}{Dziêkujê.}
 {140}{}{Rozpoczynam diagnostykê systemu. }
 {141}{}{Po uruchomieniu diagnostyka systemu mo¿e zostaæ w dowolnym momencie przerwana przez operatora systemu.}
-{142}{}{Krypt-Tech zaleca regularn¹ konserwacjê i diagnostykê dla zachowania niezak³óconej pracy.}
-{143}{}{Krypt-Tech: Pierwsza i ostatnia nazwa w technologii Krypt.}
+{142}{}{KrypTech zaleca regularn¹ konserwacjê i diagnostykê dla zachowania niezak³óconej pracy.}
+{143}{}{KrypTech: Pierwsza i ostatnia nazwa w technologii Krypt.}
 {144}{}{Rozpoczynam Diagnostykê Systemu.}
 {145}{}{Systemy Bezpieczeñstwa...}
 {146}{}{Terminal Wejœciowy: Wy³¹czony.}
@@ -176,7 +176,7 @@
 {302}{}{[KONTYNUUJ]}
 {303}{}{Po kilku minutach, uzyskujesz dostêp do zabezpieczonego archiwum. Jest tam tylko jeden plik i jest oznaczony jako "Poufne". Wygl¹da na to, ¿e twoje punktu umiejêtnoœci przeznaczone na naukê nie posz³y na marne.}
 {304}{}{[Przeczytaj plik.]}
-{305}{}{Czytaj¹c plik, dowiadujesz siê, ¿e jedynym celem Krypty 8 by³o dzia³anie jako "Krypta kontrolna" serii Krypt zbudowanych przez firmê Krypt-Tech. Krypta 8 mia³a byæ otwarta po 10 latach w celu ponownego skolonizowania powierzchni. Okazuje siê te¿, ¿e Krypta 8 nie by³a jedyn¹ Krypt¹ z przeznaczeniem innym ni¿ tylko zapewnienie jej mieszkañcom przetrwania Wielkiej Wojny. Byæ mo¿e, gdzieindziej uda siê znaleŸæ coœ wiêcej o prawdziwym przeznaczeniu tych Krypt.}
+{305}{}{Czytaj¹c plik, dowiadujesz siê, ¿e jedynym celem Krypty 8 by³o dzia³anie jako "Krypta kontrolna" serii Krypt zbudowanych przez firmê KrypTech. Krypta 8 mia³a byæ otwarta po 10 latach w celu ponownego skolonizowania powierzchni. Okazuje siê te¿, ¿e Krypta 8 nie by³a jedyn¹ Krypt¹ z przeznaczeniem innym ni¿ tylko zapewnienie jej mieszkañcom przetrwania Wielkiej Wojny. Byæ mo¿e, gdzieindziej uda siê znaleŸæ coœ wiêcej o prawdziwym przeznaczeniu tych Krypt.}
 {306}{}{[Powrót do listy archiwów.]}
 {307}{}{[Wyloguj.]}
 {308}{}{Dowiadujesz siê o prawdziwym przeznaczeniu Krypty 8 i o tym, ¿e kryje siê coœ wiêcej za budow¹ tych wszystkich Krypt ni¿ mo¿e siê wydawaæ na pierwszy rzut oka.}

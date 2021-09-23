@@ -34,19 +34,19 @@
 {133}{}{A teraz dam ci œmieræ.}
 {134}{}{Zabierz jego cia³o. Doktor chcia³ dostaæ próbkê.}
 {135}{}{Ich krew bêdzie p³ynê³a jak Nil!}
-{200}{}{Witaj, Przybyszu z Krypty. Dla twojej wygody, ten terminal Krypt-Techu zosta³ zmodyfikowany by reagowaæ na polecenia g³osowe. Proszê podaæ komendê.}
+{200}{}{Witaj, Przybyszu z Krypty. Dla twojej wygody, ten terminal firmy KrypTech zosta³ zmodyfikowany by reagowaæ na polecenia g³osowe. Proszê podaæ komendê.}
 {201}{}{Yy, musia³eœ mnie z kimœ pomyliæ. Do zobaczenia, nie jestem Przybyszem z Krypty, jestem Dzieckiem Przeznaczenia. }
 {202}{}{PrzeprowadŸ diagnostykê.}
 {203}{}{Prze³¹cz na wprowadzanie komend przez klawiaturê.}
 {204}{}{Nagrania ochrony.}
 {205}{}{Wyloguj.}
 {206}{}{[WRÓÆ]}
-{210}{}{[Na terminalu zaczynaj¹ migaæ œwiat³a, ze œrodka dobywa siê dŸwiêk klikania i obracania. Po kilku sekundach, na monitorze pojawia siê komunikat.] Przepraszam, komenda nierozpoznawalna. Proszê powtórzyæ komendê, proszê mówiæ do mikrofonu czystym, wyraŸnym g³osem. Krypt-Tech przeprasza za niewygodê. Dziêkujê.}
+{210}{}{[Na terminalu zaczynaj¹ migaæ œwiat³a, ze œrodka dobywa siê dŸwiêk klikania i obracania. Po kilku sekundach, na monitorze pojawia siê komunikat.] Przepraszam, komenda nierozpoznawalna. Proszê powtórzyæ komendê, proszê mówiæ do mikrofonu czystym, wyraŸnym g³osem. KrypTech przeprasza za niewygodê. Dziêkujê.}
 {211}{}{PrzeprowadŸ diagnostykê.}
 {212}{}{Prze³¹cz na wprowadzanie komend przez klawiaturê.}
 {213}{}{Nagrania ochrony.}
 {214}{}{Wyloguj.}
-{220}{}{Proszê czekaæ, uruchamiam procedurê diagnostyczn¹... Krypt-Tech docenia twoj¹ cierpliwoœæ... Dziêkujê za czekanie... Procedura diagnostyczna zakoñczona. Wszystkie systemy dzia³aj¹ prawid³owo. W koñcu to Krypt-Tech. }
+{220}{}{Proszê czekaæ, uruchamiam procedurê diagnostyczn¹... KrypTech docenia twoj¹ cierpliwoœæ... Dziêkujê za czekanie... Procedura diagnostyczna zakoñczona. Wszystkie systemy dzia³aj¹ prawid³owo. W koñcu to KrypTech. }
 {221}{}{Wróæ.}
 {222}{}{Wyloguj.}
 {230}{}{Prze³¹czam na tryb interfejsu manualnego... interfejs manualny zainicjowany. Dla wygody innych po wylogowaniu ten terminal powróci do przyjmowania komend g³osowych. Proszê wprowadziæ komendê.}
@@ -58,7 +58,7 @@
 {242}{}{Historia Krypty 13. }
 {243}{}{Wpisy Nadzorcy.}
 {244}{}{Wyloguj.}
-{250}{}{Witaj w Krypcie 13, najnowsze dzie³o Krypt-Techu z serii produktów bezpieczeñstwa publicznego, najlepszy wybór schronów przeciwatomowych. Krypt-Tech, Amerykañskie Ostatnie S³owo w Budownictwie Mieszkaniowym.}
+{250}{}{Witaj w Krypcie 13, najnowsze dzie³o KrypTech z serii produktów bezpieczeñstwa publicznego, najlepszy wybór schronów przeciwatomowych. KrypTech, Amerykañskie Ostatnie S³owo w Budownictwie Mieszkaniowym.}
 {251}{}{[KONTYNUUJ]}
 {252}{}{Krypty, seria schronów które powy¿ej gruntu by³y budowane tak aby umo¿liwiæ ¿ycie po nuklearnej apokalipsie. Jest obowi¹zkiem ka¿dego amerykañskiego obywatela aby poznaæ i korzystaæ z umiejêtnoœci niezbêdnych do wygodnego ¿ycia w Krypcie. Najlepiej zacz¹æ od opisu waszego nowego domu.}
 {253}{}{[KONTYNUUJ]}
@@ -71,17 +71,17 @@
  Czas trwania: 10 lat (w normie)                                    
  Liczba kwater: 100 (przy maksymalnym zasiedleniu zalecane sypianie na zmiany)}
 {255}{}{[KONTYNUUJ]}
-{256}{}{Aby pomóc Mieszkañcom Krypty zachowaæ wiedzê (a wiedza jest niezwykle wa¿na, w³aœciwie to, mo¿e byæ najcenniejsz¹ broni¹ w obliczu koñca cywilizacji, wiêc uwa¿ajcie!) Krypt-Tech wybra³ RobCo Pip-Boya 2000 z RobCo Industries na Prywatny Informacyjny Procesor jako najlepszy dla Mieszkañców Krypty.}
+{256}{}{Aby pomóc Mieszkañcom Krypty zachowaæ wiedzê (a wiedza jest niezwykle wa¿na, w³aœciwie to, mo¿e byæ najcenniejsz¹ broni¹ w obliczu koñca cywilizacji, wiêc uwa¿ajcie!) KrypTech wybra³ RobCo Pip-Boya 2000 z RobCo Industries na Prywatny Informacyjny Procesor jako najlepszy dla Mieszkañców Krypty.}
 {257}{}{[KONTYNUUJ]}
 {258}{}{RobCo Pip-Boy 2000 jest porêcznym urz¹dzeniem noszonym na nadgarstku. Jest ma³y, szczególnie jak na dzisiejsze standardy i bêdzie dla ciebie przechowywa³ du¿e iloœci danych. Oraz u¿ywa nowoczesnych super-ekskluzywnych grafik podczas startu! Po wiêcej informacji odsy³amy do instrukcji obs³ugi Pip-Boya.}
 {259}{}{[KONTYNUUJ]}
-{260}{}{Kluczem do sukcesu w ponownej cywilizacji œwiata po globalnej zag³adzie atomowej s¹ ludzie. Tu w Krypt-Tech, pracujemy aby zapewniæ naszym rodakom (i rodaczkom) mo¿liwoœci przywrócenia Ameryki do ¿ycia.}
+{260}{}{Kluczem do sukcesu w ponownej cywilizacji œwiata po globalnej zag³adzie atomowej s¹ ludzie. Tu w KrypTech, pracujemy aby zapewniæ naszym rodakom (i rodaczkom) mo¿liwoœci przywrócenia Ameryki do ¿ycia.}
 {261}{}{[KONTYNUUJ]}
 {262}{}{Wierzymy, ¿e dobre nastawienie jest jednym z najlepszych dostêpnych narzêdzi. Je¿eli zda¿y Ci siê napotkaæ Mieszkañca Krypy z gorszym ni¿ pozytywnym nastawieniem, to zachêcamy do zg³oszenia tego Nadzorcy Krypty. I pamiêtaj, kiedy Krypta zostanie zamkniêta, s³owo Nadzorcy jest prawem.}
 {263}{}{[KONTYNUUJ]}
-{264}{}{Krypta 13 zosta³a wyposa¿ona w najnowoczeœniejszy sprzêt s³u¿¹cy przetrwaniu. Zapasy w pojemnikach magazynowych wystarcz¹ na 10 lat dla 1,000 osób mieszkaj¹cych wygodnie i nowoczeœnie. Kiedy nadejdzie czas opuszczenia Krypty i powrotu, aby odbudowaæ Amerykê, twoi przyjaciele z Krypt-Techu zapewni¹ ci wszystko co niezbêdne w tym wyzwaniu.}
+{264}{}{Krypta 13 zosta³a wyposa¿ona w najnowoczeœniejszy sprzêt s³u¿¹cy przetrwaniu. Zapasy w pojemnikach magazynowych wystarcz¹ na 10 lat dla 1,000 osób mieszkaj¹cych wygodnie i nowoczeœnie. Kiedy nadejdzie czas opuszczenia Krypty i powrotu, aby odbudowaæ Amerykê, twoi przyjaciele z KrypTechu zapewni¹ ci wszystko co niezbêdne w tym wyzwaniu.}
 {265}{}{[KONTYNUUJ]}
-{266}{}{Dziêkujemy za poœwiecenie czasu na przeczytanie Przewodnika Prze¿ycia Mieszkañca Krypty (Wersja Skrócona). Tu w Krypt-Tech wierzymy, ¿e pokochasz nowe podziemne ¿ycie.}
+{266}{}{Dziêkujemy za poœwiecenie czasu na przeczytanie Przewodnika Prze¿ycia Mieszkañca Krypty (Wersja Skrócona). Tu w KrypTechu wierzymy, ¿e pokochasz nowe podziemne ¿ycie.}
 {267}{}{Historia Krypty 13. }
 {268}{}{Wpisy Nadzorcy.}
 {269}{}{Wyloguj.}
@@ -105,7 +105,7 @@
 {292}{}{[Zgadnij has³o]}
 {293}{}{[Spróbuj siê w³amaæ.]}
 {294}{}{Wyloguj.}
-{300}{}{Has³o nieprawid³owe. Pliki zostaj¹ zablokowane. Krypt-Tech przeprasza za utrudnienia.}
+{300}{}{Has³o nieprawid³owe. Pliki zostaj¹ zablokowane. KrypTech przeprasza za utrudnienia.}
 {301}{}{[Wróæ.]}
 {302}{}{[Spróbuj siê w³amaæ.]}
 {303}{}{Wyloguj.}
@@ -133,7 +133,7 @@
 {351}{}{Wyloguj.}
 {360}{}{Wiele godzin poœwiêconych na przeszukanie archiwów, pozwoli³o ci znaleŸæ kilka ukrytych plików na temat Programu Zachowania Spo³eczeñstwa. Czytaj¹ je, odkrywasz szokuj¹c¹ prawdê na temat Krypt: ich celem nigdy nie by³o ocalenie populacji Stanów Zjednoczonych.}
 {361}{}{[KONTYNUUJ]}
-{362}{}{Niewiarygodne, wszystkie 122 Krypty Krypt-Techu by³y czêœci¹ spo³ecznego eksperymentu zarz¹dzanego przez rz¹d Stanów Zjednoczonych. Tylko 17 z nich, okreœlonych jako "Krypty Kontrolne", mia³o dzia³aæ prawid³owo (Krypta 8 by³a jedn¹ z tych szczêœliwych). Pozosta³e mia³y posiadaæ ro¿ne krytyczne b³êdy, aby rz¹d móg³ badaæ wyselekcjonowan¹ grupê mieszkañców pod k¹tem reakcji na stres wywo³any okreœlonymi czynnikami, oraz na ile s¹ zdolni do ponownej kolonizacji po otwarciu ich Krypt.}
+{362}{}{Niewiarygodne, wszystkie 122 Krypty firmy KrypTech by³y czêœci¹ spo³ecznego eksperymentu zarz¹dzanego przez rz¹d Stanów Zjednoczonych. Tylko 17 z nich, okreœlonych jako "Krypty Kontrolne", mia³o dzia³aæ prawid³owo (Krypta 8 by³a jedn¹ z tych szczêœliwych). Pozosta³e mia³y posiadaæ ro¿ne krytyczne b³êdy, aby rz¹d móg³ badaæ wyselekcjonowan¹ grupê mieszkañców pod k¹tem reakcji na stres wywo³any okreœlonymi czynnikami, oraz na ile s¹ zdolni do ponownej kolonizacji po otwarciu ich Krypt.}
 {363}{}{[KONTYNUUJ]}
 {364}{}{Okazuje siê, ¿e Krypta 13 mia³a pozostaæ zamkniêta przez 200 lat w celu zbadania wp³ywu d³ugiej izolacji. NajwyraŸniej, awaria procesora oczyszczania wody by³a nie zamierzona i zmusi³a Nadzorcê do improwizacji, wys³ania twojego dziadka na poszukiwania dzia³aj¹cego procesora. Szukaj¹c nieco g³êbiej, udaje ci siê znaleŸæ opisy kilku innych eksperymentów w Kryptach.}
 {365}{}{[KONTYNUUJ]}

@@ -1,7 +1,7 @@
 {1}{}{+%d %s.}
 {2}{}{-%d %s.}
 {3}{}{Czujesz siê znacznie lepiej.}
-{4}{}{You suffer a fatal heart attack from drug overdose.}
+{4}{}{Przedawkowanie skutkuje œmiertelnym atakiem serca.}
 {5}{}{%s to ju¿ tylko surowiec wtórny.}
 {6}{}{%s - status aktywny.}
 {7}{}{%s - status nieaktywny.}
@@ -10,7 +10,7 @@
 {10}{}{Nic siê nie dzieje.}
 {50}{}{Zdaje siê, ¿e niewiele siê zmieni³o.}
 {500}{}{Potrzebujesz wiêcej œwiat³a aby pod³adowaæ ten przedmiot.}
-{600}{}{%s succumbs to the adverse effects of drugs.}
+{600}{}{%s cierpi z powodu skutków ubocznych dzia³ania prochów.}
 {800}{Weapon Damage}{lampka}
 {801}{}{Œrednie}
 {802}{}{Ciê¿kie}

@@ -19,7 +19,7 @@
 {300}{}{"Tu spoczywa Chris Avellone, Król Parkietu."}
 {301}{}{"Chris Jones. Nietoperz."}
 {302}{}{"Christopher Michael Holland, alias 'Chris Holland', alias 'Chris': Istnieje dwa i pó³ powodu, dla którego warto przeczytaæ ten nagrobek... Normalnie, powody te zosta³yby wypisane."}
-{303}{}{"Colin McComb: Another pointless life."}
+{303}{}{"Colin McComb: Kolejny bezcelowy ¿ywot."}
 {304}{}{"David Hendee: najg³oœniejszy poœród martwych. Niech spoczywa w pokoju... i ciszy."}
 {305}{}{"Ed Hyland. Kaza³ œwiatu siê odwaliæ."}
 {306}{}{"Eric Demilt. PRAWDZIWY Bojowy Ch³opak."}
@@ -36,7 +36,7 @@
 {317}{}{"Leonard Boyarski. Wygnaniec z Kryptopolis."}
 {318}{}{"Rupert Dinkos, umar³ zim¹ '00."}
 {319}{}{"Matt Norton. Móg³ do czegoœ dojœæ. Móg³ byæ KIMŒ WA¯NYM, a nie obibokiem, którym by³."}
-{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
+{320}{}{"Nick Kesting." [Na grobie stoi ma³e wiaderko pe³ne miedzianych ³usek.]}
 {321}{}{"Robert Collier. Cichy. Zabójczy. Rob."}
 {322}{}{"Robert Hertenstein 2. Jego doktor próbowa³ mu to powiedzieæ, ale ten upar³ siê, ¿e 'Trochê za du¿o tych informacji.'"}
 {323}{}{"Scott Campbell. Nie ten od zupy."}
@@ -44,13 +44,13 @@
 {325}{}{"Scott Rodenhizer. Twórca trójwymiarowych g³ów."}
 {326}{}{"Thomas French: Zgin¹³ próbuj¹c opanowaæ Lataj¹c¹ Gilotynê."}
 {327}{}{"Tim Cain. Za³o¿yciel, Kochanek, Wojownik, Programista."}
-{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
-{329}{}{"Zeb -- Still Older Than Dirt."}
+{328}{}{"Tramell Ray Isaac: Tu spoczywa jeden z najciê¿ej pracuj¹cych ludzi w bran¿y. Animator par excellence (jak siê to pisze?). Tak myœlê. Spoczywaj w pokoju T-Ray."}
+{329}{}{"Zeb - Wci¹¿ Starszy Ni¿ Brud."}
 {330}{}{"Dennis Presnell. Prawie go teraz s³yszymy. 'Nazywacie to pogrzebem?! By³ do kitu! Jesteœcie !@#je! Ju¿ nigdy wiêcej nie umrê! Bla bla bla...'" Wydrapane poni¿ej g³osi, "Panie, miej w opiece 'Wyj¹cego' D., powinien by³ zostaæ do poprawek."}
-{331}{}{"Rupert Diukos, died 9/24/96."}
-{332}{}{"Sal De Ban, died 9/24/96."}
-{333}{}{"Greg Zeschule, Fall '99."}
-{334}{}{"Ray Muzyka, Summer '98."}
+{331}{}{"Rupert Diukos, zmar³ 24/9/96."}
+{332}{}{"Sal De Ban, zmar³ 24/9/96."}
+{333}{}{"Greg Zeschule, jesieñ '99."}
+{334}{}{"Ray Muzyka, lato '98."}
 {335}{}{"Evan Chantland, 74-??: Wcale nie mia³ paranoi, oni naprawdê go œledzili!"}
 {336}{}{"Tu spoczywa £oœ, zimny i martwy. Tu go znaleŸliœmy, nie mia³ g³owy."}
 {337}{}{"Amy Presnell."}
@@ -61,7 +61,7 @@
 {342}{}{"T. D. Hamilton: Tu le¿y œmierdz¹ca szmata, która powinna by³a umrzeæ dawno temu? Sma¿ siê w piekle, SUKO!"}
 {343}{}{"Kolejna ofiara ostatecznego terminu."}
 {344}{}{"Dogbomb nie ¿yje. Niech ¿yje Dog."}
-{345}{}{"Kris Snider: Too competitive."}
+{345}{}{"Kris Snider: Zabi³a go rywalizacja."}
 {346}{}{"Czy twoje ¿ycie ma sens?"}
 {347}{}{"Zabij siê sam i oszczêdŸ komuœ k³opotu?"}
 {348}{}{"Charles Cuevas: Powiedzia³ kiedyœ, 'Dajcie mi hokej, albo dajcie mi œmieræ.' Hokeja nie dosta³."}
@@ -89,15 +89,15 @@
 {370}{}{"Pamiêci Owena Moore. Chocia¿ na tyle by³o go staæ."}
 {371}{}{"Pamiêci Chrisa Wooda, pochowanego w piêknej, dêbowej trumnie. Najlepszy dowód na to, ¿e piêkne opakowanie nie zawsze skrywa ³adny prezent.}
 {372}{}{"Tu spoczywaj¹ doczesne szcz¹tki Jonathana Pease. Bóg jest cierpliwy i mi³osierny. Cierpliwoœæ bêdzie mu bardzo potrzebna."}
-{373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
+{373}{}{"Zgin¹³ tragicznie 21 marca 1870 r. w wyniku eksplozji "Nie-eksploduj¹cego paliwa R.E. Danfortha"."}
 {374}{}{"Urodzona 1903 - zmar³a 1942. Spojrza³a w górê szybu windy, by sprawdziæ, czy ta jedzie w dó³. Jecha³a."}
 {375}{}{"Tu spoczywa Ateista. Ca³y wystrojony ale nie ma dok¹d pójœæ!"}
-{376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
+{376}{}{"Eileen Suh: Bóg jest nieograniczony w swym mi³osierdziu. Ona by³a niemi³osiernie ograniczona."}
 {377}{}{"Sarah Smart: Oratorka, Autorka, Profesorka, De Amicitia."}
-{378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
-{379}{}{"Jughead - King of Queen Archie's World".}
+{378}{}{"Tim Winkle - Nie zniosê niczyjej hipokryzji, poza swoj¹."}
+{379}{}{"Jughead – Król Œwita Królowej Archie."}
 {380}{}{"Casey Donahue. Zmar³ 06.08.98. Skoczy³ z dachu, lecz zosta³ trafiony przez piorun nim spad³ na ziemiê. Z technicznego punktu widzenia NIE BY£ samobójc¹."}
-{381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
+{381}{}{"Christopher 'Nietoperz' Jones: zapalony zielarz."}
 {382}{}{"Jay "Kartoflane Stopy" Nielson. Muzyk. Zmar³ w wieku 104 lat, podczas solówki na perkusji."}
 {383}{}{"Nitsa - Powód, dla którego Charles NIE DOSTA£ hokeja."}
 {384}{}{"Thuy Dang. Niech Bóg zlituje siê nad jego nazwiskiem."}

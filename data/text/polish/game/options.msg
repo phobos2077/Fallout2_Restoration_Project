@@ -26,7 +26,7 @@
 {120}{}{STAND.}
 {121}{}{Anuluj}
 {122}{}{Dotyczy prêdkoœci gracza}
-{123}{}{Pip-Boy speech}
+{123}{}{Mowa Pip-Boya}
 {201}{}{W³.}
 {202}{}{Wy³.}
 {203}{}{Min.}

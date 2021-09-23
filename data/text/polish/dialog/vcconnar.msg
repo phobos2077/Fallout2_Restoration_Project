@@ -115,7 +115,7 @@
 {612}{}{Pewnie w koñcu zapomnê. Dostaje tyle misji, ¿e ciê¿ko mi o wszystkich pamiêtaæ. Gdyby nie Pip-Boy, kto wie co by ze mn¹ by³o? Do zobaczenia.}
 {700}{}{A tak, oczywiœcie. Proszê. [Oddajesz mu 5000$.]}
 {701}{}{Przepraszam. Koszta operacyjne je poch³onê³y.}
-{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
+{702}{}{Cholera, mam za ma³o ¿eby wam oddaæ. Musia³o siê rozejœæ. Zwrócê wam tak szybko jak to tylko bêdzie mo¿liwe.}
 {710}{}{Dziêki. Proszê. [Wrêcza ci spowrotem 2500$.] Zatrzymaj je. Przynajmniej tak mo¿emy Ci siê odwdziêczyæ.}
 {720}{}{Rozumiem. Có¿, jeœli kupi³y nasz¹ wolnoœæ, warto by³o. Jeszcze raz dziêkujê za wszystko.}
 {730}{}{S³uchaj, co powiesz na zwrócenie nam po³owy? Masz 2500$?}

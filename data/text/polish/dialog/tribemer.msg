@@ -14,9 +14,7 @@
 {215}{}{Kogo nazywasz “dziwnym”, ty t³usty jednooki matkojebco? [Atakujesz.]}
 {220}{}{[Jego uœmiech nieco blednie. Przytakuje.] Dobra, no to do interesów. Powiedzcie mi, przyjaciele, czy s³yszeliœcie  kiedykolwiek o ma³ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadaj¹c ostatnie s³owo, wyci¹ga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
 {230}{}{[Otwiera szeroko oczy i cicho gwi¿d¿e.] Dziecko Przeznaczenia, co? Có¿ wyobraŸ sobie, ¿e jestem pod wra¿eniem. A teraz zabierzmy siê do interesów. Powiedzcie mi, przyjaciele, czy s³yszeliœcie  kiedykolwiek o ma³ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadaj¹c ostatnie s³owo, wyci¹ga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
- a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
- wondrous artifact.]}
+{240}{}{Cokolwiek powiesz, przyjacielu. A teraz bierzmy siê do interesów, dobrze? Czy s³yszeliœcie  kiedykolwiek o ma³ym przedmiocie nazywanym... stimpakiem? [Dramatycznie wypowiadaj¹c ostatnie s³owo, wyci¹ga z kieszeni stimpak i trzyma go w górze jak cudowny artefakt.]}
 {241}{}{Yyy, tak. WyobraŸ sobie, s¹ doœæ pospolite.}
 {242}{}{Oczywiœcie. Wrêcz je zbieram. Cholera, dla mnie to praktycznie stimpakowe uzale¿nienie.}
 {243}{}{[Krêcisz g³ow¹ i patrzysz na stimpak w zadumie.] Co to... stim-pak?}

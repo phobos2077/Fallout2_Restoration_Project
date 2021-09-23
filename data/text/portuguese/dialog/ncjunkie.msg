@@ -104,7 +104,7 @@
 {321}{}{Uh... Está falando comigo?}
 {322}{}{Oh man, these DTs must be getting worse. Now metallic people are talking to me.}
 {323}{}{Did somebody pour metal on you?}
-{324}{}{Hey, uh... you got any Jet in there?}
+{324}{}{Ei, uh... você tem um jet aí?}
 {325}{}{Spare a few chips...? Uh, nevermind.}
 {326}{}{::Knocks on your armor:: Hello? Anybody home?}
 {327}{}{Are you some kind of strange refrigerator-human hybrid?}
@@ -118,7 +118,7 @@
 {360}{}{You th'fighter? You got some chips I ken borrow?}
 {361}{}{C'mon, gimme just a few chips.}
 {362}{}{Ken I borrow some cash? Look, I'll pay ya back.}
-{363}{}{Hey, uh... you got any Jet?}
+{363}{}{Ei, uh... você tem algum jet?}
 {364}{}{Man, I need to *fly,* know what I'm saying?}
 {365}{}{I really need some medicine for my son. Help me out.}
 {366}{}{Spare a few chips?}
@@ -140,7 +140,7 @@
 {388}{}{I'll work for Jet...}
 {389}{}{C'mon, friend, gimme just a few chips.}
 {390}{}{Ken I borrow some cash? Look, I'll pay ya back.}
-{391}{}{Hey, uh... you got any Jet, friend?}
+{391}{}{Ei, uh... você tem algum jet, parceiro?}
 {392}{}{I really need some medicine for my son. Help me out.}
 {393}{}{Spare a few chips?}
 {394}{}{I just need a few chips to buy some food... that's all...}
@@ -150,7 +150,7 @@
 {398}{}{You can sell me into slavery if you give me some Jet.}
 {399}{}{Hey, sister? Can you help me fly?}
 {400}{}{C'mon, miss, gimme just a few chips.}
-{401}{}{Hey, uh... you got any Jet, miss?}
+{401}{}{Ei, uh... você tem algum jet, moça?}
 {402}{}{Look, I need to *fly,* know what I'm saying?}
 {403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{Mãe?}
@@ -158,7 +158,7 @@
 {421}{}{C'mon, boy, gimme just a few chips.}
 {422}{}{I'll sleep with you for some Jet or a few chips. I'm clean, I promise.}
 {423}{}{I'm cheaper than those family whores. Uh, don't tell them I'm pimping, though.}
-{424}{}{I'll do anything you want for some chips... or Jet, if you got it.}
+{424}{}{Eu farei qualquer coisa por alguns chips... ou jet, se você tiver.}
 {425}{}{I used to be the beauty queen here in Reno. I still got it...}
 {426}{}{You need someone to get high with, man?}
 {427}{}{No, man, I'm off drugs. Uh... why? You buying?}
@@ -176,7 +176,7 @@
 {439}{}{C'mon, miss, gimme just a few chips.}
 {440}{}{Hey, sister? Can you help me fly?}
 {441}{}{I can please you... if you got some Jet for me.}
-{442}{}{Hey, uh... you got any Jet, sister?}
+{442}{}{Ei, uh... você tem algum jet, irmã?}
 {443}{}{Sister, I need to *fly,* know what I'm saying?}
 {444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{Mãe?}
@@ -210,7 +210,7 @@
 {483}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
 {484}{}{You talkin' to me? You talkin' to me?!}
 {485}{}{You want some of this?! Huh?}
-{486}{}{::Glares at you past drug-hazed eyes::}
+{486}{}{::Olha para você com os olhos encharcados de droga::}
 {487}{}{You wanna fly with me?}
 {488}{}{Hey, champ, wazzup?!}
 {489}{}{You gonna box wi' me? Huh? C'mon!}
@@ -228,7 +228,7 @@
 {510}{}{You talkin' to me? You talkin' to me?!}
 {511}{}{You messin' with me, mafia tool? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
 {512}{}{You want some of this, gangster?! Huh?}
-{513}{}{::Glares at you past drug-hazed eyes::}
+{513}{}{::Olha para você com os olhos encharcados de droga::}
 {520}{}{Whoa... what are YOU on? Got any to share?}
 {521}{}{I thought *I* was fucked up.}
 {522}{}{Hey, friend... share some of that shit you're on.}
@@ -255,7 +255,7 @@
 {544}{}{You see Renesco, tell him I'll give him the money tomorrow.}
 {545}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
 {546}{}{You talkin' to me? You talkin' to me?!}
-{547}{}{::Glares at you past drug-hazed eyes::}
+{547}{}{::Olha para você com os olhos encharcados de droga::}
 {548}{}{Man, don't look now, but you got this mutant following you.}
 {549}{}{Whoa. I must be taking some baaad shit... I'm seeing mutants running around.}
 {550}{}{Am I high, or is your friend two-stories tall?}
@@ -286,7 +286,7 @@
 {575}{}{You talkin' to me? You talkin' to me?!}
 {576}{}{You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
 {577}{}{You want some of this?! Huh?}
-{578}{}{::Glares at you past drug-hazed eyes::}
+{578}{}{::Olha para você com os olhos encharcados de droga::}
 {600}{}{Nice...}
 {601}{}{Mmmm...}
 {602}{}{Você é um amigo.}
@@ -294,4 +294,4 @@
 {604}{}{J}
 {605}{}{Give me a J... ummm...}
 {796}{}{! KICK ASS!! WHAT'S NEXT, BABY, WHAT'S NEXT?!!!}
-{871}{}{ family? Can you set me up with some Jet?}
+{871}{}{ familia? Pode me passar algum jet?}

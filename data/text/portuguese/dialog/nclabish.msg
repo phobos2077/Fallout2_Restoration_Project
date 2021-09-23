@@ -43,7 +43,7 @@
 {253}{}{Meu nome é }
 {254}{}{I am a simple traveler.}
 {255}{}{I'm a traveler, looking for Vault 13. Have you heard of it?}
-{256}{}{I'm a traveler... do you know where I could find something called the 'Garden of Eden Creation Kit?'}
+{256}{}{Sou um viajante... você sabe onde posso encontrar um negócio chamado 'Kit de Criação do Jardim do Éden?'}
 {257}{}{Look, maybe I better be going. Goodbye.}
 {260}{}{Sim?}
 {261}{}{Can you tell me about Mr. Bishop?}
@@ -110,7 +110,7 @@
 {345}{}{Might be... I'll go check it out. Thanks.}
 {350}{}{Hmnnn. Well then, I'm afraid that I can't help you.}
 {352}{}{Do you know anyone who might know?}
-{353}{}{Yeah, well... thanks anyway.}
+{353}{}{Sim, certo... obrigado de qualquer forma.}
 {354}{}{Well, thanks for your time, Mrs. Bishop. I appreciate it.}
 {360}{}{You might want to head there, then.}
 {362}{}{All right then, I'll go check it out.}
@@ -135,13 +135,13 @@
 {387}{}{I work for your husband, Mrs. Bishop. It wouldn't be right.}
 {390}{}{(She raises an eyebrow.) We shall see.}
 {391}{}{Well, that's all I need to hear. Let's go.}
-{392}{}{Mrs. Bishop, I'm sorry, but I have to decline... this time.}
+{392}{}{Sra. Bishop, sinto muito, mas tenho que recusar... desta vez.}
 {393}{}{I'm sorry, but I can't, Mrs. Bishop. I really have to be going.}
 {394}{}{No way. I have no desire to cross your husband.}
 {400}{}{(She laughs.) You flatter yourself. It's merely a drink. }
 {401}{}{And IF anything were to happen, I assure you, my husband is QUITE dead. }
 {402}{}{And IF anything were to happen, I assure you, my husband is NOT the jealous type. }
-{404}{}{Mrs. Bishop, I'm sorry, but I still have to decline... this time.}
+{404}{}{Sra. Bishop, sinto muito, mas ainda tenho que recusar... desta vez.}
 {410}{}{(She raises an eyebrow.) My husband may be dead, but his men are at my disposal.
  They can become quite... irate... when an invitation from Mrs. Bishop is refused. Are you
  *quite* certain you will not join me?}
@@ -319,7 +319,7 @@
 {655}{}{No... John probably has a map of their location somewhere around here...
  (Sniffs slightly, rubs nose.) Mmmmm....}
 {657}{}{Let's talk about something else...}
-{660}{}{, I think... something like that...}
+{660}{}{, Eu acho... algo assim...}
 {663}{}{Excellent... time to go crack a safe... sleep well, Mrs. Bishop.}
 {665}{}{Oh, }
 {666}{}{Oh. Thanks.}

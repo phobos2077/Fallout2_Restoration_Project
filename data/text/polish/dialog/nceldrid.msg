@@ -102,12 +102,12 @@
 {424}{}{Jasne, ale interesuje mnie coœ innego...}
 {425}{}{To nie dla mnie. Do widzenia.}
 {430}{}{(Jest to ³adny, plastykowy kwadracik z dziurkami i metalowymi liniami na powierzchni. Widniej¹ na nich te œmieszne literko-znaczki. Przypomina trochê ciasto z kruszonk¹. Zaczynasz siê œliniæ.)}
-{431}{}{(Wygl¹da to na jakiœ uk³ad elektroniczny. Trochê zakurzony, ale chyba w dobrym stanie. To chyba czêœæ wiêkszego... czegoœ. Na p³ytce widnieje napis: 'Modu³ Rozpoznawania Mowy.')}
-{432}{}{(To skomplikowany uk³ad elektroniczny. Sk³ada siê z uk³adu scalonego i zestawu z³¹cz, w tym wejœcia i wyjœcia. Na p³ytce widnieje napis: 'Modu³ Rozpoznawania Mowy. Standardowe wyposa¿enie Krypt')}
+{431}{}{(Wygl¹da to na jakiœ uk³ad elektroniczny. Trochê zakurzony, ale chyba w dobrym stanie. To chyba czêœæ wiêkszego... czegoœ. Na p³ytce widnieje napis: 'Modu³ Rozpoznawania Mowy firmy KrypTech.')}
+{432}{}{(To skomplikowany uk³ad elektroniczny. Sk³ada siê z uk³adu scalonego i zestawu z³¹cz, w tym wejœcia i wyjœcia. Na p³ytce widnieje napis: 'Modu³ Rozpoznawania firmy KrypTech')}
 {433}{}{Moja kce mniam p³ytka.}
 {434}{}{Moja kce co inne.}
 {435}{}{Moja kce iœæ.}
-{436}{}{"Wyposa¿enie Krypt"? To musi byæ coœ wa¿nego. Ile za to chcesz?}
+{436}{}{"KrypTech? To musi byæ coœ wa¿nego. Ile za to chcesz?}
 {437}{}{Najwy¿szy czas... ile chcesz za tê p³ytkê?}
 {438}{}{Nie, dziêki. Szukam czegoœ innego...}
 {439}{}{Nie dzisiaj, dziêki.}

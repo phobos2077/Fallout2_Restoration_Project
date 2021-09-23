@@ -15,11 +15,11 @@
 {215}{}{Pra quê está se escondendo, hein, }
 {220}{}{Tem algum Jet com você, hombre?}
 {221}{}{Ei, }
-{222}{}{Sure could use a drink. Damn...}
+{222}{}{Claro que preciso de um gole. Cacete...}
 {223}{}{Meeer-da, está quente.}
 {224}{}{Alguma notícia do topo, hein, }
 {230}{}{Ei! Cabrón! Estás procurando pelo anjo da morte? Cai fora!}
-{231}{}{What the fu... you! You, what're you doing here?}
+{231}{}{Mas que po... Você! Você, o que está fazendo aqui?}
 {232}{}{Ei! Puta! Estás procurando pelo anjo da morte? Cai fora!}
 {235}{}{Ei! Desculpe hombre, usted no puede andar aqui carregando essa coisa.}
 {236}{}{Ei! Amigo, guarde essa coisa antes que as pessoas comecem a ficar nervosas.}
@@ -92,7 +92,7 @@
 {371}{}{Como estou? Forte como um martelo, cara, é isso.}
 {372}{}{Heh? ::Cospida:: Colé, }
 {373}{}{Bom te ver, }
-{374}{}{Sure could use a drink. Damn...}
+{374}{}{Claro que preciso de um gole. Cacete...}
 {375}{}{'Cê sabe, o mesmo de sempre. E como vai você, }
 {376}{}{Meeer-da, está quente.}
 {377}{}{Big Man Mordino vai bem? Diga a ele que o estou procurando, hein, }
@@ -151,13 +151,13 @@
 {473}{}{Big J, vê, ele toma conta da gente, hã? Só na semana passada, eu capturei três escravos que estavam burros demais pra correr.
  Então fui recompensado, vê? Heh. E você não vai falar meeeeerda... Fech... fecha a matraca. Eu... eu sou um GUARDA.}
 {474}{}{É, legal. Eu vou indo então.}
-{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
- guards such as yourself.}
+{475}{}{Me pergunto se o Grande Jesus reparou como esses três escravos escaparam sob os NARIZES de uns guardas tão atentos e
+ viciados em jet como você.}
 {476}{}{Ramirez... cuidado com o que você fala comigo, certo? Não deixe sua boca colocar seu traseiro em apuros.}
 {480}{}{(Pisca.) Hã...? O que você disse?}
 {481}{}{Nada que você entenderia ou que eu me importasse em repetir. Eu vou indo, ok?}
-{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
- perceptive, Jet-addicted guards such as yourself."}
+{482}{}{Eu disse, "Me pergunto se o Grande Jesus reparou como esses três escravos escaparam sob os NARIZES de uns
+ guardas tão atentos e viciados em jet como você."}
 {490}{}{(Pisca, sorri com confusão.) HÃ? É, é. Eu sou esperto, vê... per-ceptivo... eu sou um GUARDA, certo?}
 {491}{}{É, você mencionou isso antes. Se eu fosse você Ramirez, faria um favor a toda a humanidade e tomaria a caixa inteira
  de Jet de uma vez só. Te vejo por aí.}

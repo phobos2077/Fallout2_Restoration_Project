@@ -8,12 +8,12 @@
 {202}{}{Zepsuj aparaturê Becky.}
 {203}{}{Zdob¹dŸ czêœci samochodowe dla Smitty'ego.}
 {204}{}{Zwróæ medalion Anny.}
-{205}{}{Collect Rebecca's money from Fred.}
-{206}{}{Get Rebecca's book from Derek.}
+{205}{}{Odbierz pieni¹dze Rebeki Fredowi.}
+{206}{}{Zabierz ksi¹¿kê Rebeki Derekowi.}
 {207}{}{Zanieœ Smitty'emu jedzenie od Mamuœki.}
 {208}{}{Lara chce wiedzieæ, co jest przechowywane w koœciele.}
-{209}{}{Get permission from Metzger for the gang war.}
-{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{209}{}{Uzyskaj pozwolenie na wojnê gangów od Metzgera.}
+{210}{}{ZnajdŸ s³aby punkt gangu Tylera, strzeg¹cego koœcio³a.}
 {211}{}{Pomó¿ Larze zaatakowaæ gang Tylera.}
 {212}{}{ZnajdŸ miejsce dla sierot z ulicy.}
 {300}{}{Pod³ó¿ ogieñ pod aparaturê destylacyjn¹.}
@@ -29,7 +29,7 @@
 {403}{}{Jonny zagin¹³. ZnajdŸ go i przyprowadŸ do domu, do Balthasa.}
 {404}{}{Jonny jest w jaskiniach. ZnajdŸ sposób, ¿eby doprowadziæ Jonny'ego do domu, do Balthasa.}
 {405}{}{Farrel ma w swoim ogrodzie problem z chwastami. Pozb¹dŸ siê ich.}
-{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{406}{}{Dostarcz wiadomoœæ Slaga do Jo w Modoc.}
 {407}{}{Jo jest podejrzliwy wobec ¯u¿lowców. Dowiedz siê, sk¹d pochodz¹ martwe cia³a na Nawiedzonej Farmie, a tak¿e co przytrafi³o siê Karlowi.}
 {408}{}{IdŸ do Nory powiedz Karlowi, ¿e mo¿e ju¿ wróciæ do domu.}
 {409}{}{Pilnuj bramin Grishama.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Zdob¹dŸ czêœci/uzyskaj dostêp do Krypty 15.}
 {1101}{}{Zaopiekuj siê "oficerem Jackiem" dla Miry.}
-{1102}{}{Complete the brahmin drive.}
-{1103}{}{Retrieve the papers from Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Skoñcz sprawê z braminami.}
+{1103}{}{Odbierz papiery od dr Henry'ego.}
+{1104}{}{SprawdŸ dzia³anie serum mutagenicznego na super-mutancie. Spróbuj w Broken Hills.}
 {1105}{}{Wyeliminuj Pana Bishopa.}
 {1106}{}{Dostarcz holodysk Westina do Lynette w Kryptopolis.}
 {1107}{}{Zdob¹dŸ dla Vortisa £owcy Niewolników mapê od Stra¿ników RNK.}
 {1108}{}{Uwolnij niewolników z zagrody (dla Stra¿ników RNK).}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
+{1109}{}{Dostarcz raport polowy Centrologów do UKC-9 w San Francisco.}
 {1110}{}{Zabij Centrologa w RNK dla Merka.}
 {1111}{}{Powstrzymaj uprowadzenia bramin.}
 {1112}{}{Zniszcz bazy Stra¿ników RNK, dla Vortisa £owcy Niewolników.}
@@ -119,7 +119,7 @@
 {1511}{}{ZnajdŸ dziewczynê Badgera w ³adowni pod statkiem.}
 {1512}{}{Smok chce, ¿ebyœ pozby³ siê Lo Pana - najlepiej w walce wrêcz.}
 {1513}{}{Lo Pan chce, ¿ebyœ pozby³ siê Smoka - najlepiej w walce wrêcz, je¿eli to mo¿liwe.}
-{1514}{}{Get Chip's spleen back.}
+{1514}{}{Odzyskajcie œledzionê Chipa.}
 {1515}{}{Zdob¹dŸ ulepszony pancerz wspomagany od Crocketta.}
 {1516}{}{Zdob¹dŸ plany latacza dla Bractwa Stali.}
 {1517}{}{Unieszkodliwiæ okrêt podwodny Shi zagra¿aj¹cy tankowcowi.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Ocal Chrissy}
 {3201}{}{Zabij Dariona}
-{3202}{}{Complete the deal with NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3202}{}{Zfinalizuj transakcjê z RNK.}
+{3203}{}{Przeka¿ holodysk szpiegowski odpowiednim w³adzom w RNK.}

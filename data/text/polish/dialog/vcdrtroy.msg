@@ -4,12 +4,12 @@
 {103}{}{Co my tu mamy...? Aha, trzy szczepienia jutro rano.}
 {104}{}{Przeklinam tê hipochondriê Gregorego.}
 {105}{}{Nadal muszê dostarczyæ testy medyczne tych trzech nowych s³u¿¹cych.}
-{106}{}{Phyllis, czy mog³abyœ przynieœæ mi testy krwi Prokonsula... proszê?}
+{106}{}{Fillis, czy mog³abyœ przynieœæ mi testy krwi Prokonsula... proszê?}
 {107}{}{Dziwne... te wyniki nie wskazuj¹ na niski poziom p³ytek krwi.}
 {108}{}{Moglibyœmy klonowaæ tê œledzionê, z tkanek pobranych dziœ po po³udniu.}
 {109}{}{W nowym suplemencie musimy wprowadziæ wiêcej witamin do diety...}
 {110}{}{Hmmmmm.}
-{111}{}{Phyllis, mog³abyœ przynieœæ mi kartê zdrowia Helen?}
+{111}{}{Fillis, mog³abyœ przynieœæ mi kartê zdrowia Helen?}
 {112}{}{I pomyœleæ, ¿e wybra³em bycie lekarzem, zamiast tej roboty w LoveLine...}
 {113}{}{Jestem ju¿ zmêczony robieniem tych list dla Pierwszego Obywatela...}
 {114}{}{Kolejna proœba o wykaz leków w magazynie? Przecie¿ wczoraj jedn¹ dostarczy³em!}

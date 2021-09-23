@@ -24,7 +24,7 @@
 {321}{}{[Wyloguj.]}
 {400}{}{Tutaj widzicie roœliny niepodobne do niczego co widzieliœcie przedtem! Ten ekscytuj¹cy nowy gatunek, wywodz¹cy siê od rosiczki, zosta³ specjalnie zaprojektowany przez naszych genialnych naukowców aby przetrwaæ w œwiecie zniszczonym wojna nuklearn¹. Dlaczego mielibyœmy tego chcieæ? To proste.}
 {401}{}{[KONTYNUUJ]}
-{410}{}{Po globalnej wojnie atomowej, zdaniem naukowców, wiêkszoœæ Ziemi stanie siê wyschniêtym pustkowiem. ¯yciu roœlinnemu bêdzie niezwykle trudno przetrwaæ w tak ciê¿kich warunkach œrodowiskowych. A teraz wyobraŸcie sobie nas opuszczaj¹cych bezpieczeñstwo Krypt Krypt-Techu tylko po to aby odkryæ, ¿e wszystkie roœliny wymar³y! To oznacza koniec sa³atek dla Mamy, koniec trawników dla Billego i Rovera do zabawy w aportowanie.}
+{410}{}{Po globalnej wojnie atomowej, zdaniem naukowców, wiêkszoœæ Ziemi stanie siê wyschniêtym pustkowiem. ¯yciu roœlinnemu bêdzie niezwykle trudno przetrwaæ w tak ciê¿kich warunkach œrodowiskowych. A teraz wyobraŸcie sobie nas opuszczaj¹cych bezpieczeñstwo Krypt firmy KrypTech tylko po to aby odkryæ, ¿e wszystkie roœliny wymar³y! To oznacza koniec sa³atek dla Mamy, koniec trawników dla Billego i Rovera do zabawy w aportowanie.}
 {411}{}{[KONTYNUUJ]}
 {420}{}{Brzmi okropnie, prawda? Ale nie martwcie siê. Te roœliny mog¹ byæ rozwi¹zaniem tego problemu. Zamiast polegaæ na ¿yznej ziemi i opadach deszczu, mog¹ zdobywaæ sk³adniki od¿ywcze przez zabijanie i jedzenie zwierz¹t, tak jak ludzie! Wszystko dziêki cudom nauki!}
 {421}{}{[Wyloguj.]}

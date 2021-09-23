@@ -1,11 +1,11 @@
-{200}{}{Cavern Entrance}
+{200}{}{Wejœcie do Jaskini}
 {201}{}{Wejœcie}
-{202}{}{Living Quarters}
-{203}{}{Command Center}
+{202}{}{Kwatery Mieszkalne}
+{203}{}{Centrum Dowodzenia}
 {210}{}{Desert Entrance}
 {211}{}{Caverns/Entrance}
-{212}{}{Living Quarters}
-{213}{}{Command Center}
+{212}{}{Kwatery Mieszkalne}
+{213}{}{Centrum Dowodzenia}
 {220}{}{Wejœcie}
 {221}{}{ogród}
 {222}{}{Brahmin Pen}

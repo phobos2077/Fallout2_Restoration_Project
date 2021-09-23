@@ -54,7 +54,7 @@
 {450}{}{Mê¿czyŸni}
 {451}{}{Kobiety}
 {452}{}{Dzieci}
-{453}{}{Super mutants}
+{453}{}{Super mutanty}
 {454}{}{Ghule}
 {455}{}{Braminy}
 {456}{}{Radskorpiony}
@@ -64,7 +64,7 @@
 {460}{}{Roboty}
 {461}{}{Psy}
 {462}{}{Modliszki}
-{463}{}{Deathclaws}
+{463}{}{Szpony œmierci}
 {464}{}{roœlina}
 {465}{}{Ten wiersz pokazuje liczbê homo sapiens p³ci mêskiej, którzy zginêli z twojej rêki w trakcie twoich przygód.}
 {466}{}{Ten wiersz pokazuje liczbê homo sapiens p³ci ¿eñskiej, które zginê³y z twojej rêki w trakcie twoich przygód.}
@@ -192,7 +192,7 @@
 {1460}{}{Roboty}
 {1461}{}{Psy}
 {1462}{}{Modliszki}
-{1463}{}{Deathclaws}
+{1463}{}{Szpony œmierci}
 {1464}{}{Roœliny}
 {1465}{}{Gekony}
 {1466}{}{Kosmici}

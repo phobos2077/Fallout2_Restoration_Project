@@ -86,7 +86,7 @@
 {613}{}{Trzy. Wyp³ata.}
 {614}{}{Dwanaœcie. Wyp³ata.}
 {620}{}{Propozycja 7}
-{621}{}{Prop bet double 3s}
+{621}{}{Propozycja 2x3}
 {622}{}{Propozycja 2x4}
 {623}{}{Propozycja 2x5}
 {624}{}{Propozycja 2x2}

@@ -21,7 +21,7 @@
  Cudownej Krainy. Film przedstawia kreskówk¹ uœmiechniêt¹ postaæ w kombinezonie mieszkañca Krypty trzymaj¹c¹ du¿¹ walizkê z napisem, “Zestaw Przetrwania”.
  Tak jakby ten uœmiechniêty bêkart siê z ciebie nabija³.}
 {120}{}{Przegl¹dasz pliki, które zawieraj¹ g³ównie rz¹dow¹ propagandê dotycz¹c¹ tego jak cudowne bêdzie ¿ycie w Krypcie.
- Dowiadujesz siê, ¿e w po³owie XXI wieku, rz¹d Stanów Zjednoczonych zleci³ korporacji Krypt-Tech budowê 122 Krypt na terenie kraju.
+ Dowiadujesz siê, ¿e w po³owie XXI wieku, rz¹d Stanów Zjednoczonych zleci³ korporacji KrypTech budowê 122 Krypt na terenie kraju.
  Krypty te mia³y daæ schronienie nawet dla 1000 amerykañskich obywateli na wypadek nuklearnej zag³ady. Bezpiecznie zamkniêci 
  w podziemnych Kryptach, mieszkañcy mogli wieœæ luksusowe ¿ycie i oczekiwaæ na sygna³ informuj¹cy, ¿e œwiat na powierzchni ponownie nadaje siê do zamieszkania.}
 {121}{}{W trakcie przeszukiwania zasobów znajdujesz setki zeskanowanych ksi¹¿ek i (lub) czasopism skatalogowanych na twardym dysku. Nawet nie wiesz gdzie zacz¹æ ¿eby znaleŸæ coœ u¿ytecznego.}
@@ -77,7 +77,7 @@
 {423}{}{Po kilku godzinach czytania nie udaje ci siê nic wiêcej dowiedzieæ o strzelaniu z broni palnej.}
 {424}{}{Po kilku godzinach czytania nie udaje ci siê nic wiêcej dowiedzieæ o sztuce perswazji.}
 {430}{}{Wróæ.}
-{500}{}{Czytaj¹c dalsze artyku³y, dowiadujesz siê, ¿e GECK zosta³ opracowany przez Future-Tech, oddzia³ Krypt-Techu, i ¿e by³ standardowym wyposa¿eniem wszystkich Krypt Krypt-Techu. Mia³ byæ u¿yty po wyjœciu z Krypty, ¿eby u³atwiæ ¿ycie na powierzchni ziemi, zniszczonej przez wojnê atomow¹.}
+{500}{}{Czytaj¹c dalsze artyku³y, dowiadujesz siê, ¿e GECK zosta³ opracowany przez Future-Tech, oddzia³ KrypTechu, i ¿e by³ standardowym wyposa¿eniem wszystkich Krypt Krypt-Techu. Mia³ byæ u¿yty po wyjœciu z Krypty, ¿eby u³atwiæ ¿ycie na powierzchni ziemi, zniszczonej przez wojnê atomow¹.}
 {501}{}{Czytaj¹c dalej odkrywasz, ¿e GECK nie jest takim cudownym urz¹dzeniem jak je przedstawiono w reklamie. “Podstawowy replikator”
  w³aœciwie jest niczym wiêcej jak systemem nawozów zawieraj¹cych nasiona roœlin jadalnych, suplementy gleby, oraz chemikalia maj¹ce
  zmieniæ ja³owe pustkowie w ¿yzn¹ ziemiê. Wed³ug tego co tu pisze, mo¿e “budowaæ podstawowe przedmioty”, wspomniane s¹ te¿ kody dla 

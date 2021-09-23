@@ -26,7 +26,7 @@
 {274}{}{If you're still here when I finish my drink, I'm gonna carve my name on your face.}
 {275}{}{::Starts playing with his knife threateningly.::}
 {276}{}{Lookin for your hermana, }
-{277}{}{What the fu... you! You, what're you doing here?}
+{277}{}{Mas que po... Você! Você, o que está fazendo aqui?}
 {278}{}{Ei! Puta! Estás procurando pelo anjo da morte? Cai fora!}
 {279}{}{Thought they kept you locked up in the kennel, puta.}
 {280}{}{If you ain't here to kiss my ass, }
@@ -105,18 +105,18 @@
 {541}{}{}
 {542}{}{Hey, hey, hey! You're }
 {544}{}{Fire it up fire it up}
-{547}{}{Thanks, Lil' Jesus. Hey, I had some questions for you...}
+{547}{}{Obrigado, pequeno Jesus. Ei, eu tenho algumas perguntas para você...}
 {548}{}{Thanks for the compliment. I was just stopping by; I have to be going.}
 {549}{}{Yeah, I don't need you to tell me that. Just watch yourself.}
 {560}{}{Heeeey! How's it going, }
 {562}{}{You being helped, or do I got to call over one of the putas ta get you set up? Ha!}
 {563}{}{You being helped, or do I got to call over one of the waitresses ta get you set up? Ha!}
-{567}{}{No, I'm fine. Say, I had some questions for you, Jesus...}
+{567}{}{Não, eu tudo certo. Olhe, eu tenho algumas perguntas para você, Jesus...}
 {568}{}{No, I'm good, thanks. Catch you later.}
 {582}{}{Eh? You looking to deal, slaver? Got some stock you wanna unload?}
 {583}{}{Me unload! Me unload!}
 {586}{}{Sure. Are you the one to talk to?}
-{587}{}{Not right now. I had some questions for you, though...}
+{587}{}{Agora não. Mas eu tenho algumas perguntas para você...}
 {588}{}{Not right now. Maybe later.}
 {600}{}{Heh. You been out squatting in the sun too long. Get.}
 {601}{}{Eh... right. You take care, amigo. I'll catch you later.}
@@ -145,7 +145,7 @@
 {662}{}{I've heard about your family. I hear you guys are a force to be reckoned with.}
 {663}{}{I'm looking for a job. Is Family Mordino hiring?}
 {665}{}{Know what there is to do around New Reno to relax?}
-{666}{}{I see. Say, I had some questions...}
+{666}{}{Certo. Olha, eu tenho algumas perguntas...}
 {680}{}{We Mordinos are gonna run New Reno... and Redding, too. You'll see.}
 {681}{}{Family MORDINO? You been taking too much Jet, homes? We Mordinos run New Reno... and Redding, too.}
 {682}{}{Family MORDINO? You been taking too much Jet, chica? We Mordinos run New Reno... and Redding, too.}
@@ -159,15 +159,15 @@
 {702}{}{If you ain't been there, you ain't missing nothing. Bunch of no-neck miners who like to FLY, know what I'm saying?}
 {703}{}{Not really. What do you mean?}
 {704}{}{They're a bunch of drug addicts?}
-{705}{}{I hear you. I had some other questions...}
+{705}{}{Te ouço. Eu tenho algumas perguntas...}
 {706}{}{I have to go. Later, Jesus.}
 {720}{}{Bunch of no-neck miners, dig in the dirt, but they like to FLY, know what I'm saying?}
 {740}{}{Them no-necks dig for gold, see, but what WE give them is better than gold, know what I'm saying? They give us ALL
  the gold they dig up just for a LEETLE Jet. Everybody happy.}
-{742}{}{Sounds like it. Look, I had some other questions...}
+{742}{}{Parece que sim. Olha, eu tinha algumas perguntas...}
 {760}{}{Well, when they got their first taste o' Jet, they were. You can't have just one.}
 {761}{}{Where does the Jet come from?}
-{762}{}{I hear you. Look, I had some other questions...}
+{762}{}{Eu ouço. Olha, eu tenho outras perguntas ..}
 {780}{}{The Jet? It comes from HERE. See, we don't dig for gold, we MAKE it: liquid gold. Jet. Worth a fortune to the miners, costs
  next to nothing to make. We ship it to Redding, they shoot up, they fly, they ship us gold. That simple.}
 {781}{}{How long has this been going on? It seems like you would have controlled all of Northern California by now if Jet was that
@@ -179,7 +179,7 @@
 {821}{}{Kid's name's Myron. We got him set up in the stables, north of town, testing new drugs. You could go over and see him if
  you want, but he's busy most of the time... either with the drugs or the women.}
 {822}{}{Why don't you get smart and tell me anyway?}
-{823}{}{Got it. I had some other questions...}
+{823}{}{Eu consegui. Eu tenho mais perguntas...}
 {824}{}{Myron, huh? All right then, Jesus. Thanks for the conversation.}
 {840}{}{The Desperado is the place to be, homes. We got the Jet, the games, the action... and we got all the putas you need
  right outside, wet and willing. Paradise, homes. Pair-a-dice.}
@@ -187,7 +187,7 @@
  ain't need to go nowhere else.}
 {842}{}{So... you wanna re-lax, chica? Heh... then how 'bout you and me get down to some sweet love?}
 {843}{}{Tempting, but I haven't got ten seconds for your sweet love right now, Little Jesus.}
-{844}{}{I'm flattered, but no thanks. Say, I had some other questions...}
+{844}{}{Agradeço muito, mas não obrigado. Olha, eu tenho algumas perguntas.}
 {846}{}{I'm looking for a job. Know of any place that's hiring?}
 {847}{}{Thanks for the tip, thanks.}
 {848}{}{Why don't you start without me? I have to go.}
@@ -197,8 +197,8 @@
  you a second smile on that neck of yours.}
 {862}{}{Try it and see what happens, LITTLE Jesus.}
 {863}{}{Try it, and I'll add so many scars to your face you'll look like a jigsaw puzzle.}
-{864}{}{Calm down... I was just kidding with you.}
-{865}{}{Chill. I had some other questions...}
+{864}{}{Tranquilo... Eu só estava zuando.}
+{865}{}{Frio. Eu tenha outras perguntas...}
 {867}{}{I'm leaving. Great talking to someone as cultured as you.}
 {880}{}{Ha! You all right, chica. You all right. Lil' Jesus gonna be keeping an eye on you... not that I couldn't help myself. What
  can I do for you?}
@@ -210,7 +210,7 @@
 {890}{}{(Checks you over, nods.) We're always looking for new blood...'specially new blood that's willing to spill blood, know what I'm saying? Go upstairs, talk to my Pa, tell him I sent you, and maybe we can do business.}
 {891}{}{(Checks you over, shakes head.) We don't hire chicas...'cept in certain positions. Try Pa upstairs, tell him I sent you.
  Maybe you can do some business.}
-{892}{}{Maybe so. Say, I had some other questions...}
+{892}{}{Talvez sim. Olha, eu tenho outras perguntas...}
 {893}{}{I'll go see him then. Later, Jesus.}
 {900}{}{I don't know. You don't look too strong to me... maybe you should try somewhere else, homes.}
 {901}{}{Naw... my mind's a blank. Our family ain't hiring, and the other families sooner'd kill you than listen to you. You
@@ -220,23 +220,23 @@
 {903}{}{WE ain't hiring, but with a bod like that, you might try the Corsican Bros Studio up the street. (Grins.) But if you're looking
  for some quick chips, my room's upstairs...}
 {904}{}{All right then. I had some other questions...}
-{905}{}{Uh, I'll pass. I had some other questions...}
-{906}{}{I'd rather not, thanks. I had some other questions for you, though...}
+{905}{}{Eh, eu passo. Tenho algumas perguntas...}
+{906}{}{Prefiro que não, valeu. Eu tenho algumas perguntas para você, no entanto...}
 {907}{}{Oh, I bet it WOULD be quick. No thanks.}
 {908}{}{Nevermind then. Thanks anyway.}
 {909}{}{No thanks. I better be going.}
 {920}{}{Oh, so that makes it all better then, huh? (Spits at your feet.) Get the hell outta here 'fore I carve you.}
 {921}{}{Just try it and see what happens... LITTLE Jesus.}
-{922}{}{Calm down, Jesus... look, I had a few other questions...}
+{922}{}{Calma, Jesus... Olha, eu tenho outras perguntas...}
 {923}{}{Estou de saída.}
 {924}{}{You spit on my shoe? You fuck! I'm gonna teach you a lesson about respect, mother fucker.}
 {930}{}{No, not me... head on upstairs and see my Pa. He's the one you want to talk to.}
 {931}{}{E você é...?}
-{932}{}{All right then. Before I go, I had some questions...}
+{932}{}{Tudo bem então. Antes de ir, eu tinha algumas perguntas...}
 {933}{}{Obrigado.}
 {940}{}{FUCK you. Get outta my family's casino 'fore I carve my initials on your dead body.}
 {942}{}{Don't you threaten me, Jesus.}
-{943}{}{Hold on - I had some other questions...}
+{943}{}{Calma lá - Eu tenho algumas perguntas...}
 {944}{}{Calm down, Jesus. I'm leaving.}
 {950}{}{That little piss-ass Wright kid? Ha! You trying to pin that shit on me? You outta luck; I ain't sorry the little
  fucker's dead, but I didn't have NOTHIN' to do with it.}
@@ -244,7 +244,7 @@
  gonna take the blame.}
 {952}{}{I don't believe you. I think you ARE the one responsible. You and the rest of the Mordinos.}
 {953}{}{Who do you figure might have done it?}
-{954}{}{Okay... look, I had some other questions...}
+{954}{}{Ok... Olha, eu tenho outras perguntas...}
 {955}{}{All right then. Just asking.}
 {965}{}{(Eyes narrow.) Look now, I ain't had NOTHING to do with that kid's death. I don't know what you heard, but if I'd killed
  that kid, I woulda carved him up, not made him crash and burn on Jet, see?}
@@ -253,22 +253,22 @@
 {967}{}{You're a real humanitarian, Jesus.}
 {968}{}{That's a GREAT attitude, Jesus.}
 {969}{}{You know who sold Richard the Jet that killed him?}
-{970}{}{Well, that certainly clears matters up for me. I had some other questions...}
+{970}{}{Bem, isso com certeza esclarece as coisas para mim. Eu tinha algumas outras perguntas...}
 {971}{}{Thanks for the information, Jesus. You've been very helpful.}
 {980}{}{Yeah, Renesco... the "Rocketman." Sells so much Jet, he could shoot you to the moon. He's on the west side, in Salvatore
  territory. He don't like the Wrights none, and his drugs ain't PURE, know what I'm saying?}
 {981}{}{He can't be the only dealer in a town this size.}
-{982}{}{West side, huh? I might stop by. I had some other questions, though...}
+{982}{}{Lado oeste, hein? Eu posso passar por lá. Eu tenho outras perguntas, no entanto...}
 {983}{}{All right. I'll check it out. Thanks, Jesus.}
 {990}{}{No, there's others, but Renesco's the one who done it.}
 {991}{}{What makes you say that?}
 {992}{}{Who are the other dealers?}
-{993}{}{Yeah, you said that already. Look, I had some other questions...}
+{993}{}{Sim, você já disse isso. Olha, eu tinha outras perguntas ..}
 {994}{}{All right, Jesus. Thanks for the info.}
 {1000}{}{CAUSE he's a half-blind cracker with a mean streak a mile wide that sells BAD SHIT, that's fucking why. You go see him,
  you see what he says about the Wright kid, and THEN you'll see I'm right.}
 {1001}{}{What other dealers are there?}
-{1002}{}{I may do that. Look, I had some other questions...}
+{1002}{}{Eu faço isso. Olha, eu tenho outras perguntas ...}
 {1003}{}{All right then, Jesus. I'll go check this Renesco out.}
 {1010}{}{There's Jules, front of town, peddles mostly to newcomers... n' Jagged Jimmy J, up on 2nd street by the gym... can't
  miss that punk-ass cause he cut his face up one night while on Jet... it's so bad his entire face is all scars.}
@@ -281,7 +281,7 @@
 {1022}{}{I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten
  customers a day just to make enough to eat. So FUCK you.}
 {1023}{}{You better watch your mouth with me, Jesus.}
-{1024}{}{Easy, easy, just curious... look, I had some other questions...}
+{1024}{}{Sussa, eu só estava curioso... Olha, eu tenho outras perguntas...}
 {1025}{}{All right then. Thanks for the information.}
 {1030}{}{(Lil' Jesus glances at the knife in your hand, shakes his head.) }
 {1031}{}{(The man glances at the knife in your hand, shakes his head.) }
@@ -291,7 +291,7 @@
 {1035}{}{(Look at knife. Look at ugly man. Look at knife.) You touch }
 {1036}{}{Kagagoogoo}
 {1038}{}{Really? Can you teach me?}
-{1040}{}{Actually, I had some questions for you, Jesus...}
+{1040}{}{Na verdade, eu tenho algumas perguntas para você, Jesus...}
 {1041}{}{Maybe some other time, thanks.}
 {1050}{}{Hmmmmm...}
 {1051}{}{I don't know, homes... I mean, I ain't got a lot of free time and knife fighting's an ART, y'know?}
@@ -301,7 +301,7 @@
 {1054}{}{I'll give you a hundred chips.}
 {1055}{}{I'll give you two hundred chips.}
 {1056}{}{My lovemaking's an art, too. Wanna swap styles?}
-{1058}{}{Actually, I had some questions...}
+{1058}{}{Na verdade, eu tinha algumas perguntas...}
 {1059}{}{Some other time then... when I have enough chips to change your mind.}
 {1060}{}{Maybe some other time then, thanks.}
 {1070}{}{Hmmmmm. 200 and it's a deal.}

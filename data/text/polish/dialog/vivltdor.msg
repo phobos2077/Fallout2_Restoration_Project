@@ -9,8 +9,8 @@
 {108}{}{*Hrnnnnn*}
 {109}{}{U¿ywaj¹c swej si³y fizycznej otwierasz drzwi.}
 {110}{}{To ich nawet nie zarysowa³o.}
-{111}{}{BOOM no hurt door.}
+{111}{}{BUM nie rozwaliæ drzwi.}
 {112}{}{Te drzwi s¹ zaciête, nie zamkniête.}
-{113}{}{Door stuckie not lockie.}
+{113}{}{Drzwi zaci¹æ nie zamkn¹æ.}
 {114}{}{Nie mo¿na ich ruszyæ. S¹ zaklinowane.}
 {115}{}{Drzwi nie ruszaæ.}

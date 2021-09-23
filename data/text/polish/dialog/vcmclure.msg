@@ -145,12 +145,12 @@
 {244}{}{Rozumiem. Dziêki za informacje.}
 {245}{}{Co takiego? Ka¿da informacja bêdzie pomocna.}
 {246}{}{Co mo¿e mi pan powiedzieæ o Redding?}
-{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
+{247}{}{Wiêksza czêœæ mieszkañców Redding jest uzale¿niona od narkotyku zwanego Jet. Górnicy wysy³aj¹ wiêkszoœæ kruszcu do Nowego Reno, ¿eby otrzymywaæ dostawy Jetu.}
 {248}{}{Dr Troy stworzy³ antidotum na Jet.}
 {249}{}{Dostarczy³em antidotum do Redding.}
 {250}{}{Czym jest ten Jet od którego oni wszyscy s¹ uzale¿nieni?}
 {251}{}{Powiem panu póŸniej, gdy dowiem siê wiêcej.}
-{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
+{252}{}{Narkotyk, który uzale¿nia w 100% i powoduje ciê¿kie skutki przy odstawieniu.}
 {253}{}{Informuj mnie.}
 {254}{}{Mogê zadaæ inne pytanie?}
 {255}{}{Jasne.}

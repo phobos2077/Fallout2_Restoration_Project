@@ -9,8 +9,8 @@
 {108}{}{Krwawa jatka}
 {109}{}{Fatum}
 {110}{}{Dobrotliwoœæ}
-{111}{}{Drug Reliant}
-{112}{}{Drug Resistant}
+{111}{}{Zale¿noœæ od Narkotyków}
+{112}{}{Odpornoœæ na Narkotyki}
 {113}{}{Seksapil}
 {114}{}{Kujon}
 {115}{}{Zdolniacha}
@@ -25,8 +25,8 @@
 {208}{}{Za spraw¹ jakiegoœ dziwnego zrz¹dzenia losu otaczaj¹ce ciê osoby gin¹ niezwykle gwa³town¹ œmierci¹. Zawsze ogl¹dasz zgony w mo¿liwie najstraszliwszym wydaniu.}
 {209}{}{Zaleta: wszyscy wokó³ ciebie doznaj¹ w czasie walki wiêcej krytycznych niepowodzeñ. Wada: to samo przydarza siê tobie!}
 {210}{}{W okresie dorastania twoje studia skupia³y siê na umiejêtnoœciach cywilnych. Co za tym idzie, na pocz¹tku wyprawy dysponujesz s³abymi umiejêtnoœciami bojowymi, ale znasz siê na udzielaniu pierwszej pomocy, leczeniu, retoryce oraz handlu.}
-{211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
+{211}{}{£atwo uzale¿niasz siê od narkotyków. Ryzyko wpadniêcia w na³óg jest dwukrotnie wy¿sze ni¿ przeciêtne, ale z drugiej strony twój organizm szybciej zwalcza ich negatywne efekty.}
+{212}{}{Narkotyki oddzia³ywuj¹ na ciebie tylko przez po³owê standardowego czasu, ale ryzyko, ¿e siê od nich uzale¿nisz, równie¿ wynosi tylko 50% normy.}
 {213}{}{Masz "to coœ". £atwo przyci¹gasz uwagê przedstawicieli p³ci przeciwnej, ale w zwi¹zku z tym szybko wzbudzasz zazdroœæ przedstawicieli w³asnej...}
 {214}{}{W rodzinnej Krypcie uda³o ci siê poœwiêciæ na naukê wiêcej czasu ni¿ innym, wiêc wyprawê zaczynasz z wy¿szym poziomem umiejêtnoœci. P³acisz za to wolniejszym tempem nabywania nowych profitów - co 4 poziomy.}
 {215}{}{Masz wiêksze wrodzone zdolnoœci ni¿ ogó³ œredniaków, wiêc nie poœwiêcasz szczególnej uwagi nauce. Ka¿dy ze wspó³czynników jest wy¿szy o 1 pkt, lecz wszystkie umiejêtnoœci s¹ ni¿sze o 10%, a przy awansach dostajesz o 5 pkt. mniej.}

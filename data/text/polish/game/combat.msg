@@ -496,7 +496,7 @@
 {2037}{}{w skrzyd³a}
 {2038}{}{w niezidentyfikowan¹ czêœæ cia³a}
 {5000}{}{. To go naprawdê boli}
-{5001}{}{. Serious pain is inflicted.}
+{5001}{}{. Skutkuje to ogromnym bólem.}
 {5002}{}{, jako ¿e nie chroni go pancerz}
 {5003}{}{. To straszliwe uderzenie pozbawia go przytomnoœci}
 {5004}{}{. Ten cios go powala}
@@ -534,7 +534,7 @@
 {5036}{}{. Cierpienie jest dla niego nie do zniesienia, tote¿ po chwili osuwa siê on w dó³ jak szmaciana lalka}
 {5037}{}{. Mamrocze "Mamo", gdy oczy uciekaj¹ mu w ty³ czaszki}
 {5100}{}{. To go naprawdê boli}
-{5101}{}{. Serious pain is inflicted}
+{5101}{}{. Skutkuje to ogromnym bólem.}
 {5102}{}{, jako ¿e nie chroni jej pancerz}
 {5103}{}{. To straszliwe uderzenie pozbawia j¹ przytomnoœci}
 {5104}{}{. Ten cios j¹ powala}

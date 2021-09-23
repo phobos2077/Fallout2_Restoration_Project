@@ -43,7 +43,7 @@
 {310}{}{Teraz mówisz moim jêzykiem! Dobra, umowa stoi. [Chciwie odbiera od ciebie pieni¹dze i potrz¹sa twoj¹ rêk¹.]}
 {311}{}{Interesy z tob¹ to przyjemnoœæ. Czeœæ.}
 {312}{}{Bywaj.}
-{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
+{320}{}{500$? Nie op³aca mi siê. Daj 1000$ to dobijemy targu.}
 {321}{}{Nie mam tyle. Czeœæ.}
 {322}{}{Dobra, niech bêdzie. 1000$.}
 {323}{}{Zapomnij. ¯egnaj.}

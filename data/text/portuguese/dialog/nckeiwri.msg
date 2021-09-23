@@ -26,7 +26,7 @@
 {290}{}{Get outta here! I ain't warning you again!}
 {291}{}{A-gin, my shin, lots of din-din}
 {292}{}{DING DONG! DING DONG!}
-{300}{}{I warned you, dim...}
+{300}{}{Eu te avisei, idiota...}
 {301}{}{Hunh?}
 {310}{}{I'm Keith Wright of the Family Wright. Now, you gonna tell me what yer doing here?}
 {312}{}{Chris told me to stop by. I'm looking for work. Can you help me?}
