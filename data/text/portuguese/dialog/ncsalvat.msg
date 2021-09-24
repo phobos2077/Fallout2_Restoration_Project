@@ -12,12 +12,12 @@
 {216}{}{Owwww! Turn down sound! Hurt ears! HURT EARS!}
 {217}{}{ME CANT TALK OVER RINGING. TURN OFF, WE TALK}
 {218}{}{I'm gonna CRIPPLE you, old man! You'll never walk again!}
-{219}{}{I knew I should have gotten permission first...}
+{219}{}{Eu sabia que deveria conseguido uma permissão primeiro...}
 {220}{}{Merda!}
 {221}{}{Uh, please tell me that was room service.}
 {230}{}{(The elderly man looks up at you. His face is gaunt and covered with liver spots. He is holding
  a breathing mask, which is connected to an oxygen tank by his side.) What... do you want of me?}
-{231}{}{Me want... me no know what I want}
+{231}{}{Eu quero... não sei o que eu quero}
 {232}{}{Me want}
 {233}{}{Eu}
 {234}{}{Sair andando}
@@ -65,7 +65,7 @@
 {351}{}{Tudo certo.}
 {352}{}{Thank you, Mr. Salvatore. I will go ask Mason.}
 {360}{}{Then you are of... no use to me. Leave now.}
-{361}{}{Uh, waitaminute... I changed my mind. I'll do it.}
+{361}{}{Eh, um minuto... eu mudei de ideia. Farei isso.}
 {362}{}{Leave quietly.}
 {370}{}{(Narrows his eyes. His next words are delivered in a rasping hiss.)
  ::You have not yet PROVEN yourself.:: Now go see Mason. He will have the... details of your assignment.}
@@ -81,7 +81,7 @@
 {390}{}{Yes. I made an example of him, Mr. Salvatore.}
 {391}{}{Not yet, Mr. Salvatore.}
 {400}{}{Yet... you told Mason that you had taken care of the assignment.}
-{401}{}{Well, yes, but...}
+{401}{}{Bem, sim, mas...}
 {405}{}{(Puts his fingers together.) And... the money. Has it been recovered?}
 {406}{}{No, I couldn't find the money.}
 {407}{}{No, Lloyd already spent the money.}
@@ -95,7 +95,7 @@
 {422}{}{Uh, I have the money --}
 {423}{}{Well, you see, I don't --}
 {430}{}{I will take the money now.}
-{431}{}{Well, I don't have it on me...}
+{431}{}{Bom, não tenho isso comigo...}
 {432}{}{Give him 250 chips.}
 {433}{}{Give him 500 chips.}
 {434}{}{Give him 750 chips.}
@@ -105,7 +105,7 @@
 {450}{}{This amount... is not the amount that was stolen
  from me. Perhaps you don't know how much was stolen from me. Or perhaps you are holding
  out on me. Either way...}
-{451}{}{Oh, well, I must have miscounted...}
+{451}{}{Oh, bem, acho que calculei errado...}
 {455}{}{(Salvatore nods as you give him the money, but he holds up his hands halfway
  through the transaction.) The... remaining half is yours.}
 {456}{}{Hey, thanks.}
@@ -130,7 +130,7 @@
 {525}{}{Very well. (He waits.)}
 {527}{}{Give him 900 chips.}
 {528}{}{Give him 800 chips.}
-{529}{}{Actually, I don't have the tribute ON me...}
+{529}{}{Na verdade, eu não tenho o tributo PARA mim...}
 {540}{}{This amount... is not the amount that was stolen
  from me. Perhaps you don't know how much the required tribute is. Or perhaps you are
  holding out on me. Either way...}
@@ -167,7 +167,7 @@
 {616}{}{Whoa! Wait a minute...!}
 {617}{}{Oh yeah? Bring it on so I can slaughter your entire family, one by one.}
 {620}{}{Very well. You must choose a name...}
-{621}{}{How about...}
+{621}{}{E se...}
 {630}{}{(Nods) That is a... good name. Now go speak to Mason. He will have...
 something for you.}
 {640}{}{Saudações,}
@@ -197,8 +197,8 @@ something for you.}
 {900}{}{You have become a made man of the Salvatore family.}
 {925}{}{You have successfully completed the secret transaction.}
 {5233}{}{! Who yu}
-{5270}{}{. Now... what do you WANT of me?}
-{5290}{}{: What... do you WANT of me?}
+{5270}{}{. Agora... o que quer de mim?}
+{5290}{}{: O que... você quer de mim?}
 {5605}{}{. You have done... all I have asked. I would like you to join the Salvatore Family
  and become... one of my made men.}
 {5640}{}{.}

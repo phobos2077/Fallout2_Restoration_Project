@@ -94,7 +94,7 @@
 {305}{}{(Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas. Quando você olha pra ele. uma das três janelas pisca pra você. Do buraco de moedas você ouve uma voz suave) *Oláaaaaa, docinho. Quer mostrar pra uma garota quem é que manda?*}
 {306}{}{(Você vê um caça-níquel. Ele é forte, robusto e tem a alavanca dourada brilhando como um deus do sol entre as luzes de New Reno. O buraco de moedas te atrai sedutivamente, e você sente suas coxas queimarem de expectativa. Quando você olha pra ele, ouve uma voz masculina sair do buraco de moedas.) *Nunca vi uma mulher tão linda como você por aqui, senhorita. Está procurando por um bom tratamento?*}
 {307}{}{::Envermelhar-se de vergonha::}
-{308}{}{Uh... hello?}
+{308}{}{Uh... olá?}
 {309}{}{::Respirar fundo, sair.::}
 {315}{}{*Eu ainda estou aqui, bela donzela.* (O caça-níquel abaixa a voz) *Vem aqui... quer fazer uma aposta?*}
 {316}{}{*Eu ainda estou aqui, docinho.* (O caça-níquel abaixa a voz) *Você é um garotão, sabia? Vamos lá... quer colocar algumas moedas dentro de mim?*}

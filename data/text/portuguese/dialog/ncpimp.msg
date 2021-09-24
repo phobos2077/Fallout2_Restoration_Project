@@ -14,7 +14,7 @@
 {222}{}{A sexy Enclave-busting woman like yourself could earn a LOTTA chips in this town...}
 {230}{}{Woman better have my money...}
 {231}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{232}{}{Bitch better not be holding out on me...}
+{232}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {233}{}{Go on, then. Walk on by.}
 {234}{}{You looking for some action?}
 {235}{}{How come you don't snag one of my ladies for yo movies, brother?}
@@ -30,7 +30,7 @@
 {245}{}{Don't understand how YOU got to be a star...}
 {260}{}{Woman better have my money...}
 {261}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{262}{}{Bitch better not be holding out on me...}
+{262}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {263}{}{Go on, then. Walk on by.}
 {264}{}{Check out that soft juicy-fruit butt.}
 {265}{}{Baby, come let me squeeze that soft juicy-fruit butt o' yours.}
@@ -49,7 +49,7 @@
 {278}{}{Daaaamn.}
 {290}{}{Woman better have my money...}
 {291}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{292}{}{Bitch better not be holding out on me...}
+{292}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {293}{}{You looking for some action?}
 {294}{}{You lookin' for some action? I give you a freebie, brother.}
 {295}{}{Let me extend a courtesy to you, friend. I give you one of my women for a whole night.}
@@ -65,7 +65,7 @@
 {305}{}{Big man coming through...}
 {320}{}{Woman better have my money...}
 {321}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{322}{}{Bitch better not be holding out on me...}
+{322}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {323}{}{Who is this beeeewt-ifull woman I sees?}
 {324}{}{Damn, I love a woman who knows her crime.}
 {325}{}{You styling, sister, you styling.}
@@ -76,7 +76,7 @@
 {330}{}{Love that raven black hair and gangsta attitude on you, woman.}
 {350}{}{Woman better have my money...}
 {351}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{352}{}{Bitch better not be holding out on me...}
+{352}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {353}{}{You looking for some action, champ?}
 {354}{}{You need for some action, champ? I give you a freebie.}
 {355}{}{Let me extend a courtesy to you, champ. I give you one of my women for a whole night.}
@@ -93,7 +93,7 @@
 {366}{}{Big man coming through...}
 {380}{}{Woman better have my money...}
 {381}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{382}{}{Bitch better not be holding out on me...}
+{382}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {383}{}{Who is this beeeewt-ifull woman I sees?}
 {384}{}{Damn, I love a woman who knows how to beat a man up.}
 {385}{}{You styling, sister, you styling.}
@@ -107,12 +107,12 @@
 {393}{}{I do so love your raven black hair... and your wicked left hook.}
 {410}{}{Woman better have my money...}
 {411}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{412}{}{Bitch better not be holding out on me...}
+{412}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {413}{}{You all looking for some action?}
 {414}{}{You two look like you need to get wet.}
 {415}{}{Yo, Myron! Whazzup?}
 {416}{}{Yo, Myron! Need any company for tonight? I got this new woman for you...}
-{417}{}{You fellas looking to get... wet?}
+{417}{}{Vocês... estão querendo suar um pouco?}
 {418}{}{You can't find sweeter tail ANYWHERE else.}
 {419}{}{I'm so bright, I make Reno look dim.}
 {420}{}{You look like you gots a FIRE down below.}
@@ -133,7 +133,7 @@
 {435}{}{Ol' man Mordino let you out finally, Myron?}
 {440}{}{Woman better have my money...}
 {441}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{442}{}{Bitch better not be holding out on me...}
+{442}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {443}{}{Caught Myron doin' donkey punches on my woman again.}
 {444}{}{I better not catch Myron doing the Cleveland Steamer on my woman again.}
 {445}{}{You need a friend for tonight, brother? I get you a sweeeet one.}
@@ -153,7 +153,7 @@
 {459}{}{I better not see you selling that ho on my street.}
 {470}{}{Woman better have my money...}
 {471}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{472}{}{Bitch better not be holding out on me...}
+{472}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {473}{}{Yo slaver! You looking to get... wet?}
 {474}{}{Slaver, if you can find cheaper tail anywhere, I'll match it.}
 {475}{}{I'm so bright, I make Reno look dim.}
@@ -181,7 +181,7 @@
 {497}{}{Slavers always a welcome sight in this town.}
 {500}{}{Woman better have my money...}
 {501}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{502}{}{Bitch better not be holding out on me...}
+{502}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {503}{}{I'm so bright, I make Reno look dim.}
 {504}{}{You need a friend for tonight, slaver? I get you a sweeeet young thing, male or female, whatever
  you want.}
@@ -195,9 +195,9 @@
 {512}{}{Slavers always a welcome sight in this town.}
 {520}{}{Woman better have my money...}
 {521}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{522}{}{Bitch better not be holding out on me...}
+{522}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {523}{}{You looking for some action?}
-{524}{}{You looking to get... wet?}
+{524}{}{Você... quer suar um pouco?}
 {525}{}{You can't find sweeter tail ANYWHERE else.}
 {526}{}{I'm so bright, I make Reno look dim.}
 {527}{}{You look like a man with a FIRE down below.}
@@ -219,7 +219,7 @@
 {543}{}{I got the finest whores in all o' New Reno. Just try 'em and see.}
 {550}{}{Woman better have my money...}
 {551}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{552}{}{Bitch better not be holding out on me...}
+{552}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {553}{}{::Scoping you out::}
 {554}{}{Yo, sweetness, come talk to me for a moment.}
 {555}{}{Come here, I got a pro-position for you.}

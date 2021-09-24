@@ -82,7 +82,7 @@
 {412}{}{Tenho que ir.}
 {425}{}{Ah, é? (Parece duvidar.) Tipo o quê?}
 {426}{}{Ahn…bem…diz uma coisa, garoto, a sua mãe e seu pai não explicaram isso para você?}
-{427}{}{Uh... well! Look at the time! I must be going.}
+{427}{}{Uh... bem! Olha as horas! Tenho que ir.}
 {435}{}{Explicaram o quê?}
 {436}{}{Ahn…bem…robôs…tem óleo dentro. Humanos…bem, humanos…sangram.}
 {445}{}{A mamãe e as minhas irmãs mais velhas sangram todo mês mais ou menos. Aí ela ficam realmente malvadas. Eu queria que elas fossem robôs.}

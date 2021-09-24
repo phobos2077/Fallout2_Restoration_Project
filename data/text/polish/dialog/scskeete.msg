@@ -5,7 +5,7 @@
 {104}{}{Cz³owieku, jestem dozorc¹ samochodów. Pilnujê ich - 5$. Nikt ich nawet nie tknie, bo Doofus stoi na stra¿y.}
 {105}{}{Jasne, cz³owieku, oczywiœcie.}
 {106}{}{Wiêc jak, cz³owieku, chcesz mojej ochrony?}
-{107}{}{Good. Do.}
+{107}{}{Dobrze. Zrób.}
 {108}{}{Nie. Ty nie ruszaæ.}
 {109}{}{Nie mów do mnie ci¹gle "cz³owieku"!}
 {110}{}{Co to za miejsce?}

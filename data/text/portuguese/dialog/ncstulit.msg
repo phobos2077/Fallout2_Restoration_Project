@@ -17,7 +17,7 @@
 {225}{}{Ainda bem que apostei em você, garotão.}
 {226}{}{Parece bem, querido.}
 {230}{}{Preciso de um talento novo...}
-{231}{}{Sorry lead asses...}
+{231}{}{Pobres traseiros de chumbo...}
 {232}{}{Se eu fosse só um pouco mais alto...}
 {233}{}{Esses caras lutam como mendigos...}
 {240}{}{(O anão estuda você ao se aproximar e tira o palito de dente da boca.) }
@@ -48,7 +48,7 @@
 {290}{}{(Sorri.) Muito bem, estamos acertados. Meu nome é Stuart, muitos me chamam de Stuart Little, mas é só porque... bem, tudo o que VOCÊ
  precisa saber é que eu sou grande nos negócios importantes. Entendeu o nome, cabeça de pistola?}
 {291}{}{Eu}
-{292}{}{Me... uh... me...}
+{292}{}{Eu... uh... eu...}
 {293}{}{Mim Big Stu}
 {296}{}{Sair andando em busca de aventura}
 {300}{}{Mim-a-mim, huh? "Miami…" EU GOSTEI! EU GOSTEI! Muito bem, vamos causar alguns danos.}
@@ -183,7 +183,7 @@
 {530}{}{E o que te faz pensar que eu já me apresentei num circo, ou mesmo sido escravizado por algum?}
 {531}{}{Ah... bem, eu sei que muitos cidadãos de New Reno agem como se tivessem vindo do circo, então eu pensei que...}
 {540}{}{VOCÊ pensa que só porque eu sou de baixa estatura, a única carreira que eu poderia ter seria ficar confinado numa 'tenda do circo'.}
-{541}{}{Uh... well, now...}
+{541}{}{Uh... bem, agora...}
 {550}{}{Você só deu uma RÁPIDA olhada em mim e pensou que poderia deduzir toda a minha vida. Não te ocorreu que uma
  pessoa do meu tamanho poderia conquistar a carreira de *Agente de Boxe.*}
 {551}{}{Desculpe, eu não quis ofender.}
@@ -202,7 +202,7 @@
  mal planejado e concluí que você é um pirralho.}
 {601}{}{Eu olhei pros seus peitos pixelados, seu rebolado ridículo quando anda, sua personagema
  mal planejada e concluí que não passa de uma "quero ser a Laura Kroft"... uma pirralha.}
-{602}{}{I...}
+{602}{}{Eu...}
 {610}{}{You are nothing more than a typical 'RPG male hero model,' if you will, one of MANY such models that seems to fill this
  world in droves.}
 {611}{}{You are nothing more than a typical 'RPG female hero model,' if you will, one of MANY such models that seems to fill this
@@ -210,7 +210,7 @@
 {612}{}{Bem...}
 {1302}{}{ vamos dar umas porradas.}
 {1322}{}{ NÃO CABEÇA DE PISTOLA MIM MATAR VOCÊ MATAR VOCÊ MATAR V--}
-{1350}{}{...you doing all right, feeling all right? Let me know when you're ready for your next match.}
+{1350}{}{... você está bem, se sente bem? Me avise quando estiver pronto para o próximo combate.}
 {1405}{}{.}
 {1406}{}{, Estou procurando por boxe. Você pode me ajudar?}
 {1421}{}{. Prazer em te conhecer. }

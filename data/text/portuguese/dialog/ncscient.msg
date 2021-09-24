@@ -9,10 +9,10 @@
 {156}{}{Sabe quando os novos escravos chegarão, Myron, senhor?}
 {157}{}{Myron... sir, these new results are very promising...}
 {158}{}{Myron? A minute of your time, sir?}
-{159}{}{Where the hell is Myron...}
+{159}{}{Onde o Myron se enfiou...}
 {160}{}{Traga o Myron aqui. Ele tem que ver isso.}
 {161}{}{Bem que esses escravos poderiam calar a boca…}
-{162}{}{Where did I leave that syringe...}
+{162}{}{Onde deixei essa seringa...}
 {163}{}{Has anyone seen Subject 31? He was here just a second ago.}
 {164}{}{Faça os escravos trazerem mais do Jet Beta.}
 {165}{}{Resultados dos testes com o Jet Beta são muito promissores, mas…}
@@ -23,8 +23,8 @@
 {170}{}{Cheque o batimento cardíaco deste aqui. Se ainda estiver em limites toleráveis, aumente a dose.}
 {171}{}{Por que a escrava no grupo de controle se matou? Nós nem a estávamos testando!}
 {200}{}{Tests are proceeding as scheduled, Myron.}
-{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
- willing to kill each other for it.}
+{201}{}{Essa nova cepa de jet é extremamente viciante, senhor. Os escravos quase estão
+ dispostos a matar uns aos outros por ela.}
 {202}{}{The slaves would rather take Jet than eat, it's so potent.}
 {203}{}{Quem são estas pessoas com você, Myron? Novos escravos?}
 {204}{}{The third test group seem to be doing the best of all the groups, Myron, sir.}
@@ -37,7 +37,7 @@
 {209}{}{Myron, sir, we moved three slaves from the control group into the test group because
  of those respiratory failures we had last week.}
 {210}{}{Myron, sir... we had to shoot one slave for trying to escape. What a waste.}
-{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
+{211}{}{Myron... esse novo alucinógeno que você desenvolveu é promissor, mas não é tão viciante como o jet...}
 {212}{}{If you have any suggestions, please write it on a piece of paper and then put it right
  in the trash bin over there.}
 {213}{}{Yes, yes, what?}

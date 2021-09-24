@@ -127,5 +127,5 @@
 {501}{}{Znikaj st¹d. To moje drugie ostrze¿enie.}
 {502}{}{To moje ostatnie ostrze¿enie.}
 {503}{}{Stra¿!}
-{1430}{}{The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
+{1430}{}{Cesarz pozostaje ukryty przed ciekawskimi oczami. Moim zadaniem jest dzia³aæ jako os³ona Cesarza. Jednak ty udowodni³eœ, ¿e jesteœ przyjacielem Shi. Ufam, ¿e mogê powierzyæ ci nasze sekrety. Na zapleczu zauwa¿ysz, ¿e pole si³owe do du¿ego komputera zosta³o wy³¹czone. Wpisz has³o "CSPDMSHR-Shih-huang-ti-X9372", a po³¹czysz siê z komputerem Cesarza. Mam nadziejê, ¿e oka¿e siê to dla ciebie przydatne.}
 {2001}{}{... Rozumiem. Có¿, dziêkujê za twój czas. Mam wioskê do uratowania.}

@@ -2,14 +2,14 @@
 {150}{}{Você vê uma mulher cansada. Sua cabeça foi raspada e está vestindo um jaleco branco.}
 {151}{}{Você vê Marjorie Reed. Ela está enchendo uma seringa, resmungando baixo.}
 {200}{}{Olá, Myron.}
-{201}{}{Myron, do you have a minute...?}
+{201}{}{Myron, tem um minuto...?}
 {202}{}{Sabe quando os novos escravos chegarão, Myron?}
 {203}{}{Myron, estes novos resultados são muito promissores…}
 {204}{}{Myron, tem um minuto?}
-{215}{}{Where the hell is Myron...}
+{215}{}{Onde o Myron se enfiou...}
 {216}{}{Traga o Myron aqui. Ele tem que ver isso.}
 {217}{}{Bem que esses escravos poderiam calar a boca…}
-{218}{}{Where did I leave that syringe...}
+{218}{}{Onde deixei essa seringa...}
 {219}{}{Alguém viu o número 31? Ele estava aqui há um segunda atrás.}
 {220}{}{Faça os escravos trazerem mais do Jet Beta.}
 {221}{}{Resultados dos testes com o Jet Beta são muito promissores, mas…}
@@ -49,8 +49,8 @@
 {279}{}{Estou procurando pelo Myron. Ele está por perto?}
 {280}{}{São resultados de testes nessa prancheta? Eu posso vê-los?}
 {282}{}{Deixa pra lá. Desculpe incomodá-lo.}
-{295}{}{This area is not open for... visitors. Leave or I will call the guards.}
-{296}{}{But hey, I had some questions for you...}
+{295}{}{Esta área não está aberta para... visitantes. Saia ou chamarei os guardas.}
+{296}{}{Mas então, eu tenho outras perguntas...}
 {298}{}{São resultados de testes nessa prancheta? Eu posso vê-los? Eu também sou uma espécie de pesquisador.}
 {300}{}{Muito bem. Desculpe o incômodo.}
 {310}{}{Guardas! Guardas, detenham essa pessoa!}
@@ -97,7 +97,7 @@
 {416}{}{Eu suponho... vou te dar um crachá temporário; apenas mostre-o aos guardas. Seja rápido, Myron não
  gostaqude pessoas fiquem lá por muito tempo. Apesar de ele poder fazer uma exceção no seu caso.}
 {417}{}{Certo. Te vejo depois.}
-{425}{}{Look, I'm VERY busy, so if you don't mind...}
+{425}{}{Olha, eu sou MUITO ocupado, se não se importa...}
 {426}{}{Olha, eu... eu estou, hã, muito ocupada, então se você puder me der licença…}
 {427}{}{Deixe pra lá, então...}
 {428}{}{De qualquer forma, obrigado.}
@@ -117,7 +117,7 @@
 {457}{}{Hã, sim. Eu tenho que ir.}
 {465}{}{Eu estou DESTE lado, eles estão DAQUELE lado. Desde que estamos fazendo hipóteses, VOCÊ
  gostaria de saber como é estar com eles? Nós temos mais uma vaga ou duas.}
-{466}{}{Now hold on a minute...}
+{466}{}{Espere um minuto...}
 {467}{}{Hã, não mesmo. Desculpe o incômodo.}
 {475}{}{Morte de escravos? Um pouco. Maioria por overdose - geralmente culpa de um tecnico - ou eles mesmo se machucam.
  Alguns ingerem Jet demais, e ele REALMENTE querem ficar doidões.}

@@ -1,7 +1,7 @@
 {100}{}{Você vê o Coffin Willie.}
 {150}{}{Você vê um ghoul velho, fedorento e ríspido. E cara, ele FEDE.}
 {200}{}{Whoa. Esse túmulo FEDE.}
-{201}{}{Oh, well... better keep digging.}
+{201}{}{Oh, bem... é melhor continuar cavando.}
 {202}{}{Que po-?}
 {203}{}{Sobre a porra do tempo! Você pode cavar mais DEVAGAR, seu idiota?}
 {204}{}{Sai da minha frente, smoothie.}

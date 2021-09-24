@@ -35,17 +35,17 @@
 {217}{}{Looking to gamble, ma'am?}
 {218}{}{Ela parece tão... (arrepios) perigosa.}
 {220}{}{Looks like this one's already gambling with his life.}
-{221}{}{Uh, I think he just walked into the wrong casino...}
+{221}{}{Uh, eu acho que ele entrou no cassino errado...}
 {222}{}{If he doesn't leave before the boys see him...}
 {223}{}{Uh-oh. Trouble...}
 {224}{}{Looks like this one's already gambling with her life.}
-{225}{}{Uh, I think she just walked into the wrong casino...}
+{225}{}{Uh, eu acho que ela entrou no cassino errado...}
 {226}{}{If she doesn't leave before the boys see her...}
 {230}{}{Hey, muscles. You looking to spend some chips?}
 {231}{}{Hey, champ...(winks)...you looking to gamble?}
 {232}{}{Hey, champ...(smiles)...wanna take a chance?}
 {233}{}{Se precisar de companhia mais tarde...}
-{234}{}{I wonder if I should talk to him...}
+{234}{}{Me pergunto se eu deveria falar com ele...}
 {235}{}{Ei, }
 {236}{}{If you're looking to win some chips, you came to the right place.}
 {237}{}{Best casino in New Reno. In the WORLD, even.}
@@ -209,7 +209,7 @@
 {510}{}{Go to hell, then! I ain't got nothing else to say to you, EVER.}
 {511}{}{Breaks my heart. Later, Nikki.}
 {600}{}{You bribe Nikki in telling you where Lloyd might be hiding.}
-{1210}{}{. Can I help you with... anything?}
+{1210}{}{. Posso ajudar com... alguma coisa?}
 {1214}{}{.}
 {1235}{}{. Looking to spend some chips?}
 {1239}{}{, win some chips.}

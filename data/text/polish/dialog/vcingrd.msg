@@ -5,7 +5,7 @@
 {104}{}{Ju¿ po 18. Czas wracaæ na Podmurze.}
 {105}{}{Okay. W³aœnie odchodzê.}
 {106}{}{Oka. Jeszcze minutê.}
-{107}{}{I got things to do. I'll go when I'm ready to go.}
+{107}{}{Mam coœ do za³atwienia. Pójdê kiedy bêdê gotowy.}
 {108}{}{Umag Nak!?! Umag NAK!}
 {109}{}{Có¿, chcia³em siê tylko upewniæ, czy trafisz na Podmurze. Ruszajmy.}
 {110}{}{Dobra. ChodŸmy.}

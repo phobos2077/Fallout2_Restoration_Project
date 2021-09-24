@@ -104,10 +104,9 @@
 {203}{}{W takim razie zapytam ich.}
 {204}{}{Jest porz¹dku. Ale... mog³oby byæ lepiej.}
 {205}{}{Heh. Dziêki za informacje.}
-{206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
- something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
- far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
- from the other places around here... now those are some bastards.}
+{206}{}{Có¿, skoro mutanci nie starzej¹ siê i nie starzej¹ siê -- gaz sprawia ¿e nadal s¹ m³odzi, czy jakoœ tak.
+ Muszê powiedzieæ, ¿e jest ca³kiem nieŸle. To znaczy, nie chcemy zabijaæ wszystkich, a z tego co wiem, ludzie nie maj¹ o nas zbyt z³ego zdania. Oczywiœcie, to nie dotyczy ludzi
+ z innych miejsc w okolicy... To dopiero s¹ dranie.}
 {207}{}{Dobra, dziêki. Na razie.}
 {300}{}{. Co ty na to?}
 {301}{}{. Co ty na to?}

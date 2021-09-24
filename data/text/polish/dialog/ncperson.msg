@@ -186,7 +186,7 @@
 {427}{}{Ta kobieta, która siê z tob¹ krêci, to dopiero jest ³adna.}
 {428}{}{Czy ta twoja kobieta umie gotowaæ? Jeœli tak, to j¹ wezmê.}
 {429}{}{Ile chcesz za tê twoj¹ szmatê?}
-{430}{}{Check out the new boss o' the walk.}
+{430}{}{Obczajcie nowego szefa chodnika.}
 {431}{}{Ktoœ tu bêdzie mia³ dziœ w nocy niez³¹ rozrywkê!}
 {432}{}{Pani Bishop to dopiero ma ³adniusi ty³eczek.}
 {450}{}{Pani Bishop to dopiero ma ³adniusi ty³eczek.}

@@ -53,7 +53,7 @@
 {305}{}{I'm not s'posed ta chat while on duty, but I'm glad you kicked the Enclave's ass.}
 {306}{}{Ei, }
 {310}{}{Need some more chips at table three...}
-{311}{}{Good crowd today...}
+{311}{}{Ótimo público hoje...}
 {315}{}{Yeah, yer Mom said I was special, too. Now take a hike... maybe she's along Virgin street somewhere.}
 {316}{}{Oh goodie! Bye bye}
 {317}{}{Cai fora}
@@ -113,21 +113,21 @@
 {388}{}{Eu tenho mais algumas perguntas...}
 {389}{}{Obrigado pela informação.}
 {395}{}{Nikki? Yeah, she's over there, at the middle table. Is there some sort of problem?}
-{396}{}{No problem. Just wanted to meet her. I had some other questions...}
+{396}{}{Sem problemas. Só queria conhecê-la. Só tenho algumas perguntas...}
 {397}{}{Obrigado pela informação.}
 {405}{}{Her name WAS Nikki. She used to work here but she got aced... not too long ago.}
-{406}{}{Hmmm. Do you mind if I ask you some other questions...?}
+{406}{}{Hmmm. Você se importa se eu te fizer outras perguntas...?}
 {407}{}{Interesting. Thanks for the information.}
 {415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
-{416}{}{Do you mind if I ask you some other questions...}
+{416}{}{Você se importa se eu te fizer outras perguntas...}
 {417}{}{Interesting. Thanks for the information.}
 {425}{}{Sure, be good for business. Dressing room's in the back...}
 {426}{}{Excellent. I'll be on stage in a few minutes...}
 {427}{}{Não agora. Eu tenho outras perguntas...}
 {428}{}{Not right now, but I'll be back.}
 {435}{}{No, we're still recovering from your last gig. You might want to check some of the other casinos.}
-{436}{}{All right, thanks. Say, I had some other questions...}
-{437}{}{Okay... though I will be back.}
+{436}{}{Que bom, obrigado. Olha, eu tenho outras perguntas...}
+{437}{}{Certo... Mas eu voltarei.}
 {445}{}{[You count up the evening's chips. Not a bad haul.]}
 {446}{}{The leather was a nice touch. }
 {447}{}{That ball gag you had with you didn't hurt, either. }

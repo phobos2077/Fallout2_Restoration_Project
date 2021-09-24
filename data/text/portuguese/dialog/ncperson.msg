@@ -96,7 +96,7 @@
 {315}{}{Fiquei sabendo que ela matou três assassinos só ontem.}
 {316}{}{Que bunda! Uh, bunda má, é isso.}
 {320}{}{What's with all the slavers around here recently?}
-{321}{}{I ain't seen that slaver around here before...}
+{321}{}{Eu não tinha visto esse escravista por aqui...}
 {322}{}{I wonder if the slaver's headed to the Stables...}
 {323}{}{Wonder if that slaver's got any stock...}
 {324}{}{You headed to the stables, slaver?}
@@ -115,7 +115,7 @@
 {337}{}{A Casa ta contra mim.}
 {338}{}{A fortuna ta contra mim.}
 {339}{}{Glad they put that guy on the rack...}
-{340}{}{Filthy stinkard...}
+{340}{}{Cabra imundo...}
 {341}{}{Slavers walking round like they own the place...}
 {342}{}{A Casa está a meu favor.}
 {343}{}{Bad luck, ill wind, not good times, not good times...}
@@ -163,7 +163,7 @@
 {404}{}{A Casa ta contra mim.}
 {405}{}{A fortuna ta contra mim.}
 {406}{}{Glad they put that guy on the rack...}
-{407}{}{Filthy stinkard...}
+{407}{}{Cabra imundo...}
 {408}{}{A Casa está a meu favor.}
 {409}{}{Bad luck, ill wind, not good times, not good times...}
 {410}{}{Reno's a-heating up, time ta move on.}
@@ -208,7 +208,7 @@
 {466}{}{A Casa ta contra mim.}
 {467}{}{A fortuna ta contra mim.}
 {468}{}{Glad they put that guy on the rack...}
-{469}{}{Filthy stinkard...}
+{469}{}{Cabra imundo...}
 {470}{}{A Casa está a meu favor.}
 {471}{}{Bad luck, ill wind, not good times, not good times...}
 {472}{}{Reno's a-heating up, time ta move on.}
@@ -288,7 +288,7 @@
 {586}{}{Hello, ma'am. How are you?}
 {587}{}{Anything wrong, ma'am?}
 {600}{}{What's with all the slavers around here recently?}
-{601}{}{I ain't seen you around here before...}
+{601}{}{Nunca te vi por aqui antes...}
 {602}{}{If yer lookin' to sell slaves, try the Mordinos.}
 {603}{}{You headed to the stables? They keep most of the slaves there.}
 {604}{}{Show me your stock.}
@@ -314,7 +314,7 @@
 {624}{}{A Casa ta contra mim.}
 {625}{}{A fortuna ta contra mim.}
 {626}{}{Glad they put that guy on the rack...}
-{627}{}{Filthy stinkard...}
+{627}{}{Cabra imundo...}
 {628}{}{O que você quer?}
 {629}{}{Bad luck, ill wind, not good times, not good times...}
 {630}{}{Reno's a-heating up, time ta move on.}
@@ -354,7 +354,7 @@
 {675}{}{A Casa ta contra mim.}
 {676}{}{A fortuna ta contra mim.}
 {677}{}{Glad they put that guy on the rack...}
-{678}{}{Filthy stinkard...}
+{678}{}{Cabra imundo...}
 {679}{}{O que você quer?}
 {680}{}{Bad luck, ill wind, not good times, not good times...}
 {681}{}{Reno's a-heating up, time ta move on.}
@@ -398,7 +398,7 @@
 {721}{}{A Casa ta contra mim.}
 {722}{}{A fortuna ta contra mim.}
 {723}{}{Glad they put that guy on the rack...}
-{724}{}{Filthy stinkard...}
+{724}{}{Cabra imundo...}
 {725}{}{O que você quer?}
 {726}{}{Bad luck, ill wind, not good times, not good times...}
 {727}{}{Reno's a-heating up, time ta move on.}

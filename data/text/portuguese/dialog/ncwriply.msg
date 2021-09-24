@@ -113,12 +113,12 @@
 {423}{}{[Let him play with his 'helmet.']}
 {430}{}{(Glares at you suspiciously.) Whaddya want?}
 {432}{}{I just wanted to know what kind of game you're playing. It looks like fun!}
-{433}{}{Uh... where are your parents?}
+{433}{}{Uh... onde estão seus pais?}
 {434}{}{Nada.}
 {440}{}{(The little man turns white, takes a step back, then turns and runs, screaming his head off.)}
 {441}{}{(The kid turns white, takes a step back, then turns and runs, screaming his head off.)}
 {442}{}{Hee hee... run, little mann! RUN!}
-{443}{}{Little punk...}
+{443}{}{Pequeno punk...}
 {450}{}{Metal insects n' soldiers. }
 {451}{}{(Looks at your equipment, spots one of your pistols.) Can I play with yer gun?}
 {452}{}{No, no... it's too dangerous to play with, youngster.}
@@ -127,7 +127,7 @@
 {455}{}{Why, sure you can, you little pothead. Here you go. (Give him a loaded pistol.)}
 {456}{}{"Metal insects?"}
 {457}{}{Oh, okay. I was just curious.}
-{458}{}{Nooooo... I think I better be going.}
+{458}{}{Nãããão... Acho melhor eu ir andando.}
 {470}{}{(Olha para você.) Vamos, eu sei como usar armas assim! Sou da Família Wright! Deixa eu ver! Por favor?}
 {471}{}{Veja: nas mãos erradas, uma pistola é uma arma mortal. Bem, quero dizer, é SEMPRE uma arma mortal, mas nas mãos erradas... é, uh... mortal... espere, deixe-me começar de novo.}
 {472}{}{Olha, se sua família lhe confiasse uma arma, eles teriam lhe dado uma. Esqueça.}
@@ -168,7 +168,7 @@
 {560}{}{(You take your crappiest gun from your pack and give it to the kid. He smiles and holds it up, admiring it.) MY gun! Cool! }
 {561}{}{I know where I can get ammo for it, too!}
 {562}{}{Uh, you can't keep it. It's just a loan...}
-{563}{}{Yep, all yours. Now tell me about these metal insects...}
+{563}{}{Sim, todo seu. Agora me fale sobre esses insetos de metal...}
 {564}{}{Lock and load, kid. Say... why don't you go show your gun to Daddy? Be sure to wave it around a lot and pull that little
  switch beneath the gun there.}
 {565}{}{Sure is. Enjoy. Catch you later.}

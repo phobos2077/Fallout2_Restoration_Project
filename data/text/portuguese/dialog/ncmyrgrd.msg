@@ -17,7 +17,7 @@
 {236}{}{You look like a }
 {240}{}{Ain't you better be getting back to your }
 {241}{}{You look like a }
-{245}{}{Put that weapon away... unless you WANT trouble.}
+{245}{}{Guarda essa arma... A não ser que você PROCURE problemas.}
 {250}{}{Intruso!}
 {260}{}{Tire essa lixeira rolante daqui.}
 {261}{}{Robôs não são permitidos aqui. Caia fora.}
@@ -78,14 +78,14 @@
 {401}{}{I'm staying until you let me in. In fact, I'd like to see you TRY and move me.}
 {402}{}{I'm staying until you let me in. In fact, I'd like to see you sorry sacks of shit TRY and move me.}
 {404}{}{Tudo certo.}
-{411}{}{Neither have I...}
+{411}{}{Vamos ver isso...}
 {412}{}{Defend yourself.}
 {425}{}{Yeah? Lemme see. Hmmmm. (Checks badge, shrugs.) All right, but keep it quick. Myron's busy, and he don't
  like being disturbed.}
 {426}{}{Tenho-o.}
 {435}{}{(Eyes roam up and down your body.) Yeah, for now... heh heh... though, I might need ANOTHER fill a little
  later on. When you're done inside, that is.}
-{436}{}{I'll... keep that in mind. Can I head on in?}
+{436}{}{Eu... vou manter isso em mente. Posso entrar?}
 {437}{}{We'll see, all right?}
 {445}{}{Sure, sweetheart. Head on in.}
 {446}{}{Yeah, head on in.}

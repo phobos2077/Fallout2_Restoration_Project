@@ -58,7 +58,7 @@
 {304}{}{hã-hã}
 {306}{}{Get down to business.}
 {307}{}{Uh, no thanks. I've changed my mind. Good-bye.}
-{320}{}{Aiight then...}
+{320}{}{Tudo certo então...}
 {321}{}{Uh-uh-uh}
 {330}{}{Aw, so you just PLAYING with T-Ray? All right, then. Get, woman... I got better bitches to do with my time.}
 {331}{}{Time keepz on ticking, ticking, ticking... inta the fuuuuture}
@@ -81,14 +81,14 @@
  Reno, y'know? I get him this machine, there's... FRINGE benefits.}
 {376}{}{You're gonna match BISHOP'S offer? That's a lot of scrilla, woman. A LOT of chips. Plus, he's one of the top men in
  Reno, y'know? I get him this machine, there's... FRINGE benefits.}
-{377}{}{I'm listening...}
+{377}{}{Estou ouvindo...}
 {378}{}{1000 chips change your mind?}
 {379}{}{750 chips change your mind?}
 {380}{}{500 chips change your mind?}
 {381}{}{Actually, I don't have enough chips to make you an offer right now...}
 {382}{}{How about a night with me, T-Ray? You ain't never going to have anything better.}
 {383}{}{My offer's this: I'll leave you in one piece if you give me MY car back right now.}
-{384}{}{Nevermind... I have to be going.}
+{384}{}{Não importa... eu tenho que ir.}
 {395}{}{Man, that amount couldn't even afford to change my clothes, much less change my mind. }
 {396}{}{Woman, that amount couldn't even afford to change my clothes, much less change my mind. }
 {397}{}{You must think cars are cheap.}
@@ -124,7 +124,7 @@
 {490}{}{What are you doing with the car?}
 {491}{}{No, that's cool. You can have the damn Highwayman. Piece of shit anyway. Uses too much 'tricity, smells like gecko inside,
  trunk's too small... be perfect for you, though. See ya.}
-{492}{}{No, I haven't got an issue with it... yet. See you.}
+{492}{}{Não, eu não tenho nenhum problema com isso... ainda. Nos vemos por aí.}
 {500}{}{Whoa, hold on there! *Piece of shit? Smells like Gecko?* }
 {501}{}{Man, what kinda Jet you been taking? }
 {502}{}{Woman, what kinda Jet you been taking? }
@@ -170,7 +170,7 @@
 {631}{}{Tudo certo.}
 {632}{}{Sorry, only when it IS business. Later, T-Ray.}
 {640}{}{Damn, bitch! I just gave you sweet love five minutes ago! You trying to KILL me?}
-{641}{}{Now, hold on...}
+{641}{}{Agora, espera...}
 {642}{}{C'mon, I need a charge, and only YOUR sweet love is going to do it.}
 {643}{}{Nevermind then. Be that way.}
 {650}{}{Naw, I already got one dog I give a bone to, and I ain't looking to start a kennel. From the looks of you, you ain't
@@ -236,8 +236,8 @@
 {795}{}{Then perhaps an offer of 900 chips will be more to your liking. Mr. Bishop will be pleased your work comes so cheaply.}
 {797}{}{Since his generous offer has been refused, I'm instructed to take the car for no charge.}
 {798}{}{I tire of this conversation. I will return later.}
-{810}{}{Nine hun... man, are you joking?! }
-{811}{}{Nine hun... woman, are you joking?! }
+{810}{}{Novecen... mano, você tá de brincadeira?! }
+{811}{}{Novece... Muié, você tá de brincadeira?! }
 {812}{}{Cut the bull-shit! This is a HIGHWAYMAN. They don't make them ANYWHERE anymore, see? There's OTHER families that'll be
  willin' to pay for it if that cheap bastard Bishop won't...}
 {814}{}{Mr. Bishop has made a GENEROUS offer of 900 chips. You won't like the next offer.}

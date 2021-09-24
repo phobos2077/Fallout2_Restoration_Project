@@ -11,7 +11,7 @@ seus óculos quebrados e começa a polir a única lente boa.}
 {213}{}{Você vai COMPRAR alguma coisa?}
 {214}{}{Isso não é uma cozinha de sopa. Você vai COMPRAR alguma coisa?}
 {215}{}{Eu vou ficar cego se eu continuar nesse ramo de trabalho.}
-{216}{}{Gonna need some more base chemtex nine...}
+{216}{}{Vou precisar de mais quimtex nove básico...}
 {217}{}{A demanda tá ascendente…}
 {225}{}{Vá para o inferno.}
 {226}{}{Saia daqui, ou atiro em você até você morrer. Duas vezes.}
@@ -78,7 +78,7 @@ importante?}
 {310}{}{Volte ao que você estava fazendo.}
 {320}{}{(Renesco te encara. Parece que ele está te despindo mentalmente, e 
 depois te despedaçando membro por membro.)}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{Não importa. Eu tenho outras perguntas...}
 {322}{}{Deixe pra lá, então.}
 {330}{}{(Renesco olha para você em desgosto.) Sim. Na LOJA. Isso não é o 
 século 20 onde drogas são vendidas por baratas de beco que vivem com um 
@@ -90,7 +90,7 @@ constante medo das autoridades.}
 abundância que não se importam em comprar veneno na farmácia da esquina. 
 Dessa vez ISSO respondeu sua questão, primitivo?}
 {351}{}{Todas exceto uma: Foi Richard Wright um de seus fregueses?}
-{352}{}{All right, all right... what have you got in stock?}
+{352}{}{Tudo bem, tudo certo. O que você tem no estoque?}
 {353}{}{Na verdade, eu tenho algumas perguntas a mais…}
 {354}{}{Mas, como você disse, as drogas são… venenosas. Elas matam o 
 espírito. Não lhe deixa perturbado vendê-las?}
@@ -98,7 +98,7 @@ espírito. Não lhe deixa perturbado vendê-las?}
 {365}{}{Se me deixa perturbado vendê-las para idiotas, escravagistas, 
 senhores do crime e tribais que o mundo ficaria melhor sem? Primitivo, três 
 palavras: Saia fora mais.}
-{366}{}{OK... can I see what you have in stock?}
+{366}{}{OK... posso ver o que você tem em estoque?}
 {367}{}{Ta certo, ta certo. Olha, eu tenho outras perguntas…}
 {368}{}{As drogas daqui de New Reno estão encontrando seu caminho direto para 
 outros lugares, e ferindo as pessoas lá. Isso não lhe preocupa?}
@@ -128,7 +128,7 @@ você está viciado. Assim é como eu faço MINHA vida.}
 {412}{}{Quem é que está fazendo com que Redding está bem suprida? E por 
 que?}
 {413}{}{Assim eu percebi. Olhe, eu tenho algumas outras perguntas…}
-{414}{}{I see... I must be going now.}
+{414}{}{Entendi... preciso ir agora.}
 {420}{}{Bem tribal, eu duvido que você tenha a percepção para noticiar isso 
 ainda, mas New Reno não produz nada útil. É igual a um grande, bem iluminado 
 carrapato da planície sentada no deserto. Agora, Redding, por outro lado…}
@@ -188,7 +188,7 @@ cheio  daquelas mortíferas armadilhas com lanças e aquelas formigas gigantes
 devoradoras de gente.}
 {518}{}{Ei, você já ouviu falar do Kit de Criação do Paraíso? Ou do Vault 
 13?}
-{519}{}{Okay, then... I'm out of here.}
+{519}{}{De acordo, então... Estou indo.}
 {525}{}{(Renesco continua com o catarro.)}
 {526}{}{E algumas vezes a anciã fica furiosa com pequenas coisas, 
 como… heh-heh… Aquela noite em que eu ignorei meu voto de castidade e transei 
@@ -238,8 +238,8 @@ eles falaram devagar e usarem palavras pequenas…}
 perguntar aos seus moradores sobre o GECK. Obrigado.}
 {592}{}{Por quê o GECK não estaria no sagrado Vault 13? As escrituras DIZEM 
 que o GECK está dentro do sagrado Vault 13.}
-{593}{}{Very funny. I had some other questions...}
-{594}{}{Okay, then... I'll go check it out. Thanks.}
+{593}{}{Muito engraçado. Eu tenho outras perguntas...}
+{594}{}{Ok, então... Vou dar uma olhada. Obrigado.}
 {600}{}{Diabos, não, primata. Eu ouvi falar de Vaults, claro, mas não Vault 
 13. Coisa mais próxima é Vault City ao Nordeste… E Se esses aristocratas 
 impertinentes habitaram um Vault antes, eles com certeza não vivem mais 
@@ -266,7 +266,7 @@ chamado Vault 13?}
 {640}{}{(Renesco pega os óculos de você e coloca-os. Seus olhos arregalam) 
 Doce Reno! É ASSIM que essa maldita loja se parece. (faz careta.) Que 
 bagunça… E o que é isso nas estantes? Parece merda de Brahmin.}
-{641}{}{You're welcome...}
+{641}{}{Seja bem vindo...}
 {642}{}{Aproveite.}
 {650}{}{Hmpphh! Eu… hmmm… uh… onde você conseguiu pegar esses?}
 {651}{}{Bem, tinha aquele pequeno Radscorpion, vê, e tinha aquele cientista 
@@ -290,18 +290,18 @@ dia de casamento da minha filha.}
 {681}{}{Errr...}
 {682}{}{Bem...}
 {683}{}{Okay! Okay! Eu vou te dar um desconto! Hmphhh.}
-{684}{}{C'mon. Just a little discount. C'mon...}
+{684}{}{Vamo. Só um descontinho. Qualé...}
 {687}{}{Grande! Vamos ver o que você tem, "amigo."}
-{688}{}{Excellent! Say, I had some other questions...}
+{688}{}{Excelente! Olha, eu tenho outras perguntas...}
 {689}{}{Eu voltar pra loja depois.}
 {700}{}{Faça isso rápido.}
-{701}{}{Look, I'm a busy man...}
+{701}{}{Olhe, eu sou um homem ocupado...}
 {702}{}{Bem? Desembucha isso!}
 {703}{}{Sim?}
 {704}{}{Eu já te falei sobre minha vila Arroyo?}
 {706}{}{Foi você que vendeu Jet para Richard Wright?}
 {707}{}{Eu vim coletar o imposto do Sr. Salvatore.}
-{710}{}{I'm looking for some mine parts for Broken Hills...}
+{710}{}{Eu estou procurando algumas peças para a mina de Broken Hills...}
 {711}{}{Você tem um vocabulário interessante… Você é daqui?}
 {712}{}{Esquece.}
 {725}{}{(Olhar desconfiado.) Então?}
@@ -359,7 +359,7 @@ do rebanho de Reno.}
 {798}{}{Eles dizem para perguntar para você. Eles dizem que você vende 
 merda ruim. Merda que mata pessoas.}
 {800}{}{Eu vou falar com eles então.}
-{805}{}{Look, primate... you don't even KNOW what you're babbling about.}
+{805}{}{Olha, primata... você não tem IDEIA de com quem você esta falando.}
 {806}{}{Oh, eu acho eu -}
 {807}{}{Yeah? Certo então, por que nã -}
 {808}{}{Esquece. Eu tenho algumas outras per -}
@@ -379,8 +379,8 @@ vendeu para o garoto. VOCÊ diz que você não vendeu para ele. Ou vocês todos
 estão mentindo, ou… Alguém mais é responsável.}
 {828}{}{Você pode me dizer mais alguma coisa sobre Richard Wright? Por acaso 
 ele saía com alguém mais que talvez tenha usado drogas?}
-{829}{}{All right... look, I had some other questions...}
-{830}{}{Okay, okay... I'm going now. }
+{829}{}{Certo... Olha, eu tenho outras perguntas...}
+{830}{}{Ok, ok... Estou indo agora. }
 {835}{}{Eu posso responder isso facilmente. Um dos dois idiotas está 
 mentindo para salvar o próprio traseiro. Eles vendem 90% do Jet em 
 Reno, e esse é o único lugar no qual o 'garoto' poder ter pego.}
@@ -388,14 +388,14 @@ Reno, e esse é o único lugar no qual o 'garoto' poder ter pego.}
 no mês anterior talvez possam ter tido contato com a vítima?}
 {837}{}{Você pode me dizer mais alguma coisa sobre Richard Wright? Por acaso 
 ele saía com alguém mais que talvez tenha usado drogas?}
-{838}{}{I see... I had some other questions...}
+{838}{}{Eu vejo... Eu tenho outras perguntas...}
 {839}{}{Estou indo agora.}
 {845}{}{Seu bastardo estúpido.}
 {846}{}{Sua puta estúpida.}
 {847}{}{Eu DISSE para você não falar o nome dele aqui. Dê o fora! Se eu ver 
 você de novo, eu VOU ATIRAR EM VOCÊ! Se o Sr.Wright vier procurando por mim, 
 achando que eu matei seu garoto, VOCÊ VAI morrer primeiro.}
-{848}{}{Don't threaten me, old man...}
+{848}{}{Não me ameace, velho...}
 {849}{}{Whoa. Eu to indo agora.}
 {855}{}{Eu NÃO tenho idéia. Eu não conhecia o garoto, então eu não conhecia 
 seus amigos OU seus hábitos. O único que poderia lhe dizer claramente está muito 
@@ -438,7 +438,7 @@ Salvatore não GOSTA de pessoas que o decepcionam… Melhor você pensar em algo
 rápido.}
 {921}{}{Já pensei. Eu vou pagar sua parte nesse período. Em troca, você 
 mais me dar um desconto na sua loja.}
-{924}{}{I'll try and figure something out... I'll be back.}
+{924}{}{Vou tentar descobrir algo... Eu voltarei.}
 {930}{}{Agora pare, seu neandertal…}
 {931}{}{Eu não quero mais discutir com você. Minha paciência está no fim. 
 Esses são os meus termos.}
@@ -451,7 +451,7 @@ ser um bom samaritano, você está GRAVEMENTE errado. Agora… O que você quer?}
 {951}{}{Deus amaldiçoe seja lá o que Deathclaw ou diretor de marketing te deu! Você QUER alguma coisa? Aqui! AQUI! Tome ISTO! Pegue TUDO que eu tenho! Qualquer coisa para fazer você ME DEIXAR SOZINHO!}
 {952}{}{Deixe-me ver seu estoque.}
 {953}{}{Eu tenho algumas perguntas…}
-{955}{}{What the hell IS this...? }
+{955}{}{Mas que merda É essa...? }
 {960}{}{Envenenado? Sobre o que você está tagarelando?}
 {961}{}{A condição do corpo era compatível com envenenamento de Radscorpion. 
 Eu acho que ele morreu por que seu Jet estava envenenado, NÃO por causa de 

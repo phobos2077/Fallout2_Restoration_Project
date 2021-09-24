@@ -14,7 +14,7 @@
 {178}{}{Isso aí, }
 {179}{}{::Palmas::}
 {180}{}{::Assobios::}
-{181}{}{Oh my... it's her.}
+{181}{}{Oh meu... é ela.}
 {182}{}{Isso aí, garota!}
 {183}{}{::Faz o sinal de positivo pra você::}
 {190}{}{Você não conseguiria me pagar o suficiente pra eu me deitar com você NISSO.}
@@ -171,7 +171,7 @@
 {345}{}{Precisa de alguém pra descascar sua banana, escravagista?}
 {346}{}{O Myron continua vindo pra esses lados...}
 {347}{}{Aquela filha do Bishop é uma safada.}
-{348}{}{She ain't no Jet addict, she's a BONE addict.}
+{348}{}{Ela não é viciada em Jet, ela é viciada em SEXO.}
 {349}{}{O movimento em Cat's Paw está ficando mais quente...}
 {350}{}{Teve uma maratona ontem à noite pra correr do Myron...}
 {351}{}{Procurando por carinho, escravagista?}
@@ -364,7 +364,7 @@
 {538}{}{O que ele espera que eu faça? Que eu me curve pra ele?}
 {539}{}{Ainda acho que a placa de Reno vai cair...}
 {540}{}{Aquela filha do Bishop é uma safada.}
-{541}{}{She ain't no Jet addict, she's a BONE addict.}
+{541}{}{Ela não é viciada em Jet, ela é viciada em SEXO.}
 {542}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
 {543}{}{Parece que estive numa maratona ontem...}
 {544}{}{Procurando por amor, docinho?}
@@ -527,7 +527,7 @@
 {701}{}{O que ele espera que eu faça? Que eu me curve pra ele?}
 {702}{}{Ainda acho que a placa de Reno vai cair...}
 {703}{}{Aquela filha do Bishop é uma safada.}
-{704}{}{She ain't no Jet addict, she's a BONE addict.}
+{704}{}{Ela não é viciada em Jet, ela é viciada em SEXO.}
 {705}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
 {706}{}{Parece que estive numa maratona ontem...}
 {707}{}{Procurando por amor, docinho?}
@@ -763,7 +763,7 @@
 {934}{}{O Myron é um nerd chato pra caralho.}
 {935}{}{Fio-terra, sadismo, qualquer coisa.}
 {936}{}{Aquela filha do Bishop é uma safada.}
-{937}{}{She ain't no Jet addict, she's a BONE addict.}
+{937}{}{Ela não é viciada em Jet, ela é viciada em SEXO.}
 {938}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
 {939}{}{Parece que estive numa maratona ontem...}
 {940}{}{Procurando por amor, docinho?}
@@ -937,7 +937,7 @@
 {1108}{}{O Myron é um nerd chato pra caralho.}
 {1109}{}{Fio-terra, sadismo, qualquer coisa.}
 {1110}{}{Aquela filha do Bishop é uma safada.}
-{1111}{}{She ain't no Jet addict, she's a BONE addict.}
+{1111}{}{Ela não é viciada em Jet, ela é viciada em SEXO.}
 {1112}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
 {1113}{}{Parece que estive numa maratona ontem...}
 {1114}{}{Procurando por amor, docinho?}
@@ -1110,7 +1110,7 @@
 {1281}{}{O Myron é um nerd chato pra caralho.}
 {1282}{}{Fio-terra, sadismo, qualquer coisa.}
 {1283}{}{Aquela filha do Bishop é uma safada.}
-{1284}{}{She ain't no Jet addict, she's a BONE addict.}
+{1284}{}{Ela não é viciada em Jet, ela é viciada em SEXO.}
 {1285}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
 {1286}{}{Parece que estive numa maratona ontem...}
 {1287}{}{Procurando por amor, docinho?}

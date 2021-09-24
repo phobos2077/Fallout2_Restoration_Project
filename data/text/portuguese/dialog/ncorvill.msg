@@ -9,13 +9,13 @@
 {213}{}{Então eles te mandaram pra fazer o trabalho sujo...}
 {214}{}{Assassino barato, esse foi seu último trabalho...}
 {220}{}{Casamento não é uma palavra. É uma sentença da vida.}
-{221}{}{Damn Salvatores...}
-{222}{}{Where are those damn kids...}
+{221}{}{Malditos Salvatores...}
+{222}{}{Onde estão as malditas crianças...}
 {223}{}{Alguém aí viu o Christopher? Diga àquele garoto que eu quero vê-lo. Agora.}
 {224}{}{Gostaria de saber se nosso casamento foi um contrato legal...}
 {225}{}{Os lucros por aqui estão baixos... melhor começar a beber...}
 {226}{}{Preciso de mais álcool etílico. E menos Wright etílico...}
-{227}{}{Salvatores are being quiet...}
+{227}{}{Os Salvatores estão muito sossegados.}
 {228}{}{Onde diabos está aquela mulher? Etílica! Etílica!}
 {229}{}{Acho melhor parar de ficar xingando os garotos...}
 {230}{}{Nós precisamos expandir a distribuição se quisermos continuar na praça aqui de Reno...}
@@ -32,7 +32,7 @@
 {245}{}{Yoo Boo Hoo Yooooo}
 {246}{}{Kootchie Kootchie Koooo}
 {247}{}{Quem diabos você}
-{248}{}{I'm a simple traveler... looking for work.}
+{248}{}{Eu sou um simples viajante... procurando por trabalho.}
 {249}{}{Meu nome é }
 {250}{}{Na verdade, acho que entrei no quarto errado. Eu já estou saindo.}
 {260}{}{(Com raiva.) Saia da minha frente. Se você aparecer aqui novamente, vai levar um tiro, entendeu?}
@@ -107,7 +107,7 @@
 {416}{}{Espere --}
 {417}{}{Ah, sim, bem --}
 {425}{}{Aquele desgraçado está nos seus últimos dias. Ao amanhecer ele estará morto. Mas ele vai morrer BEM devagar...}
-{426}{}{Now, about the price for doing my work...}
+{426}{}{Agora, sobre o preço por fazer meu trabalho...}
 {427}{}{Ele merece.}
 {428}{}{Ahm, mas Renesco não deu o Jet pro Richard... ele não sabia pra quem era... foram os SALVATORES
  que envenenaram seu filho.}
@@ -213,11 +213,11 @@
 {652}{}{É... você sabe, NÃO FUI eu. E me enganei. "Corpo do seu filho?" eu disse "corpo de alguém". É, foi o que eu disse.}
 {653}{}{Talvez não seja uma boa hora para discutir isso. Falo com você mais tarde.}
 {660}{}{Seu escavador de túmulos filho de uma puta…}
-{661}{}{You ghoulish bitch...}
+{661}{}{Sua puta morfética...}
 {662}{}{ você acaba de ganhar seu PRÓPRIO  pedaço de terra em Golgotha. SE eles acharem todos os seus pedaços. (Começa a gritar.) Rapazes! Venham aqui!
  E tragam suas facas!}
 {663}{}{Espere um momento! Não podemos falar sobre isso?}
-{664}{}{You're going to need more than knives to take me down...}
+{664}{}{Você precisa de mais do que facas para me vencer...}
 {665}{}{Com licença. Eu e a saída temos um compromisso.}
 {670}{}{Vamos supor que eu acredite nesso por um segundo... e não estou dizendo que ESTOU... então que ENVENENOU meu filho? E por que eles
  tiveram o trabalho de dosá-lo com Jet?}

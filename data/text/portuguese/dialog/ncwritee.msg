@@ -58,7 +58,7 @@
 {299}{}{That mutant o' yours better watch himself round here, y'hear me?}
 {305}{}{O que você quer?}
 {306}{}{Help you with somethin'?}
-{307}{}{Damn hot...}
+{307}{}{Desgraça de calor...}
 {308}{}{New Reno gets uglier every day...}
 {309}{}{What're you doing round here?}
 {310}{}{If you're lookin' for alcohol, the train station is the place to be.}
@@ -79,7 +79,7 @@
 {340}{}{Dad said he'd strangle us if he ever hears about us takin' Jet.}
 {341}{}{Dad's still upset, so be careful when you talk to him, y'hear?}
 {342}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
-{343}{}{Damn hot...}
+{343}{}{Desgraça de calor...}
 {344}{}{Ain't seen Mom for a while. If you see her, don't mention nothin' about the stills, 'kay?}
 {345}{}{Keith took apart the piano last week and put it back together. Smart kid.}
 {346}{}{We're going huntin' for radscorpions again in a few days.}
@@ -104,7 +104,7 @@
 {368}{}{Dad said he'd strangle us if he ever hears 'bout us takin' Jet.}
 {369}{}{Dad's still upset, so be careful when you talk to him, you hear?}
 {370}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
-{371}{}{Damn hot...}
+{371}{}{Desgraça de calor...}
 {372}{}{Keith took apart the piano last week and put it back together. Smart kid.}
 {373}{}{We're going huntin' for radscorpions again in a few days.}
 {374}{}{Are you REALLY talkin' to God when you're havin' sex on stage?}

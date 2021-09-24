@@ -39,17 +39,17 @@
 {222}{}{Looking to gamble, ma'am?}
 {223}{}{She looks so...[shivers]...dangerous.}
 {235}{}{Looks like this one's already gambling with his life.}
-{236}{}{Uh, I think he just walked into the wrong casino...}
+{236}{}{Uh, eu acho que ele entrou no cassino errado...}
 {237}{}{If he doesn't leave before the boys see him...}
 {238}{}{Uh-oh. Trouble...}
 {239}{}{Looks like this one's already gambling with her life.}
-{240}{}{Uh, I think she just walked into the wrong casino...}
+{240}{}{Uh, eu acho que ela entrou no cassino errado...}
 {241}{}{If she doesn't leave before the boys see her...}
 {250}{}{Hey, muscles. You looking to spend some chips?}
 {251}{}{Hey, champ...[winks]...you looking to gamble?}
 {252}{}{Hey, champ...[smiles]...wanna take a chance?}
 {253}{}{Se precisar de companhia mais tarde...}
-{254}{}{I wonder if I should talk to him...}
+{254}{}{Me pergunto se eu deveria falar com ele...}
 {255}{}{Ei, }
 {256}{}{If you're looking to win some chips, you came to the right place.}
 {257}{}{Lady Luck's in the house tonight... nothing but winners!}
