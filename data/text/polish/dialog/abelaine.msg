@@ -7,13 +7,15 @@
 {203}{}{Bywaj.}
 {300}{}{Je¿eli chcesz us³yszeæ wiêcej o naszym zakonie, porozmawiaj z naszym duchowym przywódc¹. Jest na trzecim piêtrze.}
 {301}{}{Rozumiem. Jeszcze kilka pytañ...}
-{400}{}{Oczywiœcie. S³ucham.}
+{400}{}{Oczywiœcie. Co chcia³abyœ wiedzieæ?}
 {401}{}{Jak masz na imiê?}
 {402}{}{W³aœciwie ju¿ nic, Bywaj.}
 {403}{}{Co mo¿esz powiedzieæ mi o Opactwie?}
 {500}{}{Mo¿esz do mnie mówiæ Elain.}
 {501}{}{Rozumiem. Jeszcze kilka pytañ...}
-{600}{}{Hej! Zanim odejdziesz, mo¿esz mi w czymœ pomóc? Powinnam zanieœæ tê czêœæ Maxowi do piwnicy jest w pokoju z kopiark¹. Ale widzisz moje kolano ostatnio nie sprawuje siê najlepiej i naprawdê ciê¿ko mi chodziæ po schodach. Czy by³oby to dla Ciebie problemem ¿eby mu tê czêœæ zanieœæ, dla mnie.}
+{600}{}{Hej! Zanim odejdziesz, mo¿esz mi w czymœ pomóc? Powinnam zanieœæ tê czêœæ Maxowi do piwnicy jest w
+ pokoju z kopiark¹. Ale widzisz moje kolano ostatnio nie sprawuje siê najlepiej i naprawdê ciê¿ko mi chodziæ po schodach.
+ Czy by³oby to dla Ciebie problemem ¿eby mu tê czêœæ zanieœæ, dla mnie?}
 {601}{}{Jasne.}
 {602}{}{Przepraszam, ale nie mam teraz na to czasu. Bywaj.}
 {603}{}{Czy ja wygl¹dam na firmê kuriersk¹? Zrób to sama, gruba, leniwa suko. Czeœæ.}

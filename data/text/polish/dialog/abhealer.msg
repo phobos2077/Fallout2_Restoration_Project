@@ -27,13 +27,13 @@
 {700}{}{Czêœæ dosta³em od mojego ojca. Reszta ju¿ by³a w Opactwie.}
 {701}{}{Interesuj¹ce, czeœæ.}
 {702}{}{Móg³byœ daæ mi czêœæ swoich medykamentów. Wygl¹da, ¿e masz ich spory zapas.}
-{703}{}{Mam ci je tak po prostu *daæ*? Dlaczego niby zas³ugujesz na nie bardziej ni¿ ludzie z Opactwa.}
+{703}{}{Mam ci je tak po prostu *daæ*? Dlaczego niby zas³ugujesz na nie bardziej ni¿ ludzie z Opactwa?}
 {704}{}{Bo na Pustkowiu czêsto do mnie strzelaj¹.}
 {705}{}{Jestem w trakcie mojej œwiêtej misji odnalezienia Generatora Cudownej Krainy. Widzisz moja wioska zginie, je¿eli nie znajdê go na czas. Z kolei ludzie z Opactwa wydaj¹ siê wieœæ tutaj spokojne ¿ycie i nie potrzebuj¹ tak wiele medycznej pomocy. Nie proszê o du¿o, nawet niewielka iloœæ by³aby dla mnie nieocenion¹ pomoc¹.}
 {706}{}{[Zastanawia siê chwile nad twoimi s³owami. Kiwa g³ow¹.] Masz racjê. Dam Ci czêœæ naszych medycznych zapasów. Wygl¹da na to, ¿e Ci siê przydadz¹. Proszê. [Podaje ci.] Powodzenia, wêdrowcze.}
 {707}{}{Dziêkujê, Jack. Jesteœ prawdziwym zbawc¹ pustkowi. Bywaj.}
 {708}{}{Wiêc musisz siê nauczyæ unikaæ k³opotów. Przepraszam, ale nie zamierzam tak po prostu rozdawaæ medycznych zapasów Opactwa.}
-{709}{}{Dobra, ¯EGNAM!}
+{709}{}{Dobra. ¯EGNAM.}
 {800}{}{Nie mogê teraz rozmawiaæ.}
 {801}{}{Przepraszam, jestem teraz czymœ zajêty. OdwiedŸ mnie kiedy indziej.}
 {802}{}{Witaj ponownie.}

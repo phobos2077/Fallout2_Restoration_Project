@@ -3,7 +3,7 @@
 {102}{}{Wygl¹da jakby wysiadywa³.}
 {200}{}{[Kiedy podchodzisz m³ody mnich szybko chowa dek kart do “Tragic”-a.] Czego chcesz?}
 {201}{}{Od ciebie, niczego. Czeœæ.}
-{202}{}{¯ebyœ mi powiedzia³ dlaczego chowasz przede mn¹ te karty?}
+{202}{}{Chcê wiedzieæ, dlaczego ukry³eœ przede mn¹ tê taliê kart.}
 {210}{}{Nie wiem o czym mówisz. Nie mam ¿adnych kart.}
 {211}{}{Nie k³am. Schowa³eœ je do kieszeni. Chcê tylko wiedzieæ dlaczego.}
 {212}{}{Dobra, niech ci bêdzie. Do zobaczenia.}
@@ -15,8 +15,8 @@
 {224}{}{Ta gra mnie kiedyœ uzale¿ni³a. Teraz staram siê trzymaæ od niej z daleka.}
 {225}{}{¯aden.}
 {226}{}{Oczywiœcie, ¿e nie. Czy wygl¹dam ci na ¿a³osnego miêczaka?}
-{230}{}{Hej, pieprz siê dupku. Po prostu daj mi spokój, dobra?}
-{231}{}{Hej, pieprz siê dziwko. Po prostu daj mi spokój, dobra?}
+{230}{}{Hej, pieprz siê dupku. Po prostu daj mi spokój.}
+{231}{}{Hej, pieprz siê dziwko. Po prostu daj mi spokój.}
 {232}{}{Chêtnie, ale opanowa³a mnie rz¹dza zrobienia ci fizycznej krzywdy.}
 {233}{}{Dobra, w porz¹dku. Czeœæ.}
 {234}{}{Przepraszam. To by³o nie uprzejme, z mojej stron. Po prostu nie przepadam za Tragic-iem.}

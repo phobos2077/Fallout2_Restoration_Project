@@ -103,15 +103,17 @@
 {203}{}{Drzwi zdaj¹ siê byæ zamkniête.}
 {204}{}{Dostrzegasz pu³apkê w zepsutym zamku.}
 {205}{}{ dostrzega pu³apkê w zepsutym zamku.}
-{206}{}{Nie mo¿esz umieœciæ pu³apki na tych drzwiach. S¹ otwarte!}
-{207}{}{ nie mo¿e umieœciæ pu³apki na tych drzwiach. S¹ otwarte!}
+{206}{}{Nie mo¿esz umieœciæ pu³apki na tych drzwiach, poniewa¿
+ s¹ otwarte.}
+{207}{}{ nie mo¿e umieœciæ pu³apki na tych drzwiach, poniewa¿
+ s¹ otwarte.}
 {208}{}{Sprawnie umieszczasz pu³apkê na drzwiach.}
 {209}{}{Nie udaje ci siê poprawnie za³o¿yæ pu³apki na drzwi.}
 {210}{}{ sprawnie umieszcza pu³apkê na drzwiach.}
 {211}{}{ nie jest w stanie poprawnie za³o¿yæ pu³apki na drzwi.}
 {300}{}{Otwierasz drzwi.}
 {301}{}{Zamykasz drzwi.}
-{302}{}{Nie mo¿esz zamkn¹æ na klucz otwartych drzwi!}
+{302}{}{ Nie mo¿esz zakluczyæ otwartych drzwi.}
 {303}{}{Ten klucz nie pasuje do zamka.}
 {320}{}{Nie mo¿na zamkn¹æ tych drzwi na klucz.}
 {330}{}{Te drzwi siê zaciê³y. Nie mo¿na ich zamkn¹æ.}

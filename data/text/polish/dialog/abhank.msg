@@ -26,7 +26,7 @@
 {251}{}{Tylko siê rozgl¹dam. Trzymaj siê.}
 {252}{}{Pewnie. 20$ za butelkê.}
 {253}{}{[Zachowaj.]}
-{300}{}{Gdzie ja po³o¿y³em moj¹ zapalniczkê.}
+{300}{}{Gdzie ja po³o¿y³em moj¹ zapalniczkê?}
 {301}{}{Potrzebujê zapalniczki.}
 {302}{}{CZY KTOŒ MÓG£BY MI PRZYNIEŒÆ ZAPALNICZKÊ!?}
 {303}{}{Eh, Witaj.}
