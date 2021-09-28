@@ -22,7 +22,7 @@
 {119}{}{Eu vou agora.}
 {120}{}{Who is this shrine dedicated to?}
 {121}{}{How long have you been here?}
-{122}{}{What can you tell me about the deathclaws?}
+{122}{}{O que você pode me contar sobre os deathclaws?}
 {123}{}{Why do you stay here?}
 {124}{}{Thanks, Gordon. Good-bye.}
 {125}{}{This shrine is dedicated to an unnamed hero known only as the Vault Dweller. He, or she, was the

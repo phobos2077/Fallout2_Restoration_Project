@@ -46,7 +46,7 @@
  shit anymore.}
 {136}{}{I ain't never felt so washed up and raggedy in all my born days.}
 {137}{}{Dick, what do you do here?}
-{138}{}{Hey Dick... what's going on in town lately?}
+{138}{}{Ei Dick... o que está acontecendo na cidade ultimamente?}
 {139}{}{Hear any interesting rumors?}
 {140}{}{What's At-the-basket mean?}
 {141}{}{Qual é o problema com você?}

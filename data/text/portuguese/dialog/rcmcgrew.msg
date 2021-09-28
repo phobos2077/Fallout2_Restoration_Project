@@ -115,7 +115,7 @@
 {184}{}{The search continues. Goodbye.}
 {185}{}{It is when it isn't short for Louisa, like my Lou's is. She runs the Malamute Saloon here in
  town. Hey, just what are you getting at, anyway?}
-{186}{}{Uh... nothing, Dan. Nothing. Let me ask you about something else.}
+{186}{}{Uh... nada, Dan. Nada. Deixe eu te perguntar outra coisa.}
 {187}{}{Nothing. Just figuring out something, that's all. Goodbye, sweet-pea.}
 {188}{}{My mistake. Well, I better be rambling along. Goodbye.}
 {189}{}{Well, one thing's for sure: I could sure use a new Control Chip for my Excavator machine.}
@@ -200,7 +200,7 @@
 {248}{}{Everyone wants what Redding's got. Some folks are going to be nicer about how they get it out
  of us, though. Let me explain the situation.}
 {249}{}{Vá em frente.}
-{250}{}{I've heard enough of your explanation already. Goodbye.}
+{250}{}{Já ouvi o suficiente de sua explicação. Adeus.}
 {251}{}{I'll pay you $1,000 for that Excavator Chip.}
 {252}{}{That sounds good to me. Where do I find it?}
 {253}{}{Sounds good to me. Here's your chip.}

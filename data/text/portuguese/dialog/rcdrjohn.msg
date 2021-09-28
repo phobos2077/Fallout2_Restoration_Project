@@ -247,7 +247,7 @@
 {292}{}{The Phoenix Armor Implant.}
 {293}{}{The Assault Enhancement for the Dermal Impact Armor.}
 {294}{}{The Assault Enhancement for the Phoenix Armor Implants.}
-{295}{}{Doc, I think I'd rather ask you about something less... uh, invasive.}
+{295}{}{Doutor, acho que prefiro perguntar sobre algo menos... uh, ofensivo.}
 {296}{}{I guess I don't want to hear about an operation right now. Goodbye.}
 {297}{}{According to what I've read, Dermal Impact Armor gives you 5% resistance to normal and explosive
  damage - over and above any other armor you're wearing. The operation takes about two days, one suit of

@@ -33,7 +33,7 @@
 {128}{}{Eu vou agora.}
 {129}{}{Are you a prisoner here?}
 {130}{}{Você pode sair daqui se você deseja?}
-{131}{}{What can you tell me about the deathclaws?}
+{131}{}{O que você pode me contar sobre os deathclaws?}
 {132}{}{Como você chegou a estar aqui, em primeiro lugar?}
 {133}{}{Obrigado pela informação. Eu vou estar indo agora.}
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that

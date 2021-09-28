@@ -52,7 +52,7 @@
 {142}{}{Whatcha pestering me with now?}
 {143}{}{Who's Doc Johnson?}
 {144}{}{You need some help, Sheriff?}
-{145}{}{While the cat's away...}
+{145}{}{Enquanto o gato está fora...}
 {146}{}{Well, I won't keep you any longer. You must need your rest. Goodbye.}
 {147}{}{Good ole Painless Doc Johnson's our town doc. You have a toothache or a broken bone, he'll set
  you to right. He also sells medicine. All kinds of medicine, if you get my drift. For *whatever* ails

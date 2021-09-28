@@ -58,7 +58,7 @@
 {150}{}{That's ridiculous. Where'd you hear that?}
 {151}{}{I dunno 'xactly. But it's a fact sure as fiddlin'. Why else would you all file your teeth into
  points? Huh? Answer me that!}
-{152}{}{I don't file my teeth into... Oh, never mind. Let me ask you about something else.}
+{152}{}{Eu não lixei meus dentes em... Oh, esquece. Deixe-me perguntar sobre outra coisa.}
 {153}{}{Thankee kindly. Anything else for you?}
 {154}{}{Actually, there was something else.}
 {155}{}{Nope, that'll do it for now. Thanks, Josh.}

@@ -30,10 +30,10 @@
 {123}{}{O que faz aqui?}
 {124}{}{Are you a prisoner here?}
 {125}{}{How long have you been here?}
-{126}{}{What can you tell me about the deathclaws here?}
+{126}{}{O que você pode me dizer sobre os deathclaws que estão por aqui?}
 {127}{}{Do you know what happened to the people who used to live here in the vault?}
 {128}{}{What can you tell me about Gruthar?}
-{129}{}{Do you think the deathclaws are a threat to humans?}
+{129}{}{Você acha que os deathclaws são uma ameaça aos humanos?}
 {130}{}{Do you have any information on this Enclave you spoke of?}
 {131}{}{What do you know about this virus?}
 {132}{}{You mentioned you wanted to do some traveling. How about joining me?}
@@ -75,7 +75,7 @@
  weighed heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the
  affair. The humans were taken alive, but who knows what has happened to them since.}
 {153}{}{Hmm... I need to ask some more questions.}
-{154}{}{I knew the damn deathclaws were responsible somehow! I need some more information, though.}
+{154}{}{Eu sabia que essas pragas de deathclaws tinha alguma coisa a ver. Eu preciso de mais informação.}
 {155}{}{Sometimes we're forced into doing distasteful things by situations outside of our control.
  Gruthar should learn to forgive himself.}
 {156}{}{Gruthar is not the monster that he appears to be. He genuinely cares about all of us here, and
@@ -164,11 +164,11 @@
  to see what it would do to deathclaws. Well, the result was a breed of deathclaws so smart that they
  could see they were destined for slavery. So, they played dumb until they could gain their freedom.
  And here they are!}
-{218}{}{I am against attacking any deathclaw.}
+{218}{}{Sou contra atacar qualquer deathclaw.}
 {219}{}{I suddenly sense that my pack is in trouble. I am sorry to leave you, but I must check on my brothers.}
 {220}{}{Tudo bem.}
 {221}{}{The security cameras recorded what has happened. You should go check it.}
-{222}{}{You see a gray deathclaw. It's Goris.}
+{222}{}{Você vê um deathclaw cinza. É Goris.}
 {223}{}{You see a humanoid figure wearing a long sleeved, hooded robe. It's Goris.}
 {1000}{}{Yes,}
 {1001}{}{Você se cura.}

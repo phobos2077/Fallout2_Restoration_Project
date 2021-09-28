@@ -22,7 +22,7 @@
 {119}{}{Thanks. Me go.}
 {120}{}{Are you a prisoner here?}
 {121}{}{Can you leave anytime you want?}
-{122}{}{What can you tell me about the deathclaws?}
+{122}{}{O que você pode me contar sobre os deathclaws?}
 {123}{}{How did you come to be here?}
 {124}{}{Why are you worried about needing a place of safety?}
 {125}{}{Thanks. I'll talk at you later.}

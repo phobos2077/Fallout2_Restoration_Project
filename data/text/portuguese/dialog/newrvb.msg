@@ -17,7 +17,7 @@
 {207}{}{*Zztttt* The laser weapons are in our cargo bay. *Zzzttt**}
 {208}{}{*Zztttt* To ensure your cooperation, we will transmit the arming sequence for them
  once the chemicals are loaded. *Zzzttt*}
-{209}{}{Uh... well... all right then. Load her up, boys --}
+{209}{}{Uh... bem... tudo bem então. Carreguem ela, garotos --}
 {210}{}{*Zztttt* No. *Zzzttt*}
 {211}{}{*Zztttt* We will load the cargo. *Zzzttt*}
 {212}{}{Uh, right... right. Of course. Give them room, boys.}

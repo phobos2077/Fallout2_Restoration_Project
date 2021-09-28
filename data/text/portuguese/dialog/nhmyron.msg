@@ -9,7 +9,7 @@
 {210}{}{Get off your asses and get in here, guys! We got an intruder!}
 {215}{}{O que diabos você quer?}
 {216}{}{If you're here for Jet, don't waste my time, just get out.}
-{217}{}{Thought I smelled something...}
+{217}{}{Pensei ter cheirado alguma coisa...}
 {225}{}{Hell-oooo, beautiful.}
 {226}{}{Come over here and talk to me a minute. I don't bite.}
 {227}{}{Don't tease. Come on over.}
@@ -45,7 +45,7 @@
 {390}{}{Give me a goddamn stimpack before I pass out!}
 {391}{}{Give me a damn stimpack! I'm going into shock!}
 {392}{}{Somebody give me some first aid, fast! I'm dying here!}
-{400}{}{Whoa... I'm feeling a little weak...}
+{400}{}{Nossa... estou me sentindo um meio fraco...}
 {401}{}{Let's see... I'm nauseous... palpitations... fever. Most likely poison.}
 {402}{}{Uh... can't... last... much... longer... poison... spreading...}
 {403}{}{Could someone please suck this poison out?}
@@ -148,7 +148,7 @@
 {596}{}{So... who is this hot oriental looking chick?}
 {597}{}{Kitsune's kinda cute. Can I... well, you know... how about it?}
 {598}{}{This oriental chick suuuure is a looker.}
-{599}{}{So... you and Kitsune. Are you two going out or something?}
+{599}{}{Então... você e Kitsune. Vocês dois estão saindo ou algo assim?}
 {600}{}{Ready to go?}
 {605}{}{Why the hell are we HERE?}
 {606}{}{Everybody in this town needs an enema.}
@@ -166,7 +166,7 @@
 {623}{}{Put a little distance between us, Myron.}
 {624}{}{Spread out a bit, Myron. It's best for both of us.}
 {625}{}{Eu tenho algumas perguntas…}
-{626}{}{Not now, Myron. I had some questions...}
+{626}{}{Agora não, Myron. Eu tenho algumas perguntas...}
 {627}{}{All right, then. Hurry up and let's go.}
 {628}{}{No, you keep waiting here. I'll be back. I promise.}
 {629}{}{I'll let you get back to doing nothing then.}
@@ -198,7 +198,7 @@
 {683}{}{I can see where this is going. Nevermind, Myron.}
 {690}{myn109}{Ah, Christ. Well... when I came across the Mordino family way back when, they were farming peyote cacti and trying to sell it to tourists as the 'Reno experience.' Total bullshit.}
 {691}{}{Continue.}
-{692}{}{Forget this. I had some other questions...}
+{692}{}{Esqueça. Eu tenho algumas perguntas...}
 {693}{}{Forget I mentioned it.}
 {700}{myn110}{I mean, peyote? C'mon. It isn't even half the strength of, say, old school LSD.}
 {701}{}{Uh, about the Jet --?}
@@ -262,11 +262,11 @@
 {882}{}{Myron, you are lower than a snake's shadow. Killing humans for drug testing... that's the coldest thing I've ever heard.}
 {883}{}{Myron, you killed over a hundred humans beings for the sake of drug testing? Did you get your conscience lobotomized when you were a kid?}
 {884}{}{Tell me about it. Slave prices keep going up. If humans only bred faster. Anyway, I had some other questions...}
-{885}{}{I... see. Look, I had some other questions...}
+{885}{}{Eu... entendi. Olhe, eu tenho outras perguntas...}
 {886}{}{I think I've heard enough.}
 {887}{}{Oh, well, THAT makes it all right, then. I've heard enough. I'm out of here.}
 {890}{myn128}{You getting bent at me over a bunch of slaves? Hey, we had to make sure Jet wouldn't kill our customers.}
-{891}{}{You have a point, Myron. I had some other questions...}
+{891}{}{Tem razão, Myron. Eu tenho outras perguntas...}
 {893}{}{Oh, well, THAT makes it all right, then. Congratulations, Myron. You have hit the lowest common denominator possible for a human being. I'm out of here.}
 {894}{}{Sounds sensible. Maybe we'll talk later.}
 {900}{myn129a}{How quaint. A cure. Sure. You go cold turkey. Course, I made sure that was a reeeal difficult option with Jet.}
@@ -315,15 +315,15 @@
 {1035}{myn143a}{"Can I make drugs?" I'm Myron. Whaddya need?}
 {1036}{myn143b}{Hey, can't get enough, huh? Whaddya need?}
 {1037}{}{An antidote for radscorpion venom.}
-{1038}{}{Some Jet.}
+{1038}{}{Algum jet.}
 {1039}{}{Some stimpacks.}
 {1040}{}{Can you make super stimpacks?}
-{1041}{}{Nothing. I had some other questions...}
+{1041}{}{Nada não. Eu tenho outras perguntas...}
 {1042}{}{Deixa pra lá.}
 {1050}{myn145a}{Uhm, I'm gonna need some radscorpion venom sacs first. Ironic, in'it?}
 {1051}{myn145b}{Oh, well, I'd looove to, beautiful, but I need radscorpion tails. Oh, well.}
 {1052}{}{Can you make any other drugs?}
-{1053}{}{Forget it then. I had some questions...}
+{1053}{}{Esqueça então. Eu tenho algumas perguntas...}
 {1060}{myn146a}{Hmmm, Shouldn't be too hard. How many bottles of antidote you want?}
 {1061}{myn146b}{Ah, for cryin' out loud. Ever think it might be easier to just stay away from the friggin' scorpions in the first place, genius? How many you want this time?!}
 {1062}{myn146c}{Anything for you, beautiful. He-ha! How many you want?}
@@ -331,14 +331,14 @@
 {1065}{}{Three's a charm.}
 {1066}{}{Make antidote out of all the tails that we have. They aren't good for much else.}
 {1067}{}{Forget it. Can you make any other drugs?}
-{1068}{}{None; I've changed my mind. I had some questions...}
+{1068}{}{Nada; eu mudei de ideia. Eu tenho algumas perguntas...}
 {1081}{myn147a}{Done. Here you go.}
 {1082}{myn147b}{There. That's it. No more of that shit, all right? Next time, go find some backwater medicine man to do it.}
 {1083}{myn147c}{Done. Here you go, beautiful.}
-{1085}{}{Thanks. Look, I had some questions...}
+{1085}{}{Obrigado. Olha, eu tenho algumas perguntas...}
 {1086}{}{Thanks, Myron. You're a real sport.}
 {1095}{myn148}{Sorry, ain't got the "raw materials" I need... don't really wanna get 'em, either.}
-{1097}{}{Forget it then. I had some other questions...}
+{1097}{}{Esqueça então. Eu tenho algumas perguntas...}
 {1098}{}{All right. Thanks a bunch, Myron.}
 {1105}{myn149a}{Piece of cake. How many packs you want?}
 {1106}{myn149b}{Hey, genius. Ever cross your mind that it might be easier just to stay outta trouble, huh? OK, how many?}
@@ -424,7 +424,7 @@
 {1365}{myn217}{All right, all right. Here you go. Now will you leave me alone?}
 {1366}{}{No. Who are you?}
 {1367}{}{No. You Myron?}
-{1368}{}{Sure. For now... I may be back, though.}
+{1368}{}{Claro. Por hora... Mas eu voltarei.}
 {1375}{myn218a}{M-maybe. W-who the hell are you?}
 {1376}{myn218b}{Say, you one of Mordino's new whores or just a big fan of Myron? Ooh, you got a name to go with those legs, beautiful?}
 {1377}{myn218c}{Who the hell are you?}
@@ -490,14 +490,14 @@
 {1531}{}{Then come with me.}
 {1532}{}{Hold on a minute. I haven't said yes yet. What can you do, Myron? I can't just have anyone traveling with me. I got standards.}
 {1533}{}{First off, what are you good at, Myron?}
-{1534}{}{Nowhere yet. Say, I had some more questions...}
+{1534}{}{Em lugar nenhum ainda. Eu tenho mais algumas perguntas...}
 {1535}{}{Nowhere yet, Myron. I'll be back for you, though.}
 {1545}{myn230a}{Naw, you look full up. Whydoncha ditch the tribal. Looks like he takes being a bone-head too seriously.}
 {1546}{myn230b}{Naw, you look full up. And Myron doesn't hang with mutant trash. Ah-heh, no offense, big guy.}
 {1547}{myn230c}{Uh, naw, you look full up. And uh, Myron doesn't hang with ghouls. Never know when they're gunna drop a body part on your shoe.}
 {1548}{myn230d}{Naw, I don't want to hang out with another family. The Mordinos were enough. Lose some baggage, and then come talk to me.}
 {1549}{myn230e}{Yeah, right. Flies wouldn't follow you if you were covered in shit. Huh, forget it.}
-{1550}{}{All right then. Well, I have some other questions...}
+{1550}{}{Certo então. Bem, eu tenho algumas perguntas...}
 {1551}{}{Pretty enlightened attitude. I'll think about it, Myron.}
 {1552}{}{No, he's worth at least two of you. Later, kid.}
 {1553}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
@@ -537,20 +537,20 @@
 {1645}{myn238}{Two words: brahmin shit.}
 {1646}{}{That what you use to grow the hallucinogen in?}
 {1647}{}{You use brahmin shit as fertilizer to grow the Jet crop, right? What about it?}
-{1648}{}{Don't want to tell me? Fine. Then I have some other questions...}
+{1648}{}{Não quer me contar? Beleza. Então eu tenho algumas perguntas...}
 {1649}{}{All right then. I can see where this is going. Nevermind.}
 {1655}{myn239a}{Very good. And that's all yer ever gonna learn, pal. You wanna know, you figure it out.}
 {1656}{myn239b}{Very good. And that's all yer ever gonna learn, lady. You wanna know, you figure it out.}
 {1657}{myn239c}{Very good, beautiful. But that's all yer ever gonna learn, so don't trouble your pretty little head about it. Enough talk: why don't you and me, uh, hehh...}
 {1658}{}{So the brahmin shit has some chemical properties that stimulate the human nervous system?}
-{1659}{}{I just might. I had some other questions...}
-{1660}{}{-- talk some more? Excellent! I had some questions...}
+{1659}{}{Talvez. Eu tenho algumas perguntas...}
+{1660}{}{-- Falar mais? Excelente! Eu tenho outras perguntas...}
 {1661}{}{Fine. I have to be going.}
 {1662}{}{Uh, why don't you and me talk later? Good idea. See you.}
 {1675}{myn240}{You sure do ask a lot of goddamn questions. The answer is yeah, maybe... say, wh-where did you learn all this stuff anyway? You from Vault City or something?}
 {1676}{}{To answer your question, yeah... MAYBE. Where did YOU learn all this stuff?}
 {1677}{}{Not exactly. I just pick this stuff up. It's pretty easy, really.}
-{1678}{}{No. Look, I had some other questions...}
+{1678}{}{Não. Olha, eu tenho algumas perguntas...}
 {1679}{}{Vault City. Where's that?}
 {1680}{}{I'll let you wonder. You already told me everything I need to know.}
 {1685}{myn241a}{Yeah, keep mouthing off, smartass. I could oxidize circles around you. I'm a natural. Self-taught. None of that bullshit Vault City 'purer-than-thou' 'tude, see?}
@@ -571,8 +571,8 @@
 {1728}{}{First off, what skills do you have Myron?}
 {1729}{}{No, not exactly. I had some questions...}
 {1730}{}{Not at the moment. Why don't you just cool your heels for a while?}
-{1735}{}{You're kind of weird... I like that.}
-{1736}{}{You're kind of weird... I like that.}
+{1735}{}{Você é meio estranho... gostei.}
+{1736}{}{Você é meio estranho... gostei.}
 {1745}{myrn104a}{Stop mothering me.}
 {1746}{myn104b}{Owww! Hurts! It hur - oh, it. No. No, I'm pretty much okay. Stings a little.}
 {1747}{myn104c}{I'm dying over here! Gi-give me a stimpack. Or two. Or three.}

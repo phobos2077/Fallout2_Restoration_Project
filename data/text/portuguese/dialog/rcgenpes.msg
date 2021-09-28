@@ -46,7 +46,7 @@
 {145}{}{Você é demais.}
 {146}{}{Tribais são pessoas também.}
 {147}{}{Nada como a amizade, não é?}
-{148}{}{I think I'd like to sing...}
+{148}{}{Eu gostaria de cantar...}
 {149}{}{Eu retiro tudo o que disse sobre você antes.}
 {150}{}{Que pessoa legal.}
 {151}{}{Tribais também são nosso tipo de pessoa.}

@@ -5,7 +5,7 @@
 {104}{}{We're doomed.}
 {105}{}{Without the computer online the reactor will meltdown!}
 {106}{}{I can't even swim.}
-{107}{}{Maybe I can fix it...}
+{107}{}{Talvez eu possa consertá-lo...}
 {108}{}{What's the alarm ringing about?}
 {109}{}{What's going on here?}
 {110}{}{Don't panic, anyone. DON'T PANIC!!!!!!!!!!!!}

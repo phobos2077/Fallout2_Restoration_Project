@@ -34,7 +34,7 @@
 {133}{}{Eu me sinto mal.}
 {134}{}{Eu estou ficando fraco pra continuar aqui.}
 {135}{}{Ohhhh nãooooooo.}
-{136}{}{I can see the light... I'm coming mother.}
+{136}{}{Eu posso ver a luz... Estou chegando, mãe.}
 {137}{}{Eu não vejo ninguém.}
 {138}{}{Deve ser mais uma simulação.}
 {139}{}{Esses soldados não se cansam nunca desses exercícios?}

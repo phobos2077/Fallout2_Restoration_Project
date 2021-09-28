@@ -5,7 +5,7 @@
 {104}{}{Oooh. Furry.}
 {105}{}{Pretty fur.}
 {106}{}{Ah, I see. You must be new in town. Well, I tell you what. I'll make a special bet for you during tomorrow's fights. Would you like me to do that for you?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse)}
+{107}{}{(Você concorda) Ook, ook. (e segure sua bolsa)}
 {108}{}{Mook? Gaga. Bye furry.}
 {109}{}{Good idea. You come back here tomorrow and if your critter won in the fights, I'll give you your money. Okay?}
 {110}{}{OK, good move. I'll make sure you get a real special bet with that. See you later.}
@@ -111,7 +111,7 @@
 {210}{}{What a gore-fest! I can't remember ever seeing a fight like that. The winner is }
 {211}{}{. Let me pay everyone off and we'll start the next round.}
 {212}{}{ wins this round hands, err, claws down! Let me pay everyone off and we'll start the next round.}
-{213}{}{And the Weener is...}
+{213}{}{E o ganhador é...}
 {214}{}{ by a blood-soaked claw. Let me pay everyone off and we'll start the next round.}
 {215}{}{I just wanted to say that Ascorti's is going to be running a special on, uh, *steaks* tonight. It'll be just a moment while we drag the loser from the field. }
 {216}{}{ wins this fight! Let me pay everyone off and we'll start the next round.}

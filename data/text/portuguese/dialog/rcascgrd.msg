@@ -40,7 +40,7 @@
 {139}{}{Gotta pay to play, pal.}
 {140}{}{Told you to knock it off. Too bad you didn't listen.}
 {141}{}{Now we've gotta come down hard on you.}
-{142}{}{This is really going to hurt... you.}
+{142}{}{Isso vai ser bem doloroso... para você.}
 {143}{}{Better put up that gat, pal.}
 {144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Better put that piece away.}

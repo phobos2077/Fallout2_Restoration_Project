@@ -4,7 +4,7 @@
 {103}{}{The NCR doesn't take kindly to quitters. Get out of here.}
 {104}{}{You know what I think about your kind. Just get out of my sight.}
 {105}{}{Hee-yah! Head 'em out.}
-{106}{}{Okay, let's go.}
+{106}{}{Ok, bora lá.}
 {107}{}{I'm Stanwell. I run the caravan between Redding and the New California Republic. Brahmin for
  gold. We could use an extra guard, and we're ready to leave right now. }
 {108}{}{People call me Stanwell. I run the caravan between Redding and the New California Republic.

@@ -1,4 +1,4 @@
-{100}{}{You see a short man with Jet-black hair and a nice smile.}
+{100}{}{Você vê um homem baixo com cabelo preto e um belo sorriso.}
 {101}{}{You see Ascorti, Redding's Mayor.}
 {102}{}{You see a well-dressed man with a greasy look to him.}
 {103}{}{Keep on movin', pal.}

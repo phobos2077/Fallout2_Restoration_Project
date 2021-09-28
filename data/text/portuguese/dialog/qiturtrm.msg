@@ -62,7 +62,7 @@
 {162}{}{Return to User ID:}
 {163}{}{Select: Security Status?}
 {164}{}{Security Status}
-{165}{}{End Access.}
+{165}{}{Final de acesso.}
 {166}{}{Download failed - Security Status file missing.}
 {167}{}{State of the Nation: Current Status}
 {168}{}{Download Word List.}

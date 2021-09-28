@@ -128,7 +128,7 @@
  available. Hmm, why don't you try Fannie Mae? She oughta be around here somewheres. You can make the
  arrangements with her yourself.}
 {204}{}{Sounds like a good idea. I'll go do that. Goodbye.}
-{205}{}{But I didn't... okay. Goodbye.}
+{205}{}{Mas eu não ... ok. Adeus.}
 {206}{}{You and Fannie already worked things out. Why don't you go see her. She's right in back
  someplace.}
 {207}{}{Listen. You're a jinx here. After what happened to Fannie Mae, none of my other girls has much
@@ -136,10 +136,10 @@
 {208}{}{We've only got gals working here, hun. If that's alright by you, a buck's a buck. You might try
  talking to Fannie Mae. She's in back someplace here. You can make the arrangements with her.}
 {209}{}{Sounds like a good idea. I'll go do that. Goodbye.}
-{210}{}{But I didn't... okay. Goodbye.}
+{210}{}{Mas eu não ... ok. Adeus.}
 {211}{}{I can't believe that you were dumb enough to give Fannie enough money all at once to overdose
  herself. You're just an idjit, ain't ya?}
-{212}{}{I didn't know. Honest. Come on, Lou... I need to ask you about something.}
+{212}{}{Eu não sei, honestamente. Venha, Lou... Eu preciso te perguntar algo.}
 {213}{}{What she did with her life was her own business. Goodbye.}
 {214}{}{I gave her the only release from this shitty existence that she could take. You're no saint
  yourself, Lou. Goodbye.}

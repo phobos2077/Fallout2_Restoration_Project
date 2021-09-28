@@ -1,5 +1,5 @@
-{100}{}{You see a large deathclaw. The creature is composed of rippling muscle, sharp teeth, and claws.}
-{101}{}{You see Gruthar, leader of the deathclaws.}
+{100}{}{Você um deathclaw enorme. O bicho tem músculos enormes, dentes afiados, e garras.}
+{101}{}{Você vê Gruthar, líder dos deathclaws.}
 {102}{}{You see the most impressive deathclaw you could imagine. The creature must be unique among its
  kind.}
 {103}{}{Do not fear me, human. I do not intend to harm you. I am Gruthar, leader of this deathclaw pack.
@@ -73,7 +73,7 @@
 {148}{}{Hmm... sounds like the voice recognition module has gone bad on you. Let's go take a look.}
 {149}{}{I've changed my mind. I'll have to think about this some more.}
 {150}{}{I will do what I can for you.}
-{151}{}{I refuse to help deathclaws.}
+{151}{}{Eu me recuso a ajudar os deathclaws.}
 {152}{}{Thank you. The machine is in the vault control center on the third level. If you can repair it,
  please do so. I am placing my trust in you. Please do not betray it. You are welcome here.}
 {153}{}{I won't let you down, Gruthar. You have my word on that.}
