@@ -3,7 +3,7 @@
 {102}{}{It could be a human. It might be a mutant. All you can tell for sure is that it smells really, really bad.}
 {103}{}{Junk for sale, junk for sale. Look it over, make me an offer.}
 {104}{}{Com certeza, qualquer que seja.}
-{105}{}{Uh... huh.}
+{105}{}{Uh... huh...}
 {106}{}{So what's for sale?}
 {107}{}{You look like you're good with your hands. You do have hands, don't you?}
 {108}{}{I got $5. You got any good gossip?}

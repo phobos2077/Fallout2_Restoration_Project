@@ -5,7 +5,7 @@
 {104}{}{I am the car hop, man. I watch cars - $5. Nobody touches them, cause Doofus's on the job.}
 {105}{}{Right, sure man.}
 {106}{}{So man, you want my protection?}
-{107}{}{Good. Do.}
+{107}{}{Boa. Fazer.}
 {108}{}{No. You no touch.}
 {109}{}{I am not a man!}
 {110}{}{What place is this?}
@@ -66,7 +66,7 @@
 {165}{}{That's right, man. Go see Merk. He's always got things that need doing.}
 {166}{}{Go bye-bye!}
 {167}{}{Oh man, you blew it! Merk's not going to be happy when he hears this.}
-{168}{}{Goodbye, dope-head.}
+{168}{}{Tchau seu nóia. }
 {169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
 {170}{}{You lie, me kill.}
 {171}{}{Don't be lying. I'll be back if you are.}

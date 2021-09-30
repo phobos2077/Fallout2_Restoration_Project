@@ -259,7 +259,7 @@
 {348}{}{Na verdade, eu tenho ótimas peles de Golden Gecko comigo. }
 {349}{}{Estou vendendo minério de ouro.}
 {350}{}{Estou vendendo minério de urânio.}
-{351}{}{I don't have any of those things... yet. Maybe I'll be back.}
+{351}{}{Eu não tenho nenhuma dessas coisas aí... ainda. Talvez eu volte.}
 {352}{}{Na verdade, eu me enganei. Desculpe por incomodar.}
 {353}{}{Hmmmm. Bem, vamos ver o que você tem. Assim que eu inspecionar o seu estoque, processo os papéis para o seu Day Pass. }
 {354}{}{Certo. Ham, tudo o que tenho é uma amostra do me estoque aqui. O resto está... ham, em minha caravana. Fora da cidade. }

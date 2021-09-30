@@ -31,7 +31,7 @@
 {130}{}{Look, take these and get out of here, okay? They ought to keep your mouth busy for a while.}
 {131}{}{Thankie wankie my stankie}
 {132}{}{Desliga}
-{133}{}{Uh... what can I do for you, Captain?}
+{133}{}{Uh... o que posso fazer por você, capitão?}
 {134}{}{What can I do for you, Citizen?}
 {135}{}{Yes? Can I help you?}
 {136}{}{You? Yoo? Yew? Yewwwww. E-yewwww is sound otherz make when see me}
@@ -153,7 +153,7 @@
 {252}{}{I wouldn't know anything about that. I only serve synthetic alcohol here. If any real alcohol were to enter Vault City, I wouldn't know anything about it.}
 {253}{}{Never mind then. I was looking for some information...}
 {254}{}{I see. Thanks anyway.}
-{255}{}{I... see. Well, uh, take care now. Okay?}
+{255}{}{Eu... vejo. Bem, uh, tome cuidado agora. OK?}
 {256}{}{Thankie wankie my stankie}
 {257}{}{Desliga}
 {258}{}{Zzzzzzzz.}

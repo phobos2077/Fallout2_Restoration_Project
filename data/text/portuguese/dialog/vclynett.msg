@@ -96,7 +96,7 @@
  animals! Now leave. Or I shall have you forcibly removed.}
 {183}{}{No! I'm not leaving until I get some answers!}
 {184}{}{"Forcibly removed?" TRY it. I'll like it.}
-{185}{}{I'll go quietly... this time.}
+{185}{}{Eu irei em silêncio... desta vez.}
 {186}{}{I'm leaving, I'm leaving.}
 {187}{lyn015a}{"Overseer?" Why, no. There has been no Overseer in a hundred years. How do you know of
  the Vault Overseers?}
@@ -182,7 +182,7 @@
 {259}{}{Where is the Overseer? I need to speak with him.}
 {260}{}{It isn't right you don't share. It's your responsibility to help everyone... not just those
  that live in these walls.}
-{261}{}{I... see. Thanks for your time. Good day.}
+{261}{}{Eu... vejo. Obrigado por enquanto. Bom dia.}
 {262}{lyn029}{You Outsiders are fine ones to lecture about "responsibility." You beg incessantly for
  help, yet do nothing to better yourselves. Our talk is over... leave now, before I summon the guards.}
 {263}{}{You better summon the guards now, because you're not going to have another chance.}
@@ -381,7 +381,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {428}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
 {429}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
 {430}{lyn059}{Do not toy with me, "Citizen," or I will make sure you never walk Vault City's streets again. Now leave.}
-{431}{}{No problem... I'll just be going now. Goodbye.}
+{431}{}{Sem problemas... Já estou indo. Adeus.}
 {432}{}{Good day, First Citizen.}
 {433}{lyn060}{Do you take me for a FOOL? If anyone would know these were fakes, it would be me! Who
  gave you these papers?! If you tell me, I will allow you to keep your Day Pass.}
@@ -510,7 +510,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {544}{lyn084b}{You had best watch what you say, Outsider.}
 {545}{lyn084c}{If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk
  the streets of Vault City again. Understood?}
-{546}{}{Uh... sure. Sorry. I had some other questions...}
+{546}{}{Uh... claro. Desculpa. Eu tenho algumas perguntas...}
 {547}{}{Crystal clear. I'll just be going now.}
 {548}{}{My apologies, First Citizen. Good day.}
 {549}{lyn085}{Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto-Doc
@@ -528,7 +528,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {560}{}{Why do you say he's a troublemaker?}
 {561}{}{Posso te fazer outra pergunta?}
 {562}{}{I spoke with him... and a lot of what he says makes sense.}
-{563}{}{I agree. Do you want me to... take care of him?}
+{563}{}{Concordo. Você quer que eu... cuide dele?}
 {564}{}{You should revoke his Citizenship, then.}
 {565}{}{I see. I'll be sure to stay clear of him then. Good day.}
 {566}{lyn088}{He constantly seeks to convince the Citizens to turn Vault City into a..."democracy,"

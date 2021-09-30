@@ -31,7 +31,7 @@
 {130}{}{Uh, yeah, I just recently got my Citizenship.}
 {131}{}{Sorry, I thought you were someone else. Good day.}
 {132}{}{Oh my, you are hurt, aren't you? I'm sorry, I should have been paying more attention. Go see Dr. Troy. He'll take care of you.}
-{133}{}{Uh... kay? Yup-yup.}
+{133}{}{Uh... ok? Sim, sim.}
 {134}{}{Could I ask you some questions first?}
 {135}{}{Thanks. I'll go see him now.}
 {136}{}{Oh! You must be one of the Servants assigned here for the day. You should... uh, hmmm. YOU - GO - MARTIN.}

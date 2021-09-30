@@ -15,6 +15,6 @@
  você… insultar você… esse deve ser eu… então o encaminhe para o Diretor
  Chefe de Boas Vindas. Oh… eu tenho que te encaminhar para a Melinda, a Diretora
  Chefe de Boas Vindas.}
-{112}{}{I'll go talk to her, then.}
+{112}{}{Vou falar com ela então.}
 {113}{}{Bem vindo ao Escritório de Boas Vindas. Eu sou Steve.}
 {114}{}{Desculpe, tenho que ler essa coisa.}

@@ -132,7 +132,7 @@
 {2261}{}{. Let me know if I can help you with anything.}
 {2262}{}{?}
 {2263}{}{.}
-{2321}{}{. Place your bets...}
+{2321}{}{. faça suas apostas...}
 {2327}{}{.] }
 {2328}{}{.}
 {2344}{}{ could always use new inventory item [Leave.]}

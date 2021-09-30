@@ -13,7 +13,7 @@
 {112}{}{O que é este edifício?}
 {113}{}{Estou a procura da Vault.}
 {114}{}{Estou procurando por um servo em particular...Joshua, acredito que ele está aqui?}
-{115}{}{You looking to buy any slaves... er, servants?}
+{115}{}{Quer comprar escravos... er, servos?}
 {116}{}{Nada por hoje, valeu.}
 {117}{}{Este? Porque? Este é o Centro de Designação de Servos. Você está precisando de um servo?}
 {118}{}{Este é o Centro de Designação de Servos.}

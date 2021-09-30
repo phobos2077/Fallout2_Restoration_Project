@@ -37,7 +37,7 @@
  asked.}
 {129}{}{Sorry. Thought I had the cash. Not being able to see your money in the
  dialogue screen creates some problems, y'know?}
-{130}{}{Yeah... whatever. I'm out of here.}
+{130}{}{Sim... tanto faz. Estou saindo daqui.}
 {131}{}{It's worse. The Citizens don't drink much, so I'm stuck here giving merchants
  drinks. The next cheap bastard who tries to haggle for a drink is going to find
  my boot in his ass.}
@@ -75,5 +75,5 @@
 {163}{}{OK.}
 {164}{}{Look, you have enough people following your coat tails now.}
 {165}{}{Yeah, you go with that.}
-{166}{}{Naw... I think I'll pass.}
+{166}{}{Nah... Acho que vou passar.}
 {167}{}{I think I'm just going to hang around here a little longer.}

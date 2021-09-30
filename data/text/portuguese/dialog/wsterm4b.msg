@@ -80,5 +80,5 @@
 {183}{}{Liver }
 {184}{}{Lung }
 {185}{}{Appendix }
-{186}{}{Colon }
+{186}{}{Colono }
 {200}{}{ é incapaz de ler o que está no monitor.}

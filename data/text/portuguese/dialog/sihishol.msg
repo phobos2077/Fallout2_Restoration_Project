@@ -1,3 +1,3 @@
 {100}{}{Você vê uma fita maltratada.}
-{101}{}{Pip-Boy displays: File found on system. Aborting download.}
-{102}{}{Pip-Boy displays: Downloading data from disk.}
+{101}{}{Pip-Boy exibe: Arquivo encontrado no sistema. Abortando download.}
+{102}{}{Pip Boy exibe: Baixando dados para o disco.}

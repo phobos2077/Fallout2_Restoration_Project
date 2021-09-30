@@ -5,7 +5,7 @@
 {104}{}{You again? What do you want?}
 {105}{}{O que você quer?}
 {106}{}{Dã…}
-{107}{}{Me look Vault 13. You help?}
+{107}{}{Eu estou procurando a Vault 13. Você pode me ajudar?}
 {108}{}{I'm looking for Vault 13. Can you help me?}
 {109}{}{I finished your dirty work.}
 {110}{}{Bad things come. Me scare off. Moo-moos safe.}

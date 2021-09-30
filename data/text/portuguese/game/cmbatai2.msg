@@ -284,7 +284,7 @@
 {1622}{}{Você vai se arrepender disso!}
 {1623}{}{Sobrou alguns dedos.}
 {1624}{}{Acabou o Wimbledon.}
-{1625}{}{Sieg... oh, never mind.}
+{1625}{}{Sieg... ah, esquece.}
 {1626}{}{Você me desarmou!}
 {1627}{}{Eu só precisa de um dedo para * você *, covarde.}
 {1628}{}{Te chutarei até a morte.}
@@ -418,7 +418,7 @@
 {1894}{}{Na virilha não! Na virilha não!}
 {1895}{}{Os meus órgãos genitais! Meus pobres órgãos genitais!}
 {1896}{}{Me desculpe por vomitar em todo o lugar.}
-{1897}{}{That... hurt... a... LOT.}
+{1897}{}{Isso... dói... muito.}
 {1898}{}{Espero que a minhas partes vá para o céu genital.}
 {2000}{}{Misericórdia!}
 {2001}{}{Alguém me ajude!}
@@ -479,7 +479,7 @@
 {2200}{}{Não vale a pena!}
 {2201}{}{Tenho coisas melhores para fazer.}
 {2202}{}{Alguém me ajude!}
-{2203}{}{You got the better of me... this time.}
+{2203}{}{Você me venceu... desta vez.}
 {2204}{}{Vai ter o que merece!}
 {2205}{}{Eu não vou morrer por isso!}
 {2220}{}{É tarde demais para correr.}
@@ -829,7 +829,7 @@
 {3178}{}{Minha vez!}
 {3179}{}{Esse foi seu melhor tiro? Caramba, você tem problemas.}
 {3200}{}{Whoa. Acho melhor cair fora.}
-{3201}{}{I'll be back... after I get another hit.}
+{3201}{}{Estarei de volta... depois de conseguir outra dose.}
 {3202}{}{Sabia que deveria ter tomado mais esteróides...}
 {3203}{}{Não posso me drogar se estiver morto...}
 {3204}{}{Aieeeeeee! Não me machuque! Não me machuque!}
@@ -1168,7 +1168,7 @@
 {32404}{}{Waaaaaaaaaaa!!!}
 {32405}{}{AAGGH! Você me deu um tiro na bunda!!}
 {32420}{}{Eu vou fazer você deseja nunca ter saído de casa!}
-{32421}{}{Say... you've got a face like an arse!}
+{32421}{}{Diga... você tem uma cara de cu!}
 {32422}{}{Vamos ver o que você tem, panáca.}
 {32423}{}{Incline-se e agarrar seus tornozelos, pimpolho!}
 {32424}{}{Por Shane!}

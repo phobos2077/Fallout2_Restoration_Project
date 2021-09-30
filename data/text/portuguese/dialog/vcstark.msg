@@ -195,7 +195,7 @@
 {294}{}{Hmmm. I'll keep that in mind. Goodbye.}
 {295}{}{Go ahead and try. I'm betting the only way they'd let us find them is by giving us a map.}
 {296}{}{Eu tenho mais algumas perguntas...}
-{297}{}{If that's what it takes... thanks for the information.}
+{297}{}{Se for necessário... obrigado pela informação.}
 {298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
 {299}{}{Recon-o-what?}
 {300}{}{I do a lot of traveling. Anything I can help with?}
@@ -229,7 +229,7 @@
 {328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {329}{}{All right...}
 {330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
-{331}{}{All right then... you got any more work for me?}
+{331}{}{Tudo bem então... você tem mais trabalho para mim?}
 {332}{}{Great. I had some other questions...}
 {333}{}{Thanks. Pleasure doing business with you.}
 {334}{}{Yeah, actually... I need someone to travel to NCR. Lately, I've been hearing reports that
@@ -272,7 +272,7 @@
 {370}{}{I plotted that route to NCR for you.}
 {371}{}{About those Raiders...}
 {372}{}{Never mind. Goodbye.}
-{373}{}{Good day... ma'am.}
+{373}{}{Bom dia... senhora.}
 {374}{}{Vault City prevails... ma'am.}
 {375}{}{Captain. Can I help you... ma'am?}
 {376}{}{Sergeant Stark... ma'am. Did you need something?}

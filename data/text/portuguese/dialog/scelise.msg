@@ -89,7 +89,7 @@
  to destroy that horrible place. Do you know how well guarded it is?}
 {205}{}{The only things guarding that place now are corpses. I already wiped out the whole camp.}
 {206}{}{It looked like it had about a dozen guards.}
-{207}{}{I couldn't tell you--I haven't been there yet.}
+{207}{}{Eu não poderia te dizer--ainda nem fui lá.}
 {208}{}{You have? That's amazing! I'll have to spread the word out to the other Rangers. Now's the time for us to rise up and strike while they're
  busy licking their wounds. I can't thank you enough. We are truly in your debt.}
 {209}{}{Your thanks is all I need. Take care.}
@@ -128,7 +128,7 @@
 {260}{}{What are you doing here? This is a private -- Hey, wait a minute, I think I've heard of you. Aren't you the one that took out one of Metzger's slave camps?}
 {261}{}{Yep. That was me.}
 {262}{}{I sure as hell did. You got a problem with that? }
-{263}{}{Maybe... why?}
+{263}{}{Talvez... por que?}
 {264}{}{I have no idea what you're talking about. Now if you'll excuse me, I'll be on my way.}
 {270}{}{That was a fine thing you did and I just want to shake your hand.}
 {271}{}{Not at all. In fact, I'd like to shake your hand.}

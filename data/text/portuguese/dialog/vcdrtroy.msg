@@ -42,7 +42,7 @@
  o melhor de mim para que todos fiquem saudáveis.}
 {137}{}{Estou procurando pelo computador central. Você sabe me dizer onde é?}
 {138}{}{Entendo. Talvez nos falemos mais tarde, então.}
-{139}{}{Hold on a moment... I don't recall seeing you around before. Are you a Citizen?}
+{139}{}{Espere um momento... Não me lembro de ter visto você por aí antes. Você é um cidadão?}
 {140}{}{Sim. Eu acabei de conseguir minha cidadania.}
 {141}{}{Na verdade, eu sou }
 {142}{}{. Eu sou o Captão da Guarda.}

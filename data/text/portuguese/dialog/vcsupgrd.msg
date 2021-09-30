@@ -77,7 +77,7 @@
 {176}{}{Só achei que deveria saber. Se cuida.}
 {177}{}{D-d-descupa. Eu v-vo'prar.}
 {178}{}{(Desculpa. Eu vou parar.)}
-{179}{}{Now... what was it you do here again?}
+{179}{}{Agora... o que você esta fazendo aqui?}
 {180}{}{Bom. Faça um favor ao mundo e fique quieto.}
 {181}{}{V-v-v-v-você tem que f-f-ficá'quieto! Shhhh!}
 {182}{}{Desculpaaaaa}

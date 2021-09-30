@@ -31,7 +31,7 @@
 {300}{}{I thank you, fren. Be seeing you back at the village.}
 {400}{}{Thanks much, fren. Truly, you are blessed by the spirits.}
 {500}{}{zzzZZzzz...}
-{501}{}{...zzZZZZzz... zzz...}
+{501}{}{A mimir...}
 {600}{}{You heal Serin's leg.}
 {700}{}{He needs more help than I can offer. I better get going.}
 {1000}{}{Good to be peeping you, hero.}

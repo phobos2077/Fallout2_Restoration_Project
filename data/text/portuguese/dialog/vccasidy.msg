@@ -194,7 +194,7 @@
 {370}{}{Cassidy dies of a heart attack.}
 {371}{}{You have convinced Cassidy to join your party.}
 {372}{}{Just let me pop a heart pill first...}
-{1000}{Cas1000}{Well... all right, then. I'll wait here 'til you get back. }
+{1000}{Cas1000}{Bem... tudo bem então. Vou esperar aqui até você voltar. }
 {1100}{Cas1100}{Sure. Can't promise I won't pull it out again if there's trouble, though.}
 {1200}{Cas1200}{All right, I'll stick close to you then. You must be expecting trouble.}
 {1300}{Cas1300}{All right, I'll keep some distance. Get a better vantage point that way.}

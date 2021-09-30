@@ -74,7 +74,7 @@
 {173}{}{Need know more.}
 {174}{}{A few more questions please.}
 {175}{tand11}{Get to it. I can't spend the day with you.}
-{176}{}{Ok, me hurry.}
+{176}{}{Ok, estou com pressa.}
 {177}{}{I'll try to be quick.}
 {178}{tand12}{With that suit you're wearing I figured you already knew.}
 {179}{}{Suit been in village long time. Belong to Vaultdweller, tribe founder.}
@@ -168,7 +168,7 @@
 {267}{}{Just one more thing. What if I told you that I found Vault 13?}
 {268}{}{I'll talk to him. Bye.}
 {269}{tand36}{It's all business, huh? Fine. Five hundred, when it's done. I don't haggle, so take it or don't waste my time.}
-{270}{}{Me take but me need ask questions.}
+{270}{}{Eu levo, mas preciso fazer perguntas.}
 {271}{}{Me not interested.}
 {272}{}{I'll take it but I need some information.}
 {273}{}{Não interessado.}

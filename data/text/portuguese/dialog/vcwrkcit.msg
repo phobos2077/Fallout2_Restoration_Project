@@ -56,7 +56,7 @@
 {150}{}{A reunião do Conselho ontem foi muito produtiva. Nós fizemos *toneladas* de listas. Aqui em Vault
  City nós amamos fazer listas.}
 {151}{}{Sim?}
-{152}{}{Something I can help you with... Outsider?}
+{152}{}{Posso ajudá-lo em algo... Forasteiro?}
 {153}{}{Me desculpe, você disse alguma coisa?}
 {154}{}{Eu? Estou cuidando da minha vida. Talvez você deveria fazer isso também.}
 {155}{}{Posso ver a sua Autorização do Dia, por favor?}

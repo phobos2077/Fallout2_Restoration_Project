@@ -27,7 +27,7 @@
 {126}{}{I understand the president has a job to be done.}
 {127}{}{Madam President no longer grants interviews regarding Vault 13. I'm sorry. She's too busy to see every prospector who comes through.}
 {128}{}{Huh? I don't get it.}
-{129}{}{What about a GECK? She might know something about that?}
+{129}{}{E que tal um GECK? Ela pode saber algo sobre isso?}
 {130}{}{There was some talk about a job.}
 {131}{}{You're useless. I'm going.}
 {132}{}{Then I suggest you read the plaque on the statue outside. Now, good day.}

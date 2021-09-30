@@ -2,7 +2,7 @@
 {101}{}{Você vê o "Doutor" Andrew.}
 {102}{}{Você vê um homem desmazelado  em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutãnea vermelha e clara, a qual ele esfrega frequentemente.}
 {103}{}{Parece que você presenciou uma bela de uma briga...}
-{104}{}{Whoa... looks like you've seen some serious action, friend.}
+{104}{}{Opa... parece que você viu uma ação de verdade, amigão.}
 {105}{}{Puxa...parece que você esteve em uma briga séria...}
 {106}{}{Put...! Você está sangrando por todo o chão!}
 {107}{}{Está aqui pra "consertar-se"?}
@@ -32,7 +32,7 @@
 {131}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
 {132}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
 {133}{}{Não, valeu. Talvez outra hora.}
-{134}{}{Well... all right. That sounds fair.}
+{134}{}{Bem... tudo bem. Isso parece justo.}
 {135}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {136}{}{Apagar-se por 3 segundos}
 {137}{}{Beleza! Sabia que o ol'Doctor não ia me deixar na mão.}
@@ -67,7 +67,7 @@
 {166}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
 {167}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
 {168}{}{Mudei de idéia. Talvez outra hora.}
-{169}{}{Well, now... tell you what. }
+{169}{}{Bem, agora... te conto. }
 {170}{}{ mangos por tudo, e temos um trato. O que você diz?}
 {171}{}{Tudo certo.}
 {172}{}{Eu não sei... Está um pouco caro. Que tal }
@@ -77,7 +77,7 @@
 {176}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
 {177}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
 {178}{}{Mudei de idéia. Talvez outra hora.}
-{179}{}{Well... all right. That sounds fair.}
+{179}{}{Bem... tudo bem. Isso parece justo.}
 {180}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {181}{}{Apagar-se por 3 segundos}
 {182}{}{There, all stitched up! Knew the ol' Doctor still had some life left in 'im.}
@@ -94,14 +94,14 @@
 {193}{}{Entendo. Eu tenho mais perguntas pra você...}
 {194}{}{Hum... talvez eu vá dar uma olhada nisso depois...}
 {195}{}{Bom ouvir isso. Falo com você depois, Andrew.}
-{196}{}{Eh... well... thank you very much. That was decent of you to volunteer to fix it like that.}
+{196}{}{Eh... bom... muito obrigado. Foi legal da sua parte se oferecer para consertar isso.}
 {197}{}{Oh, não foi um trabalho voluntário. Eu espero algum dinheiro pelos meus seviços.}
 {198}{}{Alguma chance de ter um desconto?}
 {199}{}{Sem problemas. Foi um prazer ajudar.}
 {200}{}{Diabos, não! Eu não te pedi para consertá-lo, então não banque o técnico. E não banque o espertalhão, os guardas podem me ouvir daqui.}
 {201}{}{Vá em frente. Chame-os. Eles não chegarão a tempo de salvar sua pele.}
 {202}{}{Bem, então... de nada.}
-{203}{}{So... was there something else I could help you with?}
+{203}{}{Então... tem algo mais em que eu posso ajudar?}
 {204}{}{Com o que posso ajudar?}
 {205}{}{Eu poderia receber um pouco de cuidados médicos.}
 {206}{}{Hã, eu preciso de uma remoção em um tumor. Meu sexto dedão do pé.}
@@ -191,7 +191,7 @@
 {290}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 {291}{}{Eu voltarei quando tiver a combat armor.}
 {292}{}{Entendo. Talvez outra hora.}
-{293}{}{Well... that sounds fair.}
+{293}{}{Bem... isso parece justo.}
 {294}{}{Muito bem, deixe-me prender você aqui no ol'Doctor... espero que o reservatório de anestesia não tenha entopido de novo... talvez seja melhor você morder esse pedaço de couro de brahmin aqui...}
 {295}{}{Uh...ok. Quero dizer, o Auto-Doc tem a manutenção marcada regularmente, certo? Heh-heh. O que pode acontecer de ruim?}
 {296}{}{Sabe de uma coisa? Esqueça. Eu não quero correr o risco do "ol"Doctor" falhar.}
@@ -204,7 +204,7 @@
 {303}{}{Esperar 2 segundos.}
 {304}{}{Botas legais deste aqui. Talvez eu possa vendê-las...}
 {305}{}{Ir para a cena de morte}
-{306}{}{Well... that sounds fair.}
+{306}{}{Bem... isso parece justo.}
 {307}{}{Muito bem, deixe-me prender você aqui no ol'Doctor... espero que o reservatório de anestesia não tenha entopido de novo... talvez seja melhor você morder esse pedaço de couro de brahmin aqui...}
 {308}{}{Apagar-se por 3 segundos}
 {309}{}{Bem, está tudo dentro, eu acho. Ham, sobre o inchaço e a dor... estou certo de que ambas são efeitos colaterias temporários. Ah, e a sensação de agulhadas que você sente eu seus braços e pernas quando se move deve sumir em algumas semanas.}
@@ -213,7 +213,7 @@
 {312}{}{Céus, espero que você esteja me escutado agora. Olha, quando você voltar a sentir suas extremidades, você vai sentir uma coceira imensa. Não coce! Se o fizer, essas crostas-purulentas sob as drenagens vão se romper e deixar cicatrizes. Dê a elas algumas semanas para que se recuperem, ok?}
 {313}{}{'bigado. Vucê p'de m' r'spond'r maiji ulgumas p'rguntajs?}
 {314}{}{'bigado, Adrew. Chau.}
-{315}{}{Well... all right. That sounds fair.}
+{315}{}{Bem... tudo bem. Isso parece justo.}
 {316}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {317}{}{Apagar-se por 3 segundos}
 {318}{}{Hmmph. Parece que o ol'Doctor está teimando de nobo. Pedaço de lixo...  ainda bem que eu consegui soltar as presilhas antes que ele começasse a cirurgia exploratória de rotina. Talvez funcinoe melhor da próxima vez.}
@@ -234,7 +234,7 @@
 {333}{}{Deixe pra lá então. Eu tenho outras perguntas...}
 {334}{}{Esqueça isso então. Eu volto mais tarde.}
 {335}{}{Esqueça isso. Eu não tenho todo esse dinheiro agora. Eu volto depois.}
-{336}{}{Well... all right. That sounds fair.}
+{336}{}{Bem... tudo bem. Isso parece justo.}
 {337}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {338}{}{Apagar-se por 3 segundos}
 {339}{}{Aquele seu amiguinho já era. Espero. Foi difícil comprimir todo aquele pus mutado pra fora do osso. De qualquer forma, está pronto.}
@@ -250,4 +250,4 @@
 {349}{}{Muito bem. Lá vamos nós.}
 {350}{}{Você perdeu -4 Max HP.}
 {351}{}{Wahh? Não estou me sentindo bem. Preciso dormir agora.}
-{352}{}{Ugh... otay. Byeeee}
+{352}{}{Ugh... de ac-ordo. Tchaaau}

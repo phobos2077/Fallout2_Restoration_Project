@@ -1,3 +1,3 @@
 {100}{}{Você vê uma fita maltratada.}
-{101}{}{Pip-Boy displays: File found on system. Aborting download.}
-{102}{}{Pip-Boy displays: Downloading data from disk. Location, "Vault 13" added to world map."}
+{101}{}{Pip-Boy exibe: Arquivo encontrado no sistema. Abortando download.}
+{102}{}{Pip-Boy exibe: Baixando dados do disco. Localização, "Vault 13" adicionado ao mapa mundial."}

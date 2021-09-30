@@ -7,7 +7,7 @@
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{I don't care. Give me the house special.}
-{109}{}{Gimme a beer.}
+{109}{}{Me passa uma gelada.}
 {110}{}{Information.}
 {111}{}{I'm looking for work.}
 {112}{}{Well, aren't you the one! Just the way I like them.}

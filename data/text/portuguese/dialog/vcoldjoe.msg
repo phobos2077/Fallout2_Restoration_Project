@@ -47,7 +47,7 @@
 {137}{}{I'm off to speak with Harry then. Take care ol' friend.}
 {138}{}{Why, what do you mean?}
 {139}{}{Connar and his people have that strong fighting spirit, but it won't be enough in this case. Vault City have nearly unlimited resources, and eventually, they'll win out. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller. Senior Council Member McClure has shown to be a reasonable man. Perhaps some agreement can be made with him?}
-{140}{}{Hmm... I may have to consider this. Thanks for everything, bye.}
+{140}{}{Hmm... eu poderia levar isso em consideração. Obrigado por tudo, tchau.}
 {141}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}
 {142}{}{Yeah, what about them?}
 {143}{}{Any idea where they're from or who's controlling them?}

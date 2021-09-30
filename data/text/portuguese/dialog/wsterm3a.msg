@@ -12,7 +12,7 @@
 {106}{}{}
 {107}{}{}
 {108}{}{}
-{109}{}{What the... Who the hell are you?}
+{109}{}{Oshi... Mas que porra é você?}
 {110}{}{I'm Corporal Dixon.}
 {111}{}{Eu sou }
 {112}{}{Urg!}

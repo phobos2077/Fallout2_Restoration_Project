@@ -61,7 +61,7 @@
 {148}{}{Sair.}
 {149}{}{Sair.}
 {150}{}{[A porta da sala se fecha rapidamente ao mesmo tempo em que a parede ao leste desaparece, revelando uma linha de robôs super-armados.]}
-{151}{}{Um... I've reconsidered your offer. What can I do for you?}
+{151}{}{Hum... Eu vou reconsiderar sua oferta. O que posso fazer por você?}
 {152}{}{Pode vir!}
 {153}{}{Prossiga para o Depósito Biológico - Nível 4
                              Retire o Cérebro Cibernético

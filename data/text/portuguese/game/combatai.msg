@@ -554,7 +554,7 @@
 {1622}{}{Você vai se arrepender disso!}
 {1623}{}{Sobrou alguns dedos.}
 {1624}{}{Acabou o Wimbledon.}
-{1625}{}{Sieg... oh, never mind.}
+{1625}{}{Sieg... ah, esquece.}
 {1626}{}{Você me desarmou!}
 {1627}{}{Eu só precisa de um dedo para * você *, covarde.}
 {1628}{}{Te chutarei até a morte.}
@@ -688,7 +688,7 @@
 {1894}{}{Na virilha não! Na virilha não!}
 {1895}{}{Os meus órgãos genitais! Meus pobres órgãos genitais!}
 {1896}{}{Me desculpe por vomitar em todo o lugar.}
-{1897}{}{That... hurt... a... LOT.}
+{1897}{}{Isso... dói... muito.}
 {1898}{}{Espero que a minhas partes vá para o céu genital.}
 {2000}{}{Misericórdia!}
 {2001}{}{Alguém me ajude!}
@@ -846,7 +846,7 @@
 {2200}{}{Não vale a pena!}
 {2201}{}{Tenho coisas melhores para fazer.}
 {2202}{}{Alguém me ajude!}
-{2203}{}{You got the better of me... this time}
+{2203}{}{Você me venceu... desta vez}
 {2204}{}{Vai ter o que merece!}
 {2205}{}{Eu não vou morrer por isso!}
 {2206}{}{Você tem que dormir em algum momento, e eu vou estar lá quando você o fizer.}
@@ -1286,7 +1286,7 @@
 {3178}{}{Minha vez!}
 {3179}{}{Esse foi seu melhor tiro? Caramba, você tem problemas.}
 {3200}{}{Whoa. Acho melhor cair fora.}
-{3201}{}{I'll be back... after I get another hit.}
+{3201}{}{Estarei de volta... depois de conseguir outra dose.}
 {3202}{}{Sabia que deveria ter tomado mais esteróides...}
 {3203}{}{Não posso me drogar se estiver morto...}
 {3204}{}{Aieeeeeee! Não me machuque! Não me machuque!}
@@ -1555,7 +1555,7 @@
 {12427}{}{* Nfff * ... quase arrancou meu braço...!}
 {12428}{}{Vou precisar de alguns stimpacks para o meu braço. Depois de matá-lo.}
 {12429}{}{* Urkkk * ...ainda posso .... bater em você ... com a outra mão ...}
-{12430}{}{Can't... breathe...}
+{12430}{}{Não posso... respirar...}
 {12431}{}{*Oooooffff*}
 {12432}{}{Maldição...me...deixou...sem...ar...}
 {12433}{}{*Unfffff*}
@@ -1578,7 +1578,7 @@
 {12450}{}{Merda ... este tribal bate como um...}
 {12451}{}{Você quebrou minhas costelas, agora eu vou quebrar seu pescoço.}
 {12452}{}{É tudo que você sabe fazer? Cai fora pobre tribal.}
-{12453}{}{Chest wound... that's nothing.}
+{12453}{}{Ferimento no peito... isso não é nada.}
 {12454}{}{Maldição! Quebrou algumas costelas ...}
 {12455}{}{Acho que quebrou minha coluna...}
 {12456}{}{Deixe eu te mostrar como nós matamos as pessoas aqui.}
@@ -1592,7 +1592,7 @@
 {12464}{}{Justo na perna ...}
 {12465}{}{Você teve sorte, idiota ...}
 {12466}{}{Vou ficar aleijado sem esta perna...}
-{12467}{}{Leg's shot... time for some payback.}
+{12467}{}{Tiro da perna... hora da vingança.}
 {12468}{}{Eu não preciso dessa perna para chutar sua bunda.}
 {12469}{}{Eu vou arrancar sua perna e bater em você com ele.}
 {12470}{}{Você quebrou Minha perna! Agora eu vou quebrar a sua cara.}
@@ -1602,16 +1602,16 @@
 {12474}{}{Justo na perna ...}
 {12475}{}{Você teve sorte, idiota ...}
 {12476}{}{Vou ficar aleijado sem esta perna...}
-{12477}{}{Leg's shot... time for some payback.}
+{12477}{}{Tiro da perna... hora da vingança.}
 {12478}{}{Eu não preciso dessa perna para chutar sua bunda.}
 {12479}{}{Eu vou arrancar sua perna e bater em você com ele.}
 {12480}{}{Ahhhh, merda! A porra do meu olho!}
 {12481}{}{Erggg...Isso foi... Sorte...}
 {12482}{}{Porra..tudo esta escuro..}
 {12483}{}{Nada que...  um tapa-olho ... não vai curar ...}
-{12484}{}{I'm gonna cut out both your eyes for that... slowly.}
+{12484}{}{Vou arrancar seus dois olhos por isso... devagar.}
 {12485}{}{Estou cego! Socorro! Estou cego!}
-{12486}{}{Can't see... head spinning...}
+{12486}{}{Não posso ver... cabeça girando...}
 {12487}{}{Vai agonizar por muito tempo...}
 {12488}{}{Não consigo ver nada merda! Onde esta? Vou te matar!}
 {12489}{}{*Hrrkkkk*}
@@ -1915,7 +1915,7 @@
 {32404}{}{Waaaaaaaaaaa!!!}
 {32405}{}{AAGGH! Você me deu um tiro na bunda!!}
 {32420}{}{Eu vou fazer você deseja nunca ter saído de casa!}
-{32421}{}{Say... you've got a face like an arse!}
+{32421}{}{Diga... você tem uma cara de cu!}
 {32422}{}{Vamos ver o que você tem, panáca.}
 {32423}{}{Incline-se e agarrar seus tornozelos, pimpolho!}
 {32424}{}{Por Shane!}
@@ -2466,7 +2466,7 @@
 {40011}{}{Ainda poder usar a arma.}
 {40012}{}{Um braço ser extra pro homem.}
 {40013}{}{Arrrg.}
-{40014}{}{That not hurt... much.}
+{40014}{}{Isso não doeu... muito.}
 {40015}{}{Sulik achar que você não quer machucar ele.}
 {40016}{}{Sulik ataca agora.}
 {40017}{}{Agora nós ver como você e nós gosta disso.}
@@ -2475,7 +2475,7 @@
 {40020}{}{Agora nós tomar seu braço também.}
 {40021}{}{Pequenino irmão-rato estar me machucando forte.}
 {40022}{}{Sulik pensar, ser época de mosquito agora?}
-{40023}{}{We not feel de pain... yet.}
+{40023}{}{Não sentimos dor... ainda.}
 {40024}{}{Oh, oh. Sulik não sentir os dedos.}
 {40025}{}{Vovô-osso dizer que nós precisa ser forte.}
 {40026}{}{Vá pra casa e não acertar nós no braço de novo!}
@@ -2643,7 +2643,7 @@
 {40811}{}{* Hrkkkk * braço esquerdo ... dói pra caralho...}
 {40812}{}{Braço esquerdo ... inútil ...}
 {40813}{}{Acho que meu braço quebrou...}
-{40814}{}{Can't... feel my left arm...}
+{40814}{}{Não consigo... sentir meu braço esquerdo...}
 {40815}{}{* Nfff * ... boa tentativa ... meu braço ... ja recebeu coisas piores ...}
 {40816}{}{* Nfff * ... só meu braço ... é só o meu braço ...}
 {40817}{}{* Nfff * ... outra ... Maldição de braço machucado...}
@@ -2652,7 +2652,7 @@
 {40821}{}{*Hrkkkk*... o braço direito é... inútil...}
 {40822}{}{* Nfff * ... boa tentativa ... meu braço ... ja recebeu coisas piores ...}
 {40823}{}{Acho que quebrei meu braço ...}
-{40824}{}{Can't... feel my right arm...}
+{40824}{}{Não consigo... sentir meu braço direito...}
 {40825}{}{* Nfff * ... só meu braço ... é só o meu braço ...}
 {40826}{}{Vou ... precisar... de mais ... proteção nos braços ...}
 {40827}{}{* Nfff * ... outra ... Maldição de braço machucado...}
@@ -2680,7 +2680,7 @@
 {40850}{}{*Hrkkkk*}
 {40851}{}{Ferida no peito ... meu coração esta ficando lento...}
 {40852}{}{*Hrnnn*...bem no peito.... vou precisar de um monte de curativos...}
-{40853}{}{Think... my lung's been pierced...}
+{40853}{}{Acho... meu pulmão foi perfurado...}
 {40854}{}{Ignorar a dor, Cassidy ... é apenas uma ferida no peito ... aguenta...}
 {40855}{}{* Urkkkk * que golpe... meu coração... bate lento ...}
 {40856}{}{Arrancou uma lasca da minha coluna...}
@@ -2692,7 +2692,7 @@
 {40862}{}{Isso abriu uma ferida na perna.}
 {40863}{}{Vou ter que proteger  melhor a minha perna direita ...}
 {40864}{}{*Nffff*...right leg's...useless...}
-{40865}{}{Can't... feel... my right leg...}
+{40865}{}{Não consigo... sentir... minha perna direita...}
 {40866}{}{* Nfff * ... outra ... ferida na porra da perna. }
 {40867}{}{Isso fudeu com meu joelho bom ...}
 {40870}{}{Damn! Eu não levo um tiro na perna desde 1900 e bolinha.}
@@ -2706,8 +2706,8 @@
 {40880}{}{*Hrrrkkk*}
 {40881}{}{*Hrnnn*...meu...olho...}
 {40882}{}{Voce deixou apenas... * NFFF * ... um dos meus olhos. * Hrkkk * agora eu vou arrancar... os todos os seus.}
-{40883}{}{My eye... can't see...}
-{40884}{}{Can't see... just red...}
+{40883}{}{Meu olho... não posso ver...}
+{40884}{}{Não consigo ver... apenas vermelho...}
 {40885}{}{Não preciso ver para te matar...}
 {40886}{}{Graças a Deus esse olho era falso...}
 {40890}{}{Me bater nas bolas ... ISSO É novo.}
@@ -2770,7 +2770,7 @@
 {40964}{}{Você aponta por apontar. Eu atiro para matar.}
 {40965}{}{Você não tem o necessário para acabar comigo.}
 {40966}{}{Além de burro é cego.}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{Você falhou por uma boa porcentagem.}
 {40968}{}{Seu cego filho da puta.}
 {40969}{}{Errou. Na próxima rodada vai perder a cabeça.}
 {40970}{}{Inferno, eu sou um bosta, mas posso fazer melhor que você.}
@@ -3275,7 +3275,7 @@
 {42143}{}{Você esta com sorte, escoria?}
 {42144}{}{Vi Robert DeNiro fazer isso em um filme antigo, uma vez ...}
 {42145}{}{Vou te tratar como uma prostituta.}
-{42146}{}{Er... take this!}
+{42146}{}{Er... segura o grosso!}
 {42147}{}{Er...Tome isso!}
 {42148}{}{Quer um pouco de Myron, hein? Então ... uh ... você vai ter! Yeah!}
 {42149}{}{Alguém me de cubertura!}
