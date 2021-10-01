@@ -77,7 +77,7 @@
 {3900}{}{Micro Fusão celular}
 {3901}{}{Uma unidade de produção de energia de tamanho médio. com reator de fusão autônomo.}
 {4000}{}{Stimpak}
-{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
+{4001}{}{Uma droga curativa. Quando injetado, a substância proporciona a cura imediata de feridas menores.}
 {4100}{}{Dinheiro}
 {4101}{}{Moeda legal para o mundo de fallout.}
 {4200}{}{Geladeira}
@@ -103,7 +103,7 @@
 {5200}{}{Geiger Counter}
 {5201}{}{Um modelo de Wattz Eletrônica C-Radz Contador Geiger. Detecta a presença e a força de campos de radiação.}
 {5300}{}{Mentats}
-{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{Uma caixa de remédios que alteram a mente. Aumenta as funções relacionadas à memória e acelera outros processos mentais. Altamente viciante.}
 {5400}{}{Stealth Boy}
 {5401}{}{Um dispositivo Robco de Stealth Boy 3001 discrição pessoal. Gera um campo de modulação que transmite a luz refletida de um lado de um objeto para o outro.}
 {5500}{}{Chip de água}
@@ -179,7 +179,7 @@
 {9000}{}{Mochila}
 {9001}{}{Uma mochila básica, com correias de transporte opcional.}
 {9100}{}{Saco do médico}
-{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
+{9101}{}{Esta bolsa marrom contém instrumentos e químicos usados por médicos na aplicação de sua profissão.}
 {9200}{}{Cauda de Escorpião}
 {9201}{}{Uma cauda cortada de um radscorpion.}
 {9300}{}{Bolsa}
@@ -191,7 +191,7 @@
 {9600}{}{Chave de acesso Vermelho}
 {9601}{}{Uma chave eletrônica de segurança, código de cores vermelho.}
 {9700}{}{Chave de acesso Azul}
-{9701}{}{An electronic security key, color coded blue.}
+{9701}{}{Uma chave de eletrônica de segurança, com código de cores azuis.}
 {9800}{}{Sucata}
 {9801}{}{Uma pilha de peças de sucata. Um pouco de tudo.}
 {9900}{}{Medalhão de ouro}
@@ -215,7 +215,7 @@
 {10800}{}{Ossos}
 {10801}{}{Uma coleção de ossos estranhos.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
+{10901}{}{Drogas anti-radiação a devem ser tomadas antes da exposição. Sem efeitos colaterais conhecidos.}
 {11000}{}{Psycho}
 {11001}{}{Um elemento único com produtos químicos estranhos e desconhecidos, provavelmente de origem militar. Supõe-se que é para aumentar a potencial de combate de um soldado.}
 {11100}{}{.44 magnum FMJ}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Jet é uma poderosa metanfetamina que estimula o sistema nervoso central. A euforia inicial raramente dura mais do que alguns minutos, mas durante esse tempo, o usuário é preenchido com uma onda de energia e força.}
 {26000}{}{Antídoto de Jet}
-{26001}{}{This antidote cures the Jet addiction.}
+{26001}{}{Esse antidoto cura o vicio em jet.}
 {26100}{}{Jonny's BB Gun}
 {26101}{}{Uma espingarda Red Ryder BB com o nome "Jonny" gravado no cabo. Min FO: 3.}
 {26200}{}{Botas de borracha}
@@ -795,7 +795,7 @@
 {40800}{}{Field Medic First Aid Kit}
 {40801}{}{Um pequeno kit contendo equipamentos médicos básicos. Bandagens, gaze, spray de anti-séptico e muito mais.}
 {40900}{}{Bolsa de paramédico}
-{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{Esta bolsa contém instrumentos e químicos usados por paramédicos em campo. As ferramentas contidas são projetadas especificamente para casos de grande trauma e emergência.}
 {41000}{}{Expanded Lockpick Set}
 {41001}{}{Um conjunto de ferramentas de serralheiro. Com tudo que é necessário para abrir fechaduras convencionais. Este jogo também inclui ferramentas especiais para arrombar mecanismos mais difíceis.}
 {41100}{}{Electronic Lockpick MKII}
@@ -917,7 +917,7 @@
 {46901}{}{Uma bebidas alcoólica muito forte ou fluido de limpeza, você decide.}
 {47000}{}{Mordaça}
 {47001}{}{Um dispositivo sexual questionável. Se você precisa perguntar, você não quer saber.}
-{47100}{}{"The Lavender Flower"}
+{47100}{}{"A Flor de Lavanda"}
 {47101}{}{Parece ser algum tipo de novela romântica escrito por Dorothy Rixon. A capa tem uma mulher deitada em uma cama cercada por uma centena de flores.}
 {47200}{}{Hubologist Holodisk}
 {47201}{}{Este holodisk esta rotulado como: "Hubology: A verdade por trás das mentiras". Parece que funciona em seu PipBoy.}

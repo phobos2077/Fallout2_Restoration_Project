@@ -1,2 +1,2 @@
-1:T'AS PASSE L'ARME A GAUCHE.
-2:Encore
+1:C'était ton dernier soupir.
+2:Encore une fois.

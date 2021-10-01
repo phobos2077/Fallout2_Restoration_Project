@@ -54,7 +54,7 @@
 {450}{}{Homens}
 {451}{}{Mulheres}
 {452}{}{Crianças}
-{453}{}{Super mutants}
+{453}{}{Super mutantes}
 {454}{}{Ghouls}
 {455}{}{Brahmin}
 {456}{}{Radscorpions}
@@ -138,10 +138,10 @@
 {596}{}{O carro já está cheio de energia.}
 {597}{}{A porta parece estar bloqueada.}
 {620}{}{Você ganha %d pontos de experiência por matar: %s.}
-{621}{}{%s you gain %d experience points.}
+{621}{}{%s você ganha %d pontos de experiência.}
 {622}{}{Por derrotar seus inimigos,}
 {623}{}{Por matar seus oponentes,}
-{624}{}{For being victorious in combat,}
+{624}{}{Por ser vitorioso em combate,}
 {625}{}{Por esmagar seus inimigos,}
 {626}{}{Por destruir seus inimigos sem tomar um arranhão,}
 {650}{}{[FEITO]}

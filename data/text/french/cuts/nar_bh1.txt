@@ -1,5 +1,5 @@
-1:LA DESTRUCTION DES MUTANTS ENTRAINA LA FIN DE LA VILLE.
-2:SANS LEUR FORCE ET LEUR CAPACITE A RESISTER AUX TOXINES A L'INTERIEUR DE LA MINE, LE MINERAI PRECIEUX S'AVERA INACCESSIBLE.
-3:LES RESPONSABLES DE CETTE DESTRUCTION SE REJOUIRENT D'ABORD, PUIS ILS REALISERENT LA BETISE DE LEUR ACTE.
-4:ILS LUTTERENT POUR MAINTENIR LA PROSPERITE DE LA COMMUNAUTE, MAIS SANS SUCCES.
-5:LES VENTS ET LE DESERT RAYERENT LES COLLINES BRISEES DE LA CARTE.
+1:La destruction des mutants entraîna la fin de la ville.
+2:Sans leur force et leur capacité à résister aux toxines à l'intérieur de la mine, le minerai précieux s'avéra inaccessible.
+3:Les responsables de cette destruction se réjouirent d'abord, puis ils réalisèrent la bêtise de leur acte.
+4:Ils luttèrent pour maintenir la prospérité de la communauté, mais sans succès.
+5:Les vents et le désert rayèrent les Collines Brisées de la carte.

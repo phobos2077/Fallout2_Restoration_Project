@@ -1,2 +1,2 @@
-1:L'ATTAQUE DES MUTANTS SUR NECROPOLIS N'EPARGNERA AUCUN DES HABITANTS GOULES.
-2:APRES LEUR PASSAGE, LES ARMEES DE MUTANTS NE LAISSERONT QU'UNE VILLE ANEANTIE.
+1:L'attaque des mutants sur Nécropolis n'épargnera aucune des goules.
+2:Après leur passage, les armées de mutants ne laissèrent qu'une ville anéantie.

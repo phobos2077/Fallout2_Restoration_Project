@@ -197,12 +197,12 @@
 {1102}{}{Suas ações têm revelado que você seja um defensor do povo. Sua guerra contra o mal e perversidade é muito conhecida. Pessoas honradas irão respeitá-lo melhor.}
 {1103}{}{Você matou as crianças, os jovens do deserto. Isto é considerado como uma coisa muito ruim. Você é mal, pessoa má.}
 {1104}{}{Você desfruta completamente do sabor de Nuka-Cola, o refrigerante do mundo pós-nuclear.}
-{1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+{1105}{}{Você está viciado em Buffout. Você deve tomar este medicamento continuamente ou sofrerá os efeitos da abstinência.}
+{1106}{}{Você está sofrendo por conta do vicio em Mentat. Deve tomar o medicamento específico ou sofrer abstinência.}
+{1107}{}{Você é viciado em drogas. Se você não tomar Psycho regularmente, sofrerá. Se você fizer isso, outros sofrerão.}
 {1108}{}{Você está viciado em Radaway. Você deve tomar isso regularmente ou vai sofrer os efeitos da abstinência.}
 {1109}{}{Você tem um problema com Álcool. Na verdade, você tem muitos problemas com seus hábitos de consumo.}
-{1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
+{1110}{}{Você está viciado em drogas. Agora deve tomar Jet regularmente.}
 {1111}{}{Infelizmente, você está viciado no jogo Tragic: The Catering. Você está constantemente à procura de novas cartas.}
 {1112}{}{TEMPORARY - What is this?}
 {1113}{}{Você sabe fazer sexo. Você sabe preliminares. Você sabe como agradar um membro do sexo oposto e deixá-los com fome para mais.}

@@ -1,3 +1,3 @@
-1:L'IRRADIATION A FAIT DES VICTIMES.
-2:TU AS CONNU UNE MORT LENTE ET PARTICULIEREMENT ATROCE.
-3:TES AVENTURES SONT TERMINEES.
+1:L'irradiation fera toujours des victimes.
+2:Tu as connu une mort lente et particulièrement atroce.
+3:Tes aventures sont maintenant terminées.

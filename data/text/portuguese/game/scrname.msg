@@ -343,7 +343,7 @@
 {443}{}{Wolf}
 {444}{}{Generator}
 {445}{}{Porta}
-{446}{}{Super mutant}
+{446}{}{Super mutante}
 {447}{}{Salvatore's Man}
 {448}{}{Bishop's Man}
 {449}{}{Mordino's Man}
@@ -416,7 +416,7 @@
 {516}{}{Three Card Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Bishop's Bodyguard}
+{519}{}{Guarda costa de Bishop}
 {520}{}{John Bishop}
 {521}{}{Casino Machine}
 {522}{}{Chop Shop Boy}
@@ -503,7 +503,7 @@
 {603}{}{Squatter}
 {604}{}{Abolitionist}
 {605}{}{Bootlegger}
-{606}{}{Super mutant}
+{606}{}{Super mutante}
 {607}{}{Fisherman}
 {608}{}{Traficante de escravos}
 {609}{}{Trapper}
@@ -1055,7 +1055,7 @@
 {1155}{}{Quartermaster}
 {1156}{}{Guard}
 {1157}{}{K-9}
-{1158}{}{Doctor Schreber}
+{1158}{}{Doutor Schreber}
 {1159}{}{Technician}
 {1160}{}{Technician}
 {1161}{}{Guard}

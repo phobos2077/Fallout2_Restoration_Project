@@ -1,6 +1,6 @@
-{100}{}{You see a person in funny pajamas. He seems preoccupied.}
-{101}{}{You see a Shi submarine technician.}
-{150}{}{Uh, what are you doing, sneaking around like that?}
+{100}{}{Você vê uma pessoa com um pijama engraçado. Ele parece preocupado.}
+{101}{}{Você vê um técnico de submarino Shi.}
+{150}{}{Uh, o que você está fazendo se esgueirando por aí?}
 {151}{}{Are you some kind of spy?}
 {200}{}{This'd be easier if my Chinese was better...}
 {201}{}{I/O error!? How can a guidance system get an I/O error!?}

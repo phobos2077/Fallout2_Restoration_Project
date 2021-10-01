@@ -1,7 +1,7 @@
-1:C'EST FINI.
-2:L'ABRI TREIZE APPARTIENT A L'UNITE ET AU MAITRE.
-3:TA CONNAISSANCE DES DEFENSES DE L'ABRI A PERMIS D'EPARGNER LA VIE D'UN GRAND NOMBRE DE MUTANTS AU COURS DE L'ATTAQUE.
-4:C'EST TOI QUI AS PORTE LE COUP FATAL EN RETIRANT LA VIE AU DIRIGEANT.
-5:TU VAS, SANS AUCUN DOUTE, DEVENIR L'UN DES PLUS BRILLANTS SOLDATS DE L'UNITE ET TES EFFORTS SERONT SOUVENT RECOMPENSES A L'AVENIR.
-6:TU T'EN REJOUIS.
-7:MAIS IL RESTE UN LEGER DOUTE SUR CE QUI AURAIT BIEN PU ARRIVER SI...
+1:C'est fini.
+2:L'Abri Treize appartient à l'Unité et au Maître.
+3:Ta connaissance des défenses de l'Abri a permis d'épargner la vie d'un grand nombre de mutants au cours de l'attaque.
+4:C'est toi qui as porté le coup fatal en retirant la vie au Dirigeant.
+5:Tu vas, sans aucun doute, devenir l'un des plus brillants soldats de l'Unité et tes efforts seront souvent récompensés à l'avenir.
+6:Tu t'en réjouis.
+7:Mais il reste un léger doute sur ce qui aurait bien pu arriver si... 

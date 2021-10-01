@@ -11,7 +11,7 @@
 {110}{}{C'est une plaisanterie.}
 {111}{}{Ah, ah.}
 {112}{}{Et voilà, mon garçon.}
-{113}{}{Encore}
+{113}{}{Encore une fois.}
 {114}{}{Merci docteur. Je peux peut-être te poser quelques questions.}
 {115}{}{Salut.}
 {116}{}{Ca te coûtera $50.}

@@ -1,2 +1,2 @@
-1:TU AS COMBATTU AVEC BRAVOURE MAIS EN VAIN.
-2:LE CORPS BRISE ET MEURTRI, TU T'ECROULES SOUS UNE PLUIE DE BALLES ET TROUVES LA MORT DANS LE DESERT.
+1:Tu as combattu avec bravoure mais en vain.
+2:Le corps brisé et meurtri, tu t'écroules sous une pluie de balles et trouves la mort dans le désert.

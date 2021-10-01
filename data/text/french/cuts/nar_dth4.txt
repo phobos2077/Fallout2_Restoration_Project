@@ -1,2 +1,2 @@
-1:C'EN EST FINI DE TOI.
-2:TON VILLAGE EST PERDU ET MOURRA DE FAIM.
+1:C'en est fini de toi.
+2:Ton village est perdu et mourra de faim.

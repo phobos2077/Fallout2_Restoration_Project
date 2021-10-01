@@ -1,2 +1,2 @@
-1:LE DESERT T'A PRIS LA VIE.
-2:ARROYO TENTA D'ENVOYER D'AUTRES PERSONNES A LA RECHERCHE DU J.E.K, MAIS ELLES MOURURENT RAPIDEMENT, ET LE VILLAGE LES SUIVIT TRES VITE.
+1:Le désert t'a pris la vie.
+2:Arroyo tenta d'envoyer d'autres personnes à la recherche du JEK, mais elles moururent aussi. Le village suivit peu de temps après.

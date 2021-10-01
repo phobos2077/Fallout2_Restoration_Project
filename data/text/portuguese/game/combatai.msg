@@ -3343,7 +3343,7 @@
 {44436}{}{Mau funcionamento dos sistemas.}
 {44437}{}{Sistemas energéticos flutuando. Ativando energia de reserva.}
 {44438}{}{Integridade do casco principal comprometida. Principais circuitos expostos.}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
+{44439}{}{Danos na unidade de condicionamento de energia. Operando com 75% da capacidade.}
 {44460}{}{Motivador direito atingido. Danos mínimos.}
 {44461}{}{Bogie direito fora do alinhamento.}
 {44462}{}{Roda direita danificada.}

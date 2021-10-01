@@ -1,2 +1,2 @@
-1:C'EN EST FINI DE TOI.
-2:TA QUETE POUR TROUVER LE JARDIN D'EDEN ET LE REMETTRE A TON VILLAGE A ECHOUE.
+1:C'en est fini de toi.
+2:Ta quête pour trouver le Jardin d'Eden et le remettre à ton village a échoué.

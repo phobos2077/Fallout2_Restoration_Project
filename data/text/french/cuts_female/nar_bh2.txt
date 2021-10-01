@@ -1,5 +1,5 @@
-1:AVEC L'ECHEC DU COMPLOT VISANT A ELIMINER LES MUTANTS, LES COLLINES BRISEES COMMENCERENT A PROSPERER.
-2:PUIS, L'URANIUM S'EPUISA.
-3:AYANT PERDU SA SEULE RAISON D'EXISTER, LA VILLE SE DESAGREGEA LENTEMENT.
-4:LES RESIDENTS EMPORTERENT AVEC EUX LEURS RICHESSES, LAISSANT DERRIERE EUX UNE VILLE FANTOME ABANDONNEE ET BALAYEE PAR LES VENTS.
-5:QUELQUES-UNS PERSISTERENT, LUTTANT POUR SE SORTIR D'UNE EXISTENCE PITOYABLE, MAIS ILS FINIRENT PAR DISPARAITRE EUX AUSSI.
+1:Avec l'échec du complot visant à éliminer les mutants, les Collines Brisées commençèrent à prospérer.
+2:Puis, l'uranium s'épuisa.
+3:Ayant perdu sa seule raison d'exister, la ville se désagrégea lentement.
+4:Les résidents emportèrent avec eux leurs richesses, laissant derrière eux une ville fantôme abandonnée et balayée par les vents.
+5:Quelques-uns persistèrent, luttant pour se sortir d'une existence pitoyable, mais ils finirent par disparaître eux aussi.

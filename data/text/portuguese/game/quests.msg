@@ -9,11 +9,11 @@
 {203}{}{Get car part for Smitty.}
 {204}{}{Return Anna's locket.}
 {205}{}{Collect Rebecca's money from Fred.}
-{206}{}{Get Rebecca's book from Derek.}
+{206}{}{Pegue o livro da Rebecca com Derek.}
 {207}{}{Deliver a meal to Smitty for Mom.}
 {208}{}{Lara wants to know what is being guarded in the church.}
 {209}{}{Get permission from Metzger for the gang war.}
-{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{210}{}{Encontre um ponto fraco na gangue de Tyler que vigia a igreja.}
 {211}{}{Help Lara attack Tyler's gang.}
 {212}{}{Find a way to get the orphans off the streets.}
 {300}{}{Refuel the still.}
@@ -29,13 +29,13 @@
 {403}{}{Jonny is missing. Find him and bring him home to Balthas.}
 {404}{}{Jonny's in the Slag caves. Find a way to get Jonny back home to Balthas.}
 {405}{}{Farrel has a rodent problem in his garden. Remove the infestation.}
-{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{406}{}{Entregue a mensagem de Slag para Jo em Modoc.}
 {407}{}{Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
 {408}{}{Go to the Den and tell Karl it's alright to come back home.}
 {409}{}{Guard Grisham's brahmin.}
 {500}{}{Get a plow for Mr. Smith.}
 {501}{}{Deliver Moore's briefcase to Mr. Bishop in New Reno.}
-{502}{}{Deliver a sample of Jet to Dr. Troy.}
+{502}{}{Entregue uma amostra de Jet ao Dr. Troy.}
 {503}{}{Solve the Gecko powerplant problem.}
 {504}{}{Deliver Lynette's holodisk to Westin in NCR.}
 {505}{}{Rescue Amanda's husband, Joshua.}
@@ -85,7 +85,7 @@
 {1100}{}{Retrieve Parts/Gain Access to Vault 15.}
 {1101}{}{"Take care of" Officer Jack for Mira.}
 {1102}{}{Complete the brahmin drive.}
-{1103}{}{Retrieve the papers from Dr. Henry.}
+{1103}{}{Recupere os papéis do Dr. Henry.}
 {1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Eliminate Mr. Bishop.}
 {1106}{}{Deliver Westin's holodisk to Lynette in Vault City.}
@@ -119,7 +119,7 @@
 {1511}{}{Find Badger's girlfriend in the hold below the ship.}
 {1512}{}{The Dragon wants you to take out Lo Pan - hand to hand.}
 {1513}{}{Lo Pan wants you to take out the Dragon - hand to hand, if possible.}
-{1514}{}{Get Chip's spleen back.}
+{1514}{}{Pegue o baço de Chip de volta.}
 {1515}{}{Get some hardened power armor from Crockett.}
 {1516}{}{Get the vertibird plans for the Brotherhood of Steel.}
 {1517}{}{Disable the Shi submarine threatening the tanker.}
@@ -129,7 +129,7 @@
 {1521}{}{Deliver the plant seed sample to Dr. Wong.}
 {1522}{}{Eliminate Dr. Wong without alerting the Shi.}
 {1523}{}{Clear out Dr. Sheng's lab.}
-{1600}{}{Deal with the deathclaw.}
+{1600}{}{Lide com o deathclaw.}
 {1601}{}{Fix K-9.}
 {1602}{}{Retrieve the FOB from the base Commander.}
 {1700}{}{}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Rescue Chrissy.}
 {3201}{}{Kill Darion.}
-{3202}{}{Complete the deal with NCR.}
+{3202}{}{Complete o acordo com a NCR.}
 {3203}{}{Give the Spy Holodisk to the authorities in NCR.}

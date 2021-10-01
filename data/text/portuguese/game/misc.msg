@@ -43,7 +43,7 @@
 {5001}{}{está sem munição para a}
 {5002}{}{recarregar}
 {6000}{}{Sobre o que quer perguntar?}
-{7000}{}{You aren't wearing the Pip-Boy!}
+{7000}{}{Você não está usando o Pip-Boy!}
 {8000}{}{Você está sobrecarregado.}
 {8001}{}{%s está sobrecarregado..}
 {8500}{}{Você ganha %d pontos de experiência pelo uso bem sucedido de sua habilidade.}

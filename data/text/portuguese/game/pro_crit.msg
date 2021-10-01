@@ -9,9 +9,9 @@
 {600}{}{Radscorpion}
 {601}{}{A mutated scorpion.}
 {700}{}{Deathclaw}
-{701}{}{An immature deathclaw.}
+{701}{}{Um deathclaw imaturo.}
 {800}{}{Deathclaw}
-{801}{}{An immature deathclaw.}
+{801}{}{Um deathclaw imaturo.}
 {900}{}{Dog}
 {901}{}{A canine, probably of a mixed breed.}
 {1000}{}{Brahmin}

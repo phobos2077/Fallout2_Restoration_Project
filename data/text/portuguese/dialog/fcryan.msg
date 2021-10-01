@@ -22,6 +22,6 @@
 {121}{}{Cara!}
 {122}{}{Ahhh, VAMOS!}
 {123}{}{Aggro-suuuuuuuuuurge!}
-{124}{}{Don't make me put the mosh face on.}
+{124}{}{Não me faça ficar puto da cara.}
 {125}{}{Sim, certo?}
 {126}{}{Exatamente, senhor. Heh heh heh.}
