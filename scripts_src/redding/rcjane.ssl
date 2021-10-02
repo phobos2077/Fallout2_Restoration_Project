@@ -487,7 +487,7 @@ procedure Node016 begin
    if (dude_caps >= 100) then
        NOption(mstr(195)+mstr(Fighter2)+mstr(196),Node016b,004);
    BOption(197,Node016c,004);
-   NOption(198,Node999,004); //edit by killap - was 016d
+   NOption(198,Node016d,004);
 end
 
 procedure Node016a begin
@@ -896,136 +896,11 @@ procedure Node016c begin
 end
 
 procedure Node016d begin
-   gfade_out(600);
-   gfade_in(600);
-
-   game_time_advance(30*ONE_GAME_MINUTE);
-   inc_local_var(LVAR_Current_Fight);
-
-   if (map_var(MVAR_Rat_Fighter1) == 1) then begin
-       if ( tile_num( Molerat_Ptr1 ) != CAGE1_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat1,1);
-         Molerat_Ptr1:=create_object_sid(PID_FIGHTING_MOLERAT_1,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr1,TEAM_LONER);
-         set_ai(Molerat_Ptr1,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr1,FIGHTER1_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr1,FIGHTER1_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter1) == 2) then begin
-       if ( tile_num( Molerat_Ptr2 ) != CAGE2_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat2,1);
-         Molerat_Ptr2:=create_object_sid(PID_FIGHTING_MOLERAT_2,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr2,TEAM_LONER);
-         set_ai(Molerat_Ptr2,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr2,FIGHTER1_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr2,FIGHTER1_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter1) == 3) then begin
-       if ( tile_num( Molerat_Ptr3 ) != CAGE3_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat3,1);
-         Molerat_Ptr3:=create_object_sid(PID_FIGHTING_MOLERAT_3,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr3,TEAM_LONER);
-         set_ai(Molerat_Ptr3,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr3,FIGHTER1_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr3,FIGHTER1_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter1) == 4) then begin
-       if ( tile_num( Molerat_Ptr4 ) != CAGE4_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat4,1);
-         Molerat_Ptr4:=create_object_sid(PID_FIGHTING_MOLERAT_4,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr4,TEAM_LONER);
-         set_ai(Molerat_Ptr4,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr4,FIGHTER1_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr4,FIGHTER1_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter1) == 5) then begin
-       if ( tile_num( Molerat_Ptr5 ) != CAGE5_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat5,1);
-         Molerat_Ptr5:=create_object_sid(PID_FIGHTING_MOLERAT_5,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr5,TEAM_LONER);
-         set_ai(Molerat_Ptr5,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr5,FIGHTER1_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr5,FIGHTER1_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter1) == 6) then begin
-       if ( tile_num( Molerat_Ptr6 ) != CAGE6_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat6,1);
-         Molerat_Ptr6:=create_object_sid(PID_FIGHTING_MOLERAT_6,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr6,TEAM_LONER);
-         set_ai(Molerat_Ptr6,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr6,FIGHTER1_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr6,FIGHTER1_HEX,0);
-   end
-
-
-   if (map_var(MVAR_Rat_Fighter2) == 1) then begin
-       if ( tile_num( Molerat_Ptr1 ) != CAGE1_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat1,1);
-         Molerat_Ptr1:=create_object_sid(PID_FIGHTING_MOLERAT_1,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr1,TEAM_LONER);
-         set_ai(Molerat_Ptr1,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr1,FIGHTER2_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr1,FIGHTER2_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter2) == 2) then begin
-       if ( tile_num( Molerat_Ptr2 ) != CAGE2_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat2,1);
-         Molerat_Ptr2:=create_object_sid(PID_FIGHTING_MOLERAT_2,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr2,TEAM_LONER);
-         set_ai(Molerat_Ptr2,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr2,FIGHTER2_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr2,FIGHTER2_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter2) == 3) then begin
-       if ( tile_num( Molerat_Ptr3 ) != CAGE3_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat3,1);
-         Molerat_Ptr3:=create_object_sid(PID_FIGHTING_MOLERAT_3,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr3,TEAM_LONER);
-         set_ai(Molerat_Ptr3,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr3,FIGHTER2_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr3,FIGHTER2_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter2) == 4) then begin
-       if ( tile_num( Molerat_Ptr4 ) != CAGE4_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat4,1);
-         Molerat_Ptr4:=create_object_sid(PID_FIGHTING_MOLERAT_4,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr4,TEAM_LONER);
-         set_ai(Molerat_Ptr4,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr4,FIGHTER2_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr4,FIGHTER2_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter2) == 5) then begin
-       if ( tile_num( Molerat_Ptr5 ) != CAGE5_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat5,1);
-         Molerat_Ptr5:=create_object_sid(PID_FIGHTING_MOLERAT_5,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr5,TEAM_LONER);
-         set_ai(Molerat_Ptr5,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr5,FIGHTER2_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr5,FIGHTER2_HEX,0);
-   end else if (map_var(MVAR_Rat_Fighter2) == 6) then begin
-       if ( tile_num( Molerat_Ptr6 ) != CAGE6_HEX ) then begin
-         set_local_var(LVAR_Tmp_Rat6,1);
-         Molerat_Ptr6:=create_object_sid(PID_FIGHTING_MOLERAT_6,0,0,SCRIPT_RCFITRAT);
-         set_team(Molerat_Ptr6,TEAM_LONER);
-         set_ai(Molerat_Ptr6,AI_GENERIC_RAT);
-         move_to(Molerat_Ptr6,FIGHTER2_HEX,0);
-       end
-       else
-         move_to(Molerat_Ptr6,FIGHTER2_HEX,0);
-   end
+  set_map_var(MVAR_Rat_Fighter1,0);
+  set_local_var(LVAR_Fighter1,0);
+  set_map_var(MVAR_Rat_Fighter2,0);
+  set_local_var(LVAR_Fighter2,0);
+  call Node999;
 end
 
 procedure Node017 begin
