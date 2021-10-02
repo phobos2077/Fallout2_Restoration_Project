@@ -1,12 +1,12 @@
 {100}{}{Você vê uma pessoa com um pijama engraçado. Ele parece preocupado.}
 {101}{}{Você vê um técnico de submarino Shi.}
 {150}{}{Uh, o que você está fazendo se esgueirando por aí?}
-{151}{}{Are you some kind of spy?}
-{200}{}{This is filthy, look at all that rust!}
-{201}{}{I can't fathom why we need to keep this running.}
-{202}{}{Those torpedoes are an accident waiting to happen.}
-{300}{}{I don't recall ever seeing you around here, what are you doing in the torpedo room? And who are you anyway?}
-{301}{}{You again? What are you still doing in the torpedo room? And who are you anyway?}
+{151}{}{Você é algum tipo de espião?}
+{200}{}{Que nojo, olha só essa ferrugem!}
+{201}{}{Não consigo entender por que mantemos isso funcionando.}
+{202}{}{Esses torpedos são um acidente esperando para acontecer.}
+{300}{}{Não me lembro de ter visto você por aqui, o que faz na sala de torpedos? E quem é você, afinal?}
+{301}{}{Você de novo? O que você está fazendo na sala de torpedos? E quem é você, afinal?}
 {302}{}{I'm a last-minute addition to your tech team. Sorry for not informing you earlier. Oh, and I'm here to do some
  maintenance on the torpedoes. They look horrible, an accident waiting to happen!}
 {303}{}{I was added to your roster just recently. I was asked to work with the targeting systems of the torpedoes,
@@ -32,8 +32,8 @@
 {350}{}{Oh, specialists in both fields are not common in the wastelands. I guess I can trust you, so go ahead and fix those
  torpedoes so that I can finally feel a little safer.}
 {351}{}{Alright.}
-{360}{}{Hey, I'm busy here.}
-{361}{}{Sorry, I'm working.}
+{360}{}{Eai, estou ocupado aqui.}
+{361}{}{Desculpe, estou trabalhando.}
 {370}{}{Don't touch that!}
 {371}{}{What did I tell you?!}
 {372}{}{Eu avisei a você!}

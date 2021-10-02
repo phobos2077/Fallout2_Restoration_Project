@@ -67,7 +67,7 @@
 {400}{}{On ne me menace pas !}
 {401}{}{J'en suis sûre ! Vous ne frapperiez pas une fille, n'est-ce pas ?}
 {402}{}{'La vengeance est un plat qui se mange froid.'}
-{403}{}{I'm Buffy... you're toast.}
+{403}{}{Je suis Buffy... A votre santé.}
 {405}{}{Personne ne menace Doombot !}
 {406}{}{Meurs !}
 {410}{}{Seul un guanabana pourrait se mesurer au goût de cette victoire...}

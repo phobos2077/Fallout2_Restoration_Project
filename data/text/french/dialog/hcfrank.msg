@@ -9,7 +9,7 @@
 {108}{}{Que pouvez-vous me dire sur cet endroit ?}
 {109}{}{Que peux-tu me dire sur Marcus ?}
 {110}{}{J'sais pas c'que tu veux dire, espèce de dingue. Barre-toi.}
-{111}{}{Oooooh...}
+{111}{}{Hoooo...}
 {112}{}{J'm'appelle Franc. J'vais te demander qui t'es, mais j'm'en tape complètement.}
 {113}{}{Oh, une tête dure, hein ?}
 {114}{}{Pas de problème. Je me fous aussi de savoir qui t'es.}

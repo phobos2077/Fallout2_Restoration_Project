@@ -40,7 +40,7 @@
 {173}{}{Que fais-tu ici ?}
 {174}{}{Je me suis procuré une copie des plans auprès des Shis.}
 {175}{}{J'ai les plans des hélicos.}
-{176}{}{The Shi have the plans for the vertibird.}
+{176}{}{Les Shis détiennent les plans des hélicos.}
 {177}{}{Que puis-je pour toi ?}
 {178}{}{Laisse tomber. Salut.}
 {179}{}{Je suis Harry, AHS-5. Je suis le frère étoile responsable de la fusée. Nous allons l'utiliser pour nous rendre sur Quetzel.}

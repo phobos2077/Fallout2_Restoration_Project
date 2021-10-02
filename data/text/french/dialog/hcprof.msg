@@ -74,7 +74,7 @@
 {401}{}{QUOI ? T'as triché !}
 {402}{}{Emat ?}
 {403}{}{Ne sois pas mauvaise langue parce que tu as perdu.}
-{404}{}{And... checkmate!}
+{404}{}{Et... échec et mat !}
 {405}{}{Echec et mat !}
 {406}{}{::Tricheur:: Tuer plante ! <Clic clac clic>}
 {407}{}{Tu as prouvé que tu peux surpasser un radscorpion plus intelligent que toi.}

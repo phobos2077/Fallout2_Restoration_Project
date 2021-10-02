@@ -37,7 +37,7 @@
 {160}{}{Tu ferais mieux de faire attention à l'intérieur.}
 {161}{}{Bienvenue dans la zone de contrôle.}
 {162}{}{Ne touche à rien de ce qui se trouve là-dedans.}
-{163}{}{If something goes wrong in there, we'll come looking for you.}
+{163}{}{Si quelque chose tourne mal pour toi, nous viendrons te chercher.}
 {164}{}{En cas de problème, ce sera de ta faute.}
 {170}{}{Quelle surprise de voir un Peaudouce comme toi ici !}
 {171}{}{On dirait que tu commences à bronzer légèrement.}

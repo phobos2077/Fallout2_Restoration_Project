@@ -32,8 +32,7 @@
 {131}{}{[Terminé]}
 {132}{}{Très bien. Donne-moi un jour et ce sera prêt.}
 {133}{}{Formidable. Au revoir.}
-{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
- should do it. You want it or not?}
+{134}{}{Bon courage si tu veux le faire raffiner ailleurs. C'est un procédé dangereux, seul un professionnel peut s'en charger. Alors, c'est oui ou c'est non ?}
 {135}{}{Oui.}
 {136}{}{Non.}
 {137}{}{Bien. Tu n'as rien à faire ici. Sois sympa et laisse-nous faire notre boulot.}

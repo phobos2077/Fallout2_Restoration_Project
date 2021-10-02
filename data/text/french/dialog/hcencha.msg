@@ -10,7 +10,7 @@
 {109}{}{Je regrette pour Chad. Qui c'est le nouveau patron ?}
 {110}{}{Non, merci.}
 {111}{}{Si tu cherches du travail, vois avec Bill, le gars qui est à l'intérieur là-bas. A l'INTERIEUR. Il te comprendra peut-être. Bonne chance !}
-{112}{}{Duhhhh...}
+{112}{}{Ben...}
 {113}{}{Ce serait }
 {114}{}{Oui.}
 {115}{}{Non.}
@@ -43,7 +43,7 @@
 {142}{}{Tu viens ?}
 {143}{}{Merci. Voici tes $500. Si tu veux un autre boulot, vois avec Bill.}
 {144}{}{Espèce de minable malade ! Tu vas mourir maintenant !}
-{145}{}{Umm...}
+{145}{}{Mmmm...}
 {150}{}{, le garde de caravane.}
 {151}{}{. Je suis garde pour les caravanes de Bill. Autre chose ?}
 {152}{}{.}

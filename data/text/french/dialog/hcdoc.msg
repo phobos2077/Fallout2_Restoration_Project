@@ -97,7 +97,7 @@
 {196}{}{J'avais d'autres questions.}
 {197}{}{Merci. A bientôt.}
 {198}{}{Tu as mal ? Laisse-moi faire.}
-{199}{}{Umm...}
+{199}{}{Mmmm...}
 {200}{}{Merci. A une prochaine !}
 {201}{}{Qui est blessé ? Bon, mettez-vous-en file indienne et je vais m'occuper de vous tous.}
 {202}{}{Encore une chose...}

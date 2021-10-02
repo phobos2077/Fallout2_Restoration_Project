@@ -14,11 +14,11 @@
 {113}{}{[Retour]}
 {114}{}{[Déconnexion]}
 {115}{}{ERREUR : Réservoirs de carburant vides.}
-{116}{}{ERROR: Navigation Computer non Functional.}
+{116}{}{ERREUR : Ordinateur de navigation non opérationnel.}
 {117}{}{Réservoirs de carburant : Vides - Cale : Vide - Ordinateur de navigation : Opérationnel - Câbles d'amarrage : Attachés}
 {118}{}{Réservoirs de carburant : pleins - Cale : Vide - Ordinateur de navigation : Opérationnel - Câbles d'amarrage : Attachés}
-{119}{}{You see a PoseidoNet Navigation Computer.}
+{119}{}{Tu vois un ordinateur de navigation PoséidoNet.}
 {129}{}{[Tu lances rapidement la séquence de largage et le navire part comme une flèche en direction de la plate-forme pétrolière.]}
 {130}{}{[Terminé]}
-{131}{}{Navigation Computer on-line.}
+{131}{}{Ordinateur de navigation en ligne.}
 {200}{}{ATTENTION : Sous-marin toujours actif. Continuer entraînerait la destruction du pétrolier et tout ce qui s'y trouve.}

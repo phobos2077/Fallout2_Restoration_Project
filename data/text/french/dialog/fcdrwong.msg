@@ -136,7 +136,7 @@
 {453}{}{J'ai toujours besoin de matériel supplémentaire.}
 {454}{}{Donne-moi l'argent.}
 {455}{}{Tu peux garder ta récompense. Je l'ai fait uniquement parce que je pensais que c'était la meilleure chose à faire.}
-{460}{}{Here you go. [He hands you various high powered weapons]}
+{460}{}{Et voilà. [Il te tend un stock d'armes puissantes.]}
 {461}{}{[Terminé]}
 {470}{}{Et voilà. [Il te donne divers matériels.]}
 {471}{}{[Terminé]}

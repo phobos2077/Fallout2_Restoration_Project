@@ -58,8 +58,7 @@
 {261}{}{Ecoute, niveau technique, tu m'as tout l'air d'un expert, alors s'il s'agissait d'une bombe, tu t'en serais déjà aperçu. S'il te plaît, installe la pièce.}
 {262}{}{Tu dois avoir raison. Je ferais mieux de trouver un autre moyen d'installer cette pièce.}
 {270}{}{Ok, j'y suis. Mais je ne sais toujours pas avec certitude s'il s'agit de la bonne pièce ou d'un piège quelconque. Tu sais, je dois préserver mes compétences, j'ai tellement de valeur. Je devrais peut-être demander à quelqu'un d'autre de le faire... Plus tard... Bien plus tard.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
+{271}{}{Cela doit être fait maintenant. Et tu es la seule personne à pouvoir le faire correctement. Allez, l'avenir de Gecko dépend de toi !}
 {272}{}{Tu dois avoir raison. Je ferais mieux de trouver un autre moyen d'installer cette pièce.}
 {300}{}{Eh bien, ça consomme certainement beaucoup d'uranium. Et il y a des fuites. Tu sais, j'ai demandé à quelqu'un de les réparer, mais personne ne m'écoute.}
 {301}{}{J'ai entendu parler de fuites radioactives dans l'eau souterraine, est-ce vrai ?}

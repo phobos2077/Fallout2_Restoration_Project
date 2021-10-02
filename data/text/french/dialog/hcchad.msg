@@ -22,9 +22,7 @@
 {138}{}{Ca a l'air chiant.}
 {139}{}{J'ai d'autres questions.}
 {140}{}{Merci. Au revoir.}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{Te parler des Collines Brisées ? Bien... Je suis arrivé il y a quelques années. J'ai commencé à travailler pour Bill, l'armateur, et j'ai gravi les échelons. Je suis sous les ordres de Marcus et de Bill, mais je suis responsable du gagne-pain de la ville.}
 {142}{}{J'ai d'autres questions.}
 {143}{}{Salut.}
 {144}{}{Comme quoi ?}

@@ -153,10 +153,7 @@
 {627}{}{C'est un luxe pour ma pomme ! Je reviendrai quand j'aurai l'argent.}
 {630}{}{Tu veux améliorer cette Arme de Mêlée ? Je peux la *surcharger* pour $}
 {631}{}{Certainement.}
-{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye.] Well, this is a mite challengin', but I think I can fix this up real nice
- for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
- workbench and locks it in a really big vise.]}
+{640}{}{[Skeeter prend l'objet et l'examine, une étrange lueur dans les yeux.] Hum, ce sera pas facile facile, mais je crois pouvoir te l'arranger joliment. Bouge pas... [Skeeter emporte l'arme vers son établi et la bloque dans un énorme étau.]}
 {641}{}{Ok.}
 {650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
  don't know exactly what he's doing but that weird chuckle and all the pounding are

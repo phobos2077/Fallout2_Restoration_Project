@@ -101,8 +101,7 @@
 {200}{}{[Plus]}
 {201}{}{Tu es indésirable ici. Tu as déjà fait assez de mal.}
 {202}{}{[Terminé]}
-{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
- Jail. Sometimes he's in the tavern or at home, but he's usually working.}
+{300}{}{En général Marcus est à la prison ou à la banque (une prison plus stricte). Parfois il est à la taverne ou chez lui, mais en général tu le trouveras au travail.}
 {301}{}{Quelle poisse !}
 {302}{}{Merde !}
 {303}{}{Hourra !}
