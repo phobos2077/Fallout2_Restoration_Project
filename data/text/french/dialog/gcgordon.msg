@@ -56,8 +56,7 @@
 {282}{}{D'accord, je prends ce disque. Je crois vraiment pouvoir le remettre entre de bonnes mains. Au revoir.}
 {290}{}{Hum, j'ai pas besoin de ton aide.}
 {291}{}{Eh bien, je ne pense pas que tous les sectaires vivent dans la Cité de l'Abri, pas vrai, mon vieux Gordie ? Au revoir.}
-{300}{}{Our atomic power plant is still barely operational. You must not take the information to
- Vault City yet.}
+{300}{}{Notre centrale atomique est encore à peine opérationnelle. Tu ne dois pas apporter cette information à la Cité de l'Abri pour le moment.}
 {301}{}{Je ne pense pas que les habitants de la Cité de l'Abri seront très intéressés par des données émanant des Goules.}
 {302}{}{Non, pas encore... Mais je vais le faire. Au revoir.}
 {303}{}{Donner ces données à la Cité de l'Abri est seulement une étape de ta route. Notre centrale nucléaire n'est toujours qu'à moitié opérationnelle et elle doit être réparée.}

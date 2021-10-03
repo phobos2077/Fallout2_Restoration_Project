@@ -79,9 +79,7 @@
 {291}{}{Quoi d'autre ?}
 {300}{}{Y'a un très bon trappeur, Souriant, qui est allé dans le Nord pour chercher d'où ils venaient. Il était convaincu qu'ils venaient tous du même endroit. Mais cela fait des mois que personne n'a plus de nouvelles.}
 {301}{}{Qu'est-ce qui lui est arrivé, d'après toi ?}
-{310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
- Buckner runs Buckner house, y'know.}
+{310}{}{Peut-être qu'il a trouvé d'où ils venaient et il s'est fait manger. [Hé hé.] Mais je vais te dire une chose : le jour où il n'est pas rentré, le coeur de Mme Buckner s'est presque brisé. Tu vois, c'était son homme. Mme Buckner, tu sais, c'est celle qui tient la Maison Buckner.}
 {311}{}{Intéressant ? Parle-moi d'autre chose.}
 {312}{}{Ca me suffit pour l'instant. Au revoir.}
 {320}{}{Des voitures on en a plein. Elles attendent que leurs propriétaires reviennent des courses. Mais ils ne sont jamais venus. Pas une ne fonctionne. Il y a une superbe Highwayman Chrysalis à l'Est d'ici, mais je n'ai pas encore trouvé de solution pour aller jusque-là.}

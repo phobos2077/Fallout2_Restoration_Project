@@ -60,7 +60,7 @@
 {314}{}{Protégez l'être Elu des idioties des camelots !}
 {315}{}{être Elu ! Rejoins-nous !}
 {316}{}{VENGEANCE DES MAL LAVES !}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Tu ne seras jamais un 'Mal Lavé', imbécile heureux !}
 {318}{}{Pas la moindre chance !}
 {319}{}{Nous n'avons pas encore fini !}
 {320}{}{J'attends ce jour depuis trèèèès longtemps.}

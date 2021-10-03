@@ -94,7 +94,7 @@
 {362}{}{Tu as réponse à tout, pas vrai ? Eh bien, j'espère que tu as aussi des réponses sur l'au-delà, car je vais t'y envoyer sur-le-champ.}
 {363}{}{Je vais devoir y réfléchir. Au revoir.}
 {370}{}{Je vois que tu as un beau kit à outils. C'est un Claque et d'Equerre, hein ? Je veux bien l'échanger contre ce contrôleur de transmission.}
-{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
+{371}{}{Hé toi, te r'voilà. T'es de retour avec mon kit de réparation. Hum, un Claque et d'Equerre, c'est les meilleurs. Alors on l'fait cet échange ?}
 {372}{}{Marché conclu.}
 {373}{}{Pas encore. Je vais attendre un peu. Au revoir.}
 {380}{}{C'est un marché honnête. T'as juste à brancher c'truc sur ta voiture pour qu'elle marche.}
@@ -155,9 +155,7 @@
 {631}{}{Certainement.}
 {640}{}{[Skeeter prend l'objet et l'examine, une étrange lueur dans les yeux.] Hum, ce sera pas facile facile, mais je crois pouvoir te l'arranger joliment. Bouge pas... [Skeeter emporte l'arme vers son établi et la bloque dans un énorme étau.]}
 {641}{}{Ok.}
-{650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
- don't know exactly what he's doing but that weird chuckle and all the pounding are
- making you nervous.]}
+{650}{}{[Pendant que tu attends, tu vois Skeeter, de dos, qui s'active sur ton arme. Tu ne sais pas au juste ce qu'il fait, mais ses gloussements bizarres et tous les martèlements te rendent nerveux.]}
 {651}{}{Attends...}
 {660}{}{[L'attente continue, martèlements et gloussements redoublent...]}
 {661}{}{[Tu siffles (faux) et tu fais des ombres chinoises sur le mur du fond de l'atelier de Skeeter...]}
