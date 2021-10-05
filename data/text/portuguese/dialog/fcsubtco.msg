@@ -1,4 +1,4 @@
-{100}{}{You see an old console.}
+{100}{}{Você vê um console antigo.}
 {101}{}{It appears that this console manages the torpedo launching and loading system. Like everything else on the sub,
  it's rusted through and just barely working.}
 {200}{}{This subsystem, if disabled, should prevent the tubes from being reloaded with spare torpedoes. Disabling

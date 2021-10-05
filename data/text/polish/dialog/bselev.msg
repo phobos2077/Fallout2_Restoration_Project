@@ -111,7 +111,7 @@
 {211}{}{ zawodzi przy zak³adaniu poprawnie pu³apki we framudze drzwi.}
 {300}{}{Otwierasz drzwi.}
 {301}{}{Zamykasz drzwi.}
-{302}{}{ Nie mo¿esz zakluczyæ otwartych drzwi.}
+{302}{}{Nie mo¿esz zakluczyæ otwartych drzwi.}
 {303}{}{Ten klucz nie pasuje do zamka.}
 {320}{}{Nie mo¿na zamkn¹æ tych drzwi na klucz.}
 {400}{}{Otwierasz drzwi.}
