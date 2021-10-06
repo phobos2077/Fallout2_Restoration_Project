@@ -169,12 +169,9 @@ procedure talk_p_proc begin
    if self_can_see_dude then begin
       if not town_rep_negative then begin
          call Node001;
-      end
-      else if not town_rep_negative and town_rep_better_or_equal(-50) then begin
-         call Node002;
-      end
-      else begin
-         call Node998;
+      end else begin
+         if town_rep_better_or_equal(-50) then call Node002;
+         else call Node998;
       end
    end
 end
