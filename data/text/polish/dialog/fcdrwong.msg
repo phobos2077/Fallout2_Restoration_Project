@@ -159,7 +159,7 @@
 {530}{}{[Przyjmuje próbkê] Dziêkujê, natychmiast siê go pozbêdê. [Wzdycha] Wiedzia³em, ¿e Dr. Sheng jest szalony, nie s¹dzi³em jednak, ¿e posunie siê na tyle daleko, by spróbowaæ zabiæ swoich braci. Nie mo¿emy tak tego zostawiæ.}
 {531}{}{Zgadzam siê. Jest zupe³nie stukniêty.}
 {540}{}{*chwyta siê za serce* Echm!}
-{541}{}{Argggg!}
+{541}{}{Argggg.}
 {542}{}{Wooong!}
 {600}{}{Wyeliminowa³eœ Dr. Sheng'a dla Shi.}
 {601}{}{Dostarczy³eœ próbki roœlin dla dr Wong'a.}

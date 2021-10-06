@@ -17,9 +17,9 @@
 {116}{}{Mogê po prostu skopaæ ci ty³ek i przejœæ po tobie...}
 {117}{}{Wybacz, ale nie znam odpowiedzi na twoje pytania. PrzejdŸ próbê, któr¹ wyznaczy³a ci Starsza i udowodnij nam, ¿e jesteœ Dzieckiem Przeznaczenia, godnym, by poprowadziæ nasz lud.}
 {118}{}{Dobrze.}
-{119}{}{Aby przesun¹æ obelisk zagradzaj¹cy drogê, potrzeba dwóch ludzi. Samotnie niewiele zdzia³asz. Nie mam zamiaru ci pomóc, póki nie udowodnisz, ¿e jesteœ Dzieckiem Przeznaczenia!}
+{119}{}{Aby przesun¹æ obelisk zagradzaj¹cy drogê, potrzeba dwóch ludzi. Samotnie niewiele zdzia³asz. Nie mam zamiaru ci pomóc, póki nie udowodnisz, ¿e jesteœ Dzieckiem Przeznaczenia.}
 {120}{}{Y-hy. Ju¿ wszystko rozumiem.}
 {121}{}{Witaj, Dziecko Przeznaczenia! Jak mi³o mi ciê spotkaæ! Czym mogê ci s³u¿yæ?}
-{122}{}{Moja czeœæ. To wszystko!}
+{122}{}{Moja czeœæ. To wszystko.}
 {123}{}{Jestem tu, ¿eby siê po¿egnaæ, nim wyruszê ze sw¹ misj¹.}
 {124}{}{Niechaj duchy naszych przodków maj¹ ciê w opiece, Dziecko Przeznaczenia. Oby twa podró¿ okaza³a siê owocna.}

@@ -6,7 +6,7 @@
 {203}{}{Przykro mi, ale wiedza zawarta w naszych ksiêgach jest bezu¿yteczna dla ciebie.}
 {300}{}{Witaj w Opactwie. Jak mogê ci pomóc?}
 {301}{}{Co mo¿esz mi powiedzieæ o twoim zakonie?}
-{302}{}{Czy s³ysza³eœ kiedykolwiek o GECKu?.}
+{302}{}{Czy s³ysza³eœ kiedykolwiek o GECKu?}
 {303}{}{Czy wiesz gdzie mogê znaleŸæ Kryptê 13?}
 {304}{}{Bywaj.}
 {400}{}{Co chcesz wiedzieæ?}
@@ -26,7 +26,7 @@
 {414}{}{Œwietnie, daj znaæ jak bêdziesz mieæ t¹ ksi¹¿kê.}
 {415}{}{W porz¹dku, czeœæ.}
 {416}{}{Witaj ponownie, dziecko.}
-{417}{}{Uda³o mi siê zabiæ bestiê i odzyska³em ksi¹¿kê!}
+{417}{}{Uda³o mi siê zabiæ bestiê i odzyska³em ksi¹¿kê.}
 {418}{}{Œwietnie! Pozwól, ¿e j¹ wezmê!}
 {419}{}{Trzymaj.}
 {420}{}{Nie tak szybko. Ile jest dla ciebie warta?}
@@ -47,7 +47,7 @@
 {438}{}{[DALEJ]}
 {439}{}{Od tego czasu, u¿ywaj¹c ma³ej maszyny drukarskiej, powielano ksiêgi, oraz przepisywano je do komputerów Opactwa, aby zachowaæ je w formie cyfrowej, na wypadek gdyby ksiêgi zosta³y zniszczone. Przez te lata, inni przybywali do Opactwa, niektórzy zdecydowali siê wieœæ swoje ¿ycia tutaj w zaciszu i spokoju naszego górskiego domu.}
 {440}{}{Dziêki za opowieœæ.}
-{441}{}{Sk¹d przybyli wasi przodkowie.}
+{441}{}{Sk¹d przybyli wasi przodkowie?}
 {442}{}{Nigdy tego nie powiedzieli. Podejrzewamy, ¿e przyszli tu ze wschodu.}
 {443}{}{Có¿, dziêki za opowieœæ.}
 {444}{}{Czy potrzebujecie jakiejœ pomocy tu w klasztorze?}
@@ -110,6 +110,6 @@
 {3000}{}{Jak mogê ci pomóc?}
 {4091}{}{Wiêc nikt nie zada³ sobie nawet trudu ¿eby do niego zajrzeæ, sprawdziæ czy ¿yje? Co jeœli jest tam jakoœ uwiêziony i powoli umiera z g³odu?}
 {4092}{}{Myœlê, ¿e to mo¿liwe, ale musisz zrozumieæ. Jesteœmy spokojnymi ludŸmi. Myœl o zejœciu tam i walczeniu z tym potworem z pustkowi przera¿a nas. Nie jesteœmy odpowiednio wyposa¿eni do takiej konfrontacji. }
-{4177}{}{Uda³o mi siê zabiæ bestiê!}
+{4177}{}{Uda³o mi siê zabiæ bestiê.}
 {4188}{}{Œwietnie! A co z ksi¹¿k¹, uda³o ci siê j¹ odzyskaæ?}
 {6020}{}{Jeœli naprawdê chcesz okazaæ mi wdziêcznoœæ, zap³aæ.}
