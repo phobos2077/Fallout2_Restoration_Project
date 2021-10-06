@@ -3,7 +3,7 @@
 {102}{}{You see a pale but healthy looking citizen.}
 {103}{}{Might as well rest a bit.}
 {104}{}{Wonder what the safety movie is tonight?}
-{105}{}{What are you?}
+{105}{}{Que foi?}
 {106}{}{The weather's always the same here.}
 {107}{}{The Project is proceeding well.}
 {108}{}{It's a shame about Vice-President Bird.}

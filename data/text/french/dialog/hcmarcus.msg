@@ -70,7 +70,7 @@
 {169}{}{T'as autre chose ?}
 {170}{}{J'ai d'autres questions.}
 {171}{}{Salut.}
-{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
+{172}{mcs20}{Quelqu'un a aidé deux tarés à se faire la belle à la banque. Trouve-les moi pour que je les remette en cabane.}
 {173}{}{T'as autre chose ?}
 {174}{}{J'ai d'autres questions.}
 {175}{}{Salut.}

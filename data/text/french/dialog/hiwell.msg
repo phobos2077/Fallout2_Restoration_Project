@@ -50,8 +50,7 @@
 {149}{}{Ha... Regarde ! Une grosse chose avec des pattes ! Tu peux pas te dépêcher un peu ?}
 {150}{}{Typhon aurait dû savoir que ces capsules étaient inutiles de nos jours !}
 {151}{}{Oh mon DIEU ! Cette chose est en train de me grimper dessus ! Au secours !!}
-{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
- shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
+{152}{}{Après tout, c'est gentil de sa part quand on y pense. Il a vraiment cru qu'il m'aidait. Peut-être que je ne devrais pas être si sévère avec ce vieil homme. ::Soupir:: Allez va, tant pis pour le trésor, j'ai d'autres endroits à découvrir et je ferais mieux de ne pas traîner...}
 {153}{}{::Pleurs::}
 {154}{}{Oublions ce puits !}
 {155}{}{Hmmmm... C'est bizarre, j'ai comme l'impression que j'ai oublié quelque chose à propos du puits. Bon allez, pas de temps à perdre.}

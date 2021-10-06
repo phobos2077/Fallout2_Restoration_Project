@@ -1,35 +1,35 @@
-{100}{}{You see a Shi in white clothing.}
-{101}{}{You see a Shi lab tech.}
-{102}{}{You see a Shi in white clothing in a science lab.}
-{103}{}{Man... Wong sure is a slave driver.}
-{104}{}{Work, work, work. That's all we're good for.}
-{105}{}{We'll change the wasteland with this experiment!}
-{106}{}{Look out, wasteland! We have something for you!}
-{107}{}{I want to see the sun again.}
-{108}{}{Mix this. Mix that. I get so bored sometimes.}
-{109}{}{Did you see the newest results of the big experiment! Most pleasing!}
+{100}{}{Você vê um Shi em roupas brancas.}
+{101}{}{Você vê um Shi técnico de laboratório.}
+{102}{}{Você vê um Shi com roupas brancas em um laboratório de ciências.}
+{103}{}{Cara... Wong com certeza é um motorista de escravos.}
+{104}{}{Trabalho, trabalho, trabalho. É só para isso que servimos.}
+{105}{}{Vamos mudar as terras devastadas com este experimento!}
+{106}{}{Cuidado, ermo! Temos algo para você!}
+{107}{}{Quero ver o sol outra vez.}
+{108}{}{Misture isso. Misture aquilo. As vezes isso é um saco.}
+{109}{}{Você viu os resultados recentes do grande experimento! Muito satisfatório!}
 {110}{}{Desculpa-me.}
-{116}{}{Ha! Teach those spies to try to break in!}
-{117}{}{The hackers will never try THAT again.}
-{118}{}{If we can't beat them with science, we beat them with our fighters.}
-{119}{}{Lo Pan and the Dragon together. That's a scary thought.}
-{120}{}{That hacker did not last long.}
-{121}{}{Work, work, work. That's all we're good for.}
-{122}{}{We'll change the wasteland!}
-{123}{}{Look out, wasteland!}
-{124}{}{I want to see the sun again.}
-{127}{}{Sheng Ming is a vile slug.}
-{128}{}{One of these days, we'll be done.}
-{129}{}{For the glory of the Emperor. Right.}
-{130}{}{Did you hear? Someone hacked our computers!}
-{131}{}{I'll bet it was the Hubologists who did it.}
-{132}{}{We should unleash a virus on the Hubologists.}
-{133}{}{I want revenge on the hackers!}
-{134}{}{Someday we'll find out who hacked us.}
-{135}{}{Work, work, work. That's all we're good for.}
-{144}{}{We're doing good work here! Don't ruin it!}
-{145}{}{We're trying to save the wasteland, you idiot!}
-{146}{}{No! Not our scientists!}
+{116}{}{Ha! Isso ensina aqueles espiões a invadir aqui!}
+{117}{}{Os hackers nunca tentarão ISSO outra vez.}
+{118}{}{Se não vencermos com a ciência, venceremos com nossos lutadores.}
+{119}{}{Lo Pan e o Dragão juntos. É um pensamento assustador.}
+{120}{}{Esse hacker não durou muito.}
+{121}{}{Trabalho, trabalho, trabalho. É só para isso que servimos.}
+{122}{}{Vamos mudar o ermo!}
+{123}{}{Cuidado, ermo!}
+{124}{}{Quero ver o sol outra vez.}
+{127}{}{Sheng Ming é um verme desprezível.}
+{128}{}{Um dia desses, terminaremos.}
+{129}{}{Pela glória do imperador. Correto.}
+{130}{}{Ouviu? Alguém invadiu nossos computadores!}
+{131}{}{Aposto que foram os Hubologistas que fizeram isso.}
+{132}{}{Devíamos mandar um vírus para os Hubologistas.}
+{133}{}{Eu quero me vingar dos hackers!}
+{134}{}{Algum dia descobriremos quem nos hackeou.}
+{135}{}{Trabalho, trabalho, trabalho. É só para isso que servimos.}
+{144}{}{Estamos fazendo um bom trabalho aqui! Não estrague tudo!}
+{145}{}{Estamos tentando salvar o ermo, seu babaca!}
+{146}{}{Não! Nossos cientistas não!}
 {147}{}{Ajuda!! Guardas!}
-{148}{}{Please! You don't understand!}
-{149}{}{No! Our experiments!}
+{148}{}{Por favor! Você não entende!}
+{149}{}{Não! Nossos experimentos!}

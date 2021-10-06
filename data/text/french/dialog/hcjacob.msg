@@ -29,8 +29,7 @@
 {150}{}{Je n'ai pas les idées claires à leur sujet.}
 {151}{}{Je les aime bien !}
 {152}{}{Dans ce cas, je vais te raconter la vraie histoire.}
-{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
- and forced everyone under his rule. }
+{153}{}{Un humain nommé Jacob (c'est de lui dont je tiens mon nom) a fondé cet endroit. Le mutant Marcus est arrivé et a placé tout le monde sous son joug.}
 {154}{}{Ca suffit. Tu n'as pas tout ton esprit. Au revoir.}
 {155}{}{Quoi d'autre ?}
 {156}{}{Peut-être que si je te raconte la véritable histoire, tu changeras d'avis.}
@@ -69,7 +68,7 @@
 {189}{}{Pas de problème. Tous des mutants de toute façon. Mais fais ça discrètement, je t'en prie.}
 {190}{}{Je comprends. J'ai d'autres questions.}
 {191}{}{Bien reçu. A plus.}
-{192}{}{More questions?}
+{192}{}{D'autres questions ?}
 {193}{}{J'ai du minerai à raffiner, mais je refuse de payer les prix pratiqués à la raffinerie.}
 {194}{}{Que peux-tu me dire sur les Collines Brisées ?}
 {195}{}{J'ai des produits chimiques à mélanger.}

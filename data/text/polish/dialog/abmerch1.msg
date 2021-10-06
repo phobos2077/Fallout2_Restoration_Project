@@ -17,7 +17,7 @@
 {305}{}{Nie chcia³bym przeszkadzaæ, w czym tkwi problem?}
 {306}{}{G³ówna pompa wodna dla Opactwa jest zepsuta. Cholera rzêzi³a przez kilka ostatnich dni i w koñcu zdech³a.}
 {307}{}{Jestem doœæ techniczny, mogê rzuciæ okiem?}
-{308}{}{Có¿, nie jestem za dobry je¿eli chodzi o maszyny, ale mo¿e mogê zobaczyæ czy coœ dam radê z tym zrobiæ?}
+{308}{}{Có¿, nie jestem za dobry je¿eli chodzi o maszyny, ale mo¿e mogê zobaczyæ czy coœ dam radê z tym zrobiæ.}
 {309}{}{Pewnie, nikt ciê nie bêdzie powstrzymywa³.}
 {310}{}{Uuu, przepraszam. Czeœæ.}
 {311}{}{Zobaczê, co mogê zrobiæ.}

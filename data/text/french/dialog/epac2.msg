@@ -18,7 +18,7 @@
 {250}{}{[Cette fois tu parviens à déchiffrer le message plus rapidement: "Reboot-moi !"] Oh, oui évidemment. [Tu redémarres la machine faisant fonctionner l'hologramme. Pour passer le temps, tu siffles tandis qu'elle ronronne en lançant ses procédures d'amorçage.]}
 {251}{}{[Continuer]}
 {260}{}{Par Hawking, tu l'as fait ! Mon programme vocal était bloqué en mode binaire depuis des *années*. Je n'ai pas eu la chance de dialoguer avec un confrère intelligent depuis fort longtemps. Crois-tu que qu'au moins *un* de mes camarades aurait eu la décence d'apprendre le binaire ? Bien sûr que non...}
-{261}{}{No prob--}
+{261}{}{Pas d'soucis.}
 {270}{}{Ils n'avaient pas de temps à me consacrer, tu comprends. En fait, ils étaient trop *occupés* à se complaire dans leur absurdité bureaucratique. Trop occupé à s'imposer les uns les autres de nouveaux règlements et à se chamailler comme des idiots. Et regarde où ça les a menés : coincés dans une boucle sans fin dans la salle de conférence. Ha ! Que ça leur serve de leçon.}
 {271}{}{Coincé dans une boucle ?}
 {272}{}{Je me suis déjà occupé de ce problème. La boucle est terminée.}

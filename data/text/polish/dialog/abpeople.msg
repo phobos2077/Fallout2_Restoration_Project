@@ -5,7 +5,7 @@
 {104}{}{Trzymaj siê z dala od alkoholu przez jakiœ czas.}
 {105}{}{Widzê, ¿e Henk ciê poczêstowa³ swoja "specjaln¹" nalewk¹.}
 {106}{}{Witaj, bohaterze!}
-{107}{}{Te dranie z Enklawy dosta³y od ciebie porz¹dnie po ty³kach, co?}
+{107}{}{Te dranie z Enklawy dosta³y od ciebie porz¹dnie po ty³kach!}
 {108}{}{Naprawdê jesteœ bohaterem!}
 {109}{}{S³ysza³em, ¿e uda³o ci siê zniszczyæ Enklawê, dobra robota!}
 {110}{}{Czeœæ.}

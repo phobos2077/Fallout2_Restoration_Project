@@ -1,16 +1,16 @@
-{100}{}{This hatch looks odd - unlike the rest of the vessel, it's relatively rust free and has an intricate,
- complicated lock.}
-{200}{}{You struggle with the hatch, but eventually you manage to rip it open. Pieces of the broken lock litter the
- tower and crunch under your boots.}
-{201}{}{You try your best, but the hatch just won't budge. Maybe explosives will help.}
-{202}{}{Looks like the hatch can be opened if you apply enough force. Marcus might help with that.}
-{210}{}{Hey Marcus, can you help me open this hatch?}
-{211}{}{Sure, just give me some room.}
+{100}{}{Esta escotilha parece estranha - ao contrário do resto do navio, até que é bem livre da ferrugem e tem um intrincado,
+ bloqueio complicado.}
+{200}{}{Você luta com a escotilha, mas com o tempo consegue abri-la. Pedaços da fechadura quebrada sujam a
+ torre e caem sobre suas botas.}
+{201}{}{Você tenta o seu melhor, mas a escotilha nem se move. Talvez alguns explosivos ajudem.}
+{202}{}{Parece que a escotilha pode ser aberta se você aplicar mais força. Marcus pode te ajudar.}
+{210}{}{Fala Marcus, você me ajuda a abrir esta escotilha?}
+{211}{}{Claro, apenas me dê algum espaço.}
 {212}{}{*hrrrgnnnr*}
-{213}{}{The supermutant struggles to pull the hatch up. For a moment, it looks as if he was about to bust a gut, but
- just then, he rips it open, littering the tower with pieces of the broken lock.}
-{220}{}{You fiddle with the lock for a while and open it. Lockpicking's definitely more than just a hobby for you.}
-{221}{}{You fiddle with the lock, but ultimately give up. There's got to be another way to open the lock.}
-{230}{}{The explosion rips open the hatch and the lock, apart from deafening you.}
-{240}{}{You fiddle with the lock for a while and relock it. Lockpicking's definitely more than just a hobby for you.}
-{241}{}{You fiddle with the lock, but ultimately give up. There's got to be another way to relock this.}
+{213}{}{O supermutante se esforça para puxar a escotilha. Por um momento, parece que ele estava prestes a explodir,
+ mas ele a abre, enchendo a torre com pedaços da fechadura quebrada.}
+{220}{}{Você mexe na fechadura por um tempo e a abre. arrombamento é bem mais do que apenas um hobby para você.}
+{221}{}{Você mexe na fechadura, mas acaba desistindo. Deve haver outra maneira de abri-la.}
+{230}{}{A explosão abre a escotilha, a fechadura, e te deixa surdo.}
+{240}{}{Você mexe na fechadura por um tempo e fecha de novo. Arrombamento é bem mais do que apenas um hobby para você.}
+{241}{}{Você mexe na fechadura, mas acaba desistindo. Deve haver outra maneira de travar novamente.}

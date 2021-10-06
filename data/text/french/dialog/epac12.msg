@@ -24,7 +24,7 @@
 {217}{}{Ca va aller ?}
 {218}{}{Mon Dieu. Je n'y crois pas. J'ai passé plus d'un siècle à l'intérieur de ce truc ?!}
 {219}{}{On dirait bien. Hé, attends, me regarde pas comme ça. J'ai rien à voir avec le fait que t'aies passé ta vie dans ce machin. En fait, je suis né il y'a seulement une vingtaine année. Je suis tombé par hasard sur cet endroit et j'ai voulu voir ce qui s'y passait.}
-{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
+{220}{}{Bon, tu vas m'aider, ou tu préfères que je reste nue à tes pieds ?}
 {221}{}{J'allais justement le faire. [Tu l'aides à se mettre debout.]}
 {222}{}{Pourquoi m'as-tu réveillée ?}
 {223}{}{Aucune raison particulière.}

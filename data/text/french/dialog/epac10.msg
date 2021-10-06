@@ -411,6 +411,6 @@
 {4250}{}{On perd notre temps ici. Les femelles zombies c'est pas mon truc. J'aime pas les nénettes qui ont l'air mortes AVANT que je me sois chargé d'elles.}
 {4260}{}{Pourquoi diable perdons-nous encore notre temps ici ? Sans déconner ?!}
 {4270}{}{Je pense pas avoir envie de rester dans cet endroit.}
-{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{[Il tourne rapidement la tête dans ta direction avant se lèver d'un bond. A peine t'a-t-il regardé, que ses yeux s'exorbitent et il commence à s'étouffer.]}
 {5001}{}{[FIN]}
 {5002}{}{Bordel de merde !}

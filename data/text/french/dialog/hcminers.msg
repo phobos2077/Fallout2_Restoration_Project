@@ -33,8 +33,7 @@
 {132}{}{Lise, une humaine relativement acceptable. Elle tient le magasin qui s'trouve juste à l'Ouest de la banque. Autre chose ?}
 {133}{}{Ok, d'accord. A plus tard.}
 {134}{}{Cameron c'est le chef des humains normaux. Il aime pas trop les mutants et les Goules, mais il nous traite pas trop mal. C'est un politicien, tu le trouveras soit à la banque soit au saloon. Parfois tu peux même le trouver au travail chez le maréchal-ferrant. Autre chose ? Et où suis-je, au fait ? Ah ouais... Alors... Autre chose ?}
-{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
- the jail. Anything else?}
+{135}{}{Marcus c'est notre chef. Il a participé à la fondation des Collines Brisées. Il est en général à la banque ou à la prison. Autre chose ?}
 {136}{}{Sale rapace. Tu sais comme on travaille dur ? Va pourrir !}
 {137}{}{Merci pour le minerai !}
 {138}{}{Je peux pas croire que la mine ait explosé. On va tous mourir de faim. Cette mine était la seule chose qui faisait tourner la ville. Bon, au moins je peux devenir sénile sans travailler...}

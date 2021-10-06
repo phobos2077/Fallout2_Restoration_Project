@@ -60,14 +60,14 @@
 {314}{}{Protégez l'être Elu des idioties des camelots !}
 {315}{}{être Elu ! Rejoins-nous !}
 {316}{}{VENGEANCE DES MAL LAVES !}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Tu ne seras jamais un 'Mal Lavé', imbécile heureux !}
 {318}{}{Pas la moindre chance !}
 {319}{}{Nous n'avons pas encore fini !}
 {320}{}{J'attends ce jour depuis trèèèès longtemps.}
 {400}{}{On ne me menace pas !}
 {401}{}{J'en suis sûre ! Vous ne frapperiez pas une fille, n'est-ce pas ?}
 {402}{}{'La vengeance est un plat qui se mange froid.'}
-{403}{}{I'm Buffy... you're toast.}
+{403}{}{Je suis Buffy... A votre santé.}
 {405}{}{Personne ne menace Doombot !}
 {406}{}{Meurs !}
 {410}{}{Seul un guanabana pourrait se mesurer au goût de cette victoire...}

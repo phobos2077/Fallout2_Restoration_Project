@@ -104,10 +104,7 @@
 {203}{}{Je vais voir avec eux, alors.}
 {204}{}{Ils sont pas mal. Mais bon... C'est sûr qu'ils pourraient toujours être mieux.}
 {205}{}{Ok. Merci pour toutes ces infos.}
-{206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
- something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
- far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
- from the other places around here... now those are some bastards.}
+{206}{}{Bien, étant donné que les mutants ne deviennent pas vieux et séniles (le gaz les préserve, un truc dans ce genre), les choses se présentent bien. Je veux dire, on veut pas tuer tout le monde, et il me semble que les humains ne nous voient pas d'un trop mauvais oeil. Evidemment, je parle pas des humains des autres villes du coin... Ceux-là sont des salauds.}
 {207}{}{D'accord, merci. Salut.}
 {300}{}{. Qu'en dis-tu ?}
 {301}{}{. Qu'en dis-tu ?}

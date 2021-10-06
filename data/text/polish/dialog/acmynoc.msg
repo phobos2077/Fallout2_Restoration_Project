@@ -34,7 +34,7 @@
 {181}{}{Martw siê tylko mostem, przyjacielu, ja sobie radê dam.}
 {182}{}{W³aœnie wychodzi³em. Do zobaczenia, przyjacielu.}
 {183}{}{Nie bêdê z tob¹ rozmawiaæ ani chwili d³u¿ej, zarozumia³a œwinio!}
-{184}{}{Czy mogê zadaæ ci kolejne pytanie?}
+{184}{}{Chcia³bym zapytaæ ciê o coœ jeszcze.}
 {185}{}{To by³o szybkie! Uda³o ci siê odnaleŸæ œwiêt¹ Kryptê 13?}
 {186}{}{Tak.}
 {187}{}{Nie, jeszcze nie.}
@@ -122,7 +122,7 @@
  Ale pamiêtaj styl ¿ycia ludzi z zewn¹trz mno¿y ludzi z³ych, którymi rz¹dzi chciwoœæ i zepsucie. Postêpuj rozwa¿nie, aby nie staæ siê jak Ten–Którego-Imienia–Nie-Wypowiadamy.}
 {606}{}{Nigdy nie zapomnê o swoich korzeniach. Dziêkuje za rady, Mynoc.}
 {607}{}{Ten-Którego-Imienia-Nie-Wypowiadamy? Yyy... kto?}
-{608}{}{Czy mianowanie Ciê Dzieckiem Przeznaczenia a¿ tak uderzy³o ci do g³owy, ¿e nie pamiêtasz... [Mynoc rozgl¹da siê, dla pewnoœci, ¿e nikt nie pods³uchuje, po czym nachyla siê do ciebie i mówi szeptem.]... Kaga.}
+{608}{}{Czy mianowanie Ciê Dzieckiem Przeznaczenia a¿ tak uderzy³o ci do g³owy, ¿e nie pamiêtasz... [Mynoc rozgl¹da siê, dla pewnoœci, ¿e nikt nie pods³uchuje, po czym nachyla siê do ciebie i mówi szeptem.]... Kaga?}
 {609}{}{Aaa! No tak, on. Na pewno nie pójdê w jego œlady. Dziêki.}
 {610}{}{A tak, on, jasne. Ale... yyy, no wiesz, opowiedz mi co z nim. Naprawdê lubiê tê opowieœæ.}
 {611}{}{[Mynoc mamrocze coœ pod nosem i potrz¹sa g³ow¹, po czym zaczyna opowiadaæ.] Jak zapewne wiesz, by³ kiedyœ najlepszym wojownikiem w plemieniu. Przewodzi³ wielu wyprawom w g³¹b œwiata zewnêtrznego i to w³aœnie tam zepsucie zaczê³o zatruwaæ mu umys³.}

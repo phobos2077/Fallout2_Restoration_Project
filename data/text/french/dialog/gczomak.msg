@@ -42,7 +42,7 @@
 {242}{}{Ok. Salut.}
 {250}{}{Ouais. C'est sûr. Maintenant, pars.}
 {251}{}{Eh bien, si tu le dis. Au revoir.}
-{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
+{260}{}{Oh ! Hé, hé... ouais. Je le savais ça. Hum, eh bien, euh, j'ai réussi ? }
 {261}{}{Bien sûr. Maintenant, laisse-moi entrer.}
 {262}{}{Non. Tu as échoué, et maintenant je dois signaler ta présence.}
 {270}{}{Bon, d'accord. Tu peux entrer.}

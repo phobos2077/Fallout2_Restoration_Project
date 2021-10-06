@@ -406,7 +406,7 @@
 {2302}{}{Ok, ne t'emballe pas.}
 {2303}{}{Pas de problème, nous partir maintenant.}
 {2304}{}{Nous penser toi avoir besoin te reposer. Grand-père Esprit des Os dire toi en faire trop. Toi prendre la vie plus tranquille.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{Nous bouger pas cadencé.}
 {2306}{}{Nous aller là maintenant.}
 {2307}{}{Relax, toi t'amuser, nous partir.}
 {3000}{}{Vers le Nord.}
@@ -476,9 +476,9 @@
 {3082}{}{Ca être bon être à la maison de nouveau.}
 {3083}{}{Tellement de jeunes vierges à qui raconter nos voyages... et si peu de temps pour le faire.}
 {3084}{}{Nous avoir besoin de parler avec les herbes superbes. Laisser le monde flotter a côté de nous.}
-{3086}{}{Take care, fren.}
+{3086}{}{Fais attention à toi l'ami.}
 {3087}{}{Nous et moi te souhaitons bonne chance.}
-{3088}{}{Thanks again for everything, fren.}
+{3088}{}{Encore merci pour tout l'ami.}
 {3090}{}{Ici être notre village. Nous et moi allons parler avec nos amis.}
 {3091}{}{Nous et moi allons parler avec nos amis avant d'aller faire fêter ça.}
 {3100}{}{[Plus]}

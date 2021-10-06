@@ -4,7 +4,7 @@
 {200}{}{[Twoje pojawienie siê zaskoczy³o starca.] S³uchaj, naprawdê muszê ju¿ iœæ...}
 {201}{}{Hej, czekaj. [Kiedy próbuje odejœæ, ³apiesz go za ramiê.]Kim jesteœ i co tu robisz o tej porze?}
 {202}{}{Co? Dlaczego, yyy...nazywam siê Tom, czy stary cz³owiek nie mo¿e siê ju¿ cieszyæ nocnym spacerem, bez odpowiadania na masê g³upich pytañ?}
-{203}{}{Nie tam sk¹d ja pochodzê. Po co ci ta ³opata na spacerze?}
+{203}{}{Nie kiedy przemyka siê jak z³odziej i nosi ³opatê.}
 {204}{}{W porz¹dku, ale po co ci ta ³opata?}
 {205}{}{Wszystko jedno, wynoszê siê st¹d.}
 {206}{}{Niewa¿ne. Przepraszam za zawracanie g³owy.}

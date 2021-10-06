@@ -25,7 +25,7 @@
 {124}{}{Uch-huh. }
 {125}{}{Neech-ech. Tyyyy. Daj. To boli.}
 {126}{hak004}{Niech twa aura rozœwietli me ¿ycie, gdy... och, stañ u mych drzwi, gdy ju¿ skoñczysz, a dam ci coœ dobrego.}
-{127}{}{Argggg!}
+{127}{}{Argggg.}
 {128}{hak005}{Roœliny o mrocznych duszach znów rozpleni³y siê w moim ogrodzie. Wiele wiosen dotyka³o mych koœci i jestem zbyt kruchy, by stan¹æ do tej walki, która w naturze nigdy siê nie koñczy. Proszê ciê o pomoc.}
 {129}{}{Nie mogê. Muszê natychmiast rozpocz¹æ sw¹ misjê.}
 {130}{}{Wiem, ¿e nie jesteœ z³ym facetem, ale mnie i tak ju¿ boli g³owa, wiêc chyba raczej dam sobie z tym spokój.}
@@ -89,7 +89,7 @@
 {188}{}{Potrzebujê uzdrowienia.}
 {189}{}{Mówi³eœ, ¿e gdzie s¹ te roœliny?}
 {190}{}{Nie mam ¿adnego ogrodu - o czym u licha gadasz tym razem?}
-{191}{}{Czy móg³byœ zrobiæ dla mnie trochê leczniczego proszku?}
+{191}{}{Chcia³abym, ¿ebyœ zrobi³ dla mnie trochê leczniczego proszku.}
 {192}{}{Och, niewa¿ne. Muszê ju¿ iœæ.}
 {193}{}{Ouu?}
 {194}{}{Uuug! Bak!}

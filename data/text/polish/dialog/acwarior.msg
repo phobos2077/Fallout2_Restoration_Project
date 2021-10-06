@@ -36,7 +36,7 @@
 {183}{}{Mam kilka pytañ, je¿eli pozwolisz.}
 {300}{}{Witaj ponownie, Dziecko Przeznaczenia. Niech duchy wojowników chroni¹ ciê i wskazuj¹ ci drogê.}
 {301}{}{Czy masz jakieœ problemy? Nie mo¿esz nas zawieœæ - poœpiesz siê.}
-{302}{}{Dlaczego zwlekasz tak d³ugo? Musimy dostaæ GECK jak najszybciej. Nasza wioska umiera!}
+{302}{}{Dlaczego zwlekasz tak d³ugo? Musimy dostaæ GECK jak najszybciej. Nasza wioska umiera.}
 {303}{}{Dziecko, nasza wioska nied³ugo bêdzie martwa. Czemu GECK jeszcze nie znajduje siê w naszych rêkach?}
 {970}{}{To jest moje imiê.}
 {971}{}{Mówisz teraz do mnie.}

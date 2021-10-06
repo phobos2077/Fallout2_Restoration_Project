@@ -126,7 +126,7 @@
 {225}{hld38a}{Pour être honnête, j'me rappelle pas son nom. Mais il portait une drôle de combinaison. Un peu comme la tienne.}
 {226}{}{Je porte la Combinaison de l'Abri que portait mon ancêtre. C'est un talisman pour ma quête sacrée.}
 {227}{}{Oh, ce vieux machin ?}
-{228}{hld38b}{No lie?}
+{228}{hld38b}{Sans dec ?}
 {229}{}{Je porte la Combinaison de l'Abri que portait mon ancêtre. C'est un talisman pour ma quête sacrée.}
 {230}{}{Sans rire, Harold.}
 {231}{hld39}{Ca alors ! Bien, bien, bien. Ca explique certaines choses. J'savais qu'ta tête me disait quelque chose. Je perds pas encore complètement la boule.}

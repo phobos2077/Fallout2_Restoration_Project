@@ -50,7 +50,7 @@
 {199}{}{[Poignée de mains avec Grisham.]}
 {200}{}{Hé, attendez une minute. Maintenant que j'y pense, ces Brahmines ont l'air bien maigres. Que diriez-vous plutôt de $750 ?!}
 {201}{}{J'ai changé d'avis, je ne veux pas vous payer.}
-{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
+{202}{}{[Il vous sourit de toutes ses dents.] Ca fait plaisir de voir quelqu'un qui a du caractère.}
 {203}{}{[Grisham devient rouge de colère et maugrée entre ses dents.] Ok pour $750. Donnez-moi l'argent !}
 {204}{}{Vous savez, $750 ça me semble encore un peu cher. Ces Brahmines seraient mortes de toute façon si les chiens ne les avaient pas eues. Mais je ne suis pas totalement égoïste. Je vous en offre $50.}
 {206}{}{PARFAIT ! DONNEZ-MOI L'ARGENT ET FOUTEZ LE CAMP !}

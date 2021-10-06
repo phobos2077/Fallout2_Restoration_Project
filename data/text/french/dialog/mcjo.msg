@@ -48,7 +48,7 @@
 {196}{}{Nous étions quelques-uns à chasser dans le coin quand nous avons découvert cette nouvelle ferme. Mais ce n'est pas ça le plus étrange. Un peu plus tard, nous y sommes allés pour rendre visite à notre nouveau voisin, mais l'endroit était désert... Personne !}
 {197}{}{Continue.}
 {198}{}{Après plusieurs mois durant lesquels nous avons essayé de contacter les propriétaires, nous en avons conclu que cette ferme avait été abandonnée peu après sa construction. Alors, au lieu de laisser les récoltes pourrir dans les champs, le jeune Karl s'y est installé.}
-{199}{}{Hmm... }
+{199}{}{Hum...}
 {200}{}{C'est là que tout a commencé à mal tourner. Karl a commencé à raconter que, la nuit, il voyait d'étranges silhouettes lumineuses travailler le sol et nourrir le bétail. Nous nous sommes moqués de lui, pensant qu'il racontait des blagues. Et un jour nous n'avons plus revu Karl en ville.}
 {201}{}{Que lui est-il arrivé ? L'avez-vous recherché ?}
 {202}{}{Evidemment ! Nous sommes allés là-bas dès que nous avons soupçonné que quelque chose n'allait pas. [Il se met à trembler violemment.] C'était l'horreur ! Des corps éparpillés partout ! Certains avaient été crucifiés, d'autres pourrissaient au soleil. Je me réveille encore en plein milieu de la nuit en hurlant à cause de ce que j'ai vu ce jour-là.}

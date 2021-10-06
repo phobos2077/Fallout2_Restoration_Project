@@ -3,17 +3,17 @@
 {102}{}{Cheveux blonds, yeux bleus, le gosse américain typique.}
 {150}{}{Ouiiin !}
 {151}{}{Je veux qu'on me rende mon chien !}
-{152}{}{Whimper...}
+{152}{}{::Pleurs::}
 {153}{}{Inconnu !}
 {154}{}{Laddie viens voir Jonny Laddie ! Tu m'as manqué ! Merci de m'avoir ramené mon chien !}
 {155}{}{Bonjour, c'est la première fois que je vous vois dans le coin.}
 {156}{}{Tu t'appelles Jonny ?}
-{157}{}{What's your name little boy?}
+{157}{}{Comment t'appelles-tu mon garçon ?}
 {158}{}{T'as un nom petit monstre ?}
 {159}{}{Tu veux des bonbons, petit ?}
 {160}{}{Rebonjour.}
 {161}{}{Tu t'appelles Jonny ?}
-{162}{}{What's your name little boy?}
+{162}{}{Comment t'appelles-tu mon garçon ?}
 {163}{}{T'as un nom petit monstre ?}
 {164}{}{Tu veux des bonbons, petit ?}
 {165}{}{Rebonjour.}
@@ -29,7 +29,7 @@
 {175}{}{Je m'appelle }
 {176}{}{.}
 {177}{}{Peu importe mon nom.}
-{178}{}{My name's Jonny and I don't like you.}
+{178}{}{Je m'appelle Jonny et je ne t'aime pas.}
 {179}{}{[Il te montre du doigt et se met à hurler :] Etranger ! Etranger ! Etranger !}
 {180}{}{C'est une joie de te connaître.}
 {181}{}{Ta mère et ton père m'ont demandé de te retrouver.}
@@ -41,7 +41,7 @@
 {186}{}{Balthas}
 {187}{}{Davin}
 {188}{}{Joshua}
-{189}{}{Don't you trust me Jonny?}
+{189}{}{Tu ne me fais pas confiance, Jonny ?}
 {190}{}{Hmm... non. Merci d'avoir ramené mon chien, mais je dois partir maintenant. Au revoir.}
 {191}{}{C'était chouette de vous rencontrer, mais 'faut que je m'en aille maintenant.}
 {192}{}{That's right! Yipee! I'm going home. Ask Vegeir if it's all right for you to take me home. He's been

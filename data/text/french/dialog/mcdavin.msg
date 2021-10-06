@@ -30,8 +30,7 @@
 {190}{}{Tais-toi, tu vas tout gâcher. Détends-toi et apprécie.}
 {191}{}{Il doit y avoir une erreur, je voulais seulement te poser quelques questions.}
 {192}{}{Merci pour la proposition, mais non, euh... Je dois partir.}
-{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
- imagination.]}
+{193}{}{Oh oui ! Prends-moi ! Prends-moi tout de suite ! [Il déchire ses vêtements, puis les tiens... puis... pour la suite, fais appel à ton imagination...]}
 {194}{}{[Ricanements.] C'est moi qui fais l'homme. Ce sera ton tour la prochaine fois.}
 {195}{}{[Deux heures plus tard... La terre a tremblé et ce lit ne sera plus jamais le même.]}
 {196}{}{[Une heure plus tard... et le meilleur orgasme que tu n'aies jamais eu.]}

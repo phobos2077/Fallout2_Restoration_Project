@@ -1,41 +1,41 @@
 {100}{}{Você vê uma pessoa com um pijama engraçado. Ele parece preocupado.}
 {101}{}{Você vê um técnico de submarino Shi.}
 {150}{}{Uh, o que você está fazendo se esgueirando por aí?}
-{151}{}{Are you some kind of spy?}
-{200}{}{This is filthy, look at all that rust!}
-{201}{}{I can't fathom why we need to keep this running.}
-{202}{}{Those torpedoes are an accident waiting to happen.}
-{300}{}{I don't recall ever seeing you around here, what are you doing in the torpedo room? And who are you anyway?}
-{301}{}{You again? What are you still doing in the torpedo room? And who are you anyway?}
-{302}{}{I'm a last-minute addition to your tech team. Sorry for not informing you earlier. Oh, and I'm here to do some
- maintenance on the torpedoes. They look horrible, an accident waiting to happen!}
-{303}{}{I was added to your roster just recently. I was asked to work with the targeting systems of the torpedoes,
- since they've been acting up recently. I think it might be due to certain uncorrectable flaws in the design of the
- Sungsam motherboards.}
-{304}{}{I'm a repairman, freshly added to your roster. I'm supposed to be doing periodic maintenance on the torpedoes,
- since they look like hell! Look at all that rust! And the propellers look like they're about to fall off!}
-{305}{}{Sorry, wrong room.}
-{310}{}{Oh, good to finally have a qualified mechanic on board. I've been meaning to fix these, but I just can't get over
- my fear of those torps. Did you know that they carry enough explosives to turn this entire vessel into finely ground scrap?}
-{311}{}{I'll exercise caution, I promise.}
-{320}{}{They finally sent me a mechanic, after all those weeks of begging...}
-{330}{}{Uh, you don't look like a mechanic. Frankly, I don't think you can tell a spanner from a screwdriver from the
- looks of it, so why don't you go back and help the rest of the guys, instead of loitering in the torpedo room? I don't
- want you to blow us up accidentally.}
+{151}{}{Você é algum tipo de espião?}
+{200}{}{Que nojo, olha só essa ferrugem!}
+{201}{}{Não consigo entender por que mantemos isso funcionando.}
+{202}{}{Esses torpedos são um acidente esperando para acontecer.}
+{300}{}{Não me lembro de ter visto você por aqui, o que faz na sala de torpedos? E quem é você, afinal?}
+{301}{}{Você de novo? O que você está fazendo na sala de torpedos? E quem é você, afinal?}
+{302}{}{Sou uma adição de última hora à sua equipe de tecnologia. Desculpe por não avisar antes. Oh, eu estou aqui para fazer algumas
+ manutenções nos torpedos. Estão péssimos, são um acidente esperando para acontecer!}
+{303}{}{Fui adicionado à sua lista recentemente. Fui convidado para trabalhar com os sistemas de mira dos torpedos,
+ eles estão agindo mal recentemente. Pode ser devido a certas falhas crônicas no design da 
+ placa mãe Sungsam.}
+{304}{}{Sou um técnico recém-adicionado à sua lista. Eu deveria estar fazendo a manutenção periódica nos torpedos,
+ eles estão horríveis! Olha só essa poeira! E as hélices estão quase caindo!}
+{305}{}{Foi mal, sala errada.}
+{310}{}{Oh, finalmente tem um mecânico qualificado a bordo. Eu tento consertar isso, mas eu infelizmente não supero
+ meu medo desses torpedos. Você sabia que eles carregam explosivos suficientes para transformar esse navio em um monte de sucata bem moida?}
+{311}{}{Vou ser cuidadoso, prometo.}
+{320}{}{Finalmente me mandaram um mecânico, estou implorando isso a semanas...}
+{330}{}{Uh, você não parece um mecânico. Na moral, eu não acho que você sabe a diferença entre uma chave de fenda e uma 
+ chave philips, então por que não volta e ajuda os outros caras em vez de ficar vagando pela sala de torpedos? Eu não
+ quero que você nos exploda acidentalmente. }
 {331}{}{Bem, eu vou.}
-{340}{}{That's all fine and good, but, uh, why are you looking for the console in the torpedo room? It's in the room behind
- you. I need a mechanic, not another technician, so unless you are also a talented repairman, I need you to leave.}
-{341}{}{Actually, yes, I'm also a repairman, with quite a bit of experience in dealing with ancient technology. I believe
- I can handle those torpedoes. I'll get the propellers working properly and make sure they don't turn us into finely ground
- scrap.}
+{340}{}{Tudo bem, mas, por que está procurando o console na sala de torpedos? Está na sala atrás de 
+ você. Preciso de um mecânico, não de outro técnico, então, a menos que você também seja um ótimo reparador, preciso que saia.}
+{341}{}{Na verdade, sim, também sou um técnico, com bastante experiência em trabalhar com tecnologia antiga. Eu acredito
+ que posso lidar com esses torpedos. Vou fazer com que as hélices funcionem corretamente e vou me certificar de que não nos transformem em um monte de
+ sucata.}
 {342}{}{Bem, eu vou.}
-{350}{}{Oh, specialists in both fields are not common in the wastelands. I guess I can trust you, so go ahead and fix those
- torpedoes so that I can finally feel a little safer.}
-{351}{}{Alright.}
-{360}{}{Hey, I'm busy here.}
-{361}{}{Sorry, I'm working.}
-{370}{}{Don't touch that!}
-{371}{}{What did I tell you?!}
+{350}{}{Oh, especialistas em ambos os campos não são comuns nas terras devastadas. Acho que posso confiar em você, então vá conserte aqueles
+ torpedos para que eu possa me sentir um pouco mais seguro.}
+{351}{}{De acordo.}
+{360}{}{Eai, estou ocupado aqui.}
+{361}{}{Desculpe, estou trabalhando.}
+{370}{}{Não toque nisso!}
+{371}{}{O que eu te disse?!}
 {372}{}{Eu avisei a você!}
-{375}{}{What the hell are you doing! Guards!}
-{380}{}{Stop wasting time and get to work.}
+{375}{}{Mas o que você está fazendo! Guardas!}
+{380}{}{Pare de vadiar e comece a trabalhar.}

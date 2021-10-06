@@ -1,6 +1,6 @@
 {100}{}{Widzisz swego m³odego kuzyna, Nagora. Ciekawe, gdzie podziewa siê jego pies - Smoke.}
 {101}{}{Znasz Nagora od ma³ego, zawsze pomagaliœcie sobie nawzajem.}
-{102}{}{Kuzynie! Jestem taki szczêœliwy, ¿e ciê widzê. Czy móg³byœ mi w czymœ pomóc?}
+{102}{}{Kuzynie! Tak siê cieszê ¿e ciê widzê. Potrzebujê twojej pomocy.}
 {103}{}{Wybacz, nie mam teraz czasu.}
 {104}{}{Tak, o co chodzi?}
 {105}{}{W takim razie pójdê tam sam!}
@@ -26,7 +26,7 @@
 {125}{}{To Smoke! Dziêkujê ci! Smoke, jesteœ niedobrym pieskiem!}
 {126}{}{Nie ma sprawy. Pa.}
 {127}{}{Jeszcze raz dziêkujê. Mam nadziejê, ¿e podczas swojej podró¿y bêdziesz siê dobrze bawiæ!}
-{128}{}{Têskniê za nim. Dlaczego siê boisz? Przecie¿ jesteœ Dzieckiem Przeznaczenia!}
+{128}{}{Têskniê za nim. Dlaczego siê boisz? Przecie¿ jesteœ Dzieckiem Przeznaczenia.}
 {129}{}{Nie teraz, Dziecko G³upoty. IdŸ siê bawiæ gdzie indziej.}
 {130}{}{Moja iœæ.}
 {131}{}{Idê po Smoke'a.}
@@ -47,4 +47,4 @@
 {214}{}{Przykro mi, kuzynie. Odk¹d ostatnio odszed³eœ jest tu coraz gorzej. Ludzie choruj¹, braminy zdychaj¹ i... ja... mój pies, Smoke umar³. Morlis zmuszona by³a go ugotowaæ. Tak za nim têskniê... Przepraszam... naprawdê nie mogê d³u¿ej o tym rozmawiaæ..}
 {215}{}{Przykro mi kuzynko. Odk¹d ostatnio odesz³aœ jest tu coraz gorzej. Ludzie choruj¹, braminy zdychaj¹ i... ja... mój pies, Smoke umar³. Morlis zmuszona by³a go ugotowaæ. Tak za nim têskniê... Przepraszam... naprawdê nie mogê d³u¿ej o tym rozmawiaæ..}
 {300}{}{Widzisz Nagora.}
-{302}{}{Kuzynie! Jestem taki szczêœliwy, ¿e ciê widzê. Czy móg³byœ mi w czymœ pomóc?}
+{302}{}{Kuzynie! Tak siê cieszê ¿e ciê widzê. Potrzebujê twojej pomocy.}

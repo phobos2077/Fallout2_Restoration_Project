@@ -1,9 +1,9 @@
-{100}{}{You see an old console.}
-{101}{}{The power console is almost completely ruined. Wires stick out in all directions, held together by duct tape
- and the status monitor seems to be busted. This contraption just barely holds together.}
-{200}{}{You examine the console and the loose cables. Looks like someone with a little skill in repair (or a crowbar)
- could completely disable the power subsystem.}
-{210}{}{The console surrenders quickly and the emergency generator dies. Without power, the submarine poses no threat.}
-{211}{}{You fail to disable the power generator.}
+{100}{}{Você vê um console antigo.}
+{101}{}{O console de energia está quase totalmente arruinado. Os fios se projetam em todas as direções, unidos por fita adesiva
+ e o monitor de status parece estar quebrado. Essa sucata mal se sustenta.}
+{200}{}{Você examina o console e os cabos soltos. Parece que alguém com um pouco de habilidade para reparo (ou um pé-de-cabra)
+ pode desativar totalmente a energia do subsistema.}
+{210}{}{O console se rende rapidamente e o gerador de emergência morre. Sem energia, o submarino não apresenta nenhuma ameaça.}
+{211}{}{Você não consegue desativar o gerador de energia.}
 {212}{}{*beep*}
 {213}{}{*beeboop*}

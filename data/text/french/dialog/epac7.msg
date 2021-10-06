@@ -34,7 +34,7 @@
 {310}{}{Pensez-vous pouvoir réparer l'éclairage ? Il serait inapproprié d'accomplir des rondes par un tel manque d'éclairage. Si vous pouviez rétablir l'éclairage dans cet endroit pour moi, je vous donnerais le mot de passe. Veuillez vous souvenir de laver vigoureusement vos mains après avoir visité notre zoo.}
 {311}{}{Trés bien. Je vais voir ce que je peux faire.}
 {312}{}{Je m'en fiche. Cela ne m'intéresse pas.}
-{320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all waivers must be signed before the end of the tour.}
+{320}{}{Le complexe est toujours dans la pénombre. Vous allez réparer l'éclairage, n'est-ce pas ? Souvenez-vous visiteur, tout malaise doit être signalé avant la fin de la ronde.}
 {321}{}{Ne t'inquiète pas. J'y travaille.}
 {322}{}{Je vais m'en occuper.}
 {330}{}{Nous aurions plus de visiteurs si le sol était propre.}
