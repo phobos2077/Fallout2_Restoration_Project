@@ -34,7 +34,7 @@
 {133}{}{Un autre exercice ?}
 {134}{}{J'ai cru entendre des coups de feu.}
 {135}{}{Hé, qui es-tu ?}
-{136}{}{Halte, qui va là ?!}
+{136}{}{Stop ! Qui va là ?}
 {137}{}{J'en ai vraiment ras le bol de tous ces exercices !}
 {138}{}{Ouais, comme si je pouvais repérer un intrus !}
 {139}{}{T'en fais pas pour ça.}

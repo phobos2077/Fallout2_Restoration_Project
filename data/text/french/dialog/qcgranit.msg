@@ -14,7 +14,7 @@
 {113}{}{Tu peux y aller.}
 {114}{}{J'ai rien vu}
 {115}{}{C'est pas les robots qu'on cherchait.}
-{116}{}{Dégage !}
+{116}{}{Avance.}
 {117}{}{J'en ai assez de tuer.}
 {118}{}{Vas-y !}
 {119}{}{Du calme les gars.}

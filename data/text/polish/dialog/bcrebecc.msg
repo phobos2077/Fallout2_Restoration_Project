@@ -57,7 +57,7 @@
 {156}{}{A czego tak bardzo od was chc¹?}
 {157}{}{Có¿... mamy tu jedn¹ z tych wielkich Krypt. Chyba ma numer 15. Zapewne chc¹ j¹ spl¹drowaæ w poszukiwaniu starej technologii.}
 {158}{}{Ach. Moja rozumie.}
-{159}{}{A wiêc jednak jest tu coœ oprócz bandy zbêdnych nierobów!}
+{159}{}{Wiedzia³em, ¿e musi byæ tu coœ poza band¹ zbêdnych nierobów}
 {160}{}{Kapujê.}
 {161}{}{To wiele wyjaœnia. Bardzo mi pomog³aœ, ale muszê ciê jeszcze o coœ zapytaæ.}
 {162}{}{To bêdzie Zeke. On tu wszystkim kieruje. Znajdziesz go w tamtym budynku. ::wskazuje na pó³nocny wschód::}
@@ -106,5 +106,5 @@
 {205}{}{Nie przestanê jej szukaæ.}
 {206}{}{Dziêkujê za wszystko.}
 {207}{}{Nie wiem dlaczego, ale mam przeczucie, ¿e nie schwytali jej ³owcy niewolników. W powietrzu wisi coœ niedobrego. No i to wra¿enie, ¿e ktoœ bez przerwy mnie œledzi. Czujê siê tak, od kiedy Zeke dowiedzia³ siê ode mnie o zaginiêciu Chrissy. Szukam kogoœ, kto pomo¿e mi odnaleŸæ moj¹ córkê. Mo¿e ty? B³agam...}
-{208}{}{Przysy³aj¹ tutaj swoich ludzi, którzy maj¹ nas przekonaæ do przesiedlenia. Oni po prostu nie rozumiej¹, ¿e my nie mamy dok¹d pójœæ. Nie przetrwamy na pustkowiach!}
+{208}{}{Przysy³aj¹ tutaj swoich ludzi, którzy maj¹ nas przekonaæ do przesiedlenia. Oni po prostu nie rozumiej¹, ¿e my nie mamy dok¹d pójœæ. Nie mamy umiejêtnoœci niezbêdnych do przetrwania na pustkowiach.}
 {209}{}{Wiesz, to dziwne, ¿e uda³o im siê naprawiæ coœ tak skomplikowanego, a nie mogli sobie poradziæ z oœwietleniem. Ca³y kompleks jest oœwietlany pochodniami. W ka¿dym razie Darion nie ¿yczy sobie, ¿eby ktokolwiek wiedzia³ co siê dzieje w Krypcie. Boi siê, ¿e jak ktoœ siê dowie, to wyrzuc¹ nas st¹d si³¹. Wiêc kaza³ nam przepêdzaæ wszystkich wœcibskich goœci - zw³aszcza z RNK.}

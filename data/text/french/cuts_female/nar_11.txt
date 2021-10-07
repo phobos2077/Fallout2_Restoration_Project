@@ -1,2 +1,2 @@
-1:Tu as réussi à détruire les Cuves; tu as ensuite tué le Maître avant qu'il ne puisse réaliser son plan.
-2:Après la mort du Maître, ses armées s'enfuirent très loin vers l'est dans la crainte de représaille.
+1:La mort du Maître fut le premier évènement important qui mena à la fin de son rêve fou de conquête et de paix. Mais c'est la destruction des Cuves qui neutralisa la menace des mutants.
+2:Sans la possibilité de créer davantage de mutants et d'imposer leur sévère conception de la justice, les armées de mutants s'enfuirent très loin vers l'est.

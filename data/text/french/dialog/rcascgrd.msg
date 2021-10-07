@@ -54,7 +54,7 @@
 {153}{}{On fait juste respecter le règlement.}
 {154}{}{Amuse-toi sagement.}
 {155}{}{Reste cool.}
-{156}{}{Dégage !}
+{156}{}{Avance.}
 {157}{}{Y a rien à voir ici.}
 {158}{}{Passe une bonne journée.}
 {159}{}{Bienvenue chez Ascorti.}

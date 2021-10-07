@@ -2,7 +2,7 @@
 {101}{}{Widzisz technika komputerowego.}
 {102}{}{Widzisz osobê ubran¹ w laboratoryjny fartuch.}
 {103}{}{Dzieñ dobry, ¿o³nierzu.}
-{104}{}{Niczego nie dotykaj!}
+{104}{}{Proszê nie dotykaj niczego.}
 {105}{}{Szeregowym wstêp wzbroniony!}
 {106}{}{Gdzie masz swój uniform? }
 {107}{}{Lepiej siê ubierz. Zbrojownia mieœci siê na koñcu korytarza, po lewej.}

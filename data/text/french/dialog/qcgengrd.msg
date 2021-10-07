@@ -4,7 +4,7 @@
 {103}{}{Qui va là ?}
 {104}{}{Avance.}
 {105}{}{Qu'est-ce que tu regardes ?}
-{106}{}{Dégage !}
+{106}{}{Avance.}
 {107}{}{On ne traîne pas.}
 {108}{}{Je vais te mettre au rapport.}
 {109}{}{Reprends le travail.}

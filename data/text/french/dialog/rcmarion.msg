@@ -5,7 +5,7 @@
 {104}{}{Pas d'aumône ici. Dégage !}
 {105}{}{On dirait que t'as du mal à imprimer, non ?}
 {106}{}{Circule, petit toutou !}
-{107}{}{Dégage !}
+{107}{}{Avance.}
 {108}{}{Comment ça va ? Je m'appelle Earl Marion et je suis le Shérif de ce lieu. Plutôt bizarre non ? Ben, c'est mon boulot.}
 {109}{}{Que peut faire le Shérif Marion pour toi ?}
 {110}{}{Quel est ton rôle de Shérif dans cette ville ?}

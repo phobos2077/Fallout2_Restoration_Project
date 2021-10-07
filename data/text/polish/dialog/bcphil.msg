@@ -36,7 +36,7 @@
 {135}{}{Pieprzyæ to.}
 {136}{}{}
 {137}{}{}
-{138}{}{To ma byæ wyzwanie, tak? Przyjmujê!!!}
+{138}{}{To brzmi jak wyzwanie. Podejmê je.}
 {139}{}{}
 {140}{}{}
 {141}{}{Hmm... Ja... No tak, dobra. Masz tu klucz do jej celi, jest z ty³u, w szopie. Bierz j¹ i wynoœ siê st¹d. ¯ebym ciê tu wiêcej nie widzia³. Ale jeœli kiedyœ tu wrócisz, to przekonamy siê kto zginie.}

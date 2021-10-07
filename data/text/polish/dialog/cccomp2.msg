@@ -1,7 +1,7 @@
 {100}{}{Widzisz technika.}
 {101}{}{Widzisz technika z Enklawy.}
 {102}{}{Widzisz kogoœ ubranego w faruch laboratoryjny, kto wygl¹da na pewnego siebie i znaj¹cego swoj¹ wartoœæ.}
-{103}{}{S³ucham, ¿o³nierzu.}
+{103}{}{¯o³nierzu?}
 {104}{}{To miejsce co?}
 {105}{}{Ja tylko witaæ. Ja ju¿ iœæ.}
 {106}{}{Co to za miejsce?}

@@ -3,7 +3,7 @@
 {102}{}{Ten mnich wygl¹da na maniaka komputerowego.}
 {200}{}{Hej!}
 {201}{}{Czeœæ.}
-{202}{}{Hmm...czy zrobi³em kopiê zapasow¹ tych plików?}
+{202}{}{Hmm... Czy zrobi³em dzisiaj kopiê zapasow¹ tych plików komputerowych...}
 {203}{}{Przepraszam, ale nie mam czasu dla kogoœ z twoj¹ inteligencj¹.}
 {300}{}{Tak?}
 {301}{}{Macie tu sporo komputerów.}

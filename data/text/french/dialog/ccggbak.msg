@@ -1,7 +1,7 @@
 {100}{}{Tu vois un garde.}
 {101}{}{Tu vois un garde en SuperArmure.}
 {102}{}{Tu vois quelqu'un vêtu d'une SuperArmure quelque peu inhabituelle. Son plastron porte un insigne que tu n'as jamais vu avant.}
-{103}{}{Dégage !}
+{103}{}{Avance.}
 {104}{}{Je suis en service. Je n'ai pas le temps de discuter.}
 {105}{}{Allez, circule. Le portail est de ce côté.}
 {106}{}{Vaudrait mieux que t'ailles chercher ton équipement réglementaire.}

@@ -7,7 +7,7 @@
 {106}{}{Dobra, m¹dralo, poka¿ co potrafisz.}
 {107}{}{A, tak. Przepraszam, mój b³¹d. Mo¿esz iœæ dalej.}
 {108}{}{Hej, nie jestem idiot¹, nawet jeœli tak wygl¹dam.}
-{109}{}{Jeszcze ¿yjesz? Cholera!}
+{109}{}{Jeszcze ¿yjesz? Cholera.}
 {110}{}{Cz³owieku, Darion nie p³aci mi wystarczaj¹co du¿o za takie stanie w miejscu i nic-nierobienie.}
 {111}{}{Czasami siadam sobie i kompletnie o niczym nie myœlê.}
 {112}{}{W³aœciwie nie obchodzi mnie co ktokolwiek inny myœli.}
