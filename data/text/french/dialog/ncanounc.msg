@@ -12,7 +12,7 @@
 {124}{}{Lorsque votre teint n'a plus cet « éclat spécial »... }
 {125}{}{Choisissez la bière Gamma Gulp !}
 {143}{}{...Le Cat's Paw !}
-{144}{}{When you got that itch that you NEED to scratch...}
+{144}{}{Lorsque quelque chose vous démange...}
 {145}{}{Direction le Cat's Paw !}
 {163}{}{...L'Armurerie de New Reno !}
 {164}{}{Lorsque vous voulez tuer en toute tranquillité...}

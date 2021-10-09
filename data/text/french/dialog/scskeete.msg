@@ -5,7 +5,7 @@
 {104}{}{C'est moi le gardien du parking. Je surveille les voitures. 5 dollars, Skeeter fait le boulot, mec.}
 {105}{}{Ouais, bien sûr, mec !}
 {106}{}{Alors, mec, tu veux ma protection ?}
-{107}{}{Good. Do.}
+{107}{}{Bien, vas-y...}
 {108}{}{Non. Pas touche !}
 {109}{}{Je suis pas un mec !}
 {110}{}{C'est quoi ici ?}
@@ -48,7 +48,7 @@
 {147}{}{Glup, plapla spaf !}
 {148}{}{TAK !}
 {149}{}{Douf ? Gnagna koulk bzar !}
-{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
+{150}{}{D'accord, obéir au géant, mec. C'est dans l'ordre des choses. Que dois-je faire, géant ?}
 {151}{}{Hé, ça fait beaucoup ! Géant, je m'appelle Skeeter et je garde les voitures des gens qui viennent ici, mais tu sais, j'ai ce truc... Tu vois, ben, j'ai besoin d'une rallonge de fric et de truc, tu vois ?}
 {152}{}{Ouais. Comme des fois, je suis un peu raide et j'ai besoin d'un truc, tu vois, quand je me sens un peu mal, alors je dois me procurer des trucs, alors je vais voir Merk.}
 {153}{}{Mec, Merk, c'est l'homme qu'il te faut. Il a de l'action et tout. Parfois, il me laisse dormir au Rawhide après la fermeture. Mais, après, j'lui rends des p'tits services.}
@@ -66,8 +66,8 @@
 {165}{}{C'est ça, mec. Va voir Merk. Il a toujours des trucs à faire.}
 {166}{}{Allez, salut !}
 {167}{}{Oh mec, t'as tout foutu en l'air ! Merk ne va pas être content quand il saura.}
-{168}{}{Goodbye, dope-head.}
-{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
+{168}{}{Au revoir, tronche de cake.}
+{169}{}{D'accord, c'était la bande de Merk. Ils ont pillé les bagnoles hier soir. Demande autour de toi et tu les trouveras peut-être.}
 {170}{}{Toi mentir, moi tuer.}
 {171}{}{Ne mens pas. Sinon, je te retrouverai.}
 {172}{}{Bien sûr. Tu me fous trop la trouille.}

@@ -71,7 +71,7 @@
 {261}{}{Laisse-moi tranquille. J'appartiens déjà à quelqu'un.}
 {262}{}{Je t'en supplie, as-tu vu deux enfants, bruns... ? Les esclavagistes les ont pris il y a deux ans et les ont vendus au Nord.}
 {263}{}{S'il te plaît... Je ne suis pas autorisé à parler avec toi.}
-{264}{}{Please... let me be. My master will be back soon.}
+{264}{}{Laisse-moi tranquille. Mon maître va pas tarder à revenir.}
 {265}{}{Si mon maître me prend en train de parler avec toi, il va me frapper.}
 {266}{}{J'ai déjà un maître. Elle ne sera pas contente si tu continues à me parler.}
 {267}{}{Je ne peux pas vous parler, j'ai un devoir à accomplir.}
@@ -88,7 +88,7 @@
 {287}{}{Si mon maître me prend en train de parler avec toi, il va me frapper.}
 {288}{}{Mon maître est bon. Il ne me frappe pas trop souvent.}
 {289}{}{Ma famille ne me manque pas. Mon maître est gentil.}
-{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
+{290}{}{J'ai été enlevé d'une petite tribu au Nord de cette ville. La vie est bien meilleure ici.}
 {291}{}{J'ai été capturé à La Fosse.}
 {292}{}{Je ne peux pas te parler, j'ai du travail.}
 {293}{}{Je dois finir mon travail avant que le maître ne revienne.}

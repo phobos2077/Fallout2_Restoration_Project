@@ -38,9 +38,7 @@
 {280}{}{Pas vraiment. Je m'excuse de te déranger.}
 {290}{}{Tu n'as pas entendu parler de la famille Wright ? Tu as séjourné dans le désert trop longtemps. La famille Wright est la plus grande famille criminelle de Reno. Nous allons devenir les maîtres de cette ville. }
 {291}{}{Ah bon ? La famille Wright semble avoir tous les atouts en main. Embauche-t-elle ? }
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they
- only deal in alcohol, they have no casino or drug trade, and their numbers are much less than
- other families.}
+{292}{}{En fait, j'avais l'impression qu'elle était l'une des familles les moins puissantes... C'est vrai, elle est juste impliquée dans le commerce de l'alcool, elle ne possède pas de casino et ne fait pas de trafic de stupéfiants, et elle a beaucoup moins de représentants que les autres familles.}
 {293}{}{En parlant de famille, j'ai rencontré ta mère.}
 {294}{}{Peux-tu me dire ce qui est arrivé à ton frère Richard ?}
 {295}{}{Ah bon ? C'est intéressant... Ecoute, il faut que je file.}
@@ -55,8 +53,7 @@
 {317}{}{[Tu lui donnes un coup de pied avec la chaussure sur laquelle il a craché]}
 {318}{}{[Dégage]}
 {319}{}{[Tu le laisses tranquille et tu files, pour cette fois]}
-{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{Eh bien, la... La famille Wright... Ma famille... a peut-être quelque chose pour toi. Je ne promets rien, mais rends-toi au manoir au Sud d'ici, va trouver mon frère Keith et dis-lui que c'est moi qui t'envoie. Mon nom c'est Chris. Chris Wright.}
 {326}{}{Euh, la famille Wright ? Qui c'est ?}
 {327}{}{Wright, euh ? J'ai rencontré ta mère.}
 {328}{}{Peux-tu me dire ce qui est arrivé à ton frère Richard ?}
@@ -79,17 +76,16 @@
 {370}{}{Probablement. Ecoute, il faut que j'y aille. }
 {380}{}{Elle va prêcher la bonne parole un peu partout, mais elle ne sait pas vraiment ce que papa fait. C'est ça ou alors elle fait semblant de ne pas savoir. }
 {381}{}{Que fait ton père ?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hum. D'accord, j'avais deux ou trois autres questions...}
 {383}{}{Intéressant. Bon, il faut que j'y aille. }
 {390}{}{Il fait de l'alcool, vend des armes, descend ceux qui lui cassent les pieds... les affaires habituelles de famille. Maman serait révoltée si elle soupçonnait ce qui se passe. Surtout si elle découvrait cette distillerie.}
 {391}{}{A quel point serait-elle révoltée ?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hum. D'accord, j'avais deux ou trois autres questions...}
 {393}{}{Intéressant. Bon, il faut que j'y aille. }
 {400}{}{Probablement assez pour dévaster l'endroit... au moins. Ensuite, elle nous passerait un savon et on aurait le droit à des sermons pendant plusieurs jours. Hé.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Intéressant. J'avais d'autres questions...}
 {402}{}{Hum. Merci. }
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
+{410}{}{Richard ? Oh, tu sais, on l'a trouvé comme l'un des ces accros au Jet, mort dans un caniveau. Tout ce qu'on sait pour l'instant, c'est que quelqu'un lui a refilé du matos jusqu'à ce qu'il en meure.}
 {411}{}{*Quelqu'un* ? Comment sais-tu qu'il n'a pas fait une overdose parce qu'IL en avait pris trop ?}
 {412}{}{D'après toi, qui a pu faire ça ?}
 {413}{}{Je regrette d'entendre ça. Mais dis-moi...}
@@ -121,8 +117,7 @@
 {486}{}{Hé, ma p'tite dame, MERCI.}
 {487}{}{Tu as découvert qui a tué mon frère et toute la famille Wright t'en remerciera. Et comme il se doit, tu vois ce que je veux dire ?}
 {488}{}{Je comprends. A plus tard, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules dirige la ville et vend également du Jet, mais principalement aux touristes... Et puis, il y a Petit Jésus Mordino : c'est sûrement lui qui fournissait Rich lorsqu'il sortait tout seul. Il traîne au Desperado.}
 {496}{}{Compris. Tiens, j'avais d'autres questions...}
 {497}{}{Jimmy J l'édenté, Renesco l'homme fusée, Jules et Petit Jésus... Je vais aller voir ça. Merci pour l'info, Chris.}
 {1200}{}{ ! C'est comme ça qu'on donne une leçon à l'Enclave !}

@@ -19,7 +19,7 @@
 {233}{}{Ta suggestion ne me dit rien... Quel est le problème ici ?}
 {234}{}{Tu as des problèmes. Je peux peut-être t'aider.}
 {235}{}{Tu as l'air d'un homme qui chérit sa vie privée. Pour quelqu'un de bavard comme moi, ça va être très cher d'oublier.}
-{236}{}{All right then... sorry to bother you.}
+{236}{}{Bon d'accord. Je m'excuse de t'avoir dérangé.}
 {245}{}{Des problèmes ? Le problème est devant moi et me parle.}
 {246}{}{Bien, je vais pas le dire deux fois, mec : casse-toi.}
 {247}{}{Bien, je vais pas le dire deux fois, chérie : va-t'en.}
@@ -40,7 +40,7 @@
 {284}{}{Je pense que tu AS un problème. Tu vois, c'est si intime et privé ici que personne peut entendre ce qui se passe. Peut-être bien que je vais te tuer, hein ?}
 {285}{}{Tu as l'air d'avoir des problèmes, je peux peut-être t'aider. Qu'en dis-tu ?}
 {286}{}{Tu me fais l'effet d'un homme qui chérit sa vie privée. Pour quelqu'un de bavard comme moi, ça va être très cher d'oublier.}
-{287}{}{All right then... sorry to bother you.}
+{287}{}{Bon d'accord. Je m'excuse de t'avoir dérangé.}
 {295}{}{Heu... Hé, attends... Heu, c'est pas la peine de parler comme ça. On peut peut-être parler d'AUTRE chose : ton ami Lloyd peut t'aider.}
 {296}{}{Ca m'intéresse. Continue.}
 {297}{}{Ca m'intéresse pas. Salut.}
@@ -130,7 +130,7 @@
 {615}{}{[Il a l'air épuisé.] Dans le... cadre de... ta mission de garde, je... je voudrais que... tu creuses.}
 {616}{}{Euh...}
 {617}{}{Y'a deux types de personnes dans ce monde, Lloyd. Ceux qui ont des fusils chargés et ceux qui creusent.}
-{620}{}{All right then, I'll do it...}
+{620}{}{D'accord. Tu peux compter sur moi.}
 {625}{}{[Lloyd marmonne dans sa barbe, puis commence à creuser.]}
 {626}{}{[Lloyd marmonne dans sa barbe, puis commence à creuser... prudemment. Moins d'une minute plus tard, il extrait une mine de la terre et la met de côté. Il hausse les épaules d'un air penaud.]}
 {627}{}{C'est ça. Tu te débrouilles bien. Continue. Creuse un peu plus vite.}

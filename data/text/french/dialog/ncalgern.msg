@@ -61,5 +61,5 @@
 {291}{}{Tu veux une lampée du combustible pour le lance-flammes ?}
 {292}{}{Voici du combustible pour le lance-flammes. Ca peut te servir ?}
 {301}{}{Donne-lui ton bâton d'élevage. Heu... assure-toi qu'il saisit bien le manche.}
-{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
+{302}{}{Ton SuperPoing Beat Co. « Décalcomanie ».}
 {400}{}{Moi tuer Al. Moi devoir partir d'ici.}

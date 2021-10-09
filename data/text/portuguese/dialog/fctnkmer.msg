@@ -2,8 +2,8 @@
 {101}{}{You see Jenna, the merchant.}
 {102}{}{You see a pretty shop owner.}
 {103}{}{Hi! I'm Jenna. May I help you?}
-{104}{}{Me want information.}
-{105}{}{What you got?}
+{104}{}{Quero informações.}
+{105}{}{Vende coisas?}
 {106}{}{Não, eu vou.}
 {107}{}{Eu precisava de algumas informações.}
 {108}{}{Sure, show me what you've got.}
@@ -26,7 +26,7 @@
 {125}{}{I'm sorry but I'm closed. I open at eight; please come back then.}
 {126}{}{}
 {127}{}{Ok.}
-{128}{}{I'm not open to you. Get out of my shop!}
+{128}{}{Eu não estou aberto agora. Se manda da minha loja!}
 {129}{}{}
 {130}{}{Ok.}
 {131}{}{I hope that shipment comes in soon.}

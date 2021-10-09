@@ -94,7 +94,7 @@
 {475}{}{Myron t'attend ?}
 {477}{}{Oui. Puis-je entrer ? Nous devons discuter affaires.}
 {478}{}{Non, pas tout de suite. A bientôt, les mecs.}
-{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
+{479}{}{Ouais. Je peux entrer ? On doit discuter *affaires*, si tu vois ce que je veux dire. [Tu fais un clin d'oeil au garde.]}
 {480}{}{Hé hé, bien sûr. Essaie de ne pas foutre le bordel partout Ok ? [A lui-même.] Putain, Myron est un sacré veinard.}
 {485}{}{Myron n'est pas à l'intérieur.}
 {487}{}{Puis-je quand même entrer ?}

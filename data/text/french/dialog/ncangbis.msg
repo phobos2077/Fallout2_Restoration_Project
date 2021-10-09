@@ -15,7 +15,7 @@
 {223}{}{Toi. Viens ici.}
 {224}{}{Miam.}
 {225}{}{Euuuuuuh.}
-{226}{}{Well, well...}
+{226}{}{Bien, bien :}
 {230}{}{Je m'ENNUIE.}
 {231}{}{On dirait bien l'une des nouvelles traînées de papa...}
 {232}{}{L'une des traînées de papa...}
@@ -37,7 +37,7 @@
 {270}{}{Ouais, c'est ça. Allez viens.}
 {271}{}{Moi venir.}
 {272}{}{Moi aimer jouer. Mais moi pas jouer avec les autres.}
-{280}{}{Exactly...}
+{280}{}{Tout à fait.}
 {281}{}{Tu la suis.}
 {290}{}{Eh allez ! S'il te plaît ? Je voulais vraiment te montrer ma chambre. Ca va prendre une minute, je te promets.}
 {291}{}{Moi pas aller ! Moi pas aller ! Toi pas forcer moi ! Moi pas aller chez vilains ! Non !}
@@ -179,7 +179,7 @@
 {680}{}{Tu vois Angela Bishop, elle dort. Elle ronfle légèrement, ses cheveux sont emmêlés et elle sourit.}
 {690}{}{Tu vois une jeune femme vêtue d'un cuir qui lui colle à la peau et qui hurle comme une furie.}
 {700}{}{<Zzxxssnnn...> <Oh>, }
-{701}{}{Zzzzz...}
+{701}{}{<Zzzzzzz...>}
 {800}{}{Au viol ! Au secours !}
 {801}{}{Au secours, il m'a attaquée ! Au secours !}
 {802}{}{Au viol ! Au viol !}

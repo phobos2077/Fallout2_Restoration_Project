@@ -14,9 +14,7 @@
 {215}{}{Et pourquoi je ne serais pas un tribal ordinaire, putain de borgne ? [Attaquer]}
 {220}{}{[Son sourire faiblit légèrement et il hoche la tête.] Très bien, retour aux affaires. Dis-moi mon ami, as-tu déjà entendu parler de ce petit objet que l'on nomme... un Stimpak ? [En appuyant de manière dramatique les derniers mots il sort un Stimpak d'une poche de son manteau et le tient comme si c'était un merveilleux artefact.]}
 {230}{}{[Ses yeux s'élargissent et il pousse un sifflement admiratif.] L'Elu hein ? Impressionnant. Mais retournons plutôt aux affaires. Dis-moi mon ami, as-tu déjà entendu parler de ce petit objet que l'on nomme... un Stimpak ? [En appuyant de manière dramatique les derniers mots il sort un Stimpak d'une poche de son manteau et le tient comme si c'était un merveilleux artefact.]}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
- a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
- wondrous artifact.]}
+{240}{}{Comme tu veux mon ami. Maintenant parlons de choses sérieuses et faisons affaire, d'accord ? As-tu déjà entendu parler de ce petit objet que l'on nomme... un Stimpak ? [En appuyant de manière dramatique les derniers mots il sort un Stimpak d'une poche de son manteau et le tient comme si c'était un merveilleux artefact.]}
 {241}{}{Heu oui. Actuellement ce sont des objets plutôt communs.}
 {242}{}{Bien sur. En fait je collectionne ces trucs. Erf, je suis pratiquement accroc aux Stimpaks.}
 {243}{}{[Tu secoues la tète et tu regardes l'objet avec surprise] Qu'est-ce qu'un... Stimpak?}

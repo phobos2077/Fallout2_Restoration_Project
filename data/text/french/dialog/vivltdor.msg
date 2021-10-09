@@ -9,8 +9,8 @@
 {108}{}{<Aargnnnn>}
 {109}{}{Tu forces la porte, rien qu'à la force de tes bras.}
 {110}{}{Ouuah. Ca n'a même pas fait une égratignure sur la porte.}
-{111}{}{BOOM no hurt door.}
+{111}{}{BOOM pas bobo porte}
 {112}{}{La porte est coincée, pas fermée à clé.}
-{113}{}{Door stuckie not lockie.}
+{113}{}{Porte coinci pas fermiàcli.}
 {114}{}{La porte ne veut pas se fermer. Elle est coincée.}
 {115}{}{Porte pas bouger.}

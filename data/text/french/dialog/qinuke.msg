@@ -12,6 +12,5 @@
 {225}{}{Carte d'accès acceptée. Procédure de sécurité 2 terminée.}
 {226}{}{[Activer la bombe]}
 {227}{}{[Se déconnecter]}
-{228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
- T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
+{228}{}{La bombe a été activée et explosera dans T-moins 5 min... Erreur dans la procédure de compte à rebours. Compte à rebours réglé à T-moins 5 secondes. Veuillez-vous assurer que vous êtes à une distance minimale de 130 kilomètres de la zone d'explosion. Bonne journée.}
 {229}{}{Oh bordel à cul...}

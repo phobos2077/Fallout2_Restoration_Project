@@ -169,8 +169,7 @@
 {268}{}{Merci. Puis-je te demander autre chose ?}
 {269}{}{J'irai peut-être y faire un tour et leur parler. Merci. Au revoir.}
 {270}{}{Ces derniers temps nos expéditions d'or ont ralenti parce que les mineurs passent trop de temps à planer au Jet.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
- are up, and our exports are down. Bad for business all the way around.}
+{271}{}{Tous les mineurs ou presque passent plus de temps à planer au Jet qu'à exploiter l'or... Nos prix montent et nos exportations dégringolent. C'est très mauvais pour les affaires tout ça.}
 {272}{}{Tout le monde plane trop au Jet pour travailler de façon efficace. Nous ne faisons qu'un dixième de nos exportations habituelles d'or et nous en avons beaucoup augmenté le prix. Ca ne peut pas durer.}
 {273}{}{Il semble que tout le monde ait eu un mauvais lot de Jet. Tous ceux qui utilisent du Jet semblent subir un genre de désintoxication massive. Je pense que quelque chose ne leur a pas réussi. Je ne sais pas ce qui est arrivé au juste mais j'espère que les choses vont rentrer dans l'ordre.}
 {274}{}{Les choses sont presque revenues à la normale. Tous ceux qui sont tombés malades à cause du Jet on décidé de décrocher. Notre production minière et notre calendrier de livraisons sont redevenus pratiquement normaux. On dirait que le pire est passé.}

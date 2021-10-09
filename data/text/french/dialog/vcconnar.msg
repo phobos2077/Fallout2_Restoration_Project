@@ -115,7 +115,7 @@
 {612}{}{Je vais probablement le faire. Je reçois tellement de quêtes, il est difficile de s'y retrouver. Si je n'avais pas mon magnifique petit Pip-Boy, je serais totalement perdu. Allez salut.}
 {700}{}{Oh, Très bien. Tu peux y aller. [Lui remettre $10 000.]}
 {701}{}{Désolé, j'ai eu à le dépenser dans le cadre de l'opération..}
-{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
+{702}{}{Merde, je n'ai pas assez pour te rembourser. J'ai dû en dépenser sans faire attention. Je t'en ramène dès que possible.}
 {710}{}{Merci. Tiens. [Il te donne $5 000.] C'est le moins que nous puissions faire pour te rembourser.}
 {720}{}{Ah, je vois. Eh bien, si ça a acheté notre liberté, ça devait coûter très cher. Merci encore pour tout ce que tu as fait pour nous.}
 {730}{}{Que penses-tu de me payer la moitié ? As-tu $5 000 ?}

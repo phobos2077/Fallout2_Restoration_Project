@@ -109,8 +109,7 @@
 {455}{}{Il paraît qu'il ne sort pas beaucoup. J'ai entendu dire qu'il avait des problèmes cardiaques, alors il ne fait pas beaucoup d'exercice. [Il grogne.] Soit ça, soit il n'aime pas le soleil.}
 {456}{}{Hum. J'ai d'autres questions sur Westin...}
 {457}{}{Des problèmes cardiaques, hein ? Qui est son médecin ? Il prend des médicaments ?}
-{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
- to be pretty damn careful about which ones he DID take with that heart o' his.}
+{465}{}{[Il sourit.] J'aime ta façon de penser, tribal. Je ne sais pas s'il prend des médicaments pour son coeur, mais je sais qu'il devrait faire gaffe aux trucs qu'il s'enfile avec le coeur qu'il a.}
 {475}{}{[Il fronce les sourcils.] C'est un éleveur de Brahmines. Et alors ?}
 {476}{}{D'accord. J'ai d'autres questions sur Westin.}
 {477}{}{Non, y doit y avoir AUTRE chose. Sinon, cette conversation n'aurait pas lieu.}

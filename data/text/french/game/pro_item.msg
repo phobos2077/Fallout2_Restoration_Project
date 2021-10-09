@@ -77,7 +77,7 @@
 {3900}{}{Cellule à micro fusion}
 {3901}{}{Une unité de production d'énergie de taille moyenne. Centrale autonome à fusion.}
 {4000}{}{Stimpak}
-{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
+{4001}{}{Une substance curative. Une fois injecté, ce stimulant permet de soigner les blessures superficielles.}
 {4100}{}{Argent}
 {4101}{}{Monnaie courante dans le monde du désert.}
 {4200}{}{Réfrigérateur}
@@ -103,7 +103,7 @@
 {5200}{}{Compteur Geiger (Activé)}
 {5201}{}{Un compteur Geiger Wattz Electronics, modèle C-Radz. Cet appareil détecte et indique le taux des radiations.}
 {5300}{}{Mentats}
-{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{Une boîte de pilules stimulantes altérant l'esprit. Augmente les facultés de mémorisation et accélère les autres processus mentaux. Provoque une forte dépendance.}
 {5400}{}{Homme invisible (Activé)}
 {5401}{}{Appareil de furtivité personnel Homme Invisible 3001 de RobCo. Génère un champ de modulation transmettant la lumière réfléchie d'un côté à l'autre d'un objet, ce qui rend son porteur beaucoup plus difficile à voir.}
 {5500}{}{Puce d'eau}
@@ -159,7 +159,7 @@
 {8000}{}{Guide de secourisme}
 {8001}{}{Un guide consacré à la théorie et à l'application pratique du secourisme.}
 {8100}{}{Brochette d'iguane}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Un iguane cuit, rôti dans sa propre peau.}
 {8200}{}{Clé}
 {8201}{}{Une clé. Une clé correspond toujours à une serrure.}
 {8300}{}{Porte-clés}
@@ -179,7 +179,7 @@
 {9000}{}{Sac à dos}
 {9001}{}{Un sac à dos ordinaire avec des lanières en option.}
 {9100}{}{Sacoche de médecin}
-{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
+{9101}{}{Cette trousse contient des instruments et des produits chimiques utilisés par les médecins dans l'exercice de leur art.}
 {9200}{}{Queue de radscorpion}
 {9201}{}{La queue coupée d'un radscorpion.}
 {9300}{}{Sac}
@@ -191,7 +191,7 @@
 {9600}{}{Passe rouge}
 {9601}{}{Une clé de sécurité électronique utilisant le code de couleur rouge.}
 {9700}{}{Passe bleu}
-{9701}{}{An electronic security key, color coded blue.}
+{9701}{}{Une clé de sécurité électronique utilisant le code de couleur bleu.}
 {9800}{}{Vieilleries}
 {9801}{}{Une pile de vieilles pièces. Un peu de tout en somme.}
 {9900}{}{Médaillon en or}
@@ -215,7 +215,7 @@
 {10800}{}{Os}
 {10801}{}{Un gisement d'ossements bizarres.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
+{10901}{}{Produit anti-radiations à absorber avant toute exposition. Aucun effet secondaire connu. Sans accoutumance.}
 {11000}{}{Psycho}
 {11001}{}{Un vecteur unique rempli de produits chimiques inconnus et étranges, probablement d'origine militaire. Supposé améliorer le potentiel de combat d'un soldat.}
 {11100}{}{MEM .44 Magnum}
@@ -377,19 +377,19 @@
 {18900}{}{Placard}
 {18901}{}{Un placard.}
 {19000}{}{Disque sur le FEV}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Une holobande contenant des informations médicales. Peut être utilisée pour entrer des informations dans votre Pip-Boy.}
 {19100}{}{Disque de sécurité}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Une holobande portant la mention "Journal de sécurité". Tu peux transférer les données qu'elle contient vers ton Pip-Boy.}
 {19200}{}{Disque sur l'expérience Alpha}
 {19201}{}{Cette holobande porte la mention : "Journal de l'expérience Alpha"}
 {19300}{}{Disque sur l'expérience Delta}
 {19301}{}{Cette holobande porte la mention : "Journal de l'expérience Delta"}
 {19400}{}{Disque sur les expériences de Vree}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Cette holobande a été mise à jour avec la découverte de Vree concernant le BoS. Tu peux transférer les données qu'elle contient vers ton Pip-Boy.}
 {19500}{}{Code d'honneur de la Confrérie}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
+{19501}{}{Une holobande comportant une représentation vague du symbole de la Confrérie de l'Acier. Utilisez cette bande pour transférer les données qu'elle contient vers votre Pip-Boy.}
 {19600}{}{Transmissions des mutants}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19601}{}{Cette holobande semble avoir été utilisée pour enregistrer des transmissions radio. Utilisez cette bande pour transférer les données qu'elle contient vers votre Pip-Boy.}
 {19700}{}{Boîte}
 {19800}{}{Boîte}
 {19900}{}{Boîte}
@@ -419,7 +419,7 @@
 {21400}{}{Bureau}
 {21401}{}{Un bureau. Après un examen approfondi, tu constates qu'il s'agit bien d'un bureau.}
 {21500}{}{Histoire de la Confrérie}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
+{21501}{}{Une holobande comportant des informations sur la Confrérie de l'Acier. Peut être utilisée pour entrer des informations dans votre Pip-Boy.}
 {21600}{}{Histoire de Maxson}
 {21700}{}{Journal de Maxson}
 {21800}{}{Légère guérison}
@@ -507,7 +507,7 @@
 {25900}{}{Jet}
 {25901}{}{Le Jet est une méta amphétamine puissante stimulant le système nerveux central. La montée initiale d'euphorie dure rarement plus de quelques minutes. Pendant ce temps, l'utilisateur ressent une force et une euphorie incroyables.}
 {26000}{}{Antidote contre le Jet}
-{26001}{}{This antidote cures the Jet addiction.}
+{26001}{}{Cette antidote permet de guérir la dépendance au Jet.}
 {26100}{}{Carabine de Jonny}
 {26101}{}{Une carabine à air Red Ryder. On a gravé tant bien que mal « Jonny » sur le manche. FO min : 3.}
 {26200}{}{Bottes en caoutchouc}
@@ -795,7 +795,7 @@
 {40800}{}{Trousse de secours pour médecin sur le terrain}
 {40801}{}{Une trousse contenant tout l'équipement médical d'urgence de base. Bandages, pansements, antiseptique etc.}
 {40900}{}{Sac d'instruments médicaux}
-{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{Ce sac permet de transporter tous les instruments et stimulants utilisés par le personnel médical sur le terrain. Les instruments sont conçus spécialement pour les traumatismes graves et les cas d'urgence.}
 {41000}{}{Jeu de passe-partout amélioré}
 {41001}{}{Un jeu d'outils de serrurerie. Comprend tous les pics et clés à enrouleur nécessaires pour ouvrir les serrures à gorge ou à broche conventionnelles. Ce jeu comprend également des outils spéciaux pour les mécanismes plus difficiles.}
 {41100}{}{Passe-partout électronique Mk II}
@@ -917,10 +917,10 @@
 {46901}{}{Un alcool très fort ou du liquide de refroidissement, à toi d'en décider.}
 {47000}{}{Bâillon à boule}
 {47001}{}{Un accessoire sexuel. Il te faut vraiment une explication ?}
-{47100}{}{"The Lavender Flower"}
+{47100}{}{« La Lavande »}
 {47101}{}{Un roman à l'eau de rose écrit par une certaine Dorothy Rixon. La couverture représente une femme étendue sur un lit et entourée de dizaines de fleurs.}
 {47200}{}{Holodisque Hubologiste}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
+{47201}{}{L'étiquette de cet holodisque dit : « L'Hubologie : La Vérité Est Ici. » Il doit être compatible avec ton Pip-Boy.}
 {47300}{}{Orteil muté}
 {47301}{}{Tu vois ton sixième orteil, une portion minuscule, mais mutée, de toi-même. Curieusement, la vue de ce membre amputé t'emplit de nostalgie.}
 {47400}{}{Marguerites}
@@ -934,7 +934,7 @@
 {47800}{}{Holodisque de la base Sierra}
 {47801}{}{Sur l'étiquette, tu lis : « Ordre de mission. »}
 {47900}{}{Pièces détachées NavCom}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
+{47901}{}{Ces pièces doivent pouvoir s'adapter dans un ordinateur. Le fait qu'elles soient étiquetées « Poséidon Oil » et « Ordinateur de navigation » te font penser qu'elles sont destinées à un Ordinateur de Navigation Poséidon Oil.}
 {48000}{}{Bonus +1 Agilité}
 {48100}{}{Bonus +1 Intelligence}
 {48200}{}{Bonus +1 Force}

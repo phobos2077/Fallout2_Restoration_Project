@@ -74,7 +74,7 @@
 {173}{}{Besoin savoir plus.}
 {174}{}{Quelques questions supplémentaires s'il te plaît.}
 {175}{tand11}{Va droit au but. J'ai pas de temps à perdre.}
-{176}{}{Ok, me hurry.}
+{176}{}{D'accord, moi dépêcher.}
 {177}{}{Je vais tâcher d'aller vite.}
 {178}{tand12}{Vu ta combinaison, je pensais que tu le savais déjà.}
 {179}{}{Combinaison dans village depuis beaucoup temps. Appartenir à Habitant de l'Abri, fondateur de tribu.}
@@ -168,7 +168,7 @@
 {267}{}{Juste une dernière chose. Et si je te disais que j'ai trouvé l'abri 13 ?}
 {268}{}{Je lui parlerai. Au revoir.}
 {269}{tand36}{C'est l'argent qui t'intéresse, hein ? Bon. Cinq cents, quand t'auras fini. On marchande pas avec moi, c'est à prendre ou à laisser.}
-{270}{}{Me take but me need ask questions.}
+{270}{}{Moi prendre mais moi poser questions.}
 {271}{}{Moi pas vouloir.}
 {272}{}{Je prendrai mais j'ai besoin de renseignements.}
 {273}{}{Pas intéressé.}

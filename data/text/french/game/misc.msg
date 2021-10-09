@@ -5,7 +5,7 @@
 {4}{}{Chargement rapide terminé.}
 {5}{}{Sauvegarde rapide terminée.}
 {6}{}{Délai de démo écoulé.}
-{7}{}{Pip-Boy not available in combat!}
+{7}{}{Pip-Boy non disponible au combat !}
 {8}{}{Erreur à la sauvegarde de la capture d'écran.}
 {9}{}{INTRO}
 {10}{}{NOUVEAU JEU}
@@ -43,7 +43,7 @@
 {5001}{}{est à court de munitions pour : }
 {5002}{}{recharge : }
 {6000}{}{Que veux-tu savoir ?}
-{7000}{}{You aren't wearing the Pip-Boy!}
+{7000}{}{Tu ne portes pas le Pip-Boy !}
 {8000}{}{Tu es en surcharge.}
 {8001}{}{%s est en surcharge.}
 {8500}{}{Tu gagnes %d points d'expérience pour avoir utilisé avec succès ta compétence Vie en plein air.}

@@ -46,7 +46,7 @@
 {271}{}{Le dernier combat était vraiment épique, chica.}
 {272}{}{Hé, où t'entraînes-tu ? T'as besoin d'un entraîneur ?}
 {273}{}{Attention au Mastiquateur. Il aime bouffer les oreilles. C'est un drôle de type.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{280}{}{Hé, hé là ! Chica, tu veux que je range cette arme pour toi ?}
 {281}{}{Quoi, tu veux que je te taille un nouveau costard ? Allez, rengaine ton arme avant que je m'énerve.}
 {285}{}{Mais bordel, pourquoi te-te planques, }
 {290}{}{Dur d'échapper à l'oeil d'un Mordino avec un physique pareil, chica.}
@@ -149,13 +149,11 @@
 {472}{}{Au son de ta toux et à la façon dont tu te frottes le nez, je me demande à peine où passe tout le Jet qui est livré ici.}
 {473}{}{Big J, y prend soin de nous. Rien que la semaine dernière, j'ai chopé trois esclaves assez bêtes pour s'enfuir. Alors récompense, tu vois ? Hé. Et toi que dalle. Tu te penches, tu ramasses. Moi, j'suis GARDE.}
 {474}{}{Ouais, super. Fais gaffe à toi.}
-{475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
- guards such as yourself.}
+{475}{}{Je me demande si Big Jésus réalise que ces trois esclaves ont pu s'échapper sous le nez de gardes aussi perspicaces et accros au Jet que toi.}
 {476}{}{Ramirez... fais gaffe à ce que tu dis, d'accord ? Laisse pas ta bouche mettre tes fesses dans une situation délicate.}
 {480}{}{[Il cligne des yeux.] Hé... ? Quoi ?}
 {481}{}{Rien que tu aurais pu comprendre ou que je voudrais prendre le temps de répéter. Fais gaffe à toi, ok ?}
-{482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
- perceptive, Jet-addicted guards such as yourself."}
+{482}{}{J'ai dit « Je me demande si Big Jésus réalise que ces trois esclaves ont pu s'échapper sous le nez de gardes aussi perspicaces et accros au Jet que toi».}
 {490}{}{[Il cligne des yeux, sourit l'air confus.] Hein ? Ouais, ouais. J'suis vif, tu vois... per...spicace... J'suis GARDE, ok ?}
 {491}{}{Ouais, tu l'as déjà dit. A ta place, Ramirez, je rendrais un service à l'humanité toute entière en prenant toute cette boîte de Jet d'un coup. A plus.}
 {492}{}{Mec, je suis rassuré qu'on ait eu la sagesse de vous donner que des armes automatiques. J'me sens plus en sécurité. A plus, Ramirez.}

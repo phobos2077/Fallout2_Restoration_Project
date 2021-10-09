@@ -60,7 +60,7 @@
 {921}{}{Et mon imagination fera vivre ce moment...}
 {923}{}{Donne-moi ce que tu peux...}
 {925}{}{::Bouche en trompette::}
-{930}{}{I'll... be with yoooou}
+{930}{}{Je serai avec toiiiiiii...}
 {933}{}{Hooooo...}
 {935}{}{Lèvres pour un instant...}
 {937}{}{Feront vivre ce moment...}

@@ -74,7 +74,7 @@
 {360}{}{C'est ça ! Je savais BIEN que je te connaissais ! Merde, pourquoi tu l'as pas dit plus tôt, j'aurais fermé ma gueule... Bon, alors, que puis-je faire pour toi ?}
 {361}{}{Heu... moi oublié. Moi partir.}
 {363}{}{Eh bien, je cherche du Jet...}
-{364}{}{Hey, I wanted something else...}
+{364}{}{Je voulais autre chose.}
 {365}{}{Il faut que j'y aille. A plus tard, Jimmy.}
 {375}{}{[Jimmy se tait soudainement, tu as dû lui paralyser le cerveau.]}
 {376}{}{[Voler tout ce qu'il a]}
@@ -122,10 +122,9 @@
 {500}{}{Avant, je me fournissais auprès du dieu lui-même, Myron, mais il est parti... ou s'est fait avoir. Maintenant, c'est les Mordino qui m'approvisionnent.}
 {501}{}{Je me FOURNISSAIS auprès de Myron, et puis il a joué les grands seigneurs et il a quitté le marché... Pas vrai, Myron ? Ha ! Maintenant, je prends le matos ordinaire que vendent les Mordino.}
 {502}{}{Intéressant. J'avais d'autres questions...}
-{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
- MYRON.}
+{510}{}{J'ai des liens avec le CREATEUR, camarade pilote. C'est le cerveau, le dieu vivant des composants chimiques qui me fournit, MYRON lui-même.}
 {511}{}{Myron ?}
-{512}{}{Interesting. Say, I had some other questions...}
+{512}{}{Intéressant. J'avais d'autres questions...}
 {513}{}{Myron ? Et où puis-je voir ce... dieu vivant ?}
 {514}{}{Vraiment ? Alors je reviendrai t'en acheter. Merci Jimmy.}
 {520}{}{C'est le trésor de la famille Mordino. Il a CONCU le Jet. Se fournir auprès de Jimmy J, c'est comme se fournir auprès de Myron lui-même, tu vois ? C'est pour ça que J-J a le Jet le plus pur. Le MEILLEUR Jet.}
@@ -138,7 +137,7 @@
 {534}{}{Intéressant. Merci du renseignement, Jimmy.}
 {540}{}{Des gardes, encore des gardes, des tas de gardes. Et le meilleur système de sécurité électronique de tout New Reno. Tu auras de la chance si jamais tu entends PARLER de quelqu'un qui aura vu Myron. On le couve.}
 {541}{}{On le couve ? Où ça au juste ?}
-{543}{}{I see. Say, I had some other questions...}
+{543}{}{Je vois. J'ai d'autres questions à poser...}
 {550}{}{Ils le gardent dans un endroit qui s'appelle les *Etables*, vers le Nord, à l'extérieur de la ville. J'y suis allé qu'une fois, ils m'ont pas laissé franchir la grille, alors que je BOSSE pour la Famille !}
 {551}{}{Allons, il doit bien y avoir un moyen.}
 {554}{}{Les Etables, hein ? A l'extérieur de la ville, vers le  Nord... [Et hop, enregistré sur le Pip-Boy.] Merci du tuyau, Jimmy.}
@@ -157,13 +156,13 @@
 {592}{}{Intéressant... Juste par pure curiosité, vraiment, où les Mordino trouvent-ils ces prostituées et comment les choisissent-ils ?}
 {600}{}{[Il hausse les épaules.] Un des jeunes Mordino va au Cat's Paw, en face, et il en choisit une qui correspond aux goûts de Myron parmi l'éventail de Miss Kitty. [Jimmy se tait, te scrute et fronce les sourcils.] Minute...}
 {601}{}{Qu'est-ce qui ne va pas ?}
-{602}{}{Uh... nevermind. Say, I had some other questions...}
+{602}{}{Heu, c'est pas grave. J'avais d'autres questions...}
 {603}{}{Heu, bon, merci du renseignement, Jimmy.}
 {610}{}{Pourquoi tu veux savoir tout ça ? J'ai du Jet, c'est tout ce que TU as besoin de savoir. Tu as pas besoin de connaître ce que Myron trafique, ni ce qu'il bouffe à dîner, ni qui il se tape avant d'aller se pieuter.}
 {611}{}{Pourquoi tu veux savoir tout ça ? [Il s'interrompt, puis sourit et te détaille des pieds à la tête.] Ah, j'ai compris. Tu veux te fournir à la source, pas vrai p'tite soeur ?}
 {612}{}{Pas pour l'instant. Voyons voir ce que tu as, Jimmy.}
 {613}{}{Laisse tomber, alors. On deale.}
-{614}{}{Nevermind then. I had some other questions...}
+{614}{}{Bon, c'est pas grave. J'avais encore une ou deux questions...}
 {615}{}{Peut-être. Dis, j'ai d'autres questions...}
 {616}{}{Simple curiosité. Merci, Jimmy. Il faut que j'y aille.}
 {617}{}{D'accord. A plus tard, Jimmy. Il faut que j'y aille.}

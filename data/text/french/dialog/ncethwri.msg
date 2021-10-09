@@ -204,6 +204,6 @@
 {1251}{}{. Je voudrais te poser quelques questions sur New Reno...}
 {1415}{}{[Elle sursaute.] Oh mon dieu ! [Elle plisse les yeux, retrousse les lèvres en signe de désapprobation.] Jamais !}
 {1430}{}{[Elle sursaute.] Oh mon dieu !}
-{1431}{}{(Squints at you, then her gaze becomes glacial.) }
+{1431}{}{[Elle sursaute.] Oh mon dieu ! [Elle plisse les yeux, puis son regard devient glacial.]}
 {1480}{}{Tu vas le détruire ? Je... Bon, d'accord. [Sa nervosité augmente.]}
 {1530}{}{. Je ferai tout pour que la famille Wright reste dans le droit chemin à partir d'aujourd'hui.}

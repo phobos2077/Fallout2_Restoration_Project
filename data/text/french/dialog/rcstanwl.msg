@@ -4,7 +4,7 @@
 {103}{}{La RNC n'apprécie pas les lâches. Casse-toi !}
 {104}{}{Tu sais ce que je pense des spécimens de ton espèce alors fiche le camp !}
 {105}{}{Youhou ! En avant !}
-{106}{}{Okay, let's go.}
+{106}{}{Allez, on y va !}
 {107}{}{Je suis Stanwell. Je conduis la caravane entre Redding et la RNC. Mon business, c'est les Brahmines contre de l'or. On aurait besoin d'un garde de plus et on est prêts à partir.}
 {108}{}{On m'appelle Stanwell. Je conduis la caravane entre Redding et la République de Nouvelle Californie. Mon business, c'est les Brahmines contre de l'or. Je prends en général un ou deux extras. On quitte la ville le 11 de chaque mois. Si tu veux t'enrôler, sois au rendez-vous.}
 {109}{}{Autre chose ?}

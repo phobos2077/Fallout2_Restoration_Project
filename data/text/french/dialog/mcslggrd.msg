@@ -24,6 +24,6 @@
 {242}{}{[Tue-les tous et laisse les dieux qu'ils vénèrent faire le tri.]}
 {250}{}{Désolé mais tu ne peux pas partir par là.}
 {251}{}{Cette entrée est réservée aux travailleurs.}
-{252}{}{It takes too much effort to set up the ramps for just one person.}
+{252}{}{Préparer les rampes pour une seule personne nécessite trop d'efforts.}
 {253}{}{Si tu veux partir, demande à Vegeir.}
 {260}{}{Ok. Ok.}

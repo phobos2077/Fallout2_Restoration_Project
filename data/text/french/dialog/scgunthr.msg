@@ -27,7 +27,7 @@
 {126}{}{Je sais que la présidente cherche quelqu'un pour un boulot.}
 {127}{}{Mme la Présidente n'accorde plus d'interviews concernant l'Abri 13. Je regrette. Elle n'a pas le temps de voir chaque chercheur.}
 {128}{}{Hein ? Je ne comprends pas.}
-{129}{}{What about a GECK? She might know something about that?}
+{129}{}{Un J.E.K ? Et elle saurait quelque chose à ce propos ?}
 {130}{}{J'ai entendu parler d'un boulot.}
 {131}{}{Tu es un incapable. Je m'en vais.}
 {132}{}{Alors je te conseille de lire la plaque qui se trouve sur la statue dehors. Bonne journée !}

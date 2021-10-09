@@ -26,7 +26,7 @@
 {120}{}{DEFAUT}
 {121}{}{ANNULER}
 {122}{}{Modifie la vitesse du joueur}
-{123}{}{Pip-Boy speech}
+{123}{}{Voix du Pip-Boy}
 {201}{}{Oui}
 {202}{}{Non}
 {203}{}{Facile}

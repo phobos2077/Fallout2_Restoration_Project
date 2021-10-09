@@ -58,7 +58,7 @@
 {304}{}{Heu-heu.}
 {306}{}{Au boulot.}
 {307}{}{Heu, non merci. J'ai changé d'avis. Au revoir.}
-{320}{}{Aiight then...}
+{320}{}{Bon d'accord...}
 {321}{}{Oh-oh-oh.}
 {330}{}{Oh, tu veux juste t'AMUSER avec T-Ray ? Bon, très bien. Fous le camp, poupée... J'ai d'autres chattes à fouetter.}
 {331}{}{L'horloge du temps continue à faire tic-tac, tic-tac... vers le futur.}
@@ -77,7 +77,7 @@
 {365}{}{Ca m'a l'air intéressant. Je repasserai.}
 {375}{}{Tu vas en offrir autant que BISHOP ? Ca fait un paquet de pépettes, mon pote. Un PAQUET de jetons. En plus, c'est un des hommes les plus importants de Reno. Si je lui donne cet engin, j'ai des avantages... en nature.}
 {376}{}{Tu vas en offrir autant que BISHOP ? Ca fait un paquet de pépettes poupée. Un PAQUET de fric. En plus, c'est un des hommes les plus importants de Reno. Si je lui donne cet engin, j'ai des avantages... en nature.}
-{377}{}{I'm listening...}
+{377}{}{J'écoute.}
 {378}{}{1000 jetons, ça pourrait te faire changer d'avis ?}
 {379}{}{750 jetons, ça pourrait te faire changer d'avis ?}
 {380}{}{500 jetons, ça pourrait te faire changer d'avis ?}
@@ -155,7 +155,7 @@
 {631}{}{D'accord.}
 {632}{}{Je regrette, seulement s'il s'agit d'affaires. A plus tard, T-Ray.}
 {640}{}{Je t'ai déjà donné mon corps y a cinq minutes ! Tu veux me TUER ou quoi ?!}
-{641}{}{Now, hold on...}
+{641}{}{Attends un peu...}
 {642}{}{Allez, j'ai besoin qu'on me redonne de la force et il y a que TOI qui peux faire ça.}
 {643}{}{Tant pis alors. Laisse tomber.}
 {650}{}{Nan, j'ai déjà un chien à nourrir et je cherche pas à monter un chenil. A en juger par les apparences, je vois rien qui vaille la peine que je perde mon temps. 500 jetons, c'est le prix à payer pour remettre la Highwayman sur son trente-et-un.}

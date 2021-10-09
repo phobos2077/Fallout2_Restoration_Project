@@ -6,8 +6,8 @@
 {105}{}{Mutant rouge !}
 {106}{}{Tu nous as tous détruits.}
 {107}{}{Tu vas le payer !}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{108}{ssa2}{Tu... [Tousse, tousse...] ... Tu n'as pas encore gagné ! Toi et tes enfoirés de mutants allez me rejoindre dans un gros nuage en forme de champignon. Je viens de déclencher l'auto-destruction. <Hé hé> [Tousse, tousse...] Le plan continue. Tout ce que tu as réussi à faire, c'est signer ton arrêt de mort ! Devoir, [Tousse...] Honneur, [Pause] Courage, [Pause] Pour toujouuuu --}
+{109}{ssa2}{Tu... [Tousse, tousse...] ... Tu n'as pas encore gagné ! Toi et tes enfoirés de mutants allez me rejoindre dans un gros nuage en forme de champignon. Je viens de déclencher l'auto-destruction. <Hé hé> [Tousse, tousse...] Le plan continue. Tout ce que tu as réussi à faire, c'est signer ton arrêt de mort ! Devoir, [Tousse...] Honneur, [Pause] Courage, [Pause] Pour toujouuuu --}
 {110}{}{Euh oh. Mauvais être arrivé ici. Moi échapper vers navire.}
 {111}{}{Vaudrait mieux que je rejoigne mon navire et que j'me tire d'ici.}
 {112}{ssa3alt}{T'as été beaucoup trop loin... mais on voit bien que tu n'as encore jamais eu affaire à Frank Horrigan. Ta balade s'arrête ici mutant. C'est l'heure de mourir.}

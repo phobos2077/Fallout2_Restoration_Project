@@ -4,7 +4,7 @@
 {103}{}{Pas d'arme.}
 {104}{}{Armes de Mêlée}
 {105}{}{Projectiles}
-{106}{}{First Aid}
+{106}{}{Secourisme}
 {107}{}{Médecine}
 {108}{}{Esquive}
 {109}{}{Crochetage}
@@ -18,22 +18,22 @@
 {117}{}{Vie en plein air}
 {200}{}{Maniement, entretien et connaissance générale des petites armes à feu. - Pistolets, mitraillettes et carabines.}
 {201}{}{Fonctionnement et entretien de l'armement lourd. - Mini-canons, lance-roquettes, lance-flammes et autres.}
-{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
+{202}{}{Entretien et chargement des armes à énergie. Comment armer et manier des armes utilisant des techniques au laser ou au plasma.}
+{203}{}{Divers arts martiaux, combats de boxe et Corps à Corps. Coups de pieds et coups de poings. Cela inclut les poings américains et les gants.}
 {204}{}{Capacité à combattre avec des armes blanches. Couteaux, massues, lances, matraques, etc.}
 {205}{}{Capacité à lancer des armes à la main, telles que des couteaux, des lances et des grenades.}
-{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
-{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
-{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
-{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
+{206}{}{Capacité à pratiquer les premiers soins. Traitement des coupures légères, écorchures et autres maux bénins. La compétence Secourisme permet de guérir des points d'impact plus facilement que par un simple repos.}
+{207}{}{Capacité à traiter les lésions importantes et à soigner les membres estropiés.  Sans cette compétence, la durée d'attente avant de pouvoir retrouver l'usage des membres estropiés est beaucoup plus importante.}
+{208}{}{Mouvement furtif permettant de passer inaperçu. En cas de succès, il devient plus difficile de te localiser. Il est impossible de courir et de se déplacer furtivement en même temps.}
+{209}{}{Capacité à ouvrir les serrures sans la bonne clé. L'utilisation de passe-partout classiques ou électroniques améliore nettement cette compétence.}
+{210}{}{Faculté de s'approprier ce qui appartient à autrui. S'applique aux personnes et aux lieux.}
+{211}{}{Capacité à repérer et retirer les pièges posés. Permet également de poser des explosifs.}
 {212}{}{Recouvre diverses compétences scientifiques, notamment en informatique, biologie, physique et géologie.}
 {213}{}{Mise en application de la compétence Science. Réparation des équipements, mécanismes et appareils électroniques endommagés.}
-{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
-{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
-{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
-{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
+{214}{}{Capacité à communiquer de manière pratique et efficace. Capacité à se montrer persuasif, à mentir et à ne pas se faire prendre.}
+{215}{}{Sens du commerce. Capacité à tout marchander, à la vente comme à l'achat.}
+{216}{}{L'art et la manière de parier. Talent aux jeux de cartes, de dés et autres.}
+{217}{}{Connaissance pratique de la vie en plein air et capacité à survivre en milieu hostile. Connaissance de la flore et de la faune.}
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}

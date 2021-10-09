@@ -107,7 +107,7 @@
 {2280}{}{[Tu vois une machine à sous. Son châssis brillant et sa poignée dorée étincellent de façon attrayante sous les lumières de New Reno. La fente des pièces te fait signe et tu te sens rougir d'avance. Au moment où tu la regardes, l'une des trois fenêtres te fait un clin d'oeil. De la fente, tu entends une voix gutturale :] *Eh bien, ma parole ! Bonjouuur, mon chou. Tu vas montrer à une fille ce que tu sais faire ?*}
 {2281}{}{[Tu vois une machine à sous. Son châssis solide et rugueux et sa poignée dorée étincellent comme un dieu du soleil sous les lumières de New Reno. Sa fente te fait des signes aguicheurs et tu sens tes joues rougir d'avance. Tout à coup, au moment où tu la regardes, une voix masculine te susurre de la fente des pièces :] *Je n'ai encore jamais vu une femme aussi belle par ici. Tu veux tenter ta chance ? *}
 {2282}{}{[Se pincer]}
-{2283}{}{Uh... hello?}
+{2283}{}{Hé ho...}
 {2284}{}{[Respirer à fond et s'éloigner de la machine]}
 {2300}{}{*Je suis toujours là, ma belle.* [La machine à sous baisse la voix.] *Ecoute, viens... Tu veux pas miser ? *}
 {2301}{}{*Chuis toujours là, mon chou.* [La machine à sous baisse la voix.] *T'es un sacré beau mec, tu sais ? Allez, viens... Tu veux pas mettre quelques pièces par ici ?*}

@@ -12,7 +12,7 @@
 {200}{}{::Acclamations::}
 {201}{}{::Applaudissements::}
 {202}{}{::Siffle::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
+{203}{}{~ Nous n'avons pas besoin de héros, nous n'avons pas besoin de connaître le chemin du retour... ~}
 {204}{}{Hé ! }
 {205}{}{Belle façon d'éclater l'Enclave, }
 {206}{}{T'as dû être plus résistant que Tommy les Boules pour t'être débarrassé de l'Enclave comme ça.}
@@ -58,7 +58,7 @@
 {299}{}{Ton mutant là, t'f'rais bien d'faire gaffe à lui par ici, t'm'as compris ?}
 {305}{}{Que veux-tu ?}
 {306}{}{J'peux t'aider ?}
-{307}{}{Damn hot...}
+{307}{}{Saleté de touristes...}
 {308}{}{New Reno devient de plus en plus moche de jour en jour...}
 {309}{}{Que fais-tu par ici ?}
 {310}{}{Si tu cherches de l'alcool, continue ton chemin vers la gare au Nord de la ville... On en vend pas ici.}
@@ -78,7 +78,7 @@
 {340}{}{Papa a dit qu'il nous étranglerait si jamais il entendait qu'on prenait du Jet.}
 {341}{}{Papa est encore fâché, donc fais attention quand tu lui adresses la parole, compris ?}
 {342}{}{Chris va se faire fouetter s'il continue à aller dans le bordel.}
-{343}{}{Damn hot...}
+{343}{}{Saleté de touristes...}
 {344}{}{J'ai pas vu maman depuis un moment. Si tu la vois, lui dis rien à propos de l'alambic, ok ?}
 {345}{}{Keith a démonté le piano la semaine dernière et vient de le remonter. Malin l'gamin.}
 {346}{}{On va chasser le radscorpion dans quelques jours.}
@@ -103,7 +103,7 @@
 {368}{}{Papa a dit qu'il nous étranglerait si jamais il entendait qu'on prenait du Jet.}
 {369}{}{Papa est encore fâché, donc fais attention quand tu lui adresses la parole, compris ?}
 {370}{}{Chris va se faire fouetter s'il continue à aller dans le bordel.}
-{371}{}{Damn hot...}
+{371}{}{Saleté de touristes...}
 {372}{}{Keith a démonté le piano la semaine dernière et vient de le remonter. Malin l'gamin.}
 {373}{}{On va chasser le radscorpion dans quelques jours.}
 {374}{}{Tu parles vraiment à dieu quand tu baises ?}

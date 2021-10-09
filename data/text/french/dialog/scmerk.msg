@@ -25,7 +25,7 @@
 {124}{}{C'est quoi ça, le quart d'heure mondain ?}
 {125}{}{Moi, c'est Merk. Qu'est-ce que tu veux ?}
 {126}{}{Encore toi ?}
-{127}{}{Well, keep it polite, punk, or this could get ugly.}
+{127}{}{Bon, un peu de courtoisie, sale punk, ou ça pourrait mal finir.}
 {128}{}{<Burp>}
 {129}{}{Je cherche du travail.}
 {130}{}{Les gens bien informés disent que c'est toi qu'il faut voir quand on veut parler affaires, si tu vois ce que je veux dire.}
@@ -95,7 +95,7 @@
 {194}{}{Eh bien, je suis un érudit. Quelle est ta question ?}
 {195}{}{Demande toujours.}
 {196}{}{Je cherche l'Abri 13.}
-{197}{}{Ever heard of a GECK?}
+{197}{}{As-tu déjà entendu parler d'un J.E.K ?}
 {198}{}{Que sais-tu sur un groupe nommé le Commando ?}
 {199}{}{Que sais-tu sur un gars nommé Westin ?}
 {200}{}{Je cherche des renseignements sur le vice-président Carlson.}
@@ -107,7 +107,7 @@
 {206}{}{Bien sûr. Je la prends.}
 {207}{}{Et je parie que tu me vends le pont pour m'y rendre.}
 {208}{}{Peut-être plus tard.}
-{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
+{209}{}{S'il y a des stupéfiants à New Reno ? Je n'en ai jamais entendu parler.}
 {210}{}{Non. J'ai d'autres questions à te poser.}
 {211}{}{C'est tout ce que je voulais savoir.}
 {212}{}{Ces salauds ! Qu'ils ne mettent pas un pied chez moi, sinon je leur troue la cervelle.}
@@ -120,7 +120,7 @@
 {219}{}{Je crois que je n'aurai jamais le plaisir de le rencontrer. J'ai tellement entendu parler de lui.}
 {220}{}{C'est tout ce que je voulais savoir.}
 {221}{}{C'est tout ?}
-{222}{}{No, I've got some more questions.}
+{222}{}{Non, j'ai encore quelques questions.}
 {223}{}{Ouais, c'est tout pour le moment.}
 {224}{}{Hé, qui ne tente rien n'a rien. L'Abri 13, c'est presque une religion par ici. Ils ont même érigé la statue d'un crétin qui serait originaire de là-bas. C'est tout ce que je sais.}
 {225}{}{Tu m'as acheté une carte pour ça. Utilise-la.}

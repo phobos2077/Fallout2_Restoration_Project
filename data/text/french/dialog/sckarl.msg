@@ -22,13 +22,13 @@
 {121}{}{Un dur, hein ?}
 {122}{}{Que vas-tu lui faire ?}
 {123}{}{Hé, j'ai déjà entendu parler de toi. Ouais, en bien. Ecoute, des gens que je connais auraient besoin de quelqu'un comme toi. Va au garage et demande Elise. Dis-lui bonjour de ma part.}
-{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{124}{}{Du travail ? Y'a l'association des éleveurs qui cherche des gardes. Des pillards ont encore attaqué des rassemblements de bétail. J'ai entendu dire que la présidente Tandi cherche quelqu'un *plein de ressources*. Ca peut peut-être t'aider, non ?}
 {125}{}{J'ai encore quelques questions à te poser.}
 {126}{}{Un peu. Merci.}
 {127}{}{C'est l'officier Jack, un de nos hommes. Tu as parlé à Mira, n'est-ce pas ?}
 {128}{}{Oui.}
 {129}{}{Quelle Mira ?}
-{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
+{130}{}{Ce salaud ? Il a des terres à l'extérieur de la ville. Prends la route juste après l'asso des éleveurs.}
 {131}{}{Tu ne l'aimes pas, hein ?}
 {132}{}{J'ai encore quelques questions à te poser.}
 {133}{}{Merci.}

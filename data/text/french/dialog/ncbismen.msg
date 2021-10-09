@@ -42,7 +42,7 @@
 {281}{}{Je t'ai aimé dans "Les 4 fentes astiquent".}
 {282}{}{Je t'ai aimé dans "La dernière tante à fion du Christ".}
 {283}{}{Je suis un grand fan de ton travail dans "Kiki roux et la léchante sorcière".}
-{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
+{284}{}{Si tu cherches des rôles qui demandent de l'endurance, je suis ton homme.}
 {285}{}{::Siffle::}
 {295}{}{Tu cherches à te faire un trou au Golgotha, esclavagiste ? Range cette arme.}
 {296}{}{Range cette arme, esclavagiste, sinon je t'utilise comme cible d'entraînement.}
@@ -116,7 +116,7 @@
 {391}{}{Où est-ce que tu t'entraînes ?}
 {392}{}{Fais attention au Mastiquateur. Il est friand d'oreilles.}
 {393}{}{Je t'aurais bien payé un verre si j'avais pas tout misé sur ton adversaire.}
-{394}{}{Wanna wrestle?}
+{394}{}{On s'emboîte ?}
 {395}{}{Tu n'as pas l'air si coriace, Mlle Crochet du droit.}
 {396}{}{Je peux voir tes abdos se contracter ?}
 {400}{}{J'ai entendu dire que Mme Bishop te cherchait. Fais gaffe.}

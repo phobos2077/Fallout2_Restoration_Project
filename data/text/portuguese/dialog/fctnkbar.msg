@@ -1,31 +1,31 @@
 {100}{}{Você vê um barman.}
-{101}{}{You see Slim, the bartender.}
-{102}{}{You see a bartender. He's wearing an apron and is holding a glass that he constantly cleans by spitting into it and wiping it with a dirty towel. He looks like he doesn't take crap from anyone.}
-{103}{}{I'm Slim. What'll you have?}
-{104}{}{Me want information.}
-{105}{}{What you got?}
+{101}{}{Você vê Slim, o barman.}
+{102}{}{Você vê um barman. Ele está usando um avental, segura um copo e cospe nele para depois limpar com um trapo sujo. Parece que ele não liga para porra nenhuma.}
+{103}{}{Sou Slim. Do que precisa?}
+{104}{}{Quero informações.}
+{105}{}{Vende coisas?}
 {106}{}{Não, eu vou.}
 {107}{}{Eu precisava de algumas informações.}
-{108}{}{Show me what you've got.}
-{109}{}{Nothing, I'm leaving.}
-{110}{}{Information huh? Well I ain't no library and this ain't no computer room. Drink up or get out. Want some booze or not?}
+{108}{}{Me mostre o que está vendendo.}
+{109}{}{Nada, só de passagem.}
+{110}{}{Informações hein? Bem, eu não sou uma biblioteca e isto não é uma sala de informática. Beba ou saia. Quer beber ou não?}
 {111}{}{Sim.}
 {112}{}{Não.}
-{113}{}{Fine. If this shit don't kill you, nothing will.}
+{113}{}{Perfeito. Se essa merda não te matar, nada consegue.}
 {114}{}{}
 {115}{}{Ok.}
-{116}{}{That it for you?}
+{116}{}{É isso para você?}
 {117}{}{Sim.}
 {118}{}{Não.}
 {119}{}{Mais tarde, então.}
 {120}{}{}
 {121}{}{Ok.}
-{122}{}{Welcome back. Need more booze?}
+{122}{}{Bem vindo de volta. Quer mais licor?}
 {123}{}{Sim.}
 {124}{}{Não.}
-{125}{}{I'm closed. Go away.}
+{125}{}{Estamos fechados. Pode sair.}
 {126}{}{}
 {127}{}{Ok.}
-{128}{}{I'm not open to you. Get out of my shop!}
+{128}{}{Eu não estou aberto agora. Se manda da minha loja!}
 {129}{}{}
 {130}{}{Ok.}

@@ -56,7 +56,7 @@
 {309}{}{Tu veux dire que t'as vendu des stimulants au fils de Wright ?}
 {310}{}{[Partir]}
 {320}{}{[Renesco te fixe d'un regard furieux. Tu as l'impression qu'il te déshabille mentalement, puis qu'il t'arrache les membres un par un.]}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{Bon, c'est pas grave. J'avais encore une ou deux questions...}
 {322}{}{Ca ne fait rien.}
 {330}{}{[Renesco te regarde d'un air dégoûté.] Oui. Dans la BOUTIQUE. On est plus au vingtième siècle et les stimulants ne sont plus vendus au coin des rues par de sombres individus vivants dans la peur des autorités.}
 {331}{}{Bon, dans ce cas --}
@@ -163,7 +163,7 @@
 {632}{}{Tu me fais l'impression d'un homme cultivé. As-tu déjà entendu parler d'un J.E.K ou d'un endroit nommé Abri 13 ?}
 {634}{}{Rien. Laisse tomber.}
 {640}{}{[Renesco t'arrache les lunettes des mains et les chausse. Ses yeux s'élargissent.] Douce Reno ! L'ETAT de cette foutue boutique ! [Il fronce les sourcils.] Quel bazar... et là sur les étagères ? On dirait de la merde de Brahmine.}
-{641}{}{You're welcome...}
+{641}{}{Pas d'quoi.}
 {642}{}{Amuse-toi bien.}
 {650}{}{Mmmmmm ! Je... mmmm... heu... où as-tu trouvé ça ?}
 {651}{}{Eh bien, tu vois, il y avait ce minuscule radscorpion et ce savant qui l'entraînait et... Tu sais quoi ? Même moi j'y crois pas. Ecoute, t'as qu'a les garder, d'accord ?}
@@ -174,8 +174,8 @@
 {671}{}{Que dis-tu d'une remise ?}
 {672}{}{Y'a pas de quoi... Ecoute, contente-toi de bien les porter, Ok ? J'avais d'autres questions...}
 {673}{}{Un jour, mais ce jour ne viendra peut-être jamais, je te demanderai de me rendre un service. Mais d'ici là accepte ces lunettes comme un cadeau, en ce jour où ma fille se marie.}
-{680}{}{Ehhh...}
-{681}{}{Errr...}
+{680}{}{Heu...}
+{681}{}{Err...}
 {682}{}{Bon...}
 {683}{}{Ok ! Ok ! Je vais te faire une remise ! Pffff.}
 {684}{}{Allez. Juste une petite remise. Allez...}

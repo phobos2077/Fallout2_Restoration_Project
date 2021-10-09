@@ -115,7 +115,7 @@
 {215}{}{M. Smith}
 {216}{}{Skeeve}
 {217}{}{Proconsul Grégory}
-{218}{}{Nurse Phyllis}
+{218}{}{Tu vois l'interne Phyllis.}
 {219}{}{Randal}
 {220}{}{Substance collante}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Le Loup}
 {444}{}{Générateur}
 {445}{}{Porte}
-{446}{}{Super mutant}
+{446}{}{Des Super Mutants ?}
 {447}{}{Homme de Salavatore}
 {448}{}{Homme de Bishop}
 {449}{}{Homme de Mordino}
@@ -416,7 +416,7 @@
 {516}{}{Three Card Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Bishop's Bodyguard}
+{519}{}{Garde de Bishop 1}
 {520}{}{John Bishop}
 {521}{}{Machine de casino}
 {522}{}{Garçon boucher}
@@ -503,7 +503,7 @@
 {603}{}{Squatteur}
 {604}{}{Abolitionniste}
 {605}{}{Contrebandier}
-{606}{}{Super mutant}
+{606}{}{Des Super Mutants ?}
 {607}{}{Pêcheur}
 {608}{}{Esclavagiste}
 {609}{}{Trappeur}
@@ -889,7 +889,7 @@
 {989}{}{Stock de Darrow}
 {990}{}{Porte}
 {991}{}{Super Méga Mutant}
-{992}{}{Dr. Jing Tie Gahng}
+{992}{}{Tu vois le Dr. Jing Tie Gahng.}
 {993}{}{Grundel}
 {994}{}{Gosse}
 {995}{}{Scanner de rétine}
@@ -964,7 +964,7 @@
 {1064}{}{Script de Cart}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Harry the Rocketman}
+{1067}{}{Homme-fusée}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1055,7 +1055,7 @@
 {1155}{}{Intendant}
 {1156}{}{Garde}
 {1157}{}{Chien cybernétique}
-{1158}{}{Doctor Schreber}
+{1158}{}{Tu as tué le Docteur Schreber.}
 {1159}{}{Technicien}
 {1160}{}{Technicien}
 {1161}{}{Garde}
@@ -1099,9 +1099,9 @@
 {1199}{}{Klaxon}
 {1200}{}{Mine}
 {1201}{}{Puits}
-{1202}{}{Cal}
+{1202}{}{Voiture}
 {1203}{}{Svelte}
-{1204}{}{Jenna}
+{1204}{}{Jenny}
 {1205}{}{}
 {1206}{}{}
 {1207}{}{Emetteur}

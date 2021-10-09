@@ -496,7 +496,7 @@
 {2037}{}{les ailes}
 {2038}{}{pas de nom}
 {5000}{}{. Ca fait vraiment mal}
-{5001}{}{. Serious pain is inflicted.}
+{5001}{}{. Ca doit piquer}
 {5002}{}{ sans le bénéfice d'une armure}
 {5003}{}{. Cette attaque perverse le met K.O}
 {5004}{}{. Le coup le met à terre}
@@ -534,7 +534,7 @@
 {5036}{}{. La douleur est trop grande pour lui et il s'écroule telle une loque}
 {5037}{}{. L'ennemi, les yeux révulsés, laisse échapper le mot 'Maman'}
 {5100}{}{. Ca fait vraiment mal}
-{5101}{}{. Serious pain is inflicted}
+{5101}{}{. Ca doit piquer}
 {5102}{}{ sans protection}
 {5103}{}{. Cette agression violente lui fait perdre conscience}
 {5104}{}{. Le coup la fait tomber à terre}

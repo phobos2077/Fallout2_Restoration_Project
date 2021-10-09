@@ -13,13 +13,13 @@
 {231}{}{... Dios mio...}
 {232}{}{... mon coeur...}
 {233}{}{<Harrkkkk>}
-{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
-{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
-{243}{}{[Stare back at him with your meanest stare.]}
-{244}{}{[Stare back at him with mild disinterest.]}
-{245}{}{[Stare back at him with a sneering gaze.]}
-{246}{}{[Stare back at him with affected disinterest.]}
+{240}{}{[L'homme se retourne. Il a l'air fiévreux : la sueur dégouline le long de son visage et tache ses vêtements.]}
+{241}{}{[Il t'ignore et fixe Myron, on dirait qu'il attend que Myron parle.]}
+{242}{}{[Il te fixe, on dirait qu'il attend que tu parles.]}
+{243}{}{Tu le fixes de ton regard le plus méchant.}
+{244}{}{Tu le fixes avec un léger désintérêt.}
+{245}{}{Tu le fixes d'un regard méprisant.}
+{246}{}{Tu le fixes avec un désintérêt affecté.}
 {247}{}{[Partir]}
 {248}{}{Qui es-tu ?}
 {249}{}{Es-tu Jésus Mordino ?}
@@ -116,11 +116,11 @@
 {452}{}{Ca ne fait rien. J'y vais.}
 {460}{}{Suis la rue de la Vierge vers le Nord, après les casinos... prends le chemin qui mène hors de la ville. Tu arriveras... aux Etables. Vas-y maintenant.}
 {461}{}{[Tu suis ses explications]}
-{470}{}{Have... you done as I asked?}
+{470}{}{As-tu fait ce que j'ai demandé ?}
 {471}{}{Non, je n'ai pas encore livré le paquet.}
 {472}{}{Oui, je l'ai livré à Ramirez comme tu l'as demandé.}
 {473}{}{Oui, j'ai été aux Etables et j'ai déposé ton paquet... Tu sais ce qu'ils FONT là-bas ? Ils torturent des esclaves avec des stimulants !}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Oui, j'ai donné ton paquet à ce garde, Ramirez... Tu sais que ce type s'éclate au Jet ? Il PUAIT le Jet à cent mètres !}
 {480}{}{Et... que fais-tu là ? [Big Jésus s'essuie le front et prend une profonde inspiration.] POURQUOI t'as pas livré le paquet ?}
 {481}{}{Eh bien, je voulais d'abord te poser des questions...}
 {482}{}{Je vais le faire tout de suite.}
@@ -216,7 +216,7 @@
 {751}{}{D'accord. Mais dis-moi...}
 {752}{}{Très bien. Merci, Señor Mordino.}
 {760}{}{La fièvre ne me... vaut rien de bon. Ma respiration est... quelquefois difficile. En période de stress ou d'autres activités physiques, je me fatigue rapidement. Parfois, j'ai des douleurs dans la poitrine.}
-{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
+{761}{}{Vraiment. C'est une bonne chose que tu ne prennes pas de stimulants, alors. J'avais d'autres questions...}
 {762}{}{Je vois. Je ferais mieux d'y aller.}
 {770}{}{Je ne te connais pas... Tu viens me voir... sans aucune recommandation pour donner... du poids à ton offre. [Il s'essuie le front puis respire profondément et bruyamment.] Je n'ai PAS de travail pour toi.}
 {771}{}{Allez, donne-moi une chance. Donne-moi du travail, n'importe quoi... je peux le faire.}

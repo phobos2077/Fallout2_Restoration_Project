@@ -7,7 +7,7 @@
 {106}{}{L'Abri 13 ?}
 {107}{}{Du J.E.K ?}
 {108}{}{Peu importe. La spécialité de la maison.}
-{109}{}{Gimme a beer.}
+{109}{}{File-moi une bière.}
 {110}{}{Des renseignements.}
 {111}{}{Je cherche du travail.}
 {112}{}{Eh bien, exactement comme je les aime.}

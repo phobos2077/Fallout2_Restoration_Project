@@ -8,7 +8,7 @@
 {153}{}{[Ce chien a l'air particulièrement agité.]}
 {154}{}{T'es un bon toutou toi.}
 {155}{}{Tu sais où est Jonny ?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Reste ici Laddie.}
 {157}{}{Allons chercher Jonny.}
 {158}{}{Laddie, Jonny est-il tombé dans le puits ?}
 {159}{}{Que se passe-t-il ? Tu essaies de me dire quelque chose ?}

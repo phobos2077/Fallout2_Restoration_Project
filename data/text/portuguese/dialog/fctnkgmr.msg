@@ -1,10 +1,10 @@
 {100}{}{Você vê um comerciante.}
-{101}{}{You see Cal, the gun merchant.}
-{102}{}{You see a bored but friendly looking man.}
-{103}{}{Good day to you, sir. May I help you?}
-{104}{}{Good day to you, miss. May I help you?}
-{105}{}{Me want information.}
-{106}{}{What you got?}
+{101}{}{Você vê Cal, o comerciante de armas.}
+{102}{}{Você vê um homem de aparência entediada, mas amigável.}
+{103}{}{Bom dia, chefe. Posso te ajudar?}
+{104}{}{Bom dia para você, moça. Posso te ajudar?}
+{105}{}{Quero informações.}
+{106}{}{Vende coisas?}
 {107}{}{Não, eu vou.}
 {108}{}{Eu precisava de algumas informações.}
 {109}{}{Sure, show me what you've got.}

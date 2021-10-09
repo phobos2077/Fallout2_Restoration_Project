@@ -31,7 +31,7 @@
 {130}{}{Je vais te transformer en copeaux rien que pour avoir démarré une baston ici.}
 {131}{}{Trouduc.}
 {132}{}{Tu ne peux pas faire ça et y survivre.}
-{133}{}{Time to take you outta' da' gene-pool.}
+{133}{}{C'est l'heure de t'effacer ton génome.}
 {134}{}{T'aurais dû le savoir mieux que ça.}
 {135}{}{Désolé d'en arriver à ce point.}
 {136}{}{Pauvre tache.}
@@ -42,7 +42,7 @@
 {141}{}{Maintenant, on doit te tomber sur la gueule et bien rude.}
 {142}{}{Ca va vraiment te faire mal.}
 {143}{}{Tu ferais mieux de lâcher ce flingue.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
+{144}{}{On veut pas d'ennui ici. Range-moi ça.}
 {145}{}{Range ton engin, ce sera mieux pour tout le monde.}
 {146}{}{Range-moi ça.}
 {147}{}{Range cette arme.}

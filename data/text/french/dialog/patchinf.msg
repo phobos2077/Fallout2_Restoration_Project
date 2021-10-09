@@ -1,2 +1,2 @@
-{100}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3u. Thanks for installing!}
-{101}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3u. Thanks for installing!}
+{100}{}{Vous jouez avec le Restoration Project créé par Killap. Version 2.3.3. Version française par Génération-Fallout.com. Merci de l'avoir installé !}
+{101}{}{Vous jouez avec le Restoration Project créé par Killap. Version 2.3.3. Version française par Génération-Fallout.com. Merci de l'avoir installé !}

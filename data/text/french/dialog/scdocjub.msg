@@ -114,7 +114,7 @@
 {272}{}{ jour }
 {273}{}{et je n'ai pas envie de me retaper le mélange d'ici là. Je suis sûr que tu pourras trouver un pharmacien disponible.}
 {274}{}{Je vois. Salut, alors.}
-{280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
+{280}{}{[Le Doc Jubilee te regarde bouche béé un moment.] Ah, t'es du genre instruit ? D'accord. [Il te regarde encore, se secoue la tête, et soupire...] Hooo la la. De toute façon, quel genre de docteur je serai si je te laissais partir sans un ou deux conseils.}
 {281}{}{Voyons voir... Pour commencer, tu devrais arrêter... Euh à peu près tout. Pas de boisson, pas de cigarette, pas de viande rouge, PAS de drogue. Une demi-heure d'exercice léger par jour, et fais attention. La vie c'est pas une course, du moins pas le genre que t'as envie de finir en premier. Pour tout te dire, personne écoute ce genre de trucs, mais je dormirais mieux ce soir si je t'en parle.}
 {282}{}{Plus important encore, tu dois trouver un chimiste digne de ce nom qui possède de la Triproxinile. Tri-prox-i-nile. Les stocks du Wasteland ne sont pas aussi distingués que ce que j'ai sur l'étagère, mais chimiquement, c'est tout ce dont t'as besoin pour réduire les arythmies. 30 milligrammes, deux fois par jour.}
 {283}{}{Et, tu dois boire beaucoup d'eau aussi quand tu prends ces trucs. Et dans tous les cas tu dois rester *aussi loin que tu peux* de ces pilules pour bander qu'on trouve à New Reno, compris ? Ca ne fait pas bon ménage. Un mec en a pris, John Thomas et il est resté raide si tu vois ce que je veux dire.}
@@ -127,7 +127,7 @@
 {292}{}{ma petite, }
 {293}{}{c'est ça ? Non. Je suis diplômé professionnel de la RNC, et ça vaut plus que tout ce que t'as dans les poches.}
 {294}{}{Mille excuses. Un praticien de ton calibre devrait avoir une donation d'au moins $250.}
-{295}{}{(Hang head.) Look, I'm really sorry. I'm not proud of myself, and I would normally never have tried anything like that, but I'll be honest with you: I was desperate for those pills.}
+{295}{}{[En penche la tête :] Ecoute, je suis désolé. Je ne suis pas fier de moi et je n'aurais pas dû essayer ça, mais pour être honnête : j'ai besoin de ces pilules.}
 {296}{}{Désolé du dérangement. Je pense que je vais y aller avant de m'enfoncer.}
 {300}{}{[Le Dr Jubilé vire au rouge.] Je crois pas que t'as entendu la première fois, }
 {301}{}{jeune garçon, }
@@ -141,7 +141,6 @@
 {321}{}{ jours, }
 {322}{}{ jour }
 {323}{}{et j'ai pas le temps d'en concocter d'autre.}
-{324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
- Oh, sorry. What can I do for you today?}
+{324}{}{[Se marmonne à lui même :] Où ai-je mis les pilules de M. Westin... ? Son coeur ne tiendra pas longtemps sans. [Il lève les yeux.] Oh, pardon. Que puis-je faire pour toi ?}
 {325}{}{Je ne pouvais pas m'empêcher d'entendre ce que tu disais à propos de pilules. Je voulais justement t'en parler.}
-{330}{}{(Mutters to himself.) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills precisely. (He looks up) Oh, sorry. What can I do for you today?}
+{330}{}{[Se marmonne à lui même :] Je peux pas croire que M.Westin soit mort. C'est peut-être ma faute, j'ai pourtant bien mesuré les dosages. [Il lève les yeux.] Oh, pardon. Que puis-je faire pour toi ?}

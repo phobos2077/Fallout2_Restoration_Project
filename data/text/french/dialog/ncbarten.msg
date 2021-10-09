@@ -8,7 +8,7 @@
 {212}{}{Un autre ?}
 {213}{}{Voici un garrot si jamais tu en as besoin.}
 {214}{}{Ne prends pas du Jet en une seule fois... prends-en un peu, respire un coup et donne-lui le temps de faire de l'effet.}
-{215}{}{You want two half ounce bags, or a canister?}
+{215}{}{Tu veux deux sachets de 10 grammes ou un tube ?}
 {216}{}{L'inhalateur de Jet est en plus...}
 {217}{}{Laisse-moi deviner : je mets ça sur ton ardoise ?}
 {218}{}{Et un Nuka-Cola avec des glaçons...}

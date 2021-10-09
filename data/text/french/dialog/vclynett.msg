@@ -268,7 +268,7 @@
 {367}{}{Je dois trouver l'Abri d'où vient mon peuple.}
 {368}{}{J'ai besoin d'un Jardin d'Eden en Kit, en avez-vous un ?}
 {369}{}{Alors maintenant, ma présence est bienvenue dans ta cité. Laisse tomber... je me casse.}
-{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
+{370}{}{Tu ne peux pas savoir... mais je te parlerai du Temple des Epreuves une autre fois. Au revoir.}
 {371}{lyn051}{Je te donne une chance que peu d'étrangers ont jamais eue. Tu pourras passer le test, si c'est ce que tu veux. Mais en résolvant cette situation pour nous, tu pourrais gagner plus. Est-ce que tu comprends ?}
 {372}{}{Très bien. Quel genre de situation ?}
 {373}{}{Je comprends. Mon travail consiste à ravitailler les abris.}
@@ -628,7 +628,7 @@
 {727}{lyn122}{Roger Westin est probablement le seul homme honnête de la République de Nouvelle Californie et il soutient notre cause.}
 {728}{}{Très bien, je lui remettrai le disque.}
 {729}{}{Non merci. J'ai trop à faire pour le moment.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{730}{lyn123}{Ton patriotisme sera récompensé. Maintenant, hâte-toi. Il faut faire vite.}
 {731}{}{Avant de partir, j'ai encore des questions. }
 {732}{}{J'm'en occupe.}
 {733}{}{Tu peux compter sur moi, Première citoyenne. Je reviendrai dès que j'aurai remis le disque à Westin.}

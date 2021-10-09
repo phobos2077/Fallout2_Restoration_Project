@@ -9,7 +9,7 @@
 {230}{}{Joli morceau que tu as là !}
 {240}{}{Comment ça se fait que tu te planques, hé, }
 {250}{}{Ca boume, }
-{251}{}{Heeey... }
+{251}{}{Hé, }
 {252}{}{Putain, c'est chaud.}
 {253}{}{Héé ! Où t'étais, }
 {254}{}{Ca fait plaisir de te voir, }
@@ -172,7 +172,7 @@
 {820}{}{Le gosse s'appelle Myron. Et t'as pas besoin de savoir où il se TROUVE.}
 {821}{}{Le gosse s'appelle Myron. On l'a installé dans les Etables, au Nord de la ville, il teste de nouveaux stimulants. Tu pourrais aller le voir, mais il est occupé la plupart du temps... avec les stimulants ou avec les femmes.}
 {822}{}{Fais preuve d'un peu d'intelligence et dis-moi.}
-{823}{}{Got it. I had some other questions...}
+{823}{}{Laisse tomber. J'ai d'autres questions à te poser...}
 {824}{}{Myron, hein ? Bon d'accord, Jésus. Merci pour cette conversation.}
 {840}{}{Le Desperado c'est l'endroit rêvé, hombre. On a du Jet, des jeux, de l'action... et on a toutes les putas qu'on veut juste devant, prêtes à l'emploi. Le paradis, hombre, le paradis.}
 {841}{}{Le Desperado c'est l'endroit rêvé, chica. On a du Jet, des jeux et de l'action. T'as pas besoin d'aller ailleurs.}
@@ -187,7 +187,7 @@
 {862}{}{Essaie voir pour voir, PETIT Jésus.}
 {863}{}{Essaie, et je te dessinerai tellement de cicatrices sur ton visage que t'auras l'air d'un puzzle.}
 {864}{}{Calme-toi... Ce n'était qu'une plaisanterie.}
-{865}{}{Chill. I had some other questions...}
+{865}{}{Oh. J'avais d'autres questions...}
 {867}{}{J'y vais. C'était super de parler avec quelqu'un de cultivé comme toi.}
 {880}{}{Ha ! Ca va, chica. Ca va. Petit Jésus va garder un oeil sur toi... C'est pas que je pourrais faire sans, de toute façon. Comment puis-je t'aider ?}
 {881}{}{Premièrement, tu peux garder tes yeux pour toi, PETIT Jésus. Je préférerais baiser avec du gravier plutôt que toucher au champ de cratères que t'as à la place du visage.}
@@ -225,7 +225,7 @@
 {951}{}{Ah ouais ? Les Mordino sont les plus gros fournisseurs de Jet de New Reno. Vous serez donc les premiers à être tenus pour responsables.}
 {952}{}{Je ne te crois pas. Je pense que vous ETES responsables. Toi et le reste des Mordino.}
 {953}{}{D'après toi, qui a pu faire ça ?}
-{954}{}{Okay... look, I had some other questions...}
+{954}{}{Oh. J'ai encore d'autres questions...}
 {955}{}{D'accord. Simple question.}
 {965}{}{[Il plisse les yeux.] Ecoute, j'ai RIEN à voir avec la mort de ce gosse. Je sais pas ce que t'as entendu, mais si j'avais voulu tuer ce gamin, je l'aurais découpé en morceaux, j'aurais pas utilisé le Jet, tu comprends ?}
 {966}{}{Ouais, et alors ? Qu'on soit accusés, ça veut pas dire qu'on l'A fait. Le petit con en a trop pris. Je pleure pas sa mort. Et si le vieux Wright commence à disjoncter, on l'enterrera à côté de son junkie de gamin.}
@@ -275,7 +275,7 @@
 {1054}{}{Je te donnerai cent jetons.}
 {1055}{}{Je te donnerai deux cents jetons.}
 {1056}{}{Ma façon de faire l'amour est aussi un art. Tu préfères pas ce type de leçon ?}
-{1058}{}{Actually, I had some questions...}
+{1058}{}{En fait, j'avais d'autres questions...}
 {1059}{}{Une autre fois alors... Quand j'aurai assez de jetons pour te faire changer d'avis.}
 {1060}{}{Une autre fois peut-être, merci.}
 {1070}{}{Hum. 200, ça roule.}

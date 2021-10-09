@@ -5,7 +5,7 @@
 {104}{}{Oooh. Fouuurrrrrure !}
 {105}{}{Jolie fourrure.}
 {106}{}{Ah, je vois. Toi tu n'es pas d'ici. Eh bien, je vais te dire. Je vais faire un pari spécial pour toi demain pendant les combats. Veux-tu que je fasse ça pour toi ?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse)}
+{107}{}{[Tu fais oui de la tête.] Ok, Ok. [Et tu sors ta bourse.]}
 {108}{}{Moâk ? Gaga. Au revoir jolie fourrure.}
 {109}{}{Bonne idée. Reviens ici demain et si ta créature gagne le combat, je te donnerai ton argent, Ok ?}
 {110}{}{D'accord, bien joué. Je vais m'assurer que tu aies un pari spécial avec ça. A plus tard.}

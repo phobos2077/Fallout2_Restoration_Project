@@ -45,7 +45,7 @@
 {283}{}{Ca m'intéresse pas.}
 {290}{}{[Il sourit.] D'accord. Marché conclu. J'm'appelle Stuart, la plupart m'appellent Stuart Little, mais c'est juste à cause de... Bref, tout ce que TU as besoin de savoir, c'est que je suis grand dans les autres domaines. T'as un nom, tronche de cake ?}
 {291}{}{Moi }
-{292}{}{Me... uh... me...}
+{292}{}{Aide... moi...}
 {293}{}{Moi Grand Stu.}
 {296}{}{Moi paaar-tirr...}
 {300}{}{Ben-je, hein ? « Benjamin c'est ça... » CA ME PLAIT, CA ME PLAIT. Très bien, allons faire un peu de dégâts.}
@@ -163,7 +163,7 @@
 {530}{}{Et qu'est-ce qui te fait croire que j'ai déjà été dans un cirque, et à plus forte raison que j'y ai travaillé ?}
 {531}{}{Heu... Ben, ce que je sais, c'est que plusieurs citoyens de New Reno se comportent comme s'ils sortaient d'un cirque, alors je pensais...}
 {540}{}{T'as pensé que PARCE que je suis une personne de petite taille, la seule carrière possible est limitée au soi-disant *grand chapiteau*.}
-{541}{}{Uh... well, now...}
+{541}{}{Hum... eh bien...}
 {550}{}{Tu me connais MEME pas et t'as pensé que tu pouvais deviner toute ma vie. Il t'est jamais venu à l'esprit qu'une personne de ma taille puisse faire carrière comme *manager dans la boxe*.}
 {551}{}{Je m'excuse, je ne voulais pas te vexer.}
 {560}{}{Pourquoi devrais-je me vexer ? Juste parce que tout le monde dans ce jeu semble juger très vite les autres PNJ seulement d'après leur apparence physique ?}
@@ -176,7 +176,7 @@
 {591}{}{Et ça t'étonnerait aussi de voir le nombre d'hommes qui aiment ça.}
 {600}{}{En voyant ton physique ridiculement musclé, ton attitude téméraire à la Mad Max et ta répartition des points sans aucune originalité, j'en ai conclu que tu étais un espèce de minable sans envergure.}
 {601}{}{En voyant tes seins surpixelisés, ton pas ridiculement glissant et ta répartition des points sans aucune originalité, j'en ai conclu que tu étais une espèce de minable qui joue les Lara Croft.}
-{602}{}{I...}
+{602}{}{Je...}
 {610}{}{Tu n'es rien d'autre qu'un modèle de héros de jeux de rôles classique, si tu veux, l'un des NOMBREUX modèles qui semblent peupler ce monde en hordes.}
 {611}{}{Tu n'es rien d'autre qu'un modèle d'héroïne de jeux de rôles classique, si tu préfères, l'un des NOMBREUX personnages qui semblent peupler ce monde en hordes.}
 {612}{}{Bon...}

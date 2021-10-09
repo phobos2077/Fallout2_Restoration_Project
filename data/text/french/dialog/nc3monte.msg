@@ -106,8 +106,8 @@
 {343}{}{[Monte utilise son jeu normal ! Tu dois voler son autre jeu pour terminer l'échange.]}
 {344}{}{Toi mettre carte dans ta manche, toi pas réglo.}
 {345}{}{Euh... Gauche gégé !}
-{346}{}{Uh... Middle of th'road}
-{347}{}{Uh... Rightie tightie}
+{346}{}{Milieu d'la route !}
+{347}{}{Droite comme un piquet !}
 {348}{}{T'es un enfoiré de TRICHEUR. Je t'ai vu attraper cette carte. Rends-moi mon argent avant que je te tue ici dans la rue.}
 {349}{}{Celle dans ta manche.}
 {350}{}{Euh, celle de gauche.}
@@ -159,7 +159,7 @@
 {431}{}{Très bien, Monte. On est quitte.}
 {435}{}{[Monte fronce les sourcils lorsqu'il te voit.] Ecoute, je ne joue plus aujourd'hui, d'accord ? Allez, bouge.}
 {436}{}{Je peux t'acheter cette carte que tu m'as montrée ?}
-{437}{}{I wanted some information...}
+{437}{}{J'ai besoin d'informations.}
 {438}{}{D'accord, Monte. J'me casse... pour l'instant.}
 {440}{}{Non. Je ne m'en séparerai pas. Point barre. C'est un VERITABLE souvenir d'avant-guerre... une petite portion d'histoire. Alors, PAS QUESTION.}
 {441}{}{Tu me fais une AUTRE offre ? Ecoute, je t'ai dit que je ne le vendrai pas.}

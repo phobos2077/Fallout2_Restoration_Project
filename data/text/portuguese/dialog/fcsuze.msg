@@ -1,37 +1,37 @@
-{100}{}{You see a woman with a worried expression on her face.}
-{101}{}{You see Suze.}
-{102}{}{You see a woman with a worried expression on her face.}
-{103}{}{Aieee! Help me!}
-{104}{}{Save me! Please!}
-{105}{}{They're trying to kill me!}
-{106}{}{Please! They're going to kill me!}
-{107}{}{Stop them! Aieee!}
-{108}{}{Did Badger send you? I knew he would. I'm so relieved.}
+{100}{}{Você vê uma mulher com uma expressão preocupada.}
+{101}{}{Você vê Suze.}
+{102}{}{Você vê uma mulher com uma expressão preocupada.}
+{103}{}{Aaahh! Socorro!}
+{104}{}{Me salve! Por favor!}
+{105}{}{Estão tentando me matar!}
+{106}{}{Por favor! Vão me matar!}
+{107}{}{Pare eles! Aaahh!}
+{108}{}{Badger mandou você? Eu sabia que sim. Estou salvo.}
 {109}{}{Aagggh.}
-{110}{}{What were you doing down there?}
-{111}{}{Yeah. Follow me.}
-{112}{}{Oh, you poor dear. Radiation and the wasteland aren't nice, are they? I hope someone can help you.}
-{113}{}{It's kind of stupid, really. I was just exploring because Badger was on the computer and I went downstairs and got lost and then next thing you know, I'm surrounded by monsters. Good thing you came along.}
+{110}{}{O que está fazendo aí embaixo?}
+{111}{}{Sim. Me segue.}
+{112}{}{Oh, coitadinho. A radiação e o deserto não são legais, né? Espero que alguém possa te ajudar.}
+{113}{}{Foi estupidez, na realidade. Eu estava explorando porque Badger foi até o computador e eu desci as escadas e acabei me perdendo, a próxima coisa que você sabe, cercado por monstros. Agradeço por vir.}
 {114}{}{Eu tenho mais perguntas.}
-{115}{}{Yes, it is. Find anything interesting?}
-{116}{}{Yes, it is. Let's go.}
-{117}{}{I found the room I was in. I also found a room that looked like a fueling area. I didn't get much farther because of the monsters.}
+{115}{}{Sim, isso é. Encontrou algo interessante?}
+{116}{}{Sim, isso. Vamos lá.}
+{117}{}{Encontrei a sala em que estava. Também encontrei uma sala que parecia uma área de abastecimento. Não fui muito longe por causa dos monstros.}
 {118}{}{Eu tenho mais perguntas.}
 {119}{}{De onde você é?}
-{120}{}{Great. That's all for now.}
-{121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea. I used to be a nanny, but then the kids mutated into monsters.}
+{120}{}{Ótimo. Isso é tudo por enquanto.}
+{121}{}{Eu sou de um lugar ao sul de Boneyard e ao sul de Glow. Não estamos muito longe do mar. Eu era uma babá, mas então as crianças se transformaram em monstros.}
 {122}{}{Eu tenho mais perguntas.}
-{123}{}{How'd you meet Badger?}
-{124}{}{Fascinating. That's all for now.}
-{125}{}{He came down south and went to a club I used to go to. So, when things fell apart for me, I thought this would be the place to go.}
+{123}{}{Como você conheceu Badger?}
+{124}{}{Fascinante. Isso é tudo por enquanto.}
+{125}{}{Ele desceu para o sul e foi a um clube que eu frequentava. Então, quando tudo desmoronou ao meu redor, pensei que este seria o lugar para ir.}
 {126}{}{Eu tenho mais perguntas.}
-{127}{}{That's all. Thanks.}
-{128}{}{You saved my life. I'll answer any questions you have.}
+{127}{}{Isso é tudo. Obrigado.}
+{128}{}{Você salvou minha vida. Pode fazer quantas perguntas quiser.}
 {129}{}{Yaaaah.}
-{130}{}{What were you doing down there?}
-{131}{}{Did you find anything interesting?}
+{130}{}{O que está fazendo aí embaixo?}
+{131}{}{Achou algo interessante?}
 {132}{}{De onde você é?}
-{133}{}{How did you meet Badger?}
-{134}{}{None right now. Bye.}
-{135}{}{Oh my god... Badger is dead... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
-{136}{}{Thanks for all your help. I am going to go find Badger.}
+{133}{}{Como você conheceu Badger?}
+{134}{}{Nada agora. Tchau.}
+{135}{}{Oh meu Deus... Badger está morto... Eu não sei o que vou fazer... Eu não tenho nenhum amigo aqui... toda a minha família morreu... Deus do céu...}
+{136}{}{Obrigado pela sua ajuda. Eu vou encontrar Badger.}

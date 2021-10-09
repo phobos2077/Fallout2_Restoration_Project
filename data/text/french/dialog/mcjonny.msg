@@ -3,7 +3,7 @@
 {102}{}{Cheveux blonds, yeux bleus, le gosse américain typique.}
 {150}{}{Ouiiin !}
 {151}{}{Je veux qu'on me rende mon chien !}
-{152}{}{Whimper... }
+{152}{}{::Pleurs::}
 {153}{}{Inconnu !}
 {154}{}{Laddie ! Tu m'as manquée ! Merci de m'avoir ramené mon chien.}
 {155}{}{Bonjour, c'est la première fois que je vous vois dans le coin.}

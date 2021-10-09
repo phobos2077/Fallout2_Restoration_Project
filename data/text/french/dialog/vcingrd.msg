@@ -5,7 +5,7 @@
 {104}{}{18 heures passées. Il est temps que tu retournes à l'entrée.}
 {105}{}{D'accord. C'est bon, j'y vais.}
 {106}{}{D'accord. C'est bon, je m'en vais dans une minute.}
-{107}{}{I got things to do. I'll go when I'm ready to go.}
+{107}{}{J'ai des trucs à faire. Je partirai quand je le déciderai.}
 {108}{}{Umag Nak ?! Umag NAK !}
 {109}{}{Bon, je veux juste m'assurer que tu retournes à l'entrée sans problème. Allez, on y va.}
 {110}{}{Ok. On y va.}

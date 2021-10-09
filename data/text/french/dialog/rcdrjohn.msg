@@ -29,7 +29,7 @@
 {128}{}{Ecoute, je vais te faire un prix de groupe puisque je vois que vous êtes tous bien amochés. $100 pour le lot.}
 {129}{}{Voilà ton argent, Doc. Arrange-nous comme il faut.}
 {130}{}{On peut pas se payer ça maintenant. Je regrette Doc, plus tard peut-être.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{131}{}{$100, hein ? On verra ça plus tard. Au revoir, Doc.}
 {132}{}{J'ai l'impression que c'est pas vraiment la forme. Je peux te guérir pour $100. Veux-tu que j'essaie ?}
 {133}{}{Ton camarade ne va pas fort. Je peux le retaper pour $100. Veux-tu que j'essaie ?}
 {134}{}{J'espère que tu feras mieux qu'essayer, Doc. Voilà ton argent.}
@@ -80,8 +80,7 @@
 {179}{}{Euh, oui, j'y réfléchirai. Au revoir, Doc.}
 {180}{}{Ces temps-ci, on dirait que les mineurs passent plus de temps à planer au Jet qu'à bosser à la mine. Si ça continue, la production d'or à Redding va s'arrêter. New Reno n'a pas l'air de s'en faire, en tout cas.}
 {181}{}{Tous les mineurs du coin travaillent juste assez pour pouvoir se procurer leur Jet. La production a vraiment ralenti. Si ça continue, New Reno va s'emparer de Redding.}
-{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
+{182}{}{Ces derniers temps, les mineurs du coin planent en permanence. Plus personne ou presque n'exploite l'or. Je crains que New Reno ne s'approprie cette ville. J'aimerais trouver un moyen d'arrêter ce besoin constant de planer au Jet.}
 {183}{}{Quel est le rapport avec New Reno ?}
 {184}{}{D'où vient le Jet ?}
 {185}{}{Je vois. Puis-je te poser une autre question ?}
@@ -102,16 +101,13 @@
 {200}{}{Quel est le rapport avec New Reno ?}
 {201}{}{Si ça marche, tant mieux, Doc. A plus tard.}
 {202}{}{Une solution ? Que veux-tu dire ?}
-{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-addiction problem that you have here.}
+{203}{}{Je veux dire que j'ai un antidote contre le Jet. C'est le Dr Troy de la Cité de l'Abri qui l'a élaboré et il devrait résoudre votre problème de besoin constant qu'est le Jet.}
 {204}{}{Oh, rien. Puis-je te demander autre chose, Doc ?}
 {205}{}{Ca c'est sûr : trop de Jet, pas assez de travail... mais où as-tu entendu parler de ça ?}
 {206}{}{Je tiens ça de McClure à la Cité de l'Abri.}
 {207}{}{Une simple rumeur, c'est tout.}
 {208}{}{Ce n'est pas vraiment important. Je peux te demander autre chose ?}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
+{209}{}{New Reno vend du Jet assez bon marché. Le Jet entraîne un besoin constant, rien de comparable à ce que tu as déjà pu voir. Ils pensent que si un nombre suffisant de personnes l'utilisent dans un endroit donné, elles feront n'importe quoi pour en avoir plus. Ils auraient ainsi de facto le contrôle d'une zone, Redding par exemple.}
 {210}{}{Je vois. Puis-je te demander autre chose, Doc ?}
 {211}{}{Donc si tu ne veux pas que New Reno contrôle Redding, qui devrait faire la loi ici ?}
 {212}{}{Merci pour ces explications, Doc. Au revoir.}
@@ -136,9 +132,7 @@
 {231}{}{C'est n'importe quoi. La Cité de l'Abri accorde des privilèges spéciaux à ses citoyens, mais uniquement parce qu'ils sont plus aptes à profiter de ces choses que ces rustres de non-citoyens. En outre, n'importe qui peut demander la citoyenneté de la Cité de l'Abri à condition de réussir les tests.}
 {232}{}{Je ne sais pas comment les gens de Redding réagiraient à la domination de la Cité de l'Abri.}
 {233}{}{Ouais, sans doute. Salut, Doc.}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+{234}{}{Je remplis les ampoules avec du Jet et je les distribue uniquement pour rendre service aux habitants de Redding. J'en tire aucun bénéfice. Si je ne le faisais pas, un charlatan préparerait ça avec du matériel rouillé, plein de germes. Et après ça, je ne pourrais plus les soigner.}
 {235}{}{T'es vraiment un chic type, Doc. C'est chouette. Puis-je te demander autre chose ?}
 {236}{}{Très *noble* de ta part, Docteur.}
 {237}{}{C'est intéressant. A plus tard, Doc. Au revoir.}

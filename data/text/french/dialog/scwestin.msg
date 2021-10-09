@@ -5,7 +5,7 @@
 {104}{}{Encore toi ? Que veux-tu ?}
 {105}{}{Que veux-tu ?}
 {106}{}{Heu...}
-{107}{}{Me look Vault 13. You help?}
+{107}{}{Moi chercher Abri 13 ? Toi aider ?}
 {108}{}{Je cherche l'Abri 13. Tu peux m'aider ?}
 {109}{}{J'ai fini ton sale boulot.}
 {110}{}{Méchants venir. Moi faire peur à eux. Meuh-meuh à l'abri.}
@@ -54,7 +54,7 @@
 {153}{}{Je ne sais pas si je peux te croire, mais voilà ton argent. Si tu as menti, mes gars te retrouveront. J'avais dit aussi que je te donnerais des informations, alors les voilà. J'ai entendu un tas d'histoires sur Tandi et l'Habitant de l'Abri. Apparemment il lui a sauvé la vie il y a bien longtemps, avant l'existence de la RNC. Bref, la légende dit qu'il a passé énormément de temps à explorer un abri à l'Est d'ici. Et s'il ne s'agit pas de l'Abri 13, tu trouveras peut-être des indices y conduisant.}
 {154}{}{Merci !}
 {155}{}{Merci.}
-{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
+{156}{}{La Première citoyenne ? Très bien, c'est ce que j'attendais. Tu fais partie des citoyens de l'Abri ?}
 {157}{}{Oui.}
 {158}{}{Non.}
 {159}{}{Tu as un grand sens civique, c'est sûr. Rends cet holodisque à la Première citoyenne. C'est important. Il contient les informations dont elle a besoin pour dévoiler le projet RNC-New Reno.}

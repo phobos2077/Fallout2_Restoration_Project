@@ -200,7 +200,7 @@
 {510}{}{Va donc au diable ! Je n'ai rien à te dire, JAMAIS.}
 {511}{}{Tu me brises le coeur. A plus tard, Nikki.}
 {600}{}{Tu as soudoyé Nikki pour qu'elle te dise où doit se cacher Lloyd.}
-{1210}{}{. Can I help you with... anything?}
+{1210}{}{. Puis-je t'aider en... *quoi que ce soit* ?}
 {1214}{}{.}
 {1235}{}{. Tu viens pour dépenser un peu de fric ?}
 {1239}{}{, et gagne un peu d'argent.}

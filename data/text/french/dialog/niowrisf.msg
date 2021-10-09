@@ -24,5 +24,4 @@
 {290}{}{En essayant de voir si le coffre-fort est piégé, tu déclenches une explosion.}
 {291}{}{Tu as tiré le mauvais câble en voulant désarmer le piège.}
 {300}{}{Tu entends un bruit d'explosion sourd à l'étage au-dessus.}
-{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
- if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}
+{400}{}{Tu ouvres un petit panneau sur le bas du coffre-fort. Tu penses que tu n'aurais pas pu le trouver si Mme Bishop ne t'en avait pas parlé. Dedans se trouve un étrange accessoire de Pip-Boy.}

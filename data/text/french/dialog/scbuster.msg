@@ -18,10 +18,10 @@
 {117}{}{Que peux-tu me dire à propos de Roger Westin ?}
 {118}{}{Je voudrais rencontrer le Vieux Carlson. Tu connais quelqu'un qui pourrait m'aider ?}
 {119}{}{As-tu un J.E.K ?}
-{120}{}{That's nice, stranger, but I ain't no charity.}
+{120}{}{C'est bien beau tout ça, mais ici, c'est pas la charité.}
 {121}{}{J'ai peut-être un viseur Triveld x20 qui irait très bien sur un fusil de chasse, si quelqu'un était intéressé. Je le laisse pour pas cher : $500.}
 {122}{}{Hé ! Tu m'as déjà vidé les poches !}
-{123}{}{Sure, it's a deal.}
+{123}{}{Ok, ça marche.}
 {124}{}{Non, merci.}
 {125}{}{C'est la République de Nouvelle Californie. La présidente Tandi et les autres clament leur désir de rebâtir le bon vieux temps. Si tu veux mon avis, ils essaient juste de s'en mettre plein les poches. Oh, j'ai pas à me plaindre, j'étais même pas né en ce temps-là. Mais ils sont un peu coincés, ils aiment pas les esclaves, les jeux, tout ça. C'est pour ça que je me suis installé ici. J'aime pas les contraintes, j'en ai jamais eu.}
 {126}{}{Je vois.}

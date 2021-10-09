@@ -27,7 +27,7 @@
 {126}{}{Non, je cherche un J.E.K.}
 {127}{}{M'aider ? Comment ?}
 {128}{}{Un lance-roquettes me donne la paix spirituelle dont j'ai besoin, ma belle.}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
+{129}{}{"Comprends bien" ça ! [geste grossier de la main avec le majeure levé]}
 {130}{}{Merk ? Que veut-il ?}
 {131}{}{C'est simple. Il veut ta mort. Dis au revoir.}
 {132}{}{Je ne sais pas ce que tu as fait, mais il a payé quelqu'un pour te descendre.}

@@ -1,5 +1,5 @@
 {100}{}{Tu vois un homme au visage rougeaud à l'air amical.}
-{101}{}{It's Duppo. He runs the Stockman's Association.}
+{101}{}{Voici Duppo. Il dirige l'Association des Eleveurs.}
 {102}{}{C'est un gars trapu, au visage toujours rouge et aux cheveux fins et blonds. Il boite légèrement.}
 {103}{}{Bonjour. T'es pas du coin toi, tu dois pas être propriétaire d'un ranch. Tu cherches du travail ou tu veux acheter quelque chose ?}
 {104}{}{Que veux-tu ?}

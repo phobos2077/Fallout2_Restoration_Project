@@ -14,18 +14,18 @@
 {113}{}{Tu vois une image, des pointes rouges, vertes et bleues de lumière combinées pour faire une image d'un truc...}
 {114}{}{Il y a un visage hideux qui te regarde dans les yeux. Oh, attends, ce terminal est éteint.}
 {115}{}{Cette fenêtre scrute dans une dimension sombre au-delà de l'espace et du temps.}
-{116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
+{116}{}{Ce terminal affiche un message ; "Chargement Lucarnes '98." Ce terminal est couvert par une épaisse couche de poussière.}
 {117}{}{Ce terminal semble être de la marque Apricot. Un truc appelé Fallout 2 tourne dessus. Wouh, on dirait qu'il est en multijoueurs et en 3D.}
 {118}{}{Entrez Identification Utilisateur :}
 {119}{}{[J'vais essayer ça.] Liste utilisateurs.}
 {120}{}{[Est-ce que ça va marcher ?] Smith, J.}
 {121}{}{[Retour]}
 {123}{}{Je pense que je devrais faire ça ailleurs.}
-{124}{}{Listing (the terminal displays a list of about 500 names).}
-{125}{}{Listing (the computer displays a list of names).}
+{124}{}{Liste [Le terminal affiche une liste de 500 noms.]}
+{125}{}{Liste [L'ordinateur affiche une liste de noms.]}
 {126}{}{Sélectionnez Identification Utilisateur ou déconnectez-vous :}
 {127}{}{[Celui-ci possède les autorisations d'accès.] Smith, J.}
-{128}{}{(This one looks kind of special.) Presidential Passkey-Security Override.}
+{128}{}{[Celui-ci a l'air spécial.] Passe Partout Présidentiel-Contournement De Sécurité}
 {129}{}{[Celui-ci accède à des données plus intéressantes que d'habitude.] Murray, T.}
 {130}{}{[Celui-ci a un accès de bonne qualité.] Curling, Dr. C.}
 {131}{}{[On dirait qu'il a vraiment beaucoup de droits.] Bird, D.}
@@ -33,7 +33,7 @@
 {133}{}{Sélection :}
 {134}{}{                A. E. C. : Contrôle Centrale Nucléaire,}
 {135}{}{                Statut Sécurité ?}
-{136}{}{Download A. E. C.: Atomic Power plant Operations.}
+{136}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
 {137}{}{Statut Sécurité}
 {138}{}{Retour Identification Utilisateur :}
 {139}{}{Sélection :}
@@ -42,8 +42,8 @@
 {142}{}{                A. E. C. : Contrôle Centrale Nucléaire,}
 {143}{}{                Statut Sécurité ?}
 {144}{}{Sécurité/Niveau : Statut Courant}
-{145}{}{Download Chemical Corps: Project Status Report.}
-{146}{}{Download A. E. C.: Atomic Power plant Operations.}
+{145}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
+{146}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
 {147}{}{Statut Sécurité}
 {148}{}{Retour Identification Utilisateur :}
 {149}{}{Sélection :}
@@ -56,19 +56,19 @@
 {156}{}{Etat de la Nation : Statut Courant}
 {157}{}{Téléchargement Liste Mots}
 {158}{}{Sécurité/Niveau : Statut Courant}
-{159}{}{Download Chemical Corps: Project Status Report.}
-{160}{}{Download A. E. C.: Atomic Power plant Operations.}
+{159}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
+{160}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
 {161}{}{Statut Sécurité}
 {162}{}{Retour Identification Utilisateur :}
 {163}{}{Sélection : Statut Sécurité ?}
 {164}{}{Statut Sécurité}
-{165}{}{End Access.}
+{165}{}{[Fin Accès]}
 {166}{}{Téléchargement Achevé.}
 {167}{}{Etat de la Nation : Statut Courant}
 {168}{}{Téléchargement Liste Mots}
 {169}{}{Sécurité/Niveau : Statut Courant}
-{170}{}{Download Chemical Corps: Project Status Report.}
-{171}{}{Download A. E. C.: Atomic Power plant Operations.}
+{170}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
+{171}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
 {172}{}{Retour Identification Utilisateur :}
 {173}{}{Téléchargement Achevé.}
 {174}{}{Téléchargement Liste Mots}
@@ -99,25 +99,25 @@
 {199}{}{Niveau d'Information et de la Centrale : Tourelles de sécurité actuellement en statut Alerte Armée.}
 {200}{}{Niveau d'Information et de la Centrale : Tourelles de sécurité actuellement en statut Normal.}
 {201}{}{Niveau d'Information et de la Centrale : Tourelles de sécurité actuellement en statut Désactivation Maintenance.}
-{202}{}{Adjust security level.}
+{202}{}{Ajustez Niveau Sécurité}
 {203}{}{Etat de la Nation : Statut Courant}
 {204}{}{Téléchargement Liste Mots}
-{205}{}{Download Chemical Corps: Project Status Report.}
-{206}{}{Download A. E. C.: Atomic Power plant Operations.}
+{205}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
+{206}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
 {207}{}{Statut Sécurité}
 {208}{}{Retour Identification Utilisateur :}
 {209}{}{Téléchargement Achevé.}
-{210}{}{Download State of the Nation: Current status.}
+{210}{}{Téléchargement Etat de la Nation : Etat Courant}
 {211}{}{Téléchargement Liste Mots}
 {212}{}{Sécurité/Niveau : Statut Courant}
-{213}{}{Download A. E. C.: Atomic Power plant Operations.}
+{213}{}{Téléchargement C. C. N. : Contrôle Centrale Nucléaire}
 {215}{}{Statut Sécurité}
 {216}{}{Retour Identification Utilisateur :}
 {217}{}{Téléchargement Achevé.}
-{218}{}{Download State of the Nation: Current status.}
+{218}{}{Téléchargement Etat de la Nation : Etat Courant}
 {219}{}{Téléchargement Liste Mots}
 {220}{}{Sécurité/Niveau : Statut Courant}
-{221}{}{Download Chemical Corps: Project Status Report.}
+{221}{}{Téléchargement Corporation Chimique : Rapport d'Avancement de Projet}
 {222}{}{Statut Sécurité}
 {223}{}{Retour Identification Utilisateur :}
 {224}{}{Ce terminal est en cours d'auto-diagnostic approfondi. Veuillez utiliser un autre terminal. Merci.}
@@ -153,15 +153,15 @@
 {254}{}{Clé Présidentielle de Sécurité non reconnue. Accès refusé.}
 {255}{}{[Humm, je me demande si je peux berner le scanner en lui faisant croire que j'ai la clé en forçant l'accès au fichier d'autorisation. Je pense que je vais essayer.]}
 {256}{}{[Bon, ça valait le coup d'essayer.] [Retour]}
-{257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
-{258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey...)}
-{259}{}{(Damn, well nothing ventured...) Back.}
-{260}{}{Scanner reinitialized. Rescanning...}
+{257}{}{Dysfonctionnement Scanner de Clés de Sécurité signalé... Réinitialisation de Scanner.}
+{258}{}{[J'ai de la chance. Maintenant, si seulement je pouvais lui faire croire qu'il a reconnu la Clé Présidentielle....]}
+{259}{}{[Raté. Remarque, je ne risquais rien.] [Retour]}
+{260}{}{Scanner réinitialisé. Nouveau Scan....}
 {261}{}{[C'est maintenant le grand moment.] [Tu tapes fiévreusement]}
 {262}{}{Procédure illégale détectée. Tout accès futur sera refusé... Alerte de maintenance émise.}
 {263}{}{Merde. C'est pas du tout ce que je voulais.}
 {264}{}{Clé Présidentielle de Sécurité reconnue. Bonjour, M. le Président. [Ouais ! Voyons ce qu'on peut faire avec ça...]}
 {265}{}{[Que puis-je faire d'autre ?]}
-{266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
+{266}{}{Passe Présidentiel de Sécurité reconnu. Bonjour, M. Le Président... Protocole de Répression d'Insurrection d'Urgence initialisé... **Erreur** Cible non trouvée. Veuillez vous assurer que les senseurs fonctionnent correctement. Si ce n'est pas le cas, veuillez transmettre le formulaire FG-I-106-32-0635 au service de réparation habilité. Merci d'utiliser ce produit Vault-Tec. Bonne journée.}
 {267}{}{[Hmm... peut-être que ça marcherait s'il y avait quelqu'un ici. Je vais devoir essayer ça plus tard.] [Retourner à l'ID Utilisateur]}
 {268}{}{[Je me demande ce que je peux essayer d'autre.] [Retour]}

@@ -8,12 +8,12 @@
 {202}{}{Sabote l'alambic de Becky.}
 {203}{}{Procure une pièce détachée d'automobile à Smitty.}
 {204}{}{Rends son médaillon à Anna.}
-{205}{}{Collect Rebecca's money from Fred.}
-{206}{}{Get Rebecca's book from Derek.}
+{205}{}{Récupère l'argent des mains de Fred.}
+{206}{}{Récupère le livre des mains de Derek.}
 {207}{}{Apporte un repas à Smitty de la part de La Mamma.}
 {208}{}{Lara veut savoir ce qu'on garde dans l'église.}
-{209}{}{Get permission from Metzger for the gang war.}
-{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{209}{}{Obtiens la permission de Metzger de déclencher une guerre des gangs.}
+{210}{}{Trouve la faiblesse du gang de Tyler qui garde l'église.}
 {211}{}{Aide Lara à attaquer le gang de Tyler.}
 {212}{}{Trouve un moyen de sortir les orphelins de la rue.}
 {300}{}{Réalimente l'alambic.}
@@ -29,7 +29,7 @@
 {403}{}{Jonny a disparu. Retrouve-le et ramène-le à Balthas, chez lui.}
 {404}{}{Jonny est dans les grottes des Slags. Trouve un moyen de le ramener à Balthas.}
 {405}{}{Farrel a des rongeurs dans son jardin. Mets un terme à l'invasion.}
-{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{406}{}{Porte le message des Slags à Jo de Modoc.}
 {407}{}{Jo soupçonne les Slags. Trouve le responsable du massacre à la ferme perdue et découvre ce qui est arrivé à Karl.}
 {408}{}{Va à la Fosse et dis à Karl qu'il peut rentrer chez lui.}
 {409}{}{Défends les Brahmines de Grisham.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Récupère les pièces détachées/Obtiens l'accès à l'Abri 15.}
 {1101}{}{Occupe-toi de l'officier Jack pour le compte de Mira.}
-{1102}{}{Complete the brahmin drive.}
-{1103}{}{Retrieve the papers from Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Termine de convoyer les Brahmines.}
+{1103}{}{Récupère les papiers auprès du docteur Henry.}
+{1104}{}{Teste le sérum mutagénique sur un Super Mutant. Essaie les Collines Brisées.}
 {1105}{}{Elimine M. Bishop.}
 {1106}{}{Apporte l'holodisque de Westin à Lynette dans la Cité de l'Abri.}
 {1107}{}{Procure-toi la carte auprès du Commando de la RNC pour le compte de Vortis l'esclavagiste.}
 {1108}{}{Libère les esclaves de l'enclos pour le compte des Commandos.}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
+{1109}{}{Apporte le rapport de l'agent Hubologiste sur le terrain à AHS-9 à San Francisco.}
 {1110}{}{Tue l'Hubologiste à la RNC pour le compte de Merk.}
 {1111}{}{Mets fin aux vols de Brahmines.}
 {1112}{}{Nettoie l'avant-poste des Rangers au Nord pour Vortis l'esclavagiste.}
@@ -119,7 +119,7 @@
 {1511}{}{Trouve la petite amie de Badger dans la cale du navire.}
 {1512}{}{Le Dragon veut que tu combattes Lo Pan. A mains nues.}
 {1513}{}{Lo Pan veut que tu combattes le Dragon. A mains nues, si possible.}
-{1514}{}{Get Chip's spleen back.}
+{1514}{}{Récupère la rate de Chip.}
 {1515}{}{Procure-toi une SuperArmure renforcée auprès de Crockett.}
 {1516}{}{Procure-toi les plans d'hélico pour la Confrérie de l'Acier.}
 {1517}{}{Mets hors d'action le Sous-marin Shi qui menace le pétrolier.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Sauve Chrissy.}
 {3201}{}{Tue Darion.}
-{3202}{}{Complete the deal with NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3202}{}{Mène à bien le marché conclu avec la RNC.}
+{3203}{}{Donne l'holodisque espion aux autorités de la RNC.}

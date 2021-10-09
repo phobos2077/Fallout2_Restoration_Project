@@ -31,13 +31,13 @@
 {204}{}{Je pensais que tu nous avais oubliés pendant que tu étais en train de sauver le monde.}
 {215}{}{Bonjour, }
 {216}{}{Si tu cherches de la compagnie plus tard...}
-{217}{}{Hey, you...[winks]...you looking to gamble?}
-{218}{}{He looks so...[shivers]...dangerous.}
+{217}{}{Hé, toi... ::Clin d'oeil:: ... tu viens pour parier ?}
+{218}{}{Il est trop... ::Frissonne:: ... dangereux.}
 {219}{}{Bienvenue au casino, }
 {220}{}{Tu peux glisser un mot sympa sur moi au patron ?}
 {221}{}{Bonjour, m'dame. Dis-moi si je peux t'aider en quoi que ce soit.}
 {222}{}{Tu cherches à faire des paris, m'dame ?}
-{223}{}{She looks so...[shivers]...dangerous.}
+{223}{}{Elle est trop... ::Frissonne:: ... dangereuse.}
 {235}{}{On dirait que ce type est déjà en train de jouer avec sa vie.}
 {236}{}{Heu, je pense qu'il est entré dans le mauvais casino...}
 {237}{}{S'il ne part pas avant que les gars le voient...}

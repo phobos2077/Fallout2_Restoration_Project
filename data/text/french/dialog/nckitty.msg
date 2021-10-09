@@ -31,7 +31,7 @@
 {247}{}{Ca dépend... Qu'y a-t-il au menu ?}
 {248}{}{Mon ami ici présent aimerait quelque chose de spécial.}
 {249}{}{Un de mes amis ici présent aimerait quelque chose de spécial. C'est son... Heu, son anniversaire.}
-{250}{}{I'd like to ask you some questions...}
+{250}{}{J'aimerais te poser quelques questions.}
 {251}{}{En fait, j'ai changé d'avis. Le trac, tout ça... Au revoir.}
 {255}{}{J'apprécie, mais... non. Je ne peux pas.}
 {256}{}{Juste un verre, allons. Ce sera avec plaisir. On va s'amuser.}
@@ -170,7 +170,7 @@
 {596}{}{Non, je ne crois pas que tu lui conviendrais. Il faudrait que tu te nettoies un peu, que tu sois un peu plus présentable. Navrée.}
 {597}{}{Oui... oui, je crois que ça irait. Le boulot t'intéresse ? Toutes mes autres filles le trouvent... à gerber.}
 {598}{}{Certainement.}
-{599}{}{Hmmmph. I had some other questions...}
+{599}{}{Hum. J'avais d'autres questions...}
 {600}{}{Non, mais je te redemanderai ça plus tard, peut-être. J'ai d'autres questions...}
 {610}{}{[Elle hoche la tête.] Parfait. Un des lieutenants de Mordino devrait arriver bientôt. Si tu veux bien t'asseoir, je te présenterai comme... candidate.}
 {611}{}{D'accord. Je vais l'attendre.}

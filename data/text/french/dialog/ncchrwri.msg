@@ -73,12 +73,12 @@
 {370}{}{Probablement. Ecoute, il faut que j'y aille. }
 {380}{}{Elle va prêcher la bonne parole un peu partout, mais elle ne sait pas vraiment ce que papa fait. C'est ça ou alors elle fait semblant de ne pas savoir.}
 {381}{}{Que fait ton père ?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hum. D'accord, j'avais deux ou trois autres questions...}
 {383}{}{Intéressant. Bon, il faut que j'y aille. }
 {390}{}{Il fait de l'alcool, vend des armes, descend ceux qui lui cassent les pieds... Les affaires de famille habituelles. Maman serait révoltée si elle soupçonnait ce qui se passe. Et surtout si elle découvrait cette distillerie.}
 {391}{}{A quel point serait-elle révoltée ?}
 {400}{}{Probablement assez pour dévaster l'endroit... au moins. Ensuite, elle nous passerait un savon et on aurait le droit à des sermons pendant plusieurs jours. Hé.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Intéressant. J'avais d'autres questions...}
 {402}{}{Hum. Merci. }
 {410}{}{Richard ? Oh, tu sais, on l'a trouvé mort, comme l'un des ces accros au Jet. Tout ce qu'on sait pour l'instant, c'est que quelqu'un lui a refilé du matos jusqu'à ce qu'il en meure. }
 {411}{}{*Quelqu'un* ? Comment sais-tu qu'il n'a pas fait une overdose parce qu'IL en avait pris trop ?}

@@ -398,9 +398,9 @@
 {20700}{}{Vieux matelas}
 {20701}{}{Même si tu le devais, tu ne pourrais pas dormir dans un tel lit.}
 {20800}{}{Lit}
-{20801}{}{A makeshift bed. The material was scavenged from some other source.}
+{20801}{}{Lit de fortune. Il a été fabriqué avec du matériel de récupération.}
 {20900}{}{Lit}
-{20901}{}{A makeshift bed. The material was scavenged from some other source.}
+{20901}{}{Lit de fortune. Il a été fabriqué avec du matériel de récupération.}
 {21000}{}{Lit}
 {21001}{}{Ce lit a connu de meilleurs jours (et de meilleures nuits aussi.)}
 {21100}{}{Lit}
@@ -2604,12 +2604,12 @@
 {169400}{}{Ombre}
 {169500}{}{Ombre}
 {169600}{}{Ombre}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{Est-ce que la machine est truquée ?}
+{169800}{}{Est-ce que la machine est truquée ?}
+{169900}{}{Est-ce que la machine est truquée ?}
+{170000}{}{Est-ce que la machine est truquée ?}
+{170100}{}{Est-ce que la machine est truquée ?}
+{170200}{}{Est-ce que la machine est truquée ?}
 {170300}{}{Ombre}
 {170400}{}{Ombre}
 {170500}{}{Ombre}
@@ -2944,7 +2944,7 @@
 {194700}{}{Ecran}
 {194701}{}{Un grand écran, en noir et blanc. Celui-là présente un homme digne mais d'apparence simple.}
 {194800}{}{Ecran}
-{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
+{194801}{}{Un grand écran, en noir et blanc. L'image est celle d'une croix qui tourne et d'un cercle.}
 {194900}{}{spare}
 {195000}{}{spare}
 {195100}{}{Ombre}

@@ -21,7 +21,7 @@
 {120}{}{Alors je lui ai dit : "Ecoute..."}
 {121}{}{Essaie le rataupe grillé. C'est ici qu'on le fait le mieux.}
 {122}{}{Salut. C'est quoi ton signe ?}
-{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
+{123}{}{Si tu cherches du boulot, descends à l'Assos des Eleveurs.}
 {124}{}{Merde ! T'as vu ça ?}
 {125}{}{C'est pas vrai, j'vais être malade.}
 {126}{}{J'en ai eu assez.}

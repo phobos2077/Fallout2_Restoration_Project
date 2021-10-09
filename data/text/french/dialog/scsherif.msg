@@ -53,8 +53,8 @@
 {152}{}{Merci. Je vais faire ça.}
 {153}{}{T'as déjà entendu parler d'un J.E.K ?}
 {154}{}{C'est très fin de ta part... et sacrément présomptueux. Je ne te connais ni d'ève, ni d'Adam et je n'aime pas ta façon d'être ! Je ne te recommanderai à personne. Bon, j'ai du travail.}
-{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
-{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
+{155}{}{Ben, il y a Duppo à l'Asso des Eleveurs. Il s'occupe du recrutement pour le rassemblement des Brahmines. Il y a aussi M.Westin. Si tu le vois, dis-lui que tu viens de ma part. Même la présidente Tandi a demandé de l'aide.}
+{156}{}{Duppo à l'Association des Eleveurs cherche des bras pour le rassemblement des Brahmines. Vas-y.}
 {157}{}{Westin ?}
 {158}{}{La présidente Tandi ?}
 {159}{}{Faut que j'y aille.}
@@ -75,6 +75,6 @@
 {174}{}{Tandi ?}
 {175}{}{Aucune décision ne sera prise pour l'instant.}
 {176}{}{Je n'pense pas qu'il y ait encore du travail.}
-{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
+{177}{}{Duppo de l'Association des Eleveurs cherche à embaucher du monde pour les prochains rassemblements de Brahmines. La Présidente Tandi demande de l'aide.}
 {178}{}{N'importe quelle personne de ton genre quitterait la ville et chercherait encore moins du travail.}
-{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}
+{179}{}{Duppo de l'Association des Eleveurs cherche à embaucher du monde pour les prochains rassemblements de Brahmines. Tu peux essayer avec lui. Il y a aussi M. Westin. Si tu le vois, dis-lui que c'est moi qui t'envoie.}

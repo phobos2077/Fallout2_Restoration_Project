@@ -1,10 +1,10 @@
 {100}{}{Você vê um console antigo.}
-{101}{}{It appears that this console manages the torpedo launching and loading system. Like everything else on the sub,
- it's rusted through and just barely working.}
-{200}{}{This subsystem, if disabled, should prevent the tubes from being reloaded with spare torpedoes. Disabling
- shouldn't be too hard - the metal is literally falling apart and you can clearly see the vacuum tubes.}
-{210}{}{Just like you thought - the metal gives way easily and the console is soon dismantled. This sub won't be able
- to reload its tubes anytime soon.}
-{211}{}{You fail to disable the system.}
+{101}{}{Parece que este console gerencia o sistema de lançamento e carregamento do torpedo. Como quase tudo no sub,
+ está quase todo enferrujado e mal funciona.}
+{200}{}{Este subsistema, se desativado, deve evitar que os tubos sejam recarregados com torpedos sobressalentes. A desativação
+ não deveria ser muito difícil - o metal está se desintegrando e você pode ver claramente os tubos de vácuo.}
+{210}{}{Exatamente como você pensou - o metal cede facilmente e o console é desmontado rapidamente. Este sub não poderá
+ recarregar seus tubos em breve.}
+{211}{}{Você falha em desativar o sistema.}
 {212}{}{*beep*}
 {213}{}{*beeboop*}

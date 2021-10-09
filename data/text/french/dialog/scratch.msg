@@ -14,7 +14,7 @@
 {113}{}{Toi, t'es pas comme les autres ! Je devrais peut-être aller faire mes courses ailleurs.}
 {114}{}{Laisse-moi jeter encore un coup d'oeil à ton stock.}
 {115}{}{Je crois qu'Edna et moi on va partir maintenant.}
-{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
+{116}{}{Merci mon dieu, cette personne ne t'a pas pris, mon enfant... Mes choses sont comme mes enfants.}
 {117}{}{Heu, oui bien sûr.}
 {118}{}{Bon, je crois que je vais partir.}
 {119}{}{Je répare des tas de trucs. Ce ventilateur, Claudia, s'adapte sur toutes les voitures et leur donne beaucoup de puissance. Seulement $1 000. Ca t'intéresse ?}

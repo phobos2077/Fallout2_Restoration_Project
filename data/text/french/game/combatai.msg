@@ -2770,7 +2770,7 @@
 {40964}{}{Tu vises pour plaire. Moi, j'tire pour tuer.}
 {40965}{}{T'auras pas l'courage de me descendre.}
 {40966}{}{On dirait que t'es stupide ET aveugle.}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{T'as loupé ton tir de peu.}
 {40968}{}{T'es une vraie pourriture !}
 {40969}{}{Ton viseur est cassé. La prochaine fois, ce sera ta tête.}
 {40970}{}{J'suis un vrai fossile, et je tire mieux qu'toi.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Défaillance des systèmes.}
 {44437}{}{Fluctuation des systèmes d'alimentation. Activation des réserves.}
 {44438}{}{Intégrité de la caisse principale. Circuits principaux exposés.}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
+{44439}{}{Unité de conditionnement de l'alimentation endommagée. Fonctionne à 75 % de sa capacité.}
 {44460}{}{Motivateur droit touché. Dégâts minimes.}
 {44461}{}{Bogie droit non aligné.}
 {44462}{}{Roue motrice droite endommagée.}

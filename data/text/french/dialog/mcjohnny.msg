@@ -34,8 +34,7 @@
 {180}{}{C'est une joie de te connaître.}
 {181}{}{Ta mère et ton père m'ont demandé de te retrouver.}
 {182}{}{A un de ces jours gamin.}
-{183}{}{That's swell! I wanted to go home, but Vegeir says his people can't travel that far above ground and
- couldn't take me... Not that I doubt you, but what's my father's name?}
+{183}{}{C'est dingue ! Je veux rentrer mais Vegeir dit que son peuple ne peut pas voyager longtemps en plein air et qu'ils ne peuvent pas m'emmener... C'est pas que je vous crois pas mais, comment s'appelle mon père ?}
 {184}{}{Farrel}
 {185}{}{Cornélius}
 {186}{}{Balthas}
@@ -44,16 +43,15 @@
 {189}{}{Tu ne me fais pas confiance, Jonny ?}
 {190}{}{Hmm... non. Merci d'avoir ramené mon chien, mais je dois partir maintenant. Au revoir.}
 {191}{}{C'était chouette de vous rencontrer, mais 'faut que je m'en aille maintenant.}
-{192}{}{That's right! Yipee! I'm going home. Ask Vegeir if it's all right for you to take me home. He's been
- so nice to me, I don't want to leave until he says it's all right. Please hurry, I'm homesick.}
+{192}{}{Ouais ! Youpi ! Je vais rentrer chez moi. Demandez à Vegeir s'il veut bien que vous me rameniez chez moi. Il a été très gentil avec moi. Je ne veux pas partir sans sa permission. Dépêchez-vous, j'ai vraiment envie de rentrer !}
 {193}{}{Ok Monsieur, je vous crois. Demandez à Vegeir s'il veut bien que vous me rameniez chez moi. Il a été très gentil avec moi. Je ne veux pas partir sans sa permission.}
 {194}{}{Ok Madame, je vous crois. Demandez à Vegeir s'il veut bien que vous me rameniez chez moi. Il a été très gentil avec moi. Je ne veux pas partir sans sa permission.}
 {195}{}{Non. Je vais jouer avec mes amis. Salut.}
 {196}{}{J'ai pas le droit de parler aux étrangers.}
 {197}{}{Oui, c'est ça. Comment le savez-vous ? C'est Laddie qui a dû vous le dire, elle est tellement intelligente.}
 {198}{}{Ta mère et ton père m'ont demandé de te retrouver.}
-{199}{}{You're coming with me kid. There's a reward for bringing you back.}
+{199}{}{Tu vas venir avec moi gamin, il y a une récompense pour te ramener.}
 {200}{}{Oui, je crois qu'il vaut mieux. C'est pas que je vous fais pas confiance, mais je suis sûr que Vegeir veut juste s'assurer que je rentrerai en toute sécurité. Merci de votre aide.}
 {201}{}{Dépêchez-vous, je veux rentrer à la maison !}
 {202}{}{Non ! Je ne vous crois pas ! Rendez-moi mon chien ! [Ouiiin !]}
-{203}{}{Oh no! Don't you know Rose uses dog in her dishes! Laddie is probably a burger by now.}
+{203}{}{Oh non ! Il paraît que Rose met de la viande de chien dans ses plats ! Laddie est probablement un hamburger à l'heure qu'il est !}

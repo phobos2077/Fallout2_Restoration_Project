@@ -44,7 +44,7 @@
 {143}{}{Salut.}
 {144}{}{Ug.}
 {145}{}{Skynet a appris toutes les informations nécessaires sur ce site.}
-{146}{}{Waaaaa......tinnnnnng.}
+{146}{}{Aaaaaaa...tendre.}
 {147}{}{[C'est là où tu l'avais laissé.]}
 {148}{}{C'est parti.}
 {149}{}{Reste ici, je reviens.}
@@ -97,7 +97,7 @@
 {196}{}{[Le robot s'arrête dans sa trajectoire.]}
 {197}{}{Salut.}
 {198}{}{Skynet va continuer à rassembler des données. Skynet remercie l'humain pour la libération de Skynet.}
-{199}{}{Gooooo......innnnnnng.}
+{199}{}{Paaaaaaaaa...rrrrttttttiiiiiirr}
 {200}{}{Salut.}
 {201}{}{Skynet va voyager avec l'humain.}
 {202}{}{D'acccc...ccooord}

@@ -43,7 +43,7 @@
 {310}{}{Maintenant on parle la même langue ! D'accord, marché conclu. [Avec avarice il t'arrache l'argent et te serre la main.]}
 {311}{}{C'est un plaisir de faire du business avec toi. Au revoir.}
 {312}{}{Salut.}
-{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
+{320}{}{$500 ? Ca ne vaut pas le coup. Disons $1 000 et je suis partant.}
 {321}{}{J'ai pas autant d'argent. Salut.}
 {322}{}{Très bien, comme tu voudras. Allons-y pour $1 000.}
 {323}{}{Pas question. Salut.}

@@ -104,7 +104,7 @@
 {463}{}{Moi chercher... Heu... Moi encore oublier.}
 {464}{}{[Partir]}
 {465}{}{Bien. En quoi peux-tu m'aider ?}
-{466}{}{Well, I had some questions...}
+{466}{}{Eh bien, je voulais d'abord te poser des questions...}
 {467}{}{Sais-tu ce qui est arrivé au fils de M. Wright, Jules ?}
 {468}{}{Jules, as-tu vu ma voiture ? Je l'ai garée ici il y a un moment, et elle a disparu.}
 {469}{}{Ecoute... "Jules", c'est ça ? Tu espères retirer quelque chose de cette discussion, c'est évident. Tu ferais bien de me dire quoi. Que veux-tu, TOI ?}
@@ -140,7 +140,7 @@
 {535}{}{Les Familles. Elles aiment PAS qu'il y ait des problèmes à Reno, ça porterait un coup au tourisme et donc à leurs revenus. N'aie pas d'ennuis, paie tes dettes de jeu, et tu éviteras Golgotha.}
 {537}{}{Le Golgotha ?}
 {545}{}{Oui, c'est le cimetière en dehors de la ville. C'est là qu'on met les mauvais payeurs et les gens qui ont causé du souci aux familles. On les suspend à des poteaux et on les laisse mourir au soleil. Très peu pour moi. Et ça pue, là-bas.}
-{547}{}{Interesting. Say, I had some other questions...}
+{547}{}{Intéressant. J'avais d'autres questions...}
 {548}{}{Ca a l'air super. Merci du renseignement.}
 {555}{}{Une autre chose à SAVOIR, c'est qu'on a rien pour rien, à New Reno. Si c'est gratuit, méfie-toi.}
 {556}{}{Bon, ce genre d'information, c'est pas donné. Tu as des jetons ? Alors, je t'écoute.}
@@ -277,7 +277,7 @@
 {1120}{}{Bon, sur ce, je crois qu'il vaut mieux que je m'en aille.}
 {1121}{}{Quelle éloquence ! C'est de la poésie. L'image du chou... Très frappante, je dois dire. MERCI.}
 {1130}{}{Si tu étais jolie, peut-être, mais il te faudrait d'abord l'accord des Mordino. L'un est à peu près aussi improbable que l'autre.}
-{1132}{}{I see. Say, I had some other questions...}
+{1132}{}{Je vois. J'ai d'autres questions à poser...}
 {1145}{}{Pour les armes, va voir mon pote Eldridge, dans le quartier Ouest. Il a des trucs pour tuer les gens dont tu as même pas encore entendu parler. Dis-lui que tu viens de ma part.}
 {1146}{}{J'entends bien, frère, j'entends bien. Si tu veux le meilleur, va voir mon pote Eldridge, dans le quartier Ouest. Il a des trucs pour tuer les gens dont tu as même pas encore entendu parler. Dis-lui que tu viens de ma part.}
 {1147}{}{J'entends bien, soeurette. Si tu veux le meilleur, va voir mon pote Eldridge, dans le quartier Ouest. Il a des truc pour tuer les gens dont tu as même pas encore entendu parler. Dis-lui que tu viens de ma part.}
@@ -344,7 +344,7 @@
 {1362}{}{... J'ai vu des types l'embarquer il n'y a pas longtemps. Mais ils étaient trop nombreux pour que j'essaie de les arrêter, et...}
 {1363}{}{Tais-toi, et emmène-moi où ils sont allés. Tout de suite.}
 {1364}{}{Tant pis. Je les chercherai sans ton aide.}
-{1375}{}{Okay, okay...}
+{1375}{}{D'accord, d'accord.}
 {1376}{}{Au fait, Jules, si jamais tu fais ne serait-ce que REGARDER DE TRAVERS ce gosse de l'autre côté de la rue, je reviens et je t'amoche tellement qu'il te faudra plusieurs testaments. Pigé ? Bon, après toi.}
 {1377}{}{Une dernière chose, Jules. Si j'apprends que tu as fait le moindre problème à Cody, je te tue. Maintenant, emmène-moi à ma voiture.}
 {1378}{}{[Le suivre]}
@@ -378,6 +378,6 @@
 {1486}{}{Et "Jimmy J l'édenté" ? Où puis-je le trouver ?}
 {1487}{}{Parfait... Dis, j'aurais d'autres questions...}
 {1500}{}{Dis à cet enfoiré que s'il raconte des conneries pareilles, c'est MOI qui vais le tuer, et pas le vieux Wright. Tu sais ce que c'est, ces conneries ? Celles d'un type qui a les FOIES, voilà !}
-{1501}{}{I see... say, I had some other questions...}
+{1501}{}{Je vois... J'avais d'autres questions...}
 {1502}{}{Pigé. Je vais aller voir.}
 {2000}{}{Ca, une BAGNOLE ? Meeerde.}
