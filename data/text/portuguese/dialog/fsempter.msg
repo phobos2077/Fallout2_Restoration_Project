@@ -1,42 +1,42 @@
 {100}{}{Você vê um terminal de computador.}
-{101}{}{You see the Emperor Computer terminal.}
-{102}{}{You see a computer with a built-in touch screen for its interface. Engraved on the side is "Emperor v8.8 Computer Terminal".}
-{103}{}{Greetings. Please enter your password to confirm your identity.}
-{104}{}{::drool::}
+{101}{}{Você vê o terminal do computador Emperor.}
+{102}{}{Você vê um computador com uma tela de toque embutida para sua interface. Na lateral está gravado "Terminal de computador do Imperador v8.8".}
+{103}{}{Saudações. Por favor, digite a senha para confirmar sua identidade.}
+{104}{}{::babando::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
 {108}{}{::hackear o computador::}
-{109}{}{Log Out.}
-{110}{}{Identity confirmed.}
-{111}{}{What function do you wish to access?}
-{112}{}{Diagnostics.}
-{113}{}{Database.}
-{114}{}{Forecasting.}
-{115}{}{None.}
-{116}{}{Please speak to the system administrator. Goodbye.}
+{109}{}{Sair.}
+{110}{}{Identidade confirmada.}
+{111}{}{Qual função você deseja acessar?}
+{112}{}{Diagnósticos.}
+{113}{}{Banco de dados.}
+{114}{}{Previsão.}
+{115}{}{Nada.}
+{116}{}{Por favor, converse com o administrador do sistema. Adeus.}
 {117}{}{::hackear o computador::}
 {118}{}{::sair::}
 {119}{}{Alerta de intruso ativado. Desligando. Tenha um bom dia.}
 {120}{}{[FEITO]}
-{121}{}{Diagnostic functions?}
-{122}{}{Network scan.}
-{123}{}{Format drive.}
-{124}{}{Check hard drive integrity.}
+{121}{}{Funções de diagnóstico?}
+{122}{}{Varredura da rede.}
+{123}{}{Formatar a unidade.}
+{124}{}{Verifique a integridade do disco rígido.}
 {125}{}{Voltar.}
-{126}{}{Which database would you like to check?}
-{127}{}{Biology.}
-{128}{}{Chemistry.}
-{129}{}{Physics.}
-{130}{}{History.}
+{126}{}{Qual banco de dados você gostaria de verificar?}
+{127}{}{Biologia.}
+{128}{}{Quimica.}
+{129}{}{Física.}
+{130}{}{História.}
 {131}{}{Voltar.}
-{132}{}{The children of Shi-town are in danger. 50% chance of slayer moving among them.}
-{133}{}{Danger has come to Shi-town. 75% probability of harm coming to residents.}
-{134}{}{The Hubologist space launch is 95% likely to fail. Factors: No fuel, improper sealant, poor leadership, lack of initiative.}
-{135}{}{15% chance of designated "Chosen One" succeeding in task.}
-{136}{}{Input indicates "Enclave" more powerful than previously believed; do not approach.}
-{137}{}{Chances of submarine reappearing in this game: 100%}
-{138}{}{Tanker vagrants 0% likely to clear creature infestation without outside assistance. Processing desirability of providing assistance.}
+{132}{}{As crianças de Shi-town estão em perigo. 50% de chance de um assassino estar entre eles.}
+{133}{}{O perigo chegou à cidade de Shi. 75% de probabilidade de danos aos residentes.}
+{134}{}{O lançamento espacial do Hubologist tem 95% de probabilidade de falhar. Fatores: Sem combustível, selante impróprio, liderança deficiente, falta de iniciativa.}
+{135}{}{15% de chance de o "Escolhido" designado ter sucesso na tarefa.}
+{136}{}{Os dados indicam que a "Enclave" é mais poderosa do que se acreditava anteriormente; não se aproxime.}
+{137}{}{Chances dedo submarino reaparecer neste jogo: 100%}
+{138}{}{0% de chance de eliminar a infestação de criaturas no petroleiro sem ajuda externa. Processando conveniência para fornecer assistência.}
 {139}{}{Input: Poseidon Oil tanker unfit for travel. Require more input.}
 {140}{}{Not processing. Require input.}
 {141}{}{[MAIS]}
@@ -85,19 +85,19 @@
 {184}{}{Programa Genético.}
 {185}{}{Voltar.}
 {186}{}{Chemistry Database: Fuel and derivatives - Polymers}
-{187}{}{Fuel and derivatives.}
-{188}{}{Polymers.}
+{187}{}{Combustível e derivados.}
+{188}{}{Polímeros.}
 {189}{}{Voltar.}
 {190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
-{191}{}{(You come across a vast array of complex chemical formulae and lab notes. You're not quite sure what all of this means.)}
-{192}{}{Direct fuel to Poseidon tanker.}
-{193}{}{Direct fuel to Hubologists.}
+{191}{}{(Você encontra uma vasta gama de fórmulas químicas complexas e notas de laboratório. Não tem certeza do que tudo isso significa.)}
+{192}{}{Combustível direto para o tanque Poseidon.}
+{193}{}{Dirigir combustível aos hubologistas.}
 {194}{}{Voltar.}
-{195}{}{(Once you have waded past the symbology and technical discussion, you discover that the Shi are working on a new kind of polymeric combat armor that is resistant to both flame and penetration. It is still years from completion. You also see mention of new weaponry and construction capabilities. Apparently the Shi have some plans for the future.)}
+{195}{}{(Depois de passar pela simbologia e discussão técnica, você descobre que os Shi estão trabalhando em um novo tipo de armadura de combate polimérica que é resistente a chamas e penetração. Ainda faltam anos para ser concluído. Você também vê menção a novas capacidades de armamento e construção. Aparentemente, os Shi têm alguns planos para o futuro.)}
 {196}{}{Voltar.}
-{197}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
+{197}{}{Combustível direcionado de acordo. Tanques de armazenamento = Vazio. Programa de encerramento.}
 {198}{}{[FEITO]}
-{199}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
+{199}{}{Combustível direcionado de acordo. Tanques de armazenamento = Vazio. Programa de encerramento.}
 {200}{}{[FEITO]}
 {201}{}{Physics database: Exploration - Theory}
 {202}{}{Exploração.}

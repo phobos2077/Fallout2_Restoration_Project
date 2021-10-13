@@ -6,7 +6,7 @@
 {105}{}{::adivinhar a senha::}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{::hackear o computador::}
-{108}{}{Log Out.}
+{108}{}{Sair.}
 {109}{}{Physics database: -Exploration- -Theory-}
 {110}{}{Exploration...}
 {111}{}{Theory...}

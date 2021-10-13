@@ -6,13 +6,13 @@
 {105}{}{Welcome to PoseidoNet. This terminal is limited to transmission between one tanker - PMV Valdez - and docking rig. Command?}
 {106}{}{Ir.}
 {107}{}{Check status.}
-{108}{}{Log Off.}
+{108}{}{Sair.}
 {109}{}{-Fuel Tanks: Empty- -Cargo Hold: Empty- -Navigation Computer: Non Functional- -Mooring Lines: Attached-}
 {110}{}{[VOLTAR]}
-{111}{}{Log Off.}
+{111}{}{Sair.}
 {112}{}{-Fuel Tanks: Full- -Cargo Hold: Empty- -Navigation Computer: Non Functional- -Mooring Lines: Attached-}
 {113}{}{[VOLTAR]}
-{114}{}{Log Off.}
+{114}{}{Sair.}
 {115}{}{ERROR: Fuel Tanks Empty.}
 {116}{}{ERROR: Navigation Computer non Functional.}
 {117}{}{-Fuel Tanks: Empty- -Cargo Hold: Empty- -Navigation Computer: Functional- -Mooring Lines: Attached-}

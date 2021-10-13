@@ -1,1 +1,1 @@
-{100}{}{The scraps combine to make a password list.}
+{100}{}{Os recados se combinam para formar uma lista de senhas.}
