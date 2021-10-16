@@ -1,6 +1,6 @@
 {100}{}{Tu vois ton jeune cousin, Nagor. Tu ne vois pas son chien, Fumace.}
 {101}{}{Tu connais Nagor depuis sa plus tendre enfance et tu l'as toujours aidé lorsque tu le pouvais.}
-{102}{}{Quel plaisir de te voir cousine ! J'ai besoin de ton aide.}
+{102}{}{Quel plaisir de te voir cousin ! J'ai besoin de ton aide.}
 {103}{}{Pardonne-moi, mais je n'ai pas le temps.}
 {104}{}{Pourquoi as-tu besoin d'aide ?}
 {105}{}{Alors, j'irai seul dans le désert !}
@@ -47,4 +47,4 @@
 {214}{}{Je regrette, cousin. Les choses n'ont pas cessé de se détériorer depuis ton départ. Les gens sont malades, les Brahmines meurent... Je... Mon chien, Fumace, est mort... Morlis l'a fait cuire... Il me manque tellement... Pardon, mais je ne peux vraiment pas te parler davantage...}
 {215}{}{Je regrette, cousine. Les choses n'ont pas cessé de se détériorer depuis ton départ. Les gens sont malades, les Brahmines meurent... Je... Mon chien, Fumace, est mort... Il me manque tellement... Pardon, mais je ne peux vraiment pas te parler davantage...}
 {300}{}{Tu vois Nagor.}
-{302}{}{Quel plaisir de te voir cousine ! J'ai besoin de ton aide.}
+{302}{}{Quel plaisir de te voir cousin ! J'ai besoin de ton aide.}
