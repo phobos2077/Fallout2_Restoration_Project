@@ -150,133 +150,133 @@
 {262}{}{Leia mais sobre o esboço da missão R.}
 {263}{}{A estrutura defensiva estacionária parecia interessante.}
 {264}{}{::voltar::}
-{270}{}{Upon request made by the Alaskan Frontline commander, General Jingwei, the Shi-Huang-Ti was transferred to the
- Alaskan/Pacific theatre of operations to intercept American convoys in open waters. Under the command of Rear Admiral
- Ye Li, she has sunk 9 freighters and 4 warships, damaging 18 more craft and putting a significant strain on enemy
- supply lines.}
+{270}{}{Seguindo o pedido feito pelo comandante da linha de frente do Alasca, General Jingwei, o Shi-Huang-Ti foi transferido para o
+ pátio de operações do Alasca/Pacífico para interceptar comboios americanos em águas abertas. Sob o comando do Contra-Almirante
+ Ye Li, ela afundou 9 cargueiros e 4 navios de guerra, danificando mais 18 embarcações e colocando uma pressão significativa nas linhas de
+ suprimentos inimigas.}
 {271}{}{Leia.}
-{275}{}{Admiral Ye Li has also been credited by the People's Liberation Army Navy as leading to the sinking of USS
- Ebon Atoll by an American submarine, USS Interference.}
+{275}{}{O almirante Ye Li também foi creditado pela Marinha do Exército de Libertação do Povo como responsável pelo naufrágio do USS
+ Atol de Ebon por um submarino americano, USS Interferência. }
 {276}{}{::voltar::}
-{280}{}{2220, May : Poseidon Marine Vessel Valdez arrives in port, manned by a crew equipped with unknown-type powered
- infantry armor. The ship is disabled and infested with mutants.
-                                                                  2220, June: Following consults with the Emperor, Chiang Lee
- dictates that the Shi-Huang-Ti be reactivated and transformed into a defensive installation against further naval threats.
-                                                           2220, July: The submarine is reactivated. Emergency power
- had to be provided to power it up.                                  2231, May: The emergency generator dies. Ken Lee orders
- an ElectroBox generator to be wired into the power system to keep powering the submarine.
-                                     2238, August: A Neptune Waveskimmer motorboat is restored and transferred to the
- submarine maintenance crew.}
-{281}{}{Hmm, let's see if I can find something more on that maintenance crew...}
+{280}{}{2220, maio: O navio Poseidon Marine Valdez chega ao porto, tripulado por uma tripulação equipada com um tipo desconhecido
+ de armadura de infantaria. A nave está desativada e infestada de mutantes.
+                                                                  2220, Junho: Após consultas com o Imperador, Chiang Lee
+ dita que o Shi-Huang-Ti seja reativado e transformado em uma instalação defensiva contra novas ameaças navais.
+                                                           2220, Julho: o submarino é reativado. Foi necessário
+ energia de emergência para ligá-lo.                                  2231, Maio: O gerador de emergência desativa. Ken Lee encomenda
+ um gerador ElectroBox para ser conectado ao sistema de energia e continuar alimentando o submarino.
+                                     2238, Agosto: uma lancha Neptune Waveskimmer é restaurada e transferida para a
+ tripulação de manutenção do submarino.}
+{281}{}{Hmm, vamos ver se consigo encontrar algo mais sobre a equipe de manutenção...}
 {282}{}{::voltar::}
-{290}{}{[Bingo! After a few minutes of fiddling with commands, you manage to pull up a small text file concerning the
- generator on the submarine. It seems that regular trips are needed to refuel and maintain the generator. The file also
- lists the current maintenance crew roster.]}
-{291}{}{Submarine maintenance crew (2241 onwards): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
-{292}{}{::add myself to maintenance crew roster::}
+{290}{}{[Bingo! Depois de alguns minutos fuçando nos comandos, você consegue pegar um pequeno arquivo de texto sobre o
+ gerador do submarino. Parece que viagens regulares são necessárias para reabastecer e manter o gerador. O arquivo também
+ lista a equipe de manutenção atual.]}
+{291}{}{Tripulação de manutenção do submarino (2241 em diante): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
+{292}{}{::adicionar-me à lista da equipe de manutenção::}
 {293}{}{::voltar::}
-{300}{}{[With a few quick keystrokes, you become a part of the submarine maintenance crew. A list of passwords for
- the motor boat guard is now accessible.]}
-{301}{}{::download password list to PIP-Boy::}
-{310}{}{[You plug the PIP-Boy into one of the access ports. After a moment, you have an up-to-date list of passwords
- for the next year. Talk about security.]}
+{300}{}{[Com alguns toques no teclado, você se torna parte da equipe de manutenção do submarino. Uma lista de senhas para
+ a proteção do barco a motor agora está acessível.]}
+{301}{}{::baixar a lista de senhas no PIP-Boy::}
+{310}{}{[Você conecta o PIP-Boy em uma das portas de acesso. Depois de um momento, você tem uma lista atualizada de senhas
+ para o próximo ano. Fale sobre a segurança.]}
 {311}{}{::voltar::}
-{320}{}{You're a fully fledged Shi submarine technician now.}
-{325}{}{Error. Command Code Chart required. Please insert the correct chart.}
-{330}{}{[Thanks to the command code chart you retrieved from the sub, you are able to access restricted files on the
- Emperor's drives]}
-{331}{}{Command code recognized. Security restrictions lifted. Chinese Intelligence Network initialized..
+{320}{}{Você é um técnico pleno do submarino Shi agora.}
+{325}{}{Erro. É necessário código de comando gráfico. Por favor, insira o gráfico correto.}
+{330}{}{[Graças ao código do comando gráfico que recuperou do sub, você pode ter acesso restrito aos arquivos nas
+ unidades do imperador]}
+{331}{}{Código de comando reconhecido. Restrições de segurança levantadas. Rede de inteligência chinesa inicializada..
 ...
 ...
-Warning! Uplink to CIN central Beijing server unavailable. Retrieving archived data.
- [It seems most of the archives are corrupted. However, the mainframe manages to retrieve several intact files]}
-{332}{}{Intelligence report 2069-11-5}
-{333}{}{Intelligence report 2072-4-18}
-{334}{}{Intelligence report 2073-12-4}
-{335}{}{Intelligence report 2074-9-17}
-{336}{}{Intelligence report 2075-10-17}
-{337}{}{Intelligence report 2076-8-12}
-{338}{}{Intelligence report 2077-10-12}
-{339}{}{Intelligence report 2077-10-23}
+Aviso! Subindo para CIN, o servidor central de Pequim não está disponível. Recuperando dados arquivados.
+ [Parece que a maioria dos arquivos está corrompida. No entanto, o mainframe consegue recuperar vários arquivos intactos]}
+{332}{}{Relatório de inteligência 2069-11-5}
+{333}{}{Relatório de inteligência 2072-4-18}
+{334}{}{Relatório de inteligência 2073-12-4}
+{335}{}{Relatório de inteligência 2074-9-17}
+{336}{}{Relatório de inteligência 2075-10-17}
+{337}{}{Relatório de inteligência 2076-8-12}
+{338}{}{Relatório de inteligência 2077-10-12}
+{339}{}{Relatório de inteligência 2077-10-23}
 {340}{}{}
-{341}{}{::more::}
+{341}{}{::mais::}
 {342}{}{::voltar::}
-{345}{}{From: Counterintelligence Division
-                                  Rioting in Tibet and neighboring provinces continues, threatening the construction
- of the Eastern Dragon satcom complex. President Xin orders military intervention against the populace. Following
- significant insurgent casualties, the province is restored to Chinese control and the remaining insurgents are resettled.}
+{345}{}{De: Divisão de Contra-inteligência
+                                  Os motins no Tibete e nas províncias vizinhas continuam, ameaçando a construção
+ do complexo de satcom do Dragão Oriental. O presidente Xin ordena intervenção militar contra a população. Seguindo
+ vítimas insurgentes significativas, a província é restaurada ao controle chinês e os insurgentes restantes são reassentados.}
 {346}{}{::voltar::}
-{350}{}{From: Biochemical Warfare Division
-                          Outbreak of epidemic in the Soviet Union threatens northern protectorates of the PRC. BioChem
- WD advises quarantine andisolation of endangered territories. Potential resettlement location for insurgents, terrorists
- and undesirables and harvesting area for new strains of biological weapons. Plan submitted to Party for approval.}
+{350}{}{De: Da Divisão de Bioquímica de Guerra
+                          Surto de epidemia na União Soviética ameaça protetorados do norte da RPC. BioChem
+ WD aconselha quarentena e isolamento de territórios em perigo. Possível local de reassentamento para insurgentes, terroristas
+ e indesejáveis e área de colheita para novas variedades de armas biológicas. Plano submetido à Parte para aprovação.}
 {351}{}{::voltar::}
-{360}{}{From: Alaskan Front Commander, General Jingwei
-                Strain #23-110 deployed against American troops, demoralizing and weakening their operational
- strength. Requesting additional troops and Battlemaster armor for final push against the entrenched American forces at
- the borders of Alaska.}
+{360}{}{De: Comandante da Frente do Alasca, General Jingwei
+                Cepa #23-110 implantada contra as tropas americanas, desmoralizando e enfraquecendo suas operações de
+ força. Solicitando tropas adicionais e armadura de mestre de guerra para o ataque final contra as forças americanas entrincheiradas nas
+ fronteiras do Alasca.}
 {361}{}{::voltar::}
-{370}{}{From: Central Command
-                                           American units deployed to mainland after evading our blockade of Japan.
- Alaskan forces are to continue operations. Military forces in annexed territories are to augment the defense of home front.
- Command authorizes the use of biological and chemical weapons on home soil - the foreign devils must be exterminated!}
+{370}{}{De: Comando Central
+                                          Unidades americanas enviadas para o continente depois de escapar de nosso bloqueio do Japão.
+ As forças do Alasca devem continuar as operações. As forças militares em territórios anexados devem aumentar a defesa da frente interna.
+ O comando autoriza o uso de armas biológicas e químicas em solo nacional - os demônios estrangeiros devem ser exterminados!}
 {371}{}{::voltar::}
-{380}{}{From: Red Dragon
-                                                     Insurgency operations and terror strikes highly effective in
- demoralizing the American population. Support for military operations overseas wanes as riots and protests are incited
- across the American soil. Recommend strikes against designated research and military targets across the United States,
- priority: Raven Rock, West Tek, Mariposa, Boulder, Institute.}
+{380}{}{De: Dragão Vermelho
+                                                     Operações de insurgência e ataques terroristas altamente eficazes em
+ desmoralizar a população americana. O apoio às operações militares no exterior diminui à medida que motins e protestos são incitados
+ em todo o solo americano. Recomendamos ataques contra alvos militares e de pesquisa designados nos Estados Unidos,
+ prioridade: Raven Rock, West Tek, Mariposa, Boulder, Institute.}
 {381}{}{::voltar::}
-{390}{}{From: Central Command
-                                              American military superiority now clear - T-51b power armor units deployed
- to mainland. The PLA has no appropriate counter and is losing ground daily. Chairman Cheng demands that Beijing stays in
- Chinese hands - fortification is underway. Command orders intensification of guerilla operations behind enemy lines.
- Operatives in all American Commonwealth are to prepare for staging insurgencies. Weapon and equipment shipments dispatched.
- Priority target: Washington, DC, Columbia Commonwealth}
+{390}{}{De: Comando Central
+                                              A Superioridade militar americana agora está clara - unidades de power armor T-51b implantadas
+ ao continente. O PLA não tem contador adequado e perde terreno a cada dia. O Presidente Cheng exige que Pequim permaneça em
+ mãos chinesas - a fortificação está em andamento. O comando ordena a intensificação das operações de guerrilha atrás das linhas inimigas.
+ Operativos em toda a Comunidade Americana devem se preparar para a encenação de insurgências. Remessas de armas e equipamentos despachadas.
+ Alvo prioritário: Washington, DC, Columbia Commonwealth}
 {391}{}{::voltar::}
-{400}{}{From: Party Chairman Cheng
-                                         With the Alaskan Front's collapse and increasingly strong American presence on
- Chinese soil defeat is imminent. According to resolution 636860 of the Communist Party of China, I am hereby ordering all
- loyal military forces to commence nuclear operations against the Americans, mission outline R. Priority targets are
- contained within operational directives. May our souls return to this Earth.}
+{400}{}{De: Presidente do Partido, Cheng
+                                         Com o colapso da Frente do Alasca e a presença cada vez mais forte dos EUA
+ no território chinês, a derrota é iminente. De acordo com a resolução 636860 do Partido Comunista Chinês, estou ordenando a todas
+ forças militares leais para iniciar operações nucleares contra os americanos, esboço da missão R. Os alvos prioritários são
+ contidos nas diretivas operacionais. Que nossas almas retornem a esta Terra.}
 {401}{}{::voltar::}
-{410}{}{From: Central Command                                            All forces in position. Transmitting final confirmation
- codes. Operation Youmíng is go.}
+{410}{}{De: Comando Central                                            Todas as forças em posição. Transmitindo códigos finais
+ de confirmação. A Operação Youmíng está pronta.}
 {411}{}{::voltar::}
-{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
-                                                CIN Beijing...		offline
-                                                   SSC Naval Yard...	offline
-                                              SCA Eastern Dragon..	offline
-                                        Warning: No connection to external serves could be made.}
-{421}{}{That's disappointing...}
-{430}{}{Scanning local drives...}
+{420}{}{Verificando canais de comunicação...                                    PLA CentCom...  offline
+                                                CIN Beijing...  offline
+                                                   SSC Naval Yard... offline
+                                              SCA Eastern Dragon.. offline
+                                        Aviso: Nenhuma conexão com servidores externos pôde ser feita.}
+{421}{}{Que decepcionante...}
+{430}{}{Verificando unidades locais...}
 {431}{}{[CONTINUAR]}
-{440}{}{One accessible file found. [It seems most of the archives are corrupted. However, the mainframe manages to
- retrieve an intact file.]}
-{441}{}{Personal log: Li Ye, Admiral, Captain}
-{450}{}{2077-10-12: We are losing this war. I just received confirmation that the Party has finally decided to go
- through with plan R. Madness! How will nuclear war give us victory? Nobody wins if we unleash this kind of power. But
- I am a soldier and I will follow my orders through to the end.}
+{440}{}{Um arquivo acessível encontrado. [Parece que a maioria dos arquivos está corrompida. No entanto, o mainframe consegue
+ recuperar um arquivo intacto.]}
+{441}{}{Registro pessoal: Li Ye, Almirante, Capitão}
+{450}{}{12/10/2077: Estamos perdendo esta guerra. Acabei de receber a confirmação de que o Partido finalmente decidiu ir
+ adiante com o plano R. Loucura! Como a guerra nuclear nos dará a vitória? Ninguém ganha se liberarmos esse tipo de poder. Mas
+ eu sou um soldado e vou seguir minhas ordens até o fim.}
 {451}{}{Leia.}
 {452}{}{::voltar::}
-{460}{}{2077-10-19: The crew is becoming restless. Wong, excited, told the officers about plan R and they were ecstatic.
- I cannot blame them, even though I disagree: Wong lost his sons in Anchorage while Da Chiang's brother was captured off
- the coast of Maryland.}
+{460}{}{19/10/2077: A tripulação está ficando agitada. Wong, animado, contou aos oficiais sobre o plano R e eles ficaram em êxtase.
+ Não posso culpá-los, mas discordo: Wong perdeu seus filhos em Anchorage enquanto o irmão de Da Chiang foi capturado
+ na costa de Maryland.}
 {461}{}{Leia.}
 {462}{}{::voltar::}
-{470}{}{2077-10-21: We have completed final preparations for launch. All that is left is inputting the confirmation codes.
- It has been an honor to serve with these men.}
+{470}{}{2077-10-21: Terminamos os preparativos finais para o lançamento. Tudo o que resta é inserir os códigos de confirmação.
+ Foi uma honra servir com esses homens.}
 {471}{}{Leia.}
 {472}{}{::voltar::}
-{480}{}{2077-10-23: We have received confirmation codes and will be in position in fifteen minutes. This is probably my
- last entry in this log, so let me state that I do not condone this kind of atrocity. War is fought between soldiers, not
- bombs and civilians. If anyone survives, I hope they will forgive us.}
+{480}{}{2077-10-23: Recebemos os códigos de confirmação e estaremos na posição em quinze minutos. Este é provavelmente é minha
+ última entrada neste registro, então deixe-me dizer que não tolero esse tipo de atrocidade. A guerra é travada entre soldados, não
+ com bombas e civis. Se alguém sobreviver, espero que nos perdoe.}
 {481}{}{Leia.}
 {482}{}{::voltar::}
-{490}{}{2077-10-29: Damn those maniacs! I thought we were the only group ordered to engage the Los Angeles sector, but I
- was wrong. They launched our most powerful ICBM at it. I cannot fathom why it wasn't sent at Washington, but that's moot.
- We are currently drifting in the ocean. The Emperor is dead, navigation is busted and it seems this is going to be our
- grave.}
+{490}{}{29/10/2077: Malditos sejam esses idiotas! Achei que fôssemos o único grupo encarregado de envolver o setor de Los Angeles, mas eu
+ estava errado. Eles lançaram nosso ICBM mais poderoso nisso. Não consigo entender por que não foi enviado a Washington, mas isso é discutível.
+ No momento, estamos à deriva no oceano. O imperador está morto, a navegação foi interrompida e parece que esta vai ser a nossa
+ cova.}
 {491}{}{Leia.}
 {492}{}{::voltar::}
 {500}{}{2077-11-04: We've been adrift for several days now. Jing managed to restore some of the power to our onboard
