@@ -279,62 +279,62 @@ Aviso! Subindo para CIN, o servidor central de Pequim não está disponível. Recup
  cova.}
 {491}{}{Leia.}
 {492}{}{::voltar::}
-{500}{}{2077-11-04: We've been adrift for several days now. Jing managed to restore some of the power to our onboard
- systems, so we should have enough oxygen to last several weeks. I am more concerned about food and water - our supplies
- are low and there's not enough of them to go around. The crew is getting restless.}
+{500}{}{04-11-2077: Estamos à deriva há vários dias. Jing conseguiu restaurar um pouco da energia do nosso sistema de
+ bordo, acredito que devemos ter oxigênio suficiente para várias semanas. Estou mais preocupado com comida e água - nossos suprimentos
+ estão baixos e não há o suficiente para todos. A tripulação está ficando agitada.}
 {501}{}{Leia.}
 {502}{}{::voltar::}
-{510}{}{2077-11-08: The Emperor is back on line, but barely. We still have no navigation and the crew is on the verge of
- mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
- I fear we will kill each other.}
+{510}{}{08-11-2077: O imperador está de volta à linha, mas mal. Ainda não temos navegação e a tripulação está prestes a
+ causar um motim - Impedi que dois marinheiros batessem no Jing. A situação é terrível. A menos que subamos à superfície nos próximos dias,
+ temo que iremos nos matar.}
 {511}{}{Leia.}
 {512}{}{::voltar::}
-{520}{}{2077-11-12: Finally! We ran aground in the San Francisco bay. The sailors were rejoicing until we cut open the
- hatches. The city is a wreck, ravaged by firestorms and fallout. I sent out shore parties to find a suitable camp site.
- So far, none have reported such a location. }
+{520}{}{2077-11-12: Finalmente! Encalhamos na baía de São Francisco. Os marinheiros estavam alegres até que abrimos as 
+ escotilhas. A cidade está um desastre, devastada por tempestades de fogo e radiação. Enviei grupos em terra para encontrar um local de acampamento adequado.
+ Até agora, ninguém relatou alguma localização.}
 {521}{}{Leia.}
 {522}{}{::voltar::}
-{530}{}{2077-11-16: Lao's team found an inhabitable neighborhood. The denizens have abandoned it, after the air raid
- alarm it seems, but it has suffered little damage. The most ironic thing? It's San Francisco's Chinatown, still surrounded
- by American checkpoints and fortified barracks. If only they knew...}
+{530}{}{16-11-2077: A equipe de Lao encontrou um bairro habitável. Os moradores o abandonaram, depois do alarme antiaéreo
+ ser acionado, mas sofreu poucos danos. Sabe o que é irônico? É a Chinatown de São Francisco, ainda cercada
+ por postos de controle americanos e quartéis fortificados. Se eles soubessem...}
 {531}{}{Leia.}
 {532}{}{::voltar::}
-{540}{}{2077-11-24: We made contact with Red Dragon. The north America Black Ghost command has been trudging westwards
- ever since the 23rd, after they lost contact with CentCom. They're none too happy about being stuck on enemy soil, but
- we must make do.}
+{540}{}{24-11-2077: Entramos em contato com o Red Dragon. O comando do Black Ghost na América do Norte tem caminhado para o oeste
+ desde o dia 23, depois de perder o contato com o CentCom. Eles não estão nada felizes por estarem presos em solo inimigo, mas
+ devemos fazer isso.}
 {541}{}{Leia.}
 {542}{}{::voltar::}
-{550}{}{2077-12-06: The Shi-Huang-Ti away camp is set up and functioning. Ghosts are running scavenging operations in
- the surrounding areas and rounding up any supplies they come across. I gave them strict orders not to engage American
- survivors without provocation - we cannot antagonize potential allies.}
+{550}{}{06-12-2077: O acampamento afastado de Shi-Huang-Ti é montado e está funcionando. Fantasmas estão executando operações 
+ de catação nas áreas circundantes e reunindo todos os suprimentos possíveis. Eu dei ordens estritas para não se envolverem com os americanos
+ sobreviventes sem provocação - não podemos antagonizar aliados em potencial.}
 {551}{}{Leia.}
 {552}{}{::voltar::}
-{560}{}{2077-12-14: An oddity - a cult by the name of Church of Hubology has somehow survived the devastation in a
- reinforced bunker near what remains of the Golden Gate bridge. They are harmless fanatics, but useful. Their resources,
- manpower and knowledge of the surrounding area will aid us in establishing our new home.}
+{560}{}{14-12-2077: Uma raridade - um culto com o nome de Igreja da Hubologia de alguma forma sobreviveu à devastação em um 
+ bunker reforçado perto do que restou da ponte Golden Gate. Eles são fanáticos inofensivos, mas úteis. Seus recursos, 
+ mão de obra e conhecimento da área em volta nos ajudarão a estabelecer nossa nova casa.}
 {561}{}{Leia.}
 {562}{}{::voltar::}
-{570}{}{2077-12-27: The basic necessities are covered. We are currently making plans to strip the submarine of electronics
- and other useful equipment - there's no point in maintaining it, since the propulsion system is beyond repair and we can
- use everything we can on site. Jing drafted plans for a reinforced structure - a 'Steel Palace' of sorts.}
+{570}{}{2077-12-27: As necessidades básicas estão atendidas. No momento, estamos fazendo planos para retirar a parte eletrônica
+ e outros equipamentos úteis do submarino - não adianta mantê-lo, uma vez que o sistema de propulsão está longe do reparo e podemos
+ usar tudo o que pudermos no local. Jing traçou planos para uma estrutura reforçada - uma espécie de 'Palácio de Aço'.}
 {571}{}{Leia.}
 {572}{}{::voltar::}
-{580}{}{2077-12-31: This is going to be my last entry in this log. I am no longer an Admiral of the People's Liberation
- Army Navy. I have a responsibility to my men and will lead them into the future. As of 2078, we are in full secession
- from China. Chairman Cheng, eat your heart out. This is Ye Li, leader of the Shi-Huang-Ti people, signing off.}
+{580}{}{31-12-2077: Esta será minha última entrada neste registro. Não sou mais almirante da Marinha do Exército de 
+ Libertação do Povo. Tenho uma responsabilidade para com meus homens e vou liderá-los no futuro. Em 2078, estamos em plena secessão
+ da China. Presidente Cheng, coma seu coração. Este é Ye Li, líder do povo Shi-Huang-Ti, encerrando a sessão.}
 {581}{}{::voltar::}
-{590}{}{Mission Outline R:                                                    Emergency nuclear warfare contingency plan
- for the People's Liberation Army in case of imminent defeat by a foreign power, accepted by the Communist Party of China
- on 11th November 2073.}
+{590}{}{Esboço da missão R:                                                    Serviços de emergência de guerra nuclear, plano de contingência
+  para o Exército de Libertação Popular em caso de derrota iminente por uma potência estrangeira, aceito pelo Partido Comunista Chinês 
+ em 11 de novembro de 2073.}
 {591}{}{Leia.}
-{600}{}{The plan includes a series of coordinated nuclear strikes against strategic targets across America, using strategic
- aircraft, nuclear missile submarines, missile delivery systems, low yield infantry nuclear weapons and other nuclear
- devices. The objective is to cripple American retaliatory capability and military capability.}
+{600}{}{O plano inclui uma série de ataques nucleares coordenados contra alvos estratégicos em toda a América, usando aeronaves
+ estratégicas, mísseis nucleares em submarinos, sistemas de lançamento de mísseis, armas nucleares de infantaria de baixo rendimento e outros dispositivos
+ nucleares. O objetivo é prejudicar a capacidade retaliatória e militar americana.}
 {601}{}{Leia.}
-{610}{}{The Shi-Huang-Ti is tasked with destroying eight targets on Californian soil, including the West Tek Research
- Facility, corporate headquarters in Los Angeles and major population centers.}
+{610}{}{O Shi-Huang-Ti tem a tarefa de destruir oito alvos em solo californiano, incluindo o West Tek Research 
+ Facility, a sede corporativa em Los Angeles e os principais centros populacionais.}
 {611}{}{Leia.}
-{620}{}{In case of mutiny, betrayal or defection, the Captain is authorized to order the Emperor to take control of the
- vessel and carry out the mission.}
+{620}{}{Em caso de motim, traição ou deserção, o Capitão está autorizado a ordenar ao Imperador que tome o controle da
+ embarcação e cumpra a missão.}
 {621}{}{::voltar::}
-{622}{}{::logoff::}
+{622}{}{::Seção encerrada::}

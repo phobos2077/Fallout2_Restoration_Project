@@ -3,7 +3,7 @@
 {102}{}{He's an old man with a snow-white beard and a slightly blank stare.}
 {103}{}{I'm Doc Jubilee. What's wrong, young man?}
 {104}{}{What's wrong, young man?}
-{105}{}{Me hurt.}
+{105}{}{Estou ferido.}
 {106}{}{Eu preciso de um médico.}
 {107}{}{Can't you just take some pills or something and stop bothering me with this twaddle?}
 {108}{}{Hell, you're hardly bleeding.}
