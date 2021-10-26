@@ -1,7 +1,7 @@
 {100}{}{Tu gagnes }
 {101}{}{ points d'expérience.}
 {102}{}{Tu réussis à désarmer le piège.}
-{103}{}{Tu ne réussis pas à désarmer le piège.}
+{103}{}{Tu ne parviens pas à désarmer le piège.}
 {104}{}{Tu déclenches accidentellement le piège.}
 {105}{}{ réussit à désarmer le piège.}
 {106}{}{ ne parvient pas à désarmer le piège.}

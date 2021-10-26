@@ -95,7 +95,7 @@
 {194}{}{Tu trouves un piège sur le container.}
 {195}{}{Tu ne trouves aucun piège sur le container.}
 {196}{}{Tu désamorces adroitement le piège.}
-{198}{}{Tu ne réussis pas à désarmer le piège.}
+{198}{}{Tu ne parviens pas à désarmer le piège.}
 {199}{}{ trouve un piège sur le container.}
 {200}{}{ ne réussit pas à trouver de piège sur le container.}
 {201}{}{ désactive adroitement le piège.}

@@ -110,6 +110,6 @@
 {520}{}{ trouve un piège dans la tombe.}
 {521}{}{ ne trouve pas de piège dans la tombe.}
 {525}{}{Tu désamorces adroitement le piège.}
-{526}{}{Tu ne réussis pas à désarmer le piège.}
+{526}{}{Tu ne parviens pas à désarmer le piège.}
 {530}{}{ désactive adroitement le piège.}
 {531}{}{ ne réussit pas à désamorcer le piège.}

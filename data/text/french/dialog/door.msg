@@ -88,14 +88,14 @@
 {187}{}{ se donne un tour de reins en essayant de faire sauter le verrou et prend }
 {188}{}{ points de dégâts.}
 {189}{}{Tu verrouilles adroitement la porte.}
-{190}{}{Tu n'as pas réussi à verrouiller la porte.}
+{190}{}{Tu ne parviens pas à fermer la porte à clé.}
 {191}{}{ verrouille adroitement la porte.}
 {192}{}{ n'a pas réussi à verrouiller la porte.}
 {193}{}{Ca n'occasionne même pas une égratignure à la porte.}
 {194}{}{Tu trouves un piège sur la porte.}
 {195}{}{Tu ne trouves aucun piège sur la porte.}
 {196}{}{Tu désamorces adroitement le piège.}
-{198}{}{Tu ne réussis pas à désarmer le piège.}
+{198}{}{Tu ne parviens pas à désarmer le piège.}
 {199}{}{ trouve un piège sur la porte.}
 {200}{}{ ne réussit pas à trouver de piège sur la porte.}
 {201}{}{ désactive adroitement le piège.}

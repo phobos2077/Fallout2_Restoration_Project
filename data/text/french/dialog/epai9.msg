@@ -6,4 +6,4 @@
 {105}{}{Tu n'as pas réussi à déverrouiller la porte.}
 {106}{}{La serrure est bloquée maintenant.}
 {107}{}{La porte est maintenant verrouillée.}
-{108}{}{Tu n'as pas réussi à verrouiller la porte.}
+{108}{}{Tu ne parviens pas à fermer la porte à clé.}
