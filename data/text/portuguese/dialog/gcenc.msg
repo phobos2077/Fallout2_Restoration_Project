@@ -1,1 +1,1 @@
-{100}{}{You get no response from the guard.}
+{100}{}{Você não obtém resposta do guarda.}

@@ -27,7 +27,7 @@
 {217}{}{as perdu le reste de tes munitions}
 {218}{}{a tiré un coup foireux}
 {219}{}{t'es blessée}
-{220}{}{a été touchée au hasard}
+{220}{}{a été touché au hasard}
 {221}{}{a estropié un membre au hasard}
 {222}{}{a été criblée de plombs}
 {250}{}{sonnée}
@@ -50,7 +50,7 @@
 {267}{}{as perdu le reste de tes munitions}
 {268}{}{a tiré un coup foireux}
 {269}{}{t'es blessée}
-{270}{}{a été touchée au hasard}
+{270}{}{a été touché au hasard}
 {271}{}{a estropié un membre au hasard}
 {272}{}{a été criblée de plombs}
 {300}{}{sonnée}
@@ -73,7 +73,7 @@
 {317}{}{a perdu le reste de ses munitions}
 {318}{}{a tiré un coup foireux}
 {319}{}{s'est blessé}
-{320}{}{a été touchée au hasard}
+{320}{}{a été touché au hasard}
 {321}{}{a estropié un membre au hasard}
 {322}{}{a été criblée de plombs}
 {400}{}{sonnée}
@@ -96,79 +96,79 @@
 {417}{}{a perdu le reste de ses munitions}
 {418}{}{a tiré un coup foireux}
 {419}{}{s'est blessée}
-{420}{}{a été touchée au hasard}
+{420}{}{a été touché au hasard}
 {421}{}{a estropié un membre au hasard}
 {422}{}{a été criblée de plombs}
 {506}{}{Tu}
-{509}{}{Oh ! %s as été touchée à la place de %s !}
-{511}{}{%s as été touchée (coup critique) (%s) pour %d points d'impact}
-{512}{}{%s as été touchée (%s) pour %d points d'impact}
-{513}{}{%s as été touchée pour %d points d'impact}
+{509}{}{Oh ! %s as été touché à la place de %s !}
+{511}{}{%s as été touché (coup critique) (%s) pour %d points d'impact}
+{512}{}{%s as été touché (%s) pour %d points d'impact}
+{513}{}{%s as été touché pour %d points d'impact}
 {514}{}{%s a complètement raté}
 {515}{}{%s a raté}
-{520}{}{%s as été touchée (coup critique) pour %d points d'impact}
-{521}{}{%s as été touchée (coup critique) (%s) pour 1 point d'impact}
-{522}{}{%s as été touchée (%s) pour 1 point d'impact}
-{523}{}{%s as été touchée pour 1 point d'impact}
-{524}{}{%s as été touchée (coup critique) pour 1 point d'impact}
-{525}{}{%s as été touchée (coup critique) (%s) mais sans aucun dégât}
-{526}{}{%s as été touchée (%s) sans aucun dégât}
-{527}{}{%s as été touchée sans aucun dégât}
-{528}{}{%s as été touchée (coup critique) mais sans aucun dégât}
+{520}{}{%s as été touché (coup critique) pour %d points d'impact}
+{521}{}{%s as été touché (coup critique) (%s) pour 1 point d'impact}
+{522}{}{%s as été touché (%s) pour 1 point d'impact}
+{523}{}{%s as été touché pour 1 point d'impact}
+{524}{}{%s as été touché (coup critique) pour 1 point d'impact}
+{525}{}{%s as été touché (coup critique) (%s) mais sans aucun dégât}
+{526}{}{%s as été touché (%s) sans aucun dégât}
+{527}{}{%s as été touché sans aucun dégât}
+{528}{}{%s as été touché (coup critique) mais sans aucun dégât}
 {533}{}{%s a complètement raté sa cible et a pris 1 point d'impact}
 {534}{}{%s a raté sa cible et a pris %d points d'impact}
 {556}{}{Tu}
-{559}{}{Oh ! %s as été touchée à la place de %s !}
-{561}{}{%s as été touchée (coup critique) (%s) pour %d points d'impact}
-{562}{}{%s as été touchée (%s) pour %d points d'impact}
-{563}{}{%s as été touchée pour %d points d'impact}
+{559}{}{Oh ! %s as été touché à la place de %s !}
+{561}{}{%s as été touché (coup critique) (%s) pour %d points d'impact}
+{562}{}{%s as été touché (%s) pour %d points d'impact}
+{563}{}{%s as été touché pour %d points d'impact}
 {564}{}{%s a complètement raté}
 {565}{}{%s a raté}
-{570}{}{%s as été touchée (coup critique) pour %d points d'impact}
-{571}{}{%s as été touchée (coup critique) (%s) pour 1 point d'impact}
-{572}{}{%s as été touchée (%s) pour 1 point d'impact}
-{573}{}{%s as été touchée pour 1 point d'impact}
-{574}{}{%s as été touchée (coup critique) pour 1 point d'impact}
-{575}{}{%s as été touchée (coup critique) (%s) mais sans aucun dégât}
-{576}{}{%s as été touchée (%s) sans aucun dégât}
-{577}{}{%s as été touchée sans aucun dégât}
-{578}{}{%s as été touchée (coup critique) mais sans aucun dégât}
+{570}{}{%s as été touché (coup critique) pour %d points d'impact}
+{571}{}{%s as été touché (coup critique) (%s) pour 1 point d'impact}
+{572}{}{%s as été touché (%s) pour 1 point d'impact}
+{573}{}{%s as été touché pour 1 point d'impact}
+{574}{}{%s as été touché (coup critique) pour 1 point d'impact}
+{575}{}{%s as été touché (coup critique) (%s) mais sans aucun dégât}
+{576}{}{%s as été touché (%s) sans aucun dégât}
+{577}{}{%s as été touché sans aucun dégât}
+{578}{}{%s as été touché (coup critique) mais sans aucun dégât}
 {583}{}{%s a complètement raté sa cible et a pris 1 point d'impact}
 {584}{}{%s a raté sa cible et a pris %d points d'impact}
-{608}{}{Oh ! %s a été touchée à ta place !}
-{609}{}{Oh ! %s a été touchée à la place de %s !}
-{611}{}{%s a été touchée (coup critique) (%s) pour %d points d'impact}
-{612}{}{%s a été touchée (%s) pour %d points d'impact}
-{613}{}{%s a été touchée pour %d points d'impact}
+{608}{}{Oh ! %s a été touché à ta place !}
+{609}{}{Oh ! %s a été touché à la place de %s !}
+{611}{}{%s a été touché (coup critique) (%s) pour %d points d'impact}
+{612}{}{%s a été touché (%s) pour %d points d'impact}
+{613}{}{%s a été touché pour %d points d'impact}
 {614}{}{%s a complètement raté}
 {615}{}{%s a raté}
-{620}{}{%s a été touchée (coup critique) pour %d points d'impact}
-{621}{}{%s a été touchée (coup critique) (%s) pour 1 point d'impact}
-{622}{}{%s a été touchée (%s) pour 1 point d'impact}
-{623}{}{%s a été touchée pour 1 point d'impact}
-{624}{}{%s a été touchée (coup critique) pour 1 point d'impact}
-{625}{}{%s a été touchée (coup critique) (%s) mais sans aucun dégât}
-{626}{}{%s a été touchée (%s) sans aucun dégât}
-{627}{}{%s a été touchée sans aucun dégât}
-{628}{}{%s a été touchée (coup critique) mais sans aucun dégât}
+{620}{}{%s a été touché (coup critique) pour %d points d'impact}
+{621}{}{%s a été touché (coup critique) (%s) pour 1 point d'impact}
+{622}{}{%s a été touché (%s) pour 1 point d'impact}
+{623}{}{%s a été touché pour 1 point d'impact}
+{624}{}{%s a été touché (coup critique) pour 1 point d'impact}
+{625}{}{%s a été touché (coup critique) (%s) mais sans aucun dégât}
+{626}{}{%s a été touché (%s) sans aucun dégât}
+{627}{}{%s a été touché sans aucun dégât}
+{628}{}{%s a été touché (coup critique) mais sans aucun dégât}
 {633}{}{%s a complètement raté sa cible et a pris 1 point d'impact}
 {634}{}{%s a raté sa cible et a pris %d points d'impact}
-{708}{}{Oh ! %s a été touchée à ta place !}
-{709}{}{Oh ! %s a été touchée à la place de %s !}
-{711}{}{%s a été touchée (coup critique) (%s) pour %d points d'impact}
-{712}{}{%s a été touchée (%s) pour %d points d'impact}
-{713}{}{%s a été touchée pour %d points d'impact}
+{708}{}{Oh ! %s a été touché à ta place !}
+{709}{}{Oh ! %s a été touché à la place de %s !}
+{711}{}{%s a été touché (coup critique) (%s) pour %d points d'impact}
+{712}{}{%s a été touché (%s) pour %d points d'impact}
+{713}{}{%s a été touché pour %d points d'impact}
 {714}{}{%s a complètement raté}
 {715}{}{%s a raté}
-{720}{}{%s a été touchée (coup critique) pour %d points d'impact}
-{721}{}{%s a été touchée (coup critique) (%s) pour 1 point d'impact}
-{722}{}{%s a été touchée (%s) pour 1 point d'impact}
-{723}{}{%s a été touchée pour 1 point d'impact}
-{724}{}{%s a été touchée (coup critique) pour 1 point d'impact}
-{725}{}{%s a été touchée (coup critique) (%s) mais sans aucun dégât}
-{726}{}{%s a été touchée (%s) sans aucun dégât}
-{727}{}{%s a été touchée sans aucun dégât}
-{728}{}{%s a été touchée (coup critique) mais sans aucun dégât}
+{720}{}{%s a été touché (coup critique) pour %d points d'impact}
+{721}{}{%s a été touché (coup critique) (%s) pour 1 point d'impact}
+{722}{}{%s a été touché (%s) pour 1 point d'impact}
+{723}{}{%s a été touché pour 1 point d'impact}
+{724}{}{%s a été touché (coup critique) pour 1 point d'impact}
+{725}{}{%s a été touché (coup critique) (%s) mais sans aucun dégât}
+{726}{}{%s a été touché (%s) sans aucun dégât}
+{727}{}{%s a été touché sans aucun dégât}
+{728}{}{%s a été touché (coup critique) mais sans aucun dégât}
 {733}{}{%s a complètement raté sa cible et a pris 1 point d'impact}
 {734}{}{%s a raté sa cible et a pris %d points d'impact}
 {1110}{}{la tête}

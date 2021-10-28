@@ -1,20 +1,20 @@
-{100}{}{Halt, mutant wastelander! We are searching the area for an enemy of the Enclave. Identify yourself immediately.}
-{101}{}{Who are you calling a mutant, asshole? You want an enemy? You've got one -- right here.}
-{102}{}{Look, I'm just a simple traveler. I've never even heard of the Enclave. This person you're looking for must be pretty dangerous, because you guys look like you mean business.}
-{103}{}{That's enough for me. Kill him.}
-{104}{}{Oh, this will be fun!}
-{105}{}{Oh yeah, they're dangerous alright, and we suspect them to be fleeing Gecko. For all we know, you're the one we're looking for.}
-{106}{}{Well I'm sure glad I'm not, because you don't look like anyone I'd want to mess with. But listen, if there's a dangerous person on the loose around here, I should really be getting back to my family so I can warn them.}
-{107}{}{All right, I give up. Let's party!}
-{108}{}{You're not going anywhere just yet. Have you ever been to Gecko?}
-{109}{}{Yeah, of course I have. Lovely place. I mean, the locals are hideous and it kinda smells and there's all that radiation and stuff, but it sure is fun to mess around on the computers. Ha! You should have been there when I was messing with this one jackass--you know, he looked a lot like you fellas.}
-{110}{}{Gecko? Hell no, this is as close as I get. Don't you know that place is full of them ugly-ass ghouls? Why do you ask?}
-{111}{}{OK, I believe you. Fan out, men. Search the area. We gotta find this person.}
-{112}{}{No. I don't believe you. This is our man, boys!}
-{113}{}{No. I don't believe you. This is our woman, boys!}
-{114}{}{Whoa! Whoa! Just hold on a second. Why don't you believe me? What am I supposed to have done?}
-{115}{}{Somebody hacked into the Enclave computer network from the Poseidon Oil Reactor. We're trying to track him down.}
-{116}{}{Hacked into it!? Well, that couldn't have been me. I'm just a tribal. Hell, I don't even know how to use a -- what did you call it? Kom-pu-tor?}
-{200}{}{Gecko? Hell no, this is as close as I get. Don't you know that place is full of them ugly-ass ghouls? It's bad enough that I have to watch over my Uncle Lenny, here. Why do you ask?}
+{100}{}{Pare, mutante selvagem! Estamos procurando na área por um inimigo da Enclave. Identifique-se imediatamente.}
+{101}{}{Quem você está chamando de mutante, idiota? Você quer um inimigo? Você tem um - bem aqui.}
+{102}{}{Olha, sou apenas um simples viajante. Nunca ouvi falar de Enclave. Essa pessoa que você está procurando deve ser muito perigosa, porque vocês parecem estar falando sério.}
+{103}{}{Isso é o suficiente para mim. Mate ele.}
+{104}{}{Oh, isso parece ser divertido!}
+{105}{}{Sim, eles são perigosos, sim, e suspeitamos que estejam fugindo do Gecko. Pelo que sabemos, você é quem estamos procurando.}
+{106}{}{Bem, estou feliz de não ser, porque você não se parece com ninguém com quem eu gostaria de mexer. Mas escute, se houver uma pessoa perigosa à solta por aqui, eu realmente deveria voltar para minha família para avisá-los.}
+{107}{}{Tudo bem, eu desisto. Vamos começar a festa!}
+{108}{}{Você não vai a lugar nenhum. Você já foi ao Gecko?}
+{109}{}{Sim, claro que sim. Belo lugar. Quero dizer, os habitantes locais são horríveis e meio que fedem, e há toda aquela radiação e outras coisas, mas com certeza é legal mexer nos computadores. Ha! Você deveria estar lá quando eu estava brincando com esse idiota - você sabe, ele se parecia muito com vocês.}
+{110}{}{Gecko? Claro que não, isso é o mais perto que eu chego. Você não sabe que aquele lugar está cheio de ghouls horríveis? Por que você pergunta?}
+{111}{}{OK eu acredito em você. Espalhem-se, homens. Procure na área. Temos que encontrar essa pessoa.}
+{112}{}{Não. Eu não acredito em você. Este é o nosso homem, homens!}
+{113}{}{Não. Eu não acredito em você. Essa é a nossa mulher, homens!}
+{114}{}{Opa! Opa! Espere um segundo. Por que você não acredita em mim? O que eu fiz pra você?}
+{115}{}{Alguém invadiu a rede de computadores Enclave Reator Poseidon. Estamos tentando localizá-lo.}
+{116}{}{Invadido!? Ah, não poderia ter sido eu. Eu sou apenas um tribal. Cara, eu nem sei como usar um - como você chamou isso? Kom-puta-tor?}
+{200}{}{Gecko? Deus, não, isso é o mais perto que eu chego. Você não sabe que aquele lugar está cheio de ghouls horríveis? Já é ruim ter que cuidar do meu tio Lenny aqui. Por que você pergunta?}
 {201}{}{Urgh?}
-{202}{}{Me kill baddies!}
+{202}{}{Eu mato vilões!}

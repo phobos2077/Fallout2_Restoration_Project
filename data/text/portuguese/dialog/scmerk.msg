@@ -70,7 +70,7 @@
 {169}{}{Deal.}
 {170}{}{No, I can't do that to a friend.}
 {171}{}{Looks like we can do business, friend. Here's the deal - there's a loopy scientist in town - Dr. Henry. He's got some papers I'd like. I'll pay $1000 for them. Oh, and I don't want no harm to come to Dr Henry. He's useful alive. Interested? }
-{172}{}{I'm on it.}
+{172}{}{Eu estou trabalhando nisso.}
 {173}{}{Nope, not my style.}
 {174}{}{Knowledge costs you. Am I clear?}
 {175}{}{"The price of wisdom is above rubies."}

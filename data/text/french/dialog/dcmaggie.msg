@@ -16,7 +16,7 @@
 {163}{}{J'y vais.}
 {164}{}{Sorry, no offense was meant. Can I ask something?}
 {165}{}{Drink of whiskey is $5 and the gambling tables are right over there. Have a good one.}
-{166}{}{Can I ask a question?}
+{166}{}{Puis-je te poser une question ?}
 {167}{}{I want a drink!}
 {168}{}{Hmm, those are some cheap drinks. Let’s see one.}
 {169}{}{Merci. Au revoir.}
@@ -42,7 +42,7 @@
 {189}{}{Here’s the money.}
 {190}{}{Changed my mind.}
 {191}{}{I’m a little short of cash. Can I have a tab?}
-{192}{}{Can I ask a question?}
+{192}{}{Puis-je te poser une question ?}
 {193}{}{Gotta go.}
 {194}{}{Here’s the drink. Anything else?}
 {195}{}{Question?}
@@ -65,7 +65,7 @@
 {213}{}{How about a drink?}
 {214}{}{Gotta run. See ya.}
 {215}{}{Not now. Maybe later. Yes, definitely later.}
-{216}{}{Can I ask a question?}
+{216}{}{Puis-je te poser une question ?}
 {217}{}{Later then.}
 {218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno gangsters.}
 {219}{}{Smart girl! I like that!}

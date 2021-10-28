@@ -1,4 +1,4 @@
-{100}{}{You descend down a rusted ladder inside the submarine. The interior is dark, lit only by the dull light of the
- few working monitors. The air is bad, filled with the stench of rust and decay. You feel surrounded and uneasy.}
-{101}{}{You descend down a rusted ladder inside the submarine. The interior is dark, lit only by the dull light of the
- few working monitors. The air is bad, filled with the stench of rust and decay. You feel almost like at home.}
+{100}{}{Você desce por uma escada enferrujada dentro do submarino. O interior está escuro, iluminado apenas pela luz opaca dos
+ poucos monitores de trabalho. O ar está ruim, cheio de fedor de ferrugem e decomposição. Você se sente cercado e inquieto.}
+{101}{}{Você desce por uma escada enferrujada dentro do submarino. O interior está escuro, iluminado apenas pela luz opaca dos
+ poucos monitores de trabalho. O ar está ruim, com fedor de ferrugem e decomposição. Você se sente quase como em casa.}

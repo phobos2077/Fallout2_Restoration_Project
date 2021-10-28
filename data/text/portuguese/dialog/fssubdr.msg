@@ -1,1 +1,1 @@
-{100}{}{This door is completely rusted over. There's no way to open it.}
+{100}{}{Esta porta está completamente enferrujada. Não há como abri-la.}

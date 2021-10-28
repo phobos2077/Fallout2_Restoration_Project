@@ -1,9 +1,9 @@
-{100}{}{You see a keyless entry system. A sign reads "Use Tanker Fob Here"}
-{101}{}{You see a keyless entry system. A sign reads "Use Tanker Fob Here"}
-{102}{}{This console has a black plate attached to it with a red light at the top. A sign reads "Use Tanker Fob Here"}
-{103}{}{This console has a black plate attached to it with a green light at the top. A sign reads "Use Tanker Fob Here"}
-{104}{}{[click] The light on the black panel turns green.}
-{105}{}{[click] The light on the black panel turns red.}
+{100}{}{Você vê um sistema de entrada sem chave. Uma placa diz "Use o tanque FOB aqui"}
+{101}{}{Você vê um sistema de entrada sem chave. Uma placa diz "Use o tanque FOB aqui"}
+{102}{}{Este console tem uma placa preta presa a ele com uma luz vermelha na parte superior. Uma placa diz "Use o tanque FOB aqui"}
+{103}{}{Este console tem uma placa preta presa a ele com uma luz verde na parte superior. Uma placa diz "Use o tanque FOB aqui"}
+{104}{}{[clique] A luz no painel preto fica verde.}
+{105}{}{[clique] A luz no painel preto fica vermelha.}
 {106}{}{Nada acontece.}
-{107}{}{That doesn't work.}
-{108}{}{It is a remote keyless door system. This usually requires a magnetic key of some sort.}
+{107}{}{Isso não funciona.}
+{108}{}{É um sistema de porta remota sem teclado. Isso geralmente requer algum tipo de chave magnética.}

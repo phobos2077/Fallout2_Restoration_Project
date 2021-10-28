@@ -65,7 +65,7 @@
 {303}{}{Je prendrais bien un verre.}
 {304}{}{Why are your drinks so cheap?}
 {305}{}{Dyer ?}
-{306}{}{Can I ask a question?}
+{306}{}{Puis-je te poser une question ?}
 {307}{}{Salut.}
 {308}{}{Ouik.}
 {309}{}{Urka.}

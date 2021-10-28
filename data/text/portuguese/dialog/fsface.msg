@@ -115,26 +115,26 @@
 {214}{}{Hora de mudar de assunto.}
 {215}{}{Eu... às vezes penso que entendo o sentimento que você chama de solidão. Acho muito... desconcertante. EU...}
 {216}{}{Sinto muito. Vamos falar de outra coisa.}
-{217}{}{I'm sorry, Ace. Let's change the subject.}
-{218}{}{Outward appearances suggest that the Enclave is nothing more than a military organization. However, their level of technology indicates that they have access to advanced manufacturing techniques and research facilities. Such facilities would normally only be available to government agencies. This would suggest that the Enclave is the remnants of the local or federal government that was in effect before the war.}
+{217}{}{Sinto muito, Ace. Vamos mudar de assunto.}
+{218}{}{As aparências sugerem que a Enclave nada mais é do que uma organização militar. No entanto, seu nível de tecnologia indica que eles têm acesso a técnicas avançadas de fabricação e instalações de pesquisa. Normalmente, essas instalações só estariam disponíveis para agências do governo. Isso sugere que a Enclave é o resto do governo local ou federal que estava na ativa antes da guerra.}
 {219}{}{Ok.}
-{220}{}{That's interesting.}
-{221}{}{The Brotherhood of Steel is a paramilitary organization dedicated to the salvation of mankind through the proper use of technology. All other information is classified.}
+{220}{}{Interessante.}
+{221}{}{A Irmandade do Aço é uma organização paramilitar dedicada à salvação da humanidade por meio do uso adequado da tecnologia. O resto das informações é classificado.}
 {222}{}{Voltar.}
-{223}{}{What happened to Matt?}
-{224}{}{Loading sequence...}
-{225}{}{Replay it now.}
-{226}{}{Replay it later.}
-{227}{}{You and your so-called President will not succeed.}
+{223}{}{O que aconteceu com Matt?}
+{224}{}{Carregando sequência...}
+{225}{}{Reproduzir agora.}
+{226}{}{Reproduzir mais tarde.}
+{227}{}{Você e seu suposto presidente não terão sucesso.}
 {228}{}{É isso?}
-{229}{}{The Chosen One has come, and he will rid the world of your evil.}
-{230}{}{I care nothing for your pathetic prophecies. Worse, you have become a nuisance through your meddling. That ends today!}
-{231}{}{Killing me will stop nothing.}
-{232}{}{That may be, but seeing your body rotting on the ground will bring a smile to my face.}
-{233}{}{What do you think you're doing now?}
-{234}{}{HA HA HA! You pathetic fool! HA HA HA!}
-{235}{}{Wow, I haven't laughed like that for a while. Anyway, get ready to die.}
+{229}{}{O Escolhido chegou e livrará o mundo de sua maldade.}
+{230}{}{Não me importo com suas profecias patéticas. E mais, você agora é um estorvo por causa de sua intromissão. Isso acaba hoje!}
+{231}{}{Me matar não adiantará em nada.}
+{232}{}{Pode ser, mas ver teu cadáver podre no chão me fará ter um belo sorriso no rosto.}
+{233}{}{O que você pensa que está fazendo agora?}
+{234}{}{HA HA HA! Você é um grande bosta mole! HA HA HA!}
+{235}{}{Uau, eu não ria assim faz tempo. Bom, prepare-se para morrer.}
 {236}{}{...peep...}
-{237}{}{Well, it's a little past 12. Anyone up for lunch?}
-{238}{}{Score, I'm there.}
-{239}{}{Yeah, count me in on that.}
+{237}{}{Bem, passa um pouco das 12h. Alguém quer almoçar?}
+{238}{}{Ótimo, estou indo.}
+{239}{}{Boa, pode contar comigo.}

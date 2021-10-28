@@ -1,144 +1,144 @@
-{100}{}{You see a particularly unkempt ghoul.}
-{101}{}{You see Festus, the atomic power plant supervisor.}
-{102}{}{You see a glum looking ghoul with a particularly rancid appearance. He smells like an
- infected wound.}
-{110}{}{Aren't you just as stupid as they get? Hah, hah, hah.}
-{111}{}{Are you dumb or what? Hah, hah, hah. You look just like a Vault City person.}
-{112}{}{Well, you're pretty dumb, aren't you? You should head on over to Vault City.}
-{113}{}{I just have so many important things to do. Why don't you get back to Vault City, where you belong?}
-{114}{}{Hah, hah, hah. You just have such a stupid look on your face.}
-{120}{}{Hello there. I'm Festus. I run the whole reactor. Without me, this whole town would be shut
- down. I'm a very busy man. They really overwork me here.}
-{121}{}{I've got so much to do here. I could really use a break. But, you know, nobody else can run the
- atomic power plant. I'm harnessing the power of the atom, you know. Really tires a fellow out.}
+{100}{}{Você vê um ghoul particularmente despenteado.}
+{101}{}{Você vê Festus, o supervisor da usina atômica.}
+{102}{}{Você vê um ghoul de aparência aborrecida, particularmente rançosa. Ele cheira como uma
+ ferida infectada.}
+{110}{}{Você não é tão estúpido quanto eles? Hah, hah, hah.}
+{111}{}{Você é burro ou o quê? Hah, hah, hah. Você se parece com uma pessoa de Vault City.}
+{112}{}{Bem, você é bem burro, né? Deveria ir para Vault City.}
+{113}{}{Eu tenho tantas coisas importantes para fazer. Por que você não volta para Vault City, de onde você é?}
+{114}{}{Hah, hah, hah. Pensa numa cara de idiota que você tem.}
+{120}{}{Olá. Eu sou o Festus. Eu dirijo todo o reator. Sem mim, esta cidade inteira estaria fechada.
+ Sou um homem muito ocupado. Eles realmente me sobrecarregam aqui.}
+{121}{}{Tenho muito o que fazer aqui. Eu realmente gostaria de uma folga. Mas, você sabe, ninguém mais pode executar a
+ usina atômica. Estou controlando o poder do átomo, você sabe. Cansa demais.}
 {122}{}{O que você faz aqui?}
-{123}{}{I understand that the reactor isn't running very well. Is that true?}
-{124}{}{Why do you look -- and smell -- as though you're falling apart?}
-{125}{}{Well, I wouldn't want to take up your valuable time. I'll just be on my way. Goodbye.}
-{130}{}{I sure have the reactor running smoothly now. I'm just that good.}
-{131}{}{The reactor's running pretty good now, all right. Could still do with a tiny bit of a tuneup mebbe, but I'd say it's a pretty good job all the same.}
-{132}{}{More work? What do you mean?}
-{133}{}{Well, nothing's ever perfect. Goodbye, Festus.}
-{141}{}{Well, I supervise the atomic power plant. Really, though, I run the whole thing by myself.}
-{142}{}{Yup, I run the whole thing -- in a supervisory capacity. All by myself. It would be impossible if
- I just weren't so darn good at it. It's a gift, really...}
-{143}{}{By yourself? What are all those other people in the next room doing then?}
-{144}{}{You must know quite a bit about atomic power, then.}
-{145}{}{Well, I don't want to keep you from your work. Goodbye.}
-{150}{}{Wastrels. That's all they are. They don't really understand what needs to be done. They're just
- placeholders. It irks me that they think they know something about atomic power plants. Why, if it
- weren't for me...}
-{151}{}{Hmm. What did you say you do here?}
-{152}{}{Ah, yes. Well, I'd better be going now. Goodbye.}
-{160}{}{Know about atomic power? Well, I almost invented it. I know more about atomic power than anyone
- alive. If it's atomic power -- I'm your man.}
-{161}{}{Hmm. What did you say you do here?}
-{162}{}{Ah, yes. Well, I'd better be going now. Goodbye.}
-{170}{}{You know, I really do run the whole thing. It's pretty tough. But I do have many years of
- experience. I'm all pro when it comes to running atomic power plants.}
-{171}{}{You must be very good at your job.}
-{172}{}{I'm sure you are. Uh, I better be going now. Goodbye.}
-{180}{}{Most people think it's easy. They think that just anyone can run an atomic reactor. But it's
- not for the untrained or faint of heart. I'm harnessing the power of the atom here!}
-{181}{}{I'm impressed.}
-{182}{}{Well, I wouldn't want to keep you. Goodbye.}
-{190}{}{It sure would be nice to have some help. But, you see, no one else is qualified to do what I do.
- They don't even understand the basics of what I do.}
-{191}{}{How could anyone hope to keep up with you?}
-{192}{}{You're really special, no doubt about it. Goodbye.}
-{200}{}{You know I am. I can tell that you really understand things like this. If I weren't so busy here
- I'd run Gecko. And let me tell you, I'd run it right.}
-{201}{}{You'd run the town, too?}
-{202}{}{Arrrrrgh! I'm leaving now. I am. Don't try to stop me. Goodbye!}
-{210}{}{Well, there wouldn't be any of this trading with Broken Hills for uranium ore. We'd just trade
- them power for it, instead. They could run their city using the power of the atom.}
-{211}{}{Wouldn't you have to run powerlines across miles and miles of hazardous desert?}
-{212}{}{Do you smell something? Something foul? I better leave. Goodbye.}
-{220}{}{Well, I suppose so. Then we'd have them buy giant batteries from us. Yes, that's the beauty of
- it. Then they'd have to buy the batteries from us, too. And that's just to start; I have other big
- plans, like...}
-{221}{}{You're a politician, too? It's incredible that your talents cover such diverse fields.}
-{222}{}{Is something rotting in here? I think I need some fresh air. Goodbye.}
-{230}{}{I'm just multi-faceted. Really, I'm very good at whatever I try. Seldom is there anyone better.
- Of course, I just happen to prefer running the atomic power plant. But, if I wanted to, I could do
- anything else.}
-{231}{}{I can't believe that everyone in Gecko doesn't see your true worth. I'm going to go tell them
- right now. Goodbye.}
-{232}{}{Must break free. Strength fading. Must leave.}
-{240}{}{What brings you to this part of my atomic reactor?}
-{241}{}{Well, I have a part that you can use to fix the reactor.}
+{123}{}{Eu entendo que o reator não está funcionando muito bem. Isso é verdade?}
+{124}{}{Por que você parece -- e cheira -- como se estivesse se desfazendo?}
+{125}{}{Bem, eu não gostaria de tomar seu valioso tempo. Eu vou embora. Adeus.}
+{130}{}{Tenho certeza que o reator está funcionando perfeitamente bem. Eu sou muito bom.}
+{131}{}{O reator está funcionando muito bem agora, certo. Ainda poderia ser um pouco melhorado, mas eu diria que é um trabalho muito bom de qualquer forma.}
+{132}{}{Mais trabalho? O que você quer dizer?}
+{133}{}{Bem, nada nunca é perfeito. Adeus, Festus.}
+{141}{}{Então, eu supervisiono a usina atômica. Na verdade, porém, eu cuido de tudo sozinho.}
+{142}{}{Sim, eu dirijo a coisa toda - no nível de supervisão. Sozinho. Seria impossível se
+ eu simplesmente não fosse tão bom nisso. É um privilégio, claro...}
+{143}{}{Você faz tudo? O que todas as outras pessoas na sala ao lado estão fazendo então?}
+{144}{}{Você deve saber um pouco sobre a energia atômica, então.}
+{145}{}{Bem, não quero te distrair no trabalho. Adeus.}
+{150}{}{Vagabundos. Isso é tudo que eles são. Eles realmente não entendem o que precisa ser feito. Eles são apenas
+ peso morto. Me irrita que eles pensam que sabem algo sobre usinas atômicas. Por que, se não
+ fosse por mim...}
+{151}{}{Hmm. O que você disse que faz aqui?}
+{152}{}{Ah sim. Bem, é melhor eu ir agora. Adeus.}
+{160}{}{Conhece a energia atômica? Bem, quase inventei. Eu sei mais sobre energia atômica do que qualquer um
+ vivo. Se for sobre energia atômica - eu sou o homem.}
+{161}{}{Hmm. O que você disse que faz aqui?}
+{162}{}{Ah sim. Bem, é melhor eu ir agora. Adeus.}
+{170}{}{Você sabe, eu realmente comando a coisa toda. É muito difícil. Mas eu tenho muitos anos de
+ experiência. Sou totalmente profissional quando se trata de operar usinas atômicas.}
+{171}{}{Você deve ser muito bom no seu trabalho.}
+{172}{}{Eu tenho certeza que você é. Uh, é melhor eu ir agora. Adeus.}
+{180}{}{A maioria das pessoas acha que é fácil. Eles acham que qualquer um pode operar um reator atômico. Mas não
+ é para os destreinados ou fracos de coração. Estou controlando o poder do átomo aqui!}
+{181}{}{Estou impressionado.}
+{182}{}{Bem, eu não gostaria de mantê-lo. Adeus.}
+{190}{}{Com certeza seria bom ter alguma ajuda. Mas, você vê, ninguém mais está qualificado para fazer o que eu faço.
+ Eles nem mesmo entendem o básico.}
+{191}{}{Como alguém poderia acompanhar você?}
+{192}{}{Você é realmente especial, sem dúvida. Adeus.}
+{200}{}{Você sabe que eu sou. Posso dizer que você realmente entende essas coisas. Se eu não estivesse tão ocupado aqui
+ eu cuidaria do Gecko. E deixe-me dizer, eu faria muito bem.}
+{201}{}{Você comandaria a cidade também?}
+{202}{}{Arrrrrgh! Estou saindo. Eu sou. Não tente me impedir. Adeus!}
+{210}{}{Bem, não teríamos nenhum comércio de urânio com Broken Hills. Em vez disso,
+ nós trocaríamos por poder. Eles poderiam governar sua cidade usando o poder do átomo.}
+{211}{}{Você não teria que passar linhas de transmissão por quilômetros e quilômetros pelo deserto perigoso?}
+{212}{}{Você está cheirando alguma coisa? Algo sujo? É melhor eu ir embora. Adeus.}
+{220}{}{Bem, suponho que sim. Então, faríamos com que comprassem baterias gigantes de nós. Sim, essa é a beleza 
+ disso. Então, eles teriam que comprar as baterias de nós também. E isso é só para começar; Eu tenho outros grandes
+ planos, tipo...}
+{221}{}{Você também é político? É incrível que como seus talentos cobrem campos tão diversos.}
+{222}{}{Está algo apodrecendo aqui? Acho que preciso de um pouco de ar fresco. Adeus.}
+{230}{}{Eu sou multifacetado. Sério, sou muito bom em tudo que tento. Raramente há alguém melhor.
+ Claro, eu simplesmente prefiro operar a usina atômica. Mas, se eu quisesse, eu poderia fazer
+ qualquer coisa.}
+{231}{}{Eu não posso acreditar que todo mundo no Gecko não vê seu verdadeiro valor. Eu vou dizer a eles
+ agora mesmo. Adeus.}
+{232}{}{Tem que se libertar. Desaparecer. Sair.}
+{240}{}{O que o traz a esta parte do meu reator atômico?}
+{241}{}{Bem, eu tenho uma peça que você pode usar para consertar o reator.}
 {242}{}{Hã, eu só estava dando uma olhada por aqui. Tchau.}
-{250}{}{You know, I'm not so sure that this is the right part after all. Maybe you should take it back
- to Vault City to check. I don't think I can help you with this, after all.}
-{251}{}{I'm sure it's the right part. I have great confidence in your abilities.}
-{252}{}{I guess you're right. I better find another way to install the part.}
-{260}{}{I don't think that those people in Vault City really like us all that much. I wouldn't put it
- past them to booby-trap this part. Maybe it only looks like the right part, and it's really a bomb!
- You can't fool me that easily. I'm not installing this thing.}
-{261}{}{With your technical expertise, if it were a bomb, you would already know it. Please just
- install the part.}
-{262}{}{I guess you're right. I better find another way to install the part.}
-{270}{}{Okay, I'm here. But I'm still not sure that this isn't the right part, or that it's not a trap
- somehow. You know, I'm much too valuable to waste. Maybe I should just let someone else do this...
- later... much later.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
-{272}{}{I guess you're right. I better find another way to install the part.}
-{300}{}{Well, it sure uses a lot of uranium. And it leaks some. You know, I've asked somebody to fix it,
- but no one listens to me.}
-{301}{}{I've heard that it's leaking radiation into the groundwater. Is that true?}
-{302}{}{I thought you were the expert. Why don't you fix it? Just what do you do here anyway?}
-{310}{}{Well, that's possible, but I don't think it would do any harm to anything. It's underground,
- after all.}
-{311}{}{I think you may be wrong. Vault City's been complaining that your atomic reactor has been
- tainting their water with radiation.}
+{250}{}{Sabe, não tenho certeza se essa é a parte certa, afinal. Talvez você devesse voltar 
+ para Vault City e verificar. Não acho que posso ajudá-lo com isso, afinal.}
+{251}{}{Tenho certeza de que é a parte certa. Tenho grande confiança em suas habilidades.}
+{252}{}{Acho que você está certo. É melhor eu encontrar outra maneira de instalar a peça.}
+{260}{}{Eu não acho que aquelas pessoas em Vault City realmente gostem de nós. Eu não instalaria isso 
+ achando que é uma armadilha. Talvez até pareça a parte certa, mas é realmente uma bomba!
+ Você não pode me enganar tão facilmente. Não vou instalar isso.}
+{261}{}{Com sua experiência técnica, se fosse uma bomba, você já saberia. Por favor, apenas
+ instale a peça.}
+{262}{}{Acho que você está certo. É melhor eu encontrar outra maneira de instalar a peça.}
+{270}{}{Ok. Mas ainda não tenho certeza se essa é a parte certa, ou se é algum tipo de
+ armadilha. Sabe, sou valioso demais para ser desperdiçado. Talvez eu deva deixar outra pessoa fazer isso...
+ mais tarde... muito mais tarde.}
+{271}{}{Precisa ser feito agora. E você é a única pessoa que pode fazer isso certo. Vamos lá, Gecko inteiro
+ depende de você!}
+{272}{}{Acho que você está certo. É melhor eu encontrar outra maneira de instalar a peça.}
+{300}{}{Bem, com certeza usa muito urânio. E vaza um pouco. Você sabe, eu pedi a alguém para consertar,
+ mas ninguém me escuta.}
+{301}{}{Ouvi dizer que está vazando radiação para as águas subterrâneas. É verdade?}
+{302}{}{Achei que você fosse o especialista. Por que você não conserta isso? Afinal, o que você faz aqui?}
+{310}{}{Bem, isso é possível, mas não acho que faria mal a ninguém. É subterrâneo,
+ apesar de tudo.}
+{311}{}{Eu acho que você pode estar errado. Vault City está reclamando que seu reator atômico está
+ contaminando sua água com radiação.}
 {312}{}{Bem, se você está dizendo. Tchau.}
-{320}{}{Not possible. No one would know more about it than me. They're just looking for someone to blame
- for their problem. We don't even draw from the same aquifer.}
-{321}{}{You sound sure. But so did they.}
-{330}{}{Well, they're just a bunch of amateurs when it comes to atomic power. I'm the real expert here.
- You can take what I say to the bank. If there were any banks left, that is.}
-{331}{}{Well, I guess you know what you're talking about. Goodbye.}
-{332}{}{I'm not as sure as you are. Goodbye.}
-{340}{}{You have a spare Hydroelectric Magnetosphere Regulator on you?}
-{341}{}{You actually know what that is?}
-{342}{}{Of course. Are you ready to install it?}
-{350}{}{Surprised? Never doubt my knowledge about atomic power plants. I know everything there is to know about them.}
-{351}{}{Well, since you know what it is, you must know how to install it.}
-{352}{}{I think I've listened to you too much already. Goodbye.}
-{360}{}{Of course I do. Why, that's just plain simple for someone of my experience and talent. I was
- weaned on Magnetosphere Regulators as a pup, you know.}
-{361}{}{That's great. Could you install it for me?}
-{370}{}{Well, I guess I could install it. I'm certainly the only one that could install it right.
- Installing a Hydroelectric Magnetosphere Regulator is pretty tricky.}
-{371}{}{Here's the Regulator. I knew I could count on you.}
-{372}{}{On second thought, I think I'd better find another way. Goodbye.}
-{380}{}{I guess I could install it. But, you know, installing a Hydroelectric Magnetosphere Regulator
- is pretty tricky. And it's dangerous. Not that I'm afraid for myself. But who could run the atomic
- power plant if something were to happen to me? I'm sorry, I can't help you.}
-{381}{}{I should have known you'd chicken out. Goodbye.}
-{390}{}{Can't help you now. I'm too busy.}
-{391}{}{Come back next week. I may have some time then.}
-{392}{}{Uh, you have the wrong part anyway. Yeah, that's it.}
-{393}{}{Sorry, I'm too busy to help you.}
-{394}{}{I can't betray Gecko by endangering myself.}
-{400}{}{Oh yeah. Heh, heh. Sure, it's the right part. It's just, uh, a more primitive model than I'm
- used to. That's all.}
-{401}{}{Good. Then go ahead and install it.}
-{410}{}{I guess they'd know better than to try and fool me with a bomb. I'm certain that they know just
- who they're dealing with here.}
-{411}{}{They spoke of you often in Vault City. Usually in hushed tones of reverence. Now, just install
- the damn part.}
-{420}{}{Okay, that's got it. Hey! I did it. I really am that good.}
-{421}{}{Damn, I'm good.}
-{422}{}{It was difficult, but I did it. I'm a hero.}
-{423}{}{I deserve a raise for the work I do.}
-{424}{}{Gecko sure owes me now.}
-{425}{}{Did you see me out there? Never even faltered.}
+{320}{}{Não é possível. Ninguém saberia mais sobre isso do que eu. Eles estão apenas procurando alguém para culpar
+ para o problema deles. Nem mesmo extraímos do mesmo aquífero.}
+{321}{}{Você parece ter certeza. Mas eles também.}
+{330}{}{Bem, eles são apenas um bando de amadores quando se trata de energia atômica. Eu sou o o cara que manja aqui.
+ Você pode levar o que eu digo ao banco. Se tivesse algum banco sobrando, claro.}
+{331}{}{Bem, acho que você sabe do que está falando. Adeus.}
+{332}{}{Não tenho tanta certeza quanto você. Adeus.}
+{340}{}{Você tem um Regulador Hidrelétrico da Magnetosfera sobressalente com você?}
+{341}{}{Você realmente sabe o que é isso?}
+{342}{}{Claro. Você está pronto para instalá-lo?}
+{350}{}{Surpreso? Nunca duvide do meu conhecimento sobre usinas atômicas. Eu sei tudo e um pouco mais sobre eles.}
+{351}{}{Bem, já que você sabe o que é, você deve saber como instalá-lo.}
+{352}{}{Acho que já te escutei demais. Adeus.}
+{360}{}{Claro que eu faço. Ora, isso é simples para alguém com minha experiência e talento. eu era
+ desmamado com reguladores da magnetosfera quando era um pirralho, sabe.}
+{361}{}{Isso é ótimo. Você poderia instalá-lo para mim?}
+{370}{}{Bem, acho que posso instalá-lo. Certamente sou o único que poderia instalá-lo corretamente.
+ Instalar um regulador hidrelétrico da magnetosfera é bem complicado.}
+{371}{}{Aqui está o regulador. Eu sabia que podia contar com você.}
+{372}{}{Pensando bem, acho melhor encontrar outra maneira. Adeus.}
+{380}{}{Acho que posso instalá-lo. Mas, você sabe, a instalação de um regulador hidroelétrico magnetosfera
+ é muito complicado. E é perigoso. Não que eu tenha medo de mim mesmo. Mas quem poderia comandar a usina 
+ atômica se algo acontecesse comigo? Desculpe, não posso te ajudar.}
+{381}{}{Eu deveria saber que você se ia amarelar. Adeus.}
+{390}{}{Não posso te ajudar agora. Estou muito ocupado.}
+{391}{}{Volte na próxima semana. Posso ter algum tempo sobrando.}
+{392}{}{Ei, você pegou a peça errada de qualquer maneira. Sim, é isso.}
+{393}{}{Desculpe, estou muito ocupado para te ajudar.}
+{394}{}{Não posso trair Gecko me colocando em perigo.}
+{400}{}{Oh sim. Heh heh. Claro, é a parte certa. É apenas, uh, um modelo mais primitivo do que eu
+ estou acostumado. Isso é tudo.}
+{401}{}{Boa. Então vá em frente e instale-o.}
+{410}{}{Eu acho que eles fariam melhor do que tentar me enganar com uma bomba. Tenho certeza de que eles sabem bem
+ com quem estão lidando aqui.}
+{411}{}{Eles falavam de você com frequência em Vault City. Normalmente em tons abafados de reverência. Agora é só instalar
+ a maldita parte.}
+{420}{}{Ok, isso é tudo. Ei! Eu fiz isso. Eu realmente sou bom demais.}
+{421}{}{Rapaz, eu sou ótimo.}
+{422}{}{Foi difícil, mas consegui. Eu sou um herói.}
+{423}{}{Eu mereço um aumento pelo trabalho que faço.}
+{424}{}{Gecko com certeza me deve uma.}
+{425}{}{Você me viu lá fora? Eu nem hesitei.}
 {430}{}{O que você quer?}
-{431}{}{I heard that you take care of parts requisitions and I need one.}
-{432}{}{I just wondered what you do here. }
-{440}{}{You? What do you need one for?}
+{431}{}{Ouvi dizer que você cuida das requisições de peças e preciso de uma.}
+{432}{}{Eu só queria saber o que você faz aqui. }
+{440}{}{Você? Para que você precisa de um?}
 {441}{}{Well, the guys in the other room need it. But I told them I wanted to get it from you just so
  that I could see you in action.}
 {442}{}{I just need one. Come on, be a pal. Just give me one. Okay?}

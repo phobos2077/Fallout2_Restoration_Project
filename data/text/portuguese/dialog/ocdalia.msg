@@ -47,7 +47,7 @@
  want to be out in the open after dark. Off in the distance a ways, I thought I saw a campfire -- so I
  decided to see who was there.}
 {140}{}{Wow.}
-{141}{}{That's interesting.}
+{141}{}{Interessante.}
 {142}{}{When I let you by me in the Squat, I broke my contract with my employer. I was sure that I'd be
  hunted down and killed because of it. Seeing you here convinces me that I don't have to worry about
  that. I can only assume that my previous employer is no longer in any condition to be concerned with me

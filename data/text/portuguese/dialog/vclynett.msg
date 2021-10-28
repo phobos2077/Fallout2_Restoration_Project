@@ -726,7 +726,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {729}{}{No thanks. I'm too busy right now.}
 {730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
 {731}{}{Before I go, I had some other questions...}
-{732}{}{I'm on it.}
+{732}{}{Eu estou trabalhando nisso.}
 {733}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
 {734}{lyn124}{Nevertheless, Vault City will prevail. You have performed a valuable service...
  please accept this token of our appreciation.}
@@ -742,7 +742,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {744}{}{Not yet, First Citizen. I'll return when I've delivered it to Westin.}
 {745}{lyn126}{You will?! Excellent! Take the disk you got from Bishop and hurry. Time is of the essence.}
 {746}{}{Before I go, I had some other questions...}
-{747}{}{I'm on it.}
+{747}{}{Eu estou trabalhando nisso.}
 {748}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
 {749}{lyn127}{Believe me, you will not be disappointed. Now please deliver that holodisk.}
 {750}{}{Before I go, I had some other questions...}
