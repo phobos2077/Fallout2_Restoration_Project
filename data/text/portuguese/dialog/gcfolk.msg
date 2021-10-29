@@ -1,35 +1,35 @@
-{100}{}{You see someone whose skin has been very badly burnt.}
-{101}{}{You see a ghoul citizen of Gecko.}
-{102}{}{You see someone whose skin seems to have been burned with radiation. That much radiation looks
- as though it should have killed it, but it seems well enough.}
-{110}{}{The person you see is glowing faintly. Its skin seems to be badly burnt.}
-{111}{}{You see a Glowing One citizen of Gecko.}
-{112}{}{You see someone who has been exposed to so much radiation that it is glowing faintly.
- That much radiation looks as though it should have killed it, but it seems well enough.}
-{120}{}{Thank you for saving us from Vault City.}
-{121}{}{Those bigots in Vault City would have killed us if it wasn't for you.}
-{122}{}{You're a hero.}
-{123}{}{You can come over to my house for gecko stew anytime.}
-{124}{}{Thanks for repairing our reactor.}
-{125}{}{It feels colder now, but thanks for repairing the leak in our reactor.}
-{126}{}{Thanks for dealing with those bigots in Vault City for us.}
-{127}{}{If you didn't help us, Vault City would have destroyed us.}
-{128}{}{You're our hero.}
+{100}{}{Você vê alguém cuja pele foi gravemente queimada.}
+{101}{}{Você vê um cidadão ghoul de Gecko.}
+{102}{}{Você vê alguém cuja pele parece ter sido afetada com radiação. Tanta radiação deveria
+ tê-lo matado, mas ele parece relativamente bem.}
+{110}{}{A pessoa que você vê está emitindo uma luz fraca. Sua pele parece muito queimada.}
+{111}{}{Você vê um ghoul resplandecente de Gecko.}
+{112}{}{Você vê alguém que foi exposto a tanta radiação que está brilhando fracamente.
+ Essa quantidade de radiação deveria tê-lo matado, mas ele parece relativamente bem.}
+{120}{}{Obrigado por nos salvar de Vault City.}
+{121}{}{Aqueles fanáticos em Vault City teriam nos matado se não fosse por você.}
+{122}{}{Você é um herói.}
+{123}{}{Você pode vir à minha casa para comer um ensopado de lagartixa a hora que quiser.}
+{124}{}{Obrigado por consertar nosso reator.}
+{125}{}{Parece mais frio agora, mas obrigado por consertar o vazamento do nosso reator.}
+{126}{}{Obrigado por nos ajudar com aqueles fanáticos de Vault City por nós.}
+{127}{}{Se você não nos ajudasse, Vault City teria nos destruído.}
+{128}{}{Você é nosso herói.}
 {129}{}{Obrigado novamente.}
 {130}{}{Obrigado por sua ajuda.}
-{131}{}{You're the best. Thanks.}
-{132}{}{Pretty good, for a smoothskin.}
-{140}{}{Hello there, my smoothskined friend.}
-{141}{}{Welcome to Gecko.}
-{142}{}{Hello there, friend.}
-{143}{}{You're not like other smoothskins.}
-{144}{}{See anything interesting out in the wastes?}
+{131}{}{Você é o melhor. Obrigado.}
+{132}{}{Muito bom para um pele lisa.}
+{140}{}{Olá meu amigo de pele lisa.}
+{141}{}{Bem vindo a Gecko.}
+{142}{}{Olá, amigo.}
+{143}{}{Você não como os outros pele lisa.}
+{144}{}{Tem alguma coisa interessante lá pelo deserto?}
 {145}{}{Olá.}
-{146}{}{Howdy, friend.}
-{147}{}{Our atomic reactor makes me glow with pride.}
-{148}{}{We've harnessed the power of the atom here.}
-{149}{}{Someday, others will be able to use our power.}
-{150}{}{I'm glad not all smoothies are like the ones in Vault City. }
+{146}{}{Fala fiote.}
+{147}{}{Nosso reator atômico me faz brilhar de orgulho.}
+{148}{}{Aqui nós dominamos o poder do átomo.}
+{149}{}{Algum dia, outros serão capazes de usar nosso poder.}
+{150}{}{Fico feliz que nem todos os pele lisa sejam como os de Vault City.}
 {151}{}{If Vault City people were like you, we wouldn't have a problem with them.}
 {160}{}{Hmmph, another cheating smoothskin.}
 {161}{}{Heya, smoothy.}

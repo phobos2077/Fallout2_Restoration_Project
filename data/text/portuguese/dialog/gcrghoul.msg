@@ -1,5 +1,5 @@
-{100}{}{You see someone whose skin has been very badly burnt.}
-{101}{}{You see a ghoul citizen of Gecko.}
+{100}{}{Você vê alguém cuja pele foi gravemente queimada.}
+{101}{}{Você vê um cidadão ghoul de Gecko.}
 {102}{}{You see someone whose skin seems to have been burned with radiation. That much radiation looks
  as though it should have killed 'em, but it seems well enough.}
 {110}{}{Hello. Do you need some supplies?}
@@ -32,7 +32,7 @@
 {148}{}{Without this reactor, everyone here would die.}
 {149}{}{Sure hope those Vault City-types don't kill all of us.}
 {150}{}{Thank you, thank you, thank you.}
-{151}{}{Thanks for repairing our reactor.}
+{151}{}{Obrigado por consertar nosso reator.}
 {152}{}{Nossa casa está segura agora, graças a você.}
 {153}{}{Our reactor's purring like a kitten now. Thanks.}
 {154}{}{The reactor is running much better now.}

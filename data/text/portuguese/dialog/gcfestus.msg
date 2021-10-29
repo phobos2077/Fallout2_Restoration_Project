@@ -139,93 +139,93 @@
 {431}{}{Ouvi dizer que você cuida das requisições de peças e preciso de uma.}
 {432}{}{Eu só queria saber o que você faz aqui. }
 {440}{}{Você? Para que você precisa de um?}
-{441}{}{Well, the guys in the other room need it. But I told them I wanted to get it from you just so
- that I could see you in action.}
-{442}{}{I just need one. Come on, be a pal. Just give me one. Okay?}
-{443}{}{I just think you'd better give me one. Working in a power plant, sometimes people have accidents.
- Understand me?}
-{444}{}{I need one for- Hey, isn't that Fershlubiner Widget Activator running in the red?}
-{450}{}{Well, okay. Here's your Part Requisition Form. I guess you have your reasons for needing it.}
-{451}{}{Well, okay. Here's your... Hey? Where'd I put that darn thing? It must be here somewhere... Hmm, I guess
- I can't find it right now. It'll turn up, though.}
+{441}{}{Bem, os caras na outra sala precisam. Mas eu disse que queria pegar de você só 
+ para te ver em ação.}
+{442}{}{Eu só preciso de um. Vamos, seja gente boa. Só me dê um. Certo?}
+{443}{}{Acredito que é melhor você me dar um. Quando se trabalha em uma usina de energia, de vez em quando alguém sofre um acidente.
+ Compreende?}
+{444}{}{Eu preciso de um para - Ei, aquele vermelho piscando é um ativador Fershlubiner como se chama?}
+{450}{}{Beleza. Aqui está seu Formulário de Requisição de Peça. Eu acho que você tem algum motivo para precisar dele.}
+{451}{}{Certo. Aqui está o seu... Ei? Onde eu coloquei aquela porcaria? Devo ter enfiado no... Hmm, acho que 
+ não consigo encontrar agora. Mas ela aparece, acredite.}
 {452}{}{Obrigado. Adeus.}
-{453}{}{Oh, well. Maybe I'll come back later, then. Goodbye.}
-{460}{}{I don't care what you want. Those Part Requisition Forms are for official business only. They
- only entrust them to key personnel. That's why I have them. Get me? Key personnel, only. }
-{461}{}{Yeah, I get you. Goodbye.}
-{462}{}{Well, you'll get yours. Maybe not today, but soon. Goodbye.}
-{470}{}{Uh, well, it's supposed to be that way. I've got plenty of important work to do. If that's all
- you came in for...}
-{471}{}{Well, actually I need a Part Requisition Form.}
+{453}{}{Ah, entendi. Talvez eu volte mais tarde, então. Adeus.}
+{460}{}{Eu não me importo com o que você quer. Esses Formulários de Requisição de Parte são apenas para negócios oficiais. Eles
+ apenas os confiam a pessoal-chave. É por isso que tenho. Me pega? Somente o pessoal-chave.}
+{461}{}{Sim, te entendo. Adeus.}
+{462}{}{Bem, você terá o seu. Talvez não hoje, mas em breve. Adeus.}
+{470}{}{Uh, ok, deveria ser assim. Tenho muito trabalho importante a fazer. Se isso é tudo
+ que você queria...}
+{471}{}{Bem, na verdade eu preciso de um Formulário de Requisição de Peça.}
 {472}{}{Afinal de contas, depois de tudo isso acho que não preciso de mais nada. Tchau.}
-{480}{}{What do you mean? Oh, well, I guess I've been working pretty darn hard lately. Haven't had time
- to really take care of myself the way I should. Maybe the radiation just affects me a little
- differently.}
-{481}{}{Uh, well... maybe you should consider bathing or something, to take care of the funk.}
-{490}{}{Well, I guess I should. Whenever I bathe, though, a lot of my skin sloughs off and all my scabs
- break open. And another thing, my fingernails keep tearing...}
-{491}{}{Hold on! Wait! I think I've heard enough. Uh, let's back up a little.}
-{500}{}{Festus leaves and then comes back. He is still carrying the part.}
+{480}{}{O que você quer dizer? Bem, acho que tenho trabalhado demais ultimamente. Não tive tempo
+ nem para cuidar da minha vida como eu preciso. Talvez a radiação só me afete um pouco
+ diferente.}
+{481}{}{Uh, bem... talvez você devesse tomar um banho ou algo assim, para se cuidar um pouco.}
+{490}{}{Bem, acho sim. Sempre que eu tomo banho, grande parte da minha pele descama e todas as minhas crostas
+ abrem. E outra coisa, minhas unhas continuam rasgando...}
+{491}{}{Espere! Alto! Acho que já ouvi o suficiente. Ei, vamos recuar um pouco.}
+{500}{}{Festus sai e depois volta. Ele ainda está carregando o papel.}
 {510}{}{[Feito]}
-{520}{}{Festus gives you back the part.}
-{530}{}{Festus leaves and then comes back. He looks very pleased about something.}
-{600}{}{I have a reactor data disk that may help you optimize the reactor.}
-{610}{}{Okay, give it to me and I'll see what I can do.}
+{520}{}{Festus te devolve a parte.}
+{530}{}{Festus sai e depois volta. Ele parece bem satisfeito com algo.}
+{600}{}{Tenho um disco de dados do reator que pode ajudá-lo a otimizar o reator.}
+{610}{}{Ótimo, me dê e eu verei o que posso fazer.}
 {620}{}{Aqui está.}
-{630}{}{No, I think I'll keep it for now.}
-{640}{}{Okay. Looks good. Thanks for all your help.}
-{650}{}{Sure. No problem.}
-{700}{}{You convinced Festus to help you with the power plant.}
-{800}{}{I mean that the reactor's running now, but it sure could run better. I mean better by a long country mile, if we jist had a smidge more data. Now if you could
- get the optimization data, we'd be cooking with gas, uh, well, you know what I mean.}
-{801}{}{Optimization data? Where would I get that?}
-{802}{}{Well, you could probably get the information from the Vault City central
- computer.}
-{803}{}{Well, let me see what I can do.}
-{804}{}{Hmm, that's a thought.}
-{805}{}{That's only going to happen when a paper dog successfully chases an asbestos
- cat through hell. Goodbye, Festus.}
-{806}{}{I bet a clever one like you could jist sneak in there and use a
- holodisk with the reactor performance information on the central computer. Then
- sneak the disk right back here. That'd do it. I'd do it myself, but I'm just too
- valuable here to leave, even for a moment.}
-{807}{}{I hate to leave a job only half-done.}
-{808}{}{Hmm, I don't think I could get away with that. Sorry, Festus. Goodbye.}
-{809}{}{That just might work. I guess some of my cleverness is rubbing off on
- you. Good, good. Say, you should prolly bring it to a feller named McClure. From
- what I hear, he's the only one there that'd bend an ear about anything but Vault
- City's precious citizens.}
-{810}{}{Councilman McClure is the man to see. OK, thanks for the tip. I guess I'll do it
- then.}
-{811}{}{Gee, I'd just love to get locked up in Vault City for being a mutie sympathizer. No
- thanks, Festus. You're on your own. Goodbye.}
-{812}{}{That's the spirit. I was a-hopin' you'd say that. Great. Just use this disk here
- on Vault City's central computer and then git it right back here. We'll use less uranium, the
- core won't leak so bad, and this Vault City won't have any reason to come exterminate us.}
-{813}{}{I sure don't want to see Gecko destroyed. I'll do it.}
-{814}{}{I just don't think I'm up to that. Sorry, Festus. Goodbye.}
-{815}{}{I sure wish I could spare the time to go do it myself but I can't. All I can say is
- thanks, kid. You'll be doing all of us here a big favor. (sniff, sniff) You make me so
- proud.}
-{816}{}{Well, I better get going. Goodbye, Festus. I'll be back with the data you need just
- as soon as I can.}
-{817}{}{Don't just lollygag there. Get that data.}
-{818}{}{Don't just stand there. The reactor's not gonna keep workin' forever.}
-{819}{}{Get moving and get that optimization data, like you said you would.}
-{820}{}{Plenty of time to chat *after* we optimize the reactor.}
-{821}{}{Go to Vault City and trade McClure the Econ disk for the reactor data we need. Get
- it?}
-{822}{}{Come on now. Get that disk to McClure.}
-{823}{}{Vault City? Job undone? Ring any bells in that hollow between your ears?}
-{824}{}{Hurry up!}
-{825}{}{Thanks for getting the data we needed from Vault City to optimize this leaky old beast.
- You're a sly one, no denying it, by cracky. Almost as good a job as I could have done myself.
- 'Course... if'n you wanna actually *finish* the dang job, just use that disk on the Robot Control Terminal.
- Understand me? Well, OK then.}
-{826}{}{Well, I didn't like leaving the job only half-done. Goodbye, Festus.}
-{827}{}{Yeah, I bet you would have done it. You festering windbag. Goodbye.}
-{828}{}{You're a peach. There's no doubt about it. I knew you'd do it.}
-{829}{}{You make me so proud.}
-{830}{}{Thanks. Now let me get back to my important work.}
-{831}{}{Keep that up and you may get to be just like me someday.}
+{630}{}{Não, acho que vou ficar com ele por enquanto.}
+{640}{}{OK. Parece bom. Obrigado pela sua ajuda.}
+{650}{}{Claro. Sem problemas.}
+{700}{}{Você convenceu Festus a ajudá-lo com a usina.}
+{800}{}{Quero dizer que o reator está funcionando agora, mas com certeza poderia funcionar melhor. E quero dizer melhor, mas longo, se tivéssemos um pouco mais de dados. Agora, se você pudesse 
+ obter os dados de otimização, cozinharíamos com gás, bem, você sabe o que quero dizer.}
+{801}{}{Dados de otimização? consigo isso?}
+{802}{}{Bom, você provavelmente poderia obter as informações no computador central de
+ Vault City.}
+{803}{}{Bem, vou ver o que posso fazer.}
+{804}{}{Hmm, essa é uma ideia.}
+{805}{}{Isso só vai acontecer quando acharem a taça perdida do mundial do palmeiras
+ de 1951. Adeus, Festus.}
+{806}{}{Aposto que um ser inteligente como você poderia entrar sorrateiramente lá e usar um
+ holodisco com as informações de desempenho do reator no computador central. Depois,
+ trazer o disco de volta pra cá. Isso já basta. Eu faria isso sozinho, mas sou muito
+ valioso aqui para sair, mesmo que por um minuto.}
+{807}{}{Eu odeio deixar qualquer trabalho pela metade.}
+{808}{}{Hmm, Não acho que posso sair daqui com isso. Desculpe, Festus. Adeus.}
+{809}{}{Isso pode funcionar. Eu acho que um pouco da minha inteligência está passando para
+ você. Ótimo. Diga, você deveria levar para um cara chamado McClure. Pelo 
+ que ouvi, ele é o único que daria ouvidos a qualquer coisa, exceto pelos cidadãos
+ de Vault City.}
+{810}{}{O vereador McClure é o homem certo. Ok, obrigado pela dica. Eu acho que vou fazer isso
+ então.}
+{811}{}{Eu adoraria ser preso em Vault City por ser um simpatizante de mutantes. Não
+ valeu, Festus. Você esta sozinho. Falou.}
+{812}{}{Esse é o espírito. Eu esperava que você dissesse isso. Excelente. Apenas use este disco aqui
+ no computador central de Vault City e volte aqui. Usaremos menos urânio, o
+ núcleo não vazará tanto, e esta Vault City não terá nenhuma razão para vir nos exterminar.}
+{813}{}{Tenho certeza que não quero ver o Gecko destruído. Eu faço isso.}
+{814}{}{Eu não acho que estou apto para isso. Desculpe, Festus. Adeus.}
+{815}{}{Eu gostaria de ter tempo para fazer eu mesmo, mas não posso. Tudo que posso dizer é
+ obrigado. Você estará fazendo um grande favor a todos por aqui. (sniff, sniff) Você me deixa muito
+ orgulhoso.}
+{816}{}{Bem, é melhor eu ir andando. Adeus, Festus. Eu voltarei com os dados de que você precisa,
+ assim que eu puder.}
+{817}{}{Não fique por aqui. Obtenha esses dados.}
+{818}{}{Não fique aí parado. O reator não vai continuar funcionando para sempre.}
+{819}{}{Vá em frente e obtenha esses dados de otimização, igual você disse que faria.}
+{820}{}{Teremos tempo para conversar *depois* de otimizar o reator.}
+{821}{}{Vá para Vault City e negocie com McClure sobre o disco para os dados do reator de que precisamos.
+ De acordo?}
+{822}{}{Venha agora. Leve esse disco para o McClure.}
+{823}{}{Vault City? Trabalho desfeito? Existe um buraco nisso entre as duas orelhas?}
+{824}{}{Vai logo!}
+{825}{}{Obrigado por obter os dados de que precisávamos de Vault City para otimizar aquela velha besta.
+ Você é astuto, não há como negar, campeão. Um trabalho quase tão bom quanto eu poderia ter feito sozinho.
+ Claro... se você quiser realmente *terminar* o bendito trabalho, use aquele disco no Terminal de Controle do Robô.
+ Entendeu? Bem, ok então.}
+{826}{}{Bem, eu não queria deixar o trabalho apenas pela metade. Adeus, Festus.}
+{827}{}{Sim, aposto que você teria feito isso. Seu saco de bosta lazarento. Adeus.}
+{828}{}{Você é fantástico. Não há dúvidas sobre isso. Eu sabia que você faria isso.}
+{829}{}{Você me deixa tão orgulhoso.}
+{830}{}{Obrigado. Agora, me deixe voltar ao meu importante trabalho.}
+{831}{}{Continue assim e um dia você poderá ser igual a mim.}
 {900}{}{Você não vê que estou ocupado?}

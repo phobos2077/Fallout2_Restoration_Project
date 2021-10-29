@@ -1,4 +1,4 @@
-{100}{}{The person you see is glowing faintly. Its skin seems to be badly burnt.}
+{100}{}{A pessoa que você vê está emitindo uma luz fraca. Sua pele parece muito queimada.}
 {101}{}{You see a Glowing One, a citizen of Gecko.}
 {102}{}{You see someone who has been exposed to so much radiation that they are glowing faintly.
  That much radiation looks as though it should have killed them, but it they seem well enough.}
