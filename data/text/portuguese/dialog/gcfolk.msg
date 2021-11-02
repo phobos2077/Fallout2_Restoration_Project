@@ -30,63 +30,63 @@
 {148}{}{Aqui nós dominamos o poder do átomo.}
 {149}{}{Algum dia, outros serão capazes de usar nosso poder.}
 {150}{}{Fico feliz que nem todos os pele lisa sejam como os de Vault City.}
-{151}{}{If Vault City people were like you, we wouldn't have a problem with them.}
-{160}{}{Hmmph, another cheating smoothskin.}
-{161}{}{Heya, smoothy.}
+{151}{}{Se as pessoal de Vault City fossem como você, não teríamos tretas com eles.}
+{160}{}{Hmmph, outro pele lisa pilantra.}
+{161}{}{Fala, pele lisa.}
 {162}{}{Olá.}
 {163}{}{O que é?}
-{164}{}{Be nice while you're in town.}
-{165}{}{Come far to get here?}
-{166}{}{You look like you're from Vault City.}
-{167}{}{We're tolerant here, but not stupid, Smoothy.}
-{168}{}{Stay away from Vault City. Those guys are assholes.}
-{169}{}{Hello. Weather's been really dry lately.}
-{180}{}{It sure has been dry lately.}
-{181}{}{Damn all these weeds.}
-{182}{}{I think the atomic reactor makes the weeds worse.}
-{183}{}{I've heard that some weeds are dangerous.}
-{184}{}{I've heard that tribals know how to call rain.}
-{185}{}{Fine crop this year.}
-{186}{}{Corn's growing as high as a deathclaw's eye.}
-{187}{}{Vegetables are good for you.}
-{188}{}{Almost ready to harvest.}
-{189}{}{Sure could use some more rain.}
-{200}{}{Got to watch these brahmin.}
-{201}{}{These brahmin are so cute. I'm not looking forward to killing them.}
-{202}{}{I am so bored.}
+{164}{}{Fique na boa enquanto estiver na cidade.}
+{165}{}{Veio de longe para chegar aqui?}
+{166}{}{Você parece ser de Vault City.}
+{167}{}{Somos tolerantes aqui, mas não estúpidos, pele lisa.}
+{168}{}{Fique longe de Vault City. Só tem porra louca por lá.}
+{169}{}{Olá. O tempo está muito seco ultimamente.}
+{180}{}{Estou com a garganta seca por causa do tempo.}
+{181}{}{Droga, todas essas ervas daninhas.}
+{182}{}{Acho que o reator atômico piora as ervas daninhas.}
+{183}{}{Eu ouvi que tem algumas ervas estranhas que não são daninhas.}
+{184}{}{Ouvi dizer que os tribais sabem chamar chuva.}
+{185}{}{Boa colheita este ano.}
+{186}{}{O milho está crescendo tão alto quanto um deathclaw.}
+{187}{}{Os vegetais fazem bem para você.}
+{188}{}{Nos preparando para a colheita.}
+{189}{}{Precisamos de mais chuva.}
+{200}{}{Estou de olho nesses brahmins.}
+{201}{}{Esses brahmins são tão fofos. Não gosto da ideia de matá-los.}
+{202}{}{Coceira no rego.}
 {203}{}{Moo, moo, moo?}
-{204}{}{I've been here too long.}
-{205}{}{Is that smell you or the brahmin?}
-{206}{}{They almost look as though they know what's coming.}
-{207}{}{Someone tipped one last night.}
-{208}{}{Some of them are much cuter than others.}
-{209}{}{Hmm, I wonder why nobody rides them.}
-{220}{}{Hey there, smoothskin.}
-{221}{}{Buy us a drink, smoothskin.}
-{222}{}{Boy, am I thirsty.}
-{223}{}{Too good to drink with us?}
-{224}{}{Where are my pals, Johnny Stroller and Jim Bean?}
-{225}{}{I'll have mine shaken, not stirred.}
-{226}{}{Ask Wooz to tell you a story.}
-{227}{}{Let's sing a song.}
-{228}{}{...And then the heads do what? I just don't understand Wooz.}
-{229}{}{What's an apple?}
-{240}{}{You're pretty nice for a smoothskin.}
-{241}{}{Buy us another round, smoothy.}
-{242}{}{./~ How dry I am, How dry I am... ./~}
-{243}{}{You're okay in my book.}
-{244}{}{Hey, watch out for the rat.}
-{245}{}{I wonder why Skeeter never joins us?}
-{246}{}{We're trying to breed a new type of brahmin -- with only one head.}
-{247}{}{Somebody ought to start making more clothes here.}
-{248}{}{Ahh, beer is good.}
-{249}{}{This beer is great. It's the water -- and a lot more.}
-{260}{}{You're the best smoothskin I've ever known.}
-{261}{}{More glow-juice! More glow-juice!}
-{262}{}{Gives us another, eh smoothy?}
-{263}{}{Those poor muties in Broken Hills.}
-{264}{}{I heard that geckos are like us. Changed by the radiation.}
-{265}{}{We just cling to life here, like a little gecko on the wall.}
+{204}{}{Estou aqui há muito tempo.}
+{205}{}{Esse cheiro é de você ou dos brahmins?}
+{206}{}{Quase parece que eles sabem o que vai acontecer.}
+{207}{}{Deram uma gorjeta ontem à noite.}
+{208}{}{Alguns deles são muito mais fofos do que outros.}
+{209}{}{Hmm, me pergunto por que ninguém monta nos bichos.}
+{220}{}{Eai, pele lisa.}
+{221}{}{Paga uma dose pra gente, pele lisa.}
+{222}{}{Rapaz, estou com sede.}
+{223}{}{Se acha bom demais para beber com a gente?}
+{224}{}{Onde estão meus amigos, Johnny Stroller e Jim Bean?}
+{225}{}{Eu quero o meu misturado, não moído.}
+{226}{}{Peça a Wooz para te contar uma história.}
+{227}{}{Vamos cantar uma canção.}
+{228}{}{...E então as cabeças fazem o quê? Simplesmente não entendo Wooz.}
+{229}{}{O que é uma maçã?}
+{240}{}{Você é muito bom para um pele lisa.}
+{241}{}{Pague outra rodada, pele lisa.}
+{242}{}{./~ Como estou seco, como estou seco ... ./~}
+{243}{}{Você parece uma ótima pessoa.}
+{244}{}{Ei, cuidado com o rato.}
+{245}{}{Eu me pergunto por que Skeeter nunca da um chego aqui?}
+{246}{}{Estamos tentando criar um novo tipo de brahmin -- com apenas uma cabeça.}
+{247}{}{Alguém deveria começar a fazer mais roupas aqui.}
+{248}{}{Ooohh, breja da boa.}
+{249}{}{Essa cerveja é ótima. E a água -- é muito mais.}
+{260}{}{Você é o melhor pele lisa que já conheci.}
+{261}{}{Mais suco brilhante! Mais suco brilhante!}
+{262}{}{Paga outro, pele lisa?}
+{263}{}{Aqueles pobres mutantes em Broken Hills.}
+{264}{}{Ouvi dizer que os geckos são como nós. Alterado pela radiação.}
+{265}{}{Nós apenas nos agarramos à vida aqui, como um pequeno gecko na parede.}
 {266}{}{I hear Skeeter's building a giant robot.}
 {267}{}{I heard that Chester's a spy for Vault City.}
 {268}{}{I'd like to Renew into a smoothy.}
@@ -112,7 +112,7 @@
 {306}{}{Você é demais.}
 {307}{}{Thanks for fixing up our atomic reactor.}
 {308}{}{Reactor's purring, just as nice as you please. Thanks.}
-{309}{}{You're the best smoothskin I've ever known.}
+{309}{}{Você é o melhor pele lisa que já conheci.}
 {320}{}{Renew, comrade. Renew!}
 {321}{}{You are one of us.}
 {322}{}{Hello, comrade. Renewal is at hand.}
