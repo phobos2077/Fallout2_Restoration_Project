@@ -87,38 +87,38 @@
 {263}{}{Aqueles pobres mutantes em Broken Hills.}
 {264}{}{Ouvi dizer que os geckos são como nós. Alterado pela radiação.}
 {265}{}{Nós apenas nos agarramos à vida aqui, como um pequeno gecko na parede.}
-{266}{}{I hear Skeeter's building a giant robot.}
-{267}{}{I heard that Chester's a spy for Vault City.}
-{268}{}{I'd like to Renew into a smoothy.}
-{269}{}{I swear I've seen things fly over us at night.}
-{280}{}{I love you, man.}
+{266}{}{Ouvi dizer que Skeeter está construindo um robô gigante.}
+{267}{}{Ouvi dizer que Chester é um espião de Vault City.}
+{268}{}{Eu gostaria de mudar e ser um pele lisa.}
+{269}{}{Juro que vi coisas voarem sobre nós a noite.}
+{280}{}{Te amo, cara.}
 {281}{}{Você é demais.}
-{282}{}{Nuke Vault City 'til it glows!}
-{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
-{284}{}{./~ I've been working on the re-act-or, all the live-long day... ./~}
-{285}{}{Before you, I wouldn't trust a smoothskin at all.}
-{286}{}{I guess some of you smoothies are okay after all.}
-{287}{}{We ought to go get Chester to drink with us.}
-{288}{}{When I Renew, I want to turn out just like you.}
-{289}{}{Sure glad our reactor's running.}
-{290}{}{I must be drunk. Wooz is starting to make sense to me.}
-{291}{}{I think I saw an apple once... or was it a banana?}
-{300}{}{The reactor is working so good you can almost hear it hum.}
-{301}{}{Thanks for working things out with Vault City for us.}
-{302}{}{We're going to have so much power now.}
-{303}{}{Not much longer until we can trade power to Vault City.}
-{304}{}{Gosh, we're going to need a lot of Copper from Redding now.}
-{305}{}{The reactor is working great now. Thanks.}
+{282}{}{Bombardeie Vault City até os ares!}
+{283}{}{./~99 seringas de RadAway na parede, 99 seringas... ./~}
+{284}{}{./~ Eu estive trabalhando no re-a-tor, durante todo o longo dia ... ./~}
+{285}{}{Antes de você, eu não confiaria em um pele lisa.}
+{286}{}{Acho que alguns de vocês são do bem, quem diria.}
+{287}{}{Devíamos buscar o Chester para tomar uma.}
+{288}{}{Quando eu me renovar, quero ser igual a você.}
+{289}{}{Estou feliz que nosso reator esteja funcionando.}
+{290}{}{Acho que tomei demais. O que Wooz disse está fazendo sentido para mim.}
+{291}{}{Acho que vi uma maçã uma vez... ou era uma banana?}
+{300}{}{O reator está funcionando tão bem que quase dá para ouvi-lo zumbir.}
+{301}{}{Obrigado por resolver as coisas com Vault City para nós.}
+{302}{}{Teremos muita energia agora.}
+{303}{}{Não falta muito até que podermos fazer comércio da nossa energia com Vault City.}
+{304}{}{Caramba, vamos precisar de muito cobre Redding agora.}
+{305}{}{O reator está funcionando muito bem. Obrigado.}
 {306}{}{Você é demais.}
-{307}{}{Thanks for fixing up our atomic reactor.}
-{308}{}{Reactor's purring, just as nice as you please. Thanks.}
+{307}{}{Obrigado por consertar nosso reator atômico.}
+{308}{}{Reator funcionando muito bem. Obrigado.}
 {309}{}{Você é o melhor pele lisa que já conheci.}
-{320}{}{Renew, comrade. Renew!}
-{321}{}{You are one of us.}
-{322}{}{Hello, comrade. Renewal is at hand.}
-{323}{}{We will all be one soon.}
-{324}{}{He knows all. Worship his sleek fur.}
-{325}{}{Damn cultists. Get out of here.}
+{320}{}{Renovação, camarada. Renovação!}
+{321}{}{Você é um de nós.}
+{322}{}{Olá, camarada. A renovação está próxima.}
+{323}{}{Em breve todos seremos um.}
+{324}{}{Ele sabe de tudo. Adoremos seu cabelo brilhante.}
+{325}{}{Mas que praga de cultistas. Saiam daqui.}
 {326}{}{Renew this (makes hand gesture), asshole.}
 {327}{}{I've got your Renewal right here, pal.}
 {328}{}{Can't turn around these days without stepping on another damn cultist.}
