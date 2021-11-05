@@ -119,15 +119,15 @@
 {323}{}{Em breve todos seremos um.}
 {324}{}{Ele sabe de tudo. Adoremos seu cabelo brilhante.}
 {325}{}{Mas que praga de cultistas. Saiam daqui.}
-{326}{}{Renew this (makes hand gesture), asshole.}
-{327}{}{I've got your Renewal right here, pal.}
-{328}{}{Can't turn around these days without stepping on another damn cultist.}
-{329}{}{You'll never catch me worshipping some damn oversized rat.}
-{340}{}{You ought to go see Lenny about those wounds.}
-{341}{}{You look all banged up. Go see Lenny.}
-{342}{}{You shouldn't wrestle with a deathclaw. Go see Lenny.}
-{343}{}{Lenny's in Harold's office. You should have him take a look at those wounds.}
-{344}{}{How'd you get all torn up like that?}
-{345}{}{Ouch. You should go see Lenny.}
-{346}{}{Lenny's in the settlement; go have him take a look at your injuries.}
-{347}{}{I'd sure hate to see the other guy.}
+{326}{}{Renove isso (faz gesto com a mão), babaca.}
+{327}{}{Eu tenho tua renovação bem aqui, irmão.}
+{328}{}{Não posso nem andar hoje em dia sem topar com outro cultista vagabundo.}
+{329}{}{Você nunca vai me ver adorando algum rato anormal.}
+{340}{}{Você deveria ver Lenny sobre essas feridas.}
+{341}{}{Você parece muito machucado. Vá ver Lenny.}
+{342}{}{Você não deve lutar com um deathclaw. Vá ver Lenny.}
+{343}{}{Lenny está no escritório de Harold. Você deveria falar para ele dar uma olhada nesses machucados.}
+{344}{}{Como você ficou todo arregaçado assim?}
+{345}{}{Ai. Você deveria ir ver Lenny.}
+{346}{}{Lenny está no assentamento; vá vê-lo para ele dar uma olhada nesses machucados.}
+{347}{}{Eu com certeza odiaria ver o outro cara.}

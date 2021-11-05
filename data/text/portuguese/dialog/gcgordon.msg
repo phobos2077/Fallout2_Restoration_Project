@@ -1,75 +1,75 @@
-{100}{}{You see another ghoul. He appears to be preoccupied.}
-{101}{}{You see Gordon of Gecko.}
-{102}{}{You see a very nicely dressed ghoul with his hair slicked back.}
-{110}{}{I have no time for stupid people.}
-{111}{}{I have important work to do. Get out of here.}
-{112}{}{You're just as stupid as the rest of them.}
-{113}{}{This isn't the room for remedial reading lessons.}
-{114}{}{Too much inbreeding among smoothskins, I guess.}
-{120}{}{Hello there. My name's Gordon. Gordon of Gecko.}
-{121}{}{Hello again }
-{122}{}{Hello, Gordon. I'm }
-{123}{}{Nice to meet you. I'm }
-{124}{}{Gordon, what did you say you did here again?}
-{125}{}{I'm just checking in on all my friends. Nice to see you again. Goodbye.}
-{130}{}{I look for opportunities.}
-{131}{}{Opportunities? Like what?}
-{135}{}{I look for ways of maximizing my potential worth.}
-{136}{}{Hmm, sounds like greed to me.}
-{140}{}{I am greedy. But most people misunderstand greed. Greed is a powerful driving force. Throughout
- history, mankind's greatest achievements were driven by men that wanted to better their positions.
- Driven by greed. Greed, for lack of a better word, is good.}
-{141}{}{I'll take your word for that, Gordon. But what does greed have to do with Gecko?}
-{150}{}{So far, not much. But in greed lies Gecko's salvation. I have important information about the
- survival of Gecko, but I can't get anyone to listen to me.}
-{151}{}{What kind of information?}
-{160}{}{Well, I've calculated that if our reactor was running properly, we could generate an enormous
- amount of excess power -- far more than Gecko needs.}
-{161}{}{Yeah, so?}
-{170}{}{Well, now that you've helped to repair our atomic power plant I have a much better chance of
- getting what I want. Maximizing my potential.}
-{171}{}{Maximizing your potential? What do you mean?}
-{172}{}{Is this greed talking again, Gordon?}
-{180}{}{I've also found out, from a very reliable source, that Vault City cannot expand without
- additional power.}
-{181}{}{Vault City can't expand?}
-{182}{}{A very reliable source? Who?}
-{190}{}{Vault City, you see, has enough power for their current needs -- as long as they're careful. But
- the Vault power plant that they use was never designed for the increased load their city is putting on
- it. It's at peak capacity right now. Without more power, they can't expand.}
-{191}{}{I don't see how that helps you.}
-{200}{}{Well, if our power plant's working better, we could trade our excess power and technical
- expertise to Vault City in exchange for medical technology. }
+{100}{}{Você vê outro ghoul. Ele parece estar preocupado.}
+{101}{}{Você vê Gordon, de Gecko.}
+{102}{}{Você vê um ghoul muito bem vestido com seu cabelo penteado para trás.}
+{110}{}{Não tenho tempo para perder com estúpidos.}
+{111}{}{Tenho um trabalho importante para fazer. Saia daqui.}
+{112}{}{Você é tão estúpido quanto o resto deles.}
+{113}{}{Esta não é a sala para aulas de reforço.}
+{114}{}{Muita consanguinidade entre peles lisas, acredito.}
+{120}{}{Olá. Meu nome é Gordon. Gordon, de Gecko.}
+{121}{}{Olá de novo }
+{122}{}{Olá, Gordon. Eu sou }
+{123}{}{Prazer em conhece-lo. Eu sou }
+{124}{}{Gordon, o que você disse que estava fazendo por aqui?}
+{125}{}{Estou só visitando meus amigos. Prazer em te ver de novo. Até.}
+{130}{}{Procuro oportunidades.}
+{131}{}{Oportunidades? Tipo o quê?}
+{135}{}{Busco formas de maximizar meu valor potencial.}
+{136}{}{Hmm, parece bem ganancioso para mim.}
+{140}{}{Eu sou ganancioso. Mas as pessoas entendem a ganância de forma errada. A ganância é uma força motriz poderosa. Ao longo
+ da história, as grandes conquistas da humanidade foram impulsionadas por homens que queriam melhorar suas posições.
+ Impulsionado pela ganância. A ganância, por falta de palavra melhor, é boa.}
+{141}{}{Vou acreditar que você diz, Gordon. Mas o que ganância tem a ver com Gecko?}
+{150}{}{Até agora, não muito. Mas na ganância está a salvação de Gecko. Eu tenho informações importantes sobre a
+ sobrevivência de Gecko, mas não consigo que ninguém me ouça.}
+{151}{}{Que tipo de informação?}
+{160}{}{Bem, eu calculei que se nosso reator estivesse funcionando corretamente, poderíamos gerar uma enorme
+ quantidade de excesso de energia - muito mais do que o Gecko precisa.}
+{161}{}{Tá, e aí?}
+{170}{}{Bem, agora que você ajudou a reparar nossa usina atômica, tenho uma chance muito melhor de
+ conseguir o que quero. Maximizando meu potencial.}
+{171}{}{Maximizando seu potencial? Como assim?}
+{172}{}{Essa é a ganância falando de novo, Gordon?}
+{180}{}{Eu também descobri, de uma fonte muito confiável, que Vault City não pode se expandir sem
+ energia adicional.}
+{181}{}{Vault City não pode expandir?}
+{182}{}{Uma fonte muito confiável? Quem?}
+{190}{}{Vault City, veja, tem energia suficiente para suas necessidades atuais - desde que sejam cuidadosos. Mas
+ a usina de Vault que eles usam não foi projetada para o aumento da carga que sua cidade está exige.
+ Está no pico da capacidade agora. Sem mais poder, eles não podem se expandir.}
+{191}{}{Não vejo como isso te ajuda.}
+{200}{}{Bem, se nossa usina de energia estiver funcionando bem, podemos negociar nosso excesso de energia e nossa
+ experiência técnica para Vault City em troca de tecnologia médica.}
 {201}{}{E?}
-{210}{}{Without more power Vault City will burn out their reactor within 15 years. If Gecko's reactor
- isn't repaired, we won't last half that time. Without medical technology, all of us Ghouls are going
- to die off in the next 20 years, anyway. Everyone loses if Vault City and Gecko don't cooperate.}
-{211}{}{So you're just a good Samaritan huh? Somehow, I don't buy that.}
-{220}{}{Not at all. I've got my end covered. I'd be the natural choice to administer this project.
- Greed is my driving force, but thousands of lives are saved by it. Greed is good. At least it would be,
- if I could get anyone in Vault City to read my economic data.}
-{221}{}{I don't think I'd want to see you administering anything.}
-{222}{}{Hmm, I might be able to show the data to someone in Vault City.}
-{223}{}{I bet Councilman McClure in Vault City would love to get his hands on that data. He seems
- like someone who's ruled by reason more than prejudice.}
-{224}{}{What a great story, Gordon. You're the best. (chuckle) I'll remember that one. Goodbye.}
-{230}{}{I tally up economic data on Gecko's economy and report it to Harold. But he usually doesn't
- listen to me.}
-{231}{}{I'm sorry to hear that. Economic data on what?}
-{232}{}{Well, I'm sure Harold's pretty busy. See you later.}
-{240}{}{One night, I heard a voice calling to me from the reactor pit over there. A voice out of the
- shadows. I didn't know what to think at first, but what the voice said sure made a lot of sense. Its
- figures all check out, too. Don't know who or what the voice is, but the facts all tally up just like
- it said. }
-{241}{}{What did the voice say?}
-{250}{}{Mostly on ways of maximizing potential worth. My potential worth. }
-{251}{}{Your potential worth? Sounds to me like you're just greedy.}
-{260}{}{Mostly on ways of maximizing potential worth. My potential worth. }
-{261}{}{Your potential worth? Sounds to me like you're just greedy.}
+{210}{}{Sem mais energia, Vault City queimará seu reator em 15 anos. Se o reator de Gecko
+ não for reparado, não vamos durar metade desse tempo. Sem tecnologia médica, nós, Ghouls, vamos
+ morrer nos próximos 20 anos, de qualquer forma. Todo mundo perde se Vault City e Gecko não cooperarem.}
+{211}{}{Então você é apenas um bom samaritano, uia? Isso ainda não me convence.}
+{220}{}{De jeito nenhum. Eu tenho minha parte. Eu seria a escolha lógica para cuidar deste projeto.
+ A ganância é minha força motriz, mas milhares de vidas são salvas por ela. A ganância é boa. Deveria ser,
+ se eu conseguisse alguém em Vault City para ler meus dados econômicos.}
+{221}{}{Eu não gostaria de ver você cuidando de nada.}
+{222}{}{Hmm, eu posso de mostrar os dados para alguém em Vault City.}
+{223}{}{Aposto que o vereador McClure em Vault City adoraria colocar as mãos nesses dados. Ele parece
+ como alguém que governa mais pela razão do que pelo preconceito.}
+{224}{}{Historinha legal, Gordon. Você é dos bons. (risada) Vou me lembrar dessa. Falou.}
+{230}{}{Eu registro os dados econômicos sobre a economia de Gecko e relato para Harold. Mas ele geralmente não
+ me escuta.}
+{231}{}{Sinto muito ouvir isso. Dados econômicos sobre o quê?}
+{232}{}{Bem, tenho certeza de que Harold está muito ocupado. Até logo.}
+{240}{}{Uma noite, ouvi uma voz me chamando do poço do reator. Uma voz vinda do
+ sombras. Eu não sabia o que pensar no começo, mas o que a voz disse com certeza fez muito sentido. Todos
+ seus números conferem também. Não sei quem ou o que é a voz, mas todos os fatos são exatamente como
+ disse.}
+{241}{}{O que a voz disse?}
+{250}{}{Principalmente em maneiras de maximizar o valor potencial. Meu valor potencial. }
+{251}{}{Seu valor potencial? Parece-me que você é apenas ganancioso.}
+{260}{}{Principalmente em maneiras de maximizar o valor potencial. Meu valor potencial. }
+{261}{}{Seu valor potencial? Parece-me que você é apenas ganancioso.}
 {270}{}{Por que não?}
-{271}{}{I just don't buy your idea that greed is good. I bet you'd just sell off portions of whatever
- you were supposed to administer and take off with the money. Goodbye.}
-{272}{}{Because you left out the most important part of your plan. A partner -- namely, me.}
+{271}{}{Eu não consigo acreditar na ideia de que a ganância é boa. Aposto que você apenas venderia porções de tudo que
+ cuidasse e lucraria em cima disso. Adeus.}
+{272}{}{Porque você deixou de fora a parte mais importante do seu plano. Um parceiro - ou seja, eu.}
 {280}{}{Well, I have all the relevant economic data on a disk. You may have it, if you promise to show
  the data to someone in Vault City that can understand and make use of the data it contains. But be
  discreet with it... not everyone there will be happy you talked to us ghouls.}

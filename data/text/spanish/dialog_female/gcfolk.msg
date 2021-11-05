@@ -74,7 +74,7 @@
 {242}{}{[Canta] Qué seco estoy, qué seco estoy…}
 {243}{}{Me pareces una gran persona.}
 {244}{}{Oye, cuidado con la rata.}
-{245}{}{Me pregunto por qué Skeeter nunca bebe con nosotros.}
+{245}{}{Me pregunto por qué Skeeter nunca bebe con nosotros?}
 {246}{}{Estamos intentando crear un nuevo tipo de brahmin... con una sola cabeza.}
 {247}{}{Alguien debería empezar a tejer más ropa por aquí.}
 {248}{}{Ahh, la cerveza es buena.}

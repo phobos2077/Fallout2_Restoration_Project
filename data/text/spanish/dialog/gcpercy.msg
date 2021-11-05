@@ -16,7 +16,7 @@
  Qué coño, todos pueden. Y ahora, ¿qué puedo ir haciendo por ti?}
 {115}{}{¿Qué puede hacer por ti el viejo Percy?}
 {116}{}{Sólo me estaba preguntando cómo están las cosas por el pueblo.}
-{117}{}{Me preguntaba si tendrías algo que pudiera comprar o para intercambiar.}
+{117}{}{Me preguntaba si tendrías algo que pudiera comprar o intercambiar.}
 {118}{}{Eh, en realidad nada. Sólo estaba echando un vistazo. Adiós.}
 {119}{}{¿Inte-cambia?}
 {120}{}{Marcho, adiós.}

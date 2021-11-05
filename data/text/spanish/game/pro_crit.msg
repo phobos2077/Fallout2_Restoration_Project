@@ -20,7 +20,7 @@
 {1101}{}{Una típica rata grande.}
 {1200}{}{Mantis}
 {1201}{}{Una Mantis mutante.}
-{1300}{}{Elder}
+{1300}{}{Anciano}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Planta de esporas}
@@ -62,8 +62,8 @@
 {5100}{}{Huérfana}
 {5200}{}{Niño}
 {5300}{}{Niña}
-{5400}{}{Perdedora}
-{5500}{}{Perdedora}
+{5400}{}{Perdedor}
+{5500}{}{Perdedor}
 {5600}{}{Mala mercader}
 {5700}{}{Mala mercader}
 {5800}{}{Mercader}
