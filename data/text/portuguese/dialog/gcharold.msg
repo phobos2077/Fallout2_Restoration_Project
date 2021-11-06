@@ -77,7 +77,7 @@
 {176}{hld20a}{Well, alright. But you'd better stop being a bonehead. }
 {177}{hld20b}{Well, I tell ya youngster. Nice try but yer still an idjit. Maybe this'll be the lesson you need. You are outta here.}
 {178}{}{I'm sorry. Now that we've got that settled. Let me ask you something.}
-{179}{}{Okay, goodbye.}
+{179}{}{Esta bem, adeus.}
 {180}{hld21a}{I'd rather look like this than look like you and have to be you. You are a bonehead. Get the hell outta here. }
 {181}{hld21b}{You're like that bad booger ya can't shake off your finger. But I'm still shaking.... Oh look, there ya go!}
 {182}{hld21c}{Well, look what the wind pooped in. My favorite turd. Why don'tcha just squish on outta here?}

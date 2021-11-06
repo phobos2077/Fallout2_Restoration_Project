@@ -1,10 +1,10 @@
-{100}{}{You see a glowing ghoul with a concerned look on his face.}
-{101}{}{You see Hank the glowing ghoul, a worker here in the power plant.}
-{102}{}{You see a glowing ghoul monitoring some power plant gauges.}
-{110}{}{Hello, I'm Hank. I take care of the inside of the reactor core. Not that much ever needs to be
- done there.}
-{111}{}{Hello, nice of you to visit me again. Feels nice and toasty this close to the core. Most
- smoothies don't care for that.}
+{100}{}{Você vê um ghoul brilhante com uma expressão preocupada.}
+{101}{}{Você vê Hank, o ghoul brilhante, um trabalhador desta usina.}
+{102}{}{Você vê um ghoul brilhante monitorando alguns medidores da usina.}
+{110}{}{Opa, sou Hank. Eu cuido do interior do núcleo do reator. Não se precisa fazer muito 
+ por lá.}
+{111}{}{Olá, prazer em me visitar novamente. Ficar perto do núcleo deixa uma sensação agradável e quentinha. A maioria
+ dos pele lisa não ligam para isso.}
 {112}{}{Hi, Hank. I need to get inside the Core.}
 {113}{}{Hank, I have a coolant report from Harold that you need to see. Here you go.}
 {114}{}{Hi there, Hank. I'm just taking the tour. Goodbye.}

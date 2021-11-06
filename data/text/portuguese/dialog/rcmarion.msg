@@ -218,7 +218,7 @@
 {261}{}{I'm sorry to hear that; I sure could use the help. Well, if you change your mind, come on back
  right away.}
 {262}{}{I'll do that, Sheriff. Goodbye.}
-{263}{}{I'll think about it. Goodbye.}
+{263}{}{Vou pensar sobre isso. Adeus.}
 {264}{}{I hear that the miners from both the Morningstar and Kokoweef mines here in town are fixin' to
  stir up a ruckus at Lou's Malamute Saloon. I'll pay you $300 to break it up. You get over there right
  away. It's right across the street and down towards the west side of town here.}

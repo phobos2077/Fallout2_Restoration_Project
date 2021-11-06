@@ -70,75 +70,75 @@
 {271}{}{Eu não consigo acreditar na ideia de que a ganância é boa. Aposto que você apenas venderia porções de tudo que
  cuidasse e lucraria em cima disso. Adeus.}
 {272}{}{Porque você deixou de fora a parte mais importante do seu plano. Um parceiro - ou seja, eu.}
-{280}{}{Well, I have all the relevant economic data on a disk. You may have it, if you promise to show
- the data to someone in Vault City that can understand and make use of the data it contains. But be
- discreet with it... not everyone there will be happy you talked to us ghouls.}
-{281}{}{I don't think I want to be stuck with your disk. Thanks anyway. Goodbye.}
-{282}{}{Okay, I'll take the disk. I'm sure that I can put it into the right hands. Goodbye.}
-{290}{}{Humph, I don't need your help. You're just a tribal.}
-{291}{}{Well, I guess not all the bigots live in Vault City, do they, Gordie old boy? Goodbye.}
-{300}{}{Our atomic power plant is still barely operational. You must not take the information to
- Vault City yet.}
-{301}{}{I don't think they'd be very receptive to ghoul data in Vault City.}
-{302}{}{No, I haven't yet... but I will. Goodbye.}
-{303}{}{Delivering that data to Vault City is only one of the many steps you need to take. Our atomic power
- plant is still barely operational and needs to be fixed.}
-{304}{}{I will get right on it. Goodbye.}
-{305}{}{Yeah, maybe some other time.}
-{310}{}{Thanks for fixing our atomic power plant. The next step in old Gordon of Gecko's plan is working
- nicely. Greed is a wonderful thing. You should be proud to be a part of this.}
-{311}{}{Greed is good; right, Gordon? Well, I've got plans of my own to work on. Goodbye.}
-{320}{}{We're doomed. We're all doomed. Nothing can save us now. Just go away.}
-{321}{}{Just get away from me.}
-{322}{}{Okay, goodbye.}
-{330}{}{I really owe you. Now I can get everything I've ever wanted. All at Gecko and Vault City's
- expense. Just as soon as I'm ratified as the new foreman. Yessir, that Harold's really out on his ass
- now.}
-{331}{}{Uh, yeah. Whatever, Gordon. (you roll your eyes). Well, I guess I'll be going now.}
-{332}{}{You just better watch yourself, Gordon. The trip down is usually a lot faster than the trip up.
- Goodbye.}
-{340}{}{I see you have the symbol. Are you here for the information?}
-{341}{}{The symbol?}
-{342}{}{The information?}
-{343}{}{Of course. I wear the symbol proudly, and I need the information right away.}
-{344}{}{Shhh. Not now, brother. We're being watched. Goodbye.}
-{350}{}{You wear the symbol of Renewal. You are one of us. Renew, comrade! Renew!}
-{351}{}{Yes, I am one of us. Reno, uh, Renew!}
-{352}{}{I just found this. What is it?}
-{353}{}{I picked this off a corpse. What the heck is it?}
-{360}{}{Did he send you for the data disk?}
-{361}{}{Yes, of course I'm here for the disk. Hand it over right now.}
-{362}{}{What disk?}
-{370}{}{Ah, well, there can never be too many in our cause. More comrades means a better chance for old
- Gordon here to get what he wants. Are you here for the disk?}
-{371}{}{What disk?}
-{372}{}{I think the radiation has fried your brain. I'm leaving. Goodbye.}
-{380}{}{Here it is, but don't let the wrong person know that you have it. Give it only to Councilman
- McClure in Vault City.}
-{381}{}{Yes, of course. Uh, Renew, brother.}
-{382}{}{I'm not bringing any ghoul disk into Vault City -- they'd put my head on a stick for that.
- Goodbye.}
-{390}{}{It's the economic data disk that proves that Gecko and Vault City must both work together in
- order for either of us to survive. Are all of you smoothskins such smallbrains?}
-{391}{}{Oh, yes, that disk; sure I'll take it.}
-{392}{}{That sounds like really complicated stuff, all right. Too much for a pinhead like myself to
- understand. Goodbye.}
-{400}{}{Ah, of course. (wink, wink) We have all "found" the symbol. Renew, comrade! Are you here for the
- disk?}
-{401}{}{Yes, I am. Where is it?}
-{402}{}{What disk?}
-{403}{}{No, not really. I think I'd better leave now. Goodbye.}
-{410}{}{A corpse? Which one of us died?}
-{411}{}{Uh, I mean it was given to me.}
-{412}{}{Which one died? You're all dead. You're friggin ghouls, aren't you? One of your ghoul friends
- gave it to me.}
-{413}{}{Well, you should really ask which one of you I haven't killed. By the way -- you're next.}
-{414}{}{No, you misunderstood me. I said I joined the corps. Renew brother!}
-{420}{}{The facts speak for themselves. If you show it to someone with an open enough mind, the data
- will do all the convincing they'll need.}
-{421}{}{Well, okay. I'll try it. Goodbye.}
-{422}{}{I'll think about it. Goodbye.}
-{500}{}{. What do you do here?}
-{501}{}{. See you later, Gordon. Goodbye.}
+{280}{}{Bem, eu tenho todos os dados econômicos relevantes em um disco. Você pode ver, se prometer mostrar
+ os dados para alguém em Vault City que pode entender e fazer bom uso deles. Mas seja
+ discreto com ele... nem todo mundo vai ficar feliz por você ter conversado conosco, ghouls.}
+{281}{}{Acho que não quero ficar preso ao seu disco. Obrigado mesmo assim. Adeus.}
+{282}{}{Ok, vou ficar com o disco. Tenho certeza de que posso colocá-lo nas mãos certas. Adeus.}
+{290}{}{Humph, não preciso da sua ajuda. Você é apenas um tribal.}
+{291}{}{Bem, acho que nem todos os fanáticos são de Vault City, certinho, meu velho Gordie? Adeus.}
+{300}{}{Nossa usina atômica não está funcionando corretamente. Você não deve levar as informações para
+ Vault City ainda.}
+{301}{}{Eu não acho que eles seriam muito receptivos a dados de ghouls em Vault City.}
+{302}{}{Não, ainda não... mas vou. Adeus.}
+{303}{}{Entregar esses dados para Vault City é apenas uma das muitas etapas que você que precisam ser feitas. Nossa usina
+ atômica ainda não está funcionando direito e precisa ser consertada.}
+{304}{}{Eu vou resolver isso. Adeus.}
+{305}{}{Sim, talvez em outra hora.}
+{310}{}{Obrigado por consertar nossa usina atômica. O próximo passo no plano do velho Gordon para Gecko está funcionando
+ muito bem. A ganância é uma coisa maravilhosa. Você deve se orgulhar de fazer parte disso.}
+{311}{}{A ganância é boa; certo, Gordon? Certo, eu tenho meus próprios planos para trabalhar. Adeus.}
+{320}{}{Estamos condenados. Estamos todos condenados. Nada pode nos salvar agora. Apenas vá embora.}
+{321}{}{Apenas fique longe de mim.}
+{322}{}{Esta bem, adeus.}
+{330}{}{Eu realmente devo a você. Agora posso conseguir tudo que sempre quis. E tudo as custas de Gecko e 
+ Refuge City. Só assim para eu ser escolhido como o novo capataz. Sim senhor, acho que Harold está realmente chateado
+ agora.}
+{331}{}{Uh, sim. Tanto faz, Gordon. (você revira os olhos). Bem, acho que estou de saída.}
+{332}{}{É melhor você se cuidar, Gordon. A viagem para baixo é geralmente muito mais rápida do que para cima.
+ Adeus.}
+{340}{}{Eu vejo que você tem o símbolo. Você está aqui em busca de informações?}
+{341}{}{O símbolo?}
+{342}{}{A informação?}
+{343}{}{Claro. Eu uso o símbolo com orgulho e preciso da informação imediatamente.}
+{344}{}{Shhh. Agora não, irmão. Estamos sendo vigiados. Adeus.}
+{350}{}{Você usa o símbolo da Renovação. Você é um de nós. Renove, camarada! Renove!}
+{351}{}{Sim, sou um de nós. Reno, uh, Renovação!}
+{352}{}{Eu acabei de encontrar isso. O que é?}
+{353}{}{Eu peguei isso de um cadáver. Mas que bexiga é isso?}
+{360}{}{Ele mandou você buscar o disco de dados?}
+{361}{}{Sim, claro que estou aqui pelo disco. Entregue agora.}
+{362}{}{Que disco?}
+{370}{}{Bem, nunca pode haver muitos em nossa causa. Mais camaradas significa uma chance melhor para o velho
+ Gordon conseguir o que deseja. Você está aqui pelo disco?}
+{371}{}{Que disco?}
+{372}{}{Acho que a radiação fritou tua cabeça. Vou sair daqui. Adeus.}
+{380}{}{Aqui está, mas não deixe a pessoa errada saber que você o tem. Dê apenas para o vereador
+ McClure em Vault City.}
+{381}{}{Sim, claro. Uh, Renovação, irmão.}
+{382}{}{Eu não estou levando nenhum disco ghoul para Vault City - eles colocariam minha cabeça em uma guilhotina por causa disso.
+ Adeus.}
+{390}{}{É o disco de dados econômicos que prova que Gecko e Vault City devem trabalhar juntos em
+ ordem para qualquer um de nós sobreviver. Todos vocês, peles lisas, tem cérebros pequenos?}
+{391}{}{Oh, sim, aquele disco; vou aceitar.}
+{392}{}{Isso me parece uma coisa bem complicada, certo. Demais para um cabeça de alfinete como eu
+ entender. Adeus.}
+{400}{}{Ah, claro. (pisca, pisca) Todos nós "encontramos" o símbolo. Renove, camarada! Você está aqui pelo
+ disco?}
+{401}{}{Sim, estou. Onde está?}
+{402}{}{Que disco?}
+{403}{}{Não, na verdade não. Acho melhor eu ir. Adeus.}
+{410}{}{Um corpo? Qual dos nossos morreu?}
+{411}{}{Uh, quero dizer que alguém me deu.}
+{412}{}{Qual deles morreu? Vocês todos estão mortos. Vocês uns ghouls malditos, não são? Um de seus amigos ghols
+ me deu.}
+{413}{}{Na verdade você realmente deveria perguntar qual de vocês eu não matei. Falando nisso - você é o próximo.}
+{414}{}{Não, você me entendeu mal. Eu disse que me juntei ao corpo. Renove, irmão!}
+{420}{}{Os fatos falam por si. Se você mostrar para alguém com uma mente aberta o suficiente, os dados
+ poderão convencer.}
+{421}{}{Bem, ok. Vou tentar. Adeus.}
+{422}{}{Vou pensar sobre isso. Adeus.}
+{500}{}{. O que você faz aqui?}
+{501}{}{. Até mais, Gordon. Adeus.}
 {502}{}{.}
-{600}{}{Thanks for the information Gordon. Goodbye.}
+{600}{}{Obrigado pela informação, Gordon. Adeus.}

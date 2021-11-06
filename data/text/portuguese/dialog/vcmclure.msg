@@ -159,7 +159,7 @@
 {258}{}{He has? Well then, what are you doing here? Take it to Doc Johnson in Redding! He should be able to find a way to administer it to the miners.}
 {259}{}{I know, you already told me. Please take it to Redding and see if you can help them.}
 {260}{}{Before I go, can I ask you some other questions?}
-{261}{}{Okay, goodbye.}
+{261}{}{Esta bem, adeus.}
 {262}{}{Thank you! Now all we can do is wait. Hopefully, this fixes our problem. Thank you again for all of your assistance.}
 {263}{}{You're welcome. I was glad to be of service.}
 {264}{}{Not a problem. Could I ask you some other questions?}
