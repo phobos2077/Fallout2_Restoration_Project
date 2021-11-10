@@ -1,107 +1,107 @@
-{100}{}{You see a particularly leathery-looking Ghoul.}
-{101}{}{You see Harold.}
-{102}{}{You see a very old but still spry-looking ghoul.}
-{103}{hld1a}{I gotta tell ya, ol' Harold's a bit slow on the draw hisself. The two of us talkin' wouldn't get a whole lot done.}
-{104}{hld1b}{Ahh, ain't you cute. I just don't have time to try understanding ya right now.}
-{105}{hld1c}{Heh heh, ain't you a kick. }
-{106}{hld2a}{Hello there, smoothskin. The name's Harold. I help keep this town running.}
-{107}{hld2a1}{Whatcha need, youngster?}
-{108}{hld2b}{Well, golly-be-damned, smoothskin. You did us a great favor helping out our power plant. The name's Harold. I keep this town running.}
-{109}{hld2c}{Mighty kind o' ya helping us out with the atomic power plant. We're in your debt. Now, what can this cranky-old carcass do for ya?}
-{110}{hld2d}{You are somethin'. Just like the original. What can old Harold do for ya, Vault Dweller? }
-{111}{hld2e}{Haven't you done enough harm, smoothskin? What do you want now?}
-{112}{}{Smoothskin? Why did you call me that?}
-{113}{}{Vault Dweller? I'm not a Vault Dweller.}
-{114}{}{Hello, Harold. What do you do here?}
-{115}{}{Is there someplace I can barter or re-supply here?}
-{116}{}{Is that a tree growing out of your head?}
-{117}{}{You must know if there's something called a Garden of Eden Creation kit here.}
-{118}{}{Harold, I'd like to know where I can get some healing.}
-{119}{}{I know you're probably still mad, but you mentioned the Master. My ancestor killed him.}
-{120}{}{Hello, Harold. Just passing through. Goodbye.}
-{121}{hld3}{Wha-whatever it takes to keep this place together. Better job on it than me.}
-{122}{}{This place is coming apart?}
-{123}{}{You don't sound so good.}
-{124}{hld3a}{Yep, but I'm doing great for being dead! I never get tired of the looks when I tell that one.}
-{125}{}{Ahh, right....So you say the place is falling apart?}
-{126}{}{Dead, you say? Well, in that case you're doing great. So good you can answer my next question.}
-{127}{hld4a}{Well, sorta. Our atomic reactor's a mite... sensitive. The people I got running it mean well, but... well, they are not the sharpest tools in the shed. If you know what I mean.}
-{128}{hld4b}{Well, we're doing better now you've fixed our reactor. I'd never thought anybody'd get those idjits in Vault City to help us out.}
-{129}{hld4c}{You know, it's not so bad now. You fix the power plant, then you get the info we need to make it good-as-new. Golly-be-damned, ain't you somethin'?!}
+{100}{}{Você vê um ghoul com uma aparência dura como couro.}
+{101}{}{Você vê Harold.}
+{102}{}{Você vê um ghoul muito velho, mas com uma aparência ágil.}
+{103}{hld1a}{Preciso te dizer, o velho Harold é um pouco lento entender. Nós dois conversando não resolveríamos nada.}
+{104}{hld1b}{Ahh, você não é fofo. Só não tenho tempo para tentar entender você.}
+{105}{hld1c}{Heh heh, que coisas você vê. }
+{106}{hld2a}{Olá, pele lisa. Meu nome é Harold. Eu ajudo a manter esta cidade funcionando.}
+{107}{hld2a1}{Do que precisa, jovem?}
+{108}{hld2b}{Bom, que seja, pele lisa. Você nos fez um grande favor ajudando nossa usina. Meu nome é Harold. Eu mantenho esta cidade funcionando.}
+{109}{hld2c}{Muito amável da sua parte nos ajudar com a usina atômica. Estamos te devendo uma. Agora, o que esta carcaça velha pode fazer por você?}
+{110}{hld2d}{Você tem algo. Igual ao original. O que o velho Harold pode fazer por você, Morador da Vault? }
+{111}{hld2e}{Você não fez mal o suficiente, pele lisa? O que você quer agora?}
+{112}{}{Pele lisa? Por que me chama assim?}
+{113}{}{Morador da Vault? Eu não sou Morador de nenhuma Vault.}
+{114}{}{Olá, Harold. O que você faz aqui?}
+{115}{}{Existe algum lugar onde eu possa negociar ou reabastecer por aqui?}
+{116}{}{É uma árvore crescendo na sua cabeça?}
+{117}{}{Você deve saber se há algo chamado kit de criação do Jardim do Éden aqui.}
+{118}{}{Harold, gostaria de saber onde posso me curar.}
+{119}{}{Eu sei que você provavelmente ainda está nervoso, mas você mencionou o Mestre. Meu ancestral o matou.}
+{120}{}{Olá, Harold. Só nos rolê. Adeus.}
+{121}{hld3}{O que for preciso para manter este lugar funcionando. Eu faço um trabalho melhor com ele do que comigo.}
+{122}{}{Este lugar está desmoronando?}
+{123}{}{Você não parece muito bem.}
+{124}{hld3a}{Sim, mas estou bem por estar morto! Nunca me canso de ver a cara das pessoas quando falo isso.}
+{125}{}{Ahh, certo.... Então você disse que o lugar está desmoronando?}
+{126}{}{Morto, você diz? Bem, nesse caso você está indo muito bem. Tão bem que você pode responder minha próxima pergunta.}
+{127}{hld4a}{Bem, algo assim. Nosso reator atômico é um pouco... sensível. As pessoas que tenho administrando têm boas intenções, mas... bem, eles não são as ferramentas mais afiadas para o trabalho. Se é que você me entende.}
+{128}{hld4b}{Bem, estamos melhor agora que você consertou nosso reator. Nunca pensei que alguém conseguiria aqueles cretinos de Vault City para nos ajudar.}
+{129}{hld4c}{Você sabe, não é tão ruim agora. Você conserta a central e obtém as informações de que precisamos para deixá-la como nova. Maldição, isso não seria nada?!}
 {130}{}{O que você quer dizer?}
-{131}{}{I didn't want to see Vault City destroy your town.}
-{132}{}{Well, I didn't want to see Vault City destroy your town. Besides it was in their best interest to fix your power plant as well.}
-{133}{}{Well, since it's in Vault City's best interest to fix up your reactor, it wasn't too hard to get the Optimization info from them.}
-{134}{}{I don't like to complete any job only half-way.}
-{135}{}{Well, I'd love to stay and chat with you but I've got things to do and places to go. Good luck.}
-{136}{hld5}{Well, technically... it's a thingie.}
-{137}{}{Okay, what does it do?}
-{138}{hld6}{Need a little time on the whetstone yourself, huh? I mean they are not too bright. Here's an example. The other day I get a report. On it, it says the main coolant valve should be shut down. That woulda caused a meltdown that would make the Grand Canyon look like a pig wallow.}
-{139}{}{That sounds bad.}
-{140}{hld7}{Uh, yeah, that would be bad. Now, I got things fixed up in time, but we came close to the end there. They need someone to watch out for 'em.}
-{141}{}{Good thing you're here to help them.}
-{142}{hld8}{Who'd a thought I'd be making things right? Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
-{143}{}{What the hell is Hydra-magna-whateveraltor?}
-{144}{}{Hmm, sounds like a real problem all right. Let me ask you something else.}
-{145}{}{Trouble? What kind of trouble?}
-{146}{}{Well, I've taken enough of your valuable time. Goodbye.}
-{147}{hld9}{Heck, if it weren't for you, them damn idjits in Vault City woulda laid us out for the big dirt nap.}
-{148}{}{I couldn't let Vault City kill all of you.}
-{149}{}{Happy to help out, Harold. Let me ask you about something else, though.}
-{150}{hld11a}{Mighty kind a'ya. Not many smoothskins would do that for a town full of ghouls. Kinda reminds me of a smoothie I knew, way back when.}
-{151}{hld11b}{You know, you're a lot like the Vault Dweller.}
-{152}{}{Another smoothie? What do you mean?}
-{153}{}{Thanks. I'm hoping to live up to my ancestor. Let me ask you something else while I'm here that might help.}
-{154}{}{Happy to help. Let me ask you about something else though.}
-{155}{}{Well, all in a day's work really. I need to be going now, though. People to save, monsters to slay, disasters to avert, you know, all that sort of thing. Goodbye.}
-{156}{hld14}{You cut with the dull edge of the knife, don't ya? You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
-{157}{}{Got me there. I'll try to make my next question a little more worthwhile.}
-{158}{}{Oh. Yeah. Hey, let me ask you something else.}
-{159}{}{You just better not be getting any funny ideas about my soft skin.}
-{160}{}{Uh, well, I better be going. Goodbye.}
-{161}{hld15}{Funny ideas? Well, you mean like skinning you alive with a rusty, dull, old knife and then grafting your still-warm, wet, glistening, oh-so-soft, skin over my crusty-rotten gook?}
-{162}{}{Hey! You just keep the hell away from me. I'm getting out of here while I still have my skin!}
-{163}{}{Yeah, that's exactly what I meant. Good call.}
-{164}{hld16}{Well, you don't have anything to worry about....can't find my knife.}
-{165}{}{How 'bout I change the subject with another question?}
-{166}{}{Well, you just better keep your grubby mitts off my skin. Goodbye.}
-{167}{hld17}{More skin! ... Need more skin! (chuckles) What happ'n? Drop your sense of humor in the dust on the way into town?}
-{168}{}{I've got a lot on my mind, all right? I need some more information.}
-{169}{}{I think I'll go look for it. Goodbye.}
-{170}{hld18}{I just let a big fart and it still doesn't cover your stink. Why don't you just drift outta here?}
-{171}{}{Okay, but first I wanted to apologize for the way I acted earlier.}
-{172}{}{Put a sock in it ya smelly old ghoul. Goodbye.}
-{173}{hld19}{That's a start, but you're gonna have to do better.}
-{174}{}{I don't know what else to say. I guess I just don't deal well with things that are new to me. I am sorry, though.}
-{175}{}{Okay, how 'bout this? If I had jerky that looked half as bad as you do I'd burn it just to keep from poisoning any scavengers that might happen upon it. Bye.}
-{176}{hld20a}{Well, alright. But you'd better stop being a bonehead. }
-{177}{hld20b}{Well, I tell ya youngster. Nice try but yer still an idjit. Maybe this'll be the lesson you need. You are outta here.}
-{178}{}{I'm sorry. Now that we've got that settled. Let me ask you something.}
+{131}{}{Eu não queria ver Vault City destruir sua cidade.}
+{132}{}{Bem, eu não queria ver Vault City destruir sua cidade. Além disso, também era do interesse deles consertar sua usina.}
+{133}{}{Bom, uma vez que é do interesse de Vault City consertar seu reator, não foi muito difícil obter as informações de otimização deles.}
+{134}{}{Não gosto de deixar nenhum trabalho pela metade.}
+{135}{}{Adoraria ficar e conversar com você, mas tenho coisas para fazer e lugares para ir. Boa sorte.}
+{136}{hld5}{Bom, tecnicamente... é uma coisa.}
+{137}{}{Ok, o que isso faz?}
+{138}{hld6}{É um pouco difícil para você pegá-los na hora, hein? Quero dizer, eles não são muito brilhantes. Esse é um exemplo. Outro dia recebi um relatório. Nele, diz que a válvula de refrigeração principal deve ser desligada. Isso teria causado um derretimento que faria o Grand Canyon parecer um porco atolado.}
+{139}{}{Isso soa mal.}
+{140}{hld7}{Uh, sim, isso seria ruim. Agora, eu consertei as coisas a tempo, mas chegamos perto do fim. Eles precisam de alguém para cuidar deles.}
+{141}{}{Que bom que você está aqui para ajudá-los.}
+{142}{hld8}{Quem iria pensar que eu estaria consertando as coisas? Mas se não conseguirmos um Regulador Hidrelétrico da Magnetosfera muito rápido, teremos problemas.}
+{143}{}{Mas que porra é um Regulador Hidrelétrico de sei lá o que?}
+{144}{}{Hmm, parece um problema real, sim. Deixe eu perguntar outra coisa.}
+{145}{}{Problema? Que tipo de problema?}
+{146}{}{Certo, já tomei o suficiente do seu tempo valioso. Adeus.}
+{147}{hld9}{Caramba, se não fosse por você, aqueles vagabundos de Vault City teriam nos mandado pra vala.}
+{148}{}{Eu não poderia deixar Vault City matar todos vocês.}
+{149}{}{Fico feliz em ajudar, Harold. Mas me deixe perguntar sobre outra coisa.}
+{150}{hld11a}{Um tipo raro. Poucos pele lisa fariam isso em uma cidade cheia de ghouls. Me faz lembrar de um pele lisa que eu conheci, há muito tempo.}
+{151}{hld11b}{Sabe, você se parece muito com o Morador da Vault.}
+{152}{}{Outro pele lisa? De quem você lembra?}
+{153}{}{Obrigado. Espero viver de acordo com meu ancestral. Deixa eu aproveitar para perguntar sobre outra coisa.}
+{154}{}{Feliz por ajudar. Deixa eu perguntar sobre outra coisa.}
+{155}{}{Bem, tudo em um dia de trabalho, na verdade. Mas eu preciso ir agora. Pessoas para salvar, monstros para matar, desastres para evitar, você sabe, esse tipo de coisa. Adeus.}
+{156}{hld14}{Você corta com o gume cego da faca, não é? Você não parece uma casca de laranja deixada no sol o dia todo. Sua pele ainda está macia e bonita. }
+{157}{}{Entendi. Vou tentar fazer com que minha próxima pergunta valha mais a pena.}
+{158}{}{Oh. Sim. Ei, deixe-me perguntar outra coisa.}
+{159}{}{É melhor você não ter nenhuma ideia engraçada sobre minha pele macia.}
+{160}{}{Uh, bem, é melhor eu ir. Adeus.}
+{161}{hld15}{Ideias engraçadas? Tipo, esfolar você vivo com uma velha faca enferrujada e depois enxertar sua pele ainda quente, úmida, reluzente, tão macia, sobre minha carcaça podre e quebradiça?}
+{162}{}{Ei! Some de perto de mim com essas ideias. Vou sair daqui enquanto ainda tenho minha pele!}
+{163}{}{Sim, é exatamente o que eu quis dizer. Boa escolha.}
+{164}{hld16}{Bem, você não precisa se preocupar... não consigo encontrar minha faca.}
+{165}{}{Que tal mudar de assunto com outra pergunta?}
+{166}{}{Bem, é melhor você manter suas patas sujas longe de mim. Adeus.}
+{167}{hld17}{Mais pele! ... Precisa de mais pele! (risos) O que acontece? Esqueceu seu senso de humor na poeira no caminho para a cidade?}
+{168}{}{Tenho muito na cabeça, certo? Eu preciso de mais algumas informações.}
+{169}{}{Acho que vou procurar. Adeus.}
+{170}{hld18}{Acabei de soltar um belo peido e ainda não supera sua carniça. Por que você some daqui?}
+{171}{}{Ok, mas primeiro eu queria me desculpar pela maneira como agi antes.}
+{172}{}{Ponha uma meia nele, seu velho ghoul fedorento. Adeus.}
+{173}{hld19}{Isso é um começo, mas você vai ter que fazer melhor.}
+{174}{}{Não sei mais o que dizer. Acho que não lido bem com coisas que são novas para mim. Lamento.}
+{175}{}{Então, que tal isso? Se eu tivesse a carne podre que parecesse tão bosta quanto a sua, eu me queimaria só para evitar contaminar qualquer ghoul que pudesse encostar nela. Tchau.}
+{176}{hld20a}{Ok, certo. Mas é melhor você parar de ser um estúpido. }
+{177}{hld20b}{Eu te digo, jovem. Boa tentativa, mas ainda continua sendo um idiota. Talvez esta seja a lição de que você precisa. Fora daqui.}
+{178}{}{Eu sinto Muito. Agora que resolvemos isso. Preciso perguntar algo.}
 {179}{}{Esta bem, adeus.}
-{180}{hld21a}{I'd rather look like this than look like you and have to be you. You are a bonehead. Get the hell outta here. }
-{181}{hld21b}{You're like that bad booger ya can't shake off your finger. But I'm still shaking.... Oh look, there ya go!}
-{182}{hld21c}{Well, look what the wind pooped in. My favorite turd. Why don'tcha just squish on outta here?}
-{183}{hld21d}{Wanna know how to keep an idjit in suspense?}
-{184}{hld21e}{Hey, I was hoping you'd show up. You won a prize for bein' the biggest jerk. There's a party in your honor ten miles north of town. Better hurry.}
-{185}{hld26}{Their best interest? What do you mean?}
-{186}{}{Well, according to some economic data I got hold of Vault City is much better off if they help you to repair your power plant.}
-{187}{}{I mean, it's always better to try to get along with others.}
-{188}{}{Uh, nothing.}
-{189}{}{Wow, it's much later than I thought it was. I better be going. Goodbye.}
-{190}{hld27}{Economic data? You didn't give them that information th-that Gordon keeps flapping his yap about, did you?}
-{191}{}{Uh, yes I did. Why?}
-{192}{}{Uh, no, of course not.}
-{193}{hld28}{Yeah, well, I'm sure some bonehead, very much like yourself, said the same thing about the Master.}
-{194}{}{Sounds like a great story. Wish I had time to hear it but I gotta go.}
-{195}{}{The Master? My ancestor killed him!}
-{196}{hld29}{Nothing, huh? I'm not buyin' it. You just put us in a bind. Why don't you skedaddle while I thinka what to do.}
-{197}{}{Uh, sorry.}
-{198}{}{Yeah, sure. Why don't you just do that. Geez, try to help some people....}
-{199}{hld30}{Why?! Now Vault City knows just how much we need uranium ore from Broken Hills. They could cut off them shipments and we'd be finished.}
-{200}{}{Oh, it can't be as bad as all that. They seemed like reasonable people to me.}
-{201}{}{I didn't know that was what they'd use the information for. I'm sorry. Goodbye.}
-{202}{hld31}{Well, I sure hope not. Those idjits in Vault City hate ghouls. They'd cut off our ore shipments from Broken Hills in a white-hot minute. Then they'd set the terms. Wouldn't be long until Gecko'd be a slave camp.}
-{203}{}{Oh, I'm sure they wouldn't do that. They seem pretty reasonable.}
+{180}{hld21a}{Prefiro ficar assim do que parecer com você. Você é um grande de um cretino. Dê o fora daqui.}
+{181}{hld21b}{Você é como aquele ranho que você não consegue tirar do dedo. Mas eu continuo tentando... Olha, aí está!}
+{182}{hld21c}{Eita, olhe o que o vento trouxe. Meu tolete favorito. Por que você não dá o fora daqui?}
+{183}{hld21d}{Quer saber como deixa um viado curioso?}
+{184}{hld21e}{Ei, estava te esperando. Você ganhou um diploma de maior retardado. Estão fazendo uma festa em sua homenagem a uns dezesseis quilômetros ao norte da cidade. Melhor se apressar.}
+{185}{hld26}{Seu melhor interesse? O que você quer dizer?}
+{186}{}{Bem, de acordo com alguns dados econômicos que consegui, Vault City é muito melhor se eles ajudarem você a consertar sua usina.}
+{187}{}{Quer dizer, é sempre melhor tentar se dar bem com os outros.}
+{188}{}{Uh, nada.}
+{189}{}{Opa, já está ficando tarde. É melhor eu ir. Adeus.}
+{190}{hld27}{Dados econômicos? Você não deu a eles aquela informação de que Gordon vive tagarelando, deu?}
+{191}{}{Uh, essa mesmo. Porque?}
+{192}{}{Uh, não, claro que não.}
+{193}{hld28}{Sim, certo, tenho certeza de que algum idiota, muito parecido com você, disse a mesma coisa sobre o Mestre.}
+{194}{}{Parece uma ótima história. Queria ter tempo para ouvir, mas tenho que ir.}
+{195}{}{O mestre? Meu ancestral o matou!}
+{196}{hld29}{Nada, hein? Eu não estou comprando isso. Você acabou de nos colocar em um beco sem saída. Por que você não desaparece enquanto eu penso o que fazer.}
+{197}{}{Uh, desculpe.}
+{198}{}{Sim claro. Por que você simplesmente não faz isso. Nossa, tente ajudar algumas pessoas....}
+{199}{hld30}{Por que?! Agora Vault City sabe o quanto precisamos de minério de urânio de Broken Hills. Eles poderiam cortar as remessas e estaríamos quebrados.}
+{200}{}{Oh, não pode ser tão ruim assim. Eles pareciam pessoas razoáveis para mim.}
+{201}{}{Eu não sabia que era para isso que eles usariam as informações. Eu sinto Muito. Adeus.}
+{202}{hld31}{Bem, eu espero que não. Aqueles cretinos de Vault City odeiam ghouls. Eles cortariam nossos embarques de minério de Broken Hills em um minuto. Depois estabeleceriam os termos. Não demoraria muito até que Gecko se tornasse um campo de escravos.}
+{203}{}{Oh, tenho certeza que eles não fariam isso. Eles parecem bastante razoáveis.}
 {204}{}{Well, it's a good thing I didn't tell them anything like that then. Heh, heh. Hey, let me ask you something else.}
 {205}{}{Well, shit happens. Sometimes it happens to you. Goodbye.}
 {206}{hld32}{Reasonable? Reasonable! Well, I'm sure people said the Master was reasonable, too. What a bonehead. Get the hell out. Now!}

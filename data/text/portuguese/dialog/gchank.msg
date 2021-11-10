@@ -5,58 +5,58 @@
  por lá.}
 {111}{}{Olá, prazer em me visitar novamente. Ficar perto do núcleo deixa uma sensação agradável e quentinha. A maioria
  dos pele lisa não ligam para isso.}
-{112}{}{Hi, Hank. I need to get inside the Core.}
-{113}{}{Hank, I have a coolant report from Harold that you need to see. Here you go.}
-{114}{}{Hi there, Hank. I'm just taking the tour. Goodbye.}
-{120}{}{Heh, heh. I wouldn't advise that, smoothy. You'd fry into a crisp. Me, I like the warmth, but I
- wouldn't recommend it for you. Quite a bit of heat and radiation in there. That's why the smoothies
- that built this place included a maintenance bot.}
-{121}{}{Maintenance bot?}
+{112}{}{Olá, Hank. Eu preciso entrar no núcleo.}
+{113}{}{Hank, tenho um relatório sobre o refrigerante do Harold que você precisa ver. Toma.}
+{114}{}{Olá, Hank. Estou apenas dando uma passeada. Adeus.}
+{120}{}{Heh heh. Eu não recomento isso, pele lisa. Você fritaria igual uma batata frita. Eu gosto de calor, mas eu
+ não recomendaria pra você. Ali tem uma boa dose de calor e radiação. É por isso que os pele lisa
+ que construíram esse lugar incluíram um robô de manutenção.}
+{121}{}{Robô de manutenção?}
 {122}{}{Ah, valeu. Falo.}
-{130}{}{Let me look this over. According to this, our coolant level is way too high. I would've thought
- that turning off the coolant would lead to immediate meltdown but I guess not. I'd better go turn off
- the coolant right now.}
-{131}{}{That report said our coolant level was too high. I should turn off the coolant now, don't you
- think?}
-{132}{}{Good thinking, Hank. I better be going. Goodbye.}
-{133}{}{On second thought, maybe you should wait a moment on that. Let me check with Harold before you
- turn off the coolant. Goodbye.}
-{140}{}{Yeah, the smoothies that built this place didn't want to fry either, so they included a robot.
- It was designed to perform maintenance tasks by remote control from that terminal over there.}
-{141}{}{That's perfect. I can use that.}
-{142}{}{I'll have to check that out. Goodbye.}
-{150}{}{Nice part you got there. Just what we need.}
-{151}{}{Glad you like it. Want to install it?}
-{152}{}{Thanks, I really like it too. Goodbye.}
-{160}{}{I'd like to help you out, but I wouldn't know how to install something like that. I mostly just
- watch the gauges here. Try Festus. He's the resident parts genius -- just ask him.}
-{161}{}{Where is Festus?}
-{162}{}{Is there any other way?}
+{130}{}{Deixa eu ver isso. Segundo isso, nosso nível de refrigerante está muito alto. Eu teria pensado
+ que desligar o refrigerante levaria ao derretimento imediato, mas parece que não. É melhor eu desligar
+ o refrigerante agora.}
+{131}{}{Esse relatório disse que nosso nível de refrigerante está muito alto. Eu deveria desligar o refrigerante agora, não
+ acha?}
+{132}{}{Boa ideia, Hank. Estou indo. Adeus.}
+{133}{}{Pensando bem, talvez você deva esperar um pouco mais. Vou verificar com Harold antes que você
+ desligue o refrigerante. Adeus.}
+{140}{}{Sim, os pele lisa que construíram este lugar também não queriam fritar, então eles incluíram um robô.
+ Ele foi feito para cumprir tarefas de manutenção por controle remoto daquele terminal ali.}
+{141}{}{Isso é perfeito. Posso usar.}
+{142}{}{Vou ter que dar uma olhada. Adeus.}
+{150}{}{Bela peça você tem aí. Exatamente o que precisamos.}
+{151}{}{Estou feliz por ter gostado. Quer instalar?}
+{152}{}{Obrigado, eu também gosto muito. Adeus.}
+{160}{}{Eu gostaria de te ajudar, mas não sei como instalar esse tipo de coisa. Eu normalmente só
+ observo os medidores aqui. Tente Festus. Ele é o gênio da parte mecânica daqui -- é só perguntar a ele.}
+{161}{}{Onde está Festus?}
+{162}{}{Existe outra maneira?}
 {163}{}{Certo. Tchau.}
-{170}{}{You talk to Festus about installing that part yet?}
-{171}{}{Where is he?}
-{172}{}{Is there any other way?}
-{173}{}{Not yet. Maybe I'll go do that now. Goodbye.}
-{180}{}{Festus is out the way you came in. He's in the control room. Can't miss him... he's the smelly,
- whiny one tottering about underneath that huge ego. He should be able to help you.}
+{170}{}{Você já falou com Festus sobre a instalação dessa peça?}
+{171}{}{Onde está?}
+{172}{}{Existe outra maneira?}
+{173}{}{Ainda não. Acho que vou passar lá. Adeus.}
+{180}{}{Você pode encontrar Festus voltando por onde você veio. Ele está na sala de controle. Impossível ignorar o cara... ele é um fedido
+ chorão que vive se esperneando por baixo daquele ego enorme. Ele pode te ajudar.}
 {181}{}{Obrigado. Adeus.}
-{190}{}{Well, if you could control the maintenance robot, it might be able to install it. Or, you could
- just walk in there and install it yourself.}
-{191}{}{Maintenance robot?}
-{192}{}{Install it myself?}
-{200}{}{Well, it hasn't worked too well, lately. It kept overheating. We don't need to use it anyway, so
- we didn't bother to fix the heat shielding on it. If you can figure out the control codes and don't run
- it for too long, you may be able to get it to do what you want.}
+{190}{}{Bem, se você pudesse controlar o robô de manutenção, ele poderia ser capaz de instalá-lo. Ou você poderia
+ entrar lá e instalá-lo você mesmo.}
+{191}{}{Robô de manutenção?}
+{192}{}{Instalar sozinho?}
+{200}{}{Não tem funcionado muito bem ultimamente. Ele está superaquecendo. Não precisamos usá-lo por enquanto, então
+ não nos preocupamos em consertar a proteção contra calor. Se você conseguir descobrir os códigos de controle e não usar 
+ por muito tempo, isso pode ajudá-lo a instalar a peça.}
 {201}{}{Obrigado. Adeus.}
-{210}{}{Thanks for fixing the reactor.}
-{211}{}{Is it cooler in here lately?}
-{212}{}{Thanks for helping us out.}
-{220}{}{I've never heard her hum like that.}
-{221}{}{Purring like a kitten.}
-{222}{}{Runs better than ever.}
-{230}{}{Just stay out of the way and don't touch anything.}
-{231}{}{How'd you get in here?}
-{232}{}{Why don't you take a little walk through those doors. Glowing pit, pretty-pretty. Heh, heh,
+{210}{}{Obrigado por consertar o reator.}
+{211}{}{Está mais frio por aqui ultimamente?}
+{212}{}{Obrigado por nos ajudar.}
+{220}{}{Nunca a ouvi cantarolar assim.}
+{221}{}{Ronronando como um gatinho.}
+{222}{}{Funciona melhor do que nunca.}
+{230}{}{Apenas fique fora do caminho e não toque em nada.}
+{231}{}{Como você entrou aqui?}
+{232}{}{Por que você não dá uma pequena caminhada por aquela porta. Poço brilhante, muito lindo. Heh heh,
  heh.}
-{300}{}{You tricked Hank into starting a meltdown.}
+{300}{}{Você enganou Hank para começar um colapso.}
 {900}{}{Você não vê que estou ocupado?}
