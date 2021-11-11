@@ -224,16 +224,16 @@
 {323}{}{Thank-you. }
 {324}{}{Isso ser bom.}
 {325}{}{Isso não ser bom.}
-{326}{}{I have a good feeling about this.}
-{327}{}{I have a bad feeling about this.}
+{326}{}{Tenho um bom pressentimento sobre isso.}
+{327}{}{Tenho um mau pressentimento sobre isso.}
 {328}{}{You people are crazy.}
 {329}{}{Do que você está falando?}
-{330}{}{Is everyone else crazy here?}
+{330}{}{Todo mundo é louco aqui?}
 {331}{}{Deve ter outro caminho.}
 {332}{}{Venha aqui.}
-{333}{}{I don't understand.}
+{333}{}{Não entendo.}
 {334}{}{Eu não sei.}
-{335}{}{That hurts.}
-{336}{}{That really hurts.}
-{337}{}{That's got to hurt.}
+{335}{}{Isso dói.}
+{336}{}{Isso realmente dói.}
+{337}{}{Isso deve doer.}
 {338}{}{Actually, Mr. President, I'm back.}

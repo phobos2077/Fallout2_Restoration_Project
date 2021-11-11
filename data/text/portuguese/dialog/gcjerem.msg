@@ -1,13 +1,13 @@
-{100}{}{You see a ghoul with a shaved head.}
-{101}{}{You see Jeremy, the ghoul in charge of supplies.}
-{102}{}{You see a tall, thin ghoul who seems to be very busy.}
-{110}{}{Hello there. My name's Jeremy. I'm in charge of the all-powerful supply cabinet here. I keep
- track of all our stored supplies.}
-{111}{}{Hello again. Come to visit the all-powerful supply cabinet, or do you just need something from
- storage?}
-{112}{}{All-powerful?}
-{113}{}{I need something from storage.}
-{114}{}{I don't need anything. I was just looking around. Goodbye.}
+{100}{}{Você vê um ghoul careca.}
+{101}{}{Você vê Jeremy, o ghoul encarregado dos suprimentos.}
+{102}{}{Você vê um ghoul alto e magro que parece estar muito ocupado.}
+{110}{}{Olá. Meu nome é Jeremy. Estou encarregado do todo poderoso gabinete de suprimentos daqui. eu guardo
+ e controlo todos os nossos suprimentos armazenados.}
+{111}{}{Olá de novo. Venha visitar o todo poderoso armário de suprimentos, ou você só precisa de algo para
+ armazenar?}
+{112}{}{Todo poderoso?}
+{113}{}{Preciso de algo do armazenamento.}
+{114}{}{De boa por enquanto. Eu só estava olhando em volta. Valeu.}
 {120}{}{Well, if you want something from storage you need a Request Authorization Form. Do you have a
  Request Authorization Form?}
 {121}{}{Yes, I do. Here it is.}

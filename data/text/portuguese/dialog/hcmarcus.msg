@@ -223,7 +223,7 @@
 {322}{}{Isso ser bom.}
 {323}{}{This ain't good.}
 {324}{}{I like this. A lot. }
-{325}{}{I have a bad feeling about this.}
+{325}{}{Tenho um mau pressentimento sobre isso.}
 {326}{}{These people are nuts.}
 {327}{}{Didn't learn anything.}
 {328}{}{Learned something.}
@@ -236,16 +236,16 @@
 {335}{}{Far as I can tell, it's safe to camp here.}
 {336}{}{Ain't safe to camp here.}
 {337}{}{Nós pode descansar aqui.}
-{338}{}{I got lucky.}
+{338}{}{Tive sorte.}
 {339}{}{Fix this, would you?}
 {340}{}{Turn this on.}
 {341}{}{This thing needs to be unlocked.}
 {342}{}{You gonna open this?}
 {343}{}{Might want to come back here later.}
-{344}{}{I don't understand.}
+{344}{}{Não entendo.}
 {345}{}{I dunno.}
 {346}{}{Ow.}
-{347}{}{That really hurts.}
+{347}{}{Isso realmente dói.}
 {348}{}{Isso não pode ser bom...}
 {349}{}{Uh... when you said 'I hope she doesn't get pregnant' in the Cat's Paw in New Reno,
  what did you mean?}

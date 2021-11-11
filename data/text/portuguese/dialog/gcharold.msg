@@ -102,122 +102,122 @@
 {201}{}{Eu não sabia que era para isso que eles usariam as informações. Eu sinto Muito. Adeus.}
 {202}{hld31}{Bem, eu espero que não. Aqueles cretinos de Vault City odeiam ghouls. Eles cortariam nossos embarques de minério de Broken Hills em um minuto. Depois estabeleceriam os termos. Não demoraria muito até que Gecko se tornasse um campo de escravos.}
 {203}{}{Oh, tenho certeza que eles não fariam isso. Eles parecem bastante razoáveis.}
-{204}{}{Well, it's a good thing I didn't tell them anything like that then. Heh, heh. Hey, let me ask you something else.}
-{205}{}{Well, shit happens. Sometimes it happens to you. Goodbye.}
-{206}{hld32}{Reasonable? Reasonable! Well, I'm sure people said the Master was reasonable, too. What a bonehead. Get the hell out. Now!}
-{207}{}{Maybe they have the right idea. Maybe it's time to put an end to freaks like you. Goodbye.}
-{208}{}{Uh, well, I uh, that is. Goodbye.}
-{209}{hld33}{Well, you might try talking to Wooz over in the Harp. You can't miss it - it's just across the way. }
+{204}{}{Bem, menos mal eu não ter contado nada sobre isso. Heh heh. Viu, me deixe perguntar outra coisa.}
+{205}{}{Bem, merdas acontecem. E as vezes acontece com você. Adeus.}
+{206}{hld32}{Razoável? Razoável! Certo, tenho certeza que as pessoas disseram que o Mestre também era razoável. Que estupido. De o fora. Agora!}
+{207}{}{Talvez eles tenham razão. Talvez seja hora de acabar com aberrações como você. Adeus.}
+{208}{}{Uh, bem, eu uh, isso é. Adeus.}
+{209}{hld33}{Bem, você pode tentar falar com Wooz na Harpa. Não tem como se perder - é do outro lado da rua. }
 {210}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
-{211}{}{Thanks, that's all I need to know for now. Goodbye.}
-{212}{hld34}{Jealous? His name's Herbert. I talk to him when I get lonely... Heh heh. Just kiddin'... His name's Bob.}
-{213}{}{Right... Well, maybe you or Bob will know the answer to this.}
-{214}{}{Thanks, that's way more than I need to know for now. Goodbye.}
-{215}{hld35}{A Garden of Eden Creation Kit? A GECK, right? I seem to remember Vaults had those. Don't know where you'd find one today. }
+{211}{}{Obrigado, isso é tudo que preciso saber por enquanto. Adeus.}
+{212}{hld34}{Com ciumes? O nome dele é Herbert. Eu falo com ele quando estou sozinho... Heh heh. Brincadeira... O nome dele é Bob.}
+{213}{}{Certo... Bom, talvez você ou Bob saibam a resposta para isso.}
+{214}{}{Obrigado, isso é muito mais do que preciso saber por agora. Adeus.}
+{215}{hld35}{Um Kit de Criação do Jardim do Éden? Um GECK, certo? Parece que me lembro que as Vaults tinham isso. Não sei onde você pode encontrar hoje em dia. }
 {216}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
-{217}{}{Thanks, that's all I need to know for now. Goodbye.}
-{218}{hld36}{Just talk to my assistant, Lenny. He'll be able to fix ya right up.}
+{217}{}{Obrigado, isso é tudo que preciso saber por enquanto. Adeus.}
+{218}{hld36}{Basta falar com meu assistente, Lenny. Ele pode consertar você.}
 {219}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
-{220}{}{Thanks, that's all I need to know for now. Goodbye.}
-{221}{hld37}{Another smoothskin. Had a lot of respect for that one.}
-{222}{}{Who was that?}
-{223}{hld38}{Well, I could probably remember if I wasn't dead. I never get tired of that joke. }
-{224}{}{Maybe you don't...}
-{225}{hld38a}{Well, to be honest, can't remember the name. But they wore a funny suit. Kinda like the one you're wearing.}
-{226}{}{I'm wearing the Vault Suit that my ancestor wore. It's a totem of my holy quest.}
-{227}{}{Oh, this old thing?}
-{228}{hld38b}{No lie?}
-{229}{}{I'm wearing the Vault Suit that my ancestor wore. It's a totem of my holy quest.}
-{230}{}{No lie, Harold.}
-{231}{hld39}{That so? Well, well, well. That explains a thing or two. I wondered why you looked familiar. I'm not losing the last coupla marbles I got left.}
-{232}{}{We really look alike?}
-{233}{}{Tell me what the Vault Dweller was like.}
-{234}{hld40}{Yea, it looked just like that. Come to think of it, it had a 13 on it too. }
-{235}{}{Actually, this is the suit of my ancestor, the Vault Dweller.}
-{236}{hld41}{There is a resemblance. Near as I can remember, anyways. You know, your ancestor saved the whole darn lot of us.}
-{237}{}{The Vault Dweller saved all of the ghouls?}
-{238}{}{Thanks. It's nice to know. Look, I have to run off for a bit. I'll see you later.}
-{239}{hld42}{Jumpin' to conclusions, youngster. That's gonna get your ass shot off someday. All of us. Saved every two-legged-shuffler on the dang planet. }
-{240}{}{I didn't realize that.}
-{241}{}{I think I've heard enough for now. Goodbye.}
-{242}{hld43}{Well. Now ya do. And what happened next? For a thank you, the damn high-and-mighty Vaulties booted the Vault Dweller out. I always wondered what happened after that.}
-{243}{}{I can tell you what happened.}
-{244}{}{Enough reminiscing let me ask you something else.}
-{245}{hld44}{Well, I'd sure like to hear that.}
-{246}{}{The legend of the Vault Dweller starts with the Vault casting him out into the dry Wastes.... [You tell Harold the story of your ancestor]...and so that's why I'm looking for Vault 13 now.}
-{247}{hld45}{Thanks for telling. I sure was curious all these years. You sure got your work cut out for ya. Huh, ya know....}
-{248}{}{Know what?}
-{249}{}{I've taken enough of your time already. I better be going. Goodbye.}
-{250}{hld46a}{Well, I been saving these for a rainy day, but it sounds like you're gonna need'em more than I ever will. Here, take these.}
-{251}{hld46b}{I was gonna give you some healing supplies but damn me if I didn't do that already. I tell you, gettin' old's hell on the memory.}
-{252}{}{Thanks. Let me ask you about something though.}
-{253}{}{Thanks for everything. I better be going though. Goodbye.}
-{254}{hld48a}{Without a functional Hydroelectric Magnetosphere Regulator we're leaking radioactive coolant into the groundwater. Now that means, anyone using that water is not gunna need a night-light to take a midnight piss. Also, we need more fuel because our power plant is not burnin' it very efficiently.}
-{255}{hld48b}{We need a Hydroelectric Magnetosphere Regulator and it needs to be installed soon or we have got some real problems. }
-{256}{}{Sounds bad. Where would you get a Hydro magnetosomething-or-other?}
-{257}{}{What happens if you don't get the part?}
-{258}{}{Who do you buy your fuel from?}
-{259}{}{Sorry to hear it. Let me ask you about something else.}
-{260}{}{I think I'm going to have to leave you to your troubles for right now. Goodbye.}
-{261}{hld49}{Well, I'm certain those ornery bastards in Vault City have one. Not that they'd share. Hell, even if we had one of those thingies, I'm not so certain Festus could install the dang thing.}
-{262}{}{Vault City wouldn't give you the part? Even if it means that the groundwater won't be polluted anymore?}
-{263}{}{Sounds like you've got a lot on your mind. Goodbye.}
-{264}{hld50}{If we don't get it, you can bet those boneheads from Vault City will shut down our power plant, permanently.}
-{265}{}{What will you do then?}
-{266}{hld51}{We get our fuel from the Broken Hills. That's a mining community some ways south.}
-{267}{}{Interesting. Where would you get one of those Hydro magnetosomething-or-others?}
-{268}{}{What happens if you don't get that Hydro-part?}
-{269}{}{Hmm, I think I should let you figure this out on your own. Goodbye.}
-{270}{hld52}{Take dirt naps. Vault City doesn't play nice. They'll just come up here and kill all of us if we don't get that part. Well, at least I'll have a tree for a monument.}
-{271}{}{What was the name of that part again?}
-{272}{}{Sounds like you need that Hydro-thingy pretty badly. Let me ask you something else right now, though.}
-{273}{}{Sounds like trouble. I need to run off and see what I can do. Bye.}
-{274}{hld53}{Well, they'd only help us if they thought it was in their own best interest to do so. Huh. Not much chance of that happening.}
-{275}{}{Hmm, you may be right. Still if someone could convince them that they should help you...}
-{276}{hld54}{They shoot ghouls on sight. Makes conversation a bit tricky.}
-{277}{}{I wonder if someone else could tell them.}
-{278}{}{Yes, it would. Right now I've got another question.}
-{279}{}{Hey, you never know. I'll see you later.}
-{280}{}{To the north}
-{281}{}{To the northwest}
-{282}{}{To the west}
-{283}{}{To the southwest}
-{284}{}{To the south}
-{285}{}{To the southeast}
-{286}{}{To the east of here}
-{287}{}{To the northeast}
-{288}{}{I don't understand.}
+{220}{}{Obrigado, isso é tudo que preciso saber por enquanto. Adeus.}
+{221}{hld37}{Outro pele lisa. Tive muito respeito por um.}
+{222}{}{Quem era?}
+{223}{hld38}{Bem, ele provavelmente poderia me lembrar disso se não estivesse morto. Nunca me canso dessa piada. }
+{224}{}{Talvez você não...}
+{225}{hld38a}{Bem, para ser honesto, não consigo me lembrar do nome. Mas eles usavam uma roupa engraçada. Parecida com a que você está vestindo.}
+{226}{}{Estou usando a roupa da Vault que meu ancestral usava. É um totem da minha busca sagrada.}
+{227}{}{Oh, essa coisa velha?}
+{228}{hld38b}{Jura?}
+{229}{}{Estou usando a roupa da Vault que meu ancestral usava. É um totem da minha busca sagrada.}
+{230}{}{Juro, Harold.}
+{231}{hld39}{É isso mesmo? Bem, bem, bem. Isso explica algumas coisas. Eu me perguntei por que você parecia familiar. Ainda não perdi meu par restante de neurônios que restam.}
+{232}{}{Somos realmente parecidos?}
+{233}{}{Me fale como era o Morador da Vault.}
+{234}{hld40}{Sim, era exatamente assim. Pensando bem, também tinha um 13.}
+{235}{}{Na verdade, este é o traje do meu ancestral, o Morador da Vault.}
+{236}{hld41}{Existe uma semelhança. Pelo que me lembro, na verdade. Você sabe, seu ancestral nos salvou.}
+{237}{}{Ele salvou todos os ghols?}
+{238}{}{Obrigado. É bom saber. Olha, eu tenho que dar uma saída. Vejo você mais tarde.}
+{239}{hld42}{Nada de conclusões precipitadas, jovem. Qualquer dia você pode levar um tiro na bunda por isso. Todos nós. Salvou todos os malditos de duas pernas que rastejam pelo planeta.}
+{240}{}{Eu não percebi isso.}
+{241}{}{Acho que já ouvi o suficiente por agora. Adeus.}
+{242}{hld43}{Certo. Agora você. E o que aconteceu depois? De agradecimento, os malditos poderosos no controle da Vault chutaram o Morador para fora. Sempre me perguntei o que aconteceu depois disso.}
+{243}{}{Eu posso te contar o que aconteceu.}
+{244}{}{Chega de recordar, deixe eu perguntar outra coisa.}
+{245}{hld44}{Bem, com certeza eu gostaria de ouvir.}
+{246}{}{A lenda do Morador da Vault começa com a Vault lançando-o nas terras secas... [Você conta a Harold a história de seu ancestral]... e é por isso que estou procurando o Vault 13 agora.}
+{247}{hld45}{Obrigado por contar. Com certeza fiquei curioso todos esses anos. Você com certeza tem um trabalho difícil para fazer. Huh, você sabe....}
+{248}{}{Saber o que?}
+{249}{}{Já tomei bastante do seu tempo. É melhor eu ir. Adeus.}
+{250}{hld46a}{Bem, estou guardando para um dia chuvoso, mas parece que você vai precisar deles mais do que eu. Aqui, pegue isso.}
+{251}{hld46b}{Eu ia te dar alguns suprimentos de cura, mas mas foda-me se ainda não dei. Acredite em mim, envelhecer destrói sua memória.}
+{252}{}{Obrigado. Deixe-me perguntar sobre uma coisa.}
+{253}{}{Obrigado por tudo. É melhor eu ir embora. Até mais.}
+{254}{hld48a}{Sem um regulador hidroelétrico magnetosfera que funcione, estamos vazando refrigerante radioativo nas águas subterrâneas. Agora, isso significa que qualquer um que use essa água não precisa de um abajur para urinar à meia-noite. Além disso, precisamos de mais combustível porque nossa usina não o está queimando da forma eficiente.}
+{255}{hld48b}{Precisamos de um Regulador Hidrelétrico da Magnetosfera e ele precisa ser instalado logo ou teremos sérios problemas. }
+{256}{}{Soa mal. Onde poderia encontrar um Regulador Hidre-ou não sei o que?}
+{257}{}{O que acontece se você não conseguir a peça?}
+{258}{}{De quem você compra seu combustível?}
+{259}{}{Desculpe ouvir isso. Me deixe perguntar sobre outra coisa.}
+{260}{}{Acho que vou ter que deixá-lo com seus problemas por agora. Adeus.}
+{261}{hld49}{Bem, tenho certeza que aqueles babacas teimosos em Vault City têm um. Não que eles queiram partilhar. Porra, mesmo se tivéssemos uma daquelas coisinhas, não tenho certeza se Festus poderia instalar essa porcaria.}
+{262}{}{Vault City não lhe daria a peça? Mesmo que isso signifique que as águas subterrâneas não serão mais poluídas?}
+{263}{}{Parece que você tem que pensar em muita coisa. Adeus.}
+{264}{hld50}{Se não conseguirmos, você pode apostar que aqueles idiotas de Vault City vão desligar nossa usina de energia, permanentemente.}
+{265}{}{O que você vai fazer então?}
+{266}{hld51}{Pegamos nosso combustível em Broken Hills. Essa é uma comunidade mineira mais ao sul.}
+{267}{}{Interessante. Onde você conseguiria um daquele Regulador Hidre-ou não sei o que?}
+{268}{}{O que acontece se você não conseguir a parte Hidro?}
+{269}{}{Hmm, acho que devo deixar você descobrir isso sozinho. Adeus.}
+{270}{hld52}{Estaríamos ferrados. Vault City não joga limpo. Eles simplesmente subiriam aqui e nos matariam se não conseguirmos essa parte. Bem, pelo menos terei uma árvore como monumento.}
+{271}{}{Qual era o nome dessa parte mesmo?}
+{272}{}{Parece que você precisa muito do bagulho Hidro. Deixe eu perguntar outra coisa agora.}
+{273}{}{Parece um problema. Preciso me apressar para ver o que posso fazer. Tchau.}
+{274}{hld53}{Bem, eles só nos ajudariam se pensassem que isso seria do seu interesse. Huh. Não há muita chance disso acontecer.}
+{275}{}{Hmm, você pode estar certo. Ainda assim, se alguém pudesse convencê-los de que deveriam ajudá-lo...}
+{276}{hld54}{Eles atiram em ghouls sem motivo. Isso torna a conversa mais complicada.}
+{277}{}{Eu me pergunto se outra pessoa poderia contar a eles.}
+{278}{}{Sim, seria. Agora eu tenho outra pergunta.}
+{279}{}{Ei, nunca se sabe. Vejo você mais tarde.}
+{280}{}{Ao norte}
+{281}{}{Ao noroeste}
+{282}{}{Ao oeste}
+{283}{}{Ao sudoeste}
+{284}{}{Ao sul}
+{285}{}{Ao sudeste}
+{286}{}{Ao leste daqui}
+{287}{}{Ao nordeste}
+{288}{}{Não entendo.}
 {289}{}{Eu não sei.}
-{290}{}{That hurts.}
-{291}{}{That really hurts.}
-{292}{}{That's got to hurt.}
+{290}{}{Isso dói.}
+{291}{}{Isso realmente dói.}
+{292}{}{Isso deve doer.}
 {293}{}{Eu não sei nada sobre isso.}
 {294}{}{Sim}
 {295}{}{Não}
-{296}{}{Why do you talk to me this way?}
-{297}{}{You're not nice.}
-{298}{}{Thank you. }
+{296}{}{Por que você fala assim comigo?}
+{297}{}{Isso não é agradável.}
+{298}{}{Obrigado. }
 {299}{}{Isso ser bom.}
 {300}{}{Isso não ser bom.}
-{301}{}{I have a good feeling about this.}
-{302}{}{I have a bad feeling about this.}
+{301}{}{Tenho um bom pressentimento sobre isso.}
+{302}{}{Tenho um mau pressentimento sobre isso.}
 {303}{}{Essas pessoas ser loucas.}
-{304}{}{I didn't learn anything.}
-{305}{}{I learned something}
-{306}{}{Is everyone else crazy here?}
+{304}{}{Não aprendi nada.}
+{305}{}{Eu aprendi algo}
+{306}{}{Todo mundo é louco aqui?}
 {307}{}{Deve ter outro caminho.}
 {308}{}{Siga-me.}
 {309}{}{Tenta isso.}
 {310}{}{Venha aqui.}
-{311}{}{I'm scared.}
-{312}{}{I'm worried.}
-{313}{}{I found something.}
-{314}{}{I got lucky.}
+{311}{}{Estou assustado.}
+{312}{}{Estou preocupado.}
+{313}{}{Eu encontrei algo.}
+{314}{}{Tive sorte.}
 {315}{}{Você precisar consertar isso.}
 {316}{}{Você precisar ligar isso.}
 {317}{}{Você precisa destrancar isso.}
 {318}{}{Você precisa abrir isso.}
 {319}{}{Talvez nós deve voltar aqui.}
-{320}{}{No, lie. I'll make sure the reactor gets fixed. One way or another. Hmm,
- I wonder if I can get Festus to do it. Oh well, goodbye for now.}
-{321}{}{Hey Harold, I got that part you need to fix your reactor. I am going to go and try to get it installed in the reactor. I'll report back when I am done. Bye.}
+{320}{}{Não, mentira. Vou garantir que o reator seja consertado. De uma forma ou de outra. Hmm,
+ eu me pergunto se consigo fazer Festus fazer isso. Bem, até mais.}
+{321}{}{Ei Harold, peguei aquela parte que você precisa para consertar seu reator. Vou tentar instalá-lo. Aviso quando terminar. Tchau.}

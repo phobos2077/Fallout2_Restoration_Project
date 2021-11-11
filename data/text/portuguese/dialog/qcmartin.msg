@@ -22,7 +22,7 @@
 {121}{}{Come here!}
 {122}{}{I can tell you what you want to know.}
 {123}{}{My name's Martin.}
-{124}{}{I can tell you what happened.}
+{124}{}{Eu posso te contar o que aconteceu.}
 {125}{}{Hello there, I'm Martin Frobisher. I speak for these people. Thank God you're here.}
 {126}{}{O que você gostaria de saber?}
 {127}{}{Nice outfits, just like mine. Who are you people?}

@@ -118,7 +118,7 @@
 {535}{}{I didn't find out anything. This time.}
 {536}{}{Maybe with some Mentats I could pull this off... mmmm. Mentats.}
 {537}{}{My skill ain't high enough. Spend some skill points on me, then I'll try again. Ha-Ha.}
-{538}{}{I didn't learn anything.}
+{538}{}{Não aprendi nada.}
 {539}{}{I can't make a successful Science Roll under these conditions.}
 {540}{}{Beep. Myron has used the SCIENCE skill unsuccessfully.}
 {550}{}{All right, all right! Stop pushing!}
