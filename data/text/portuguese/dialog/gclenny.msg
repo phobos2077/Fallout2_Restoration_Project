@@ -1,112 +1,112 @@
-{100}{}{You see an especially short, older ghoul.}
-{101}{}{You see Lenny, Harold's assistant.}
-{102}{}{You see a short, older ghoul. He appears to be preoccupied.}
-{110}{}{Hello there, my name's Lenny. H'how can I h'help you?}
-{111}{}{Hello ag'gain. How c'can I help you?}
-{112}{}{I hear that you're the Descendant of the Vault Dweller. You know, I met the Vault Dweller once.}
-{113}{}{Hello there. I j'just can't g'get over h'how much you look like the Vault Dweller. Wh'what
- c'can I do for you?}
+{100}{}{Você vê um ghoul particularmente baixo e velho.}
+{101}{}{Você vê Lenny, o assistente de Harold.}
+{102}{}{Você vê um ghoul baixo e velho. Ele parece preocupado.}
+{110}{}{Olá, meu nome é Lenny. C-omo posso a-judá-lo?}
+{111}{}{Olá no-vamente. Como po-sso te ajudar?}
+{112}{}{Ouvi dizer que você é o descendente do Morador da Vault. Sabe, eu conheci o ele uma vez.}
+{113}{}{Olá. Não tem co-mo esquecer o quan-to você se parece com o Morador da Vault. O que
+ po-sso fazer por você?}
 {114}{}{Grenny? Heewo.}
 {115}{}{O que você faz aqui?}
-{116}{}{I'm wounded. Can you help me?}
-{117}{}{One of my friends is hurt. Can you help them?}
-{118}{}{My friends are hurt. Can you help them?}
-{119}{}{Lenny, have you ever heard of something called a Garden of Eden Creation Kit?}
-{120}{}{You met my ancestor?}
-{121}{}{I'm just looking around. Goodbye.}
-{122}{}{Can you provide healing?}
-{125}{}{Yes. What do you need?}
-{126}{}{I guess I don't need anything right now.}
-{130}{}{Y'you sh'shouldn't have left your village. G'go home now.}
-{131}{}{Home? Goobye.}
-{140}{}{Y'you sh'should go home.}
-{141}{}{I c'can't take time for you.}
-{142}{}{Sh'shoo. Go away!}
-{150}{}{A G'garden of Eden C'creation K'kit? I heard that Vault City had one of those. That's the only
- one I've ever heard of, though.}
-{151}{}{I'm wounded. Can you help me?}
-{152}{}{One of my friends is hurt. Can you help them?}
-{153}{}{Well, my ancestor, the Vault Dweller, said that Vault 13 owes us one. I need to find it.}
+{116}{}{Estou ferido. Pode me ajudar?}
+{117}{}{Um dos meus amigos está ferido. Você pode ajuda-lo?}
+{118}{}{Meus amigos estão feridos. Você pode ajuda-los?}
+{119}{}{Lenny, você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{120}{}{Conheceu meu ancestral?}
+{121}{}{Estou só dando uma olhada. Adeus.}
+{122}{}{Oferece serviços médicos?}
+{125}{}{Sim. Do que precisa?}
+{126}{}{Acho que não preciso de nada agora.}
+{130}{}{Vo-cê não de-veria ter deixado sua aldeia. Vá pa-ra casa agora.}
+{131}{}{Casa? Ade-us.}
+{140}{}{D-everia ir para casa.}
+{141}{}{Não P-osso desperdiçar tempo com você.}
+{142}{}{Sh-shoo. Saia!}
+{150}{}{Um Kit de Cr-iação do Jardim do É-den? Ouvi dizer que Vault City tinha um desses. Esse é o único
+ que eu ouvi falar.}
+{151}{}{Estou ferido. Pode me ajudar?}
+{152}{}{Um dos meus amigos está ferido. Você pode ajuda-lo?}
+{153}{}{Bem, meu ancestral, o Morador da Vault, disse que o Vault 13 nos deve uma. Eu preciso encontrar.}
 {154}{}{Acho que é tudo o que eu precisava saber. Tchau.}
-{160}{}{W'well, I h'help H'harold mostly. Wh'when people get hurt, I h'help them out.}
-{161}{}{Help Harold do what?}
+{160}{}{Eu p-rincipalmente ajudo H'harold. Eu tam-bém ajudo as pessoas q-ue chegam m-achucadas.}
+{161}{}{No que você ajuda Harold?}
 {162}{}{Deixe-me perguntar-lhe algo mais.}
-{163}{}{You can heal people?}
-{164}{}{I'm wounded. Can you help me?}
-{165}{}{One of my friends is hurt. Can you help them?}
-{166}{}{I'll have to keep that in mind, if I get hurt. Thanks. Goodbye.}
-{170}{}{L'let me t'take a look at that. I th'think I c'can help you.}
-{171}{}{Isn't this going to cost me anything?}
-{172}{}{Thanks, Lenny. Let me ask you something else.}
-{173}{}{Thanks, Lenny. Goodbye.}
-{174}{}{I c'can h'help you. B'but it'll c'cost you $30. F'for supplies.}
-{175}{}{I don't think I need your help right now. Goodbye.}
-{180}{}{Well, your f'friend c'could use a little h'help. I c'can h'help them though.}
-{181}{}{L'look's like you f'found some kind of trouble to g'get into. I c'can fix them up, though.}
-{182}{}{Isn't this going to cost me anything?}
-{183}{}{Thanks Lenny. Let me ask you something else.}
-{184}{}{Thanks Lenny. Goodbye.}
-{185}{}{Your f'friend is hurt. I can f'fix 'em up f'for $30. I n'need the m'money for s'supplies.}
-{186}{}{What have you f'folks been up to. L'looks l'like you c'could really use some healing. I
- n'need to charge you $60 to heal everyone.}
-{187}{}{Your f'friend looks ok to me.}
-{190}{}{W'well. I didn't actually m'meet the V'vault Dweller. But I saw 'em. Once. }
-{191}{}{You saw the Vault Dweller? Where?}
-{192}{}{Oh, I see. Well, I've got places to go, things to kill. Goodbye.}
-{200}{}{Well, b'before the W'war I w'was a doctor.}
-{201}{}{Before the war? But that must have been almost 160 years ago.}
-{202}{}{Oh; well, that explains it. Thanks. Goodbye.}
-{210}{}{That's t'true. B'but the radiation seems to have g'given us g'ghouls a longer life-span.
- 'Course, it took almost everything else away.}
-{211}{}{Took things away?}
-{212}{}{Everything seems to have good and bad mixed together. Goodbye.}
-{220}{}{W'well, y'yes. We look l'like f'friggin' f'freaks. We d'don't have any skin, for Chrisakes.}
-{221}{}{Well, I guess you have seen better days.}
-{222}{}{As a group, you're not the most attractive bunch on the planet. Goodbye.}
-{230}{}{Y'you c'could say that. I'd trade in all those years to b'be a n'normal person again.}
-{231}{}{Well, not much hope of that, I suppose.}
-{232}{}{I bet you would. Goodbye.}
-{240}{}{If those f'fools in Vault City w'would share their medical technology, I'm sure we could
- c'cleanse the excess r'radiation and heal ourselves.}
-{241}{}{They won't help you?}
+{163}{}{Você pode curar pessoas?}
+{164}{}{Estou ferido. Pode me ajudar?}
+{165}{}{Um dos meus amigos está ferido. Você pode ajuda-lo?}
+{166}{}{Vou me lembrar disso caso eu me machuque. Obrigado e até mais.}
+{170}{}{D-eixe-me dar uma olhada nisso. Eu acho que p-osso te ajudar.}
+{171}{}{Isso não vai me custar nada?}
+{172}{}{Obrigado, Lenny. Deixe-me perguntar outra coisa.}
+{173}{}{Obrigado, Lenny. Adeus.}
+{174}{}{Eu posso te ajudar. Mas vai custar $30. P-ara os suprimentos.}
+{175}{}{Não acho que preciso da sua ajuda agora. Adeus.}
+{180}{}{Bem, parece que seu a-migo precisa de uma a-juda. Eu posso cuidar dele.}
+{181}{}{Pa-rece que você se m-eteu em alguns problemas. Mas acho que p-osso cuidar deles.}
+{182}{}{Isso não vai me custar nada?}
+{183}{}{Obrigado Lenny. Deixe-me perguntar outra coisa.}
+{184}{}{Obrigado, Lenny. Adeus.}
+{185}{}{Seu a-migo está ferido. Eu p-osso ajuda-los por $ 30. P-reciso de meu dinheiro para meus s-uprimentos.}
+{186}{}{Aconteceu muita coisa, parece que vocês realmente precisa de ser curados. Eu
+ preciso cobrar $ 60 para curar todos.}
+{187}{}{Seu a-migo parece ok para mim.}
+{190}{}{B-em. Na verdade, eu não conheci o M-orador da Vault. Mas eu já vi. Uma vez. }
+{191}{}{Viu o Morador da Vault? Onde?}
+{192}{}{Oh, certo. Bem, tenho lugares para ir, coisas para matar. Adeus.}
+{200}{}{Bem, antes da g-guerra eu e-ra médico.}
+{201}{}{Antes da guerra? Mas isso deve ter sido há quase 160 anos.}
+{202}{}{Oh; bem, isso explica tudo. Obrigado. Adeus.}
+{210}{}{Isso é v-erdade. M-mas a radiação parece ter dado uma vida mais longa aos g-ghouls.
+ I-nfelizmete levou quase todo o resto embora.}
+{211}{}{Tirou coisas?}
+{212}{}{Tudo parece ter o lado positivo e negativo. Adeus.}
+{220}{}{B-em, s-sim. Nós parecemos m-monstros grotescos. Não t-temos pele, pelo amor de D-eus.}
+{221}{}{Bem, eu acho que você já teve dias melhores.}
+{222}{}{Como grupo, vocês não são o grupo mais atraente do planeta. Adeus.}
+{230}{}{V-você pode dizer isso. Eu t-trocaria todos esses anos p-ara ser uma pessoa n-normal novamente.}
+{231}{}{Bem, não há muita esperança nisso, suponho.}
+{232}{}{Aposto que você faria. Adeus.}
+{240}{}{Se aqueles i-idiotas em Vault City q-quisessem compartilhar sua tecnologia médica, tenho c-erteza que p-poderíamos
+ l-limpar o excesso de r-radiação e nos curar.}
+{241}{}{Eles não vão te ajudar?}
 {242}{}{Acho que já ouvi o bastante. Tchau.}
-{250}{}{Y'you've been to Vault City? Then you t'tell me wh'what you think the chances of g'getting
- h'help from those bigots is. M'might as well watch a p'paper dog chase an asbestos c'cat through hell.}
-{251}{}{I'm sorry to hear that, but I think you're right. Let me ask you about something else.}
-{252}{}{I'm sorry to hear that. Goodbye.}
-{260}{}{N'no. L'life's too short -- heh, heh -- well, for m'most people -- to sweat the s'small stuff.
- Know what? It's all small stuff. This is f'free.}
-{261}{}{Thanks Lenny.}
-{270}{}{I'it w'was a long time ago. In a place called N'necropolis. A lot of us g'ghouls lived there.
- One day, I saw someone running through the city.}
-{271}{}{Running?}
-{272}{}{Well, I think I've had enough of your hazy memories for now. Goodbye.}
-{280}{}{Yes, running. You see, we ghouls c'can't run too much anymore. So, I knew it was an outsider when I saw
- them. They ran by so close I could have touched them. I wish that I had joined the Vault Dweller....}
-{281}{}{You wanted to join my grandsire?}
-{282}{}{Yeah, as though my ancestor would let a fleshless freak like you do anything with them. Goodbye.}
-{283}{}{Uh, well, I'd love to hear the whole story but I've got things to do. Goodbye.}
-{290}{}{Yes. I h'had the chance of a lifetime and I blew it.}
+{250}{}{V-você já esteve em Vault City? E-ntão me diga o que você acha das c-chances de ganhar
+ ajuda d-daqueles fanáticos. É mais fácil que a Bethesda ressuscite no nosso tempo e remasterize Fallout 1 e 2.}
+{251}{}{Lamento ouvir isso, mas acho que você está certo. Deixe-me perguntar sobre outra coisa.}
+{252}{}{Sinto muito por ouvir isso. Adeus.}
+{260}{}{N-não. A vida é muito curta -- heh, heh -- bem, p-para a maioria das p-essoas -- para se matar por pouca coisa.
+ Sabe por que? S-são coisas pequenas. Pegue isso.}
+{261}{}{Obrigado, Lenny.}
+{270}{}{Foi há muito t-tempo. Em um lugar chamado Ne-necropolis. Muitos de nós, g-ghouls, morávamos lá.
+ Um dia, vi alguém correndo pela cidade.}
+{271}{}{Correndo?}
+{272}{}{Bem, eu acho que já tive o suficiente de suas memórias nebulosas. Adeus.}
+{280}{}{Sim, correndo. Veja, nós ghouls não p-odemos correr muito. Então, eu sabia que era um estranho quando vi
+ eles. Eles correram tão perto que eu poderia t-tocá-los. Eu gostaria de ter me juntado ao Morador da Vault....}
+{281}{}{Você queria se juntar ao meu avô?}
+{282}{}{Sim, como se meu ancestral fosse deixar uma aberração nojenta como você o acompanhar. Adeus.}
+{283}{}{Adoraria ouvir a história toda, mas tenho coisas a fazer. Adeus.}
+{290}{}{Sim. Eu t-tive a chance da minha vida e estraguei tudo.}
 {291}{}{O que você quer dizer?}
-{292}{}{Well, those are the breaks. Goodbye.}
-{300}{}{L'later, I h'heard that the Vault Dweller had fixed our water system. The V'vault Dweller saved
- us -- all of us. Do you understand? It didn't matter that we were ghouls. For once it didn't matter.
- We w'were people again. W'worth saving.}
-{301}{}{My ancestor was the founder of our tribe. That memory is revered amongst my people.}
-{302}{}{Well, I'm only interested in saving my tribe. The rest of the world can fend for itself. Goodbye.}
-{310}{}{Later, I heard that the Vault Dweller destroyed the source of the m'mutant army. The Vault
- D'dweller saved all of us. Human and ghoul alike... I could have been a part of that, but I lacked the
- c'courage. I've never forgiven m'myself.}
-{311}{}{I am following in my ancestor's footsteps. Would you like another chance? Will you join me?}
-{312}{}{I'm sure that the work you do here amongst the ghouls has value and meaning. It was good to
- hear of my ancestor. Let me ask you something.}
-{313}{}{Well, a lot of people are cowards deep down inside. It's not something to be overly ashamed of.
- You're just weak. Goodbye.}
-{314}{}{Often the right path is not obvious. We all have our special purpose here. Thanks for telling
- me of my ancestor. Goodbye.}
-{320}{}{I'm h'happier than a bull b'brahmin in a pasture-full o' cows! I'd b'be honored to j'join you.
- I m'may be old and I cain't m'move t'too darn fast, leastwasy not for too long, b'but I kin sure p'patch you up when y'you need it.}
-{321}{}{I am glad that you can join me. I'm sure that your healing skills will come in handy.}
+{292}{}{Bem, a vida é dura. Adeus.}
+{300}{}{Depois, eu o-uvi que o Morador da Vault consertou nosso sistema de água. Ele salvou
+ nós -- todos nós. Você entende? Não im-portava que fôssemos ghouls. Pela primeira vez, alguém se importou.
+ Éramos p-pessoas de novo. Valeu a pena nos ajudar.}
+{301}{}{Meu ancestral foi o fundador da nossa tribo. Essa memória é reverenciada entre meu povo.}
+{302}{}{Bem, só estou interessado em salvar minha tribo. O resto do mundo que se defenda sozinho. Adeus.}
+{310}{}{Mais tarde, eu soube que o Morador da Vault destruiu a fonte do exército m-mutante. O Morador da
+ V-vault salvou a todos. Humanos e ghouls parecidos ... Eu poderia ter feito parte disso, mas me faltou
+ c-coragem. Eu nunca me perdoei.}
+{311}{}{Estou seguindo os passos de meu ancestral. Você gostaria de outra chance? Você pode se juntar a mim?}
+{312}{}{Tenho certeza de que o trabalho que você faz aqui entre os ghouls tem valor e significado. Foi bom
+ ouvir sobre meu ancestral. Deixe me perguntar algo.}
+{313}{}{Bem, muitas pessoas no fundo são covardes. Não é algo para se envergonhar.
+ Você é apenas fraco. Adeus.}
+{314}{}{Frequentemente, o caminho certo não é o óbvio. Todos nós temos nosso propósito especial aqui. Obrigado por me contar
+ sobre meu ancestral. Adeus.}
+{320}{}{Estou m-mais feliz do que um touro brahmin em um p-pasto cheio de vacas! Eu ficaria honrado em me j-juntar a você.
+ Posso e-estar velho e não c-consigo me mover tão rápido, mas tenho certeza de que p-poderei cuidar de vocês quando precisarem.}
+{321}{}{Estou feliz que você possa se juntar a mim. Tenho certeza que suas habilidades de cura serão úteis.}
 {322}{}{Hmm, this might be too arduous for one of your advanced age. I think
  you should stay here. I'm sorry. Goodbye.}
 {330}{}{I have work to do here. I c'cannot join you.}

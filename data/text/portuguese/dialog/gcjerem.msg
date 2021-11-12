@@ -8,50 +8,50 @@
 {112}{}{Todo poderoso?}
 {113}{}{Preciso de algo do armazenamento.}
 {114}{}{De boa por enquanto. Eu só estava olhando em volta. Valeu.}
-{120}{}{Well, if you want something from storage you need a Request Authorization Form. Do you have a
- Request Authorization Form?}
-{121}{}{Yes, I do. Here it is.}
-{122}{}{Uh, no I don't. Where do I get a Request Form?}
-{130}{}{Well, this looks like it, all right. What do you need?}
-{131}{}{I need a 3-step plasma-transformer.}
-{132}{}{I need a 3-step plasma-transformer. Want to know what I need it for?}
-{133}{}{I need a moss-covered, three-handled gredunza.}
-{140}{}{I think I have one right here in this cabinet. Ah, yes. Here it is.}
-{141}{}{Hmm, not the latest model, but it'll have to do. Thanks. Goodbye.}
-{150}{}{I don't even want to know. I think I have one right here in this cabinet. Ah, yes. Here it is.}
-{151}{}{Hmm, not the latest model, but it'll have to do. Thanks. Goodbye.}
-{160}{}{Can't help you now. I'm way too busy.}
-{161}{}{You see, it's all about stuff.}
-{162}{}{You see, it's all about ideas.}
-{163}{}{You see, it's all about words.}
-{164}{}{You see, it's all about Natas.}
-{165}{}{You see, it's all about bald-headed monkeys.}
-{166}{}{You see, it's all about secrets.}
-{167}{}{You see, it's all about marketing.}
-{170}{}{Okay, maybe not all-powerful. But it's pretty damn important. What do you want?}
-{171}{}{I need something from Storage.}
-{172}{}{Uh, nothing. I was just looking around. Goodbye.}
-{180}{}{I can't believe what they let in here these days.}
-{181}{}{Dumb as they come, aren't you?}
-{182}{}{Don't walk into the reactor pit.}
-{183}{}{Uh, I'm too busy to read you a story right now.}
-{184}{}{Keep moving... go ahead. That's a good smoothskin.}
-{190}{}{You need a what? Well, there's a waiting list for those. Need anything else?}
-{191}{}{Uh, I guess I'll just settle for a 3-step plasma transformer.}
-{192}{}{Damn. Nope, nothing else will do. I'll just have to come back. Goodbye.}
-{200}{}{Hmm, you're not a friend of Skeeter's, are you? He's always trying to get me to give him
- valuable supplies. Then he just pulls the stuff apart and breaks it. I wouldn't trust him to fix a
- toaster.}
-{201}{}{Uh, well, actually I was getting it for Skeeter.}
-{202}{}{Skeeter who? I just need to bring this part over to the reactor control-room to fix the... Hey,
- look! Is that a rat over there?}
-{203}{}{I don't know what they're going to do with the thing. I'm just picking it up.}
-{210}{}{I should have expected that. How the hell did Skeeter get anyone to authorize him getting a
- part, though? I just hope he doesn't blow anything up this time. Oh well. Not my business, I suppose.}
-{211}{}{Uh, the part? I need to pick it up now.}
-{220}{}{Well, you could get one from either Harold back in the settlement, or you could get one from
- Festus right here in the main reactor control room. I don't care who you get it from, as long as you
- get it. No Request Authorization, no parts -- that's the way it works.}
-{221}{}{Did you get your Request Authorization form yet? Gotta have the form before I can give you any parts.}
-{222}{}{Oh, okay. Well, I better go get one, then. Goodbye.}
-{300}{}{Actually, I think I'll get it later. Goodbye.}
+{120}{}{Bem, se você quer algo do armazenamento, você precisa de um formulário de solicitação. Você tem
+ esse formulário?}
+{121}{}{Sim, eu tenho. Aqui está.}
+{122}{}{Uh, não tenho. Onde posso pegar um formulário de solicitação?}
+{130}{}{Bem, está tudo em ordem. Do que você precisa?}
+{131}{}{Preciso de um transformador de plasma trifásico.}
+{132}{}{Preciso de um transformador de plasma trifásico. Quer saber para que preciso?}
+{133}{}{Eu preciso de uma gredunza com três cabos e coberto de musgo.}
+{140}{}{Acho que tenho um por aqui. Ah sim, aqui está o seu.}
+{141}{}{Hmm, não é o modelo mais recente, mas deve servir. Obrigado e adeus.}
+{150}{}{Não, não me importa. Acho que tenho um por aqui. Ah sim, aqui está o seu.}
+{151}{}{Hmm, não é o modelo mais recente, mas deve servir. Obrigado e adeus.}
+{160}{}{Não posso te ajudar agora. Estou muito ocupado.}
+{161}{}{Veja, tem a ver com coisas.}
+{162}{}{Veja, tem a ver com ideias.}
+{163}{}{Veja, tem a ver com palavras.}
+{164}{}{Veja, tem a ver com natas.}
+{165}{}{Veja, tem a ver com macacos carecas.}
+{166}{}{Veja, tem a ver com segredos.}
+{167}{}{Veja, tem a ver com publicidade.}
+{170}{}{Ok, talvez não todo poderoso. Mas é bem importante. O que precisa?}
+{171}{}{Preciso de algo do estoque.}
+{172}{}{Uh, nada. Eu só estava dando uma olhada. Adeus.}
+{180}{}{Não acredito no que eles deixam entrar aqui hoje em dia.}
+{181}{}{É um belo idiota, não é?}
+{182}{}{Não entre no poço do reator.}
+{183}{}{Uh, estou muito ocupado para ler uma história para você.}
+{184}{}{Continue andando... vá em frente. Isso, boa, pele lisa.}
+{190}{}{Você precisa do quê? Bem, há uma lista de espera para eles. Precisa de mais alguma coisa?}
+{191}{}{Uh, acho que vou me contentar com um transformador de plasma trifásico.}
+{192}{}{Droga. Não, nada deve servir. Vou ter que voltar. Adeus.}
+{200}{}{Hmm, você não é amigo de Skeeter, é? Ele está sempre tentando me fazer dar a ele
+ umas coisas valiosas. Depois, ele só separa o material e o quebra. Eu não confiaria nele nem para consertar uma
+ torradeira.}
+{201}{}{Bem, na verdade eu estava comprando para o Skeeter.}
+{202}{}{Que Skeeter? Eu só preciso levar esta parte para a sala de controle do reator para consertar o... Ei,
+ olha! É um rato correndo alí?}
+{203}{}{Não sei o que farão com isso. Só estou pegando.}
+{210}{}{Eu deveria ter imaginado. Mas como que Skeeter conseguiu que autorização para pegar essa
+ peça? Só espero que ele não exploda nada desta vez. Ah, que se dane, não é da minha conta.}
+{211}{}{Uh, a parte? Eu preciso pegar agora.}
+{220}{}{Bem, você pode pegar uma com Harold de volta ao assentamento, ou você pode pegar com
+ Festus bem aqui na sala de controle do reator principal. Eu não me importo com quem você pega, contanto que
+ pegue. Sem solicitação de autorização, sem peça - é assim que funciona.}
+{221}{}{Você já recebeu seu formulário de solicitação? Tenho que ter o formulário antes de te dar as peças.}
+{222}{}{Oh, tudo bem. Vou pegar um então. Até logo.}
+{300}{}{Na verdade, acho que vou ver isso depois. Adeus.}
