@@ -107,45 +107,44 @@
 {320}{}{Estou m-mais feliz do que um touro brahmin em um p-pasto cheio de vacas! Eu ficaria honrado em me j-juntar a você.
  Posso e-estar velho e não c-consigo me mover tão rápido, mas tenho certeza de que p-poderei cuidar de vocês quando precisarem.}
 {321}{}{Estou feliz que você possa se juntar a mim. Tenho certeza que suas habilidades de cura serão úteis.}
-{322}{}{Hmm, this might be too arduous for one of your advanced age. I think
- you should stay here. I'm sorry. Goodbye.}
-{330}{}{I have work to do here. I c'cannot join you.}
-{331}{}{You are n'not at all like your ancestor. Y'you disgrace their m'memory.}
-{332}{}{Y'you have m'much to learn about life. I d'do not like what y'you have learned so far.}
-{333}{}{I am saddened to hear that you cannot join me.}
-{334}{}{Jeez, you'd think a piece of rotting meat like you would leap at the chance to get out of this
- glowing cesspool of a town. Goodbye.}
-{340}{}{I h'help H'harold administer the town. Th'there's always more p'paperwork to do.}
-{341}{}{What else did you say you did here?}
+{322}{}{Hmm, isso pode ser muito difícil para alguém de sua idade. eu acho
+ que você deveria ficar aqui. Desculpe. Adeus.}
+{330}{}{Tenho trabalho a fazer aqui. Eu não posso me juntar a você.}
+{331}{}{Você n-não tem nada de parecido com seu ancestral. Você desgraçou a m-memória dele.}
+{332}{}{V-você tem muito que aprender sobre a vida. Não g-osto do que você ap-prendeu até agora.}
+{333}{}{Fico triste em saber que você não pode me acompanhar.}
+{334}{}{Putz, você acha que um pedaço de carne podre como você teria a chance de sair desta
+ fossa nojenta que você chama de uma cidade. Adeus.}
+{340}{}{Eu aj-judo H-harold a administrar a cidade. Sempre há mais p-apelada para fazer.}
+{341}{}{O que mais você disse que faz aqui?}
 {342}{}{Acho que é tudo o que eu queria saber. Tchau.}
-{350}{}{You d'didn't have enough m'money... b'but I helped y'you out anyway. J'jist c'cant stand to see
- p'people in p'pain.}
-{351}{}{I can't thank you enough, Lenny. I need some more information from you, though.}
-{352}{}{Thanks, Lenny. I definitely owe you one. Goodbye.}
-{360}{}{There are s'so many p'people here. You d'don't need my h'help, anymore. G'good-luck to you.}
-{370}{}{I never th'thought I'd live to see the d'day when I'd be ashamed to b'be p'part of what you're
- doing. You're a d'disgrace to the Vault Dweller's m'memory. B'dee-ya, b'dee-ya, goodbye.}
-{371}{}{Y'know, I th'thought it w'would be nice to t'travel around with y'you. But you're j'jist an
- ornery and c'cantankerous as a bull b'brahmin with a c'cactus up its ass. And you don't s'smell much
- b'better, either. B'dee-ya, b'dee-ya, goodbye.}
-{372}{}{I'm sorry to see you go, Lenny.}
-{373}{}{You can't handle it, huh? Well, you better just drag your half-rotten carcass away before I make
- up my mind as to whether snuffing you is worth a cartridge or not.}
-{374}{}{*Burp* Yeah, whatever. I guess you've got other things to do, like spending all of your free
- time trying to remember what it was like to have skin that didn't look like three month old roadkill
- in July. Get out of here, you fucking freak.}
+{350}{}{Você não ti-tinha dinheiro suficiente... m-mas eu te ajudei mesmo assim. Eu não p-posso ficar parado aqui para ver
+ p-pessoas sofrendo.}
+{351}{}{Não posso agradecer o suficiente, Lenny. Mas eu ainda preciso de mais algumas informações de você.}
+{352}{}{Obrigado, Lenny. Eu definitivamente te devo uma. Adeus.}
+{360}{}{Há gente d-demais aqui. Você não p-precisa da minha ajuda. B-boa sorte para você.}
+{370}{}{Nunca p-pensei que estaria vivo até o d-ia de ver essa vergonha do qual v-você está fazendo 
+ parte. Você é uma d-desgraça para a memória do Morador da Vault. Até n-nunca mais, adeus.}
+{371}{}{S-sabe, achei que seria bom v-viajar com você. Mas você é apenas um
+ r-ranzinza e rabugento como um touro b-brahmin com um cacto enfiado no rabo. E você não c-cheira muito
+ m-melhor também. Até n-unca mais, adeus.}
+{372}{}{Lamento ver você partir, Lenny.}
+{373}{}{Você não pode lidar com isso, hein? Bem, é melhor você arrastar sua carcaça podre antes que me
+ me pergunte se vale a pena gastar um cartucho na tua cabeça.}
+{374}{}{*Arroto* Sim, que seja. Acho que você tem outras coisas a fazer, como gastar todo o seu
+ tempo tentando lembrar como era ter uma pele que não se parecia com um mendigo atropelado a uns meses atrás com o corpo apodrecendo no asfalto. Some daqui, retardado de bosta.}
 {375}{}{Tudo bem.}
-{380}{}{Wh'what d'do you w'want me to do?}
-{381}{}{Lenny, I know you're really trying. But please get out of my way.}
-{382}{}{I need you to fight differently, Lenny.}
+{380}{}{O q-que você quer que eu f-faça?}
+{381}{}{Lenny, eu sei que você está realmente tentando. Mas, por favor, saia do meu caminho.}
+{382}{}{Eu preciso que você lute de forma diferente, Lenny.}
 {383}{}{Eu preciso que você espere aqui.}
-{384}{}{Physician, heal thyself.}
-{385}{}{I need some healing, Lenny.}
-{386}{}{I need you to heal some of our friends here.}
-{387}{}{I need you to heal us.}
-{388}{}{How are you doing, old-timer?}
-{389}{}{I don't need anything else from you right now, Lenny.}
-{400}{}{You want me to f'fight d'differently?}
+{384}{}{Médico, cure a si mesmo.}
+{385}{}{Preciso que me cure, Lenny.}
+{386}{}{Preciso que você cure alguns de nossos amigos.}
+{387}{}{Preciso que nos cure.}
+{388}{}{Como você está, meu velho?}
+{389}{}{Não preciso de mais nada por agora, Lenny.}
+{400}{}{Você quer que eu l-lute de forma d-diferente?}
 {401}{}{Eu quero que você mude sua distância.}
 {402}{}{Quero que você use sua melhor arma.}
 {403}{}{I want you to use your best armor}
@@ -210,7 +209,7 @@
 {533}{}{Não importa.}
 {540}{}{I c'can't do that. J'jist fighting at all is about all th'these old b'bones kin handle.}
 {541}{}{OK. Never mind.}
-{1000}{}{Wh'what d'do you w'want me to do?}
+{1000}{}{O q-que você quer que eu f-faça?}
 {1100}{}{I'm d'doing fine.}
 {1200}{}{I have a minor w'wound but I can keep g'going.}
 {1300}{}{That's a g'good idea. I w'was wondering when we'd s'stop for that. I'm h'hurtin' fer c'certain.}
@@ -222,8 +221,8 @@
 {1800}{}{I g'guess we d'don't want to m'make too easy a t'target huh?}
 {1900}{}{Okay, I'll s'stay a b'bit farther off. S'seems like people mostly want to k'kill you, anyways.}
 {2000}{}{There are s'so many p'people here. You d'don't need my h'help anymore. G'good-luck to you.}
-{2100}{}{I never th'thought I'd live to see the d'day when I'd be ashamed to b'be p'part of what you're
- doing. You're a d'disgrace to the Vault Dweller's m'memory. B'dee-ya, b'dee-ya, goodbye.}
+{2100}{}{Nunca p-pensei que estaria vivo até o d-ia de ver essa vergonha do qual v-você está fazendo 
+ parte. Você é uma d-desgraça para a memória do Morador da Vault. Até n-nunca mais, adeus.}
 {2200}{}{I w'wasn't sure you'd come back.}
 {2300}{}{What's with the rush all the time?}
 {2301}{}{Oh, sorry. I'll get out of your way.}
