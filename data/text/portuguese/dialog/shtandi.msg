@@ -127,7 +127,7 @@
 {226}{}{I'm curious about some work.}
 {227}{}{I'm curious about some work.}
 {228}{tand24}{Seems to me that you've got enough on your plate already.}
-{229}{}{OK. Never mind.}
+{229}{}{Ok. Nada não.}
 {230}{}{Yeah, you're right.}
 {231}{tand25}{Ever since Westin died, Carlson's been holed up in his office. Probably won't see you, but you can talk to his boys.}
 {232}{}{Ok.}

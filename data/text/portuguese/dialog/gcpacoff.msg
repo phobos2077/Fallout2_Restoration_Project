@@ -1,37 +1,37 @@
 {100}{}{}
 {101}{}{}
 {102}{}{}
-{103}{powr1}{ENCLAVE here. Why isn't your video feed working?}
-{104}{}{Uh, it's working just fine. I can see you.}
-{105}{}{It's broken.}
-{106}{}{We're working on the visual link right now. I just wanted to test it.}
-{107}{}{(Logoff.)}
-{108}{powr2}{Who the hell is this?}
-{109}{}{Uh, we're all fine here. How are you?}
-{110}{}{This is caau, rit, sss, pu-, -ear me. Over.}
-{111}{}{I'm the Chosen One, so you just better watch your language.}
-{112}{}{This is Unit Three reporting in.}
-{113}{powr3_c}{Well, your unit still doesn't appear to be operational, Pal. Who is this?}
-{114}{powr3a}{That didn't make a damn bit of difference. I'm still not gettin' a damn thing. Who are you?}
-{115}{}{Please repeat. Over.}
-{116}{}{I could tell you but then I'd have to kill you.}
-{117}{}{I'm the Chosen One.}
-{118}{}{Well, that's not unusual, is it? Nothing works right anymore.}
-{119}{}{That's for me to know and you to find out. Goodbye.}
-{120}{powr3b_b}{What are you talking about? Who-who is this?}
-{121}{}{I could tell you but then I'd have to kill you.}
-{122}{}{I'm the Chosen One.}
-{123}{}{Well, that's not unusual, is it? Nothing works right anymore.}
-{124}{}{That's for me to know and you to find out. Goodbye.}
-{125}{powr4a_a}{The President! I, uh...}
-{126}{powr4b_b}{Oh? A wise guy, huh? Look, I'm tracing you right now, pal. We'll see how smart you feel with internal security all over your fricking ass. Dickhead!}
-{127}{powr4c_a}{Now, I've had enough of your bullshit. How would you like to play dodge-the-plasma with the Assault Squad? Huh?}
-{128}{}{Hey, I'm sorry, I didn't mean to upset you.}
-{129}{}{I've got your trace for you, and I can show you just where to shove it.}
-{130}{}{You're putting a trace on me? Well, I'm putting a trace on you too, pal.}
-{131}{}{I'd love to stick around and talk to all of your pals about that bridal shower you've been planning but I've got better things to do with my time. Goodbye.}
-{132}{}{Well, I, uh, I've got to be going. Goodbye.}
-{133}{powr5_a}{Try the gain.}
+{103}{powr1}{ENCLAVE aqui. Por que seu sinal de vídeo não está funcionando?}
+{104}{}{Uh, está funcionando normal. Estou te vendo.}
+{105}{}{Está quebrado.}
+{106}{}{Estamos trabalhando agora no link visual. Só queria testar.}
+{107}{}{(Desconectando.)}
+{108}{powr2}{O que aconteceu?}
+{109}{}{Uh, estamos todos bem aqui. Como você está?}
+{110}{}{Aqui é caau, rit, sss, pu-, - Câmbio.}
+{111}{}{Eu sou o Escolhido, tome cuidado com sua língua.}
+{112}{}{Este é o relatório da Unidade Três.}
+{113}{powr3_c}{Bem, sua unidade ainda não parece estar operacional. Quem é?}
+{114}{powr3a}{Não faz diferença nenhuma. Eu ainda não estou entendendo nada. Quem é você?}
+{115}{}{Por favor repita. Câmbio.}
+{116}{}{Eu poderia te dizer, mas então teria que te matar.}
+{117}{}{Eu sou o Escolhido.}
+{118}{}{Bem, isso não difícil, não é? Nada funciona do jeito certo.}
+{119}{}{Isso é o que eu sei e você deve verificar. Tchau.}
+{120}{powr3b_b}{Do que você está falando? Q-quem é?}
+{121}{}{Eu poderia te dizer, mas então teria que te matar.}
+{122}{}{Eu sou o Escolhido.}
+{123}{}{Bem, isso não difícil, não é? Nada funciona do jeito certo.}
+{124}{}{Isso é o que eu sei e você deve verificar. Tchau.}
+{125}{powr4a_a}{O presidente! Eu, uh...}
+{126}{powr4b_b}{Oh? Engraçadão, hein? Olha, estou te rastreando agora mesmo, parceiro. Veremos como você se sente inteligente com a segurança interna no seu cangote. Idiota!}
+{127}{powr4c_a}{Já cansei dessas besteiras. Você gostaria de jogar se-esquive-dos-raios-de-plasma com o esquadrão? Hein?}
+{128}{}{Ei, desculpe, eu não queria te chatear.}
+{129}{}{Consigo rastrear você e te mostrar onde enfiá-lo.}
+{130}{}{Você está me rastreando? Bem, estou fazendo a mesma coisa com você, amigão.}
+{131}{}{Eu adoraria ficar por aqui e trocar uma ideia com seus amiguinhos sobre aquele chá de panela que vocês estão planejando, mas tenho coisas melhores para fazer com meu tempo. Falou.}
+{132}{}{Bem, eu, uh, eu tenho que ir. Adeus.}
+{133}{powr5_a}{Experimente o lucro.}
 {134}{}{Pronto... isso deve bastar. Melhor agora?}
 {135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
 {136}{}{I'll just try back later. Goodbye.}
@@ -60,7 +60,7 @@
 {159}{}{Well, I better get back to work. Gotta get this link fixed. Goodbye.}
 {160}{powr12}{The President of the United-fucking-States-of-America. Who'd you think I was talking about? Who the fu - Who is - What - I should kick your fucking ass, who is this?}
 {161}{}{Eu sou o escolhido. Beije meus pés. }
-{162}{}{I'm the Chosen One.}
+{162}{}{Eu sou o Escolhido.}
 {163}{}{I'm the President. You're in a heap of trouble.}
 {164}{}{You're not important enough for that information.}
 {165}{}{Uh, I better be going. Lots of work to do here. Goodbye.}

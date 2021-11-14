@@ -147,135 +147,135 @@
 {400}{}{Você quer que eu l-lute de forma d-diferente?}
 {401}{}{Eu quero que você mude sua distância.}
 {402}{}{Quero que você use sua melhor arma.}
-{403}{}{I want you to use your best armor}
-{404}{}{I want you to fight differently.}
+{403}{}{Eu quero que você use sua melhor armadura}
+{404}{}{Eu quero que você lute de forma diferente.}
 {405}{}{Não importa.}
-{410}{}{H'how, f'far do you want m'me to be? You know it's hard for me to c'catch up.}
-{411}{}{I want you to stay only a short distance away from me.}
-{412}{}{I want you to stay at medium distance.}
-{413}{}{I want you to stay at long distance.}
-{414}{}{I need you to scout ahead.}
+{410}{}{Q-qual distância você q-quer que eu fique? Você sabe que é d-difícil te alcançar.}
+{411}{}{Quero que você fique a uma curta distância de mim.}
+{412}{}{quero que você fique a uma distância média.}
+{413}{}{Quero que você fique a uma longa distância.}
+{414}{}{Preciso que você faça um reconhecimento à frente.}
 {415}{}{Não importa.}
-{420}{}{Wh'what d'do you want me to d'do?}
-{421}{}{I want you to fight defensively for now.}
-{422}{}{I need you to fight normally.}
-{423}{}{I need you to fight aggressively.}
+{420}{}{O q-que você quer que eu f-aça?}
+{421}{}{Eu quero que você lute defensivamente agora.}
+{422}{}{Preciso que você lute normalmente.}
+{423}{}{Preciso que você seja mais agressivo.}
 {424}{}{Não importa.}
-{430}{}{I g'guess you c'can teach an old d'dog new tricks. What a k'kick.}
-{431}{}{I j'jist c'can't seem to g'get the hang of it, somehow.}
+{430}{}{Acho q-que você p-ode ensinar novos truques a um cachorro velho. B-brilhante.}
+{431}{}{Não e-estou conseguindo pe-pegar o jeito.}
 {432}{}{Tudo bem.}
-{440}{}{Oh, Okay. I'll w'wait right here until you g'get back. G'give me a chance to r'rest my aching
- j'joints.}
-{441}{}{You do that, Lenny. Goodbye.}
-{442}{}{You should wait here; oh, and another thing...}
+{440}{}{Oh, tudo bem. Vou esperar por aqui até v-ocê voltar. Me de um tempo para eu d-descansar minhas
+ j-juntas.}
+{441}{}{Faça isso, Lenny. Adeus.}
+{442}{}{Deveria esperar aqui; ah, e outra coisa...}
 {443}{}{Não importa.}
-{450}{}{I g'gotta g'get a b'bigger g'gun.}
-{451}{}{Use your best weapon, Lenny.}
-{461}{}{Put your best armor on, Lenny.}
-{462}{}{Lenny, after you put on your best armor, there's something else I need you to do for me.}
+{450}{}{P-preciso conseguir u-uma arma maior.}
+{451}{}{Use sua melhor arma, Lenny.}
+{461}{}{Vista sua melhor armadura, Lenny.}
+{462}{}{Lenny, depois de colocar sua melhor armadura, há outra coisa que precisa fazer por mim.}
 {463}{}{Não importa.}
-{470}{}{That's a g'good idea. I w'was wondering when we'd s'stop for that. I'm h'hurtin' fer c'certain.}
-{471}{}{Y'you ought to l'let m'me take a l'look at those w'wounds o' yours.}
-{472}{}{Seems l'like someone n'needs m'me to sow 'em up ag'gain.}
-{473}{}{Go ahead and heal yourself.}
-{474}{}{Heal yourself, and then there's something else I need you to do.}
-{475}{}{Go ahead and heal me, please.}
-{476}{}{Heal me, and then there's something else I need you to do.}
-{477}{}{Go ahead and heal us.}
-{478}{}{Heal us, and then there's something else I need you to do.}
+{470}{}{É uma b-boa ideia. Eu e-estava me perguntando quando p-araríamos para isso. E-estou dolorido.}
+{471}{}{D-deveria me deixar d-dar uma olhada n-esses machucados.}
+{472}{}{Parece que al-aguém precisa que eu c-cure alguns machucados.}
+{473}{}{Vá em frente e cure-se.}
+{474}{}{Cure-se, e ainda tem outra coisa que preciso que você faça.}
+{475}{}{Vá em frente e me cure, por favor.}
+{476}{}{Me cure, e ainda há outra coisa que preciso que você faça.}
+{477}{}{Vá em frente e nos cure.}
+{478}{}{Nos cure, e então há outra coisa que preciso que você faça.}
 {479}{}{Não importa.}
-{480}{}{I c'cain't d'do that. I'm not really much of a scout.}
-{481}{}{Oh, okay. Never mind.}
-{490}{}{I'll s'stick c'close to you.}
-{491}{}{Stay close now, Lenny.}
-{492}{}{Stay close, and there's something else I need you to do for me too.}
+{480}{}{Eu n-não posso f-fazer isso. Não sou um b-om explorador.}
+{481}{}{Oh, tudo bem. Esquece.}
+{490}{}{Eu v-vou ficar p-perto de você.}
+{491}{}{Fique perto agora, Lenny.}
+{492}{}{Fique mais perto, e ainda há outra coisa que você precisa fazer por mim.}
 {493}{}{Não importa.}
-{500}{}{I g'guess we d'don't want to m'make too easy a t'target huh?}
-{501}{}{Don't get too close, Lenny. I want to make them work at hitting us.}
-{502}{}{Don't close up too much. There's something else I need you to do for me, too.}
+{500}{}{Acho q-que não queremos que eu me t-torne um alvo fácil, hein?}
+{501}{}{Não chegue muito perto, Lenny. Quero que seja difícil dele nos atingir.}
+{502}{}{Não chegue muito perto. Há outra coisa que preciso que você faça por mim.}
 {503}{}{Não importa.}
-{510}{}{Okay, I'll s'stay a b'bit farther off. S'seems like people mostly want to k'kill you, anyways.}
-{511}{}{I need you to keep back for your own safety. It has absolutely nothing to do with the way you
- smell.}
-{512}{}{Before we spread out I need you to do something else for me, as well.}
+{510}{}{Ok, vou f-ficar um p-pouco mais longe. Parece que a m-maioria das pessoas querem te matar.}
+{511}{}{Eu preciso que você fique mais atrás para sua segurança. Não tem nada a ver com seu
+ cheiro.}
+{512}{}{Antes de nos separarmos, preciso que você faça outra coisa por mim também.}
 {513}{}{Não importa.}
-{520}{}{I've g'gotten pretty g'good at looking out f'fer myself o'er the years.}
-{521}{}{I just need you to be careful when we get into fights.}
-{522}{}{I want to make sure that nothing happens to you. Heck, you're an antique. One more thing, though...}
+{520}{}{Com o p-passar dos anos me t-tornei muito bom em cuidar de m-im mesmo. }
+{521}{}{Eu preciso que você se cuide quando começarmos uma briga.}
+{522}{}{Quero ter certeza de que nada acontecerá com você. Caramba, você é uma antiguidade. Mais uma coisa...}
 {523}{}{Não importa.}
-{530}{}{Only way to d'do it.}
-{531}{}{Just fight the way you normally would, and we should be fine.}
-{532}{}{Just loosen up and fight normally. One more thing...}
+{530}{}{Única maneira de fazer isso.}
+{531}{}{Apenas lute do jeito que você normalmente faria, vamos ficar bem.}
+{532}{}{Apenas relaxe e lute normalmente. Outra coisa...}
 {533}{}{Não importa.}
-{540}{}{I c'can't do that. J'jist fighting at all is about all th'these old b'bones kin handle.}
-{541}{}{OK. Never mind.}
+{540}{}{Eu não p-posso fazer isso. Só lutar já é mais do que e-esses meus v-elhos ossos aguentam.}
+{541}{}{Ok. Nada não.}
 {1000}{}{O q-que você quer que eu f-faça?}
-{1100}{}{I'm d'doing fine.}
-{1200}{}{I have a minor w'wound but I can keep g'going.}
-{1300}{}{That's a g'good idea. I w'was wondering when we'd s'stop for that. I'm h'hurtin' fer c'certain.}
-{1400}{}{I need healing now or I'm g'gonna die.}
-{1500}{}{Oh, okay. I'll w'wait right here until you g'get back. G'give me a chance to r'rest my aching
- j'joints.}
+{1100}{}{E-estou indo bem.}
+{1200}{}{Eu tenho um m-machucado, mas posso co-continuar indo.}
+{1300}{}{É uma b-boa ideia. Eu e-estava me perguntando quando p-araríamos para isso. E-estou dolorido.}
+{1400}{}{Preciso de cura agora ou v-vou morrer.}
+{1500}{}{Oh, tudo bem. Vou esperar aqui m-mesmo até você voltar. Me dê uma c-hance para eu d-descansar minhas
+ juntas.}
 {1600}{}{Tudo bem.}
-{1700}{}{I'll s'stick c'close to you.}
-{1800}{}{I g'guess we d'don't want to m'make too easy a t'target huh?}
-{1900}{}{Okay, I'll s'stay a b'bit farther off. S'seems like people mostly want to k'kill you, anyways.}
-{2000}{}{There are s'so many p'people here. You d'don't need my h'help anymore. G'good-luck to you.}
+{1700}{}{Eu v-vou ficar p-perto de você.}
+{1800}{}{Acho q-que não queremos que eu me t-torne um alvo fácil, hein?}
+{1900}{}{Ok, vou f-ficar um p-pouco mais longe. Parece que a m-maioria das pessoas querem te matar.}
+{2000}{}{H-há muitas p-pessoas aqui. Você não precisa mais da m-minha ajuda. B-oa sorte para você.}
 {2100}{}{Nunca p-pensei que estaria vivo até o d-ia de ver essa vergonha do qual v-você está fazendo 
  parte. Você é uma d-desgraça para a memória do Morador da Vault. Até n-nunca mais, adeus.}
-{2200}{}{I w'wasn't sure you'd come back.}
-{2300}{}{What's with the rush all the time?}
-{2301}{}{Oh, sorry. I'll get out of your way.}
-{2302}{}{Rush, rush, rush. OK, take it easy, I'm moving. Sorry, I didn't mean to get in your way.}
-{2303}{}{I'm sorry, I just can't move any faster. I'll get out of your way then.}
-{2304}{}{Oh, okay, I'll lurch out of your way.}
-{2305}{}{I'll just stagger over here then.}
-{2306}{}{I don't mean to be an obstacle.}
-{2307}{}{Oh, sorry.}
-{3000}{}{Too many bad things happen around you. I am leaving before something happens to me.}
-{3001}{}{I'm not going to help a childkiller. Goodbye.}
-{3002}{}{You scare me with your bloodlust. I will not follow you anymore.}
-{3003}{}{I don't want anything to do with a slaver. Goodbye.}
-{3004}{}{You are a traitor! You destroyed our powerplant. I will not help you.}
-{3005}{}{I d'don't want anything to d'do with you.}
-{4000}{}{Well, okay, but I sure don't want to be left all alone here.}
-{4001}{}{All right, if you think it's really a good idea.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
-{4003}{}{Gosh I hope I won't need that.}
-{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
-{5000}{}{I think I m'might have a b'broken limb.}
-{5001}{}{I think I m'might be r'radiated.}
-{5002}{}{I think I m'might be p'poisoned.}
-{5100}{}{I'm f'feeling a b'bit warm now.}
-{5101}{}{That's b'better.}
-{6000}{}{I need a professional opinion, Lenny. What do you know about managing a heart condition?}
-{6001}{}{Can you tell me anything about these pills I found, Doc?}
-{6010}{}{What seems to be the t'trouble? Your t'ticker ain't g'givin' out on you now, is it?}
-{6011}{}{No, I was actually wondering if there was anything we could do for Cassidy.}
-{6012}{}{No. I'm going to murder an infirmed old man and I was trying to come up with something more creative than sneaking up and popping a paper bag.}
-{6013}{}{Just chalk it up to academic curiosity, I guess.}
-{6020}{}{Heh. No need to get t'tetchy, now.}
-{6021}{}{Well, mostly, it's just c'common sense stuff. Eatin' right, steerin' c'clear of the harder c'chems, that sorta thing. K'keepin' stress to a m'minimum. B'basically, livin' m'more like an old l'lady, and less like... well, us. Heh. O'course, the b'best thing you could d'do would probably be to t'tamp it down with some c'cardiac regulators, m'maybe some v'vasodilators.}
-{6022}{}{Cardiac what now?}
-{6023}{}{Hmm. Heart pills.}
-{6030}{}{Let's see, now... (Lenny mutters to himself as he reads over the label.)}
-{6040}{}{Heart pills. I guess what they're p'puttin' out in Vault City and NCR these d'days ain't much different than w'what we were usin' b'back before the w'war. Strong m'medicine. G'get a fella on that stuff, he'd have the h'heart of a m'mutant m'marathon runner. Heck, if he minded his d'doc and took 'em r'regular-like, he could probably live on hot b'buttered chems and n'not have to worry about it skippin' a s'single b'beat. Uh, n'not that I'd recommend that sort o' thing, of course. D'doctors orders are always supposed to be c'clean livin' and p'plenty of r'roughage, right?}
-{6041}{}{Uh, right. Thanks, Lenny. Let me ask you about something else.}
-{6042}{}{Are they dangerous at all? Any side-effects to look out for?}
-{6043}{}{Do you think these could help Cassidy?}
-{6050}{}{They could be j'just the thing, now that you m'mention it. In fact, I think they w'would be. He'd hafta be careful about a c'coupla' things, though.}
+{2200}{}{Eu n-não tinha certeza se você voltaria.}
+{2300}{}{Por que você está sempre apressado?}
+{2301}{}{Oh, desculpe. Eu vou sair do seu caminho.}
+{2302}{}{Pressa, pressa, pressa. OK, vá com calma, estou indo. Desculpe, não queria atrapalhar.}
+{2303}{}{Sinto muito, não consigo me mover mais rápido. Vou sair do seu caminho.}
+{2304}{}{Oh, ok, vou sair do seu caminho.}
+{2305}{}{Vou me r-rastejar para fora do caminho então}
+{2306}{}{Não pretendo ser um obstáculo.}
+{2307}{}{Oh, sinto muito.}
+{3000}{}{Muitas coisas ruins acontecem ao seu redor. Estou saindo antes que algo aconteça comigo.}
+{3001}{}{Não vou ajudar um assassino de crianças. Adeus.}
+{3002}{}{Você me assusta com sua sede de sangue. Eu não vou mais te seguir.}
+{3003}{}{Não quero ter nada a ver com escravos. Adeus.}
+{3004}{}{Você é um traidor! Você destruiu nosso reator. Eu não vou te ajudar.}
+{3005}{}{N-não quero t-ter nada a ver com v-ocê.}
+{4000}{}{Bem, ok, mas eu não gostaria de ficar sozinho aqui.}
+{4001}{}{Tudo bem, se você acha que é realmente uma boa ideia.}
+{4002}{}{Bem, não gosto de usar armas, a menos que seja realmente necessário, mas acho que posso usar uma faca. Posso usar uma pistola, pelo menos costumava usar. Se eu realmente precisasse, acho que poderia usar uma submetralhadora. Se elas não fossem tão fortes. Eu sou médico, não um lutador.}
+{4003}{}{Puxa, espero não precisar disso.}
+{4004}{}{Bem, não gosto de usar armas, a menos que seja realmente necessário, mas acho que posso usar uma faca. Eu posso usar uma lança, pelo menos costumava usar. Se eu realmente precisasse, acho que poderia usar um rifle. Se eles não fossem tão fortes. Eu sou médico, não um lutador.}
+{5000}{}{Acho que d-devo ter quebrado a-algum membro.}
+{5001}{}{Eu acho que p-posso estar i-irradiado.}
+{5002}{}{Acho que p-posso estar e-envenenado.}
+{5100}{}{Estou me s-sentindo quente a-agora.}
+{5101}{}{Isso é m-melhor.}
+{6000}{}{Preciso de uma opinião profissional, Lenny. O que você sabe sobre como lidar com doenças cardíacas?}
+{6001}{}{Você pode me dizer algo sobre essas pílulas que encontrei, doutor?}
+{6010}{}{Qual parece ser o p-roblema? Seu r-relógio não vai dar o f-fora um você agora, não é?}
+{6011}{}{Não, eu estava realmente me perguntando se havia algo que pudéssemos fazer por Cassidy.}
+{6012}{}{Não. Vou matar um velho doente e estava pensando em algo mais criativo do que ir na surdina e enforcar com um saco de papel.}
+{6013}{}{Apenas atribui isso a curiosidade acadêmica, eu acho.}
+{6020}{}{Heh. Não p-precisa ficar irritado.}
+{6021}{}{Bem, normalmente são a-apenas coisas comuns. Comendo c-certo, evitando mastigações mais d-duras, esse tipo de coisa. Mantendo o estresse b-aixo. Basicamente, vivendo mais como uma velha s-senhora, e menos como... bem, nós. Heh. Claro, a m-elhor coisa que você poderia fazer p-provavelmente seria contê-lo com alguns reguladores c-cardíacos, talvez alguns v-vasodilatadores.}
+{6022}{}{Cardíaco e agora?}
+{6023}{}{Hmm. Comprimidos para o coração.}
+{6030}{}{Vamos ver, agora... (Lenny murmura para si mesmo enquanto lê o rótulo.)}
+{6040}{}{Comprimidos para o coração. Eu acho que o que eles estão usando em Vault City e NCR hoje em dia não é muito diferente do que estávamos usando antes da guerra. Remédio forte. Um cara que usa isso teria o coração de um corredor de maratona mutante. Caramba, se ele ouvisse seu médico e os tomasse normalmente, provavelmente poderia viver comendo só biscoitos amanteigados e nem se preocupar se vai pular uma única batida do coração. Uh, não que eu recomende esse tipo de coisa, é claro. As ordens dos médicos devem ser sempre em ingerir alimentos nutritivos em abundancia, certo?}
+{6041}{}{Uh, certo. Obrigado, Lenny. Me deixe perguntar sobre outra coisa.}
+{6042}{}{Eles são perigosos? Existem efeitos colaterais a serem observados?}
+{6043}{}{Você acha que isso poderia ajudar Cassidy?}
+{6050}{}{Eles poderiam ajudar, agora que você mencionou. Na verdade, acho que sim. Mas ele teria que ser cuidadoso com algumas coisas.}
 {6051}{}{Como o quê?}
-{6052}{}{I knew there'd be a catch.}
-{6060}{}{Nothin' that'd be likely to c'come up t'too often. They've been known to c'cause dizziness. And y'you shouldn't t'take 'em with g'grapefruit juice, though I d'don't think that's gonna be m'much of a p'problem, these days. Unless that's what those l'lumpy g'green things are supposed to be. Hmmm... (Lenny puts a hand to his chin and stares off into space).}
+{6052}{}{Eu sabia que haveria um problema.}
+{6060}{}{Nada que provavelmente surgisse com muita frequência. As vezes eles causam tontura. E você não deve tomá-los com suco de toranja, embora eu não ache que isso seja um grande problema. A menos que isso seja o que aquelas coisas verdes irregulares deveriam ser. Hmmm... (Lenny coloca a mão no queixo e encara o nada).}
 {6061}{}{Lenny?}
-{6070}{}{S'sorry. Oh! One more b'big one. Unless you're l'lookin' to meet a l'less-than-d'dignified end, you *do not* want to g'go mixin' those things with N'new Reno p'pep pills.}
-{6071}{}{Pep... pills?}
-{6072}{}{Bad reaction, then?}
-{6080}{}{Ayup. Y'know, for when your l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
-{6081}{}{Ayup. Y'know, for when a man's l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
-{6082}{}{Oh, yeah. You g'get those two into your s'system together, and KER-BLAM! Your heart'll explode like a b'blood s'sausage. I remember d'doin' p'post-mortems on m'more than one poor g'geezer who was t'too b'busy sowing his oats to r'read a w'warning label.}
-{6083}{}{Blood Sausage?}
-{6084}{}{Huh. Good to know. Thanks a lot, Lenny.}
-{6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}
-{6091}{}{Well, since you asked...}
-{6092}{}{Nope, that'll do. Thanks, Lenny.}
+{6070}{}{Desculpe. Oh! Mais um grande problema. A menos que você esteja procurando encontrar um fim menos digno, você *não* deve misturar essas coisas com as pílulas de New Reno.}
+{6071}{}{Pep... pílulas?}
+{6072}{}{Reação ruim, então?}
+{6080}{}{Ayup. Sabe, para quando seu soldadinho não ficar atento? O nome técnico delas era "inibidores de PDE-5", mas às vezes, sendo o que são, e New Reno sendo o que é... Qualquer um, onde eu estava?}
+{6081}{}{Ayup. Sabe, para quando seu soldadinho não ficar atento? O nome técnico delas era "inibidores de PDE-5", mas às vezes, sendo o que são, e New Reno sendo o que é... Qualquer um, onde eu estava?}
+{6082}{}{Oh sim. Você engole esses dois juntos, e KER-BLAM! Seu coração vai explodir em uma salsicha de sangue. Lembro-me de ter feito mais de um pós-morte em alguns velhos que estavam muito ocupados semeando sua aveia para ler um rótulo de advertência.}
+{6083}{}{Salsicha de sangue?}
+{6084}{}{Eita. Bom saber. Muito obrigado, Lenny.}
+{6090}{}{Oh. Heh. Deve ter s-sido um pouco antes do seu t-tempo. Desculpa. Posso fazer mais alguma coisa por você?}
+{6091}{}{Bem, já que você perguntou...}
+{6092}{}{Não, isso serve. Obrigado, Lenny.}
