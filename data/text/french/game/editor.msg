@@ -13,7 +13,7 @@
 {112}{}{POINTS COMP.}
 {113}{}{Niveau}
 {114}{}{Exp}
-{115}{}{Niveau suivant :}
+{115}{}{Niv. suivant :}
 {116}{}{PTS PERSO.}
 {117}{}{COMPETENCES}
 {118}{}{Tu dois utiliser tous tes points de }
@@ -156,7 +156,7 @@
 {646}{}{Fém.}
 {647}{}{Niveau :}
 {648}{}{                Exp :}
-{649}{}{Niveau suivant :}
+{649}{}{Niv. suivant :}
 {650}{}{ ::: Qualités (Traits):::}
 {651}{}{ ::: Aptitudes :::}
 {652}{}{ ::: Karma :::}
