@@ -33,67 +33,67 @@
 {132}{}{Bem, eu, uh, eu tenho que ir. Adeus.}
 {133}{powr5_a}{Experimente o lucro.}
 {134}{}{Pronto... isso deve bastar. Melhor agora?}
-{135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
-{136}{}{I'll just try back later. Goodbye.}
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
-{138}{}{Kneel before me and I may spare your life. Gee, I like the sound of that.}
-{139}{}{I no longer insist upon genuflecting. A slight bow to kiss my ring should be sufficient.}
-{140}{}{Uh, I meant I was the one *chosen* to fix the comm-unit. Seems like nothing works anymore.}
-{141}{}{Well, I think I've had just about enough of your insolence. Goodbye, peasant.}
-{142}{powr7_a}{Unit Three? I thought you were still at Navarro base?}
-{143}{}{Navarro base? Oh yeah, Navarro base. That's where we are. Sure. I knew that.}
-{144}{}{No, we had to get out of there.}
-{145}{}{Your signal's breaking up. Goodbye.}
-{146}{powr8_a}{Huh, ain't it the truth. Just don't let anyone who's got the President's ear hear that. You'll be making cattle-runs to New Reno 'til the end of time, pal.}
-{147}{}{The President?}
-{148}{}{Only got two legs. I'd be pretty tired by the time I got there.}
-{149}{}{Well, no rest for the wicked. I better get back to fixing this. Goodbye.}
-{150}{powr9_a}{Yeah, that's a new one. Since my video's working you can see I'm rolling on the floor here. It does seem like everything's a damn secret though, huh? All the special ops on the mainland. I don't see how anything gets done.}
-{151}{}{On the mainland? Why, where are you?}
-{152}{}{Well, it's like that all over.}
-{153}{powr10_a}{Yeah, you know how unhappy he gets when people complain. He takes it personal, like it's a loyalty thing. Maybe that just goes with being the President of the United States. Or what's left of 'em.}
-{154}{}{The President of the United States?}
-{155}{}{I didn't vote for him. I thought he was too interested in getting laid. I prefer a candidate that's too old to get it up anymore--keeps their mind on the job more.}
-{156}{}{Maybe so. You know, I better get back to work. Goodbye.}
-{157}{powr11}{Oh, very funny. But you'd have a great place to recover from your run -- at least from what I hear.}
-{158}{}{So you're not in New Reno then?}
-{159}{}{Well, I better get back to work. Gotta get this link fixed. Goodbye.}
-{160}{powr12}{The President of the United-fucking-States-of-America. Who'd you think I was talking about? Who the fu - Who is - What - I should kick your fucking ass, who is this?}
+{135}{}{Ganho? Que tipo de lucro vou ter? Estou bastante ocupado para conseguir ganhar algo.}
+{136}{}{Vou tentar mais tarde. Adeus.}
+{137}{powr6_a}{O escolhido, hein? Mas olha só, você deve conseguir traçar muita gente, confesso que tenho um pouco de inveja de você, Vossa Alteza.}
+{138}{}{Ajoelhe-se diante de mim e eu posso poupar sua vida. Caramba, eu gosto de como isso soa bem.}
+{139}{}{Não vou insistir em você se ajoelhar. Aceito uma leve reverência e um beijo no meu anel.}
+{140}{}{Uh, eu quis dizer que fui o *escolhido* para consertar a unidade de comunicação. Parece que nada funciona direito.}
+{141}{}{Bem, acho que estou farto de sua insolência. Adeus, camponês.}
+{142}{powr7_a}{Unidade três? Você não estava na base de Navarro?}
+{143}{}{Base de Navarro? Sim, base de Navarro. É onde estamos. Certo. Eu sabia.}
+{144}{}{Não, nós tivermos que sair de lá.}
+{145}{}{Seu sinal está quebrando. Adeus.}
+{146}{powr8_a}{Huh, não é verdade. Mas não deixe o presidente ouvir isso de você. Até o final do dia você estaria pastoreando o gado de New Reno, parceiro.}
+{147}{}{O Presidente?}
+{148}{}{Só tenho duas pernas. Eu estaria muito cansado quando chegasse lá.}
+{149}{}{Bem, não há descanso para os malditos. É melhor você continuar consertando isso. Adeus.}
+{150}{powr9_a}{Sim, esse é nova. Meu vídeo está funcionando, acho que da pra me ver rolando no chão de tanto rir. Mas parece que é tudo um segredo, hein? Todas as operações especiais no continente. Não vejo como algo pode ser feito.}
+{151}{}{No continente? Porque? Onde você está?}
+{152}{}{Bom, é assim mesmo.}
+{153}{powr10_a}{Sim, você sabe como ele fica chateado quando as pessoas reclamam. Sempre leva para o lado pessoal, como se fosse um papo de lealdade. Talvez isso aconteça pelo fato dele ser o Presidente dos Estados Unidos. Ou o que sobrou deles.}
+{154}{}{O Presidente dos Estados Unidos?}
+{155}{}{Eu não votei nele. Achei que ele estava mais interessado em transar. Eu prefiro um candidato que esteja velho demais para levantar - mantendo sua mente no trabalho.}
+{156}{}{Pode ser. Sabe, é melhor eu voltar ao trabalho. Adeus.}
+{157}{powr11}{Oh, muito engraçado. Mas você teria um excelente lugar para se recuperar... pelo que ouvi.}
+{158}{}{Então você não está em New Reno?}
+{159}{}{Bem, é melhor eu voltar ao trabalho. Tenho que consertar este link. Adeus.}
+{160}{powr12}{O Presidente desse caralho dos Estados Unidos da América. De quem você achou que eu estava falando? Mas o quê - Quem é - O quê - Eu vou chutar a porra da sua bunda, quem é você?}
 {161}{}{Eu sou o escolhido. Beije meus pés. }
 {162}{}{Eu sou o Escolhido.}
-{163}{}{I'm the President. You're in a heap of trouble.}
-{164}{}{You're not important enough for that information.}
-{165}{}{Uh, I better be going. Lots of work to do here. Goodbye.}
-{166}{powr13}{This is ENCLAVE main comm. ...But you should know that. Who are you?}
-{167}{}{Oh, I'm just... hey, you ever notice that cooked gecko tastes kind of like brahmin butt. }
-{168}{}{I'm the Chosen One and you'll learn to remember that.}
-{169}{}{Nobody important. Goodbye.}
-{170}{powr14}{Ah, a few more moments and I'll have your sorry ass in a sling. Hey, wait a minute. This can't be right... I've got you somewhere on the mainland.}
-{171}{}{That's right, sucker. Right where you can't get me.}
-{172}{}{That can't be right. I'm at the comm desk right across the hall from you....Made you look. What a rube.}
-{173}{}{Yeah, I'm at the Poseidon Oil power plant number 12. Come and get me.}
-{174}{powr15}{I've got you, at Poseidon Oil, reactor number 5. Ah, well, why don't you just sit tight and I'll order up a little celebration for ya. Including fireworks.}
-{175}{}{Oh, goodie. I just lo-ove fireworks. Send me a lot.}
-{176}{}{I'm the Chosen One. You just better make sure you say that with a smile.}
-{177}{}{I'm not anyone important. I'm going to go now. Goodbye.}
-{178}{powr16_a}{Yeah well, whoever you are, I just dispatched a verti-assault team to your location. Have a nice day.}
-{179}{}{Gee, if the video worked you could see me tremble.}
-{180}{}{And what are they going to do?}
-{181}{}{Well, I better get going then. I'd hate for them to show up before I get the red carpet all unrolled. Goodbye.}
-{182}{powr17}{Usually they just go in shooting. They let someone else sift through the ashes to figure out what was going on.}
-{183}{}{Yeah, well, they aren't going to catch me.}
-{184}{}{Oh, now you've got me all scared. I need to change my undies.}
-{185}{}{Well, I'd hate to think I spent all day yesterday polishing my guns for nothing.}
-{186}{}{Yeah, sure. I've killed better. Goodbye.}
-{187}{powr18}{Goodbye. Next news on you will be when I read the after-action report.}
-{188}{}{What? You can read!}
-{189}{}{Yeah, sure whatever.}
-{190}{}{Hey, you just went on my list.}
-{191}{powr19_a}{You had to get out? Why? You're on the coast. You got great defenses. I didn't hear anything about that....Hey, who the hell is this anyway?}
-{192}{}{I am the great and powerful Willie. Kneel before me and entreat my forgiveness and I may yet spare thee.}
-{193}{}{Nobody important. Where's this Navarro again?}
-{194}{}{Yeah, well, we took Navarro and I found those nude pictures of your mother. Or was that just your dad cross-dressing again? No wonder you're so fucking ugly. Goodbye, asshole.}
-{195}{powr20}{Yeah, you can say that again. And everything's always tighter out here at ENCLAVE and the fuckin' President's watching us like a hawk.}
-{196}{}{The President?}
-{197}{}{Out here? Where are you exactly?}
-{198}{}{Well, that's how things go. Well, I better get back to work. Goodbye.}
+{163}{}{Eu sou o presidente. Você se meteu em um sério problema.}
+{164}{}{Você não é importante o suficiente para essa informação.}
+{165}{}{Uh, é melhor eu ir. Muito trabalho para fazer. Adeus.}
+{166}{powr13}{Este é o comunicador principal da ENCLAVE.... Mas você deve saber disso. Quem é Você?}
+{167}{}{Oh, eu só... ei, você já percebeu que gecko cozido tem gosto de bunda de brahmin. }
+{168}{}{Eu sou o Escolhido e com certeza você se lembrará disso.}
+{169}{}{Nada de importante. Adeus.}
+{170}{powr14}{Ah, mais um tempo e você terá sua bunda enfaixada. Ei, espere um minuto. Isso não pode estar certo... Eu detectei você em algum lugar no continente.}
+{171}{}{Isso mesmo, vagabundo. Bem onde você não pode me pegar.}
+{172}{}{Isso não pode estar certo. Estou na mesa de comunicação ao seu lado... Fiz você olhar.}
+{173}{}{Sim, estou na usina de óleo Poseidon número 12. Venha me buscar.}
+{174}{powr15}{Te achei, Poseidon, reator número 5. Por que você não senta e espera enquanto eu faço alguns preparativos para você? Vou preparar uns fogos.}
+{175}{}{Que beleza. Eu adoro fogos de artifício. Me mande muito.}
+{176}{}{Eu sou o Escolhido. É melhor você dizer isso com um sorriso.}
+{177}{}{Não sou ninguém importante. Estou indo. Adeus.}
+{178}{powr16_a}{Seja quem for, acabei de enviar uma equipe de ataque vertical para a sua localização. Tenha um bom dia.}
+{179}{}{Poxa, se o sinal de vídeo funcionasse você poderia me ver tremer.}
+{180}{}{E o que eles vão fazer?}
+{181}{}{Então é melhor eu ir. Odiaria que eles aparecessem antes de eu desenrolar todo o tapete vermelho. Adeus.}
+{182}{powr17}{Normalmente eles só atiram. Depois eles deixam outra pessoa vasculhar as cinzas para descobrir o que aconteceu.}
+{183}{}{Sim, bem, eles não vão me pegar.}
+{184}{}{Ui, agora você me deixou com meda. Acho que preciso mudar minha calcinha.}
+{185}{}{Eu odiaria pensar que passei o dia todo ontem polindo minhas armas para nada.}
+{186}{}{Sim, claro. Eu os matei melhor. Tchau.}
+{187}{powr18}{Adeus. As próxima coisa que eu saberei sobre você será quando eu ler o relatório de vítimas.}
+{188}{}{Que? Você sabe ler!}
+{189}{}{Sim, claro que seja.}
+{190}{}{Ei, você acabou de entrar na minha lista.}
+{191}{powr19_a}{Você teve que sair de lá? Porque? Você está na costa. Com muitas defesas. Eu não tinha ouvido falar sobre isso... ei, mas quem é você, afinal?}
+{192}{}{Eu sou o grande e poderoso Willie. Ajoelhe-se diante de mim e implore meu perdão e talvez poderei poupá-lo.}
+{193}{}{Ninguém importante. Onde você disse que está Navarro?}
+{194}{}{Ah é, conquistamos Navarro e eu encontrei aquelas fotos da sua mãe peladinha, ô delicia. Espera, ou será que era seu pai de traveco de novo? Oh que eu pego, hein. Falou, cuzão.}
+{195}{powr20}{Sim, você pode dizer isso. Estamos muito próximos aqui na ENCLAVE, e a porra do presidente nos observa como um falcão.}
+{196}{}{O Presidente?}
+{197}{}{Lá fora? Onde você está exatamente?}
+{198}{}{Bem, as coisas acontecem assim. Bem, é melhor eu voltar ao trabalho. Adeus.}

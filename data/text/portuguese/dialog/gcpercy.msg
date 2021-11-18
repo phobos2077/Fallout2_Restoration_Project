@@ -1,32 +1,32 @@
-{100}{}{You see a short ghoul.}
-{101}{}{You see Percy Crump, the successful ghoul merchant.}
-{102}{}{You see a shorter and rather stout ghoul. He's nattily attired-uh, for a ghoul, that is.}
-{103}{}{By gosh and by golly. I just shore cain't thank you enough fer gettin' my friend back. Gee-whillikers. I've got to give ya sumpin' fer yer troubles.}
-{104}{}{I was glad to help you out.}
-{105}{}{What do I get?}
-{106}{}{Well, it better be worth it. That sure was a lot of work, and a lot of travelling too. Hazardous, that's what it was. I coulda been hurt.}
-{107}{}{You shore you don't want to help ole Percy out with his problem? I shore could use the help.}
-{108}{}{Uh, let me think about it a bit longer. In the meantime, got anything to trade?}
-{109}{}{Well, why don't you tell me about it again.}
-{110}{}{I didn't know you were going to pester me about that every time I came in. Sheesh. Goodbye.}
-{111}{}{You find Woody yet? I'm a-gettin' real worried-like. He ain't never been gone so long afore.}
-{112}{}{Uh, not yet, but I'm still looking. Hey, do you have anything I could barter for?}
-{113}{}{No, I sure haven't. I better get back out there and keep looking.}
-{114}{}{Hello there, Percy Crump here, Master Merchant in this locality. But you kin call me just plain ole Percy. Yes, you can.
- Heck, everybody does. Now, what can I do ya' for?}
-{115}{}{What can ole Percy do fer ya?}
-{116}{}{I was just wondering what's going on here in town.}
-{117}{}{I was wondering if you had anything I could buy or trade for?}
-{118}{}{Uh, nothing really, I was just looking around. Goodbye.}
-{119}{}{Trade?}
-{120}{}{Goo? Me go bye-bye.}
-{121}{}{Jist wanna congra-chew-late you fer makin' our atomic reactor run so purdy. She's a purrin' like a kitten now.
- Anyhow's, t'other than that, my friend Woody's done gone missin'.}
-{122}{}{I gotta be thankee-kindly for fixin' up our Atomic Reactor. That dang fool Festus tweren't never no darn good.
- Anyhow's, t'other than that, my friend Woody's done gone missin'.}
-{123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day. Heh, heh, hee.
- Anyhow's, t'other than that, my friend Woody's done gone missin'.}
-{124}{}{Well, tell me more about that.}
+{100}{}{Você vê um ghoul baixinho.}
+{101}{}{Você vê Percy Crump, o bem sucedido comerciante ghoul.}
+{102}{}{Você vê um ghoul baixo e robusto. Ele está muito bem vestido - uh, para um ghoul, quero dizer.}
+{103}{}{Por Deus e por Deus. Não tenho como te agradecer o suficiente por trazer meu amigo de volta. Eu tenho que te dar algo pelo inconveniente.}
+{104}{}{Fiquei feliz em ajudá-lo.}
+{105}{}{O que eu ganho?}
+{106}{}{É melhor que valha a pena. Me deu um baita trabalho e rendeu muitas viagens. Foi muito perigoso, eu poderia ter me machucado.}
+{107}{}{Tem certeza que não quer ajudar o velho Percy com seu problema? Porque eu poderia usar isso.}
+{108}{}{Uh, deixe-me pensar um pouco mais. Enquanto isso, tem algo para trocar?}
+{109}{}{Bem, me conte de novo sobre isso.}
+{110}{}{Não sabia que você ia me encher o saco com isso toda vez que eu entrasse aqui. Tchau.}
+{111}{}{Você já encontrou o Woody? Estou ficando muito preocupado. Ele nunca ficou tanto tempo fora.}
+{112}{}{Ainda não, mas estou procurando. Ei, você tem algo que eu pudesse trocar?}
+{113}{}{Não, ainda não encontrei. É melhor eu voltar lá e continuar procurando.}
+{114}{}{Olá, aqui é Percy Crump, o principal comerciante daqui. Mas você pode me chamar simplesmente de velho Percy. Sim você pode.
+ Caramba, todo mundo faz. Agora, o que posso fazer por você?}
+{115}{}{O que o velho Percy pode fazer por você?}
+{116}{}{Eu só estava me perguntando o que está acontecendo na cidade.}
+{117}{}{Gostaria de saber se você tem algo que eu possa comprar ou trocar?}
+{118}{}{Uh, nada realmente, eu só estava dando uma olhada. Adeus.}
+{119}{}{Trocar?}
+{120}{}{Vou indo, até.}
+{121}{}{Estou feliz que você colocou nosso reator atômico para funcionar tão bem. Ele está ronronando como um gatinho agora.
+ Mas, por outro lado, meu amigo Woody está desaparecido.}
+{122}{}{Tenho que agradecer por consertar nosso Reator Atômico. Aquele idiota do Festus não faria nada certo.
+ Mas, por outro lado, meu amigo Woody está desaparecido.}
+{123}{}{Não que tenha algo de novo por aqui. Ouvi dizer que Wooz pegou uma Orquídea Negra de um novato outro dia. Heh heh hee.
+ Mas, por outro lado, meu amigo Woody está desaparecido.}
+{124}{}{Bem, me conte mais sobre isso.}
 {125}{}{Oh, that's too bad. Well, I hate sad tales. I'll leave you alone with your grief. Goodbye.}
 {126}{}{Why I shore do, heck, got all kinds of stuff here fer the right price I do.}
 {127}{}{Get everything you need or do you want some more?}
