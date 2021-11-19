@@ -27,44 +27,44 @@
 {123}{}{Não que tenha algo de novo por aqui. Ouvi dizer que Wooz pegou uma Orquídea Negra de um novato outro dia. Heh heh hee.
  Mas, por outro lado, meu amigo Woody está desaparecido.}
 {124}{}{Bem, me conte mais sobre isso.}
-{125}{}{Oh, that's too bad. Well, I hate sad tales. I'll leave you alone with your grief. Goodbye.}
-{126}{}{Why I shore do, heck, got all kinds of stuff here fer the right price I do.}
-{127}{}{Get everything you need or do you want some more?}
-{128}{}{Me want stuff?}
-{129}{}{Hmm, let's see what you've got.}
-{130}{}{Let me take another look at your wares.}
-{131}{}{That's it for me. Thanks, Percy. Goodbye.}
-{132}{}{Oog. Me go bye-bye.}
-{133}{}{This big ole chest of antee-radee-ation medicine shore ain't doin' me no good. Jist about a hunnert-sumpin' years too
- late fer me ta use it. Heh, heh, heee. Here ya go, I'm findin' that friends is worth more'n more every year. Thanks... friend.}
-{134}{}{I was glad to help you and Woody. Thanks for the meds.}
-{135}{}{Cool, easy job for lotsa loot. I like it.}
-{136}{}{Well you see, I had a friend, name o' Woody. That Woody, he can sleep like nobody I ever did see. What's worse, he
- likes to travel. Really likes to kick up the dust that one does.}
+{125}{}{Oh isso é muito ruim. Eu odeio contos tristes. Vou deixá-lo sozinho com sua dor. Adeus.}
+{126}{}{Ora, diabos, tenho todos os tipos de coisas aqui pelo preço certo.}
+{127}{}{Tem tudo o que você precisa ou quer um pouco mais?}
+{128}{}{Eu quero coisas?}
+{129}{}{Hmm, vamos ver o que você tem.}
+{130}{}{Deixa eu dar uma outra olhada nos seus produtos.}
+{131}{}{Isso é tudo que preciso. Obrigado, Percy. Adeus.}
+{132}{}{Oog. Eu vou, tchau.}
+{133}{}{Esse grande baú com medicamentos anti-radiação não está me fazendo bem. Só estou falando de cento e poucos anos mais
+ tarde para usá-los. Heh, heh, heee. Aqui está, estou descobrindo que amigos valem mais a cada ano. Obrigado... amigo.}
+{134}{}{Fico feliz em ajudar você e Woody. Obrigado pelos remédios.}
+{135}{}{Trabalho bom, fácil e com boa recompensa. É assim que eu gosto.}
+{136}{}{Bem, veja, eu tinha um amigo, chamado Woody. Esse Woody consegue dormir pesado como ninguém. E o pior, é que
+ ele gosta de viajar. Cara, ele adora chutar a poeira da estrada.}
 {137}{}{Tudo bem.}
-{138}{}{Well, that ain't so much of a problem, 'round here that is. But, last I heard Woody was goin' to take a stroll over
- to the Den. You know where the Den is?}
-{139}{}{Yes, I know where the Den is. Go on.}
-{140}{}{Actually, I don't know where the Den is.}
-{141}{}{Oh, it's real easy to get to. Here: I'll mark it in for ya on your little mappy-thing-doohickie.}
-{142}{}{Hey, be careful with that! Okay, go on now.}
-{143}{}{Well, anyhows, like I been sayin' that ain't so much of a problem 'round Gecko. But, ya see, people in other parts
- ain't so usta the way we look.}
+{138}{}{Bem, isso não é um grande problema por aqui. Mas, pela última vez que ouvi, Woody estava indo dar um passeio
+ lá no Den. Você sabe onde fica o Den?}
+{139}{}{Sim, eu sei onde fica o Den. Continue.}
+{140}{}{Na verdade eu não sei onde fica o Den.}
+{141}{}{Oh, é bem tranquilo de chegar. Aqui, vou marcar nesse teu mapinha.}
+{142}{}{Ei, tenha cuidado com isso! Ok, continua.}
+{143}{}{Bem, de qualquer forma, como eu tenho dito, isso não é um grande problema em Gecko. Mas, veja, as pessoas em outros lugares
+ não gostam da nossa aparência.}
 {144}{}{Então?}
-{145}{}{Cain't ya put two an' two ta-gether? I'm worried that Woody might have takin' himself a nap in the Den - it's a long
- trip after all - and then they woulda buried the poor cuss alive! I need someone to go look fer 'im there.}
+{145}{}{Resumindo tudo: estou preocupado que Woody possa ter tirado uma soneca na Den - e uma das
+ bem longas - e então eles poderiam ter enterrado o pobre coitado vivo! Preciso que alguém vá procurá-lo.}
 {146}{}{E…?}
-{147}{}{Well, I miss 'im. That's why. (Percy blinks, moistly, at you) Oh, I see, you wanna know what's in it for you?}
-{148}{}{This is usually the part where I get more interested. Tell on.}
-{149}{}{Well, I know where I kin get ahold of a heck of a lot of pre-war stock of, jan-u-wine, Rad-X and RadAway. Don't do me
- no good no how, but I figure that outgha be worth sumpin to a smoothy like you. You gonna take the job fer me or not? I'll
- only pay ya off if'n I know Woody's safe.}
-{150}{}{Just how much is a heck-of-a-lot?}
-{151}{}{Yes, I'll do it. I'll get back to you soon.}
-{152}{}{No, I don't think I want to help you out right now.}
-{153}{}{Let me think about it. Goodbye.}
-{154}{}{It's a darn sight more'n you'll ever need, that's how much it is. You gonna do it?}
-{155}{}{Yes, I'll do it. I'll get back to you soon.}
-{156}{}{No, I don't think I want to help you out right now.}
-{157}{}{Let me think about it. Goodbye.}
-{158}{}{Thankee-kindly for findin' my pal Woody. Now what kin ol' Percy do fer ya?}
+{147}{}{Bem, eu sinto a falta dele. É por isso. (Percy pisca com nervosismo) Oh, entendo, você quer saber o que tenho para você?}
+{148}{}{Esta é geralmente a parte em que fico mais interessado. Conte.}
+{149}{}{Bem, eu sei onde posso conseguir um ótimo estoque pré-guerra de Rad-X e RadAway. Eles não funcionam 
+ para mim, mas acho que seriam bons para um pele lisa como você. Você vai aceitar o trabalho por mim ou não? Só
+ vou pagar se souber que Woody está bem.}
+{150}{}{Quanto custa a porra de uma pilha?}
+{151}{}{Sim, farei isso. Voltarei em breve.}
+{152}{}{Não, acho que não quero te ajudar agora.}
+{153}{}{Vou pensar sobre isso. Adeus.}
+{154}{}{Bem, já que eu jogo fora mais do que você vai precisar, é isso. Você vai fazer?}
+{155}{}{Sim, farei isso. Voltarei em breve.}
+{156}{}{Não, acho que não quero te ajudar agora.}
+{157}{}{Vou pensar sobre isso. Adeus.}
+{158}{}{Muito obrigado por encontrar meu amigo Woody. E o que o velho Percy pode fazer por você agora?}

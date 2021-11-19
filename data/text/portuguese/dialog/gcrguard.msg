@@ -1,5 +1,5 @@
-{100}{}{You see someone whose skin has been very badly burnt. It seem to be standing guard here.}
-{101}{}{You see a ghoul acting as a guard.}
+{100}{}{Você vê alguém cuja pele foi gravemente queimada. Parece estar de guarda.}
+{101}{}{Você vê um ghoul de guarda.}
 {102}{}{You see someone whose skin seems to have been burned with radiation. That much radiation looks
  as though it should have killed them, but it they seem well enough. They look as though they're
  standing guard here.}
