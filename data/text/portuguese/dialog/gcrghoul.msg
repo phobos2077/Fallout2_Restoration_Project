@@ -1,10 +1,10 @@
 {100}{}{Você vê alguém cuja pele foi gravemente queimada.}
 {101}{}{Você vê um cidadão ghoul de Gecko.}
-{102}{}{You see someone whose skin seems to have been burned with radiation. That much radiation looks
- as though it should have killed 'em, but it seems well enough.}
-{110}{}{Hello. Do you need some supplies?}
+{102}{}{Você vê alguém cuja pele parece ter sido queimada com radiação. Esse tanto de radiação devia
+ devesse tê-lo matado, mas ele parece estar bem.}
+{110}{}{Olá. Precisa de mais suprimentos?}
 {111}{}{Se você quiser suprimentos, vai precisar de um formulário de requisição.}
-{112}{}{If you need something here, you better talk to Jeremy.}
+{112}{}{Se precisar de algo aqui, é melhor falar com Jeremy.}
 {113}{}{Jeremy takes care of all the supply requests.}
 {114}{}{You better talk to Jeremy. He hates it when people get stuff behind his back.}
 {115}{}{Não posso ajudá-lo a menos que fale com Jeremy primeiro.}

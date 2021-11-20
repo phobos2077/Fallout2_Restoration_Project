@@ -40,24 +40,25 @@ no prédio.
 {170}{}{Bem, temos uma tendência a gostar do vazamento de radiação aqui. Os resplandecentes gostam.
  Nenhum de nós se sentiria muito bem sem ele.}
 {171}{}{Interessante. Deixe-me perguntar outra coisa.}
-{172}{}{Background leakage?!?!}
-{173}{}{Oh, okay. Well that's all I needed to know. Goodbye.}
-{180}{}{The reactor control room is through the door to the right of the one you entered the building
- through. Then through a door at the end. Past the Yellow Security Door. Then you go off to the right.
- You'll need a keycard for the security door, though.}
+{172}{}{Como assim vazamentos?!?!}
+{173}{}{Oh, beleza. Isso é tudo que eu precisava saber. Adeus.}
+{180}{}{A sala de controle do reator fica pela porta à direita daquela pela qual você entrou no edifício.
+ Em seguida, passe pela porta dos fundos. Passe o portão com segurança amarela. Depois, à direita.
+ Mas você precisará de um cartão para a porta de segurança.}
 {181}{}{Interessante. Deixe-me perguntar outra coisa.}
 {182}{}{Preciso de um cartão? Como faço ter um desses?}
 {183}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{190}{}{Don't know why you'd want to go there. Damn maintenance robot hasn't worked right in years.
- It's just past the reactor control room, though.}
+{190}{}{Não sei por que você quer ir lá. Esse maldito robô de manutenção não funciona bem há anos.
+ Mas é apenas depois da sala de controle do reator.}
 {191}{}{Onde fica a sala de controle do reator?}
 {192}{}{Interessante. Deixe-me perguntar outra coisa.}
 {193}{}{Preciso de um cartão? Como faço ter um desses?}
 {194}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{200}{}{Well, I wouldn't worry unless you plan to stay here for more than a couple of weeks. Most of
- the radiation that the reactor leaks goes into the coolant water, and we pump that back underground.
- The little bit that leaks aboveground just feels good to us, somehow.}
-{201}{}{Oh, well, that doesn't sound so bad. Let me ask you something else.}
-{202}{}{Hmm, I think I better be moving along. Goodbye.}
-{300}{}{Sure. What else would you like to know?}
-{301}{}{I need directions to someplace else.}
+{200}{}{Bom, eu não me preocuparia, só se você planeja ficar aqui por mais algumas semanas.
+A maior 
+ parte da radiação que o reator vaza vai para a água de refrigeração e a bombeamos de volta para o subsolo.
+ O pouco que vaza acima do solo nos faz sentir bem de alguma forma.}
+{201}{}{Oh, isso não parece tão ruim. Preciso perguntar outra coisa.}
+{202}{}{Hmm, acho melhor seguir em frente. Adeus.}
+{300}{}{Certo. O que mais você gostaria de saber?}
+{301}{}{Preciso de instruções para outro lugar.}
