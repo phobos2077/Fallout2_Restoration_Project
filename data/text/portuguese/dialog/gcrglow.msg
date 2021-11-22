@@ -1,31 +1,31 @@
 {100}{}{A pessoa que você vê está emitindo uma luz fraca. Sua pele parece muito queimada.}
-{101}{}{You see a Glowing One, a citizen of Gecko.}
-{102}{}{You see someone who has been exposed to so much radiation that they are glowing faintly.
- That much radiation looks as though it should have killed them, but it they seem well enough.}
-{110}{}{This much radiation sure spells job security for me.}
-{111}{}{Look at it glow. Can you see it?}
-{112}{}{I love coming to work everyday.}
-{113}{}{Going to need more uranium again.}
-{114}{}{I guess we're all atomic powered here.}
-{120}{}{I just love the warmth here.}
-{121}{}{It feels wonderful here.}
+{101}{}{Você vê o resplandecente, um cidadão de Gecko.}
+{102}{}{Você vê alguém que foi exposto a tanta radiação que emite um brilho fraco.
+ Essa quantidade de radiação deveria tê-lo matado, mas eles parecem estar bem.}
+{110}{}{Tanta radiação representa mais segurança no trabalho para mim.}
+{111}{}{Veja como brilha. Pode vê-lo?}
+{112}{}{Eu amo ir trabalhar todos os dias.}
+{113}{}{Vou precisar de mais urânio de novo.}
+{114}{}{Acho que somos todos movidos a energia atômica aqui.}
+{120}{}{Como eu adoro o calor daqui.}
+{121}{}{Tenho uma sensação maravilhosa aqui.}
 {122}{}{Não sei o que faria se tivesse que morar em qualquer outro lugar.}
-{123}{}{I love the feel of radiation in the morning.}
-{124}{}{At least I never need a nightlight.}
-{125}{}{(holds his glowing finger out to you) Phone home.}
-{126}{}{You know, if you shut the door, I don't glow anymore.}
-{127}{}{This is one place I really feel like I belong.}
-{128}{}{I can't believe those Vault City people want to destroy my home.}
-{129}{}{Reactor, sweet reactor.}
-{130}{}{Be it ever so humble.}
-{131}{}{Atomic powered heating... gotta love it.}
-{140}{}{Thanks for fixing the reactor. It's a little cooler now, but not too bad.}
-{141}{}{Brrr... thanks for fixing our reactor.}
-{142}{}{I wish I could have gotten that part.}
+{123}{}{Eu amo sentir a radiação pela manhã.}
+{124}{}{Pelo menos eu nunca preciso de uma luz noturna.}
+{125}{}{(aponta o dedo brilhante para você) Minha casa.}
+{126}{}{Você sabe, se você fechar a porta, eu não brilho mais.}
+{127}{}{Este é um lugar que eu realmente sinto que pertenço.}
+{128}{}{Eu não acredito que aquelas pessoas de Vault City querem destruir minha casa.}
+{129}{}{Reator, doce reator.}
+{130}{}{Você se sente tão humilde...}
+{131}{}{Aquecimento de energia atômica... você tem que adorar.}
+{140}{}{Obrigado por consertar o reator. Está um pouco mais frio agora, mas não muito.}
+{141}{}{Brrr... obrigado por consertar nosso reator.}
+{142}{}{Eu gostaria de ter conseguido essa parte.}
 {143}{}{Obrigado por sua ajuda.}
-{144}{}{Maybe those Vault City people aren't so bad after all.}
-{150}{}{I can't remember when the reactor ran this well.}
-{151}{}{It's downright chilly in here today.}
+{144}{}{Talvez aquelas pessoas de Vault City não sejam tão ruins.}
+{150}{}{Não me lembro quando o reator funcionou tão bem.}
+{151}{}{Está frio demais hoje por por aqui.}
 {152}{}{Brrrr, estou congelando.}
 {153}{}{Acho que estou com queimaduras de frio ou algo assim.}
-{154}{}{Does it feel cold to you?}
+{154}{}{Parece frio para você?}

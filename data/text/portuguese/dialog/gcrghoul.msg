@@ -5,48 +5,48 @@
 {110}{}{Olá. Precisa de mais suprimentos?}
 {111}{}{Se você quiser suprimentos, vai precisar de um formulário de requisição.}
 {112}{}{Se precisar de algo aqui, é melhor falar com Jeremy.}
-{113}{}{Jeremy takes care of all the supply requests.}
-{114}{}{You better talk to Jeremy. He hates it when people get stuff behind his back.}
+{113}{}{Jeremy cuida de todos os pedidos de suprimentos.}
+{114}{}{É melhor você falar com Jeremy. Ele odeia quando as pessoas pegam coisas sem ele saber.}
 {115}{}{Não posso ajudá-lo a menos que fale com Jeremy primeiro.}
-{116}{}{Talk to Jeremy. You know the rules.}
-{120}{}{I think some of these old gauges are broken.}
-{121}{}{I just hit the console to get it working again.}
+{116}{}{Fale com Jeremy. Você conhece as regras.}
+{120}{}{Acho que alguns desses medidores antigos estão quebrados.}
+{121}{}{Acabei de clicar no console para fazê-lo funcionar novamente.}
 {122}{}{Não acho que essa maquina ja funcionou bem algum dia.}
-{123}{}{I'm proud to be on reactor duty.}
-{124}{}{It feels best in here when the gauges are all in the red.}
-{125}{}{I hope we get another uranium shipment from Broken Hills soon.}
-{126}{}{We're starting to run low on uranium.}
-{127}{}{I'm harnessing the power of the atom. What're you doing?}
-{128}{}{Getting nice and toasty in here now.}
-{129}{}{After a while, you don't need to look at the gauges.}
-{130}{}{I'm so bored -- none of these gauges work, anyhow.}
-{131}{}{Leak? What leak?}
-{140}{}{This is the best place to live in all of Gecko.}
-{141}{}{Nothing warms these old bones better than a hefty dose of roentgens.}
-{142}{}{Mmm, it's so warm and toasty in here all the time. I love it.}
-{143}{}{Surprised to see you here, smoothskin.}
-{144}{}{Most smoothskins are afraid of a little bit of radiation.}
-{145}{}{A day without leakage is like a day without sunshine.}
-{146}{}{Sure glad I got these choice digs.}
-{147}{}{Be it ever so humble...}
-{148}{}{Without this reactor, everyone here would die.}
-{149}{}{Sure hope those Vault City-types don't kill all of us.}
-{150}{}{Thank you, thank you, thank you.}
+{123}{}{Tenho orgulho de estar trabalhando no reator.}
+{124}{}{Você se sente melhor aqui quando todos os indicadores estão vermelhos.}
+{125}{}{Espero que em breve chegue outro carregamento de urânio de Broken Hills.}
+{126}{}{Estamos começando a ficar sem urânio.}
+{127}{}{Estou controlando o poder do átomo. O que você está fazendo?}
+{128}{}{Está ficando bom e quentinho aqui.}
+{129}{}{Depois de um tempo, nem se precisa olhar para os indicadores.}
+{130}{}{Estou tão entediado - nenhum desses medidores funciona.}
+{131}{}{Vazamento? Que vazamento?}
+{140}{}{Este é o melhor lugar para morar em toda Gecko.}
+{141}{}{Nada aquece melhor esses ossos velhos do que uma boa dose de roentgens.}
+{142}{}{Mmm, é tão quentinho aqui o tempo todo. Eu amo isso.}
+{143}{}{Estou surpreso em ver você aqui, pele lisa.}
+{144}{}{A maioria dos pele lisa tem medo de um pouco de radiação.}
+{145}{}{Um dia sem vazamentos é como um dia sem sol.}
+{146}{}{Fico feliz por ter escolhido morar aqui.}
+{147}{}{Você se sente tão humilde...}
+{148}{}{Sem este reator, todos aqui morreriam.}
+{149}{}{Espero que aqueles caras de Vault City não matem todos nós.}
+{150}{}{Obrigado, obrigado, obrigado.}
 {151}{}{Obrigado por consertar nosso reator.}
 {152}{}{Nossa casa está segura agora, graças a você.}
-{153}{}{Our reactor's purring like a kitten now. Thanks.}
-{154}{}{The reactor is running much better now.}
+{153}{}{Nosso reator está ronronando como um gatinho. Obrigado.}
+{154}{}{O reator está funcionando muito melhor agora.}
 {160}{}{Não posso acreditar que Vault City nos ajudou.}
-{161}{}{Thanks for getting our reactor running so well.}
-{162}{}{I'm glad the reactor's working better.}
+{161}{}{Obrigado por fazer nosso reator funcionar nos eixos.}
+{162}{}{Estou feliz que o reator esteja funcionando melhor.}
 {163}{}{Ultimamente tem feito bastante frio aqui.}
-{164}{}{Does it feel colder in here?}
-{170}{}{What the heck are you sneaking around here for?}
-{171}{}{Uh, I can still see you, you know.}
-{172}{}{Do you always walk that strangely?}
-{173}{}{I thought I heard an elephant trampling around here somewhere. Oh, it's you.}
+{164}{}{Está mais frio aqui?}
+{170}{}{Por que diabos você está se esgueirando por aqui?}
+{171}{}{Uh, acho que você sabe que eu estou te vendo.}
+{172}{}{Você sempre anda meio estranho?}
+{173}{}{Eu pensei ter ouvido um elefante caminhando por aqui. Ah é você.}
 {174}{}{Estamos te observando, pele lisa.}
-{175}{}{You better not be up to something.}
-{176}{}{If something goes wrong, your sneaking ass is the one that's going to be blamed.}
-{177}{}{Guards! There's some smoothskin here trying to be sneaky.}
-{178}{}{You must be up to no good.}
+{175}{}{É melhor você não estar tramando algo.}
+{176}{}{Se algo der errado, sua bunda furtiva é a culpada.}
+{177}{}{Guardas! Há um pele lisa aqui tentando ser sorrateiro.}
+{178}{}{Você não deve estar tramando algo bom.}
