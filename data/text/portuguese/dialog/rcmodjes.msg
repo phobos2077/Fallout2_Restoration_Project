@@ -58,7 +58,7 @@
  just stuck, even though I don't work there any more.}
 {150}{}{Where do you work now?}
 {151}{}{Deixe-me perguntar-lhe algo mais.}
-{152}{}{I think that's all I need to know. Goodbye.}
+{152}{}{Acho que é tudo que preciso saber. Adeus.}
 {153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
  batch. I 'm not eager to try that again. Oh well, back to the bottle, I suppose.}
 {154}{}{Sounds bad. Let me ask you something else, then.}

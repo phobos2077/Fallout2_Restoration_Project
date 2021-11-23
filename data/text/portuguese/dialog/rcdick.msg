@@ -61,7 +61,7 @@
 {150}{}{Atha-baska, Athabaska. That's not so dang hard to say, is it? Criminy. That's just my nickname.
  Do you really want to know how I got my nickname?}
 {151}{}{Uh, not really. Let me ask you something else.}
-{152}{}{I think that's all I need to know. Goodbye.}
+{152}{}{Acho que é tudo que preciso saber. Adeus.}
 {153}{}{Key-rist! I'm sicker 'an a dog and I've been yelling at my feet for days now... ever since I had
  that last hit of Jet. Something must've gone bad with that batch. If'n I survive this, I ain't never
  gonna have Jet again.}

@@ -1,66 +1,66 @@
-{100}{}{You see a ghoul wearing old, grease-stained clothing.}
-{101}{}{You see Skeeter, the Ghoul Gadgeteer.}
-{102}{}{You see a grubby but intelligent-looking ghoul, wearing greasy overalls with a micrometer
- sticking out of his pocket.}
+{100}{}{Você vê um ghoul vestindo roupas velhas e manchadas de graxa.}
+{101}{}{Você vê Skeeter, o ghoul especialista.}
+{102}{}{Você vê um ghoul sujo, mas de aparência inteligente, vestindo um macacão engordurado com um micrômetro
+ saindo do bolso.}
 {110}{}{Apenas não toque em nada - você pode se machucar.}
-{111}{}{I thought tribals were just unsophisticated.}
-{112}{}{You can watch. You might learn something, but I doubt it.}
-{113}{}{Well, ain't you something else.}
-{114}{}{Are you just pretending to be dumb, or are you really that stupid?}
-{120}{}{Funny you should ask that. Ya see, cars use replaceable fuel cells, or batteries, for fuel. What
- usually broke down was the Fuel Cell Controller. Most amateur mechanics jist assume that it's the
- battery itself. But you know what ass-uming things does, dontcha?}
-{121}{}{No, I don't. What do you mean?}
-{122}{}{So does that mean you have a Fuel Cell Controller?}
-{130}{}{Well, assuming something makes an ass out of you and me. Get it? That's still a good one, ain't
- it? Heh heh! I haven't used that for years.}
-{131}{}{Uh, thanks for the lesson. Now, do you have a Fuel Cell Controller?}
-{140}{}{Yep. Sure do. Got it right here. Jist waitin' fer a car to be put into. You got a car?}
-{141}{}{I know where one is. What's it going to cost me to get that Fuel Cell Controller?}
-{142}{}{I might have one. Maybe I just like old chipsets. How much for the Fuel Cell Controller?}
-{143}{}{I wish I did. If I find one, I'll know where to come for a new Fuel Cell Controller. Goodbye.}
-{144}{}{Actually, I have another question for you.}
-{150}{}{Well, money's nice, but I need sumthin' else right now. Sumthin' I cain't get for myself.}
-{151}{}{What do you need?}
-{160}{}{Great. You've got my Plasma Regulator. Thanks. Now I owe you some free work. What did you want
- me to work on? I'll tell you how much it would've cost, but this one's already paid for.}
-{161}{}{Let me see what you can work on.}
-{162}{}{I think I'll take a raincheck on that for now. Goodbye.}
-{170}{}{Thanks for fixin' up our atomic reactor. It shore needed some work. I woulda show'd 'em how, but
- they don't trust me in there anymore. They got that idjit loudmouth Festus doin' all the work now. }
-{171}{}{Well, I was glad to help. Right now I need something, though.}
-{172}{}{It sure would have been easier if they'd let you fix it. Oh well, it's done now. See you later.}
-{180}{}{Did you get my 3-Step Plasma Transformer yet?}
-{181}{}{I haven't yet, but I'm still working on it. Let me ask you something else.}
-{182}{}{Not yet. But I will. Goodbye.}
-{190}{}{Hello there, I'm Skeeter. I sort of put things together here.}
-{191}{}{Hello there. Whatcha lookin' fer?}
-{192}{}{Whaddya need?}
-{200}{}{Have you heard of something called a Garden of Eden Creation Kit?}
-{201}{}{Do you have a battery that I could use to fix a car?}
-{202}{}{I have some things that I want you to take a look at.}
+{111}{}{Achei que os tribais não fossem sofisticados.}
+{112}{}{Você pode ver. Poderia aprender algo, mas eu duvido.}
+{113}{}{Bem, você não é grande coisa.}
+{114}{}{Você está apenas fingindo ser burro ou é realmente tão burro assim?}
+{120}{}{Engraçado você ter perguntado isso. Veja, os carros usam células de combustível substituíveis, ou baterias, como combustível. O que 
+ normalmente quebrava era o Controlador de célula de combustível. A maioria dos mecânicos amadores supõem 
+ que seja a própria bateria. Mas você sabe o que as coisas fazem, não sabe?}
+{121}{}{Não, eu não. O que você quer dizer?}
+{122}{}{Isso significa que você tem um controlador de célula de combustível?}
+{130}{}{Bom, assumindo que nem tudo é descartável entre nós. Quer pegar? Essa ainda é uma boa, não é? 
+ Heh heh! Eu não uso isso há anos.}
+{131}{}{Uh, obrigado pela lição. Agora, você tem um controlador de célula de combustível?}
+{140}{}{Sim. Claro que sim. Está bem aqui. Pronto para ser colocado no carro. Você tem um carro?}
+{141}{}{Eu sei onde tem um. Quanto vai me custar para pegar aquele controlador de célula de combustível?}
+{142}{}{Eu posso ter um. Eu gosto dessas peças antigos. Quanto custa o controlador de célula de combustível?}
+{143}{}{Gostaria de ter um. Se eu encontrar, saberei onde encontrar um novo Controlador de célula de combustível. Adeus.}
+{144}{}{Na verdade, tenho outra pergunta para você.}
+{150}{}{Bem, dinheiro é bom, mas preciso de mais alguma coisa agora. Algo que não posso conseguir sozinho.}
+{151}{}{Do que precisa?}
+{160}{}{Beleza. Você tem meu regulador de plasma. Obrigado. Agora te devo um trabalho de graça. Com o que você 
+ quer que eu trabalhe? Eu te diria quanto ia fica, mas esse já está pago.}
+{161}{}{Vejamos no que você pode trabalhar.}
+{162}{}{Acho que vou pensar sobre isso. Tchau.}
+{170}{}{Obrigado por consertar nosso reator atômico. Esse lugar precisa de um bom trabalho. Eu os ensinaria isso, mas
+ eles não confiam mais em mim lá. Eles têm aquele safado tagarela do Festus fazendo todo o trabalho.}
+{171}{}{Bem, fiquei feliz em ajudar. Mas agora eu preciso de algo.}
+{172}{}{Com certeza teria sido mais fácil se eles deixassem você consertar. Bem, está feito agora. Até logo.}
+{180}{}{Você já recebeu meu Transformador Trifásico de Plasma?}
+{181}{}{Ainda não, mas ainda estou trabalhando nisso. Deixe eu perguntar outra coisa.}
+{182}{}{Ainda não, mas eu vou. Adeus.}
+{190}{}{Olá, sou Skeeter. Eu conserto e junto as coisas aqui.}
+{191}{}{Olá. O que você está procurando?}
+{192}{}{Precisa de algo?}
+{200}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{201}{}{Você tem uma bateria que eu possa usar para consertar um carro?}
+{202}{}{Tenho algumas coisas que quero que dê uma olhada.}
 {203}{}{O que você faz aqui?}
 {204}{}{Hã, eu só estava dando uma olhada por aqui. Tchau.}
-{210}{}{What do ya want me to look at?}
-{211}{}{Ready for me to take a gander at something else? What do ya want me to look at now?}
-{212}{}{I've got this telescope thing.}
-{213}{}{I've got an 'X'}
-{214}{}{I've got an 'X'}
-{215}{}{I've got an 'X'}
-{216}{}{I've got an 'X'}
-{217}{}{Can I swap the parts around later?}
-{218}{}{I don't need anything else. Goodbye.}
-{220}{}{Hmm, I can attach this scope you've got to that rifle of yours.}
-{221}{}{Well, I can attach this scope to one of your rifles. Which one do you want me to attach it to?}
-{222}{}{How much is it going to cost to attach this scope to my Hunting Rifle?}
-{223}{}{How much is it going to cost to attach this scope to my Assault Rifle?}
-{224}{}{How much is it going to cost to attach this scope to my Sniper Rifle?}
-{225}{}{Let me ask you about another item.}
-{226}{}{I think that's all I need to know. Goodbye.}
-{230}{}{Hmm, I thought so. Well, ya see, I cain't do nuthin' with your [Selected partname]. You need to
- have sumthin' else for me to do sumthin' with it.}
-{231}{}{Hmm, what about a different item, then?}
-{232}{}{What part do I need?}
+{210}{}{O que você quer que eu olhe?}
+{211}{}{Você está pronto para eu colocar minhas mãos em algo? O que você quer que eu olhe agora?}
+{212}{}{Eu tenho esse telescópio.}
+{213}{}{Tenho um "X"}
+{214}{}{Tenho um "X"}
+{215}{}{Tenho um "X"}
+{216}{}{Tenho um "X"}
+{217}{}{Posso trocar as peças mais tarde?}
+{218}{}{Não preciso de nada agora. Adeus.}
+{220}{}{Hmm, posso acoplar esta mira que você tem ao seu rifle.}
+{221}{}{Eu posso acoplar esta mira a um de seus rifles. Com qual deles você quer que eu faça?}
+{222}{}{Quanto vai custar para acoplar esta mira ao meu rifle de caça?}
+{223}{}{Quanto vai custar para acoplar esta mira ao meu rifle de assalto?}
+{224}{}{Quanto vai custar para acoplar esta mira ao meu Rifle Sniper?}
+{225}{}{Deixe eu perguntar sobre outro item.}
+{226}{}{Acho que é tudo que preciso saber. Adeus.}
+{230}{}{Hmm, pensei que sim. Sabe, não posso fazer nada com o seu [Selected partname]. Você precisa 
+ de algo mais para que eu faça algo com ele.}
+{231}{}{Hmm, então seria um item diferente?}
+{232}{}{Que peça eu preciso?}
 {233}{}{I guess I better come back when I have something else. Goodbye.}
 {240}{}{There ya go. I think that ought to work for you all right. Anything else?}
 {241}{}{Yes, could you take a look at another item for me?}
@@ -160,12 +160,12 @@
  I cain't rightly do much fer ya without that. Sorry. Should be plenty of 'em available in Vault City.}
 {501}{}{I'll have to come back when I have that. Goodbye.}
 {502}{}{I don't think I need your help with anything right now, anyway. Goodbye.}
-{600}{}{What do ya want me to look at?}
+{600}{}{O que você quer que eu olhe?}
 {601}{}{I have a pistol here and I was wondering....}
 {602}{}{It sure looks as though you could bolt an accessory to this long arm here.}
 {603}{}{Sometimes I like to get up close and personal. Anything you can do to improve my powered melee weapon?}
 {604}{}{Uh, maybe later. Let me ask you about something else.}
-{605}{}{I don't need anything else. Goodbye.}
+{605}{}{Não preciso de nada agora. Adeus.}
 {610}{}{[Spots your magnum revolver.] I can rig a speed loader on that there magnum for $}
 {611}{}{Hmm, that Desert Eagle would sure be a sweet rig with an expanded magazine. I can do that for $}
 {612}{}{Put the speed loader on the magnum.}

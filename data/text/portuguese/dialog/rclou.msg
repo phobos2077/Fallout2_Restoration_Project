@@ -12,7 +12,7 @@
 {109}{}{O que agora?}
 {110}{}{Ooo?}
 {111}{}{Hello, Lou. I'm interested in getting something here.}
-{112}{}{Have you heard of something called a Garden of Eden Creation Kit?}
+{112}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
 {113}{}{Hello, Lou. What's going on in this town?}
 {114}{}{What's a Malamute?}
 {115}{}{Where's San Fran from here?}

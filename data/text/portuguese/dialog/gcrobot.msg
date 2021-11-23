@@ -1,5 +1,5 @@
 {100}{}{Você vê um robô.}
-{101}{}{You see the Reactor Maintenance and Repair Robot.}
-{102}{}{You see a robot. It appears to be functional.}
-{200}{}{The robot has repaired the power plant.}
-{300}{}{You programmed the robot to start a meltdown.}
+{101}{}{Você vê o robô de manutenção e reparo do reator.}
+{102}{}{Você vê um robô. Parece ser funcional.}
+{200}{}{O robô consertou a usina.}
+{300}{}{Você programou o robô para iniciar uma fusão nuclear descontrolada.}
