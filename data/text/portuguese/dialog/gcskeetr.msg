@@ -61,53 +61,53 @@
  de algo mais para que eu faça algo com ele.}
 {231}{}{Hmm, então seria um item diferente?}
 {232}{}{Que peça eu preciso?}
-{233}{}{I guess I better come back when I have something else. Goodbye.}
-{240}{}{There ya go. I think that ought to work for you all right. Anything else?}
-{241}{}{Yes, could you take a look at another item for me?}
-{242}{}{That's all I need right now. Thanks. Goodbye.}
-{250}{}{Hmm, you don't have enough money to cover the cost of working on that. Got sumthin' else ya
- want me ta look at?}
-{251}{}{How much would it cost to combine something else?}
-{252}{}{I don't think so. Thanks anyhow. Goodbye.}
-{260}{}{Mostly I jist sorta tinker with things. Take 'em apart an try to put 'em all back t'gether...
- mostly. Make 'em work better... sometimes. Keepin' myself outta trouble. Know what I mean?}
-{261}{}{I guess. Let me ask you something else.}
-{262}{}{Well, I think I better go do something myself. Goodbye.}
-{270}{}{You're lookin' fer a GECK, huh? Well, I don't rightly know where ya might find one of them thar
- things. I know that Vault City prolly used ta have themselves one.}
-{271}{}{Vault City had one?}
-{272}{}{Hmm. Well, let me ask you something else then.}
-{273}{}{Oh well, I better keep looking. Goodbye.}
-{280}{}{They sure did. That's how come they're so darn well off. It sure ain't 'cause they know what to
- do. It's 'cause the GECK done started up their crops, and got their town running when they came outta
- the Vault.}
-{281}{}{Who would have an unused GECK?}
-{290}{}{Well, lemme see here now. As I recollect, most Vaults were s'posed to have themselves a GECK.
- You might try lookin fer another vault somewheres.}
-{291}{}{Thanks for the advice. Let me ask you something else.}
-{292}{}{Well, I better get looking then. Goodbye.}
-{300}{}{Ta be right-honest with ya, I jist dunno. If'n I get all da parts together, I jist get sort of a
- feel fer how they all goes together. Know whatta mean?}
-{301}{}{Uh, you mean you're doing this by guesswork?}
-{302}{}{How about taking a look at something else, then?}
-{303}{}{Well, I guess that makes sense. I better go look for another part, then. Goodbye.}
-{310}{}{Well, yup. But you see, it's right edu-ma-cated guesswork. That's what it is. Know whatta mean?}
-{311}{}{I don't know what you mean exactly, but I guess I'll go look for another part. Goodbye.}
-{312}{}{How about taking a look at something else, then?}
-{313}{}{Well, I guess that makes sense. I better go look for another part, then. Goodbye.}
-{320}{}{These days, good tools is harder to git than parts is. I need myself a bran' new Super Tool Kit.
- Snap-sumthin brand's best.}
-{321}{}{A new tool kit? Where can I get that?}
-{330}{}{I reckon that the best place to go an' git that would be down in Vault City somewheres. They've
- got all kinds of tools, but they sure as heck wouldn't give 'em to a ghoul, no how.}
-{331}{}{So, you want me to bring you a Super Tool Kit, and then you'll give me the car part?}
-{340}{}{Egg-zactly. That's the deal. One Super Tool Kit for one Fuel Cell Controller.}
-{341}{}{Sounds like a fair deal, I guess. Let me ask you something else.}
-{342}{}{What if I just do this the easy way? I kill you and take the part I need.}
-{343}{}{I think I'm going to walk around a bit and think about it. Goodbye.}
-{360}{}{Well, now. You could do that, maybe. Then agin, you might be in fer a little surprise there. I
- might be tougher than you think. Then again, mebbe you'd jist be slittin' yur own throat. I kin be
- pretty useful puttin' items together. Always nice to know someone's able to do that, ain't it?}
+{233}{}{Acho melhor voltar quando tiver outra coisa. Adeus.}
+{240}{}{Aqui está. Acho que isso deve funcionar bem. Algo mais?}
+{241}{}{Sim, você poderia dar uma olhada em outro item para mim?}
+{242}{}{É tudo que preciso agora. Obrigado e até.}
+{250}{}{Hmm, você não tem dinheiro suficiente para cobrir os gastos desse trabalho. Tem alguma outra coisa 
+ que você quer que eu dê uma olhada?}
+{251}{}{Quanto custaria para combinar outra coisa?}
+{252}{}{Acho que não. Obrigado mesmo assim. Adeus.}
+{260}{}{Normalmente eu só trabalho com sucatas. Desmontagem e remontagem de quase tudo... 
+ como regra geral. Fazendo funcionar melhor... às vezes. Me mantendo fora de problemas. Sabe o que eu quero dizer?}
+{261}{}{Suponho. Deixe eu perguntar outra coisa.}
+{262}{}{Bem, acho melhor eu ir fazer um negócio. Adeus.}
+{270}{}{Você atrás de um GECK, hein? Bem, eu não sei direito onde você pode encontrar uma dessas
+ coisas. Eu sei que Vault City provavelmente tinha um.}
+{271}{}{Vault City tinha um?}
+{272}{}{Hmm. Bem, deixe eu perguntar outra coisa então.}
+{273}{}{Bem, é melhor eu continuar procurando. Adeus.}
+{280}{}{Quase certeza que eles tinham. É por isso que eles estão na vida boa, certeza não é porque eles sabem o que
+ estão fazendo. É porque o GECK começou suas plantações e fez a cidade funcionar quando eles saíram da
+ Vault.}
+{281}{}{Quem teria um GECK não utilizado?}
+{290}{}{Bem, deixe-me pensar agora. Pelo que me lembro, a maioria das Vaults deveria ter um GECK.
+ Você pode tentar procurar em outra Vault por aí.}
+{291}{}{Obrigado pelo conselho. Deixe eu perguntar outra coisa.}
+{292}{}{Certo, é melhor eu procurar então. Adeus.}
+{300}{}{Para ser honesto com você, te direi não. Se eu não tiver todas as peças, me da 
+ a impressão que sempre esta faltando alguma coisa. Sabe o que quero dizer?}
+{301}{}{Ei, você quer dizer que faz isso sem nem pensar?}
+{302}{}{Então que tal dar uma olhada em outra coisa?}
+{303}{}{Bem, acho que faz sentido. É melhor eu procurar outra peça. Até mais.}
+{310}{}{Bem, sim. Mas, veja você, é uma suposição correta. É sim. Sabe o que eu quero dizer?}
+{311}{}{Na verdade eu nem sei o que você quer dizer, mas acho que vou procurar outra parte. Falou.}
+{312}{}{Então que tal dar uma olhada em outra coisa?}
+{313}{}{Bem, acho que faz sentido. É melhor eu procurar outra peça. Até mais.}
+{320}{}{Hoje em dia, boas ferramentas são mais difíceis de achar do que peças. Eu preciso de um novo Super-kit de Ferramentas.
+ Snap-sumthin é melhor marca.}
+{321}{}{Um novo kit de ferramentas? Onde consigo isso?}
+{330}{}{Acho que o melhor lugar para conseguir seria em alguma loja de em algum canto de Vault City. Eles têm
+ todos os tipos de ferramentas, mas com certeza não venderiam para um ghoul, pode esquecer.}
+{331}{}{Então, você quer que eu lhe traga um Super-kit de Ferramentas, e você me dá a peça do carro?}
+{340}{}{Exatamente. Este é o acordo. Um Super-kit de Ferramentas em troca de um Controlador de Célula de Combustível.}
+{341}{}{Me parece um acordo justo. Me deixe perguntar outra coisa.}
+{342}{}{Mas e se eu fizer isso da maneira mais fácil? Eu te mato e pego a parte de que preciso.}
+{343}{}{Vou dar uma volta e pensar sobre isso. Até mais.}
+{360}{}{Entendi. Você poderia tentar, talvez. Mas, falando sério, você pode ter uma pequena surpresa. eu
+ posso ser mais forte do que você pensa. Desse jeito você estaria cortando sua própria garganta. Consigo
+ ser muito bom manuseando objetos. É sempre bom tem em quem experimentar alguns novos, não é?}
 {361}{}{Well, maybe you're right. I'll let you live, for now. Tell me something else, though. }
 {362}{}{You sure have a lot of answers, don't you? Hope you have an answer for what's in the afterlife,
  'cause I'm sending you there -- right now.}
