@@ -136,9 +136,9 @@
 {233}{}{Hmmm. Maybe some other time.}
 {234}{}{That assault rifle you got there... I can give it an expanded magazine for $1500.}
 {235}{}{Hmmmm. I've got a low-light scope I can put on that FN FAL you got for $3500.}
-{236}{}{Expand the magazine of the AK-112 assault rifle.}
+{236}{}{Aumente o pente do rifle de assalto AK-112.}
 {237}{}{How about $1350 for upgrading the assault rifle?}
-{238}{}{Attach that low-light scope on the FN FAL.}
+{238}{}{Instale essa visão noturna no FN FAL.}
 {239}{}{How about $3100 for the low-light scope?}
 {240}{}{Could you upgrade one of my other weapons?}
 {241}{}{Never mind. I wanted something else...}
@@ -150,7 +150,7 @@
 {247}{}{Actually, could you upgrade one of my other weapons instead?}
 {248}{}{Esqueçe. Eu queria outra coisa...}
 {249}{}{Actually, none of them. I have to go.}
-{250}{}{Too rich for my blood. I'll be back when I have more cash.}
+{250}{}{É muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
 {251}{}{I see you've picked up some tricks from my cheapskate father. Give me about an hour, and it'll be good to go...}
 {252}{}{All right, all right. You sound just like my cheapskate Dad. Give me about an hour, and it'll be good to go...}
 {253}{}{All right, give me about an hour, and it'll be good to go...}

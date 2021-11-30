@@ -75,19 +75,19 @@
 {345}{}{Actually, nothing today.}
 {350}{}{(Spots your magnum.) I can put a speed loader on that magnum there for $}
 {351}{}{That Desert Eagle you got... if you want, I can give it an expanded magazine for $}
-{352}{}{Put the speed loader on the magnum.}
+{352}{}{Coloque a recarga rápida na magnum.}
 {353}{}{Expand the magazine in this Desert Eagle here.}
 {354}{}{Actually, I had another weapon in mind...}
 {355}{}{Esqueçe. Eu queria outra coisa...}
 {356}{}{Actually, none of them. I have to go.}
-{357}{}{Too rich for my blood. I'll be back when I have more cash.}
+{357}{}{É muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
 {365}{}{(Studies your rifles, nods.) }
 {366}{}{I can put a scope on that hunting rifle for $}
 {367}{}{That assault rifle you got there... I can give it an expanded magazine for $}
 {368}{}{I've got a low-light scope I can put on that FN FAL you got for $}
-{369}{}{All right then... put a scope on the Colt hunting rifle.}
-{370}{}{Expand the magazine of the AK-112 assault rifle.}
-{371}{}{Attach that low-light scope on the FN FAL.}
+{369}{}{Tudo bem então... coloque uma mira telescópica no rifle de caça Colt.}
+{370}{}{Aumente o pente do rifle de assalto AK-112.}
+{371}{}{Instale essa visão noturna no FN FAL.}
 {385}{}{You want that cattleprod juiced up? I can SUPERCHARGE it for $}
 {386}{}{Com certeza.}
 {395}{}{(Eldridge takes the item, examines it critically.) Awright... you just hold on for a bit, and I'll see what I can do.

@@ -110,7 +110,7 @@
 {188}{}{I'd like a room with an empty bed, Lou.}
 {189}{}{A full bed? That sounds good. Tell me more about that.}
 {190}{}{Booze and other goods. Yeah, that's the ticket. Let's barter.}
-{191}{}{Hmm, let me ask you about something else.}
+{191}{}{Hmm, me deixe perguntar sobre outra coisa.}
 {192}{}{That do it for you, or was there something else you wanted to buy?}
 {193}{}{Seems like you're having a little trouble making up your mind. That it, or you wanna look again?}
 {194}{}{Nope. I have all I need right now. Thanks. Tell me about something else, though.}

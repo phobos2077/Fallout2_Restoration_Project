@@ -108,94 +108,94 @@
 {360}{}{Entendi. Você poderia tentar, talvez. Mas, falando sério, você pode ter uma pequena surpresa. eu
  posso ser mais forte do que você pensa. Desse jeito você estaria cortando sua própria garganta. Consigo
  ser muito bom manuseando objetos. É sempre bom tem em quem experimentar alguns novos, não é?}
-{361}{}{Well, maybe you're right. I'll let you live, for now. Tell me something else, though. }
-{362}{}{You sure have a lot of answers, don't you? Hope you have an answer for what's in the afterlife,
- 'cause I'm sending you there -- right now.}
-{363}{}{I'll have to think about that one. Goodbye, for now. }
-{370}{}{I see that you've got a mighty fine tool kit there. Snap-off, ain't it? I'll trade you this Fuel
- Cell Controller for it.}
-{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
+{361}{}{Bem, talvez você esteja certo. Te deixarei viver por enquanto. Mas me diga outra coisa. }
+{362}{}{Você tem muitas respostas, não é? Espero que você saiba a resposta do que tem na vida após a morte,
+ porque estou te mandando pra lá - agora.}
+{363}{}{Vou ter que pensar sobre isso. Até logo. }
+{370}{}{Eu vi que você tem um kit de ferramentas muito bom. É da "Snap-off", não é? Eu troco este Controlador
+ de Célula de Combustível por isso.}
+{371}{}{Eai! Você voltou com meu kit de conserto. Mmm, Snap-off - eles são os melhores. Pronto para negociar?}
 {372}{}{Estamos de acordo.}
-{373}{}{Not right now. I'm holding on to this for a while. Goodbye.}
-{380}{}{That's a mighty fine trade. You should be able to jist plug that sucker in and git your car
- a'workin'.}
-{381}{}{That's a mighty fine trade. You should be able to jist plug that sucker in and git your car
- a'workin'. You know I could do you another favor by fixin' up some of yur stuff for free, too.}
-{382}{}{Really? For free, huh? What do I need to do for you?}
+{373}{}{Não agora. Estou segurando isso mais um tempo. Adeus.}
+{380}{}{É um excelente negócio. Você pode conseguir conectar aquele bagulho e fazer seu carro
+ funcionar.}
+{381}{}{É um excelente negócio. Você pode conseguir conectar aquele bagulho e fazer seu carro
+ funcionar. Sabe, eu deveria te fazer outro favor e consertar algumas de suas coisas de graça.}
+{382}{}{Sério? De graça, é? O que eu preciso fazer por você?}
 {383}{}{Deixe-me perguntar-lhe algo mais.}
-{384}{}{I'm going to go try that right away. Goodbye.}
-{390}{}{Well, ya see, I need a darn 3-Step Plasma Transformer. An the only place I can figger to git one
- is from the supply room.}
-{391}{}{Why don't you just get it from there, then?}
-{400}{}{I kinda wore out my welcome there. An it was only a little fire, too. Coulda happened to jist
- anyone. Anyhow, they won't let me anywhere's inside the reactor building now. I need someone else to
- git my part for me. }
-{401}{}{How do I get the Plasma Transformer for you?}
-{410}{}{Youz gotta git yourself a Supply Requisition Form. Once you have that, jist give it to Jeremy in
- the Supply Room and he'll give you any darn thing you want. You can get Supply Requisitions from
- Harold or Festus.}
-{411}{}{Where are Harold and Festus and will they just give me the form I need?}
-{420}{}{Harold's in the Settlement, and Festus is in the reactor control room. But you might have to
- kind of get the forms on the sly, if ya know what I mean.}
-{421}{}{You mean I have to steal the Requisition Form, don't you?}
-{430}{}{Well, err, yeah. I guess so. You might ask them, but I wouldn't put your chances too high there.}
-{431}{}{Well, I'll see what I can find out.}
-{432}{}{I don't think I want any part of this. Goodbye.}
-{440}{}{Didja come here to take me up on that work I owe you?}
-{441}{}{I sure did. Let me see what you can work on for me.}
-{442}{}{Not yet. Just came by to see if you're still here. Well, Goodbye for now.}
-{450}{}{I'm sorry. You don't have anything that I can use that with. Anything else?}
-{451}{}{Take a look at something else I have.}
-{452}{}{I guess that's it for now. Goodbye.}
-{460}{}{Let's see. It's going to cost you $[Cost of combining item a with item b]. Do you want to do
- that?}
-{461}{}{Yes. I do. Thanks.}
-{462}{}{I don't think that I want to do that after all. What about something else?}
-{463}{}{I guess I don't want you to work on anything right now after all. Goodbye.}
-{470}{}{Once I put things together they stay put. You cain't pull 'em apart later and attach 'em to
- other things. Better pick right the first time, I guess.}
-{471}{}{OK, I understand. Take a look at something for me, then.}
-{472}{}{I guess I don't want you to work on anything right now after all. Goodbye.}
-{500}{}{I was wunderin' where the heck my Repair Kit is. You did say you were gonna git it, didn't ya?
- I cain't rightly do much fer ya without that. Sorry. Should be plenty of 'em available in Vault City.}
-{501}{}{I'll have to come back when I have that. Goodbye.}
-{502}{}{I don't think I need your help with anything right now, anyway. Goodbye.}
+{384}{}{Eu vou tentar isso. Adeus.}
+{390}{}{Sabe, preciso daquela desgraça do Transformador Trifásico de Plasma. E o único lugar que imagino conseguir um
+ é no almoxarifado.}
+{391}{}{Por que você não pega de uma vez?}
+{400}{}{Eu já gastei minhas boas-vindas por lá. E olha que foi só um pequeno incêndio, poderia ter acontecido com 
+ qualquer um. Enfim, eles não vão me deixar entrar em lugar nenhum dentro do prédio do reator. Preciso de outra pessoa para
+ pegar minha peça.}
+{401}{}{Como consigo o Transformador de Plasma para você?}
+{410}{}{Você precisa conseguir um Formulário de Requisição de Suprimentos. Quando tiver, é só dar a Jeremy na
+ sala de suprimentos e ele lhe dará qualquer coisa que você quiser. Você pode obter requisições de suprimentos 
+ de Harold ou Festus.}
+{411}{}{Onde estão Harold e Festus? Eles me darão isso facilmente?}
+{420}{}{Harold está no assentamento e Festus está na sala de controle do reator. Mas você pode ter que
+ meio que emprestar o formulário sem que eles saibam, se é que você me entende.}
+{421}{}{Quer dizer que tenho que roubar o formulário, certo?}
+{430}{}{Bem, err, sim. Se você coloca assim. Você até pode perguntar a eles, mas eu não acho que você teria muitas chances.}
+{431}{}{Bem, verei o que posso fazer.}
+{432}{}{Não me interesso em fazer parte disso. Adeus.}
+{440}{}{Você veio aqui para falar sobre o trabalho que te devo?}
+{441}{}{Claro. Deixe eu ver o que você pode fazer para mim.}
+{442}{}{Ainda não. Só passei para ver se você ainda estava aqui. Até logo por enquanto.}
+{450}{}{Eu sinto muito. Você não tem nada que eu possa usar. Algo mais?}
+{451}{}{Dê uma olhada em outra coisa que eu tenho.}
+{452}{}{Acho que é isso por enquanto. Adeus.}
+{460}{}{Vamos ver. Vai custar $[Cost of combining item a with item b]. Você quer fazer
+ nesse?}
+{461}{}{sim, eu faço. Valeu.}
+{462}{}{Na verdade, acho que eu não quero fazer isso. Que tal outra coisa?}
+{463}{}{Acho melhor você não trabalhar em nada por enquanto. Adeus.}
+{470}{}{Depois de montadas, as peças ficam unidas permanentemente. Não dá pra separar e depois tentar prende-las
+ em outras coisas. É melhor escolher bem da primeira vez.}
+{471}{}{Hmm, entendi. Então, dê uma olhada em algo para mim.}
+{472}{}{Acho melhor você não trabalhar em nada por enquanto. Adeus.}
+{500}{}{Eu estava pensando onde que esse bendito kit de reparo está. Você não disse que ia conseguir?
+ Não posso fazer muito por você sem isso. Desculpa. Deve haver muitos deles disponíveis em Vault City.}
+{501}{}{Voltarei quando conseguir isso. Adeus.}
+{502}{}{De qualquer forma, eu não acho que preciso de sua ajuda por enquanto. Adeus.}
 {600}{}{O que você quer que eu olhe?}
-{601}{}{I have a pistol here and I was wondering....}
-{602}{}{It sure looks as though you could bolt an accessory to this long arm here.}
-{603}{}{Sometimes I like to get up close and personal. Anything you can do to improve my powered melee weapon?}
-{604}{}{Uh, maybe later. Let me ask you about something else.}
+{601}{}{Eu tenho uma pistola aqui e estava pensando...}
+{602}{}{Parece que você poderia instalar um acessório nesse rifle aqui.}
+{603}{}{As vezes gosto de me aproximar e ser mais pessoal. O que você pode fazer para deixar minha arma corpo a corpo mais potente?}
+{604}{}{Uh, talvez mais tarde. Me deixe perguntar sobre outra coisa.}
 {605}{}{Não preciso de nada agora. Adeus.}
-{610}{}{[Spots your magnum revolver.] I can rig a speed loader on that there magnum for $}
-{611}{}{Hmm, that Desert Eagle would sure be a sweet rig with an expanded magazine. I can do that for $}
-{612}{}{Put the speed loader on the magnum.}
-{613}{}{Expand the magazine in my Desert Eagle here.}
-{614}{}{Actually, I had another weapon in mind....}
-{615}{}{Hmm, let me ask you about something else.}
-{616}{}{Maybe I'll come back later on.}
-{617}{}{Too rich for my blood. I'll be back when I have more cash.}
-{620}{}{[Skeeter studies your long arm, and nods slowly.]}
-{621}{}{I can put a nice all-weather scope on that hunting rifle for $}
-{622}{}{Nothing like having an assault rifle with an expanded magazine. I can fix
- yours up with one for $}
-{623}{}{That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours
- for $}
-{624}{}{All right then... put a scope on the Colt hunting rifle.}
-{625}{}{Expand the magazine of the AK-112 assault rifle.}
-{626}{}{Attach that low-light scope on the FN FAL.}
-{627}{}{Too rich for my blood. I'll be back when I have more cash.}
-{630}{}{You want that melee weapon juiced up? I can *supercharge* it for $}
+{610}{}{[Pega seu revólver magnum.] Posso equipar um carregador rápido nessa magnum por $}
+{611}{}{Hmm, aquela Desert Eagle com certeza seria bem melhor com um pente expandido. Eu posso fazer isso por $}
+{612}{}{Coloque a recarga rápida na magnum.}
+{613}{}{Aumente o pente da minha Desert Eagle.}
+{614}{}{Na verdade, eu pensei em outra arma....}
+{615}{}{Hmm, me deixe perguntar sobre outra coisa.}
+{616}{}{Talvez eu volte mais tarde.}
+{617}{}{É muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
+{620}{}{[Skeeter olha seu rifle e balança a cabeça lentamente.]}
+{621}{}{Posso colocar uma boa mira telescópica nesse rifle de caça por $}
+{622}{}{Nada como ter um rifle de assalto com um pente expandido. Eu posso 
+ consertar o seu com um por $}
+{623}{}{Esse FN FAL é uma boa arma. Ei, eu tenho uma mira noturna para ela. É sua
+ por $}
+{624}{}{Tudo bem então... coloque uma mira telescópica no rifle de caça Colt.}
+{625}{}{Aumente o pente do rifle de assalto AK-112.}
+{626}{}{Instale essa visão noturna no FN FAL.}
+{627}{}{É muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
+{630}{}{Você quer uma arma corpo-a-corpo reforçada? Eu posso *sobrecarregar* por $}
 {631}{}{Com certeza.}
-{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye.] Well, this is a mite challengin', but I think I can fix this up real nice
- for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
- workbench and locks it in a really big vise.]}
+{640}{}{[Skeeter pega o item e o examina com um brilho estranho em seus
+ olhos.] Bem, é um pequeno desafio, mas acho que posso consertar isso muito bem
+ para você. Se sente um pouco. [Skeeter leva a arma para a sua
+ bancada de trabalho e a trava em um torno muito grande.]}
 {641}{}{Tudo bem.}
-{650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
- don't know exactly what he's doing but that weird chuckle and all the pounding are
- making you nervous.]}
+{650}{}{[Enquanto espera, você pode ver as costas de Skeeter enquanto ele trabalha em sua arma. 
+ Você não sabe exatamente o que ele está fazendo, mas aquela risada estranha e todas as batidas te
+ deixam nervoso.}
 {651}{}{Aguarde...}
-{660}{}{[More pounding and cackling as you wait some more....]}
+{660}{}{[Mais marteladas e risadas enquanto você continua esperando...]}
 {661}{}{[You whistle tunelessly and make shadow-puppets against the back wall of
  Skeeter's workshop....]}
 {670}{}{There you go. [You wake suddenly as Skeeter takes your weapon from the
