@@ -8,7 +8,7 @@ env:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
 
@@ -22,8 +22,8 @@ jobs:
           set -xeu -o pipefail
           sudo dpkg --add-architecture i386
           sudo apt -qq update
-          sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip wine-stable wine32 >/dev/null 2>&1
-          wineboot >/dev/null 2>&1
+          sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip wine-stable wine32
+          wineboot
 
       - name: Build and package
         run: ./extra/full.sh
