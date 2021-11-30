@@ -6,7 +6,6 @@
 "%s was critically hit in %s for no damage","%s a été touchée (coup critique) (%s) mais sans aucun dégât"
 "%s was hit for %d hit points","%s a été touchée pour %d points d'impact"
 "%s was hit for 1 hit point","%s a été touchée pour 1 point d'impact"
-"%s was hit for no damage","%s a été touché sans aucun dégât"
 "%s was hit in %s for %d hit points","%s a été touchée (%s) pour %d points d'impact"
 "%s was hit in %s for 1 hit point","%s a été touchée (%s) pour 1 point d'impact"
 "%s was hit in %s for no damage","%s a été touchée (%s) sans aucun dégât"
