@@ -1,7 +1,6 @@
 FileName: "{app}\ddraw.ini"; Section: "Interface"; Key: "ActionPointsBar"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Interface"; Key: "WorldMapTerrainInfo"; String: "1"; Components: qol;
 
-FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "BoostScriptDialogLimit"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "DisplayBonusDamage"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "DisplayKarmaChanges"; String: "1"; Components: qol;
 FileName: "{app}\ddraw.ini"; Section: "Misc"; Key: "DontTurnOffSneakIfYouRun"; String: "1"; Components: qol;
