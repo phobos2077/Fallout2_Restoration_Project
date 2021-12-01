@@ -24,7 +24,14 @@ for d in $(ls $src); do
       if grep -qi "^$int " "$scripts_lst" || [[ "$d" == "global" ]]; then # if file is in scripts.lst or a global script
         script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
         gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f" # preprocess
+        set +e
         wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # compile
+        if [[ "$?" != "0" ]]; then # 1 retry on wine connection reset
+          set -e
+          sleep 1
+          wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # compile
+        fi
+        set -e
       fi
     done
     cd ..
