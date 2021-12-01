@@ -99,7 +99,7 @@
 {406}{}{Dum de dum de dum...}
 {410}{}{(You are about to nod off, when suddenly Eldridge returns.) Sorry about the wait... here ya go. This might give you
  an edge against any son of bitches that try n' step on your shadow.}
-{411}{}{Thanks. Can you upgrade any of my other weapons?}
+{411}{}{Obrigado. Você pode melhorar outra arma?}
 {412}{}{Thanks. I wanted something else...}
 {413}{}{Thanks. I'll go try it out.}
 {420}{}{Oh... we got us a discrimnatin' customer, eh? Well, at times, some prize pieces do make their way through town... take

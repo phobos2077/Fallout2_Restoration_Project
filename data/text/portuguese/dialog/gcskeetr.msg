@@ -196,15 +196,15 @@
  deixam nervoso.}
 {651}{}{Aguarde...}
 {660}{}{[Mais marteladas e risadas enquanto você continua esperando...]}
-{661}{}{[You whistle tunelessly and make shadow-puppets against the back wall of
- Skeeter's workshop....]}
-{670}{}{There you go. [You wake suddenly as Skeeter takes your weapon from the
- workbench - you can see a number of small shiny, metal parts lingering on the
- bench as Skeeter returns your weapon to you.] That *should* do it, I reckon. Give
- 'er a try.}
-{671}{}{Thanks. Can you upgrade any of my other weapons?}
-{672}{}{Thanks, Skeeter. Uh, let me ask you something else.}
-{673}{}{Thanks, Skeeter. I'll go try it out.}
+{661}{}{[Você assobia todo desafinado e faz fantoches de sombra contra a parede de trás da
+ oficina de Skeeter....]}
+{670}{}{Ai está. [Você acorda no susto quando Skeeter pega sua arma da
+ bancada de trabalho - você vê algumas pequenas peças de metal sobrando na
+ bancada enquanto Skeeter devolve sua arma.] Isso *deve* funcionar, eu acho. De
+ uma chance.}
+{671}{}{Obrigado. Você pode melhorar outra arma?}
+{672}{}{Obrigado, Skeeter. Uh, me deixe perguntar outra coisa.}
+{673}{}{Obrigado, Skeeter. Vou tentar.}
 {680}{}{[Spots your magnum revolver.] I can rig a speed loader on that there magnum for free.}
 {681}{}{Hmm, that Desert Eagle would sure be a sweet rig with an expanded magazine. I can do that for free.}
 {682}{}{I can put a nice scope all-weather on that hunting rifle for free.}
