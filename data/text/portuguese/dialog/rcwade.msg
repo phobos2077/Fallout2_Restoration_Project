@@ -10,7 +10,7 @@
 {108}{}{Hello there. My name's Ben. Ben Wade. I'm in charge of trade caravans between Redding and Vault
  City. I can usually use an extra guard or two. We leave town on the 1st of every month. If you want to
  sign on, make sure you're here then.}
-{109}{}{What do you want now?}
+{109}{}{O que você quer agora?}
 {110}{}{Moo-moos?}
 {111}{}{You need a guard, huh?}
 {112}{}{What does this caravan transport?}

@@ -205,14 +205,14 @@
 {671}{}{Obrigado. Você pode melhorar outra arma?}
 {672}{}{Obrigado, Skeeter. Uh, me deixe perguntar outra coisa.}
 {673}{}{Obrigado, Skeeter. Vou tentar.}
-{680}{}{[Spots your magnum revolver.] I can rig a speed loader on that there magnum for free.}
-{681}{}{Hmm, that Desert Eagle would sure be a sweet rig with an expanded magazine. I can do that for free.}
-{682}{}{I can put a nice scope all-weather on that hunting rifle for free.}
-{683}{}{Nothing like having an assault rifle with an expanded magazine. I can fix
- yours up with one for free.}
-{684}{}{That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours
- for free.}
-{685}{}{You want that melee weapon juiced up? I can *supercharge* it for free.}
-{700}{}{You delivered the part to Skeeter.}
-{710}{}{You delivered the repair kit to Skeeter.}
+{680}{}{[Pega seu revólver magnum.] Posso inserir um carregador rápido naquela magnum de graça.}
+{681}{}{Hmm, aquela Desert Eagle com certeza seria uma baita arma com aquele pente extendido. Eu posso fazer isso de graça.}
+{682}{}{Posso colocar uma mira telescópica naquele rifle de caça de graça.}
+{683}{}{Nada como ter um bom rifle de assalto com um pente expandido. Posso colocar
+ no seu de graça}
+{684}{}{Esse FN FAL é uma boa arma. E eu tenho uma mira noturna para melhorar. É sua
+ de graça.}
+{685}{}{Você quer reforçar aquela arma corpo-a-corpo ? Posso *turbinar* de graça.}
+{700}{}{Você entrega a peça para Skeeter.}
+{710}{}{Você entrega o kit de reparo para Skeeter.}
 {5500}{}{.}

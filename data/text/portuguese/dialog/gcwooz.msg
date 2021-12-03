@@ -1,121 +1,121 @@
-{100}{}{You see a tall ghoul with long hair.}
-{101}{}{You see Wooz.}
-{102}{}{You see an extremely tall and lanky ghoul with long hair.}
-{110}{}{I am Wooz. What do you want?}
-{111}{}{What do you want now? Are you dumb?}
-{112}{}{Hello. What do you want?}
-{113}{}{Booze, Wooz.}
+{100}{}{Você vê um ghoul alto com cabelo comprido.}
+{101}{}{Você vê Wooz.}
+{102}{}{Você vê um ghoul bem alto e magro com cabelo comprido.}
+{110}{}{Eu sou Wooz. O que você quer?}
+{111}{}{O que você quer agora? Você é burro ou o que?}
+{112}{}{Boa. O que você quer?}
+{113}{}{Bebida, Wooz.}
 {114}{}{O que você faz aqui?}
 {115}{}{Conte-me sobre este lugar.}
 {116}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
-{117}{}{I don't want anything from you. Goodbye.}
-{120}{}{I just told you that every Vault has one. Does this look like a Vault to you? Are you dumb? Why
- are you looking for a GECK here? Try a Vault. }
-{121}{}{Where is the nearest Vault?}
-{122}{}{I'll show you dumb. Talking to me like that is dumb. I'm the Chosen One, you know.}
-{123}{}{Uh, well, I was going to... and I thought you might... oh, never mind. Goodbye.}
-{130}{}{A Garden of Eden Creation Kit? You mean the device included with every vault that is supposed
- to be used when the people leave the vault in order to reestablish civilization?}
-{131}{}{Yes! That's it! Where can I find one?}
-{132}{}{Uh, no, I meant some other Garden of Eden Creation Kit.}
-{140}{}{I run this place. Are you dumb? I sell drinks, trade for things, tell stories, and play Tragic.}
-{141}{}{What do you want now?}
-{142}{}{I want a drink.}
-{143}{}{I want to trade.}
-{144}{}{Tell stories?}
-{145}{}{Play Tragic?}
+{117}{}{Eu não quero nada de você. Adeus.}
+{120}{}{Acabei de dizer que toda Vault tem um. Aqui parece uma Vault para você? Você é babaca? Por que
+ está procurando o GECK aqui? Tente em uma Vault. }
+{121}{}{Onde fica a Vault mais próximo?}
+{122}{}{Vou te mostrar quem é o babaca. Você fala como um, idiota. Eu sou o escolhido, você sabe.}
+{123}{}{Uh, então, eu ia... e pensei que você poderia... ah, deixa pra lá. Adeus.}
+{130}{}{Um Kit de Criação do Jardim do Éden? Você quer dizer o dispositivo incluído em cada Vault que supostamente
+ seria usado para quando as pessoas deixam a vault e saem para restabelecer a civilização?}
+{131}{}{Sim! É isso! Onde posso encontrar um?}
+{132}{}{Uh, não, eu quis dizer algum outro Kit de Criação do Jardim do Éden.}
+{140}{}{Eu cuido este lugar. Você é burro? Vendo bebidas, troco coisas, conto histórias e jogo.}
+{141}{}{O que você quer agora?}
+{142}{}{Preciso de uma bebida.}
+{143}{}{Preciso negociar umas coisas.}
+{144}{}{Você conta histórias?}
+{145}{}{Você joga Tragic?}
 {146}{}{Acho que não preciso de nada agora. Tchau.}
-{150}{}{Trade? I'm always ready to trade Tragic cards. I've got a couple of old Vox Mubies, a Black
- Dahlia, and some Rare Earths.}
-{151}{}{I suppose you just want to trade stuff, huh?}
+{150}{}{Trocas? Estou sempre disposto a trocar cartas de Tragic. Eu tenho repetido um par de Velhos Galos, uma Dahlia
+ Negra e algumas Terras Raras.}
+{151}{}{Suponho que você só queira trocar coisas, certo?}
 {152}{}{O que diabos você está falando?}
-{153}{}{Uh, I don't know what you're on, but I hope you have some in inventory to trade.}
-{154}{}{Yes, I'd like to trade.}
-{155}{}{Hmm... let me ask you about something else, first.}
-{156}{}{I don't need to trade right now. Goodbye.}
-{160}{}{Not much to tell, really. Just a bunch of ghouls clinging tenaciously to the ass-end of life.}
-{161}{}{No, I meant tell me about this bar.}
-{162}{}{Well, that describes a lot of people. Nothing new in that.}
-{170}{}{You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5/bottle and, for
- special occasions, our Roentgen Rum at $12/bottle.}
-{171}{}{What'll it be?}
-{172}{}{Gulp?}
-{173}{}{I'd like a Gamma Gulp Beer. Is it supposed to glow like that?}
-{174}{}{This is a special occasion, of a sort. I'd like a bottle of your Roentgen Rum.}
-{175}{}{I want to buy a round of your fabulous Gamma Gulp Beer for everyone here.}
-{176}{}{Uh uh, goodbye.}
-{180}{}{You don't have enough money. Are you dumb?}
-{181}{}{Umb?}
-{182}{}{Oops. Sorry. Let me buy something else.}
-{183}{}{Okay, let me ask you a question, then.}
-{184}{}{I guess I am dumb. Sorry. Let me ask you something else.}
-{185}{}{Dumb? Talking like that to me is pretty stupid, pal. You might just hurt yourself that way.
- Goodbye.}
-{186}{}{Sorry. Goodbye.}
-{190}{}{You want to buy a round of drinks for everyone here? You must really be hard up for friends.
- That'll cost you $35.}
-{191}{}{Cost is no object, my good man. I'd like a round of drinks for everyone here, Wooz.}
-{192}{}{Wooz, old chum, I want to buy a drink for all my friends here. These guys are the greatest.}
-{193}{}{Wooz, com'ere... theesh guys are the besht friends a person could ever have. Gimme another round
- for all my friends.}
-{194}{}{Wooz! Gimme another round for all o' my pals. Theesh guys are the best. I LOVE YOU GUYS! Group
- hug!}
-{195}{}{On second thought, I must have a hole in my head for wanting to buy drinks for a bunch of
- rotting zombies.}
-{196}{}{I guess I'd rather just buy a drink for myself.}
-{200}{}{I've got this great story. It's really funny. You see there's this head, right?}
-{201}{}{A head?}
-{202}{}{Uh, I think I've heard this one already. I don't have the time to listen to this now. Goodbye.}
-{210}{}{Are you dumb? Tragic the Garnering is the most addictive thing since Jet.}
-{211}{}{It's like I was saying. Tragic the Garnering is the game to play.}
-{212}{}{Tell me more about this Tragic the Garnering.}
-{213}{}{What's Jet?}
-{214}{}{I guess I'll take your word for that. Goodbye.}
-{220}{}{Hmm, sorry. That's the only one I know of. By the way, have you seen an apple, lately?}
-{221}{}{An apple?}
-{222}{}{I'm too disappointed to talk right now. Goodbye.}
-{230}{}{I just love apples, but there aren't many left anywhere. I hardly ever see them.}
-{231}{}{I didn't know you were such a fruit fetishist. Tell me something else.}
-{232}{}{I've heard that you could really savor an apple because they were so slow to eat.}
-{240}{}{Slow?!? You are dumb. Fuck you! Apples are just as fast to eat as any other fruit. Apples
- rule. If it weren't for a conspiracy on the part of fruit manufacturers we'd all have apples.}
-{241}{}{You're crazed, aren't you? I think you've been sampling too much of your own brew here. Tell me
- about something else.}
-{242}{}{Oh, yes... apples really are wonderful. (you back away slowly) Yes, that's right. Good Wooz, easy
- there. Goodbye.}
-{250}{}{I think we were able to come to an understanding. Need anything else?}
-{251}{}{Actually, I think there is something else that I could use. }
-{252}{}{That's all the trading I want to do right now. I do have some questions, though.}
-{253}{}{I don't need anything else right now. Goodbye.}
-{260}{}{Oh, the Chosen One. Oh my, I didn't realize. I'll just try to stop shaking long enough to tell
- you something then. (Wooz smiles) Come closer and I'll whisper it to you.}
-{261}{}{Well, that's more like it. I deserve a little more respect around here.}
-{262}{}{I'm not getting any closer to you, you scrawny freak. Get away. Goodbye.}
-{270}{}{Nearest Vault? Gee, I don't know. Maybe you could ask the people in Vault City where a Vault
- might be. Vault City's just south of here. You are dumb, aren't you?}
-{271}{}{I knew that. I was just testing you. Gee, Wooz, you're so smart. Tell me something else.}
-{272}{}{I am not! You're the one that's dumb. I'm leaving. Goodbye.}
-{280}{}{(Wooz beckons you closer) Let me whisper in your ear...}
+{153}{}{Uh, eu não sei o que você tem, mas espero que você tenha algum estoque para negociar.}
+{154}{}{Sim, gostaria de trocar.}
+{155}{}{Hmm... primeiro, deixe eu perguntar sobre outra coisa.}
+{156}{}{Não preciso negociar agora. Adeus.}
+{160}{}{Nem tenho muito o que dizer. Somos apenas um bando de ghouls que persistem em viver nesse cu do mundo.}
+{161}{}{Não, eu estava me referindo a este bar.}
+{162}{}{Bem, isso descreve muita gente. Nada de novo sobre o sol.}
+{170}{}{Você quer uma bebida, hein? Bem, nós temos nossa própria cerveja Trago-Gamma por US$5 / garrafa e, em
+ ocasiões especiais, nosso Rum Roentgen por US$12 / garrafa.}
+{171}{}{O que vai ser?}
+{172}{}{Trago?}
+{173}{}{Eu gostaria de uma cerveja Trago-Gamma. Eu vou brilhar assim?}
+{174}{}{De certa forma, essa é uma ocasião especial. Eu quero uma garrafa do seu Rum Roentgen.}
+{175}{}{Eu vou pagar uma rodada de tua fabulosa cerveja Trago-Gamma pra todo mundo aqui.}
+{176}{}{Oh oh, adeus.}
+{180}{}{Você não tem dinheiro suficiente. Você é burro?}
+{181}{}{Uh?}
+{182}{}{Opa, foi mal. Deixe eu comprar outra coisa.}
+{183}{}{Ok, deixe eu fazer uma pergunta, então.}
+{184}{}{É que eu sou meio burro, foi mal. Deixe eu perguntar outra coisa.}
+{185}{}{Burro? Falar assim comigo é burrice sua, amigo. Você pode acabar se machucando fazendo isso.
+ Adeus.}
+{186}{}{Desculpe, adeus.}
+{190}{}{Você quer pagar uma rodada de bebidas para todos aqui? Você deve ser realmente um bom amigo.
+ Isso vai custar $ 35.}
+{191}{}{O custo não é problema, meu bom homem. Eu gostaria de pagar uma rodada de bebidas para todos aqui, Wooz.}
+{192}{}{Wooz, meu parceiro, quero comprar bebidas para todos os meus amigos aqui. Esses caras aqui são feras.}
+{193}{}{Wooz, chega mais... esses caras são os melhores amigos que uma pessoa poderia ter. Eu pago outra rodada
+ para todos esses caras aqui.}
+{194}{}{Woooooz! Me vê outra rodada pra todos esses pau no cu aqui. Esses caras são fodas. EU AMO VOCÊS, CARAS! Aquele
+ abraço!}
+{195}{}{Pensando bem, devo estar com merda na cabeça por querer comprar bebidas para um monte de
+ zumbis podres.}
+{196}{}{Acho que prefiro comprar uma bebida para mim.}
+{200}{}{Eu tenho uma ótima história. É realmente engraçada. Você vê que há uma cabeça aqui, certo?}
+{201}{}{Cabeça?}
+{202}{}{Uh, acho que já ouvi essa. Não tenho tempo para ouvir isso agora. Adeus.}
+{210}{}{Você é burro? Tragic é a coisa mais viciante desde a invenção do jet.}
+{211}{}{É como eu estava dizendo. Tragic é o jogo certo.}
+{212}{}{Me diga mais sobre o jogo de Tragic.}
+{213}{}{O que é jet?}
+{214}{}{Acho que da pra acreditar no que você diz. Adeus.}
+{220}{}{Hmm, desculpe. É o único que conheço. Aliás, você viu alguma maçã ultimamente?}
+{221}{}{Uma maçã?}
+{222}{}{Estou muito decepcionado para falar agora. Adeus.}
+{230}{}{Eu adoro maçãs, mas não sobraram muitas em lugar nenhum. Quase nunca as vejo.}
+{231}{}{Eu não sabia que você era um fetichista de frutas. Fale sobre outra coisa.}
+{232}{}{Ouvi dizer que você consegue saborear bem uma maçã porque elas demoram mais para comer.}
+{240}{}{Devagar?!? Você é idiota. Porra! As maçãs são tão fáceis de comer quanto qualquer outra fruta. Maçãs 
+ são ótimas. Se não fosse por uma conspiração feita pelos fabricantes de frutas, todos nós teríamos maçãs.}
+{241}{}{Tá maluco, é? Eu acho que você experimentou muito da sua própria cerveja aqui. Me fale
+ sobre outra coisa.}
+{242}{}{Oh, sim... maçãs são realmente fantásticas. (você se afasta lentamente) Sim, isso mesmo. Bom Wooz, valeu
+ ae. Adeus.}
+{250}{}{Acho que conseguimos chegar a um acordo. Precisa de mais alguma coisa?}
+{251}{}{Na verdade, acho que há outra coisa que eu poderia usar. }
+{252}{}{Essa é toda tudo que eu vou trocar por agora. Mas eu ainda tenho algumas perguntas.}
+{253}{}{Eu não preciso de mais nada agora. Adeus.}
+{260}{}{Oh, o escolhido. Meu Deus, eu não percebi. Vou tentar parar de tremer a tempo a tempo de 
+ te dizer uma coisa. (Wooz sorri) Chegue mais perto que eu vou sussurrar para você.}
+{261}{}{Bem, isso me agrada mais. Eu mereço um pouco mais de respeito por aqui.}
+{262}{}{Nunca vou chegar mais perto de você, raça lazarenta. Sai fora, adeus.}
+{270}{}{Vault mais próximo? Puxa, eu não sei. Talvez você devesse perguntar às pessoas em Vault City onde um Vault
+ pode ser. Vault City fica ao sul daqui. Você é burro, né?}
+{271}{}{Eu sabia, estava apenas testando você. Puxa, Wooz, como você é esperto. Me diga outra coisa.}
+{272}{}{Eu não sou! Você é que é burro. Estou indo embora. Adeus.}
+{280}{}{(Wooz chama você para mais perto) Vou sussurrar um negócio...}
 {281}{}{Tudo bem.}
-{282}{}{I don't think so; you're just trying to eat my brains, aren't you? I'm leaving. Goodbye.}
-{290}{}{FUCK YOU!!! Now get out of my bar. Chosen one. Sheesh, what a loser.}
-{291}{}{I don't want to stay in your stupid bar, anyway. You didn't have to yell like that. Goodbye.}
-{292}{}{That's it, you fucking leper. Time to give you a little lead inoculation.}
-{300}{}{Fuck you! You're dumb. What the hell do you want here?}
-{301}{}{Uh, I'm really sorry I pissed you off, Mr. Wooz. I just wanted to ask you something.}
-{302}{}{Fuck me? Fuck you! Your bar sucks. I'm out of here.}
-{303}{}{Uh, nothing. Sorry, Wooz.}
-{304}{}{Uh, did I tell you how much I really just love apples?}
-{310}{}{Really? I didn't know that. Well, if you love apples, I guess you can't be all bad. Now, what the
- hell do you want?}
-{311}{}{I had some questions for you Wooz.}
-{320}{}{Zombies? Fuck you! We're ghouls. Zombies are a type of undead with no free will. Although we
- share certain physical characteristics -- most notably, the rotting flesh and characteristic morbidity --
- we are creatures of free will. Allow me to demonstrate.}
+{282}{}{Acho que não; você está tentando comer meu cérebro, né? Tô saindo fora. Adeus.}
+{290}{}{VAI TOMAR NO SEU CU!!! Sai de perto do meu bar! Escolhido, ha ha, lixo perdedor.}
+{291}{}{Se bem que eu nem queria ficar nessa bosta de bar. Você não precisava gritar assim. Adeus.}
+{292}{}{Isso mesmo, leproso de merda. É hora de te dar uma bela dose de chumbo.}
+{300}{}{Foda-se! Você é burro. O que mais você quer por aqui?}
+{301}{}{Nossa, eu sinto muito por tê-lo irritado, Sr. Wooz. Eu só queria te perguntar uma coisa.}
+{302}{}{Que porra é essa? Vai se fuder! Que vá a merda com seu bar. Tô saindo daqui.}
+{303}{}{Uh, nada. Desculpe, Wooz.}
+{304}{}{Uh, eu te disse o quanto eu realmente amo maçãs?}
+{310}{}{Mesmo? Eu não sabia disso. Se você realmente ama maçãs, acho que não pode ser tão ruim. Agora, o que 
+ você quer afinal?}
+{311}{}{Eu tinha algumas perguntas para você Wooz.}
+{320}{}{Zumbis? Vai se fuder! Somos ghouls. Zumbis são um tipo de morto-vivo sem vida própria. Embora nós
+ compartilhamos certas características físicas - mais notavelmente, a carne podre e uma dose de morbidez -
+ somos criaturas com livre arbítrio. Permita-me demonstrar.}
 {321}{}{Hein?}
-{330}{}{I am demonstrating my free will by telling you to GET OUT! Damn smoothskin bigot. Go back to
- Vault City, where you belong.}
-{331}{}{Ghouls, zombies, who cares? You're all freaks.}
+{330}{}{Estou demonstrando minha vontade te dizendo para SAIR! Maldito pela lisa do caralho. Volte para
+ Vault City que é o seu lugar.}
+{331}{}{Ghouls, zumbis, quem liga? Vocês são todos monstros.}
 {340}{}{Well, Tragic the Garnering isn't just a game -- it's an obsession. Not a cologne, either. Some
  think that the way it changes a person's life is tragic, but they just don't understand.}
 {341}{}{Uh huh.}

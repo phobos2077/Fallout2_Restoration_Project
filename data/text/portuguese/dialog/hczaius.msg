@@ -84,7 +84,7 @@
 {166}{}{I hope you've given some thought to giving the ore back to the town... so...}
 {167}{}{Thanks for selling the ore. It's not like we couldn't use it or anything. So...}
 {168}{}{Thanks so much for returning that ore. You don't know how hard we work for that stuff.}
-{169}{}{What do you want now?}
+{169}{}{O que você quer agora?}
 {170}{}{Can you tell me about the town?}
 {171}{}{I hear you're having trouble with the mine.}
 {172}{}{How're things?}
