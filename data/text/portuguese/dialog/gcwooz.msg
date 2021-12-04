@@ -116,94 +116,94 @@
 {330}{}{Estou demonstrando minha vontade te dizendo para SAIR! Maldito pela lisa do caralho. Volte para
  Vault City que é o seu lugar.}
 {331}{}{Ghouls, zumbis, quem liga? Vocês são todos monstros.}
-{340}{}{Well, Tragic the Garnering isn't just a game -- it's an obsession. Not a cologne, either. Some
- think that the way it changes a person's life is tragic, but they just don't understand.}
+{340}{}{Bem, Tragic não é apenas um jogo - é uma obsessão. Também não é como a famosa colônia. Alguns
+ pensam que a maneira como a vida das pessoas mudam é trágica, eles simplesmente não entendem.}
 {341}{}{Uh huh.}
-{350}{}{Jet's a drug that comes from New Reno. Were you born yesterday, or are you just dumb?}
-{351}{}{Oh, that Jet. Well, sure I knew about that. Tell me more about this Tragic the Garnering.}
-{360}{}{No, really. It's wonderful. You should play. Just once. The first box of cards is free. A little
- something from me to you.}
-{361}{}{Thanks. Hey, these look great. (you tear the wrapping off) Mmm, I just love that smell.}
-{362}{}{I just say 'No' to Tragic. Goodbye.}
-{370}{}{Hello there. Looks like you're another Tragic player. Have time for a game? Or are ya yeller?
- I'm a-callin' you out.}
-{371}{}{I really don't have time for a... well, how long could one little game take...}
-{372}{}{Sure, just let me... No! Must stop. (your hand reaches for your deck, seemingly of its own
- volition) Noooooo!}
-{375}{}{I'd play Tragic with you but it looks like I'm all out of decks.}
-{376}{}{Wait until next week I'll put together a deck that can't be beat.}
-{377}{}{You took some of my best cards. I hate this game!}
-{380}{}{That's just the first part. Now that you're one of us, want to play a game?}
-{381}{}{Sure, but you're going to have to show me how.}
-{382}{}{I don't think I really have time for that right now. Let me ask you something, though.}
-{383}{}{I'd love to stay and trade Tragic cards with you, but I've got things to do. You know, in real
- life? Goodbye.}
-{390}{}{Well, it's simple, really. Even someone dumb can understand it. First, you build a play deck out
- of the cards that you have, and then you...}
-{391}{}{Uh, huh. You say you deal to the third player unless it's Thursday? OK, I think I've got it now.
- Let's play.}
-{392}{}{Maybe I'll play later. Thanks for telling me how, though. Goodbye.}
-{400}{}{You won? Fuck you! I need a ruling on that. You just got lucky, this time. This deck of mine
- just didn't work. I've got to build a better one.}
-{401}{}{Thanks for the cards, Wooz. And I thought you knew how to play this game? I guess you're dumb.}
-{402}{}{Well, them's the breaks, Wooz. Goodbye.}
-{410}{}{I won! Fuck you! You are dumb. I have crushed you. Now I can build an even better deck with your
- cards.}
-{411}{}{Uh, yeah. You won. Goodbye.}
-{412}{}{What a surprise. Well, at least I didn't have to listen to one of your stories. Goodbye.}
-{420}{}{No time at all. Let's go. I've got a new deck that I want to try.}
-{421}{}{Okay. Let us play then.}
-{422}{}{No, I must resist the siren's call. Get thee behind me, Tragic! Must ask something else.}
-{430}{}{I know what you mean. I can stop anytime I want. Just not today.}
-{431}{}{You're not kidding. Actually, I wanted to ask you about something else.}
-{432}{}{Arrrgh! Must leave while I still can. Goodbye.}
-{440}{}{Well, the Harp's named after a favorite hangout that I used to have before the war. I guess it's
- just a reminder of times past. Sort of a joke on the only way we're going to get a better deal, too.}
-{441}{}{Before the war? But that was a long time ago.}
-{442}{}{Better deal? What do you mean?}
-{450}{}{That may be so, but not everyone has a city full of lunatics thirsting for their blood.}
+{350}{}{Jet é uma droga que vem de New Reno. Você nasceu ontem ou só é meio burro?}
+{351}{}{Ah, aquele Jet. Bem, eu sabia disso. Me conte mais sobre este jogo de Tragic.}
+{360}{}{Não, é sério, é maravilhoso. Você deveria jogar. Só uma vez. A primeira caixa de cartas é gratuita. Só
+ um descontinho para você.}
+{361}{}{Obrigado. Ei, isso parece ótimo. (você rasga o embrulho) Mmm, eu adoro esse cheiro.}
+{362}{}{Eu apenas digo 'não' para Tragic. Adeus.}
+{370}{}{Olá. Parece que você é outro jogador do Tragic. Tem tempo para um jogo? Ou vai arregar?
+ Estou te chamando.}
+{371}{}{Eu realmente não tenho tempo para um... bem, quanto tempo um joguinho pode durar...}
+{372}{}{Claro, deixe eu... Não! Preciso parar. (sua mão vai até o deck, parecendo que age por conta
+ própria) Nãããão!}
+{375}{}{Eu jogaria Tragic com você, mas parece que estou sem baralho.}
+{376}{}{Espere até a próxima semana, vou montar um deck que nunca irá perder.}
+{377}{}{Você pegou algumas das minhas melhores cartas. Eu odeio esse jogo!}
+{380}{}{Essa é apenas o começo Agora que você é um de nós, quer jogar?}
+{381}{}{Claro, mas você vai ter que me mostrar como.}
+{382}{}{Acho que não tenho tempo para isso agora. Mas eu ainda preciso perguntar outra coisa.}
+{383}{}{Adoraria ficar e trocar cartas de Tragic com você, mas tenho coisas para fazer. Você sabe, na vida
+ real? Adeus.}
+{390}{}{Bem, na verdade é bem simples. Até mesmo um tapado consegue entender. Primeiro, você arruma 
+um deck com as cartas que você tem, e então...}
+{391}{}{Eh, huh. Você diz que não vai negociar com o terceiro jogador até quinta-feira? OK, acho que 
+agora entendi. Vamos jogar.}
+{392}{}{Talvez eu jogue depois. Mas obrigado por me dizer como. Adeus.}
+{400}{}{Você ganhou? Porra! Chama o VAR pra isso aí. Você teve apenas sorte, desta vez. Meu deck 
+ parece que não funcionou. Tenho que fazer um melhor.}
+{401}{}{Obrigado pelos cartões, Wooz. Você não sabia jogar este jogo? Eu acho que você é burro.}
+{402}{}{Bem, uma pausa agora, Wooz. Adeus.}
+{410}{}{Eu venci! Se fode aí! Você é idiota. Eu Acabei com você. Agora posso fazer um deck ainda melhor com 
+ suas cartas.}
+{411}{}{Uh, sim. Você ganhou. Adeus.}
+{412}{}{Que surpresa. Bem, pelo menos eu não tive que ouvir uma de suas histórias. Adeus.}
+{420}{}{Sem perder tempo. Vamos, tenho um novo deck que quero testar.}
+{421}{}{OK. Vamos jogar então.}
+{422}{}{Não, devo resistir ao canto da sereia. Se afaste de mim, jogo do capeta! Mas me responda outra coisa.}
+{430}{}{Eu sei o que quer dizer. Posso parar quando quiser. Mas não hoje.}
+{431}{}{Sem brincadeiras. Na verdade, queria perguntar a você sobre outra coisa.}
+{432}{}{Arrrgh! Preciso sair enquanto ainda posso. Adeus.}
+{440}{}{Bem, o nome Harpa vem de um ponto de encontro favorito que eu costumava ter antes da guerra. É só 
+uma lembrança de tempos passados. E também um tipo de brincadeira para negociarmos melhor.}
+{441}{}{Antes da guerra? Mas isso foi há muito tempo atrás.}
+{442}{}{Negociar melhor? Como assim?}
+{450}{}{Pode ser, mas nem todo mundo tem uma cidade cheia de lunáticos com sede de sangue.}
 {451}{}{O que você quer dizer?}
-{460}{}{It sure was a long time ago. How do you think ghouls are made? You think some of us just got up
- one fine day and said to ourselves: "Gee, I wonder what it'd be like to have my flesh rotting off my
- fucking body?"}
-{461}{}{Well, no, I didn't. Say, how do you make a ghoul?}
-{462}{}{You know, I just don't give a flying fuck what made you that ugly. Goodbye.}
-{470}{}{Those assholes in Vault City. If anyone's going to cap us, it's them. They're fucking crazed.
- Anyone's not just as fucked up in the head as they are and they want to kill them. I'd watch myself
- around them, if I were you.}
-{471}{}{Sounds like good advice. I'll be careful. Let me ask you something, though.}
-{472}{}{I think they've got the right idea. Just a little genetic cleansing. I hope they start with you.
- Goodbye.}
-{473}{}{Well, right now they're pretty crazed about the village nearby. Do you know anything about this?}
-{480}{}{'Bout the only way us ghouls are going to get an even break is when we're toting a harp of our
- own.}
-{481}{}{I didn't know that ghouls were especially musical.}
-{482}{}{Oh, I see. Heh, heh. Let me ask you something.}
-{490}{}{With silver-bells and cockleshells and... Boy, you are dumb, aren't you? Severe radiation. That's
- how. How do you think? You know, many bombs go boom, flash of light and heat, flesh burns off, but you
- don't-quite-die-type severe radiation?}
+{460}{}{Com certeza foi há muito tempo. Como você acha que os ghouls são feitos? Você acha que nós 
+ acabamos de acordar em um belo dia e dissemos: Puxa, o que será que está aconteceu para minha
+ pele estar toda apodrecida e desgrudando do corpo? "}
+{461}{}{Bem, não, eu não sei. Diga, como se torna um ghoul?}
+{462}{}{Sebe, eu não dou a mínima para saber o que te fez tão feio. Adeus.}
+{470}{}{Aqueles idiotas em Vault City. Se alguém vai nos fuder, são eles. Totalmente malucos.
+ Não é qualquer um que é tão fodido da cabeça quanto eles. Eu prestaria atenção e seria cuidadoso
+ se fosse você.}
+{471}{}{Parece um bom conselho, vou tomar cuidado. Deixe perguntar outra coisa.}
+{472}{}{Acho que eles tem razão, isso é apenas uma pequena limpeza genética. Espero que comecem com você.
+ Adeus.}
+{473}{}{Bem, agora que estamos preocupados por conta da vila próxima. Você sabe algo sobre isso?}
+{480}{}{'Mas a única maneira de nós, ghouls, conseguirmos um equilíbrio é quando estamos carregando 
+ nossa própria harpa.}
+{481}{}{Eu não sabia que os ghouls eram especialmente musicais.}
+{482}{}{Oh, certo. Heh heh. Me deixe perguntar algo.}
+{490}{}{Com sinos de prata e conchas de marisco e... Cara, tu é burro, não é? Com radiação severa. É assim 
+ que acontece. Como você acha? Sabe, muitas bombas explodem, muitas luzes e calor, a carne queima, mas
+ mas você ainda não morre com a radiação, entendeu?}
 {491}{}{Uh bem, quero dizer...}
-{500}{}{Well, I didn't think so. Fuck you very much for bringing back all those intensely painful
- memories. Asshole. We're a town of fucking leftovers -- slightly overcooked leftovers.}
-{501}{}{I prefer medium-rare myself. Hey, let me ask you something else.}
-{502}{}{Well, I uh, um. Sorry. I'll just let you wallow in self-pity, then. Goodbye.}
-{510}{}{Well, usually I just pound on the hollow heads of my customers -- sort of like bongos. How the
- hell did they ever let you out of your village? You're a danger to yourself and others.}
+{500}{}{Eu acho que não. Valeu por trazer de volta todas aquelas memórias intensamente dolorosas, 
+ idiota. Somos uma cidade de restos - restos ligeiramente cozidos demais.}
+{501}{}{Eu também prefiro mal passado. Ei, me deixe perguntar outra coisa.}
+{502}{}{Bem, desculpe. Vou te deixar se afundar na auto piedade, então. Adeus.}
+{510}{}{Bem, normalmente eu só bato nas cabeças ocas dos meus clientes - iguais uns bongôs. Como que
+ eles deixaram você sair da sua aldeia? Você é um perigo para si mesmo e para os outros.}
 {511}{}{Bongos?}
-{520}{}{You fell out of the stupid tree and hit every damn branch on the way down, didn't you?}
-{521}{}{Tree? I guess I'm just not hip to your lingo... man. Uh, let me ask you something.}
-{530}{}{Yeah, it's a head. But it's not attached to a body. You see, it's been severed.}
-{531}{}{A severed head. I see. And this becomes entertaining when?}
-{540}{}{Just hold on a minute. This severed head, you see, it's in Hell. (hah, hah) And it flies around
- there, you know, in Hell. And it runs into all kinds of famous people there... (ho, ho, ho)}
-{541}{}{Wait, a severed head is in Hell, and it flies around... doing what?}
-{550}{}{Well, it's doing stuff. (hee, hee) You know. It's got, things that it wants to do, or maybe
- things it's forced to do. The point is, it's doing stuff, you know, there in Hell. Oh God, (hah, hah,
- hah) I just can't stand it!}
-{551}{}{You kind of obsess about this, don't you? Hmm. Were you and your mother close? Did you ever have
- problems with bed-wetting?}
-{560}{}{No, you just don't understand. It's all about a severed head. Get it? Heh, heh, heh, It's funny!
- How can you think about a severed head, in Hell of all places, and not laugh?}
+{520}{}{Você caiu da árvore dos idiotas e bateu em todos os galhos durante a queda, não foi?}
+{521}{}{Árvore? Eu acho que não estou entendendo essa conversa.. cara. Uh, deixe eu perguntar uma coisa.}
+{530}{}{Sim, é uma cabeça, mas não está presa a um corpo. Veja, foi cortado.}
+{531}{}{Uma cabeça decepada, entendo. E quando isso se torna divertido?}
+{540}{}{Espere um minuto. Esta cabeça decepada, você vê, está no Inferno. (hah, hah) E ela voa por aí
+ ,e você sabe, no Inferno. E entra em todo tipo de gente famosa... (ho, ho, ho)}
+{541}{}{Espere, uma cabeça decepada está no Inferno, e ela voa por aí... fazendo o quê?}
+{550}{}{Bem, está fazendo coisas. (hee, hee) sabe. Ele quer fazer certas coisas ou talvez só seja 
+ forçada a fazer. O que quero dizer é que está fazendo coisas, sabe, lá no Inferno. Oh Deus, 
+(hah, hah, hah) Eu não aguento!}
+{551}{}{Você meio que fica obcecado com isso, não é? Hmm. Seus pais eram divorciados? Você tinha
+ problemas com xixi na cama?}
+{560}{}{Não, você não entende nada. É tudo uma questão de cabeça decepada. Pegue? Heh, heh, heh, 
+é engraçado! Como você pode pensar em uma cabeça decepada e não rir?}
 {561}{}{Wooz, I don't know you very well, and I'm pretty sure I don't want to. However, I think I can
  say, without fear of exaggeration, that you need help. Immediate, competent help. }
 {562}{}{Oh. I see. Why, yes. Of course; that's very funny. Heh heh. I just can't contain my amusement...
