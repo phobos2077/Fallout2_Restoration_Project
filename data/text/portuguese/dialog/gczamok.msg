@@ -1,27 +1,27 @@
-{100}{}{You see a larger than average Ghoul.}
+{100}{}{Você vê um Ghoul mais grande que o normal.}
 {101}{}{Você vê Zomak, conhecido por alguns como Destruidor.}
-{102}{}{You see a big, burly, Ghoul whose face, beneath a sharply sloping forehead, reflects vast reserves of simpleminded superiority.}
-{110}{}{Renew Comrade! I am Zomak. Some call me Zomak the Destroyer. What is your business here?}
-{111}{}{Renew Comrade! What are you doing here? State your business to Zomak the Destroyer.}
+{102}{}{Você vê um Ghoul grande e corpulento cujo rosto, sob uma testa fortemente inclinada, reflete vastas reservas de superioridade simplória.}
+{110}{}{Renove, camarada! Eu sou Zomak. Alguns me chamam de Zomak, o Destruidor. O que te trás aqui?}
+{111}{}{Renove, camarada! O que você está fazendo aqui? Diga o que quer para Zomak, o Destruidor.}
 {112}{}{Renu!}
 {113}{}{Ook?}
 {114}{}{Eu estou apenas olhando ao redor.}
 {115}{}{Eu quero a renewal.}
 {116}{}{Eu peguei o caminho errado.}
-{120}{}{You should look somewhere else. Or Zomak will show you the stars.}
+{120}{}{Você deve procurar em outro lugar. Ou Zomak te mostrará as estrelas.}
 {130}{}{Então você deve ver Ele.}
 {131}{}{Ele? Onde está ele?}
 {132}{}{Não sou digno de vê-lo. Adeus.}
 {140}{}{É ele quem concede o esclarecimento. É ele quem promete a renewal para todos os que o seguirem.}
-{141}{}{Well, I'm just about due for renewal. Where is he?}
-{142}{}{Sounds like another nutcase to me. I'm outa here.}
-{150}{}{Well, he's right back... Hey, just who are you anyway?}
+{141}{}{Bem, estou pronto para renovar. Onde está?}
+{142}{}{Você parece outro maluco para mim. Estou saindo daqui.}
+{150}{}{Bem, ele já voltou... Ei, quem é você, afinal?}
 {151}{}{Eu sou apenas um andarilho.}
 {152}{}{Sou o Chosen One.}
 {153}{}{Estou aqui apenas por minha renovação anual.}
 {154}{}{Está tudo bem. Eu só tenho que fazer algumas perguntas pra ele.}
-{160}{}{Well, wander on out of here then.}
-{161}{}{Uh, OK. Goodbye.}
+{160}{}{Bem, saia daqui então.}
+{161}{}{Uh, Ok, adeus.}
 {170}{}{Well, in that case. Come on in. He's right in the next room. Don't keep him waiting.}
 {171}{}{Eu não, vou direto. Adeus.}
 {172}{}{Eu posso voltar mais tarde. Tchau.}

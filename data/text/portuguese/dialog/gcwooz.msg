@@ -204,51 +204,51 @@ uma lembrança de tempos passados. E também um tipo de brincadeira para negociarm
  problemas com xixi na cama?}
 {560}{}{Não, você não entende nada. É tudo uma questão de cabeça decepada. Pegue? Heh, heh, heh, 
 é engraçado! Como você pode pensar em uma cabeça decepada e não rir?}
-{561}{}{Wooz, I don't know you very well, and I'm pretty sure I don't want to. However, I think I can
- say, without fear of exaggeration, that you need help. Immediate, competent help. }
-{562}{}{Oh. I see. Why, yes. Of course; that's very funny. Heh heh. I just can't contain my amusement...
- But enough enjoyment -- oh, my splitting sides -- I need to ask you something.}
-{570}{}{Fuck you! You're just like all the rest of them. I tell, you it's hilariously funny. It's not my
- fault that you don't have a sense of humor.}
-{571}{}{You're right, Wooz. I guess I'm just not as clever as you are. You're truly a pearl amongst
- swine. Now tell me something else.}
-{572}{}{I have enough of a sense of humor to recognize the absence of one in others. Goodbye.}
-{600}{}{Are you dumb? I already told you all about Tragic. You must have a really short memory.}
-{601}{}{See? I told you it was funny. Is there anything else you need?}
-{700}{}{Are you dumb?}
-{701}{}{Give me a giant cola!}
-{702}{}{I need a ruling on that!}
-{703}{}{Kick me in the jimmy.}
-{704}{}{Hi, shills.}
+{561}{}{Wooz, não te conheço muito bem e pra falar a verdade, nem quero. No entanto, acho que posso
+ dizer, sem medo, que você precisa de ajuda. Ajuda imediata e competente.}
+{562}{}{Oh, entendi. Porque sim. Claro; Isso é muito engraçado. Heh heh. Eu não consigo conter minhas risadas...
+ É demais isso aí - oh, eu bem legal mesmo - eu preciso te perguntar uma coisa.}
+{570}{}{Foda-se! Você é como todos os outros. Te digo, isso é engraçado demais. Não é minha
+ culpa de você não ter senso de humor.}
+{571}{}{Você está certo, Wooz. Acho que não sou tão inteligente quanto você. Você é realmente uma pérola entre
+ os porcos. Agora me diga outra coisa.}
+{572}{}{Tenho senso de humor o suficiente para reconhecer a ausência dele nas outras pessoas. Adeus.}
+{600}{}{Você é burro? Já te contei tudo sobre Tragic. Você deve ter demência ou algo assim.}
+{601}{}{Viu? Eu disse que era engraçado. Precisa de mais alguma coisa?}
+{700}{}{Você é burro?}
+{701}{}{Me dê uma coca gigante!}
+{702}{}{Eu preciso de regras para isso!}
+{703}{}{Me dê um chute no cu.}
+{704}{}{Olá, idiotas.}
 {705}{}{Foda-se você.}
-{706}{}{I wouldn't shit you on this one.}
-{707}{}{Let's play Tragic.}
-{708}{}{I am the worst Tragic player in the world.}
-{709}{}{STRONG!}
-{710}{}{I suck at all games.}
-{711}{}{I am the dumbest person I've ever met.}
-{712}{}{HATE!!!}
-{713}{}{Where's the horde a' short women?}
-{714}{}{Ever seen a grown man NAKED?!}
-{715}{}{Nah, maybe some other time Wooz. I got some questions though...}
-{716}{}{Hmmm... Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
-{717}{}{NEVER! BRING FORTH THE GARNERING!}
-{718}{}{MOOAHAHAHAH!!! I AM VICTORIOUS!}
-{719}{}{NOO!! HOW COULD I HAVE LOST!? Ahhhgghhhgh.}
-{720}{}{Yeah... just can't seem to stop. Just one more game...}
-{721}{}{Yeah, Gamma Gulp Beer. You deaf or something?}
-{722}{}{Yeah, it is. One Gamma Gulp coming right up.}
-{723}{}{Alright, enjoy. Anything else?}
-{724}{}{Special occasion, huh? Well lah-de-dah, aren't we special today. One Roetgen coming right up then.}
+{706}{}{Eu não iria jogar assim.}
+{707}{}{Vamos jogar Tragic.}
+{708}{}{Eu sou o pior jogador de Tragic do mundo.}
+{709}{}{FORTE!}
+{710}{}{Eu sou péssimo em qualquer jogo.}
+{711}{}{Eu sou a pessoa mais burra que já conheci.}
+{712}{}{ÓDIO!!!}
+{713}{}{Onde está a horda de anãs?}
+{714}{}{Você já viu um homem adulto PELADO?!}
+{715}{}{Nah, talvez em outro momento Wooz. Mas eu tenho mais algumas perguntas...}
+{716}{}{Hmmm... Então, talvez você devesse acabar por aqui e deixar os cartões de Tragic de lado. Acho que você já jogou o suficiente por hoje.}
+{717}{}{NUNCA! TRAGA O JOGO!}
+{718}{}{MOOAHAHAHAH!!! EU SOU VITORIOSO!}
+{719}{}{NÃO!! COMO EU PUDE PERDER !? Ahhhgghhhgh.}
+{720}{}{Sim... simplesmente não consigo parar. Só mais um jogo...}
+{721}{}{Sim, cerveja trago-gamma. Você é surdo ou o que?}
+{722}{}{Isso. Uma trago-gamma chegando.}
+{723}{}{Tudo bem, aproveite. Algo mais?}
+{724}{}{Ocasião especial, hein? Bem, lah-de-dah, somos especiais aqui. Um Roetgen chegando então.}
 {725}{}{Não, obrigado.}
-{726}{}{Yeah, what else do you have?}
-{727}{}{Whatever, I'll take one.}
-{728}{}{Right. Let me get something else.}
-{729}{}{I think I'll be heading out now.}
-{730}{}{You have become addicted to the game of Tragic. Many sleepless nights await you.}
-{731}{}{Alright, done. Anything else?}
-{732}{}{Yeah, another round for everyone.}
-{740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
- business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
+{726}{}{Sim, o que mais você tem?}
+{727}{}{Seja como for, vou levar um.}
+{728}{}{Direito. Vou pegar outra coisa.}
+{729}{}{Acho que vou sair agora.}
+{730}{}{Você se tornou viciado em jogar Tragic. Muitas noites de insônia te esperam.}
+{731}{}{Tudo bem, pronto. Algo mais?}
+{732}{}{Sim, outra rodada pra todo mundo.}
+{740}{}{Heh, sim, eu ouvi que aqueles idiotas estão sendo atacados por ratos toupeiras que estão protegendo os peles lisas. Bem feito por eles foderem com os
+ negócios dos outros. Mas eu não sei muito sobre isso. O Lumpy no ferro-velho deve saber mais. Esse pele lisa está sempre ouvindo coisas.}
 {741}{}{Obrigado pela informação. Tchau.}
-{742}{}{Good to know. Let me ask you something else.}
+{742}{}{Bom saber. Deixe eu perguntar outra coisa.}
