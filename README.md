@@ -56,7 +56,7 @@ For additional QoL options, check out:
 ### Additional info
 - [Changelog](docs/changelog.md)
 - [New content description](https://github.com/BGforgeNet/Fallout2_Restoration_Project/blob/master/docs/rp-new_content.txt) (spoilers)
-- [Walkthrough](http://hem.bredband.net/darek1/f2rp_wt.htm) (heavy spoilers)
+- [Walkthrough](https://f2rp.bgforge.net/) (heavy spoilers)
 - [Known issues](docs/known.md)
 - [Reporting crashes](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/crash.md)
 - [Credits](docs/credits.md)
