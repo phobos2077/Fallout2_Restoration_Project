@@ -64,9 +64,9 @@
 {1016}{}{Opa, eu quase me esqueci do GECK. Espero que tenha um por aqui.}
 {1017}{}{The door blasts open from your GECK code.}
 {1018}{}{Você acabou com a Gangue do Frog Morton.}
-{1019}{}{You disable the shock plates.}
-{1020}{}{You broke up the bar brawl.}
-{1021}{}{You disabled the Robot Repair Terminal.}
+{1019}{}{Você desativou as placas de choque.}
+{1020}{}{Você acabou com a briga no bar.}
+{1021}{}{Você desativou o terminal de reparação de robôs.}
 {1050}{}{Você fez antídoto a partir da toxina de escorpião.}
 {1051}{}{Você misturou o xander root com broc flower e fez um healing powder.}
 {1099}{}{O GECK é muito valioso para sua vila para você largá-lo aqui.}

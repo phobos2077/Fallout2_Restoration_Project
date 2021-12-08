@@ -1,129 +1,129 @@
-{100}{}{You see a functional terminal.}
-{101}{}{You see the Reactor Maintenance and Repair Robot control terminal.}
-{102}{}{You see a terminal. It appears to be functional.}
-{110}{}{Hello. Welcome to RMR&RCT station 3.}
+{100}{}{Você vê um terminal funcional.}
+{101}{}{Você vê o terminal de controle do robô de reparação e manutenção do reator.}
+{102}{}{Você vê um terminal. Ele parece estar operando.}
+{110}{}{Olá. Bem vindo ao RMR&RCT da estação 3.}
 {111}{}{RMRRCT?}
-{112}{}{Function?}
-{113}{}{Action:}
-{114}{}{Initialize:}
+{112}{}{Função?}
+{113}{}{Ação:}
+{114}{}{Inicializar:}
 {115}{}{Fim de sessão.}
-{120}{}{Station #3 Reactor Maintenance & Repair Robot Control Terminal.}
-{121}{}{Function?}
-{122}{}{A robot, huh? Let me see what I can find out about that.}
+{120}{}{Estação #3 Terminal de controle do robô de reparo e manutenção do reator.}
+{121}{}{Função?}
+{122}{}{Um robô, é? Deixe eu ver o que posso descobrir disso.}
 {123}{}{Fim de sessão.}
-{130}{}{This terminal is designed to coordinate and command a Reactor Maintenance and Repair Robot.}
+{130}{}{Este terminal foi projetado para coordenar e comandar um robô de reparo e manutenção do reator.}
 {131}{}{RMRRCT?}
-{132}{}{A robot, huh? Let me see what I can find out about that.}
+{132}{}{Um robô, é? Deixe eu ver o que posso descobrir disso.}
 {133}{}{Fim de sessão.}
-{140}{}{This terminal is used to input command data for the robotic maintenance and repair unit assigned to Poseidon Oil--Reactor #5. This terminal also allows access to PoseidoNet.}
-{141}{}{A Robot? Let me see what I can find out about that.}
-{142}{}{Some kind of network, huh? I wonder if I can access that.}
+{140}{}{Este terminal é usado para inserir dados para a unidade de manutenção e reparo robótica atribuída ao reator Poseidon #5. Este terminal também permite o acesso ao PoseidoNet.}
+{141}{}{Um robô? Deixe eu ver o que posso descobrir disso.}
+{142}{}{Algum tipo de rede, é? Me pergunto se posso acessar isso.}
 {143}{}{Fim de sessão.}
-{150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Now Starting Win21, Please Wait... Pear OS Command Not recognized. Now initiating DOD HDD Erase.}
+{150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Iniciando Win21, aguarde... Comando de sistema operacional não reconhecido. Iniciando a exclusão HDD BN.}
 {151}{}{Hmmm. Ook?}
 {152}{}{Afjasdfaa kljkljl;jljljj?}
-{160}{}{Reactor Maintenance Robot is ready for initialization/startup sequence. Functional Access Code?:}
-{161}{}{Function?}
-{162}{}{Action?}
+{160}{}{O robô de manutenção do reator está pronto para a sequência de inicialização/arranque. Código de acesso funcional?:}
+{161}{}{Função?}
+{162}{}{Ação?}
 {163}{}{35C76863}
 {164}{}{A1546761}
 {165}{}{5B576005}
 {166}{}{Fim de sessão.}
-{170}{}{Initial Functional Access Code accepted. Enter Secondary Functional Access Code.}
-{171}{}{Reset.}
-{172}{}{Function?}
-{173}{}{Action?}
+{170}{}{Código de acesso funcional inicial aceito. Digite o código de acesso funcional secundário.}
+{171}{}{Resetar.}
+{172}{}{Função?}
+{173}{}{Ação?}
 {174}{}{35C76863}
 {175}{}{A1546761}
 {176}{}{5B576005}
 {177}{}{Fim de sessão.}
-{180}{}{Secondary Functional Access Code accepted. Enter Tertiary Functional Access Code.}
-{181}{}{Reset.}
-{182}{}{Function?}
-{183}{}{Action?}
+{180}{}{Código de acesso funcional secundário aceito. Digite o código de acesso funcional terciário.}
+{181}{}{Resetar.}
+{182}{}{Função?}
+{183}{}{Ação?}
 {184}{}{35C76863}
 {185}{}{A1546761}
 {186}{}{5B576005}
 {187}{}{Fim de sessão.}
-{190}{}{Tertiary Functional Access Code Accepted. RM&RR Unit warming up... Unit ready for service. Service Procedure?:}
-{191}{}{RM&RR unit ready for service. Service Procedure?:}
-{192}{}{Initiate General Maintenance Sequence.}
-{193}{}{Initiate Coolant Maintenance Sequence.}
-{194}{}{Initiate Cleaning Sequence.}
-{195}{}{Initiate Repair Sequence.}
-{196}{}{Remain at Ready Status and Logoff.}
-{200}{}{This Service Procedure is no longer in memory. Load current service procedure?}
-{201}{}{Load current service procedure.}
+{190}{}{Código de acesso funcional terciário aceito. Unidade RM&RR aquecendo... Unidade pronta para serviço. Procedimento de serviço?:}
+{191}{}{Unidade RM&RR pronta para serviço. Procedimento de serviço?:}
+{192}{}{Inicie a sequência de manutenção geral.}
+{193}{}{Inicie a sequência de manutenção do líquido de arrefecimento.}
+{194}{}{Inicie a sequência de limpeza.}
+{195}{}{Inicie a sequência de reparo.}
+{196}{}{Permaneça no status em espera e desconecte.}
+{200}{}{Este procedimento de serviço não está disponível na memória. Carregar procedimento de serviço atual?}
+{201}{}{Carregar procedimento de serviço atual.}
 {202}{}{Voltar.}
 {203}{}{Fim de sessão.}
-{210}{}{Searching... Service Procedure update not available locally.}
+{210}{}{Procurando... Atualização do procedimento de serviço não disponível localmente.}
 {211}{}{Voltar.}
 {212}{}{Download.}
 {213}{}{Fim de sessão.}
-{220}{}{Uplink with central PosiedoNet initiated. Enter Primary Security Access Code Sequence: 70Y644, 008Z21, 9X7299, A46123.}
+{220}{}{Conexão com PosiedoNet central iniciado. Digite a sequência do código de acesso de segurança primária: 70Y644, 008Z21, 9X7299, A46123.}
 {221}{}{70Y644}
 {222}{}{008Z21}
 {223}{}{9X7299}
 {224}{}{A46123}
 {225}{}{Fim de sessão.}
-{230}{}{Coolant Maintenance Sequence Initiated. Preparing to move to Main Coolant Valve.}
-{231}{}{This was a lot easier than I thought it would be.}
+{230}{}{Sequência de manutenção do refrigerante iniciada. Preparando para passar para a válvula de refrigeração principal.}
+{231}{}{Isso foi muito mais fácil do que eu tinha pensado.}
 {232}{}{Fim de sessão.}
-{240}{}{Repair Service Initiated. Searching... Hydroelectric Magnetosphere Regulator required. Preparing to move to Main Coolant Valve for part replacement. Place part in transfer tray beneath terminal.}
-{241}{}{Oh, I guess it means this thing.}
-{242}{}{I guess I don't have the part that it needs.}
+{240}{}{Serviço de reparo iniciado. Procurando... Regulador hidroelétrico da magnetosfera necessário. Preparando-se para passar para a válvula de refrigeração principal para substituição de peças. Coloque a peça na bandeja de transferência abaixo do terminal.}
+{241}{}{Oh, acho que se refere a isso.}
+{242}{}{Acho que não tenho a parte que se precisa.}
 {243}{}{Fim de sessão.}
-{250}{}{This Terminal Is Closed For Security Reasons. Please inform PoseidoNet Supervisor.}
-{251}{}{Hmm, looks as though I won't be getting anything out of this.}
-{252}{}{Hmm, I wonder if this has a local reset. There's one. Let me try it.}
-{300}{}{Incorrect Security Access Code Entered.}
-{301}{}{Incorrect Security Access Code Entered. Access Denied. Please enter correct code. Two more attempts permitted.}
-{302}{}{Incorrect Security Access Code Entered. Access Denied. One more attempt permitted.}
-{303}{}{Incorrect Security Access Code Entered. Access Denied. Internal Security Procedures Activated.}
+{250}{}{Este terminal está fechado por motivos de segurança. Por favor, informe ao Supervisor da PoseidoNet.}
+{251}{}{Hmm, parece que não vou conseguir tirar nada disso.}
+{252}{}{Hmm, eu me pergunto se isso tem uma reinicialização local. Tem uma. Vou tentar.}
+{300}{}{Código de acesso de segurança incorreto.}
+{301}{}{Código de acesso de segurança incorreto. Acesso negado. Por favor, insira o código correto. Você tem mais duas tentativas.}
+{302}{}{Código de acesso de segurança incorreto. Acesso negado. Você tem mais uma tentativa.}
+{303}{}{Código de acesso de segurança incorreto. Acesso negado. Procedimentos de segurança interna ativados.}
 {304}{}{Oops.}
-{305}{}{I better be more careful.}
-{306}{}{I better not make a mistake this time.}
-{307}{}{That doesn't sound good.}
+{305}{}{É melhor eu ter mais cuidado.}
+{306}{}{É melhor eu não errar dessa vez.}
+{307}{}{Não me parece bom.}
 {308}{}{Fim de sessão.}
-{310}{}{Enter Secondary Security Access Code Sequence: 70Y644, 008Z21, 9X7299, A46123.}
+{310}{}{Digite a sequência do código de acesso de segurança secundária: 70Y644, 008Z21, 9X7299, A46123.}
 {311}{}{70Y644}
 {312}{}{008Z21}
 {313}{}{9X7299}
 {314}{}{A46123}
 {315}{}{Fim de sessão.}
-{320}{}{Enter Tertiary Security Access Code Sequence: 70Y644, 008Z21, 9X7299, A46123.}
+{320}{}{Digite a sequência de código de acesso de segurança terciária: 70Y644, 008Z21, 9X7299, A46123.}
 {321}{}{70Y644}
 {322}{}{008Z21}
 {323}{}{9X7299}
 {324}{}{A46123}
 {325}{}{Fim de sessão.}
-{330}{}{Security Access Code Sequence Accepted. Welcome to PoseidoNet: }
-{331}{}{Download Maintenance Robot Routines.}
-{332}{}{List other stations.}
+{330}{}{Sequência de código de acesso de segurança aceita. Bem-vindo ao PoseidoNet: }
+{331}{}{Baixar as Rotinas do Robô de Manutenção.}
+{332}{}{Lista de outras estações.}
 {333}{}{Fim de sessão.}
-{340}{}{Searching... Maintenance Robot Routines not found.}
-{341}{}{Hmm, I guess they're not here.}
-{342}{}{Station list.}
+{340}{}{Procurando... Rotinas do robô de manutenção não encontradas.}
+{341}{}{Hmm, acho que não estão aqui.}
+{342}{}{Lista de estações.}
 {343}{}{Fim de sessão.}
-{350}{}{Searching Comlinks... Searching... Iron Mountain... Offline, NORAD... Offline, SAC... Offline. Searching PoseidoNet... --More?--}
-{351}{}{Download Maintenance Robot Routines.}
-{352}{}{More.}
+{350}{}{Pesquisando links... Pesquisando... Montanha de Ferro... Offline, NORAD... Offline, SAC... Offline. Pesquisando PoseidoNet... --Mais?--}
+{351}{}{Baixar as Rotinas do Robô de Manutenção.}
+{352}{}{Mais.}
 {353}{}{Fim de sessão.}
-{360}{}{Active PoseidoNet Stations: Atomic Powerplant #5, Navarro Refinery, Control Station ENCLAVE, ENCLAVE Vault-Research Control... AccessDenied}
-{361}{}{Lights are on, but nobody's home. }
-{362}{}{Everything's shut down except for the ENCLAVE Vault-Research Control. I wonder what that is?}
-{363}{}{Hmm, seems as though stuff is either offline or closed. Oh, well.}
-{370}{}{Accessing... Enclave Station Access denied.}
-{371}{}{Accessing... again... Enclave Station Access denied.}
-{372}{}{Accessing... yet again... persistent little cuss aren't you? ... Enclave Station Access denied.}
-{373}{}{Accessing... yet again... aren't you getting tired of this yet?... Enclave Station Access denied.}
-{374}{}{Accessing... yet again... don't you have anything better to do with your time?...Enclave Station Access denied.}
-{375}{}{That's it. I've had enough of this constant prodding. If you try just one more time, you're going to regret it.}
-{376}{}{Don't say I didn't warn you. (Just as you read this you feel a surge of electricity arcing through your fingers from the keyboard.)}
-{377}{}{Maybe I should try again?}
-{378}{}{So much for that. I better get that RM&RR unit working though.}
-{379}{}{Damn, I must have been cut off.}
-{380}{}{Hydroelectric Magnetosphere Regulator required before Repair sequence can commence.}
+{360}{}{Estações PoseidoNet ativas: Central de energia atômica #5, Refinaria Navarro, Estação de controle ENCLAVE, controle ENCLAVE de Pesquisas de vault... Acesso Negado}
+{361}{}{As luzes estão acesas, mas ninguém está em casa. }
+{362}{}{Tudo está fechado, exceto o controle ENCLAVE de Pesquisas de vault. O que isso pode ser?}
+{363}{}{Hmm, parece que as coisas estão offline ou fechadas. Ah, saco.}
+{370}{}{Acessando... Acesso a estação Enclave negado.}
+{371}{}{Acessando... de novo... Acesso à Estação Enclave negado.}
+{372}{}{Acessando... mais uma vez... cara persistente, hein?... Acesso à estação Enclave negado.}
+{373}{}{Acessando... mais uma vez... ainda não se cansou disso?... Acesso à estação Enclave negado.}
+{374}{}{Acessando... mais uma vez... você não tem nada melhor para fazer?... Acesso à estação Enclave negado.}
+{375}{}{Já chega. Estou farto dessa sua insistência. Se você tentar mais uma vez, vai se arrepender.}
+{376}{}{Não diga que eu não avisei. (Assim que você lê isto, você sente uma onda de eletricidade saindo do teclado através de seus dedos).}
+{377}{}{E se eu tentar novamente?}
+{378}{}{É muito. É melhor você fazer essa unidade RR&MR funcionar. }
+{379}{}{Droga, devo ter perdido a comunicação.}
+{380}{}{O regulador hidroelétrico da magnetosfera é necessário antes do início da sequência de reparo.}
 {381}{}{Initiate Coolant Maintenance}
 {382}{}{Fim de sessão.}
 {390}{}{Hydroelectric Magnetosphere Regulator accepted. Scanning... Part within nominal QA constraints... Transfer to repair unit completed... Proceed?}

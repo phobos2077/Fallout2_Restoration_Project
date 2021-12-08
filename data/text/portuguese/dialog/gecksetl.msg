@@ -1,1 +1,1 @@
-{100}{}{You have entered the small settlement of Gecko.}
+{100}{}{Você entrou no pequeno assentamento de Gecko.}

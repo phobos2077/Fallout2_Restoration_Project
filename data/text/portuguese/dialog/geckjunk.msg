@@ -1,1 +1,1 @@
-{100}{}{You have entered the Gecko junkyard.}
+{100}{}{Você entrou no ferro velho de Gecko.}
