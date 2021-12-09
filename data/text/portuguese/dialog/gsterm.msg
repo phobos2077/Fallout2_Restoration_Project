@@ -124,38 +124,38 @@
 {378}{}{É muito. É melhor você fazer essa unidade RR&MR funcionar. }
 {379}{}{Droga, devo ter perdido a comunicação.}
 {380}{}{O regulador hidroelétrico da magnetosfera é necessário antes do início da sequência de reparo.}
-{381}{}{Initiate Coolant Maintenance}
+{381}{}{Inicie a manutenção do refrigerante}
 {382}{}{Fim de sessão.}
-{390}{}{Hydroelectric Magnetosphere Regulator accepted. Scanning... Part within nominal QA constraints... Transfer to repair unit completed... Proceed?}
+{390}{}{Regulador hidroelétrico magnetosfera aceito. Digitalizando... Peça dentro das restrições nominais de QA... Transferência para unidade de reparo concluída... Continuar?}
 {391}{}{Sim.}
 {392}{}{Fim de sessão.}
-{400}{}{Logic Circuits damaged. In emergency, RM&RR unit may be directed manually.}
-{401}{}{Well, that explains that. I guess I'll give it a try.}
-{402}{}{Hmm, that doesn't sound too promising. I'm going to Logoff.}
-{410}{}{RM&RR unit roll-out initiated. Checking Drive Systems... OK, Checking-Manipulator Arm... OK, Checking Internal Stabilizer... OK, Logic Circuits... FAIL.}
-{411}{}{The Logic Circuits failed. I wonder what that means.}
-{412}{}{Looks like more of it works than doesn't. Let's get going here.}
-{420}{}{Job-task location recognition inoperative. Unit not capable of recognizing movement locations at extended distances. Recommend: Move unit to intermediary locations as waypoints to final job-task location.}
-{421}{}{I wonder what happens if I don't enter the jobs in the right order?}
-{422}{}{I think I've read enough warnings. I'm ready to use the thing now.}
-{430}{}{Unit returns to bay if command program contains terminal errors.}
-{431}{}{Oh, well; that explains that. I wonder about the Logic Circuit failure, though?}
-{432}{}{I'm ready to get this thing going.}
-{440}{}{Manual Direction: The RM&RR unit must be directed, manually, to its target destination. The unit will follow the movement commands that you give it but if its way is blocked or the unit takes excess damage it will automatically return to its bay.}
-{441}{}{Where do I need to move the robot? Let me look up the procedures.}
-{442}{}{I guess I'm ready to get started.}
+{400}{}{Circuitos lógicos danificados. Em caso de emergência, a unidade RM&RR pode ser direcionada manualmente.}
+{401}{}{Bem, isso explica tudo. Acho que posso tentar.}
+{402}{}{Hmm, isso não parece muito promissor. Vou fazer logoff.}
+{410}{}{Implantação da unidade RM&RR iniciada. Verificando os sistemas de acionamento... OK, Verificando o braço do manipulador... OK, Verificando o estabilizador interno... OK, circuitos lógicos... ERRO.}
+{411}{}{Os circuitos lógicos falharam. Me pergunto o que isso pode ser.}
+{412}{}{Parece que tem mais coisas funcionando do que não. Vamos ver o que temos aqui.}
+{420}{}{Reconhecimento de localização de tarefa de trabalho inoperante. A unidade não é capaz de reconhecer locais de movimento em distâncias extensas. Recomendado: Mova a unidade para locais intermediários como pontos de passagem para o local da tarefa final.}
+{421}{}{O que será que acontece se eu não colocar as tarefas na ordem certa?}
+{422}{}{Acho que já li avisos suficientes. Hora de usar essa coisa.}
+{430}{}{A unidade retorna ao seu compartimento se o programa de comando conter erros de terminal.}
+{431}{}{Ah bem; tá explicado. O que será que acontece com a falha do circuito lógico?}
+{432}{}{Estou pronto para usar essa coisa.}
+{440}{}{Direção manual: A unidade RM&RR deve ser direcionada manualmente ao seu destino alvo. A unidade seguirá os comandos de movimento que você der, mas se seu caminho for bloqueado ou se a unidade sofrer danos excessivos, ela retornará automaticamente ao seu compartimento.}
+{441}{}{Para onde devo mover o robô? Deixe eu ver os procedimentos.}
+{442}{}{Acho que estou pronto para começar.}
 {443}{}{Fim de sessão.}
-{450}{}{Information request on procedure:}
-{451}{}{I want to know where I need to go to replace the Hydroelectric Magnetosphere Regulator.}
-{452}{}{I need to know where the Main Coolant Shutoff Valve is.}
+{450}{}{Solicitação de informações sobre o procedimento:}
+{451}{}{Quero saber onde preciso ir para substituir o Regulador Hidrelétrico da Magnetosfera.}
+{452}{}{Preciso saber onde está a válvula principal de corte do refrigerante.}
 {453}{}{Fim de sessão.}
-{460}{}{The Hydroelectric Magnetosphere Regulator is located against the East wall of the Reactor Core. It is located just to the right of the Main Coolant Shutoff Valve.}
-{461}{}{Where's the Main Coolant Shutoff Valve?}
-{462}{}{I guess I'm ready to get started.}
+{460}{}{O Regulador Hidrelétrico da Magnetosfera está localizado na parede Leste do Núcleo do Reator. Ele está localizado à direita da Válvula Principal de Corte do Refrigerante.}
+{461}{}{Onde está a válvula de corte do refrigerante principal?}
+{462}{}{Acho que estou pronto para começar.}
 {463}{}{Fim de sessão.}
 {470}{}{The Main Coolant Shutoff Valve is located near the East wall of the Reactor Core. The valve is controlled by a large red wheel.}
 {471}{}{That shouldn't be too hard to find --as long as the red paint hasn't peeled off.}
-{472}{}{I guess I'm ready to get started.}
+{472}{}{Acho que estou pronto para começar.}
 {473}{}{Fim de sessão.}
 {480}{}{Emergency Manual RM&RR Unit Control: In order to move the unit it must be given commands to Turn Left, Turn Right, Move Forward, and then the last command given in any sequence is the Perform Procedure command.}
 {482}{}{If this has been attempted before, show the previous set of movement commands here. Commands?: MoveVar1}
