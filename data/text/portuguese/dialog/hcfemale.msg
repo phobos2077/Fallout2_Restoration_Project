@@ -62,7 +62,7 @@
 {205}{}{Eu não me associo com sua espécie.}
 {206}{}{Quem deixou você?}
 {207}{}{Não sei por que não te expulsam da cidade.}
-{208}{}{Please leave me alone.}
+{208}{}{Por favor, me deixe em paz.}
 {209}{}{Não me incomode.}
 {210}{}{I can't help you. Go away.}
 {211}{}{Die in the desert, jerk.}

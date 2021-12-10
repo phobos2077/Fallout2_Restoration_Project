@@ -25,7 +25,7 @@
 {124}{}{Seja o que for.}
 {125}{}{What's the deal with these Rangers I hear about?}
 {126}{}{I'm looking for Vault 13. Ever hear of it?}
-{127}{}{Ever hear of a GECK?}
+{127}{}{Já ouviu falar de um GECK?}
 {128}{}{Know anything about an outfit called the Enclave?}
 {129}{}{I'm looking for work. Know anybody who's hiring?}
 {130}{}{Forget it. I don't want to take up your time.}

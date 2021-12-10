@@ -1,2 +1,2 @@
-{100}{}{You see a large ant.}
-{101}{}{Whoa. That's a big fuckin' ant.}
+{100}{}{Você vê uma formiga gigante.}
+{101}{}{Eita porra, que formiga gigante.}

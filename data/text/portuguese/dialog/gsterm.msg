@@ -153,65 +153,65 @@
 {461}{}{Onde está a válvula de corte do refrigerante principal?}
 {462}{}{Acho que estou pronto para começar.}
 {463}{}{Fim de sessão.}
-{470}{}{The Main Coolant Shutoff Valve is located near the East wall of the Reactor Core. The valve is controlled by a large red wheel.}
-{471}{}{That shouldn't be too hard to find --as long as the red paint hasn't peeled off.}
+{470}{}{A válvula principal de corte do refrigerante está localizada perto da parede leste do núcleo do reator. A válvula é controlada por uma grande roda vermelha.}
+{471}{}{Isso não deve ser muito difícil de encontrar... contanto que a tinta vermelha não tenha descascado.}
 {472}{}{Acho que estou pronto para começar.}
 {473}{}{Fim de sessão.}
-{480}{}{Emergency Manual RM&RR Unit Control: In order to move the unit it must be given commands to Turn Left, Turn Right, Move Forward, and then the last command given in any sequence is the Perform Procedure command.}
-{482}{}{If this has been attempted before, show the previous set of movement commands here. Commands?: MoveVar1}
-{484}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 5% of unit tolerance. Commands?: MoveVar1, MoveVar2}
-{486}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 10% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3}
-{488}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 15% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
-{490}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 20% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
-{492}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 25% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
-{494}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 30% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
-{496}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 35% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
-{498}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 40% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
-{500}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 45% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
-{502}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 50% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
-{504}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 55% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12}
-{506}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 60% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13}
-{508}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 65% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14}
-{510}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 70% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15}
-{512}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 75% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
-{514}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 80% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
-{516}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 85% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
-{520}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 95% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
-{522}{}{Turn Left.}
-{524}{}{Turn Right.}
-{526}{}{Move Forward.}
-{530}{}{Perform Procedure: Install Hydroelectric Magnetosphere Regulator}
-{531}{}{Perform Procedure: Turn Main Coolant Valve--Off}
-{535}{}{Emergency Manual RM&RR Unit Control:}
-{540}{}{Add a command.}
-{541}{}{List program.}
-{542}{}{Environmental sensors report.}
-{543}{}{Damage report.}
-{544}{}{Delete all commands.}
-{545}{}{Execute program.}
+{480}{}{Controle manual de emergência da unidade RM&RR: Para mover a unidade, ela deve receber os comandos de virar para esquerda, para direita, mover para frente e, em seguida, o último comando dado em qualquer sequência é o de executar procedimento.}
+{482}{}{Se isso já foi tentado antes, mostre a série de comandos anteriores aqui. Pedidos?: MoveVar1}
+{484}{}{Se isso já foi tentado antes, mostre a série de comandos anteriores aqui. Temperatura a 5% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2}
+{486}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 10% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3}
+{488}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 15% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
+{490}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 20% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
+{492}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 25% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
+{494}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 30% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
+{496}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 35% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
+{498}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 40% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
+{500}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 45% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
+{502}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 50% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
+{504}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 55% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
+{506}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 50% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
+{508}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 65% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
+{510}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 70% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
+{512}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 75% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
+{514}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 80% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
+{516}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 85% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
+{518}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 90% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{520}{}{Se isso já foi tentado antes, mostre o conjunto anteriores de comandos de movimento aqui. Temperatura a 95% da tolerância da unidade. Comandos?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
+{522}{}{Virar a esquerda.}
+{524}{}{Virar a direita.}
+{526}{}{Avance.}
+{530}{}{Execute o procedimento: Instale o regulador hidrelétrico da magnetosfera}
+{531}{}{Execute o procedimento: desligue a válvula de refrigeração principal}
+{535}{}{Controle manual de emergência da unidade RM&RR:}
+{540}{}{Adicione um comando.}
+{541}{}{Lista de programas.}
+{542}{}{Relatório de sensores ambientais.}
+{543}{}{Informe os danos.}
+{544}{}{Exclua todos os comandos.}
+{545}{}{Executar programa.}
 {546}{}{Voltar.}
 {547}{}{Fim de sessão.}
-{550}{}{Back to Main Menu.}
-{600}{}{Select a command:}
-{601}{}{Calibrate Uranium-Rod Driver.}
-{602}{}{Amplify Plutonium-Gamma Shield.}
-{603}{}{Set Voltage on Saturn-Class Capacitor.}
-{604}{}{Deharmonize Neptunium Impeller.}
-{605}{}{Test Jupiter Wave Compiler.}
-{606}{}{Install Hydroelectric Magnetosphere Regulator.}
-{607}{}{Turn Main Coolant Valve-Off.}
-{608}{}{Turn Main Coolant Valve-On.}
-{620}{}{Program Listing:}
-{630}{}{Environmental Report:}
-{640}{}{Damage Report:}
-{650}{}{Commands Deleted.}
-{660}{}{--END PROGRAM--}
-{700}{}{Please wait. Program running.}
-{710}{}{Unit not responding.}
-{720}{}{Error invalid command. Core Dumped. Unit returned to control dock.}
-{730}{}{Error command overflow.}
+{550}{}{Voltar ao menu principal.}
+{600}{}{Selecione um comando:}
+{601}{}{Calibre o controlador de haste de urânio.}
+{602}{}{Amplifique o escudo Plutônio-Gamma.}
+{603}{}{Ative o capacitor de tensão da classe Saturno.}
+{604}{}{Desarmonizar impulsor de Neptúnio.}
+{605}{}{Testar o compilador de ondas de Júpiter.}
+{606}{}{Instalar o regulador hidroelétrico da magnetosfera.}
+{607}{}{Desligar a válvula principal do refrigerante.}
+{608}{}{Ligar a válvula principal do refrigerante.}
+{620}{}{Lista de programas:}
+{630}{}{Informe ambiental:}
+{640}{}{Informe de danos:}
+{650}{}{Comandos deletados.}
+{660}{}{--FINALIZAR PROGRAMA--}
+{700}{}{Espere um momento. Programa sendo executado.}
+{710}{}{Unidade não responde.}
+{720}{}{Erro de comando inválido. Núcleo descarregado. A unidade voltou para a doca de controle.}
+{730}{}{Erro em excesso de pedido.}
 {740}{}{Ok.}
-{800}{}{The optimization procedure was successful.}
-{900}{}{Processing Batch Files. Please Wait.}
+{800}{}{Procedimento de otimização bem sucedido.}
+{900}{}{Processamento de arquivos em lote. Por favor, aguarde.}
 {910}{}{[FEITO]}

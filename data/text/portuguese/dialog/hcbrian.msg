@@ -1,34 +1,34 @@
-{100}{}{You see a squat man wearing squalid clothing.}
-{101}{}{You see Brian.}
-{102}{}{You see a squat man wearing squalid clothing. He has a toothpick in his mouth and is covered in grease. His fingernails are dirty.}
-{103}{}{Let's see how you like this, you antisocial jerk.}
-{104}{}{Whaddya want?}
+{100}{}{Você vê um gordão com roupas esfarrapadas.}
+{101}{}{Você vê Brian.}
+{102}{}{Você vê um homem gordo com roupas esfarrapadas. Tem um palito na boca e está coberto de graxa. Até suas unhas estão sujas.}
+{103}{}{Vamos ver se você gosta disso, babaca antissocial.}
+{104}{}{O que você quer?}
 {105}{}{Nyug aarg.}
 {106}{}{Quem é você?}
 {107}{}{O que é este lugar?}
-{108}{}{Ever hear of a GECK?}
-{109}{}{Say, Eric asked me to adjust the power ration to his house. He said that he's sweating too much.}
-{110}{}{Hey, Eric's really happy in his nice cool house. And I notice the power hasn't failed across the city.}
-{111}{}{I just went and talked to Eric and he said that he used to run the place and that there's so much power in the uranium slugs that you'd never notice the small drain he'd take. So cough up the power.}
+{108}{}{Já ouviu falar de um GECK?}
+{109}{}{Eric me pediu para ajustar a fonte de alimentação de sua casa. Ele disse que estava suando muito.}
+{110}{}{Ei, Eric está muito feliz em sua casa bonita. E eu noto que a energia não falhou em toda a cidade.}
+{111}{}{Eu só fui conversar com Eric, ele me disse que tomava conta desse lugar e que como há muita energia nas barras de urânio, você nunca notaria se ele usasse um pouco. Então, libere a energia.}
 {112}{}{Nada. Tchau.}
-{113}{}{Me? I'm Brian. I work the generator that powers this place.}
-{114}{}{Then you're the guy I need to see. Eric says he's too uncomfortable in his place, and he needs more power for his air conditioning.}
-{115}{}{I see. That's very interesting. Must be rewarding work.}
+{113}{}{Eu? Eu sou o Brian. Trabalho no gerador que alimenta este lugar.}
+{114}{}{Então você é o cara que eu preciso ver. Eric diz que se sente muito desconfortável em seu lugar e precisa de mais energia para o ar-condicionado.}
+{115}{}{Entendi, isso é muito interessante. Deve ser um trabalho bem remunerado.}
 {116}{}{Grande. Eu tenho mais perguntas.}
-{117}{}{This place is the power station for Broken Hills. What I do is essentially a maintenance job on the place... make sure it keeps running. It's pretty damn functional, though... powered by uranium slugs.}
-{118}{}{That must be great. Say, I have more questions.}
-{119}{}{Uranium slugs?}
-{120}{}{Interesting. Bye,}
-{121}{}{A GECK? Never heard of it. I'd imagine no-one else here has either. It sounds like an animal or something that has nasty claws, though.}
-{122}{}{No, that's not what I'm looking for. I have more questions though.}
-{123}{}{That's not it at all. Bye.}
-{124}{}{Eric wants more power? Eric can't HAVE more power. This is a very delicate balance of energy we run through here, and if Eric gets more power, then the hospital shuts down. Or the lights. Or the mine. We can't have that.}
-{125}{}{If this machine is run on uranium slugs, you have more than enough power to fill this place AND New Reno and not even notice the drain. Now cough it up.}
-{126}{}{But... but... he's suffering.}
-{127}{}{So there's no way you can make a couple of small adjustments?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
-{129}{}{Yup. Bye!}
-{130}{}{Hey! Don't touch anything! This is delicate equipment! Out! Outside! Go on! Go home!}
+{117}{}{Este lugar é a estação de energia de Broken Hills. O que eu faço é essencialmente um trabalho de manutenção no local... certificar de que ele continue funcionando. É bastante funcional, porém... Eu obtenho a energia das hastes de urânio.}
+{118}{}{Isso deve ser ótimo. Eu tenho mais perguntas.}
+{119}{}{Hastes de urânio?}
+{120}{}{Interessante. Tchau,}
+{121}{}{Um GECK? Nunca ouvi falar disso. E aqui não deve ter mais ninguém que saiba. Tá parecendo um animal ou algo que tem garras nojentas.}
+{122}{}{Não é isso que estou procurando. Mas eu ainda tenho mais perguntas.}
+{123}{}{Não é isso mesmo. Tchau.}
+{124}{}{Eric quer mais energia? Eric não pode TER mais energia. Trabalhamos com um equilíbrio de energia muito delicado aqui, e se Eric receber mais energia, o hospital fecha. Ou as luzes. Ou a mina. Não podemos fazer isso.}
+{125}{}{Se esta máquina funcionar com barras de urânio, você terá energia suficiente para abastecer este lugar e Novo Reno sem perder o abastecimento. Agora aumente.}
+{126}{}{Mas... mas... ele está sofrendo.}
+{127}{}{Mas não tem como fazer alguns pequenos ajustes?}
+{128}{}{[Ele parece chateado e com o olhar fixo nos controles, fala baixinho]. Você é mau.}
+{129}{}{Sim. Tchau!}
+{130}{}{EI! Não toque em nada! Esse é um equipamento delicado! Fora! vai! Sai fora daqui!}
 {131}{}{Ooooh! Butunz!}
 {132}{}{Well, no, it's not. Not really. I mostly just sit here and make sure none of the dials flip out. I make some minor adjustments. I flip some switches. That's about all. Anyone could do it.}
 {133}{}{So, say, you could send more power to Eric's home?}

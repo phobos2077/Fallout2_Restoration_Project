@@ -2,7 +2,7 @@
 {101}{}{You see a mutant miner.}
 {102}{}{You see a mutant in dusty clothes holding a pickaxe. From the calluses on his hands and the
  tired expression, you figure out this mutant must be a miner. He looks tired, and a little confused.}
-{103}{}{Whaddya want?}
+{103}{}{O que você quer?}
 {104}{}{Ag-ag! Ooo!}
 {105}{}{Ork! Ooky!}
 {106}{}{Dallo?}
