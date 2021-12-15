@@ -9,7 +9,7 @@
 {108}{}{I'll let in all the damn flies I want. Loser.}
 {109}{}{Right. So long.}
 {110}{}{Close the door! Please! Go away and take those damn flies with you!}
-{111}{}{D'okay!}
+{111}{}{Tudo bem!}
 {112}{}{Sorry. I'm just a little on edge. All these damn flies and no air conditioning. If I just had a little more power I'd be able to shake 'em... but I don't.}
 {113}{}{Quem é você?}
 {114}{}{How do you get the power?}

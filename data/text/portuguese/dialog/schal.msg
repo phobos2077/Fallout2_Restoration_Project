@@ -5,7 +5,7 @@
 {104}{}{}
 {105}{}{Sim.}
 {106}{}{Não.}
-{107}{}{Keep your eyes peeled.}
+{107}{}{Mantenha seus olhos abertos.}
 {108}{}{Stay together men!}
 {109}{}{Keep it up boys.}
 {110}{}{Great. Let's roll out. Head 'em out for Redding boys!}

@@ -30,23 +30,23 @@
 {129}{}{Sim. Tchau!}
 {130}{}{EI! Não toque em nada! Esse é um equipamento delicado! Fora! vai! Sai fora daqui!}
 {131}{}{Ooooh! Butunz!}
-{132}{}{Well, no, it's not. Not really. I mostly just sit here and make sure none of the dials flip out. I make some minor adjustments. I flip some switches. That's about all. Anyone could do it.}
-{133}{}{So, say, you could send more power to Eric's home?}
-{134}{}{Anyone, eh? I have other questions.}
+{132}{}{Não, não é. De verdade, não. Quase sempre me sento aqui e me certifico de que nenhum dos botões mexeu, faço uns pequenos ajustes, ligo alguns interruptores. Isso é tudo. Qualquer um poderia fazer isso.}
+{133}{}{Então, digamos, você poderia enviar mais energia para a casa de Eric?}
+{134}{}{Alguém, hein? Eu tenho outras perguntas.}
 {135}{}{Obrigado. Tchau.}
-{136}{}{Well, with the uranium mine right there, and with atomic power being the power of the future, it seems only right that we keep up with the times. We might be small, but we're progressive.}
-{137}{}{Hmm. Right. I have other questions.}
+{136}{}{Bem, com a mina de urânio bem ali, e com a energia atômica sendo a energia do futuro, parece estamos avençando bem com o tempo. Podemos ser pequenos, mas somos progressistas.}
+{137}{}{Hmm, certo. Eu tenho outras perguntas.}
 {138}{}{Direito. Tchau.}
-{139}{}{Well, sure, technically that's true, but...}
-{140}{}{But nothing. You're just lazy. Get a move on.}
-{141}{}{You don't have to be mean about it. [He ducks his head and turns a dial.] There. Please tell him to stop complaining now.}
-{142}{}{You're all heart, big guy.}
-{143}{}{Go shove it up the lips you never kiss with. No thanks to you for making this harder than it had to be.}
-{144}{}{Maybe he just ought to bathe more often. Good day.}
+{139}{}{Bem, claro, tecnicamente isso é verdade, mas...}
+{140}{}{Mas nada. Você é vagabundo. Vá em frente.}
+{141}{}{Você não precisa ser desse jeito. [Ele abaixa a cabeça e gira um botão.] Pronto. Por favor, diga a ele para parar de reclamar.}
+{142}{}{Você é um amor, tem um bom coração.}
+{143}{}{Vá por aí com sua boca grande. Não vou te agradecer por tornar isso mais difícil do que deveria.}
+{144}{}{Talvez ele devesse tomar banho com mais frequência. Bom dia.}
 {145}{}{Adeus.}
-{146}{}{No. I'm afraid not. The needs of the city outweigh the needs of the one.}
-{147}{}{I have other questions, then.}
-{148}{}{That's very utilitarian of you. I'll let him know he's not important. Goodbye.}
-{149}{}{Hmm... wha'... huh?}
-{150}{}{Zzzzzz... snore...}
-{151}{}{Whadda want...? Hmm...? ::snore::}
+{146}{}{Não, receio que não. As necessidades da cidade superam as necessidades individuais.}
+{147}{}{Eu tenho outras perguntas, então.}
+{148}{}{Isso parece bem utilitarista. Agora mesmo vou deixar ele saber que não é importante. Adeus.}
+{149}{}{Hmm... o que... como?}
+{150}{}{Zzzzzz... sonin...}
+{151}{}{O que quer...? Hum...? ::ronco::}

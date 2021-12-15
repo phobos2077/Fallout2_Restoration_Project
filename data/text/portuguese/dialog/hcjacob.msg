@@ -23,7 +23,7 @@
 {122}{}{Then leave.}
 {123}{}{[FEITO]}
 {124}{}{There. We're done. Thank you for the tip. Now please leave.}
-{125}{}{D'okay!}
+{125}{}{Tudo bem!}
 {148}{}{Why don't you tell me how you feel about mutants first?}
 {149}{}{I hate them.}
 {150}{}{I'm ambivalent about them.}
