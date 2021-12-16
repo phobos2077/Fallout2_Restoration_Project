@@ -70,18 +70,18 @@
 {213}{}{(continuando) Sim, e então eu contei a ele minha história de vida sobre Arroyo...}
 {214}{}{Ouça, eu não dou a mínima para nenhuma de suas esquisitices. Você é quem está bisbilhotando e fazendo perguntas sobre o dinheiro desaparecido da caravana.}
 {215}{}{Está certo. E eu estou aqui para pegar a prova final de que preciso.}
-{216}{}{Oh yeah? Let me help. The documents you're looking for are in a briefcase that's locked away in the bottom drawer
- of that dresser over there. But you're never gonna touch it, 'cause I'm gonna kill you, you fuckin' do-gooder. If it
- weren't for you, I coulda kept skimming off the caravan runs for another couple months. But no, you had to go an'
- meddle in affairs that aren't any of your fuckin' concern. So now I gotta flee town, but at least I'll have the pleasure
- of leaving your corpse behind.}
-{217}{}{No one has to die here, Chad. Instead of doing something stupid that might get you killed, you should calm down, and we'll talk this over with Marcus.}
-{218}{}{You think I'm stupid? That big ugly prick would lock me up in a second. No, I'm afraid someone's certainly going to die here. And it's not gonna be me!}
-{219}{}{I'm here for the last piece of evidence in the caravan skimming case.}
-{220}{}{Oh really?...I thought I recognized you.}
-{221}{}{Alright, Alright. I admit to everything. I don't want to die for this. Tell Marcus I'll come peacefully.}
-{222}{}{Alright, don't move. I'll go get Marcus.}
-{300}{}{You allow Chad to skip town.}
+{216}{}{Oh sim? Deixe que eu ajudo. Os documentos que você procura ficam em uma pasta que trancada em uma gaveta de baixo
+ daquela cômoda ali. Mas você nunca vai tocar nisso, porque eu vou te matar, seu benfeitor de merda. Se não 
+ fosse para você, eu poderia ficar nas viagens de caravana por mais alguns meses. Mas não, você tinha que vir e
+ enfiar o nariz no que não te interessa. Então agora eu tenho que sumir da cidade, mas pelo menos terei o prazer
+ em deixar seu cadáver para trás.}
+{217}{}{Ninguém daqui precisa morrer, Chad. Em vez de fazer algo estúpido que vai acabar te matando, você deveria se acalmar para conversaremos sobre isso com Marcus.}
+{218}{}{Você acha que eu sou retardado? Aquele guarda roupa feioso me prenderia em um segundo. Não, parece que alguém certamente vai morrer aqui. E não sou eu!}
+{219}{}{Estou aqui para pegar a última evidência do caso da caravana.}
+{220}{}{Ah, é mesmo?... Pensei ter reconhecido você.}
+{221}{}{Tudo bem, tudo bem. Eu admito tudo, e com certeza não quero morrer por isso. Diga a Marcus que vou em paz.}
+{222}{}{Tudo bem, não se mova. Vou trazer o Marcus.}
+{300}{}{Você permite que Chad pule para fora da cidade.}
 {400}{}{Deixe-me sozinho.}
 {2040}{}{Maldição, eu sabia que isso não duraria para sempre. [Olha em volta e abaixa a voz.] Tudo bem, ouça. 
  Mantenha sua boca fechada sobre esse probleminha. Aqui tem $1000 para fazer você ficar quieto. [Ele lhe entrega o dinheiro.] 
