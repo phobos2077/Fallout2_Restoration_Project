@@ -1,56 +1,56 @@
-{100}{}{You see a worried man.}
-{101}{}{You see Dan, the worried spouse.}
-{102}{}{You see a well-dressed man whose face looks like it's on the verge of hysteria.}
-{103}{}{Who are you? What are you doing in my house?}
+{100}{}{Você vê um homem preocupado.}
+{101}{}{Você vê Dan, o marido preocupado.}
+{102}{}{Você vê um homem bem vestido com uma cara que chega perto a beira da loucura.}
+{103}{}{Quem é Você? O que você esta fazendo na minha casa?}
 {104}{}{Ack? Oop?}
 {105}{}{Eu sou }
-{106}{}{Nobody important.}
-{107}{}{I'm here to rob you.}
-{108}{}{Nothing. Nobody. Bye.}
-{109}{}{Not in my house, please. There's a street outside where you can sleep and do whatever else it is you "special" people do.}
+{106}{}{Nada de importante.}
+{107}{}{Estou aqui pra te roubar.}
+{108}{}{Nada não. Tchau.}
+{109}{}{Na minha casa não, por favor. Há uma rua lá fora onde você pode dormir e fazer qualquer coisa "especial" que pessoas como você fazem.}
 {110}{}{Thppt!}
-{111}{}{Great, great. Pleased to meet you. [He looks distracted.] Hey, look... you're an adventuring type, right?}
+{111}{}{Ótimo, que bom. Prazer em conhecê-lo. [Ele parece distraído.] Ei, olha... você é do tipo aventureiro, certo?}
 {112}{}{Sim.}
-{113}{}{Do you not recognize the Chosen One?}
+{113}{}{Você não reconhece o Escolhido?}
 {114}{}{Não.}
-{115}{}{What business is it of yours?}
-{116}{}{The reason I ask, you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?}
+{115}{}{E o que isso te importa?}
+{116}{}{A razão de eu perguntar isso é porque minha esposa está desaparecida. Eu não sei onde ela está, se foi há dias. Eu perguntei pela cidade e ninguém a viu. Você pode encontrá-la para mim?}
 {117}{}{O quê tem pra mim?}
-{118}{}{I'll look around. What's she look like?}
-{119}{}{Nope. I'm busy.}
-{120}{}{I can give you $500. That's my life savings.}
-{121}{}{That's good enough. I'll do it.}
-{122}{}{Nope. Can't do it.}
-{123}{}{Please. Please. My wife... she's everything to me. Please.}
-{124}{}{I said no!}
-{125}{}{Fine! Fine! Just stop pestering me.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
-{127}{}{You got it, pal. What's she look like?}
-{128}{}{Sure thing. I'll do my best.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.}
-{130}{}{See ya, loser.}
-{131}{}{She's blonde, sexy, and has the most incredible singing voice... I last saw her walking around this area. She didn't like mutants or ghouls, so she wouldn't have been near any of them. Nobody knows where she went. It's like she just disappeared.}
-{132}{}{That should be enough.}
-{133}{}{Well? Have you found her? My heart aches with every moment.}
-{134}{}{Sorry, pal, still looking.}
-{135}{}{Yeah, I found her.}
-{136}{}{No, not yet. I'll keep looking.}
-{137}{}{Oh, my aching heart. Please let me know when you find her.}
-{138}{}{Sure, sure thing.}
-{139}{}{Actually, I'm not going to look for her anymore.}
-{140}{}{You found her? ::his eyes light up:: Where?}
-{141}{}{Was she a hottie with no legs?}
-{142}{}{I found a group of dead people in the tunnels below the city. She was one of them. I'm sorry.}
-{143}{}{What? No! She had great legs!}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.}
-{145}{}{Right. Well, I think I found her in the tunnels below the city. She's dead. I'm very sorry.}
-{146}{}{Thank you for telling me. I think I have to go cry.}
-{147}{}{Yeah, you go cry, you pansy loser.}
-{148}{}{Sorry, pal.}
-{149}{}{I hate you! Everyone hates you! Go die! ::sob::}
-{150}{}{I found a letter on your wife. It indicates that she may have been part of a conspiracy to kill the mutants in Broken Hills.}
-{151}{}{Oh my God! I... I can't believe that... It's not... [Sighs deeply]. I suppose it may be true. She seemed
- to hate every mutant and ghoul she came into contact with. I never knew why.}
+{118}{}{Eu vou dar uma olhada. Como ela é?}
+{119}{}{Não, estou ocupado.}
+{120}{}{Eu de dou $ 500. São as economias da minha vida toda.}
+{121}{}{Isso é suficiente. Eu farei.}
+{122}{}{Não posso fazer.}
+{123}{}{Por favor, por favor. Minha esposa... ela é tudo para mim. Por favor.}
+{124}{}{Já disse que não!}
+{125}{}{Tá bom, já chega. Só pare de me encher.}
+{126}{}{Aqui está o dinheiro. Agora, por favor, POR FAVOR... encontre minha esposa e me diga onde ela está. Talvez ela esteja morando com outra pessoa, tenha me deixado... mas eu só preciso saber.}
+{127}{}{Certo, amigo. Como ela é?}
+{128}{}{Certo. Vou fazer o meu melhor.}
+{129}{}{::chora incontrolavelmente por alguns instantes:: Tudo bem, vá embora. Mas saiba que você acabou de destruir um homem.}
+{130}{}{Até mais, perdedor.}
+{131}{}{Ela é loira, sexy e tem uma voz incrível para cantar... Eu a vi pela última vez andando por esta área. Ela não gostava de mutantes ou ghouls, então ela não estaria perto de nenhum deles. Ninguém sabe para onde ela foi... É como se simplesmente tivesse desaparecido.}
+{132}{}{Isso deve ser o suficiente.}
+{133}{}{E ai? Você achou? Meu coração dói a cada segundo que passa.}
+{134}{}{Desculpe, cara, ainda estou procurando.}
+{135}{}{Sim, eu encontrei.}
+{136}{}{Por enquanto não. Mas estou procurando.}
+{137}{}{Oh, que dor no coração. Por favor, me avise quando você a encontrar.}
+{138}{}{Sim, claro.}
+{139}{}{Na verdade, não vou mais procurar por ela.}
+{140}{}{Você a encontrou? ::seus olhos se iluminam:: Onde?}
+{141}{}{Ela era uma tesuda sem pernas?}
+{142}{}{Encontrei um grupo de mortos nos túneis abaixo da cidade. Ela era uma delas. Eu sinto muito.}
+{143}{}{Que? Não! Ela tinha pernas lindas!}
+{144}{}{Oh, entendi. Bem, agora não tem mais as pernas lindas. Ela foi seriamente ferida e suas pernas estão decepadas. Ela está mortinha da silva, além de sofrer antes de morrer.}
+{145}{}{Certo. Bem, acho que a encontrei nos túneis abaixo da cidade. Ela está morta, sinto muito.}
+{146}{}{Obrigado por me dizer, acho que agora vou chorar.}
+{147}{}{Sim, vai chorar lá, seu perdedor apaixonado.}
+{148}{}{Desculpe, amigo.}
+{149}{}{Te odeio! Todo mundo te odeia! Morra! ::soluço::}
+{150}{}{Encontrei uma carta no corpo da sua esposa. Tudo indica que ela pode ter feito parte de uma conspiração para matar os mutantes em Broken Hills.}
+{151}{}{Meu Deus! Eu... eu não posso acreditar que... não é... [suspira profundamente]. Acho que é verdade. 
+ Ela sempre pareceu odiar todos os mutantes e ghouls apareceram na frente. Eu nunca soube por quê.}
 {152}{}{Be that as it may, you may want to consider that the murders might not stop with your wife. If she was implicated, you may be as well.}
 {153}{}{You don't mean to say that my life is in danger too? Oh dear. You may be right. I've been hearing noises outside
  the house at night. Whispers and shuffles.}

@@ -91,26 +91,29 @@
 {178}{}{Você faz uma careta ao sentir o gosto e então percebe que está queimando você por dentro. Ai. OUCH.
  DEUS DO CÉU!! Está derretendo suas tripas! }
 {179}{}{Parece farinha, mas você consegue engolir. Estranhamente, você se sente um pouco melhor agora.}
-{180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
- spitting and gagging. You've been irradiated!}
+{180}{}{Ahh, que inferno. Apesar da aparência, você bebe essa bebida nojenta. Imediatamente começa
+ a engasgar e cuspir. Você foi irradiado!}
 {181}{}{[FEITO]}
-{182}{}{Well... all right. Reminiscing of the things you drank as a child, you tilt the
- bottle back and let it flow. Your stomach knots up as the fluid hits it. You feel like you've just
- been stung by a radscorpion.}
-{183}{}{Hey, it looks like water, so it must be as good, huh? As soon as the stuff hits your throat,
- you realize you've made a mistake. This stuff BURNS. You're in pain for a long, long time.}
-{184}{}{A little of this, a little of that... wait a second... why is the bottle smoking... what's going
- wrong? OH NO! The bottle explodes in your face!}
-{185}{}{You mix the stuff together gleefully, hoping you've created the right mix of chemicals. Then
- you sit and wait for your payoff. And you wait. And you wait. The liquid turns to a dull, sludgy
- brown. It's wasted.}
-{186}{}{You've managed to create a potent vitamin. What do you want to do with it?}
+{182}{}{Bem... ok. Lembrando-se das coisas que você bebeu quando era pirralho, você
+ inclina o jarro para trás e o deixa fluir. Esse liquido cai como uma bomba quando atinge o estômago. 
+ Você sente que acabou de ser picado por um radscorpion.}
+{183}{}{Ei, parece água, será que é tão bom quanto? Assim que a coisa chega na garganta,
+você 
+ percebe que cometeu um erro. O bagulho QUEIMA. Você sente dor por muito, muito tempo.}
+{184}{}{Um pouco disso, um pouco daquilo... espere um pouco ... o frasco está tremendo... 
+ O que 
+ tem de errado? ETA PORRA! A garrafa explode na tua fuça!}
+{185}{}{Você mistura as coisas tranquilamente, esperando ter criado a mistura certa de produtos químicos. 
+ Agora você se senta e espera sua recompensa. E espera... mais um pouco... O líquido se transforma 
+ em um marrom opaco e pegajoso. Desperdício.}
+{186}{}{Você conseguiu criar uma vitamina potente. E agora, o que dá pra fazer com isso?}
 {187}{}{Beba.}
 {188}{}{Guardar pra depois.}
-{189}{}{You've created a toxin! All right! What now?}
+{189}{}{Você criou uma toxina! Muito bem! E agora?}
 {190}{}{Beba.}
 {191}{}{Guardar pra depois.}
-{192}{}{You have successfully created a formula that simulates the effects of radiation poisoning. What
- would you like to do with it?}
+{192}{}{Você criou com sucesso uma fórmula que simula os efeitos da radiação. O que
+você gostaria 
+ de fazer com isso?}
 {193}{}{Beba.}
 {194}{}{Guardar pra depois.}
