@@ -51,10 +51,10 @@
 {150}{}{Encontrei uma carta no corpo da sua esposa. Tudo indica que ela pode ter feito parte de uma conspiração para matar os mutantes em Broken Hills.}
 {151}{}{Meu Deus! Eu... eu não posso acreditar que... não é... [suspira profundamente]. Acho que é verdade. 
  Ela sempre pareceu odiar todos os mutantes e ghouls apareceram na frente. Eu nunca soube por quê.}
-{152}{}{Be that as it may, you may want to consider that the murders might not stop with your wife. If she was implicated, you may be as well.}
-{153}{}{You don't mean to say that my life is in danger too? Oh dear. You may be right. I've been hearing noises outside
- the house at night. Whispers and shuffles.}
-{154}{}{It might be a good idea to leave. Watch your back. Good luck.}
-{155}{}{Thanks so much for your help. I'm not staying here any longer than I have to.}
-{156}{}{You informed Dan of his wife's murder.}
+{152}{}{Seja como for, você deve considerar que os assassinatos não terminam na sua esposa. Se ela estava envolvida, você também pode estar.}
+{153}{}{Você quer dizer que eu também corro perigo? Oh Deus, você pode estar certo. Tenho ouvido ruídos fora de casa
+ a noite. Sussurros e alguns passos.}
+{154}{}{Pode ser uma boa ideia sair de lá. Tome cuidado, boa sorte.}
+{155}{}{Muito obrigado pela sua ajuda. Não vou ficar aqui por mais muito tempo.}
+{156}{}{Você informou Dan sobre o assassinato de sua esposa.}
 {157}{}{.}

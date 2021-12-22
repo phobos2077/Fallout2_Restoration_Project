@@ -94,7 +94,7 @@
 {406}{}{Eeeeeccchhhh.}
 {407}{}{Grunt!}
 {408}{}{Groan!}
-{409}{}{Ouchie!}
+{409}{}{Ai!}
 {410}{}{Ow! My arm!}
 {411}{}{Ha ha! Gotcha!}
 {500}{}{Over the top, Francis! Over the top!}

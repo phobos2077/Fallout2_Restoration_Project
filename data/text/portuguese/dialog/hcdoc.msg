@@ -1,124 +1,124 @@
-{100}{}{You see a wizened old man wearing a doctor's coat. }
-{101}{}{You see Doc Holliday.}
-{102}{}{You see a wizened old man in a slightly bloody doctor's coat. The man radiates an air of
- knowledge. He also seems slightly sickly.}
-{103}{}{::wheeze:: Hi there. I'm Doc Holliday. How can I help you?}
-{104}{}{Now what do you want?}
-{105}{}{Ouchie!}
-{106}{}{I'm hurt and need healing.}
-{107}{}{One of my friends is hurt and needs healing.}
+{100}{}{Você vê um velho enrugado vestindo um jaleco de médico. }
+{101}{}{Você vê o Dr. Holliday.}
+{102}{}{Você vê um velho enrugado com um jaleco de médico um pouco ensanguentado. O 
+ homem mantém um ar de sabedoria, mas parece que está um pouco doente.}
+{103}{}{::Chiado:: Olá, sou o Dr. Holliday. Como posso ajudá-lo?}
+{104}{}{O que você quer agora?}
+{105}{}{Ai!}
+{106}{}{Estou ferido e preciso de cura.}
+{107}{}{Um de meus amigos está ferido e precisa de cura.}
 {108}{}{O que você faz aqui?}
-{109}{}{Tell me about the town.}
-{110}{}{Any gossip?}
-{111}{}{Just sell me some stimpacks.}
-{112}{}{Forget it. Sorry.}
-{113}{}{Let me take a look at that. I can heal you, but it'll cost.}
+{109}{}{Me conte sobre a cidade.}
+{110}{}{Alguma fofoca?}
+{111}{}{Preciso que me venda alguns stimpacks.}
+{112}{}{Esqueça, desculpe.}
+{113}{}{Deixe-me dar uma olhada nisso. Eu posso te curar, mas vai custar algo.}
 {114}{}{Quanto?}
 {115}{}{Esqueça.}
-{116}{}{Yes, I can heal this... ::wheeze:: for a price.}
+{116}{}{Sim, eu posso curar isso... ::funga:: por um preço.}
 {117}{}{Quanto?}
 {118}{}{Esqueça.}
-{119}{}{What do I do here? You're in a hospital. I'm wearing a doctor's coat. I'm covered with blood.
- There are sharp, pointy things lying all around. Either I'm a successful killer or a fair doctor. Take your pick.}
-{120}{}{I guess I can call you a doctor.}
-{121}{}{Don't get smart with me, old man.}
-{122}{}{A really good doctor wouldn't be getting blood all over himself.}
-{123}{}{Let's see. I was born here years ago. Place was just getting started. I picked up when I was a
- teen and tooled around the place for a while. Met a woman. Fell in love. She died of sickness. I
- decided then that I was going to become a doctor.}
-{124}{}{Yeah? Go on.}
-{125}{}{We were talking about Broken Hills, not your history.}
-{126}{}{You'd be surprised what people say when they're in pain.}
-{127}{}{Oh yeah? Like what?}
-{128}{}{I changed my mind. I'd rather ask other questions.}
-{129}{}{That'll cost you $50.}
+{119}{}{O que eu faço aqui? Você está em um hospital. Estou usando um casaco de médico coberto 
+ de sangue e existem coisas pontiagudas espalhadas aqui. Ou sou um assassino em série ou um médico decente. Faça sua escolha.}
+{120}{}{Acho que posso te chamar de médico.}
+{121}{}{Não se faça de esperto comigo, velho.}
+{122}{}{Um médico realmente bom não estaria sujo de sangue.}
+{123}{}{Vamos ver. Eu nasci aqui há anos, quando o lugar estava apenas começando. Me estabeleci 
+ quando era adolescente e trabalhei na área por um tempo. Conheci uma mulher, me apaixonou, e 
+ ela morreu de uma doença. Depois disso decidi que queria ser médico.}
+{124}{}{Sim? Continue.}
+{125}{}{Estávamos falando sobre Broken Hills, não sobre sua história.}
+{126}{}{Você ficaria surpreso com o que as pessoas dizem quando estão com dor.}
+{127}{}{Oh sim? Tipo o que?}
+{128}{}{Eu mudei de ideia, prefiro fazer outras perguntas.}
+{129}{}{Isso custará $50.}
 {130}{}{Eu vou pagar.}
 {131}{}{Esqueça.}
-{132}{}{For wounds like that, you'll be losing $100.}
+{132}{}{Ferimentos como esse custarão $100.}
 {133}{}{Eu vou pagar.}
 {134}{}{Esqueça.}
-{135}{}{That looks like it must have hurt. Going to hurt your wallet, too... $150.}
+{135}{}{Isso parece doloroso. E vai doer na sua carteira também... $150.}
 {136}{}{Eu vou pagar.}
 {137}{}{Esqueça.}
-{138}{}{Ouch! You're going to need some serious patching. $200.}
+{138}{}{Ai! Você vai precisar de uma ajuda séria. fica $200.}
 {139}{}{Eu vou pagar.}
 {140}{}{Esqueça.}
-{141}{}{Whew... friend, this is going to hurt you a lot. $300 and you're good as new.}
+{141}{}{Caramba... amigo, isso vai doer muito. Por $300 você fica como novo.}
 {142}{}{Eu vou pagar.}
 {143}{}{Esqueça.}
-{144}{}{He should be okay after a little help from me... ::wheeze:: to the tune of $50.}
+{144}{}{Ele deve ficar bem depois de uma ajuda minha... ::chiado:: vai ficar por $50.}
 {145}{}{Eu vou pagar.}
 {146}{}{Esqueça.}
-{147}{}{You been seeing some action? I remember back when I was a little spitfire. Got plenty of holes
- in me, too. This misadventure will cost you $100.}
+{147}{}{Você tem visto alguma ação? Me lembro de quando era um diabinho. Teve uma vez que eu acabei cheio
+ de buracos. Isso vai te custar $100.}
 {148}{}{Eu vou pagar.}
 {149}{}{Esqueça.}
-{150}{}{Kid, do you take care of your friends? ::cough:: If you're going to take care of this friend,
- you'll need to pay $150.}
+{150}{}{Garoto, você cuida bem dos seus amigos? ::tosse:: Para cuidar desse amigo seu vai
+  precisar pagar $150.}
 {151}{}{Eu vou pagar.}
 {152}{}{Esqueça.}
-{153}{}{You must be pretty good to inspire loyalty like this from your friends. I hope you're good...
-because this is going to cost ::cough:: $200.}
+{153}{}{Você deve ser muito bom para ainda ter a lealdade dos seus amigos. Espero que seja 
+ bom... porque isso vai custar ::tosse:: $200.}
 {154}{}{Eu vou pagar.}
 {155}{}{Esqueça.}
-{156}{}{Ouch! I'll need to put a cast on that or something. For my extensive medical knowledge, you'll
- be parting with $300.}
+{156}{}{Ai! Vou precisar colocar um gesso nisso ou algo assim. Por todo meu tempo como médico, você
+ vai precisar de $300.}
 {157}{}{Eu vou pagar.}
 {158}{}{Esqueça.}
-{159}{}{Friend, you don't have that kind of money. I can sell you some stimpacks if you like, but with
- the healing you're looking for, you can't afford what I can afford to give you.}
-{160}{}{Give me the stimpacks.}
+{159}{}{Amigo, você não tem esse dinheiro. Posso te vender alguns stimpacks se quiser, mas esse tipo
+ de cura que você está procurando não da para pagar com o que eu posso te oferecer.}
+{160}{}{Me dê uns stimpacks.}
 {161}{}{Não, obrigado.}
-{162}{}{It's been a pleasure.}
+{162}{}{Foi um prazer.}
 {163}{}{Obrigado.}
-{164}{}{That's not acceptable.}
+{164}{}{Isso não é aceitável.}
 {165}{}{Que tal agora?}
 {166}{}{É tudo o que quero oferecer. Até mais.}
-{167}{}{::wheeze:: Are you hurt? Let me take a look at that. Do you have money?}
-{168}{}{Mo-ney?}
+{167}{}{::Funga:: Você está ferido? Deixe-me dar uma olhada nisso. Tem dinheiro?}
+{168}{}{Dinhe-ero?}
 {169}{}{Simmm!}
-{170}{}{Let me take a look at your bag. (he looks through your bag and takes something) Okay. Now, this
- may hurt a little bit.}
-{171}{}{Hurt?}
-{172}{}{Yes. Now... There! We're done. Good luck to you, okay? Don't get hurt!}
+{170}{}{Deixe eu dar uma olhada em sua bolsa. (ele olha sua bolsa e pega algo) Certo. Agora isso
+ pode doer um pouco.}
+{171}{}{Ferido?}
+{172}{}{Sim. Agora... Pronto! Terminado. Boa sorte para você, ok? Não se machuque!}
 {173}{}{Obrigado!}
-{174}{}{That's right. I'm a doctor. Good to see that intelligence is alive and well in the post-nuclear
- world.}
-{175}{}{Ha! And it's kicking around inside the body of a 70-year-old man!}
-{176}{}{I don't want to be taking shit from you, old man.}
-{177}{}{Ummm.. Yeah. I had more questions.}
+{174}{}{Acertou, sou medico. É bom ver que a inteligência está viva e funcionando no mundo
+ pós-nuclear.}
+{175}{}{Ha! E está girando dentro do corpo de um homem de 70 anos!}
+{176}{}{Não quero ouvir porra nenhuma de você, velhaco.}
+{177}{}{Ummm.. Sim. Eu tinha mais perguntas.}
 {178}{}{Adeus.}
-{179}{}{Threaten the only doctor in town. Good thinking. ::cough:: Friend, if you want something, you
- can ask politely. Otherwise, get the hell out of my hospital.}
-{180}{}{Bite me, old man. Get ready to die.}
-{181}{}{Yeah. Whatever.}
-{182}{}{Sorry. Bad day.}
-{183}{}{I was just kidding around.}
-{184}{}{Stripling, you have a lot to learn about respect.}
-{185}{}{Child, you have a lot to learn about humor.}
-{186}{}{Yeah, all right.}
-{187}{}{Okay, you've pissed me off. Now you're going to need to heal yourself.}
-{188}{}{(You can see a glint of laughter in his eyes behind his glasses.) Don't see it too many other
- places these days. The young of the world, for example...}
+{179}{}{Ameaçar o único médico da cidade... Genial. ::tosse:: Amigo, se você quiser alguma coisa,
+ pode perguntar na educação. Caso contrário, dê o fora do meu hospital.}
+{180}{}{Foda-se, cara. Se prepare para sua morte.}
+{181}{}{Sim, que seja.}
+{182}{}{Desculpe, dia ruim.}
+{183}{}{Era trolagem garai.}
+{184}{}{Jovem, você tem muito que aprender sobre respeito.}
+{185}{}{Jovem, você tem muito que aprender sobre humor.}
+{186}{}{Sim, certo.}
+{187}{}{Ok, você me irritou. Agora você vai precisar se curar.}
+{188}{}{(Você pode ver um olhar sorridente por trás de seus óculos. Não se vê em muitos outros
+ lugares hoje em dia. A juventude do mundo, por exemplo...}
 {189}{}{Hey!}
-{190}{}{Old man, don't push me.}
-{191}{}{...are the repository of what our elders once knew...}
+{190}{}{Velho, não me ofenda.}
+{191}{}{...são os repositórios do que nossos anciãos sabiam ...}
 {192}{}{Sim, sim, sim... Tenho que ir.}
-{193}{}{Relax, kid. Just joking around with you.}
-{194}{}{Yeah, I know. So... ummm... }
-{195}{}{... and what we refuse to tell you little bastards! (he bursts out laughing) Kid, the next time
- you need to see me for some medical help, it's on the house.}
-{196}{}{I had some other questions.}
-{197}{}{Thanks. I'll see you around.}
-{198}{}{You're hurt? Let me fix that.}
+{193}{}{Relaxa, jovem. Só estou brincando com você.}
+{194}{}{Sim, eu sei. Então... ummm... }
+{195}{}{...E o que nos recusamos a dizer, seu pequeno bastardo! (risos). Jovem, da próxima vez que
+ precisar de ajuda médica, se vire.}
+{196}{}{Eu tinha outras perguntas.}
+{197}{}{Obrigado. Te vejo por aí.}
+{198}{}{Você está ferido? Deixe eu dar uma olhada nisso.}
 {199}{}{Umm...}
-{200}{}{Thanks. See ya!}
-{201}{}{Who's hurt? Oh, just line up and I'll take care of the lot of ya.}
+{200}{}{Obrigado. Até mais!}
+{201}{}{Quem está ferido? Oh, fiquem em fila e eu cuidarei de todos vocês.}
 {202}{}{Só mais uma coisa...}
 {203}{}{Valeu! Tchau!}
-{204}{}{Surprisingly little. Sorry, but when I'm concentrating on healing someone, I don't usually pay
- attention to their innermost secrets.}
-{205}{}{Oh. Will you answer more questions?}
+{204}{}{Surpreendentemente, pouco. Sinto muito, mas quando estou focado em ajudar alguém, geralmente não
+ presto atenção aos seus segredos mais íntimos.}
+{205}{}{Oh. Você pode responder a mais perguntas?}
 {206}{}{So then I traveled to San Francisco and studied under the Chinese there... an old gentleman by
  the name of Mr. Fung taught me everything I know about medicine. He also taught me some wisdom.}
 {207}{}{So then what happened?}
