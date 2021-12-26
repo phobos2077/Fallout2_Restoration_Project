@@ -64,7 +64,7 @@
 {201}{}{Malo}
 {202}{}{Pobre}
 {203}{}{Justo}
-{204}{}{Sfcnte}
+{204}{}{Medio}
 {205}{}{Bueno}
 {206}{}{M.buen}
 {207}{}{Genial}
