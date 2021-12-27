@@ -8,4 +8,4 @@
   1. Launch `rpu-install.sh` (Linux) or `rpu-install.command` (MacOS).
 
 ### Special note
-When launching the game, you **must** set dll overrides: `WINEDLLOVERRIDES='ddraw.dll=n,b' wine fallout2.exe` (or use wine preferences to configure this). If you don't do that, the game may run, but the restoration project will not apply correctly.
+When launching the game, you **must** set dll overrides: `WINEDLLOVERRIDES='ddraw.dll=n,b' wine fallout2.exe` (or use `winecfg` to configure them). If you don't do that, the game may run, but the restoration project will not apply correctly.
