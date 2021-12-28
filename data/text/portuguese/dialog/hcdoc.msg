@@ -119,29 +119,29 @@
 {204}{}{Surpreendentemente, pouco. Sinto muito, mas quando estou focado em ajudar alguém, geralmente não
  presto atenção aos seus segredos mais íntimos.}
 {205}{}{Oh. Você pode responder a mais perguntas?}
-{206}{}{So then I traveled to San Francisco and studied under the Chinese there... an old gentleman by
- the name of Mr. Fung taught me everything I know about medicine. He also taught me some wisdom.}
-{207}{}{So then what happened?}
-{208}{}{And this ties into Broken Hills how?}
-{209}{}{I'm getting to that! Kids these days... so impatient.}
-{210}{}{Sorry. Go on.}
-{211}{}{This sucks. I'm outta here.}
-{212}{}{Then, I came back here and watched Marcus build the town from the shanties I remember from my
- youth into the "sprawling metropolis" you see before you. I saw people attracted by promises of
- wealth. I saw people grow up and die. I saw the currents of history.}
+{206}{}{Então eu viajei para San Francisco e estudei com os chineses por lá... um senhor idoso que se
+ chamava Sr. Fung me ensinou tudo o que sei sobre medicina. Ele também me ensinou certos conhecimentos.}
+{207}{}{Então o que aconteceu?}
+{208}{}{E o que isso tem a ver com Broken Hills?}
+{209}{}{Estou chegando lá! As crianças de hoje em dia são tão... impacientes.}
+{210}{}{Desculpe, continue.}
+{211}{}{Que se foda, vou sair daqui.}
+{212}{}{Então, eu voltei aqui e vi Marcus construir a cidade a partir de um monte barracos que existiam desde
+ a minha juventude, até essa "extensa metrópole" que você vê. Vi pessoas atraídas por promessas 
+ de riqueza, vi pessoas crescerem e morrerem... Eu vi o curso da história.}
 {213}{}{Então isso significa...}
-{214}{}{That means that I don't know most of the new people these days. Most of my memories are just
- that -- memories.}
-{215}{}{Oh. Well, thanks for the story.}
-{216}{}{You jerk! You made me wait that long for nothing?}
-{217}{}{No, thank you for listening to me ramble. Next time you're here and need healing, it's on the
- house.}
+{214}{}{Isso significa que não conheço a maioria das pessoas novas atualmente. A maioria das minhas 
+ memórias são apenas isso - memórias.}
+{215}{}{Oh. Bem, obrigado pela história.}
+{216}{}{Inútil! Você me fez esperar tanto tempo por nada?}
+{217}{}{Não, obrigado por me ouvir. Da próxima vez que você estiver aqui e precisar de cura, venha
+ em casa.}
 {218}{}{Obrigado! Enfim...}
-{219}{}{Thanks. So long!}
-{220}{}{Yeah. Hope it was worth it! (he cackles)}
-{221}{}{No. Not really. Tell me something else.}
-{222}{}{No. You shriveled old jerk. Bye.}
-{300}{}{Who would you like me to heal?}
+{219}{}{Obrigado, até mais!}
+{220}{}{Sim. Espero que tenha valido a pena! (ele gargalha)}
+{221}{}{Não, na verdade não. Me diga outra coisa.}
+{222}{}{Não, velho broxa. Falou.}
+{300}{}{Quem você gostaria que eu curasse?}
 {301}{}{Vic.}
 {302}{}{Myron.}
 {303}{}{Marcus.}
@@ -155,8 +155,8 @@
 {311}{}{Miria.}
 {312}{}{Robobrain.}
 {313}{}{Deixa pra lá.}
-{314}{}{You're hurt? Let me fix that. I'll take care of your companions too.}
-{315}{}{There ya' go. All better.}
+{314}{}{Você está ferido? Deixe eu dar um jeito nisso. Eu também cuidarei de seus companheiros.}
+{315}{}{Aqui está, bem melhor.}
 {316}{}{[continuar]}
 {400}{}{Dogmeat.}
 {401}{}{K-9.}

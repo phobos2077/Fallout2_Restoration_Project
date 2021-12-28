@@ -1,44 +1,44 @@
 {100}{}{Você vê uma guarda Hubologista.}
-{101}{}{He is built like a rock and is well armed.}
-{200}{}{Halt! This is private property of the Church of Hubology. What is your business here?}
-{201}{}{I've come to loot this place. I hear there's plenty of wealth for the taking.}
-{202}{}{Do not fret, brother, for we are kindred spirits. I too, embrace the Church of Hubology.}
-{203}{}{Oh yeah? [He looks you up and down.] Then you won't mind if I quiz you on our faith.}
-{204}{}{[He grins savagely.] You're a bold one. I like that. Let's see how bold you are when I leave you bleeding into the dust.}
-{205}{}{Ask away. I am ready.}
-{206}{}{A quiz, huh? You know what? Screw this--I lied. Let's fight.}
-{220}{}{Who was the founder of the Church?}
-{221}{}{The Church believes that life, the universe, and everything can be symbolized by what?}
-{222}{}{In the context of the Church, what is meant by the term "Enlightenment"?}
+{101}{}{Ele é construído como uma rocha e bem armado.}
+{200}{}{Pare! Esta é uma propriedade privada da Igreja da Hubologia. O que você quer por aqui?}
+{201}{}{Eu vim para roubar isso aqui. Ouvi dizer que da pra arranjar uns cobres loucos aqui.}
+{202}{}{Não se preocupe, irmão, somos almas gêmeas. Eu também abraço a Igreja da Hubologia.}
+{203}{}{Oh sim? [Ele olha para você de cima a baixo.] Então você não se importará de ser questionado sobre nossa fé.}
+{204}{}{[Um sorriso feroz.] Você é corajoso, eu gosto disso. Vamos ver o quão ousado você é quando eu te deixar sangrando na terra.}
+{205}{}{Pergunte à vontade. Estou pronto.}
+{206}{}{Um teste, hein? Quer saber? Foda-se - eu meti o louco. Cai pro pau agora.}
+{220}{}{Quem foi o fundador da Igreja?}
+{221}{}{A Igreja acredita que a vida, o universo e tudo pode ser simbolizado por qual motivo?}
+{222}{}{No contexto da Igreja, o que significa o termo "Iluminação"?}
 {230}{}{Herbert Jentz}
 {231}{}{Dick Hubbel}
 {232}{}{Juan Cruz}
 {233}{}{AHS-9}
 {234}{}{Hugo Richardson}
-{240}{}{A circle.}
-{241}{}{Money.}
-{242}{}{A turning wheel.}
-{243}{}{Odin's horn.}
-{244}{}{A fish.}
-{250}{}{The replenishing of bodily essence.}
-{251}{}{A state of complete euphoria.}
-{252}{}{A state achieved in which the seeker develops divine understanding of the true nature of things.}
-{253}{}{A state achieved when the seeker has gained so much knowledge he becomes an integral part of the universe
- and leaves this earthly existence behind.}
-{254}{}{The final attainment on the spiritual path, when the limited sense of "I" merges into supreme "We".}
-{260}{}{That's correct. Only a fellow Hubologist could have such wisdom. I welcome you, and beg your pardon. May I ask why you've come here? Very few of our members even know of this location.}
-{261}{}{Ha! Not even close. The tried and true quiz security method works every time. Now, to rid the world of you, imposter!}
-{270}{}{I was asked by AHS-9 to check on all the donations. He wants to make sure everything is in order here.}
-{271}{}{I have come to make a donation.}
-{280}{}{Oh, I didn't know you were following such divine orders. In that case, you're free to enter. Here, let me unlock this door for you.}
-{281}{}{[He frowns.] Huh, I was never told about any inspections...}
+{240}{}{Um círculo.}
+{241}{}{Dinheiro.}
+{242}{}{Uma roda que gira.}
+{243}{}{O chifre de Odin.}
+{244}{}{Tilapia.}
+{250}{}{A reposição da essência corporal.}
+{251}{}{Um estado de completa euforia.}
+{252}{}{Um estado alcançado no qual o buscador desenvolve a compreensão divina da verdadeira natureza das coisas.}
+{253}{}{Um estado que é alcançado quando o buscador ganha tanto conhecimento que se torna parte integrante do universo
+ e deixa esta existência terrena para trás.}
+{254}{}{A realização final no caminho espiritual, quando o sentido limitado de "eu" se funde no supremo "Nós" .}
+{260}{}{Está correto. Apenas um colega Hubologista poderia ter tal sabedoria. Dou-lhe as boas-vindas e imploro seu perdão. Posso perguntar por que você veio aqui? Muito poucos de nossos membros conhecem este local.}
+{261}{}{Ha! Nem chegou perto. O método de segurança testado e comprovado funciona sempre. Agora, vamos livrar o mundo de você, impostor!}
+{270}{}{AHS-9 me pediu para verificar todas as doações. Ele quer ter certeza de que tudo está em ordem aqui.}
+{271}{}{Eu vim fazer uma doação.}
+{280}{}{Oh, eu não sabia que você estava seguindo essas ordens divinas. Nesse caso, você está livre para entrar. Deixe que eu vou destrancar esta porta para você.}
+{281}{}{[Ele franze a testa.] Huh, nunca me falaram sobre qualquer inspeção...}
 {282}{}{Obrigado. Nos vemos.}
-{283}{}{Listen, I was personally told by AHS-9 to check on things. He asked that I collect a specific artifact that was donated recently. It is crucial for reaching the Star Father.}
-{284}{}{I'm getting real sick of your lies. I think it's time I remove one more weed from the world.}
-{290}{}{But this isn't where you go to donate. You can go do that at any of our churches.}
-{291}{}{I know this, but AHS-9 told me new recruits are allowed to check on things before one gives considerable contributions.}
-{292}{}{[He frowns.] Huh, I was never told about any inspections...}
-{293}{}{Oh, I see. That's understandable. You're free to enter, just don't loiter around for too long.}
+{283}{}{Ouça, o AHS-9 me disse pessoalmente para verificar as coisas. Ele pediu que eu coletasse um artefato específico que foi doado recentemente. É crucial para alcançar o Pai Estrela.}
+{284}{}{Estou ficando muito cansado de suas mentiras. Acho que é hora de remover mais uma erva daninha do mundo.}
+{290}{}{Mas não é aqui que você vai doar. Você pode fazer isso em qualquer uma de nossas igrejas.}
+{291}{}{Eu sei disso, mas AHS-9 me disse que novos recrutas têm permissão para verificar as coisas antes que alguém dê contribuições consideráveis.}
+{292}{}{[Ele franze a testa.] Huh, nunca me falaram sobre qualquer inspeção...}
+{293}{}{Entendo isso, é compreensível. Você é livre para entrar, apenas não fique aí por muito tempo.}
 {294}{}{Listen, I'm about to give a hefty sum of money to the Church. I want to make sure my donation will be safe and used
  appropriately.}
 {300}{}{Olá novamente.}
