@@ -1,20 +1,20 @@
-{100}{}{You see a bleary-eyed mutant.}
-{101}{}{You see Elmo, the drunken mutant.}
-{102}{}{You see a bleary-eyed mutant who appears to have difficulty focusing on you.}
-{103}{}{Oh, my aching head.}
-{104}{}{Why do I always wake up in jail?}
-{105}{}{Someone stop the room spinning...}
-{106}{}{I think I'm gonna puke.}
-{107}{}{Porcelain goddess, hear my cry! Ooh, my head...}
-{108}{}{Shhhhhh! Please! Shhhhh!}
-{109}{}{Does someone have my shades?}
-{110}{}{Marcus must be pissed that I keep gettin' drunk like this.}
-{111}{}{Y'got any booze? Hair o' the dog and all that.}
-{112}{}{Man, I'm thirsty.}
-{113}{}{Geez... one bourbon, one scotch, and one beer, and suddenly I'm in jail.}
-{114}{}{Don't show me food... don't show me food...}
-{115}{}{...don't go in the corner... I puked there.}
-{116}{}{Man... another night in the drunk tank.}
-{117}{}{Wanna fight? I'm kinda wasted.}
-{118}{}{::weave:: ::stagger::}
-{119}{}{I love you, stranger!}
+{100}{}{Você vê um mutante com o olhar turvo.}
+{101}{}{Você vê Elmo, o mutante bêbado.}
+{102}{}{Você vê um mutante com os olhos turvos que parece ter dificuldade em te encarar.}
+{103}{}{Oh, minha cabeça dói.}
+{104}{}{Por que eu sempre acordo na prisão?}
+{105}{}{Alguém faz essa sala parar de girar...}
+{106}{}{Acho que vou vomitar.}
+{107}{}{Deusa da porcelana, ouça meu choro! Ooh, minha cabeça...}
+{108}{}{Shhhhhh! Por favor! Shhhhh!}
+{109}{}{Alguém tem meus óculos escuros?}
+{110}{}{Marcus deve estar chateado por eu continuar bêbado desse jeito.}
+{111}{}{Tem uma breja aí, cara? É pra passar toda essa ressaca.}
+{112}{}{Cara, estou com sede.}
+{113}{}{Nossa... um bourbon, um scotch e uma cerveja, e e do nada me vejo na prisão.}
+{114}{}{Não me mostre comida... não me mostre comida...}
+{115}{}{...não vá no canto... eu vomitei alí.}
+{116}{}{Cara... outra noite na gaiola bêbados.}
+{117}{}{Quer lutar? Estou meio bêbado.}
+{118}{}{::zigzag:: ::cambaleando::}
+{119}{}{Eu te amo, cara que eu nem conheço!}

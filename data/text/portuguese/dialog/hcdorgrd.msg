@@ -39,16 +39,16 @@
 {291}{}{Eu sei disso, mas AHS-9 me disse que novos recrutas têm permissão para verificar as coisas antes que alguém dê contribuições consideráveis.}
 {292}{}{[Ele franze a testa.] Huh, nunca me falaram sobre qualquer inspeção...}
 {293}{}{Entendo isso, é compreensível. Você é livre para entrar, apenas não fique aí por muito tempo.}
-{294}{}{Listen, I'm about to give a hefty sum of money to the Church. I want to make sure my donation will be safe and used
- appropriately.}
+{294}{}{Olha, estou quase dando uma boa quantia em dinheiro para a Igreja. Só quero ter certeza de que minha doação será e usada
+ adequadamente.}
 {300}{}{Olá novamente.}
-{301}{}{I hope everything is in order.}
-{400}{}{Me want in.}
-{410}{}{[He looks at you oddly.] Well, you'll need a password then.}
-{411}{}{Me pass gas, not word.}
-{412}{}{Me want in!}
-{420}{}{Listen, I don't have time for this. You clearly shouldn't be here, so beat it or you'll be sorry.}
-{421}{}{Buh bye!}
-{422}{}{Me want goodies inside. U die now.}
-{430}{}{Last chance. Leave now or die.}
+{301}{}{Espero que tudo esteja em ordem.}
+{400}{}{Eu quero entrar.}
+{410}{}{[Ele olha para você com estranheza.] Bem, você precisará de uma senha então.}
+{411}{}{Eu gasto gás, não a palavra.}
+{412}{}{Eu quero entrar!}
+{420}{}{Olha, não tenho tempo pra isso. Você nem deveria estar aqui, então dê o fora ou irá se arrepender.}
+{421}{}{Tá, tchau!}
+{422}{}{Me fez querer guloseimas por dentro. Hora de você morrer.}
+{430}{}{Última chance. Saia ou morra.}
 {431}{}{Eu avisei a você!}

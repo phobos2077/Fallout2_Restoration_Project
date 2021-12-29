@@ -1,63 +1,63 @@
-{100}{}{You see a person clad in black leather armor, wearing a grim expression and carrying a powerful
- gun.}
-{101}{}{You see }
-{102}{}{You see a caravan guard, covered in the dust of the trail and sweat of combat; you infer this
- to mean that the caravan routes are growing more dangerous these days.}
-{103}{}{Help you?}
+{100}{}{Você vê uma pessoa vestida com uma armadura de couro preta, com uma expressão sombria e 
+ carregando uma poderosa arma de fogo.}
+{101}{}{Você vê }
+{102}{}{Você vê um guarda de caravana, coberto com a poeira da trilha e o suor do combate; você supõe 
+ que isso significa que as rotas de comércio estão ficando mais perigosas ultimamente.}
+{103}{}{Ajudar você?}
 {104}{}{Aggle ok too!}
-{105}{}{Me work 'yere?}
-{106}{}{Yes, I'm looking for the caravan master.}
-{107}{}{I was wondering if I could ask you a few questions about Chad.}
+{105}{}{Trabalho por aqui?}
+{106}{}{Sim, estou procurando o mestre da caravana.}
+{107}{}{Gostaria de saber se posso fazer umas perguntas sobre Chad.}
 {108}{}{Quem é você?}
-{109}{}{Sorry about Chad. Who's the new boss?}
+{109}{}{Sinto muito pelo Chad. Quem é o novo chefe?}
 {110}{}{Não, obrigado.}
-{111}{}{If you're looking for work, you might want to talk to Bill, the guy inside there. In-SIDE. He
- might understand you. Good luck!}
+{111}{}{Se você está procurando trabalho, pode querer falar com Bill, o cara lá dentro. DEN-TRO. Ele 
+ pode te entender. Boa sorte!}
 {112}{}{Duhhhh...}
-{113}{}{That'd be }
+{113}{}{Vai ser }
 {114}{}{Sim.}
 {115}{}{Não.}
-{116}{}{You got questions, maybe I got answers. Whaddya wanna know?}
-{117}{}{What's he like?}
-{118}{}{Can he be trusted?}
-{119}{}{Where does he get his money?}
-{120}{}{What's his history?}
-{121}{}{Forget it. See you later.}
-{122}{}{Me? I'm }
-{123}{}{You're sorry about Chad? Ha! Made a nice profit, did you? The new boss is }
+{116}{}{Você tem perguntas, talvez eu tenha respostas. O que você quer saber?}
+{117}{}{Como ele é?}
+{118}{}{Ele é confiável?}
+{119}{}{Onde ele consegue seu dinheiro?}
+{120}{}{Qual é a história dele?}
+{121}{}{Esqueça. Até logo.}
+{122}{}{Eu? Sou }
+{123}{}{Você sente muito pelo Chad? Ha! Ganhou quanto com isso? O novo chefe é }
 {124}{}{Adeus.}
-{125}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He can hook you up.}
+{125}{}{Nesse caso, você deve falar com Bill, o comerciante de Broken Hills. Ele pode te incluir.}
 {126}{}{Obrigado.}
-{127}{}{All right. See ya, then.}
-{128}{}{What's he like? Well, he's friendly, but abrasive. He's a good boss, and usually fair to us. He
- doesn't treat us badly or anything, if that's what you mean. Any more questions?}
-{129}{}{I always kind of assumed he'd brought it with him -- and plenty of it, at that. It's not the
- sort of thing you ask a guy, you know. Any more questions?}
-{130}{}{Well, he's a little shady, I guess... but then, so are most people these days. Any other questions?}
-{131}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters
- who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
- more questions?}
-{132}{}{Because I'm the new boss, I'm probably about the only person here who doesn't hate you. What
- can I do for you?}
-{133}{}{I want a job.}
-{134}{}{You skimming off the top?}
-{135}{}{When's the next caravan leave?}
+{127}{}{Tudo bem, até logo então.}
+{128}{}{Como ele é? Bem, ele é amigável, mas meio brusco. Ele é um bom chefe e geralmente justo nós.
+ Ele não nos trata mal nem nada, se é o que quer dizer. Mais alguma pergunta?}
+{129}{}{Sempre achei que ele seria confiável - e muito, na verdade. Não é o tipo de coisa que você 
+ deveria perguntar por aí. Mais alguma pergunta?}
+{130}{}{Bem, tem um ar meio obscuro, eu acho... então, a maioria das pessoas também é hoje em dia. Alguma outra pergunta?}
+{131}{}{Não tenho ideia de qual é sua história. Quero dizer, quase todos nós, guardas de caravana, somos vagabundos
+ que vieram para o trabalho. Imagino que ele é outra pessoa que teve que sair correndo de algum lugar. 
+ Alguma outra pergunta?}
+{132}{}{Como sou o novo chefe, provavelmente sou a única pessoa aqui que não te odeia. O que posso fazer 
+ por você?}
+{133}{}{Eu quero um emprego.}
+{134}{}{Você tem roubado?}
+{135}{}{Quando a próxima caravana sai?}
 {136}{}{Nada, obrigado.}
-{137}{}{Talk to Bill, just like always.}
+{137}{}{Fale com o Bill, como sempre.}
 {138}{}{Tudo bem.}
-{139}{}{After what happened to Chad? I don't think so. Anything else?}
-{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
- earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
+{139}{}{Depois do que aconteceu com Chad? Acho que não. Algo mais?}
+{140}{}{Estamos aqui. Aqui estão seus $500. Se você quiser voltar, saímos no final do dia. Você também 
+ ganhará o dinheiro no caminho de volta, se quiser. De uma forma ou de outra, vamos embora então.}
 {141}{}{Até mais.}
-{142}{}{You ready to leave?}
-{143}{}{Thanks. Here's your $500. You want a new job, talk to Bill.}
-{144}{}{You sick loser! You're gonna die now!}
+{142}{}{Você está pronto para sair?}
+{143}{}{Obrigado. Aqui estão seus $500. Se quiser outro trabalho é só falar com Bill.}
+{144}{}{Perdedor fudido! Você vai morrer agora!}
 {145}{}{Umm...}
-{150}{}{, the caravan guard.}
-{151}{}{. I'm a guard for Bill's caravans. Anything else?}
+{150}{}{, guarda da caravana.}
+{151}{}{. Sou um guarda das caravanas de Bill. Algo mais?}
 {152}{}{.}
-{153}{}{. Should be around here somewhere. Looking for a job?}
-{154}{}{. Good luck working with him. Jerk.}
+{153}{}{. Devia estar por aqui, em algum lugar. Procurando um trabalho?}
+{154}{}{. Boa sorte trabalhando com ele. Idiota.}
 {200}{}{Chad}
 {201}{}{Hatch}
 {202}{}{Stark}

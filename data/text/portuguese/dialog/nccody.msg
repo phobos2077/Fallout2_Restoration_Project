@@ -45,7 +45,7 @@
 {274}{}{Should sell the ungrateful little bastard into slavery... hmmmm, wait a minute...}
 {280}{}{(Cody nods!)}
 {281}{}{(To your surprise, Cody nods.)}
-{282}{}{You see }
+{282}{}{Você vê }
 {283}{}{It good you know where }
 {284}{}{You did?! Can you show me where it is?}
 {286}{}{Well, I was just curious. I'll be back.}

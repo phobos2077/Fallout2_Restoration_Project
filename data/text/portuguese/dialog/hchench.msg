@@ -14,37 +14,37 @@
 {113}{}{You'd think after all this time tryin' to civilize the wasteland we'd be a little closer to our goal.}
 {114}{}{I'm sick of all this human/mutant squabbling. Ain't we supposed to be an example?}
 {115}{}{Whaddya' want? Can't you see I'm resting?}
-{116}{}{When's the next caravan leave?}
+{116}{}{Quando a próxima caravana sai?}
 {117}{}{Patrol, patrol, patrol... all I ever do around here.}
 {118}{}{I think I need a nap.}
 {119}{}{I deserve a raise. This is hazardous duty.}
-{200}{}{Help you?}
-{201}{}{Yes, I'm looking for the caravan master.}
-{202}{}{I was wondering if I could ask you a few questions about Chad.}
+{200}{}{Ajudar você?}
+{201}{}{Sim, estou procurando o mestre da caravana.}
+{202}{}{Gostaria de saber se posso fazer umas perguntas sobre Chad.}
 {203}{}{Quem é você?}
 {204}{}{Não, obrigado.}
 {205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
 {206}{}{I have some more questions.}
 {207}{}{Obrigado. Tchau.}
-{208}{}{You got questions, maybe I got answers. Whaddya wanna know?}
-{209}{}{What's he like?}
-{210}{}{Can he be trusted?}
-{211}{}{Where does he get his money?}
-{212}{}{What's his history?}
-{213}{}{Forget it. See you later.}
-{214}{}{Me? I'm }
-{215}{}{. I'm a guard for Bill's caravans. Anything else?}
-{216}{}{What's he like? Well, he's friendly, but abrasive. He's a good boss, and usually fair to us. He
- doesn't treat us badly or anything, if that's what you mean. Any more questions?}
-{217}{}{Well, he's a little shady, I guess... but then, so are most people these days. Any other questions?}
-{218}{}{I always kind of assumed he'd brought it with him -- and plenty of it, at that. It's not the
- sort of thing you ask a guy, you know. Any more questions?}
-{219}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters
- who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
- more questions?}
+{208}{}{Você tem perguntas, talvez eu tenha respostas. O que você quer saber?}
+{209}{}{Como ele é?}
+{210}{}{Ele é confiável?}
+{211}{}{Onde ele consegue seu dinheiro?}
+{212}{}{Qual é a história dele?}
+{213}{}{Esqueça. Até logo.}
+{214}{}{Eu? Sou }
+{215}{}{. Sou um guarda das caravanas de Bill. Algo mais?}
+{216}{}{Como ele é? Bem, ele é amigável, mas meio brusco. Ele é um bom chefe e geralmente justo nós.
+ Ele não nos trata mal nem nada, se é o que quer dizer. Mais alguma pergunta?}
+{217}{}{Bem, tem um ar meio obscuro, eu acho... então, a maioria das pessoas também é hoje em dia. Alguma outra pergunta?}
+{218}{}{Sempre achei que ele seria confiável - e muito, na verdade. Não é o tipo de coisa que você 
+ deveria perguntar por aí. Mais alguma pergunta?}
+{219}{}{Não tenho ideia de qual é sua história. Quero dizer, quase todos nós, guardas de caravana, somos vagabundos
+ que vieram para o trabalho. Imagino que ele é outra pessoa que teve que sair correndo de algum lugar. 
+ Alguma outra pergunta?}
 {220}{}{Sim.}
 {221}{}{Não.}
-{222}{}{All right. See ya, then.}
+{222}{}{Tudo bem, até logo então.}
 {223}{}{Adeus.}
 {300}{}{Hatch}
 {301}{}{Stark}
@@ -74,6 +74,6 @@
 {411}{}{Mary}
 {412}{}{Julie}
 {413}{}{Sarah}
-{450}{}{You see }
-{451}{}{, the caravan guard.}
+{450}{}{Você vê }
+{451}{}{, guarda da caravana.}
 {2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}

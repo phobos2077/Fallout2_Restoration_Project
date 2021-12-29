@@ -6,7 +6,7 @@
 {105}{}{You give job?}
 {106}{}{I'm looking for a job.}
 {107}{}{I need to buy stuff.}
-{108}{}{What can you tell me about Chad?}
+{108}{}{O que você pode me dizer sobre Chad?}
 {109}{}{Sorry about Chad. He had it coming.}
 {110}{}{Guess your caravan master Chad is in deep shit now.}
 {111}{}{Quem é você?}
@@ -48,7 +48,7 @@
 {142}{}{O que você quer?}
 {143}{}{I'm looking for a job.}
 {144}{}{I need to buy stuff.}
-{145}{}{What can you tell me about Chad?}
+{145}{}{O que você pode me dizer sobre Chad?}
 {146}{}{Sorry about Chad. He had it coming.}
 {147}{}{Guess your caravan master's in deep shit now.}
 {148}{}{Quem é você?}

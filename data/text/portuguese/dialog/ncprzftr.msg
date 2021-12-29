@@ -1,4 +1,4 @@
-{100}{}{You see }
+{100}{}{Você vê }
 {101}{}{.}
 {150}{}{He looks pretty run-of-the-mill.}
 {151}{}{Doesn't look all that tough.}
