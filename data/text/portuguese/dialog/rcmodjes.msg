@@ -9,28 +9,28 @@
  off this place.}
 {108}{}{Deixe-me perguntar-lhe algo mais.}
 {109}{}{Jet? What's Jet?}
-{110}{}{I see. Goodbye.}
+{110}{}{Entendo, adeus.}
 {111}{}{Jet does have its uses. It tends to make one care somewhat less about the surrounding squalor.}
 {112}{}{Deixe-me perguntar-lhe algo mais.}
 {113}{}{Jet? What's Jet?}
-{114}{}{I see. Goodbye.}
+{114}{}{Entendo, adeus.}
 {115}{}{Jet is so expensive lately. It's just criminal. Speaking of which... I hear that our cherished
  Mayor Ascorti is working to get us more Jet. Always a champion of the masses, that man is.}
 {116}{}{Deixe-me perguntar-lhe algo mais.}
 {117}{}{Mayor Asctorti? Who is that exactly?}
 {118}{}{Jet? What's Jet?}
-{119}{}{I see. Goodbye.}
+{119}{}{Entendo, adeus.}
 {120}{}{Seems like everyone's sick. That last batch of Jet had everyone swearing off the stuff. My
  guess is that they'll be back on Jet soon enough, though.}
 {121}{}{Deixe-me perguntar-lhe algo mais.}
 {122}{}{Jet? What's Jet?}
-{123}{}{I see. Goodbye.}
+{123}{}{Entendo, adeus.}
 {124}{}{Looks like I was wrong. Most of the people who were real Jet pilots have sworn off the stuff.
  After that last bad batch, most of us can't so much as smell the stuff without getting sick to our
  stomachs.}
 {125}{}{Deixe-me perguntar-lhe algo mais.}
 {126}{}{Jet? What's Jet?}
-{127}{}{I see. Goodbye.}
+{127}{}{Entendo, adeus.}
 {128}{}{I am... Madame Modjeska. What do you wish of me?}
 {129}{}{Com o que posso ajudar?}
 {130}{}{I don't have time to waste. What do you want of Madame Modjeska?}

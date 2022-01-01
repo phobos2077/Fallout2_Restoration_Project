@@ -44,4 +44,4 @@
 {130}{}{(Max termina de explicar o sistema de travamento uns 5 minutos depois.) Pronto, isso já deve ser o suficiente pra saber como entrar.
  Com essas dicas até um novato pode abrir uma dessas fechaduras. Tenha cuidado agora. Ah, e nunca tivemos essa conversa.}
 {131}{}{Não se preocupe. Muito brigado pela ajuda.}
-{200}{}{You learn about Chad's recent skimming from the Gecko caravans.}
+{200}{}{Você aprende sobre a recente saída de Chad das caravanas Gecko.}

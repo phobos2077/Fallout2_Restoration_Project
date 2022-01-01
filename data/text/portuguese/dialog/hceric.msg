@@ -1,84 +1,84 @@
-{100}{}{You see a greasy, sweating ghoul.}
-{101}{}{You see Eric.}
-{102}{}{You see a greasy, sweating ghoul. He looks quite miserable.}
-{103}{}{Like this town needed any more hard luck. Like *I* needed any more.}
-{104}{}{Come in already! Close the door behind you! Don't let in the flies!}
-{105}{}{Dries? F-f-f!}
-{106}{}{All right, all right. No need to shout.}
-{107}{}{Are you shouting at me?}
-{108}{}{I'll let in all the damn flies I want. Loser.}
-{109}{}{Right. So long.}
-{110}{}{Close the door! Please! Go away and take those damn flies with you!}
+{100}{}{Você vê um ghoul gorduroso e suado.}
+{101}{}{Você vê Eric.}
+{102}{}{Você vê um ghoul gorduroso e suado. Ele parece bastante infeliz.}
+{103}{}{Como se esta cidade precisasse de mais azar. Como se *eu* precisasse de mais.}
+{104}{}{Entra! Feche essa porta direito! Não deixe as moscas entrarem!}
+{105}{}{Moscas? F-f-f!}
+{106}{}{Tudo bem, tudo bem. Não precisa gritar.}
+{107}{}{Você está gritando comigo?}
+{108}{}{Vou deixar entrar tudo que é mosca se eu que quiser. Fracassado.}
+{109}{}{De acordo, até logo.}
+{110}{}{Feche a porta! Por favor! Vá embora e leve essas malditas moscas com você!}
 {111}{}{Tudo bem!}
-{112}{}{Sorry. I'm just a little on edge. All these damn flies and no air conditioning. If I just had a little more power I'd be able to shake 'em... but I don't.}
+{112}{}{Desculpe, estou um pouco nervoso, muitas moscas e nenhum ar condicionado. Se eu tivesse um pouco mais de força, poderia me livrar deles... mas não tenho.}
 {113}{}{Quem é você?}
-{114}{}{How do you get the power?}
-{115}{}{Why are the flies coming here?}
-{116}{}{You could try bathing, you know.}
-{117}{}{Tough luck for you, pal. So long.}
-{118}{}{Hmm. Too bad. So long.}
-{119}{}{There's a power generating station downtown that controls the power to the city. If you could just go there and get permission to give me a little more energy for my air conditioning, I'd be grateful.}
-{120}{}{How grateful? Cash or equipment?}
-{121}{}{Yeah, I'll do it for you.}
-{122}{}{I haven't got time. Maybe later.}
-{123}{}{Are you nuts? No way. Maybe you'll get so miserable you die. Do the world a favor.}
-{124}{}{They come here because for some odd reason I exude fly nutrients. My body is rich with food for them, and this sweating just makes it worse.}
-{125}{}{That's just plain nasty. Why not take a bath or something?}
-{126}{}{Then I'll be doing you a favor by killing you.}
-{127}{}{I see. That's more than I needed to know. Goodbye.}
-{128}{}{I've tried that. I've tried everything. The only thing that keeps the flies off me is not to sweat... and when I don't have enough power to keep cool, I can't.}
+{114}{}{Como você consegue a energia?}
+{115}{}{Por que as moscas estão vindo aqui?}
+{116}{}{Você poderia tentar tomar banho, sabe.}
+{117}{}{Que azar para você hein amigão.}
+{118}{}{Hum, nossa, que pena. }
+{119}{}{Há uma estação geradora de energia que controla a energia da cidade. Se você pudesse apenas ir lá e só pedir permissão para me dar um pouco mais de energia para o meu ar condicionado, eu ficaria grato.}
+{120}{}{Quão grato? Dinheiro ou equipamento?}
+{121}{}{Sim, vou fazer isso por você.}
+{122}{}{Sem tempo, irmão. Talvez mais tarde.}
+{123}{}{Tá loucão? Nada disso. Talvez você fique tão triste que morra. Faça um favor ao mundo.}
+{124}{}{Elas vêm aqui, não me pergunte por que, exalo nutrientes para as moscas. Meu corpo está cheio de comida para eles, e esse suor só piora.}
+{125}{}{Isso é bem desagradável. Não dá pra tomar um banho ou algo assim?}
+{126}{}{Então, estarei te fazendo um favor, matando você.}
+{127}{}{Entendo. Isso é mais do que eu precisava saber. Adeus.}
+{128}{}{Já tentei isso, já tentei de tudo. A única coisa que mantém as moscas longe de mim é não suar... e quando eu não tenho energia suficiente para me refrescar, não consigo.}
 {129}{}{Eu vejo. Eu tenho mais perguntas.}
-{130}{}{I see. Goodbye.}
+{130}{}{Entendo, adeus.}
 {131}{}{Sim?}
-{132}{}{I talked to Brian and he said the power rations are so tight that he can't possibly allow you to increase your share.}
-{133}{}{Where do the flies come from?}
-{134}{}{Have you tried bathing?}
-{135}{}{Where's the power generator?}
+{132}{}{Conversei com Brian e ele disse que as frações de energia são tão ajustadas que ele não pode permitir que você aumente sua parte.}
+{133}{}{De onde vêm as moscas?}
+{134}{}{Você já tentou tomar banho?}
+{135}{}{Onde está o gerador de energia?}
 {136}{}{Quem é você?}
-{137}{}{It's much nicer in here. Comfy?}
+{137}{}{É muito melhor aqui. Confortável?}
 {138}{}{Nada. Esqueça.}
-{139}{}{I could scrape a little something together for you if you did it. I can't promise much, but then, it's not too huge a favor, either.}
-{140}{}{You've got a deal. Just make sure to have something for me when I get your power for you.}
-{141}{}{I'll do it for free. No charge.}
-{142}{}{Forget it. I don't want to do it.}
-{143}{}{Let me think about it.}
-{144}{}{I can't tell you how grateful I am to you. Please let me know as soon as you're done so I can turn up the air conditioning and take a bath.}
-{145}{}{Will do. I had some other questions.}
-{146}{}{Will do. So long.}
-{147}{}{Please don't wait too long for this... I'm getting really sick of all these flies.}
-{148}{}{Sure. I had some other questions.}
-{149}{}{Sure. I'll let you know.}
-{150}{}{Thanks ever so much for your compassion. That's sarcasm, by the way, in case you hadn't noticed. Get the hell out of my house.}
-{151}{}{Why not go to hell and die?}
-{152}{}{So long, fly boy!}
-{153}{}{The power generator's on your left as you come into Broken Hills from the outside world. It's run by a guy named Brian, a lazy son of a bitch who does as little work as possible.}
-{154}{}{Sounds like a real piece of work. Thanks. I have more questions.}
-{155}{}{I see. Well, that's all for now.}
-{156}{}{I'm Eric. I used to run the hotel in town, but I had to sell it because of my fly problem. I also ran the tavern, but had to get out of that, too, for the same reason. Finally, I used to run the generator, but flies kept getting into it.}
-{157}{}{That's an awful lot of jobs. I have more questions.}
-{158}{}{I see. So long!}
-{159}{}{He said that, did he? Well, you tell him that the generator is uranium powered and that the miniscule amount of energy I require would barely register on the generator. And tell him I want my power!}
-{160}{}{Will do! Nice speech!}
-{161}{}{I'll tell him. I have other questions.}
+{139}{}{Eu poderia arranjar alguma coisinha para você como recompensa. Não posso prometer muito, mas também não é um grande favor.}
+{140}{}{Temos um acordo. Apenas se certifique de ter algo para mim quando eu receber a energia para você.}
+{141}{}{Eu farei isso de graça. Sem custo.}
+{142}{}{Esqueça, eu não quero fazer isso.}
+{143}{}{Vou pensar sobre isso.}
+{144}{}{Eu não posso te dizer o quanto sou grato a você. Me de um toque quando terminar para que eu possa ligar o ar condicionado e tomar um banho.}
+{145}{}{Eu farei. Mas eu tenho algumas perguntas.}
+{146}{}{Eu farei, até logo.}
+{147}{}{Por favor, não demore muito com isso... Estou ficando muito cansado de todas essas moscas.}
+{148}{}{Claro. Eu tenho mais umas perguntas.}
+{149}{}{Certo. Eu aviso você.}
+{150}{}{Muito obrigado pela sua compaixão. Ah, isso é sarcasmo, caso você não tenha notado. Cai fora da minha casa.}
+{151}{}{Por que você não morre e vai direto pro capeta?}
+{152}{}{Até logo, senhor das moscas!}
+{153}{}{O gerador de energia está à sua esquerda quando você chega em Broken Hills. É controlado por um cara chamado Brian, um filho da puta preguiçoso que fica vadiando o tempo todo.}
+{154}{}{Parece um trabalho de verdade, obrigado. Eu tenho mais perguntas.}
+{155}{}{Entendo. Bem isso é tudo por agora.}
+{156}{}{Eu sou o Eric. Dirigia o hotel da cidade, mas tive que vendê-lo por causa do meu problema com as mosca. Eu também dirigia a taverna, mas precisei sair dela também, pelo mesmo motivo. Finalmente, eu costumava ligar o gerador, mas as moscas continuam entrando nele.}
+{157}{}{Quantos empregos. Eu tenho mais perguntas.}
+{158}{}{Entendo. Até mais!}
+{159}{}{Ele disse isso, não foi? Bem, diga a ele que o gerador é movido por urânio e que a minúscula quantidade de energia de que preciso mal seria registrada no gerador. E diga a ele que quero minha energia!}
+{160}{}{Farei! Bom discurso!}
+{161}{}{Eu direi a ele. Tenho outras perguntas.}
 {162}{}{Claro. Tchau.}
-{163}{}{You're done with the generator? Thank you so, so much. I can't even begin to describe how grateful I am.}
-{164}{}{The common way to express thanks is through gifts of money or equipment.}
-{165}{}{Don't, then. I'm fine with your thanks.}
-{166}{}{Francis the mutant has a power fist. He keeps betting it in arm-wrestling contests. The problem is being stronger than him. If you're interested, I can give you some pills that should give you the edge over him.}
+{163}{}{Deu certo com o gerador? Muito obrigado. Não consigo nem descrever o quanto sou grato pelo que você fez.}
+{164}{}{A maneira mais comum de agradecer é com uns presentinhos, pode ser dinheiro ou equipamentos.}
+{165}{}{Não precisa, estou feliz com seus agradecimentos.}
+{166}{}{Francis, o mutante, tem um punho de força. Ele continua apostando em competições de queda de braço. O problema é ser mais forte do que ele. Se você estiver interessado, posso lhe dar alguns comprimidos devem te dar uma vantagem sobre ele.}
 {167}{}{Claro.}
-{168}{}{I'd rather have cash, if you have it.}
-{169}{}{I don't want a reward.}
-{170}{}{These pills are called buffouts. They'll increase your strength, but your mind will suffer for a little bit. Don't take too many or you might get hooked. Good luck with the fist!}
+{168}{}{Prefiro dinheiro, se você tiver.}
+{169}{}{Eu não quero uma recompensa.}
+{170}{}{Essas pílulas são chamadas de buffouts. Elas vão aumentar sua força, mas sua mente vai sofrer um pouco. Não tome muitos ou você pode ficar viciado. Boa sorte com o punho!}
 {171}{}{Obrigado! Até mais!}
-{172}{}{Do you think you can help me with my fly problem? I'd be very grateful.}
-{173}{}{How grateful?}
+{172}{}{Você acha que pode me ajudar com o meu problema com as mosca? Eu ficaria muito grato.}
+{173}{}{O quanto agradecido?}
 {174}{}{Claro.}
-{175}{}{Let me think about it.}
-{176}{}{No way in hell.}
-{177}{}{Here's all the money I have... $150. Thank you.}
-{178}{}{No, thank you. So long.}
-{179}{}{Then I'm doubly grateful. Oh... I hear you're looking for a GECK. Try asking around in NCR. It's to the south.}
+{175}{}{Vou pensar sobre isso.}
+{176}{}{De jeito nenhum.}
+{177}{}{Aqui está tudo que tenho... $ 150. Obrigado.}
+{178}{}{Não, obrigado. Adeus.}
+{179}{}{Então, estou duplamente grato. Oh... Ouvi dizer que você está procurando um GECK. Tente perguntar ao redor no NCR, fica ao sul.}
 {180}{}{Valeu! Tchau!}
-{181}{}{Oh yes. The flies have lessened, the air is cool, and I'm less sweaty. Better deal for everyone all around!}
-{182}{}{I'll say. Well, that's all. So long!}
-{183}{}{You see a greasy, sweating man. He looks quite comfortable.}
+{181}{}{Ai sim. As moscas diminuíram, o ar está fresco e estou menos suado. Todo mundo sai ganhando!}
+{182}{}{De acordo. Bom, isso é tudo, até mais!}
+{183}{}{Você vê um homem gorduroso e suado. Ele parece bastante confortável.}

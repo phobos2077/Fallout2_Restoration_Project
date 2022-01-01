@@ -9,29 +9,29 @@
 {108}{}{Same old thing, mostly. All of us miners working jist enough to get our next flight on Jet.}
 {109}{}{Deixe-me perguntar-lhe algo mais.}
 {110}{}{Jet? What's Jet?}
-{111}{}{I see. Goodbye.}
+{111}{}{Entendo, adeus.}
 {112}{}{Well, most of us are workin' our asses off to get enough Jet. Damn price's going up all the
  time now. Hate the way I feel when I'm not flyin' Jet.}
 {113}{}{Deixe-me perguntar-lhe algo mais.}
 {114}{}{Jet? What's Jet?}
-{115}{}{I see. Goodbye.}
+{115}{}{Entendo, adeus.}
 {116}{}{Cain't hardly work enough to get the Jet I need to feel good. Mebbe' we can work somethin' out
  with New Reno, direct like. I heard that Ascorti might be workin' on that.}
 {117}{}{Deixe-me perguntar-lhe algo mais.}
 {118}{}{Asctorti? Who's that?}
 {119}{}{Jet? What's Jet?}
-{120}{}{I see. Goodbye.}
+{120}{}{Entendo, adeus.}
 {121}{}{I don't feel so good lately, and it seems like I ain't alone, neither. I tried to fly more Jet
  but it shore don't seem to help none. I think it's jist makin' me feel worse than ever. I feel lower'n a snake's belly-jist like most of the miners.}
 {122}{}{Deixe-me perguntar-lhe algo mais.}
 {123}{}{Jet? What's Jet?}
-{124}{}{I see. Goodbye.}
+{124}{}{Entendo, adeus.}
 {125}{}{I don't know what happened, but most everyone gave up on Jet after that last batch. I felt like
  we were going to fly Jet to that big airport in the sky. Nobody has much interest in takin' it no more.
  Jist the idea makes us sick.}
 {126}{}{Deixe-me perguntar-lhe algo mais.}
 {127}{}{Jet? What's Jet?}
-{128}{}{I see. Goodbye.}
+{128}{}{Entendo, adeus.}
 {129}{}{Howdy. My name's Athabaska Dick. Mostly people just call me Dick. 'Course, there's some what
  calls me Athabaska. Mostly they just call me Dick, though.}
 {130}{}{Hey there. What can old Athabaska Dick do you for?}

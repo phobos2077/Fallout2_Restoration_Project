@@ -1,10 +1,10 @@
-{100}{}{You see a female human.}
-{101}{}{You see a female townsperson.}
-{102}{}{You see a female townsperson. Though her clothing is not fine, she seems proud of herself.}
-{147}{}{Is nowhere safe now?}
-{148}{}{When did thuggery become so common?}
-{149}{}{I'm thinking about moving... it's not safe here anymore.}
-{150}{}{I heard Franc and Manson are real mutie-haters.}
+{100}{}{Você vê uma mulher.}
+{101}{}{Você vê uma moradora da cidade.}
+{102}{}{Você vê uma moradora da cidade. Embora suas roupas não sejam boas, ela tem um ar de orgulhosa.}
+{147}{}{Não há lugar seguro agora?}
+{148}{}{Quando os bandidos se tornaram algo comum?}
+{149}{}{Estou pensando em me mudar... não é mais seguro aqui.}
+{150}{}{Ouvi dizer que Franc e Manson são verdadeiros odiadores de mutantes.}
 {151}{}{I'm glad they got out... I wonder where they are now.}
 {152}{}{Franc and Manson are poison. This town will never be the same until they're caught again.}
 {153}{}{Who would kill those guards? That's inhuman.}
