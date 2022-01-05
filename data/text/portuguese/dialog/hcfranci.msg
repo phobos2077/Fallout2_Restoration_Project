@@ -1,40 +1,40 @@
-{100}{}{You see a powerfully-built super-mutant. He looks bored.}
-{101}{}{You see Francis, the mutant arm wrestler.}
-{102}{}{You see a powerfully built super-mutant. He is clad in black leather, and boredom is written
- across his face.}
-{103}{}{Help you out with something?}
+{100}{}{Você vê um super mutante bem corpulento. Ele parece entediado.}
+{101}{}{Você vê Francis, o mutante campeão de queda de braço.}
+{102}{}{Você vê um super mutante bem corpulento. Ele está vestido de couro preto e com uma
+ cara de tédio.}
+{103}{}{Posso te ajudar com alguma coisa?}
 {104}{}{Ook! Ook! Eep orp ook!}
-{105}{}{Hoo you?}
-{106}{}{Hey, buddy. Who are you?}
-{107}{}{What's there to do in this place?}
-{108}{}{Are you up for an arm-wrestle, Mr. Iron-Pecs?}
-{109}{}{Pal, I've got no idea what you're trying to say. Sorry.}
-{110}{}{I'm Francis. I'm the arm-wrestling champ of this town. I've got a running bet that no one can
- beat me.}
-{111}{}{I'm Francis, remember? The arm-wrestling champion of the town? I've got a running bet that no one can
- beat me.}
-{112}{}{I beat you! Me! Me!}
-{113}{}{I'll bet you haven't had many takers.}
-{114}{}{I'll bet I could.}
-{115}{}{That good, huh?}
-{116}{}{What's to do in town? Well, let's see... there's the saloon, the mines, the refinery, and the
- caravan. We haven't got much time for fun here, and what we do have, we generally devote to drinking.
- Also, we work on human/mutant relations.}
+{105}{}{Quem você?}
+{106}{}{Fala, fiote. Quem é você?}
+{107}{}{O que tem pra se fazer por aqui?}
+{108}{}{Você está pronto para uma queda de braço, The Rock?}
+{109}{}{Mano, não tenho ideia do que está tentando dizer. Desculpe.}
+{110}{}{Sou Francis, campeão de queda de braço na cidade. Eu mantenho a fama de que ninguém pode 
+ me vencer.}
+{111}{}{Eu sou Francis, lembra? O campeão de queda de braço da cidade? Eu mantenho a fama de que ninguém
+ pode me vencer.}
+{112}{}{Eu te venci! Eu! Eu!}
+{113}{}{Aposto que você não teve muitos candidatos.}
+{114}{}{Aposto que eu poderia.}
+{115}{}{Que bom, huh?}
+{116}{}{O que fazer na cidade? Bem, deixa eu ver... há o salão, as minas, a refinaria e a caravana. Não 
+ temos muito tempo para nos divertir aqui, e o que temos, geralmente gastamos bebendo Além disso, 
+ trabalhamos nas relações humano/mutante.}
 {117}{}{Que... excitante.}
-{118}{}{All right, thanks.}
-{119}{}{Human/mutant relations? What do you mean?}
-{120}{}{I'm always ready. You wanna go?}
-{121}{}{No, I'm just asking for my health.}
-{122}{}{Umm, no.}
-{123}{}{Of course I do.}
-{124}{}{[he sizes you up and gauges your musculature] I don't think so, pal. It'd just be a waste of my time. Piss off.}
-{125}{}{You think you can take me, eh? All right. You win, you get this power fist. I win, and you're
- my gimp for a night. Do you want to do it now, or would you like to take some time to rest up?}
-{126}{}{Rest! Rest!}
-{127}{}{Now. We now!}
-{128}{}{I'd like to rest up first.}
-{129}{}{I'm game for it now.}
-{130}{}{I changed my mind. I don't want to wrestle you.}
+{118}{}{De acordo, obrigado.}
+{119}{}{Relações humano/mutante? Como assim?}
+{120}{}{Eu estou sempre pronto. E você?}
+{121}{}{Não, só penso na minha saúde.}
+{122}{}{Umm, não.}
+{123}{}{Claro que eu posso.}
+{124}{}{[ele avalia você e sua musculatura] Acho que não, amigo. Seria só uma perda de tempo. Não me chateie.}
+{125}{}{Você acha que pode, hein? Muito bem. Se você vencer, você ganha este punho de força. Se eu 
+ vencer, você será meu escravo por uma noite. Quer fazer agora ou quer descansar um pouco?}
+{126}{}{Descanso! Descanso!}
+{127}{}{Agora. Vamos agora!}
+{128}{}{Eu gostaria de descansar primeiro.}
+{129}{}{Estou pronto agora.}
+{130}{}{Eu mudei de ideia. Eu não quero lutar com você.}
 {131}{}{That's the truth. Looks like there's no one in this whole godforsaken wasteland who'll go for it,
  either.}
 {132}{}{Pity, that. If I find anyone, I'll send them your way. Bye.}

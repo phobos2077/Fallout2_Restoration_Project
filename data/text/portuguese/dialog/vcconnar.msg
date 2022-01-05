@@ -53,7 +53,7 @@
 {148}{}{Oooooops...}
 {149}{}{Let me out of here!!!}
 {150}{}{O que foi que eu fiz para você?}
-{151}{}{Help me!}
+{151}{}{Socorro!}
 {152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
  stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
  in or around the bar. He'll know what to do.}

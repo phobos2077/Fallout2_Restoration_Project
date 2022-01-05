@@ -42,7 +42,7 @@
 {167}{}{I hear you were nice and- yeah... for Francis.}
 {168}{}{Me surpreende que você consegue andar.}
 {169}{}{Heh... Francis may be old, but he's still got it!}
-{170}{}{Those poor people.}
+{170}{}{Essas pobres pessoas.}
 {171}{}{Being trapped underneath the ground...}
 {172}{}{I said then, I said, "Jacob and Aileen are trouble. So're Franc and Manson." But would anyone
  listen? Noooooo.}

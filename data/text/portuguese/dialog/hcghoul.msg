@@ -82,6 +82,6 @@
 {178}{}{Those poor, poor people. Their poor families.}
 {180}{}{Não me machucar.}
 {181}{}{Deixe-me sozinho.}
-{182}{}{No! No! No!}
+{182}{}{Não! Não! Não!}
 {183}{}{Eu vou estar indo agora.}
 {184}{}{Leave our town!}

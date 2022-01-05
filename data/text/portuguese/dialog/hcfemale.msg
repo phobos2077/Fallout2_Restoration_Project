@@ -5,86 +5,86 @@
 {148}{}{Quando os bandidos se tornaram algo comum?}
 {149}{}{Estou pensando em me mudar... não é mais seguro aqui.}
 {150}{}{Ouvi dizer que Franc e Manson são verdadeiros odiadores de mutantes.}
-{151}{}{I'm glad they got out... I wonder where they are now.}
-{152}{}{Franc and Manson are poison. This town will never be the same until they're caught again.}
-{153}{}{Who would kill those guards? That's inhuman.}
+{151}{}{Fico feliz por eles terem saído... Queria saber onde eles estão agora.}
+{152}{}{Franc e Manson são venenosos. Esta cidade nunca mais será a mesma enquanto eles não forem pegos.}
+{153}{}{Quem mataria aqueles guardas? Isso é desumano.}
 {154}{}{Eu não posso acreditar que essa cidade costumava ser tão tranquila.}
-{155}{}{How did you manage to convince the guards to let those two bastards out?}
-{156}{}{Thanks for letting out Franc and Manson. They weren't causing any real trouble.}
-{157}{}{Where are Franc and Manson now? They really should be back in jail.}
-{158}{}{Some of my best friends are mutants and ghouls...}
-{159}{}{I wish we had some more lightbulbs.}
+{155}{}{Como você conseguiu convencer os guardas a deixar esses dois desgraçados saírem?}
+{156}{}{Obrigado por liberar Franc e Manson. Eles não estavam causando nenhum problema real.}
+{157}{}{Onde estão Franc e Manson agora? Eles precisam muito voltar para a cadeia.}
+{158}{}{Alguns dos meus melhores amigos são mutantes e ghouls...}
+{159}{}{Eu gostaria de ter mais algumas lâmpadas.}
 {160}{}{Que cheiro é esse?}
-{161}{}{I'm worried that NCR might try to suck us in.}
-{162}{}{Do you think New Reno would be a good place to live?}
-{163}{}{I don't have anything against mutants, but they're so funny looking.}
-{164}{}{I'd tell you "nice work," but you'd probably turn me in.}
-{165}{}{Jacob and Aileen were mutie-haters, huh? They seemed so nice.}
+{161}{}{Estou preocupado que a NCR tente nos enganar.}
+{162}{}{Você acha que New Reno seria um bom lugar para morar?}
+{163}{}{Eu não tenho nada contra mutantes, mas eles têm uma aparência bem zuada.}
+{164}{}{Eu diria "bom trabalho", mas provavelmente você me entregaria.}
+{165}{}{Jacob e Aileen odiavam mutantes, é? Eles pareciam tão legais.}
 {166}{}{Venha... Aileen?}
-{167}{}{I can't believe that human/mutant relations have sunk so low.}
-{168}{}{Marcus must be pissed at the humans now.}
-{169}{}{I think all us humans better just relax and breathe easy for a while.}
-{170}{}{I heard the mutants are getting together to destroy the humans!}
-{171}{}{What do the ghouls think about all this?}
-{172}{}{The mine... destroyed... our homes are worthless now. }
+{167}{}{Eu não posso acreditar que as relações humano/mutante decaíram tanto.}
+{168}{}{Marcus deve estar pistola com os humanos agora.}
+{169}{}{Acho que seria melhor para todos os humanos relaxarem e respirarem calmamente por um tempo.}
+{170}{}{Ouvi dizer que os mutantes estão se reunindo para destruir os humanos!}
+{171}{}{O que os ghouls pensam sobre tudo isso?}
+{172}{}{A mina... destruída ... agora nossas casas não valem nada. }
 {173}{}{Estamos acabados.}
-{174}{}{This is the end of Broken Hills.}
+{174}{}{Esse é o fim de Broken Hills.}
 {175}{}{Eu vou para a NCR.}
-{176}{}{Who would do such a thing?}
-{177}{}{My god... the mine...}
+{176}{}{Quem faria uma coisa dessas?}
+{177}{}{Meu Deus... a mina...}
 {178}{}{Onde está a justiça desse mundo?}
-{179}{}{I guess I'll just kill myself. Without the mine, I can't support myself.}
-{180}{}{Oh, baby... life is hard.}
-{181}{}{Wow... I never knew anyone strong enough to beat Francis.}
+{179}{}{Acho que vou me matar. Sem a mina, não posso me sustentar.}
+{180}{}{Oh querida... a vida é difícil.}
+{181}{}{Uau .. Eu nunca conheci ninguém forte o suficiente para vencer Francis.}
 {182}{}{Você é muito forte!}
 {183}{}{Você é realmente durão, hein?}
-{184}{}{Sometimes I feel like a magic 8-ball. I just spout random sayings and walk away.}
-{185}{}{Have you ever wrestled a deathclaw?}
-{186}{}{Are you as smart as you are strong?}
-{187}{}{Francis sure seems happy lately.}
-{188}{}{Francis has quite a glow. Did he get laid?}
-{189}{}{Hey there, gimp!}
-{190}{}{Still walking straight?}
-{191}{}{Did Francis hurt you?}
-{192}{}{You got a little stain, there.}
-{193}{}{How could you be stupid enough to wrestle Francis for those odds?}
-{194}{}{I hope you enjoyed it as much as Francis did.}
-{195}{}{Those poor people.}
-{196}{}{Who fell down Jacob's ladder?}
-{197}{}{(see other floats from 1)}
-{198}{}{Glad to have you in town.}
-{199}{}{Gonna stick around for a while?}
-{200}{}{I hope you like it here!}
-{201}{}{You're doing a fine job. Ever consider being sheriff?}
-{202}{}{Town seems so much nicer, lately.}
-{203}{}{I think things are finally starting to go our way.}
-{204}{}{Get away from me, scumbag.}
+{184}{}{Às vezes me sinto como uma bola-8 mágica. Eu só falo coisas aleatórias e saio.}
+{185}{}{Você já lutou contra um deathclaw?}
+{186}{}{Você é tão inteligente quanto forte?}
+{187}{}{Francis parece que está feliz ultimamente.}
+{188}{}{Francis parece radiante. Meteu com alguém?}
+{189}{}{Olá, gimp!}
+{190}{}{Você ainda anda ereto?}
+{191}{}{Francis machucou você?}
+{192}{}{Você tem uma pequena mancha aí.}
+{193}{}{Como você pode estúpido ao ponto de lutar contra Francis com suas possibilidades?}
+{194}{}{Espero que você tenha gostado tanto quanto Francis.}
+{195}{}{Essas pobres pessoas.}
+{196}{}{Quem caiu da escada de Jacob?}
+{197}{}{(veja outros flutuadores de 1)}
+{198}{}{Fico feliz em ter você na cidade.}
+{199}{}{Vai ficar um pouco por aqui?}
+{200}{}{Eu espero que você goste disso aqui!}
+{201}{}{Você está fazendo um bom trabalho. Já pensou em ser xerife?}
+{202}{}{Essa cidade parece bem melhor ultimamente.}
+{203}{}{Parece que as coisas finalmente estão começando a se ajustar.}
+{204}{}{Afaste-se de mim, canalha.}
 {205}{}{Eu não me associo com sua espécie.}
 {206}{}{Quem deixou você?}
 {207}{}{Não sei por que não te expulsam da cidade.}
 {208}{}{Por favor, me deixe em paz.}
 {209}{}{Não me incomode.}
-{210}{}{I can't help you. Go away.}
-{211}{}{Die in the desert, jerk.}
+{210}{}{Eu não posso te ajudar. Vá embora.}
+{211}{}{Morra no deserto, idiota.}
 {212}{}{Vá embora.}
-{213}{}{Help me!}
-{214}{}{He's over here!}
+{213}{}{Socorro!}
+{214}{}{Ele está aqui!}
 {215}{}{Aaaaaaaaaaaaah!}
-{216}{}{Traitor!}
-{217}{}{Scumbag!}
+{216}{}{Traidor!}
+{217}{}{Canalha!}
 {218}{}{Deixe-me em paz!}
-{219}{}{No! No! No!}
+{219}{}{Não! Não! Não!}
 {220}{}{Não me toque!}
 {221}{}{Não me machucar!}
-{250}{}{Those poor people.}
-{251}{}{Who fell down Jacob's ladder?}
-{252}{}{Well, look what the desert dragged in.}
-{253}{}{Some of my best friends are mutants and ghouls...}
-{254}{}{I wish we had some more lightbulbs.}
+{250}{}{Essas pobres pessoas.}
+{251}{}{Quem caiu da escada de Jacob?}
+{252}{}{Olha só o que o deserto trouxe.}
+{253}{}{Alguns dos meus melhores amigos são mutantes e ghouls...}
+{254}{}{Eu gostaria de ter mais algumas lâmpadas.}
 {255}{}{Que cheiro é esse?}
-{256}{}{I'm worried that NCR might try to suck us in.}
-{257}{}{Do you think New Reno would be a good place to live?}
-{258}{}{I don't have anything against mutants, but they're so funny looking.}
-{259}{}{Life is hard. Phil's rotgut shouldn't be.}
+{256}{}{Estou preocupado que a NCR tente nos enganar.}
+{257}{}{Você acha que New Reno seria um bom lugar para morar?}
+{258}{}{Eu não tenho nada contra mutantes, mas eles têm uma aparência bem zuada.}
+{259}{}{A vida é dura. O licor barato de Phil não deveria ser.}
 {260}{}{Eu não acredito naquele morfético. }
-{261}{}{My cat's breath smells like cat food.}
+{261}{}{O bafo do meu gato cheira a comida de gato.}
