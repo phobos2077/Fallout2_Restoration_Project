@@ -35,56 +35,55 @@
 {128}{}{Eu gostaria de descansar primeiro.}
 {129}{}{Estou pronto agora.}
 {130}{}{Eu mudei de ideia. Eu não quero lutar com você.}
-{131}{}{That's the truth. Looks like there's no one in this whole godforsaken wasteland who'll go for it,
- either.}
-{132}{}{Pity, that. If I find anyone, I'll send them your way. Bye.}
-{133}{}{Just because you're strong doesn't mean you're smart, pal. Remember that.}
-{134}{}{Buddy, if you don't like it here, there's a whole world outside.}
-{135}{}{No problem. Anything else you need, feel free to ask Phil the bartender or someone else.}
-{136}{}{Buddy, do you want to arm-wrestle or not? I haven't got the time to waste with snotty remarks
- and cowards.}
-{137}{}{Yeah, sure. Let's do it.}
+{131}{}{Essa é a verdade. Parece que não há ninguém em todo este deserto esquecido por Deus que vá atrás 
+ disso.}
+{132}{}{Que pena. Se eu encontrar alguém contarei sobre você. Tchau.}
+{133}{}{Só porque você é forte, não significa que seja inteligente, amigo. Lembre-se disso.}
+{134}{}{Amigo, se você não gosta daqui, tem um mundo inteiro lá fora.}
+{135}{}{Tranquilo. Se precisar de alguma outra coisa pode perguntar ao Phil, o barman, ou a outra pessoa.}
+{136}{}{Cara, você quer uma queda de braço ou não? Não tenho tempo a perder com comentários arrogantes e covardes.}
+{137}{}{Sim claro. Vamos fazer isso.}
 {138}{}{Não, eu não penso assim.}
-{139}{}{You come on back and find me when you're ready, then. I should be around.}
-{140}{}{Get out of here before my stupid brain decides to beat your face in.}
-{141}{}{Backing out, eh? Coward. I figured as much.}
-{142}{}{All right, all right, I'll do it.}
-{143}{}{Yeah, whatever. See ya.}
-{144}{}{Well, pal, that's the first time anyone's ever beaten me in a fair contest. You win. Take this.
- Well done.}
-{145}{}{You lost. No big surprise. Time to come on home with me.}
-{146}{}{I tell you what, buddy, I ain't seen an arm like that in ages. You use that right, you'll go
- far. Enjoy the glove!}
-{147}{}{Didn't you get enough of me before? Do you want to try again? Same deal?}
-{148}{}{Yeah, let's do it.}
+{139}{}{Então volte quando estiver pronto. Eu sempre vou estar por aqui.}
+{140}{}{Saia daqui antes que meu cérebro idiota decida dar um soco na sua cara.}
+{141}{}{Recuando, é? Covarde. Deveria imaginar.}
+{142}{}{Tudo bem, tudo bem, eu faço.}
+{143}{}{Tá bom, tanto faz. Até mais.}
+{144}{}{Bem, cara, é a primeira vez que alguém me vence em uma competição justa. Você ganhou, 
+ pode pegar. Bom trabalho}
+{145}{}{Você perdeu, nenhuma novidade. É hora de voltar para casa comigo.}
+{146}{}{Falando sério, amigo, eu não vejo um braço assim há anos. Se você usar isso direito, vai 
+ longe. Aproveite a luva!}
+{147}{}{Você já não se cansou de mim? Quer tentar novamente? Mesmo negócio?}
+{148}{}{Sim, vamos fazer.}
 {149}{}{Não, desculpe.}
-{150}{}{I've heard about you. I don't associate with scum.}
-{151}{}{Buddy, thanks for stepping in to save our town. Let me buy you a drink.}
-{152}{}{Howdy, hero!}
-{153}{}{Scum! Die!}
-{154}{}{You may've noticed that we got both mutants and humans in the city. We're trying to work it so
- that we all live in peace. Unfortunately, there are some who want to destroy that. Our leader, Marcus,
- helped found the city. Do you want to hear more?}
-{155}{}{Yeah, tell me more.}
-{156}{}{No, not really.}
-{157}{}{Frankly, I think you mutants are scum and these humans are traitors for working with you.}
-{158}{}{Sometimes I worry about the people here... it's too hard for some of them to get past their
- fear. Word has it there's a shit storm coming down the pike - but that might just be rumor.}
+{150}{}{Já ouvi falar de você. Eu não me misturo essa com gentalha.}
+{151}{}{Amigo, obrigado por intervir e salvar nossa cidade. Deixe eu te pagar uma bebida.}
+{152}{}{Fala, herói!}
+{153}{}{Escória! Morra!}
+{154}{}{Você deve ter notado que temos mutantes e humanos pela cidade. Estamos trabalhando para que 
+ nós vivamos em paz. Infelizmente, existem os que querem destruir isso. Nosso líder, Marcus, 
+ ajudou a fundar a cidade. Você quer ouvir mais?}
+{155}{}{Sim, me conte mais.}
+{156}{}{Não, deixa pra lá.}
+{157}{}{Na moralzinha, acho que mutantes são o lixo do mundo e esses humanos são uns traidores que trabalham com vocês.}
+{158}{}{Às vezes me preocupo com as pessoas daqui... é muito difícil para algumas delas superarem o 
+ medo. Dizem que tem uma grande tempestade de merda se aproximando... torço para que seja mais um rumor.}
 {159}{}{Obrigado. Tchau.}
-{160}{}{All right. Well, if you need any more information, you know where to find me.}
-{161}{}{Sure. Thanks. Bye.}
-{162}{}{Really? That's a fascinating attitude. Too bad we didn't crush your village when we controlled
- the wasteland. Get out of my sight, worm.}
+{160}{}{Certo. Bem, se precisar de mais informações, você sabe onde me encontrar.}
+{161}{}{Certo, obrigado. Tchau.}
+{162}{}{Sério? Essa é uma atitude fascinante. Pena que não metemos fogo na sua aldeia enquanto 
+ controlávamos o deserto. Sai da minha frente, verme.}
 {200}{}{[FEITO]}
 {201}{}{Adeus.}
 {202}{}{Obrigado. Tchau.}
 {203}{}{[MAIS]}
-{204}{}{Sure. Thanks. Bye.}
-{300}{}{Pal, I don't think you'd know how to use what I've got to offer. Come back when you've got a
- little more experience under your belt.}
-{301}{}{You see a powerfully-built super-mutant. He is clad in black leather, and boredom is written
- across his face. He seems to have a massive gauntlet of some sort poking out of his pouch.}
-{302}{}{You feel sore. You seem to be carrying a memento of your visit with Francis.}
+{204}{}{Certo, obrigado. Tchau.}
+{300}{}{Cara, acho que você não saberia usar o que tenho a oferecer. Volte quando você tiver um um 
+ pouco mais de experiência em seu currículo.}
+{301}{}{Você vê um super mutante muito corpulento. Ele está vestido de couro preto, possuí uma expressão 
+ de tédio estampada em seu rosto. Parece ter algum tipo de manopla saindo de sua bolsa.}
+{302}{}{Você se sente dolorido. Parece que as lembranças de sua visita à Francis vão demorar para saírem.}
 {400}{}{Urrggghh!}
 {401}{}{Arrrrr!}
 {402}{}{Aiiigggggg.}
@@ -92,47 +91,47 @@
 {404}{}{Hagggahhhaaaggga.}
 {405}{}{Hominahominahomina.}
 {406}{}{Eeeeeccchhhh.}
-{407}{}{Grunt!}
+{407}{}{Grrr!}
 {408}{}{Groan!}
 {409}{}{Ai!}
-{410}{}{Ow! My arm!}
-{411}{}{Ha ha! Gotcha!}
-{500}{}{Over the top, Francis! Over the top!}
-{501}{}{Man, that's what I call an ARMs race! Hahahah!}
-{502}{}{Geez, you guys should join the ARMy. Har Har Har!}
-{503}{}{I gotta HAND it to you, friend. You're WRISTing your life trying to beat Francis!}
-{504}{}{Ouch! Right in the metacarpals!}
-{505}{}{Hey, Francis! You should TRICEP-arating the arm from the shoulder.}
-{506}{}{This fight sure is HUMERUS! Guffaw Guffaw!}
-{507}{}{Use your clavicle, Francis! Use your clavicle!}
-{508}{}{Uh oh... I'd better get out of 'ARM's way! Ha ha ha!}
-{509}{}{Look at them biceps go!}
-{510}{}{I think I hear a tendon getting ready to pop...}
-{511}{}{You know, a simple calculation of mass ratio would seem to favor Francis.}
+{410}{}{Ah! Meu braço!}
+{411}{}{Ha ha! Te peguei!}
+{500}{}{De primeira, Francis! De primeira!}
+{501}{}{Cara, isso é o que eu chamo de uma munheca preciosa! Hahaha!}
+{502}{}{Eita, da pra fazer um campeonato de punheta com esses braços aqui. Har Har Har!}
+{503}{}{Vou ter que te ajudar, amigo. Você está saindo do controle tentando vencer Francis!}
+{504}{}{Ai! Bem nos metacarpos!}
+{505}{}{Ei, Francis! Mão forte com esse.}
+{506}{}{Eles teriam que lhe dar uma MÃO nessa luta! Ho ho ho ho!}
+{507}{}{Use sua clavícula, Francis! Use sua clavícula!}
+{508}{}{Oh, oh... É melhor eu colocar meus cotovelos nele! hahaha!}
+{509}{}{Olhe para esses bíceps!}
+{510}{}{Acho que ouvi um tendão se preparando para estourar...}
+{511}{}{Eu diria que um cálculo simples da proporção da massa está favorecendo Francis.}
 {512}{}{Francis! Fran-CIS! FRAN-CIS!}
-{513}{}{Lick 'em, Francis! No, not with your tongue!}
-{530}{}{All right Francis! You sure SHOULD-ER!}
-{531}{}{Way to go Francis!}
-{532}{}{Whoa! I've never seen that happen before!}
-{599}{}{I found a note in the tunnels with the names Francis and Zaius on it. Looks like you've been committing some crimes.}
-{600}{}{Damn it. Zaius left notes lying out again, eh? Well, human, let me tell you this: I
- knew there are people trying to kill mutants in this town, and I knew that Marcus would only
- arrest them with evidence. I just wanted to make it happen with as little bloodshed as possible.}
-{601}{}{So you killed innocents, huh?}
-{602}{}{Sure. So what do you propose to do about it?}
-{603}{}{Innocents? Ha! The people I killed were trying to kill ME! I just returned the favor
-  and made sure their deaths served another purpose - one that might further the cause of peace.}
-{604}{}{But this way you're still nothing more than a criminal and a murderer - and I only
- have your word that there's a conspiracy.}
-{605}{}{The only thing that'll satisfy the cause of peace is for all the murderers to die.
- And I'm going to do my part by killing you.}
-{606}{}{If you talked to some of the people in town about your hatred of mutants,
-  you'd find out about the conspiracy. I know two wrongs don't make a right, but I call it self-defense.
- I did something wrong, and I admit it. I can't stay here. I'll set out to find a way to atone for my actions...
- That satisfy your sense of justice?}
-{607}{}{It'll have to.}
-{608}{}{No, it doesn't. I'm going to kill you myself.}
-{700}{}{You beat Francis at armwrestling.}
+{513}{}{Fode com eles, Francis! Mas não literalmente!}
+{530}{}{Muito bem, Francis! Você tem uma MÃO santa para isso!}
+{531}{}{Muito bem, Francis!}
+{532}{}{Uau! Eu nunca vi isso acontecer antes!}
+{599}{}{Encontrei um bilhete nos túneis com os nomes Francis e Zaius. Parece que você está cometendo alguns crimes.}
+{600}{}{Droga. Zaius largou as notas de novo, Huh? Bem, humano, deixe eu te falar uma 
+ coisa: eu sabia que tinha pessoas tentando matar mutantes nesta cidade, e eu sabia que Marcus 
+ só iria prendê-los com evidências. Eu só queria fazer isso acontecer com o mínimo de derramamento de sangue possível.}
+{601}{}{Então você matou inocentes, certo?}
+{602}{}{Desde já. E o que você propõe fazer a respeito?}
+{603}{}{Inocentes? Ha! As pessoas que matei estavam tentando me matar! Acabei de 
+ retribuir o favor e me certificar de que suas mortes servirão a outro propósito - um que possa promover a paz.}
+{604}{}{Mas assim você ainda não passa de um criminoso e assassino - e só tenho a tua palavra 
+ de que existe uma conspiração.}
+{605}{}{A única coisa que satisfará a causa da paz é a morte de todos os assassinos. E eu 
+ vou fazer minha parte te matando.}
+{606}{}{Se você falasse com algumas pessoas da cidade sobre seu ódio aos mutantes, 
+  você descobriria sobre a conspiração. Eu sei que dois erros não fazem um certo, mas eu chamo isso de 
+ legítima defesa. Fiz algo errado e admito. Eu não posso ficar aqui. Vou tentar encontrar uma maneira de expiar 
+ minhas ações... Isso satisfaz seu senso de justiça?}
+{607}{}{Terá que ser.}
+{608}{}{Não, não importa. Eu mesmo vou te matar.}
+{700}{}{Você vence Francis na queda de braços.}
 {701}{}{You confronted Francis about the note to Zaius.}
 {800}{}{(Looking at the massive mutant, you realize you wouldn't have
  stood a chance. Time to walk away while you've still got your dignity.)}
