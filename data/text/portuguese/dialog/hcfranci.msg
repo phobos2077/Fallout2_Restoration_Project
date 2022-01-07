@@ -132,6 +132,6 @@
 {607}{}{Terá que ser.}
 {608}{}{Não, não importa. Eu mesmo vou te matar.}
 {700}{}{Você vence Francis na queda de braços.}
-{701}{}{You confronted Francis about the note to Zaius.}
-{800}{}{(Looking at the massive mutant, you realize you wouldn't have
- stood a chance. Time to walk away while you've still got your dignity.)}
+{701}{}{Você confrontou Francis sobre o bilhete para Zaius.}
+{800}{}{(Olhando para o enorme mutante, você percebe que não teria
+ nenhuma chance. É hora de sair vazado enquanto você ainda tem sua dignidade.)}

@@ -1,70 +1,70 @@
-{100}{}{You see a weird mutant thing, with splotchy skin and a ghastly smile.}
-{101}{}{You see a ghoul townsperson.}
-{102}{}{You see a ghoul. Its skin looks like it's ready to slough off the creature. It also looks like
- it's readily accepted by the other townsfolk.}
-{103}{}{Refinery work is tough.}
-{104}{}{The mutants and humans seem to be on edge lately.}
-{105}{}{I don't like working near acid.}
-{106}{}{This town is getting too full lately, it seems.}
-{107}{}{Humans ain't all bad.}
-{108}{}{Welcome to Broken Hills.}
-{109}{}{Where'd Hank go? Has anyone seen Hank?}
-{110}{}{We've worked hard to make Broken Hills what it is today.}
-{111}{}{When's the next meal, anyway?}
-{112}{}{Chad got arrested? The humans should be ashamed of themselves.}
-{113}{}{Not all humans are like Chad.}
-{114}{}{Bummer about Chad, man.}
-{115}{}{I wonder if I can get in on that caravan action...}
-{116}{}{Where'd Hank go? Has anyone seen Hank?}
-{117}{}{We've worked hard to make Broken Hills what it is today.}
-{118}{}{When's the next meal, anyway?}
-{119}{}{You don't need a weatherman to know which way the wind blows.}
+{100}{}{Você vê uma mutante bem estranho, tem a pele manchada e um sorriso medonho.}
+{101}{}{Você vê um ghoul da cidade.}
+{102}{}{Você vê um ghoul. Sua pele parece que está pronta para se desprender da criatura. Também 
+ parece que é prontamente aceito pelos outros habitantes da cidade.}
+{103}{}{O trabalho da refinaria é difícil.}
+{104}{}{Os mutantes e humanos parecem parecem não estar se suportando.}
+{105}{}{Não gosto de trabalhar perto de ácido.}
+{106}{}{Parece que está cidade está ficando muito cheia.}
+{107}{}{Os humanos não são todos ruins.}
+{108}{}{Bem vindo a Broken Hills.}
+{109}{}{Para onde foi Hank? Alguém viu o Hank?}
+{110}{}{Trabalhamos muito para fazer de Broken Hills o que ela é hoje.}
+{111}{}{Quando é a próxima refeição, afinal?}
+{112}{}{Chad foi preso? Os humanos deveriam ter vergonha de si mesmos.}
+{113}{}{Nem todos os humanos são como Chad.}
+{114}{}{Que chato esse negócio com Chad, cara.}
+{115}{}{Me pergunto se eu posso fazer parte dessa questão da caravana...}
+{116}{}{Para onde foi Hank? Alguém viu o Hank?}
+{117}{}{Trabalhamos muito para fazer de Broken Hills o que ela é hoje.}
+{118}{}{Quando é a próxima refeição, afinal?}
+{119}{}{Você não precisa de um meteorologista para saber de que lado sopra o vento.}
 {120}{}{Pare! Ei... Que som é esse?}
-{121}{}{Down with the oppressors!}
-{122}{}{How could you kill Chad like that?}
-{123}{}{What, was Chad violently resisting arrest or something?}
-{124}{}{I see a dark day for Broken Hills.}
-{125}{}{Chad got what was coming to him.}
-{126}{}{Let the punishment fit the crime.}
-{127}{}{Poor Chad. At least he didn't have a family.}
-{128}{}{The humans are pissed about Chad.}
-{129}{}{The mutants better look out... the humans might want revenge for Chad.}
-{130}{}{Who would do such a monstrous thing?}
-{131}{}{With the mutants gone, we are truly defenseless against raiders.}
-{132}{}{Marcus... Zaius... Francis... all the rest... gone...}
-{133}{}{The future is grim.}
-{134}{}{Was it the humans who did this? Was it Cameron?}
-{135}{}{Who shall lead us now that Marcus is gone?}
-{136}{}{Where can we turn for shelter now?}
-{137}{}{Those NCR bastards. They'd better not come here anymore, not if they know what's good for them.}
-{138}{}{I wonder if OUR humans were behind this...}
-{139}{}{Thank you for saving the mutants.}
-{140}{}{We ought to lynch the bastard who tried to poison our mutants.}
-{141}{}{So much is happening... it's making my head spin...}
-{142}{}{I probably ought to get back to work.}
-{143}{}{Who would have let those two ne'er-do-wells out? Killing guards, too... Marcus must be pissed.}
-{144}{}{There's some bloody business going on in town.}
-{145}{}{Have you noticed that the town smells like trouble lately?}
-{146}{}{I thought this would be a peaceful place to settle down. Seems I was wrong.}
-{147}{}{Who'da thought that sort of violence could come to Broken Hills?}
-{148}{}{Franc and Manson... someone's got a death-wish for the mutants.}
-{149}{}{How could you let those two out of jail?}
-{150}{}{You should be ashamed of yourself.}
-{151}{}{I hope you're right that Franc and Manson don't pose a threat... the mutants will blame you for
- it.}
-{152}{}{Franc and Manson... back in society... hoo boy. Maybe I'll leave town.}
-{153}{}{There's some bloody business going on in town.}
-{154}{}{Have you noticed that the town smells like trouble lately?}
-{155}{}{Well done on bringing those jerks to justice!}
-{156}{}{I always thought Jacob was a little strange.}
-{157}{}{That'll teach the humans that they can't flaunt the laws.}
-{158}{}{Come on... Aileen? I don't believe she'd do it.}
-{159}{}{What a blow to the humans! They're very ashamed of themselves right now. Very defensive.}
-{160}{}{Will Broken Hills ever be able to mend the rift between humans and mutants?}
-{161}{}{Those bastards, Jacob and Aileen, always treated me like a second-class citizen. This'll teach 'em.}
-{162}{}{I don't think Broken Hills will ever recover from the loss of the mine...}
+{121}{}{Abaixo aos opressores!}
+{122}{}{Como pôde matar Chad assim?}
+{123}{}{O quê, Chad estava resistindo violentamente à prisão ou algo assim?}
+{124}{}{Vejo um dia sombrio para Broken Hills.}
+{125}{}{Chad conseguiu o que procurava.}
+{126}{}{Que a punição seja justa com o crime.}
+{127}{}{Pobre Chad. Ainda bem que ele não tinha família.}
+{128}{}{Os humanos estão putos por causa de Chad.}
+{129}{}{É melhor os mutantes ficarem ligeiros... os humanos podem querer vingar Chad.}
+{130}{}{Quem faria uma coisa tão perversa?}
+{131}{}{Com os mutantes mortos, estamos totalmente indefesos contra invasores.}
+{132}{}{Marcus... Zaius... Francis... todos... se foram...}
+{133}{}{O futuro é sombrio.}
+{134}{}{Foram os humanos que fizeram isso? Foi Cameron?}
+{135}{}{Quem deve nos liderar agora que Marcus se foi?}
+{136}{}{Onde poderemos encontrar abrigo agora?}
+{137}{}{Esses palhaços da NCR. É melhor eles não virem mais aqui, se não eles vão saber o que é bom para eles.}
+{138}{}{Eu me pergunto se NOSSOS humanos estão por trás disso...}
+{139}{}{Obrigado por salvar os mutantes.}
+{140}{}{Devíamos linchar o infeliz que tentou envenenar nossos mutantes.}
+{141}{}{Tanta coisa está acontecendo... está me dando dor de cabeça...}
+{142}{}{Acho que eu devia voltar ao trabalho.}
+{143}{}{Quem deixou esses dois bandidos saírem? Mataram os guardas também... Marcus deve estar puto.}
+{144}{}{Vai se criando um clima terrível na cidade.}
+{145}{}{Você reparou que ultimamente a cidade só cheira a problemas?}
+{146}{}{Achei que este seria um lugar tranquilo para morar... Parece que me enganei.}
+{147}{}{Quem pensaria que Broken Hills chegaria nesse nível de violência?}
+{148}{}{Franc e Manson... alguém deseja a morte dos mutantes.}
+{149}{}{Como você pôde tirar aqueles dois da prisão?}
+{150}{}{Você deveria ter vergonha da sua cara.}
+{151}{}{Espero que você tenha certeza que Franc e Manson não são nenhuma ameaça... os mutantes vão 
+ culpar você por isto.}
+{152}{}{Franc e Manson... de volta à sociedade... hoo, meu chapa. Talvez eu saia da cidade.}
+{153}{}{Vai se criando um clima terrível na cidade.}
+{154}{}{Você reparou que ultimamente a cidade só cheira a problemas?}
+{155}{}{Parabéns por trazer aqueles idiotas à justiça!}
+{156}{}{Sempre achei Jacob um pouco estranho.}
+{157}{}{Isso vai ensinar aos humanos que eles não podem tomar conta das leis.}
+{158}{}{Vamos... Aileen? Eu não acredito que ela faria isso.}
+{159}{}{Que soco na cara dos humanos! Eles estão envergonhados de si mesmos. Ficaram na defensiva.}
+{160}{}{Será que Broken Hills algum dia será capaz de acabar com essa disputa entre humanos e mutantes?}
+{161}{}{Aqueles malditos, Jacob e Aileen, sempre me trataram como um cidadão de segunda classe. Isso os ensinará.}
+{162}{}{Não acho que Broken Hills jamais se recuperará da perda da mina...}
 {163}{}{Todos os mutantes... Mortos...}
-{164}{}{... now we'll never know if we could have made peace between the mutants and the humans...}
+{164}{}{...agora nunca saberemos se poderíamos ter feito as pazes entre os mutantes e os humanos...}
 {165}{}{Time to head out and see what the rest of the world has to offer... ain't worth it to dig
  out the mines.}
 {166}{}{I wonder if anywhere else in California needs uranium refiners?}

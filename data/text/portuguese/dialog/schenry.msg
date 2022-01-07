@@ -2,7 +2,7 @@
 {101}{}{It's Dr. Henry.}
 {102}{}{This guy is so out of place it's painful. He's got that egghead, not living in the real world air about him, that's for sure.}
 {103}{}{Excuse me, I'm Dr. Henry and I'm very busy. What do you want?}
-{104}{}{You again? What do you want?}
+{104}{}{Você de novo? O que você quer?}
 {105}{}{Hurgh.}
 {106}{}{Eu sou}
 {107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand 'em over and nobody gets hurt.}

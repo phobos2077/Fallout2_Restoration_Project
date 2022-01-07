@@ -1,64 +1,64 @@
-{100}{}{You see a scruffy, dirty, angry man.}
-{101}{}{You see Franc, one of the local mutant haters.}
-{102}{}{You see a scruffy, dirty, angry man, who looks like he'd appreciate nothing more than putting a
- bullet in someone's head. He carries himself like a rabid animal.}
-{103}{}{Whadda you want?}
-{104}{}{Aggggg! ::drool::}
-{105}{}{You! Me! Go!}
+{100}{}{Você vê um homem desalinhado, sujo e zangado.}
+{101}{}{Você vê Franc, um dos anti-mutantes locais.}
+{102}{}{Você vê um homem desalinhado, sujo e zangado, que parece que não apreciaria nada mais do que 
+ colocar uma bala na cabeça de alguém. Ele se comporta como um animal raivoso.}
+{103}{}{O que você quer?}
+{104}{}{Aggggg! ::babar::}
+{105}{}{Você! Eu! Vamos!}
 {106}{}{Quem é você?}
 {107}{}{Por que você está na prisão?}
 {108}{}{O que você pode me dizer sobre este lugar?}
-{109}{}{What can you tell me about Marcus?}
-{110}{}{I got no idea what you're saying, freak. Get out of my sight.}
+{109}{}{O que você pode me dizer sobre Marcus?}
+{110}{}{Não tenho ideia do que você está dizendo, aberração. Saia da minha frente.}
 {111}{}{Oooooh...}
-{112}{}{I'm Franc. I'd ask who you are, but I don't care.}
-{113}{}{Oh, a tough guy, eh?}
-{114}{}{That's okay. I don't care who you are, either.}
+{112}{}{Sou franc Eu até perguntaria quem você é, mas não me importo.}
+{113}{}{Oh, um cara durão, é?}
+{114}{}{Tudo bem. Eu também não me importo com quem você é.}
 {115}{}{Sim, tanto faz. Tchau.}
-{116}{}{I'm here because the "man" who runs this place from behind the scenes doesn't trust me and what
- I'm telling the people of this town. I'm giving the truth about mutants and Marcus doesn't like it.
- I'm being silenced for my beliefs.}
-{117}{}{Sounds harsh.}
-{118}{}{Or maybe it's because you're a hatemonger who's trying to scare people into taking out people
- who are different?}
-{119}{}{Yeah, that's interesting. What can you tell me about Broken Hills?}
-{120}{}{Suuuure. What can you tell me about Marcus?}
-{121}{}{Oookay. Bye.}
-{122}{}{Place used to be a paradise. Then the mutants came and turned it into a shithole. Now we're all
- expected to forget about the past and live peaceful with 'em. Not me! Live free or die!}
-{123}{}{Not quite what I was looking for, but thanks anyway. What can you tell me about Marcus?}
-{124}{}{Umm, okay. So long.}
-{125}{}{Marcus tells everyone he helped discover the city. He didn't. It was humans here first, and him
- and his crowd moved in and took over and expected ever'one else to bend over and let the mutants give
- it to 'em. Marcus is the ringleader of that whole circus.}
-{126}{}{You're really crazy, I think.}
-{127}{}{Damn mutants. Just as I thought.}
-{128}{}{Yeah, I am a tough guy. If I weren't in jail, I'd prove it to you. You think you're tough?
- Think you can prove it, loser?}
+{116}{}{Estou aqui porque o "homem" que dirige este lugar nos bastidores não confia em mim e no 
+ que estou dizendo aos habitantes da cidade. Estou contando a verdade sobre mutantes e Marcus 
+ não gosta disso. Estão me boicotado por causa das minhas crenças.}
+{117}{}{Parece duro.}
+{118}{}{Ou talvez seja porque você está criando ódio e tentando assustar as pessoas para que elas eliminem 
+ aquelas que são diferentes de você?}
+{119}{}{Sim, isso é interessante. O que você pode me dizer sobre Broken Hills?}
+{120}{}{Claaaaro. O que você pode me dizer sobre Marcus?}
+{121}{}{Oookay. Tchau.}
+{122}{}{O lugar costumava ser um paraíso. Então os mutantes vieram e o transformaram em um poço de 
+ merda. Agora, se espera que todos nós esqueçamos o passado e vivamos em paz com eles. Eu não! Viva livre ou morra!}
+{123}{}{Não era bem o que eu estava procurando, mas obrigado de qualquer maneira. O que você pode me dizer sobre Marcus?}
+{124}{}{Umm, ok. Até logo.}
+{125}{}{Marcus conta a todos que ajudou a descobrir a cidade. Fez nada. Tinham humanos aqui primeiro, e 
+ ele e sua turma entraram e assumiram o controle, agora  esperam que todo mundo se fiquem na boa 
+ e deixem os mutantes em paz. Marcus é o líder de todo esse circo.}
+{126}{}{Eu acho que você está bem louco.}
+{127}{}{Malditos mutantes. Assim como eu pensei.}
+{128}{}{Sim, sou um cara durão. Se eu não estivesse na prisão, provaria isso a você. Você acha 
+ que é durão? Acha que pode mostrar, perdedor?}
 {129}{}{Claro.}
-{130}{}{I don't have anything to prove to you, lowlife.}
-{131}{}{Get the hell out of my sight, you jerk! I'd kill you if I had the chance!}
+{130}{}{Eu não tenho que provar nada a você, retardado.}
+{131}{}{Saia da minha frente seu idiota! Se pudesse, eu te mataria!}
 {132}{}{Adeus.}
-{133}{}{The law 'round here is based on mutant love. Do you hate mutants?}
+{133}{}{A lei por aqui é baseada no amor aos mutante. Você odeia mutantes?}
 {134}{}{Sim.}
 {135}{}{Não.}
-{136}{}{Yeah? Then go talk to Jacob, the chemist. I'll catch you later.}
-{137}{}{Mutie-lover! Get outta here! I don't want to breathe the same air as you!}
-{138}{}{You again? What do you want?}
+{136}{}{Sim? Então vá falar com Jacob, o químico. Nos veremos mais tarde.}
+{137}{}{Amante de mutantes! Saia daqui! Não quero respirar o mesmo ar que você!}
+{138}{}{Você de novo? O que você quer?}
 {139}{}{Me fale sobre Broken Hills.}
-{140}{}{Tell me about Marcus.}
+{140}{}{Conte-me sobre Marcus.}
 {141}{}{Por que você está na prisão?}
-{142}{}{You talked to Jacob? What are you waiting for? Get us outta here!}
-{143}{}{Thanks for gettin' us outta there. Too bad we didn't get t' kill anyone before we left.}
-{144}{}{Ha! Killin' those muties was almost worth being in the slammer!}
-{145}{}{Just set up the explosive switch, and we'll do the rest.}
-{146}{}{Great work, pal. We're gettin' outta town. You probably oughta, too. So long!}
-{147}{}{You went and screwed that all up! You gotta die now, pal!}
-{148}{}{Lets' get out of here.}
-{149}{}{Nutting. ByeBye.}
+{142}{}{Você falou com Jacob? O que está esperando? Nos tire daqui!}
+{143}{}{Obrigado por nos tirar de lá. Pena que não conseguimos matar ninguém antes de sairmos.}
+{144}{}{Ha! Matar aqueles mutantes quase valeu o tempo que eu fiquei na cadeia!}
+{145}{}{É só colocar o detonador e nós faremos o resto.}
+{146}{}{Bom trabalho, amigo. Estamos saindo da cidade. Você provavelmente também deveria. Até logo!}
+{147}{}{Você entrou e estragou tudo! Hora de morrer, colega!}
+{148}{}{Vamos sair daqui.}
+{149}{}{N-ada. Tchau tchau.}
 {150}{}{Deixa pra lá. Tchau.}
-{151}{}{This ain't justice. You oughta be ashamed of yourself.}
+{151}{}{Isso não é justiça. Você deveria ter vergonha de si mesmo.}
 {152}{}{Valeu pela ajuda. Vamo' falar com o Jacob e a Aileen.}
 {153}{}{Você realizou a fuga com sucesso.}
-{154}{}{Thanks for your help in the slammer, stranger.}
+{154}{}{Obrigado pela ajuda no trem, estranho.}
 {155}{}{Não há problema.}

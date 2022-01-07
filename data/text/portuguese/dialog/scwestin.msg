@@ -2,7 +2,7 @@
 {101}{}{It's Councilor Westin.}
 {102}{}{Silver and turquoise rings, silver belt buckle, pistol at his side, this guy's clearly used to having money and having his own way.}
 {103}{}{I'm Roger Westin and you can't come barging in here. What do you want?}
-{104}{}{You again? What do you want?}
+{104}{}{Você de novo? O que você quer?}
 {105}{}{O que você quer?}
 {106}{}{Dã…}
 {107}{}{Eu estou procurando a Vault 13. Você pode me ajudar?}

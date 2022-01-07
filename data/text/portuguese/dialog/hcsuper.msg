@@ -1,7 +1,7 @@
 {100}{}{You see a weird mutant thing with splotchy skin and a ghastly smile.}
 {101}{}{You see the refinery supervisor.}
-{102}{}{You see a ghoul. Its skin looks like it's ready to slough off the creature. It also looks like
- it's readily accepted by the other townsfolk.}
+{102}{}{Você vê um ghoul. Sua pele parece que está pronta para se desprender da criatura. Também 
+ parece que é prontamente aceito pelos outros habitantes da cidade.}
 {103}{}{Você não deveria estar aqui!}
 {104}{}{O que você quer?}
 {105}{}{Da yagga! Eep oop op!}
