@@ -1,11 +1,11 @@
-{100}{}{You see a dirty-looking mutant.}
-{101}{}{He's wearing a sweat-stained button-down dress shirt with a yellowed undershirt beneath. He seems to be waiting for something.}
-{102}{}{You see an annoyed-looking female mutant.}
-{103}{}{She's wearing a stained apron with a poodle on it. There are pink, plastic curlers in her hair.}
-{104}{}{Where's my freakin' brahmin pot pie, woman?!}
-{105}{}{Go easy on the pepper this time, you cow!}
-{106}{}{Where were you last night?!}
-{107}{}{Where's my Cat's Paw? You threw it out again, didn't you?}
+{100}{}{Você vê um mutante de aparência suja.}
+{101}{}{Ele está vestindo uma camisa de botão manchada com suor e com uma camiseta amarela por baixo. Ele parece estar esperando por algo.}
+{102}{}{Você vê uma mutante feminina de aparência irritada.}
+{103}{}{Ela usa um avental manchado com o desenho de um poodle. Também usa bobs rosa no cabelo.}
+{104}{}{Onde está minha torta de brahmin, mulher?!}
+{105}{}{Vá com calma com a pimenta desta vez, vadia!}
+{106}{}{Onde você estava ontem à noite?!}
+{107}{}{Onde está minha revista Cat's Claw? Você jogou fora de novo, não foi?}
 {108}{}{**Phhhhhhhttttttt**}
 {109}{}{Zaius at the mine says he may have some work for me next month.}
 {110}{}{This place it a damn mess! When are you gonna' get to cleanin', woman?}

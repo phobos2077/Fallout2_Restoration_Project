@@ -1,30 +1,30 @@
-{100}{}{You see a person carrying a powerful weapon.}
-{101}{}{You see a member of Broken Hills' trading and protection corps.}
-{102}{}{You see a person carrying a powerful weapon and covered in the dust of the trail.}
-{103}{}{I tell ya, one more group of highwaymen and I'm wearing dynamite on the next trip.}
-{104}{}{Sure could use some more help on the caravans.}
-{105}{}{Man... Unity Patrol work gets really, really old.}
-{106}{}{So then I saw this tribal comin' and... never mind.}
-{107}{}{One more "Rainbow Patrol" crack and I'm gonna kill someone.}
-{108}{}{I swear, if the bandits get any worse, we'll all die in the next year.}
-{109}{}{What podunk village are you from?}
-{110}{}{Buy a working person a drink?}
-{111}{}{I'm too tired from that caravan work to talk.}
-{112}{}{You need something, you talk to Bill, the Outfitter.}
-{113}{}{You'd think after all this time tryin' to civilize the wasteland we'd be a little closer to our goal.}
-{114}{}{I'm sick of all this human/mutant squabbling. Ain't we supposed to be an example?}
-{115}{}{Whaddya' want? Can't you see I'm resting?}
+{100}{}{Você vê uma pessoa carregando uma arma poderosa.}
+{101}{}{Você vê um membro do corpo de comércio e proteção de Broken Hills.}
+{102}{}{Você vê uma pessoa carregando uma arma poderosa e coberta pela poeira da trilha.}
+{103}{}{Te juro, mais um grupo de salteadores e eu vou carregando dinamite na próxima viagem.}
+{104}{}{Um pouco mais de ajuda com as caravanas não faria mal.}
+{105}{}{Amigo... a coisa da patrulha da Unidade já está cansando.}
+{106}{}{Então eu vi aquele tribal aparecer e... não importa.}
+{107}{}{Mais um piada sobre "patrulha arco-íris" e eu mato um.}
+{108}{}{Sério, se os bandidos piorarem vamos todos morrer no próximo ano.}
+{109}{}{De que desgraça de aldeia você veio?}
+{110}{}{Comprar uma bebida para um trabalhador?}
+{111}{}{Esse trabalho de caravana me deixa muito cansado para ter vontade de falar.}
+{112}{}{Você precisa de algo, fale com Bill, o Fornecedor.}
+{113}{}{Qualquer um pensaria que depois de todo esse tempo tentando civilizar o deserto estaríamos um pouco mais perto de nosso objetivo.}
+{114}{}{Já cansei dessas disputas entre humanos e mutantes. Não deveríamos ser um exemplo?}
+{115}{}{Que foi? Não vê que estou descansando?}
 {116}{}{Quando a próxima caravana sai?}
-{117}{}{Patrol, patrol, patrol... all I ever do around here.}
-{118}{}{I think I need a nap.}
-{119}{}{I deserve a raise. This is hazardous duty.}
+{117}{}{Patrulhar, patrulhar, patrulhar... é tudo o que faço por aqui.}
+{118}{}{Acho que preciso de um cochilo.}
+{119}{}{Eu mereço um aumento, esse é um trabalho perigoso.}
 {200}{}{Ajudar você?}
 {201}{}{Sim, estou procurando o mestre da caravana.}
 {202}{}{Gostaria de saber se posso fazer umas perguntas sobre Chad.}
 {203}{}{Quem é você?}
 {204}{}{Não, obrigado.}
-{205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
-{206}{}{I have some more questions.}
+{205}{}{Nesse caso, você precisa falar com Bill, o Fornecedor de Broken Hills. Ele está dentro daquele prédio ali.}
+{206}{}{Tenho mais umas perguntas.}
 {207}{}{Obrigado. Tchau.}
 {208}{}{Você tem perguntas, talvez eu tenha respostas. O que você quer saber?}
 {209}{}{Como ele é?}
@@ -76,4 +76,4 @@
 {413}{}{Sarah}
 {450}{}{Você vê }
 {451}{}{, guarda da caravana.}
-{2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}
+{2050}{}{Nesse caso, você precisa falar com Bill, o Fornecedor de Broken Hills. Ele é o cara de chapéu, bem ali.}

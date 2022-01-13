@@ -1,9 +1,9 @@
 {100}{}{Você vê uma guarda Hubologista.}
-{101}{}{You see a well-armed person with a cruel look in their eyes.}
+{101}{}{Você vê uma pessoa armada e com um olhar cruel.}
 {110}{}{Você vê um Hubologista.}
-{111}{}{He is staring at the various computer equipment before him.}
+{111}{}{Ele está olhando para os vários equipamentos de computação à sua frente.}
 {200}{}{Somos leais ao AHS-9.}
-{201}{}{The Star Father cares for all of us.}
-{202}{}{It's boring here, but it's our job to watch over the donations.}
-{203}{}{Greetings friend.}
-{300}{}{Don't mess with anything.}
+{201}{}{O Pai Estrela cuida de todos nós.}
+{202}{}{É chato por aqui, mas é nosso trabalho cuidar das doações.}
+{203}{}{Saudações, amigo.}
+{300}{}{Não mexa em nada.}

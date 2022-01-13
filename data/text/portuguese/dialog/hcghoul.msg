@@ -65,23 +65,23 @@
 {162}{}{Não acho que Broken Hills jamais se recuperará da perda da mina...}
 {163}{}{Todos os mutantes... Mortos...}
 {164}{}{...agora nunca saberemos se poderíamos ter feito as pazes entre os mutantes e os humanos...}
-{165}{}{Time to head out and see what the rest of the world has to offer... ain't worth it to dig
- out the mines.}
-{166}{}{I wonder if anywhere else in California needs uranium refiners?}
-{167}{}{Guess I'll head back to Gecko now...}
-{168}{}{You god-rotting bastard. }
-{169}{}{Have you no shame, no decency?}
-{170}{}{Why do you try to destroy our town?}
-{171}{}{Don't you realize that if you'd destroyed the mine, you'd have destroyed us all as well?}
+{165}{}{Hora de sair para o mundo e ver o que eu posso encontrar por aí... não vale a pena ficar 
+ nas minas.}
+{166}{}{Será que existe outro lugar na Califórnia que precisa de refinarias de urânio?}
+{167}{}{Acho que agora eu volto para Gecko...}
+{168}{}{Puto nojento. }
+{169}{}{Você não tem vergonha, nem decência?}
+{170}{}{Por que você tenta destruir nossa cidade?}
+{171}{}{Você não percebeu que se a mina tivesse sido destruída nós seriamos destruídos também?}
 {172}{}{Eu não quero falar com você.}
 {173}{}{Vá embora.}
-{174}{}{Good work.}
-{175}{}{Too bad those people died under the city.}
-{176}{}{I wonder how those people dug the tunnels without us noticing.}
-{177}{}{Now we know what Franc and Manson were up to.}
-{178}{}{Those poor, poor people. Their poor families.}
+{174}{}{Bom trabalho.}
+{175}{}{Que pena que essas pessoas morreram sob a cidade.}
+{176}{}{Me pergunto como aquelas pessoas cavaram os túneis sem que que ninguém tivesse percebido.}
+{177}{}{Agora sabemos o que Franc e Manson estavam fazendo.}
+{178}{}{Essas pobres pessoas... e suas pobres famílias.}
 {180}{}{Não me machucar.}
 {181}{}{Deixe-me sozinho.}
 {182}{}{Não! Não! Não!}
 {183}{}{Eu vou estar indo agora.}
-{184}{}{Leave our town!}
+{184}{}{Saia da nossa cidade!}

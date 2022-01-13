@@ -36,7 +36,7 @@
 {129}{}{Me got more questions.}
 {130}{}{What happened to the person who did this?}
 {131}{}{How did this person get by the guard outside?}
-{132}{}{I have some more questions.}
+{132}{}{Tenho mais umas perguntas.}
 {133}{}{His name is Matt, and he is a prisoner here. Personally, I wanted him dead -- but Gruthar would
  not allow it. I do not see the wisdom in this, but Gruthar's word is law and he will be obeyed. Should
  you talk to this human, take care. He cannot be trusted!}

@@ -66,13 +66,13 @@
 {157}{}{I see. That's all. Thanks.}
 {158}{}{Do I trust him? Obviously ... to an extent. I trust him to run my caravans for me. He might be
  shady, but 'til he gives me a reason not to trust him, I'll keep on like I have.}
-{159}{}{I have some more questions.}
+{159}{}{Tenho mais umas perguntas.}
 {160}{}{I want some other things.}
 {161}{}{Great. Thanks for your time.}
 {162}{}{Lessee. He came to Broken Hills out of the desert. He didn't have much but his smarts. He looked
  like he was being hunted by someone, but wouldn't say who. He was always real quiet about his past.
  And ... he's a hell of a caravan master. That's all.}
-{163}{}{I have some more questions.}
+{163}{}{Tenho mais umas perguntas.}
 {164}{}{I want some other things.}
 {165}{}{Obrigado.}
 {166}{}{I'm off duty now. Talk to me when I'm at the shop.}
