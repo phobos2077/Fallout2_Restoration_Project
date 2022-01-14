@@ -7,20 +7,20 @@
 {106}{}{Onde você estava ontem à noite?!}
 {107}{}{Onde está minha revista Cat's Claw? Você jogou fora de novo, não foi?}
 {108}{}{**Phhhhhhhttttttt**}
-{109}{}{Zaius at the mine says he may have some work for me next month.}
-{110}{}{This place it a damn mess! When are you gonna' get to cleanin', woman?}
-{111}{}{You got a real smart mouth on ya', woman!}
-{112}{}{I love you, woogums.}
-{113}{}{Do you want the backside of my hand, woman?}
-{140}{}{Fix your own damn pot pie, you lazy lump of pus!}
-{141}{}{...(mumble) give him as much damn pepper as I want to (mumble)... }
-{142}{}{Scrubbing your dirty drawers in the town well, as usual!}
-{143}{}{What do you need that filth for when you've got me right here?!}
-{144}{}{I told you to stop eating that iguana-on-a-stick! Open a window! Augh!}
-{145}{}{Good! If it'll get your fat ass out of the house, I'm all for it!}
-{146}{}{As soon as you start showing me some fucking respect, you bastard!}
-{147}{}{There's gotta be some brains SOMEWHERE in this house!}
-{148}{}{I love you too, sugerplumps.}
-{149}{}{I don't want ANYTHING associated with your backside!}
-{200}{}{What the hell do you want? Get outta' my house, pinkie.}
-{201}{}{I swear, one of these days I'm gonna' just up and leave. Then what's his lazy hide gonna' do?}
+{109}{}{Zaius, da mina, disse que pode ter algum trabalho para mim no próximo mês.}
+{110}{}{Este lugar tá uma nojeira! Quando você vai limpar isso, mulher?}
+{111}{}{Você é uma linguaruda, mulher!}
+{112}{}{Eu te amo, meu bem.}
+{113}{}{Você quer tomar um tapão, hein, mulher?}
+{140}{}{Prepare sua própria torta, seu vagabundo pedaço de bosta!}
+{141}{}{...(murmurando) vou te dar quanta pimenta eu quiser (murmurando)...}
+{142}{}{Lavando suas cuecas nojentas no poço, como sempre!}
+{143}{}{Por que você precisa dessa porcaria quando você me tem aqui?!}
+{144}{}{Eu disse para você parar de comer essa iguana no palito! Abra a janela! Ah!}
+{145}{}{Boa! Se isso vai tirar sua bunda gorda de casa, eu apoio!}
+{146}{}{Assim que você começar a me mostrar um pouco de respeito, idiota!}
+{147}{}{E você deve ter um cérebro em algum LUGAR nessa casa!}
+{148}{}{Eu também te amo, docinho.}
+{149}{}{Eu não quero NADA que tem a ver com sua bunda!}
+{200}{}{Que porra você tá querendo? Sai da minha casa.}
+{201}{}{Eu juro, um dia desses eu vou levantar e ir embora. Então o que esse vagabundo inútil vai fazer?}

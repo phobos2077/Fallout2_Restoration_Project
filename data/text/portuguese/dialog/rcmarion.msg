@@ -237,7 +237,7 @@
 {273}{}{Dash it all, but that just isn't my sort of soiree, mon frere. Goodbye.}
 {274}{}{His name's Morton, and they call him Frog 'cause he croaks people. Ready to go get 'im?}
 {275}{}{Ohhhh. Ouch. That's terrible. The pain, the pain...}
-{276}{}{Will do.}
+{276}{}{Eu faço.}
 {277}{}{I don't think I want to risk getting croaked, Sheriff. Goodbye.}
 {278}{}{Hey, I didn't make that one up - he did. With puns that bad, I'd say that gives you just one
  more reason to kill 'im. You up for it?}

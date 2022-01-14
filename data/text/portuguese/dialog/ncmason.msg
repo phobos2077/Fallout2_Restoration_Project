@@ -178,7 +178,7 @@
 {686}{}{Don't you worry. I'll be there.}
 {695}{}{You got enough beauty sleep? Maybe NOW yer ready to go?}
 {696}{}{What is this transaction we're doing again?}
-{697}{}{Yes. Let's do it.}
+{697}{}{Sim, bora.}
 {698}{}{I need a little more time, then I'll be back.}
 {699}{}{Can you teach me how to use this pistol?}
 {705}{}{I been itching to kill you for a LONG time... I WARNED you what would happen if you were late.}

@@ -60,7 +60,7 @@
 {147}{}{. How's that sound?}
 {148}{}{Like shit. I want more.}
 {149}{}{Sounds good to me.}
-{150}{}{Forget it. I'm out.}
+{150}{}{Esqueça. Estou fora.}
 {151}{}{Great! You'll need the parts, of course. Go to New Reno and look for Renesco. He's got tools
  lying around the shop. Tell him Zaius sent you. Tell him that I said, "The canary's kicked the
  bucket." I don't know where to get protective equipment for the gas. I suppose you could go in without any

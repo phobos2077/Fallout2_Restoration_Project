@@ -102,7 +102,7 @@
 {220}{}{Obrigado.}
 {221}{}{Hell yeah! Find out where those two lunatics Franc and Manson went!}
 {222}{}{Eu estou trabalhando nisso.}
-{223}{}{Got it. See ya.}
+{223}{}{Entendi, até mais.}
 {224}{}{There's always a caravan headed out someplace. If you wanna be part of one of those, you can
  talk to the Bill, the Outfitter. Other than that, we haven't got much to do in this place. Sorry.}
 {225}{}{Thanks! I have a few more questions.}
