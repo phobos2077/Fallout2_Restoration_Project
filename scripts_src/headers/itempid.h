@@ -66,6 +66,7 @@
 #define PID_LEATHER_ARMOR_MK_II             (379)
 #define PID_METAL_ARMOR_MK_II               (380)
 #define PID_COMBAT_ARMOR_MK_II              (381)
+#define PID_BRIDGEKEEPERS_ROBE              (524)
 
 /******************************************************************
 ***************       Weapons                       ***************
@@ -164,12 +165,20 @@
 #define PID_PLASMA_PISTOL_EXT_CART          (406)
 #define PID_MEGA_POWER_FIST                 (407)
 #define PID_HOLY_HAND_GRENADE               (421)  // Special don't use this
+#define PID_GOLD_NUGGET                     (423)
+#define PID_URANIUM_ORE                     (426)
 #define PID_FLAME_BREATH                    (427)
+#define PID_REFINED_ORE                     (486)
+#define PID_SPECIAL_BOXING_GLOVES           (496)  // DO NOT USE, SPECIAL, VERY VERY SPECIAL, GOT IT?
+#define PID_SPECIAL_PLATED_BOXING_GLOVES    (497)  // NO YOU CANNOT USE THIS, NO I SAID
+#define PID_GUN_TURRET_WEAPON               (498)
 #define PID_FN_FAL_HPFA                     (500)
-//#define PID_BLOW_UP_DOLL                    (508)
-//#define PID_POPPED_BLOW_UP_DOLL             (509)
-#define PID_TYPHON_TREASURE                 (519)
+#define PID_LIL_JESUS_WEAPON                (517)
+#define PID_DUAL_MINIGUN                    (518)
+#define PID_HEAVY_DUAL_MINIGUN              (520)
+#define PID_WAKIZASHI_BLADE                 (522)
 #define PID_PLANT_SPIKE_EPA                 (583)
+
 // NOTE: any new weapons that need ammo of any sort need to be placed in the arm_obj macro in COMMANDS.H
 //       if you're not gonna do it, please put the pid definition after the comments so that we know to add it
 //       thank you for your support
@@ -284,6 +293,20 @@
 #define PID_LF_GRAVESITE_1                  (374)
 #define PID_LF_GRAVESITE_2                  (375)
 #define PID_LF_GRAVESITE_3                  (376)
+#define PID_STONE_HEAD                      (425)
+#define PID_WAGON_RED                       (434)
+#define PID_WAGON_GREY                      (435)
+#define PID_CAR_TRUNK                       (455)
+#define PID_JESSE_CONTAINER                 (467)  // RESERVED
+#define PID_WALL_SAFE                       (501)
+#define PID_FLOOR_SAFE                      (502)
+#define PID_POOL_TABLE_1                    (510)
+#define PID_POOL_TABLE_2                    (511)
+#define PID_POOL_TABLE_3                    (512)
+#define PID_POOL_TABLE_4                    (513)
+#define PID_POOL_TABLE_5                    (514)
+#define PID_POOL_TABLE_6                    (515)
+#define PID_POOR_BOX                        (521)
 
 /******************************************************************
 ***************       Books                         ***************
@@ -316,6 +339,7 @@
 #define PID_PLASTIC_EXPLOSIVES              (85)
 #define PID_ROPE                            (127)
 
+#define PID_SUPER_TOOL_KIT                  (308)
 #define PID_EXP_LOCKPICK_SET                (410)
 #define PID_ELEC_LOCKPICK_MKII              (411)
 
@@ -408,7 +432,6 @@
 #define PID_YELLOW_REACTOR_KEYCARD          (305)
 #define PID_RED_REACTOR_KEYCARD             (306)
 #define PID_PLASMA_TRANSFORMER              (307)
-#define PID_SUPER_TOOL_KIT                  (308)
 #define PID_TALISMAN                        (309)
 #define PID_GAMMA_GULP_BEER                 (310)
 #define PID_ROENTGEN_RUM                    (311)
@@ -449,16 +472,11 @@
 #define PID_MINE_PART                       (419)  // DO NOT USE THIS IN YOUR SCRIPTS, THIS IS SPECIAL CASE
 #define PID_MORNING_STAR_MINE               (420)
 #define PID_EXCAVATOR_CHIP                  (422)
-#define PID_GOLD_NUGGET                     (423)
-#define PID_STONE_HEAD                      (425)
-#define PID_URANIUM_ORE                     (426)
 #define PID_GOLD_TOOTH                      (429)
 #define PID_HOWITZER_SHELL                  (430)
 #define PID_RAMIREZ_BOX_CLOSED              (431)
 #define PID_RAMIREZ_BOX_OPEN                (432)
 #define PID_MIRROR_SHADES                   (433)
-#define PID_WAGON_RED                       (434)
-#define PID_WAGON_GREY                      (435)
 #define PID_DECK_OF_CARDS                   (436)
 #define PID_MARKED_DECK_OF_CARDS            (437)
 #define PID_TEMPLE_KEY                      (438)
@@ -478,7 +496,6 @@
 #define PID_TORN_PAPER_3                    (452)
 #define PID_PASSWORD_PAPER                  (453)
 #define PID_EXPLOSIVE_SWITCH                (454)
-#define PID_CAR_TRUNK                       (455)
 #define PID_CELL_DOOR_KEY                   (456)
 #define PID_ELRON_FIELD_REP                 (457)
 #define PID_ENCLAVE_HOLODISK_5              (458)
@@ -490,25 +507,23 @@
 #define PID_EXPERIMENT_HOLODISK             (464)
 #define PID_MEDICAL_HOLODISK                (465)
 #define PID_PASSWORD_HOLODISK               (466)
-#define PID_JESSE_CONTAINER                 (467)   // RESERVED
 #define PID_SMITTY_MEAL                     (468)
 #define PID_ROT_GUT                         (469)
 #define PID_BALL_GAG                        (470)
 #define PID_BECKY_BOOK                      (471)
-#define PID_NAV_COMPUTER_PARTS              (479)
 #define PID_ELRON_MEMBER_HOLO               (472)
 #define PID_MUTATED_TOE                     (473)
 #define PID_DAISIES                         (474)
 #define PID_ENLIGHTENED_ONE_LETTER          (476)
 #define PID_BROADCAST_HOLODISK              (477)
 #define PID_SIERRA_MISSION_HOLODISK         (478)
+#define PID_NAV_COMPUTER_PARTS              (479)
 #define PID_KITTY_SEX_DRUG_AGILITY          (480)  // + 1 agility for 1 hr
 #define PID_KITTY_SEX_DRUG_INTELLIGENCE     (481)  // + 1 iq for 1 hr
 #define PID_KITTY_SEX_DRUG_STRENGTH         (482)  // + 1 strength for 1 hr
 #define PID_FALLOUT_2_HINTBOOK              (483)  // no touchy
 #define PID_PLAYERS_EAR                     (484)
 #define PID_MASTICATORS_EAR                 (485)
-#define PID_REFINED_ORE                     (486)
 #define PID_MEMO_FROM_FRANCIS               (487)
 #define PID_K9_MOTIVATOR                    (488)
 #define PID_SPECIAL_BOXER_WEAPON            (489)
@@ -518,34 +533,17 @@
 #define PID_ELRON_TEACH_HOLO                (493)
 #define PID_KOKOWEEF_MINE_SCRIP             (494)
 #define PID_PRES_ACCESS_KEY                 (495)
-#define PID_SPECIAL_BOXING_GLOVES           (496)  // DO NOT USE, SPECIAL, VERY VERY SPECIAL, GOT IT?
-#define PID_SPECIAL_PLATED_BOXING_GLOVES    (497)  // NO YOU CANNOT USE THIS, NO I SAID
-#define PID_GUN_TURRET_WEAPON               (498)
 #define PID_DERMAL_PIP_BOY_DISK             (499)  // AGAIN, VERY SPECIAL, NOT FOR YOU
 #define PID_MEM_CHIP_BLUE                   (503)
 #define PID_MEM_CHIP_GREEN                  (504)
 #define PID_MEM_CHIP_RED                    (505)
 #define PID_MEM_CHIP_YELLOW                 (506)
-//#define PID_FN_FAL_HPFA                     (507)
-#define PID_WALL_SAFE                       (501)
-#define PID_FLOOR_SAFE                      (502)
 #define PID_DECOMPOSING_BODY                (507)
-#define PID_BLOW_UP_DOLL                    (508)  // (515)
-#define PID_POPPED_BLOW_UP_DOLL             (509)  // (516)
-#define PID_POOL_TABLE_1                    (510)
-#define PID_POOL_TABLE_2                    (511)
-#define PID_POOL_TABLE_3                    (512)
-#define PID_POOL_TABLE_4                    (513)
-#define PID_POOL_TABLE_5                    (514)
-#define PID_POOL_TABLE_6                    (515)
-#define PID_PIP_BOY_MEDICAL_ENHANCER        (516)  // (523)
-#define PID_LIL_JESUS_WEAPON                (517)
-#define PID_DUAL_MINIGUN                    (518)
-#define PID_HEAVY_DUAL_MINIGUN              (520)
-#define PID_POOR_BOX                        (521)
-#define PID_WAKIZASHI_BLADE                 (522)
+#define PID_BLOW_UP_DOLL                    (508)
+#define PID_POPPED_BLOW_UP_DOLL             (509)
+#define PID_PIP_BOY_MEDICAL_ENHANCER        (516)
+#define PID_TYPHON_TREASURE                 (519)
 #define PID_SURVEY_MAP                      (523)
-#define PID_BRIDGEKEEPERS_ROBE              (524)
 #define PID_PRITCHARD_MAP                   (532)  // Seraph's Code
 #define PID_FIRE_GECKO_PELT                 (533)  // Seraph's Code
 
