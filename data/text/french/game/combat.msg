@@ -14,7 +14,7 @@
 {204}{}{a estropié ton bras gauche}
 {205}{}{a estropié ton bras droit}
 {206}{}{aveuglée}
-{207}{}{as été tuée}
+{207}{}{as été tué}
 {208}{}{touchée}
 {209}{}{critique}
 {210}{}{en feu}
@@ -37,7 +37,7 @@
 {254}{}{a estropié ton bras gauche}
 {255}{}{a estropié ton bras droit}
 {256}{}{aveuglée}
-{257}{}{as été tuée}
+{257}{}{as été tué}
 {258}{}{touchée}
 {259}{}{critique}
 {260}{}{en feu}
@@ -60,7 +60,7 @@
 {304}{}{a estropié son bras gauche}
 {305}{}{a estropié son bras droit}
 {306}{}{aveuglée}
-{307}{}{a été tuée}
+{307}{}{a été tué}
 {308}{}{touchée}
 {309}{}{critique}
 {310}{}{en feu}
@@ -83,7 +83,7 @@
 {404}{}{a estropié son bras gauche}
 {405}{}{a estropié son bras droit}
 {406}{}{aveuglée}
-{407}{}{a été tuée}
+{407}{}{a été tué}
 {408}{}{touchée}
 {409}{}{critique}
 {410}{}{en feu}

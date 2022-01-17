@@ -172,7 +172,7 @@
 {423}{}{Pas question. Je m'en vais. Salut.}
 {424}{}{Retournes-y et débarrasse-nous de cet imbécile de Torr !}
 {430}{}{Tu délires. Ce ne sont que des restes de radscorpions qu'on a tués. Oui, c'est ça. C'est tout à fait ça. On... heu, hum, on a utilisé leur venin dans la composition secrète de notre recette de viande séchée.}
-{431}{}{Ouais, bien sûr. Je vous croirai le jour où les poules auront des dents, c'est des conneries tout ça.}
+{431}{}{Ouais, bien sûr. Je vous croirais le jour où les poules auront des dents, c'est des conneries tout ça.}
 {432}{}{Bon, si tu le dis. Ca me suffit. Au revoir.}
 {440}{}{T'as intérêt à la boucler si tu tiens à rester en vie.}
 {441}{}{Hé ! Du calme. Je voulais simplement te dire que ton idée était géniale. Relax, Max.}
@@ -204,12 +204,12 @@
 {600}{}{Même ce bouffon de Torr a plus de jugeote que toi, sale voleur !}
 {601}{}{On peut y aller ?}
 {700}{}{Tu as aidé les frères Dunton à voler les Brahmines de Torr.}
-{702}{}{Certainement pas, et je vais te dire ce que je pense vraiment. D'abord, vous vous êtes habillé comme des *Homme-insectes* avec des fausses pinces de radscorpions et ensuite vous en avez profité pour effrayer ce pauvre Torr et vous approprier ses Brahmines, c'est ça hein, pas vrai ?! Tout devient clair maintenant. Vous n'êtes qu'une bande d'ordures, assez nuls il faut l'avouer.}
-{703}{}{[Les frères Dunton ouvrent grands leurs yeux et les deux hommes commencent à trembler inconfortablement.] Ou.. ooo... ouais et... tu veux en venir où tribal ? On a tous besoin d'un petit extra de temps en temps. Qu'est-ce que ça peut bien te foutre ? Tu vas faire quoi, hein ?}
+{702}{}{Certainement pas, et je vais te dire ce que vous en faisiez. Vous vous habilliez comme des *Homme-insectes* avec ces fausses pinces de radscorpions et vous avez effrayé ce pauvre Torr pour vous approprier ses Brahmines, c'est ça hein, pas vrai ?! Tout devient clair maintenant. Vous n'êtes qu'une bande d'ordures, assez nuls il faut l'avouer.}
+{703}{}{[Les frères Dunton ouvrent grands leurs yeux et les deux hommes commencent à trembler inconfortablement.] Ou.. ooo... ouais et... tu veux en venir où tribale ? On a tous besoin d'un petit extra de temps en temps. Qu'est-ce que ça peut bien te foutre ? Tu vas faire quoi, hein ?}
 {704}{}{Si vous arrêtez de voler les Brahmines et d'emmerder Torr, alors je vous laisserai tranquille. Tout ce dont j'ai besoin c'est de votre parole et si j'entends que vous avez recommencé, il ne restera plus grand-chose de vous pour voler d'autres Brahmines. C'est bien compris ?!}
 {705}{}{[Il ricane sournoisement.] Hyuk, hyuk, hyuk... C'est très bien tribal. Je crois que c'est le moment de t'apprendre ce qui arrive aux fouineurs dans ton genre.}
 {706}{}{Très bien tribal, tu as gagné cette fois. On va arrêter ça, alors fous nous la paix.}
-{707}{}{Tu as réussi à convaincre les frères Dunton d'arrêter d'embêter Torr.}
+{707}{}{Tu as réussi à convaincre les frères Dunton d'arrêter d'harceler Torr.}
 {708}{}{[Terminé]}
 {709}{}{Laisse-nous tranquille.}
 {710}{}{Ouais, comme tu veux tribal. Occupe-toi de tes affaires.}

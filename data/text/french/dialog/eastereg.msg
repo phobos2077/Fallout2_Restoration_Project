@@ -136,8 +136,8 @@
 {1401}{}{Un joyau étincelant de haine.}
 {1410}{}{Les gouverneurs régionaux ont désormais toute autorité sur leurs traductions. La peur, voilà ce qui bâillonnera les systèmes séditieux.}
 {1411}{}{Les erreurs de dialogues ont disparu. Leur fluide s'est tari dans tout l'univers. Toi, l'Etre Elu, tu es le dernier tenant de leur religion.}
-{1412}{}{Peut-être que tu réagirais mieux si on utilisait une autre forme de persuasion.}
-{1413}{}{Charmant et si délicat. Dire que j'ai tant hésité avant de traduire ta condamnation à mort.}
+{1412}{}{Peut-être que vous réagiriez mieux si j'utilisais une autre forme de persuasion.}
+{1413}{}{Charmant et si délicat. Dire que j'ai tant hésité avant de traduire votre condamnation à mort.}
 {1500}{}{Tu vois Adam Dravean.}
 {1501}{}{Il hoche la tête dans ta direction.}
 {1510}{}{Je suis M. Wolna. J'ai supervisé la traduction allemande.}
