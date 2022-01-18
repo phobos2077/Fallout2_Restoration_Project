@@ -70,7 +70,7 @@
 {169}{}{Il se trouve que j'ai un peu de Jet sur moi. Il est à toi pour mille deux cents.}
 {170}{}{J'ai un peu de Jet sur moi... Je m'en sépare pour mille cinq cents.}
 {171}{}{Donc... Tu veux que j'introduise du Jet en contrebande dans la Cité ?}
-{172}{}{Que voulez-vous que je fasse ?}
+{172}{}{Que veux tu que je fasse ?}
 {173}{}{M'intéresse pas. Merci.}
 {174}{}{C'est dommage. Reviens si tu changes d'avis... Je ne manquerai pas de te rembourser pour la peine.}
 {175}{}{J'avais d'autres questions pour toi...}

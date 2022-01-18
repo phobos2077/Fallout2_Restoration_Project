@@ -32,7 +32,7 @@
 {184}{}{Que veux-tu ?}
 {185}{}{Je veux que tes bestioles arrêtent d'attaquer les patrouilles de la cité. La vie des habitants du village est en jeu.}
 {186}{}{Très bien, je suis prêt à accepter, mais seulement si tu fais quelque chose pour moi d'abord.}
-{187}{}{Que voulez-vous que je fasse ?}
+{187}{}{Que veux tu que je fasse ?}
 {188}{}{Ok, mais, on fait un deal. Je répare le réacteur, et toi tu retires tes créatures.}
 {189}{}{Eh bien, tu sais, ce serait une bonne chose si le réacteur était optimisé.}
 {190}{}{Eh bien, conformément à mon plan visant à diriger le monde, j'ai l'intention de récompenser mes fidèles Goules en trouvant un moyen de restituer leur humanité.}
@@ -190,6 +190,6 @@
 {717}{}{J'm'en occupe.}
 {718}{}{Hmmm... Ouais, peut-être plus tard.}
 {719}{}{Comme je l'ai dit, tu dois te procurer un Régulateur de Magnétosphère Hydroélectrique à la Cité de l'Abri pour réparer le réacteur de Gecko. Si tu ne le fais pas, il ne fait aucun doute que la Cité de l'Abri va attaquer Gecko. Si tu m'aides, je répondrai à ta demande. Vas-tu nous rejoindre ?}
-{720}{}{Très bien, je vais vous aider.}
+{720}{}{Très bien, je vais t'aider.}
 {721}{}{Non, je t'emmerde le Cerveau. J'en ai assez entendu. C'est l'heure de crever !}
 {4211}{}{Euh, je pense que je devrais parler à Gordon à propos du disque. Au revoir.}

@@ -1,101 +1,100 @@
-{100}{}{You see a woman wearing a perpetual scowl.}
-{101}{}{You see Liz, the manager of the General Store.}
-{102}{}{You see a middle-aged woman whose scowl has eroded her face. She looks like one of those
- people who takes a perverse pleasure in a hard life.}
-{103}{}{Hi. I'm Liz. What do you want?}
+{100}{}{Você vê uma mulher com o rosto carrancudo.}
+{101}{}{Você vê Liz, a gerente do Armazém Geral.}
+{102}{}{Você vê uma mulher de meia-idade com uma carranca que cobre seu rosto. Ela parece uma daquelas pessoas que tira um prazer perverso em uma vida difícil.}
+{103}{}{Oi. Eu sou a Liz. O que quer?}
 {104}{}{E agora?}
 {105}{}{Nggg! Nnnnnng!}
-{106}{}{Me nget ssssstUFF!}
-{107}{}{I'd like to buy something.}
-{108}{}{What can you tell me about this town?}
-{109}{}{I want to kill something. What's around?}
-{110}{}{What's up with the guns in your basement?}
-{111}{}{I understand you have a surplus of weapons. I need some.}
+{106}{}{Eu quero coisaaaasssss!}
+{107}{}{Eu gostaria de comprar algo.}
+{108}{}{O que você pode me dizer sobre essa cidade?}
+{109}{}{Eu quero matar alguma coisa. O que temos por aí?}
+{110}{}{O que se passa com as armas no seu porão?}
+{111}{}{Fiquei sabendo que você tem um excedente de armas. Preciso de algo.}
 {112}{}{Nada.}
-{113}{}{Oh, god... another addle-headed mutant baby. When will someone just shoot these things?}
-{114}{}{Gurgle.}
-{115}{}{Speak slowly and clearly and I'll see if I can help you.}
-{116}{}{Nn! Stuff! Me!}
-{117}{}{Dood bye!}
+{113}{}{Oh, Deus... outro bebê mutante retardado. Quando alguém vai atirar nessas coisas?}
+{114}{}{Gorgolejo.}
+{115}{}{Fale de forma mais clara e devagar, vamos ver se eu posso te ajudar.}
+{116}{}{Nn! Coisas! Eu!}
+{117}{}{Adeus!}
 {118}{}{Você quer comprar algo?}
 {119}{}{Sim!}
-{120}{}{No no no.}
-{121}{}{All right. What do you want?}
-{122}{}{Barter.}
-{123}{}{Don't forget the service charge.}
-{124}{}{Tank yoo!}
-{125}{}{You want to buy something? Fine. This is what I've got.}
-{126}{}{One other thing...}
+{120}{}{Não não não.}
+{121}{}{Tudo bem. O que você quer?}
+{122}{}{Fazer umas trocas.}
+{123}{}{Não se esqueça da taxa do serviço.}
+{124}{}{B-brigado!}
+{125}{}{Você quer comprar algo? Certo. Isso é o que tem por aqui.}
+{126}{}{Uma outra coisa...}
 {127}{}{Obrigado. Até mais.}
-{128}{}{It's a boring little mining town filled with all sorts of undesirables. You want a guided tour,
- talk to Steve or someone.}
-{129}{}{Wow, a crabby one. I have more questions.}
+{128}{}{É uma cidade chata, cheia de mineiros e um monte de coisas desprezíveis. Se você quiser um guia
+ turístico, fale com Steve ou sei lá quem.}
+{129}{}{Uau, mais um dos xaropes. Eu tinha mais perguntas.}
 {130}{}{Tudo bem. Tchau.}
-{131}{}{What'd you have in mind for killing?}
-{132}{}{Radscorpions, rats, that sort of thing.}
-{133}{}{Oh, the occasional humanoid.}
-{134}{}{You. Die, bitch.}
-{135}{}{Bad guys.}
-{136}{}{No one. Forget it.}
-{137}{}{Who told you about that?? I mean... of course not! Don't be ridiculous!}
-{138}{}{Relax. Jacob told me.}
-{139}{}{Yeah, well, it's all over town and it's an open secret.}
-{140}{}{Your secret's safe. I got it from a reliable source.}
-{141}{}{You might try the caves or the area near the homes. I understand there are plenty of monsters
- there.}
+{131}{}{O que você está pensando em matar?}
+{132}{}{Radscorpions, ratos, esse tipo de coisa.}
+{133}{}{Oh, os humanóides comuns.}
+{134}{}{Você. Morra, vagaba.}
+{135}{}{Caras maus.}
+{136}{}{Ninguém. Esqueça.}
+{137}{}{Quem te falou sobre isso?? Quero dizer... claro que não! Não seja ridículo!}
+{138}{}{Relaxa. Jacob me contou.}
+{139}{}{Ah, bem, é um segredo aberto, está por toda a cidade.}
+{140}{}{Seu segredo está seguro, peguei de uma fonte confiável.}
+{141}{}{Você pode tentar nas cavernas ou pela área perto das casas. Pelo que sei que há muitos monstros por
+ lá.}
 {142}{}{Obrigado. Tchau.}
-{143}{}{Humanoids, eh? Any humanoids in particular?}
-{144}{}{Humans.}
+{143}{}{Humanoides, hein? Algum humanóide em particular?}
+{144}{}{Humanos.}
 {145}{}{Ghouls.}
-{146}{}{Mutants.}
-{147}{}{Just kidding.}
-{148}{}{What's your definition of a bad guy?}
-{149}{}{Anyone I don't like. Humanoids, mostly.}
-{150}{}{Anyone who gets in my way.}
-{151}{}{It's a pretty fluid definition.}
-{152}{}{Oh, well, if you got it from a reliable source, then yeah. Are you going to put an end to the
- mutants' domination?}
+{146}{}{Mutantes.}
+{147}{}{Estava só brincando.}
+{148}{}{Qual é a sua definição de um cara mau?}
+{149}{}{Qualquer um que eu não goste. Humanóides, principalmente.}
+{150}{}{Qualquer um que fique no meu caminho.}
+{151}{}{É uma definição meio abundante.}
+{152}{}{Oh, então, se você conseguiu de uma fonte confiável, pode ser. Você vai acabar com esse
+ domínio dos mutantes?}
 {153}{}{É.}
 {154}{}{Não.}
-{155}{}{Then I guess I'd better start cleaning up the loose ends.}
+{155}{}{Então acho melhor começar amarrando as pontas soltas.}
 {156}{}{[FEITO]}
-{157}{}{I don't support killin' in this store. Get out.}
-{158}{}{Yeah, whatever. Bitch.}
-{159}{}{Ghouls are useful slaves. They ain't got enough minds of their own to be people, but they ain't
- worth killin', either. I don't support the killin' of ghouls.}
-{160}{}{Fine. I want something else.}
+{157}{}{Assassinato não é permitido aqui. Saia.}
+{158}{}{Sim, Foda-se. Vadia.}
+{159}{}{Ghouls são bons escravos. Eles não têm mente suficiente para serem pessoas, mas também não
+ vale a pena matá-los. Eu não apoio qualquer matança de ghouls.}
+{160}{}{Certo. Eu quero outra coisa.}
 {161}{}{Seja o que for. Tchau.}
-{162}{}{If you're really interested in killing mutants, maybe you ought to go talk to Jacob the chemist.}
-{163}{}{Jacob, eh? Will do.}
-{164}{}{Thought you might be. Now get along.}
+{162}{}{Se você está realmente interessado em matar mutantes, talvez você devesse falar com Jacob, o químico.}
+{163}{}{Jacó, é? Vou fazer.}
+{164}{}{Eu pensei que você poderia ser. Agora mova-se.}
 {165}{}{Com certeza.}
-{166}{}{In that case, take the hidden passage in the floor in my room down to the stronghold. I got a
- small arsenal down there. Git going.}
+{166}{}{Nesse caso, vá na passagem escondida no chão do meu quarto até a fortaleza. Eu tenho um
+ pequeno arsenal lá embaixo. Pode ir.}
 {167}{}{Obrigado.}
-{168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
- somethin' else?}
+{168}{}{Por coincidência, eu me livrei de todas as armas que eu tinha, exceto as que você vê
+ aqui. Posso te ajudar com outra coisa?}
 {169}{}{Sim.}
 {170}{}{Não.}
-{171}{}{I ain't sellin' to you. Get out of my store.}
+{171}{}{Eu não estou vendendo para você. Saia da minha loja.}
 {172}{}{[FEITO]}
-{173}{}{The store is closed. We open at eight.}
-{174}{}{Hey! Get away from there!}
-{175}{}{That's it! You asked for it!}
-{178}{}{I don't care if you got it from God himself! I'm just gonna make damn sure nobody else finds out.}
-{179}{}{Hey! Don't go down there!}
-{180}{}{I'm not going to warn you again. Stay away from there!}
-{181}{}{That's it! Get over here!}
-{182}{}{What else are you going to bother me with?}
+{173}{}{A loja está fechada. Abrimos às oito.}
+{174}{}{Ei! Cai fora daqui!}
+{175}{}{Muito bem! Você pediu por isso!}
+{178}{}{Eu não me importo se você conseguiu isso com o próprio Deus! Só vou me certificar de que ninguém mais descubra.}
+{179}{}{Ei! Não desça aí!}
+{180}{}{Eu não vou te avisar de novo. Sai de perto daí!}
+{181}{}{Já chega! Venha pra cá!}
+{182}{}{Com o que mais você vai me incomodar?}
 {183}{}{Obrigado.}
 {184}{}{[CONTINUAR]}
-{185}{}{Hey! Who the hell is out there?}
-{186}{}{I don't know who you are, but I'm comin' for ya'.}
-{200}{}{Do you have anything special you could set me up with that isn't on the shelves?}
-{201}{}{Actually... yeah. Seein' that mangy dog of yours reminds me of something I found that might be of some use. Are you interested in some armor for it? It'll cost you $2000.}
-{202}{}{Hell yeah!}
-{203}{}{Nah, this dog can take on anybody already. Thanks anyway. Let's see what else you've got.}
-{204}{}{(Looks at you and your party) No, sorry. I don't think I have anything special that you would find useful. What you see out here is what you get.}
-{205}{}{Oh well. Let's see what you've got.}
-{206}{}{I told you I'd let it go for $2000. Come back when you've got the cash for it!}
-{207}{}{Alright. Show me what else you've got.}
-{208}{}{Fine. I'll be back some other time.}
+{185}{}{Ei! Quem que está ai fora?}
+{186}{}{Eu não sei quem você é, mas eu vim por você.}
+{200}{}{Você pode me arranjar alguma coisa especial que não esteja nas prateleiras?}
+{201}{}{Na verdade... sim. Ver esse seu cachorro sarnento me lembrou de algo que acho que pode ser útil. Você está interessado em uma armadura para ele? Custa $ 2.000.}
+{202}{}{Isso aí!}
+{203}{}{Não, este cão pode enfrentar qualquer coisa, mas obrigado de qualquer maneira. Vamos ver o que mais você tem.}
+{204}{}{(Olha para você e seu grupo) Não, desculpe. Acho que não tenho nada de especial que você acharia útil, somente o que você vê aqui.}
+{205}{}{Ah bem. Vamos ver o que você tem.}
+{206}{}{Eu disse que te venderia por $2000. Volte quando tiver dinheiro para isso!}
+{207}{}{Tudo bem. Me mostre o que mais você tem.}
+{208}{}{Certo. Eu Voltarei novamente.}

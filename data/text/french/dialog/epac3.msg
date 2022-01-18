@@ -4,7 +4,7 @@
 {200}{}{Salut mon pote ! Je suis Le Brave Petit Grille-Pain, votre joyeux compagnon du petit-déjeuner. Mais vous pouvez m'appeler BPG. Dites, vous voulez des toasts grillés ?}
 {201}{}{Non merci, mais j'aimerai des informations.}
 {202}{}{Pas maintenant, je dois y aller.}
-{210}{}{Pas de problème ! Je suis chaud grillant dans la mécanique quantique, la biologie sous-moléculaire et les génériques des émissions TV ! Demandez-moi ce que vous voulez... Mais, puis-je vous poser une question d'abord ?}
+{210}{}{Pas de problème ! Je suis chaud bouillant en mécanique quantique, en biologie sous-moléculaire et en générique d'émissions de TV ! Demandez-moi ce que vous voulez... Mais, puis-je vous poser une question d'abord ?}
 {211}{}{J'imagine que oui. Quel est la question ?}
 {220}{}{Vous êtes sûr que vous ne voulez pas de toasts ?}
 {221}{}{NON ! Je ne veux aucun toast. Pas de muffins, pas de brioches, pas de cookies, pas de petits pains, pas de croissants, ni de baguettes ou de bretzels. Pas de chaussons aux pommes, pas de cakes au chocolat, pas de cakes aux lardons et enfin, surtout pas de crêpes au sucre !!!}

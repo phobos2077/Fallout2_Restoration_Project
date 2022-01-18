@@ -5,7 +5,7 @@
 {104}{}{What can I get you?}
 {105}{}{Gimme meat.}
 {106}{}{I'll take one.}
-{107}{}{What can you tell me about this town?}
+{107}{}{O que você pode me dizer sobre essa cidade?}
 {108}{}{Adeus.}
 {109}{}{Enjoy, stranger!}
 {110}{}{There's mustard and onions over there.}

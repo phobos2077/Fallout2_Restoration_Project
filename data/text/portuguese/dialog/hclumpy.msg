@@ -1,24 +1,24 @@
-{100}{}{You see a ghoul. He's currently laying underneath your front bumper.}
-{101}{}{You see Lumpy. You hope he's going to be all right.}
-{102}{}{You see a ghoul who appears to be in considerable pain. Maybe if your driving skills were
- better you could have avoided this.}
-{103}{}{Oooooh! That stings!}
-{104}{}{Ouch! My sacroiliac!}
-{105}{}{Has anyone seen my gall bladder?}
-{106}{}{My spine! My spine!}
-{107}{}{I'm comin' to meet you Elizabeth!}
-{108}{}{Medic...}
-{109}{}{Could someone help me? I can't quite read the license plate number.}
-{110}{}{Hey, buddy!}
-{111}{}{Hey, lady!}
-{112}{}{The name's Lumpy. Could ya' help me out here for a second?}
-{113}{}{Ouchie. U okay, Lumpy?}
-{114}{}{Oh my God! Are you okay, Lumpy?}
-{115}{}{Oops...}
-{116}{}{Oh, just peachy. Aside from several compound fractures and a hood ornament lodged several feet up my ass, I'm right as rain.}
-{117}{}{Ohhh. Need help?}
-{118}{}{Goodie. Bye-bye.}
-{119}{}{All right, just relax. Do you need me to help you?}
+{100}{}{Você vê um ghoul. Neste momento ele está debaixo do para-choque dianteiro.}
+{101}{}{Você vê Lumpy. Você espera que ele esteja bem.}
+{102}{}{Você vê um ghoul que parece estar com uma bela dor. Talvez se você não fosse um barbeiro
+ poderia ter evitado isso.}
+{103}{}{Oooooh! Tudo pisca!}
+{104}{}{Ai! Minha sacroilíaca!}
+{105}{}{Alguém viu minha vesícula biliar?}
+{106}{}{Minha coluna! Minha coluna!}
+{107}{}{Estou indo até você, Elizabeth!}
+{108}{}{Médico...}
+{109}{}{Alguém poderia me ajudar? Não consigo ler o número da placa.}
+{110}{}{Ei, amigo!}
+{111}{}{Ei, moça!}
+{112}{}{O nome é Lumpy. Você poderia me ajudar aqui um momento?}
+{113}{}{Ouchie. Tudo bem, Lumpy?}
+{114}{}{Meu Deus! Está tudo bem, Lumpy?}
+{115}{}{Ops...}
+{116}{}{Ah, tudo é rosa. Se eu não tiver várias fraturas expostas e um enfeite de capuz alojado vários centímetros na minha bunda, está tudo bem.}
+{117}{}{Ahhh. Precisa de ajuda?}
+{118}{}{Bom. Tchau.}
+{119}{}{Tudo bem, relaxa. Você precisa de mim para alguma coisa?}
 {120}{}{Thank god. I thought you might be in real trouble. Well, see you later.}
 {121}{}{[Lumpy silently looks you in the eyes. He blinks. He blinks again.]}
 {122}{}{Uhhh... dumm quesjin. Yes?}

@@ -1,6 +1,6 @@
 {100}{}{You see one of the Vault City gate guards.}
 {101}{}{You see a diligent-looking guard. The guard is wearing metal armor and carrying a powerful-looking rifle.}
-{102}{}{Hey! Get away from there!}
+{102}{}{Ei! Cai fora daqui!}
 {103}{}{We warned you once...}
 {104}{}{Hey! It's the one who defeated the Enclave. Open the gate.}
 {105}{}{Bom dia, Capitão.}

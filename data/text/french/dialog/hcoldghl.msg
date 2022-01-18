@@ -8,7 +8,7 @@
 {107}{}{Ouah, je ne me suis pas cassé la hanche depuis presque une heure !}
 {108}{}{Quelqu'un a-t-il vu mes dents ?}
 {109}{}{Où est ma nourriture ?}
-{110}{}{Mort ! Je suis celui que vous voulez ! Par ici !}
+{110}{}{Mort ! Je suis celui que tu veux ! Par ici !}
 {111}{}{Salut, Billy ! Je suis si content que tu sois revenu me voir.}
 {112}{}{La vieillesse, c'est pas fait pour les mauviettes.}
 {113}{}{Oh ! Mes intestins !}

@@ -37,7 +37,7 @@
 {306}{}{Ben, pourquoi pas ? Dites-moi ce que je dois faire et je le ferai. Je travaille dur et je m'applique.}
 {307}{}{Holà ! Ai-je dit que je cherchais du travail ? Je voulais dire que je partais.}
 {315}{}{[Respire à fond dans le masque à oxygène, puis esquisse un sourire.] Bien... sûr. Mais je veux un... gage de ta bonne foi. Un échantillon de ta... volonté de travailler pour nous.}
-{316}{}{Que voulez-vous que je fasse ?}
+{316}{}{Que veux tu que je fasse ?}
 {317}{}{Que voudriez-vous que je fasse, M.Salvatore ? Dites-le et je le ferai.}
 {325}{}{[Secoue légèrement la tête.] Ta naïveté n'a pas... sa place ici. Les paroles ne suffisent pas. Tu veux travailler pour Louis Salvatore ? Alors je dois savoir si je peux compter sur toi.}
 {326}{}{Mais, vous POUVEZ compter sur moi.}

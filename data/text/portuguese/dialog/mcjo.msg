@@ -19,7 +19,7 @@
 {162}{}{I'm looking for a certain item, and I was wondering if you might be able to help me locate it.}
 {164}{}{I'm looking to buy a gold pocket watch. Do you know where I can get one?}
 {165}{}{O que você tem para negociar?}
-{166}{}{What can you tell me about this town?}
+{166}{}{O que você pode me dizer sobre essa cidade?}
 {167}{}{O que você faz aqui?}
 {168}{}{GECK!}
 {169}{}{You're back! What did you find out about the farm?}

@@ -140,24 +140,24 @@
 {293}{}{Não, obrigado. Tchau.}
 {294}{}{Agora você viu como os mutantes são traiçoeiros. Se você tivesse visto antes...}
 {295}{}{Se você não vai nos ajudar, nós não vamos te ajudar.}
-{296}{}{Well, what are ya doin' just standin' there? You've got patriots to rescue from incarceration!}
-{297}{}{Oh.. That's right.}
-{298}{}{I told you to break them out of prison, not get them killed! What the hell's the matter with you?}
-{299}{}{I'm sorry... I just...}
-{300}{}{Just nothin'. Whether you meant to or not, you've royally screwed up our plans for this town. Now yer gonna pay.}
-{301}{}{Sorry, friend, but... I just lost my two best friends. Those bastard muties killed them in prison.}
-{302}{}{Urrggg. Toooo badddd. Bye.}
-{303}{}{Uh... Gee. I'm really sorry. You have my condolences. Bye.}
+{296}{}{Tá, e o que você faz parado aí? Você uns patriotas para resgatar da cadeia!}
+{297}{}{Oh.. Isso mesmo.}
+{298}{}{Eu te disse para tirar eles da prisão, não matá-los! Qual é o seu problema?}
+{299}{}{Me desculpe... é que...}
+{300}{}{Que nada. Querendo ou não, você estragou todos os planos que tínhamos para essa cidade. Mas agora você vai pagar.}
+{301}{}{Desculpe, amigo, mas... acabei de perder meus dois melhores amigos. Aqueles mutantes desgraçados os mataram na prisão.}
+{302}{}{Urrggg. Ruim demaaaais. Tchau.}
+{303}{}{Oh... Puxa. Eu realmente sinto muito, meus sentimentos. Até.}
 {304}{}{Oops.}
-{305}{}{Oops? Did you say 'Oops?' You didn't have nothin' to do with this, did you?}
-{306}{}{It was an accident, I swear!}
-{307}{}{Hell no. Of course not! Damn muties!}
-{308}{}{Accident, my ass! Eat this, you mutie-lovin' rat-bastard!}
-{309}{}{Yeah, well... their day is comin'.}
-{310}{}{I already told you everything you need to know about this place. So, what do you want?}
+{305}{}{Opa? Você disse "Opa"? Você não tem nada a ver com isso, não é?}
+{306}{}{Foi um acidente, eu juro!}
+{307}{}{Nunca, cara. Claro que não! Malditos mutantes!}
+{308}{}{Acidente é o caralho! Você vai se fuder agora, seu pau mandado de mutantes!}
+{309}{}{Sim, bem... a hora dele chegou.}
+{310}{}{Já contei tudo o que você precisa saber sobre esse lugar. Então o que você quer?}
 {311}{}{Eu tenho algumas outras perguntas.}
 {312}{}{Nada. Esqueça.}
 {313}{}{Obrigado.}
 {314}{}{[CONTINUAR]}
-{315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}
+{315}{}{Ei, cara. Agradeço sua ajuda para tirar nossos amigos dessa loucura. Coloquei você na minha lista boa.}
 {316}{}{Obrigado.}
