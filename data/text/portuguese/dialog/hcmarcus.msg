@@ -1,54 +1,54 @@
-{100}{}{You see a burly old mutant.}
-{101}{}{You see Marcus the Mutant, sheriff of Broken Hills.}
-{102}{}{You see a burly old mutant with a weary cast to his face. He still looks vigorous and tough.}
-{103}{mcs1a}{Well, what the hell. I haven't seen one of those outfits for a long, long time. Takes me back.}
-{104}{mcs1b}{What do you want, human?}
-{105}{mcs1c}{Something else you wanted?}
-{106}{}{Uggie.}
+{100}{}{Você vê um velho mutante corpulento.}
+{101}{}{Você vê Marcus, o Mutante, xerife de Broken Hills.}
+{102}{}{Você vê um velho mutante corpulento com um rosto cansado. Ele ainda parece vigoroso e resistente.}
+{103}{mcs1a}{Bem, olha só. Fazia muito tempo que não via uma dessas roupas. Me trás recordações.}
+{104}{mcs1b}{O que você quer, humano?}
+{105}{mcs1c}{Você queria algo mais?}
+{106}{}{Feio.}
 {107}{}{Quem é você?}
-{108}{}{What's the story with this place?}
-{109}{}{Why aren't you mutants attacking me?}
-{110}{}{What's the news?}
-{111}{}{I have something I wanted to tell you.}
-{112}{}{You wanna travel with me?}
+{108}{}{Qual é a história desse lugar?}
+{109}{}{Por que os mutantes não estão me atacando?}
+{110}{}{Quais as novidades?}
+{111}{}{Tenho algo que eu queria te dizer.}
+{112}{}{Quer viajar comigo?}
 {113}{}{Adeus.}
-{114}{mcs3}{Yeah, I'm a ugly mutant. I also run this place. You got a problem with that?}
+{114}{mcs3}{Sim, eu sou um mutante feio. Eu também tomo conta deste lugar. Algum problema com isso?}
 {115}{}{Uh!}
 {116}{}{Nuh.}
-{117}{mcs4}{You wanna fight me?}
+{117}{mcs4}{Quer lutar contra mim?}
 {118}{}{Uh!}
 {119}{}{Nuh.}
-{120}{mcs5}{Take your best shot, human.}
-{121}{mcs6a}{Good.}
-{122}{mcs6b}{Keep your nose clean and you won't get into trouble.}
+{120}{mcs5}{Mostre seu melhor golpe, humano.}
+{121}{mcs6a}{Bom.}
+{122}{mcs6b}{Mantenha seu nariz fora de onde não te interessa e você não terá problemas.}
 {123}{}{Uh?}
-{124}{mcs7}{I'm Marcus. Helped build the place. Now I'm sheriff.}
-{125}{}{You helped build this place? That must have been a long time ago...}
-{126}{}{Bullshit. How could you have been around that long?}
+{124}{mcs7}{Eu sou Marcus. Ajudei a construir esse lugar e agora sou o xerife.}
+{125}{}{Você ajudou a construir este lugar? Isso deve ter sido há muito tempo...}
+{126}{}{Besteira. Como você pode ter vivido tanto tempo?}
 {127}{}{Adeus.}
-{128}{mcs8}{Long story. Want it short or the whole thing?}
-{129}{}{Give me the short version.}
-{130}{}{Hell, I'm not too busy. Let's hear it all.}
-{131}{}{Neither. I have more questions.}
-{132}{}{Neither. See ya.}
-{133}{mcs9}{Right. Me and a human named Jacob built this place around that old bank about 60 years ago. Anyone's welcome here, long as they keep the peace.}
+{128}{mcs8}{Longa história. Quer um resumo ou a história completa?}
+{129}{}{Pode me fazer um resumo.}
+{130}{}{Estou de boa agora, pode me contar tudo, quero ouvir.}
+{131}{}{Nem um nem outro. Eu tenho mais perguntas.}
+{132}{}{Nem um nem outro. Nos vemos depois.}
+{133}{mcs9}{Muito bem. Eu, junto com um humano chamado Jacob, construímos este lugar ao redor da velha margem cerca de 60 anos atrás. Todos são bem-vindos aqui, desde que mantenham a paz.}
 {134}{}{Grande. Eu tenho mais perguntas.}
-{135}{}{Fair enough. Bye.}
-{136}{mcs10}{Right... After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
+{135}{}{Me parece justo. Tchau.}
+{136}{mcs10}{Certo... Depois da destruição do Mestre, seus tonéis e sua base, eu vaguei sem um rumo pelo deserto. Um dia fui atacado por um maluco vestindo uma power armor.}
 {137}{}{Realmente?}
-{138}{mcs11}{That was Jacob, from the Brotherhood of Steel. He'd sworn some oath to destroy muties. We tussled for a while -- probably a day or two. After a while, we just started laughing. What was the point?}
+{138}{mcs11}{Esse era Jacob, membro da Irmandade do Aço. Ele fez algum juramento em destruir os mutantes. Nós lutamos um tempo - talvez um dia ou dois. Mas depois de pensar, começamos a rir. Qual era o sentido nisso?}
 {139}{}{Então o que ?}
-{140}{mcs12}{We became friends. Headed off together. Then other people started following us. Guess they figured if they weren't safe with a mutie and a Steel Knight, safe just wasn't going to happen. }
-{141}{}{So you set up here. Why?}
-{142}{mcs13}{Uranium mine. I knew there was one around from old maps. Now anybody's welcome here -- 'long as they act right. Others might not think much of us, but nobody's more free than we are. There ya go.}
-{143}{}{Wait... you were friends with a guy from the Brotherhood?}
-{144}{}{What, you're not killing humans anymore?}
-{145}{}{Thanks. There I go. Bye.}
-{146}{mcs14}{Oh, what sinkhole are you from? Muties and normals made peace a long time ago.}
-{147}{}{I'm from a village founded by the original Vault Dweller.}
-{148}{}{From a village to the north west.}
-{149}{}{Oh. My mistake. Well, thanks. Bye.}
-{150}{mcs15a}{What's news... what's news...}
+{140}{mcs12}{Nós nos tornamos amigos e partimos juntos. Outras pessoas também começaram a nos seguir. Acho que eles perceberam que se não estivessem seguros com um super mutante e um cavaleiro da irmandade, eles não estariam seguros em lugar nenhum. }
+{141}{}{Então você se estabeleceu por aqui. Por quê?}
+{142}{mcs13}{Mina de urânio. De acordo com mapas antigos elas ficavam por aqui. Agora, qualquer um é bem-vindo aqui - desde que aja corretamente. O resto do mundo pode o que quiser, mas ninguém é mais livre do que nós aqui.}
+{143}{}{Espere... você era amigo de um cara da Irmandade?}
+{144}{}{O que, você não está mais matando humanos?}
+{145}{}{Obrigado. Preciso ir, tchau.}
+{146}{mcs14}{Oh, de que buraco você saiu? Mutantes e normais fizeram as pazes há muito tempo.}
+{147}{}{Eu sou de uma vila fundada pelo Morador da Vault original.}
+{148}{}{De uma aldeia a noroeste.}
+{149}{}{Oh, erro meu. Bem, obrigado. Tchau.}
+{150}{mcs15a}{Noticias… noticias…}
 {151}{mcs15b}{Well, gettin' kind of worried about one of our caravan guys. Chad. He might be skimming. You up to checking him out for me?}
 {152}{}{O quê tem pra mim?}
 {153}{}{Sure. I'll do it.}

@@ -19,28 +19,27 @@
 {117}{}{Ahhh. Precisa de ajuda?}
 {118}{}{Bom. Tchau.}
 {119}{}{Tudo bem, relaxa. Você precisa de mim para alguma coisa?}
-{120}{}{Thank god. I thought you might be in real trouble. Well, see you later.}
-{121}{}{[Lumpy silently looks you in the eyes. He blinks. He blinks again.]}
-{122}{}{Uhhh... dumm quesjin. Yes?}
-{123}{}{I'll take that as a yes.}
-{124}{}{You're goddamn right, yes! I can barely move! Now mind you, I ain't whining. I've had worse scrapes.
- Why this ain't nothing compared to that mix-up years ago with the Cola truck down south a ways. Ya' shoulda
- seen it, kid! Caps everywhere!}
-{125}{}{Aaahhh. Funnee!}
-{126}{}{Wow! Imagine someone running across that in the desert! They would've been rich!}
-{127}{}{You bet. Arrgh! Oww! I hate to put a damper on this scintillating conversation, but if you could help me out from
- under this bumper, I'd appreciate it.}
-{128}{}{U sure?}
-{129}{}{Are you sure? You probably shouldn't move.}
-{130}{}{Ahh, don't worry about it. Everything'll pop back into place eventually.}
-{131}{}{OK. Get reddee!}
-{132}{}{All right. Get ready!}
-{133}{}{Yeah, oops! Where the hell did you learn to drive?}
-{134}{}{Meeself.}
-{135}{}{Well, I'm self-taught actually.}
-{136}{}{It shows. Believe me.}
-{137}{}{Oh. U OK?}
-{138}{}{Oh... well I... hmmmm. Are... are you okay?}
-{139}{}{I told 'em. 'We need traffic signs', I said. But did they listen? Noooo... let's not listen to ol' Lumpy!}
-{200}{}{Oh, crap!}
-{201}{}{Uh, oh. Me hit smelly man.}
+{120}{}{Graças a Deus. Eu pensei que você poderia estar em perigo. Bem, vejo você mais tarde.}
+{121}{}{[Lumpy te olha nos olhos silenciosamente. Ele pisca... Duas vezes.]}
+{122}{}{Ahhh... pergunta idiota. Sim?}
+{123}{}{Vou tomar isso como um sim.}
+{124}{}{Você tem razão, sim! Eu mal consigo me mexer! Agora preste atenção, eu não estou choramingando.
+ Já tive machucados piores. Isso não é nada comparado com aquela confusão de anos atrás com aquele
+ caminhão de Cola do sul. Você deveria ter visto, garoto! Tampinhas por todo lugar!}
+{125}{}{Aaahhh. Divertiiido!}
+{126}{}{Caramba! Imagine alguém correndo com isso no deserto! Ele teria ficado rico!}
+{127}{}{Pode apostar. Arrgh! Ow! Eu odeio estragar nossa conversa fantástica, mas se você puder me ajudar a sair de baixo desse para-choque, eu agradeceria.}
+{128}{}{Tem certeza?}
+{129}{}{Tem certeza? Acho que você não deveria se mover.}
+{130}{}{Ah, não se preocupe com isso. Uma hora tudo volta ao lugar.}
+{131}{}{OK. Prepare você!}
+{132}{}{Tudo bem. Prepare-se!}
+{133}{}{Sim, ops! Onde que você aprendeu a dirigir?}
+{134}{}{Sozinho.}
+{135}{}{Na verdade eu sou autodidata.}
+{136}{}{Ah, tá explicado.}
+{137}{}{Oh. Tudo bem?}
+{138}{}{Oh... bem, eu... hmmmm. Você... você está bem?}
+{139}{}{Eu falei. 'Precisamos de sinais de trânsito', foi o que eu disse. Mas eles ouviram? Nããão... deixa o velho Lumpy pra lá!}
+{200}{}{Oh, merda!}
+{201}{}{Ei. Eu bati no homem fedido.}

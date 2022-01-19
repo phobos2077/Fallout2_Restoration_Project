@@ -1,15 +1,15 @@
-{100}{}{You see a male biped of the species homosapien.}
-{101}{}{You see a male townsperson.}
-{102}{}{You see a male townsperson. He's dirty, but he carries his head high.}
-{131}{}{All the mutants... dead... I can't believe it.}
+{100}{}{Você vê um bípede macho da espécie homo sapiens.}
+{101}{}{Você vê um residente.}
+{102}{}{Você vê um residente. Ele é sujo, mas mantém uma postura confiante.}
+{131}{}{Todos os mutantes... mortos... não posso acreditar.}
 {132}{}{Quem faria algo assim?}
-{133}{}{Where did that poison come from?}
-{134}{}{With all the mutants dead, we're going to need NCR for protection.}
-{135}{}{I want revenge on the bastards responsible.}
-{136}{}{Who can we kill in return?}
-{137}{}{Does NCR have an army? Who'll protect us now?}
-{138}{}{I guess we don't have to worry about possible mutant uprisings now...}
-{139}{}{Poor Marcus... who'll lead us now?}
+{133}{}{De onde veio esse veneno?}
+{134}{}{Com todos os mutantes mortos, vamos precisar da proteção da NCR.}
+{135}{}{Quero me vingar de todos os desgraçados responsáveis.}
+{136}{}{Quem podemos matar como vingança?}
+{137}{}{A NCR tem um exército? Quem vai nos proteger agora?}
+{138}{}{Acho que agora não precisamos nos preocupar com possíveis revoltas de mutantes...}
+{139}{}{Pobre Marcus... quem vai se nosso líder?}
 {147}{}{Não há lugar seguro agora?}
 {148}{}{Quando os bandidos se tornaram algo comum?}
 {149}{}{Estou pensando em me mudar... não é mais seguro aqui.}
@@ -54,15 +54,15 @@
 {188}{}{Francis parece radiante. Meteu com alguém?}
 {189}{}{Olá, gimp!}
 {190}{}{Você ainda anda ereto?}
-{191}{}{Did Francis scar you?}
-{192}{}{You're walking a little loose, there.}
+{191}{}{Francis te machucou?}
+{192}{}{Você tem uma pequena mancha, ali.}
 {193}{}{Como você pode estúpido ao ponto de lutar contra Francis com suas possibilidades?}
 {194}{}{Espero que você tenha gostado tanto quanto Francis.}
 {198}{}{Fico feliz em ter você na cidade.}
 {199}{}{Vai ficar um pouco por aqui?}
 {200}{}{Eu espero que você goste disso aqui!}
 {201}{}{Você está fazendo um bom trabalho. Já pensou em ser xerife?}
-{202}{}{Town seems so much nicer lately.}
+{202}{}{A cidade parece muito mais bonita ultimamente.}
 {203}{}{Parece que as coisas finalmente estão começando a se ajustar.}
 {204}{}{Afaste-se de mim, canalha.}
 {205}{}{Eu não me associo com sua espécie.}
