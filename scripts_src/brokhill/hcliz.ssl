@@ -417,9 +417,9 @@ procedure Node001 begin
       Reply(103);
    end
 
-   if( dude_iq == 1 ) then
+   if (dude_iq_talk == 1) then
       NOption(105, Node002, 001);
-   if( ( dude_iq == 2 ) or ( dude_iq == 3 ) ) then
+   if (dude_iq_talk == 2) or (dude_iq_talk == 3) then
       NOption(106,Node003,002);
    NOption(107,Node007,004);
    NOption(108,Node008,004);

@@ -222,6 +222,7 @@ variable step_tile;
 #define self_right_hand                   get_right_hand(self_obj)
 
 #define dude_is_stupid                      (dude_iq <= 3)
+#define dude_is_stupid_talk                 (dude_iq + dude_smooth_talker <= 3)
 #define dude_name                           (obj_name(dude_obj))
 #define dude_gender                         (get_critter_stat(dude_obj,STAT_gender))
 #define dude_strength                       (get_critter_stat(dude_obj,STAT_st))
@@ -229,6 +230,7 @@ variable step_tile;
 #define dude_endurance                      (get_critter_stat(dude_obj,STAT_en))
 #define dude_charisma                       (get_critter_stat(dude_obj,STAT_ch))
 #define dude_iq                             (get_critter_stat(dude_obj,STAT_iq))
+#define dude_iq_talk                        (get_critter_stat(dude_obj,STAT_iq) + dude_smooth_talker)
 #define dude_agility                        (get_critter_stat(dude_obj,STAT_ag))
 #define dude_luck                           (get_critter_stat(dude_obj,STAT_lu))
 #ifndef dude_level
