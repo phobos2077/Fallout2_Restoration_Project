@@ -248,7 +248,7 @@ procedure Node0203a begin
    number1 := self_item_count(PID_MEAT_ON_A_STICK);
    gdialog_barter;
    Reply("");
-   NOption(g_mstr(352), Node006, 4);
+   NOption(g_mstr(352), Node006, 1);
 end
 
 procedure Node001 begin
