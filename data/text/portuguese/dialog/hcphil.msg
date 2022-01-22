@@ -98,7 +98,7 @@
 {217}{}{Obrigado. Até mais.}
 {218}{}{I understand that you can poke around the mine now. Hell, if you find anything, you might even
  get to keep it.}
-{219}{}{You got anything else?}
+{219}{}{Você tem mais alguma coisa?}
 {220}{}{Obrigado.}
 {221}{}{Hell yeah! Find out where those two lunatics Franc and Manson went!}
 {222}{}{Eu estou trabalhando nisso.}

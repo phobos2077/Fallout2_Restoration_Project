@@ -58,120 +58,120 @@
 {157}{}{Já é o suficiente.}
 {158}{}{Não me interessa. Quero algo.}
 {159}{}{Que tal algumas perguntas enquanto eu penso sobre isso.}
-{160}{}{Let me think about it. Bye.}
-{161}{mcs17}{That ain't good enough for you? Then get out.}
+{160}{}{Deixe eu pensar sobre isso. Até.}
+{161}{mcs17}{Isso não é o suficiente para você? Então saia.}
 {162}{}{Adeus.}
-{163}{mcs18}{Got a little trouble with the mine. If you're interested in helping fix it, go talk to Zaius, the mine foreman.}
+{163}{mcs18}{Tive um pequeno problema na mina. Se você estiver interessado em ajudar a consertar, converse com Zaius, o capataz da mina.}
 {164}{}{Aonde eu posso encontrá-lo?}
-{165}{}{You got anything else?}
+{165}{}{Você tem mais alguma coisa?}
 {166}{}{Eu tenho mais perguntas.}
-{167}{}{Maybe later. Bye.}
-{168}{mcs19}{Usually at the mine. Sometimes the saloon.}
-{169}{}{Got anything else?}
+{167}{}{Talvez depois. Tchau.}
+{168}{mcs19}{Geralmente na mina. Às vezes, no salão.}
+{169}{}{Algo mais?}
 {170}{}{Eu tenho mais perguntas.}
 {171}{}{Adeus.}
-{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
-{173}{}{Got anything else?}
+{172}{mcs20}{Alguém tirou dois lunáticos da prisão do banco. Os encontre e me avise quando fizer, vou enfia-los de volta.}
+{173}{}{Algo mais?}
 {174}{}{Eu tenho mais perguntas.}
 {175}{}{Adeus.}
-{176}{mcs21}{What exactly do you want? Okay. We've got some folks missing. No idea what's happened. Find 'em, get $500.}
-{177}{}{I'll do it for free.}
-{178}{}{$500? Sounds good.}
-{179}{}{I don't have time.}
+{176}{mcs21}{O que exatamente você quer? Certo. Temos algumas pessoas desaparecidas, não faço ideia do que aconteceu. Encontre-os e ganhe $500.}
+{177}{}{Eu faço isso de graça.}
+{178}{}{$500? Soa bem.}
+{179}{}{Sem tempo, irmão.}
 {180}{}{Eu tenho mais perguntas.}
 {181}{}{Adeus.}
-{182}{mcs22}{Great. Let me know when you've found something, right?}
+{182}{mcs22}{Ótimo. Me avise quando encontrar algo, beleza?}
 {183}{}{Certo. Eu tenho mais perguntas.}
 {184}{}{Vai fazer. Tchau.}
-{185}{mcs23}{Yeah? What?}
-{186}{}{You wanted me to find those missing people. I've found some tunnels below the city. They might be there.}
-{187}{}{I've found those missing people. They're in tunnels beneath the city.}
-{188}{}{Those two escaped convicts? They're in cahoots with Jacob and Aileen. They're hiding out around Jacob's Drugstore.}
-{189}{}{Jacob and Aileen asked me to break two people out of jail. I think they've got a plan how to do it.}
-{190}{}{Jacob and Aileen want me to blow up the mine. Thought you might want to know.}
-{191}{}{A scientist from NCR wants to try an experimental drug that'll wipe out mutants. Be careful of what you eat and drink.}
-{192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
-{193}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
+{185}{mcs23}{Sim? Que?}
+{186}{}{Você queria que eu encontrasse aquelas pessoas desaparecidas. Encontrei alguns túneis por baixo da cidade, eles poderiam estar lá.}
+{187}{}{Encontrei aquelas pessoas desaparecidas. Elas estão em túneis debaixo da cidade.}
+{188}{}{Aqueles dois fugitivos? Eles estão tramando com Jacob e Aileen, estão se escondendo na Farmácia do Jacob.}
+{189}{}{Jacob e Aileen me pediram para tirar duas pessoas da cadeia. Acho que eles têm um plano de como fazer isso.}
+{190}{}{Jacob e Aileen querem que eu exploda a mina. Achei que você gostaria de saber.}
+{191}{}{Um cientista da NCR quer testar uma droga experimental que vai acabar com os mutantes. Cuidado com o que você come e bebe.}
+{192}{}{No final você estava certo sobre Chad roubar dinheiro. Ele mentiu para o representante de Gecko sobre uma greve de mineradores para justificar um aumento no preço. Ele deve estar embolsando o lucro.}
+{193}{}{Chad embolsou US$ 1.000 do último carregamento de urânio e agora está planejando fugir da cidade. Eu tenho uma pasta com documentos que provam isso.}
 {194}{}{Nada. Esqueça.}
-{195}{mcs24}{Tunnels under the city? Guess it's not that surprising with the mines around. You'll keep looking around for those folks, right? }
+{195}{mcs24}{Túneis por baixo da cidade? Não é tão surpreendente com sabendo das minas ao redor. Você vai continuar procurando por essas pessoas, certo? }
 {196}{}{Certo.}
-{197}{mcs25a}{They're dead? Damn... I'll tell the families myself. }
-{198}{mcs25b}{Here's your reward. $500. Thanks for your time.}
-{199}{mcs25c}{Oh, hey, I know you said you'd do this for free, but take this as our thanks.}
+{197}{mcs25a}{Eles estão mortos? Droga... Eu mesmo direi às famílias. }
+{198}{mcs25b}{Aqui está sua recompensa, $500. Obrigado pelo seu tempo.}
+{199}{mcs25c}{Ei, olha, eu sei que você disse que faria isso de graça, mas aceite isso como nosso agradecimento.}
 {200}{}{Com certeza.}
-{201}{mcs26}{Right. Me and my deputies will take it from here... And, thanks. I don't forget things like this.}
-{202}{}{No prob. Bye.}
-{203}{mcs27}{What is it people got against mutants? We'll be on the lookout. Thanks. The town owes you. And I never forget things like this.}
+{201}{mcs26}{Muito bem. Eu e meus ajudantes vamos cuidar daqui... E, obrigado. Eu não esqueço coisas assim.}
+{202}{}{Sem problemas. Adeus.}
+{203}{mcs27}{O que essas pessoas têm contra mutantes? Ficaremos atentos, obrigado, a cidade deve muito a você. E eu nunca esqueço coisas assim.}
 {204}{}{O prazer é meu. Tchau.}
-{205}{mcs28}{Keep your eye on him, will you? I want to catch him red-handed.}
+{205}{mcs28}{Fique de olho nele, ok? Eu quero pegá-lo em flagrante.}
 {206}{}{Não há problema.}
-{207}{mcs29}{Well, in that case, we'd better be sure to stop him. Want to come along?}
+{207}{mcs29}{Bem, nesse caso, é melhor nos certificarmos em detê-lo. Quer vir junto?}
 {208}{}{Com certeza.}
 {209}{}{Não, obrigado.}
-{210}{mcs30}{You want me to come along with you? Ah, what the hell, I'm too old to settle down. We goin' now?}
+{210}{mcs30}{Você quer que eu vá junto com você? Ah, estou velho demais para sossegar. Vamos agora?}
 {211}{}{Sim.}
-{212}{}{No, not right now.}
-{213}{mcs31}{Ah, there's too much going on right now. When things calm down, then I just might.}
-{214}{}{Sure. I got more questions.}
+{212}{}{Não, agora não.}
+{213}{mcs31}{Há muita coisa acontecendo agora. Quando as coisas se acalmarem, talvez sim.}
+{214}{}{Certo. Eu tenho mais perguntas.}
 {215}{}{Adeus.}
-{216}{mcs32}{Damn right. Best friend I ever had.}
-{217}{}{Yeah, right, you would've dipped him just like everyone else.}
+{216}{mcs32}{Porra, claro. O melhor amigo que já tive.}
+{217}{}{Sim, certo, você o teria mergulhado nas cubas como o resto.}
 {218}{}{Adeus.}
-{219}{mcs33}{Hell, yes, I would've. What a great mutant he would've been.}
-{220}{}{I don't think he'd be happy to hear you say that.}
+{219}{mcs33}{Inferno, com certeza, eu teria. Que grande mutante ele teria sido.}
+{220}{}{Acho que ele não ficaria feliz em te ouvir dizer isso.}
 {221}{}{Adeus.}
-{222}{mcs34}{(laughs) We had this argument all the time. (sighs) I miss that hard-head.}
-{223}{}{What about the Master's hatred for humans?}
-{224}{}{I still think it's a rotten fate.}
+{222}{mcs34}{(risos) Tínhamos essa discussão o tempo todo. (suspiros) Eu sinto falta daquele cabeça dura.}
+{223}{}{E quanto ao ódio do Mestre pelos humanos?}
+{224}{}{Eu ainda acho que é um destino terrível.}
 {225}{}{Adeus.}
-{226}{mcs35}{You're talking a long time ago. The world's moved on. You want to hear ancient history?}
+{226}{mcs35}{Você está falando de muito tempo atrás, o mundo seguiu em frente. Quer ouvir mais histórias antigas?}
 {227}{}{Definitivamente.}
-{228}{}{Not right now. I'd like to ask some other questions, though.}
-{229}{}{Not right now. I'll talk to you later.}
-{230}{mcs36}{Right. Well, never really HATED humans. We just had a better way. These new governments, they think they've got all the answers. Blah, blah. Been there, seen that, got the scars.}
-{231}{}{So what was the better way?}
-{232}{mcs37}{The Master wanted to elevate everyone to his level, so we wouldn't fight each other anymore. He was convinced we wouldn't do it by ourselves -- couldn't. We had to be forced to evolve.}
-{233}{}{Do you agree?}
-{234}{mcs38}{While Jacob was alive, I thought the Master was wrong. But it seems that while some men can heed the call and rise above it all, most just run away.}
-{235}{}{So you think the Master was right?}
-{236}{mcs38a}{Jacob heard the call and embraced it. So did the Vault Dweller. But no matter how many rise above, the masses will always destroy them, right?}
+{228}{}{Não agora. Mas eu gostaria de fazer algumas outras perguntas.}
+{229}{}{Não agora. Falo com você mais tarde.}
+{230}{mcs36}{Bem, nós nunca realmente ODIAMOS os humanos, nós apenas tínhamos um caminho melhor. Esses novos governos pensam que têm todas as respostas, blá, blá, blá. Eu estive lá, vi tudo, tenho as cicatrizes.}
+{231}{}{Então, qual era a melhor maneira?}
+{232}{mcs37}{O Mestre queria elevar todos ao seu nível, não existiriam mais confrontos. Ele estava convencido de que não faríamos isso sozinhos – não podíamos. Tivemos que ser forçados a evoluir.}
+{233}{}{Você estava de acordo?}
+{234}{mcs38}{Enquanto Jacob estava vivo, eu pensava que o Mestre estava errado. Mas parece que enquanto alguns homens podem ouvir o chamado e se levantar, a maioria simplesmente foge.}
+{235}{}{Então você acha que o Mestre estava certo?}
+{236}{mcs38a}{Jacob ouviu o chamado e o abraçou, assim como o Morador da Vault. Mas não importa quantos se elevem, as massas sempre os destruirão, certo?}
 {237}{}{Talvez.}
-{238}{mcs39}{The Master just wanted everyone to see clearly. The Vault Dweller ended that dream.}
-{239}{}{Sounds like you admired and hated the Vault Dweller at the same time.}
-{240}{}{You were a human. How can you justify what the Master did to you?}
-{241}{}{So you think the Master's plan was right?}
-{242}{}{I'm descended from the original Vault Dweller, you know.}
-{243}{mcs40}{You're right. If all humans fought for what they believed in like that, we wouldn't have needed the Master's plan in the first place.}
-{244}{}{The Master wanted to enslave humanity!}
-{245}{}{Interesting spin. I gotta go.}
-{246}{mcs41}{Don't forget, I knew the folks involved. They were the best humanity had to offer. Your people are going to tell the story a different way, right?}
+{238}{mcs39}{O Mestre só queria que todos vissem claramente. O Morador da Vault acabou com esse sonho.}
+{239}{}{Parece que você admira e odeia o Morador da Vault ao mesmo tempo.}
+{240}{}{Você era um humano. Como você justifica o que o Mestre fez com você?}
+{241}{}{Então você acha que o plano do Mestre estava certo?}
+{242}{}{Eu sou descendente do Morador da Vault original, você sabe.}
+{243}{mcs40}{Tem razão. Se todos os humanos lutassem assim pelo que acreditam, não precisaríamos do plano do Mestre pra começar.}
+{244}{}{O Mestre queria escravizar a humanidade!}
+{245}{}{Uma reviravolta interessante. Preciso ir.}
+{246}{mcs41}{Não esqueça que eu conhecia as pessoas envolvidas, eles eram o melhor que a humanidade poderia oferecer. Mas as pessoas vão contar a história de uma maneira diferente, certo?}
 {247}{}{Err... Talvez. Umm, eu tenho mais perguntas.}
-{248}{}{Wrong!}
-{249}{mcs42}{The "original Vault Dweller"? You mean the one who killed the Master and destroyed the vats?}
+{248}{}{Errado!}
+{249}{mcs42}{O "Morador da Vault original"? Você quer dizer aquele que matou o Mestre e destruiu as cubas?}
 {250}{}{Ummm... sim.}
-{251}{}{Damn right. Gonna do something about it, mutie?}
+{251}{}{Exatamente. Vai fazer algo sobre isso, mutante?}
 {252}{}{Nããão... esta é outra pessoa. Eu não sei do que você está falando.}
-{253}{mcs43}{Not a problem. Like I said, that was a long time ago.}
-{254}{}{I'm not afraid of you.}
-{255}{}{Why did you hate humans back then?}
-{256}{mcs44}{No reason to be, unless you cross me or someone in my town. Be civilized, that's all I ask.}
-{257}{}{I'll keep it in mind. I have more questions.}
-{258}{}{I'll keep it in mind. Bye.}
-{259}{mcs45}{Lemme make this clear: Nothing's going to happen here unless you start it. Just stay civilized while you're in my town.}
-{260}{}{Yeah, right. I have more questions.}
-{261}{}{Yeah, right. Bye.}
-{262}{mcs46}{My memories of being a human aren't as clear as they once were, but I remember pettiness, hatred, jealousy... I prefer being a mutant.}
-{263}{}{So you think the Master's plan was right?}
-{264}{}{Huh. You're a lot uglier this way. Bye.}
-{265}{}{Then you're fine. Bye.}
-{266}{mcs47}{It was flawed. We should have only taken the best. Look around. Most mutants didn't have the mind or will to withstand the strain. (sighs) If only we had chosen better...}
-{267}{}{So you would have dipped Jacob? Or the Vault Dweller?}
-{268}{}{Yeah, that's a tragedy. Well, see ya later!}
-{269}{mcs48}{You ever get back there, tell them the war's over. It's been over a long time.}
-{270}{}{Ummm. Okay. I have more questions.}
+{253}{mcs43}{Nenhum problema. Como eu disse, isso foi há muito tempo.}
+{254}{}{Eu não tenho medo de você.}
+{255}{}{Por que você odiava os humanos naquela época?}
+{256}{mcs44}{Não há razão para ter, a menos que você cruze comigo ou alguém da minha cidade. Seja civilizado, é tudo o que peço.}
+{257}{}{Vou manter isso em mente. Eu tenho mais perguntas.}
+{258}{}{Vou manter isso em mente. Adeus.}
+{259}{mcs45}{Vou deixar isso bem claro: nada vai acontecer aqui a menos que você comece. Apenas seja civilizado enquanto estiver na minha cidade.}
+{260}{}{Ok, certo. Eu tenho mais perguntas.}
+{261}{}{Ok, claro. Tchau.}
+{262}{mcs46}{Minhas memórias humanas não são tão claras quanto antes, mas me lembro de mesquinhez, ódio, ciúme... prefiro ser um mutante.}
+{263}{}{Então você acha que o plano do Mestre estava certo?}
+{264}{}{Huh. Você é muito mais feio assim. Tchau.}
+{265}{}{Então você está bem. Tchau.}
+{266}{mcs47}{Era falho. Devíamos ter pego apenas o melhor, olhar em volta. A maioria dos mutantes não tinha o entendimento ou a vontade de suportar a tensão. (suspira) Eu gostaria que tivéssemos escolhido melhor…}
+{267}{}{Então você teria mergulhado Jacob? Ou o Morador da Vault?}
+{268}{}{Sim, isso é uma tragédia. Até logo!}
+{269}{mcs48}{Se você voltar lá, diga a eles que a guerra acabou. Já faz muito tempo.}
+{270}{}{Ummm, ok. Eu tenho mais perguntas.}
 {271}{}{Correto. Tchau.}
-{272}{mcs49alt}{Thanks for your help. Could've been trouble. We took their weapons cache and disabled their bombs.}
-{273}{}{Great! I have some questions...}
+{272}{mcs49alt}{Obrigado pela ajuda, poderia ter sido um problema. Confiscamos seu arsenal e desarmamos suas bombas.}
+{273}{}{Excelente! Eu tenho algumas perguntas...}
 {274}{}{Hey, I found something out.}
 {275}{}{Didn't learn anything.}
 {276}{mcs103a}{Too many people. I've done my traveling with a horde.}
@@ -337,6 +337,6 @@
 {40002}{}{*sigh* I'm coming.}
 {40003}{}{You have found Chad guilty of skimming money from the caravans.}
 {40004}{}{You have found Chad guilty of skimming money from the caravans. Too bad he died.}
-{193001}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
-{193002}{}{Chad kept about $1000 from the last uranium shipment for himself. He was planning on bailing out of town, but we had a confrontation. He's dead. I have a briefcase of documents to prove his involvement.}
-{193003}{}{Chad's admitted to the whole thing. We got into a scuffle over at the caravan center. He's given up and waiting to be brought in.}
+{193001}{}{Chad embolsou US$ 1.000 do último carregamento de urânio e agora está planejando fugir da cidade. Eu tenho uma pasta com documentos que provam isso.}
+{193002}{}{Chad embolsou US$ 1.000 do último carregamento de urânio. Ele estava planejando fugir da cidade, tivemos uma briga e ele acabou morto. Olha, tenho essa pasta com documentos que provam o envolvimento dele.}
+{193003}{}{Chad admitiu tudo, entramos em uma briga no meio das caravanas. Ele desistiu e está esperando para ser trazido.}
