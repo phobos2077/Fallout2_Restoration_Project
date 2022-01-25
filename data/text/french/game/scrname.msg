@@ -569,7 +569,7 @@
 {669}{}{Darion}
 {670}{}{Garde de Darion}
 {671}{}{Chien de Darion}
-{672}{}{MacRae}
+{672}{}{Cassidy}
 {673}{}{Puits}
 {674}{}{Rataupe}
 {675}{}{Morceau de Brahmine}

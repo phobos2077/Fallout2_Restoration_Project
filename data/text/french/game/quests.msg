@@ -4,8 +4,8 @@
 {130}{}{Récupère le JEK pour Arroyo.}
 {140}{}{Trouve Vic le Marchand.}
 {200}{}{Efface la dette de Vic en récupérant sa radio chez lui à Klamath et en payant Metzger.}
-{201}{}{Trouve comment Becky peut vendre son alcool à des prix aussi peu élevés.}
-{202}{}{Sabote l'alambic de Becky.}
+{201}{}{Trouve comment Babeth peut vendre son alcool à des prix aussi peu élevés.}
+{202}{}{Sabote l'alambic de Babeth.}
 {203}{}{Procure une pièce détachée d'automobile à Smitty.}
 {204}{}{Rends son médaillon à Anna.}
 {205}{}{Récupère l'argent des mains de Fred.}
