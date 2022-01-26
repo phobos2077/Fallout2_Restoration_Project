@@ -145,7 +145,7 @@
 {242}{}{Actually, none of them. I have to go.}
 {243}{}{I'll be back when I have more cash to spare.}
 {244}{}{I suppose I could juice up that cattleprod for you. It'll cost you $750.}
-{245}{}{All right. }
+{245}{}{Está bem. }
 {246}{}{How about $650 instead?}
 {247}{}{Actually, could you upgrade one of my other weapons instead?}
 {248}{}{Esqueçe. Eu queria outra coisa...}

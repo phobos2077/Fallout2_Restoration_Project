@@ -57,7 +57,7 @@
 {145}{}{Yeah, what?}
 {146}{}{Eu preciso que você saia do meu caminho.}
 {147}{}{How are you?}
-{148}{}{Heal yourself.}
+{148}{}{Cure-se.}
 {149}{}{Eu preciso que você espere aqui até eu voltar.}
 {150}{}{You! Ooyag!}
 {151}{}{É isso por agora.}

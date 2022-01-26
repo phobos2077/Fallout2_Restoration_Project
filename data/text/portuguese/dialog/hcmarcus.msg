@@ -172,136 +172,136 @@
 {271}{}{Correto. Tchau.}
 {272}{mcs49alt}{Obrigado pela ajuda, poderia ter sido um problema. Confiscamos seu arsenal e desarmamos suas bombas.}
 {273}{}{Excelente! Eu tenho algumas perguntas...}
-{274}{}{Hey, I found something out.}
-{275}{}{Didn't learn anything.}
-{276}{mcs103a}{Too many people. I've done my traveling with a horde.}
-{277}{mcs103b}{I thought you were one of the good ones. I ain't coming with you.}
-{278}{mcs103c}{I'm not coming with you right now. Sorry. [He looks you up and down distastefully.]}
-{279}{}{All right. }
-{280}{}{That scares the living crap outta me.}
-{281}{}{Ain't much in the wasteland frightens me... that does.}
-{282}{}{You must be as stupid as you look if you're gonna fight me.}
+{274}{}{Ei, eu descobri algo.}
+{275}{}{Não aprendi nada.}
+{276}{mcs103a}{Muitas pessoas. Fiz minhas viagens com uma horda.}
+{277}{mcs103b}{Achei que você fosse um dos bons, não vou com você.}
+{278}{mcs103c}{Eu não vou com você, desculpe. [Ele te olha de cima a baixo com desgosto.]}
+{279}{}{Está bem. }
+{280}{}{Isso me assusta pra caramba.}
+{281}{}{Não há muita coisa no deserto que me assusta... isso sim.}
+{282}{}{Você deve ser tão estúpido quanto parece se vai lutar comigo.}
 {283}{}{Chutando algumas bundas... de novo.}
-{284}{}{It's almost too easy.}
-{285}{}{Don't you have some friends who can help ya even this out?}
-{286}{}{Had enough?}
-{287}{}{Got it. Just so you know.}
-{288}{}{Humph. Something wasn't right.}
-{289}{mcs109}{You want me back now?}
+{284}{}{É quase fácil demais.}
+{285}{}{Você não tem algum amigo que pode te ajudar a resolver isso?}
+{286}{}{Teve o suficiente?}
+{287}{}{Entendi. Só para você saber.}
+{288}{}{Hum. Algo não correu bem.}
+{289}{mcs109}{Você quer que eu volte agora?}
 {290}{}{Tudo bem.}
-{291}{}{Not just yet. Goodbye.}
-{292}{mcs110}{What do you want?}
-{293}{}{How are you feeling?}
-{294}{}{Heal yourself.}
+{291}{}{Ainda não. Adeus.}
+{292}{mcs110}{O que você quer?}
+{293}{}{Como se sente?}
+{294}{}{Cure-se.}
 {295}{}{Eu preciso que você espere aqui até eu voltar.}
 {296}{}{É isso por agora.}
-{297}{mcs111a}{I'm all set.}
-{298}{mcs111b}{Got nothing that'll slow us down.}
-{299}{mcs111c}{You got anything to help?}
-{300}{mcs111d}{Maybe you should have a look at this.}
-{301}{}{Use your skills to heal yourself.}
+{297}{mcs111a}{Tudo pronto.}
+{298}{mcs111b}{Não tenho nada para nos atrasar.}
+{299}{mcs111c}{Você tem alguma coisa que ajude?}
+{300}{mcs111d}{Talvez você devesse dar uma olhada nisso.}
+{301}{}{Use suas habilidades para se curar.}
 {302}{}{Não importa.}
 {303}{}{OK}
-{304}{mcs160}{I'll just stay here and tighten the vises on my shoulder.}
+{304}{mcs160}{Vou ficar por aqui e apertar o parafuso no meu ombro.}
 {305}{}{Não importa.}
 {306}{}{OK}
-{307}{}{North.}
-{308}{}{Northwest.}
-{309}{}{West.}
-{310}{}{Southwest.}
+{307}{}{Norte.}
+{308}{}{Noroeste.}
+{309}{}{Oeste.}
+{310}{}{Sudoeste.}
 {311}{}{Sul.}
-{312}{}{Southeast.}
-{313}{}{East.}
-{314}{}{Northeast.}
-{315}{}{Don't ask me. I don't know. }
+{312}{}{Sudeste.}
+{313}{}{Leste.}
+{314}{}{Nordeste.}
+{315}{}{Nem me pergunte, eu não sei. }
 {316}{}{É.}
 {317}{}{Certo.}
 {318}{}{Não.}
-{319}{}{Why're you talking to me like this?}
-{320}{}{Not very nice.}
-{321}{}{Thanks. }
+{319}{}{Por que você está falando comigo assim?}
+{320}{}{Não é muito legal.}
+{321}{}{Obrigado. }
 {322}{}{Isso ser bom.}
-{323}{}{This ain't good.}
-{324}{}{I like this. A lot. }
+{323}{}{Nada bem.}
+{324}{}{Eu gosto disso, e muito. }
 {325}{}{Tenho um mau pressentimento sobre isso.}
-{326}{}{These people are nuts.}
-{327}{}{Didn't learn anything.}
-{328}{}{Learned something.}
-{329}{}{Is anyone here sane?}
-{330}{}{Gotta be another way.}
+{326}{}{Essa gente tá ficando louca.}
+{327}{}{Não aprendi nada.}
+{328}{}{Aprendi alguma coisa.}
+{329}{}{Alguém aqui é sensato?}
+{330}{}{Tem que ser de outro jeito.}
 {331}{}{Siga-me.}
 {332}{}{Tenta isso.}
 {333}{}{Venha aqui.}
-{334}{}{Found something you might want to see.}
-{335}{}{Far as I can tell, it's safe to camp here.}
-{336}{}{Ain't safe to camp here.}
+{334}{}{Encontrei algo que você pode querer ver.}
+{335}{}{Tanto quanto posso dizer, é seguro acampar aqui.}
+{336}{}{Não é seguro acampar aqui.}
 {337}{}{Nós pode descansar aqui.}
 {338}{}{Tive sorte.}
-{339}{}{Fix this, would you?}
-{340}{}{Turn this on.}
-{341}{}{This thing needs to be unlocked.}
-{342}{}{You gonna open this?}
-{343}{}{Might want to come back here later.}
+{339}{}{Conserte isso, pode ser?}
+{340}{}{Ative isso.}
+{341}{}{Você precisa desbloquear isso.}
+{342}{}{Você vai abrir isso?}
+{343}{}{Você pode querer voltar aqui mais tarde.}
 {344}{}{Não entendo.}
-{345}{}{I dunno.}
+{345}{}{Não tenho ideia.}
 {346}{}{Ow.}
 {347}{}{Isso realmente dói.}
 {348}{}{Isso não pode ser bom...}
-{349}{}{Uh... when you said 'I hope she doesn't get pregnant' in the Cat's Paw in New Reno,
- what did you mean?}
-{350}{mcs113}{Didn't your folks explain this to you?}
-{351}{}{No, I mean, I thought all you mutants were sterile.}
+{349}{}{Hei... quando você disse 'Espero que ela não engravide' no Cat's Paw em New Reno, o que
+ quis dizer?}
+{350}{mcs113}{Seus pais não explicaram isso para você?}
+{351}{}{Não, quero dizer, pensei que todos os mutantes eram estéreis.}
 {352}{}{Não importa.}
-{353}{mcs114}{What? Where the hell did you hear that?}
-{354}{}{So... you AREN'T sterile?}
+{353}{mcs114}{Que? Em que lugar você ouviu isso?}
+{354}{}{Então... você NÃO É estéril?}
 {355}{}{Deixa pra lá.}
-{356}{mcs116}{Nope. Well, not now. It takes a few years after bein' dipped to get the juices flowing again. Why?}
-{357}{}{Oh. Uh. Never mind.}
-{360}{}{You have exposed the conspiracy against the mutants of Broken Hills.}
-{361}{}{Marcus agreed to join your party.}
-{400}{}{About the missing people...}
-{410}{}{About Jacob and Aileen...}
-{420}{}{About Chad...}
-{430}{}{About the escaped convicts...}
-{440}{}{About a scientist from NCR...}
-{500}{}{You've got a lot of nerve showing your face here again.}
-{501}{}{Never mind. Could I ask you something?}
+{356}{mcs116}{Não, bem, não agora. Demora alguns anos depois de ser submerso nas cubas para que os sucos voltem a fluir. Por quê?}
+{357}{}{Oh, uh. Nada não.}
+{360}{}{Você expôs a conspiração contra os mutantes de Broken Hills.}
+{361}{}{Marcus concordou em se juntar ao seu grupo.}
+{400}{}{Sobre as pessoas desaparecidas...}
+{410}{}{Sobre Jacob e Aileen...}
+{420}{}{Sobre Chad...}
+{430}{}{Sobre os fugitivos...}
+{440}{}{Sobre o cientista da NCR...}
+{500}{}{Você tem muita coragem para mostrar sua cara aqui novamente.}
+{501}{}{Deixa pra lá. Posso te perguntar uma coisa?}
 {502}{}{Deixa pra lá. Tchau.}
-{600}{}{I don't feel so good, boss.}
+{600}{}{Não me sinto muito bem, chefe.}
 {601}{}{Não faça isso.}
-{602}{}{Don't you think this place is a little creepy?}
-{603}{}{Hope you got hip waders... we're about to walk into some heavy shit.}
-{604}{}{I don't much like the looks of this place.}
-{605}{}{This broken bone can only grind so much before I pass out, boss.}
-{606}{}{Ahh, humanity.}
-{607}{}{Now this is a fine example of why the Master was right.}
-{608}{}{And you thought mutants were diseased.}
-{609}{}{Careful here, boss. These guys look tough.}
-{610}{}{Man... you humans never cease to amaze me.}
-{611}{}{Hope you know where we're going...}
-{612}{}{Let's kick their asses, boss.}
-{613}{}{It's assholes like these that make me mad.}
-{614}{}{Ahh, home again.}
-{615}{}{Don't forget... I helped build this place. Be good.}
-{616}{}{Nice to see the ol' homestead again.}
-{617}{}{I always hated this place.}
-{618}{}{When do we leave?}
-{619}{}{Let's get out of here.}
-{620}{}{Don't think I'm wanted here, chief.}
-{621}{}{So this is where it all started, eh?}
-{622}{}{Let's have some healing over here, huh?}
-{623}{}{Wanna play fetch, dog?}
-{624}{}{Roll over, dog! Play dead!}
-{625}{}{Hey dog! Sic 'em!}
-{626}{}{Hey Lenny! You ever go to Broken Hills?}
-{627}{}{Lenny! Let's get somethin' to drink!}
-{628}{}{Nice to have another evolved human in the group, Lenny.}
-{629}{}{Hey Myron! Wanna wrestle?}
-{630}{}{Don't worry, little Myron. I'll watch out for you.}
-{631}{}{Check out the big brain on Myron!}
-{632}{}{Phwheew!!! Did someone just cut a muffin?}
-{633}{}{[whistle] Daisy, daisy... [sing]}
-{634}{}{Man, I've got one hell of a wedgie.}
+{602}{}{Você não acha que este lugar é um pouco assustador?}
+{603}{}{Espero que você tenha botas com cano alto... parece que vamos pisar em uma merda das grandes.}
+{604}{}{Eu realmente não gosto da aparência deste lugar.}
+{605}{}{Este osso quebrado só pode moer antes de eu desmaiar, chefe.}
+{606}{}{Ahh, a humanidade.}
+{607}{}{Veja, esse é um bom exemplo do porque o Mestre estava certo.}
+{608}{}{E você pensou que mutantes eram doentes.}
+{609}{}{Cuidado aqui, chefe. Esses caras parecem durões.}
+{610}{}{Cara... vocês humanos nunca param de me surpreender.}
+{611}{}{Espero que você saiba para onde estamos indo...}
+{612}{}{Vamos chutar uns traseiros, chefe.}
+{613}{}{São idiotas como esses que me deixam louco.}
+{614}{}{Ah, em casa de novo.}
+{615}{}{Não se esqueça... Eu ajudei a construir este lugar, se comporte bem.}
+{616}{}{É bom ver essa velha casa novamente.}
+{617}{}{Eu sempre odiei este lugar.}
+{618}{}{Quando partimos?}
+{619}{}{Vamos sair daqui.}
+{620}{}{Acho que eles não me querem aqui, chefe.}
+{621}{}{Então foi aqui que tudo começou, hein?}
+{622}{}{Vamos ter alguma cura aqui, hein?}
+{623}{}{Quer jogar bola, cachorrinho?}
+{624}{}{Role agora! Finja de morto!}
+{625}{}{Oi, cachorro! Ataca!}
+{626}{}{Hey, Lenny! Você já foi para Broken Hills?}
+{627}{}{Lenny! Vamos tomar alguma coisa!}
+{628}{}{É bom ter outro humano evoluído no grupo, Lenny.}
+{629}{}{Oi Myron! Quer lutar?}
+{630}{}{Não se preocupe, pequeno Myron. Eu vou cuidar de você.}
+{631}{}{Olhe para o grande cérebro de Myron!}
+{632}{}{Phwheew!!!! Alguém acabou de cortar um muffin?}
+{633}{}{[Assobia] Daisy, Daisy... [Canta]}
+{634}{}{Cara, isso é uma piada do caralho.}
 {635}{}{At my age, it's nice to slow down every once in a while.}
 {636}{}{Just watching the clouds...}
 {637}{}{Zzzzzzzzz.}
