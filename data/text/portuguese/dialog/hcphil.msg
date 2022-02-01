@@ -60,7 +60,7 @@
 {176}{}{Wow! Thanks! Anything else I can do for you?}
 {177}{}{I want more to drink.}
 {178}{}{What's been going on in town?}
-{179}{}{What's there to do around here?}
+{179}{}{O que há para fazer por aqui?}
 {180}{}{What's new?}
 {181}{}{Nada. Esqueça.}
 {182}{}{Tapped, eh? Too bad. You can stick around here, but don't bug the customers. I got work to do.
@@ -110,7 +110,7 @@
 {227}{}{Yeah? Like what?}
 {228}{}{I want more to drink.}
 {229}{}{What's been going on in town?}
-{230}{}{What's there to do around here?}
+{230}{}{O que há para fazer por aqui?}
 {231}{}{What's new?}
 {232}{}{Nada. Esqueça.}
 {233}{}{I hope you don't mind me saying that the folks 'round here are a little pissed off that you

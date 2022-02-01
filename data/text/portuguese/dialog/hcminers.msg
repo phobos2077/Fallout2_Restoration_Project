@@ -1,60 +1,60 @@
-{100}{}{You see a mutant in dusty clothes holding a pickaxe.}
-{101}{}{You see a mutant miner.}
-{102}{}{You see a mutant in dusty clothes holding a pickaxe. From the calluses on his hands and the
- tired expression, you figure out this mutant must be a miner. He looks tired, and a little confused.}
+{100}{}{Você vê um mutante em roupas empoeiradas segurando uma picareta.}
+{101}{}{Você vê um mutante mineiro.}
+{102}{}{Você vê um mutante em roupas empoeiradas segurando uma picareta. Pelos calos em suas
+ mãos e a expressão cansada, você descobre que esse mutante deve ser um mineiro. Além de cansado, ele parece um pouco confuso.}
 {103}{}{O que você quer?}
 {104}{}{Ag-ag! Ooo!}
 {105}{}{Ork! Ooky!}
 {106}{}{Dallo?}
 {107}{}{Dallo!}
-{108}{}{What's there to do around here?}
+{108}{}{O que há para fazer por aqui?}
 {109}{}{Quem é você?}
-{110}{}{Oh, good. An idiot. Touched by the radiation, eh, pal? I can't understand you. I can't help you.}
-{111}{}{I said I can't help you! Go away and pester someone else!}
-{112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
- works. There's the saloon. There's the caravaneers, and there's the general store. That's about it.
- Wait... what were we talking about?}
-{113}{}{Who do I talk to about the mine?}
-{114}{}{Where's the saloon?}
-{115}{}{Where are the caravaneers?}
-{116}{}{Where's the general store?}
+{110}{}{Ah, bom, um idiota. Afetado pela radiação, hein, cara? Não consigo entender nada, não posso te ajudar.}
+{111}{}{Eu disse que não posso te ajudar! Vá embora e encha o saco de outro!}
+{112}{}{O que há para fazer? Bem, a mina fechou porque não temos um purificador de ar que preste. Tem
+ o salão, os caravaneiros e o armazém geral. É isso aí. Espere, sobre o que estávamos conversando
+ mesmo?}
+{113}{}{Com quem eu falo sobre a mina?}
+{114}{}{Onde está o salão?}
+{115}{}{Onde estão os caravaneiros?}
+{116}{}{Onde fica o armazém geral?}
 {117}{}{Obrigado. Tchau.}
-{118}{}{Just one of the miners. Do you want someone important?}
+{118}{}{Apenas um dos mineiros. Você quer alguém importante?}
 {119}{}{Sim.}
 {120}{}{Não.}
 {121}{}{Adeus.}
-{122}{}{The movers and shakers of the town are Marcus, who's kind of the mayor and sheriff, Zaius, who's
- the mine foreman, and Chad, who runs the caravan. Phil the bartender's the leader of the ghouls, I guess...
- if you can say they have a leader. Who were you again?}
+{122}{}{Os agitadores da cidade são Marcus, que é uma espécie de prefeito e xerife, Zaius, que é o capataz
+ da mina, e Chad, que dirige a caravana. Phil, o barman, é o líder dos ghouls, eu acho... se você pode dizer
+ que eles têm um líder. Quem era você, aliás?}
 {123}{}{Onde eu posso achar o Marcus?}
-{124}{}{Where can I find Zaius?}
-{125}{}{Where can I find Cameron?}
-{126}{}{Where can I find Chad?}
-{127}{}{Where can I find Phil?}
+{124}{}{Onde posso encontrar Zaius?}
+{125}{}{Onde posso encontrar Cameron?}
+{126}{}{Onde posso encontrar Chad?}
+{127}{}{Onde posso encontrar Phil?}
 {128}{}{Obrigado. Tchau.}
-{129}{}{If you think you can help out at the mine, go talk to Zaius. He's usually in the foreman's hut
- outside the mine. He's in a bad mood because of the air purifier being shut down. Anything else?}
-{130}{}{Phil the ghoul runs the saloon. He's kinda the spokesman for the ghouls in town. You can find
- it to the east of the bank. Anything else?}
-{131}{}{Chad runs the caravans out of his place on the southwest edge of town. Anything else?}
-{132}{}{Liz, who's a decent sort for a human, runs the general store just west of the bank. Anything else?}
-{133}{}{All right, then. See you later.}
-{134}{}{Cameron's the leader of the normal humans here. He doesn't much like mutants or ghouls, but he
- treats us okay. He's a politician, so you'll usually find him at the bank or the saloon. Sometimes you
- can even find him working at the blacksmith. Anything else? And where am I, anyway? Oh yeah... so... anything
- else?}
-{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
- the jail. Anything else?}
-{136}{}{Greedy bastard. Do you know how hard we work? I hope you rot.}
-{137}{}{Thanks for the ore!}
-{138}{}{I can't believe the mine blew up. We're all going to starve to death now. That mine was the
- only thing keeping this town going. Well, at least I can go senile without any more work...}
-{139}{}{You bastard! Die!}
-{140}{}{Thanks for fixing the mine for us. We really owe you for this. What can I do for you?}
+{129}{}{Se você acha que pode ajudar na mina, vá falar com Zaius. Ele geralmente está na cabana do
+ capataz do lado de fora da mina, mas meio puto porque o purificador de ar foi desligado. Algo mais?}
+{130}{}{Phil, o ghoul, administra o salão. Ele é meio que o porta-voz dos ghouls da cidade. Você pode
+ encontrá-lo a leste do banco. Algo mais?}
+{131}{}{Chad dirige as caravanas para fora de seu lugar na extremidade sudoeste da cidade. Algo mais?}
+{132}{}{Liz, que é um tipo decente para um humano, administra o armazém a oeste do banco. Algo mais?}
+{133}{}{Tudo bem então. Até logo.}
+{134}{}{Cameron é o líder dos humanos normais aqui. Ele não gosta muito de mutantes ou ghouls, mas nos
+ trata bem. Ele é um político, então você geralmente o encontra no banco ou no bar. Às vezes você
+ pode até encontrá-lo trabalhando no ferreiro. Algo mais? O que eu estava fazendo? Ah sim... então... mais alguma
+ coisa?}
+{135}{}{Marcus é nosso líder, ele ajudou a fundar Broken Hills. Normalmente você pode encontrá-lo
+ no banco ou na prisão. Algo mais?}
+{136}{}{Ganancioso da porra. Você sabe o quanto trabalhamos duro? Espero que você apodreça.}
+{137}{}{Obrigado pelo minério!}
+{138}{}{Não acredito que a mina explodiu, vamos todos morrer de fome agora. Aquela mina era a
+ única coisa que mantinha essa cidade funcionando. Bem, pelo menos posso ficar velho sem ter que trabalhar...}
+{139}{}{Filho da puta! Morra!}
+{140}{}{Obrigado por consertar a mina, devemos uma a você por isso. O que posso fazer por você?}
 {141}{}{Quem é você?}
-{142}{}{What's there to do in this town?}
+{142}{}{O que há para fazer nesta cidade?}
 {143}{}{Nada.}
-{144}{}{We owe you for saving us from those NCR bastards. Thanks, pal. What can I do for you?}
+{144}{}{Devemos a você por nos salvar daqueles babacas da NCR. Valeu, cara. O que posso fazer por você?}
 {145}{}{Quem é você?}
-{146}{}{What's there to do in this town?}
+{146}{}{O que há para fazer nesta cidade?}
 {147}{}{Nada.}

@@ -302,41 +302,41 @@
 {632}{}{Phwheew!!!! Alguém acabou de cortar um muffin?}
 {633}{}{[Assobia] Daisy, Daisy... [Canta]}
 {634}{}{Cara, isso é uma piada do caralho.}
-{635}{}{At my age, it's nice to slow down every once in a while.}
-{636}{}{Just watching the clouds...}
+{635}{}{Na minha idade, é bom ir com calma de vez em quando.}
+{636}{}{Só olhando as nuvens...}
 {637}{}{Zzzzzzzzz.}
-{638}{}{Thanks, boss.}
-{639}{}{Uh... thanks, friend.}
-{640}{}{Err... thanks. I guess.}
-{641}{}{Thanks. I was thirsty.}
+{638}{}{Obrigado, chefe.}
+{639}{}{Uh... obrigado, amigo.}
+{640}{}{Err... obrigado. Eu acho.}
+{641}{}{Obrigado, eu estava com sede.}
 {642}{}{Eita... Me sinto meio estranho.}
-{643}{}{I guess Francis was right about Jacob. That murderous bastard won't cause any more trouble in this town.}
-{644}{}{You have received a scoped hunting rifle.}
-{1100}{mcs43alt}{Not a problem.}
-{3000}{}{Let's head out.}
-{3100}{}{Forget I asked then, asshole.}
-{3200}{}{Never mind then. Your loss.}
-{3300}{}{Darn. Maybe later then.}
+{643}{}{Acho que Francis estava certo sobre Jacob. Aquele desgraçado assassino não causará mais problemas nesta cidade.}
+{644}{}{Você recebeu um rifle de caça com mira.}
+{1100}{mcs43alt}{Sem problemas.}
+{3000}{}{Vamos sair.}
+{3100}{}{Esqueça que eu disse, idiota.}
+{3200}{}{Deixa pra lá então. Tua perda.}
+{3300}{}{Droga. Talvez mais tarde.}
 {9999}{}{Eu gostaria de lhe fazer algumas perguntas...}
-{10001}{}{Take some more stims and heal yourself.}
-{10002}{}{Marcus, I need you to wait here until I come back.}
+{10001}{}{Tome um estimulante e se cure.}
+{10002}{}{Marcus, preciso que espere aqui até eu voltar.}
 {10003}{}{Coloque sua arma de distância.}
 {10004}{}{Ficar perto de mim.}
 {10005}{}{Não fique muito longe.}
 {10006}{}{Devemos espalhar um pouco.}
-{10007}{}{Let's head out then.}
-{10008}{}{Can you put your armor on?}
-{10100}{}{C'mon, Marcus. Time to head out.}
-{20000}{mcs81b}{Right.}
-{20001}{}{Heh. I can use just about any big gun, like rocket launchers or miniguns,
- and the big energy weapons. I ain't bad with my fists, and I'm a hell of a shot with grenades. I don't
- wear armor. They just don't make it my size.}
-{30000}{}{No thanks, I think I've spent enough time with him for today. Bye.}
-{40000}{}{Guess I was right about Chad. Looks like he won't be running caravans anytime soon.}
-{40001}{}{Alright Chad, time to pay for your crimes.}
-{40002}{}{*sigh* I'm coming.}
-{40003}{}{You have found Chad guilty of skimming money from the caravans.}
-{40004}{}{You have found Chad guilty of skimming money from the caravans. Too bad he died.}
+{10007}{}{Vamos sair.}
+{10008}{}{Você pode colocar sua armadura?}
+{10100}{}{Vamos, Marcus. Hora de continuar.}
+{20000}{mcs81b}{Certo.}
+{20001}{}{Heh. Posso usar praticamente qualquer arma grande, tipo lançadores de
+ foguetes, miniguns, e as grandes armas de energia. Meus punhos são bons, e eu sou um bom atirador
+ de granadas. Eu não uso armadura, acho que eu teria que pedir meu tamanho por encomenda.}
+{30000}{}{Não, obrigado, acho que passei tempo suficiente com ele por hoje. Tchau.}
+{40000}{}{Acho que eu estava certo sobre Chad. Parece que ele não vai dirigir nenhuma caravana tão cedo.}
+{40001}{}{Certo, Chad, hora de pagar por seus crimes.}
+{40002}{}{*suspiro* Estou indo.}
+{40003}{}{Você considerou Chad culpado de roubar dinheiro das caravanas.}
+{40004}{}{Você considerou Chad culpado de roubar dinheiro das caravanas. Pena que ele morreu.}
 {193001}{}{Chad embolsou US$ 1.000 do último carregamento de urânio e agora está planejando fugir da cidade. Eu tenho uma pasta com documentos que provam isso.}
 {193002}{}{Chad embolsou US$ 1.000 do último carregamento de urânio. Ele estava planejando fugir da cidade, tivemos uma briga e ele acabou morto. Olha, tenho essa pasta com documentos que provam o envolvimento dele.}
 {193003}{}{Chad admitiu tudo, entramos em uma briga no meio das caravanas. Ele desistiu e está esperando para ser trazido.}

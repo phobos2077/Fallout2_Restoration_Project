@@ -205,21 +205,21 @@
 {2300}{Cas2300}{Naw... you look like you got enough of a crowd already.}
 {2400}{Cas2400}{All right, then.}
 {2999}{}{All right. Take care, then.}
-{3000}{}{Let's head out.}
-{3100}{}{Forget I asked then, asshole.}
+{3000}{}{Vamos sair.}
+{3100}{}{Esqueça que eu disse, idiota.}
 {3200}{}{Never mind, then. Your loss.}
 {4100}{Cas4100}{Okay, everything's stitched up. I'm good to go.}
 {4200}{Cas4200}{Okay, pretty much everything is patched up.}
 {4300}{Cas4300}{That pretty much did it, but I could use a couple more stims.}
 {4400}{Cas4400}{I used what I could, but I'm still pretty messed up. If you got any more stims to spare, I could sure use 'em. I can still walk, though.}
 {9999}{}{Eu gostaria de lhe fazer algumas perguntas...}
-{10001}{}{Take some more stims and heal yourself.}
+{10001}{}{Tome um estimulante e se cure.}
 {10002}{}{Cassidy, I need you to wait here until I come back.}
 {10003}{}{Coloque sua arma de distância.}
 {10004}{}{Ficar perto de mim.}
 {10005}{}{Não fique muito longe.}
 {10006}{}{Devemos espalhar um pouco.}
-{10007}{}{Let's head out then.}
+{10007}{}{Vamos sair.}
 {10100}{}{C'mon, Cassidy. Time to head out.}
 {20000}{Cas20000}{All right, I'm listening.}
 {20001}{Cas20001}{My gear? What about it?}
