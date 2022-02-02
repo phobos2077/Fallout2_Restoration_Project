@@ -38,9 +38,10 @@ RPU includes the following mods:
 - [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders)
 - [Cassidy talking head](https://github.com/BGforgeNet/Fallout2_Cassidy_Head)
 - Enhanced worldmap
+- [Extended Flamer animations](https://www.nma-fallout.com/threads/the-extended-flamer-attack-mod.192732/)
 - Additional rifle and wakizashi animations
 - Improved Mysterious Stranger
-- High resolution patch.
+- High resolution patch
 
 #### Recommended
 For additional QoL options, check out:
