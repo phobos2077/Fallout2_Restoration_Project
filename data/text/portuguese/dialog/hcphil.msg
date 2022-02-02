@@ -1,57 +1,57 @@
-{100}{}{You see a ghoul wearing an apron.}
-{101}{}{You see Phil, the bartender. He's washing a glass.}
-{102}{}{You see a ghoul wearing an apron and washing a glass. Seeing as he's right behind the bar, you
- assume he's the bartender of this saloon.}
-{103}{}{Howdy, stranger. Welcome to town. What's your name?}
+{100}{}{Você vê um ghoul vestindo um avental.}
+{101}{}{Você vê Phil, o barman. Ele está lavando um copo.}
+{102}{}{Você vê um ghoul vestindo um avental e lavando um copo. Vendo que ele está bem atrás do bar,
+ você assume que ele é o barman deste local.}
+{103}{}{Olá, estranho, bem vindo à cidade. Qual o seu nome?}
 {104}{}{Doi?}
 {105}{}{!}
 {106}{}{.}
-{107}{}{None of your business, pal.}
-{108}{}{Well, I'm kind of undercover right now.}
-{109}{}{Doi's your name? Ha! Just kidding, pal. Here. Have a Nuka-Cola. Try not to disturb the other
- customers.}
-{110}{}{Ganks!}
-{111}{}{, eh? Well, pleased to meet you, bucko. Want something to drink?}
-{112}{}{Grink yes!}
-{113}{}{Oh no. No no no no.}
-{114}{}{, pleased to meet you. I'm Phil. I own this place. Now... what'll it be?}
+{107}{}{Nenhum que te interesse, colega.}
+{108}{}{Bem, agora eu sou uma espécie de agente disfarçado.}
+{109}{}{Doi é o seu nome? Ah! Brincadeira, amigo. Aqui. Tome uma Nuka-Cola. Tente não incomodar
+ os outros clientes.}
+{110}{}{Brigado!}
+{111}{}{, é? Bem, prazer em conhecê-lo, carinha. Quer algo para beber?}
+{112}{}{Beber sim!}
+{113}{}{Oh não. Não não não não.}
+{114}{}{, prazer em conhecê-lo, eu sou Phil. Sou dono desse lugar. Agora... o que vai ser?}
 {115}{}{Nuka-Cola.}
-{116}{}{Beer.}
-{117}{}{Rotgut.}
+{116}{}{Cerveja.}
+{117}{}{Cachaça.}
 {118}{}{Nada.}
-{119}{}{Nothing, sorry. Bye!}
-{120}{}{Fine, pal. Be that way. I'm Phil. I own this place and run it. What'll it be?}
-{126}{}{Undercover, eh? I guess I can understand that. I'm Phil, by the way. What'll it be?}
-{132}{}{You want beer? Rotgut? Nuka-Cola?}
-{133}{}{Deer!}
-{134}{}{Notblut!}
+{119}{}{Nada, desculpa. Tchau!}
+{120}{}{Tudo bem, amigo, que seja desse jeito. Eu sou Phil, sou dono desse lugar. O que será?}
+{126}{}{Disfarçado, sério? Acho que consigo entender isso. Eu sou Phil, a propósito. O que será?}
+{132}{}{Você quer cerveja? cachaça? Nuka-Cola?}
+{133}{}{Ceveza!}
+{134}{}{Chacaça!}
 {135}{}{Gola!}
-{136}{}{Well, you just let me know when you want something and I'll get you set up, friend. Try not to
- disturb the other customers, all right?}
-{137}{}{O-tay!}
-{138}{}{One beer it is. That'll be $3, plus a $1 tip for me. That's $4, kiddo.}
-{139}{}{'Ere!}
-{140}{}{No have.}
-{141}{}{Powerful drink, lad! That's $5, plus a $1 tip for me, which makes it $6.}
-{142}{}{Powerful drink, lass! That's $5, plus a $1 tip for me, which makes it $6.}
-{145}{}{Good for you, good for your skin. That's $2. I'll even let you off without tipping me. That's
- $2, straight up.}
-{148}{}{. You need anything else to drink, you come on back to see me.}
-{149}{}{Otay!}
-{150}{}{! You want something to drink?}
-{151}{}{Grink 'es!}
-{152}{}{Grink no!}
-{153}{}{Hey, Doi! Welcome back. Got your seat all warmed up for you back there.}
+{136}{}{Bem, me avise quando você querer algo e eu vou te preparar, amigo. Tente não incomodar os 
+ outros clientes, está bem?}
+{137}{}{O-pa!}
+{138}{}{Uma cerveja, aqui está. Vai ficar $3, mais uma gorjeta de $1 para mim. Fica em $ 4.}
+{139}{}{Pago!}
+{140}{}{Não tenho.}
+{141}{}{Bebida forte, cara! Vai ficar $5, mais uma gorjeta de $1 para mim. Fica em $6.}
+{142}{}{Bebida forte, moça! Vai ficar $5, mais uma gorjeta de $1 para mim. Fica em $6.}
+{145}{}{Bom para você e para todos. Isso é $2. Te deixo ir sem me dar gorjeta, pode pagar só os $2
+ sem problemas.}
+{148}{}{. Se precisar de mais alguma coisa para beber, volte para me ver.}
+{149}{}{Okey!}
+{150}{}{! Você quer algo para beber?}
+{151}{}{Beber si!}
+{152}{}{Beber não!}
+{153}{}{Olá, Doi! Bem vindo de novo. Mantivemos seu assento aquecido para quando você voltar.}
 {154}{}{Brigado!}
-{155}{}{That'll be $2.}
-{156}{}{That'll be $4.}
-{157}{}{That's $5.}
-{158}{}{There ya go.}
-{159}{}{[Give Phil a $1 Tip] Here you go, Phil.}
-{160}{}{[Give Phil a $2 Tip] Thanks, Phil.}
-{161}{}{Oops, I'm tapped. }
-{162}{}{Nothing? Ha. Ha. You don't park yourself here without drinking something, friend. I gotta pay
- the bills, too. Let's try that again. SO! What'll it be?}
+{155}{}{Será $2.}
+{156}{}{Será $4.}
+{157}{}{São $5.}
+{158}{}{Pronto.}
+{159}{}{[Você dá uma gorjeta de $1 a Phil] Aqui está, Phil.}
+{160}{}{[Você da a Phil uma gorjeta de $2] Obrigado, Phil.}
+{161}{}{Uau, estou quebrado. }
+{162}{}{Nada? Ah, ah. Você não para aqui sem beber alguma coisa, amigo, eu tenho que pagar as contas
+ também. Vamos tentar isso de novo. ASSIM! O que será?}
 {167}{}{Esqueça. Estou saindo daqui.}
 {168}{}{'Til you're buying, I ain't talking. What's your pleasure?}
 {173}{}{Forget this and forget your lousy drinks!}
@@ -71,7 +71,7 @@
 {186}{}{You again? What'll it be?}
 {187}{}{You again? Whaddya want?}
 {192}{}{To tell you my name. It's }
-{193}{}{Nothing, sorry. Bye!}
+{193}{}{Nada, desculpa. Tchau!}
 {194}{}{Well, all right then! What'll it be?}
 {198}{}{Alguma coisa nova na cidade? Bem...}
 {199}{}{Thanks. I have more questions. }

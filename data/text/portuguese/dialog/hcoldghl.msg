@@ -20,17 +20,17 @@
 {119}{}{Me pergunto como o velho Jed está em Gecko.}
 {120}{}{Você gosta de mutantes? Eu gosto deles.}
 {121}{}{Eu gosto de batatas! Eu gosto delas amassadas! Eu gosto delas fritas!}
-{122}{}{I'm hungry!}
-{123}{}{Wish we had some plants around.}
-{124}{}{I don't like being outside.}
-{125}{}{That ol' uranium mine's gotta give out soon.}
-{126}{}{You ain't from Vault City, are you?}
-{127}{}{I remember fightin' the Glowin' Ones under Necropolis... those were the days...}
-{128}{}{Let me tell you 'bout when we opened the Vault...}
-{129}{}{...what was I sayin'?}
-{130}{}{::yawn::}
+{122}{}{Estou com fome!}
+{123}{}{Gostaria que tivéssemos algumas plantas por aqui.}
+{124}{}{Eu não gosto de estar fora.}
+{125}{}{Aquela velha mina de urânio vai acabar logo.}
+{126}{}{Você não é de Vault City, é?}
+{127}{}{Me lembro de lutar contra os resplandecentes lá em Necropolis... sinto falta daqueles dias...}
+{128}{}{Deixe-me contar sobre quando abrimos a Vault...}
+{129}{}{...o que eu estava dizendo?}
+{130}{}{::bocejo::}
 {131}{}{::pffffft::}
-{132}{}{I ain't got nothing to say to no-one!}
-{133}{}{I need a nap.}
-{134}{}{It's cold and there are wolves after me.}
-{135}{}{Dogs keep waggin' their tails for HOURS after they die!}
+{132}{}{Não tenho nada a dizer a ninguém!}
+{133}{}{Eu preciso de um soninho.}
+{134}{}{Está frio e tem uns lobos atrás de mim.}
+{135}{}{Cachorros ficam abanando o rabo por HORAS depois de morrerem!}

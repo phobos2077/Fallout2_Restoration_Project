@@ -13,7 +13,7 @@
 {112}{}{I've got some important news for your boss.}
 {113}{}{I'm here to see President Tandi.}
 {114}{}{I'm here to see President Tandi.}
-{115}{}{I'm looking for a job.}
+{115}{}{Estou à procura de trabalho.}
 {116}{}{O que é este lugar?}
 {117}{}{You can't.}
 {118}{}{Me go away.}

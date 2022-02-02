@@ -134,7 +134,7 @@
 {641}{}{(Picks his teeth with a dirty fingernail.) Yeah?}
 {642}{}{Something on your mind?}
 {643}{}{What was that you were saying about the Mordino Family again?}
-{644}{}{I'm looking for a job.}
+{644}{}{Estou à procura de trabalho.}
 {645}{}{What is there to do around New Reno to relax?}
 {646}{}{You know anything about Richard Wright overdosing on Jet?}
 {647}{}{Can you teach me knife fighting?}

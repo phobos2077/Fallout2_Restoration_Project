@@ -23,7 +23,7 @@
 {234}{}{Sair andando}
 {235}{}{I have information for you.}
 {236}{}{I have information for you, Mr. Salvatore.}
-{237}{}{I'm looking for a job.}
+{237}{}{Estou à procura de trabalho.}
 {238}{}{Mr. Salvatore, you have a reputation for strength and fairness. I want to work for you.}
 {239}{}{I wanted to know where you get the lightbringers.}
 {240}{}{Word is you had Mr. Wright's son poisoned. Why?}
