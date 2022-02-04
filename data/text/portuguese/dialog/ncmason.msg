@@ -75,7 +75,7 @@
 {365}{}{I can handle it. Now stand back and let me get to work.}
 {366}{}{I already took care of the Lloyd "situation."}
 {367}{}{Who was the dealer at the table Lloyd won the money from?}
-{375}{}{Yeah? Like what?}
+{375}{}{Sim? Como o que?}
 {381}{}{That's all I need to know. Thanks, Mason.}
 {382}{}{That's all I need to know. Stand back and let me get to work, Mason.}
 {390}{}{He's been laying low, so tracking him down's gonna be YOUR job, boy. }

@@ -109,7 +109,7 @@
 {208}{}{Acho que sim. Tchau.}
 {209}{}{Como está o tesouro, garoto?}
 {210}{}{Mal! Tampinhas!}
-{211}{}{It was all bottle caps! It's worthless!}
+{211}{}{Eram todas tampinhas de garrafa! Não vale nada!}
 {212}{}{Ha ha. Engraçado. Eu tenho algumas perguntas.}
 {213}{}{Esqueça.}
 {214}{}{Poo! Tchau.}

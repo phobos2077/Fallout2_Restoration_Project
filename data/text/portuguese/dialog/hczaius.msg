@@ -1,23 +1,22 @@
-{100}{}{You see a tough-looking old mutant.}
-{101}{}{You see Zaius, the mine foreman.}
-{102}{}{On closer examination, you see a tough old mutant with a pickaxe and miner's helmet.}
-{103}{}{You the new guy in town?}
+{100}{}{Você vê um velho mutante de aparência forte.}
+{101}{}{Você vê Zaius, o capataz da mina.}
+{102}{}{Olhando mais de perto, você vê um mutante velho e durão com uma picareta e um capacete de mineiro.}
+{103}{}{Você é o cara novo na cidade?}
 {104}{}{Eek, oog og!}
-{105}{}{New! Me! Town!}
+{105}{}{Novo! Eu! Cidade!}
 {106}{}{É isso mesmo.}
-{107}{}{Yeah, rolled in a little while back.}
-{108}{}{No, genius, I've been living here all along and you never noticed me.}
-{109}{}{Heard you're having a little trouble with the mine.}
+{107}{}{Sim, cheguei faz pouco tempo.}
+{108}{}{Não, gênio, eu moro aqui há anos todo e você nunca me notou.}
+{109}{}{Ouvi dizer que você está tendo um probleminha com a mina.}
 {110}{}{O que você pode me dizer sobre este lugar?}
-{111}{}{Ummm... riiiight. Tell you what. Here's a couple of dollars. Head on down to the saloon and get
- yourself something to drink.}
+{111}{}{Ummm... ceeerto. É o seguinte, aqui estão alguns dólares. Vá até o salão e compre algo para beber.}
 {112}{}{Yagga? Ogg? Gronk!}
-{113}{}{Can't understand you, pal. Why not head on down to the saloon? Hell, maybe Francis will
- arm-wrestle with you.}
-{114}{}{Wessle? O-KAY!}
-{115}{}{Right. Well, I'm Zaius. Now that we're introduced... You any good with your hands? We've got a
- problem with our air purifier on the lower level of the mine, but we haven't got the parts to fix it
- or the protective gear to avoid being overwhelmed by the radon gas that's been building up.}
+{113}{}{Não consigo te entender, amigo. Por que não ir até o salão? Inferno, talvez Francis até lute
+ com você.}
+{114}{}{Pressionar? OK!}
+{115}{}{Certo. Bem, sou Zaius. Agora que fomos apresentados... Você é bom com as m?os? Temos um
+ problema com nosso purificador de ar no nível inferior da mina, mas não temos as peças para
+ consertá-lo ou o equipamento de proteção para evitar sermos sobrecarregados pelo gás radiante que está se acumulando.}
 {116}{}{I'm not too good. Sorry.}
 {117}{}{Not too shabby. What'll it take?}
 {118}{}{Well, I'll hope that you enjoy your stay here in Broken Hills.}

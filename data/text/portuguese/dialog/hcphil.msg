@@ -53,90 +53,90 @@
 {162}{}{Nada? Ah, ah. Você não para aqui sem beber alguma coisa, amigo, eu tenho que pagar as contas
  também. Vamos tentar isso de novo. ASSIM! O que será?}
 {167}{}{Esqueça. Estou saindo daqui.}
-{168}{}{'Til you're buying, I ain't talking. What's your pleasure?}
-{173}{}{Forget this and forget your lousy drinks!}
-{174}{}{Thanks. Anything else?}
-{175}{}{Hey, thanks! Anything else?}
-{176}{}{Wow! Thanks! Anything else I can do for you?}
-{177}{}{I want more to drink.}
-{178}{}{What's been going on in town?}
+{168}{}{Até ver o seu dinheiro eu não abro a boca. O que prefere?}
+{173}{}{Esqueça isso, e esqueça suas malditas bebidas!}
+{174}{}{Obrigado. Mais alguma coisa?}
+{175}{}{Ei, obrigado! Algo mais?}
+{176}{}{Uau! Obrigado! Mais alguma coisa que eu possa fazer por você?}
+{177}{}{Eu mais um negócio pra beber.}
+{178}{}{O que está acontecendo na cidade?}
 {179}{}{O que há para fazer por aqui?}
-{180}{}{What's new?}
+{180}{}{Alguma novidade?}
 {181}{}{Nada. Esqueça.}
-{182}{}{Tapped, eh? Too bad. You can stick around here, but don't bug the customers. I got work to do.
- See you.}
+{182}{}{Bateu, é? Que pena. Você pode ficar por aqui, mas não incomode os clientes, tenho trabalho a fazer.
+ Até mais.}
 {183}{}{Adeus!}
-{184}{}{Hey! Welcome back. What'll it be?}
-{185}{}{Welcome back, pard. What'll it be?}
-{186}{}{You again? What'll it be?}
-{187}{}{You again? Whaddya want?}
-{192}{}{To tell you my name. It's }
+{184}{}{Ei! Bem vindo de volta. O que será?}
+{185}{}{Bem-vindo de volta, cara. O que será?}
+{186}{}{Você novamente? O que será?}
+{187}{}{Você novamente? O que você quer?}
+{192}{}{Para te dizer meu nome. É }
 {193}{}{Nada, desculpa. Tchau!}
-{194}{}{Well, all right then! What'll it be?}
+{194}{}{Bem, tudo certo então! O que será?}
 {198}{}{Alguma coisa nova na cidade? Bem...}
-{199}{}{Thanks. I have more questions. }
+{199}{}{Obrigado. Eu tenho mais perguntas. }
 {200}{}{Obrigado. Tchau.}
-{201}{}{What to do, what to do... let's see...}
-{202}{}{- more - }
-{203}{}{Someone busted those lunatics out of jail!}
-{204}{}{Someone destroyed the mine! The town is doomed!}
-{205}{}{All the mutants are dead!}
-{206}{}{Not much.}
+{201}{}{O que fazer, o que fazer... vamos ver...}
+{202}{}{- mais - }
+{203}{}{Alguém tirou esses lunáticos da cadeia!}
+{204}{}{Alguém destruiu a mina! A cidade está condenada!}
+{205}{}{Todos os mutantes estão mortos!}
+{206}{}{Não muito.}
 {207}{}{Eu tenho mais perguntas.}
 {208}{}{Obrigado. Até mais.}
-{209}{}{You look like burly one. I'm betting you could arm wrestle with Francis. He's the
- mutant sitting over there. Apparently he's got a prize of some sort. Interested? Go talk to Francis.}
-{210}{}{Thanks. Is there anything else?}
+{209}{}{Você parece bem forte, aposto que poderia lutar com Francis. É aquele mutante
+ sentado ali. Aparentemente ele tem algum tipo de prêmio. Interessado? Vá falar com Francis.}
+{210}{}{Obrigado. Mais alguma coisa?}
 {211}{}{Obrigado. Até mais.}
-{212}{}{There are some people missing. We're not sure where they are. If you could find them, I'm sure
- there'd be something in it for you. Do you want to start with that? Go talk to Marcus.}
-{213}{}{Thanks. Anything else?}
-{214}{}{Thanks! Talk to you later.}
-{215}{}{Hmm. The mine's air purifiers are broken. You might want to go talk to Zaius, the mine foreman,
- about that.}
-{216}{}{All right. Anything else?}
+{212}{}{Tem algumas pessoas desaparecidas, não temos certeza onde eles podem ter ido. Se você pudesse
+ encontrá-los, tenho certeza de que teríamos algo para você. Quer dar uma olhada nisso? Fale com Marcus.}
+{213}{}{Obrigado. Mais alguma coisa?}
+{214}{}{Obrigado! Falo com você mais tarde.}
+{215}{}{Hum, os purificadores de ar da mina estão quebrados. Se você quiser, pode ir falar com Zaius sobre
+ isso, ele é o capataz da mina.}
+{216}{}{De acordo. Algo mais?}
 {217}{}{Obrigado. Até mais.}
-{218}{}{I understand that you can poke around the mine now. Hell, if you find anything, you might even
- get to keep it.}
+{218}{}{Eu entendo que você pode fuçar na mina agora. Cara, se você encontrar alguma coisa, você pode
+ até ficar com isso.}
 {219}{}{Você tem mais alguma coisa?}
 {220}{}{Obrigado.}
-{221}{}{Hell yeah! Find out where those two lunatics Franc and Manson went!}
+{221}{}{Isso aí! Descubra onde aqueles dois lunáticos Franc e Manson foram!}
 {222}{}{Eu estou trabalhando nisso.}
 {223}{}{Entendi, até mais.}
-{224}{}{There's always a caravan headed out someplace. If you wanna be part of one of those, you can
- talk to the Bill, the Outfitter. Other than that, we haven't got much to do in this place. Sorry.}
-{225}{}{Thanks! I have a few more questions.}
-{226}{}{All right. Well, I'm outta here. See ya.}
-{227}{}{Yeah? Like what?}
-{228}{}{I want more to drink.}
-{229}{}{What's been going on in town?}
+{224}{}{Há sempre uma caravana saindo para algum lugar. Se você quiser sair com uma dessas, pode falar
+ com Bill, o fornecedor. Fora isso, não temos muito o que fazer neste lugar, desculpe.}
+{225}{}{Obrigado! Eu tenho mais algumas perguntas.}
+{226}{}{Tudo bem. Então, estou saindo daqui, até mais.}
+{227}{}{Sim? Como o que?}
+{228}{}{Eu mais um negócio pra beber.}
+{229}{}{O que está acontecendo na cidade?}
 {230}{}{O que há para fazer por aqui?}
-{231}{}{What's new?}
+{231}{}{Alguma novidade?}
 {232}{}{Nada. Esqueça.}
-{233}{}{I hope you don't mind me saying that the folks 'round here are a little pissed off that you
- kept that uranium for yourself. You been warned. Anyway... ready for a drink?}
+{233}{}{Espero que não se importe que eu te diga que o pessoal daqui está meio cabreiro por você
+ ter guardado aquele urânio com você. Você foi avisado. Enfim... pronto para uma bebida?}
 {234}{}{Sim.}
-{235}{}{No. But I have some questions.}
-{236}{}{Some folks might be a tad pissed off about Chad. You been warned. Ready for a drink?}
+{235}{}{Não. Mas eu tenho uma perguntas.}
+{236}{}{Algumas pessoas podem estar um pouco cabreiras com Chad. Você foi avisado. Pronto para uma bebida?}
 {237}{}{Sim.}
-{238}{}{No. But I have some questions.}
-{239}{}{All the mutants are dead. Someone blew up the damn mine while they were in it. Some bastard must have
- cried wolf and they all just came running to help. I just don't understand some people. Hell... Can I get you a drink?}
+{238}{}{Não. Mas eu tenho uma perguntas.}
+{239}{}{Todos os mutantes estão mortos, algum filha duma puta explodiu a mina enquanto eles estavam lá. Devem
+ ter dado um alarme falso e todos eles vieram correndo para ajudar, não entendo essas pessoas. Deus... Posso pegar uma bebida para você?}
 {240}{}{Sim.}
-{241}{}{No. But I have questions.}
-{242}{}{Get out of my bar. Now. Scumbag.}
+{241}{}{Não. Mas eu tenho algumas perguntas.}
+{242}{}{Saia do meu bar, agora. Resto de aborto.}
 {300}{}{!}
 {301}{}{.}
 {302}{}{Bem, }
-{303}{}{Thanks, }
-{304}{}{Hi again, }
+{303}{}{Obrigado, }
+{304}{}{Olá novamente, }
 {305}{}{Ei, }
-{306}{}{You again, }
-{307}{}{No problem, pal. Here's your drink, too. Hey, anything else I can do ya' for?}
-{308}{}{Hey pal, thanks for all the tips. Lemme' give you one in return. I've heard that Liz, the owner of the General Store,
- keeps a stash of weapons in her basement. But you didn't hear it from me.}
-{309}{}{Gee, thanks Phil. I'll keep that under my... uh... hat, or something.}
-{1981}{}{A couple of loons've been locked up for spreading hate propaganda.}
-{1982}{}{Mine's purifiers are down.}
-{1983}{}{Caravans all over the place. That's about normal.}
+{306}{}{Você novamente, }
+{307}{}{Sem problemas, cara. Aqui está sua bebida. Ei, mais alguma coisa que eu possa fazer por você?}
+{308}{}{Ei cara, obrigado por essas dicas, vou te dar algo em troca. Ouvi dizer que Liz, a dona do Armazém, mantém um
+ estoque de armas em seu porão. Mas eu nunca disse nada disso.}
+{309}{}{Nossa, obrigado, Phil. Vou guardar isso debaixo do meu... uh... chapéu, ou algo assim.}
+{1981}{}{Alguns babacas foram presos por fazer propaganda de ódio.}
+{1982}{}{Os purificadores da mina estão desligados.}
+{1983}{}{Caravanas por todos os lados. Isso é normal.}
 {1984}{}{Continue.}

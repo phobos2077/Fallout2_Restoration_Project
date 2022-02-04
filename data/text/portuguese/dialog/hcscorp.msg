@@ -1,19 +1,19 @@
-{100}{}{Look out! It's a radscorpion!}
-{101}{}{Looking closer, this scorpion appears to be wearing wire-rimmed glasses.
- It actually looks quite intelligent and non-threatening.}
+{100}{}{Tenha cuidado! É um radscorpion!}
+{101}{}{Olhando mais de perto, esse escorpião parece estar usando óculos com
+ aro de metal. Na verdade, parece bastante inteligente e nada ameaçador.}
 {102}{}{::click:: ::click clack::}
-{103}{}{Can I help you with something? You're disrupting my experiments!}
-{104}{}{::scuttle:: ::click click click::}
-{105}{}{What? What do you want with him?}
-{106}{}{Hiss!}
-{107}{}{Good boy! Stand up for yourself!}
-{108}{}{[it regards you warily]}
-{109}{}{[it makes gestures with its claws]}
-{110}{}{[it almost looks friendly]}
-{111}{}{Please don't bother the scorpion. He's had a rough day.}
-{112}{}{He's a little under the weather right now.}
-{113}{}{::scuttle::}
+{103}{}{Eu posso te ajudar com alguma coisa? Você está atrapalhando meus experimentos!}
+{104}{}{::se esgueirando:: ::click click click::}
+{105}{}{Que? O que você quer com ele?}
+{106}{}{Fffff!}
+{107}{}{Bom menino! Fique de pé agora!}
+{108}{}{[Te analisa com cautela]}
+{109}{}{[faz gestos com suas garras]}
+{110}{}{[parece quase amigável]}
+{111}{}{Por favor, não incomode o escorpião. Ele teve um dia difícil.}
+{112}{}{Ele está um pouco indisposto agora.}
+{113}{}{::se esgueirando::}
 {114}{}{::click::}
 {115}{}{::click-clack::}
-{116}{}{::sharpen::}
-{117}{}{Looking closer, this scorpion appears to be quite intelligent and non-threatening.}
+{116}{}{::afiando::}
+{117}{}{Olhando mais de perto, este escorpião parece ser bastante inteligente e não ameaçador.}
