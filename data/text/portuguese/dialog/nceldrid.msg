@@ -124,7 +124,7 @@
 {455}{}{Leaf it}
 {457}{}{Uh, that's a little steep. How about...1500?}
 {458}{}{No thanks. I wanted something else...}
-{459}{}{I'll leave it.}
+{459}{}{Eu vou embora.}
 {470}{}{$2500. And that's my final offer.}
 {471}{}{All right, all right. Here you go.}
 {472}{}{Forget it, then. I wanted something else...}

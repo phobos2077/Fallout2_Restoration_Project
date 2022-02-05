@@ -17,125 +17,124 @@
 {115}{}{Certo. Bem, sou Zaius. Agora que fomos apresentados... Você é bom com as m?os? Temos um
  problema com nosso purificador de ar no nível inferior da mina, mas não temos as peças para
  consertá-lo ou o equipamento de proteção para evitar sermos sobrecarregados pelo gás radiante que está se acumulando.}
-{116}{}{I'm not too good. Sorry.}
-{117}{}{Not too shabby. What'll it take?}
-{118}{}{Well, I'll hope that you enjoy your stay here in Broken Hills.}
-{119}{}{(more)}
-{120}{}{Ha. Ha. Funny. Nothing better than a smart guy to solve a problem.}
-{121}{}{Smarter than anyone else in this shithole town.}
-{122}{}{Oh? There's a problem? What is it?}
-{123}{}{The main problem here is that you're an idiot.}
-{124}{}{That's me. Smart guy. What's your problem?}
-{125}{}{Our air purifier's broken. It's on the bottom level. We've got no parts, and we've got no
- protective equipment. Without the parts, we can't fix it. Without the protection, the radon gas'll nail us. Are you any
- good with your hands?}
+{116}{}{Eu não sou muito bom. Desculpe.}
+{117}{}{Não é tão ruim. O que será preciso?}
+{118}{}{Bem, espero que você aproveite sua estadia aqui em Broken Hills.}
+{119}{}{(mais)}
+{120}{}{Ah, ah, engraçado. Nada melhor do que um cara esperto para resolver um problema.}
+{121}{}{Mais esperto do que qualquer outra pessoa nesta cidade de merda.}
+{122}{}{Oh? Algum problema? O que é isso?}
+{123}{}{Meu maior problema é que você é um idiota.}
+{124}{}{Eu mesmo, o cara esperto. Qual é o seu problema?}
+{125}{}{Nosso purificador de ar está quebrado, o do nível inferior. Não temos peças e não temos
+ equipamento de proteção. Sem as peças, não podemos consertar, e sem a proteção, o gás radioso nos alcança. Você
+ pode dar um jeito?}
 {126}{}{Eu estou bem.}
-{127}{}{No. Not really.}
-{128}{}{You again, eh?}
+{127}{}{Não, não muito.}
+{128}{}{Você de novo, é?}
 {129}{}{Ork! Ooo! Ug ug!}
-{130}{}{Hi! HIIIII! Me (name)!}
-{131}{}{Pal, I already gave you some money. Go bother someone else, eh?}
-{132}{}{Hi again. Why not go check out... umm... the bank in town? I'm sure there are plenty people there
- who'd love to talk to you.}
-{133}{}{Well, if you ever happen to think of a way, let me know.}
-{134}{}{Really? Would you do it for me... and, more importantly, for Broken Hills?}
+{130}{}{Oi! OIIII! Eu (nome)!}
+{131}{}{Colega, eu já te dei um dinheiro. Vá incomodar outra pessoa, beleza?}
+{132}{}{Oi de novo. Por que você não dá uma olhada... umm... no banco da cidade? Tenho certeza de que tem
+ algumas pessoas lá que gostariam falar com você.}
+{133}{}{Bom, se você pensar em uma maneira, me avise.}
+{134}{}{Sério? Você faria isso por mim... e, mais importante, por Broken Hills?}
 {135}{}{O quê tem pra mim?}
 {136}{}{Com certeza, eu vou fazer.}
 {137}{}{Não agora.}
-{138}{}{Izzat so? Well, my brainy friend, why not fix the air purifier down below? You'll need the
- parts, and you'll need to find a way to breathe the gas. Until you can show me you can do that, I think
- I'll just assume the only thing smart about you is your mouth.}
+{138}{}{É assim?? Bem, meu amigo inteligente, por que não conserta o purificador de ar lá embaixo?
+ Você precisará das peças e também de encontrar uma maneira de respirar o gás. Até que você possa me
+ mostre que pode fazer isso, acho que vou assumir que a única coisa inteligente sobre você é sua boca.}
 {139}{}{O quê tem pra mim?}
 {140}{}{Com certeza, eu vou fazer.}
-{141}{}{Are you kidding?}
-{142}{}{The main problem is that I'm an idiot. I'm repeating this because I don't believe that your
- asshole just spouted something that sounded like words. Get out of my sight, maggot.}
-{143}{}{Aside from the jerks who keep harassing me, the problem is the air purifier in the mine. It's
- busted, and we don't have the protective gear to breathe the radon and we don't have the parts to fix it.
- You can, though, right? Because you're so smart?}
+{141}{}{Tá de brincadeira?}
+{142}{}{O principal problema é que eu sou um idiota. Repito porque não acho que nada parecido com
+ palavras saiu do seu cu. Sai da minha frente, verme.}
+{143}{}{Além dos babacas que ficam me enchendo, o problema é o purificador de ar da mina. Está quebrado,
+ não temos o equipamento de proteção para respirar o gás e não temos as peças para consertar. Mas você
+ pode, certo? Porque você é tão inteligente?}
 {144}{}{O quê tem pra mim?}
 {145}{}{Com certeza, eu vou fazer.}
-{146}{}{Are you kidding? No way.}
-{147}{}{. How's that sound?}
-{148}{}{Like shit. I want more.}
-{149}{}{Sounds good to me.}
+{146}{}{Tá de brincadeira? Sem chance.}
+{147}{}{. Como isso soa?}
+{148}{}{Como merda. Eu quero mais.}
+{149}{}{Parece bem.}
 {150}{}{Esqueça. Estou fora.}
-{151}{}{Great! You'll need the parts, of course. Go to New Reno and look for Renesco. He's got tools
- lying around the shop. Tell him Zaius sent you. Tell him that I said, "The canary's kicked the
- bucket." I don't know where to get protective equipment for the gas. I suppose you could go in without any
- but you'll be hurting. Again, thank you.}
+{151}{}{Excelente! Você vai precisar das peças, claro. Vá para New Reno e procure por Renesco, ele
+ tem ferramentas espalhadas pela loja. Diga a ele que Zaius o enviou. E Diga que eu disse:
+ "O canário chutou o balde". Mas não sei onde conseguir equipamento de proteção para o gás, suponho que
+ você poderia entrar sem nenhum, mas vai se machucar. Mais uma vez obrigado.}
 {152}{}{Não há problema. Tchau.}
-{153}{}{No? Well, if you should change your mind, you know where to find me.}
+{153}{}{Não? Bem, se mudar de ideia, sabe onde me encontrar.}
 {154}{}{Correto. Tchau.}
-{155}{}{ it is, then. Take half now. I'll give you the other half when you're done. Go to New Reno and
- look for Renesco. He's got tools just lying around his office. He should be able to help you with the
- parts.}
+{155}{}{ é então. Pegue a metade agora, darei a outra metade quando terminar. Vá para New Reno e
+ procure por Renesco, ele tem ferramentas espalhadas pelo escritório. Ele deve ser capaz de
+ ajudá-lo com as peças.}
 {156}{}{Até mais.}
-{157}{}{Sorry. That's the limit. Take it or leave it.}
+{157}{}{Desculpe, esse é o limite. É pegar ou largar.}
 {158}{}{Eu vou levá-la.}
-{159}{}{I'll leave it.}
-{160}{}{Fine. Leave it, then. No thanks.}
+{159}{}{Eu vou embora.}
+{160}{}{Tá bom, deixe. Não, obrigado.}
 {161}{}{Seja o que for.}
-{162}{}{Hi, friend!}
-{163}{}{Oh, good. It's you again.}
-{164}{}{Howdy.}
-{165}{}{Y'know, I knew those bastards Franc, Manson, Jacob, and Aileen had it out for us. Well done! So...}
-{166}{}{I hope you've given some thought to giving the ore back to the town... so...}
-{167}{}{Thanks for selling the ore. It's not like we couldn't use it or anything. So...}
-{168}{}{Thanks so much for returning that ore. You don't know how hard we work for that stuff.}
+{162}{}{Olá, amigo!}
+{163}{}{Ah, bom. É você de novo.}
+{164}{}{Olá.}
+{165}{}{Você vê, eu sabia o que aqueles babacas do Franc, Manson, Jacob e Aileen tinham reservado para nós. Bem feito! Assim…}
+{166}{}{Espero que tenha pensado em devolver o minério à cidade...}
+{167}{}{Obrigado por vender o minério. Não que pudéssemos usá-lo, ou algo assim. Assim que…}
+{168}{}{Muito obrigado por devolver esse minério. Você não sabe o quanto trabalhamos para isso.}
 {169}{}{O que você quer agora?}
-{170}{}{Can you tell me about the town?}
-{171}{}{I hear you're having trouble with the mine.}
-{172}{}{How're things?}
-{173}{}{You get along all right with the humans?}
-{174}{}{You changed your mind about trying to fix the mine yet?}
+{170}{}{Você pode me falar sobre a cidade?}
+{171}{}{Ouvi dizer que você está tendo problemas com a mina.}
+{172}{}{Como vão as coisas?}
+{173}{}{Você se dá bem com os humanos?}
+{174}{}{Já mudou de ideia sobre tentar consertar a mina?}
 {175}{}{O quê tem pra mim?}
 {176}{}{Com certeza, eu vou fazer.}
 {177}{}{Não agora.}
 {178}{}{Não.}
-{179}{}{How's it coming? I hope you're going to take care of this soon...}
-{180}{}{It's coming along all right.}
-{181}{}{I'm a busy man. I haven't gotten around to it yet.}
-{182}{}{I should be able to let you know soon.}
-{183}{}{You've got the parts? Great... I hope you've got some protective gear. The fumes can take you down.}
-{184}{}{I'm ready to go.}
-{185}{}{I'll be going soon.}
-{186}{}{You've got the parts? Great... I hope you've got some protective gear. The fumes can take you down.}
-{187}{}{I'm ready to go.}
-{188}{}{I'll be going soon.}
-{189}{}{You've fixed it? Excellent! Say, I know you were doing this for free, but... I couldn't let you
- do that. So me and the guys got together and got you this. It's a combat shotgun. Good luck. And
- thank you.}
-{190}{}{No problem. Thanks!}
-{191}{}{You've fixed it? Excellent! As agreed, here's the remainder of what we owe you. Thank you again.}
-{192}{}{You bastard. You're going to die now.}
-{193}{}{Good, good. Please hurry, though... our town needs what we get out of here.}
-{194}{}{Sure thing. See ya.}
-{195}{}{Don't rush me. I'm a busy man. Jerk.}
-{196}{}{Well, I'm sorry, Mr. High and Mighty, but I think that the town's survival might be a little
- more important. Hurry it up, will you?}
-{197}{}{Bite me. I'll get it done. See ya.}
-{198}{}{That's the last straw. Goodbye, dead man.}
-{199}{}{Please hurry. The mine is our town's lifeblood.}
+{179}{}{Como esta indo? Espero que resolva isso logo...}
+{180}{}{Está indo tudo bem.}
+{181}{}{Eu sou uma pessoa, ainda nem cheguei nisso.}
+{182}{}{Acho que posso te dizer sobre isso mais em breve.}
+{183}{}{Você tem as peças? Ótimo... Espero que tenha algum equipamento de proteção, a fumaça pode te derrubar.}
+{184}{}{Estou pronto para ir.}
+{185}{}{Eu vou em breve.}
+{186}{}{Você tem as peças? Ótimo... Espero que tenha algum equipamento de proteção, a fumaça pode te derrubar.}
+{187}{}{Estou pronto para ir.}
+{188}{}{Eu vou em breve.}
+{189}{}{Você consertou? Excelente! Viu, eu sei que você estava fazendo isso de graça, mas... eu não
+ posso te deixar de mãos vazias. Então, eu e os caras nos juntamos e conseguimos isso para você,
+ é uma escopeta de combate. Boa sorte e obrigado.}
+{190}{}{Sem problemas, obrigado!}
+{191}{}{Você consertou? Excelente! Conforme combinado, aqui está o restante do que te devemos. Obrigado novamente.}
+{192}{}{Desgraçado. Você vai morrer agora.}
+{193}{}{Bom, bom. Por favor, apresse-se... nossa cidade precisa do que recebemos daqui.}
+{194}{}{Desde já. Nos vemos.}
+{195}{}{Não me apresse, eu sou uma pessoa ocupada. Idiota.}
+{196}{}{Bem, sinto muito, Sr. Pica da Galáxia, mas acho que a sobrevivência da cidade pode ser
+ um pouco mais importante. Apresse-se, sim?}
+{197}{}{Tranquilo, eu farei. Nos vemos.}
+{198}{}{Essa é a gota d'água. Adeus, homem morto.}
+{199}{}{Por favor, mais rápido. A mina é a sobrevivência da nossa cidade.}
 {200}{}{Tudo bem, tudo certo.}
-{201}{}{Well, the best person to talk to about that would be Marcus, over at the bank, or Steve, the
- greeter for the town.}
-{202}{}{Hmm. All right, thanks.}
-{203}{}{I'll go ask them, then.}
-{204}{}{I'd have to say they're all right. Still... they could always be better.}
-{205}{}{Heh. Thanks for all the information.}
-{206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
- something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
- far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
- from the other places around here... now those are some bastards.}
-{207}{}{All right, thanks. Bye.}
-{300}{}{. How's that sound?}
-{301}{}{. How's that sound?}
+{201}{}{Bem, a melhor pessoa para conversar sobre isso seria Marcus, no banco, ou Steve, o
+ recepcionista da cidade.}
+{202}{}{Hum. Tudo bem, obrigado.}
+{203}{}{Vou perguntar a eles, então.}
+{204}{}{Normalmente eu digo que está tudo bem. Mas... sempre poderia estar melhor.}
+{205}{}{Ok, obrigado pelas informações.}
+{206}{}{Bem, como os mutantes não estão apenas ficando velhos e senis - o gás os mantém jovens,
+ acho - eu tenho que dizer que as coisas estão muito boas. Quero dizer, não queremos matar todo
+ mundo, e até onde posso dizer, os humanos não pensam muito mal de nós. Claro, isso não inclui
+ os humanos de outros lugares por aqui... agora esses são uns viados.}
+{207}{}{Tudo bem, obrigado. Tchau.}
+{300}{}{. Como isso soa?}
+{301}{}{. Como isso soa?}
 {302}{}{$}
-{381}{}{I'm a busy woman. I haven't gotten around to it yet.}
-{382}{}{Don't rush me. I'm a busy woman. Jerk.}
-{383}{}{Well, I'm sorry, Mrs. High and Mighty, but I think that the town's survival might be a little
- more important. Hurry it up, will you?}
+{381}{}{Eu sou uma mulher ocupada, ainda não cheguei nisso.}
+{382}{}{Não me apresse, eu sou uma mulher ocupada. Idiota.}
+{383}{}{Bom, sinto muito, devo ter cometido mansplaining. Mas acho que a sobrevivência da cidade pode ser um pouco mais importante. Apresse-se, sim?}
 {400}{}{I've got a note with your name on it. Found it on a dead woman in the tunnels. Would you care to comment?}
 {401}{}{Hey, I just received the note. Go talk to Francis about it, all right? He's the one
  who wrote it.}
