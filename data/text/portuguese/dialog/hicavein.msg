@@ -1,2 +1,2 @@
-{100}{}{The mine has caved in.}
-{101}{}{The explosion of the air purifier caused the entire mine to collapse.}
+{100}{}{A mina foi destruída.}
+{101}{}{A explosão do purificador de ar causou o colapso de toda a mina.}

@@ -1,5 +1,5 @@
-{100}{}{You see a sturdy metal door.}
-{101}{}{This is a type of door used in bank vaults. It would take several direct explosives hits to take it down. It is locked.}
-{102}{}{This is a type of door used in bank vaults. It would take several direct explosives hits to take it down. It is unlocked.}
-{110}{}{The explosion rattles the door. While greatly weakened, the door remains in place.}
-{111}{}{The door explodes into pieces. Nothing remains of it.}
+{100}{}{Você vê uma porta de metal resistente.}
+{101}{}{Este é um tipo de porta usado em cofres de banco. Seriam necessários várias explosões diretas para derrubá-la. Está fechado.}
+{102}{}{Este é um tipo de porta usada em cofres de banco. Seriam necessárias vários explosões diretas para derrubá-la. Está desbloqueada.}
+{110}{}{A explosão sacode a porta. Embora muito enfraquecida, ela permanece no lugar.}
+{111}{}{A porta explode em pedaços. Não resta mais nada.}

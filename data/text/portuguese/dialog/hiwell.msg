@@ -1,36 +1,36 @@
-{100}{}{You see the Broken Hills town well.}
-{101}{}{The town well is built with cracked and loose bricks. A dank, musty odor emanates from below.}
-{102}{}{Remembering what Typhon said about hiding the treasure somewhere "indispensable" and "that
- wasn't likely to be torn down or plowed over", you make a thorough check of the old well. A few feet
- down on the inside, you notice one brick jutting out substantially from the rest of the wall.}
-{103}{}{Goodeee! Trezhur!}
-{104}{}{Cha-ching! I'm gonna be stinkin' rich!}
-{105}{}{Gently pulling the loose brick from the wall, you gaze into the darkness looking for the booty you have earned.}
-{106}{}{Where munneee?}
-{107}{}{Hmm... can't quite see down there.}
-{108}{}{You heave the useless brick into the well, hoping to free up your hands.}
-{109}{}{Huunngh! Get munneee!}
-{110}{}{Hunnngh! All right. Time to get the cash!}
-{111}{}{Suddenly, from out of the hole in the well's wall, a sizeable bag with a rope attached to it plunges into the
- darkness of the well. In your haste to retrieve the treasure, you failed to notice that the brick you discarded was
- attached by a rope to the very loot you were seeking.}
-{112}{}{Poopie!}
-{113}{}{Crap! This sucks!}
-{114}{}{Yes, it does suck. It looks like you'll need to figure out a way to get the treasure out of the well. You're much too big
- to make it down the well without getting stuck. Looks like you'll need some help.}
-{115}{}{Too big go down well.}
-{116}{}{It's no good. I can't get down the well. I'm too big.}
-{117}{}{Uh... friend, this isn't... uh... quite what I had in mind.}
-{118}{}{GO, shortee!}
-{119}{}{Short guy nice. Like short guy.}
-{120}{}{Keep goin', Short Round.}
-{121}{}{You're doing great! Just a little further.}
-{122}{}{All right, all right. I'm going.... Auugghh... It stinks down here! OK. Almost there... YES!}
-{123}{}{Got muneee?!}
-{124}{}{You got it?!}
-{125}{}{Yep, it's right here! My GOD! This sack is HUGE! That old man wasn't kidding. There must be a load of cash in here!}
-{126}{}{GIMMEEE!!!}
-{127}{}{Tie the sack to the rope! I'll pull it up!}
+{100}{}{Você vê bem a cidade de Broken Hills.}
+{101}{}{O poço é construído com tijolos soltos e rachados. Um cheiro de mofo e bolor emana de dentro.}
+{102}{}{Lembrando-se do que Typhon disse sobre esconder o tesouro em algum lugar "indispensável" e
+ "que provavelmente não seria derrubado ou arado", você faz uma verificação completa do antigo poço.
+ Alguns metros abaixo do lado de dentro, você percebe um tijolo se projetando substancialmente do resto da parede.}
+{103}{}{Diaaaaaa! Tesouro meu!}
+{104}{}{Ta-ta-chaan! Eu vou ficar podre de rico!}
+{105}{}{Você remove cuidadosamente o tijolo solto da parede, olhando para a escuridão em busca de sua merecida recompensa.}
+{106}{}{Onde dinheeeeiro?}
+{107}{}{Hmm... não consigo ver lá embaixo.}
+{108}{}{Você joga o tijolo inútil no poço, na esperança de ficar com as mãos livres.}
+{109}{}{Huungh! Quero dinheeeeero!}
+{110}{}{Hunngh! Tudo bem. Hora de pegar o dinheiro!}
+{111}{}{De repente, do buraco na parede do poço, um saco grande com uma corda presa a ele mergulha na escuridão
+ do poço. Em sua pressa para recuperar o tesouro, você não percebeu que o tijolo que você descartou estava
+ preso por uma corda ao próprio saque que você estava procurando.}
+{112}{}{Merda!}
+{113}{}{Porra, mas que caralho!!!}
+{114}{}{Sim, é complicado. Parece que você precisará descobrir uma maneira de tirar o tesouro do poço. Você é grande demais
+ para descer o poço sem ficar preso, parece que vai precisar de ajuda.}
+{115}{}{Grande demais para descer no poço.}
+{116}{}{Péssimo. Eu não posso descer no poço, sou muito grande.}
+{117}{}{Uh... amigo, isso não é... uh... bem o que eu tinha em mente.}
+{118}{}{VÁ PARA BAIXO, pequenino!}
+{119}{}{Rapazinho legal, gosto disso.}
+{120}{}{Continue, carinha.}
+{121}{}{Você está indo bem! Só um pouco mais.}
+{122}{}{Tudo bem, tudo bem. Eu vou... Auughh... Está fedendo aqui embaixo! OK. Quase lá... SIM!}
+{123}{}{Tem dinheeeero?!}
+{124}{}{Teeem?!}
+{125}{}{Sim, é aqui mesmo! Meu Deus! Esse saco é ENORME! Aquele velho não estava brincando, deve ter uma porrada de dinheiro aqui!}
+{126}{}{MEE DEEE!!!}
+{127}{}{Amarre o saco na corda! Eu vou puxar para cima!}
 {128}{}{Yeah, right! So you can go running off with my share? I don't think so! Just give me a second to check it out.}
 {129}{}{OK.}
 {130}{}{Whatever. You're not going anywhere.}

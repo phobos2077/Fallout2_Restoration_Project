@@ -1,5 +1,5 @@
-{100}{}{You see a dead body. It appears to have been chewed by animals.}
-{101}{}{Upon closer inspection it appears this person was shot before being chewed by animals.}
-{102}{}{You see the body of a young Broken Hills woman.}
-{103}{}{There appears to be a piece of paper of some kind sticking through the lining of her clothing.}
-{104}{}{Upon closer inspection it appears this person was shot before being chewed by animals.}
+{100}{}{Você vê um cadáver. Parece ter sido mastigado por animais.}
+{101}{}{Após uma inspeção mais próxima, parece que essa pessoa foi baleada antes de ser mastigada por animais.}
+{102}{}{Você vê o corpo de uma jovem mulher de Broken Hills.}
+{103}{}{Parece que tem um pedaço de papel de grudado no forro de sua roupa.}
+{104}{}{Após uma inspeção mais próxima, parece que essa pessoa foi baleada antes de ser mastigada por animais.}

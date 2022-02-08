@@ -135,18 +135,18 @@
 {381}{}{Eu sou uma mulher ocupada, ainda não cheguei nisso.}
 {382}{}{Não me apresse, eu sou uma mulher ocupada. Idiota.}
 {383}{}{Bom, sinto muito, devo ter cometido mansplaining. Mas acho que a sobrevivência da cidade pode ser um pouco mais importante. Apresse-se, sim?}
-{400}{}{I've got a note with your name on it. Found it on a dead woman in the tunnels. Would you care to comment?}
-{401}{}{Hey, I just received the note. Go talk to Francis about it, all right? He's the one
- who wrote it.}
-{402}{}{If you had a hand in killing those people, I want to know about it.}
-{403}{}{All right. See ya.}
-{404}{}{No! We're just protecting ourselves from the conspiracy. Marcus believes in law and
- evidence, and even though he knows these people are dangerous, he doesn't know who they are-
- and he's too honorable to plant evidence. My part is keeping Francis restrained from all-out
- revenge.}
-{405}{}{Sounds too tidy. I'm going to check this out with Francis.}
-{406}{}{I knew Francis couldn't handle exposure. He knew the risks of what he did, but I guess he
- didn't figure on ever being caught. He'll be all right eventually. I hope the same will be true of
- Broken Hills.}
-{407}{}{I hope so too. I have some questions.}
-{408}{}{Me too. Bye.}
+{400}{}{Tenho um bilhete com o seu nome, encontrei em uma mulher morta nos túneis. Você tem algum comentário sobre isso?}
+{401}{}{Ei, acabei de receber a nota, pode falar com Francis sobre isso, beleza? Ele que
+ escreveu.}
+{402}{}{Se você ajudou a matar aquelas pessoas, eu quero saber.}
+{403}{}{Está bem. Nos vemos por aí.}
+{404}{}{Não! Estamos apenas nos protegendo dessa conspiração. Marcus acredita na lei e em
+ evidências, mesmo sabendo que essas pessoas são perigosas, ele não sabe quais são – e ele é muito
+ justo para plantar evidências. A minha parte é segurar Francis de qualquer tipo de vingança
+ indiscriminada.}
+{405}{}{Parece muito organizado. Vou ver com o Francis.}
+{406}{}{Eu sabia que Francis não aguentaria ser exposto. Ele sabia dos riscos do que fazia, mas acho
+ que não imaginava ser pego. Eventualmente, ele fica melhor. Espero que o mesmo aconteça
+ com Broken Hills.}
+{407}{}{Também espero. Eu tenho outras perguntas.}
+{408}{}{Eu também. Adeus.}

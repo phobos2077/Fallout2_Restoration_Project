@@ -1,2 +1,2 @@
-{100}{}{This is the power generator for Broken Hills.}
-{101}{}{The generator appears to be powered with uranium slugs, and seems to be humming along effectively.}
+{100}{}{Este é o gerador de energia para Broken Hills.}
+{101}{}{O gerador parece ser alimentado por pedaços de urânio e está funcionando a uma boa taxa de forma eficaz.}
