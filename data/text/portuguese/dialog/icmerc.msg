@@ -1,23 +1,23 @@
-{100}{}{You see a well-armed mercenary.}
-{150}{}{You see a rugged looking man dressed in leather armor. Numerous scars and gunshot wounds cover his body. His armor and weapons, on the other hand, look well-maintained, almost new.}
-{151}{}{You see a well-armed raider. He is scanning the area and fingering his weapon.}
-{200}{}{Well, look at the brass balls on this son of a bitch...}
+{100}{}{Você vê um mercenário bem armado.}
+{150}{}{Você vê um homem robusto vestindo uma armadura de couro. Numerosas cicatrizes e ferimentos de bala cobrem seu corpo. Sua armadura e armas, por outro lado, parecem bem conservadas, quase novas.}
+{151}{}{Você vê um bandido bem armado. Ele está examinando a área e carregando sua arma.}
+{200}{}{Eita, olha só a audácia desse filho da puta...}
 {201}{}{Contato!}
 {202}{}{Perímetro invadido!}
 {203}{}{Temos um intruso, rapazes!}
 {204}{}{Vários, temos vários intrusos, rapazes!}
-{205}{}{Well, look who stopped in ta die...}
-{206}{}{Damn! Somebody found us!}
+{205}{}{Uau, olha quem veio aqui para morrer...}
+{206}{}{Droga! Alguém nos encontrou!}
 {207}{}{Que venham todos para a festa...}
-{208}{}{You just walked into the *wrong* place, bitch.}
-{209}{}{Well, look at the swagger on this bitch...}
-{250}{}{We went out drinking, and he called it 'attitude adjustment hour,' so we kicked his ass.}
-{251}{}{We need to check those clusters in the cave...}
-{252}{}{Almost time to do another check of the perimeter...}
-{253}{}{Man, that tribal *stinks.* All his kind do.}
-{254}{}{Damn Vault City laser cannons...}
-{255}{}{Tired of polishing my gun... both of them.}
-{256}{}{How long we gotta stay out here?}
+{208}{}{Você acaba de entrar no lugar *errado*, vadia.}
+{209}{}{Eita, olha à arrogância desta vadia...}
+{250}{}{Saímos para beber e ele chamou de 'tempo de ajuste de atitude', então demos um pau nele.}
+{251}{}{Precisamos verificar esses agrupamentos na caverna...}
+{252}{}{Quase na hora de fazer outra verificação do perímetro...}
+{253}{}{Cara, aquele tribal *fede.* Coisa do tipinho dele.}
+{254}{}{Malditos canhões laser de Vault City...}
+{255}{}{Estou ficando cansado de polir minha arma... minhas DUAS pistolas.}
+{256}{}{Quanto tempo temos que ficar aqui fora?}
 {257}{}{Devemos nos mudar em alguns dias...}
 {258}{}{Can't wait ta get back ta Reno. *'Specially* the Cat's Paw.}
 {259}{}{Them scorps are gettin' hungry again. Heard 'em clicking last night...*click* *clack* *click*}

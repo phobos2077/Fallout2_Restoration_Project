@@ -1,1 +1,1 @@
-{100}{}{You enter a remote area littered with dead vegetation. A large, well guarded bunker stands before you.}
+{100}{}{Você entra em uma área remota repleta de vegetação morta. Um bunker grande e bem protegido está à sua frente.}

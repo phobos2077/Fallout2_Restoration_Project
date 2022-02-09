@@ -1,11 +1,11 @@
-{100}{}{A large piece of machinery.}
-{101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
-{102}{}{The air purifier whirs quietly. It appears to be in working order.}
-{110}{}{That part could not possibly fix this.}
-{120}{}{You repaired the air purifier.}
-{125}{}{You destroyed the air purifier.}
-{129}{}{The conspirators can no longer send the destruct signal to the explosive switch. It is useless, so you throw it away.}
-{130}{}{It is already fixed.}
+{100}{}{Uma grande máquina.}
+{101}{}{O purificador de ar está fazendo barulhos e rangidos. Parece estar quebrado. Talvez precise de uma peça...}
+{102}{}{O purificador de ar zumbe baixinho. Parece estar funcionando.}
+{110}{}{Essa parte não poderia consertar isso.}
+{120}{}{Você consertou o purificador de ar.}
+{125}{}{Você destruiu o purificador de ar.}
+{129}{}{Os conspiradores não podem mais enviar o sinal de destruição para o detonador. É inútil, você joga fora.}
+{130}{}{Já está consertado.}
 {131}{}{Clunk}
 {132}{}{Creak}
 {133}{}{Clank}

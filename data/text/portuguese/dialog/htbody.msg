@@ -1,3 +1,3 @@
-{100}{}{This person appears to be dead.}
-{101}{}{It looks like these people may have been murdered.}
-{102}{}{You feel very sad for the dead people.}
+{100}{}{Esta pessoa parece estar morta.}
+{101}{}{Parece que essas pessoas podem ter sido assassinadas.}
+{102}{}{Você se sente muito triste pelos mortos.}

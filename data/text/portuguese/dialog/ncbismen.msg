@@ -21,7 +21,7 @@
 {230}{}{Ora ora, se não é }
 {231}{}{Didn't think members of family }
 {232}{}{You just walked into the wrong place, bitch.}
-{233}{}{Well, look at the swagger on this bitch...}
+{233}{}{Eita, olha à arrogância desta vadia...}
 {234}{}{Get, girl. Before we gun you down.}
 {235}{}{This bitch's asking for trouble...}
 {236}{}{I hear the }

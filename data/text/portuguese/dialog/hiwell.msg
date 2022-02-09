@@ -31,42 +31,42 @@
 {125}{}{Sim, é aqui mesmo! Meu Deus! Esse saco é ENORME! Aquele velho não estava brincando, deve ter uma porrada de dinheiro aqui!}
 {126}{}{MEE DEEE!!!}
 {127}{}{Amarre o saco na corda! Eu vou puxar para cima!}
-{128}{}{Yeah, right! So you can go running off with my share? I don't think so! Just give me a second to check it out.}
+{128}{}{Sim, claro! Então você pode se safar com a minha parte? Nada disso! Me dê um momento para eu dar uma olhada.}
 {129}{}{OK.}
-{130}{}{Whatever. You're not going anywhere.}
-{131}{}{I'm opening the sack. It's... it's beautiful! It's so shiny! It's... it's.... Uh oh...}
+{130}{}{Fale o que quiser, você não vai a lugar nenhum.}
+{131}{}{Estou abrindo o saco. É... é lindo! É tão brilhante! É... é... Uh oh...}
 {132}{}{Uh oh?}
-{133}{}{'Uh oh'? You said 'Uh oh'. Why did you say 'Uh oh'?}
-{134}{}{Uh... never mind! [snicker]... Check it out.}
-{135}{}{[Micky ties the sack to the rope, and you haul it up. It's pretty heavy. Maybe Micky's wrong.]}
-{136}{}{Lookee, lookee!}
-{137}{}{Let's see what we've got here.}
-{138}{}{[You gingerly open the sack, relishing the adrenaline rush. The fabric of the sack parts to reveal.....]}
+{133}{}{'Uh oh'? Você disse 'Uh oh'. Por que você disse 'Uh oh'?}
+{134}{}{Ah... nada não! [risos]... Dá uma olhada.}
+{135}{}{[Micky amarra o saco na corda e você o puxa para cima. É bem pesado, talvez Micky esteja errado.]}
+{136}{}{Olheee, olheee bem!}
+{137}{}{Vamos ver o que temos aqui.}
+{138}{}{[Você abre o saco com cuidado, aproveitando o momento. O tecido da bolsa começa a se revelar.....]}
 {139}{}{Yah, Yah?}
 {140}{}{O que é?}
-{141}{}{10000 bottlecaps.}
-{142}{}{CAPS?!}
-{143}{}{Freakin' bottlecaps?!}
-{144}{}{That's a pisser, ain't it kid? Well, better luck next time. Get me out of here!}
-{145}{}{Old ghoul make funnee joke! Ha Ha!}
-{146}{}{That bastard old ghoul tricked me! He just wanted me to waste my time running around so he could laugh at me!}
-{147}{}{Uh... friend? A little help here?}
-{148}{}{He knew I'd spend hours... no, DAYS, running all over creation to find that crap he wanted just so he could have a good giggle!}
-{149}{}{Uh... look. There's a large multi-legged thing down here that I'd like to get away from. Could ya hurry up?}
-{150}{}{Typhon should have known that caps were useless these days. Shouldn't he?}
-{151}{}{Oh my GOD! It's crawling on me! HELP!}
-{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
- shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
-{153}{}{::Whimper...::}
-{154}{}{No care bout well no more.}
-{155}{}{Hmmmm... I keep having this feeling that I've forgotten something about the well. Oh well, no time to waste.}
-{156}{}{Could someone help me out here?}
-{157}{}{HELP!!!}
-{158}{}{Ooooh! Moss! I'm hungry!}
-{159}{}{It's crawling on me! Oh God!}
-{160}{}{I'm gonna get you for this!}
-{161}{}{Oh my god! Morlocks!}
-{162}{}{[whistle] When I'm a little scared, I [shudder] sing this merry song... [whistle]}
-{163}{}{So... mad... right... now!}
-{164}{}{I suppose a secret passage would be too much to ask for.}
-{165}{}{What's going on up there?}
+{141}{}{10.000 tampinhas.}
+{142}{}{TAMPAS?!}
+{143}{}{Umas porras de tampinhas de garrafa?!}
+{144}{}{Alguma bosta, hein, garoto? Bem, melhor sorte da próxima vez. Me tire daqui!}
+{145}{}{O ghoul velho fez uma piada engraçada comigo! Ha ha!}
+{146}{}{Aquele velho ghoul lazarento me passou a perna! Ele só queria que perder meu tempo correndo para que ele pudesse rir de mim!}
+{147}{}{Ah... amigo? Me da uma ajudinha aqui?}
+{148}{}{Ele sabia que eu passaria horas... não, DIAS, indo até a casa do caralho para eu encontrar essa merda e ele dar umas boas risadas da minha cara!}
+{149}{}{Viu, tem um negócio com muitas pernas aqui embaixo que eu gostaria de fugir. Você poderia se apressar?}
+{150}{}{Typhon deveria saber que os bonés eram inúteis nos dias de hoje. Não é?}
+{151}{}{Oh, DEUS DO CÉU! Está subindo em mim! AJUDA!}
+{152}{}{Sabe, é muito engraçado quando você pensa sobre isso, ele achou que estava me ajudando. Talvez eu não
+ devesse ser tão duro com o velho. ::suspiro:: Ou mesmo com o tesouro. Enfim, tenho lugares para ir.}
+{153}{}{::Choramingo...::}
+{154}{}{Continua não se preocupando com o poço.}
+{155}{}{Hmmmm... Tenho a sensação de que esqueci alguma coisa sobre o poço. Bom, não tenho tempo a perder.}
+{156}{}{Alguém poderia me ajudar aqui?}
+{157}{}{SOCORRO!!!!}
+{158}{}{Ooooh! Musgo! Estou com fome!}
+{159}{}{Está rastejando em mim! Meu Deus!}
+{160}{}{Você vai me pagar por isso!}
+{161}{}{Meu Deus! Morlocks!}
+{162}{}{[assobio] Quando estou assustado, eu [calafrio] canto essa canção alegre... [assobio]}
+{163}{}{Agora... estou... estou... chateado!}
+{164}{}{Acho que uma passagem secreta seria pedir demais.}
+{165}{}{O que está acontecendo lá em cima?}

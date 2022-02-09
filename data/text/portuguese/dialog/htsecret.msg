@@ -1,1 +1,1 @@
-{100}{}{You have found a secret chamber of the mine.}
+{100}{}{Você encontrou uma câmara secreta na mina.}

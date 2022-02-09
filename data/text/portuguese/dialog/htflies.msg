@@ -1,3 +1,3 @@
-{100}{}{There are more flies gathered on this building than you have ever seen in one place.
- There must be something tempting within.}
-{101}{}{There are fewer flies on this building than before.}
+{100}{}{Há mais moscas reunidas neste prédio do que você já viu na sua vida. Deve haver algo
+ tentador lá dentro.}
+{101}{}{Há menos moscas neste edifício do que antes.}
