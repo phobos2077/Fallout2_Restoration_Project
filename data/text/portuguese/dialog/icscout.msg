@@ -1,10 +1,10 @@
 {100}{}{Você vê um tribal.}
-{101}{}{You see Shadow-Who-Walks.}
-{150}{}{You see a heavily-muscled primitive with black scars covering his face. He is watching you silently.}
-{151}{}{You see Shadow-Who-Walks. His face is heavily scarred by ritual tattoos.}
-{200}{}{He just stares at you in silence.}
-{201}{}{He watches you silently.}
-{300}{}{Shhh... I'm huntin' wabbits.}
+{101}{}{Você vê a Sombra Ambulante.}
+{150}{}{Você vê um tribal musculoso com cicatrizes pretas cobrindo seu rosto. Ele está te encarando silenciosamente.}
+{151}{}{Você a Sombra Ambulante. Seu rosto está fortemente marcado com tatuagens rituais.}
+{200}{}{Ele apenas te encara em silêncio.}
+{201}{}{Ele te encara silenciosamente.}
+{300}{}{Shhh... Estou caçando coelhos.}
 {400}{}{[He looks upon you with untrusting eyes.] Who goes there?}
 {401}{}{Meu nome é }
 {402}{}{. Quem é você?}
@@ -101,7 +101,7 @@
 {811}{}{[Walk Away]}
 {812}{}{[Attack]}
 {850}{}{Quem vem lá?}
-{851}{}{Shhh... I'm huntin' wabbits.}
+{851}{}{Shhh... Estou caçando coelhos.}
 {852}{}{HeeeeHeee! Hehe... He... You have nice paintings like a picture... Heeee!}
 {900}{}{Shadow Who Walks does not understand. What do you mean?}
 {901}{}{You are in great danger! Just tell me what you do here. I need to know whether I am speaking to the right person.}

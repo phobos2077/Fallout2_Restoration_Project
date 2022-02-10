@@ -19,14 +19,14 @@
 {255}{}{Estou ficando cansado de polir minha arma... minhas DUAS pistolas.}
 {256}{}{Quanto tempo temos que ficar aqui fora?}
 {257}{}{Devemos nos mudar em alguns dias...}
-{258}{}{Can't wait ta get back ta Reno. *'Specially* the Cat's Paw.}
-{259}{}{Them scorps are gettin' hungry again. Heard 'em clicking last night...*click* *clack* *click*}
-{260}{}{Did you check them mines at the entrance like I *told* you?}
-{261}{}{Captain's breathing down my neck again cause I almost let that one merchant get away...}
-{262}{}{I wonder how I can get out of this chicken-shit outfit.}
-{263}{}{Lynette's a good-looking woman. Well, in a aristocratic, domineering, slave-advocating kind of way.}
-{264}{}{...so then *she* says, 'that's my belly button, dipshit!' Haw! That joke *always* kills me.}
-{265}{}{Good to go.}
-{266}{}{The Captain's really busting my balls...}
-{267}{}{I feel like I've been standing here forever, just waiting for somebody to show.}
-{268}{}{Wish I had some other map I could go to.}
+{258}{}{Não vejo a hora de voltar para Reno. *'Especialmente* à Garra do Gato.}
+{259}{}{Os escorpiões estão com fome de novo. Ouvi o sons deles ontem à noite...*clique* *claque* *clique*}
+{260}{}{Você verificou as entradas da minas eu *disse* pra você?}
+{261}{}{O capitão tá fungando no meu pescoço de novo porque eu quase deixei aquele mercador fugir...}
+{262}{}{Eu me pergunto como posso me livrar dessa roupa vagabunda.}
+{263}{}{Lynette é muito bonita. Claro, se você gosta de arrogância aristocrática, dominação e ser tratado como escravo.}
+{264}{}{...então *ela* diz, 'esse é meu umbigo, babaca!' Uau! Eu nunca tanko essa piada.}
+{265}{}{Ótimo, vamos indo.}
+{266}{}{O capitão está realmente querendo me fuder...}
+{267}{}{Eu sinto como se estivesse aqui à uma eternidade, só esperando alguém aparecer.}
+{268}{}{Seria bom se tivéssemos outro lugar para ir.}

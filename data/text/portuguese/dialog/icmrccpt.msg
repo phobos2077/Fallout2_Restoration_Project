@@ -1,6 +1,6 @@
-{100}{}{You see a mercenary captain.}
-{150}{}{You see a rugged looking man dressed in combat armor. His armor and weapons look well-maintained, almost new.}
-{151}{}{You see a mercenary captain. He is scanning the area and fingering his weapon.}
+{100}{}{Você vê um capitão mercenário.}
+{150}{}{Você vê um homem de aparência robusta vestido com armadura de combate. Sua armadura e armas parecem bem conservadas, quase novas.}
+{151}{}{Você vê um capitão mercenário. Ele está examinando a área e dedilhando sua arma.}
 {200}{}{Eita, olha só a audácia desse filho da puta...}
 {201}{}{Contato!}
 {202}{}{Temos um intruso, rapazes!}
@@ -10,14 +10,14 @@
 {206}{}{Que venham todos para a festa...}
 {207}{}{Você acaba de entrar no lugar *errado*, vadia.}
 {208}{}{Eita, olha à arrogância desta vadia...}
-{215}{}{Better call those killer teams in soon...}
-{216}{}{I think Bravo team is a few klicks south of Vault City... they're still tracking that caravan.}
-{217}{}{That desert cherry better shape up soon... that sort of shit won't wash around here.}
-{218}{}{Almost time to send some men to check the perimeter...}
-{219}{}{If we could only sabotage those Vault City laser cannons...}
-{220}{}{Still waiting for word from Bishop...}
-{221}{}{Been a week since Bishop sent a messenger.}
-{222}{}{I figure the next caravan ought to be from NCR to Vault City...}
-{223}{}{We gotta be ready to move out at a moment's notice.}
-{224}{}{Hope those boys checked the traps.}
-{225}{}{Have Alpha and Bravo team checked back in yet?}
+{215}{}{Melhor chamar essas equipes assassinas logo...}
+{216}{}{Acho que a equipe Bravo está a alguns quilômetros ao sul de Vault City... eles ainda estão rastreando aquela caravana.}
+{217}{}{É melhor que aquele rato do deserto apareça logo... esse tipo de merda não serve por aqui.}
+{218}{}{É hora de enviar uns homens para averiguar o perímetro...}
+{219}{}{Se pudéssemos sabotar aqueles canhões laser de Vault City...}
+{220}{}{Ainda esperando a resposta de Bishop...}
+{221}{}{Faz uma semana desde que Bishop enviou um mensageiro.}
+{222}{}{Acho que a próxima caravana deve ir da NCR para Vault City...}
+{223}{}{Temos que estar prontos para sair a qualquer momento.}
+{224}{}{Espero que aqueles caras tenham verificado as armadilhas.}
+{225}{}{As equipes Alpha e Bravo já voltaram?}
