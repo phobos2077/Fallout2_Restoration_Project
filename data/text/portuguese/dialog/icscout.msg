@@ -1,132 +1,132 @@
 {100}{}{Você vê um tribal.}
-{101}{}{Você vê a Sombra Ambulante.}
+{101}{}{Você vê a Sombra Que Caminha.}
 {150}{}{Você vê um tribal musculoso com cicatrizes pretas cobrindo seu rosto. Ele está te encarando silenciosamente.}
-{151}{}{Você a Sombra Ambulante. Seu rosto está fortemente marcado com tatuagens rituais.}
+{151}{}{Você a Sombra Que Caminha. Seu rosto está fortemente marcado com tatuagens rituais.}
 {200}{}{Ele apenas te encara em silêncio.}
 {201}{}{Ele te encara silenciosamente.}
 {300}{}{Shhh... Estou caçando coelhos.}
-{400}{}{[He looks upon you with untrusting eyes.] Who goes there?}
+{400}{}{[Ele te olha com olhos desconfiados.] Quem vai lá?}
 {401}{}{Meu nome é }
 {402}{}{. Quem é você?}
-{403}{}{I'm on a mission for Vault City. Who are you?}
-{404}{}{My name is not important. I have come to warn you. You are in great danger!}
-{405}{}{I am your nemesis. Prepare to join your ancestors!}
-{406}{}{I'm French. Why do you think I have this outrageous accent? [Stare at him oddly.]}
+{403}{}{Estou em uma missão para Vault City. Quem é você?}
+{404}{}{Meu nome não é importante, eu vim te alertar. Você está em grande perigo!}
+{405}{}{Eu sou seu inimigo. Prepare-se para ir jogar no Vasco!}
+{406}{}{Eu sou francês. Por que você acha que eu tenho esse sotaque infame? [Olhe para ele estranhamente.]}
 {407}{}{Deixa pra lá. Desculpe incomodá-lo.}
-{410}{}{You speak to Shadow Who Walks. Why have you come here?}
-{411}{}{I'm trying to stop raider attacks on Vault City, and I have reason to believe that this is the raiders' base of operations. What do you know about the raiders?}
-{412}{}{I was sent by Vault City on account of Raiders attacking them.}
-{413}{}{I was just curious about this place, but I'll be leaving now.}
-{414}{}{I'm doing some target practice, and you look like you would make an excellent moving target.}
-{420}{}{Shadow Who Walks knows of no raiders here. Shadow Who Walks knows only of some Rangers here to free slaves from Vault City, that evil place. [He gives you a description which matches the one of the raiders.]}
-{421}{}{Is that what they've told you, that they are Rangers? There are no Rangers around here, they are lying.}
-{422}{}{Rangers? These aren't Rangers. Just look at their clothing. You're a pawn in their game. They are just using you.}
-{423}{}{Look, I was sent by Vault City to find some Raiders. These men fit the description.}
-{424}{}{Oh, alright. I guess I'll be leaving then.}
-{425}{}{I don't believe you. Die, you wicked man!}
-{430}{}{Why would they lie to Shadow Who Walks?}
-{431}{}{Would you have helped them if they had told you that they were raiders, attacking innocent people, and that they didn't care one bit about helping anyone in Vault City?}
-{432}{}{I don't know. It's a tough world out there. People prey on others all the time.}
-{433}{}{To get a good laugh, perhaps? You look stupid enough to fall for anything.}
-{440}{}{Shadow Who Walks would never help do that, that would be evil. [He eyes you suspiciously.] But why should Shadow Who Walks trust what you say?}
-{441}{}{[Tell him of your home tribe.]}
-{442}{}{Because I'm a Ranger, the real deal. [Show him your pin.]}
-{443}{}{Because I know who these raiders are working for, and he's not a nice man at all. [Show him the data from the holodisk]}
-{444}{}{I don't know. Sorry to waste your time.}
-{445}{}{You don't have to, I'm gonna kill you anyway.}
-{450}{}{[Shadow Who Walks seems to look upon you differently, with more trusting eyes.] Now Shadow Who Walks knows you are teller of truth. Shadow Who Walks trusts you.}
-{451}{}{Well, what are you going to do now?}
-{452}{}{Do you have any idea why these raiders might be attacking Vault City?}
-{453}{}{That's funny, I've been lying to you all the time. How does that feel, moron?}
-{460}{}{No, don't know. Only know they fooled Shadow Who Walks into helping them find the way.}
-{461}{}{Well, what are you going to do now?}
-{462}{}{You wouldn't happen to have heard them speak any names or anything like that?}
-{463}{}{Well, never mind, I'll just kill all of them. I think I'm going to warm up a bit first by killing you...}
-{470}{}{Hmmm... maybe. When some of them went to get more of the noisy, strange weapons... [He makes gestures like someone using a rifle of some kind]...they mentioned a name... Bishop. Yes, they talked about a man called Bishop.}
-{471}{}{I see. Well, thank you, Shadow Who Walks, you have been most helpful.}
-{472}{}{Good. Now that I have the information I wanted I'll just terminate this bunch of pests, starting with you...}
-{480}{}{Shadow Who Walks thanks you, Shadow Who Walks does not like to be fooled.}
-{481}{}{You are welcome. What now, then?}
-{482}{}{Oh, really? And here I was, thinking you would be used to it by now, you being an idiot and all...}
-{490}{}{Shadow Who Walks will not help anymore. Shadow Who walks will go home, and will not show evil men the way again.}
-{491}{}{Good. This should prevent the evil men from harming innocent people in Vault City again.}
-{500}{}{Shadow Who Walks thanks you, friend, for bringing the truth. May the spirits guide your path.}
-{501}{}{And yours.}
-{600}{}{[His face darkens.] That evil place. Why should Shadow Who Walks listen to one who comes from evil Vault City?}
-{601}{}{Because a shadow will soon be all that's left of you if you don't.}
-{602}{}{I didn't come hear to make you listen. I came here to make you dead.}
-{610}{}{[He studies you warily for a moment.] Shadow Who Walks will listen. Now, why are you here?}
-{611}{}{Vault City is under heavy attack, and the Vault City guards have been unable to find out who is really attacking and what their intentions are.}
-{612}{}{Well, I don't really have a lot to say to you, so I'll just let my fists do the talking.}
-{620}{}{And why should Shadow Who Walks think that is a bad thing? They are getting what they deserve, and Shadow Who Walks will be happy when they are defeated, and their 'servants' are freed.}
-{621}{}{So, you support whoever is attacking them?}
-{622}{}{Well, I don't think I'm going to let you live long enough for that to happen.}
-{630}{}{Shadow Who Walks shows them the way to Vault City and back. Shadow Who Walks is very important to them, is needed for them to find the way.}
-{631}{}{Well then, I'll just have to kill you, and the attacks should stop.}
-{632}{}{You mean WAS important, right? What I'm trying to say is that you're going to die now, by my hand.}
-{640}{}{[A look of fear slowly fills his face, and he starts backing away.] Please, no! Shadow Who Walks does not wish to die!}
-{641}{}{Then leave this place, and these people, permanently. I'm going to count to ten, and if you're not gone by then, you'll be joining your ancestors in the skies above. ONE...}
-{642}{}{Too late, my dear tribal. You are going to join your ancestors in about...12 seconds.}
-{700}{}{(The tribal looks upon you with silence)}
-{701}{}{[Keep staring]}
-{702}{}{[Attack]}
+{410}{}{Você fala com a Sombra Que Caminha. Por que você veio aqui?}
+{411}{}{Estou tentando parar os ataques de invasores em Vault City, e tenho motivos para acreditar que esta é a base de operações deles. O que você sabe sobre os invasores?}
+{412}{}{Foi enviado por Vault City por conta dos Raiders os atacarem.}
+{413}{}{Eu só estava curioso sobre este lugar, mas já estou saindo.}
+{414}{}{Estou praticando tiro ao alvo, e você parece ser um ótimo alvo móvel.}
+{420}{}{Sombra Que Caminha não conhece nenhum invasor aqui. Sombra Que Caminha conhece apenas alguns Rangers aqui para libertar escravos de Vault City, lugar maligno. [Ele lhe dá uma descrição que combina com a dos invasores.]}
+{421}{}{Foi o que te disseram, que eles são Rangers? Não há Rangers por aqui, isso é tudo mentira.}
+{422}{}{Rangers? Eles não são Rangers, é só dar uma olhada em suas roupas. Você está sendo um peão no jogo deles, estão te usando.}
+{423}{}{Olha, fui enviado por Vault City para encontrar alguns Raiders. Esses homens se encaixam na descrição.}
+{424}{}{Ah, tudo bem. Acho que vou embora então.}
+{425}{}{Eu não acredito em você. Morra, homem mau!}
+{430}{}{Por que eles mentiriam para Sombra que Caminha?}
+{431}{}{Você os teria ajudado se eles te dissessem que são invasores, atacam pessoas inocentes, e que não se importam nem um pouco em ajudar alguém em Vault City?}
+{432}{}{Eu não sei. É um mundo difícil lá fora, as pessoas se matam por nada o tempo todo.}
+{433}{}{Para dar umas risadas, talvez? Você parece tapado o suficiente para acreditar em conversa fiada.}
+{440}{}{Sombra Que Caminha nunca ajudaria a fazer isso, isso seria mal. [Ele te olha desconfiado.] Mas por que Sombra Que Caminha deveria confiar no que você diz?}
+{441}{}{[Você conta a ele sobre sua tribo natal.]}
+{442}{}{Porque eu sou um Ranger, um real. [Mostra a ele seu broche.]}
+{443}{}{Porque eu sei para quem esses invasores estão trabalhando, e ele não é um homem bom. [Mostra a ele os dados do holodisco]}
+{444}{}{Eu não sei. Desculpe te fazer perder tempo.}
+{445}{}{Você não precisa, eu vou te matar de qualquer forma.}
+{450}{}{[Sombra Que Caminha parece te olhar de forma diferente, com um olhar mais confiante.] Agora Sombra Que Caminha sabe que você é quem diz a verdade. Sombra Que Caminha confia em você.}
+{451}{}{Bem, o que você vai fazer agora?}
+{452}{}{Você tem alguma ideia de por que esses invasores podem estar atacando Vault City?}
+{453}{}{Isso é engraçado, eu menti pra você esse tempo todo. Como se sente, idiota?}
+{460}{}{Não, não sei. Só sei que eles enganaram Sombra Que Caminha para ajudar a encontrar o caminho.}
+{461}{}{Bem, o que você vai fazer agora?}
+{462}{}{Você por acaso ouviu eles falarem de algum nome ou algo assim?}
+{463}{}{Bem, não importa, eu vou matar todos eles. Mas acho que vou começar primeiro com você...}
+{470}{}{Hum... talvez. Quando alguns deles foram buscar mais armas estranhas e barulhentas... [Ele faz gestos como se alguém estivesse usando algum tipo de rifle]... eles disseram um nome... Bishop. Sim, eles falaram sobre um homem chamado Bishop.}
+{471}{}{Entendo. Bem, obrigado, Sombra Que Caminha , você foi muito útil.}
+{472}{}{Boa. Agora que tenho a informação que queria, vou acabar com essa cambada de vermes, começando por você...}
+{480}{}{Sombra Que Caminha agradece, Sombra Que Caminha não gosta de ser enganado.}
+{481}{}{Você é bem vindo. E agora, então?}
+{482}{}{Sérião? E eu aqui pensando que você já se acostumou a ser feito de otário e tudo mais...}
+{490}{}{Sombra Que Caminha não vai ajudar mais. Sombra Que Caminha irá para casa, e não mostrará o caminho aos homens maus novamente.}
+{491}{}{Ótimo. Isso deve evitar que os homens maus prejudiquem pessoas inocentes de Vault City novamente.}
+{500}{}{Sombra Que Caminha agradece, amigo, por trazer a verdade. Que os espíritos guiem seu caminho.}
+{501}{}{E os seus também.}
+{600}{}{[Seu rosto escurece.] Aquele lugar maligno. Por que Sombra Que Caminha deveria ouvir alguém que vem da malvada Vault City?}
+{601}{}{Porque sombra é a única coisa que sobrará de você se não fizer.}
+{602}{}{Eu não vim ouvir o que eu deveria fazer para você me ouvir, eu vim te matar.}
+{610}{}{[Ele estuda você com cautela por um momento.] Sombra Que Caminha vai ouvir. Agora, por que você está aqui?}
+{611}{}{Vault City está sob ataque pesado, e os guardas de lá não conseguiram descobrir quem realmente está atacando e nem o porquê.}
+{612}{}{Bem, eu realmente não tenho muito o que te falar, então vou deixar meus punhos falarem.}
+{620}{}{E por que Sombra Que Caminha deveria pensar que isso é uma coisa ruim? Eles estão recebendo o que merecem, e Sombra Que Caminha ficará feliz quando forem derrotados e seus 'servos' forem libertados.}
+{621}{}{Então, você apoia quem os está atacando?}
+{622}{}{Bem, eu não acho que vou deixar você viver o suficiente para que isso aconteça.}
+{630}{}{Sombra Que Caminha mostra a eles o caminho para Vault City e volta. Sombra Que Caminha é muito importante para eles, é necessário que eles encontrem o caminho.}
+{631}{}{Bem, então terei que te matar, e os ataques devem parar.}
+{632}{}{Então quer dizer que você FOI importante, certo? Então te digo que você vai morrer agora, pelas minhas mãos.}
+{640}{}{[Um olhar de medo lentamente enche seu rosto, e ele começa a recuar.] Por favor, não! Sombra Que Caminha não deseja morrer!}
+{641}{}{Então deixe esse lugar, e essas pessoas, permanentemente. Vou contar até dez, e se você não tiver sumido, irá se juntar com seus ancestrais sabe-se lá onde. UM...}
+{642}{}{Tarde demais, meu amiguinho tribal. Você vai se juntar aos seus ancestrais em cerca de... 12 segundos.}
+{700}{}{(O tribal te olha em silêncio)}
+{701}{}{[Continua encarando]}
+{702}{}{[Ataca]}
 {703}{}{Meu nome é }
 {704}{}{. Quem é você?}
-{705}{}{I'm on a mission for Vault City. Who are you?}
-{706}{}{My name is not important. I have come to warn you. You are in great danger!}
-{707}{}{Never mind, I'll just leave.}
-{708}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
-{710}{}{(The tribal continues to look upon you with silence)}
-{711}{}{[Keep staring]}
-{712}{}{[Attack]}
+{705}{}{Estou em uma missão para Vault City. Quem é você?}
+{706}{}{Meu nome não é importante, eu vim te alertar. Você está em grande perigo!}
+{707}{}{Não importa, estou indo embora.}
+{708}{}{Eu não quero mais falar com você, seu retardado limpador de lavagem !Tô cagando geral pra você! Sua mãe cheirava à pica do vizinho e teu pai era broxa!}
+{710}{}{(O tribal te olhando em silêncio)}
+{711}{}{[Continua encarando]}
+{712}{}{[Ataca]}
 {713}{}{Meu nome é }
 {714}{}{. Quem é você?}
-{715}{}{I'm on a mission for Vault City. Who are you?}
-{716}{}{My name is not important. I have come to warn you. You are in great danger!}
-{717}{}{Never mind, I'll just leave.}
-{718}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
-{720}{}{(The tribal continues to look upon you with silence. It is clear he is becoming impatient.)}
-{721}{}{[Keep staring]}
-{722}{}{[Attack]}
+{715}{}{Estou em uma missão para Vault City. Quem é você?}
+{716}{}{Meu nome não é importante, eu vim te alertar. Você está em grande perigo!}
+{717}{}{Não importa, estou indo embora.}
+{718}{}{Eu não quero mais falar com você, seu retardado limpador de lavagem !Tô cagando geral pra você! Sua mãe cheirava à pica do vizinho e teu pai era broxa!}
+{720}{}{(O tribal continua te olhando em silêncio, é nítido que ele está ficando impaciente.)}
+{721}{}{[Continua encarando]}
+{722}{}{[Ataca]}
 {723}{}{Meu nome é }
 {724}{}{. Quem é você?}
-{725}{}{I'm on a mission for Vault City. Who are you?}
-{726}{}{My name is not important. I have come to warn you. You are in great danger!}
-{727}{}{Never mind, I'll just leave.}
-{728}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
-{800}{}{Shadow Who Walks believes you not. Shadow Who Walks is through talking. Goodbye.}
+{725}{}{Estou em uma missão para Vault City. Quem é você?}
+{726}{}{Meu nome não é importante, eu vim te alertar. Você está em grande perigo!}
+{727}{}{Não importa, estou indo embora.}
+{728}{}{Eu não quero mais falar com você, seu retardado limpador de lavagem !Tô cagando geral pra você! Sua mãe cheirava à pica do vizinho e teu pai era broxa!}
+{800}{}{Sombra Que Caminha acredita que não. Sombra Que Caminha é através da conversa. Adeus.}
 {801}{}{[FIM]}
-{802}{}{Don't you turn your back on me tribal. I'm talking to you.}
-{810}{}{How dare you threaten Shadow Who Walks. Leave now.}
-{811}{}{[Walk Away]}
-{812}{}{[Attack]}
+{802}{}{Não vire as costas para mim tribal. Estou falando com você.}
+{810}{}{Como você ousa ameaçar Sombra Que Anda. Saia agora.}
+{811}{}{[Você vai]}
+{812}{}{[Ataca]}
 {850}{}{Quem vem lá?}
 {851}{}{Shhh... Estou caçando coelhos.}
-{852}{}{HeeeeHeee! Hehe... He... You have nice paintings like a picture... Heeee!}
-{900}{}{Shadow Who Walks does not understand. What do you mean?}
-{901}{}{You are in great danger! Just tell me what you do here. I need to know whether I am speaking to the right person.}
-{902}{}{Uh, bad spirits are coming for you.}
-{903}{}{The danger is that I am here to kill you.}
-{910}{}{Shadow Who Walks is a scout. Shadow Who Walks guides these Rangers through the mountains. Warriors can get lost if
- they know not the paths through the mountains.}
-{911}{}{Then it is really you! My Elder sent me to tell you that something terrible will befall you.}
-{912}{}{Is that what they've told you, that they are Rangers? There are no Rangers around here, they are lying.}
-{913}{}{Rangers? These aren't Rangers. Just look at their clothing. You're a pawn in their game. They are just using you.}
-{920}{}{What!? Shadow Who Walks does understand. Why would an Elder say such things?}
+{852}{}{HeeeeHee! Hehe... Ele... Você tem belas pinturas como um quadro... Heeee!}
+{900}{}{Sombra Que Anda não entende. O que você quer dizer?}
+{901}{}{Você está em grande perigo! Apenas me diga o que faz aqui. Preciso saber se estou falando com a pessoa certa.}
+{902}{}{Uh, maus espíritos estão vindo para você.}
+{903}{}{O perigo é que estou aqui para te matar.}
+{910}{}{Sombra Que Anda é um batedor. Sombra Que Anda guia esses Rangers pelas montanhas. Os guerreiros podem se perder
+ se não conhecerem os caminhos pelas montanhas.}
+{911}{}{Então é realmente você! Meu Ancião me enviou para lhe dizer que algo terrível acontecerá com você.}
+{912}{}{Foi o que te disseram, que eles são Rangers? Não há Rangers por aqui, isso é tudo mentira.}
+{913}{}{Rangers? Eles não são Rangers, é só dar uma olhada em suas roupas. Você está sendo um peão no jogo deles, estão te usando.}
+{920}{}{O que!? Sombra Que Anda compreende. Por que um Ancião diria tais coisas?}
 {921}{}{Listen to me! Our village Elder foresaw your death. The next time you leave this cave to guide these men through the
  mountains, you will not return alive. You must leave here immediately or the evil spirits will take you.}
-{922}{}{Do you doubt the Elder?}
-{930}{}{W-Why... Why should Shadow Who Walks believe you? How did the Elder foresee such events?}
-{931}{}{Well... She was watching this movie once... No, no... Uh, she was playing this videogame... Mmmmm... Yes! It's called Fal-...}
-{932}{}{She drank this drink, it smelled quite strong, and vivid dreams came to her.}
-{933}{}{The bone in here nose told her. This is how she communicates with our ancestors.}
-{940}{}{You are lying. This is not how one talks with the spirits. Now Shadow Who Walks will see how tongue of liar tastes with favorite brock sauce.}
+{922}{}{Você duvida do Ancião?}
+{930}{}{P-Por que... Por que Shadow Who Walks deveria acreditar em você? Como o Ancião previu tais eventos?}
+{931}{}{Bem... Ela estava assistindo esse filme uma vez... Não, não... Uh, ela estava jogando esse videogame... Mmmmm... Sim! Chama-se Fal-...}
+{932}{}{Ela bebeu esta bebida, cheirava muito forte, e sonhos vívidos vieram a ela.}
+{933}{}{O osso aqui no nariz disse a ela. É assim que ela se comunica com nossos ancestrais.}
+{940}{}{Você está mentindo. Não é assim que se fala com os espíritos. Agora Shadow Who Walks vai ver como é o gosto da língua do mentiroso com o molho de brock favorito.}
 {941}{}{[FEITO]}
-{950}{}{Oh, then it is true what you speak. Shadow Who Walks knows the power of the spirits. What should Shadow Who Walks do?}
-{951}{}{Well, I just spoke with them and they told me they don't like you very much. They asked me to kill you.}
+{950}{}{Ah, então é verdade o que você fala. Shadow Who Walks conhece o poder dos espíritos. O que Shadow Who Walks deve fazer?}
+{951}{}{Bem, acabei de falar com eles e eles me disseram que não gostam muito de você. Eles me pediram para te matar.}
 {952}{}{You have to leave here forever and never guide these men again. The spirits are angry at you for leading these men
  through the mountains. Pray daily to the spirits and only then will their anger be lifted.}
-{960}{}{Shadow Who Walks obeys. [Shadow Who Walks runs toward the ladder leading to the outside]}
-{961}{}{You are welcome Shadow Who Runs.}
-{1000}{}{You have broken the raiders' strength. They will no longer be able to raid the region.}
-{1001}{}{Give it a day or two and I'm sure these Raiders will abandon this place. Then I can look around for information.}
+{960}{}{Shadow Who Walks obedece. [Shadow Who Walks corre em direção à escada que leva ao lado de fora]}
+{961}{}{De nada Shadow Who Runs.}
+{1000}{}{Você destruiu a força dos Raiders. Eles não poderão mais atacar a região.}
+{1001}{}{Espere um ou dois dias e tenho certeza que esses Raiders vão deixar este lugar. Então eu posso olhar ao redor para obter informações.}
