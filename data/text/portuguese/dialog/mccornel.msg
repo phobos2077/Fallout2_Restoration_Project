@@ -58,7 +58,7 @@ bandido que tenta matá Farrel.}
   pode se machucar.}
 {207}{}{Esse é o meu relógio! O que você está fazendo com isso? Dar de volta! [Ele rouba o relógio do
 . mãos] Eu acho que é melhor você ir; nós não olhoamos com bons olhos ladrões por aqui.}
-{208}{}{That's gratitude for you.}
+{208}{}{Que gratidão a sua.}
 {209}{}{Você já tentou omeletes de Rose? Eles são deliciosos.}
 {210}{}{Vi Jonny jogando pelo poço com seu cão Laddie. É um garoto legal.}
 {211}{}{Não vá para o Santo Farm, a menos que você estiver cansado de viver.}

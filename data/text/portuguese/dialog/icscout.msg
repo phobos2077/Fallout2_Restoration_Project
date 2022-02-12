@@ -113,8 +113,8 @@
 {912}{}{Foi o que te disseram, que eles são Rangers? Não há Rangers por aqui, isso é tudo mentira.}
 {913}{}{Rangers? Eles não são Rangers, é só dar uma olhada em suas roupas. Você está sendo um peão no jogo deles, estão te usando.}
 {920}{}{O que!? Sombra Que Anda compreende. Por que um Ancião diria tais coisas?}
-{921}{}{Listen to me! Our village Elder foresaw your death. The next time you leave this cave to guide these men through the
- mountains, you will not return alive. You must leave here immediately or the evil spirits will take you.}
+{921}{}{Me escuta! O ancião da nossa aldeia previu sua morte. Da próxima vez que sair desta caverna para guiar esses homens
+ pelas montanhas, você não voltará vivo. Você deve sair daqui imediatamente ou os espíritos malignos o levarão.}
 {922}{}{Você duvida do Ancião?}
 {930}{}{P-Por que... Por que Shadow Who Walks deveria acreditar em você? Como o Ancião previu tais eventos?}
 {931}{}{Bem... Ela estava assistindo esse filme uma vez... Não, não... Uh, ela estava jogando esse videogame... Mmmmm... Sim! Chama-se Fal-...}
@@ -124,8 +124,8 @@
 {941}{}{[FEITO]}
 {950}{}{Ah, então é verdade o que você fala. Shadow Who Walks conhece o poder dos espíritos. O que Shadow Who Walks deve fazer?}
 {951}{}{Bem, acabei de falar com eles e eles me disseram que não gostam muito de você. Eles me pediram para te matar.}
-{952}{}{You have to leave here forever and never guide these men again. The spirits are angry at you for leading these men
- through the mountains. Pray daily to the spirits and only then will their anger be lifted.}
+{952}{}{Você tem que sair daqui para sempre e nunca mais guiar esses homens, os espíritos estão com raiva por você os liderar
+ pelas montanhas. Ore diariamente aos espíritos e só então o furor deles será aliviado.}
 {960}{}{Shadow Who Walks obedece. [Shadow Who Walks corre em direção à escada que leva ao lado de fora]}
 {961}{}{De nada Shadow Who Runs.}
 {1000}{}{Você destruiu a força dos Raiders. Eles não poderão mais atacar a região.}

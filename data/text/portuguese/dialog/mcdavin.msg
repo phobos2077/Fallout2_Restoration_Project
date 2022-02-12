@@ -70,6 +70,6 @@
 {1700}{}{Ta certo, estarei atrás de você todo o caminho.}
 {1800}{}{Então eu estaria apto a te proteger. Não, é melhor eu ficar por perto.}
 {1900}{}{É? Sem chance! Não o deixarei sair da minha vista, meu brinquedinho sexual.}
-{2000}{}{Owie. I think I broke a limb. Can you kiss it and make it better?}
-{2001}{}{Ugh, I feel like I am burning up. I think I am radiated.}
-{2002}{}{Ugh, I feel so sick. I think I am poisoned.}
+{2000}{}{Oie, acho que quebrei um membro. Você pode dar beijinho pra sarar o dodói?}
+{2001}{}{Ah, sinto que estou pegando fogo. Acho que estou irradiado.}
+{2002}{}{Ugh, me sinto doente. Acho que estou envenenado.}

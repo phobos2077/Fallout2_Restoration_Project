@@ -31,9 +31,9 @@
 {181}{}{Não, mas como eu sei que eu não peguei nada, essa é a única teoria que eu consegui formular.}
 {182}{}{Posso fazer mais algumas perguntas?}
 {183}{}{HA! Se você acha que eu sou tão culpado porque você não atira logo em mim e acaba de uma vez com isso? Seu verme, venha me pegar!}
-{184}{}{How did you find it? I hid that safe so nobody would be able to find it. You must be a
- professional thief. Hmm... where were you when the gold watch disappeared? I think you'd better leave,
- and nothing better be missing from the safe or I'll have Sheriff Jo on ya. Now get out!}
+{184}{}{Como você encontrou isso? Escondi aquele cofre para que ninguém pudesse encontrá-lo,
+ você deve ser um ladrão profissional. Hmm... onde você estava quando o relógio de ouro desapareceu?
+ Acho que é melhor você ir embora, e que nada falte no cofre ou o xerife Jo irá atrás de você. Agora saia!}
 {185}{}{Modoc é uma pequena comunidade de fazendeiros pecuaristas. Nós fornecemos a maior parte da comida pras cidades vizinhas pelo comércio da comida por vário outro produtos. É um esquema bom. Mas isso ta mudando com a seca. Não estamos conseguindo nos alimentar, quanto mais comercializar.}
 {187}{}{Bem, eu levo a vida cuidando do jardim, tentando fazer a porcaria das plantas crescerem sem água. Não consigo mais fazer isso porque algo grande se mudou pra lá, e eu não consigo me livrar. E ainda por cima ninguém quer me ajudar porque pensam que eu roubei o relógio de ouro de Cornelius.}
 {188}{}{Bem, eu levo a vida cuidando do jardim, tentando fazer a porcaria das plantas crescerem sem água. Não consigo mais fazer isso porque algo grande se mudou pra lá, e eu não consigo me livrar. Sem a comida do meu jardim, eu provavelmente vou morrer de fome.}

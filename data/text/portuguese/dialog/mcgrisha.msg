@@ -106,9 +106,9 @@ Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matando os brah
 {410}{}{Não me faça fazer }
 {412}{}{Miria}
 {413}{}{Davin}
-{414}{}{Uh, Bo, can we just skip to the vow tying parts?}
-{420}{}{You're not going anywhere, boy!}
-{421}{}{You're not going anywhere, missy!}
+{414}{}{Ei, Bo, podemos pular para a parte dos votos de casamento?}
+{420}{}{Você não vai a lugar nenhum, garoto!}
+{421}{}{Você não vai a lugar nenhum, mocinha!}
 {452}{}{ era diferente, mas só tem um jeito de deixar isso certo!}
 {453}{}{. Só tem um jeito de corrigir isso!}
 {460}{}{ um viúvo.}
@@ -130,31 +130,31 @@ Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matando os brah
 {700}{}{Aggg... [Um olhar chocado passou pelo rosto de Grisham ele pôs a mão no peito e caiu no chão.]}
 {750}{}{Bem, Tenho que voltar ao trabalho. Vejo você por ai.}
 {800}{}{Você salvou os brahmins de Grisham.}
-{1101}{}{You see Uncle Biff.}
-{1155}{}{I knew my niece was odd.}
+{1101}{}{Você vê o tio Biff.}
+{1155}{}{Eu sabia que minha sobrinha era estranha.}
 {1156}{}{Pessoas diferentes, gostos diferentes, eu acho.}
-{1157}{}{I'm glad Grisham ain't alive to see this.}
-{1158}{}{I knew my nephew was odd.}
+{1157}{}{Estou feliz que Grisham não esteja vivo para ver isso.}
+{1158}{}{Eu sabia que meu sobrinho era estranho.}
 {1159}{}{Cuide bem de minha filha.}
-{1160}{}{You take good care of my niece.}
-{1161}{}{You take good care of my nephew.}
-{1228}{}{Boy, dont even try to explain this. I dont want to hear it. I'm gonna get the preacher, make
- this all lawful like, and you will leave and take my nephew with you when you go.}
-{1229}{}{I can't say Im not just a little turned on by this, but I've got to do what Grisham would've
- wanted. You two are going to have to get hitched and leave.}
-{1230}{}{You mind explaining what yer doing with my niece?}
-{1231}{}{You mind explaining what yer doing with my nephew?}
-{1232}{}{Let me explain it to you gently, Uncle Biff. There are these birds and bees, you see }
-{1236}{}{That's just great. I'm going to have a smart-ass as an in-law. Well... come on nephew, let's get
- this over with.}
-{1237}{}{That's just great. I'm going to have a smart-ass as an in-law. Well... come on niece, let's get
- this over with.}
-{1238}{}{Let me see. It looked to me that you and my niece were imitating the brahmin during mating
- season.}
-{1239}{}{Let me see. It looked to me that you and my nephew were doing the horizontal tango between the
- sheets.}
-{1403}{}{How dare you sully the honor of my brother's }
+{1160}{}{Cuide bem da minha sobrinha.}
+{1161}{}{Cuide bem do meu sobrinho.}
+{1228}{}{Cara, nem tente explicar isso, não quero ouvir. Vou chamar o pastor, vamos fazer isso legalmente,
+ e você vai levar meu sobrinho com você quando sair daqui.}
+{1229}{}{Não posso dizer que não me sinto meio desanimado com isso, mas tenho que fazer o que
+ Grisham gostaria que eu fizesse. Vocês dois vão vir comigo e vão se casar.}
+{1230}{}{Se importaria em explicar o que está fazendo com minha sobrinha?}
+{1231}{}{Se importaria em explicar o que está fazendo com meu sobrinho?}
+{1232}{}{Vou tentar explicar gentilmente, tio Biff. Existe umas flores e abelhas, você sabe, elas deixam sua sementinha }
+{1236}{}{Que maravilha, meu cunhado vai ser um brincalhão. Bem... vamos, sobrinho, vamos acabar com
+ isso.}
+{1237}{}{Que maravilha, meu cunhado vai ser um brincalhão. Bem... vamos, sobrinha, vamos acabar com
+ isso.}
+{1238}{}{Deixe eu ver. Me pareceu que você e minha sobrinha estavam imitando o ritual de acasalamento
+ dos brahmins.}
+{1239}{}{Deixe eu ver. Me pareceu que você e meu sobrinho estavam dançando um tango horizontal entre os
+ lençóis.}
+{1403}{}{Como você ousa manchar a honra do meu irmão }
 {1412}{}{filha.}
-{1413}{}{son.}
+{1413}{}{filho.}
 {1600}{}{. Espero que esteja tomando conta da minha filha. Ela é a luz da minha vida e meu coração quebraria se algo acontecesse com ela. Falando nisso, aonde ela está? Tinha esperança de ver ela de novo.}
 {1601}{}{. Como está a vida de casado? Vejo que meu filho não está com você. Sinto muita falta dele. Talvês na sua próxima visita você o traga aqui. Isso faria um velho homem feliz em ver seu filho novamente.}

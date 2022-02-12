@@ -1,56 +1,56 @@
-{101}{}{You see an average person, of average height, of average complexion. Nothing out of the ordinary.}
-{102}{}{You see Jo.}
-{103}{}{You see Trader Jo.}
-{104}{}{You see Sheriff Jo.}
-{105}{}{You see Mayor Jo.}
-{106}{}{You see Justice of the Peace Jo.}
+{101}{}{Você vê uma pessoa comum, de meia-idade, de estatura mediana e constituição mediana. Nada fora do comum.}
+{102}{}{Você vê Jo.}
+{103}{}{Você vê o mercador Jo.}
+{104}{}{Você vê o xerife Jo.}
+{105}{}{Você vê o prefeito Jo.}
+{106}{}{Você vê Juiz de Paz Jo.}
 {150}{}{Nós matamos todo mundo. Até as crianças... [Soluço]}
-{151}{}{Meet us at the Ghost Farm. We attack immediately.}
-{152}{}{Thank you for saving the residents of Modoc.}
+{151}{}{Se reúna com os outros na Fazenda Fantasma. Vamos atacar imediatamente.}
+{152}{}{Obrigado por salvar os moradores de Modoc.}
 {153}{}{O que você está fazendo?}
-{154}{}{Hey! Leave that alone!}
+{154}{}{Ei! Deixe isso pra lá!}
 {155}{}{Ladrão!}
-{156}{}{Sorry, this trading post is closed indefinitely due to the drought.}
-{157}{}{So who says I'm here to trade?}
-{158}{}{I'm new here. What can you tell about this town?}
-{159}{}{I don't suppose you have a gold watch for sale?}
+{156}{}{Desculpe, este posto comercial está fechado por tempo indeterminado devido à seca.}
+{157}{}{Então, quem disse que estou aqui para negociar?}
+{158}{}{Eu sou novo aqui. O que você pode dizer sobre esta cidade?}
+{159}{}{Você teria um relógio de ouro para vender?}
 {160}{}{GECK!}
 {161}{}{O que posso fazer por você?}
-{162}{}{I'm looking for a certain item, and I was wondering if you might be able to help me locate it.}
-{164}{}{I'm looking to buy a gold pocket watch. Do you know where I can get one?}
+{162}{}{Estou procurando um certo item e gostaria de saber se você pode me ajudar a localizá-lo.}
+{164}{}{Estou querendo comprar um relógio de bolso de ouro. Você sabe onde posso conseguir um?}
 {165}{}{O que você tem para negociar?}
 {166}{}{O que você pode me dizer sobre essa cidade?}
 {167}{}{O que você faz aqui?}
 {168}{}{GECK!}
-{169}{}{You're back! What did you find out about the farm?}
-{170}{}{I cleaned out your Ghost Farm problem. You can take over the farm any time.}
-{171}{}{I have a message for you from the leader of the Slags.}
-{172}{}{Mess-aj.}
-{173}{}{Farm?}
-{174}{}{Bad things all gone!}
+{169}{}{Você voltou! O que descobriu sobre a fazenda?}
+{170}{}{Limpei seu problema com a Fazenda Fantasma. Você pode assumir a fazenda quando quiser.}
+{171}{}{Tenho uma mensagem para você do líder dos Slags.}
+{172}{}{Menss-aje.}
+{173}{}{Fazenda?}
+{174}{}{Todas as coisas ruins se foram!}
 {175}{}{Eu vou.}
-{176}{}{I'll be back when I have more to report.}
-{179}{}{There's a drunkard in the Den who matches Karl's description. Says he used to be a farmer too.}
-{180}{}{Those bodies are fake. Just dummies covered in Brahmin guts. They were there to scare you away from the crops.}
-{181}{}{What am I supposed to do again?}
-{182}{}{What? Oh, you must be new around here. Welcome to Modoc. My name's Jo, I run the trading post
- here at Modoc.}
-{183}{}{I am on a quest. I seek the holy GECK. Do know where I might find it?}
-{186}{}{Well, you're in luck. I just happen to know where it is. I guess we have some business to
- discuss after all.}
-{187}{}{Business? Just tell me where I can find the holy GECK and I'll be on my way.}
-{188}{}{Our only business is that you will tell me where the holy GECK is located before something bad
- happens.}
-{189}{}{What do you want for this information?}
-{190}{}{Ah yes, what I want... If you hadn't noticed yet, our little farming community is experiencing one
- of its worst droughts ever. The rainy season was unusually short this year, and our crops are dead or
- dying from lack of water. To put it bluntly, our community is on the verge of withering away with our
- crops.}
-{191}{}{Umm... You do know I can't make it rain, right?!?}
-{192}{}{[He chuckles softly] No, no... of course not. I wouldn't ask you to do something as impossible as
- that. You really can't make it rain, can you... No, of course you can't! Anyway, like I was say'en, we're
- in trouble and we could use your help.}
-{193}{}{OK, I'm listening.}
+{176}{}{Voltarei quando tiver mais informação.}
+{179}{}{Tem um pinguço no Den que combina com a descrição de Karl. Ele também diz que já foi agricultor.}
+{180}{}{Esses corpos são falsos, só uns manequins cobertos com tripas brâmanes. Eles estavam lá para manter você longe da colheita.}
+{181}{}{Mais uma vez, o que devo fazer?}
+{182}{}{Que? Ah, você deve ser novo por aqui. Bem-vindo a Modoc. Meu nome é Jo, administro o posto
+ comercial daqui.}
+{183}{}{Estou na busca pelo GECK sagrado. Sabe onde posso encontrar?}
+{186}{}{Parece que você está com sorte, acontece que eu sei onde está. Acho que temos alguns
+ negócios para discutir, afinal.}
+{187}{}{Negócios? Só me diga onde posso encontrar o GECK sagrado e eu seguirei meu caminho.}
+{188}{}{Nosso único negócio é que você me diga onde o GECK sagrado está antes que algo ruim aconteça
+ por aqui.}
+{189}{}{O que você quer para essa informação?}
+{190}{}{Ah sim, o que eu quero... Caso você não tenha percebido, nossa pequena comunidade agrícola está
+ passando por uma de suas piores secas de todos os tempos. A estação chuvosa foi curta demais esse
+ ano, e nossas colheitas estão mortas ou morrendo por falta de água. Sendo sincero, nossa comunidade
+ está à beira de definhar totalmente.}
+{191}{}{Umm... Você sabe que eu não posso fazer chover, certo?!?}
+{192}{}{[Ele ri baixinho] Não, não... claro que não. Eu não pediria para você fazer algo absurdo assim.
+ Você realmente não pode fazer chover, pode... Não, claro que não pode! De qualquer forma, como eu
+ disse, estamos com problemas e precisamos de sua ajuda.}
+{193}{}{Ok, estou escutando.}
 {194}{}{There's this farm at the outskirts of town, where no farm should be. Some years back it just
  'appeared' out of nowhere.}
 {195}{}{Are you saying that this farm just sprung up overnight? Yeah, right!}

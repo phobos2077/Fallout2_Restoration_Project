@@ -8,4 +8,4 @@
 {130}{}{Você ligou o dispositivo, mas pelo gosto do uísque parece que ele não está funcionando muito bem.}
 {140}{}{Não há espaço para mais madeira no dispositivo.}
 {150}{}{O dispositivo ainda não está funcionando. Madeira não é necessária.}
-{160}{}{You better not. It's best not to do something before being told to do so, right?}
+{160}{}{Melhor não. É melhor não fazer algo antes que lhe digam, certo?}

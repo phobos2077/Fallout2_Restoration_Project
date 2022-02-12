@@ -72,7 +72,7 @@ nunca mais voltou. Nós temos procurado em todos os lugares, mas ainda não o enco
 {211}{}{Desculpe, eu nunca ouvi falar disso.}
 {214}{}{Hehehe. Tem Old Cornelius tenho você olhar para seu relógio de bolso, também? Não, você não vai encontrá-lo aqui.
 Aquele velho galego acabou de sair de algum lugar e esqueceu.}
-{215}{}{Thanks anyway. I'll keep looking. Bye}
+{215}{}{Obrigado de qualquer maneira, vou continuar procurando. Tchau}
 {216}{}{[Ele olha para você sorri de perto e então.] Por que seja um bom menino e correr para fora
   e jogar?}
 {217}{}{[Ele olha para você sorri de perto e então.] Por que não é uma boa menina e correr para fora

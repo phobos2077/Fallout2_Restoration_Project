@@ -6,8 +6,8 @@
 {150}{}{There is a KER-KLANK as the safe unlocks.}
 {160}{}{You are spinning the dial randomly, when suddenly the dial catches on a number...
  there is a KER-KLANK, and the safe unlocks.}
-{170}{}{You turn the dial slowly for several minutes, but you can't make out anything.}
-{171}{}{You spin the dial for several minutes, and nothing happens.}
+{170}{}{Você gira a roda lentamente por vários minutos, mas não consegue fazer nada.}
+{171}{}{Você gira o dial por vários minutos e nada acontece.}
 {180}{}{You find a trap on the safe and successfully disarm it.}
 {181}{}{You successfully disarm the trap on the safe.}
 {190}{}{You find a trap on the safe, but fail to disarm it.}

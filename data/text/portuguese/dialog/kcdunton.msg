@@ -216,13 +216,13 @@
 {600}{}{Até o idiota do Torr tem mais cérebro que você, Ladrão!}
 {601}{}{ Pronto pra ir?}
 {700}{}{Você roubou o brahmin de Torr com sucesso.}
-{702}{}{No, I'll tell you what you have these for. You dress up as "Bug Men" and scare poor old Torr out of his Brahmin, don't you -- don't you?! It all makes sense now. You're just a couple of no good ruffians.}
-{703}{}{[The Dunton brothers' eyes get really wide and the two men begin to fidget uncomfortably.] Yy..yyy... yeah so... what's it to you, tribal? Everyone needs a little extra cash now and then. What's it to you anyway? What are you gonna do about it, huh?}
-{704}{}{I'll tell you what. If you stop stealing brahmin and bothering Torr, then I won't turn you in. All I need is your word, since if it happens again, there won't be any of you left to steal another brahmin. Got it?!}
-{705}{}{[hyuk, hyuk, hyuk] Yeah right, tribal. I think it's about time we teach you what happens to nosy tribals 'round here.}
-{706}{}{Alright Tribal, you win this time. We'll stop, now just leave us alone.}
-{707}{}{You scare the Dunton brothers into never bothering Torr again.}
+{702}{}{Não, vou dizer para que vocês têm isso. É só se vestir como os "Homens Inseto" e assustar o coitado do Torr de seus brahmins, não é, não é?! Agora eu saquei. Vocês são dois viados mesmo.}
+{703}{}{[Os olhos dos irmãos Dunton ficam muito arregalados e eles começam a se inquietar demais.] Aaa... aaa... sim, então... o que é isso para você, tribal? Todo mundo precisa de um pouco de dinheiro extra de vez em quando. Isso quer dizer alguma coisa pra você? Vai fazer o que sobre isso, hein?}
+{704}{}{Vou te dizer uma coisa, se vocês pararem de roubar brahmins e incomodar Torr, não vou denunciar. Tudo que preciso é da sua palavra, pois se acontecer de novo, não vai sobrar nenhum vagabundo entre vocês para fazer nada. Entendido?!}
+{705}{}{[hyuk, hyuk, hyuk] Certinho, tribal. Acho que está na hora de ensinarmos o que acontece com as tribos intrometidas por aqui.}
+{706}{}{Tudo bem Tribal, você ganhou dessa vez. Vamos parar, só nos deixe em paz.}
+{707}{}{Você assusta os irmãos Dunton para nunca mais incomodarem Torr.}
 {708}{}{[FEITO]}
-{709}{}{Just leave us alone.}
-{710}{}{Yeah, whatever tribal. Just mind your own business.}
-{800}{}{I found a pile of bug parts in the cabin over at the grazing area. Do you know what they are?}
+{709}{}{Apenas nos deixe em paz.}
+{710}{}{Sim, tanto faz, tribal. Vai cuidar da sua vida.}
+{800}{}{Encontrei uma pilha de partes de insetos na cabana na área de pastagem. Você sabe o que pode ser?}

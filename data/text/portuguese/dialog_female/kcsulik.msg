@@ -137,7 +137,7 @@
 {470}{slk27ma}{Aqueles que permanece na frente ataca por trás.}
 {471}{slk27mb}{O chão brilhar com uma luz que não ser dos espíritos.}
 {480}{slk27na}{Você dever ser como uma ponte entre os lados.}
-{481}{slk27nb}{Quiet that which is under the water or the salvation of your tribe will also go under.}
+{481}{slk27nb}{Cale o que está debaixo d'água ou a salvação de sua tribo também irá afundar.}
 {482}{slk27nc}{Quietar aquele que estar sob a água ou a salvação da sua tribo também ficar sob ela}
 {483}{slk27nd}{Aquele que empurrar a grande árvore de aço para o céu deve ir para o berço da tribo.}
 {490}{}{Aqueles que parece ser espíritos mas não carregar muitos segredos.}
@@ -403,7 +403,7 @@
 {1021}{}{Você ter muitos problemas com pessoas. Nós ir até você perceber isso.}
 {1023}{}{Nós não ser amigos de Matador de Crianças.}
 {1025}{}{Você estar causando problemas em Klamath. Nó ir embora.}
-{1026}{}{You be causing trouble in my home village. We're gone.}
+{1026}{}{Você está causando problemas na minha cidade natal. Vamos indo.}
 {2300}{}{'S espíritos mover nós}
 {2301}{}{Nós e mim nos mover}
 {2302}{}{Certo, pegar leve.}
@@ -489,7 +489,7 @@
 {3100}{}{[MAIS]}
 {3101}{}{Onde exatamente é a sua tribo, Sulik?}
 {3102}{}{Obrigado. Deixe-me perguntar-lhe algo mais.}
-{3103}{}{You too, Sulik. Take care of yourself.}
+{3103}{}{Você também, Sulik. Se cuide.}
 {3200}{}{Sim, eu falei com a Sra. Buckner em relação a sua dívida. Eu só preciso agora acertar todos os detalhes com Maida. Vou falar com você de novo depois que eu falar com ela.}
 {3500}{}{Algo estar errado com a equipe. É melhor dar uma olhada em toda sua equipe.}
 {3501}{}{Algo esta errado com a equipe. Nós estamos brilhante como o sol.}
