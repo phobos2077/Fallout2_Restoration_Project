@@ -51,106 +51,103 @@
  Você realmente não pode fazer chover, pode... Não, claro que não pode! De qualquer forma, como eu
  disse, estamos com problemas e precisamos de sua ajuda.}
 {193}{}{Ok, estou escutando.}
-{194}{}{There's this farm at the outskirts of town, where no farm should be. Some years back it just
- 'appeared' out of nowhere.}
-{195}{}{Are you saying that this farm just sprung up overnight? Yeah, right!}
-{196}{}{A group of us were out hunting when we noticed the new farm. But that wasn't the strange thing.
- Soon after, some of us got together to visit our new neighbor, only to discover that there wasn't
- anybody there.}
+{194}{}{Há uma fazenda nos arredores da cidade, o problema é que ela não deveria estar lá. Ela 
+ 'apareceu' do nada há alguns anos atrás.}
+{195}{}{Está dizendo que esta fazenda brotou da noite para o dia? Sim, claro!}
+{196}{}{Um grupo nosso estava caçando quando percebemos a fazenda, até aí nada de estranho. Logo
+ depois, alguns de nós se reuniram para visitar nosso novo vizinho, mas descobrimos que não
+ havia uma alma por lá.}
 {197}{}{Continue.}
-{198}{}{After many months of trying to contact the owners with no success, it was decided that the farm
- must have been abandoned soon after it was built. So instead of letting the crops rot in the fields,
- young Karl moved in.}
+{198}{}{Tentamos o contato com o proprietário por meses, sem sucesso. Então, pensamos que a fazenda
+ deve ter sido abandonada logo após sua construção. Em vez de deixar as colheitas apodrecerem
+ nos campos, o jovem Karl se mudou.}
 {199}{}{Hmm... }
-{200}{}{That's when things got bad. Karl started to tell stories of seeing strange glowing figures
- tending the crops and feeding the animals at night. We all laughed at him, thinking he was making up
- stories. Then one day Karl stopped coming into town.}
-{201}{}{What happened to him? Did you look for him?}
-{202}{}{Of course we did! We went up there as soon as we suspected something was wrong. [He starts to
- tremble violently.] The horror. Bodies strewn everywhere. Some crucified, while others were
- left to rot out in the sun. I still wake up screaming in the middle of the night from the horrible
- images I saw that day.}
-{203}{}{So, let me guess. You want me to go to this farm and find out what happened.}
-{204}{}{Normally, I would just leave that cursed place be, but for some reason the crops at this farm
- are still flourishing despite the drought. We'll starve if we don't get food soon. Will you help us
- rid the farm of these ghosts?}
+{200}{}{Foi aí que o negócio ficou cabuloso. Karl começou a contar histórias de ver figuras
+ estranhas brilhantes cuidando das plantações e alimentando os animais à noite. Nós só rimos dele,
+ achamos que eram só histórias bestas. Então, um dia, Karl parou de vir à cidade.}
+{201}{}{O que aconteceu com ele? Você o procurou?}
+{202}{}{Claro que sim! Subimos depois que suspeitamos de algo errado. [Ele começa a tremer
+ violentamente.] Que horror. Corpos espalhados por toda parte. Alguns crucificados, enquanto
+ outros foram deixados para apodrecer ao sol. Ainda acordo gritando no meio da noite com as
+ imagens horríveis que vi naquele dia.}
+{203}{}{Então, deixe-me adivinhar. Você quer que eu vá a esta fazenda e descubra o que aconteceu.}
+{204}{}{Normalmente, eu deixaria aquele lugar maldito, mas por alguma razão as colheitas lá na fazenda
+ estão florescendo apesar da seca. Vamos morrer de fome se não conseguirmos comida logo.
+ Você pode nos ajudar a livrar a fazenda desses fantasmas?}
 {205}{}{Como que eu saio disso?}
-{206}{}{In return for helping us, I'll tell you where you can find what you seek.}
-{207}{}{OK, then let's seal the deal. Cut off your right pinky finger.}
-{208}{}{Then it's a deal. Show me where this Ghost Farm is.}
-{209}{}{What?!? Is that how you seal a deal where you're from? We're desperate and I believe you're the
- only person that could pull this off. So, I guess it's a small sacrifice, if it'll save our town. [Jo
- takes out a knife and proceeds to cut off his right pinky finger!]}
-{210}{}{[You stop him just in time.] Wait! I see now you were telling the truth and are truly in need of
- help. I'll help you.}
-{211}{}{Now, take your finger and saute it in a light garlic sauce. Very tasty dish!}
-{212}{}{This farm is about a day's travel northeast of here. [He pulls out a map and points to a spot
- northeast of Modoc.] Come back when you've found something.}
-{213}{}{[Jo calmly wraps his hand in a bandage and then proceeds to pull out a shotgun!] Let's see if
- you can laugh this off, smart ass!}
+{206}{}{Se nos ajudar, direi onde você pode encontrar o que procura.}
+{207}{}{OK, então vamos selar o acordo. Corte o dedo mindinho direito.}
+{208}{}{Isso é um acordo. Me mostre onde fica a Fazenda Fantasma.}
+{209}{}{O que?!? De onde você veio é assim que selam um acordo? Bom, estamos desesperados e acho que você é a única esperança que temos. Então, acho que merece um pequeno sacrifício, se salvar nossa cidade. [Jo pega uma faca e começa a cortar seu dedo mindinho direito!]}
+{210}{}{[Você o interrompe bem na hora.] Espere! Vejo agora que você estava dizendo a verdade e que
+ realmente precisa de ajuda. Vou te ajudar.}
+{211}{}{Bom, agora pegue o dedo, passe na farinha e leve ao forno. Hmmmm que delicia!}
+{212}{}{Esta fazenda fica a cerca de um dia de viagem a nordeste daqui. [Ele pega um mapa e aponta
+ para um ponto a nordeste de Modoc.] Volte quando encontrar algo.}
+{213}{}{[Jo calmamente envolve sua mão em um curativo e então começa a sacar uma espingarda!]
+ Vamos ver se você pode rir disso, espertinho!}
 {214}{}{[BOOM!]}
-{215}{}{You've got to be joking! I'm not going to cut my finger off. I'm desperate, not stupid! Now, do
- you want the job or not?}
-{216}{}{OK, I'll do it anyway. Where's this farm located?}
-{217}{}{You're obviously not desperate enough. I'll pass.}
-{218}{}{What was that? Did you say GECK?}
+{215}{}{Você deve estar brincando! Não vou cortar meu dedo. Estou desesperado, mas não sou estúpido!
+ Agora, você quer o emprego ou não?}
+{216}{}{Tá bom, eu faço isso de qualquer maneira. Onde fica essa fazenda?}
+{217}{}{Você obviamente não está desesperado o suficiente. Passo.}
+{218}{}{O que? Você disse GECK?}
 {219}{}{Unh. GECK.}
 {220}{}{Eu vou.}
-{222}{}{My name's Jo. Can you say Jo? No matter; you see that rectangular thing over there? That's a
- door. Be careful not to let it hit you on the way out.}
-{223}{}{[You don't quite understand everything he's saying, but you grin and turn to leave.]}
-{224}{}{[He seems to mull something over for a bit and then smiles and looks up at you.] Maybe we can
- work out a trade after all. My name is Jo; I run this here trading post. I have some information about
- GECK. You interested?}
-{225}{}{[You nod your head up and down.]}
-{226}{}{[You swing your head left to right.]}
-{227}{}{Fantastic! There's this Ghost... er, farm at the edge of town. It's about a day's walk northeast of
- here. Bad things happen there. Make bad things stop, then come back and I'll tell you about GECK.}
-{228}{}{I go now.}
-{229}{}{Well then, we have nothing more to talk about. The door is right over there.}
-{230}{}{Yup, that's one big chip on yer shoulder. Why don't you come back when that chip isn't quite so
- big? You have a nice day, and watch out for that door on yer way out.}
-{231}{}{Well, then -- welcome to Modoc. My name's Jo and I run this here trading post. We don't have
- much; just a few farms, a slaughterhouse, Rose's Bed and Breakfast, and a tannery. Just enough to
- produce goods to trade. Although that could all change with this drought.}
+{222}{}{Meu nome é Jo. Consegue dizer Jo? Não importa; você vê aquela coisa retangular ali? Isso é
+ uma porta. Cuidado para não dar de cara com ela na saída.}
+{223}{}{[Você não entende tudo o que ele está dizendo, mas sorri e se vira para sair.]}
+{224}{}{[Ele parece refletir um pouco sobre alguma coisa, sorri e olha para você.] Talvez possamos fazer
+ uma troca. Meu nome é Jo; Eu cuido deste posto comercial aqui. Tenho algumas informações sobre o
+ GECK. Interessado?}
+{225}{}{[Você acena com a cabeça para cima e para baixo.]}
+{226}{}{[Você balança a cabeça da esquerda para a direita.]}
+{227}{}{Fantástico! Há um fantasma... er, fazenda na periferia da cidade, fica a cerca de um dia de
+ caminhada a nordeste daqui. Coisas ruins acontecem lá. Faça as coisas ruins pararem, então volte e eu te conto sobre o GECK.}
+{228}{}{Vou indo.}
+{229}{}{Bem, então, não temos mais nada para falar. A porta está bem ali.}
+{230}{}{Sim, isso é um grande chip em seu ombro. Por que você não volta quando esse chip não for tão
+ grande? Tenha um bom dia, e tome cuidado com aquela porta ao sair.}
+{231}{}{Bem, então -- bem-vindo a Modoc. Meu nome é Jo e eu cuido desse posto comercial. Não temos
+ muito; apenas algumas fazendas, um matadouro, a pousada de Rose e um curtume. Apenas o
+ suficiente para produzir bens para o comércio. Embora tudo isso possa mudar com esta seca.}
 {232}{}{O que você pode me dizer sobre o matadouro?}
-{233}{}{Rose's Bed and Breakfast?}
-{234}{}{Tell me about the trading post.}
-{235}{}{Where's the tannery?}
+{233}{}{Pousada de Rose?}
+{234}{}{Me diga sobre o posto comercial.}
+{235}{}{Onde está o curtume?}
 {236}{}{Posso lhe fazer mais algumas perguntas?}
-{237}{}{The slaughterhouse is run by Grisham and his son Davin. It's just east of here. He makes the
- best damn jerky this side of the Rockies.}
-{242}{}{Rose's Bed and Breakfast is on the north side of town. Travelers from all over come just to
- sample her world-famous omelets. Some say her omelets can cure people of what ails them. Frankly, I
- think that's just a bunch of nonsense.}
-{247}{}{Just follow your nose and you'll find it. Can you smell that foul stench in the air? That's the
- tanning vats just north of here. If you overlook the smell, you'll not find a better place to get
- leather goods. Balthas can work miracles with leather.}
-{252}{}{Like I said before, my name's Jo and I run the trading post for Modoc. I organize trade between
- Modoc and other cities in need of food and leather goods. But with this drought, that could all come to
- an end real soon. We're getting desperate.}
-{257}{}{What do you want to talk about? The slaughterhouse, Rose's Bed and Breakfast, the tannery or the
- trading post?}
-{262}{}{Well, spit it out. I can't help you if you don't tell me what you're looking for, and I sure
- ain't going to stand here and try to guess what you're looking for.}
-{263}{}{I am looking for the holy GECK.}
+{237}{}{O matadouro é administrado por Grisham e seu filho Davin. Está a leste daqui. Ele faz a melhor
+ carne seca deste lado das Montanhas Rochosas.}
+{242}{}{A pousada de Rose fica no lado norte da cidade. Viajantes de todo o mundo vêm apenas
+ para provar suas mundialmente famosas omeletes. Alguns dizem que suas omeletes podem curar as
+ pessoas dos maus que as atingem. Francamente, acho que isso é apenas um monte de bobagem.}
+{247}{}{Basta seguir o seu nariz e você vai encontrá-lo. Você consegue sentir esse fedor nojento no
+ ar? São as cubas de bronzeamento ao norte daqui. Se você ignorar o cheiro, não encontrará
+ um lugar melhor para comprar artigos de couro. Balthas podem fazer milagres com couro.}
+{252}{}{Como eu disse antes, meu nome é Jo e eu administro esse posto comercial. Organizo o comércio
+ entre Modoc e outras cidades que precisam de alimentos e artigos de couro. Mas com essa seca, tudo
+ isso pode acabar em breve. Estamos ficando desesperados.}
+{257}{}{Sobre o que você quer falar? O matadouro, o a pousada de Rose, o curtume ou a feitoria?}
+{262}{}{Vamos, fale. Não posso te ajudar se você não me disser o que está procurando, e com
+ certeza não vou ficar aqui parado tentando ler sua mente.}
+{263}{}{Estou procurando o GECK sagrado.}
 {264}{}{Não importa.}
-{265}{}{Since I rely heavily on the products of the people of Modoc, I don't have much to trade for. You
- know, with the drought and all. You still interested?}
-{266}{}{Let's do some business.}
-{267}{}{No thanks, but can I ask you some more questions?}
-{268}{}{No, maybe later. I have to go now.}
-{269}{}{Now that's a good question. Mostly, I just run this here trading post. But on occasion, I'm the
- sheriff, mayor, judge, and any other official you can think of.}
-{270}{}{Wow; you must be a very popular fellow to be entrusted with all those duties.}
-{271}{}{Thanks for the info; I'll be going now.}
-{272}{}{Nah... I just drew the short straw. It seems I was out getting some supplies and when I came back,
- I found out the townsfolk went and elected me. Seems no one else wanted the job. Except for the
- occasional argument, I really don't have to do anything -- which suits me fine.}
+{265}{}{Como dependo muito dos produtos do povo de Modoc, não tenho muito pelo que trocar. Você
+ sabe, com a seca e tudo mais. Você ainda se interessa?}
+{266}{}{Vamos aos negócios.}
+{267}{}{Não, obrigado, mas posso fazer mais algumas perguntas?}
+{268}{}{Não, talvez mais tarde. Preciso ir agora.}
+{269}{}{Essa é uma boa pergunta. Principalmente, eu apenas dirijo esse posto comercial aqui. Mas de
+ vez em quando sou xerife, prefeito, juiz ou qualquer outro cargo que você possa imaginar.}
+{270}{}{Porra bixo; você deve ser um cara bem popular para ficar à cargo te tantas responsabilidades.}
+{271}{}{Obrigado pela informação; vou indo agora.}
+{272}{}{Nah... Caí te paraquedas nisso aí. Eu estava comprando umas coisas e quando voltei, descobri que
+ os moradores da cidade me elegeram. Parece que ninguém mais queria esse emprego. Exceto por
+ alguma discussão ocasional, eu realmente não tenho que fazer nada – por mim está ótimo.}
 {273}{}{Posso fazer mais algumas perguntas?}
-{274}{}{What! Are you trying to be a wise ass? Everyone knows old Corny lost his gold pocket watch.
- He even had me search his best friend's house looking for it. If you know what's good for you, you'd
- keep your nose out of this. Good day!}
+{274}{}{O que! Você está tentando ser inteligente? Todo mundo sabe que o velho Corny perdeu seu
+ relógio de bolso de ouro, ele até me fez vasculhar a casa de seu melhor amigo procurando por
+ ele. Se você sabe o que é bom para você, mantenha seu nariz fora disso. Bom dia!}
 {275}{}{[He takes the message from the Slags.] What's this? It's from the people living at the Ghost
  Farm. This is incredible; have you read... oops, of course you didn't. There are still some things that
  need to be worked out between the Slags and Modoc, but it's much too complex for your tiny brain to
