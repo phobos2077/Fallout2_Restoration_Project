@@ -148,144 +148,145 @@
 {274}{}{O que! Você está tentando ser inteligente? Todo mundo sabe que o velho Corny perdeu seu
  relógio de bolso de ouro, ele até me fez vasculhar a casa de seu melhor amigo procurando por
  ele. Se você sabe o que é bom para você, mantenha seu nariz fora disso. Bom dia!}
-{275}{}{[He takes the message from the Slags.] What's this? It's from the people living at the Ghost
- Farm. This is incredible; have you read... oops, of course you didn't. There are still some things that
- need to be worked out between the Slags and Modoc, but it's much too complex for your tiny brain to
- understand, so you needn't worry about it.}
-{276}{}{GECK now!}
-{277}{}{Well, that could be a little difficult. You see I really don't know what a GECK is. But, I do know
- of a place called Gecko, I've never been there myself but I hear it's somewhere east of here. I feel
- really bad about deceiving you. I wish I could give you more in the way of compensation than this,
- but the best I can offer you is a discount on goods. I'm not too stocked up right now, but I'm
- sure things will pick up around here soon and I'd be honored to help stock you up.}
-{278}{}{Jerk!}
-{280}{}{I don't blame you for being mad at me, but I'm not sorry I did it. We needed someone for the job
- and you fit the bill. All I can say is "thanks," and send you on your way.}
-{282}{}{Yes... faaarmm. Farm northeast. Go farm. Make bad things go bye-bye.}
-{283}{}{That's great! I'll send some people over immediately to start harvesting the crops. You've saved
- us.}
-{284}{}{Show GECK!}
-{285}{}{Slags? Who are they? What's this? [Jo opens and reads the message.] This is incredible! They've
- been living underground all this time. They say they'd be willing to trade food for medical supplies
- and other stuff. I don't know if they can be trusted. After all, they killed Karl and all those other
- people. What do you think?}
-{286}{}{All those bodies are fake. Nothing but dummies covered in brahmin innards. They just wanted to
- keep you from stealing their crops.}
-{287}{}{They're extremely sensitive to light. I think a small group of people armed with flares would
- be able to wipe their whole community out.}
-{288}{}{I found Karl at the Den. He left because no one would believe him about the ghosts and he was
- scared.}
-{289}{}{They're holding little Jonny hostage! We need to attack now!}
-{290}{}{Fake! But, I saw the bodies with my own eyes. In any case, Karl is still missing. How do they
- explain that? I won't trust them until I'm certain they are on the up and up.}
-{292}{}{They said the person that moved in some years ago left suddenly.}
-{293}{}{Karl wouldn't do that. They probably killed him! No, until I find out what happened to Karl, I
- don't think we can trust them. I was hoping it wouldn't come to this, but we're just going to have to
- take over their farm. It's either us or them.}
-{294}{}{No wait! Let me try and find out what happened to Karl. There must be an explanation for his
- disappearance.}
-{295}{}{I agree we should attack! Their weakness is their eyes.}
-{296}{}{I didn't agree to this. I've found out what's happening at the Ghost Farm. Now tell me where I
- can find the holy GECK.}
-{297}{}{I'll give you one month to find out what you can about Karl. If you don't come back within that
- time, I'll mobilize the residents of Modoc and we'll take the farm by force.}
-{298}{}{OK, one month! Don't do anything rash until then. I'll be back.}
-{299}{}{I need more time. It'll be impossible to find him in such a short period of time.}
-{300}{}{One month, no longer! I told you we were desperate. Our food supply is running critically low.
- We have enough for one month; after that we all start starving. I'm going to start organizing the
- townspeople immediately. You best hurry!}
-{301}{}{Please don't do anything rash until I return!}
-{302}{}{[Shocked] The Den! I-I guess we were a little hard on him. I can imagine what he went through at
- the Ghost Farm, with nobody believing him and all. You say he's a drunkard now, at the Den? If you could
- give him the message that we believe him and that he should come home, I would be most appreciative. In
- the meantime, I believe it's about time the Slags and the residents of Modoc get acquainted.}
-{303}{}{I believe I have fulfilled my part of the bargain. How about telling me where I might find the
- holy GECK?}
-{304}{}{[Acting a little embarrassed.] Um... well, you see, I don't really know anything about this holy
- GECK thing you're looking for. You have to understand; we were desperate! However, I do know of a place
- called Gecko. It's a ways east of here somewhere. If I were a betting man, I would wager your GECK gizmo
- is located there. I wish I had more I could give you, but we're still a poor community with not
- much in the way of offerings. The best I can do is offer you goods at basically my cost. But
- I'd be honored to help keep you stocked for your journeys when I have the goods and I'm sure any
- of the other residents would be equally grateful if you asked them. Thank you! You've saved us all.}
-{305}{}{Well, they did kill Karl along with all those other people staked out in front of their farm.
- OK, let's do it. You've seen their hideout and seem quite capable; will you lead us to victory over
- those treacherous Slags?}
-{306}{}{Of course! For such a just cause, I would be happy to help you defeat the Slags.}
-{307}{}{Maybe this isn't such a good idea; let's think of another way.}
-{308}{}{That's great; I'll get the townsfolk together and we'll meet you there.}
-{309}{}{You saw Jonny there! We've been searching everywhere for him. Those monsters, they're stealing
- our children. We won't be safe until they're all dead. I'll get the townspeople together and we'll
- storm their hideout. Meet us at the Ghost Farm as soon as you can.}
-{310}{}{How can you live with yourself? We are in a crisis here and all you can think of are your own
- selfish needs. Very well, why don't you go to Gecko; it's to the east of here somewhere. If anyone knows
- about this GECK thing, I'm sure they would. Now if you don't mind, I need to meet with the townspeople so
- we can figure out what to do.}
-{311}{}{That's great. What were those things, anyway?}
-{312}{}{Just a community of mutants. If they weren't ghosts before, they are now.}
-{313}{}{They were ghosts. They're gone. That's all you need to know. Now, tell me where I can find the
- holy GECK.}
-{314}{}{You mean you just went in and killed everyone?! I didn't mean for you to do that. You were sent
- to investigate what was happening at the farm and then return with the information. I think you better
- leave.}
-{315}{}{We're going to attack, but only as the last resort. We only have a month's supply of food left
- before we start to starve. You have until then to find out what is going on. I won't negotiate with
- them unless I know for certain that they didn't do anything to Karl.}
-{316}{}{We're going to attack, but only as the last resort. We only have a month's supply of food left
- before we start to starve. You have until then to find out what is going on. I won't negotiate with
- them unless I know for certain that they didn't do anything to Karl and I have to know their reason
- for staking all those people out in front of their farm. I won't deal with savages.}
-{317}{}{I think you enjoy killing people just a little too much for my taste. I think you'd better leave.}
-{318}{}{[Shocked] The Den! I-I guess we were a little hard on him. I can imagine what he went through
- at the Ghost Farm, with nobody believing him and all. You say he's a drunkard now, at the Den? If you
- could give him the message that we believe him and that he should come home, I would be most
- appreciative.}
-{319}{}{I also found out that all those bodies surrounding the Ghost Farm are fake. Dummies, covered
- with brahmin guts.}
-{320}{}{Now will you talk to the leader of the Slags?}
-{321}{}{That's all I know for now.}
-{322}{}{Fake! That's impossible; I saw them with my own eyes. Blood and gore everywhere. But... I guess
- it's possible, we didn't... I mean... well [Jo's face turns beat red.] We all kind of turned tail and ran
- when we saw the bodies. No one actually had the guts to examine them closely.}
-{326}{}{Yes, I believe the Slags and the people of Modoc will be able to come to some kind of mutually
- beneficial agreement. Thank you for saving the people of Modoc.}
-{327}{}{There's this little thing about my reward? You said you'd tell me where the holy GECK was.}
-{328}{}{You need to find out who those people staked out in front of the Ghost Farm are. }
-{329}{}{Karl disappeared from the farm some time ago. Find out what happened to him.}
-{330}{}{Thanks, I'll see what I can find out.}
+{275}{}{[Ele pega a mensagem do Slags.] O que é isso? É das pessoas que vivem na Fazenda Fantasma.
+ É incrível; você leu... oops, claro que não. Ainda há algumas coisas que precisam ser resolvidas
+ entre os Slags e Modoc, mas é muito complexo para o seu cérebro de pomba entender, nem se
+ preocupe com isso.}
+{276}{}{GECK agora!}
+{277}{}{Bem, isso pode ser um pouco difícil, na verdade eu não sei o que realmente é um GECK. Mas, eu
+ conheço um lugar chamado Gecko, nunca estive lá, mas ouvi dizer que é em algum lugar a leste
+ daqui. Me sinto muito mal por enganar você, gostaria de poder lhe dar mais compensação do que
+ isso, mas o melhor que posso te oferecer é um desconto das mercadorias. Não tenho muito
+ agora, mas  as coisas vão melhorar por aqui em breve e eu ficaria honrado em contribuir para você.}
+{278}{}{Babaca!}
+{280}{}{Não te culpo por bravo comigo, mas não me arrependo de ter feito isso. Precisávamos de alguém
+ para o trabalho e você se encaixava perfeitamente. Tudo o que posso dizer é "obrigado" e que vá em paz.}
+{282}{}{Sim... faaaazenda. Fazenda ao nordeste. Vá fazenda. Dê adeus às coisas ruins.}
+{283}{}{Isso é ótimo! Vou enviar algumas pessoas imediatamente para começar a colheita. Você nos
+ salvou.}
+{284}{}{Quero GECK!}
+{285}{}{Slags? Quem são esses? O que é isso? [Jo abre e lê a mensagem.] Isso é incrível! Eles vivem no
+ subsolo todo esse tempo, dizem que estariam dispostos a trocar comida por suprimentos médicos
+ e outras coisas. Não sei se são confiáveis. Afinal, eles mataram Karl e todas aquelas outras
+ pessoas. O que você acha?}
+{286}{}{Todos aqueles corpos são falsos. Nada além de bonecos cobertos de entranhas de brahmins. Eles
+ só queriam impedir que você roubasse suas colheitas.}
+{287}{}{São extremamente sensíveis à luz. Acho que um grupinho armado com sinalizadores conseguiria
+ varrer toda a sua comunidade.}
+{288}{}{Encontrei Karl no Den. Ele saiu porque ninguém iria acreditar nele sobre os fantasmas e ele
+ estava com medo.}
+{289}{}{Eles estão mantendo o pequeno Jonny como refém! Precisamos atacar agora!}
+{290}{}{Mentira! Mas, eu vi os corpos com meus próprios olhos. De qualquer forma, Karl ainda está
+ desaparecido, como eles explicam isso? Não vou confiar neles até ter certeza de que são gente honrada.}
+{292}{}{Eles disseram que a pessoa que se mudou alguns anos atrás saiu de repente.}
+{293}{}{Karl não faria isso. Provavelmente o mataram! Não, até eu descobrir o que aconteceu com
+ Karl, acho que não podemos confiar neles. Eu esperava que não chegasse a isso, mas vamos ter que
+ tomar a fazenda deles. Ou somos nós ou eles.}
+{294}{}{Não, espere! Vou tentar descobrir o que aconteceu com Karl. Deve haver uma explicação para
+ o seu desaparecimento.}
+{295}{}{De acordo, devemos atacar! O ponto fraco deles são os olhos.}
+{296}{}{Não estou de acordo com isso. Descobri o que está acontecendo na Fazenda Fantasma, agora
+ me diga onde posso encontrar o GECK sagrado.}
+{297}{}{Vou te dar um mês para descobrir o que conseguir sobre Karl. Se você não voltar dentro desse
+ prazo, reunirei os moradores de Modoc e tomaremos a fazenda à força.}
+{298}{}{OK, um mês! Não faça nada precipitado até lá. Eu voltarei.}
+{299}{}{Eu preciso de mais tempo. É impossível encontrá-lo em tão pouco tempo.}
+{300}{}{Um mês, nada mais! Eu disse que estamos desesperados. Nossa reserva de alimentos está
+ criticamente baixa. Temos o suficiente para um mês; depois disso todos nós começaremos a passar
+ fome. Vou começar a organizar as pessoas da cidade imediatamente, é melhor você se apressar!}
+{301}{}{Por favor, não faça nada precipitado até eu voltar!}
+{302}{}{[Chocado] O Den! E-eu acho que fomos um pouco duros com ele. Posso imaginar o que ele passou
+ na Fazenda Fantasma, sem ninguém acreditando nele e tudo mais. Você diz que ele está bêbado agora, no
+ Den? Se você pudesse falar que acreditamos nele e que ele deveria voltar para casa, eu ficaria muito agradecido.
+ Enquanto isso, acredito que já é hora de os Slags e os moradores de Modoc se conhecerem.}
+{303}{}{Acredito que cumpri minha parte do trato. Que tal me dizer onde posso encontrar o GECK
+ sagrado?}
+{304}{}{[Um pouco envergonhado.] Hum... bem, então, eu realmente não sei nada sobre essa coisa
+ sagrada de GECK que você está procurando. Entenda; estávamos desesperados! No entanto, eu conheço
+ um lugar chamado Gecko, fica a leste daqui em algum lugar. Se eu fosse um apostador, apostaria que seu
+ aparelho GECK está localizado lá. Eu gostaria de ter mais para lhe dar, mas ainda somos uma
+ comunidade pobre, com poucos recursos. O melhor que posso fazer é te oferecer mercadorias
+ basicamente no custo. Mas eu ficaria honrado em te ajudar a se manter abastecido para suas viagens
+ quando eu tiver as mercadorias e tenho certeza de que qualquer um dos outros residentes ficaria igualmente
+ grato se você perguntasse. Obrigado! Você salvou a todos nós.}
+{305}{}{Bem, eles mataram Karl junto com todas aquelas outras pessoas que você viu na fazenda.
+ OK, vamos lá. Você viu o esconderijo deles e parece bastante capacitado; pode nos levar à vitória
+ sobre essas escórias desgraçadas?}
+{306}{}{Claro! Isso é uma razão justa, eu ficaria feliz em te ajudar a derrotar os Slags.}
+{307}{}{Talvez isso não seja uma boa ideia; vamos pensar de outra forma.}
+{308}{}{Isso é ótimo; Vou reunir os habitantes da cidade e nos encontramos lá.}
+{309}{}{Você viu Jonny lá! Estamos procurando por ele em tudo que é lugar. Esses monstros estão roubando
+ nossos filhos, não estaremos seguros até que estejam todos mortos. Vou reunir as pessoas da
+ cidade e invadir o esconderijo deles. Nos encontre na Fazenda Fantasma assim que puder.}
+{310}{}{Como você pode dormir a noite? Estamos em crise aqui e tudo o que você consegue pensar é
+ em suas próprias necessidades egoístas. Tudo bem, por que você não vai ao Gecko; é a leste daqui em
+ algum lugar. Se alguém souber sobre essa coisa de GECK, tenho certeza que é lá. Agora, se você não se
+ importa, preciso me encontrar com as pessoas da cidade para descobrirmos o que fazer.}
+{311}{}{Isso é ótimo. O que eram aquelas coisas, afinal?}
+{312}{}{Só uma comunidade de mutantes. Se antes não eram fantasmas, agora são.}
+{313}{}{Eles eram fantasmas mas foram embora. Isso é tudo que você precisa saber. Agora, diga-me onde
+ posso encontrar o GECK sagrado.}
+{314}{}{Quer dizer que você entrou e matou todo mundo?! Não era isso que você devia fazer. Você foi
+ enviado para investigar o que estava acontecendo na fazenda e depois voltar com as informações. Acho
+ melhor você ir embora.}
+{315}{}{Vamos atacar, mas apenas como último recurso. Temos apenas o suprimento de comida para
+ um mês antes de começarmos a morrer de fome. Você tem até lá para descobrir o que está
+ acontecendo. Não vou negociar com eles a menos que tenha certeza de que não fizeram nada com Karl.}
+{316}{}{Vamos atacar, mas como último recurso. Temos suprimento de comida para apenas um mês
+ antes de passarmos fome, você tem até lá para descobrir o que está acontecendo. Não vou
+ negociar com eles, a menos que tenha certeza de que eles não fizeram nada com Karl e eu saiba
+ por que eles empalaram aquelas pessoas na entrada da fazenda. Não vou lidar com selvagens.}
+{317}{}{Acho que você gosta um pouco demais de matar para o meu gosto. Acho melhor você ir embora.}
+{318}{}{[Chocado] O Den! E-eu acho que fomos um pouco duros com ele. Posso imaginar o que ele passou
+ na Fazenda Fantasma, sem ninguém acreditando nele e tudo mais. Você diz que ele é um bêbado agora,
+ no Den? Se você pudesse falar que acreditamos nele e que ele deveria voltar para casa, eu ficaria
+ muito agradecido.}
+{319}{}{Também descobri que todos aqueles corpos que cercam a Fazenda Fantasma são falsos. Bonecos,
+ cobertos com tripas de brahmins.}
+{320}{}{Agora você vai falar com o líder dos Slags?}
+{321}{}{Isso é tudo que eu sei por enquanto.}
+{322}{}{Mentira! Isso é impossível; eu os vi com meus próprios olhos, sangue por toda parte. Mas... eu acho
+ que é possível, nós não... quer dizer... bem [o rosto de Jo fica vermelho.] Nós todos meio que viramos
+ as costas e corremos quando vimos os corpos. Ninguém realmente teve coragem de examiná-los de perto.}
+{326}{}{Sim, acredito que os Slags e o povo de Modoc poderão chegar a algum tipo de acordo benéfico
+ para ambos. Obrigado por salvar o povo de Modoc.}
+{327}{}{E essa coisa sobre a minha recompensa? Você disse que me diria onde estava o GECK sagrado.}
+{328}{}{Você precisa descobrir quem são aquelas pessoas que estavam na frente da Fazenda Fantasma. }
+{329}{}{Karl desapareceu da fazenda há algum tempo. Descubra o que aconteceu com ele.}
+{330}{}{Obrigado, vou ver o que descubro.}
 {331}{}{Não queremos gente como você por aqui.}
-{400}{}{[Letting him cut his finger off] OK, now I'll help.}
-{410}{}{What's the big white building in the middle of town?}
-{500}{}{Oh, that's our town church. The people of Modoc built it to show their faith. Lately,
- there hasn't been much to be thankful for, so nobody attends the sermons anymore.}
-{600}{}{Dearly Beloved: We are gathered here...}
-{602}{}{[Jo turns some pages in his book.]}
-{603}{}{OK, um... Before we begin, is there anyone in this room who knows any reason why these two
- here before us should not be joined together in holy matrimony?}
-{604}{}{Do you }
-{605}{}{ take }
-{606}{}{ to be your lawfully wedded }
-{607}{}{Then by frontier law, I pronounce you attached. You may now kiss the bride.}
-{608}{}{Then by frontier law, I pronounce you attached. You brides may now kiss.}
-{609}{}{Then by frontier law, I pronounce you attached. You may now kiss the other.}
-{612}{}{[Bo turns some pages in his book.]}
-{625}{}{husband?}
-{626}{}{wife?}
-{627}{}{uhhh... other? Yes, lawfully wedded other?}
-{628}{}{other?}
+{400}{}{[Deixa ele cortar o dedo] OK, agora eu ajudo.}
+{410}{}{Qual é o grande edifício branco no meio da cidade?}
+{500}{}{Oh, essa é a igreja da cidade. O povo de Modoc construiu para mostrar sua fé.
+ Ultimamente, não há muito a agradecer, então ninguém mais assiste aos sermões.}
+{600}{}{Caríssimos: Estamos aqui reunidos...}
+{602}{}{[Jo vira algumas páginas de seu livro.]}
+{603}{}{Muito bem... Antes de começarmos, há alguém nesta sala que saiba alguma razão pela qual
+ estes dois aqui diante de nós não devem ser unidos num sagrado matrimônio?}
+{604}{}{Você }
+{605}{}{ Você quer }
+{606}{}{ ser seu legalmente casado }
+{607}{}{Então, pela lei da fronteira, eu os declaro marido e mulher. Agora pode beijar a noiva.}
+{608}{}{Então, pela lei da fronteira, eu as declara esposa e esposa. Vocês, noivas, podem se beijar.}
+{609}{}{Então, pela lei da fronteira, eu os declaro marido e marido. Agora podem se beijar.}
+{612}{}{[Bo vira algumas páginas de seu livro.]}
+{625}{}{esposo?}
+{626}{}{esposa?}
+{627}{}{ahhh... outro? Sim, legalmente casado com outro?}
+{628}{}{outro?}
 {629}{}{Miria}
 {630}{}{Davin}
-{800}{}{We're gonna attack the Slags in }
-{801}{}{ days unless you can convince me otherwise.}
-{802}{}{We're gonna attack the Slags tomorrow unless you can convince me otherwise.}
-{803}{}{We're attacking the Slags immediately! Are you in or out?}
-{804}{}{Count me in!}
-{805}{}{I've had enough of this, count me out!}
-{806}{}{Let's attack now. The Slags have shown they can't be trusted.}
-{820}{}{What can I do to help?}
-{821}{}{I want no part of this. I've fulfilled my end of the bargain. Tell me where the GECK is.}
-{850}{}{I'll be back when I find out what happened to Karl.}
-{900}{}{Thanks again, my friend, for saving our little town.}
-{925}{}{You're welcome. See you again.}
-{1000}{}{You have saved the town of Modoc.}
-{1500}{}{You see Substitute Justice of the Peace Bo.}
+{800}{}{Nós vamos atacar os Slags em }
+{801}{}{ dias, a menos que você possa me convencer do contrário.}
+{802}{}{Vamos atacar os Slags amanhã, a menos que você me convença do contrário.}
+{803}{}{Vamos atacando os Slags imediatamente! Você está dentro ou fora?}
+{804}{}{Conte comigo!}
+{805}{}{Já vi o suficiente, conte comigo!}
+{806}{}{Vamos atacar agora. Os Slags mostraram que não são confiáveis.}
+{820}{}{O que posso fazer para ajudar?}
+{821}{}{Eu não quero fazer parte disso, já cumpri minha parte do trato. Me diga onde está o GECK.}
+{850}{}{Estarei de volta quando descobrir o que aconteceu com Karl.}
+{900}{}{Obrigado novamente, meu amigo, por salvar nossa pequena cidade.}
+{925}{}{De nada. Nos vemos por aí.}
+{1000}{}{Você salvou a cidade de Modoc.}
+{1500}{}{Você vê o juiz substituto da paz, Bo.}

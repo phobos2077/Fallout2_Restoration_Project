@@ -15,7 +15,7 @@
 {164}{}{Há rumores de que Farrel roubou o relógio.}
 {165}{}{Por que Farrel roubou o relógio?}
 {166}{}{Não é o melhor amigo do Farrel o Cornelius?}
-{167}{}{Tell me some more rumors.}
+{167}{}{Me conte outro rumor.}
 {168}{}{Porque as pessoas pobres tendem a roubar para sobreviver. Farrel definitivamente cai nos pobres
   categoria, e isso explicaria as novas ferramentas que ele comprou logo após o relógio de Cornelius desapareceu.}
 {170}{}{Posso lhe fazer mais algumas perguntas?}

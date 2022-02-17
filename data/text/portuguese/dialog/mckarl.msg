@@ -68,8 +68,8 @@
 {229}{}{Eu vou.}
 {230}{}{Isso aqui… hic… é uma festa enlatada.}
 {231}{}{Então, talvez mais tarde.}
-{232}{}{Gee... (hic) ...thanks. Maybe I can buy a (hic) bullet to shoot myself with. (hic) Course I'd
- have to save (hic) up for the gun.}
+{232}{}{Puxa... (hic) ...obrigado. Talvez eu possa comprar uma bala (hic) para atirar em mim
+ mesmo. (hic) Claro que eu teria que economizar (hic) para a arma.}
 {233}{}{Quer dizer… que posso ir pra casa? Sem mais fantasmas? [Karl ajoelha e chora. Cara, não há nada como ver um homem chorando.] Muito obrigado, finalmente posso voltar para casa!}
 {234}{}{Onde?! Nããããooo! Eles me acharam!}
 {235}{}{Porque sim, eu tinha o maior jardim (hic) que uma pessoa poderia querer. Exceto que (hic) de onde eu sou, nós chamamos isso de fazenda…}
