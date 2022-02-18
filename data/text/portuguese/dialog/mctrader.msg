@@ -24,5 +24,5 @@
 {164}{}{As pessoas de Modoc são assassinos.}
 {170}{}{Parece que as coisas estão melhorando por aqui.}
 {171}{}{Parece que vou precisar de contratar mais algumas pessoas para carregar toda comida daqui.}
-{172}{}{It looks as if Modoc is going to be alright after all.}
+{172}{}{Parece que Modoc vai ficar bem depois de tudo.}
 {500}{}{Você vê um comerciante.}

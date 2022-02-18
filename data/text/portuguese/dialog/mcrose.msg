@@ -15,10 +15,10 @@
 {158}{}{Você deve ouvir muitas coisas pois trabalha aqui. Se importa se eu lhe fazer algumas perguntas?}
 {159}{}{[Você cheira seus lábios com um POP alto]}
 {160}{}{Fico feliz em vê-lo novamente! O que eu posso fazer por você?}
-{165}{}{Oh my! It's you. Everyone is talking about how you risked your life for us, and solved the
- mystery of the Ghost Farm. Know that you are always welcome here, and of course all your meals are on
- the house. You may also rummage through the lost and found box and take whatever you wish as a special
- reward.}
+{165}{}{Oh, Deus! É você. Todo mundo está falando sobre como você arriscou sua vida por nós e
+ resolveu o mistério da Fazenda Fantasma. Saiba que você é sempre bem-vindo, e claro que qualquer refeição
+ sua é por nossa conta. Você também pode vasculhar a caixa de achados e perdidos e pegar o que quiser
+ como recompensa especial.}
 {166}{}{É o herói do Modoc! Bem vindo de volta.}
 {167}{}{Eu realmente adoraria ter uma de suas deliciosas omeletes agora mesmo.}
 {168}{}{Isso é o que eu gosto de ouvir. Um menino novo que cresce precisa comer para manter a sua força, e eu posso

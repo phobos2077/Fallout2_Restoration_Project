@@ -116,7 +116,7 @@
 {436}{}{"Vault Tec?" This *has* to be important. How much?}
 {437}{}{About time... how much for this module?}
 {438}{}{No thanks, I wanted something else...}
-{439}{}{Not today, thanks.}
+{439}{}{Hoje não, valeu.}
 {450}{}{Three thousand bucks. Take it or leave it.}
 {451}{}{Last time: three thousand bucks. Take it or leave it.}
 {452}{}{Okee-dokkeee}
