@@ -32,6 +32,10 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
+### Version 26
+- Hero Appearance updated to version 2.6.
+- Party Orders update to version 1.11.
+
 ### Version 25
 Fixed [crash in EPA](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/129) when sfall QoL features weren't selected during installation.
 
