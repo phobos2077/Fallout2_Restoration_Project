@@ -92,15 +92,15 @@
 {268}{}{No, don't hurt Myron. Not today, anyway. I'll keep you posted.}
 {269}{Cas0269}{Well, shotguns and rifles, mostly... just personal preference. I ain't a bad shot with pistols, neither.}
 {270}{}{Mais alguma coisa?}
-{271}{}{Okay. I had some other questions...}
+{271}{}{OK. Eu tinha algumas outras perguntas...}
 {272}{}{All right. Just checking.}
 {273}{Cas0273}{If you ever need to learn somebody some manners up close and personal, slip me some brass knuckles, and I can tapdance on their face with my fists.}
 {274}{}{Great. Anything else?}
-{275}{}{Okay. I had some other questions...}
+{275}{}{OK. Eu tinha algumas outras perguntas...}
 {276}{}{All right. Just checking.}
 {277}{Cas0277}{Uh, well... just between you and me, I can also use a spear pretty good. Me and my buddies used to hunt radscorpions with spears way back when... fact I'm alive and they ain't might tell you something.}
 {278}{}{Nothing wrong with using a spear.}
-{279}{}{Okay. I had some other questions...}
+{279}{}{OK. Eu tinha algumas outras perguntas...}
 {280}{}{All right. Just checking.}
 {281}{Cas0281}{Says you. Just don't be calling me no tribal, and we'll get along just fine.}
 {282}{Cas0282}{Don't want people mistaking me for ol' Bone-nose over there. Heh-heh. I ain't never seen no tribal do something as dumb as jam a bone in his nose.}

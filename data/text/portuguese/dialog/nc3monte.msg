@@ -93,172 +93,172 @@
 {323}{}{Uh-uh. TRAPACERO}
 {324}{}{Nuh-uh! Nuh-uh! Não fique bravo. Eu indo.}
 {325}{}{Sim.}
-{326}{}{Screw this. Keep the money, I'm outta here.}
-{330}{}{Look, I ain't got time for sore losers. You pay your money, you take your chances. If you
- wanna PLAY, fine, but if
- you're just gonna bitch when you lose, then get lost!}
-{331}{}{ME BREAK YOU}
+{326}{}{Que vá à merda, fique com o dinheiro, estou saindo fora.}
+{330}{}{Olha, eu não tenho tempo para perdedores bunda mole. Você paga seu dinheiro e arrisca,
+ só. Se você quer JOGAR, tudo bem, mas se você só vai ficar com graça quando perder,
+ então saia!}
+{331}{}{EU QUEBRAR VOCÊ}
 {332}{}{Nuh-uh! Nuh-uh! Não fique bravo. Eu indo.}
-{333}{}{That's it. You're dead.}
-{334}{}{All right, all right. I'm sorry. Here's 20 chips. Let's play again.}
-{335}{}{Screw you. Keep the money, I'm outta here.}
-{340}{}{(You hand over the cash. Monte nods, then slaps the cards down and shuffles them for a few seconds.)}
+{333}{}{É isso. Você está morto.}
+{334}{}{Tudo bem, tudo bem, foi mal. Aqui estão 20 fichas. Vamos jogar de novo.}
+{335}{}{Foda-se. Fique com o dinheiro, estou saindo fora.}
+{340}{}{(Você entrega o dinheiro. Monte acena com a cabeça, depois bate as cartas e as embaralha por alguns segundos.)}
 {341}{}{Então... qual é a rainha, cara?}
 {342}{}{Então... qual é a rainha, moça?}
-{343}{}{(Monte's using his normal deck! You need to steal his other deck to complete the switch.)}
+{343}{}{(Monte está usando seu baralho normal! Você precisa roubar o outro baralho dele para completar a troca.)}
 {344}{}{Você coloca em sleevie weevie, não joga limpo}
-{345}{}{Uh... Lucy leftie}
-{346}{}{Uh... Middle of th'road}
-{347}{}{Uh... Rightie tightie}
+{345}{}{Esc Esquerda}
+{346}{}{O meio ai}
+{347}{}{Din direta}
 {348}{}{Vagabundo PILANTRA. Eu vi você segurar aquela carta, me devolva o dinheiro antes que eu te apague aqui na rua.}
 {349}{}{Aquele em sua manga.}
-{350}{}{Uh, the one on the left.}
-{351}{}{Uh, the one on the right.}
-{352}{}{Uh, the one in the middle.}
+{350}{}{A da esquerda}
+{351}{}{A da direita.}
+{352}{}{A do meio.}
 {360}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra as cartas, depois as joga no chão e as embaralha por alguns segundos.)}
-{361}{}{(You hand over the cash. Monte looks uncomfortable.) Uh... all right... (Monte puts the cards on the ground and shuffles them.)}
+{361}{}{(Você entrega o dinheiro. Monte parece desconfortável.) Uh... tudo bem... (Monte coloca as cartas no chão e as embaralha.)}
 {362}{}{Então... qual é a rainha, cara?}
 {363}{}{Então... qual é a rainha, moça?}
-{364}{}{(Monte's using the marked deck. Any pick is the right one.)}
-{365}{}{Leftie! Leftie!}
-{366}{}{Rightie! Rightie!}
-{367}{}{Middlie! Middlie!}
-{368}{}{Oh, eu não sei... o da esquerda.}
-{369}{}{Hmmmm... maybe the one on the right?}
-{370}{}{Gee, I'm not sure... I think it's the one in the middle.}
-{375}{}{(Monte turns over the card. It is the queen of hearts. He seems paralyzed with shock.) Uh...? Heh. Eh...}
-{376}{}{guess you win, pal.}
-{377}{}{guess you win, lady.}
-{378}{}{(He hands over the cash reluctantly.)}
-{379}{}{Again! Again!}
-{380}{}{Thanx me go now}
-{381}{}{So we gonna play again or what? C'mon, Monte. I'm just getting started.}
-{382}{}{Well, thanks, Monte. See you later.}
-{385}{}{(Monte turns over the card. It is the queen of hearts. He looks shocked.) Uh...? Heh... uh...}
-{386}{}{guess you win, pal.}
-{387}{}{guess you win, lady.}
-{388}{}{That cleans me out, though... (Looks at you weakly) Anything else I could do for you?}
-{389}{}{Nuttin. Me just wanted sum extra EXP. Bye. Bye.}
-{390}{}{What have you GOT?}
-{391}{}{Why don't you give me some information?}
-{392}{}{Forget it, Monte. We'll call it even for today.}
-{400}{}{(Looks pained.) Eh... well, I do have something... but it's worth WAY more than you won... still...}
-{401}{}{Well? What is it?}
-{402}{}{If it's worth more to you than dying on Golgotha because you welched on a debt, that's your problem. I'd think
- about it, if I were you.}
-{404}{}{Eh... hmnnn... depends on what you want to know.}
-{405}{}{You know who dusted Wright's kid? Made him O.D. on Jet?}
-{406}{}{You know where I could find some guy named Pretty Boy Lloyd?}
-{407}{}{You know where my car is, Monte?}
-{408}{}{Got anything you think I should know?}
-{409}{}{Nevermind, Monte. We're even. See you later.}
-{415}{}{Eh... well... look, you ain't heard it from me, but my bets on Renesco, that asshole who runs the pharmacy on the west side.
- I don't know if he sold it TO the kid for sure, but he knows something. That's all I'm gonna say.}
-{416}{}{All right then, Monte. We're even.}
-{420}{}{Eh... well... (looks like he's fighting an inner battle) ...look, you ain't heard it from me, but if I was you, I'd
- check out the basement of the Desperado.}
-{421}{}{All right then, Monte. We're even.}
-{425}{}{(Narrows his eyes, leans in) I'd ask ol' Jules at the front of town. Nothing gets by him... and
- if it DID, then he had a finger in it, know what I'm saying?}
-{426}{}{All right then, Monte. We're even.}
-{430}{}{Well... know that Eldridge fella that runs New Reno Arms? He says he does weapon upgrades, but I never see him do
- any work. Might be worthwhile to check out his place... but you didn't hear that from me.}
-{431}{}{All right then, Monte. We're even.}
-{435}{}{(Monte frowns as he sees you.) Look, I ain't running no games today, all right? Blow.}
-{436}{}{Can I buy that card you showed me before?}
+{364}{}{(Monte está usando o baralho marcado. Qualquer escolha é a certa.)}
+{365}{}{Esqueda! Esq-erda!}
+{366}{}{Direta! Di-reira!}
+{367}{}{Meio! Mei!}
+{368}{}{Oh, eu não sei... a da esquerda.}
+{369}{}{Hmmmm... talvez a da direita?}
+{370}{}{Puxa, não tenho certeza... acho que é a do meio.}
+{375}{}{(Monte vira a carta. É a rainha de copas. O bixo ficou em choque.) Uh...? Heh. Eh...}
+{376}{}{acho que você ganhou, cara.}
+{377}{}{acho que você ganhou, senhora.}
+{378}{}{(Ele entrega o dinheiro com relutância.)}
+{379}{}{De novo! De novo!}
+{380}{}{Obrigado, já vou agora}
+{381}{}{Eai, vamos jogar de novo? Vamos, Monte. Nem comecei a aquecer.}
+{382}{}{Bom, obrigado, Monte. Até mais.}
+{385}{}{(Monte vira a carta. É a rainha de copas. Ele fica em choque.) Uh...? Eh... ah...}
+{386}{}{acho que você ganhou, cara.}
+{387}{}{acho que você ganhou, senhora.}
+{388}{}{Mas isso me limpa... (Olha para você fracamente) Mais alguma coisa que eu possa fazer por você?}
+{389}{}{De boa, eu tava upando um EXP extra. Tchau. Tchau.}
+{390}{}{O que você conseguiu?}
+{391}{}{Por que você não me dá algumas informações?}
+{392}{}{Esquece, Monte. Te chamaremos ainda hoje.}
+{400}{}{(Parece aflito.) Eh... bem, eu tenho algo... mas vale MUITO mais do que você ganhou... ainda assim...}
+{401}{}{Sério? O que é?}
+{402}{}{Se vale a pena para você mais do que a morte na Gólgota porque ficou endividado, problema seu. Se eu fosse
+ você, pensaria mais sobre isso.}
+{404}{}{Eh... hmnnn... depende do que você quer saber.}
+{405}{}{Você sabe quem espanou o filho do Wright? O fez O.D. no Jet?}
+{406}{}{Sabe onde posso encontrar um cara chamado Pretty Boy Lloyd?}
+{407}{}{Sabe onde tá meu carro, Monte?}
+{408}{}{Tem alguma coisa que você acha que eu deveria saber?}
+{409}{}{Nada não, Monte. Estamos quites. Até mais.}
+{415}{}{Eh... bem... olhe, você não ouviu nada de mim, mas eu aposto no Renesco, aquele babaca que tem a farmácia no lado oeste.
+ Não tenho certeza se ele vendeu para o garoto, mas ele sabe de alguma coisa. Isso é tudo que eu vou dizer.}
+{416}{}{Tudo bem então, Monte. Estamos quites.}
+{420}{}{Eh... bem... (parece que ele tem uma luta interior) ...olha, você não ouviu isso de mim, mas se eu fosse
+ você, daria uma olhada no porão do Desperado.}
+{421}{}{Tudo bem então, Monte. Estamos quites.}
+{425}{}{(Aperta os olhos e se inclina) Eu perguntaria ao velho Jules na frente da cidade. Nada passa
+ sem ele saber... e se aconteceu, então ele teria um dedo nisso, entendeu o que estou dizendo?}
+{426}{}{Tudo bem então, Monte. Estamos quites.}
+{430}{}{Bem... conhece aquele tal Eldridge que dirige a New Reno Arms? Ele diz que faz upgrades em armas, mas nunca o
+ vejo fazer nada da vida. Talvez seja bom dar uma olhada na casa dele... mas você não ouviu isso de mim.}
+{431}{}{Tudo bem então, Monte. Estamos quites.}
+{435}{}{(Monte franze a testa quando te vê.) Olha, não vou fazer nenhum jogo hoje, certo? Saia.}
+{436}{}{Posso comprar aquele cartão que você me mostrou antes?}
 {437}{}{Procuro algumas informações...}
 {438}{}{Tudo bem, Monte. Eu vou embora... por enquanto.}
-{440}{}{Nope. Ain't gonna part with that. Period. It's GENUINE pre-war memorabilia... a little slice of history. No WAY.}
-{441}{}{You making me ANOTHER offer? Look, I told you I ain't selling it.}
-{442}{}{How about a thousand chips? I got it with me. It's yours in exchange for that card.}
-{443}{}{Not even for 750 chips?}
-{444}{}{How about 500 chips?}
-{445}{}{250 chips sound about right?}
-{446}{}{Okay. I had some other questions...}
-{447}{}{Nevermind then, Monte. I'm outta here.}
-{450}{}{You deaf? That amount ain't even enough to interest me.}
+{440}{}{Não, não vou me livrar disso, esquece. É um item AUTENTICO do pré-guerra... um pedacinho da história. NEM VEM.}
+{441}{}{Você está me fazendo OUTRA oferta? Já te disse que não estou vendendo.}
+{442}{}{Que tal mil fichas? Eu tenho comigo. Tudo isso em troca desse cartão.}
+{443}{}{Nem mesmo por 750 fichas?}
+{444}{}{Que tal 500 fichas?}
+{445}{}{250 fichas parece bom?}
+{446}{}{OK. Eu tinha algumas outras perguntas...}
+{447}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{450}{}{Está surdo? Essa quantia nem é suficiente para me interessar.}
 {451}{}{Que tal eu sugerir outra quantia...?}
 {452}{}{Eu tenho mais algumas perguntas...}
-{453}{}{Nevermind then, Monte. I'm outta here.}
-{460}{}{Well, it ain't THAT dear to me. It's yours, pal. (He glances to the right and left, then reaches down and pulls off his
- boot. He twists off the heel and pulls out a playing card from inside.) Here ya go. Take care of it.}
+{453}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{460}{}{Bem, não é tão caro para mim. É seu, amigo. (Ele olha para a direita e para a esquerda, depois se abaixa e tira a
+ bota. Ele torce o calcanhar e tira uma carta de baralho de dentro.) Aqui está. Tome conta disso.}
 {461}{}{Eu tenho mais algumas perguntas...}
-{462}{}{Thanks, Monte. Always a pleasure.}
-{465}{}{(Frowns) Whether I talk depends on what you want to know. And it's not gonna be cheap.}
-{466}{}{You know who dusted Wright's kid? Made him O.D. on Jet?}
-{467}{}{You know where I could find some guy named Pretty Boy Lloyd?}
-{468}{}{You know where my car is, Monte?}
-{469}{}{Got anything you think I should know?}
-{470}{}{Nevermind then, Monte. I'm outta here.}
-{475}{}{No way in Golgotha am I going to even TOUCH that subject. Piss off.}
-{476}{}{Look, that subject's just bad news. Leave it alone, all right?}
-{477}{}{You making me another offer? Look, I told you I AIN'T going talk about it.}
-{478}{}{A thousand chips change your mind? I got it with me.}
-{479}{}{Not even for 750 chips?}
-{480}{}{How about 500 chips?}
-{481}{}{250 chips sound about right?}
+{462}{}{Obrigado, Monte. Sempre será prazer.}
+{465}{}{(Carranca) O que eu digo depende do que você quer saber. E não será barato.}
+{466}{}{Você sabe quem espanou o filho do Wright? O fez O.D. no Jet?}
+{467}{}{Sabe onde posso encontrar um cara chamado Pretty Boy Lloyd?}
+{468}{}{Sabe onde tá meu carro, Monte?}
+{469}{}{Tem alguma coisa que você acha que eu deveria saber?}
+{470}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{475}{}{Não vou tocar nesse assunto da Gólgota. Vá dar uma passeada.}
+{476}{}{Olha, esse assunto é só uma má notícia. Deixa pra lá, está bem?}
+{477}{}{Está me fazendo outra oferta? Olha, eu disse que NÃO vou falar sobre isso.}
+{478}{}{Mil fichas mudam sua ideia? Eu tenho aqui.}
+{479}{}{Nem mesmo por 750 fichas?}
+{480}{}{Que tal 500 fichas?}
+{481}{}{250 fichas parece bom?}
 {482}{}{Uh... Gólgota?}
 {483}{}{Eu tenho mais algumas perguntas...}
-{484}{}{Nevermind then, Monte. I'm outta here.}
-{490}{}{(Shakes his head.) No way. Talking about that could get somebody killed, startin' with me. Forget it.}
-{491}{}{How about if I offered you this...}
+{484}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{490}{}{(Balança a cabeça.) De jeito nenhum. Falar sobre isso pode matar alguém, começando por mim. Esqueça.}
+{491}{}{Que tal se eu te oferecesse isso...}
 {492}{}{Eu tenho mais algumas perguntas...}
-{493}{}{Nevermind then, Monte. I'm outta here.}
-{495}{}{Eh... well... that's a lot of chips. (Licks his lips. He looks like he's fighting an inner battle....but the battle is a brief one.) Look, you ain't heard it from me...}
-{496}{}{Understood. Go on.}
-{500}{}{(Sneers) Maybe I heard something, maybe I didn't. Name a price.}
+{493}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{495}{}{Eh... bem... isso é um monte de fichas. (Lambe os lábios. Ele parece estar lutando uma batalha interna... mas dura pouco.) Olha, você não ouviu isso de mim...}
+{496}{}{Entendido, prossiga.}
+{500}{}{(Risos) Talvez eu tenha ouvido alguma coisa, talvez não. Diga um preço.}
 {501}{}{Tudo bem... Diga um preço.}
-{502}{}{How about a thousand chips? I got it with me.}
-{503}{}{Not even for 750 chips?}
-{504}{}{How about 500 chips?}
-{505}{}{250 chips sound about right?}
+{502}{}{Que tal mil fichas? Eu tenho comigo.}
+{503}{}{Nem mesmo por 750 fichas?}
+{504}{}{Que tal 500 fichas?}
+{505}{}{250 fichas parece bom?}
 {506}{}{Eu tenho mais algumas perguntas...}
-{507}{}{Nevermind then, Monte. I'm outta here.}
-{510}{}{Ha! You couldn't buy a bucket of piss for that much. Forget it.}
-{511}{}{How about if I offered you this...}
+{507}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{510}{}{Ah! Você não pode comprar um balde de mijo com isso. Esqueça.}
+{511}{}{Que tal se eu te oferecesse isso...}
 {512}{}{Eu tenho mais algumas perguntas...}
-{513}{}{Nevermind then, Monte. I'm outta here.}
-{515}{}{Thaaaat's about right. (Grins evilly.) Look, you ain't heard it from me, but if I was you, I'd check out the basement of the Desperado on Virgin Street. There's a lot of "rats" there, if you catch my drift.}
+{513}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{515}{}{Tá certo. (Sorri maliciosamente.) Olha, você não ouviu isso de mim, mas se eu fosse você, eu olharia o porão do Desperado na Virgin Street. Há muitos "ratos" lá, se você me entende.}
 {516}{}{Eu tenho mais algumas perguntas...}
 {517}{}{Entendi. Obrigado.}
-{520}{}{(Shrugs) Maybe I know something about that, maybe I don't. Tell me a price and I might have something to say.}
+{520}{}{(Encolhe os ombros) Talvez eu saiba algo sobre isso, talvez não. Me fale um preço e talvez eu tenha algo a dizer.}
 {521}{}{Tudo bem... Diga um preço.}
-{522}{}{How about a thousand chips? I got it with me.}
-{523}{}{Not even for 750 chips?}
-{524}{}{How about 500 chips?}
-{525}{}{250 chips sound about right?}
+{522}{}{Que tal mil fichas? Eu tenho comigo.}
+{523}{}{Nem mesmo por 750 fichas?}
+{524}{}{Que tal 500 fichas?}
+{525}{}{250 fichas parece bom?}
 {526}{}{Eu tenho mais algumas perguntas...}
-{527}{}{Nevermind then, Monte. I'm outta here.}
-{530}{}{(Narrows his eyes, leans in) For that amount, I don't know nothing.}
-{531}{}{How about if I offered you this...}
+{527}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{530}{}{(Aperta os olhos, se inclina) Por essa quantia, não sei de nada.}
+{531}{}{Que tal se eu te oferecesse isso...}
 {532}{}{Eu tenho mais algumas perguntas...}
-{533}{}{Nevermind then, Monte. I'm outta here.}
-{535}{}{That's about right... (narrows his eyes, leans in) ...I'd ask ol' Jules at the front of town. Nothing
- gets by him... and if it DID, then he had a finger in it, know what I'm saying?}
+{533}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{535}{}{Isso mesmo... (cerra os olhos, se inclina) ...eu perguntaria ao velho Jules na frente da cidade.
+ Nada passa por ele... e se aconteceu, então deve ter um dedo nele, entendeu o que eu disse?}
 {536}{}{Eu tenho mais algumas perguntas...}
-{537}{}{All right then, Monte. Thanks.}
-{540}{}{(Shrugs) I hear things, I see things. For 200 chips, maybe you can get the benefit of my experience, know what I'm saying?}
-{541}{}{Here's 200 chips.}
-{542}{}{I'll give you 150.}
-{543}{}{100 chips or nothing.}
+{537}{}{Tudo bem então, Monte. Obrigado.}
+{540}{}{(Dá de ombros) Eu ouço coisas, eu vejo coisas. Por 200 fichas, talvez você possa ouvir um pouco da minha experiência, entendeu o que eu disse?}
+{541}{}{Aqui estão as 200 fichas.}
+{542}{}{Te dou 150.}
+{543}{}{100 fichas ou nada.}
 {544}{}{Eu tenho mais algumas perguntas...}
-{545}{}{Nevermind then, Monte. I'm outta here.}
-{550}{}{You deaf? I SAID 200 chips, n' I meant it.}
-{551}{}{All right. Here's 200 chips.}
+{545}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{550}{}{Você é surdo? EU DISSE 200 fichas, só com isso.}
+{551}{}{Tá bom. Tome as 200 fichas.}
 {552}{}{Eu tenho mais algumas perguntas...}
-{553}{}{Nevermind then, Monte. I'm outta here.}
-{555}{}{Done. (Monte leans in) Well, know that guy Eldridge, runs New Reno Arms? He SAYS he does
- weapon upgrades, but I never see him do any work. You might want to check out his place... but you didn't hear that from me.}
+{553}{}{Deixa pra lá, Monte. Estou fora daqui.}
+{555}{}{Feito. (Monte se aproxima) Bem, conhece aquele cara Eldridge, que comanda a New Reno Arms?
+ Ele DIZ que faz melhorias em armas, mas eu nunca o vejo fazer nada. Talvez você possa dar uma olhada... mas você não ouviu isso de mim.}
 {556}{}{Eu tenho mais algumas perguntas...}
-{557}{}{Understood. Thanks, Monte.}
+{557}{}{Compreendido, tenha um bom dia.}
 {560}{}{Boneyard south of town. Stinks ta high heaven, it does.}
 {561}{}{Oh... I see. Now, about the Wright kid...}
 {562}{}{Forget the Wright kid. I had some other questions...}
-{563}{}{All right then, Monte. Thanks.}
+{563}{}{Tudo bem então, Monte. Obrigado.}
 {565}{}{My bets on Renesco, that old asshole who runs the pharmacy on the west side. I don't know
  if he sold it TO the kid for sure, but he knows SOMETHING. (Glances around) That's all I'm gonna say.}
 {566}{}{Eu tenho mais algumas perguntas...}
-{567}{}{All right then, Monte. Thanks.}
+{567}{}{Tudo bem então, Monte. Obrigado.}
 {570}{}{(He glances around, then reaches down and pulls off his boot. He twists off the heel and pulls out a card... on the card
  is a man with a strange hat, wielding a club.) Interested? It's genuine pre-war memorabilia.}
 {571}{}{No, I already have enough inventory items... I'd rather have some information instead.}
