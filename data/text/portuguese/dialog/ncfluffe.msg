@@ -142,7 +142,7 @@
 {429}{}{Você deveria estar no pornô. Você tem o corpo pra isso.}
 {430}{}{Quer lutar?}
 {431}{}{Hum job? I'll tell you about them some other time.}
-{432}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{432}{}{Cuidado com o mastigador. Ele é maluco, tentou até morder minha orelha.}
 {433}{}{Olá, senhora. Posso te ajudar com... *alguma coisa?*}
 {434}{}{Hum, se precisar de companhia mais tarde, madame...}
 {435}{}{Quer o de sempre, madame?}

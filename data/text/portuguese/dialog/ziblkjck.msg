@@ -12,7 +12,7 @@
 {110}{}{This is a Black Jack table. Minimum bet is $}
 {111}{}{.}
 {112}{}{You draw a }
-{113}{}{ of }
+{113}{}{ de }
 {114}{}{, a }
 {115}{}{ and a }
 {116}{}{ for }

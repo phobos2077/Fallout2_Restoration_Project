@@ -1,137 +1,137 @@
-{100}{}{You see a porn actress.}
-{150}{}{You see an attractive woman. She seems to be talking to herself.}
-{151}{}{She looks like she is memorizing her lines. Eventually, she gives up, makes an "O" with her mouth, and begins to bob her head.}
-{152}{}{You see a porn actress. She coldly ignores you.}
-{200}{}{I suppose I should thank you for saving the world, but I'd much rather have wild, passionate sex with you. Is that
- all right?}
-{201}{}{I heard you're the stud who kicked the Enclave's ass.}
-{202}{}{Guys who kick the ass of evil government enclaves make me wet.}
+{100}{}{Você vê uma atriz porno.}
+{150}{}{Você vê uma gostosinha. Ela parece estar falando sozinha.}
+{151}{}{Parece que ela está memorizando algumas falas. Ela acaba desistindo, faz um "O" com a boca e começa a balançar a cabeça.}
+{152}{}{Você vê uma atriz porno. Ela te deixa no vaco.}
+{200}{}{Suponho que devo te agradecer por salvar o mundo, mas prefiro dar um metão bem bem selvagem com você.
+ Pode ser?}
+{201}{}{Ouvi dizer que você é o fodão que chutou a bunda da Enclave.}
+{202}{}{Caras que chutam esse governo maligno da Enclave me deixam molhadinha.}
 {203}{}{Ouvi dizer que os Brothers estão procurando por você. Eles querem fazer um filme baseado nas suas aventuras.}
-{210}{}{I suppose I should thank you for saving the world. Uh... thanks.}
-{211}{}{I heard you're the one who kicked the Enclave's ass. I'm impressed.}
-{212}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure. Uh, can you try and get me a part...?}
-{220}{}{Could you PLEASE stop tromping around in that get-up? I'm trying to memorize my lines.}
-{221}{}{Get back to whatever battlemech game you came from! This is an RPG!}
-{222}{}{Over-compensating for something?}
+{210}{}{Acho que devo te agradecer por salvar o mundo. Uh... valeu.}
+{211}{}{Ouvi dizer que foi você quem chutou a bunda da Enclave. Impressionante.}
+{212}{}{Ouvi dizer que os Irmãos estão te procurando. Eles querem fazer um filme baseado em suas aventuras. Você poderia tentar me encaixar em alguma parte...?}
+{220}{}{Poderia, POR FAVOR, parar de andar com esse treco que você está vestindo? Estou tentando decorar minhas falas.}
+{221}{}{Volte para o seu Fallout 4, isso aqui é o Fallout 2! É um RPG!}
+{222}{}{Você está compensando alguma coisa que falta?}
 {230}{}{Como vai, }
-{231}{}{Looking fine, }
-{232}{}{Hey there, honey! You taking care of yourself?}
-{233}{}{I'm not getting paid NEARLY enough.}
-{234}{}{Let's see... "Oh god"... "Give it to me..." Dammit! What's that next line?!}
-{235}{}{Yes, but what's my MOTIVATION for this scene?}
-{236}{}{Let's see...(Studies script)... he walks in, we have sex. Got it.}
-{237}{}{What I really want to do is direct.}
-{238}{}{Thank God they finally installed that padded headboard.}
+{231}{}{Olhando melhor, }
+{232}{}{Ei, gracinha! Você está se cuidando?}
+{233}{}{Eles não me PAGAM o suficiente.}
+{234}{}{Vamos ver… "Oh Deus"… "Mete fundo…" Droga! Qual é a próxima fala?!}
+{235}{}{Sim, mas qual é a minha MOTIVAÇÃO para esta cena?}
+{236}{}{Vamos ver... (consulta o roteiro)... ele entra, transamos. Entendi.}
+{237}{}{Eu quero fazer algo mais direto.}
+{238}{}{Graças a Deus eles finalmente instalaram aquela cabeceira acolchoada.}
 {239}{}{Eu não sei o que os Corsican Brothers viram nela...}
-{240}{}{I wish she'd leave for good.}
-{241}{}{She crimps my style.}
-{242}{}{Oh, she's a man-eater all right, a regular cannibal.}
-{243}{}{Hmmpph. Gutter trash.}
+{240}{}{Eu gostaria que ela fosse embora para sempre.}
+{241}{}{Ela pega no meu estilo.}
+{242}{}{Oh, ela é uma devoradora de homens, uma canibal insaciável.}
+{243}{}{Hummf. Lixo do caralho.}
 {244}{}{Ela é tão talentosa quanto uma pedra. E duas vezes mais feia.}
 {250}{}{Como vai, }
 {251}{}{Agora TEM encrenca na qual eu quero me meter.}
 {252}{}{Procurando por mim?}
 {253}{}{Por que você não vem aqui com mais freqüência?}
 {254}{}{Tenho uma vaga que você pode preencher.}
-{255}{}{About time a real man showed up in here...}
-{256}{}{Let's see... "Oh god"... "Give it to me..." Damn! What's that next line?}
-{257}{}{Yes, but what's my MOTIVATION for this scene?}
-{258}{}{Let's see...(Studies script)... he walks in, we have sex. Got it.}
-{259}{}{What I really want to do is direct.}
-{260}{}{Thank God they finally installed that padded headboard.}
+{255}{}{Já estava na hora de um homão da porra aparecer aqui...}
+{256}{}{Vamos ver... "Oh Deus"... "Mete mais..." Droga! Qual é a próxima fala?}
+{257}{}{Sim, mas qual é a minha MOTIVAÇÃO para esta cena?}
+{258}{}{Vamos ver... (consulta o roteiro)... ele entra, transamos. Entendi.}
+{259}{}{Eu quero fazer algo mais direto.}
+{260}{}{Graças a Deus eles finalmente instalaram aquela cabeceira acolchoada.}
 {265}{}{Como vai, }
 {266}{}{Agora TEM encrenca na qual eu quero me meter.}
 {267}{}{Procurando por mim?}
 {268}{}{Por que você não vem aqui com mais freqüência?}
 {269}{}{Tenho uma vaga que você pode preencher.}
-{270}{}{About time a real man showed up in here...}
-{271}{}{Let's see... "Oh god"... "Give it to me..." Damn! What's that next line?}
-{272}{}{Yes, but what's my MOTIVATION for this scene?}
-{273}{}{Let's see...(Studies script)... he walks in, we have sex. Got it.}
-{274}{}{What I really want to do is direct.}
-{275}{}{Thank God they finally installed that padded headboard.}
+{270}{}{Já estava na hora de um homão da porra aparecer aqui...}
+{271}{}{Vamos ver... "Oh Deus"... "Mete mais..." Droga! Qual é a próxima fala?}
+{272}{}{Sim, mas qual é a minha MOTIVAÇÃO para esta cena?}
+{273}{}{Vamos ver... (consulta o roteiro)... ele entra, transamos. Entendi.}
+{274}{}{Eu quero fazer algo mais direto.}
+{275}{}{Graças a Deus eles finalmente instalaram aquela cabeceira acolchoada.}
 {280}{}{Que cheiro é esse?}
-{281}{}{Great. Another tribal shit-kicker.}
+{281}{}{Genial, mais um tribal comedor de bosta.}
 {282}{}{Não fala comigo.}
-{283}{}{Let's see..."Oh god"... "Give it to me..." Damn! What's that next line?}
-{284}{}{Yes, but what's my MOTIVATION for this scene?}
-{285}{}{Let's see...(Studies script)...he walks in, we have sex. Got it.}
-{286}{}{What I really want to do is direct.}
-{287}{}{Thank God they finally installed that padded headboard.}
-{288}{}{I'd prefer it if you didn't talk when you speak to me. Think quietly to yourself, then pretend I'm responding to you.}
+{283}{}{Vamos ver..."Oh deus"... "Mete fundo..." Droga! Qual é a próxima fala?}
+{284}{}{Sim, mas qual é a minha MOTIVAÇÃO para esta cena?}
+{285}{}{Vamos ver... (Consulta o roteiro)... ele entra, transamos. Entendi.}
+{286}{}{Eu quero fazer algo mais direto.}
+{287}{}{Graças a Deus eles finalmente instalaram aquela cabeceira acolchoada.}
+{288}{}{Preferia que não falasse comigo diretamente. Fale mentalmente e depois imagine minha resposta.}
 {289}{}{Quem é você?}
-{290}{}{Are you one of the janitors?}
-{295}{}{Aren't you a little short for a storm trooper?}
-{296}{}{Aighhhhhh! What are you trying to do? Give me a heart attack?! Get out of here!}
-{297}{}{What film are YOU trying out for? The Day the Earth Stood Still? Get out of here!}
-{298}{}{Could you PLEASE stop tromping around in that get-up? I'm trying to memorize my lines.}
-{299}{}{Over-compensating for something?}
+{290}{}{Você é da equipe de limpeza?}
+{295}{}{Você não é meio baixinho para um soldado?}
+{296}{}{Aihhhhhh! O que você está tentando fazer? Me dar um AVC?! Saia daqui!}
+{297}{}{Você saiu de qual filme? O Dia em que a Terra Parou? Saia daqui!}
+{298}{}{Poderia, POR FAVOR, parar de andar com esse treco que você está vestindo? Estou tentando decorar minhas falas.}
+{299}{}{Você está compensando alguma coisa que falta?}
 {305}{}{Como vai, }
-{306}{}{Wanna help me rehearse my lines?}
-{307}{}{Wanna shower together before the next scene?}
-{308}{}{I love that thing you do with your tongue.}
-{309}{}{They've got me set up as the French exchange student from next door.}
-{310}{}{Are you the butler or the chauffeur in scene 3?}
-{311}{}{Could you set me up with a little Jet?}
-{312}{}{These shoots are stretch... er, wearing me out.}
-{313}{}{I think we're FINALLY doing a scene together.}
-{314}{}{My boyfriends don't know I work here. Not that I care what they think.}
+{306}{}{Quer me ajudar a ensaiar minhas falas?}
+{307}{}{Quer tomar uma ducha comigo antes da próxima cena?}
+{308}{}{Eu amo essa coisa que você faz com a língua.}
+{309}{}{Faço o papel do estudante de intercambio francês da porta da frente.}
+{310}{}{Você é o mordomo ou o motorista na cena 3?}
+{311}{}{Você pode me passar um pouco de Jet?}
+{312}{}{Esses takes são muito longos... eles me deixaram esgotada.}
+{313}{}{Acho que FINALMENTE vamos fazer uma cena juntos.}
+{314}{}{Meus namorados não sabem que eu trabalho aqui. Não que eu me importe com o que eles acham.}
 {315}{}{Eu não vi os irmãos por aqui... tente o escritório, beleza?}
-{316}{}{I don't really care where it goes, just make sure the camera gets the money shot.}
-{317}{}{You're a man of passion and mystery. A man of lust.}
-{318}{}{Well, we can do it whatever way is most comfortable for you.}
-{319}{}{I'll be ready for the next scene as soon as I take a long, hot shower.}
-{320}{}{I'm a mother to all those that need love.}
-{321}{}{You're going to be a star. A big, bright, shining star.}
-{322}{}{You're more eruptive than a volcano on a bad day.}
-{323}{}{I love it when you do the Spanish accent.}
-{324}{}{You look great, honey.}
+{316}{}{Não importa onde você bota, só se certifique de que a câmera tirou a melhor foto.}
+{317}{}{Você é um homem de paixão e mistério. Um homem de luxúria.}
+{318}{}{Bem, vamos fazer de um jeito mais confortável para você.}
+{319}{}{Estarei pronta para a próxima cena assim que tomar um banho longo e quente.}
+{320}{}{Eu sou uma mãe para todos aqueles que precisam de amor.}
+{321}{}{Você vai ser uma estrela. Uma estrela, uma estrela grande e brilhante.}
+{322}{}{Você é mais quente que um vulcão em um dia ruim.}
+{323}{}{Adoro quando você faz o sotaque espanhol.}
+{324}{}{Está muito bem, docinho.}
 {330}{}{::Te ignora::}
-{331}{}{Are you the French girl or the Russian girl in the next scene?}
-{332}{}{I wish the birth control was a little more reliable.}
-{333}{}{Did you steal my high heels?}
+{331}{}{Você é a garota francesa ou a garota russa na próxima cena?}
+{332}{}{Eu gostaria que o controle de natalidade fosse um pouco mais confiável.}
+{333}{}{Você roubou meus saltos altos?}
 {334}{}{Estou me sentindo um pouco cansado... tem algum jet?}
 {335}{}{Hmphhh!}
-{336}{}{No, I'm sorry, sweetheart. I don't know where the Brothers are.}
-{337}{}{Show you the way out?}
-{338}{}{Have you put on some weight?}
-{339}{}{Could you please step back a little. Your... fragrance... is making me nauseous.}
-{340}{}{I heard the Brothers are about to let you go. Sorry, SUCH a shame.}
-{341}{}{I guess if a no-talent like you can make it, I'm destined for even better things.}
-{342}{}{Your ass is so plump! How cute!}
-{343}{}{I guess it's not hard to make it in this industry.}
-{344}{}{*I* didn't say anything about you being fat or ugly. That must have been someone else.}
-{345}{}{I hear none of the actors want to work with you.}
-{346}{}{Did you not bathe before you showed up?}
+{336}{}{Não, me desculpe, amor. Não sei onde estão os Irmãos.}
+{337}{}{Te mostrar onde é a saída?}
+{338}{}{Você engordou um pouco?}
+{339}{}{Você poderia, por favor, recuar um pouco. Seu... cheiro... me deixa enjoada.}
+{340}{}{Ouvi dizer que os Irmãos vão dispensar seus serviços. Sinto muito, sinto MESMO.}
+{341}{}{Se alguém tão sem talento como você consegue fazer isso, eu posso fazer coisas melhores.}
+{342}{}{Sua bunda é gordinha! Que fofo!}
+{343}{}{Acho que não é muito difícil fazer parte desta indústria.}
+{344}{}{*Eu* não disse nada sobre você ser gorda ou feia. Deve ter sido outra pessoa.}
+{345}{}{Ouvi dizer que nenhum ator quer trabalhar com você.}
+{346}{}{Você não tomou banho antes de vir?}
 {350}{}{Como vai, }
 {351}{}{Quer sair do boxe e entrar no pornô? É a mesma coisa, só o palco que é diferente.}
 {352}{}{Quer pular no ringue comigo, campeão?}
 {353}{}{Quer lutar, campeão?}
-{354}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
-{355}{}{Wanna help me rehearse my lines?}
-{356}{}{Could you set me up with a little Jet?}
-{357}{}{These shoots are stretch... er, wearing me out.}
-{358}{}{Come to sample some of the coozine?}
-{359}{}{Nice piece of iron there.}
-{360}{}{My boyfriends don't know I work here. Not that I care what they think.}
-{361}{}{I'm not doing anything later, if you're looking for company.}
-{362}{}{Are you getting into the business? Welcome aboard.}
+{354}{}{Cuidado com o mastigador. Ele é maluco, tentou até morder minha orelha.}
+{355}{}{Quer me ajudar a ensaiar minhas falas?}
+{356}{}{Você pode me passar um pouco de Jet?}
+{357}{}{Esses takes são muito longos... eles me deixaram esgotada.}
+{358}{}{Você quer provar algo da cozinha?}
+{359}{}{Você tem um belo conjunto.}
+{360}{}{Meus namorados não sabem que eu trabalho aqui. Não que eu me importe com o que eles acham.}
+{361}{}{Depois não tenho nada, no caso de você estar procurando companhia.}
+{362}{}{Você quer se meter no negócio? Bem vindo a bordo.}
 {363}{}{Belo material o que você tem aí.}
 {364}{}{Você deveria estar no pornô. Você tem o corpo pra isso.}
-{365}{}{Nice piece of iron there.}
-{366}{}{I'm not doing anything later, if you're looking for company.}
-{367}{}{I heard about you. You're }
-{368}{}{Your boss send you for me?}
-{369}{}{You trying to extort some sex out of me? Go ahead.}
-{370}{}{The boss ever mention me?}
+{365}{}{Você tem um belo conjunto.}
+{366}{}{Depois não tenho nada, no caso de você estar procurando companhia.}
+{367}{}{Eu falar de você. Você é }
+{368}{}{Seu chefe mandou você me buscar?}
+{369}{}{Você está tentando conseguir uma transa de mim? Vá em frente.}
+{370}{}{O chefe nunca me mencionou?}
 {380}{}{What's it like boxing?}
-{381}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{381}{}{Cuidado com o mastigador. Ele é maluco, tentou até morder minha orelha.}
 {382}{}{Love your outfit. Tres chic.}
 {383}{}{That outfit looks great on you.}
 {384}{}{What do you wa... oh! Ma'am! Welcome to the studio.}
-{385}{}{My boyfriends don't know I work here. Not that I care what they think.}
+{385}{}{Meus namorados não sabem que eu trabalho aqui. Não que eu me importe com o que eles acham.}
 {386}{}{Um... you couldn't set me up with a little Jet, could you, ma'am?}
-{387}{}{These shoots are stretch... er, wearing me out.}
+{387}{}{Esses takes são muito longos... eles me deixaram esgotada.}
 {388}{}{Am I doing anything later? Er... no, ma'am. Not at all.}
 {389}{}{What's it like working for the boss?}
 {390}{}{The boss ever talk about me?}
@@ -158,7 +158,7 @@
 {425}{}{I really want to direct.}
 {426}{}{I'm dancing at the casinos on Thursday. Catch my act and bring some chips.}
 {427}{}{You couldn't possibly imagine the stress of my life.}
-{428}{}{My boyfriends don't know I work here. Not that I care what they think.}
+{428}{}{Meus namorados não sabem que eu trabalho aqui. Não que eu me importe com o que eles acham.}
 {429}{}{PLEASE stop bothering me. I'm trying to memorize these lines.}
 {430}{}{Se estiver procurando trabalho, fale com os Brothers.}
 {431}{}{Você é a nova excitadora?}

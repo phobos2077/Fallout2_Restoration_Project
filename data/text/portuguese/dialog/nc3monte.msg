@@ -251,26 +251,26 @@
  Ele DIZ que faz melhorias em armas, mas eu nunca o vejo fazer nada. Talvez você possa dar uma olhada... mas você não ouviu isso de mim.}
 {556}{}{Eu tenho mais algumas perguntas...}
 {557}{}{Compreendido, tenha um bom dia.}
-{560}{}{Boneyard south of town. Stinks ta high heaven, it does.}
-{561}{}{Oh... I see. Now, about the Wright kid...}
-{562}{}{Forget the Wright kid. I had some other questions...}
+{560}{}{O cemitério ao sul da cidade. Fede até quase você perder a consciência, isso é certo.}
+{561}{}{Oh, eu vejo. Agora, sobre o garoto Wright...}
+{562}{}{Esqueça o garoto Wright. Eu tinha outras perguntas...}
 {563}{}{Tudo bem então, Monte. Obrigado.}
-{565}{}{My bets on Renesco, that old asshole who runs the pharmacy on the west side. I don't know
- if he sold it TO the kid for sure, but he knows SOMETHING. (Glances around) That's all I'm gonna say.}
+{565}{}{Minhas apostas são em Renesco, aquele velho fudido que gerencia a farmácia na zona
+ oeste. Eu não tenho certeza se ele vendeu algo para o garoto, mas ele sabe de ALGUMA COISA. (Olha ao redor) Isso é tudo que vou dizer.}
 {566}{}{Eu tenho mais algumas perguntas...}
 {567}{}{Tudo bem então, Monte. Obrigado.}
-{570}{}{(He glances around, then reaches down and pulls off his boot. He twists off the heel and pulls out a card... on the card
- is a man with a strange hat, wielding a club.) Interested? It's genuine pre-war memorabilia.}
-{571}{}{No, I already have enough inventory items... I'd rather have some information instead.}
-{572}{}{Uh, sure. Why not? This'll settle things between us.}
-{573}{}{Sorry pal, no chips, no game. Come back when you got more money.}
-{574}{}{Sorry lady, no chips, no game. Come back when you got more money.}
-{575}{}{Yeah, maybe next time then.}
-{576}{}{You quickly swap Monte's deck of cards for the marked deck.}
-{600}{}{spades}
-{601}{}{hearts}
-{602}{}{diamonds}
-{603}{}{clubs}
+{570}{}{(Ele olha ao redor, depois se abaixa e tira a bota. Ele torce o calcanhar e tira um cartão... no cartão está um homem com
+ um chapéu estranho, empunhando um porrete.) Interessado? São lembranças genuínas do pré-guerra.}
+{571}{}{Não, eu já tenho itens suficientes no inventário... Prefiro ouvir algumas informações.}
+{572}{}{Certo. Por que não? Isso vai resolver as coisas entre nós.}
+{573}{}{Desculpe, cara, sem fichas, sem jogo. Volte quando tiver alguma coisa.}
+{574}{}{Desculpe, querida, sem fichas, sem jogo. Volte quando tiver alguma coisa.}
+{575}{}{Sim, talvez na próxima.}
+{576}{}{Na maciota, você troca o baralho de cartas de Monte pelo baralho marcado.}
+{600}{}{espadas}
+{601}{}{copas}
+{602}{}{ouro}
+{603}{}{paus}
 {604}{}{dois}
 {605}{}{três}
 {606}{}{quatro}
@@ -280,4 +280,4 @@
 {610}{}{oito}
 {611}{}{nove}
 {612}{}{dez}
-{613}{}{ of }
+{613}{}{ de }

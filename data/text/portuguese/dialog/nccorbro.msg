@@ -8,7 +8,7 @@
 {210}{}{Como diabos você vai no banheiro com essa coisa?}
 {211}{}{Isso é um novo tipo de vibrador?}
 {212}{}{Isso é um novo tipo de preservativo?}
-{220}{}{You're more eruptive than a volcano on a bad day.}
+{220}{}{Você é mais quente que um vulcão em um dia ruim.}
 {221}{}{You're a star. A SHOOTING star.}
 {222}{}{You're a star. A SPURTING star.}
 {223}{}{You're a star. A THROBBING star.}
