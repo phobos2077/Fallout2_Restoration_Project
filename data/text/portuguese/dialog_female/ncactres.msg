@@ -124,56 +124,56 @@
 {368}{}{Seu chefe mandou você me buscar?}
 {369}{}{Você está tentando conseguir uma transa de mim? Vá em frente.}
 {370}{}{O chefe nunca me mencionou?}
-{380}{}{What's it like boxing?}
+{380}{}{O que você acha sobre boxe?}
 {381}{}{Cuidado com o mastigador. Ele é maluco, tentou até morder minha orelha.}
-{382}{}{Love your outfit. Tres chic.}
-{383}{}{That outfit looks great on you.}
-{384}{}{What do you wa... oh! Ma'am! Welcome to the studio.}
+{382}{}{Amei sua roupa, muito chique.}
+{383}{}{Essa roupa ficou ótima em você.}
+{384}{}{O que você... oh! Senhora! Bem-vinda ao estúdio.}
 {385}{}{Meus namorados não sabem que eu trabalho aqui. Não que eu me importe com o que eles acham.}
-{386}{}{Um... you couldn't set me up with a little Jet, could you, ma'am?}
+{386}{}{Hum... você poderia me arrumar um pouco de Jet, senhora?}
 {387}{}{Esses takes são muito longos... eles me deixaram esgotada.}
-{388}{}{Am I doing anything later? Er... no, ma'am. Not at all.}
-{389}{}{What's it like working for the boss?}
-{390}{}{The boss ever talk about me?}
-{395}{}{Look, bondage and S&M are on Wednesdays only. Now squeak your leather ass outta here.}
-{396}{}{I seriously doubt the Brothers are looking for another leather act after that Happily Leather After fiasco.}
-{397}{}{Please stop bothering me. I'm trying to memorize these lines.}
-{398}{}{I THOUGHT I smelled leather. I thought it was a couch.}
-{399}{}{Look, leather bunny, if you don't have your own whip, the Brothers won't even give you the time of day.}
-{410}{}{You? No thanks. I could have better sex with my lipstick.}
-{411}{}{Why don't you go amuse yourself with a pencil sharpener?}
-{412}{}{I don't have time to have a boring meaningless conversation with you right now.}
-{413}{}{I don't care if you can hammer a six inch spike through a board with your penis. Now get lost.}
-{414}{}{Sex? No, I'm married, otherwise I still wouldn't.}
-{415}{}{I don't date white guys.}
-{416}{}{You couldn't possibly be better than my shower massager.}
-{417}{}{You don't look like you could support my shopping habit.}
-{418}{}{Honey, you couldn't afford me.}
-{419}{}{I'm just looking for the right guy. Thanks for keeping me company till he shows up.}
-{420}{}{You're not going to have any luck getting into my pants. There's only room for one asshole in there.}
-{421}{}{I'm sorry, I thought you were good looking, but I was mistaken.}
+{388}{}{Se eu vou fazer algo mais tarde? Bem... não, senhora. Nada de nada.}
+{389}{}{Como é trabalhar para o chefe?}
+{390}{}{O chefe já falou sobre mim?}
+{395}{}{Olha, bondage e sado são às quartas-feiras. Agora tire sua bunda de couro daqui.}
+{396}{}{Duvido muito que os Irmãos queiram mais couro depois do fiasco de 'Águias de Couro III'.}
+{397}{}{Por favor, pare de atrapalhar. Estou tentando memorizar essas falas.}
+{398}{}{PENSEI que cheirava a couro. Achei que fosse um sofá novo.}
+{399}{}{Olha, coelhinha de couro, se você não arranjar um chicote, os Irmãos nem vão reparar em você.}
+{410}{}{Vocês? Não, obrigada. Eu faria sexo melhor com meu batom.}
+{411}{}{Por que você não vai se divertir com um apontador de lápis?}
+{412}{}{Não tenho tempo para conversa chata e sem sentido com você agora.}
+{413}{}{Eu não me importo se você consegue pregar um prego de quinze centímetros com seu pau. Se manda.}
+{414}{}{Sexo? Não, sou casada, e se não fosse, também não faria.}
+{415}{}{Não namoro caras brancos.}
+{416}{}{Você provavelmente não é melhor do que meu chuveiro.}
+{417}{}{Você não parece que aguentaria meus hábitos de compras.}
+{418}{}{Docinho, você não pode pagar alguém como eu.}
+{419}{}{Estou apenas procurando o cara certo. Obrigado por me fazer companhia até ele aparecer.}
+{420}{}{Você não vai conseguir entrar na minha calcinha. Só tem espaço para um idiota lá.}
+{421}{}{Desculpe, eu pensei que você era bonito, mas me enganei.}
 {422}{}{Você? Desculpe, eu NUNCA estive com tanto desespero.}
-{423}{}{I haven't seen the Brothers around... now don't bother me. I'm an actress.}
+{423}{}{Faz um tempo que não vejo os Irmãos por aí... agora não me incomode, sou atriz.}
 {424}{}{Por favor... sem autógrafos.}
-{425}{}{I really want to direct.}
-{426}{}{I'm dancing at the casinos on Thursday. Catch my act and bring some chips.}
-{427}{}{You couldn't possibly imagine the stress of my life.}
+{425}{}{Eu realmente quero dirigir.}
+{426}{}{Eu danço nos cassinos às quintas-feiras. Não perca minha apresentação e traga algumas fichas.}
+{427}{}{Você não imagina o estresse que é minha vida.}
 {428}{}{Meus namorados não sabem que eu trabalho aqui. Não que eu me importe com o que eles acham.}
-{429}{}{PLEASE stop bothering me. I'm trying to memorize these lines.}
+{429}{}{POR FAVOR, pare de me incomodar. Estou tentando decorar essas falas.}
 {430}{}{Se estiver procurando trabalho, fale com os Brothers.}
 {431}{}{Você é a nova excitadora?}
-{432}{}{You the new janitor? I don't imagine what else you could be.}
-{433}{}{If you're the new janitor, you could start by wiping my ass.}
-{434}{}{I haven't seen the Brothers around, girl... now don't bother me. I'm an actress.}
-{435}{}{Please, girl... no autographs.}
-{436}{}{MAYBE if you cleaned yourself up some more, you could be a fluffer.}
-{437}{}{Sorry, no, I couldn't be a lesbian for less than 200 chips. For you, 300.}
-{438}{}{I'm dancing at the casinos on Thursday. Catch my act and bring some chips.}
-{439}{}{Girl, YOU couldn't possibly imagine the stress of my life.}
+{432}{}{Você é o novo zelador? Não consigo pensar no que mais poderia ser.}
+{433}{}{Se você é o novo zelador, pode começar limpando minha bunda.}
+{434}{}{Eu não vi os Irmãos por aí, garota... pare de me incomodar. Eu sou atriz.}
+{435}{}{Por favor, garota... sem autógrafos.}
+{436}{}{TALVEZ se você se arrumasse um pouco poderia ser um estimulador.}
+{437}{}{Desculpe, não, eu não poderia ser lésbica por menos de 200 fichas. Para você, 300.}
+{438}{}{Eu danço nos cassinos às quintas-feiras. Não perca minha apresentação e traga algumas fichas.}
+{439}{}{Garota, VOCÊ não poderia imaginar o estresse que é minha vida.}
 {1230}{}{?}
 {1231}{}{.}
 {1250}{}{?}
 {1265}{}{?}
 {1305}{}{?}
 {1350}{}{?}
-{1367}{}{, aren't you?}
+{1367}{}{, verdade?}

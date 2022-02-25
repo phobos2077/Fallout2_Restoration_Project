@@ -1,8 +1,8 @@
-{100}{}{You see Angela Bishop.}
-{101}{}{You see a screaming Angela Bishop.}
-{150}{}{You see an attractive young woman in tight leather.}
-{151}{}{You see Angela Bishop. When she catches your eye, she slowly licks her lips.}
-{152}{}{You see Angela Bishop. She scowls at you with disgust.}
+{100}{}{Você vê Ângela Bishop.}
+{101}{}{Você vê a escandalosa Angela Bishop.}
+{150}{}{Você vê uma jovem atraente vestida com couro justo.}
+{151}{}{Você vê Ângela Bishop. Quando ela te pega a olhando, ela lentamente lambe os lábios.}
+{152}{}{Você vê Ângela Bishop. Ela te faz uma careta com cara de nojo.}
 {175}{}{You see a young woman in tight leather. She looks too high-brow to be a whore.}
 {176}{}{You see Angela Bishop. She sneers at you.}
 {200}{}{My father's gonna KILL you when he hears how you treated me.}
