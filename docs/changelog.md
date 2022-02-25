@@ -5,6 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 26](#version-26)
 - [Version 25](#version-25)
 - [Version 24](#version-24)
 - [Version 23](#version-23)
@@ -34,7 +35,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 
 ### Version 26
 - Hero Appearance updated to version 2.6.
-- Party Orders update to version 1.11.
+- Party Orders updated to version 1.11.
 
 ### Version 25
 Fixed [crash in EPA](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/129) when sfall QoL features weren't selected during installation.
