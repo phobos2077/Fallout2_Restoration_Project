@@ -50,7 +50,6 @@ RPU includes the following mods:
 For additional QoL options, check out:
 - [Lossless music](https://github.com/BGforgeNet/Fallout2-HQ-music)
 - [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
-- [Inventory filter](https://nma-fallout.com/threads/inventory-filter.214445/)
 
 ### Bug reports, feature requests
 1. Go to [github issues](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues) or [forums](https://forums.bgforge.net/viewforum.php?f=39).
