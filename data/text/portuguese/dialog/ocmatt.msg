@@ -18,7 +18,7 @@
 {116}{}{Guess not.}
 {117}{}{Humph. Me go.}
 {118}{}{Okay, I'll just leave.}
-{119}{}{Not really.}
+{119}{}{Na verdade, não.}
 {120}{}{Yes, as a matter of fact I am. I stumbled upon this place and got myself captured by the deathclaws.
  They give me freedom of movement within the lower levels of the vault, but I can never go to level 1 where the exit is.}
 {121}{}{Por quê?}

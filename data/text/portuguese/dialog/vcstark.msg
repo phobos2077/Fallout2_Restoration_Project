@@ -104,7 +104,7 @@
 {203}{}{That so? I don't recognize you, and I know every Citizen in Vault City.}
 {204}{}{Here's my papers. I think you'll find everything in order.}
 {205}{}{Uh, never mind. I had some other questions...}
-{206}{}{I better be going.}
+{206}{}{É melhor eu ir.}
 {207}{}{Well, well, if it isn't those papers that were stolen last month. Looks like I finally found the culprit. Come with me, Outsider.}
 {208}{}{Touch me, and you'll regret it.}
 {209}{}{I'm going, I'm going. Stop pushing.}
