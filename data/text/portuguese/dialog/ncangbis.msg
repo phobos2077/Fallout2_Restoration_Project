@@ -164,50 +164,49 @@
 {590}{}{(Ela continua a olhar para você, mas parece insegura. Ela morde o lábio e se afasta apressadamente.)}
 {591}{}{Sim, PENSEI que sim.}
 {600}{}{(Ela cospe em seus pés.) Sim, eu também. (Ela te dá um último sorriso de escárnio e depois se afasta.)}
-{610}{}{'Not much difference, Miss Bishop.' And I thought my Mom was Daddy's only slave. Get out of my sight.}
-{620}{}{'Understood, Miss Bishop.' And I thought my Mom was Daddy's only slave. Get out of my sight.}
-{630}{}{'I'm SORRY, Miss Bishop, I don't have time to talk to you right now.' And I thought my Mom was Daddy's only slave.
- Get out of my sight.}
-{640}{}{Yeah, you start walking. Daddy's gonna start hearing ALL sorts of things about you soon. Just you wait. }
-{641}{}{(Turns away.)}
-{642}{}{You say one word to good ol' Dad, and you'll find yourself 'flying' off the top of the highest building in New Reno.
- Once they find the little note I leave, everybody'll call it a suicide. It'll be a TERRIBLE tragedy. They'll be crying in the aisles.}
+{610}{}{— Não há muita diferença, Senhorita Bishop. E eu achava que minha mãe era a única escrava do meu pai. Saia da minha frente.}
+{620}{}{— Entendido, Srta. Bishop. E eu achava que minha mãe era a única escrava do papai. Saia da minha frente.}
+{630}{}{'Sinto muito, Srta. Bishop, não tenho tempo para falar com você agora.' E eu achava que minha mãe era a única
+ escrava do papai. Saia da minha frente.}
+{640}{}{Sim, comece a andar. Papai vai começar a ouvir TODAS as coisas sobre você em breve. Só espere. }
+{641}{}{(Retorna.)}
+{642}{}{Diga uma palavra pra o papaizinho e você se verá voando do prédio mais alto de New Reno. Assim que te
+ encontrarem, lerão um bilhetinho, todo mundo vai chamar de suicídio. Será uma tragédia TERRÍVEL, daquelas que farão as pessoas chorarem pelos corredores.}
 {643}{}{(Vai embora.)}
-{650}{}{No, I think that's a bet YOU'RE going to lose, bitch. Just try it.}
-{651}{}{[Attack her.]}
-{652}{}{[Let it go.]}
-{660}{}{Stay away from me. I haven't got anything to say to you.}
-{661}{}{Daddy's gonna start hearing ALL sorts of things about you soon. Just you wait.}
-{670}{}{Not only that, but when I take Jet, I get all WILD, and I can barely control myself. I need someone who knows how to
- take charge to make sure I don't do anything... foolish.}
-{671}{}{I'm your man. Let's do it.}
-{672}{}{Sometimes being a hero means protecting beautiful young women from themselves, whatever the cost. Lead on.}
-{673}{}{I think you have me confused with someone who'd actually consider touching you.}
-{680}{}{You see Angela Bishop, who is currently asleep. She is snoring slightly, her hair is in disarray, and she has a bright smile on her face.}
-{690}{}{You see a young woman in tight leather who is screaming her head off.}
-{700}{}{Zzxxssnnn... oh, }
+{650}{}{Não, acho que é uma aposta que VOCÊ vai perder, vadia. Pode tentar.}
+{651}{}{[A ataca.]}
+{652}{}{[Deixa para lá.]}
+{660}{}{Fique longe de mim. Não tenho nada para te dizer.}
+{661}{}{Papai vai começar a ouvir TODAS as coisas sobre você em breve. Só espere.}
+{670}{}{E não só isso, mas quando eu tomo Jet, eu fico todo SELVAGEM, e mal consigo me controlar. Preciso de alguém que saiba assumir o controle para garantir que eu não faça nada... estúpido.}
+{671}{}{Eu sou seu homem. Vamos fazer isso.}
+{672}{}{Às vezes, ser um herói significa proteger mulheres bonitas de si mesma, não importa o que aconteça. Vamos lá.}
+{673}{}{Acho que você me confundiu com alguém que realmente consideraria tocar em você.}
+{680}{}{Você vê Angela Bishop. Ela está dormindo, roncando levemente, seu cabelo está desarrumado e ela tem um sorriso brilhante no rosto.}
+{690}{}{Você vê uma jovem com roupa de couro apertado que está gritando.}
+{700}{}{Zzxxssnnn... oh,  }
 {701}{}{Zzzzz...}
-{800}{}{Rape! Help!}
-{801}{}{Help, he assaulted me! Help!}
-{802}{}{Rape! Rape!}
-{810}{}{(Angela leads you up to her room on the third floor. There, she opens a little door in the wall, takes out a strange
- plastic bottle, and offers it to you.) Want some, baby? There's more than enough for both of us to fly.}
-{811}{}{(Angela leads you up to her room on the third floor. While there, she cracks open a safe in the wall, takes out some
- Jet, and offers some to you.) Want some, baby? There's more than enough for both of us to fly.}
+{800}{}{Estuprador! Ajuda!}
+{801}{}{Socorro, ele me bateu! Socorro!}
+{802}{}{Estuprador! Estuprador!}
+{810}{}{(Angela leva você até o quarto dela no terceiro andar. Lá, ela abre uma portinha na parede, tira uma garrafa de
+ plástico estranha e te oferece.) Quer um pouco, querido? Há mais do que suficiente para nós dois voarmos.}
+{811}{}{(Angela leva você até o quarto dela no terceiro andar. Enquanto está lá, ela abre um cofre na parede, pega um Jet
+ e oferece um pouco para você.) Quer um pouco, querido? Há mais do que suficiente para nós dois voarmos.}
 {812}{}{hã-ham.}
 {813}{}{Unh-unh}
-{820}{}{Mmmmmmmm... (Angela takes a deep hit from the bottle.) Mmmmmmm... why don't you come over
- here? (She lies down on the bed, takes another hit.) If you hurry, you can still suck some
- of this Jet outta my mouth...}
-{821}{}{Well since you put it that way... sure.}
-{822}{}{No thanks. I might throw up if I inhale any of that shit... or if I stay here any longer.}
-{830}{}{(Angela's eyes blaze with rage. She jumps up from the bed and starts screaming her head off!)
- Rape! Help! Rape!}
-{831}{}{Shhhh! If you dont be quiet, George won't let me play with th'rabbitz! Shhhh!}
-{832}{}{No scream! No scream!}
-{833}{}{I am SO out of here.}
+{820}{}{Mmmmmmmm... (Angela toma um trago profundo da garrafa.) Mmmmmmm... por que você não vem aqui?
+ (Ela se deita na cama, dá outra tragada.) Se você se apressar, ainda pode chupar um pouco
+ desse Jet da minha boca...}
+{821}{}{Bem, já que você colocou assim... com certeza.}
+{822}{}{Não, obrigado. Posso vomitar se inalar alguma dessas merdas... ou se ficar aqui por mais tempo.}
+{830}{}{(Os olhos de Ângela brilham de raiva. Ela pula da cama e começa a gritar!) Estuprador! Me
+ ajudem! Estuprador!}
+{831}{}{Shhh! Se você não ficar em silêncio, George não me deixará brincar com os coelhos! Shhh!}
+{832}{}{Sem gritar! Sem gritar!}
+{833}{}{É MELHOR eu ir.}
 {1460}{}{. }
 {1461}{}{. Eu vi seu último filme. }
 {1462}{}{. Ouvi sobre suas proezas no ringue. }
 {1700}{}{, oooooh... zzxnhzzz}
-{1701}{}{, again? Ooooh... }
+{1701}{}{, outra vez? Ooooh... }

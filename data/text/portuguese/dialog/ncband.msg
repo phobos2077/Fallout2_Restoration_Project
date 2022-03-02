@@ -1,8 +1,8 @@
-{100}{}{You see Frenchy.}
-{101}{}{You see Paine.}
-{102}{}{You see Sims.}
-{150}{}{You see a ragged-looking man. He is huddled next to the trashcan fire, singing. He has a pretty good voice.}
-{151}{}{You see a singer. He is huddled next to the trashcan fire, singing.}
+{100}{}{Você vê Frenchy.}
+{101}{}{Você vê Paine.}
+{102}{}{Você vê Sims.}
+{150}{}{Você vê um homem de aparência esfarrapada. Ele está encolhido ao lado do fogo, cantando. A voz dele é muito boa.}
+{151}{}{Você vê um cantor. Ele está encolhido ao lado do fogo, cantando.}
 {200}{}{Hey... }
 {203}{}{Hep you wit somthin', son?}
 {204}{}{::Tips an imaginary hat.:: Hep you wit somthin', ma'am?}
@@ -65,6 +65,6 @@
 {935}{}{lips for just a moment}
 {937}{}{Will make that moment live}
 {941}{}{}
-{1200}{}{! Th' big hero! How can we help you? Maybe sing you something special, eh?}
-{1201}{}{. Can we helpya?}
+{1200}{}{! Olha o grande herói! Como podemos te ajudar? Talvez cantar algo especial para você, hein?}
+{1201}{}{. Podemos te ajudar?}
 {1202}{}{. Help you wit somthin', champ?}

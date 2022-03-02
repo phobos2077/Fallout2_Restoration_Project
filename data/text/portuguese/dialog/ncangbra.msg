@@ -1,6 +1,6 @@
-{100}{}{You see an ill-tempered brahmin.}
-{150}{}{You see a huge, ill-tempered brahmin. Its stomach looks distended, and its eyes are bloodshot.}
-{151}{}{You see a huge, ill-tempered brahmin. Its stomach looks distended, and its eyes are bloodshot. It looks very sick. Maybe there's some way to help him out.}
+{100}{}{Você vê um brahmin aparentemente doente.}
+{150}{}{Você vê um brahmin enorme e aparentemente doente. Sua barriga parece distendida e seus olhos estão injetados.}
+{151}{}{Você vê um brahmin enorme e aparentemente doente. Sua barriga parece distendida e seus olhos estão injetados. Ele parece muito doente. Talvez haja alguma maneira de ajudá-lo.}
 {198}{}{::Rnnnrrrrr?::}
 {199}{}{::Hrrnnnnr?::}
 {200}{}{Moo}
@@ -10,5 +10,5 @@
 {204}{}{::Rnnnrrrrr!!!::}
 {205}{}{::Gnnnnnrrrr!!!::}
 {206}{}{::Hrrnnnnr!!!::}
-{225}{}{You pulled out something that was lodged in the brahmin's intestines.}
-{235}{}{There's something lodged in the brahmin's intestines, but you failed to get a hold of it.}
+{225}{}{Você tirou algo que estava alojado nos intestinos do brahmin.}
+{235}{}{Há algo alojado nos intestinos do brahmin, mas você não conseguiu pegá-lo.}

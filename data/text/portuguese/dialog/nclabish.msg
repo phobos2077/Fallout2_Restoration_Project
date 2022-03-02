@@ -218,7 +218,7 @@
 {527}{}{Do what she tells you to.}
 {530}{}{(She takes a big breath of air, then she starts yelling so loud it hurts your ears!
  Something about 'gards' and 'theef' which you can't make out because she's yelling so loudly.)}
-{531}{}{Shhhh! If you dont be quiet, George won't let me play with th'rabbitz! Shhhh!}
+{531}{}{Shhh! Se você não ficar em silêncio, George não me deixará brincar com os coelhos! Shhh!}
 {532}{}{Whatz wrong with yor teef? What you need gardz for?}
 {533}{}{No screem! No screem!}
 {535}{}{Yes, I know; gossip travels quickly in Reno. (Sighs.) No matter... I think you'll
