@@ -8,7 +8,7 @@
 {107}{}{What are you, dense? This is a slave pen. I got licenses for it.}
 {108}{}{}
 {109}{}{Just got some questions.}
-{110}{}{I'm looking for work.}
+{110}{}{Estou procurando trabalho.}
 {111}{}{Uh?}
 {112}{}{Not outhouse? Me go away.}
 {113}{}{What's this place do?}

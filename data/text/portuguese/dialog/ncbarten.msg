@@ -36,4 +36,4 @@
 {260}{}{Aquele é o Jesus's little boy, Lil' Jesus. Ele e aquela faca são como amigos
  íntimos... eu já vi ele fazer coisas terríveis com ela. De qualquer forma, posso te
  trazer algo, chapa?}
-{270}{}{Pleasure doin' business with ya.}
+{270}{}{Prazer em fazer negócios com você.}

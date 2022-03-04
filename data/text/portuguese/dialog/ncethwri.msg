@@ -22,7 +22,7 @@
 {220}{}{(Looks puzzled, then looks you over.) }
 {222}{}{(She fishes in her robes for a moment, pulls forth some items and presses them into your hands.) Here you go, dear.
  Take these.}
-{223}{}{Thanxxx}
+{223}{}{Valeuuuu}
 {224}{}{Cai fora}
 {230}{}{(Oh, you poor dear! Too much sun... }
 {231}{}{Oh, you poor dear... don't you have a home? }

@@ -4,67 +4,67 @@
 {150}{}{Você vê um homem de aparência esfarrapada. Ele está encolhido ao lado do fogo, cantando. A voz dele é muito boa.}
 {151}{}{Você vê um cantor. Ele está encolhido ao lado do fogo, cantando.}
 {200}{}{Hey... }
-{203}{}{Hep you wit somthin', son?}
-{204}{}{::Tips an imaginary hat.:: Hep you wit somthin', ma'am?}
-{205}{}{Doo yoo no 'row row boat down stream?'}
-{206}{}{Ken... ken you seng Nine BILLYun bottahs uf beer on the wall?}
-{207}{}{Nooo me go now}
-{208}{}{I'd be honored if you would. Thanks, guys.}
-{209}{}{Here's a few bucks. Can you play something else?}
-{210}{}{No, just listening, thanks.}
-{300}{}{All right then... you heard th' man, boys. Let's try a lil' somethin' else.}
-{301}{}{All right then... you heard th' lady, boys. Let's try a lil' somethin' else.}
-{302}{}{Thanxxx}
-{303}{}{Thanks, guys.}
+{203}{}{Podemos te ajudar com alguma coisa, filho?}
+{204}{}{::Ele toca um chapéu imaginário.:: Podemos te ajudar com alguma coisa, senhora?}
+{205}{}{Você conhece 'Remar o barco rio abaixo?'}
+{206}{}{Você poderia... você poderia cantar 'Noventa e nove garrafas de cerveja na parede'?}
+{207}{}{Nãooo eu vou agora}
+{208}{}{Eu ficaria honrado se você fizesse. Obrigado, caras.}
+{209}{}{Aqui estão alguns dólares. Você pode cantar outra coisa?}
+{210}{}{Não, só ouvindo, obrigado.}
+{300}{}{Tudo bem então... vocês ouviram o homem, rapazes. Vamos tentar outra coisa.}
+{301}{}{Tudo bem então... vocês ouviram a dama, rapazes. Vamos tentar outra coisa.}
+{302}{}{Valeuuuu}
+{303}{}{Obrigado, rapazes.}
 {400}{}{Oooooh}
-{402}{}{My baby ain't comin' home...}
-{405}{}{My baby done me wroooong...}
-{408}{}{My baby gone an' left me all aloooone...}
+{402}{}{Minha linda não voltou para casa...}
+{405}{}{Meu amor me fez maaaaal...}
+{408}{}{Meu amor se foi e me deixou sozinho...}
 {409}{}{}
 {500}{}{Continuar}
-{501}{}{Taste the pain}
-{502}{}{Cum again sum otha day}
+{501}{}{Sinta a dor}
+{502}{}{Venha de novo algum outro dia}
 {503}{}{}
-{600}{}{ Bottles of Beer on the Wall...}
-{601}{}{ Bottles of Beer...}
-{602}{}{Take one down...}
-{603}{}{Pass it around...}
+{600}{}{ Garrafas de cerveja na parede...}
+{601}{}{ Garrafas de cerveja...}
+{602}{}{Abre uma...}
+{603}{}{Passe outra...}
 {605}{}{}
-{700}{}{Row Row Row}
-{701}{}{Yer Boat}
-{702}{}{Gently Down the Stream}
-{703}{}{Merrily}
-{706}{}{Life is but a dream...}
+{700}{}{Linha Linha Linha}
+{701}{}{Seu Barco}
+{702}{}{Suavemente abaixo da corrente}
+{703}{}{Lindamente}
+{706}{}{A vida é apenas um sonho...}
 {707}{}{}
-{800}{}{We don't need another hero...}
-{801}{}{We don't needta know the way home...}
-{802}{}{All we need is whaz beyond...}
-{803}{}{Methadone}
+{800}{}{Nós não precisamos de outro herói...}
+{801}{}{Nós não precisamos saber o caminho de casa...}
+{802}{}{Tudo que precisamos é o que está além...}
+{803}{}{Metadona}
 {804}{}{}
-{900}{}{Give me}
-{901}{}{A kiss to build a dream on}
-{902}{}{And my imagination}
-{903}{}{Will thrive upon that kiss}
+{900}{}{Me dê}
+{901}{}{Um beijo para construir um sonho}
+{902}{}{E minha imaginação}
+{903}{}{Crescerá por causa desse beijo}
 {904}{}{Mmmmm}
-{905}{}{Sweetheart,}
-{906}{}{I ask no more than this:}
-{910}{}{A kiss before you leave me}
-{912}{}{Will feed my hungry heart}
-{913}{}{Leave me one thing before we part...}
-{915}{}{When I'm alone}
-{916}{}{With my fancies}
-{917}{}{I'lllll be with yoooou}
-{918}{}{Weaving ro-mances}
-{919}{}{Making believe they're true}
-{920}{}{Oh, give me your lips for just a moment}
-{921}{}{And my imagination will make that moment live...}
-{923}{}{Give me what you alone can give}
-{925}{}{::Mouth Trumpet::}
+{905}{}{Doce coração,}
+{906}{}{Não peço mais do que isto:}
+{910}{}{Um beijo antes de me deixar}
+{912}{}{Vai alimentar meu pobre coração}
+{913}{}{Me deixe algo antes de você partir...}
+{915}{}{Quando estou sozinho}
+{916}{}{Com minhas fantasias}
+{917}{}{Estareeei contiiiigo}
+{918}{}{Tecendo romances}
+{919}{}{Fazendo acreditar que eles são verdadeiros}
+{920}{}{Oh, me dê seus lábios por apenas um momento}
+{921}{}{E minha imaginação fará esse momento viver...}
+{923}{}{Me dê o que somente tu pode dar}
+{925}{}{::Instrumental de trompete::}
 {930}{}{Eu vou... estar com você}
 {933}{}{Ohhhh}
-{935}{}{lips for just a moment}
-{937}{}{Will make that moment live}
+{935}{}{lábios por um momento}
+{937}{}{Fará esse momento viver}
 {941}{}{}
 {1200}{}{! Olha o grande herói! Como podemos te ajudar? Talvez cantar algo especial para você, hein?}
 {1201}{}{. Podemos te ajudar?}
-{1202}{}{. Help you wit somthin', champ?}
+{1202}{}{. Posso te ajudar com alguma coisa, campeão?}

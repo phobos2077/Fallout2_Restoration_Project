@@ -30,7 +30,7 @@
 {267}{}{Girl, you must be dumber than SHIT to be talking to me like that. One more word, just ONE more word, and
  yer a torch.}
 {268}{}{I SAID, I want to see Mr. Salvatore.}
-{270}{}{(Leave quietly.)}
+{270}{}{(Saindo em silêncio.)}
 {275}{}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. }
 {276}{}{Este... cara... diz que tem algo que você quer ouvir.}
 {277}{}{Esta... mulher... diz que tem algo que você quer ouvir.}

@@ -4,7 +4,7 @@
 {151}{}{You see Louis Salvatore. He is carrying an oxygen tank, and he seems
  to have difficulty breathing.}
 {200}{}{*Tosse*}
-{201}{}{::Wheeze::}
+{201}{}{:Sibilos::}
 {202}{}{*Tosse* *Tosse*}
 {210}{}{Guards! Gu...*cough* *cough*...Guards!}
 {215}{}{(Salvatore turns to you with a stone-faced expression. He studies you for a fraction

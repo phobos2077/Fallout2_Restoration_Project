@@ -6,7 +6,7 @@
 {105}{}{Nyeh.}
 {106}{}{The sheriff told me to come by - said Mr. Westin might have a job for me.}
 {107}{}{I'm here to see the boss.}
-{108}{}{I'm looking for work.}
+{108}{}{Estou procurando trabalho.}
 {109}{}{I'm looking for Vault 13.}
 {110}{}{Apenas olhando por aí.}
 {111}{}{Great, another idiot. I suppose you want to see the boss?}

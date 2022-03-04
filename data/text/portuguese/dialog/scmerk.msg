@@ -27,7 +27,7 @@
 {126}{}{Você novamente?}
 {127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{Oort.}
-{129}{}{I'm looking for work.}
+{129}{}{Estou procurando trabalho.}
 {130}{}{Informed sources say you're the man to see about doing business, if you know what I mean.}
 {131}{}{They say you're the man who ripped off my car.}
 {132}{}{Estou procurando por alguma informação.}

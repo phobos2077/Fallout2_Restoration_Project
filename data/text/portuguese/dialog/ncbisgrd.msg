@@ -106,7 +106,7 @@
 {448}{}{Okay, I'm leaving.}
 {455}{}{No, I know Mr. Bishop's schedule, and you ain't on it.}
 {456}{}{He's expecting me. Tell him I'm here.}
-{458}{}{All right then. Goodbye.}
+{458}{}{Tudo bem então. Adeus.}
 {465}{}{Awright, pal. What's yer name? I'll check with the boss.}
 {466}{}{Awright, hon. What's yer name? I'll check with the boss.}
 {467}{}{Eu sou }

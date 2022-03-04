@@ -9,7 +9,7 @@
 {108}{}{I don't care. Give me the house special.}
 {109}{}{Me passa uma gelada.}
 {110}{}{Information.}
-{111}{}{I'm looking for work.}
+{111}{}{Estou procurando trabalho.}
 {112}{}{Well, aren't you the one! Just the way I like them.}
 {113}{}{Back again?}
 {114}{}{Yubba.}
