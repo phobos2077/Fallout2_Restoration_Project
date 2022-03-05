@@ -5,63 +5,63 @@
 {200}{}{Ei! }
 {201}{}{::cheers::}
 {202}{}{::palmas::}
-{203}{}{::whistles::}
+{203}{}{::assobios::}
 {205}{}{Como diabos você vai no banheiro com essa coisa?}
 {210}{}{Bela arma, }
 {215}{}{Uh, why are you sneaking around, }
 {216}{}{Uh, hey, }
-{220}{}{Yo, }
+{220}{}{Ei, }
 {221}{}{Ei, }
 {222}{}{Ei, }
 {225}{}{You just walked into the wrong place, dipshit.}
-{226}{}{Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.}
+{226}{}{Uau, olha que audácia desse filho da puta... sai fora, garoto, antes que você leve uns tiros.}
 {227}{}{Esse cara tá procurando problemas...}
-{228}{}{I hear the }
-{229}{}{You better leave, }
+{228}{}{eu ouço o }
+{229}{}{É melhor você ir embora, }
 {230}{}{Ora ora, se não é }
-{231}{}{Didn't think members of family }
+{231}{}{Não acho que os membros da família }
 {232}{}{You just walked into the wrong place, bitch.}
 {233}{}{Eita, olha à arrogância desta vadia...}
-{234}{}{Get, girl. Before we gun you down.}
-{235}{}{This bitch's asking for trouble...}
-{236}{}{I hear the }
-{250}{}{Yo, champ. No weapons in here, 'kay?}
-{251}{}{Yo, champ! Put that weapon away.}
+{234}{}{Some, garota. Antes que você leve uns tiros.}
+{235}{}{Essa putinha está pedindo problemas...}
+{236}{}{eu ouço o }
+{250}{}{Ei, campeão. Sem armas aqui, ok?}
+{251}{}{Ei, campeão! Largue essa arma.}
 {252}{}{Ei, }
-{255}{}{What are you sneaking around for?}
-{256}{}{Are you trying to avoid your fans?}
-{257}{}{Uh, why all the secrecy?}
-{260}{}{Yo, }
-{261}{}{Yo, }
-{265}{}{Yo, lover-boy. No weapons in here, 'kay?}
+{255}{}{Por que você está se esgueirando?}
+{256}{}{Você está se escondendo dos fãs?}
+{257}{}{Uh, por que todo o sigilo?}
+{260}{}{Ei, }
+{261}{}{Ei, }
+{265}{}{Ei, lindão. Sem armas aqui, ok?}
 {266}{}{Ei, }
-{267}{}{Yo, }
+{267}{}{Ei, }
 {268}{}{Honey, you can't be carryin' weapons in here. Heh-heh... you're deadly enough as it is.}
 {269}{}{Ei, }
-{275}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
-{280}{}{Love the films, }
-{281}{}{Loved you in Great Balls for Hire.}
-{282}{}{Loved you in Good Will Humping.}
-{283}{}{I'm a big fan of your work in Pokeahotass.}
+{275}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
+{280}{}{Amei os filmes, }
+{281}{}{Amei você em As Grandes Bolas de Fogo.}
+{282}{}{Amei você em O Esfolador Indomável.}
+{283}{}{Eu sou um grande fã do seu trabalho em Casa das Brasileirinhas.}
 {284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
 {285}{}{::Assobios::}
-{295}{}{You looking to fill a grave in Golgotha, slaver? Put that thing away.}
-{296}{}{Put that weapon away, slaver, or I'll use you for target practice.}
-{297}{}{Slaver, you better secure that weapon right NOW.}
-{300}{}{You looking to fill a grave in Golgotha, slaver? Stop sneaking around.}
-{301}{}{Stop sneaking around, slaver, or I'll use you for target practice.}
-{302}{}{Maybe you better go back to ninja school, slaver - now stop sneaking around.}
-{303}{}{Slaver, you better stop that sneaking around shit right NOW.}
-{305}{}{You looking to fill a grave in Golgotha, tribal? Put that thing away.}
-{306}{}{Put that weapon away, tribal, or I'll use you for target practice.}
-{307}{}{Tribal, you better secure that weapon right NOW.}
-{310}{}{You looking to fill a grave in Golgotha, tribal? Stop sneaking around.}
-{311}{}{Stop sneaking around, tribal, or I'll use you for target practice.}
-{312}{}{Maybe you better go back to ninja school, tribal - now stop sneaking around.}
-{313}{}{Tribal, you better stop that sneaking around shit right NOW.}
-{315}{}{Get that robot outta here. Now.}
-{316}{}{Get that robot outta here before we turn it into a trashcan fire.}
-{317}{}{That robot's gonna be spare parts if it stays.}
+{295}{}{Você está querendo encher uma tumba no Gólgota, traficante de escravos? Mantenha isso aí.}
+{296}{}{Guarde essa arma, traficante de escravos, ou vou te usar de tiro ao alvo.}
+{297}{}{Escravista, é melhor você guarda essa arma AGORA.}
+{300}{}{Quer encher uma cova no Gólgota, traficante de escravos? Pare de se esgueirar.}
+{301}{}{Pare de se esgueirar, traficante de escravos, ou vou te usar como tiro ao alvo.}
+{302}{}{Talvez seja melhor você voltar para a Aldeia da Folha, traficante de escravos - agora pare de se esgueirar.}
+{303}{}{Escravista, é melhor você parar com essa merda AGORA.}
+{305}{}{Quer encher uma cova no Gólgota, tribal? Largue essa coisa.}
+{306}{}{Guarde essa arma, tribal, ou te usarei como tiro ao alvo.}
+{307}{}{Tribal, é melhor você guardar essa arma AGORA.}
+{310}{}{Quer encher uma cova no Gólgota, tribal? Pare de se esgueirar.}
+{311}{}{Pare de se esgueirar, tribal, ou te usarei como tiro ao alvo.}
+{312}{}{Talvez seja melhor você voltar a Aldeia da Folha, tribal - agora pare de se esgueirar.}
+{313}{}{Tribal, é melhor você parar com essa merda AGORA.}
+{315}{}{Tire esse robô daqui. Agora.}
+{316}{}{Tire esse robô daqui antes que ele vire alguma lata de lixo.}
+{317}{}{Aquele robô vai virar peças de reposição se ficar aqui.}
 {320}{}{I *thought* I smelled mutant. You better get his yellow ass outta here.}
 {321}{}{You and your mutant friend looking to get shot? Beat it.}
 {322}{}{That mutant better get outta here right now, or we'll be mounting his head on a wall.}
@@ -81,7 +81,7 @@
 {339}{}{That Lynette chick is in bad need of some lovin', y'know?}
 {340}{}{Heard you busted up that Enclave down South. Pretty brave.}
 {350}{}{Ei, }
-{351}{}{Yo, }
+{351}{}{Ei, }
 {352}{}{Ei, }
 {353}{}{I heard Tommy the Balls is back in town, checking up on things. Watch out for him.}
 {354}{}{You see Tommy the Balls, stay outta his way.}
@@ -125,10 +125,10 @@
 {396}{}{Posso ver seus músculos abdominais?}
 {400}{}{Heard Mrs. Bishop was looking for you. Watch out, pal.}
 {401}{}{Get me a job, pal? C'mon. I'm the king of studs.}
-{402}{}{Love the films, }
-{403}{}{Loved you in Great Balls for Hire.}
-{404}{}{Loved you in Good Will Humping.}
-{405}{}{I'm a big fan of your work in Pokeahotass.}
+{402}{}{Amei os filmes, }
+{403}{}{Amei você em As Grandes Bolas de Fogo.}
+{404}{}{Amei você em O Esfolador Indomável.}
+{405}{}{Eu sou um grande fã do seu trabalho em Casa das Brasileirinhas.}
 {406}{}{Loved "Vault Sex-Teen." It was inspired. A cinematic tour-de-force.}
 {407}{}{Heard the Bishop daughter was looking for you. She's trouble.}
 {408}{}{Got any openings at the studio?}

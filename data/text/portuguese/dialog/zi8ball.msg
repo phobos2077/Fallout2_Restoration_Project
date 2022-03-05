@@ -1,5 +1,5 @@
 {151}{}{}
-{199}{}{What kind of an asshole question is that?}
+{199}{}{Que tipo de pergunta idiota é essa?}
 {200}{}{Outlook good.}
 {201}{}{Outlook not so good.}
 {202}{}{My reply is no.}

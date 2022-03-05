@@ -1,64 +1,64 @@
-{100}{}{You see one of Bishop's bodyguards.}
-{150}{}{You see a rugged-looking man dressed in leather armor. Numerous scars and gunshot wounds
- cover his body.}
-{151}{}{You see one of Bishop's bodyguards. He is scanning the area and fingering his weapon.}
+{100}{}{Você vê um dos guarda-costas de Bishop.}
+{150}{}{Você vê um homem de aparência robusta vestido com uma armadura de couro. Numerosas cicatrizes
+ e ferimentos de bala cobrem seu corpo.}
+{151}{}{Você vê um dos guarda-costas de Bishop. Ele está examinando a área e dedilhando sua arma.}
 {200}{}{Ei! }
 {201}{}{! Way to kick the Enclave's ass!}
 {205}{}{Como diabos você vai no banheiro com essa coisa?}
-{210}{}{Bishop expecting you, }
-{211}{}{? Go on up. Just don't be waving that weapon around him.}
-{215}{}{Uh, look... Bishop's expecting you, right, }
-{216}{}{? Go on up. Turn off the sneak, though.}
-{221}{}{? Go on up.}
-{225}{}{You just walked into the WRONG place, dipshit.}
-{226}{}{Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.}
+{210}{}{Bishop te espera, }
+{211}{}{? Vá em frente. Nem pense em mostrar essa arma na presença dele.}
+{215}{}{Uh, olhe... Bishop está esperando você, certo, }
+{216}{}{? Vá em frente. E pare de se esgueirar.}
+{221}{}{? Anda logo.}
+{225}{}{Você acabou de entrar no lugar ERRADO, babaca.}
+{226}{}{Uau, olha que audácia desse filho da puta... sai fora, garoto, antes que você leve uns tiros.}
 {227}{}{Esse cara tá procurando problemas...}
-{228}{}{You better leave, }
+{228}{}{É melhor você ir embora, }
 {229}{}{Ora ora, se não é }
-{230}{}{I hear the }
-{231}{}{Didn't think members of family }
-{232}{}{You just walked into the WRONG place, bitch.}
+{230}{}{eu ouço o }
+{231}{}{Não acho que os membros da família }
+{232}{}{Você acabou de entrar no lugar ERRADO, vadia.}
 {233}{}{Eita, olha à arrogância desta vadia...}
-{234}{}{Get, girl. Before we gun you down.}
-{235}{}{This bitch's asking for trouble...}
-{236}{}{I hear the }
-{245}{}{Yo, champ. No weapons in here, 'kay?}
-{246}{}{Yo, champ! Put that weapon away.}
+{234}{}{Some, garota. Antes que você leve uns tiros.}
+{235}{}{Essa putinha está pedindo problemas...}
+{236}{}{eu ouço o }
+{245}{}{Ei, campeão. Sem armas aqui, ok?}
+{246}{}{Ei, campeão! Largue essa arma.}
 {247}{}{Ei, }
-{255}{}{What are you sneaking around for?}
-{256}{}{Are you trying to avoid your fans?}
-{257}{}{Uh, why all the secrecy?}
-{265}{}{Yo, }
-{266}{}{Yo, }
-{275}{}{Yo, lover-boy. No weapons in here, 'kay?}
+{255}{}{Por que você está se esgueirando?}
+{256}{}{Você está se escondendo dos fãs?}
+{257}{}{Uh, por que todo o sigilo?}
+{265}{}{Ei, }
+{266}{}{Ei, }
+{275}{}{Ei, lindão. Sem armas aqui, ok?}
 {276}{}{Ei, }
-{277}{}{Yo, }
-{278}{}{Honey, you can't be carryin' weapons in here. Heh-heh... You're deadly enough as it is.}
+{277}{}{Ei, }
+{278}{}{Querida, você não pode carregar armas aqui. Heh-heh... Você já é perigosa o suficiente.}
 {279}{}{Ei, }
-{285}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
-{290}{}{Love the films, }
-{291}{}{Loved you in Great Balls for Hire.}
-{292}{}{Loved you in Good Will Humping.}
-{293}{}{I'm a big fan of your work in Pokeahotass.}
-{294}{}{::whistles::}
-{300}{}{You looking to fill a grave in Golgotha, slaver? Put that thing away.}
-{301}{}{Put that weapon away, slaver, or I'll use you for target practice.}
-{302}{}{Slaver, you better secure that weapon right NOW.}
-{305}{}{You looking to fill a grave in Golgotha, slaver? Stop sneaking around.}
-{306}{}{Stop sneaking around, slaver, or I'll use you for target practice.}
-{307}{}{Maybe you better go back to ninja school, slaver - now stop sneaking around.}
-{308}{}{Slaver, you better stop that sneaking around shit right NOW.}
-{315}{}{You looking to fill a grave in Golgotha, tribal? Put that thing away.}
-{316}{}{Put that weapon away, tribal, or I'll use you for target practice.}
-{317}{}{Tribal, you better secure that weapon right NOW.}
-{325}{}{You looking to fill a grave in Golgotha, tribal? Stop sneaking around.}
-{326}{}{Stop sneaking around, tribal, or I'll use you for target practice.}
-{327}{}{Maybe you better go back to ninja school, tribal - now stop sneaking around.}
-{328}{}{Tribal, you better stop that sneaking around shit right NOW.}
-{335}{}{Get that robot outta here. Now.}
-{336}{}{Get that robot outta here before we turn it into a trashcan fire.}
-{337}{}{That robot's gonna be spare parts if it stays.}
-{345}{}{I *thought* I smelled mutant. You better get his yellow ass outta here. Now.}
+{285}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
+{290}{}{Amei os filmes, }
+{291}{}{Amei você em As Grandes Bolas de Fogo.}
+{292}{}{Amei você em O Esfolador Indomável.}
+{293}{}{Eu sou um grande fã do seu trabalho em Casa das Brasileirinhas.}
+{294}{}{::assobios::}
+{300}{}{Você está querendo encher uma tumba no Gólgota, traficante de escravos? Mantenha isso aí.}
+{301}{}{Guarde essa arma, traficante de escravos, ou vou te usar de tiro ao alvo.}
+{302}{}{Escravista, é melhor você guarda essa arma AGORA.}
+{305}{}{Quer encher uma cova no Gólgota, traficante de escravos? Pare de se esgueirar.}
+{306}{}{Pare de se esgueirar, traficante de escravos, ou vou te usar como tiro ao alvo.}
+{307}{}{Talvez seja melhor você voltar para a Aldeia da Folha, traficante de escravos - agora pare de se esgueirar.}
+{308}{}{Escravista, é melhor você parar com essa merda AGORA.}
+{315}{}{Quer encher uma cova no Gólgota, tribal? Largue essa coisa.}
+{316}{}{Guarde essa arma, tribal, ou te usarei como tiro ao alvo.}
+{317}{}{Tribal, é melhor você guardar essa arma AGORA.}
+{325}{}{Quer encher uma cova no Gólgota, tribal? Pare de se esgueirar.}
+{326}{}{Pare de se esgueirar, tribal, ou te usarei como tiro ao alvo.}
+{327}{}{Talvez seja melhor você voltar a Aldeia da Folha, tribal - agora pare de se esgueirar.}
+{328}{}{Tribal, é melhor você parar com essa merda AGORA.}
+{335}{}{Tire esse robô daqui. Agora.}
+{336}{}{Tire esse robô daqui antes que ele vire alguma lata de lixo.}
+{337}{}{Aquele robô vai virar peças de reposição se ficar aqui.}
+{345}{}{Eu *pensei* que cheirava mutante. É melhor tirar esse traseiro amarelo dele daqui. Agora.}
 {346}{}{You and your mutant friend looking to get shot? Beat it.}
 {347}{}{That mutant better get outta here right now, or we'll be mounting his head on a wall.}
 {355}{}{I *thought* I smelled something rotting. Get that ghoul outta here.}
@@ -122,7 +122,7 @@
 {490}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something.
  He waits for a minute, listens, then turns back to you and shrugs.) He says you can head on up.}
 {491}{}{Tudo certo.}
-{495}{}{Yo, }
+{495}{}{Ei, }
 {496}{}{! }
 {497}{}{Mr. Bishop 'xpecting you?}
 {498}{}{Yes. Can I head on up? We have business to discuss.}

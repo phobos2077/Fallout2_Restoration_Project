@@ -4,7 +4,7 @@
 {152}{}{You see Sid, one of the Corsican Brothers. He is wearing a toupee, and he is wearing dark glasses.}
 {200}{}{Ei, }
 {201}{}{}
-{202}{}{Yo, }
+{202}{}{Ei, }
 {210}{}{Como diabos você vai no banheiro com essa coisa?}
 {211}{}{Isso é um novo tipo de vibrador?}
 {212}{}{Isso é um novo tipo de preservativo?}

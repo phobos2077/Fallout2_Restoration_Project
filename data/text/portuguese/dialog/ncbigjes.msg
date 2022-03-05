@@ -158,115 +158,114 @@
 {542}{}{Eles estavam dizendo coisas horríveis sobre sua mãe, Grande Jesus. FUI OBRIGADO a mata-los.}
 {543}{}{Oh. Acho que eu entendi errado.}
 {551}{}{Uh... sim, mas eu não tenho o dinheiro comigo. Me de um pouco de tempo, e eu te devolvo.}
-{552}{}{Yes, here is the money.}
+{552}{}{Sim, aqui está o dinheiro.}
 {553}{}{Não, ainda não.}
-{554}{}{No, uh, I'll go take care of it now.}
-{560}{}{Then... why are you here? (He wipes his forehead, then takes a deep breath.) WHY do you not have the money?}
-{561}{}{Well, you see, I had some questions first...}
-{562}{}{Good question. I'm going to go do it right now.}
-{570}{}{(Nods as you give him the money.) Here. Half... is yours. Heh. They had already paid me this month, but I like
- to keep them... on their toes.}
-{571}{}{Hey, thanks, Big Jesus.}
-{580}{}{(Senor Mordino looks at you for a long time, then nods slightly.) I have one last job for you. There... (Takes
- a deep wheezing breath, wipes sweat from his forehead.)... is a MAN who must die.}
-{581}{}{He's as good as dead. The corpse got a name?}
-{582}{}{Who is this man?}
-{583}{}{Who is this man you wish dead, Senor Mordino?}
-{584}{}{Whoa, nobody say anything about murder. Forget it.}
-{585}{}{I cannot take this job, Senor Mordino, I'm sorry. Goodbye.}
-{595}{}{You come to me for work. I give you... work and you complain like a CHILD. (Takes a deep, rasping breath, then coughs.)
- You... are no longer welcome here... in my casino. Leave.}
-{596}{}{You come to me for work. You refuse my... offer. (Takes a deep, rasping breath, then coughs.)
- You... are no longer welcome here... in my casino. Leave.}
-{597}{}{Before I go, I had some questions I wanted to ask you...}
-{598}{}{I'm not done TALKING to you yet, "Big Jesus."}
-{599}{}{My apologies, Senor Mordino. I will leave at once.}
-{600}{}{Why don't you MAKE me leave?}
-{610}{}{This man, Louis Salvatore... he has killed many of my men... many PROUD men of the Mordino family. He... butchered them
- in the street like... dogs. (His hand clenches into a fist.) It is my will that this man die.}
-{611}{}{If you got the chips, he's good as dead.}
-{612}{}{Wait a minute. Louis Salvatore who rules the Salvatore family? The ones that have the lightbringers that
- can slice men in half?}
-{613}{}{I will see the Mordino family avenged, Senor Mordino. I will return when I have completed the task.}
-{614}{}{I can't accept this assignment. I'm leaving.}
-{615}{}{All right then. I'll do it.}
-{620}{}{I shall pay you... when Salvatore breathes no more.}
-{621}{}{Wait a minute. Louis Salvatore who rules the Salvatore family? The ones that have the lightbringers that can
- cut men in half?}
-{623}{}{I don't stick my neck out for nothing. I'm outta here.}
-{630}{}{(Mordino nods, studies your expression.) Does that... make you afraid? If so, leave. (Points at door.) The Mordino
- family has no use for... cowards.}
-{631}{}{No, I'll do it.}
-{633}{}{Call me a coward, but I like breathing. I'll pass on this job.}
-{640}{}{(Nods.) That is good. The man is old... a cripple... he hides in his bar, "Salvatore's," near the Bishop Casino.
- He is a... coward and never leaves his room upstairs. When he is... dead, return.}
-{641}{}{Cripple?}
+{554}{}{Não, uh, vou cuidar disso agora.}
+{560}{}{Então por que você está aqui? (Ele enxuga a testa e respira fundo.) POR QUE você não tem o dinheiro?}
+{561}{}{Bem, veja, eu tenho algumas perguntas primeiro...}
+{562}{}{Boa pergunta. Eu vou fazer isso agora mesmo.}
+{570}{}{(Acena com a cabeça enquanto você lhe dá o dinheiro.) Aqui. Metade... é sua. Heh. Eles já tinham me pago
+ este mês, mas eu gosto de mantê-los... em seu lugar.}
+{571}{}{Ei, obrigado, Grande Jesus.}
+{580}{}{(O Senor Mordino te olha por um bom tempo, depois assente levemente.) Tenho um último trabalho para
+ você. Aí... (Respira fundo, ofegante, enxuga o suor da testa.)... está um HOMEM que deve morrer.}
+{581}{}{Já está morto. Qual o nome do cadáver?}
+{582}{}{Quem é o homem?}
+{583}{}{Quem é esse homem que você quer morto, Senhor Mordino?}
+{584}{}{Opa, ninguém disse nada sobre assassinato. Esqueça.}
+{585}{}{Não posso aceitar este trabalho, Senhor Mordino, sinto muito. Tchau.}
+{595}{}{Você vem a mim procurando trabalhar. Eu te dou... trabalho e você reclama feito uma CRIANÇA. (Respira fundo e ofegante
+ , depois tosse.) Você... não entre mais aqui... no meu cassino. Saia.}
+{596}{}{Você vem a mim procurando trabalhar. Agora recusa minha... oferta. (Respira fundo e
+ ofegante, depois tosse.) Você... Não entre mais aqui ... no meu cassino. Saia.}
+{597}{}{Antes de ir, eu tinha algumas perguntas que queria fazer a você...}
+{598}{}{Ainda não terminei de FALAR com você, "Grande Jesus".}
+{599}{}{Minhas desculpas, Senhor Mordino. Vou sair imediatamente.}
+{600}{}{Por que você não me FAZ sair?}
+{610}{}{Este homem, Louis Salvatore... ele matou muitos dos meus homens... muitos homens ORGULHOSOS da família Mordino. Ele... os massacrou na rua como...
+ animais. (Sua mão se fecha em punho.) É minha vontade que este homem morra.}
+{611}{}{Se você tem as tampas, o considere morto.}
+{612}{}{Espere aí. Você fala de Louis Salvatore que governa a família Salvatore? Os que têm armas a laser que
+ podem cortar homens ao meio?}
+{613}{}{A família Mordino será vingada, Senhor Mordino. Voltarei quando terminar o trabalho.}
+{614}{}{Não posso aceitar esta missão. Estou indo embora.}
+{615}{}{Tudo bem então. Eu faço isso.}
+{620}{}{Eu te pagarei... quando Salvatore não respirar mais.}
+{621}{}{Espere aí. Você fala de Louis Salvatore que governa a família Salvatore? Os que têm armas a laser que
+ podem cortar os homens ao meio?}
+{623}{}{Não arrisco meu pescoço por nada. Estou fora daqui.}
+{630}{}{(Mordino se inclina, estuda sua expressão.) Isso... te deixa com medo? Se sim, vá embora. (Aponta para a porta.)
+ A família Mordino não foi feita para... covardes.}
+{631}{}{Não, eu faço isso.}
+{633}{}{Pode me chamar de covarde, mas eu prefiro continuar respirando. Eu passo esse trabalho.}
+{640}{}{(Acena.) Isso é bom. O homem é velho... aleijado... ele se esconde em seu bar, "Salvatore's", perto do
+ Cassino Bishop. Ele é um... covarde e nunca sai do quarto no andar de cima. Quando ele... morrer, volte aqui.}
+{641}{}{Aleijado?}
 {642}{}{Tudo certo.}
-{650}{}{(Nods.) The butcher's legs... are weak. (Jesus wipes his forehead, then draws another weak breath.)
- He also has... difficulty... breathing. He takes air through an... oxygen tank.}
-{651}{}{Oxygen tank, huh? Hmmmm. All right.}
-{652}{}{I'll be back when he is dead, Senor Mordino.}
-{660}{}{Louis Salvatore lives. Why have you returned?}
-{661}{}{(A bead of sweat trickles down the side of Mordino's face.) You have done as I asked? Louis Salvatore is dead?}
-{662}{}{He is dead. Your family is avenged, Senor Mordino.}
-{663}{}{I shall return when I have killed him.}
-{664}{}{Salvatore's too well-guarded. I'm going to have to cancel on this job.}
-{670}{}{If you... run from this job, I will have you... KILLED.}
-{671}{}{Since you put it that way, I shall return when he's dead.}
-{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
-{680}{}{So I have heard. (Nods respectfully.) You have done... well. My faith in you is not misplaced. Here is... your
- payment. Five hundred... chips. }
+{650}{}{(Acena.) As pernas desse carniceiro... estão fracas. (Jesus enxuga a testa, depois solta com outra
+ respiração fraca.) Ele também tem... dificuldade... em respirar. Ele respira através de um... tanque de oxigênio.}
+{651}{}{Tanque de oxigênio, hein? Hmmmm. Muito bem.}
+{652}{}{Voltarei quando ele estiver morto, Senhor Mordino.}
+{660}{}{Louis Salvatore continua vivo. Por que você voltou?}
+{661}{}{(Uma gota de suor escorre pelo rosto de Mordino.) Você fez o que eu pedi? Louis Salvatore está morto?}
+{662}{}{Está morto. Sua família está vingada, Senor Mordino.}
+{663}{}{Voltarei quando o tiver matado.}
+{664}{}{Salvatore é muito bem protegido. Vou ter que cancelar este trabalho.}
+{670}{}{Se você... fugir desse trabalho, eu vou te matar... MATAR.}
+{671}{}{Já que é dessa forma, eu retornarei quando ele estiver morto.}
+{672}{}{Tente qualquer coisa e você se juntará aos Mordinos que foram massacrados pelos Salvatores.}
+{680}{}{Então eu ouvi. (Acena respeitosamente.) Você fez... bem. Minha fé em você não era atoa. Aqui esta o seu
+ pagamento. Quinhentas... tampas.}
 {681}{}{Obrigado.}
-{682}{}{That'll do... for now.}
-{683}{}{And... armor and a weapon you may find... useful.}
-{690}{}{(Nods.) Your success... pleases me. I would welcome you into the Family Mordino. (Clasps your shoulders.) Will
- you join our family? Your strength shall be... our strength.}
-{691}{}{It would please me to become a member of Family Mordino.}
-{692}{}{I can't join the Mordinos. But don't get me wrong, Big Jesus: It was a pleasure working with you.}
-{693}{}{I don't want to join, thanks. I've got a village I have to save first.}
-{700}{}{(Nods.) I'm sorry that is your choice. As I said, your success pleases me... I would hate for your skills
- to be used by one of my... competitors. (Motions to his guards, who reach for their weapons.)}
-{710}{}{That is good. Do you have... a name by which you wish to be called? All Mordinos... all Reno... shall
- know this name.}
-{711}{}{Yeah, how about...}
-{720}{}{... that is a good name. (Nods.) The Mordino name has... weight in New Reno. Visit... the Cat's Paw... New Reno Arms... and
- tell them you are of my family... they will treat you well.}
-{730}{}{(Stares at you for a long time, then squints in confusion.) Why... do you ask me this? I have... HEARD what happened. (Wipes
- his brow.) The boy took too much Jet and died.}
-{731}{}{That's the problem. The Mordinos are the biggest suppliers of Jet in New Reno. That makes you the ones who will
- take the blame.}
-{732}{}{Do you know where he got the Jet?}
-{733}{}{All right then. Just asking. I had some other questions...}
-{734}{}{I see. I think I better be going.}
-{740}{}{(Wheezes, wipes more sweat from his forehead.) If the Wrights had the... SENSE they were born with, they would... know
- we are not the only family with Jet in New Reno. We... do NOT kill children.}
-{741}{}{Just adults, huh? I mean, Jet takes a while to kill someone, but it works, right?}
-{742}{}{Somebody else might, and they might blacken the Mordino name. You know who might have sold Richard the Jet
- that killed him?}
+{682}{}{Isso serve.. por enquanto.}
+{683}{}{E... armadura e uma arma que você pode achar... útil.}
+{690}{}{(Acena.) Seu sucesso... me agrada. Você é bem vindo na Família Mordino. (Aperta seus ombros.) Você vai se juntar
+ à nossa família? Sua força será... nossa força.}
+{691}{}{Gostaria de me tornar um membro da Família Mordino.}
+{692}{}{Não posso me juntar aos Mordinos. Mas não me entenda mal, Grande Jesus: Foi um prazer trabalhar com você.}
+{693}{}{Não quero participar, obrigado. Primeiro tenho uma aldeia que preciso salvar.}
+{700}{}{(Acena com a cabeça.) Lamento que a escolha seja sua. Como eu disse, seu sucesso me agrada... Eu
+ odiaria que suas habilidades fossem usadas por um dos meus... concorrentes. (Aponta para seus guardas, que pegam suas armas.)}
+{710}{}{Isso é bom. Você tem... um nome pelo qual deseja ser chamado? Todos os Mordinos... todos
+ Reno... devem conhecer este nome.}
+{711}{}{Sim, que tal...}
+{720}{}{... é um bom nome. (Acena.) O nome Mordino tem... peso em New Reno. Visite... a Garra do Gato... Armas de New Reno... 
+ e diga a eles que você é da minha família... eles vão te tratar bem.}
+{730}{}{(Olha para você por um longo tempo, depois aperta os olhos, confuso.) Por que... você me pergunta isso? Eu... OUVI o que aconteceu.
+ (Enxuga a testa.) O moleque tomou Jet demais e morreu.}
+{731}{}{Esse é o problema. Os Mordinos são os maiores fornecedores de Jet em New Reno. Isso faz de vocês os únicos que
+ vão levar a culpa.}
+{732}{}{Você sabe onde ele conseguiu o Jet?}
+{733}{}{Tudo bem então, só perguntando. Eu tenho outras perguntas...}
+{734}{}{Entendo. Acho melhor eu ir.}
+{740}{}{(Respira, enxuga mais suor da testa.) Se os Wrights tivessem... SENSO COMUM, então... eles saberiam que não somos a
+ única família que fornece Jet em New Reno. Nós… NÃO matamos crianças.}
+{741}{}{Só adultos, né? Quero dizer, Jet leva um tempo para matar alguém, mas funciona, certo?}
+{742}{}{Alguém mais poderia, e eles podem manchar o nome Mordino. Sabe quem mais pode ter vendido Jet para o Richard?}
 {743}{}{Eu vejo. Olhe, eu tenho algumas outras perguntas…}
-{744}{}{Thanks for the information, Senor Mordino. I must be going now.}
-{750}{}{(Shakes head.) I... know little of the lives of pushers in Reno. (Takes a raspy breath, coughs slightly.) You... might ask
- my son... in the casino, below.}
+{744}{}{Obrigado pela informação, Senhor Mordino. Preciso ir agora.}
+{750}{}{(Balança a cabeça.) Eu... sei pouco sobre a vida dos traficantes em Reno. (Respira com dificuldade, tosse levemente.)
+ Você... pode perguntar ao meu filho... no cassino, abaixo.}
 {751}{}{Eu vou. Eu tinha algumas perguntas...}
-{752}{}{I will. Thanks, Senor Mordino.}
-{760}{}{The temperature does not... agree with me. My breathing is... sometimes difficult. In times of stress or other physical
- activity, I tire quickly. Sometimes, I have chest pains.}
-{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
-{762}{}{I see. I better be going now.}
-{770}{}{I do not know you... you come to me... without anyone's word to give your offer... weight. (Wipes his brow, then takes
- a deep, rattling breath.) I have NO work for you.}
-{771}{}{C'mon, give me a chance. Give me a job, any job... I can do it.}
-{780}{}{Not everyone at the Stables... KNOWS they are test subjects.}
-{781}{}{Uh... come again?}
-{782}{}{Oh. Uh, about my payment then...}
-{790}{}{Ramirez let... four slaves escape last month. (Shakes his head slightly.) That is not good. Within the
- hour, the Jet you gave Ramirez will stop his... heart. It is PUNISHMENT.}
-{792}{}{You used me to KILL that guy? That's it, Jesus, I'm outta here.}
-{850}{}{You have collected Big Jesus's tribute.}
-{875}{}{You have assassinated Big Jesus.}
-{900}{}{You have become a made man of the Mordino family.}
-{925}{}{You have completed the contract hit for Big Jesus.}
+{752}{}{Eu irei. Obrigado, senhor Mordino.}
+{760}{}{O calor não... me ajuda. Minha respiração é... às vezes difícil. Em momentos de estresse ou outra atividade física, me
+ canso rápido demais. Às vezes, tenho dores no peito.}
+{761}{}{Mesmo? Bem, é bom que você não tome metanfetaminas ou estimulantes, então. Eu tinha outras perguntas...}
+{762}{}{Entendo. É melhor eu ir agora.}
+{770}{}{Eu não te conheço... você vem até mim... sem nada a dizer que tenha... peso. (enxuga a testa, depois respira fundo e
+ ruidosamente) Não tenho trabalho para você.}
+{771}{}{Vamos, me dê uma chance. Me de um trabalho, qualquer um... Eu posso fazer isso.}
+{780}{}{Nem todo mundo nos estábulos... SABE que eles são cobaias.}
+{781}{}{Uh... de novo?}
+{782}{}{Oh. Uh, então... sobre o meu pagamento...}
+{790}{}{Ramirez deixou... quatro escravos escaparem mês passado. (balança ligeiramente a cabeça.) Isso
+ não é bom. Dentro de uma hora, o Jet que você deu a Ramirez vai parar seu... coração. É PUNIÇÃO.}
+{792}{}{Você me usou para MATAR aquele cara? É isso, Jesus, estou fora daqui.}
+{850}{}{Você coletou o tributo do Grande Jesus.}
+{875}{}{Você assassinou o Grande Jesus.}
+{900}{}{Você se tornou um iniciado da família Mordino.}
+{925}{}{Você completou o contrato para Big Jesus.}
 {1278}{}{Falei com seu filho, Senhor Mordino. Sou um escravista e estou procurando trabalho.}
 {1291}{}{Muito bem. Você está interessado em comprar algum escravo?}
-{1621}{}{Well... all right then. I'll do it.}
-{5268}{}{?!! Then COME GET SOME, YOU FAT SON OF A B--}
+{1621}{}{Bem... tudo bem então. Eu faço isso.}
+{5268}{}{?!! ENTÃO VEM PEGAR, SEU GORDO FILHO DA P--}

@@ -11,7 +11,7 @@
 {280}{}{Sir, I'm sorry, you'll have to secure that weapon.}
 {290}{}{Ma'am, I'm sorry, you'll have to secure that weapon.}
 {300}{}{Honey, I'm sorry, you can't carry weapons into the casino. [Smiles.] You're deadly enough as it is.}
-{310}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
+{310}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
 {320}{}{Tribal, you better secure that weapon right *now.*}
 {330}{}{Tribal, you better stop that sneaking around shit right *now.*}
 {340}{}{[To Myron] Hey, hey... Myron! Ain't seen you outside the lab in a long time.}

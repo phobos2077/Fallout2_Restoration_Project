@@ -44,7 +44,7 @@
 {223}{}{And I think it's gonna be a long, long time...}
 {224}{}{::Ooooooh::}
 {225}{}{::Cries::}
-{226}{}{::Coughs::}
+{226}{}{::Tosse::}
 {227}{}{::Scratches self::}
 {228}{}{::Mumbles to self::}
 {229}{}{Can't... can't keep going on like... this...}

@@ -25,9 +25,9 @@
 {245}{}{Sir, I'm sorry, you'll have to secure that weapon.}
 {250}{}{Ma'am, I'm sorry, you'll have to secure that weapon.}
 {255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh... you're deadly enough as it is.}
-{260}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
-{265}{}{Tribal, you better secure that weapon right NOW.}
-{270}{}{Tribal, you better stop that sneaking around shit right NOW.}
+{260}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
+{265}{}{Tribal, é melhor você guardar essa arma AGORA.}
+{270}{}{Tribal, é melhor você parar com essa merda AGORA.}
 {275}{}{Hey, hey... Myron! Ain't seen you outside the lab in a long time.}
 {276}{}{You here to sample some of the new merchandise, Myron?}
 {277}{}{Hey! Come on in, Myron.}

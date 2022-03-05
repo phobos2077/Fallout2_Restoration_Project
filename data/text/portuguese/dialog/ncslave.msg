@@ -36,7 +36,7 @@
 {197}{}{You see a female slave. She is shivering slightly, and her body is covered with lash marks.}
 {200}{}{::Snnnffff::}
 {201}{}{::Huhhhhk::}
-{202}{}{::Coughs::}
+{202}{}{::Tosse::}
 {203}{}{::Scratches self.::}
 {204}{}{::Brushes away flies::}
 {210}{}{::Snnnffff::}

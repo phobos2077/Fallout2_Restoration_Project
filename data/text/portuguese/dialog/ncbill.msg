@@ -1,22 +1,22 @@
-{100}{}{You see Bill.}
-{150}{}{You see a withered man with bushy white eyebrows. He looks like he needs a drink.}
-{200}{}{::Coughs::}
-{201}{}{::Stares at bartender::}
-{202}{}{::Gestures for another drink::}
-{203}{}{::Glares::}
-{210}{}{Get lost, stupid.}
-{220}{}{(The man doesn't even glance up as you approach him. He is staring at the wall behind the bar.)}
-{221}{}{Uh, hey, heard any good rumors?}
-{222}{}{Hey, what do you think of these new glasses I'm wearing?}
-{223}{}{Hey, you ever kill anybody?}
-{224}{}{(Leave him alone.)}
-{230}{}{What kind of an asshole question is that?}
-{231}{}{Whoa. Back up. Just curious.}
-{232}{}{Okay, well never mind then.}
-{240}{}{Back up yerself.}
-{241}{}{Not before I beat the living crap out of you.}
-{250}{}{(The man turns his glare on you.) You look like an idiot.}
-{251}{}{Whoa. Back up. I was just asking for your opinion.}
+{100}{}{Você vê Bill.}
+{150}{}{Você vê um homem velho com sobrancelhas brancas e espessas. Parece que ele precisa de uma bebida.}
+{200}{}{::Tosse::}
+{201}{}{::Olha para o barman::}
+{202}{}{::Gestos para pedir outra bebida::}
+{203}{}{::Olhar hostil::}
+{210}{}{Desapareça, idiota.}
+{220}{}{(O homem nem te olha quando você se aproxima dele. Ele está olhando para a parede atrás do bar.)}
+{221}{}{Uh, ei, ouviu algum rumor ultimamente?}
+{222}{}{Ei, o que você acha desses novos óculos que estou usando?}
+{223}{}{Ei, você já matou alguém?}
+{224}{}{(O deixa em paz.)}
+{230}{}{Que tipo de pergunta idiota é essa?}
+{231}{}{Ei, calma lá. Eu só estava curioso.}
+{232}{}{Ok, bem, não importa então.}
+{240}{}{Se cuida.}
+{241}{}{Não antes de eu acabar com você.}
+{250}{}{(O homem volta seu olhar para você.) Você parece um idiota.}
+{251}{}{Ei, calma lá. Só estava pedindo sua opinião.}
 {252}{}{Uh... Obrigado pela honestidade, Então.}
-{260}{}{(Gestures for you to shut up and let him drink.)}
-{261}{}{(Leave him alone.)}
+{260}{}{(Gestos para você ficar na sua e deixá-lo beber.)}
+{261}{}{(O deixa em paz.)}
