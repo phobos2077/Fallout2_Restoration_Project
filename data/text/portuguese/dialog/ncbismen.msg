@@ -63,9 +63,9 @@
 {316}{}{Tire esse robô daqui antes que ele vire alguma lata de lixo.}
 {317}{}{Aquele robô vai virar peças de reposição se ficar aqui.}
 {320}{}{I *thought* I smelled mutant. You better get his yellow ass outta here.}
-{321}{}{You and your mutant friend looking to get shot? Beat it.}
-{322}{}{That mutant better get outta here right now, or we'll be mounting his head on a wall.}
-{325}{}{Catch the fight last night?}
+{321}{}{Você e seu amigo mutante querem levar um tiro? Vaza.}
+{322}{}{É melhor esse mutante sair daqui agora, ou vamos pregar a cabeça dele na parede.}
+{325}{}{Viu a luta de ontem a noite?}
 {326}{}{I'm hitting the Cat's Paw after work.}
 {330}{}{I thought the President was a myth, a boogey man used to scare children.}
 {331}{}{Parece que você voltou do inferno. Relaxe um pouco. Você merece.}
@@ -188,17 +188,17 @@
 {1220}{}{, what's shaking?}
 {1221}{}{, what you been up to?}
 {1222}{}{! You been staying outta trouble?}
-{1228}{}{ family is a bunch of pussies. What you think about that?}
-{1229}{}{. Now.}
-{1230}{}{. Ain't your family gonna be missing you?}
-{1231}{}{ had time to do much more than kiss their bosses' ass.}
-{1236}{}{ family is a bunch of pussies. Now I see it's true.}
-{1252}{}{! You can't be showing weapons in here, awright?}
-{1260}{}{. You taking care of yourself?}
-{1261}{}{. What's up?}
-{1266}{}{! You can't be showing weapons in here, awright?}
-{1267}{}{! Put that weapon away.}
-{1269}{}{! You can show your tits, but you can't show weapons in here, awright?}
+{1228}{}{ família é um bando de boiolas. O que você pensa sobre isso?}
+{1229}{}{. Agora.}
+{1230}{}{. Sua família não vai sentir sua falta?}
+{1231}{}{ Ele não tinha tempo para fazer muito mais do lamber as bolas de seus chefes.}
+{1236}{}{ família é um bando de boiolas. Agora vejo que é verdade.}
+{1252}{}{! Você não pode ter armas à vista aqui, certo?}
+{1260}{}{. Você está se cuidando?}
+{1261}{}{. E aí?}
+{1266}{}{! Você não pode ter armas à vista aqui, certo?}
+{1267}{}{! Guarde essa arma.}
+{1269}{}{! Você pode mostrar seus peitos, mas não pode mostrar armas aqui, certo?}
 {1280}{}{!}
 {1350}{}{. What's going on?}
 {1351}{}{. What's shaking?}

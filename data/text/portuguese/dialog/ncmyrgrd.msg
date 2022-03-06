@@ -36,15 +36,15 @@
 {305}{}{What happened to Myron?}
 {310}{}{Myron still sleeping it off?}
 {311}{}{I'm bored.}
-{312}{}{Catch the fight last night?}
+{312}{}{Viu a luta de ontem a noite?}
 {313}{}{Can't wait until this shift is over.}
 {320}{}{Help you with somthin', amigo? This area's off-limits.}
 {321}{}{Well, well, well... we got us a star in our midst. You got an appointment with Myron, chica?}
 {322}{}{Help you with somthin', chica? This area's off-limits.}
 {323}{}{(The guard smiles, looks you up and down.) Got an appointment with Myron, chica?}
-{324}{}{Me want world peace}
+{324}{}{Quero a paz mundial}
 {325}{}{Me want to go past door}
-{326}{}{Hoo Yoo}
+{326}{}{Quem você.}
 {327}{}{Cai fora}
 {328}{}{Off-Limits? What's behind that door?}
 {329}{}{I'm here to see Myron.}
@@ -55,13 +55,13 @@
 {334}{}{Sorry, wrong room. I'll be going now.}
 {350}{}{You escape from your stall, slave? Maybe you better get your ass back upstairs before we put you in one
  of the cages.}
-{351}{}{ME WANT WORLD PEACE ME WANT WORLD PEACE}
+{351}{}{EU QUERO PAZ MUNDIAL EU QUERO PAZ MUNDIAL}
 {352}{}{ME SAY ME WANT TO GO PAST DOOR}
-{353}{}{HOO YOO}
+{353}{}{QUEM VOCÊ.}
 {354}{}{[Shamble off]}
 {360}{}{(Readies weapon.) I'm gonna enjoy this. I ain't beaten a slave for at least an hour...}
 {361}{}{(Readies weapon.) I'm gonna enjoy this. I ain't killed no one for two days...}
-{362}{}{YOO ONE WHO GET HURT}
+{362}{}{VOCÊ SERÁ UMA PESSOA FERIDA.}
 {363}{}{ SMASH}
 {364}{}{[Try and run.]}
 {365}{}{Pal, you're about to get the ass whipping of a life time.}

@@ -59,87 +59,87 @@
 {336}{}{Tire esse robô daqui antes que ele vire alguma lata de lixo.}
 {337}{}{Aquele robô vai virar peças de reposição se ficar aqui.}
 {345}{}{Eu *pensei* que cheirava mutante. É melhor tirar esse traseiro amarelo dele daqui. Agora.}
-{346}{}{You and your mutant friend looking to get shot? Beat it.}
-{347}{}{That mutant better get outta here right now, or we'll be mounting his head on a wall.}
-{355}{}{I *thought* I smelled something rotting. Get that ghoul outta here.}
+{346}{}{Você e seu amigo mutante querem levar um tiro? Vaza.}
+{347}{}{É melhor esse mutante sair daqui agora, ou vamos pregar a cabeça dele na parede.}
+{355}{}{Eu *pensei* ter sentido cheiro de algo podre no ar. Tire esse ghoul daqui.}
 {356}{}{Tire esse ghoul fedorento daqui. Agora.}
 {357}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
-{365}{}{Catch the fight last night?}
-{366}{}{I'm hitting the bar after work.}
-{370}{}{You can go up if you want. Bishop got whacked, so you can use the pool, too.}
-{375}{}{What d'you want, pal? Make it quick.}
-{376}{}{What d'you want, hon? Make it quick.}
-{377}{}{You again. What the hell d'you want now?}
-{378}{}{Me want world peace}
-{379}{}{Me want to go up stairs}
-{380}{}{Hoo Yoo}
+{365}{}{Viu a luta de ontem a noite?}
+{366}{}{Vou para o bar depois do trabalho.}
+{370}{}{Pode subir se quiser. Bishop foi derrotado, você também pode usar a mesa de bilhar se quiser.}
+{375}{}{O que quer, amigo? Seja rápido.}
+{376}{}{O que quer, querida? Seja rápida.}
+{377}{}{Você outra vez. O que foi agora?}
+{378}{}{Quero a paz mundial}
+{379}{}{Eu quero subir escadas}
+{380}{}{Quem você.}
 {381}{}{Sair andando}
-{382}{}{What's up those stairs?}
-{383}{}{I'm here to see Mr. Bishop.}
-{384}{}{I'm here to see Mr. Bishop. I have a suitcase for him from Mr. Moore.}
-{385}{}{Sorry, I seem to have taken a wrong turn. I'll be going now.}
-{390}{}{You got some business upstairs, pal?}
-{391}{}{You got some business upstairs, honey?}
-{405}{}{Boy, you are one stupid son of a bitch, aren'tcha? }
-{406}{}{Boy, you are one stupid bitch, aren'tcha? }
-{407}{}{Look, get out of here before we beat the rest of your brains outta you.}
-{408}{}{ME WANT WORLD PEACE ME WANT WORLD PEACE}
-{409}{}{ME SAY ME WANT TO GO UP STAIRS}
-{410}{}{HOO YOO}
-{411}{}{[Shamble off.]}
-{412}{}{Let me pass.}
-{414}{}{All right. I'm leaving.}
-{420}{}{Dipshit, you just earned yourself a ticket to a world of hurt.}
-{421}{}{Bitch, you just earned yourself a ticket to a world of hurt.}
-{422}{}{YOO ONE WHO GET HURT}
-{423}{}{ only want to be left ALONE but WORLD hurt }
+{382}{}{O que tem naquelas escadas?}
+{383}{}{Estou aqui para ver o Sr. Bishop.}
+{384}{}{Estou aqui para ver o Sr. Bishop. Tenho uma mala para ele do Sr. Moore.}
+{385}{}{Desculpe, parece que fui para o caminho errado. Estou indo.}
+{390}{}{Tem alguns negócios lá em cima, amigo?}
+{391}{}{Tem alguns negócios lá em cima, querida?}
+{405}{}{Mano, você é um puta de um estúpido, né não? }
+{406}{}{Mano, você é uma vadia estúpida, né não? }
+{407}{}{Ok, saia daqui antes que a gente arranque o resto dos seus miolos.}
+{408}{}{EU QUERO PAZ MUNDIAL EU QUERO PAZ MUNDIAL}
+{409}{}{DIGO QUE EU QUERO SUBIR ESCADAS}
+{410}{}{QUEM VOCÊ.}
+{411}{}{[Desmorona.]}
+{412}{}{Me deixe passar.}
+{414}{}{Tudo bem. Estou saindo.}
+{420}{}{Idiota, você acabou de ganhar uma passagem para casa do caralho.}
+{421}{}{Vaca, você acabou de ganhar uma passagem para a casa do caralho.}
+{422}{}{VOCÊ SERÁ UMA PESSOA FERIDA.}
+{423}{}{ ele quero ficar SOZINHO mas o MUNDO dói }
 {424}{}{ so }
-{425}{}{ SMASH PUNY HUMANS}
-{426}{}{[Scream and dive for cover.]}
-{427}{}{[Go silent, brace yourself, and get ready to do some damage.]}
-{428}{}{You want some of THIS, boys?! YOU WANT SOME?! Then come GET some, you pathetic SONS OF
- BIT --}
-{435}{}{If you don't know, then you don't NEED to know. Now blow.}
-{445}{}{Well, that's too damn bad, cuz Bishop took the road to the sky not too long ago. Now beat it.}
-{446}{}{You deaf? John Friggin' Bishop is friggin' DEAD, awright? Now get outta here before you join him.}
-{447}{}{Look, I need to go upstairs, just for a second.}
-{448}{}{Okay, I'm leaving.}
-{455}{}{No, I know Mr. Bishop's schedule, and you ain't on it.}
-{456}{}{He's expecting me. Tell him I'm here.}
+{425}{}{ ESMAGAR HUMANO FRACO}
+{426}{}{[Grita e busca uma cobertura.]}
+{427}{}{[Você silenciosamente se prepara para causar algum dano.]}
+{428}{}{Você querem um pouco disso, gracinhas?! QUER ALGUM?! Então venha pegar um pouco, seus patéticos
+ FILHOS DA PUT--}
+{435}{}{Se você não sabe, você não PRECISA saber. desapareça.}
+{445}{}{Bem, isso não é bom, Bishop pegou a estrada para o céu não muito tempo atrás. Agora saia.}
+{446}{}{Você é surdo? John Friggin' Bishop está MORTO, beleza? Agora saia daqui antes de se juntar a ele.}
+{447}{}{Olha, eu preciso subir, só por um segundo.}
+{448}{}{Ok, estou indo.}
+{455}{}{Não, eu conheço a agenda do Sr. Bishop, e você não está nela.}
+{456}{}{Ele está me esperando. Diga a ele que estou aqui.}
 {458}{}{Tudo bem então. Adeus.}
-{465}{}{Awright, pal. What's yer name? I'll check with the boss.}
-{466}{}{Awright, hon. What's yer name? I'll check with the boss.}
+{465}{}{Certo, amigo. Qual é o seu nome? Vou verificar com o chefe.}
+{466}{}{Certo, querida. Qual é o seu nome? Vou verificar com o chefe.}
 {467}{}{Eu sou }
 {468}{}{.}
-{469}{}{You don't need my name. Just let me see him.}
-{471}{}{Forget it. You don't need to check... I'll be going.}
-{475}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something. He waits for a minute, listens, then turns back to you.) }
-{476}{}{He doesn't know you. Piss off, pal. You're wasting our time.}
-{477}{}{He doesn't know you. Piss off, hon. You're wasting our time.}
-{478}{}{Let me see him. Now.}
-{479}{}{Tell him I have a suitcase for him... from Mr. Moore.}
-{480}{}{Forget it then.}
-{490}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something.
- He waits for a minute, listens, then turns back to you and shrugs.) He says you can head on up.}
+{469}{}{Você não precisa do meu nome. Só me deixe vê-lo.}
+{471}{}{Esqueça. Você não precisa ver nada... Estou indo.}
+{475}{}{(O guarda se afasta por um momento, abre um painel em uma das paredes e sussurra algo. Ele espera um minuto, escuta e depois se vira para você.) }
+{476}{}{Ele não te conhece. Vaza, amigo. Você está desperdiçando nosso tempo.}
+{477}{}{Ele não te conhece. Vaza, querida. Você está desperdiçando nosso tempo.}
+{478}{}{Me deixe vê-lo. Agora.}
+{479}{}{Diga que tenho uma mala para ele... do Sr. Moore.}
+{480}{}{Esqueça, então.}
+{490}{}{(O guarda se afasta por um momento, abre um painel em uma das paredes e sussurra alguma coisa.
+ Ele espera um minuto, ouve, depois se vira para você e dá de ombros.) Ele diz que você pode subir.}
 {491}{}{Tudo certo.}
 {495}{}{Ei, }
 {496}{}{! }
-{497}{}{Mr. Bishop 'xpecting you?}
-{498}{}{Yes. Can I head on up? We have business to discuss.}
-{499}{}{No, not right now. Take care, guys.}
-{505}{}{Sure, go on up, }
+{497}{}{O Sr. Bishop te espera?}
+{498}{}{Sim. Posso subir? Temos alguns negócios a discutir.}
+{499}{}{Não, agora não. Cuidem-se, rapazes.}
+{505}{}{Claro, suba, }
 {506}{}{. }
-{507}{}{Next time, don't even sweat asking... just head on up.}
+{507}{}{Da próxima vez, nem se preocupe em perguntar... apenas suba as escadas.}
 {508}{}{Obrigado.}
-{1228}{}{. Now.}
-{1229}{}{. Ain't your family gonna be missing you?}
-{1230}{}{ family is a bunch of pussies. What you think about that?}
-{1231}{}{ had time to do much more than kiss their bosses' ass.}
-{1236}{}{ family is a bunch of pussies. Now I see it's true.}
-{1247}{}{! You can't be showing weapons in here, awright?}
-{1265}{}{. You taking care of yourself?}
-{1266}{}{. What's up?}
-{1276}{}{! You can't be showing weapons in here, awright?}
-{1277}{}{! Put that weapon away.}
-{1279}{}{! You can show your tits, but you can't show weapons in here, awright?}
+{1228}{}{. Agora.}
+{1229}{}{. Sua família não vai sentir sua falta?}
+{1230}{}{ família é um bando de boiolas. O que você pensa sobre isso?}
+{1231}{}{ Ele não tinha tempo para fazer muito mais do lamber as bolas de seus chefes.}
+{1236}{}{ família é um bando de boiolas. Agora vejo que é verdade.}
+{1247}{}{! Você não pode ter armas à vista aqui, certo?}
+{1265}{}{. Você está se cuidando?}
+{1266}{}{. E aí?}
+{1276}{}{! Você não pode ter armas à vista aqui, certo?}
+{1277}{}{! Guarde essa arma.}
+{1279}{}{! Você pode mostrar seus peitos, mas não pode mostrar armas aqui, certo?}
 {1290}{}{!}

@@ -522,7 +522,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {554}{}{My apologies, First Citizen. Good day.}
 {555}{lyn086}{I believe it is time you left. I suggest you make your stay in Vault City a short one.}
 {556}{}{Before I go, I had some more questions...}
-{557}{}{All right. I'm leaving.}
+{557}{}{Tudo bem. Estou saindo.}
 {558}{lyn087}{Moore? He's a troublemaker. THAT'S what he is.}
 {559}{}{You're right. He's got... outside interests.}
 {560}{}{Why do you say he's a troublemaker?}
@@ -609,7 +609,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {630}{}{Entendido. Posso fazer mais algumas perguntas?}
 {631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a drug overdose,
  mauled by a brahmin... any of a number of things can happen in this dangerous world.}
-{632}{}{All right. I'm leaving.}
+{632}{}{Tudo bem. Estou saindo.}
 {633}{}{Very well, First Citizen. Good day.}
 {634}{lyn101}{This is not conduct of a Citizen! I am revoking your Citizenship. My guards will show you to the front gate.}
 {635}{}{Your guards won't get here in time to save your life... "First Citizen."}

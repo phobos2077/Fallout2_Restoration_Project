@@ -1,51 +1,51 @@
-{100}{}{You see Mr. Bishop.}
-{150}{}{You see a powerful-looking middle-aged man.}
-{151}{}{You see Mr. Bishop. He looks grim.}
-{200}{}{You got some balls coming in here. }
-{201}{}{You got some balls. }
-{202}{}{Why didn't you just tack a sign on your chest that says, 'dumb mother fucker?' }
-{203}{}{Eat lead, you }
-{204}{}{ bastard.}
-{205}{}{Eat lead, you stupid son of a bitch.}
-{206}{}{Eat lead, bitch.}
-{207}{}{Me not LIKE lead taste gross}
+{100}{}{Você vê o Sr. Bishop.}
+{150}{}{Você vê um homem de meia-idade com aparência forte.}
+{151}{}{Você vê o Sr. Bishop. Ele parece sombrio.}
+{200}{}{Você mostra que tem coragem vindo aqui. }
+{201}{}{Você tem coragem, é claro. }
+{202}{}{Por que você não prega uma placa no seu peito que diz 'filho da puta idiota?' }
+{203}{}{engula chumbo, }
+{204}{}{ desgraçado.}
+{205}{}{Engole essa bala, seu estúpido filho da puta.}
+{206}{}{Engula bala, vadia.}
+{207}{}{Eu não GOSTO de chumbo, tem gosto nojento}
 {208}{}{Desliga}
-{209}{}{If that's what you want carved on your tombstone, so be it...}
-{210}{}{Poor choice of last words.}
-{211}{}{[Run for it.]}
-{220}{}{What th --? Who are you and what the HELL do you want?}
+{209}{}{Se é isso que você quer escrito em sua lápide, que seja...}
+{210}{}{Péssima escolha de últimas palavras.}
+{211}{}{[Você tenta fugir]}
+{220}{}{O que...? Quem é você e o que DIABOS você quer?}
 {221}{}{Eu}
 {222}{}{.}
-{223}{}{Me Whoo?}
+{223}{}{Eu queeem?}
 {224}{}{Cai fora}
-{225}{}{I am a warrior on a holy quest to retrieve the Garden of Eden Creation Kit. Do you know where I might find it?}
-{226}{}{I'm looking for a Garden of Eden Creation Kit. Can you help me?}
-{227}{}{I'm looking for a place called Vault 13. Have you heard of it?}
-{228}{}{I thought you might have some more work for me.}
-{229}{}{Sorry -- wrong room.}
-{240}{}{(Studies you.) Even under all that get-up, you still look like one of them tribals... (Snorts.) The boys said you got a
- briefcase for me. From a mutual "acquaintance." Let's see it.}
+{225}{}{Eu sou um guerreiro em uma missão sagrada para recuperar o Kit de Criação do Jardim do Éden. Você sabe onde posso encontrar?}
+{226}{}{Estou procurando um Kit de Criação do Jardim do Éden. Pode me ajudar?}
+{227}{}{Estou procurando por um lugar chamado Vault 13. Você já ouviu disso?}
+{228}{}{Achei que você poderia ter mais algum trabalho para mim.}
+{229}{}{Desculpe - quarto errado.}
+{240}{}{(Estuda você.) Mesmo com toda essa roupa, você ainda parece um daqueles tribais... (bufa.) Os meninos disseram
+ que você tem uma maleta para mim. De um "conhecido" em comum. Vamos ver.}
 {241}{}{Aqui está.}
-{242}{}{Uh... funny thing, that... seems like somewhere from the door to here I misplaced it.}
-{243}{}{Actually, I'd like to hold onto it. I'll bring it back in a while.}
-{250}{}{(Opens briefcase, checks contents, snaps case shut.) It's from Moore, all right. 'Cept this note in here says
- you can't be trusted farther than a snake can shit. You done walked into the WRONG room, tribal.}
-{251}{}{(Opens briefcase, checks contents, snaps case shut.) It's from Moore, all right. Says you check out, tribal. Lucky
- for you...(Smiles.)...you come in here with a bad rep, and you're asking for a quick trip to the sky.}
-{252}{}{Maybe so, but I'm going to be the only one walking out.}
-{253}{}{Well, I delivered the case like Moore asked... now about the payment...?}
-{254}{}{I'm curious. What's in the briefcase?}
-{255}{}{Glad everything's in order... look, I've got to be going.}
-{265}{}{Hold your horses, tribal... we ain't even discussed payment yet. }
-{266}{}{Hold your horses, tribal... I have some questions for you first. }
-{267}{}{(Studies you.) So... where do YOU know Moore from? He trying to play politics amongst the tribes now? Ha! That boy missed
- his calling.}
-{268}{}{I met him in Vault City, spreading the word. I offered to help him out by delivering this briefcase to you.}
-{269}{}{I just happened to run across him during my travels. I offered to help him out by delivering this briefcase to you.}
-{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
- do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
-{276}{}{He does preach a lot. Still, he seems to make a lot of sense.}
-{277}{}{He does have a certain... way with words.}
+{242}{}{Uh... que engraçado, isso... parece que em algum lugar da porta até aqui eu perdi.}
+{243}{}{Na verdade, eu gostaria de ficar com isso. Eu trago para você mais tarde.}
+{250}{}{(Abre a mala, verifica o conteúdo, fecha a mala.) É de Moore, tudo bem. — Exceto por esta nota que diz
+ que você não pode ser confiável mais do que ver uma cobra cagando. Entrou na sala ERRADA, tribal.}
+{251}{}{(Abre a mala, verifica o conteúdo, fecha a mala.) É de Moore, tudo bem. Diz que você foi investigado, tribal.
+ Sorte sua... (Sorri.)... se você viesse aqui com uma má reputação eu já teria te comprado uma passagem para o céu.}
+{252}{}{Talvez sim, mas eu vou ser o único a sair.}
+{253}{}{Bem, eu entreguei a mala como Moore pediu... agora sobre o pagamento...?}
+{254}{}{Estou curioso. O que tem na maleta?}
+{255}{}{Ainda bem que está tudo em ordem... olha, preciso ir.}
+{265}{}{Aperta o freio, tribal... ainda nem discutimos o pagamento. }
+{266}{}{Aperta os freio, tribal... Eu tenho algumas perguntas para você primeiro. }
+{267}{}{(Estuda você.) Então... de onde VOCÊ conhece Moore? Ele está tentando fazer política entre as tribos agora? Ah! Aquele
+ menino se confundiu de profissão.}
+{268}{}{Eu o conheci em Vault City, espalhando a palavra. Eu me ofereci para ajudá-lo entregando esta pasta para você.}
+{269}{}{Cruzei com ele durante minhas viagens. Eu me ofereci para ajudá-lo entregando esta pasta para você.}
+{275}{}{Heh... maldito humano é você... apesar de toda a sua pregação, o velho Tomcat Moore não consegue sair de seu caixote o tempo
+ suficiente para tentar fazer qualquer trabalho braçal. Heh... ainda assim, isso não o torna diferente de qualquer outro garoto da NCR.}
+{276}{}{Ele prega muito. Ainda assim, parece fazer muito sentido.}
+{277}{}{Ele tem um certo... talento com as palavras.}
 {278}{}{Yeah, well, at some point the work's gotta be done, and they call me to make sure things get delivered... like
  that briefcase.}
 {285}{}{(To himself.) 'Course, being able to whip a crowd into a frenzy ain't too bad if you're going into politics...
