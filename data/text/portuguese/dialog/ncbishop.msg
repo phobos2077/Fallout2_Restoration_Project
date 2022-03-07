@@ -46,63 +46,63 @@
  suficiente para tentar fazer qualquer trabalho braçal. Heh... ainda assim, isso não o torna diferente de qualquer outro garoto da NCR.}
 {276}{}{Ele prega muito. Ainda assim, parece fazer muito sentido.}
 {277}{}{Ele tem um certo... talento com as palavras.}
-{278}{}{Yeah, well, at some point the work's gotta be done, and they call me to make sure things get delivered... like
- that briefcase.}
-{285}{}{(To himself.) 'Course, being able to whip a crowd into a frenzy ain't too bad if you're going into politics...
- (Studies you suspiciously.) You ain't NCR, too, are you? Tomcat's about the only one of them I can stand for the moment.}
-{286}{}{Yeah, I'm from the NCR, too. It's not the best, but it's a living. I'm pretty much a free agent.}
-{287}{}{No, I'm just a traveler. I agreed to help Moore out because I needed work.}
-{295}{}{(Nods at case.) Well, this briefcase was worth it. A little slice of Vault City inside, some of that precious
- tech that frigid bitch Lynette doesn't want to part with... but hey, tribal, I ain't paid you yet. Here's your cut.}
-{296}{}{Say... I don't have any other jobs lined up at the moment. Do you have any work for me?}
+{278}{}{Sim, bem, em algum momento um trabalho precisa ser feito, e eles me ligam para garantir que as coisas
+ sejam entregues... como aquela maleta.}
+{285}{}{(Para si mesmo.) Claro, ser capaz de levar uma multidão ao frenesi não é tão ruim para quem está entrando
+ na política... (Te estuda com desconfiança.) Você não é  da NCR também, é? Tomcat é o único deles que posso suportar no momento.}
+{286}{}{Sim, também sou da NCR. Não é o melhor, mas é que tem agora. Eu sou praticamente um agente livre.}
+{287}{}{Não, sou apenas um viajante. Concordei em ajudar Moore porque precisava trabalhar.}
+{295}{}{(Acena para a pasta.) Bem, essa maleta valeu a pena. Um pedacinho de Vault City aí dentro, um pouco
+ daquela tecnologia preciosa que aquela vadia frígida da Lynette não quer se separar... mas ei, tribal, eu ainda não paguei. Aqui está a sua parte.}
+{296}{}{Então... Eu não tenho nenhum outro trabalho marcado no momento. Você tem algum trabalho para mim?}
 {297}{}{Sim... obrigado. Viu, eu tenho que ir..}
-{305}{}{No... I ain't got no more work for you... but hey, thanks for all you've done. }
-{306}{}{No... I ain't got nothing for you. Lotta deaths down in NCR recently have made my life a little easier... but hey, thanks
- for the delivery. }
-{307}{}{(Nods at the exit.) Now you go on and get outta here. I got other business to attend to.}
-{308}{}{I deliver that stupid case to you all the way from Vault City, then you give me the brush off? I
- think I'll just take the REST of my payment out of your safe.}
-{309}{}{No, I don't think I'll be leaving just yet. You still got BUSINESS with me... dead man.}
-{310}{}{All right, then. I'm leaving.}
-{315}{}{Hold on a minute there, tribal...(Smiles, taps briefcase.) Ol' Tomcat says you're a team player. I need people like that.
- I got a job for you, if you're interested.}
+{305}{}{Não... eu não tenho mais trabalho... mas, ei, obrigado por tudo que você fez. }
+{306}{}{Não... não tenho nada para você. Muitas mortes na NCR recentemente deixaram minha vida um pouco mais fácil...
+ mas, ei, obrigado pela entrega. }
+{307}{}{(Acena com a cabeça para a saída.) Agora vá e saia daqui. Preciso tratar de outros negócios.}
+{308}{}{Eu venho de Vault City te entregar essa mala maldita para receber um fora de você? Acho
+ que vou tirar o RESTO do meu pagamento do seu cofre.}
+{309}{}{Não, eu não acho que vou sair ainda. Você ainda tem NEGÓCIOS comigo... Cadáver.}
+{310}{}{Tudo bem então. Vou ir embora.}
+{315}{}{Espere um minuto aí, tribal... (Sorri, bate na mala.) O velho Tomcat diz que você trabalha bem em equipe, eu preciso
+ de pessoas assim. Tenho um trabalho para você, se estiver interessado.}
 {316}{}{Eu estou ouvindo.}
-{317}{}{No, I've really got to be heading on.}
-{325}{}{(Checks you out for a moment, then nods.) Yeah... I got a job for you. }
-{326}{}{I have this..."problem" down South in NCR. This fella, Westin, has a big mouth that needs to be shut... permanently.
- Half a grand, easy money.}
-{327}{}{No problem. This Westin is as good as dead.}
-{328}{}{Not interested. Find somebody else.}
-{335}{}{Hold on. I ain't FINISHED telling you everything yet. I want this guy dead, but it can't LOOK like he was aced. Don't put a bullet in his skull, don't stab him to death, don't do ANYTHING that smells of a hit.}
-{336}{}{What? How --}
-{337}{}{That's gonna cost ex --}
-{338}{}{Because...?}
-{345}{}{Because that's the way it HAS to be done. You piss off anyone down there, make them think that I had ANYTHING to
- do with that son of a bitch kicking the bucket, and I'll make sure no one can identify your corpse.}
-{346}{}{How the hell am I supposed to whack somebody and NOT make it look like murder?}
-{347}{}{Forget it... not my style. Find somebody else. I'm outta here.}
-{355}{}{That's YOUR problem, tribal, not mine. Do some mumbo-jumbo, mix up some poisonous plants and slip it into his drink,
- choke him in his sleep, push him off a building, I don't care. Just so it doesn't look like a hit.}
-{356}{}{All right... and one more time in case I ain't made myself CRYSTAL clear: it's got to look like an accident, or
- it's no good.}
-{357}{}{Done. I'll be back after Westin has had his... "accident."}
-{358}{}{I HEARD you the first time. I'll be back after Westin has had his... "accident."}
-{359}{}{If you don't want me to put a bullet in his skull, that's gonna raise the price a little.}
-{360}{}{You want me to make it look like an accident, eh? Then I need to know more about this 'Westin.'}
-{361}{}{I'm not the person for this job. Forget it.}
-{370}{}{All right then. I expect to hear from you soon. And remember, tribal, you don't know me, and we never had this
- conversation. Word gets out, and I'll put you down.}
-{371}{}{Don't you worry about ME, Bishop. You just make sure you got that cash waiting for me when I get back.}
-{372}{}{No problem. I'll be back.}
-{380}{}{I'm already paying you more than YOUR life's worth, tribal. Don't push me.}
-{381}{}{A thousand or nothing. This is a special job, and I got expenses. I got to get to NCR, arrange the 'accident,'
- and most likely have to shell out some MORE cash for some special 'accident-prone' items to get things done. So
- don't push ME, all right?}
-{382}{}{Make it an even thousand, and you got yourself a hitman.}
-{383}{}{750 chips oughta cover it.}
-{384}{}{500 chips, then. Westin's a dead man.}
-{385}{}{Then forget it. Get somebody else. I'm outta here.}
-{390}{}{You want WHAT? Tribal, you're lucky to get as much as you're getting.}
+{317}{}{Não, eu realmente preciso ir.}
+{325}{}{(Te estuda por um momento, então acena com a cabeça.) Sim... Eu tenho um trabalho para você. }
+{326}{}{Eu tenho um "problema" mais ao sul, na NCR. Esse cara, Westin, tem uma boca grande que precisa ser fechada...
+ permanentemente. Dinheiro fácil.}
+{327}{}{Sem problemas. Este Westin já está morto.}
+{328}{}{Não estou interessado. Encontre outra pessoa.}
+{335}{}{Espere, eu ainda não terminei de contar tudo. Eu quero esse cara morto, mas não pode PARECER que ele foi assassinato. Não coloque uma bala na cabeça dele, não o esfaqueie até a morte, não faça NADA que pareça arranjado.}
+{336}{}{Que? Como --}
+{337}{}{Isso vai custar ex --}
+{338}{}{Por que...?}
+{345}{}{Porque é assim que TEM que ser feito. Irrite alguém ali, e os faça pensar que eu tive ALGO a ver com aquele filho
+ da puta, e eu vou me certificar de que ninguém possa identificar seu corpo.}
+{346}{}{Como diabos eu vou bater em alguém e NÃO fazer parecer assassinato?}
+{347}{}{Esqueça... não é meu estilo. Encontre outra pessoa, vou saindo daqui.}
+{355}{}{Isso é problema SEU, tribal, não meu. Faça alguma doidera, misture algumas plantas venenosas e coloque na bebida
+ dele, sufoque durante o sono, o empurre de um prédio, tanto faz. Só para não parecer assassinato.}
+{356}{}{Tudo bem... e mais uma vez no caso de eu não ter sido CLARO: tem que parecer um acidente, ou não servirá
+ de nada.}
+{357}{}{Feito. Estarei de volta depois que Westin sofrer seu... "acidente".}
+{358}{}{Te OUVI na primeira vez. Estarei de volta depois que Westin sofrer seu... "acidente".}
+{359}{}{Se você não quer que eu coloque uma bala na cabeça dele, vai aumentar um pouco o preço.}
+{360}{}{Quer que eu faça parecer um acidente? Então preciso saber mais sobre esse 'Westin'.}
+{361}{}{Eu não sou a pessoa para este trabalho. Esqueça.}
+{370}{}{Tudo bem então, espero ouvir novidades em breve. E lembre-se, tribal, você não me conhece, e nunca tivemos essa
+ conversa. Abra a boca e eu esfolo você.}
+{371}{}{Não se preocupe comigo, Bishop. Certifique-se de que tem esse dinheiro esperando por mim quando eu voltar.}
+{372}{}{Sem problemas. Eu voltarei.}
+{380}{}{Já estou te pagando mais do que a SUA vida vale, tribal. Não me pressione.}
+{381}{}{Mil ou nada. Este é um trabalho especial, e eu tenho despesas. Eu tenho que chegar na NCR, preparar o
+ 'acidente', e provavelmente ter que desembolsar MAIS dinheiro para alguns itens especiais 'propensos a acidentes'
+ para fazer as coisas. Então não me pressione, tudo bem?}
+{382}{}{Que seja mil, e você terá um assassino.}
+{383}{}{750 tampas devem bastar.}
+{384}{}{500 tampas, então. Westin é um homem morto.}
+{385}{}{Então esquece ache outra pessoa. Estou fora daqui.}
+{390}{}{QUANTO você quer? Tribal, você tem sorte de conseguir tudo isso até aqui.}
 {391}{}{Look, last time: It's going to cost you more than 500 chips.}
 {393}{}{Then forget it. Find somebody else. I'm outta here.}
 {400}{}{All right then! You BETTER deliver, tribal. You don't, if you mess this up or if ANYONE hears about this deal, and
