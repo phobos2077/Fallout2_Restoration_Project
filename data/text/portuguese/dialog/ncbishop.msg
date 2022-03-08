@@ -103,207 +103,208 @@
 {384}{}{500 tampas, então. Westin é um homem morto.}
 {385}{}{Então esquece ache outra pessoa. Estou fora daqui.}
 {390}{}{QUANTO você quer? Tribal, você tem sorte de conseguir tudo isso até aqui.}
-{391}{}{Look, last time: It's going to cost you more than 500 chips.}
-{393}{}{Then forget it. Find somebody else. I'm outta here.}
-{400}{}{All right then! You BETTER deliver, tribal. You don't, if you mess this up or if ANYONE hears about this deal, and
- I'm gonna put a knife wound on your body for every chip you asked for.}
-{401}{}{No problem. Westin's a dead man.}
-{402}{}{That so? Well, then find somebody else to solve your problem. I'm outta here.}
-{410}{}{Hmmmm. All right, fair enough... what do you need to know?}
-{411}{}{Like...?}
-{412}{}{Where can I FIND this guy? I don't want to have to hunt his ass down when I get to NCR.}
-{413}{}{This guy got any kin, any family? Any witnesses I got to worry about?}
-{414}{}{What's this guy's health like? Any illnesses?}
-{416}{}{What does this Westin DO? What's his job schedule like?}
-{417}{}{I don't want this job. Find somebody else.}
-{425}{}{He's got a ranch in NCR. Follow the brahmin stink, and you should find it without too much trouble.}
-{426}{}{I had some other questions about Westin...}
-{428}{}{The more I hear about this, the less I like it. Forget this.}
-{435}{}{No kids, no wife, no family to speak of. There might be some ranch hands, but they shouldn't be too much trouble.}
-{437}{}{Wait a minute... "ranch hands?" Are they ARMED? And how many is SOME?}
-{438}{}{All right, that's good enough to go on. Westin's a dead man.}
-{445}{}{Probably armed... and as for a headcount, I haven't GOT one. I know he's got workers, and there's most likely more
- than one. Dealing with them's YOUR problem, tribal.}
-{446}{}{Great, that's really helpful. Look, I had some other questions about Westin...}
-{447}{}{Well, that's enough to go on. Westin's a dead man.}
-{455}{}{Well... rumor has it he doesn't go out much. I thought I heard something 'bout him having a bad heart, so he doesn't
- exert himself much. (Snorts.) Either that, or he doesn't like the sun.}
-{456}{}{Hmmmm. I had some other questions about Westin...}
-{457}{}{Heart trouble, huh? Does he have a doctor? Does he take any medication for it?}
-{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
- to be pretty damn careful about which ones he DID take with that heart o' his.}
-{475}{}{(Frowns.) He's a brahmin rancher. An animal herder. So?}
-{476}{}{All right then. I had some other questions about Westin...}
-{477}{}{No, he's something MORE. Or else we wouldn't be having this conversation.}
-{485}{}{(Glares at you.) He's also a councilor in the NCR congress. That SCARE you, tribal? It shouldn't. Do your job, and
- you got nothing to worry about. Fuck it up, and Westin'll be the least of your worries.}
-{488}{}{A "councilor in the NCR Congress?" Screw this. Find somebody else... somebody with a death wish.}
-{495}{}{All right then. Don't be a stranger now... I always got work for somebody who gets results.}
-{496}{}{I'll keep that in mind. Goodbye.}
-{500}{}{You done Westin yet?}
-{501}{}{You DAMN well better have some good news for me. Is Westin dead or not?}
-{502}{}{Tribal, my patience is wearing thin. Did you DO the goddamn job or not?}
-{503}{}{Actually... funny thing, you might appreciate the irony... I had a counter offer. Let me show you what it is.}
-{504}{}{Westin has had an... accident, yes. Terrible shame, a man like that dying so suddenly. Now about the money you owe me...}
-{505}{}{Not yet. I've got a few things to take care of first.}
-{507}{}{I came back to tell you I won't be doing the job. Forget it.}
-{515}{}{You stupid bastard...}
-{516}{}{You dumb bitch...}
-{517}{}{you got some balls coming back here after fucking up the way you did in NCR. Why didn't you just tack a sign on Westin
- saying, 'contract hit?' Yer gonna be a long time dying.}
-{519}{}{Poor choice of last words, Bishop...}
-{525}{}{Hey, tribal. That job's still open... if you want it. Pay's good. You interested?}
-{536}{}{Here's your payment.}
-{537}{}{Got any more work for me?}
-{538}{}{This settle things between you and me now? If so, I'll be going.}
-{539}{}{All right then. Pleasure doing business with you.}
-{545}{}{Hold on a minute there, tribal... you did good. I got another job for you, IF you're interested.}
-{547}{}{No, thanks. I'm not interested.}
-{550}{}{(Checks you out for a moment, then nods.) }
+{391}{}{Olha, pela última vez: vai te custar mais de 500 tampas.}
+{393}{}{Então esquece, encontre outra pessoa. Vou vazar daqui.}
+{400}{}{Tudo bem então! Mas é MELHOR fazer certo, tribal. Do contrário, se você estragar tudo ou se ALGUÉM ficar sabendo
+ sobre isso, eu vou colocar um furo no seu corpo para cada tampa que você pediu.}
+{401}{}{Sem problemas. Westin é um homem morto.}
+{402}{}{É assim? Bem, então encontre outra pessoa para resolver seu problema. Vou vazar daqui.}
+{410}{}{Hmmmm. Tudo bem, é justo... o que você precisa saber?}
+{411}{}{Como...?}
+{412}{}{Onde posso encontrar esse cara? Eu não quero ter que ficar caçando quando chegar na NCR.}
+{413}{}{Esse cara tem algum parente, alguma família? Alguma testemunha com quem eu possa me preocupar?}
+{414}{}{Como está a saúde desse cara? Alguma doença?}
+{416}{}{O que esse Westin FAZ? Sabe algo sobre o trabalho dele?}
+{417}{}{Eu não quero esse trabalho. Encontre outra pessoa.}
+{425}{}{Ele tem um rancho na NCR. Só seguir o fedor de brahmin e você pode encontrá-lo sem muita dificuldade.}
+{426}{}{Eu tenho outras perguntas sobre Westin...}
+{428}{}{Quanto mais eu ouço sobre isso, menos eu gosto. Esqueça.}
+{435}{}{Sem filhos, sem esposa, sem família que possa falar. Pode haver alguns trabalhadores do rancho, mas eles não devem ser grande problema.}
+{437}{}{Espere um minuto... "trabalhadores no rancho?" Eles estão ARMADOS? E quantos são ALGUNS?}
+{438}{}{Tudo bem, isso é o suficiente para continuar. Westin é um homem morto.}
+{445}{}{Provavelmente armados... e quanto ao número de funcionários, não tenho ideia. Eu sei que ele tem funcionários,
+ provavelmente mais de um. Lidar com eles é problema SEU, tribal.}
+{446}{}{Ótimo, isso é realmente útil. Olha, eu tenho outras perguntas sobre Westin...}
+{447}{}{Bem, isso é o suficiente para continuar. Westin é um homem morto.}
+{455}{}{Bem... há rumores de que ele não sai muito. Eu pensei ter ouvido algo sobre ele ter um coração ruim, então ele
+ não faz muito esforço. (bufa.) É isso, ou ele não gosta do sol.}
+{456}{}{Hmmmm. Eu tenho outras perguntas sobre Westin...}
+{457}{}{Problemas de coração, é? Ele tem médico? toma algum medicamento para isso?}
+{465}{}{(Sorri.) Eu gosto do jeito que você pensa, tribal... bem, eu não sei se ele toma algum remédio para o coração, mas eu
+ sei que ele teria que ter muito cuidado com o remédio que toma para aquele coração.}
+{475}{}{(Carranca.) Ele é um fazendeiro de brahmins. Um pastor de animais. É?}
+{476}{}{Tudo bem então. Eu tenho outras perguntas sobre Westin...}
+{477}{}{Não, ele é MAIS que isso. Ou então não estaríamos tendo essa conversa.}
+{485}{}{(Olha para você.) Ele também é conselheiro no congresso da NCR. Isso te assusta, tribal? Não deveria. Faça o
+ seu trabalho, e você não tem nada com que se preocupar. Foda-se, o Westin será a menor de suas preocupações.}
+{488}{}{Um "conselheiro no Congresso NCR?" Que se foda isso. Encontre outra pessoa... alguém com desejo de morrer.}
+{495}{}{Está bem então. E não suma agora... Sempre tenho trabalho para quem dá resultados.}
+{496}{}{Vou manter isso em mente. Tchau.}
+{500}{}{Já se encarregou de Westin?}
+{501}{}{É melhor você ter uma boa notícia para mim. Westin está morto ou não?}
+{502}{}{Tribal, minha paciência está se esgotando. Você fez o maldito trabalho ou não?}
+{503}{}{Na verdade... engraçado, você pode achar ironia... Eu tinha uma contraproposta. Deixe eu te mostrar qual é.}
+{504}{}{Westin teve um... acidente, sim. Que acontecimento terrível, um homem como aquele morrendo do nada. Agora sobre o dinheiro que você me deve...}
+{505}{}{Ainda não. Eu tenho algumas coisas para cuidar primeiro.}
+{507}{}{Voltei para lhe dizer que não vou fazer o trabalho. Esqueça.}
+{515}{}{Seu corno estúpido...}
+{516}{}{Sua vadia inútil...}
+{517}{}{Você tem coragem em entrar aqui depois da merda que você fez na NCR. Por que você não colocou uma placa em cima do
+ Westin dizendo 'missão cumprida'? Você vai agonizar por um bom tempo.}
+{519}{}{Péssima escolha de últimas palavras, Bishop...}
+{525}{}{Ei, tribal. Esse trabalho segue pendente... se você quiser. O pagamento é bom. Interessado?}
+{536}{}{Aqui está o seu pagamento.}
+{537}{}{Tem mais trabalho para mim?}
+{538}{}{Isso resolve as coisas entre você e eu? Se sim, eu vou.}
+{539}{}{Tudo bem então. Prazer em fazer negócios com você.}
+{545}{}{Espere um minuto aí, tribal... você fez bem. Eu tenho outro trabalho, SE você estiver interessado.}
+{547}{}{Não, obrigado. Não estou interessado.}
+{550}{}{(Te observa durante um momento, depois acena com a cabeça.) }
 {551}{}{Sim... tenho um trabalho pra você.}
-{552}{}{I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's
- dead yet. }
-{553}{}{I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. }
-{554}{}{Make it happen, and it's worth 500 to you.}
-{555}{}{No problem. This Carlson is as good as dead.}
-{556}{}{ANOTHER murder?}
-{565}{}{Ain't murder. Murder's an ugly word. This is business. Politics, if you will. Both two respectable institutions.
- You want the job or what?}
-{575}{}{One more thing: I don't care if you go in there guns blazing with ol' Carlson. He's bound to be holed up there pretty
- tight after Westin bought it, so it doesn't need to be pretty, it just needs to be DONE, capiche?}
-{576}{}{I don't care if you go in there guns blazing with ol' Carlson. He's holed up in his mansion tight, so it doesn't need
- to be pretty, it just needs to be DONE, capiche?}
-{577}{}{And one more time in case I haven't made myself clear: I don't care HOW you whack this son of a bitch as long as he's
- dead and stays that way.}
-{578}{}{Understood. I'm on it.}
-{579}{}{All RIGHT... I heard you the first time. I'm on it.}
-{580}{}{If that's the way it's gotta be... now let's talk about that price.}
-{581}{}{I'm gonna need some info on this Carlson guy before I do anything.}
-{582}{}{Oh, so NOW it's okay to go in with guns blazing? THAT would have been helpful with Westin. Forget this.}
-{583}{}{Not interested. Find someone else.}
-{590}{}{What the hell is this shit with you? I TOLD you the price. We AIN'T gonna negotiate. End of story... capiche?}
-{591}{}{Look, Bishop. I iced Westin. He was no cakewalk, but I DID it. None of your boys could've done it, or you would've
- sent one of them. You want results? Then you talk to ME, and you better talk a price I want to hear.}
-{592}{}{1000 chips. That's all it'll take to put Carlson in early retirement.}
-{593}{}{500 chips then. Carlson's a dead man.}
-{594}{}{Then forget it. Find somebody else.}
-{600}{}{All right... a thousand chips. And that's it. I don't want to hear any more bullshit. Next words that cross your lips
- better be 'yes, Mr. Bishop. I'll do it.'}
-{601}{}{Yes, Mr. Bishop. I'll do it.}
-{602}{}{I'll SETTLE for 1000 chips. This time.}
-{603}{}{1000 chips? Are you joking? Make it 1500 and you got a deal.}
-{604}{}{Forget it. I don't need this shit.}
-{605}{}{Forget it. I don't need this.}
-{615}{}{(Chews it over, then nods slightly.) Fair enough... what do you need to know?}
-{616}{}{Like...?}
-{622}{}{What does this Carlson DO? What's his job schedule like?}
-{630}{}{He's holed up in the presidential mansion in NCR. Can't miss it. Finding a way in and whacking the geezer is your job.}
-{631}{}{I had some other questions about Carlson...}
-{632}{}{All right, that's good enough to go on. Carlson's a dead man.}
-{640}{}{His wife's dead, but he's got a son, only seven or eight years old, that lives in the mansion with him...(Thinks.)...the
- place is bound to be guarded, though, so keep an eye out for security.}
+{552}{}{Eu tenho outro "problema" no NCR. Risco um, aparece outro. O nome desse é Carlson. Ele ainda não sabe que é um
+ homem morto. }
+{553}{}{Eu tenho um... "problema" ao sul da NCR. O nome dele é Carlson. Ele ainda não sabe que é um homem morto. }
+{554}{}{Faça acontecer, vai valer 500 para você.}
+{555}{}{Sem problemas. Esse Carlson já está morto.}
+{556}{}{OUTRO assassinato?}
+{565}{}{Não é assassinato. Assassinato é uma palavra feia. Isso é negócio, política, se quiser. Ambas são
+ instituições respeitáveis. Você quer o trabalho ou o quê?}
+{575}{}{Mais uma coisa: eu não me importo se você entrar lá atirando no velho Carlson. Ele deve ficar bem escondido lá depois do
+ que aconteceu com Westin, então não precisa ser bonito, só precisa ser FEITO, capiche?}
+{576}{}{Eu não me importo se você entrar lá atirando no velho Carlson. Ele está bem escondido em sua mansão, então
+ não precisa ser bonito, só precisa ser FEITO, capiche?}
+{577}{}{E mais uma vez caso eu não tenha sido claro: eu não me importo COMO você vai matar nesse filho da puta desde
+ que ele fique bem morto.}
+{578}{}{Entendido. Vou fazer isso.}
+{579}{}{Tudo bem... Entendi na primeira vez. Estou trabalhando nisso.}
+{580}{}{Se é assim que tem que ser... agora vamos falar sobre o pagamento.}
+{581}{}{Preciso de algumas informações sobre esse tal de Carlson antes de fazer qualquer coisa.}
+{582}{}{Ah, então AGORA está tudo bem entrar pregando fogo? ISSO teria sido útil com Westin. Esqueça.}
+{583}{}{Não interessado. Encontre outra pessoa.}
+{590}{}{Que merda você quer afinal? Eu te disse esse preço. Não tem negócio. Fim da história... capiche?}
+{591}{}{Olha, Bispo. Eu acabei Westin, Não foi fácil, mas eu CONSEGUI. Se algum dos seus capangas conseguisse você teria
+ enviado algum deles. Quer resultados? Então converse comigo, e é melhor você falar um preço que eu quero ouvir.}
+{592}{}{1000 tampas. Isso é tudo que vai te custar para colocar Carlson em aposentadoria antecipada.}
+{593}{}{500 tampas então. Carlson será um homem morto.}
+{594}{}{Então esquece. Encontre outra pessoa.}
+{600}{}{Tudo bem... mil fichas. E é isso, não quero ouvir mais besteira. É melhor que as próximas palavras que cruzarem
+ seus lábios sejam 'sim, Sr. Bishop. Eu vou fazer isso.'}
+{601}{}{Sim, Sr. Bispo. Eu vou fazer isso.}
+{602}{}{Me CONFORMO com 1000 fichas. Desta vez.}
+{603}{}{1000 tampas? Tá de brincadeira? 1500 e você tem um acordo.}
+{604}{}{Esqueça. Eu não preciso dessa merda.}
+{605}{}{Esqueça. Eu não preciso disso.}
+{615}{}{(Considera, depois assente levemente.) Justo... o que você precisa saber?}
+{616}{}{Como...?}
+{622}{}{O que esse Carlson FAZ? Como é a rotina de trabalho dele?}
+{630}{}{Ele está escondido na mansão presidencial da NCR. Não tem perda. Encontre um jeito de entrar e esmagar o velhote, é isso seu trabalho.}
+{631}{}{Eu tenho algumas perguntas sobre Carlson...}
+{632}{}{Tudo bem, isso é o suficiente para continuar. Carlson é um homem morto.}
+{640}{}{Sua esposa está morta, mas ele tem um filho, de apenas sete ou oito anos, mora na mansão com ele... (pensa.)... o
+ lugar deve ser vigiado, então fique atento com a segurança.}
 {642}{}{Espere aí... QUANTOS guardas?}
-{650}{}{Don't know exactly how many. I'd scope out the place, get a feel for the numbers. Of course, dealing with them's
- YOUR problem, tribal.}
-{651}{}{Great, that's really helpful. Look, I had some other questions about Carlson...}
-{652}{}{Well, that's enough to go on. Carlson's a dead man.}
-{660}{}{No, nothing like that... that I KNOW of. He's a paranoid bastard, sure, but I don't think he's sick or nothing. (Frowns.) Then
- again, he's a pretty OLD guy, so his health can't be that great.}
-{670}{}{(Glares at you.) He's the NCR Vice President. Don't let it bother you... get in one good shot, and they'll be fitting him
- for a coffin. Just make sure you're ABLE to get in at least one good shot.}
-{671}{}{All right then. I had some other questions about Carlson...}
-{673}{}{The "Vice President of NCR?" Screw this. Find somebody else... somebody with a death wish.}
-{680}{}{You done Carlson yet?}
-{681}{}{You DAMN well better have some good news for me. Is Carlson dead or not?}
-{682}{}{Tribal, my patience is wearing thin. Did you kill Carlson or not?}
-{683}{}{They're fitting Carlson for a coffin right now. Well, what's left of him, anyway.}
-{695}{}{(Smiles.) Good job, tribal. I'm impressed... and I'm not an easy man to impress. }
-{705}{}{Not exactly... (Smiles.) What I got is an OFFER: How about becoming part of the Family? I got big plans, and I could
- use you: you're resourceful, tough, and you get things DONE. That's the kind of soldier I need.}
-{706}{}{I'm interested. What's in it for me?}
-{707}{}{Thanks, but I can't be tied down... my village and my people are counting on me.}
-{715}{}{Hold on... you didn't think I'd let you just WALK with what you know, did you? Heh. C'mon now... there's skeletons that
- need to be buried before this matter's closed. Letting you walk around... that's just bad policy.}
-{716}{}{Hold on... you didn't think things were settled between us, did you? Heh. C'mon now... by my accounts, you still got a LOT
- you have to pay for. Plus, I can't let you leave with what you know... bad policy.}
-{717}{}{Don't talk stupid, Bishop. Let me go, or I'll turn your backwater casino into an inferno. "Capiche?"}
-{718}{}{Makes sense. Let me introduce you to my 9mm policy.}
-{719}{}{"Bad policy?" I'll SHOW you BAD POLICY, YOU SON OF A B --}
-{725}{}{All right then, bottom line: }
-{726}{}{You got a taste for women? I can make sure you're NEVER lonely again. Maybe you don't like the bitches,
- that's fine, I'll get you some glitterboys you can park your meat in.}
-{727}{}{You got any young stud you fancy? I'll set you up with all the pretty boys you want. Or maybe you swing the other way,
- eh? I'll make sure you have a partner for every day of the week.}
-{728}{}{Keep talking.}
-{735}{}{You like to fly, get high, wire up? I can get you all of that. You want weapons, new hardware, a better piece of iron
- to plug some schlep with? All that bullshit... yours. IF... (Raises a finger.) IF you join the family.}
-{736}{}{Sounds good. Sign me up... boss.}
-{740}{}{All right then...! You got a name you want to be called?}
+{650}{}{Não sei exatamente quantos. Observar o local te faria ter uma ideia do número. Claro, cuidar deles é problema SEU,
+ tribal.}
+{651}{}{Ótimo, isso é realmente útil. Olha, eu tenho outras perguntas sobre Carlson...}
+{652}{}{Bem, isso é o suficiente para continuar. Carlson é um homem morto.}
+{660}{}{Não, nada disso... que eu SAIBA. Ele é um louco paranóico, mas não acho que esteja doente nem nada. (Carrancas.) Então,
+ novamente, ele é um cara muito VELHO, então sua saúde não pode ser tão boa.}
+{670}{}{(Te encara.) Ele é o vice-presidente da NCR. Não deixe que isso te incomode... Vacile uma vez e eles o colocarão em
+ um caixão. Apenas certifique-se de que você é CAPAZ de acertar pelo menos um bom tiro.}
+{671}{}{Tudo bem então. Eu tenho outras perguntas sobre Carlson...}
+{673}{}{O "vice-presidente da NCR?" Puta merda, meu. Encontre outra pessoa... alguém com desejo de morrer.}
+{680}{}{Já cuidou de Carlson?}
+{681}{}{É melhor você ter uma boa notícia para mim. Carlson está morto ou não?}
+{682}{}{Tribal, minha paciência está se esgotando. Você matou Carlson ou não?}
+{683}{}{Eles estão colocando Carlson em um caixão agora. Bem, pelo menos o que resta dele.}
+{695}{}{(Sorri.) Bom trabalho, tribal. Estou impressionado... e não sou um homem fácil de impressionar. }
+{705}{}{Não exatamente... (Sorri.) O que tenho é uma OFERTA: Que tal fazer parte da Família? Eu tenho grandes planos, e eu
+ poderia usar você: você é engenhoso, forte, e você faz as coisas. Esse é o tipo de soldado que eu preciso.}
+{706}{}{Estou interessado. O quê tem pra mim?}
+{707}{}{Obrigado, mas não posso ficar preso... minha aldeia e meu povo estão contando comigo.}
+{715}{}{Espere... você não acha que eu vou deixar você simplesmente IR com tudo que você sabe, não é? Heh. Vamos, cara... há
+ esqueletos que precisam ser enterrados antes de encerrarmos isso. Deixar você por aí... é uma má política.}
+{716}{}{Espere... você não achou que as coisas estavam resolvidas entre nós, achou? Heh. Vamos lá... pelas minhas contas, você
+ ainda tem MUITO que pagar. Além disso, não posso deixar você sair com o que sabe... má política.}
+{717}{}{Não seja estúpido, Bishop. Deixe-me ir, ou transformarei seu belo cassino em uma vala. "Capiche?"}
+{718}{}{Faz sentido. Deixe-me apresentar minha política de 9mm.}
+{719}{}{"Política ruim?" Isso aqui que é uma MÁ POLÍTICA, SEU FILHO DA P --}
+{725}{}{Ok, então, em poucas palavras: }
+{726}{}{Você gosta de mulheres? Eu te garanto que você NUNCA estará sozinho por um dia. Talvez você não goste das
+ putas, tudo bem, eu posso pegar alguns garotos ajeitados que você poderia passar o rodo.}
+{727}{}{Você tem algum jovem bonitão que goste? Vou te arranjar todos os rapazes bonitos que quiser. Ou talvez você corte para o
+ outro lado, né? Não importa, vou garantir que você tenha um parceiro para todos os dias da semana.}
+{728}{}{Continue falando.}
+{735}{}{Você gosta de voar, ficar alto, usar uns venenos? Eu posso te dar tudo isso. Você quer armas, acessórios, um pedaço
+ de ferro melhor para derrubar alguns idiotas? Todas essas coisas... suas. SE... (Levanta um dedo.) SE você se juntar à família.}
+{736}{}{Parece bom. Vou me juntar... chefe.}
+{740}{}{Então, de acordo...! Você tem um nome de que gostaria de ser chamado?}
 {741}{}{...}
-{745}{}{...I like it, I like it. Now, if you wanna cash in on your reputation, hit the bar downstairs, or head down Virgin
- Street to the Cat's Paw. If you want to get some weapons, head on over to New Reno Arms.}
+{745}{}{...eu gosto, eu gosto. Agora, se você quer aproveitar sua reputação, vá ao bar lá embaixo ou desça a Virgin
+ Street até a Garra do Gato. Se você quiser pegar algumas armas, vá para Armas de New Reno.}
 {746}{}{Vou fazer... chefe.}
 {750}{}{Hey... }
-{751}{}{. Everybody treating you all right?}
-{752}{}{Everything's going good, Mr. Bishop. Just thought I'd check in, make sure everything's going well for you.
- See you later.}
-{753}{}{Everything's going great. YOUR family in particular is showing me... EVERY courtesy. (Smile knowingly, then leave.)}
-{755}{}{Hey, before you go... you going to be stopping by and seeing my wife again, tribal? }
-{756}{}{Hey, before you go... you going to be stopping by and getting high with my daughter again, tribal? }
-{757}{}{Do a little pow-wow? Eh? (Bishop's smiling, but there's not a trace of humor in it.)}
-{758}{}{What happened between me and Leslie... er, Mrs. Bishop... didn't mean anything. We might as well have been... shaking hands.}
-{759}{}{Hey... look, nothing happened, all right?}
-{760}{}{What about it, Bishop?}
-{761}{}{Maybe if you paid ATTENTION to Angela ever once in a while, she wouldn't look for attention... elsewhere.}
-{762}{}{You'd be surprised how much those 'pow-wows' please your wife. It's as if she's NEVER had good sex.}
-{763}{}{That's the LAST tribal crack you're ever going to make. Prepare to die.}
-{770}{}{What, you think a little SHIT like you can fuck MY wife in MY penthouse and say 'NO' when I ask you for a simple favor?}
-{771}{}{You think a little SHIT like you can fuck MY daughter in MY penthouse and then say 'NO' when I ask you for a simple favor?}
-{772}{}{Nothing happened! I swear! I don't care what she said! I was drunk! And high! It was some other hero model, not me!}
-{773}{}{Get to the POINT, Bishop.}
-{774}{}{Get to the POINT, Bishop. I don't have time for your faux jealousy, all right?}
-{775}{}{How about I do your entire family a favor and kill you right now?}
-{785}{}{My wife belongs to ME. Anything that TOUCHES my wife belongs to ME. You got a choice, tribal: either give me a pound
- of flesh, or you take the job, and we're even.}
-{786}{}{My wife belongs to ME. Anything that gets put IN my wife belongs to ME. You got a choice, tribal: either give me a pound
- of flesh, or you take the job, and we're even.}
-{787}{}{My daughter is MINE. Anything that gets put IN my daughter belongs to ME. You got a choice, tribal: either give me
- a pound of flesh, or you take the job, and we're even.}
-{788}{}{You can have the pound of flesh... just come get it.}
-{789}{}{All right then. I'll do it...}
-{790}{}{Your wife ain't WORTH that much.}
-{791}{}{Your daughter ain't WORTH that much.}
-{800}{}{Hey, but before you go... I like the look of your weapons there, tribal... kind of reminds me of this rumor I heard not too
- long ago.}
-{801}{}{Rumor?}
-{805}{}{Yeah... rumor in the wastes is somebody that matches your description wiped out those raiders south of Vault City. }
-{806}{}{Had a big-ass mutant with a vise connected to his shoulder with him. }
-{807}{}{Had some robot with a brain in a dome with him. }
-{808}{}{Had some tribal with a bone through his nose with him. }
-{809}{}{What you got to say to that?}
-{810}{}{Say to wut?}
-{811}{}{Oh that was ME! ME! I did it!}
-{812}{}{Yeah, that was me.}
-{813}{}{What have I got to say to that? Nothing. Why?}
-{814}{}{Big desert, lots of raiders. Could be you're mistaken.}
-{815}{}{Big desert, lots of character models look like me. Could be you're mistaken.}
-{820}{}{Well, you must be some kind of ballsy mother fucker to waste all those boys by your lonesome. }
-{821}{}{Well, you must be some kind of badass bitch to waste all those boys by your lonesome. }
-{822}{}{Could be I don't LIKE what you did down there. COULD be I had some of my best people in that camp.}
-{823}{}{Could be that if any guns get drawn in here, you'll FIND out what happened to those raiders personally.}
-{824}{}{Maybe you should have trained them better. It was like shooting a bunch of geckos. DRUNK geckos.}
-{825}{}{I didn't know they were working for you. They didn't exactly want to talk.}
-{835}{}{That so? I think you were there. I think you're responsible. }
-{836}{}{Way I see it, you OWE me big, tribal. You gotta do the work of twenty men to pay off that debt. }
-{837}{}{You take the job, then... maybe... we can call it even.}
-{838}{}{Not from where I'm standing. I figure one gunshot to your head oughta clear the debt.}
-{840}{}{They attacked ME, Bishop. I don't owe you anything, and I'm not going to do your dirty work. Understand?}
-{900}{}{You have delivered Thomas Moore's briefcase.}
-{925}{}{You have assassinated Westin.}
-{950}{}{You whacked Carlson.}
-{975}{}{You have become a made man of the Bishop family.}
-{1805}{}{Yeah... rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
-{1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains.
- And it could be I don't LIKE what you did down there.}
-{1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
-{1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}
+{751}{}{. Todo mundo está te tratando bem?}
+{752}{}{Tudo está indo bem, Sr. Bishop. Apenas pensei em passar para ter certeza de que tudo está indo bem para
+ você. Até mais.}
+{753}{}{Tudo está ótimo. SUA família em particular está me mostrando... MUITAS cortesias. (Sorri ironicamente e depois vai embora.)}
+{755}{}{Ei, antes de ir... você vai passar por aqui e ver minha esposa de novo, tribal? }
+{756}{}{Ei, antes de ir... você vai voltar aqui e ver minha filha de novo, tribal? }
+{757}{}{Para fumar o cachimbo da paz? Eh? (Bishop está sorrindo, mas sem nenhum humor nisso.)}
+{758}{}{O que aconteceu entre mim e Leslie... er, Sra. Bishop... não significou nada. Poderíamos muito bem estar... apertando as mãos.}
+{759}{}{Ei... olhe, aconteceu nada, certo?}
+{760}{}{E quanto a isso, Bishop?}
+{761}{}{Talvez se você prestasse ATENÇÃO em Angela de vez em quando, ela não procuraria... em outro lugar.}
+{762}{}{Você ficaria surpreso como esses 'cachimbos da paz' agradam sua esposa. É como se ela NUNCA tivesse feito um sexo bom antes.}
+{763}{}{Essa é a ÚLTIMA gracinha tribal que você vai fazer. Prepare-se para morrer.}
+{770}{}{O que, você acha que um BOSTA como você pode foder MINHA esposa na MINHA cobertura e dizer 'NÃO' quando te peço um simples favor?}
+{771}{}{O que, você acha que um BOSTA como você pode foder MINHA filha no MEU sótão e dizer 'NÃO' quando te peço um simples favor?}
+{772}{}{Nada aconteceu! Te juro! Não importa o que ela disse! estava bêbado! E drogada! Era algum outro cara, não eu!}
+{773}{}{Vá direto ao PONTO, Bishop.}
+{774}{}{Vá direto ao PONTO, Bishop. Não tenho tempo para o seu falso ciúme, está bem?}
+{775}{}{Que tal eu fazer um favor à sua família inteira e te matar agora mesmo?}
+{785}{}{Minha esposa pertence a mim. Tudo que minha esposa TOCA me pertence. Você pode escolher, tribal: ou você me paga
+ a dívida, ou você faz o trabalho, e estaremos em paz.}
+{786}{}{Minha esposa pertence a mim. Tudo que ENTRA na minha mulher me pertence. Você pode escolher, tribal: ou você me
+ paga a dívida, ou você faz o trabalho, e estaremos em paz.}
+{787}{}{Minha filha é MINHA. Tudo que ENTRA nela me pertence. Você pode escolher, tribal: ou você me paga a dívida, ou você
+ faz o trabalho, e estaremos em paz.}
+{788}{}{Você pode cobrar a dívida... é só vir buscar.}
+{789}{}{Tudo bem então. Eu vou fazer isso...}
+{790}{}{Sua esposa nem VALE tanto assim.}
+{791}{}{Sua filha nem VALE tanto assim.}
+{800}{}{Ei, antes que você vá… eu gosto das suas armas, tribal… elas me lembram um certo boato que ouvi não muito tempo atrás.}
+{801}{}{Boato?}
+{805}{}{Sim... alguns boatos no deserto de que alguém que combina com sua descrição eliminou aqueles invasores ao sul de
+ Vault City.}
+{806}{}{Ele tinha um puta mutante forte com ele, com um torno preso no ombro. }
+{807}{}{Ele tinha com ele um robô com um cérebro em uma cúpula. }
+{808}{}{Tinha com ele um tribal com um osso no nariz. }
+{809}{}{O que você tem a dizer sobre isso?}
+{810}{}{Diga sobre o quê?}
+{811}{}{Ah, era EU! EU! Eu fiz isso!}
+{812}{}{Sim, era eu.}
+{813}{}{O que eu tenho a dizer sobre isso? Nada. Por quê?}
+{814}{}{Deserto grande , muitos invasores por aí. Pode ser que você esteja enganado.}
+{815}{}{É um deserto grande, tem muitos modelos de personagens igual eu. Você pode estar errado.}
+{820}{}{Bem, você deve ser um filho da puta de primeira categoria para derrubar todos aqueles caras sozinho. }
+{821}{}{Bem, você deve ser uma vadia durona para ter derrubar todos aqueles caras sozinha. }
+{822}{}{Pode ser que eu não goste do que você fez lá embaixo. PODE ser que eu tinha algumas das minhas melhores pessoas naquele acampamento.}
+{823}{}{Pode ser que se alguma arma for sacada aqui, você DESCOBRIRÁ o que aconteceu com esses invasores pessoalmente. }
+{824}{}{Acho que eles precisavam de um treinamento melhor. Foi como atirar em um bando de geckos. Geckos bêbadas.}
+{825}{}{Eu não sabia que eles estavam trabalhando para você. Eles não queriam exatamente conversar.}
+{835}{}{É mesmo? Acho que você estava lá. Acho que você é o responsável. }
+{836}{}{Como vejo, você me DEVE uma grande, tribal. Você tem que fazer o trabalho de vinte homens para pagar essa dívida. }
+{837}{}{Você aceita o trabalho, então… talvez… poderíamos dizer que estamos em paz.}
+{838}{}{Não do meu ponto de vista. Acho que um tiro na sua cabeça deve pagar a dívida.}
+{840}{}{Eles me atacaram, Bishop. Não te devo nada, e não vou fazer o teu trabalho sujo. Entendeu?}
+{900}{}{Você entregou a maleta de Thomas Moore.}
+{925}{}{Você assassinou Westin.}
+{950}{}{Você matou Carlson.}
+{975}{}{Você se tornou um iniciado da família Bishop.}
+{1805}{}{Sim... alguns boatos no deserto de que alguém que combina com sua descrição ajudou a parar aqueles invasores ao sul de
+ Vault City. }
+{1820}{}{Bem, você deve ser um filho da puta genial para convencer o guia deles a parar de guiá-los pelas montanhas.
+ E pode ser que eu não goste do que você fez lá embaixo.}
+{1836}{}{Como vejo, você me DEVE uma grande, tribal. Eu não gosto de pessoas mexendo com assuntos que não são deles. }
+{1840}{}{Não te devo nada, e não vou fazer o seu trabalho sujo. Entendeu?}

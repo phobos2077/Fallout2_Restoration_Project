@@ -1,26 +1,26 @@
-{100}{}{You see one of Bishop's men.}
-{150}{}{You see a rugged looking man dressed in leather armor. Numerous scars and gunshot wounds
- cover his body.}
-{151}{}{You see one of Bishop's men. He is scanning the area and fingering his weapon.}
+{100}{}{Você vê um dos homens de Bishop.}
+{150}{}{Você vê um homem de aparência robusta vestido com uma armadura de couro. Numerosas cicatrizes
+ e ferimentos de bala cobrem o corpo dele.}
+{151}{}{Você vê um dos homens de Bishop. Ele está examinando a área e dedilhando sua arma.}
 {200}{}{Ei! }
-{201}{}{::cheers::}
+{201}{}{::Felicidades::}
 {202}{}{::palmas::}
 {203}{}{::assobios::}
 {205}{}{Como diabos você vai no banheiro com essa coisa?}
 {210}{}{Bela arma, }
-{215}{}{Uh, why are you sneaking around, }
-{216}{}{Uh, hey, }
+{215}{}{Ei, queria saber o que você faz se esgueirando, }
+{216}{}{Uh, eai, }
 {220}{}{Ei, }
 {221}{}{Ei, }
 {222}{}{Ei, }
-{225}{}{You just walked into the wrong place, dipshit.}
+{225}{}{Você acabou de entrar no lugar errado, idiota.}
 {226}{}{Uau, olha que audácia desse filho da puta... sai fora, garoto, antes que você leve uns tiros.}
 {227}{}{Esse cara tá procurando problemas...}
 {228}{}{eu ouço o }
 {229}{}{É melhor você ir embora, }
 {230}{}{Ora ora, se não é }
 {231}{}{Não acho que os membros da família }
-{232}{}{You just walked into the wrong place, bitch.}
+{232}{}{Você acabou de entrar no lugar errado, vadia.}
 {233}{}{Eita, olha à arrogância desta vadia...}
 {234}{}{Some, garota. Antes que você leve uns tiros.}
 {235}{}{Essa putinha está pedindo problemas...}
@@ -36,14 +36,14 @@
 {265}{}{Ei, lindão. Sem armas aqui, ok?}
 {266}{}{Ei, }
 {267}{}{Ei, }
-{268}{}{Honey, you can't be carryin' weapons in here. Heh-heh... you're deadly enough as it is.}
+{268}{}{Querida, você não pode carregar armas aqui. Heh-heh... você já é mortífera o suficiente.}
 {269}{}{Ei, }
 {275}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
 {280}{}{Amei os filmes, }
 {281}{}{Amei você em As Grandes Bolas de Fogo.}
 {282}{}{Amei você em O Esfolador Indomável.}
 {283}{}{Eu sou um grande fã do seu trabalho em Casa das Brasileirinhas.}
-{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
+{284}{}{Adorei "Vault da putaria". Foi inspirador. Cinematografia de tour-de-force.}
 {285}{}{::Assobios::}
 {295}{}{Você está querendo encher uma tumba no Gólgota, traficante de escravos? Mantenha isso aí.}
 {296}{}{Guarde essa arma, traficante de escravos, ou vou te usar de tiro ao alvo.}
@@ -62,37 +62,37 @@
 {315}{}{Tire esse robô daqui. Agora.}
 {316}{}{Tire esse robô daqui antes que ele vire alguma lata de lixo.}
 {317}{}{Aquele robô vai virar peças de reposição se ficar aqui.}
-{320}{}{I *thought* I smelled mutant. You better get his yellow ass outta here.}
+{320}{}{Eu *pensei* ter cheirado um mutante. É melhor tirar a bunda amarela dele daqui.}
 {321}{}{Você e seu amigo mutante querem levar um tiro? Vaza.}
 {322}{}{É melhor esse mutante sair daqui agora, ou vamos pregar a cabeça dele na parede.}
 {325}{}{Viu a luta de ontem a noite?}
-{326}{}{I'm hitting the Cat's Paw after work.}
-{330}{}{I thought the President was a myth, a boogey man used to scare children.}
+{326}{}{Vou ir na Garra do Gato depois do trabalho.}
+{330}{}{Eu pensei que o presidente era um mito, um bicho-papão usado para assustar as crianças}
 {331}{}{Parece que você voltou do inferno. Relaxe um pouco. Você merece.}
-{332}{}{They were gonna dump some new virus into the air? Bastards. Hope you shot a few for me.}
-{333}{}{You might want to replay the game as a different character.}
-{334}{}{You've got some serious muscle to bust the Enclave like you did.}
-{335}{}{Just wandering around after you're done, picking up some EXPs, huh? Well, please don't
- kill ME, 'kay?}
-{336}{}{New Reno was designed by Chris Avellone and scripted by Tom French. Rumor has it they will
- marry soon.}
-{337}{}{I hope I get to be a major character in Fallout 3, like Tandi or Ian. Being a thug sucks.}
-{338}{}{Yeah, I scored with Tandi once. When she was young, I mean.}
-{339}{}{That Lynette chick is in bad need of some lovin', y'know?}
-{340}{}{Heard you busted up that Enclave down South. Pretty brave.}
+{332}{}{Eles iam despejar um novo vírus no ar? Desgraçados. Espero que você tenha alvejado alguns deles por mim.}
+{333}{}{Você pode querer repetir o jogo com um personagem diferente.}
+{334}{}{Você deve ser um cara durão para explodir o Enclave como fez.}
+{335}{}{Apenas vagando depois de zerar, pegando alguns XPs, né não? Bem, só não me mate,
+ ok?}
+{336}{}{New Reno foi desenhado por Chris Avellone e roteirizado por Tom French. Fiquei sabendo que
+ vai ter casório em breve.}
+{337}{}{Queria ser um personagem importante em Fallout 3, como Tandi ou Ian. Vai se fuder, Bethesda.}
+{338}{}{Sim, eu marquei com Tandi uma vez. Quando ela era jovem, claro.}
+{339}{}{Aquela garota Lynette está precisando muito de um pouco de amor, sabe?}
+{340}{}{Ouvi dizer que você destruiu aquela Enclave no sul. Aí tem coragem.}
 {350}{}{Ei, }
 {351}{}{Ei, }
 {352}{}{Ei, }
-{353}{}{I heard Tommy the Balls is back in town, checking up on things. Watch out for him.}
-{354}{}{You see Tommy the Balls, stay outta his way.}
-{355}{}{Put in a good word with Bishop for me?}
-{356}{}{Nice threads. Wish I had it in good with the boss, too.}
-{357}{}{Any tips for a fella like me?}
-{358}{}{Family Bishop's been good to me.}
-{359}{}{John Bishop is gonna rule this town.}
-{360}{}{Everything's been pretty quiet today.}
-{361}{}{Storm's coming.}
-{362}{}{Stink from Golgotha was awful last night.}
+{353}{}{Ouvi dizer que Tommy the Balls está de volta à cidade, verificando as coisas. Cuidado com ele.}
+{354}{}{Você vê Tommy the Balls, fique fora do caminho dele.}
+{355}{}{Falou bem de mim para Bishop?}
+{356}{}{Que sorte. Eu gostaria de poder me dar bem com o chefe.}
+{357}{}{Alguma dica para um cara como eu?}
+{358}{}{A Família Bishop tem sido boa para mim.}
+{359}{}{John Bishop vai governar esta cidade.}
+{360}{}{Está tudo de boa hoje.}
+{361}{}{A tempestade está chegando.}
+{362}{}{O fedor da Gólgota estava horrível ontem à noite.}
 {363}{}{When we gonna whack one of the other families?}
 {364}{}{With you on our side, those other families don't stand a chance, boss.}
 {365}{}{Get you anything, boss?}

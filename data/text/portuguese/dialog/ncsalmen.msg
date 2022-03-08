@@ -7,7 +7,7 @@
 {154}{}{You see one of Salvatore's men. He looks silent, deadly, and possibly asleep.}
 {155}{}{You see one of Salvatore's men. He looks silent, deadly, and potentially very bored.}
 {160}{}{::Nods Respectfully::}
-{161}{}{You've got some serious muscle to bust the Enclave like you did.}
+{161}{}{Você deve ser um cara durão para explodir o Enclave como fez.}
 {162}{}{You're almost as tough as Tommy the Balls.}
 {163}{}{I heard what you did to the Enclave. Word travels fast.}
 {164}{}{Thought about replaying the game as a different character?}
@@ -62,7 +62,7 @@
 {255}{}{The Bishops talk big. Salvatores don't need to talk.}
 {256}{}{All's quiet on the northern front.}
 {257}{}{Saw some Bishops today, and they steered clear. They're getting smarter.}
-{258}{}{Everything's been pretty quiet today.}
+{258}{}{Está tudo de boa hoje.}
 {259}{}{Ma'am.}
 {260}{}{Hello, ma'am.}
 {261}{}{Nothing to report, ma'am.}

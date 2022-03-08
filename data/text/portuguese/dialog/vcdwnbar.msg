@@ -44,7 +44,7 @@
 {143}{}{Too? Tew. Tewwwww. Tewwww sexeee fur my clothez}
 {144}{}{Desliga}
 {145}{}{We have synthetic beers and liquor... vodka-H, tequila derivatives W and W2. Oh, and water. And brahmin milk. Beer or liquor is ten bucks, water or milk's three bucks.}
-{146}{}{Like...?}
+{146}{}{Como...?}
 {147}{}{Uh, do you have any real alcohol?}
 {148}{}{I could go for some synthetic beer.}
 {149}{}{Some synthetic vodka would really hit the spot.}
