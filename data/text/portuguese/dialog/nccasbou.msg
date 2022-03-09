@@ -53,10 +53,10 @@
 {315}{}{Welcome to the casino, ma'am.}
 {316}{}{Like the threads, ma'am.}
 {317}{}{When's your next match, ma'am?}
-{320}{}{When are you going to stop by and see me?}
+{320}{}{Quando você vai vir aqui me ver?}
 {321}{}{Hey, welcome to the casino! You gonna dance tonight?}
-{322}{}{Looking deadly, sweetheart.}
-{323}{}{Lady Luck gonna get jealous you keep coming around here.}
+{322}{}{É espetacular, querida.}
+{323}{}{A Dama da Sorte vai ficar com ciúmes por você continuar vindo aqui.}
 {324}{}{Ouvi dizer que o Tommy the Balls quer um fazer um exame médico privado com você.}
 {330}{}{Casino's inside. Don't talk to me.}
 {331}{}{Casino's INSIDE. IN-SIDE. Stupid tribals.}

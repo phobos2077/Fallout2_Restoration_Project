@@ -93,29 +93,29 @@
 {360}{}{Está tudo de boa hoje.}
 {361}{}{A tempestade está chegando.}
 {362}{}{O fedor da Gólgota estava horrível ontem à noite.}
-{363}{}{When we gonna whack one of the other families?}
-{364}{}{With you on our side, those other families don't stand a chance, boss.}
-{365}{}{Get you anything, boss?}
-{366}{}{Any word on the other families?}
-{367}{}{Um, got any Jet?}
+{363}{}{Quando vamos dar um pau em uma das outras famílias?}
+{364}{}{Com você do nosso lado, essas outras famílias não têm chance, chefe.}
+{365}{}{Precisa de algo, chefe?}
+{366}{}{Alguma noticia sobre as outras famílias?}
+{367}{}{Err, tem algum Jet?}
 {368}{}{Com certeza eu gostaria de um copo...}
-{369}{}{Mrs. Bishop was checking me out again. It makes me uncomfortable.}
-{370}{}{Mrs. Bishop keeps looking at me like a slab of beef. I wish she'd realize that I just
- want to be held.}
-{371}{}{That Bishop girl is one nice piece of ass.}
-{372}{}{That Bishop girl is trouble.}
-{373}{}{I heard one of the boys got the Bishop daughter drunk, and Mr. Bishop skinned him.}
-{374}{}{If you talk to Bishop, stay away from the wife and daughter... nothing but trouble.}
-{380}{}{Heard Mrs. Bishop was looking for you. Watch out, pal.}
-{381}{}{Heard the Bishop daughter was looking for you. She's trouble.}
+{369}{}{A Sra. Bishop me revistou novamente. Acho meio desconfortável.}
+{370}{}{A Sra. Bishop continua me olhando, pareço um pedaço de carne. Eu gostaria que ela
+ percebesse que eu só quero que me abracem.}
+{371}{}{A filha do Bishop tem uma bunda boa.}
+{372}{}{Essa filha do Bishop é problema.}
+{373}{}{Ouvi dizer que um dos caras embebedou a filha do Bishop e ele o esfolou.}
+{374}{}{Se você falar com Bishop, fique longe da esposa e da filha... são só problemas.}
+{380}{}{Ouvi dizer que a Sra. Bishop estava procurando por você. Cuidado, cara.}
+{381}{}{Ouvi dizer que a filha do Bishop estava procurando por você. Essa é problema.}
 {382}{}{Você não parece tão forte, Sr. Prizefighter.}
-{383}{}{You know, Family Bishop could really use someone like you. Tough. Uncompromising.}
-{384}{}{You should talk to Bishop about a job.}
-{385}{}{You might want to consider joining up with us. We're gonna rule New Reno.}
-{386}{}{I got $20 riding on you!}
+{383}{}{Sabe, a Família Bishop realmente precisa de alguém como você. Forte. Inflexível.}
+{384}{}{Devia falar com Bishop sobre um trabalho.}
+{385}{}{Você devia considerar se juntar a nós. Vamos governar New Reno.}
+{386}{}{Consegui $20 apostando em você!}
 {387}{}{Ei, campeão! Aquela última luta foi ótima!}
 {388}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
-{389}{}{You gonna take the fall? I got $30 riding on you.}
+{389}{}{Já vai parar? Consegui $30 apostando em você.}
 {390}{}{Quanto você pesa?}
 {391}{}{Onde você trabalha fora do ringue?}
 {392}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
@@ -123,71 +123,71 @@
 {394}{}{Quer lutar?}
 {395}{}{Você não parece ser tão forte, Srta. Gancho de esquerda.}
 {396}{}{Posso ver seus músculos abdominais?}
-{400}{}{Heard Mrs. Bishop was looking for you. Watch out, pal.}
-{401}{}{Get me a job, pal? C'mon. I'm the king of studs.}
+{400}{}{Ouvi dizer que a Sra. Bishop estava procurando por você. Cuidado, cara.}
+{401}{}{Você pode me arrumar um trampo, cara? Vamo lá. Eu sou O garanhão.}
 {402}{}{Amei os filmes, }
 {403}{}{Amei você em As Grandes Bolas de Fogo.}
 {404}{}{Amei você em O Esfolador Indomável.}
 {405}{}{Eu sou um grande fã do seu trabalho em Casa das Brasileirinhas.}
-{406}{}{Loved "Vault Sex-Teen." It was inspired. A cinematic tour-de-force.}
-{407}{}{Heard the Bishop daughter was looking for you. She's trouble.}
-{408}{}{Got any openings at the studio?}
-{409}{}{Loved "Vault Sex-Teen." It was inspired. A cinematic tour-de-force.}
-{410}{}{I heard Tommy the Balls wants to give you a private screening.}
-{411}{}{I loved your last film. Can I help you rehearse for the next one?}
-{412}{}{Get me a job, and I'll show you some of my moves.}
-{413}{}{When are you going to stop by and see me?}
-{414}{}{Hey, you gonna dance here tonight?}
-{415}{}{Looking deadly, sweetheart.}
-{416}{}{Lady Luck gonna get jealous you keep coming around here.}
-{420}{}{How are things up in the Den?}
-{421}{}{That slaver brand hurt when you got it?}
-{422}{}{I thought about becoming a slaver, but I hate all the traveling.}
-{423}{}{You looking for the stables? That's where they keep most of the slaves.}
-{424}{}{Being in the Bishop Family's a good gig.}
-{425}{}{You bring a new crop of slaves in, or are you caravanning some out?}
-{426}{}{You guys need to find some new stock... that last batch of slaves was piss-poor.}
-{427}{}{You guys catch any more tribal slaves?}
-{428}{}{What's the going rate for slaves nowadays?}
-{429}{}{Slaves, brahmin, same thing.}
-{440}{}{If you're looking for work, we could use someone like you. Talk to Mr. Bishop.}
-{441}{}{You looking for work? You might want to talk to Mr. Bishop.}
-{445}{}{Piss off, tribal.}
-{446}{}{I ain't got no drugs for you, tribal.}
-{447}{}{Go smoke your peace pipe, tribal.}
-{448}{}{I DON'T feel like chatting. Beat it.}
-{449}{}{Scram, tribal.}
-{450}{}{You know who I am? I'm one of Bishop's men. Now fuck off.}
-{451}{}{You looking to get me mad? You won't like me when I'm mad.}
-{452}{}{Piss off before I use you for target practice.}
-{453}{}{Looking for trouble? Keep talking to me, see what happens.}
-{460}{}{I ain't looking for no tribal ass right now. Come back later.}
-{461}{}{I ain't got time to do you right now, tribal. Why don't you come back later?}
-{462}{}{No, I don't know where that is, now piss off! ::Stupid tribals.::}
-{463}{}{Piss off, tribal.}
-{464}{}{Bishops don't talk to tribal trash, we got better things to do.}
-{465}{}{I ain't got no drugs for you, tribal.}
-{466}{}{Go smoke your peace pipe, tribal.}
-{467}{}{I DON'T feel like chatting. Beat it.}
-{468}{}{Scram, tribal.}
-{469}{}{You know who I am? I'm one of Bishop's men. Now fuck off.}
-{470}{}{You looking to get me mad? You won't like me when I'm mad.}
-{471}{}{Piss off before I use you for target practice.}
-{472}{}{Looking for trouble? Keep talking to me, see what happens.}
-{473}{}{I ain't beer-gogglin' that bad. Get lost.}
-{474}{}{You got to be the ugliest tribal I've ever seen.}
-{475}{}{Get out of here before I beat you uglier than you are.}
-{476}{}{Go bark at someone drunker than me, bitch.}
-{490}{}{I *thought* I smelled something rotting. Get that ghoul boy o' yours outta here.}
+{406}{}{Adorei "Putaria na vault". Foi inspirador. Um tour-de-force cinematográfico.}
+{407}{}{Ouvi dizer que a filha do Bishop estava procurando por você. Essa é problema.}
+{408}{}{Tem alguma vaga no estúdio?}
+{409}{}{Adorei "Putaria na vault". Foi inspirador. Um tour-de-force cinematográfico.}
+{410}{}{Ouvi dizer que Tommy the Balls quer fazer uma exibição privada.}
+{411}{}{Adorei seu último filme. Posso ajudá-lo a ensaiar para o próximo?}
+{412}{}{Me arranja um trabalho e eu te mostro meus movimentos.}
+{413}{}{Quando você vai vir aqui me ver?}
+{414}{}{Ei, você vai dançar aqui essa noite?}
+{415}{}{É espetacular, querida.}
+{416}{}{A Dama da Sorte vai ficar com ciúmes por você continuar vindo aqui.}
+{420}{}{Como estão as coisas no Den?}
+{421}{}{Essa marca de escravo doeu quando você pegou?}
+{422}{}{Pensei em virar um traficante de escravos, mas odeio todas essas viagens.}
+{423}{}{Está procurando os estábulos? É onde eles mantêm a maioria dos escravos.}
+{424}{}{Estar na Família Bishop é um bom trabalho.}
+{425}{}{Está trazendo uma nova safra de escravos ou vai levar alguns?}
+{426}{}{Vocês precisam encontrar um novo estoque... aquele último lote de escravos era péssimo.}
+{427}{}{Vocês pegaram mais escravos tribais?}
+{428}{}{Qual é a taxa atual de escravos hoje em dia?}
+{429}{}{Escravos, brahmins, mesma merda.}
+{440}{}{Se está procurando trabalho, alguém como você pode ser útil. Fale com o Sr. Bishop.}
+{441}{}{Você está procurando trabalho? Tente falar com o Sr. Bishop.}
+{445}{}{Sai fora, tribal.}
+{446}{}{Não temos drogas para você, tribal.}
+{447}{}{Vai fumar seu cachimbo da paz, tribal.}
+{448}{}{Eu NÃO tô afim de conversa. Cai fora.}
+{449}{}{Sai daqui, tribal.}
+{450}{}{Você sabe quem eu sou? Sou um dos homens do Bishop. Agora vaza.}
+{451}{}{Quer me deixar louco? Você não vai querer me ver louco.}
+{452}{}{Vai embora antes que eu te use como tiro ao alvo.}
+{453}{}{Procurando por problemas? Continue falando comigo, veja o que acontece.}
+{460}{}{Eu não estou procurando por nenhum tribal aqui. Volte mais tarde.}
+{461}{}{Eu não tenho tempo para te atender agora, tribal. Por que você não volta mais tarde?}
+{462}{}{Não, eu não sei onde está, agora se manda daqui! ::Tribais estúpidos.::}
+{463}{}{Sai fora, tribal.}
+{464}{}{Bishop não fala com lixo tribal, temos coisas melhores para fazer.}
+{465}{}{Não temos drogas para você, tribal.}
+{466}{}{Vai fumar seu cachimbo da paz, tribal.}
+{467}{}{Eu NÃO tô afim de conversa. Cai fora.}
+{468}{}{Sai daqui, tribal.}
+{469}{}{Você sabe quem eu sou? Sou um dos homens do Bishop. Agora vaza.}
+{470}{}{Quer me deixar louco? Você não vai querer me ver louco.}
+{471}{}{Vai embora antes que eu te use como tiro ao alvo.}
+{472}{}{Procurando por problemas? Continue falando comigo, veja o que acontece.}
+{473}{}{Não estou bêbado o suficiente. Se manda.}
+{474}{}{Você deve ser o tribal mais feio que eu já vi.}
+{475}{}{Saia daqui antes que eu te deixe mais feio do que você é.}
+{476}{}{Vá latir para alguém mais bêbado que eu, cadela.}
+{490}{}{Eu *pensei* sentir cheiro de algo podre. Tire esse seu ghoul daqui.}
 {491}{}{Tire esse ghoul fedorento daqui. Agora.}
 {492}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
 {1200}{}{! Way to kick the Enclave's ass!}
 {1210}{}{.}
 {1215}{}{?}
-{1216}{}{... why the secrecy?}
-{1220}{}{, what's shaking?}
-{1221}{}{, what you been up to?}
-{1222}{}{! You been staying outta trouble?}
+{1216}{}{... por que tanto segredo?}
+{1220}{}{, O que se passa?}
+{1221}{}{, O que você tem feito?}
+{1222}{}{! Você tem ficado fora de problemas?}
 {1228}{}{ família é um bando de boiolas. O que você pensa sobre isso?}
 {1229}{}{. Agora.}
 {1230}{}{. Sua família não vai sentir sua falta?}
@@ -200,7 +200,7 @@
 {1267}{}{! Guarde essa arma.}
 {1269}{}{! Você pode mostrar seus peitos, mas não pode mostrar armas aqui, certo?}
 {1280}{}{!}
-{1350}{}{. What's going on?}
-{1351}{}{. What's shaking?}
-{1352}{}{. You been staying out of trouble?}
+{1350}{}{. O que está acontecendo?}
+{1351}{}{. O que se passa?}
+{1352}{}{. Você tem ficado fora de problemas?}
 {1402}{}{!}

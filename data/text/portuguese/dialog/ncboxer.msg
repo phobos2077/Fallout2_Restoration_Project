@@ -1,53 +1,53 @@
 {100}{}{Você vê um boxeador.}
-{150}{}{You see a heavily-muscled black man. He looks like he has just finished working out.}
-{151}{}{You see a huge black man. And I do mean HUGE.}
-{152}{}{He looks like he has just finished working out.}
-{153}{}{You almost mistook him for a small mountain.}
-{154}{}{He is huge. Huuuuuge.}
-{155}{}{He is grinning at you toothlessly.}
-{156}{}{He looks like he has just finished working out.}
-{157}{}{You almost mistook him for a small mountain.}
-{158}{}{He is huge. Huuuuuge.}
-{159}{}{He is grinning at you toothlessly.}
-{160}{}{He is jabbing at an invisible opponent and snarling threats to the air.}
-{161}{}{He looks momentarily confused, as if having forgotten who he was, then
- smiles and scratches his head.}
-{162}{}{He is doing squats.}
-{163}{}{You see a large white man. His arms look like tree trunks.}
-{164}{}{You see a heavily-muscled white man. He is flexing and grunting to himself.}
-{165}{}{You see a heavily-muscled white man. He is eyeing your head like a punching bag.}
-{166}{}{He is jabbing at an invisible opponent and snarling threats to the air.}
-{167}{}{He looks momentarily confused, as if having forgotten who he was, then
- smiles and scratches his head.}
-{168}{}{He is eyeing your head like a punching bag.}
+{150}{}{Você vê um homem negro bem musculoso. Parece que ele acabou de se exercitar.}
+{151}{}{Você vê um grande homem negro. E eu quero dizer ENORME.}
+{152}{}{Parece que ele acabou de se exercitar.}
+{153}{}{Você quase o confundiu com uma montanha pequena.}
+{154}{}{Ele é grande. Graaaaaande.}
+{155}{}{Ele está sorrindo para você com uma boca desdentada.}
+{156}{}{Parece que ele acabou de se exercitar.}
+{157}{}{Você quase o confundiu com uma montanha pequena.}
+{158}{}{Ele é grande. Graaaaaande.}
+{159}{}{Ele está sorrindo para você com uma boca desdentada.}
+{160}{}{Ele está socando um oponente invisível e fazendo ameaças no ar.}
+{161}{}{Ele parece momentaneamente confuso, como se tivesse esquecido
+ quem ele era, então sorri e coça a cabeça.}
+{162}{}{Ele faz agachamentos.}
+{163}{}{Você vê um grande homem branco. Seus braços parecem toras de árvores.}
+{164}{}{Você vê um homem branco grande e musculoso. Ele está fazendo flexões e grunhindo para si mesmo.}
+{165}{}{Você vê um homem branco muito musculoso. Ele está olhando sua cabeça como um saco de pancadas.}
+{166}{}{Ele está socando um oponente invisível e fazendo ameaças no ar.}
+{167}{}{Ele parece momentaneamente confuso, como se tivesse esquecido
+ quem ele era, então sorri e coça a cabeça.}
+{168}{}{Ele está olhando sua cabeça como um saco de pancadas.}
 {200}{}{Hnffff}
 {201}{}{Hnrggg}
-{202}{}{::Flexes::}
-{203}{}{::The boxer looks at you with frightened eyes::}
-{204}{}{Yessur?}
-{205}{}{Ken I borrow sum teef?}
-{206}{}{You need spotter?}
+{202}{}{::Flexões::}
+{203}{}{::O boxeador te olha com olhos assustados::}
+{204}{}{S-sim, senhor?}
+{205}{}{P-posso te aj-judar?}
+{206}{}{Você precisa de ajudante?}
 {207}{}{Uh-huh.}
-{208}{}{::Nods stupidly at everything you say::}
-{209}{}{U big pershun. Me small.}
-{210}{}{U tough. Me weak.}
+{208}{}{::Acena estupidamente para tudo o que você diz::}
+{209}{}{Você é grande. Eu pequeno.}
+{210}{}{Você é forte. Eu fraco.}
 {211}{}{Estou com fome.}
-{212}{}{Me no like talk.}
-{213}{}{You smell guuud.}
-{214}{}{You smell like Mom.}
-{215}{}{Enough talk. Time for bed.}
-{216}{}{::Smiles toothlessly::}
-{217}{}{::Scratches self::}
-{218}{}{::Flexes::}
-{219}{}{Grunt}
-{220}{}{You fight me?}
-{221}{}{Get mad get mad get mad.}
-{222}{}{Fow-cuss, Fow-cuss.}
-{223}{}{Get critikal.}
-{224}{}{Fight past that shit.}
-{225}{}{Me need spotter.}
-{226}{}{You small person.}
-{227}{}{Me no like talk.}
+{212}{}{Eu não gosto de falar.}
+{213}{}{Você cheira beeem.}
+{214}{}{Você cheira como mamãe.}
+{215}{}{Chega de conversa. Hora de dormir.}
+{216}{}{::Sorriso desdentado::}
+{217}{}{:: Se arranha::}
+{218}{}{::Flexões::}
+{219}{}{Grrr}
+{220}{}{Luta comigo?}
+{221}{}{Louco louco Louco.}
+{222}{}{Fo-co, fo-co.}
+{223}{}{Consegue golpe crítico.}
+{224}{}{Lute contra essa merda.}
+{225}{}{Eu preciso de ajudante.}
+{226}{}{Você pessoa pequena.}
+{227}{}{Eu não gosto de falar.}
 {300}{}{Ernhhh}
 {301}{}{Unfff}
 {302}{}{Hrghhh}
@@ -55,44 +55,44 @@
 {304}{}{Hrggg}
 {305}{}{Ooof}
 {310}{}{Muito lento!}
-{311}{}{Not the face!}
-{312}{}{You punch like my grandmother!}
+{311}{}{Na cara não!}
+{312}{}{Você bate como minha avó!}
 {313}{}{Nada de golpe abaixo da cintura!}
-{314}{}{You ain't bad.}
-{315}{}{Dat all you got?}
-{320}{}{And stay down!}
-{321}{}{You got knocked da fuck out!}
+{314}{}{Você não é ruim.}
+{315}{}{Tudo que tem?}
+{320}{}{E fique aí!}
+{321}{}{Tá nocauteado, porra!}
 {322}{}{Quem é que manda aqui?}
-{323}{}{If he dies, he dies.}
+{323}{}{Se ele morrer, ele morre.}
 {330}{}{Podia ter sido um concorrente!}
-{331}{}{How could such a... geggghhh...}
-{332}{}{*Huuuuurrrrllllll*}
-{333}{}{Ooo, care bears...}
-{334}{}{I think I'll just lay here for a little while.}
-{335}{}{No pain, no pain, no pain...}
+{331}{}{Como pode que... geggghhh...}
+{332}{}{*Biiiiirlllllll*}
+{333}{}{Ooh, ursinhos carinhosos...}
+{334}{}{Acho que vou deitar um pouco.}
+{335}{}{Sem dor, sem dor, sem dor...}
 {340}{}{Toma isso!}
 {341}{}{Você quer um pouco disso!}
 {342}{}{Cadela!}
-{343}{}{Now you're mine.}
-{344}{}{I eat green berets for breakfast.}
+{343}{}{Agora você é meu.}
+{344}{}{Eu mastigo boinas verdes.}
 {345}{}{Haadookin.}
-{346}{}{Now you DIE.}
-{347}{}{SUPER... NUCLEAR... TORNADO... FIST...}
+{346}{}{Agora você MORRE.}
+{347}{}{SUPER... SOCO... TORNADO... NUCLEAR...}
 {350}{}{Adrian! Adrian!}
 {351}{}{Você vai beijar a lona!}
 {352}{}{Vou fazer de você uma puta ...}
-{353}{}{I must break you.}
-{354}{}{You're fighting like a bum!}
+{353}{}{Eu vou quebrar você.}
+{354}{}{Luta como um vagabundo!}
 {355}{}{Você não tem coragem!}
 {356}{}{Você é um vagabundo! Um vagabundo!}
 {357}{}{Vou acabar com você...}
 {360}{}{Não vai haver revanche!}
-{361}{}{Hit like a butterfly...}
-{362}{}{Keep your hands up...}
-{363}{}{Stay sharp!}
+{361}{}{Bate como uma borboleta...}
+{362}{}{Mantenha as mãos altas...}
+{363}{}{Fique alerta!}
 {364}{}{Lute contra essa merda!}
 {365}{}{Buscando golpes críticos!}
-{366}{}{Cut me, Mick.}
-{367}{}{Remember, stick the jab!}
-{368}{}{I see three of 'em!}
-{400}{}{He is sweating profusely.}
+{366}{}{Me da um corte, Mick.}
+{367}{}{Lembre de usar o direto de esquerda!}
+{368}{}{Eu vejo três deles!}
+{400}{}{Ele está suando muito.}

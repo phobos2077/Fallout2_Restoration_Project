@@ -1,9 +1,9 @@
-{100}{}{You see a grungy, shaggy looking man.}
-{101}{}{His clothes are torn and dirty. He has several scratches on his arms and legs.}
+{100}{}{Você vê um homem sujo e desgrenhado.}
+{101}{}{Suas roupas estão rasgadas e sujas. Ele tem vários arranhões nos braços e nas pernas.}
 {150}{}{Woof! Wooof. Woooof.}
-{151}{}{Uh, are you alright?}
-{152}{}{Uh, right. Bye.}
-{153}{}{Hey, I think I found something that might help your condition.}
+{151}{}{Eh, você está bem?}
+{152}{}{Certo. Tchau.}
+{153}{}{Ei, acho que encontrei algo que pode ajudar sua situação.}
 {154}{}{Hmm... Sounds like you might be suffering from some neurological disorder, maybe epilepsy. Sadly, I cannot
  do anything about it. Bye.}
 {160}{}{Woof. Woof woof. Woooof.}

@@ -6,7 +6,7 @@
 {200}{}{Hnffff}
 {201}{}{Hnrrgggg}
 {202}{}{::Whimpers, touches ears::}
-{203}{}{::Flexes::}
+{203}{}{::Flexões::}
 {300}{}{::Holds hands over ears and glares at you::}
 {301}{}{Me like head-butt.}
 {302}{}{Me and Mike butt heads.}

@@ -1,14 +1,14 @@
-{100}{}{You see a rabid boxing fan. }
-{150}{}{You see a wild-looking man. He is yelling his head off about something.}
-{151}{}{You see a rabid boxing fan. He is screaming for blood.}
-{152}{}{You see a wild-looking woman. She is screaming her head off about something.}
-{153}{}{You see a rabid boxing fan. She is screaming for blood.}
-{200}{}{Yeeeaaaaahhhhh!}
-{201}{}{::scream:: ::bellow:: ::scream::}
-{202}{}{Kill him, }
-{203}{}{You're the best, }
-{204}{}{Get 'em, }
-{205}{}{Yeah! Give it to him!}
+{100}{}{Você vê um fã de boxe, furioso. }
+{150}{}{Você vê um homem de aparência selvagem. Ele está gritando de forma incompreensível.}
+{151}{}{Você vê um fã de boxe. Ele grita por sangue.}
+{152}{}{Você vê uma mulher de aparência selvagem. Ele está gritando de forma incompreensível.}
+{153}{}{Você vê uma fã de boxe. Ela grita por sangue.}
+{200}{}{Siiiiiiimmmm!}
+{201}{}{::grito:: ::loucura:: ::grito::}
+{202}{}{Mata ele, }
+{203}{}{Você é o melhor, }
+{204}{}{Paga de jeito, }
+{205}{}{Isso! Mete um cruzado!}
 {206}{}{}
 {207}{}{}
 {208}{}{}
@@ -17,176 +17,176 @@
 {211}{}{}
 {212}{}{}
 {213}{}{}
-{214}{}{I love }
-{215}{}{::screech:: ::screech::}
+{214}{}{Te amo }
+{215}{}{::grito:: ::grito::}
 {216}{}{}
 {250}{}{}
 {251}{}{}
 {252}{}{}
-{253}{}{I hear }
-{254}{}{Ohmigod! }
-{255}{}{Punch me! Punch me! I want to tell my kids you punched me!}
-{256}{}{You're the best, }
-{257}{}{Kill him, }
-{258}{}{You're the best, }
-{259}{}{Get 'em, }
-{260}{}{Yeah! Give it to him!}
+{253}{}{Eu ouço }
+{254}{}{Meudeusdocéu! }
+{255}{}{Me soque! Me soque! Eu quero dizer aos meus filhos que você me deu um socão no beiço!}
+{256}{}{Você é o melhor, }
+{257}{}{Mata ele, }
+{258}{}{Você é o melhor, }
+{259}{}{Paga de jeito, }
+{260}{}{Isso! Mete um cruzado!}
 {261}{}{}
 {262}{}{}
-{263}{}{Yeeeaaaaahhhhh!}
-{264}{}{::scream:: ::bellow:: ::scream::}
+{263}{}{Siiiiiiimmmm!}
+{264}{}{::grito:: ::loucura:: ::grito::}
 {265}{}{}
 {266}{}{}
-{267}{}{You're tougher than Robbin' Givens!}
+{267}{}{Você é mais forte que Robbin' Givens!}
 {268}{}{}
 {269}{}{}
 {270}{}{}
-{271}{}{I hear }
-{280}{}{Kiss for luck?}
+{271}{}{Eu ouço }
+{280}{}{Um beijo da sorte?}
 {281}{}{}
 {282}{}{}
 {283}{}{}
 {284}{}{}
 {285}{}{}
-{286}{}{I hear }
-{287}{}{Ohmigod! }
-{288}{}{Punch me! Punch me! I want to tell my kids you punched me!}
-{289}{}{You're the best }
-{290}{}{Kill him, }
-{291}{}{You're the best, }
-{292}{}{Get 'em, }
-{293}{}{Yeah! Give it to him!}
+{286}{}{Eu ouço }
+{287}{}{Meudeusdocéu! }
+{288}{}{Me soque! Me soque! Eu quero dizer aos meus filhos que você me deu um socão no beiço!}
+{289}{}{Você é o melhor }
+{290}{}{Mata ele, }
+{291}{}{Você é o melhor, }
+{292}{}{Paga de jeito, }
+{293}{}{Isso! Mete um cruzado!}
 {294}{}{}
 {295}{}{}
 {296}{}{Aiiiieeeeeeeee!}
-{297}{}{::screech:: ::screech::}
+{297}{}{::grito:: ::grito::}
 {298}{}{}
 {299}{}{}
-{300}{}{You're tougher than Robbin' Givens!}
+{300}{}{Você é mais forte que Robbin' Givens!}
 {301}{}{}
 {302}{}{}
 {303}{}{}
-{304}{}{I hear }
-{320}{}{ will kill anyone who stands in his way!}
-{321}{}{ is the BEST. The BEST.}
+{304}{}{Eu ouço }
+{320}{}{ matará qualquer um que estiver em seu caminho!}
+{321}{}{ você é o MELHOR. O MELHOR.}
 {322}{}{!!!}
-{323}{}{ is the man!}
-{324}{}{ is the best boxing champion I've ever seen.}
-{325}{}{ is really smart, too. He really knows how to hurt someone.}
-{326}{}{ cares about his fans. He doesn't kill them like the other boxers.}
-{327}{}{ is sooooo handsome.}
-{328}{}{ is caring and nurturing. That's what he told me last night.}
+{323}{}{ é o cara!}
+{324}{}{ é o melhor campeão de boxe que eu já vi.}
+{325}{}{ é muito inteligente também. Ele sabe exatamente como ferir alguém.}
+{326}{}{ se preocupa com os fãs. Ele não bate neles como os outros boxeadores.}
+{327}{}{ ele é lindoooooo.}
+{328}{}{ é cuidado e saudável. Foi o que ele me disse ontem à noite.}
 {350}{}{}
-{351}{}{I have some of your sweat in a jar at home.}
-{352}{}{Ohmigod! }
-{353}{}{Punch me! Punch me! I want to tell my kids you punched me!}
-{354}{}{You're the best }
-{355}{}{You're the best, }
-{356}{}{Go get 'em, }
+{351}{}{Eu tenho um gole do seu suor em uma copo em casa.}
+{352}{}{Meudeusdocéu! }
+{353}{}{Me soque! Me soque! Eu quero dizer aos meus filhos que você me deu um socão no beiço!}
+{354}{}{Você é o melhor }
+{355}{}{Você é o melhor, }
+{356}{}{Dá um direto, }
 {357}{}{}
 {358}{}{}
-{359}{}{Yeeeaaaaahhhhh!}
+{359}{}{Siiiiiiimmmm!}
 {360}{}{}
 {361}{}{}
 {362}{}{}
-{363}{}{I hear you were an unknown, fresh out of the wastes, before you came to box in New Reno. Where are you from?}
+{363}{}{Ouvi dizer que você era um desconhecido, recém-saído do lixo, antes de vir boxear em New Reno. De onde você é?}
 {364}{}{}
-{365}{}{You're tougher than Robbin' Givens!}
+{365}{}{Você é mais forte que Robbin' Givens!}
 {366}{}{}
-{380}{}{Kiss for luck?}
+{380}{}{Um beijo da sorte?}
 {381}{}{}
 {382}{}{}
-{383}{}{::Looks faint as you speak to her::}
-{384}{}{I have some of your sweat in a jar at home.}
-{385}{}{Ohmigod! }
-{386}{}{Punch me! Punch me! I want to tell my kids you punched me!}
-{387}{}{You're the best }
-{388}{}{Kill 'em, !}
-{389}{}{You're the best, }
-{390}{}{Get 'em, }
+{383}{}{::Parece fraco quando você fala com ela::}
+{384}{}{Eu tenho um gole do seu suor em uma copo em casa.}
+{385}{}{Meudeusdocéu! }
+{386}{}{Me soque! Me soque! Eu quero dizer aos meus filhos que você me deu um socão no beiço!}
+{387}{}{Você é o melhor }
+{388}{}{Mate todos, !}
+{389}{}{Você é o melhor, }
+{390}{}{Paga de jeito, }
 {391}{}{.}
 {392}{}{}
 {393}{}{Aiiiieeeeeeeee!}
 {394}{}{}
 {395}{}{}
 {396}{}{}
-{397}{}{I hear you were an unknown, fresh out of the wastes, before you came to box in New Reno. Where are you from?}
+{397}{}{Ouvi dizer que você era um desconhecido, recém-saído do lixo, antes de vir boxear em New Reno. De onde você é?}
 {398}{}{}
-{399}{}{You're tougher than Robbin' Givens!}
+{399}{}{Você é mais forte que Robbin' Givens!}
 {400}{}{}
 {1202}{}{!}
 {1203}{}{!}
 {1204}{}{!}
-{1206}{}{ is the BEST. The BEST.}
+{1206}{}{ você é o MELHOR. O MELHOR.}
 {1207}{}{!!!}
-{1208}{}{, you are the man!}
-{1209}{}{ is the best boxing champion I've ever seen.}
-{1210}{}{ is really smart, too. He really knows how to hurt someone.}
-{1211}{}{ cares about his fans. He doesn't kill them like the other boxers.}
-{1212}{}{ is sooooo handsome.}
-{1213}{}{ is sooooo manly.}
+{1208}{}{, você é o cara!}
+{1209}{}{ é o melhor campeão de boxe que eu já vi.}
+{1210}{}{ é muito inteligente também. Ele sabe exatamente como ferir alguém.}
+{1211}{}{ se preocupa com os fãs. Ele não bate neles como os outros boxeadores.}
+{1212}{}{ ele é lindoooooo.}
+{1213}{}{ que macho lindoooo.}
 {1214}{}{ Aiiiieeeeeeeee!}
-{1216}{}{ is caring and nurturing. That's what he told me last night.}
-{1250}{}{, you are the man!}
-{1251}{}{ is really smart, too. He really knows how to hurt someone.}
-{1252}{}{ cares about his fans. He doesn't kill them like the other boxers.}
-{1253}{}{ was almost an unknown, fresh out of the wastes, before he came to box in New Reno.
- Mysterious! Deadly!}
-{1254}{}{! Sign an autograph!}
-{1256}{}{! Give 'em hell!}
+{1216}{}{ é cuidado e saudável. Foi o que ele me disse ontem à noite.}
+{1250}{}{, você é o cara!}
+{1251}{}{ é muito inteligente também. Ele sabe exatamente como ferir alguém.}
+{1252}{}{ se preocupa com os fãs. Ele não bate neles como os outros boxeadores.}
+{1253}{}{ era quase um desconhecido, recém-saído do lixo, antes de vir boxear em New Reno.
+ Misterioso! Mortal!}
+{1254}{}{! Me dê um autógrafo!}
+{1256}{}{! Mande-os para o inferno!}
 {1257}{}{!}
 {1258}{}{!}
 {1259}{}{!}
-{1261}{}{, you are the BEST. The BEST.}
+{1261}{}{, você é o MELHOR. O MELHOR.}
 {1262}{}{!!!}
-{1265}{}{ is the best boxing champion I've ever seen.}
-{1266}{}{, you are the toughest woman in the world!}
-{1268}{}{, you are the woman!}
-{1269}{}{ is really smart, too. She really knows how to hurt someone.}
-{1270}{}{ cares about her fans. She doesn't kill them like the other boxers.}
-{1271}{}{ was almost an unknown, fresh out of the wastes, before she came to box in New Reno. She's so mysterious!}
-{1281}{}{, you are the man!}
-{1282}{}{ is sooooo handsome.}
-{1283}{}{ has got the build of a tank!}
-{1284}{}{ is really smart, too. He really knows how to hurt someone.}
-{1285}{}{ cares about his fans. He doesn't kill them like the other boxers.}
-{1286}{}{ was almost an unknown, fresh out of the wastes, before he came to box in New Reno. Mysterious! Deadly!}
-{1287}{}{! Sign an autograph!}
-{1289}{}{! Give 'em hell!}
+{1265}{}{ é o melhor campeão de boxe que eu já vi.}
+{1266}{}{, você é a mulher mais foda do mundo!}
+{1268}{}{, você é a melhor de todas!}
+{1269}{}{ é muito inteligente também. Ela sabe exatamente como ferir alguém.}
+{1270}{}{ se preocupa com seus fãs. Ela não bate nele como os outros boxeadores.}
+{1271}{}{ era quase uma desconhecida, recém-saída do lixo, antes de vir para boxear em New Reno. Ela é tão misteriosa!}
+{1281}{}{, você é o cara!}
+{1282}{}{ ele é lindoooooo.}
+{1283}{}{ ele tem o físico de um tanque!}
+{1284}{}{ é muito inteligente também. Ele sabe exatamente como ferir alguém.}
+{1285}{}{ se preocupa com os fãs. Ele não bate neles como os outros boxeadores.}
+{1286}{}{ era quase um desconhecido, recém-saído do lixo, antes de vir boxear em New Reno. Misterioso! Mortal!}
+{1287}{}{! Me dê um autógrafo!}
+{1289}{}{! Mande-os para o inferno!}
 {1290}{}{!}
 {1291}{}{!}
 {1292}{}{!}
-{1294}{}{, you are the BEST. The BEST.}
+{1294}{}{, você é o MELHOR. O MELHOR.}
 {1295}{}{!!!}
-{1298}{}{ is the best boxing champion I've ever seen.}
-{1299}{}{, you are the toughest woman in the world!}
-{1301}{}{, you are the woman!}
-{1302}{}{ is really smart, too. She really knows how to hurt someone.}
-{1303}{}{ cares about her fans. She doesn't kill them like the other boxers.}
-{1304}{}{ was almost an unknown, fresh out of the wastes, before she came to box in New Reno. She's so mysterious!}
-{1350}{}{, you are the man!}
-{1352}{}{! Sign an autograph!}
-{1354}{}{! Give 'em hell!}
+{1298}{}{ é o melhor campeão de boxe que eu já vi.}
+{1299}{}{, você é a mulher mais foda do mundo!}
+{1301}{}{, você é a melhor de todas!}
+{1302}{}{ é muito inteligente também. Ela sabe exatamente como ferir alguém.}
+{1303}{}{ se preocupa com seus fãs. Ela não bate nele como os outros boxeadores.}
+{1304}{}{ era quase uma desconhecida, recém-saída do lixo, antes de vir para boxear em New Reno. Ela é tão misteriosa!}
+{1350}{}{, você é o cara!}
+{1352}{}{! Me dê um autógrafo!}
+{1354}{}{! Mande-os para o inferno!}
 {1355}{}{!}
 {1356}{}{!}
-{1357}{}{, you are the BEST. The BEST.}
+{1357}{}{, você é o MELHOR. O MELHOR.}
 {1358}{}{!!!}
-{1360}{}{, you are the best boxing champion I've ever seen.}
-{1361}{}{, you really know how to hurt someone.}
-{1362}{}{, you really care about your fans. You don't kill them like the other boxers.}
-{1364}{}{, you are the toughest woman in the world!}
-{1366}{}{, you are the woman!}
-{1381}{}{, you are the man!}
-{1382}{}{, you are sooooo handsome.}
-{1385}{}{! Sign an autograph!}
-{1387}{}{! Give 'em hell!}
+{1360}{}{, você é o melhor campeão de boxe que eu já vi.}
+{1361}{}{, você sabe exatamente como ferir alguém.}
+{1362}{}{, você realmente se importa com seus fãs. Não bate neles como os outros boxeadores.}
+{1364}{}{, você é a mulher mais foda do mundo!}
+{1366}{}{, você é a melhor de todas!}
+{1381}{}{, você é o cara!}
+{1382}{}{, você é muuuuito lindo.}
+{1385}{}{! Me dê um autógrafo!}
+{1387}{}{! Mande-os para o inferno!}
 {1388}{}{!}
 {1389}{}{!}
 {1390}{}{!}
-{1391}{}{, you are the BEST. The BEST.}
+{1391}{}{, você é o MELHOR. O MELHOR.}
 {1392}{}{!!!}
-{1394}{}{, you are the best boxing champion I've ever seen.}
-{1395}{}{, you really know how to hurt someone.}
-{1396}{}{, you really care about your fans. You don't kill them like the other boxers.}
-{1398}{}{, you are the toughest woman in the world!}
-{1400}{}{, you are the woman!}
+{1394}{}{, você é o melhor campeão de boxe que eu já vi.}
+{1395}{}{, você sabe exatamente como ferir alguém.}
+{1396}{}{, você realmente se importa com seus fãs. Não bate neles como os outros boxeadores.}
+{1398}{}{, você é a mulher mais foda do mundo!}
+{1400}{}{, você é a melhor de todas!}

@@ -78,7 +78,7 @@
 {286}{}{You know, Family Salvatore could really use someone like you.}
 {287}{}{You should talk to Mason about a job.}
 {288}{}{If prizefighting loses its charm, you might want to consider joining up with us.}
-{289}{}{I got $20 riding on you!}
+{289}{}{Consegui $20 apostando em você!}
 {290}{}{Ei, campeão! Aquela última luta foi ótima!}
 {291}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
 {292}{}{Quanto você pesa?}

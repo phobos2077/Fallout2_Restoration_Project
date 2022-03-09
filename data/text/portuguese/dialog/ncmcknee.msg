@@ -6,7 +6,7 @@
 {153}{}{Parece que você poderia derrubá-lo com uma fatia de pizza.}
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}
-{202}{}{::Flexes::}
+{202}{}{::Flexões::}
 {203}{}{Estou cansado.}
 {204}{}{Estou cansado.}
 {205}{}{*Phewwww* Dia difícil}

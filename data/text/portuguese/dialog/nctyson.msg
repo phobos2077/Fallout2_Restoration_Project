@@ -29,5 +29,5 @@
 {202}{}{::Mike holds up his hands in surrender as you approach::}
 {203}{}{Que fofo.}
 {204}{}{Eu gosto das suas orelhas.}
-{205}{}{Enough talk. Time for bed.}
+{205}{}{Chega de conversa. Hora de dormir.}
 {206}{}{Robin? That you?}

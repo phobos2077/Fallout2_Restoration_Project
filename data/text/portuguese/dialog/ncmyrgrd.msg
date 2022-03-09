@@ -25,7 +25,7 @@
 {270}{}{I *thought* I smelled mutant. Get him outta here 'fore we get mad.}
 {271}{}{Gostas de mutantes? O lugar dele é LÁ FORA. Ou então...}
 {272}{}{Esse mutante quer virar alvo de tiro? Continue aqui e ele vai ter o desejo realizado.}
-{280}{}{I *thought* I smelled something rotting. Get that ghoul boy o' yours outta here.}
+{280}{}{Eu *pensei* sentir cheiro de algo podre. Tire esse seu ghoul daqui.}
 {281}{}{Get that stinky ghoul mother fucker outta here. Now.}
 {282}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
 {290}{}{::Whoa.:: Check THAT out.}

@@ -13,12 +13,12 @@
 {202}{}{Me hit people.}
 {203}{}{Me hit people with fists like playing drum.}
 {204}{}{Me like to hit.}
-{205}{}{::Smiles toothlessly::}
-{206}{}{::Scratches self::}
-{207}{}{::Flexes::}
+{205}{}{::Sorriso desdentado::}
+{206}{}{:: Se arranha::}
+{207}{}{::Flexões::}
 {208}{}{Grunt.}
 {209}{}{Grunt - Grunt.}
-{210}{}{Me no like talk.}
+{210}{}{Eu não gosto de falar.}
 {211}{}{Yoo smell guuud...}
 {212}{}{Yoo smell like mom.}
 {213}{}{Yoo fofo. Eu não bati em você.}
