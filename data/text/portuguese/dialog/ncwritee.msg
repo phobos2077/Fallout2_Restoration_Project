@@ -25,15 +25,15 @@
 {213}{}{New Reno was designed by Chris Avellone and scripted by Tom French. Tom plays in a band. Chris plays with himself.}
 {214}{}{I hope I get to be a major character in Fallout 3, like Tandi or Ian. Bein' a thug sucks.}
 {215}{}{Heard you busted up that Enclave down South. You're pretty brave.}
-{225}{}{How do you go to the bathroom with that thing on?}
+{225}{}{Como você usa o banheiro com isso?}
 {230}{}{Keep that weapon outta sight around the youngsters, okay?}
 {231}{}{Don't be flashin' that weapon 'round the youngsters, okay?}
 {235}{}{You nearly scart the devil outta me, sneakin' around like that!}
 {236}{}{Why're you skulkin' around like that?}
 {237}{}{Whoa! Stop tryin' ta make like a shadow... I almost shot you, fer Chrissakes! Sheesh.}
-{240}{}{Howdy, }
+{240}{}{Saudações, }
 {241}{}{Damn hot, innit,}
-{242}{}{Howdy, }
+{242}{}{Saudações, }
 {245}{}{It's one of the }
 {250}{}{It's one of the }
 {255}{}{It's one of the }
@@ -70,7 +70,7 @@
 {324}{}{You lookin' for a car wash?}
 {325}{}{You look like you belong in a battle mech computer game. This is Fallout 2. Maybe you opened the
  wrong folder on your hard drive?}
-{326}{}{How do you go to the bathroom with that thing on?}
+{326}{}{Como você usa o banheiro com isso?}
 {335}{}{How're you, }
 {336}{}{Good to have you in the family, uh, even though you aren't family, y'know? Uh... nevermind.}
 {337}{}{I heard Tommy the Balls was back in town. Scary.}

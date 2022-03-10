@@ -4,10 +4,10 @@
 {200}{}{Uh... you'll need to remove that armor.}
 {201}{}{Uh, sir... or ma'am... you'll need to remove that armor.}
 {202}{}{Sir... ma'am... you can't wear that in the casino.}
-{205}{}{Uh, why are you sneaking around, sir?}
-{206}{}{Uh, are you undercover, sir?}
-{210}{}{Uh, why are you sneaking around, ma'am?}
-{211}{}{Uh, are you undercover, ma'am?}
+{205}{}{Uh, por que você está se esgueirando, senhor?}
+{206}{}{Uh, você está disfarçado, senhor?}
+{210}{}{Uh, por que você está se esgueirando, senhora?}
+{211}{}{Uh, você está disfarçada, senhora?}
 {215}{}{Good evening, }
 {216}{}{Evening, }
 {220}{}{Good evening, }
@@ -16,19 +16,19 @@
 {226}{}{Good day, }
 {230}{}{Good day, }
 {231}{}{Good day, }
-{235}{}{Friend, you're walking into the wrong casino.}
-{236}{}{You better leave. Now.}
-{237}{}{This ain't the place to be gambling with your life. You better leave.}
-{238}{}{Bitch, you're walking into the wrong casino.}
-{245}{}{Sir, I'm sorry, you'll have to secure that weapon.}
-{250}{}{Ma'am, I'm sorry, you'll have to secure that weapon.}
-{255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh... you're deadly enough as it is.}
+{235}{}{Amigo, você está entrando no cassino errado.}
+{236}{}{É melhor você sair. Agora.}
+{237}{}{Este não é um lugar para brincar com sua vida. É melhor ir embora.}
+{238}{}{Ô Biscate, entrou no cassino errado.}
+{245}{}{Senhor, sinto muito, você terá que guardar essa arma.}
+{250}{}{Senhora, sinto muito, você terá que guardar essa arma.}
+{255}{}{Querida, desculpe, você não pode levar armas para o cassino. Heh-heh... você já é mortífera o suficiente.}
 {260}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
 {265}{}{Tribal, é melhor você guardar essa arma AGORA.}
 {270}{}{Tribal, é melhor você parar com essa merda AGORA.}
-{275}{}{Hey, hey... Myron! Ain't seen you outside the lab in a long time.}
-{276}{}{You here to sample some of the new merchandise, Myron?}
-{277}{}{Hey! Come on in, Myron.}
+{275}{}{Ei, ei... Myron! Não te vejo fora do laboratório há muito tempo.}
+{276}{}{Você veio aqui para provar algumas das novas mercadorias, Myron?}
+{277}{}{Ei! Myron, chega mais.}
 {280}{}{Shoot. What d'you want to know?}
 {281}{}{Fooooooo foo foo fooooo}
 {282}{}{Cai fora}
@@ -40,17 +40,17 @@
 {288}{}{That comic you got on stage is weak. Mind if I try?}
 {289}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
 {290}{}{Obrigado, eu vou.}
-{291}{}{Nothing, thanks. Sorry to bother you.}
+{291}{}{Nada, obrigado. Desculpe te incomodar.}
 {292}{}{Just checking on things. Carry on.}
-{295}{}{No droids.}
-{296}{}{We don't serve droids.}
-{297}{}{No droids. They wait outside.}
+{295}{}{Nada de droides.}
+{296}{}{Nós não servimos droides.}
+{297}{}{Sem droides. Ele espera lá fora.}
 {300}{}{Uh, you better run along now, sir.}
 {301}{}{Uh, you better run along now, ma'am.}
 {302}{}{Get outta here, retard.}
 {303}{}{Mom says I was speshal}
 {304}{}{Cai fora}
-{305}{}{I'm not s'posed ta chat while on duty, but I'm glad you kicked the Enclave's ass.}
+{305}{}{Não posso conversar enquanto estiver em serviço, mas me alegro que você deu um chute no cu da Enclave.}
 {306}{}{Ei, }
 {310}{}{Need some more chips at table three...}
 {311}{}{Ótimo público hoje...}
@@ -63,7 +63,7 @@
 {326}{}{I run the floor of the casino here. You need anything, just ask.}
 {327}{}{What casino is this?}
 {328}{}{Can you tell me a little about the casino?}
-{329}{}{Nothing, thanks. Sorry to bother you.}
+{329}{}{Nada, obrigado. Desculpe te incomodar.}
 {335}{}{Ei, }
 {336}{}{! Heard yer the one who kicked the Enclave back to the stone age! I've been instructed to give you some chips,
  courtesy of the casino. Enjoy yourself, sir.}
@@ -83,7 +83,7 @@
 {349}{}{That comic you got on stage is weak. Mind if I try?}
 {350}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
 {351}{}{Obrigado, eu vou.}
-{352}{}{Nothing, thanks. Sorry to bother you.}
+{352}{}{Nada, obrigado. Desculpe te incomodar.}
 {353}{}{Just checking on things. Carry on.}
 {355}{}{The }
 {356}{}{The }
@@ -174,15 +174,15 @@
 {1226}{}{, sir.}
 {1230}{}{, ma'am.}
 {1231}{}{, ma'am.}
-{1285}{}{No mutants. He waits outside.}
+{1285}{}{Nada de mutantes. Terá que esperar lá fora.}
 {1286}{}{I don't care if your friend is one of the Ex-Men, mutants wait outside.}
-{1287}{}{That mutant freak ain't allowed in here.}
+{1287}{}{Aquele mutante nojento não é permitido aqui.}
 {1306}{}{. Take a rest from saving the world and have some fun.}
 {1335}{}{This is the }
 {1336}{}{This is the }
 {1337}{}{Quem é você?}
 {1338}{}{Can you tell me a little about the casino?}
-{1339}{}{Nothing, thanks. Sorry to bother you.}
+{1339}{}{Nada, obrigado. Desculpe te incomodar.}
 {1345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
 {1346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
 {1347}{}{Quem é você?}

@@ -5,14 +5,14 @@
 {201}{}{Whatdya want?}
 {220}{}{Ei, }
 {230}{}{Make another move toward that door, an' you'll be sorry.}
-{240}{}{I still can't believe Dad is dead. There's so much that I wanted to say to him...}
+{240}{}{Ainda não consigo acreditar que papai está morto. Tinha tantas coisas que eu queria ter dito...}
 {250}{}{Slaver, you done come to the wrong side of town. If you don't start explain' yourself, yer gonna be
  in a whole mess of trouble.}
 {251}{}{I don't know you, my Dad don't know you, and if you don't start explainin', it ain't gonna matter.}
 {252}{}{How's it goin', }
 {253}{}{Thanks for finding out who killed Richard, }
 {254}{}{Whatdya want now?}
-{255}{}{Mattah. Man is Mattah!}
+{255}{}{Mattah. O homem é Mattah!}
 {256}{}{Jabawokee Ding Dong}
 {257}{}{Cai fora}
 {258}{}{I'm looking for a job. Is Family Wright hiring?}

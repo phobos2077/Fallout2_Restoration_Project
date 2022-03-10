@@ -1,70 +1,70 @@
-{150}{}{You see a tall young man with a mohawk. He's wearing a lot of chains and leather.}
-{151}{}{You see Chris Wright.}
-{152}{}{You see Chris Wright. He looks bored out of his skull.}
+{150}{}{Você vê um jovem alto com um moicano. Ele está usando um monte de correntes e roupas de couro.}
+{151}{}{Você vê Chris Wright.}
+{152}{}{Você vê Chris Wright. Parece bem entediado.}
 {200}{}{Ei! }
-{201}{}{Full on, }
-{202}{}{Rock on, }
+{201}{}{Cheio, }
+{202}{}{Arrase, }
 {203}{}{::Assobios::}
 {204}{}{::Palmas::}
 {205}{}{::Assobios::}
-{215}{}{How do you go to the bathroom with that thing on?}
-{220}{}{Howdy, }
-{221}{}{Damn hot, innit, }
-{222}{}{Howdy, }
-{230}{}{I still can't believe Dad is dead. There's so much that I wanted to say to him...}
-{235}{}{Piss off.}
-{236}{}{Piss off. I mean it.}
-{237}{}{I ain't got nothing to say to you.}
+{215}{}{Como você usa o banheiro com isso?}
+{220}{}{Saudações, }
+{221}{}{Como está quente, }
+{222}{}{Saudações, }
+{230}{}{Ainda não consigo acreditar que papai está morto. Tinha tantas coisas que eu queria ter dito...}
+{235}{}{Sai daqui.}
+{236}{}{Sai fora. Estou falando sério.}
+{237}{}{Não tenho nada para te dizer.}
 {245}{}{Sim?}
-{246}{}{Hey! How's it going, }
-{247}{}{Hey, you got my thanks for finding who killed Richard, }
-{248}{}{. I owe you big, and the Wright family always pays its debts. What can I do for you?}
-{249}{}{Mattah. Man is Mattah!}
+{246}{}{Ei! Como você vai, }
+{247}{}{Ei, te agradeço por descobrir quem matou Richard, }
+{248}{}{. Devo muito a você, e a família Wright sempre paga suas dívidas. O que posso fazer por você?}
+{249}{}{Mattah. O homem é Mattah!}
 {250}{}{Hoobajuube}
 {251}{}{Cai fora}
 {252}{}{Quem é você?}
 {253}{}{I'm looking for a job. Is Family Wright hiring?}
-{254}{}{Say, I ran into your mom.}
-{255}{}{Can you tell me about Richard?}
+{254}{}{Ei, eu encontrei sua mãe.}
+{255}{}{O que você pode me contar sobre Richard?}
 {256}{}{Nada. Desculpe por atrapalhar.}
 {257}{}{Can you tell me about the Wright Family?}
-{265}{}{Piss off, retard. I ain't got time to do sign language with you.}
-{275}{}{I'm Chris. Chris Wright. Of the Family Wright. Glad you asked?}
-{277}{}{Family Wright? Who's that?}
-{278}{}{Chris Wright, huh? Say, I ran into your mom.}
-{279}{}{Can you tell me what happened to your brother Richard?}
-{280}{}{Not really. Sorry to bother you.}
+{265}{}{Que se foda, retardado. Não tenho tempo para fazer gestos com você.}
+{275}{}{Eu sou Chris, Chris Wright, da Família Wright. Quer me perguntar algo?}
+{277}{}{Família Wright? Quem são esses?}
+{278}{}{Chris Wright, é? Olha, eu encontrei sua mãe.}
+{279}{}{Você pode me contar o que aconteceu com seu irmão Richard?}
+{280}{}{Nada, na verdade. Desculpe incomodar.}
 {290}{}{You ain't heard of Family *Wright?* You musta been out in the desert too long. Family Wright is the biggest crime family
  in Reno. We're gonna rule this city.}
-{291}{}{Really? Sounds like the Wright family holds all the cards. Are they hiring?}
+{291}{}{Sério? Parece que a Família Wright tem o que precisa. Vocês estão contratando?}
 {292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
-{293}{}{Speaking of family, I ran into your mom.}
-{295}{}{Really? How interesting... well, look, I have to be going.}
+{293}{}{Falando em família, me encontrei com sua mãe.}
+{295}{}{Mesmo? Que interessante... bem, olhe, eu tenho que ir.}
 {296}{}{Family Wright is the biggest crime family in Reno. We're gonna rule this city.}
 {305}{}{Como o quê?}
-{306}{}{Can you tell me about Family Wright?}
-{307}{}{Is Family Wright hiring?}
-{308}{}{I ran into your mom not long ago. Nice lady.}
-{310}{}{No, no other questions. I better be going.}
+{306}{}{Você pode me falar sobre a Família Wright?}
+{307}{}{A Família Wright está contratando?}
+{308}{}{Encontrei sua mãe há pouco tempo. Mulher agradável.}
+{310}{}{Não, sem mais perguntas. É melhor eu ir.}
 {315}{}{(The young man looks you up and down. His eyes stop at the mark on your forehead.) Well, now. (He sneers, then spits
  on your feet.) Why don't you make yourself useful and lick that up, slaver?}
 {316}{}{(The young man looks you up and down.) Well, now. (He sneers, then spits on your feet.) Why don't you make yourself
  useful and lick that up, you piece of }
 {317}{}{ dogshit?}
-{318}{}{Kick him with the boot he spat on.}
-{320}{}{Let it alone and walk away. This time. }
+{318}{}{Você o chuta com a bota que ele cuspiu.}
+{320}{}{Você o deixa em paz e vai embora. Desta vez. }
 {325}{}{Well, I... I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
  south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
-{326}{}{Uh, Family Wright? Who's that?}
-{327}{}{Wright, huh? I ran into your mom.}
+{326}{}{Uh, Família Wright? Quem são?}
+{327}{}{Wright, é? Encontrei com sua mãe.}
 {329}{}{Obrigado.}
 {330}{}{Thanks. Can I ask you some questions?}
 {335}{}{Naw... we don't usually hire muscle that's not family. You can try asking Pa at the house, but he'll most likely
  just say no.}
 {336}{}{Está certo então.}
 {345}{}{(Cringes.) *Greeeat.* Did she give you a speech?}
-{346}{}{A little. Do you not like your mother?}
-{347}{}{No. Does she usually?}
+{346}{}{Um pouco. Você não gosta da sua mãe?}
+{347}{}{Não. Você costuma fazer isso?}
 {348}{}{Not really. Look, I better be going. }
 {355}{}{That a JOKE? If so, it damn well missed the funny mark by a mile. You trying to start something with Family Wright?}
 {356}{}{Start something? No, just FINISH it.}
@@ -128,4 +128,4 @@
 {1220}{}{. What you been up to?}
 {1221}{}{?}
 {1222}{}{. How's things?}
-{1246}{}{? Everybody treating you all right? Anything you need?}
+{1246}{}{? Todo mundo está te tratando bem? Tem alguma coisa que você precise?}

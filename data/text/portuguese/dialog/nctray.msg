@@ -13,7 +13,7 @@
 {221}{}{You know, you coulda stopped by before you went off and did that shit, then I coulda helped you whack the President.}
 {222}{}{I woulda gone to the Enclave, too, 'cept I was talkin' on the phone too much.}
 {230}{}{How many horsepower does that thing you have on get?}
-{231}{}{How do you go to the bathroom with that thing on?}
+{231}{}{Como você usa o banheiro com isso?}
 {232}{}{Any chance you let me have that armor for a little bit? I ain't gonna strip it, I just wanna borrow it.}
 {250}{}{If it ain't the man, here to oppress me again.}
 {251}{}{Yeah, Impala's a good car, but it ain't no Omni.}

@@ -4,34 +4,34 @@
 {151}{}{Eh, você está bem?}
 {152}{}{Certo. Tchau.}
 {153}{}{Ei, acho que encontrei algo que pode ajudar sua situação.}
-{154}{}{Hmm... Sounds like you might be suffering from some neurological disorder, maybe epilepsy. Sadly, I cannot
- do anything about it. Bye.}
+{154}{}{Hmm... Parece que você pode estar sofrendo de algum distúrbio neurológico, talvez epilepsia. Infelizmente, não posso
+ fazer nada sobre isso. Tchau.}
 {160}{}{Woof. Woof woof. Woooof.}
 {250}{}{Grrr!}
 {251}{}{Grrrrrr!}
 {252}{}{Grrrrrrrr!}
 {253}{}{Grrrrrrrrrr!}
-{254}{}{[Shamble away]}
+{254}{}{[Se afasta]}
 {255}{}{Grrrrrrrrr! Grrr! Woof!}
-{256}{}{(The man wimpers and scurries away.)}
-{257}{}{Hehe. Nice doggie...}
-{258}{}{Hehe. Me super doogie...}
+{256}{}{(O homem choraminga e sai correndo.)}
+{257}{}{Hehe. Lindo filhote...}
+{258}{}{Hehe. Eu super catioro...}
 {300}{}{Au?}
-{301}{}{Yeah. Just listen closely to this series of letters I am about to say...}
-{302}{}{(You slowly verbalize the series of letters you learned from the computer at the EPA, making sure the correct
- inflections are used on each letter. When you are done reading the phrase you look back up at the man. He looks back
- at you then shakes his whole body like a dog trying to dry himself after a rainstorm.)}
+{301}{}{Sim. Agora ouça atentamente esta série de cartas que vou te dizer...}
+{302}{}{(Você verbaliza lentamente a série de letras que aprendeu no computador da EPA, certificando-se de que as
+ inflexões corretas sejam usadas em cada letra. Quando você termina de ler a frase, olha de volta para o homem. Ele
+ olha para você e treme seu corpo inteiro como um cachorro tentando se secar depois de um banho.)}
 {303}{}{[MAIS]}
-{304}{}{Woo- Woah. Hey, I can speak normally! Wow, this is great. What'd you do to me?}
-{305}{}{I learned that if you read a specific series of letters, making sure to use the correct inflections on each
- letter, you can cure someone with either autism or epilepsy.}
-{306}{}{Sounds like a bunch of hoop-la to me, but hey, I'm talking, so there must be something to it. Anyway, I really
- appreciate what you've done. Here, take these stimpacks. I found 'em when I was scavenging for food behind all these buildings.}
+{304}{}{Uau - Uau. Ei, eu posso falar normalmente! Uau, isso é genial. O que você fez comigo?}
+{305}{}{Aprendi que se você ler uma série específica de cartas, certificando-se de usar as inflexões corretas
+ em cada letra, você pode curar alguém com autismo ou epilepsia.}
+{306}{}{Soa como um monte de hoop-la para mim, mas ei, estou falando, então deve ter algo bom nisso. De qualquer
+ forma, eu te agradeço pelo fez por mim. Aqui, pegue esses stimpacks. Os encontrei quando procurava comida atrás de todos estes prédios.}
 {307}{}{Obrigado. Nos vemos.}
 {350}{}{Woof!}
 {351}{}{Woof! Woooof!}
-{352}{}{*scratches self*}
-{400}{}{Woof! Heh, just kidding. Thanks again for curing me.}
-{500}{}{You cure the Barking Man.}
-{600}{}{*whimper*}
-{601}{}{He looks at you with big, scared eyes.}
+{352}{}{*se coça*}
+{400}{}{Ufa! Hehe, brincando. Obrigado novamente por me curar.}
+{500}{}{Você cura os latidos do homem.}
+{600}{}{*choramingo*}
+{601}{}{Ele olha para você com olhos grandes e assustados.}

@@ -100,7 +100,7 @@
 {303}{}{Let's take some Jet together and celebrate your victory. You're buying.}
 {304}{}{Once you delete this game from your hard drive, will we exist?}
 {305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
-{320}{}{How do you go to the bathroom with that thing on?}
+{320}{}{Como você usa o banheiro com isso?}
 {321}{}{Uh... Está falando comigo?}
 {322}{}{Oh man, these DTs must be getting worse. Now metallic people are talking to me.}
 {323}{}{Did somebody pour metal on you?}

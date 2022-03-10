@@ -41,7 +41,7 @@
 {226}{}{No robots. Get it outta here.}
 {230}{}{No mutants allowed in here. Get him outta here. Now.}
 {231}{}{Mutants aren't allowed in here. Get him outta here. Now.}
-{235}{}{How do you go to the bathroom with that thing on?}
+{235}{}{Como você usa o banheiro com isso?}
 {240}{}{Sir.}
 {241}{}{Hello, sir.}
 {242}{}{Nothing to report, sir.}
