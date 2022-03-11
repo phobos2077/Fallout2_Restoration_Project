@@ -243,7 +243,7 @@
 {951}{}{Oh, yeah? Well, the Mordinos are the biggest suppliers of Jet in New Reno. That makes you the first ones who are
  gonna take the blame.}
 {952}{}{I don't believe you. I think you ARE the one responsible. You and the rest of the Mordinos.}
-{953}{}{Who do you figure might have done it?}
+{953}{}{Quem você acha que pode ter feito isso?}
 {954}{}{Ok... Olha, eu tenho outras perguntas...}
 {955}{}{All right then. Just asking.}
 {965}{}{(Eyes narrow.) Look now, I ain't had NOTHING to do with that kid's death. I don't know what you heard, but if I'd killed

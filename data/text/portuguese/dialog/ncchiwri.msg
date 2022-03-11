@@ -69,48 +69,48 @@
 {345}{}{Oh, brilhante. Ele te deu um discurso?}
 {346}{}{Um pouco. Você não gosta da sua mãe?}
 {347}{}{Não. Você costuma fazer isso?}
-{348}{}{Not really. Look, I better be going. }
-{355}{}{That a *joke?* If so, it damn well missed the funny mark by a mile. You trying to start something with Family
- Wright, wise guy?}
-{356}{}{Start something? No, just *finish* it.}
+{348}{}{Na verdade, não. Olha, é melhor eu ir. }
+{355}{}{Isso é alguma *piada?* Se for, errou feio em encontrar o cara pra contar. Está tentando começar algo com a
+ Família Wright, espertinho?}
+{356}{}{Começar algo? Não, só *acabar*.}
 {357}{}{Não, desculpe. Eu não queria dizer isso. Olha, eu tinha algumas outras perguntas...}
-{358}{}{No, not at all. I think I better be going. }
-{365}{}{She just doesn't pay attention to what's going on around her. I love her n' all, but sometimes, she's as blind as a mule.}
-{366}{}{Well, not long ago, she charged into our alcohol still here and busted up the place, destroying our entire cash crop! I love her n' all, but sometimes she's as blind as a mule.}
-{367}{}{Heh-heh. And she looks like one, too.}
-{368}{}{Blind? How do you mean?}
+{358}{}{Não, de jeito nenhum. Acho melhor eu ir. }
+{365}{}{Ela quase nunca não presta atenção ao que está acontecendo ao redor. Claro que eu a amo, mas às vezes ela é cega como uma mula.}
+{366}{}{Bem, não faz muito tempo, ela invadiu nosso alambique e acabou com o lugar, destruiu toda a produção! Claro que eu a amo, mas às vezes ela é teimosa como uma mula.}
+{367}{}{Heh heh. Ela também se parece com uma.}
+{368}{}{Cego? O que você quer dizer?}
 {369}{}{Oh. Ei, tenho algumas outras perguntas…}
-{370}{}{I suppose. Look, I better be going. }
-{380}{}{She goes around and preaches all about sinning and stuff, but she doesn't even really know what Dad does.
- Either that, or she ignores it.}
-{381}{}{What does your Dad do?}
+{370}{}{Suponho. Olha, é melhor eu ir. }
+{380}{}{Ela anda por aí e prega muito sobre pecado e tudo mais, só que ela nem sabe o que papai faz. É isso, ou ela
+ ignore.}
+{381}{}{O que o seu pai faz?}
 {382}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
-{383}{}{Interesting. Well, I have to be going. }
-{390}{}{Makes alcohol, runs guns, rubs out people who fuck with him... typical family stuff. Mom'd be pissed
- if she actually paid mind to what was going on. And 'specially if she found this still, here.}
-{391}{}{How pissed would she be?}
+{383}{}{Interessante. Bem, eu tenho que ir. }
+{390}{}{Fabrica álcool, usa armas, apaga as pessoas que fodem com ele... coisas típicas da família. Mamãe
+ ficaria chateada se realmente reparasse nas coisas que estão acontecendo. E 'especialmente se ela encontrou isso ainda, aqui.}
+{391}{}{Quão chateada ela ficaria?}
 {392}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
-{393}{}{Interesting. Well, I have to be going. }
-{400}{}{Probably pissed enough to wreck this place... at least. Then she'd give us all a tongue lashing and a few
- solid days of preaching. Heh.}
+{393}{}{Interessante. Bem, eu tenho que ir. }
+{400}{}{Provavelmente chateada o suficiente para destruir este lugar... pelo menos. Então ela dava a todos nós um
+ sermão e alguns dias inteiros de pregação. Heh.}
 {401}{}{Hum. Diga, eu tinha algumas outras perguntas...}
-{402}{}{Hmmmmm. Thanks. }
-{410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
- figure, someone pumped him with drugs until he was dead.}
-{411}{}{'Someone' gave him too much? How do you know he didn't overdose because he took too much?}
-{412}{}{Who do you figure might have done it?}
-{413}{}{Sorry to hear that. I had some other questions...}
-{414}{}{Nasty. Look, I have to be going. }
-{420}{}{Cause he was a clean kid... Mom taught him THAT much. And if you feel like saying any different, maybe you and I
- should settle it right here.}
-{421}{}{I didn't mean it like that. Sorry I brought it up.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{402}{}{Hmmmmm. Obrigado. }
+{410}{}{Rich? Oh, você sabe, eles o encontraram como aqueles viciados em Jet, morto em uma sarjeta. Até onde podemos 
+ presumir, alguém o injetou com drogas até morrer.}
+{411}{}{'Alguém' deu muito a ele? Como você sabe que ele não teve uma overdose por tomar demais?}
+{412}{}{Quem você acha que pode ter feito isso?}
+{413}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
+{414}{}{Terrível. Olha, eu tenho que ir. }
+{420}{}{Porque ele era um garoto limpo... Mamãe o ensinou MUITO. E se você quiser achar algo diferente, talvez você e eu
+ devêssemos resolver isso aqui.}
+{421}{}{Eu não quis dizer algo assim. Me desculpe.}
+{422}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
 {423}{}{Look, KID, if you know what's good for you, you'll stop throwing down every time a little truth comes along
  and bites you in the ass.}
-{424}{}{Who do you figure might have done it?}
+{424}{}{Quem você acha que pode ter feito isso?}
 {425}{}{I'm not looking for any trouble. I'll be going. }
 {435}{}{Yeah, well, just watch it. Them's fighting words to any Wright, so don't go shooting off your mouth like that, awright?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{436}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
 {437}{}{Look, KID, don't start with me. If you know what's good for you, you'll stop trying to throw down every time
  a little truth comes along and bites you in the ass.}
 {438}{}{Desculpe, não queria ofender. Diga, eu tinha algumas outras perguntas...}

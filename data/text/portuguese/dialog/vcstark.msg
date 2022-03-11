@@ -199,7 +199,7 @@
 {298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
 {299}{}{Recon-o-what?}
 {300}{}{I do a lot of traveling. Anything I can help with?}
-{301}{}{Sorry to hear that. I had some other questions...}
+{301}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
 {302}{}{Never mind then. Goodbye.}
 {303}{}{Scouting.}
 {304}{}{O que você quer dizer?}

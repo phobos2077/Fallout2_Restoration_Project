@@ -65,39 +65,39 @@
 {345}{}{(Cringes.) *Greeeat.* Did she give you a speech?}
 {346}{}{Um pouco. Você não gosta da sua mãe?}
 {347}{}{Não. Você costuma fazer isso?}
-{348}{}{Not really. Look, I better be going. }
+{348}{}{Na verdade, não. Olha, é melhor eu ir. }
 {355}{}{That a JOKE? If so, it damn well missed the funny mark by a mile. You trying to start something with Family Wright?}
 {356}{}{Start something? No, just FINISH it.}
 {357}{}{Não, desculpe. Eu não queria dizer isso. Olha, eu tinha algumas outras perguntas...}
-{358}{}{No, not at all. I think I better be going. }
+{358}{}{Não, de jeito nenhum. Acho melhor eu ir. }
 {365}{}{(Shrugs.) She just doesn't pay attention to what's going on around her. I love her n' all, but sometimes, she's as blind as a mule.}
 {366}{}{Well, not long ago, she charged into our alcohol still here and busted up the place, destroying our entire cash crop!
  I love her n' all, but sometimes she's as blind as a mule.}
-{367}{}{Heh-heh. And she looks like one, too.}
-{368}{}{Blind? How do you mean?}
+{367}{}{Heh heh. Ela também se parece com uma.}
+{368}{}{Cego? O que você quer dizer?}
 {369}{}{Oh. Ei, tenho algumas outras perguntas…}
-{370}{}{I suppose. Look, I better be going. }
+{370}{}{Suponho. Olha, é melhor eu ir. }
 {380}{}{She goes around and preaches all about sinning and stuff, but she doesn't even really know what Dad does. Either that, or she ignores it.}
-{381}{}{What does your Dad do?}
+{381}{}{O que o seu pai faz?}
 {382}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
-{383}{}{Interesting. Well, I have to be going. }
+{383}{}{Interessante. Bem, eu tenho que ir. }
 {390}{}{Makes alcohol, runs guns, rubs out people who fuck with him... typical family stuff. Mom'd be pissed if she actually paid
  mind to what was going on. And 'specially if she found this still, here.}
-{391}{}{How pissed would she be?}
+{391}{}{Quão chateada ela ficaria?}
 {400}{}{Probably pissed enough to wreck this place... at least. Then she'd give us all a tongue lashing and a few solid days of
  preaching. Heh. }
 {401}{}{Hum. Diga, eu tinha algumas outras perguntas...}
-{402}{}{Hmmmmm. Thanks. }
+{402}{}{Hmmmmm. Obrigado. }
 {410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
  someone pumped him with drugs until he was dead.}
 {411}{}{'Someone' gave him too much? How do you know he didn't overdose because HE took too much?}
-{412}{}{Who do you figure might have done it?}
-{413}{}{Sorry to hear that. I had some other questions...}
-{414}{}{Nasty. Look, I have to be going. }
+{412}{}{Quem você acha que pode ter feito isso?}
+{413}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
+{414}{}{Terrível. Olha, eu tenho que ir. }
 {420}{}{Cause he was a clean kid... Mom taught him THAT much. And if you feel like saying any different, maybe you and I should settle
  it right here, huh?!}
-{421}{}{I didn't mean it like that. Sorry I brought it up.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{421}{}{Eu não quis dizer algo assim. Me desculpe.}
+{422}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
 {423}{}{Look, *kid,* if you know what's good for you, you'll stop throwing down every time a little truth comes along and bites you in the ass.}
 {425}{}{I'm not looking for any trouble. I'll be going. }
 {435}{}{Yeah... well, just watch it. Them's fighting words to any Wright, so don't go shooting off your mouth like that, okay?}
