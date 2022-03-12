@@ -188,7 +188,7 @@
 {454}{}{Oooooh. I can see New Reno's lights in your visor.}
 {455}{}{I'm soooo high that... uh, what was I saying?}
 {456}{}{Man, you must be HOT in that thing.}
-{457}{}{Anybody in that thing?}
+{457}{}{Tem algo nessa coisa?}
 {458}{}{Well, if it ain't Mr. Darttth Vadrrr}
 {459}{}{Man, I got to have some of that shit you're taking. You look like a big metal... thing.}
 {460}{}{Man, are YOU in the wrong game. Try one of the battle mech PC games.}

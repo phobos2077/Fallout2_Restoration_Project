@@ -23,51 +23,50 @@
 {250}{}{Hoobajuube}
 {251}{}{Cai fora}
 {252}{}{Quem é você?}
-{253}{}{I'm looking for a job. Is Family Wright hiring?}
+{253}{}{Estou à procura de trabalho. A Família Wright está contratando?}
 {254}{}{Ei, eu encontrei sua mãe.}
 {255}{}{O que você pode me contar sobre Richard?}
 {256}{}{Nada. Desculpe por atrapalhar.}
-{257}{}{Can you tell me about the Wright Family?}
+{257}{}{Você pode me falar sobre a Família Wright?}
 {265}{}{Que se foda, retardado. Não tenho tempo para fazer gestos com você.}
 {275}{}{Eu sou Chris, Chris Wright, da Família Wright. Quer me perguntar algo?}
 {277}{}{Família Wright? Quem são esses?}
 {278}{}{Chris Wright, é? Olha, eu encontrei sua mãe.}
 {279}{}{Você pode me contar o que aconteceu com seu irmão Richard?}
 {280}{}{Nada, na verdade. Desculpe incomodar.}
-{290}{}{You ain't heard of Family *Wright?* You musta been out in the desert too long. Family Wright is the biggest crime family
- in Reno. We're gonna rule this city.}
+{290}{}{Você nunca ouviu falar da Família *Wright?* Você deve estar no deserto há muito tempo. Família Wright é a maior família
+ do crime em Reno e nós vamos governar esta cidade.}
 {291}{}{Sério? Parece que a Família Wright tem o que precisa. Vocês estão contratando?}
-{292}{}{Actually, I got the impression they were one of the weakest of the families... I mean, they only deal in alcohol, they have no casino or drug trade, and their numbers are much less than other families.}
+{292}{}{Na verdade, eu tive a impressão de que eles eram uma das famílias mais fracas... Quero dizer, eles só trabalham com álcool, não têm cassinos ou trafico de drogas, e seu número é muito menor do que outras famílias.}
 {293}{}{Falando em família, me encontrei com sua mãe.}
 {295}{}{Mesmo? Que interessante... bem, olhe, eu tenho que ir.}
-{296}{}{Family Wright is the biggest crime family in Reno. We're gonna rule this city.}
+{296}{}{Família Wright é a maior família do crime em Reno. Nós vamos governar esta cidade.}
 {305}{}{Como o quê?}
 {306}{}{Você pode me falar sobre a Família Wright?}
 {307}{}{A Família Wright está contratando?}
 {308}{}{Encontrei sua mãe há pouco tempo. Mulher agradável.}
 {310}{}{Não, sem mais perguntas. É melhor eu ir.}
-{315}{}{(The young man looks you up and down. His eyes stop at the mark on your forehead.) Well, now. (He sneers, then spits
- on your feet.) Why don't you make yourself useful and lick that up, slaver?}
-{316}{}{(The young man looks you up and down.) Well, now. (He sneers, then spits on your feet.) Why don't you make yourself
- useful and lick that up, you piece of }
-{317}{}{ dogshit?}
+{315}{}{(O jovem te olha de cima a baixo. Seus olhos param na marca em sua testa.) Bem, agora. (Ele zomba, depois cospe em seus pés.) Por que você não se torna útil e lambe isso, escravo?}
+{316}{}{(O jovem te olha de cima a baixo.) Bem, agora. (Ele zomba, depois cospe em seus pés.) Por que você não se torna útil e
+ lambe isso, seu pedaço de }
+{317}{}{ pedaço de merda?}
 {318}{}{Você o chuta com a bota que ele cuspiu.}
 {320}{}{Você o deixa em paz e vai embora. Desta vez. }
-{325}{}{Well, I... I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{Bem, eu... quero dizer, a família Wright... minha família... pode ter uma vaga. Eu não estou prometendo nada, mas vá para
+ a mansão ao sul daqui, encontre meu irmão Keith e diga a ele que eu te enviei. O nome é Chris. Chris Wright.}
 {326}{}{Uh, Família Wright? Quem são?}
 {327}{}{Wright, é? Encontrei com sua mãe.}
 {329}{}{Obrigado.}
-{330}{}{Thanks. Can I ask you some questions?}
-{335}{}{Naw... we don't usually hire muscle that's not family. You can try asking Pa at the house, but he'll most likely
- just say no.}
+{330}{}{Obrigado. Posso te fazer algumas perguntas?}
+{335}{}{Não... geralmente não contratamos músculos que não sejam da família. Você pode tentar perguntar ao papai
+ em casa, mas ele provavelmente dirá que não.}
 {336}{}{Está certo então.}
-{345}{}{(Cringes.) *Greeeat.* Did she give you a speech?}
+{345}{}{(Meio envergonhado.) *Óóótimo.* Ela te fez um discurso?}
 {346}{}{Um pouco. Você não gosta da sua mãe?}
 {347}{}{Não. Você costuma fazer isso?}
 {348}{}{Na verdade, não. Olha, é melhor eu ir. }
-{355}{}{That a JOKE? If so, it damn well missed the funny mark by a mile. You trying to start something with Family Wright?}
-{356}{}{Start something? No, just FINISH it.}
+{355}{}{Isso é uma PIADA? Se assim for, errou muito achando que podia falar comigo. Está tentando começar algo com a Família Wright?}
+{356}{}{Começar algo? Não, apenas TERMINAR.}
 {357}{}{Não, desculpe. Eu não queria dizer isso. Olha, eu tinha algumas outras perguntas...}
 {358}{}{Não, de jeito nenhum. Acho melhor eu ir. }
 {365}{}{(Shrugs.) She just doesn't pay attention to what's going on around her. I love her n' all, but sometimes, she's as blind as a mule.}
@@ -99,33 +98,33 @@
 {421}{}{Eu não quis dizer algo assim. Me desculpe.}
 {422}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
 {423}{}{Look, *kid,* if you know what's good for you, you'll stop throwing down every time a little truth comes along and bites you in the ass.}
-{425}{}{I'm not looking for any trouble. I'll be going. }
+{425}{}{Não procuro problemas. Será melhor eu ir. }
 {435}{}{Yeah... well, just watch it. Them's fighting words to any Wright, so don't go shooting off your mouth like that, okay?}
 {437}{}{Look, KID, don't start with me. If you know what's good for you, you'll stop trying to throw down every time a little truth comes along and bites you in the ass.}
 {438}{}{Desculpe, não queria ofender. Diga, eu tinha algumas outras perguntas...}
-{439}{}{Understood. I better be going. }
-{445}{}{Piss off. I ain't got nothing more to say to you.}
+{439}{}{Entendo. É melhor eu ir. }
+{445}{}{Não me perturbe. Não tenho mais nada para te dizer.}
 {446}{}{Espere. Eu tenho mais perguntas.}
-{447}{}{I'm leaving, I'm leaving. }
-{455}{}{(Chris stares at you for a moment, then lunges at you!)}
+{447}{}{Estou indo, estou indo. }
+{455}{}{(Chris olha para você por um momento, então te ataca!)}
 {456}{}{So THIS is how it's gonna BE, huh? ALL RIGHT THEN, LET'S GO, MOTHER FU -- }
-{465}{}{My guess is the Mordinos, either one of their dealers or one of the Mordino family themselves. Bastards make tons of Jet.}
+{465}{}{Meu palpite são os Mordinos, um de seus traficantes ou alguém da própria família Mordino. Esses desgraçados fazem toneladas de Jet.}
 {466}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
-{467}{}{Which of the dealers do you think sold it to Richard?}
-{468}{}{I see. I better be going. }
+{467}{}{Qual dos traficantes você acha que vendeu para Richard?}
+{468}{}{Entendo. É melhor eu ir. }
 {475}{}{Could have been any one of them: Jagged Jimmy J, that scarred prick at the corner of Virgin Street, or Renesco
  'the Rocketman,' that weasely old shit who sells Jet outta that fortified shell up on the West Side.}
-{476}{}{Any other dealers?}
+{476}{}{Algum outro traficante?}
 {485}{}{Hey, man, thank YOU. }
 {486}{}{Hey, lady, thank YOU. }
-{487}{}{You find out who killed my brother, and all of Family Wright'll be thanking you. And that's no small thanks, understand?}
-{488}{}{I understand. Catch you later, Chris. }
+{487}{}{Você descobre quem matou meu irmão, e toda a Família Wright te agradece. E não é um agradecimento pequeno, entendeu?}
+{488}{}{Entendo. Te encontro mais tarde, Chris. }
 {495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
-{497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules and Little Jesus... I'll check them out. Thanks for the info, Chris. }
+{497}{}{Jagged Jimmy J, Renesco, Jules e Pequeno Jesus... Vou dar uma olhada neles. Obrigado pela informação, Cris. }
 {1200}{}{! Way to kick the Enclave's ass!}
-{1201}{}{! You rock!}
+{1201}{}{! Você é demais!}
 {1202}{}{!}
-{1220}{}{. What you been up to?}
+{1220}{}{. O que você tem feito?}
 {1221}{}{?}
-{1222}{}{. How's things?}
+{1222}{}{. Como estão as coisas?}
 {1246}{}{? Todo mundo está te tratando bem? Tem alguma coisa que você precise?}

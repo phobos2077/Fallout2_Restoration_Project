@@ -137,9 +137,9 @@
 {427}{}{I suggest you and yer ghoul friend leave before there's trouble.}
 {1204}{}{! Way to kick the Enclave's ass... er, butt!}
 {1205}{}{. That took some serious guts.}
-{1240}{}{. What you been up to?}
+{1240}{}{. O que você tem feito?}
 {1241}{}{?}
-{1242}{}{. How's things?}
+{1242}{}{. Como estão as coisas?}
 {1245}{}{ family! And he's armed! Call the others!}
 {1250}{}{ family! And she's armed! Call the others!}
 {1255}{}{ family sneakin' around! Call the others!}

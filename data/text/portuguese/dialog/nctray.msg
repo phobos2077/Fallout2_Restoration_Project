@@ -19,7 +19,7 @@
 {251}{}{Yeah, Impala's a good car, but it ain't no Omni.}
 {252}{}{Whenever I make love to you, it's hot lava...}
 {253}{}{Damn, this car needs a brass rope around the license plate.}
-{254}{}{Engine's still good.}
+{254}{}{O motor ainda está bom.}
 {255}{}{Interior smells like someone took a shit in there.}
 {256}{}{Interior smells like gecko assholes.}
 {257}{}{What the hell does a car need to RUN for?}
@@ -27,9 +27,9 @@
 {259}{}{My car ain't fast, but my lovin' is.}
 {260}{}{I can't believe my brick is as LARGE as it is.}
 {261}{}{I'm hung like a 2-headed brahmin.}
-{262}{}{The Highwayman's got a full analog system, 800 + Horsepower, 0 to 60 in less than a second.}
-{263}{}{Fast? The Highwayman goes from 0 to 60 in less than a second.}
-{264}{}{The Highwayman's got the power: 800+, in fact.}
+{262}{}{O Highwayman tem um sistema analógico completo, 800 cavalos de potência, 0-100 em menos de um segundo.}
+{263}{}{Rápido? O Highwayman vai de 0 a 100 em menos de um segundo.}
+{264}{}{Na verdade, a potencia do Highwayman é de 800 CV.}
 {265}{}{The Highwayman's got a full analog system and no computers. None of the fancy stuff.}
 {266}{}{The Highwayman's a sweet car; Chryslus sure knew how to build 'em.}
 {267}{}{I give piece a chance.}

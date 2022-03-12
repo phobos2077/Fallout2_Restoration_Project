@@ -105,41 +105,41 @@
  devêssemos resolver isso aqui.}
 {421}{}{Eu não quis dizer algo assim. Me desculpe.}
 {422}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
-{423}{}{Look, KID, if you know what's good for you, you'll stop throwing down every time a little truth comes along
- and bites you in the ass.}
+{423}{}{Ei, GAROTO, se você sabe o que é bom para você, vai parar de jogar de derrubar qualquer verdade que
+ aparece direto na sua cara.}
 {424}{}{Quem você acha que pode ter feito isso?}
-{425}{}{I'm not looking for any trouble. I'll be going. }
-{435}{}{Yeah, well, just watch it. Them's fighting words to any Wright, so don't go shooting off your mouth like that, awright?}
+{425}{}{Não procuro problemas. Será melhor eu ir. }
+{435}{}{Sim, bem, só tome cuidado. Existem muitas coisas enganosas sendo ditas sobre os Wrights, então não vá dizendo qualquer coisa por aí, beleza?}
 {436}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
-{437}{}{Look, KID, don't start with me. If you know what's good for you, you'll stop trying to throw down every time
- a little truth comes along and bites you in the ass.}
+{437}{}{Olha, GARTO, não comece. Se você sabe o que é bom para você, vai parar de jogar de derrubar qualquer verdade
+ que aparece direto na sua cara.}
 {438}{}{Desculpe, não queria ofender. Diga, eu tinha algumas outras perguntas...}
-{439}{}{Understood. I better be going. }
-{445}{}{Piss off. I ain't got nothing more to say to you.}
+{439}{}{Entendo. É melhor eu ir. }
+{445}{}{Não me perturbe. Não tenho mais nada para te dizer.}
 {446}{}{Espere. Eu tenho mais perguntas.}
-{447}{}{I'm leaving, I'm leaving. }
-{455}{}{(Chris stares at you for a moment, then lunges at you!)}
-{456}{}{So THIS is how it's gonna BE, huh? ALL RIGHT THEN, LET'S G --}
-{465}{}{My guess is the Mordinos, either one of their dealers or one of the Mordino family themselves. Bastards make tons of Jet.}
+{447}{}{Estou indo, estou indo. }
+{455}{}{(Chris olha para você por um momento, então te ataca!)}
+{456}{}{Então é assim que vai SER, hein? TUDO BEM ENTÃO, VAMOS G --}
+{465}{}{Meu palpite são os Mordinos, um de seus traficantes ou alguém da própria família Mordino. Esses desgraçados fazem toneladas de Jet.}
 {466}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
-{467}{}{Which of the dealers do you think sold it to Richard?}
-{468}{}{I see. I better be going. }
-{475}{}{Could have been any one of them: Jagged Jimmy J, that scarred son of a bitch at the corner of Virgin Street, or
- Renesco 'the Rocketman,' that weasel who sells Jet outta that fortified shell up on the West Side.}
-{476}{}{Any other dealers?}
+{467}{}{Qual dos traficantes você acha que vendeu para Richard?}
+{468}{}{Entendo. É melhor eu ir. }
+{475}{}{Poderia ter sido qualquer um deles: Jagged Jimmy J, aquele filho da puta cheio de cicatrizes na esquina da Virgin
+ Street, ou Renesco "o Homem-Foguete", aquele pilantra que vende Jet por fora do reservatório fortificado no West Side.}
+{476}{}{Algum outro traficante?}
 {477}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
-{485}{}{Hey, man, thank YOU.}
-{486}{}{Hey, lady, thank YOU.}
-{487}{}{You find out who killed my brother, and all of Family Wright'll be thanking you. And that's no small thanks, understand?}
-{488}{}{I understand. Catch you later, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino:
- he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{485}{}{Ei, cara, OBRIGADO.}
+{486}{}{Ei, senhorita, OBRIGADO.}
+{487}{}{Você descobre quem matou meu irmão, e toda a Família Wright te agradece. E não é um agradecimento pequeno, entendeu?}
+{488}{}{Entendo. Te encontro mais tarde, Chris. }
+{495}{}{Tem Jules que também vende jet, mais na cabeça da cidade, só que ele foca nos turistas... sobra o Pequeno
+ Jesus Mordino: ele pode ter empurrado drogas para Rich enquanto Rich estava sozinho. Ele fica no Desperado.}
 {496}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
-{497}{}{Jagged Jimmy J, Renesco the Rocketman, Jules and Little Jesus... I'll check them out. Thanks for the info, Chris. }
+{497}{}{Jagged Jimmy J, Renesco, Jules e Pequeno Jesus... Vou dar uma olhada neles. Obrigado pela informação, Cris. }
 {1200}{}{! Way to kick the Enclave's ass!}
-{1201}{}{! You rock!}
+{1201}{}{! Você é demais!}
 {1202}{}{!}
-{1220}{}{. What you been up to?}
+{1220}{}{. O que você tem feito?}
 {1221}{}{?}
-{1222}{}{. How's things?}
+{1222}{}{. Como estão as coisas?}
 {1246}{}{? Todo mundo está te tratando bem? Tem alguma coisa que você precise?}

@@ -15,7 +15,7 @@
 {255}{}{Mattah. O homem é Mattah!}
 {256}{}{Jabawokee Ding Dong}
 {257}{}{Cai fora}
-{258}{}{I'm looking for a job. Is Family Wright hiring?}
+{258}{}{Estou à procura de trabalho. A Família Wright está contratando?}
 {259}{}{I'm looking for a job. Chris sent me by. Is Family Wright hiring?}
 {262}{}{Hey, Keith. I ran into your Mom.}
 {263}{}{Can you tell me about your brother Richard?}
