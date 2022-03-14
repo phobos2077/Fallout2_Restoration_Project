@@ -1,66 +1,66 @@
-{125}{}{You see Cody.}
-{175}{}{You see a ragged-looking orphan. On the remains of his tattered shirt is scribbled "Cody."}
-{176}{}{You see Cody. He glares at you sullenly.}
-{177}{}{You see Cody. His gaze could make mountains get out of the way.}
-{178}{}{You see Cody. His name is scribbled on the remains of his tattered shirt.}
-{200}{}{(The child glares at you sullenly as you approach... you can barely see his face beneath all the dirt. On the remains of
- his shirt is scribbled "Cody.")}
-{201}{}{(Cody glares at you sullenly as you approach.)}
-{202}{}{Kootchie kootchie}
-{203}{}{Glare back at 'im}
-{204}{}{ lost car. }
-{205}{}{Cody, can you take }
+{125}{}{Você vê Cody.}
+{175}{}{Você vê um órfão de aparência esfarrapada. Nos restos de sua camisa rasgada está escrito "Cody".}
+{176}{}{Você vê Cody. Ele olha para você mal-humorado.}
+{177}{}{Você vê Cody. Seu olhar poderia fazer as montanhas saírem do caminho.}
+{178}{}{Você vê Cody. Seu nome está rabiscado nos restos de sua camisa rasgada.}
+{200}{}{(A criança te olha mal-humorada quando você se aproxima... você mal consegue ver o rosto dele por baixo de toda a
+ sujeira. Nos restos de sua camisa está rabiscado "Cody".)}
+{201}{}{(Cody te olha mal-humorado quando você se aproxima.)}
+{202}{}{Cuchi-cuchi}
+{203}{}{Você devolve o olhar intenso.}
+{204}{}{ perdeu o carro. }
+{205}{}{Cody, você pode pegar }
 {206}{}{Cai fora}
-{207}{}{Hey, Cody. You all right? You want something to eat maybe?}
-{208}{}{Hey, Cody. You thirsty? Want something to drink?}
-{209}{}{Where are your parents?}
-{210}{}{Hey, Cody. Have you seen my car?}
-{211}{}{Cody, can you take me to my car now?}
-{212}{}{Cody, can you take me to the place where my car is?}
-{213}{}{Cody, can you take me to the place where my car was?}
-{214}{}{Can you tell me who stole it?}
+{207}{}{Oi, Cody. Você está bem? Quer algo para comer, talvez?}
+{208}{}{Oi, Cody. Você está com sede? Quer algo para beber?}
+{209}{}{Onde estão seus pais?}
+{210}{}{Oi, Cody. Você viu meu carro?}
+{211}{}{Cody, você pode me levar para o meu carro agora?}
+{212}{}{Cody, você pode me levar até onde meu carro está?}
+{213}{}{Cody, você pode me levar onde meu carro estava?}
+{214}{}{Você pode me dizer quem roubou?}
 {215}{}{Adeus.}
-{220}{}{(Cody gives you the finger and runs away.)}
-{221}{}{(Cody's eyes get wide, and he runs away.)}
-{223}{}{ME KILL YOU ME KILL YOU ME KILL YOU ME KILL --}
-{224}{}{Maybe next time, then.}
+{220}{}{(Cody te mostra o dedo do meio e foge.)}
+{221}{}{(Os olhos de Cody se arregalam e ele foge.)}
+{223}{}{EU TE MATO EU TE MATO EU TE MATO EU TE MATO --}
+{224}{}{Talvez da próxima vez, então.}
 {225}{}{Bostinha...}
-{230}{}{(Cody continues to stare at you.)}
-{231}{}{Uh, you all right, Cody?}
-{239}{}{Well, see you later, Cody. Take care.}
-{251}{}{Hey, Cody. Want some nuka cola?}
-{252}{}{Want a brewski, kid? Never too young to start, Mom used to say. Uh, when she was sober, that is.}
-{253}{}{I got some Jet here, Cody. You want to fly high with Uncle }
-{254}{}{I got some Jet here, Cody. You want to fly high with Auntie }
-{255}{}{Hey, Cody... want some powerful methamphetamines? You could catch and eat your own game. Other children, even.}
-{256}{}{Uh, well, take care of yourself, Cody.}
-{257}{}{Sorry kid, looks like I don't have anything to give you.}
-{261}{}{Want a piece of fruit, Cody?}
-{262}{}{Want some iguana, Cody? Mmmmmm good.}
-{263}{}{Hey, Cody. Want some delici... er, edible... slab of Dunton's drymeat? Mmmmmm... uh... good.}
-{270}{}{(Cody grabs the item and runs away.)}
-{271}{}{::Mutter under your breath about the state of youth today.::}
+{230}{}{(Cody continua a olhar para você.)}
+{231}{}{Uh, você está bem, Cody?}
+{239}{}{Bem, até logo, Cody. Tome cuidado.}
+{251}{}{Eai, Cody. Quer uma nuka cola?}
+{252}{}{Quer uma cerveja, garoto? Nunca se é jovem demais para começar, mamãe costumava dizer. Uh, quando ela estava sóbria, claro.}
+{253}{}{Tenho Jet aqui, Cody. Você quer voar alto com o tio }
+{254}{}{Tenho Jet aqui, Cody. Você quer voar alto com a tia }
+{255}{}{Ei, Cody... quer metanfetamina da boa? Você pode pegar e levar sempre que quiser. Até mesmo com outras crianças.}
+{256}{}{Bem, se cuida, Cody.}
+{257}{}{Desculpe garoto, parece que não tenho nada para te dar.}
+{261}{}{Quer uma fruta, Cody?}
+{262}{}{Quer um pouco de iguana, Cody? Hmmmm que delicia.}
+{263}{}{Oi, Cody. Quer um delici... er, comestível... pedaço de carne seca de Dunton? Mmmmmm... é... bom.}
+{270}{}{(Cody pega o item e foge.)}
+{271}{}{::Resmunga baixinho como estão os jovens de hoje.::}
 {272}{}{De nada, criança...! E não mencione isso...!}
-{273}{}{Sheesh. Little bugger.}
-{274}{}{Should sell the ungrateful little bastard into slavery... hmmmm, wait a minute...}
-{280}{}{(Cody nods!)}
-{281}{}{(To your surprise, Cody nods.)}
+{273}{}{Cacete. Ladrãozinho.}
+{274}{}{Eu poderia vender esse ingrato como escravo... hmmmm, espere um minuto...}
+{280}{}{(Cody acena com a cabeça!)}
+{281}{}{(Para sua surpresa, Cody acena com a cabeça.)}
 {282}{}{Você vê }
-{283}{}{It good you know where }
-{284}{}{You did?! Can you show me where it is?}
-{286}{}{Well, I was just curious. I'll be back.}
-{290}{}{(Cody glances fearfully at Jules across the street, who is glaring at the two of you.)}
-{291}{}{(Cody glances fearfully at the black man across the street, who is glaring at the two of you.)}
-{292}{}{Oh, REALLY... well, it looks like Jules and my fist will be having a little talk, then.}
-{293}{}{Oh, REALLY... well, you know what's going to happen now, Cody? The bad man who stole }
-{294}{}{Oh, really? Well, I'll deal with him later. Can you take me to where the car is right now?}
-{300}{}{(Cody shrugs.)}
-{301}{}{Can you take me to where the car is right now?}
-{302}{}{Well, I was just curious. Goodbye.}
-{310}{}{(Cody nods again, then starts running off.)}
-{311}{}{(Run after him.)}
-{312}{}{Oh goodie, me follow... oooh, look sand! It so tan! Uh... where Cody go?}
-{313}{}{Cody, stop! I don't want to go there right now... I have some other things I have to take care of first. I'll be back in a bit.}
+{283}{}{É bom você saber onde }
+{284}{}{Você fez isso?! Você pode me levar onde está?}
+{286}{}{Bem, eu estava apenas curioso. Voltarei.}
+{290}{}{(Cody olha com medo para Jules do outro lado da rua, que está olhando para vocês dois.)}
+{291}{}{(Cody olha com medo para o homem negro do outro lado da rua, que está olhando para vocês dois.)}
+{292}{}{Oh, REALMENTE... bem, então parece que Jules e meu punho vão ter uma conversinha.}
+{293}{}{Oh REALMENTE... bem, você sabe o que vai acontecer agora, Cody? O homem mau que roubou }
+{294}{}{Oh sério? Bem, eu lido com ele mais tarde. Você pode me levar para onde o carro está agora?}
+{300}{}{(Cody dá de ombros.)}
+{301}{}{Você pode me levar para onde o carro está agora?}
+{302}{}{Bem, eu estava apenas curioso. Tchau.}
+{310}{}{(Cody acena com a cabeça novamente, então começa a correr.)}
+{311}{}{(Corre atrás dele.)}
+{312}{}{Oh bem, eu o sigo...oooh, parece areia! Tão marrom! uh... onde Cody está indo?}
+{313}{}{Cody, pare! Eu não quero ir lá agora... Tenho outras coisas para cuidar primeiro. Eu volto daqui a pouco.}
 {320}{}{(The child glares at you as you approach. He is dressed in rags, and you can barely see his face beneath all the dirt.
  As you near him, his eyes flicker to your forehead, grow wide, then he takes off running.)}
 {321}{}{(From a distance, the child seems dressed in rags. As you near him in your Power Armor, however, his eyes grow wide
@@ -95,11 +95,11 @@
 {393}{}{ME KILL YOU ME KILL YOU}
 {394}{}{Hey, no problem, Cody. Saving the world seems to be in the blood. Take care now, you hear?}
 {395}{}{You little shit! I'll kill you! I'll kill you --!}
-{1204}{}{ sad. You seen }
-{1205}{}{ to car now? Pleeease?}
+{1204}{}{ triste. você viu  }
+{1205}{}{ o carro agora? Por favoooor?}
 {1254}{}{?}
-{1282}{}{ car! Where! Where! Take me! Take me! Pleeease? Will you? Huh?}
-{1283}{}{ car is... oh, look! Shiny thing! (Wander off.)}
-{1293}{}{'s car and }
-{2204}{}{ car?}
-{2293}{}{'s fist will be having a private conversation across the street.}
+{1282}{}{ carro! Onde! Onde! Vamos! Me leve! Por favor? Você poderia? Huh?}
+{1283}{}{ o carro... oh, olhe! Algo brilhante! (Se afasta.)}
+{1293}{}{o carro e }
+{2204}{}{ o carro?}
+{2293}{}{o punho vai ter uma conversa particular do outro lado da rua.}

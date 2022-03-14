@@ -63,7 +63,7 @@
 {322}{}{Sorree. I thought you were a pot Byeeee}
 {323}{}{Why do you have a pot on your head?}
 {324}{}{What are you playing?}
-{325}{}{Where are your parents?}
+{325}{}{Onde estão seus pais?}
 {326}{}{(Let him play.)}
 {330}{}{Well... okay. (Looks you up and down.) But I'M the metal insect this game!}
 {331}{}{Okee dokee little bee person}

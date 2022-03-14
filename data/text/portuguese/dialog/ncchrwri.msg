@@ -69,57 +69,57 @@
 {356}{}{Começar algo? Não, apenas TERMINAR.}
 {357}{}{Não, desculpe. Eu não queria dizer isso. Olha, eu tinha algumas outras perguntas...}
 {358}{}{Não, de jeito nenhum. Acho melhor eu ir. }
-{365}{}{(Shrugs.) She just doesn't pay attention to what's going on around her. I love her n' all, but sometimes, she's as blind as a mule.}
-{366}{}{Well, not long ago, she charged into our alcohol still here and busted up the place, destroying our entire cash crop!
- I love her n' all, but sometimes she's as blind as a mule.}
+{365}{}{(Dá de ombros.) Simplesmente ela não presta atenção no que acontece ao seu redor. Eu a amo e tudo mais, mas às vezes ela é cega como uma mula.}
+{366}{}{Bem, não muito tempo atrás ela atacou nossa destilaria, destruiu nosso lugar e toda a colheita! Eu a amo e tudo
+ mais, mas às vezes ela é tão cega quanto uma mula.}
 {367}{}{Heh heh. Ela também se parece com uma.}
 {368}{}{Cego? O que você quer dizer?}
 {369}{}{Oh. Ei, tenho algumas outras perguntas…}
 {370}{}{Suponho. Olha, é melhor eu ir. }
-{380}{}{She goes around and preaches all about sinning and stuff, but she doesn't even really know what Dad does. Either that, or she ignores it.}
+{380}{}{Ela anda por aí e prega tudo sobre pecado e outras coisas, mas ela não sabe o que papai faz. Ou talvez só ignore.}
 {381}{}{O que o seu pai faz?}
 {382}{}{Hmmmm. Diga, eu tinha algumas outras perguntas...}
 {383}{}{Interessante. Bem, eu tenho que ir. }
-{390}{}{Makes alcohol, runs guns, rubs out people who fuck with him... typical family stuff. Mom'd be pissed if she actually paid
- mind to what was going on. And 'specially if she found this still, here.}
+{390}{}{Fabrica álcool, usa armas, mata as pessoas que fodem com ele... coisas típicas da família. Mamãe ficaria chateada se ela
+ realmente visse o que está acontecendo. E 'especialmente se ele encontrar esta destilaria.}
 {391}{}{Quão chateada ela ficaria?}
-{400}{}{Probably pissed enough to wreck this place... at least. Then she'd give us all a tongue lashing and a few solid days of
- preaching. Heh. }
+{400}{}{Provavelmente chateada o suficiente para destruir este lugar... pelo menos. Então ela daria a todos nós uma bronca e
+ alguns dias inteiros de pregação. Heh. }
 {401}{}{Hum. Diga, eu tinha algumas outras perguntas...}
 {402}{}{Hmmmmm. Obrigado. }
-{410}{}{Richard? We found him dead in one of the gutters like one of those Jet crashers. Near as we can figure,
- someone pumped him with drugs until he was dead.}
-{411}{}{'Someone' gave him too much? How do you know he didn't overdose because HE took too much?}
+{410}{}{Richard? O encontramos morto numa das sarjetas como um daqueles viciados em jet. Pelo que podemos
+ imaginar, alguém o injetou com drogas até morrer.}
+{411}{}{'Alguém' deu a ele demais? Como você sabe que não foi uma overdose porque ELE tomou demais?}
 {412}{}{Quem você acha que pode ter feito isso?}
 {413}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
 {414}{}{Terrível. Olha, eu tenho que ir. }
-{420}{}{Cause he was a clean kid... Mom taught him THAT much. And if you feel like saying any different, maybe you and I should settle
- it right here, huh?!}
+{420}{}{Porque ele era um garoto limpo... Mamãe o ensinou MUITO. E se você quiser dizer algo diferente, talvez você e eu devêssemos
+ resolver isso aqui, hein?!}
 {421}{}{Eu não quis dizer algo assim. Me desculpe.}
 {422}{}{Não ignore a possibilidade de que eu possa estar tomando Jet, é extremamente viciante.}
-{423}{}{Look, *kid,* if you know what's good for you, you'll stop throwing down every time a little truth comes along and bites you in the ass.}
+{423}{}{Olha, *garoto,* se você sabe o que é bom para você, você vai parar de evitar a verdade toda vez que ela aparecer pra te dar um tapa na cara.}
 {425}{}{Não procuro problemas. Será melhor eu ir. }
-{435}{}{Yeah... well, just watch it. Them's fighting words to any Wright, so don't go shooting off your mouth like that, okay?}
-{437}{}{Look, KID, don't start with me. If you know what's good for you, you'll stop trying to throw down every time a little truth comes along and bites you in the ass.}
+{435}{}{Sim... bem, só tenha cuidado. Estão sendo ditas coisas erradas sobre os Wright, então não fique falando disso, ok?}
+{437}{}{OLHA, não comece. Se você sabe o que é bom para você, você vai parar de evitar a verdade toda vez que ela aparecer pra te dar um tapa na cara.}
 {438}{}{Desculpe, não queria ofender. Diga, eu tinha algumas outras perguntas...}
 {439}{}{Entendo. É melhor eu ir. }
 {445}{}{Não me perturbe. Não tenho mais nada para te dizer.}
 {446}{}{Espere. Eu tenho mais perguntas.}
 {447}{}{Estou indo, estou indo. }
 {455}{}{(Chris olha para você por um momento, então te ataca!)}
-{456}{}{So THIS is how it's gonna BE, huh? ALL RIGHT THEN, LET'S GO, MOTHER FU -- }
+{456}{}{Então é assim que vai SER, hein? TUDO BEM ENTÃO, VAMOS, FILHO DA -- }
 {465}{}{Meu palpite são os Mordinos, um de seus traficantes ou alguém da própria família Mordino. Esses desgraçados fazem toneladas de Jet.}
 {466}{}{Entendi. Diga, eu tinha algumas outras perguntas...}
 {467}{}{Qual dos traficantes você acha que vendeu para Richard?}
 {468}{}{Entendo. É melhor eu ir. }
-{475}{}{Could have been any one of them: Jagged Jimmy J, that scarred prick at the corner of Virgin Street, or Renesco
- 'the Rocketman,' that weasely old shit who sells Jet outta that fortified shell up on the West Side.}
+{475}{}{Poderia ter sido qualquer um deles: Jagged Jimmy J, aquele idiota cheio de cicatrizes na esquina da Virgin Street,
+ ou Renesco "o Homem-Foguete", aquele velho bostinha que vende Jet fora daquele casco fortificado no lado oeste.}
 {476}{}{Algum outro traficante?}
-{485}{}{Hey, man, thank YOU. }
-{486}{}{Hey, lady, thank YOU. }
+{485}{}{Ei, cara, obrigado. }
+{486}{}{Ei, moça, obrigado. }
 {487}{}{Você descobre quem matou meu irmão, e toda a Família Wright te agradece. E não é um agradecimento pequeno, entendeu?}
 {488}{}{Entendo. Te encontro mais tarde, Chris. }
-{495}{}{Jules at the head of town also sells Jet, but he mostly sells to tourists... then there's Little Jesus Mordino: he mighta pushed drugs on Rich while Rich was out alone. He hangs out at the Desperado.}
+{495}{}{Jules na cabeça da cidade também vende Jet, mas ele normalmente vende para turistas... então tem o Pequeno Jesus Mordino: ele pode ter empurrado drogas enquanto Rich estava sozinho. Ele fica no Desperado.}
 {497}{}{Jagged Jimmy J, Renesco, Jules e Pequeno Jesus... Vou dar uma olhada neles. Obrigado pela informação, Cris. }
 {1200}{}{! Way to kick the Enclave's ass!}
 {1201}{}{! Você é demais!}
