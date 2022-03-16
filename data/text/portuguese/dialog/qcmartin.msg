@@ -8,7 +8,7 @@
 {107}{}{Power off! Door open!}
 {108}{}{We are so screwed.}
 {109}{}{Get us out before they run more tests.}
-{110}{}{Who are these people?}
+{110}{}{Quem são essas pessoas?}
 {111}{}{Why me? Why us?}
 {112}{}{We've got to get out of this place.}
 {113}{}{Hey you, over here!}

@@ -61,40 +61,40 @@
 {311}{}{(Corre atrás dele.)}
 {312}{}{Oh bem, eu o sigo...oooh, parece areia! Tão marrom! uh... onde Cody está indo?}
 {313}{}{Cody, pare! Eu não quero ir lá agora... Tenho outras coisas para cuidar primeiro. Eu volto daqui a pouco.}
-{320}{}{(The child glares at you as you approach. He is dressed in rags, and you can barely see his face beneath all the dirt.
- As you near him, his eyes flicker to your forehead, grow wide, then he takes off running.)}
-{321}{}{(From a distance, the child seems dressed in rags. As you near him in your Power Armor, however, his eyes grow wide
- and he takes off running.)}
-{322}{}{Bye Bye}
-{324}{}{Should sell the little bastard into slavery... hmmmm, wait a minute...}
-{330}{}{(From a distance, the child seems dressed in rags. As you approach, however, his eyes grow wide, and he takes off running.)}
-{340}{}{(From a distance, the child seems dressed in rags. As he sees Marcus approach, however, his eyes grow wide, and he
- takes off running.)}
-{350}{}{(From a distance, the child seems dressed in rags. As he sees Lenny approach, however, his eyes grow wide, and
- he takes off running.)}
-{360}{}{(Cody's stare breaks as you approach. He blinks as you come up to him, then gives a slight smile.)}
-{361}{}{(The child glares at you sullenly as you approach... you can barely see his face beneath all the dirt. On the remains
- of his shirt is scribbled "Cody." As you near him, his glare breaks and he smiles slightly.)}
-{362}{}{Haaay Codee}
-{363}{}{Biii-ye, Codee}
-{364}{}{How you doin' Cody?}
-{365}{}{Hey, Cody. I ended up saving the world. Man, was it a PAIN. Who woulda thought the president could be such a bastard?
- Whew. So... how's things with you?}
-{366}{}{Just thought I would stop by and say hello, Cody. You take care of New Reno, all right?}
-{370}{}{(Cody keeps smiling at you.)}
-{371}{}{(Cody continues to smile at you.)}
-{372}{}{(Cody smiles.)}
-{375}{}{So... how you doin' Cody? Good, huh?}
-{377}{}{Well, just thought I would stop by and say hello, Cody. You take care of New Reno, all right?}
-{380}{}{(Cody blinks, then mumbles something.)}
-{381}{}{Huh? Wat you say?}
-{382}{}{What, Cody? What did you just say?}
-{390}{}{(Cody blinks, then mumbles it again. You barely catch it, but it sounded like 'thank you.')}
-{391}{}{(Cody blinks, then mumbles it again. You barely catch it, but it sounded like 'fuck you.')}
-{392}{}{Thank YOU, Codee. Witout Npee Cees like you, me in VERY borrin world.}
-{393}{}{ME KILL YOU ME KILL YOU}
-{394}{}{Hey, no problem, Cody. Saving the world seems to be in the blood. Take care now, you hear?}
-{395}{}{You little shit! I'll kill you! I'll kill you --!}
+{320}{}{(A criança te encara quando você se aproxima. Ele está vestindo trapos, e você mal pode ver seu rosto sob toda a
+ sujeira. Quando você se aproxima, os olhos dele olham para sua testa, se arregalam, então ele sai correndo.)}
+{321}{}{(De longe, a criança parece vestida em trapos. Quando você se aproxima dele em sua Power Armor, seus olhos se
+ arregalam e ele sai correndo.)}
+{322}{}{Tchau}
+{324}{}{Deveria vender esse pestinha como escravo... hmmmm, espere um minuto...}
+{330}{}{(De longe, a criança parece vestida com trapos. À medida que você se aproxima, os olhos dele se arregalam e ele sai correndo.)}
+{340}{}{(De longe, a criança parece vestida com trapos. Quando ele vê Marco se aproximar, os olhos dele se arregalam e ele sai
+ correndo.)}
+{350}{}{(De longe, a criança parece vestida com trapos. Ao ver Lenny se aproximar, os olhos dele se arregalam e ele sai
+ correndo.)}
+{360}{}{(O olhar de Cody quebra quando você se aproxima. Ele pisca quando você se aproxima mais, então dá um leve sorriso.)}
+{361}{}{(A criança te olha mal-humorada quando você se aproxima... você mal consegue ver o rosto dele por baixo de toda a
+ sujeira. Nos restos de sua camisa está rabiscado "Cody".}
+{362}{}{Heeey Cody}
+{363}{}{Tcha-uu, Codee}
+{364}{}{Como vai, Cody?}
+{365}{}{Eai, Cody. Acabei salvando o mundo. Cara, foi uma DOIDERA. Quem diria que o presidente era um completo babaca? Ufa.
+ Então... como vão as coisas com você?}
+{366}{}{Só pensei em passar por aqui e dizer olá, Cody. Você cuida de New Reno, certo?}
+{370}{}{(Cody continua sorrindo para você.)}
+{371}{}{(Cody continua a sorrir para você.)}
+{372}{}{(Cody sorri.)}
+{375}{}{Então... como vai, Cody? Tudo certo aí?}
+{377}{}{Bem, pensei em passar por aqui e dizer olá, Cody. Você cuida de New Reno, certo?}
+{380}{}{(Cody pisca, então murmura alguma coisa.)}
+{381}{}{Huh? O que dizia?}
+{382}{}{O que, Cody? O que você disse?}
+{390}{}{(Cody pisca, então murmura novamente. Você mal entende, mas soou como 'obrigado'.)}
+{391}{}{(Cody pisca, então murmura de novo. Você mal entende, mas soou como 'vai se fuder'.)}
+{392}{}{Obrigado, Codee. Não tem criaaança como você, o mundo é MUITO chato.}
+{393}{}{TE MATO TE MATO TE}
+{394}{}{Ei, sem problemas, Cody. Salvar o mundo parece estar no meu sangue. Tome cuidado agora, ouviu?}
+{395}{}{Seu merdinha! Eu te mato! Eu te mato --!}
 {1204}{}{ triste. você viu  }
 {1205}{}{ o carro agora? Por favoooor?}
 {1254}{}{?}

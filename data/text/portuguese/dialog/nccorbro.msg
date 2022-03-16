@@ -1,7 +1,7 @@
-{100}{}{You see one of the Corsican Brothers.}
-{150}{}{You see a well-dressed man who smells like Vaseline. For some reason, he strikes you as faintly reptilian.}
-{151}{}{You see Marty, one of the Corsican Brothers. His hair is slicked back, and his face is covered with a thin sheen of sweat.}
-{152}{}{You see Sid, one of the Corsican Brothers. He is wearing a toupee, and he is wearing dark glasses.}
+{100}{}{Você vê um dos irmãos Corsican.}
+{150}{}{Você vê um homem bem vestido que cheira a vaselina. Por alguma razão, ele parece levemente reptiliano.}
+{151}{}{Você vê Marty, um dos irmãos Corsican . Seu cabelo está penteado para trás, e seu rosto está coberto com uma fina camada de suor.}
+{152}{}{Você vê Sid, um dos irmãos Corsican. Ele está usando uma peruca e óculos escuros.}
 {200}{}{Ei, }
 {201}{}{}
 {202}{}{Ei, }
@@ -9,152 +9,151 @@
 {211}{}{Isso é um novo tipo de vibrador?}
 {212}{}{Isso é um novo tipo de preservativo?}
 {220}{}{Você é mais quente que um vulcão em um dia ruim.}
-{221}{}{You're a star. A SHOOTING star.}
-{222}{}{You're a star. A SPURTING star.}
-{223}{}{You're a star. A THROBBING star.}
-{224}{}{You deliver a performance worth a thousand hard-ons.}
+{221}{}{Você e uma estrela. Uma estrela CADENTE.}
+{222}{}{Você é uma estrela. Uma estrela VELOZ.}
+{223}{}{Você é uma estrela. Uma estrela PISCANTE.}
+{224}{}{Sua atuação é ótima, merece mil ereções.}
 {225}{}{}
-{226}{}{You're a star. A shining star.}
-{227}{}{Hey, welcome back!}
-{228}{}{Come chat with me for a while.}
-{229}{}{Talk to me about business.}
-{230}{}{Come again!}
-{231}{}{Know what I'm staring at? I'm staring at the foxiest bitch in the whole world.}
+{226}{}{Você é uma estrela. Uma estrela brilhante.}
+{227}{}{Ei, bem-vindo de volta!}
+{228}{}{Venha conversar comigo um pouco.}
+{229}{}{Fale comigo sobre negócios.}
+{230}{}{Volte de novo!}
+{231}{}{Você sabe o que estou olhando? Para a maior vadia do mundo inteiro.}
 {232}{}{}
-{233}{}{Hey, welcome back, honey-tits!}
-{245}{}{Uh-oh. A suit. Everybody on their toes.}
+{233}{}{Ei, bem-vindo de volta, tetas de mel!}
+{245}{}{Uh-oh. Um terno. Todo mundo de pé.}
 {246}{}{Olá, }
-{250}{}{Hey there, you sexual Hercules!}
-{251}{}{Check out those pecs. Flex a few times.}
-{252}{}{Ever thought about a career in the business, }
-{253}{}{I could get you set up for a few scenes, if you want. Just think about it, okay?}
-{254}{}{Nice fighting style you got. How's your bedroom style?}
-{255}{}{You're welcome here anytime. Say, if you want to talk business...}
-{256}{}{Say, }
-{257}{}{Come again!}
-{258}{}{Battle on, Xena.}
-{259}{}{Nice tight stomach you have there. Like a springboard.}
-{270}{}{We're all stocked up, slaver.}
-{271}{}{These slaves are mine, slaver. Watch those eyes.}
-{275}{}{Uh, nice robo-dog, but we don't do those kind of pictures. Yet.}
-{276}{}{That robo-dog housebroken?}
-{280}{}{Whoa. Check out the treads on that bot.}
-{281}{}{Is that one of those robotic vibrators I've heard about?}
-{282}{}{That robot o' yours interested in film?}
-{290}{}{Look, take your mutant friend outta here. We don't do those kind of movies here.}
-{291}{}{Frankly, I don't think any of our actresses could handle your mutant friend.}
-{292}{}{We already did one mutant picture - mutant ate all the actresses. And I mean that in the conventional sense.}
-{300}{}{Keee-rist! Get that ghoul stinkard outta here before the smell latches on.}
-{301}{}{We ain't interested in ghoul pictures. Get him outta here.}
-{302}{}{*Phewww* That ghoul stinks ta high heaven! Get an air freshner in here before I pass out.}
-{310}{}{Well, the lighting is all off...}
-{311}{}{Like anyone is gonna CARE if the boom is in the shot!}
-{312}{}{Can we concentrate on the booty, please?}
-{313}{}{Shoot's gone on too long. Going broke paying fluffers...}
-{314}{}{He wants WHAT?!! Tell him to screw himself and the brahmin he rode in on!}
-{315}{}{Things were better in the days of implants...}
-{316}{}{The overhead is going to kill us.}
-{317}{}{Loved that Diggler guy.}
-{318}{}{The guy is sexual dynamite!}
-{319}{}{I'm NOT going to shoot you like this.}
-{320}{}{He's a missile! He's a rocket! He's just taking off, Sid, I'm telling ya!}
-{321}{}{Abso-frigging-lutely!}
-{322}{}{You tell that bastard he can go to hell!}
-{323}{}{Look, if that candy-ass comes around again...}
-{324}{}{Wham-bam-thank-you-ma'am.}
-{325}{}{If that don't beat all...}
-{326}{}{No skin off my ass.}
-{327}{}{You tell that chicken-shit son of a bitch, you TELL him...}
-{328}{}{Well, then he caught a case of seam squirrels.}
-{329}{}{That's not an MP. That's a *YP.*}
-{330}{}{20 minutes, babe.}
-{331}{}{Let's see: (Checks script.) Enter Randy, he and Sylvia go at it... Christy goes to bathroom, Peter joins her, they go at it. Enter Ron...}
-{345}{}{The Corsican Brothers at yer service... (Glances up, irritated, then does a double take.) Hey... you're the one from before - you were looking to fluff, right?}
-{346}{}{The Corsican Brothers at yer service... (Glances up, irritated.) You again. Look, you interested in the fluffer
- position or not?}
-{347}{}{The Corsican Brothers at yer service... (Glances up, irritated, then does a double take.) YOU'RE the new fluffer?}
-{348}{}{The Corsican Brothers at yer service... (Glances up, irritated.) You the new fluffer?}
-{349}{}{Me fluf}
-{350}{}{Me no fluf! Me tuff!}
+{250}{}{Ei, Hércules do sexo!}
+{251}{}{Se liga nesses peitorais. Flexione algumas vezes.}
+{252}{}{Já pensou em fazer carreira nos negócios, }
+{253}{}{Posso te preparar para algumas cenas, se quiser. Pense mais sobre isso, ok?}
+{254}{}{Você tem um bom estilo de luta. E o seu estilo na cama?}
+{255}{}{Você é bem vindo aqui qualquer hora. E se quiser falar de negócios...}
+{256}{}{Diga, }
+{257}{}{Volte de novo!}
+{258}{}{Lute, Xena.}
+{259}{}{Que barriga lisa a sua, parece um trampolim.}
+{270}{}{Já chegamos no limite, escravista.}
+{271}{}{Esses escravos são meus, escravista. Cuidado onde olha.}
+{275}{}{Uh, que cão robô bonito, mas não fazemos esse tipo de fotos. Ainda.}
+{276}{}{Aquele cão robô foi roubado?}
+{280}{}{Uau. Olhe para o andar desse bot.}
+{281}{}{É um daqueles vibradores robóticos de que ouvi falar?}
+{282}{}{Esse seu robô estaria interessado em um filmes?}
+{290}{}{Olhe, tire seu amigo mutante daqui, nós não fazemos esse tipo de filme.}
+{291}{}{Francamente, acho que nenhuma atriz consegue aguentar esse seu amigo mutante.}
+{292}{}{Já fizemos fotos com mutantes - o mutante comeu todas as atrizes. E eu falo isso no sentido literal da coisa.}
+{300}{}{Cristo! Tire esse ghoul fedorento daqui antes que o cheiro impregne.}
+{301}{}{Não estamos interessados em fotos com ghouls. Tire-o daqui.}
+{302}{}{*Phewww* Esse ghoul fede para um caralho! Traga um purificador de ar aqui, estou ficando tonto.}
+{310}{}{Bem, a luz está apagada...}
+{311}{}{Como se alguém fosse se importar se o BOOM está no tiro!}
+{312}{}{Podemos nos concentrar no saque, por favor?}
+{313}{}{A tomada durou muito tempo. Isso vai nos arruinar...}
+{314}{}{Quem quer o QUE?!! Diga para se foder ele, e aquele brahmin que ele monta!}
+{315}{}{As coisas eram melhores na época dos implantes...}
+{316}{}{As despesas gerais vão nos matar.}
+{317}{}{Eu amo esse super dotado.}
+{318}{}{Ó o Kid Bengala aí!}
+{319}{}{Eu não vou te fotografar assim.}
+{320}{}{Ele é um míssil! Um foguete! E só está decolando, Sid, estou te avisando!}
+{321}{}{Fodidamente sim!}
+{322}{}{Diga a esse puto que ele pode ir para o inferno!}
+{323}{}{Olha, se aquele idiota vier aqui de novo...}
+{324}{}{Wham-bam-obrigado senhora.}
+{325}{}{Se não acabar por aí...}
+{326}{}{Eu não tenho mais pele na bunda.}
+{327}{}{Diga a esse filho da puta de merda, DIGA a ele...}
+{328}{}{Bem, então ele tinha um problema com piolhos.}
+{329}{}{Esse não é o meu problema, é problema SEU.}
+{330}{}{20 minutos, querida.}
+{331}{}{Vamos ver: (verifique o script). Randy entra, ele e Sylvia metem... Christy vai ao banheiro, Peter se junta a ela, aí eles transam. Entra Rony...}
+{345}{}{Os Irmãos da Corsican ao seu serviço... (olha para você com irritação e depois faz um gesto de surpresa). Ei... você é o de antes: a pessoa que vai os deixar de pau duro, certo?}
+{346}{}{Os Irmãos Corsican a seu serviço... (Olha para cima, irritado.) Você de novo. Olha, você está interessado nesse trabalho ou não?}
+{347}{}{Os Irmãos Corsican a seu serviço... (Olha para você irritado e depois faz um gesto de surpresa.) VOCÊ é quem os vai deixar eretos?}
+{348}{}{Os Irmãos Corsican a seu serviço... (Olha para cima, irritado.) Você é quem os vai deixar eretos?}
+{349}{}{eu sim}
+{350}{}{Não! Eu não sou!}
 {351}{}{Cai fora}
-{353}{}{Sure am.}
-{354}{}{Actually, my spouse is.}
-{356}{}{No. I'm here for Big Jesus Mordino's money.}
-{357}{}{No. Sorry to bother you.}
-{358}{}{Nooooooo. Sorry to bother you.}
-{370}{}{Awright, brainiac. Pay's 5...er, 3 chips for one shoot. Get into the backroom and wax that fella's shaft.}
-{371}{}{Shaft... he's one bad mutha --}
-{372}{}{[Do as man say.]}
-{380}{}{Watch your mouth.}
-{381}{}{I'm talking about Shaft!}
-{390}{}{(Holds up his hands.) I can dig it.}
-{391}{}{Go wax that fella's shaft}
-{400}{}{Hmmmm. How much you bench, pal?}
-{401}{}{Hmmmm. You as tough as you look, honey-tits?}
-{402}{}{Me bench}
-{403}{}{Me no do bench me do woman}
+{353}{}{Claro que sim.}
+{354}{}{Na verdade, minha esposa é.}
+{356}{}{Não. Estou aqui pelo dinheiro do Grande Jesus Mordino.}
+{357}{}{Não. Desculpe incomodá-lo.}
+{358}{}{Nããããããão. Desculpe incomodá-lo.}
+{370}{}{Muito bom, gênio. Pagamos 5… er, 3 tampas por sessão. Vá para a sala dos fundos e amola a espada desse cara.}
+{371}{}{Espada... filhodeputa...}
+{372}{}{[Faz como o homem diz.]}
+{380}{}{Cuidado com a boca.}
+{381}{}{Eu estou falando de espada!}
+{390}{}{(Levanta as mãos). Tenho agora.}
+{391}{}{Vá encerar a espada desse cara}
+{400}{}{Hmmmm. Quantas flexões você faz, amigo?}
+{401}{}{Hmmmm. Você é tão durona quanto parece, cavala?}
+{402}{}{Eu flexiono.}
+{403}{}{Eu não flexiono eu faço com mulher.}
 {404}{}{Me money-tits}
-{405}{}{Me tuff}
-{415}{}{Riiiiight. Pal, I know where you're coming from, and I know EXACTLY where you're going. You like to act?}
-{416}{}{Riiiiight. Honey-tits, I know where you're coming from, and I know EXACTLY where you're going. You like to act?}
-{417}{}{Me like stuff}
-{418}{}{Act like what}
-{425}{}{No shit? So do I! We have so much in common already! See, we're a studio, we make MAGIC here. You...}
-{426}{}{you, pal, can be PART of that magic!}
-{427}{}{you, honey-tits, can be PART of that magic!}
-{428}{}{Okee-Dokee}
-{429}{}{Magic! Magic! Me like magic!}
-{435}{}{Act like a BEAST. Like a wild rhino. A primal animal, built only to harness his lust for the gratitude of the masses!
- MAGIC, BABY, MAGIC! THAT'S what I'm talking about!}
-{436}{}{Act like a BEAST. Like a wild mynx. A primal animal whose SOUL desire is to enflame the lusts of the masses!
- MAGIC, BABY, MAGIC! THAT'S what I'm talking about!}
-{445}{}{X-cellent! Now, time for a try-out. I need to see how you get over the 'hump.' }
-{446}{}{You game, pal?}
-{447}{}{You game, honey-tits?}
-{448}{}{Oh-Kay}
-{455}{}{Let's do it, then! No time to lose! Hey! Somebody get me an extra! }
-{456}{}{Alright, pal, time to shine...}
-{457}{}{Alright, honey-tits, time to shine...}
-{458}{}{[Do as the odd man directs.]}
-{459}{}{You bet. You ain't seen NOTHING yet.}
-{465}{}{Sorry, pal, yer just not FLEXIBLE enough for what we need. Work on it, and maybe we can talk business later, okay?}
-{466}{}{Sorry, honey-tits, yer just not FLEXIBLE enough, for what we need. Work on it, and maybe we can talk business later, okay?}
-{467}{}{Me LIKE doooo-ing business here. Me be BACK}
-{468}{}{*Snffff* O-kay. *Snffff* Me feel used}
-{469}{}{I'll try and work on my agility. Maybe next time.}
-{470}{}{I might be back. After a shower. A long shower.}
-{475}{}{Sorry, pal, yer handsome and yer flexible enough, it's just that y'ain't got the, uh, stamina we need... Work out
- a little, and then maybe we do some business, okay?}
-{476}{}{Sorry, honey-tits, yer pretty and yer flexible enough, it's just that y'ain't got the, uh, endurance we need... Work
- out a little, and then maybe we do some business, okay?}
-{479}{}{I'll try and work on my endurance. Maybe next time.}
-{485}{}{Sorry, pal, yer handsome, yer flexible, ye got the stamina of a brahmin, but y'need a bit more experience in the
- sack before we can do business, okay? We ain't got the time to train you.}
-{486}{}{Sorry, honey-tits, yer beautiful, yer flexible, ye got the endurance, but y'need a bit more experience in the
- sack before we can do business, okay? We ain't got the time to train you, sweetmeat.}
-{489}{}{I'll try and increase my uh, 'experience.' Maybe next time.}
-{495}{}{Pal, that was in-credible. }
-{496}{}{Honey-tits, that was in-credible. }
-{497}{}{You were gold out there, pure Reno gold! That performance was worth a THOUSAND hard-ons! You wanna do a movie with
- us? C'mon, let's talk, baby, let's TALK!}
-{498}{}{Okee Dokee ...me talk with you. Me wanna do that stuff again and again}
-{499}{}{Uh-uh. Me wanna go now. Me feel dirty inside}
-{500}{}{I'm interested. My price: 200 chips a... shot.}
-{501}{}{I'm interested. But first, some conditions. First off, I only work with CLEAN actors, I expect at least 500 chips for
- each shoot, 20% royalties, and no BULLSHIT. I'm a star, and you know it.}
-{503}{}{No way. I need a shower. A long shower.}
-{515}{}{(He yanks out a piece of paper from his jacket, and has you scrawl an "X" on it.) Done! Let's film! First, you'll
- need a stage name, something that screams STAR. Any ideas?}
-{516}{}{(He yanks out a piece of paper from his jacket, and directs you to scrawl your signature on it.) Done! Let's film!
- First, you'll need a stage name, something that screams STAR. Any ideas?}
-{517}{}{Awright - how about another name?}
-{525}{}{I... hmmmm... I...hmmmm. Look, I'll agree to the 500 chips, but NO ROYALTIES. You hear me?}
+{405}{}{Eu duro}
+{415}{}{Ceeerto. Cara, eu sei de onde você veio, e eu sei EXATAMENTE para onde você está indo. Você gosta de atuar?}
+{416}{}{Ceeeerto. Querida, eu sei de onde você veio, e eu sei EXATAMENTE para onde você está indo. Você gosta de atuar?}
+{417}{}{Eu gosto das coisas}
+{418}{}{Aja como o que}
+{425}{}{Sem merda? Eu também! Já temos tanto em comum! Veja, temos um estúdio, fazemos MAGICA aqui. Você...}
+{426}{}{Você, amigo, pode fazer PARTE dessa magia!}
+{427}{}{Você, querida, pode fazer PARTE dessa magia!}
+{428}{}{Tááá bom.}
+{429}{}{Magia! Magia! Eu gosto mágica!}
+{435}{}{Seja como uma BESTA. Como um rinoceronte selvagem. Um animal primitivo, construído apenas para aproveitar
+ de sua própria luxuria para agradar as massas! MÁGICA, isso é MÁGICA! É disso que estou falando!}
+{436}{}{Seja como uma BESTA. Como um lobo selvagem. Um animal primitivo cujo ÚNICO desejo é inflamar a luxúria
+ das massas! MÁGICA, isso é MÁGICA! É disso que estou falando!}
+{445}{}{Excelente! Agora vamos fazer um teste. Eu preciso ver como você supera uma 'foda'. }
+{446}{}{Você joga, amigo?}
+{447}{}{Você joga, amor?}
+{448}{}{O-K}
+{455}{}{Vamos fazer isso então! Não temos tempo a perder! Ei! Alguém me traga um extra! }
+{456}{}{Tudo bem, amigo, hora de brilhar...}
+{457}{}{Tudo bem, linda, hora de brilhar...}
+{458}{}{[Faz como o homem estranho orienta.]}
+{459}{}{Pode apostar. Você ainda não viu NADA.}
+{465}{}{Desculpe, amigo, você não é FLEXÍVEL o suficiente para o que precisamos. Treine isso, e talvez possamos falar de negócios mais tarde, ok?}
+{466}{}{Desculpe, querida, você simplesmente não é FLEXÍVEL o suficiente para o que precisamos. Trabalhe nisso, e talvez possamos falar de negócios mais tarde, ok?}
+{467}{}{Eu GOSTO de fazeeeer negócios aqui. Eu estar de VOLTA}
+{468}{}{*Snffff* O-ok. *Snffff* Me sinto usado}
+{469}{}{Vou tentar melhorar minha agilidade. Talvez na próxima vez.}
+{470}{}{Eu posso estar de volta. Depois de um banho, um banho demorado.}
+{475}{}{Desculpe, amigo, você é bonito e flexível o suficiente, é só que você não tem a, uh, resistência que precisamos...
+ Treine mais um pouco, e então talvez façamos alguns negócios, ok?}
+{476}{}{Desculpe, querida, você é bonita e flexível o suficiente, é só que você não tem a, uh, resistência que precisamos...
+ Treine mais um pouco, e então talvez façamos alguns negócios, ok?}
+{479}{}{Vou tentar melhorar minha resistência. Talvez na próxima vez.}
+{485}{}{Desculpe, amigo, você é bonito, flexível, tem a resistência de um brahmin, mas você precisa de um pouco mais de
+ experiência na cama antes que possamos fazer negócios, ok? Não temos tempo para te treinar.}
+{486}{}{Desculpe, querida, você é bonita, flexível, tem a resistência de um brahmin, mas você precisa de um pouco mais de
+ experiência na cama antes que possamos fazer negócios, ok? Não temos tempo para te treinar.}
+{489}{}{Vou tentar aumentar minha, eh, 'experiência'. Talvez na próxima vez.}
+{495}{}{Amigo, isso foi in-crí-vel. }
+{496}{}{Amor, isso foi in-crí-vel. }
+{497}{}{Você é um tesouro, ouro puro de New Reno! Essa performance valeu MIL pau duros! Quer fazer um filme conosco? Vamos,
+ vamos conversar, vamos FALAR!}
+{498}{}{Oookk... Eu vou falar com você. Eu quero fazer isso de novo e de novo e de novo}
+{499}{}{Uh-uh. Estou indo agora. me sinto sujo por dentro}
+{500}{}{Estou interessado. Meu preço: 200 fichas por... vez.}
+{501}{}{Me interessa. Mas primeiro, algumas condições. Em primeiro lugar, só trabalho com atores LIMPOS,
+ espero pelo menos 500 tampas cada filmagem, 20% de royalties e nada de BESTEIRAS. Eu sou uma estrela, e você sabe disso.}
+{503}{}{Sem chance. Eu preciso de um banho, um banho longo.}
+{515}{}{(Ele puxa um pedaço de papel de sua jaqueta, e você marca um "X" nele.) Pronto! Vamos filmar! Primeiro, você
+ precisará de um nome artístico, algo que grite ESTRELA. Alguma ideia?}
+{516}{}{(Ele tira um pedaço de papel de sua jaqueta e te diz para você assinar nele.) Pronto! Vamos filmar! Primeiro,
+ você precisará de um nome artístico, algo que grite ESTRELA. Alguma ideia?}
+{517}{}{Certo - que tal outro nome?}
+{525}{}{Eu... hmmmm... eu... hmmmm. Olha, eu concordo com as 500 tampas, mas SEM ROYALTIES. Ouviu?}
 {526}{}{Tudo certo.}
-{527}{}{No deal. I'll be seeing you.}
-{528}{}{No royalties, no }
-{535}{}{All right! "}
+{527}{}{Sem acordo. Nos vemos.}
+{528}{}{Sem royalties, sem }
+{535}{}{Tudo bem! "}
 {536}{}{Achtung! Achtung!}
-{537}{}{[Get down to business.]}
+{537}{}{[Começa a trabalhar.]}
 {545}{}{Eh... not THAT name, 'kay? Bad ass-ociations. I mean, nobody wants to see anybody named that in any decent porno.
  Choose another name, eh?}
 {546}{}{Beleza…}
@@ -333,8 +332,8 @@
 {5246}{}{. Nice weather today, huh?}
 {5252}{}{?}
 {5256}{}{, if you WANTED to do a shoot with us...}
-{5528}{}{. I'm outta this chicken-shit studio.}
-{5535}{}{!" I LIKE it! I LIKE it! Now, let's FILM...}
+{5528}{}{. Vou da o fora deste estúdio vagabundo.}
+{5535}{}{!" EU GOSTO! EU GOSTO! Agora, vamos FILMAR...}
 {5641}{}{ proud.}
 {5712}{}{!}
 {5730}{}{! We ain't shooting today, but try back again soon. }
@@ -346,5 +345,5 @@
  on this? Eh?}
 {5921}{}{. A genuine hero. I'm not gonna forget all the shit you had to swallow for us. And once all the box office receipts come in,
  the whole world will know, too.}
-{6535}{}{! Lights! Camera! Action!}
+{6535}{}{! Luz! Câmera! Ação!}
 {6810}{}{? Have a seat! So, um, what can I do you for?}
