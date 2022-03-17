@@ -673,7 +673,6 @@ procedure Node049 begin
    BOption(863, Node998, 004);
    NOption(864, Node053, 004);
    BOption(865, Node998, 004);
-   BOption(866, Node999, 004);
    BOption(867, Node999, 006);
 end
 procedure Node050 begin
