@@ -154,85 +154,85 @@
 {535}{}{Tudo bem! "}
 {536}{}{Achtung! Achtung!}
 {537}{}{[Começa a trabalhar.]}
-{545}{}{Eh... not THAT name, 'kay? Bad ass-ociations. I mean, nobody wants to see anybody named that in any decent porno.
- Choose another name, eh?}
+{545}{}{Eh... não ESSE nome, ok? Más associações. Quero dizer, ninguém quer ver alguém com um nome desse em
+ qualquer pornô decente. Escolha outro nome, certo?}
 {546}{}{Beleza…}
-{547}{}{But me really LIKE name}
-{548}{}{But I really like that name.}
-{555}{}{Now, THAT'S a name so bright and so sharp, that it'll just EXPLODE because it's just so powerful! Good choice, pal, good choice. Now, let's FILM! Lights! Camera! Action!}
-{556}{}{Now, THAT'S a name with some history and magic associated with it. Good choice, pal, good choice. Now, let's FILM! Lights! Camera! Action!}
-{557}{}{Now, THAT'S a name with some magic associated with it. Good choice, honey-tits, good choice. Now, let's FILM! Lights! Camera! Action!}
-{558}{}{Now, THAT'S a name so bright and so sharp, that it'll just EXPLODE because it's just so powerful! Good choice, honey-tits, good choice. Now, let's FILM! Lights! Camera! Action!}
-{565}{}{All right! All right! Let's do this, people! Come on! Look alive! You ready?}
-{566}{}{Me ready like freddie}
-{567}{}{I was BORN ready.}
-{575}{}{All right then, my volcanic pal. We're done for today. STELLAR performance! STELLAR! And that money shot! Perfect!
- You want to do another, you come back and see us in a month, you hear?}
-{576}{}{All right then, honey-tits. We're done for today. STELLAR performance! STELLAR! You want to do another, you come back and
- see us in a month, you hear?}
-{577}{}{Okee... Bye-bye}
-{585}{}{Cut! All right then, pal. }
-{586}{}{Cut! All right then, honey-tits. }
-{587}{}{That's a wrap. STELLAR performance! }
-{588}{}{And that money shot! }
-{589}{}{And that crooning! }
-{590}{}{Perfect! Here's your cut: }
-{591}{}{200 chips. }
-{592}{}{500 chips. }
-{593}{}{You want to do another, you come see us in a month, you hear?}
+{547}{}{Mas eu realmente GOSTO desse nome}
+{548}{}{Mas eu gosto muito desse nome.}
+{555}{}{Isso sim, ESSE é um nome tão brilhante e afiado, que com certeza EXPLODIRÁ de tanto poder! Escolha certeira, amigo, boa escolha. Agora, vamos FILMAR! Luzes! Câmera! Ação!}
+{556}{}{Isso sim, ESSE é um nome que associa história e magia com ele. Escolha certeira, amigo, boa escolha. Agora, vamos FILMAR! Luzes! Câmera! Ação!}
+{557}{}{Isso sim, ESSE é um nome que associa magia com ele. Escolha certeira, amigo, boa escolha. Agora, vamos FILMAR! Luzes! Câmera! Ação!}
+{558}{}{Isso sim, ESSE é um nome tão brilhante e afiado, que com certeza EXPLODIRÁ de tanto poder! Escolha certeira, querida, boa escolha. Agora, vamos FILMAR! Luzes! Câmera! Ação!}
+{565}{}{Tudo bem! Tudo bem! Vamos fazer isso, pessoal! Vamos! Vamos lá! Esta pronto?}
+{566}{}{Tudo pronto}
+{567}{}{Eu NASCI para isso.}
+{575}{}{Tudo bem então, meu amigo flamejante. Terminamos por hoje. Desempenho ESTELAR! ESTELAR! E essa corrida! Perfeito!
+ Você quer fazer outro, pode voltar a nos ver em um mês, certinho?}
+{576}{}{Tudo bem então, querida. Terminamos por hoje. Desempenho ESTELAR! ESTELAR! Se quiser fazer mais, pode voltar a nos ver em
+ um mês, certinho?}
+{577}{}{Okee... Tchau tchau}
+{585}{}{Corta! Tudo bem então, cara. }
+{586}{}{Corta! Tudo bem então, querida. }
+{587}{}{Terminamos. Desempenho ESTELAR! }
+{588}{}{E essa corrida! }
+{589}{}{E esses gemidos! }
+{590}{}{Perfeito! Aqui está sua parte: }
+{591}{}{200 tampas. }
+{592}{}{500 conto. }
+{593}{}{Você quiser repetir, volte a nos ver em um mês, certo?}
 {594}{}{Está certo então.}
-{610}{}{You yanking my member? Look, if you gotta ask, then you AIN'T the person for the job. Now whaddya want?}
-{612}{}{A job, huh? Well then, I AM a fluffer. The best fluffer in the business.}
-{613}{}{Um, nothing. I must be in the wrong place.}
-{620}{}{Whoa, what am I thinking? You come in here, a class act, and I babble like an idiot! Look, pal, sorry 'bout that.
- Say, um, you looking for work? None of that fluffing crap. I'm talking ACTING, see?}
-{621}{}{Whoa, what am I thinking? You come in here, a class act, and I babble like an idiot! Look, honey-tits, sorry
- 'bout that. Say, um, you looking for work? None of that fluffing shit. I'm talking ACTING, see?}
-{622}{}{First off, what is this place?}
-{623}{}{If there's a steady paycheck in it, I'm interested.}
-{630}{}{Awright then. Head to the back, start waxing the shafts. Here's your pay: 5 chips.}
-{631}{}{[Do as he says.]}
-{632}{}{Um, actually, I changed my mind. No thanks. I'd best be going now.}
-{640}{}{Yer spouse, huh? Hmmmmm. Awright. Have yer life partner head to the back, start spit-shining the shafts. Here's the pay: 3 chips.}
-{641}{}{Do as the man says, Davin-honey. Do }
-{642}{}{Do as he says, Miria my sweet. NOW.}
-{650}{}{This place? C'mon, what, you jokin' with me? This here's the Golden Globes, a FILM studio, the only one in Reno, probably
- the ONLY one still erect and standing. What, you don't know your own home? That hurts!}
-{651}{}{This place? This here's the Golden Globes, a FILM studio, pal, the only one in Reno, probably the ONLY one still
- erect and standing, see? Now, you gonna talk my ears off, or you wanna job?}
-{652}{}{This place? This here's the Golden Globes, a FILM studio, honey, the only one in Reno, probably the ONLY one still
- erect and standing, see? Now, you gonna talk my ears off, or you wanna job?}
-{653}{}{This old place? This here's the Golden Globes, a FILM studio, probably the ONLY one still erect and standing in
- the world. But enough about this place... you looking for a job, pal? We NEED talent like you.}
-{654}{}{This old place? This here's the Golden Globes, a FILM studio, probably the ONLY one still erect and standing in the
- world. But enough about this place... you looking for a job, honey-tits?}
-{655}{}{How do you "film?" I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
-{657}{}{No thanks. I have to be going.}
-{658}{}{Just checking. I've been feeling a little drained, lately.}
-{670}{}{We lucked out... we don't NEED any of that stoneage crap. We stumbled across a WORKING porno... er, holo... graphic projector.
- No bulky equipment, no fuss... and no unsightly mess.}
+{610}{}{Você está ficando comigo? Ei, se você precisa perguntar, então você NÃO é a pessoa certa para este trabalho. Então o que?}
+{612}{}{Um trabalho, é? Bem, então, eu sou um faço isso. Vou deixar eles com o pau latejando.}
+{613}{}{Hum, nada. Devo estar no lugar errado.}
+{620}{}{Nossa, o que estou pensando? Você vem aqui, com sua alta classe, e eu balbuciando como um idiota! Amigo,
+ desculpe. Veja, hum, você está procurando um emprego? Nada dessa merda de excitar os outros. Estou falando de ATUAR, ok?}
+{621}{}{Nossa, o que estou pensando? Você vem aqui, com sua alta classe, e eu balbuciando como um idiota!
+ Querida, desculpe. Veja, hum, você está procurando um emprego? Nada dessa merda de excitar os outros. Estou falando de ATUAR, ok?}
+{622}{}{Pra começar, que lugar é esse?}
+{623}{}{Se houver um salário fixo, estou interessado.}
+{630}{}{Certo então. Vá para trás, vai encerar uns eixos. Aqui está o seu pagamento: 5 fichas.}
+{631}{}{[Faz o que ele diz.]}
+{632}{}{Hum, na verdade, mudei de ideia. Não, obrigado. É melhor eu ir agora.}
+{640}{}{Sua esposa, é? Hmmmmm. Certo. Deixe sua costela ir para trás e comece a polir as espadas. Aqui está o pagamento: 3 tampas.}
+{641}{}{Faça o que o homem diz, querida. O que }
+{642}{}{Faça o que ele diz, Miria, minha querida. AGORA.}
+{650}{}{Esse lugar? Vamos lá, você está brincando comigo? Este aqui é o Globo de Ouro, um estúdio de CINEMA, o único em Reno,
+ provavelmente o ÚNICO ainda em pé. O que, você não conhece sua própria casa? Isso machuca!}
+{651}{}{Esse lugar? Isso aqui é o Globo de Ouro, um estúdio de CINEMA, amigo, o único em Reno, provavelmente o ÚNICO
+ ainda em pé, viu? Agora, você vai continuar falando, ou quer um emprego?}
+{652}{}{Esse lugar? Isso aqui é o Globo de Ouro, um estúdio de CINEMA, querida, o único em Reno, provavelmente o ÚNICO
+ ainda em pé, viu? Agora, você vai continuar falando, ou quer um emprego?}
+{653}{}{Esse lugar? Isso aqui é o Globo de Ouro, um estúdio de CINEMA, amigo, o único em Reno, provavelmente o ÚNICO
+ ainda em pé e funcionando no mundo. Mas chega de explicações... está procurando emprego, cara? PRECISAMOS de talentos como você.}
+{654}{}{Esse lugar? Isso aqui é o Globo de Ouro, um estúdio de CINEMA, amigo, o único em Reno, provavelmente o ÚNICO
+ ainda em pé e funcionando no mundo. Mas chega de explicações... está procurando emprego, querida?}
+{655}{}{Como você "filma"? Quer dizer, diga... você precisa de câmeras, filme, projetores... onde você consegue todas essas coisas?}
+{657}{}{Não, obrigado. Eu tenho que ir.}
+{658}{}{Apenas checando. Me sinto meio esgotado ultimamente.}
+{670}{}{Tivemos sorte... nós não PRECISAMOS dessa porcaria da idade da pedra. Nos deparamos com um projetor gráfico pornô... er, holo...
+ FUNCIONANDO. Sem equipamento volumoso, sem barulho... e sem bagunça.}
 {671}{}{Sééério... quais especificações o projetor tem?}
-{672}{}{I see... well, look: I'm interested in a job, if you're still offering.}
-{673}{}{Nice talking to you, but I have to be going.}
-{680}{}{Well... we ain't hit capacity on the QEWB drive yet - near as I can tell, it's about a 300 GB high density memory cube.
- Even though the Winblows 57 O.S. eats up 70-75% of that, we could film for a hundred years on that cube.}
-{681}{}{Where is this cube now? Can I see it?}
-{683}{}{Wow. That's a LOT of porn. I think I'm going to go think about that for a while.}
-{690}{}{No, we try and keep everybody outta the film room... everybody wants to throw in their two cents when it comes to
- editing and storage. 'Sides, the cube's gold to us - wouldn't want anything to happen to it.}
-{692}{}{Makes sense. God knows what use some thief could put that cube to if they got their hands on it. Oh, well. Bye!}
-{700}{}{X-cellent! A-course, I'll need ta see what yer made of, a little try-out to see how you get over the 'hump.' You game, pal?}
-{701}{}{X-cellent! A-course, I'll need ta see what yer made of, a little try-out to see how you get over the 'hump.' You game, honey-tits?}
+{672}{}{Entendo... bem, olhe: estou interessado em um emprego, se você ainda estiver oferecendo.}
+{673}{}{Prazer em falar com você, mas eu preciso ir.}
+{680}{}{Bem... ainda não atingimos a capacidade da unidade QEWB - pelo que posso dizer, trata-se de um cubo de memória de
+ alta densidade com 300 GB. Mesmo que o Winblows 57 O.S. use 70-75% disso, poderíamos filmar por uns cem anos nesse cubo.}
+{681}{}{Onde está este cubo agora? Posso ver?}
+{683}{}{Uau, isso é MUITO pornô. Acho que preciso refletir nisso por um tempo.}
+{690}{}{Não, nós mantemos todo mundo fora do set… todo mundo quer fazer sua parte quando se trata de edição e armazenamento.
+ Além disso, o cubo é ouro para nós: não gostaríamos que nada acontecesse com ele.}
+{692}{}{Faz sentido. Deus sabe como um ladrão poderia usar esse cubo se pusesse as mãos nele. Eh, bom. Tchau!}
+{700}{}{Excelente! Claro, vou precisar ver como você se vai agir, um pequeno teste para ver como você passa por uma 'foda'. Vamos jogar, amigo?}
+{701}{}{Excelente! Claro, vou precisar ver como você se vai agir, um pequeno teste para ver como você passa por uma 'foda'. Vamos jogar, querida?}
 {702}{}{Com certeza.}
-{703}{}{Uh, no thanks. I've changed my mind. Some other time.}
-{710}{}{Then get the hell outta here, you little shit! We don't need you! Get lost! You'll never work in porn again!}
-{711}{}{Me no want to anyway! SO THERE!}
-{712}{}{Screw you! You're not my boss. You're not the boss of me. I'm the fucking boss of }
-{720}{}{Get outta here. I got nothing to say to you.}
-{721}{}{Me and you got nothing to say to each other. Blow.}
-{730}{}{Hey, welcome back, }
-{732}{}{Can you tell me a little about the studio first?}
-{733}{}{I'm glad you said that. See, I'm here for Big Jesus Mordino's money.}
+{703}{}{Não, obrigado, eu mudei de ideia. Talvez outra hora.}
+{710}{}{Então dê o fora daqui, seu merdinha! Nós não precisamos de você! Some! Você nunca mais vai trabalhar no pornô!}
+{711}{}{Eu não quero o mesmo! É ISSO!}
+{712}{}{Foda-se! Você não é meu chefe. Você não é o meu chefe. Eu sou o maldito chefe de }
+{720}{}{Saia daqui. Não tenho nada para te dizer.}
+{721}{}{Você e eu não temos nada para conversar. Desapareça.}
+{730}{}{Ei, bem-vindo de volta, }
+{732}{}{Você pode me falar primeiro um pouco sobre o estúdio?}
+{733}{}{Fico feliz por você dizer isso. Viu, estou aqui pelo dinheiro do Grande Jesus Mordino.}
 {734}{}{All right. I'll try back later.}
 {735}{}{(Winks.) You're money, baby, nothing but money!}
 {740}{}{The Corsican Brothers at yer service... (The man glances up, smiles.) Hey, welcome back, }
@@ -334,9 +334,9 @@
 {5256}{}{, if you WANTED to do a shoot with us...}
 {5528}{}{. Vou da o fora deste estúdio vagabundo.}
 {5535}{}{!" EU GOSTO! EU GOSTO! Agora, vamos FILMAR...}
-{5641}{}{ proud.}
+{5641}{}{ é orgulho.}
 {5712}{}{!}
-{5730}{}{! We ain't shooting today, but try back again soon. }
+{5730}{}{! Não vamos filmar hoje, mas volte novamente em breve. }
 {5740}{}{! You looking to go at another film session?}
 {5755}{}{!' And don't you forget it!}
 {5780}{}{?! How come you ain't been by earlier? Great fight by the way! Great fight! What can I do for you?}
