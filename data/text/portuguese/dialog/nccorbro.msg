@@ -233,79 +233,79 @@
 {730}{}{Ei, bem-vindo de volta, }
 {732}{}{Você pode me falar primeiro um pouco sobre o estúdio?}
 {733}{}{Fico feliz por você dizer isso. Viu, estou aqui pelo dinheiro do Grande Jesus Mordino.}
-{734}{}{All right. I'll try back later.}
-{735}{}{(Winks.) You're money, baby, nothing but money!}
-{740}{}{The Corsican Brothers at yer service... (The man glances up, smiles.) Hey, welcome back, }
-{743}{}{Sure am. Let's break some bedsprings.}
-{745}{}{Not really. I'm here for Big Jesus Mordino's money.}
+{734}{}{Tudo bem. Voltarei mais tarde.}
+{735}{}{(Pisca.) Você é dinheiro, fofura, nada além de dinheiro!}
+{740}{}{Os Irmãos Corsican ao seu serviço... (O homem te olha e sorri.) Ei, bem-vindo de volta, }
+{743}{}{Claro que sim. Vamos arrebentar mais camas.}
+{745}{}{Na verdade Não. Estou aqui pelo dinheiro do Grande Jesus Mordino.}
 {746}{}{Não, obrigado.}
-{755}{}{Whoa... you don't WANT to do it?! What, you too GOOD for us, now? We made you what you are, '}
-{756}{}{Me not forget no get mad make me sad me come back but me got to go now}
-{758}{}{Ignore him and wander off}
-{759}{}{Calm down. I just don't want to shoot today, okay? Sheesh. I'll just come back later when you've cooled off.}
-{760}{}{Screw you guys. I don't need this brahmin shit. I'm a star! A big bright shining star!}
-{765}{}{Hey... you all right? You seem a little out of it. You ain't on drugs, are you? Cause I AIN'T gonna shoot you like this.}
-{766}{}{Me want to film NOW little person}
-{768}{}{You're not the boss of me! I want to fuck, it's my big dick, so everybody get ready to fucking film right NOW.}
-{769}{}{You're not the boss of me! I want to fuck, it's my big vagina, so everybody get ready to fucking film right NOW.}
-{770}{}{All right. I'll try back later when I've, uh, calmed down.}
-{780}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy...}
-{781}{}{Me 4! Me 4!}
+{755}{}{Mas o que... você NÃO quer mais fazer?! Qual é o problema, agora você é bom demais para nós? Nós fazemos de você o que você é, '}
+{756}{}{Não esqueço e não fico bravo estou triste estou voltando mas já estou indo embora.}
+{758}{}{Você ignora e vai embora}
+{759}{}{Fica na boa, só não quero filmar hoje, certo? Só volto mais tarde, quando você se acalmar.}
+{760}{}{Vão se foderem, eu não preciso dessa bosta de brahmin. Eu sou uma estrela! Uma grande estrela brilhante!}
+{765}{}{Ei, você está bem? Tá parecendo meio perturbado. Você não usou drogas, não é? Porque eu NÃO vou fazer com você assim.}
+{766}{}{Eu quero filmar AGORA, coisa meiga.}
+{768}{}{Você não é meu chefe! Eu quero foder, essa é a minha rolona, então eu quero todo mundo pronto para filmar AGORA mesmo.}
+{769}{}{Você não é o meu chefe! Eu quero foder, esse é o meu bucetão, então todo mundo se prepare para filmar AGORA.}
+{770}{}{Tudo bem. Vou tentar voltar mais tarde quando estiver, uh, mais calmo.}
+{780}{}{Os irmãos Corsican ao seu serviço... (O homem ergue os olhos, irritado, e então faz um gesto de surpresa.) Santo...}
+{781}{}{Eu 4! Eu 4!}
 {782}{}{Nada}
 {783}{}{O que é este lugar?}
-{784}{}{Can you tell me a little about the studio?}
-{785}{}{Got any... openings... I could fill?}
-{786}{}{Got any work for someone like me?}
-{787}{}{I'm here for Big Jesus Mordino's money.}
+{784}{}{Você pode me falar um pouco sobre o estúdio?}
+{785}{}{Tem alguma... vaga... que eu possa preencher?}
+{786}{}{Tem algum trabalho para alguém como eu?}
+{787}{}{Estou aqui pelo dinheiro do Grande Jesus Mordino.}
 {788}{}{Nada. Desculpe por atrapalhar.}
-{795}{}{The Golden Globes studio, the studio for all talent in what remains of the world. And you, friend, you could be a STAR, know
- what I'm saying? You interested in acting?}
-{797}{}{Sure. Are you serious?}
-{799}{}{Not at the moment. Sorry to bother you.}
-{805}{}{Hell, yes! Let's try you out! Hey! Get me some extras here! We gotta us a star in the making!}
-{806}{}{[Do as the man directs.]}
-{810}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy... uh... hey, how you doing, }
-{812}{}{Nuthin}
+{795}{}{O estúdio Globo de Ouro, o estúdio para todos os talentos que ainda restam no mundo. E você, amigo, você poderia ser uma
+ ESTRELA, sabe o que quero dizer? Você está interessado em atuar?}
+{797}{}{Certo. Você está falando sério?}
+{799}{}{Por enquanto não. Desculpe por incomodar.}
+{805}{}{Claro que sim! Vamos tentar! Ei! Traga-me alguns extras aqui! Temos uma estrela em formação!}
+{806}{}{[Faz como o homem indica.]}
+{810}{}{Os irmãos Corsican ao seu serviço... (O homem ergue os olhos, irritado, e então faz um gesto de surpresa.) Meu... uh... ei, como você está? }
+{812}{}{N-nada}
 {813}{}{O que é este lugar?}
-{814}{}{Indulge me. Tell me a little about this studio.}
-{815}{}{Good question. You got any... openings... I could fill?}
-{816}{}{Good question. Got any work for someone like me?}
-{825}{}{The Golden Globes studio, THE studio for all talent in what remains of the world. So... uh, what can I do for you today?}
-{827}{}{You got time to audition ME? I'm thinking I could be a star, you know what I'm saying?}
-{829}{}{Nothing today. Sorry to bother you.}
-{835}{}{Um, sure. Sure. Let's, uh, give you a try. See if you got what it takes. I mean, we're pretty booked, but
- we can try you out, okay? Uh... some extras over here, please! Hurry up!}
-{836}{}{[Do as the man directs.]}
-{845}{}{Um, sure, sure! Sure... here ya go. 250 chips. And, uh, say hello to Big Jesus for me, okay?}
-{846}{}{Um, sure, sure! Sure... sorry about the misunderstanding. Here ya go. 250 chips. And, uh, say hello to Big Jesus for me, okay?}
-{847}{}{Before you're all quick to run me outta here, why don't you tell me about your little operation, slick?}
-{848}{}{Yeah. Maybe. Later for you, pal.}
-{855}{}{Corsican Brothers at yer service... (Glances up.) You again. You looking for more work, Mister
- Fluffs-A-Lot?}
-{856}{}{Corsican Brothers at yer service... (Glances up.) You again. You looking for more work, Little
- Miss Fluffs-a-Lot?}
-{857}{}{Corsican Brothers at yer service... (Glances up.) You! What HAPPENED to you? I mean, it's good,
- it's good... I musta missed
- something before. You were interested in fluffing, was that it?}
-{861}{}{Uh, what's a fluffer?}
-{862}{}{Yeah. Is there any more work for me?}
-{875}{}{Corsican Brothers at yer service... (Glances up.) Hey! You thought about my offer? Eh?}
-{876}{}{Corsican Brothers at yer service... (Glances up.) Hey! You want another try-out? Is that it?}
-{877}{}{Corsican Brothers at yer service... (Glances up.) Hey! You thought about my offer? You wanna go again, see if you still
- got the magic? Eh?}
-{879}{}{Doh-Kay}
-{881}{}{Yes. I've changed my mind. Should I just whip it out or...?}
-{882}{}{Yes. I've changed my mind. Should I just drop my pants or...?}
-{895}{}{... I heard about your X-ploits... how you blew the rig of every member in the Enclave. That took a stomach of iron.}
+{814}{}{Vamos lá. Me fale um pouco sobre este estudo.}
+{815}{}{Boa pergunta. Você tem... alguma vaga... que eu possa preencher?}
+{816}{}{Boa pergunta. Tem algum trabalho para alguém como eu?}
+{825}{}{O estúdio Globo de Ouro, é O estúdio para todos os talentos que restam no mundo. Então... uh, o que posso fazer por você hoje?}
+{827}{}{Você tem tempo para me fazer um teste? Eu estou pensando que poderia ser uma estrela, sabe do que me refiro?}
+{829}{}{Hoje não. Desculpe incomodá-lo.}
+{835}{}{Certo, certo. Vamos, uh, te dar uma tentativa. Vejamos se você tem o que é preciso. Quero dizer, nem
+ todos podem, mas podemos testá-lo, ok? Uh... alguns extras aqui, por favor! Se apresse!}
+{836}{}{[Faz como o homem indica.]}
+{845}{}{Hum, claro, claro! Claro... aqui está. 250 tampas. E, uh, diga olá ao Grande Jesus por mim, ok?}
+{846}{}{Hum, claro, claro! Claro... desculpe pelo mal-entendido. Aqui vai. 250 tampas. E, uh, diga olá ao Grande Jesus por mim, ok?}
+{847}{}{Antes que você tente me expulsar daqui, por que você não me conta sobre sua pequena operação, pilantra?}
+{848}{}{Sim, pode ser. Estou indo, cara.}
+{855}{}{Irmãos Corsican ao seu serviço... (Olha para cima.) Você de novo. Está procurando mais trabalho,
+ senhor da punheta?}
+{856}{}{Irmãos Corsican ao seu serviço... (Olha para cima.) Você de novo. Está procurando mais trabalho,
+ senhora da punheta?}
+{857}{}{Irmãos Corsican ao seu serviço... (Olha para cima.) Você! O que ACONTECEU com você? Quero dizer,
+ é bom, é bom... Eu devo ter
+ perdido alguma coisa antes. Você estava interessado em esfregar o bicho, é isso?}
+{861}{}{Uh, do que você está falando?}
+{862}{}{Sim. Há mais trabalho para mim?}
+{875}{}{Irmãos Corsican ao seu serviço... (Olha para cima.) Ei! Pensou na minha oferta? Eh?}
+{876}{}{Irmãos da Córsega ao seu serviço... (Olha para cima.) Ei! Você quer outro teste? É isso?}
+{877}{}{Irmãos Corsican ao seu serviço... (Olha para cima.) Ei! Pensou na minha oferta? Você quer ir de novo, ver se você ainda
+ tem a magia? Eh?}
+{879}{}{Cer-to}
+{881}{}{Sim, eu mudei de ideia. Devo apenas afastá-lo ou...?}
+{882}{}{Sim. Eu mudei de ideia. Devo apenas abaixar minhas calças ou...?}
+{895}{}{... Eu ouvi sobre suas façanhas... como você comeu a plataforma dos membros da Enclave. Você teve um estômago de ferro.}
 {896}{}{Aham}
-{897}{}{Nup}
-{899}{}{Uh, I didn't blow every member of the Enclave. You see, what happened was --}
-{900}{}{I better go.}
+{897}{}{No-no}
+{899}{}{Uh, eu não comi nada dos membros da Enclave. Veja, o que aconteceu foi...}
+{900}{}{É melhor eu ir.}
 {910}{}{Don't be modest. I know it must have sucked. Most people wouldn't have had the stomach for it. But you swallowed
  your pride and did who had to be done. THAT'S star power.}
 {911}{}{Aham}
 {914}{}{Uh, look, I DIDN'T blow every member of the Enclave, see --}
-{915}{}{I better go.}
+{915}{}{É melhor eu ir.}
 {920}{}{Know what I'm thinking, }
 {921}{}{Yer a hero, }
 {922}{}{Aham}
@@ -337,13 +337,13 @@
 {5641}{}{ é orgulho.}
 {5712}{}{!}
 {5730}{}{! Não vamos filmar hoje, mas volte novamente em breve. }
-{5740}{}{! You looking to go at another film session?}
-{5755}{}{!' And don't you forget it!}
-{5780}{}{?! How come you ain't been by earlier? Great fight by the way! Great fight! What can I do for you?}
-{5810}{}{?! How's Boss }
+{5740}{}{! Você quer ir para outra sessão de filmagem?}
+{5755}{}{!' E não se esqueça disso!}
+{5780}{}{?! Como é que você não veio aqui antes? Uma grande genial, diga-se de passagem! Excelente! O que posso fazer por você?}
+{5810}{}{?! Como o chefe }
 {5920}{}{? I'm thinking about a feature film based on your X-ploits. We'd call it 'Pullout: Post-Nuclear Boogalo.' Are we together
  on this? Eh?}
 {5921}{}{. A genuine hero. I'm not gonna forget all the shit you had to swallow for us. And once all the box office receipts come in,
  the whole world will know, too.}
 {6535}{}{! Luz! Câmera! Ação!}
-{6810}{}{? Have a seat! So, um, what can I do you for?}
+{6810}{}{? Se sente! Então, hum, o que posso fazer por você?}
