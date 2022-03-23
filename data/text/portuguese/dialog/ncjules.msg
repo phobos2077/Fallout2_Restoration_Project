@@ -190,7 +190,7 @@
 {639}{}{How extensive is their distribution network?}
 {650}{}{Got factories all over New Reno, cranking out the shit day and night. That's why you can buy all
  the Jet you need most anywhere: bars, casinos, on th' street... and a-course, from ME.}
-{651}{}{Can I see what you got in stock?}
+{651}{}{Posso ver o que você tem em estoque?}
 {652}{}{Back to the Mordinos and Jet...}
 {660}{}{Yeah... (Leans in.) ...see, the Mordinos got themselves a lil' gold mine by the name o' Myron. Hit the jackpot with him... see,
  he MADE Jet.}

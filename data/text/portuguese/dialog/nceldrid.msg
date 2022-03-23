@@ -1,69 +1,69 @@
-{100}{}{You see Eldridge.}
-{150}{}{You see a heavily armed man covered with grease. He is gazing at his weapon collection on the walls and smiling dreamily.}
-{151}{}{You see Eldridge. He is gazing at his weapon collection and smiling dreamily.}
-{200}{}{Congratulations, hero! You done good!}
-{201}{}{::Fires his gun into the air, starts hooting and hollering:: Th' Enclave's DEAD! DEAD! DEAD! Yeeee-haw!}
-{202}{}{::Ding-dong, the Enclave's dead, the Enclave's dead... ::}
-{203}{}{Enclave's a good reason for every citizen to have the right ta bear arms.}
-{204}{}{Next time, don't you go to th' Enclave without stopping by here first... I'll make sure you have all the firepower
- you NEED.}
-{210}{}{Holeeee Peter Paul n' Mary. Power armor!}
-{211}{}{Shooooo-eeee. ::Rubs eyes:: That Power Armor?!}
-{212}{}{Somebody pinch me. Is that POWER ARMOR?!}
-{213}{}{Tapdance on my grave and pee on my firstborn! Power Armor! In Reno!}
-{214}{}{You selling that Power Armor, friend?!! Hey! Anybody home?!!}
-{220}{}{A 9mm's FINE, but a .233's got stopping power...}
-{221}{}{What I really want is a Red Ryder BB gun.}
-{222}{}{Hope no one gets a hold of a turbo plasma rifle before I do.}
-{223}{}{Wonder where the Salvatores get those laser weapons...}
-{224}{}{Was dreaming of plasma weapons again last night...}
-{225}{}{Better get that new shipment of shotgun shells in for the Wrights...}
-{226}{}{Hope the Mordinos got the gold to pay for their order...}
-{227}{}{That weapon? Punch a hole right through a metal wall, it can.}
-{228}{}{That boy's a genius... would hardly know it to look at him...}
-{229}{}{Better take those dogs for a walk soon before they start peeing everywhere.}
-{230}{}{Them Unwashed Villagers are stockpiling more weapons... they're a tough bunch.}
-{231}{}{I wish somebody would rob me so I could shoot 'em.}
-{232}{}{Gonna need to clean the shelves soon...}
-{233}{}{Can't wait to go huntin' gangs next week...}
-{234}{}{I got SMGs, pistols, dynamite, grenades... and still people come in wanting swords n' crossbows.}
-{240}{}{Welcome, hero! Damn nice work you made of the Enclave... saved all our hides, you did, and I thank you for it. Eldridge's
- the name. You in the market for some iron to fill that holster of yours?}
-{241}{}{Welcome, mister... Eldridge's the name. You in the market for some iron to fill that holster of yours?}
-{242}{}{Welcome, traveler... Eldridge's the name. You in the market for some iron to fill that holster of yours?}
-{243}{}{Ernnnnh? Hole-sterrr?}
-{244}{}{Depends on what you're selling.}
-{250}{}{Welcome back, hero! Damn nice work you made of the Enclave... saved all our hides, you did, and I thank you for it. }
-{251}{}{You see something you like, you let me know, and we'll work out a *special* discount, awright?}
-{252}{}{Awwww rite}
-{253}{}{Wander away}
-{254}{}{Great! Can I see what you got in stock?}
-{255}{}{I don't know if you can help me... I'm looking for something special.}
-{256}{}{My boss... }
-{257}{}{Jules told me to come here if I was looking for weapons.}
-{258}{}{Do the Salvatores buy their lightbringers here?}
-{259}{}{I brought you that laser pistol I promised.}
-{260}{}{Can you upgrade weapons?}
-{261}{}{I'll be back to look around then.}
-{262}{}{Excellent... can I see you special stock?}
-{270}{}{Here at New Reno Arms, we have the latest personal protection devices needed to stop any yellow-bellied sonuvabitch dead in his tracks. (Smiles evilly.)}
-{272}{}{Hello again, friend. What can I do for you?}
+{100}{}{Você vê Eldridge.}
+{150}{}{Você vê um homem fortemente armado coberto de graxa. Ele está olhando para sua coleção de armas na parede com um sorriso sonhador.}
+{151}{}{Você vê Eldridge. Ele está olhando para sua coleção de armas com um sorriso sonhador.}
+{200}{}{Parabéns, herói! Você foi muito bem!}
+{201}{}{::Dispara sua arma para o ar, começa a assobiar e gritar:: A Enclave está MORTA! MORTA! MORTA! Yeee-haw!}
+{202}{}{::Ding-dong, A Enclave está morta, a Enclave está morta... ::}
+{203}{}{A Enclave é uma boa razão para todo cidadão ter o direito de portar armas.}
+{204}{}{Da próxima vez, não vá para a Enclave sem passar aqui primeiro... Vou me certificar de que você tenha
+ todo o poder de fogo que PRECISA.}
+{210}{}{Miiiinha Nossa Senhora. Uma power armor!}
+{211}{}{Jeeeesus ::Esfrega os olhos:: Essa é uma Power Armor?!}
+{212}{}{Alguém me belisque. Isso é POWER ARMOR?!}
+{213}{}{Dancem no meu túmulo e mijem sobre meu primogênito! Uma power armor! Em Reno!}
+{214}{}{Vende essa Power Armor aí, amigo?!! Ei! Alguém em casa?!!}
+{220}{}{Uma 9mm é boa, mas uma .233 arregaça qualquer coisa...}
+{221}{}{O que eu realmente quero é uma Red Ryder BB.}
+{222}{}{Espero que ninguém consiga um rifle de plasma turbo antes de mim.}
+{223}{}{Gostaria de saber onde os Salvatores conseguem essas armas a laser...}
+{224}{}{Tive um sonho com armas de plasma ontem à noite...}
+{225}{}{É melhor levar aquele novo carregamento de cartuchos de espingarda para os Wrights...}
+{226}{}{Espero que os Mordinos tenham o ouro para pagar o pedido...}
+{227}{}{Essa arma? Pode perfurar uma parede de metal.}
+{228}{}{Aquele garoto é um gênio... ele mal notaria alguém olhando para ele...}
+{229}{}{Melhor levar esses cães para um passeio logo antes que eles comecem a mijar por aí.}
+{230}{}{Esses aldeões sujos estão acumulando mais armas... eles são um bando difícil.}
+{231}{}{Eu gostaria que alguém me roubasse para que eu pudesse atirar nele.}
+{232}{}{Vou precisar limpar as prateleiras em logo...}
+{233}{}{Mal posso esperar para ir caçar gangues na próxima semana...}
+{234}{}{Eu tenho SMGs, pistolas, dinamite, granadas... e mesmo assim as pessoas procuram espadas e bestas.}
+{240}{}{Bem-vindo, herói! Trabalho do caralho que você fez na Enclave... salvou muito as nossas peles, e eu agradeço por isso. Eldridge
+ é o nome. Você está procurando algum ferro para encher seu coldre?}
+{241}{}{Bem-vindo, senhor... Eldridge é meu nome. Você está no mercado procurando algum ferro para encher seu coldre?}
+{242}{}{Bem-vindo, viajante... Eldridge é meu nome. Você está no mercado procurando algum ferro para encher seu coldre?}
+{243}{}{Ernnnnh? Pão de batata?}
+{244}{}{Depende do que estiver vendendo.}
+{250}{}{Bem-vindo de volta, herói! Trabalho do caralho que você fez na Enclave... salvou muito as nossas peles, e eu agradeço por isso. }
+{251}{}{Você achar algo que goste pode me avisar, e você terá um desconto *especial*, ok?}
+{252}{}{Ceeeerto}
+{253}{}{Vai embora.}
+{254}{}{Ótimo! Posso ver o que você tem no estoque?}
+{255}{}{Não sei se você pode me ajudar... Estou procurando algo especial.}
+{256}{}{Meu chefe... }
+{257}{}{Jules me disse para vir aqui quando estivesse procurando armas.}
+{258}{}{Os Salvatores compram suas pistolas laser aqui?}
+{259}{}{Te trouxe aquela pistola laser que prometi.}
+{260}{}{Você pode melhorar armas?}
+{261}{}{Voltarei para dar uma olhada então.}
+{262}{}{Excelente... posso ver seu estoque especial?}
+{270}{}{Aqui em Armas de New Reno, temos os mais recentes dispositivos de proteção pessoal necessários para impedir que qualquer viado filho da puta se coloque no seu caminho. (Sorri maliciosamente.)}
+{272}{}{Olá novamente, amigo. O que posso fazer por você?}
 {273}{}{Como?}
-{274}{}{Stuff me like stuff you like stuff tooooo?}
-{276}{}{You're just the man I was looking for then. Can I see what you got in stock?}
-{277}{}{Can I see what you got in stock?}
-{283}{}{Can you modify or upgrade weapons?}
-{284}{}{Not interested right now, thanks.}
+{274}{}{Coisas que eu gosto coisas que você gosta de coisas também?}
+{276}{}{Então você é exatamente o homem que eu estava procurando. Posso ver o que você tem para vender?}
+{277}{}{Posso ver o que você tem em estoque?}
+{283}{}{Você pode modificar ou melhorar armas?}
+{284}{}{Não tenho interesse no momento, obrigado.}
 {285}{}{Nada por hoje, valeu.}
-{286}{}{Can I see your special stock?}
-{300}{}{See anything shiny you want? C'mon, there must be something here that interests you.}
-{301}{}{Uh... sure, sure. (Looks at you critically.) You remind me of my slave, Al. You want to see what we got in stock, friend?}
-{302}{}{Yuh}
-{303}{}{Me vant somefin NOT stock}
+{286}{}{Posso ver seu estoque especial?}
+{300}{}{Vê algo brilhante que você gosta? Vamos lá, tem que haver algo aqui que te interessa.}
+{301}{}{Uh... certo, certo. (Te olha criticamente.) Você me lembra meu escravo, Al. Quer ver o que temos em estoque, amigo?}
+{302}{}{S-im}
+{303}{}{Quero cosas no sem estoque}
 {304}{}{Nuh}
-{310}{}{Jules sent you my way, huh? }
-{311}{}{'Bout time that lazy bastard did his job... so what can I do you for, mister?}
-{312}{}{'Bout time that lazy bastard did his job... pardon my French. So what can I do you for, miss?}
+{310}{}{Jules te mandou pra cá, é? }
+{311}{}{Já estava na hora daquele baiano bunda mole fazer o trabalho dele... então o que eu posso fazer por você, senhor?}
+{312}{}{Já estava na hora daquele baiano bunda mole fazer o trabalho dele... Desculpe meu palavreado. O que eu posso fazer por você, senhorita?}
 {330}{}{No, no... we used to be in the business of doing that, but...(Looks pained.)...well, there's been an
  accident... and we just don't do it no more. Anything else I can do for you?}
 {331}{}{All right then. I'm interested in something else...}

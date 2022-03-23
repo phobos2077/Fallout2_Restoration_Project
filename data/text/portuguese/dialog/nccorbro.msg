@@ -301,37 +301,37 @@
 {897}{}{No-no}
 {899}{}{Uh, eu não comi nada dos membros da Enclave. Veja, o que aconteceu foi...}
 {900}{}{É melhor eu ir.}
-{910}{}{Don't be modest. I know it must have sucked. Most people wouldn't have had the stomach for it. But you swallowed
- your pride and did who had to be done. THAT'S star power.}
+{910}{}{Não seja modesto. Eu sei que deve ter doído, maioria das pessoas não teria estômago para isso. Mas você engoliu
+ seu orgulho e fez o que tinha que ser feito. Esse é o poder de uma estrela.}
 {911}{}{Aham}
-{914}{}{Uh, look, I DIDN'T blow every member of the Enclave, see --}
+{914}{}{Ei, eu NÃO comi nada dos membros da Enclave, veja só --}
 {915}{}{É melhor eu ir.}
-{920}{}{Know what I'm thinking, }
-{921}{}{Yer a hero, }
+{920}{}{Sabe o que estou pensando, }
+{921}{}{Você é um herói, }
 {922}{}{Aham}
-{924}{}{Yuppity-yup. Byeeee}
-{926}{}{Sure, what the hell. I solved this game. Let's do it.}
-{927}{}{Greeeeat. Thanks...}
-{928}{}{Let me go save the game first, then I might come back and do it.}
-{935}{}{Ruined. We're ruined.}
-{936}{}{Without that cube... ruined.}
-{937}{}{Oh, cruel, cruel sex gods! What offense did we give you that caused you to take the cube from us?}
-{938}{}{::Sigh:: With the cube gone, maybe I should take up macramé.}
-{1000}{}{Me feel sicky-sick in belly.}
-{1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
-{1100}{}{Ack! ::spit, spit:: That SUCKED!}
-{1101}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 5 chips is 5 chips!}
+{924}{}{Sim sim, tchaaaau.}
+{926}{}{Mas claro que sim, um coitado teve que traduzir tudo isso, vamos lá.}
+{927}{}{Óóóótimo. Obrigado...}
+{928}{}{Deixe eu salvar o jogo primeiro, vamos ver se eu não perco minha dignidade.}
+{935}{}{Arruinados. Estamos arruinados.}
+{936}{}{Sem o cubo estamos... arruinados.}
+{937}{}{Oh, cruéis, cruéis deuses do sexo! Que ofensa fizemos a vocês para tirar o cubo de nós?}
+{938}{}{::Suspiro:: Sem o cubo, talvez eu devesse fazer miçangas.}
+{1000}{}{Estou sentindo alguns enjoos.}
+{1001}{}{Você tem um gosto ruim e meio nojento na boca e se sente mal do estômago. Mas ei, 3 tampas são 3 tampas!}
+{1100}{}{Agh! ::cuspa, cuspa:: Que NOJENTO!}
+{1101}{}{Você tem um gosto ruim e meio nojento na boca e se sente mal do estômago. Mas ei, 5 tampas são 5 tampas!}
 {1200}{}{Eu... não me sinto muito bem.}
-{1201}{}{True love triumphs once again. Your spouse looks deathly ill, but at least you're 3 chips richer!}
-{1250}{}{You have become a star. A big, bright shining star.}
-{5200}{}{! Just the hero we wanted to see!}
-{5201}{}{, our hero friend, have we got a deal for you!}
-{5202}{}{! We heard about what you did to the Enclave! Now let's discuss what we can do for YOU...}
-{5225}{}{ is gold. Pure gold.}
-{5232}{}{! Sweetheart! Honey-tits!}
-{5246}{}{. Nice weather today, huh?}
+{1201}{}{O amor verdadeiro triunfa novamente. Sua esposa parece mortalmente doente, mas pelo menos você está 3 tampas mais rico!}
+{1250}{}{Você se tornou uma estrela. Uma grande estrela brilhante.}
+{5200}{}{! Esse é o herói que queríamos ver!}
+{5201}{}{, nosso amigo herói, temos um acordo para você!}
+{5202}{}{! Ouvimos sobre o que você fez com a Enclave! Agora vamos discutir o que podemos fazer por VOCÊ...}
+{5225}{}{ é ouro. Ouro puro.}
+{5232}{}{! Querida! Lindas tetas!}
+{5246}{}{. Clima bom hoje, né?}
 {5252}{}{?}
-{5256}{}{, if you WANTED to do a shoot with us...}
+{5256}{}{, se você QUISER fazer uma sessão conosco...}
 {5528}{}{. Vou da o fora deste estúdio vagabundo.}
 {5535}{}{!" EU GOSTO! EU GOSTO! Agora, vamos FILMAR...}
 {5641}{}{ é orgulho.}
@@ -341,9 +341,9 @@
 {5755}{}{!' E não se esqueça disso!}
 {5780}{}{?! Como é que você não veio aqui antes? Uma grande genial, diga-se de passagem! Excelente! O que posso fazer por você?}
 {5810}{}{?! Como o chefe }
-{5920}{}{? I'm thinking about a feature film based on your X-ploits. We'd call it 'Pullout: Post-Nuclear Boogalo.' Are we together
- on this? Eh?}
-{5921}{}{. A genuine hero. I'm not gonna forget all the shit you had to swallow for us. And once all the box office receipts come in,
- the whole world will know, too.}
+{5920}{}{? Estou pensando em um filme baseado em seus feitos. Nós o chamaríamos de 'Foda-out: Bordel pós nuclear'. Posso
+ contar com você? Ei?}
+{5921}{}{. Um herói genuíno. Não vou esquecer toda a merda que você teve que engolir por nós. E quando todos os ingressos da
+ bilheteria chegarem, o mundo inteiro também saberá.}
 {6535}{}{! Luz! Câmera! Ação!}
 {6810}{}{? Se sente! Então, hum, o que posso fazer por você?}
