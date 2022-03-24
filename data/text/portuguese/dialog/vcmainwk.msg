@@ -142,14 +142,14 @@
 {239}{}{How about $3100 for the low-light scope?}
 {240}{}{Could you upgrade one of my other weapons?}
 {241}{}{Never mind. I wanted something else...}
-{242}{}{Actually, none of them. I have to go.}
+{242}{}{Na verdade, nenhuma delas. Preciso ir.}
 {243}{}{I'll be back when I have more cash to spare.}
 {244}{}{I suppose I could juice up that cattleprod for you. It'll cost you $750.}
 {245}{}{Está bem. }
 {246}{}{How about $650 instead?}
 {247}{}{Actually, could you upgrade one of my other weapons instead?}
 {248}{}{Esqueçe. Eu queria outra coisa...}
-{249}{}{Actually, none of them. I have to go.}
+{249}{}{Na verdade, nenhuma delas. Preciso ir.}
 {250}{}{É muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
 {251}{}{I see you've picked up some tricks from my cheapskate father. Give me about an hour, and it'll be good to go...}
 {252}{}{All right, all right. You sound just like my cheapskate Dad. Give me about an hour, and it'll be good to go...}
