@@ -11,7 +11,7 @@
 {110}{}{Hmm... rondine africana o europea?}
 {111}{}{Ehi! Quello non v'appartiene, sapete?}
 {112}{}{Vi sto avvisando. Tenete le mani a posto.}
-{113}{}{Adesso basta. Quand'e' troppo e' troppo!}
+{113}{}{Adesso basta. Quand'e' troppo e' troppo.}
 {114}{}{La Sacra Granata di Antiochia? Beh, per farla breve e' l'arma piu' potente al mondo, nel suo genere.}
 {115}{}{Perche' siete alla ricerca di una cosi' terribile arma?}
 {116}{}{Noi della Confraternita d'Acciaio andiamo cercando questa terribile arma di distruzione appartenuta ai nostri antenati per impedire che se ne impossessi qualcuno che potrebbe abusare del potere della Sacra Granata di Antiochia.}

@@ -647,7 +647,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {662}{}{I found their base. They're holed up in a series of caves in the foothills to the South.}
 {663}{}{I wiped them out. They were holed up in a series of caves in the foothills to the South.}
 {664}{}{Information has its price.}
-{665}{}{Nevermind. I have to be going.}
+{665}{}{Deixa pra lá. Eu tenho que ir.}
 {666}{lyn108}{You have? Excellent! But the city guards are already stretched thin... What about you?
  Could you end the attacks? I'll pay you.}
 {667}{}{No, I'm too busy at the moment.}

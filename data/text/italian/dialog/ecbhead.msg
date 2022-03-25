@@ -1,4 +1,4 @@
-{100}{}{Vedi un enorme monumento di pietra che sembra stia... parlando con se stesso?!}
+{100}{}{Vedi un enorme monumento di pietra che sembra stia... parlando con se stesso?}
 {101}{}{Vedi un monumento di pietra raffigurante la testa dell'Abitante del Vault. E' sicuramente un bel ritratto, ma dubiti che la testa dell'Abitante del Vault fosse davvero di queste dimensioni.}
 {102}{}{Vedi un enorme monumento di pietra.}
 {103}{}{Vedi un monumento di pietra raffigurante la testa dell'Abitante del Vault. E' sicuramente un bel ritratto, ma dubiti che la testa dell'Abitante del Vault fosse davvero di queste dimensioni.}

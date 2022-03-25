@@ -2,7 +2,7 @@
 {101}{}{You see Nessa, the lost spirit.}
 {102}{}{You see the spirit of a pretty young girl, illuminated by the cold glow of the moon.}
 {103}{}{I'm betrayed. Betrayed and alone.}
-{104}{}{How could he do this to me?}
+{104}{}{Como ele pode fazer isso comigo?}
 {105}{}{The blood... So much blood...}
 {110}{}{He said that he loved me. That we could start over together. How could he do this?}
 {111}{}{Who did this to you? Can you hear me?}

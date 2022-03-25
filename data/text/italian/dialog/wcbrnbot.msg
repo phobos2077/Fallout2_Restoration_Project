@@ -31,7 +31,7 @@
 {130}{}{Consegnare arma.                                               Procedere verso la superficie.}
 {131}{}{}
 {132}{}{Addio.}
-{133}{}{Urg!}
+{133}{}{Urg}
 {134}{}{Vuoi interagire con Skynet?}
 {135}{}{Fuori dai piedi.}
 {136}{}{Aspettami qui.}

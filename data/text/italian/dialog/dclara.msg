@@ -141,7 +141,7 @@
 {595}{}{Un vero peccato.}
 {596}{}{E tu sei la prossima, troia.}
 {597}{}{Hmph!}
-{598}{}{Tu essere prossimo!}
+{598}{}{Tu essere prossimo.}
 {610}{}{Sai davvero come mandare a puttane le cose, vero?}
 {611}{}{Non abbiamo piu' bisogno del tuo aiuto.}
 {612}{}{Va' a disturbare qualcun altro.}

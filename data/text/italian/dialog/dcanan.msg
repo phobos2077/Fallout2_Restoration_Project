@@ -28,7 +28,7 @@
 {132}{}{Non penso che sia uno spettacolo adatto a te.}
 {133}{}{Perche' non porti la tua ristretta mente da selvaggio da qualche altra parte?}
 {134}{}{Questo spettacolo non fa proprio per te.}
-{135}{}{Capisco, hmmm, che ne diresti di ANDARTENE (indica) VIA!?}
+{135}{}{Capisco, hmmm, che ne diresti di ANDARTENE (indica) VIA!}
 {136}{}{Per una persona della sua classe sarei felice di mostrare questo esemplare unico e di grande valore storico per soli 25$.}
 {137}{}{OK, faro' questo sforzo. Adesso... mostrami la Mummia!}
 {138}{}{Non ho voglia di spendere una cifra simile. Credo che sopravvivero' anche senza vedere 'sta cosa. Addio.}
@@ -46,7 +46,7 @@
 {150}{}{Non ti credo. Lasciami provare a fare una cosa. WOODY! Ehi, WOODY! Sei tu?}
 {151}{}{Beh, se lo dici tu. Ma secondo me assomiglia molto ad un normalissimo ghoul... Addio.}
 {152}{}{(Woody -- e infatti quello che sta mezzo addormentato davanti a te e' Woody, non una Mummia -- afferra i lati del sarcofago di cartapesta, lancia un grido e raggiunge di corsa la porta, lasciando una scia di "bende" fatte con la carta igienica, e un rapido "Graziiie davveeero, straniero!" dietro a se'.)}
-{153}{}{Hah! Lo sapevo! Hai chiuso con questa citta'. Non sei piu' il Grande Ananias, oramai sei soltanto uno stronzo qualsiasi!}
+{153}{}{Hah! Lo sapevo! Hai chiuso con questa citta'. Non sei piu' il Grande Ananias, oramai sei soltanto uno stronzo qualsiasi.}
 {154}{}{Vai Woody, vai! Ah ah! Lo sapevo!}
 {155}{}{(Il Grande Ananias alza le spalle) Lo sapevo che avrei fatto meglio a prendere quel brahmin con una testa sola... Oh beh, dovro' inventarmi qualcos'altro.}
 {156}{}{Un brahmin con una testa sola? Certo, certo... ma chi vuoi che ci creda?! Addio, signor ciarlatano.}

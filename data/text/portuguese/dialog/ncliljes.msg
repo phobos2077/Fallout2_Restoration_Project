@@ -93,7 +93,7 @@
 {508}{}{Hoo ooh?}
 {511}{}{Cai fora}
 {512}{}{Quem é você?}
-{513}{}{Sorry. I thought you were someone else.}
+{513}{}{Desculpe. Achei que você fosse outra pessoa.}
 {522}{}{Eh...? You again? What do you want now?}
 {523}{}{Heeeey... whatzzup, friend? Something on your mind?}
 {524}{}{Me from under where}

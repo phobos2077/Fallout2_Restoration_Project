@@ -18,5 +18,5 @@
 {212}{}{Prendeteli, ragazzi.}
 {213}{}{Uccideteli tutti.}
 {214}{}{Vi prometto che la vostra morte sara' rapida.}
-{215}{}{Piu' in alto, quelle mani!}
+{215}{}{Piu' in alto, quelle mani.}
 {216}{}{Non muovetevi.}

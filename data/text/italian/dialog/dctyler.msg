@@ -44,7 +44,7 @@
 {291}{}{Grrrr.}
 {292}{}{Grazie.}
 {300}{}{Smamma, osso duro, prima che un puzzle lo diventi la TUA faccia.}
-{301}{}{Smamma, troia. Metzger non si sognerebbe mai di mandare una donna, percio'... fuori dai piedi!}
+{301}{}{Smamma, troia. Metzger non si sognerebbe mai di mandare una donna, percio'... fuori dai piedi.}
 {302}{}{Troia? Adesso ti mostrero' cos'e' in grado di fare questa troia.}
 {303}{}{Fottiti.}
 {304}{}{[Vattene]}
@@ -119,7 +119,7 @@
 {490}{}{Oh, davvero? Allora quella troia ce le ha le palle, dopotutto! Bene, ti sei meritato 100$.}
 {491}{}{Grazie.}
 {500}{}{Non cosi' in fretta, lingualunga. Solo per sicurezza, aspetteremo finche' non si saranno fatti vivi. Potresti benissimo avermi raccontato una balla, per quel che ne so. Fa' in modo che si facciano vivi e POI ti paghero'.}
-{501}{}{Ma io faccio l'amore, non la guerra!}
+{501}{}{Ma io faccio l'amore, non la guerra.}
 {502}{}{Mi sta bene.}
 {510}{}{Senti, non me ne frega un cazzo di ratto di cosa diavolo tu faccia. Non ti daro' un soldo finche' non si faranno vivi. Ci occuperemo noi del combattimento, ma sara' meglio per te che si facciano vedere.}
 {511}{}{Okay.}

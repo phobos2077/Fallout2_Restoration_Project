@@ -9,7 +9,7 @@
  Goddess deems us worthy, she will turn the Xander root into Broc flowers. }
 {107}{}{Dopo un raccolto generoso, noi offriamo un dono alla Dea del Mare affinche' Ella ci resti vicina e ci protegga. Ogni anno Ella ricompensa la nostra fede mandandoci delle lance insieme alla marea come segno della sua presenza.}
 {108}{}{Posso vedere cosa vi ha donato la Dea?}
-{109}{}{Urg!}
+{109}{}{Urg}
 {110}{}{Ecco quello che la grande Dea ci ha donato quest'anno. Saremo lieti di dividere i Suoi doni con te... ad un prezzo.}
 {111}{}{Spazzatura [$10]}
 {112}{}{Pistola Laser [$10000]}

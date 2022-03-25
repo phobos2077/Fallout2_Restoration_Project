@@ -1,5 +1,5 @@
 {100}{}{Vedi un viaggiatore.}
-{101}{}{Ehila', compagno viaggiatore!}
+{101}{}{Ehila', compagno viaggiatore.}
 {102}{}{Ho bisogno di informazioni. Puoi aiutarmi?}
 {103}{}{Dove siete diretti?}
 {104}{}{Che cosa fai?}

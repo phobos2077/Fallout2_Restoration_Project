@@ -10,7 +10,7 @@
 {109}{}{[Non sei in grado di leggere quello che c'e' sul monitor.]}
 {110}{}{Fine Programma.}
 {111}{}{Esci}
-{112}{}{Urg!}
+{112}{}{Urg}
 {113}{}{Attendere prego...                                             Corpo del Robot - OK                                         Riserve di gel Biomed - OK                                        Dispositivo di Immagazzinamento Organico - Presente               Pronto all'attivazione}
 {114}{}{Attendere prego...                                             Corpo del Robot - OK                                         Riserve di gel Biomed - Pieno                                  Dispositivo di Immagazzinamento Organico - Non Presente           Si consiglia di NON attivare l'unita'}
 {115}{}{Attendere prego...                                             Corpo del Robot - Sostituire Motivatore                      Riserve di gel Biomed - OK                                        Dispositivo di Immagazzinamento Organico - Presente               Si consiglia di NON attivare l'unita'}

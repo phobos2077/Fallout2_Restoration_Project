@@ -1,91 +1,90 @@
-{100}{}{You see Mrs. Wright.}
-{150}{}{You see a chunky, sad-faced woman. She seems to be depressed and is sighing to herself.}
-{151}{}{You see Mrs. Wright. She seems to be depressed and is sighing to herself.}
-{175}{}{You see a plump, rosy-cheeked woman. She seems to be in good spirits and is humming to herself.}
-{176}{}{You see Mrs. Wright. She seems to be in good spirits and is humming to herself.}
+{100}{}{Você vê a Sra. Wright.}
+{150}{}{Você vê uma mulher corpulenta com o rosto triste. Ela parece estar deprimida e está suspirando para si mesma.}
+{151}{}{Você vê a Sra. Wright. Ela parece estar deprimida e está suspirando para si mesma.}
+{175}{}{Você vê uma mulher gorda e com bochechas rosadas. Ela parece estar de bom humor e está cantarolando para si mesma.}
+{176}{}{Você vê a Sra. Wright. Ela parece estar de bom humor e está cantarolando para si mesma.}
 {200}{}{*Suspiro*}
-{201}{}{How could he do this to me?}
-{205}{}{Another fine Reno day!}
-{206}{}{::Whistle while you work...::}
-{207}{}{Ah, to work! Such pleasure in doing a task and doing it well!}
+{201}{}{Como ele pode fazer isso comigo?}
+{205}{}{Mais um belo dia em Reno!}
+{206}{}{::Assobia enquanto trabalha...::}
+{207}{}{Ah, o trabalho! Que prazer fazer bem uma tarefa!}
 {208}{}{::Hmmmm-hmmm-hmmm-hm-hm -hmmmm::}
-{209}{}{Another fine Reno night!}
-{210}{}{(The woman jumps.) Oh, my! You gave me such a fright! (Squints at you.) Yes, yes?}
-{211}{}{(Mrs. Wright jumps.) Oh, my! You gave me such a fright! (Squints at you.) Well, hello again!}
-{212}{}{Who, who?}
-{213}{}{Hello, hello!}
-{214}{}{You not mom... Mom? Mommmm...?! Mom! Me go look for Mom}
+{209}{}{Mais uma bela noite em Reno!}
+{210}{}{(A mulher salta.) Oh, Deus! Que susto você me deu! (Olha para você.) Sim, sim?}
+{211}{}{(Sra. Wright pula.) Oh, Deus! Você me deu um susto! (Olha para você.) Bem, olá de novo!}
+{212}{}{Quem, quem?}
+{213}{}{Olá, olá!}
+{214}{}{Você não é mãe... Mãe? Mmmmm...?! Mãe! Eu vou procurar pela  mamãe.}
 {215}{}{Quem é você?}
-{216}{}{I noticed you humming to yourself and thought I would stop and speak to you a moment, ma'am. Beautiful weather we're
- having, isn't it?}
-{217}{}{Sorry. I thought you were someone else.}
-{220}{}{(Looks puzzled, then looks you over.) }
-{222}{}{(She fishes in her robes for a moment, pulls forth some items and presses them into your hands.) Here you go, dear.
- Take these.}
+{216}{}{Percebi você cantarolando um pouco e pensei em parar e falar com a senhora um momento. Que belo dia hoje, não é?}
+{217}{}{Desculpe. Achei que você fosse outra pessoa.}
+{220}{}{(Parece perplexa, depois olha para você.) }
+{222}{}{(Ela procura em suas roupas por um momento, tira alguns objetos e os coloca em suas mãos.) Aqui está você,
+ querida. Toma isto.}
 {223}{}{Valeuuuu}
 {224}{}{Cai fora}
-{230}{}{(Oh, you poor dear! Too much sun... }
-{231}{}{Oh, you poor dear... don't you have a home? }
-{232}{}{(Fishes in her robes for a moment.) I wish I had some food or water for you...}
-{240}{}{Why, yes, yes it is. (Smiles.) I am Missus Ethyl Wright, head of the Temperance Union here in New Reno. And who might you be?}
-{241}{}{I am a traveler looking for a Garden of Eden Creation Kit. Have you ever heard of one?}
-{242}{}{I am a traveler looking for a place called Vault 13. Have you seen it?}
-{243}{}{Temperance Union?}
-{244}{}{Mrs. Wright? Is your husband the head of Family Wright?}
-{245}{}{You're Richard's mother, right? I heard he passed away recently.}
-{246}{}{I'm sorry, but I have to be going.}
-{250}{}{Me? Why, I am Missus Ethyl Wright, head of the Temperance Union here in New Reno. (Studies you.) And who might you be?}
-{251}{}{I am }
+{230}{}{(Ah, coitadinha! Tem muito sol... }
+{231}{}{Oh, coitadinho... você não tem uma casa? }
+{232}{}{(Busca em suas roupas por um momento.) Eu gostaria de ter um pouco de comida ou água para você...}
+{240}{}{Por que, sim, é sim. (Sorri.) Eu sou a Sra. Ethyl Wright, líder da União da Temperança aqui em New Reno. E você, quem é?}
+{241}{}{Sou um viajante à procura de um Kit de Criação do Jardim do Éden. Você já ouviu falar de um?}
+{242}{}{Sou um viajante procurando um lugar chamado Vault 13. Você conhece?}
+{243}{}{União da Temperança?}
+{244}{}{Sra. Wright? Seu marido é o chefe da Família Wright?}
+{245}{}{Você é a mãe de Richard, certo? Ouvi dizer que ele faleceu recentemente.}
+{246}{}{Sinto muito, mas tenho que ir.}
+{250}{}{Mim? Ora, eu sou a senhora Ethyl Wright, líder da União da Temperança aqui em New Reno. (Te analisa.) E quem seria você?}
+{251}{}{Eu sou }
 {252}{}{Eu sou um viajante com algumas perguntas sobre New Reno...}
-{254}{}{I'd love to stay and talk, but I have to be going.}
-{260}{}{Oh, my! You're a TRIBAL, aren't you? Your accent gave it away! (She raises her voice and starts speaking slowly.)
- WELL -- MAY I BE THE FIRST TO WELCOME YOU TO OUR CITY!}
-{261}{}{What you say? Me simple tribal. No understanda youa.}
-{262}{}{Woman, I am neither deaf nor stupid. I can understand you QUITE well without you raising your voice.}
+{254}{}{Eu adoraria ficar e conversar, mas preciso ir.}
+{260}{}{Oh, Deus! Você é um TRIBAL, não é? Seu sotaque te entrega! (Ela levanta a voz e começa a falar devagar.) BEM
+ -- QUE EU SEJA A PRIMEIRA A TE RECEBER EM NOSSA CIDADE!}
+{261}{}{Que disse? Sou um simples tribal. Não entendo você.}
+{262}{}{Mulher, não sou surdo nem idiota. Eu posso te entender MUITO bem sem você ficar gritando.}
 {263}{}{Uh, obrigado. Eu tinha algumas perguntas sobre New Reno...}
-{264}{}{I HAVE TO GO NOW.}
-{270}{}{I SAID, LET *ME*... (Points at herself.) ...WELCOME YOU... (Points at you.) ...TO... (Gestures at the city around her.) ...CITY OF LIGHTS!}
-{272}{}{Perhaps you think this high-tech armor I'm wearing somehow magically attached itself to me. Look, cut out the 'tribal' talk,
- all right?}
-{273}{}{Look, do you think this weapon I'm carrying is some mystic totem that I keep around for show? Cut the 'tribal'
- talk, all right?}
-{274}{}{I BETTER GO NOW BEFORE I LOSE MY TEMPER.}
-{280}{}{Oh! Excuse me! (Seems startled.) Pardons, pardons! It's just that I thought... well... nevermind, let's put that all behind us.
- What can I do for you?}
+{264}{}{EU TENHO QUE IR AGORA.}
+{270}{}{EU DISSE, DEIXE *EU*... (Aponta para si mesma.) ...SEJA BEM VINDO... (Aponta para você.) ...PARA... (Aponta para a cidade ao redor dela.) ...A CIDADE DAS LUZES!}
+{272}{}{Talvez você ache que essa armadura cheia das tecnologias que uso de alguma forma magica se prendeu em mim. Olhe, corte
+ a conversa 'tribal', certo?}
+{273}{}{Olha, você acha que esta arma que eu carrego é algum totem místico que eu fico exibindo por aí ? Corte a conversa
+ 'tribal', certo?}
+{274}{}{É MELHOR EU IR AGORA ANTES QUE PERCA MINHA PACIÊNCIA.}
+{280}{}{Oh! Me perdoe! (Parece assustada.) Perdão, perdão! É só que eu pensei... bem... deixa pra lá, vamos esquecer tudo isso. O que
+ posso fazer por você?}
 {281}{}{Eu tenho algumas perguntas sobre New Reno...}
-{282}{}{Nevermind. I have to be going.}
-{290}{}{(Squints, frowns.) I'm sorry, the Garden of... what? No, I'm sorry, I've never heard of such a thing.}
+{282}{}{Deixa pra lá. Eu tenho que ir.}
+{290}{}{(Aperta os olhos, franze a testa.) Desculpe, o Jardim do... o quê? Não, desculpe, nunca ouvi falar de tal coisa.}
 {291}{}{Eu tenho mais algumas perguntas...}
-{292}{}{Nevermind then, I better be going.}
-{300}{}{Vault 13? (Looks puzzled.) My goodness, no, I haven't... well, no, wait. That's untrue. There IS Vault City to the northeast.
- Is that what you are looking for?}
+{292}{}{Nada não, é melhor eu ir.}
+{300}{}{Vault 13? (Parece confusa.) Meu Deus, não, eu não... bem, não, espere. Isso não está certo. Temos a Vault City a nordeste.
+ É isso que você está procurando?}
 {301}{}{Não, lugar errado. Mas talvez você possa me ajudar com algumas outras perguntas...}
 {302}{}{Não há problema. Você pode me ajudar com algumas outras perguntas ...?}
 {303}{}{É possível. Adeus... e obrigado pela informação.}
-{310}{}{Why, yes! (Wags her finger at you.) New Reno is a beautiful city, but there is SIN here - much of which can be traced
- back to the evils of alcohol... or as you tribesmen call it... (Pauses dramatically.) ...FIREWATER!}
-{311}{}{Uh, we "primitives" call it alcohol, too.}
-{312}{}{Yes, but what about this Temperance Union?}
-{313}{}{I have to be going. I think I can hear my tribesmen calling.}
-{315}{}{(Rambles on.) }
-{316}{}{The Temperance Union was established to help people turn away from the poison of drink and turn towards more
- hard-working pursuits.}
-{317}{}{Oh. Well, how ab --}
-{318}{}{Such as wha --}
-{320}{}{(Looks shocked.) Surely you are mistaken. Even a primitive tribal such as yourself can't
- seriously mean th--}
-{321}{}{Nothing like a little communal love, some gambling, and rounding off the day with a few jugs of fermented mare's milk. That's what makes being a TRIBESMAN so great!}
-{322}{}{Nothing like a little communal love, some gambling, and rounding off the day with a few jugs of fermented mare's milk. That's what makes being a TRIBESWOMAN so great!}
-{323}{}{I'll leave it to your imagination. Based on the response above, I think it'd be better that way.}
-{324}{}{By the balls of the sky spirits, yes! I myself like to indulge in all THREE of those sins. }
-{325}{}{By Richard Millhouse Nixon and his mother! I don't know what practices you tribespeople follow in your dens of iniquity,
- but in New Reno, things are changing! We are a CIVILIZED people!}
-{326}{}{We have none of the evils you mention in my village. Maybe we could teach you "civilized" people some things.}
-{327}{}{Who's all in your organization?}
-{328}{}{What does your organization do?}
-{329}{}{I see. Thanks for sharing your insights. Goodbye.}
-{330}{}{(Thinks.) Well, good Father Tully for one.}
-{331}{}{(Thinks.) Well, good Father Tully was one of our members. Before he died.}
+{310}{}{Porque, sim! (Acena com o dedo para você.) New Reno é uma bela cidade, mas há PECADOS aqui - muitos dos quais
+ remontam até os males do álcool... ou como vocês, membros da tribo chamam... (Pausa dramaticamente.) ...ÁGUA DE FOGO!}
+{311}{}{Eh, nós "primitivos" chamamos de álcool mesmo.}
+{312}{}{Sim, mas e esta União de Temperança?}
+{313}{}{Eu tenho que ir. Acho que posso ouvir meus membros da tribo chamando.}
+{315}{}{(Andando.) }
+{316}{}{A União da Temperança foi criada para ajudar as pessoas a se afastarem do veneno que é a bebida e se voltarem para
+ atividades mais laboriosas.}
+{317}{}{Oh. Bem, sobre --}
+{318}{}{Tipo o q --}
+{320}{}{(Parece chocada.) Certamente você está enganado. Mesmo um tribal primitivo como você
+ não pode significar seriamente--}
+{321}{}{Nada como um pouco de amor comunitário, jogos de azar e terminar o dia com alguns jarros de leite fermentado de égua. Isso é o que tem de bom em ser um TRIBAL!}
+{322}{}{Nada como um pouco de amor comunitário, jogos de azar e terminar o dia com alguns jarros de leite fermentado de égua. Isso é o que tem de bom em ser uma TRIBAL!}
+{323}{}{Vou deixar que imagine, com base na resposta anterior, acho que seria melhor assim.}
+{324}{}{Pelas barbas do profeta, sim! Eu mesmo gosto de cometer todos esse TRÊS pecados. }
+{325}{}{Por Richard Millhouse Nixon e sua mãe! Eu não sei que práticas vocês tribais seguem em seus antros de iniqüidade, mas
+ em New Reno as coisas estão mudando! Somos um povo CIVILIZADO!}
+{326}{}{Não temos nenhum dos males que você mencionou em minha aldeia. Talvez pudéssemos ensinar algumas coisas a vocês, pessoas "civilizadas".}
+{327}{}{Quem compõe sua organização?}
+{328}{}{O que sua organização faz?}
+{329}{}{Entendo. Obrigado por compartilhar suas opiniões. Tchau.}
+{330}{}{(Pensa). Bem, bom padre Tully, em primeiro lugar.}
+{331}{}{(Pensa.) Bem, o bom padre Tully era um dos nossos membros. Antes de morrer.}
 {332}{}{Uh, Father Tully is the worst consumer of 'firewater' I have ever seen. I almost got drunk just from the vapors.}
 {333}{}{Father Tully?}
 {335}{}{Actually, I've spent too long talking already. I better be going.}

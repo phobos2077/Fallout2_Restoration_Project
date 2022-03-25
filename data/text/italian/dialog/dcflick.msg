@@ -2,7 +2,7 @@
 {150}{}{Vedi Flick. Si sta dando una prolungata grattata al pacco.}
 {151}{}{Vedi un tipo poco pulito con un brutto tic facciale.}
 {200}{}{Fora dae bae, goldon.}
-{201}{}{Ehi, digo a ti! Si', ti. Fora!}
+{201}{}{Ehi, digo a ti! Si', ti. Fora.}
 {202}{}{Ti xe sordo o cossa?}
 {203}{}{Che problemi ti ga, eh?}
 {204}{}{Fora dae bae.}

@@ -171,7 +171,7 @@
 {554}{}{Che generosita'...}
 {555}{}{Grazie.}
 {556}{}{Ug.}
-{570}{}{Dannata troia, era la tua prima volta? Ma certo che era la tua prima volta!}
+{570}{}{Dannata troia, era la tua prima volta? Ma certo che era la tua prima volta.}
 {571}{}{Dannata ragazza, era la tua prima volta?}
 {572}{}{Non male, credo.}
 {573}{}{Niente male... magari potremmo farlo ancora, in un'altra occasione.}

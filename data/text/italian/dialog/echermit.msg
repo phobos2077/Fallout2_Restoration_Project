@@ -23,6 +23,6 @@
 {122}{}{Non parlare. Andare.}
 {123}{}{Vattene!}
 {124}{}{In pace lascia me!}
-{125}{}{Come tu osi me attaccare?}
+{125}{}{Come tu osi me attaccare!}
 {126}{}{In pace me lascia!.}
 {127}{}{Io vado.}

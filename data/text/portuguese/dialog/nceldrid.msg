@@ -175,15 +175,15 @@
 {600}{}{Cara, estamos fechados... }
 {601}{}{Moça, estamos fechados... }
 {610}{}{Então sugiro que dê o fora daqui antes que eu te mate com um tiro.}
-{700}{}{God damn dogs! I'm going back to bed.}
-{701}{}{Stupid Dogs! I'm putting you all to sleep first thing tomorrow.}
-{702}{}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
-{800}{}{You have delivered a laser pistol to Eldridge.}
-{801}{}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade... Sheesh!}
-{802}{}{Come back when you got the money.}
+{700}{}{Ô cachorrada do caralho! Vou voltar para a cama.}
+{701}{}{Cachorros idiotas! Vou colocar todos vocês para dormir amanhã cedo.}
+{702}{}{Vocês, cães, calam a boca! Ninguém é retardado o suficiente para invadir uma loja de armas!}
+{800}{}{Você entregou uma pistola a laser para Eldridge.}
+{801}{}{Ei, eu tenho cara de mágico? Você vai precisar da arma se quiser melhorar. Agora saia daqui e vá encontrar uma que eu possa trabalhar... Deus!}
+{802}{}{Volte quando tiver o dinheiro.}
 {1340}{}{Opa, vamos lá. (Olha para seu equipamento.) Mas você não parece ter nada que eu possa mexer. Traga
  alguma virgem... eh, pistolas ou rifles "normais", e talvez eu possa ajudá-lo.}
 {1345}{}{Tudo bem. me interessei por outra coisa...}
 {1346}{}{Eu farei isso. Tchau.}
-{5256}{}{...told me to stop by, and that you would "set me up."}
+{5256}{}{...me disse para passar por aqui, e que você "me armaria".}
 {5500}{}{.}

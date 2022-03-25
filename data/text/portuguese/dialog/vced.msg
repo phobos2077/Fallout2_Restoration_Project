@@ -16,7 +16,7 @@
 {115}{}{Adeus.}
 {116}{}{Vic?}
 {117}{}{He sold a water flask to you? One with "13" on it?}
-{118}{}{Nevermind. I have to be going.}
+{118}{}{Deixa pra lá. Eu tenho que ir.}
 {119}{}{You got it? Maybe that could spark my memory.}
 {120}{}{Nevermind then. I had some other questions for you...}
 {121}{}{I'll see if I can go dig it up. I'll be back.}

@@ -86,7 +86,7 @@
  a week? Aw, hell, I don't know. }
 {441}{}{Uma semana deve ser difícil. Olha, eu tenho outras perguntas para você...}
 {442}{}{Dry as sand, huh? How many fingers am I holding up?}
-{443}{}{Temperance Union?}
+{443}{}{União da Temperança?}
 {444}{}{Missus Wright?}
 {445}{}{Maybe I'll come back when you're sober.}
 {450}{}{(Tully stumbles over to the poor box beside the podium, and fishes around inside.) }

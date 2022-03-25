@@ -22,7 +22,7 @@
 {121}{}{Non fare del male alle persone in rosso, lao wai.}
 {122}{}{Lao wai significa "straniero".}
 {123}{}{Sei dalla nostra parte, giusto?}
-{124}{}{Uccidi Dragon per noi!}
+{124}{}{Uccidi Dragon per noi?}
 {125}{}{Ci onori con la tua presenza.}
 {126}{}{Il nostro leader!}
 {127}{}{Dobbiamo vendicarci per Lo Pan!}

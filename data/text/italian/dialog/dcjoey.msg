@@ -18,7 +18,7 @@
 {165}{}{I-I don't know what you're talking about.}
 {166}{}{Oh, credo proprio di si', invece! Tu hai rubato il medaglione di una ragazza morta e adesso il suo spirito non ha pace.}
 {167}{}{Allora lo prendero' con la forza.}
-{168}{}{Q-queste sono f-fottute s-stronzate! L-la roba di T-tubby d-deve proprio a-averti fatto m-male. I-io non ho v-visto f-fantasmi q-quando sono entrato l-la' d-dentro... E-ero s-solo sballato, n-non era r-reale!}
+{168}{}{Q-queste sono f-fottute s-stronzate! L-la roba di T-tubby d-deve proprio a-averti fatto m-male. I-io non ho v-visto f-fantasmi q-quando sono entrato l-la' d-dentro... E-ero s-solo sballato, n-non era r-reale.}
 {169}{}{Senti, sono disposto a pagare per averlo.}
 {170}{}{Dammelo subito o la raggiungerai.}
 {171}{}{Se non lo restituisci subito, lei verra' a cercarti. E nessuno potra' fermarla.}

@@ -50,7 +50,7 @@
 {149}{}{Dude, I can't really get places without a lot of effort. If you can't help me, I'm screwed.}
 {150}{}{Bene. Andro' a parlare con Fung.}
 {151}{}{Bene. Tanto non me ne frega un cazzo di te.}
-{152}{}{Se tu potessi fare qualcosa... non so... ucciderlo, o convincerlo in qualche modo... senza milza moriro'!}
+{152}{}{Se tu potessi fare qualcosa... non so... ucciderlo, o convincerlo in qualche modo... senza milza moriro'.}
 {153}{}{Vedro' di fare il possibile.}
 {154}{}{Spiacente, amico... credo tu sia fottuto. Non posso aiutarti.}
 {155}{}{Senza una milza moriro'. Grazie comunque per l'aiuto.}

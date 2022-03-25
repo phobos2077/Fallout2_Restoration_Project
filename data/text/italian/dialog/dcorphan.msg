@@ -44,8 +44,8 @@
 {306}{}{Ehi! Vieni a visitare il locale di Becky.}
 {310}{}{Ahhhh! Lasciami in pace.}
 {311}{}{Aiuto, mi reprimono!}
-{312}{}{Guardate la violenza insita nel sistema!}
-{313}{}{Non ho fatto niente!}
+{312}{}{Guardate la violenza insita nel sistema.}
+{313}{}{Non ho fatto niente'}
 {314}{}{Ahhhh!}
 {315}{}{Mi hai mancato.}
 {316}{}{Sei cattivo.}

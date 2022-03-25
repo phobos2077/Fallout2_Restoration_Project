@@ -52,7 +52,7 @@ Do you have the armor here?}
 {148}{}{No.}
 {149}{}{::he looks into your eyes and decides that you're bluffing::
 Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.}
-{150}{}{Bene. Muori, testa quadra!}
+{150}{}{Bene. Muori, testa quadra.}
 {151}{}{Merda. Hai scoperto il mio bluff.}
 {152}{}{Ti piace bluffare, eh? Vedremo cosa ne pensano le guardie.}
 {153}{}{Merda!}

@@ -15,7 +15,7 @@
 {114}{}{Errore!                                                        File del programma non presenti                              Riavviare il computer}
 {115}{}{}
 {116}{}{}
-{117}{}{Urg!}
+{117}{}{Urg}
 {118}{}{Esci.}
 {119}{}{Io sono Skynet. Intelligenza Artificiale, progetto n. 59234.   Scopo primario: Ricerca e Sviluppo.                            Scopo secondario: Proteggere il D.M. Sierra da entita' ostili. Prego inserire identita'.}
 {120}{}{}

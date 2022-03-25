@@ -3,7 +3,7 @@
 {102}{}{Noti che ha la tipica abbronzatura da contadino.}
 {103}{}{Sei arrivato giusto in tempo. Se tu non fossi arrivato qui in quel momento... Beh, preferisco non pensarci e ringraziare il cielo che tu sia arrivato. Non abbiamo molto, ma vorremmo accettassi questo, come ringraziamento per averci aiutato. [Ti porge qualcosa]}
 {104}{}{Grazie.}
-{105}{}{Urg!}
+{105}{}{Urg}
 {106}{}{Grazie ancora per averci aiutato.}
 {107}{}{}
 {108}{}{}

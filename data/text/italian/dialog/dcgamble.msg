@@ -49,7 +49,7 @@
 {401}{}{Stammi lontano.}
 {402}{}{Non sparare!}
 {403}{}{Ti prego, lasciaci in pace.}
-{500}{}{Non fermarti li'!}
+{500}{}{Non fermarti li'.}
 {501}{}{Muoversi.}
 {502}{}{DAI! 7!}
 {503}{}{Si'!}
@@ -60,7 +60,7 @@
 {508}{}{Si'!}
 {509}{}{Cosi'!}
 {510}{}{Diamogli ancora un'occhiata.}
-{511}{}{Dai!}
+{511}{}{Dai.}
 {512}{}{Questo e' quello che volevo.}
 {513}{}{Quasi.}
 {514}{}{Non male.}

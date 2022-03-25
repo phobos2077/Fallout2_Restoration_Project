@@ -17,7 +17,7 @@
 {225}{}{Vorrei tanto avere una vera cucina.}
 {226}{}{Perche' mi becco sempre le cose peggiori dalla vita?}
 {227}{}{Le persone mi fregano sempre.}
-{228}{}{Fred e' un sognatore - "Grande Progetto", un cavolo!}
+{228}{}{Fred e' un sognatore - "Grande Progetto", un cavolo.}
 {240}{}{Shhhh! Sono dappertutto.}
 {241}{}{Fateli smettere!}
 {242}{}{L'hai trovato quel dannato libro?}

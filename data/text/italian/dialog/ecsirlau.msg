@@ -5,6 +5,6 @@
 {104}{}{Va' al diavolo!}
 {105}{}{Cerchi la rissa?}
 {106}{}{Ouch! Smettila di spingermi!}
-{200}{}{Ehi! Le tue mani sono gelide}
+{200}{}{Ehi! Le tue mani sono gelide!}
 {201}{}{Quello non ti appartiene.}
 {202}{}{Ehi, quelle sono le mie cose!}
