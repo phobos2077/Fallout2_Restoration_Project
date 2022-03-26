@@ -107,7 +107,7 @@
 {206}{}{Then perhaps you should be at our information center instead of this establishment. It is located downtown. Now move along... I have other customers.}
 {207}{}{Hold on, I wanted a drink. What have you got on tap?}
 {208}{}{No, I think you'll tell me what I want to know first. And you'll leave that attitude out of your voice, too if you know what's good for you.}
-{209}{}{All right then. Good day.}
+{209}{}{Tudo bem então. Bom Dia.}
 {210}{}{Of course. What did you need to know, sir?}
 {211}{}{Of course. What did you need to know, ma'am?}
 {212}{}{Of course. What did you need to know, Captain?}

@@ -54,7 +54,7 @@
 {152}{}{Right now, I've got the metal lathe barely working, and my wrench has gone missing... AGAIN... and my pliers' teeth are stripped.}
 {153}{}{Anything I could help with?}
 {154}{}{What's the problem with getting more tools?}
-{155}{}{All right then. Good day.}
+{155}{}{Tudo bem então. Bom Dia.}
 {156}{}{You? I doubt it.}
 {157}{}{Well, I have a wrench and a pair of pliers right here.}
 {158}{}{Would getting you a new wrench and a set of pliers help you out?}

@@ -130,10 +130,10 @@
 {496}{}{I'm looking to buy some heavy firepower.}
 {497}{}{I'm looking for supplies.}
 {498}{}{I want to get laid.}
-{499}{}{I'm looking for a place called Vault 13.}
+{499}{}{Estou procurando um lugar chamado Vault 13.}
 {500}{}{I'm looking for my tribe. They've been kidnapped.}
 {501}{}{Do you know how to fix an oil tanker?}
-{502}{}{I'm looking for a Garden of Eden Creation Kit.}
+{502}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
 {503}{}{Nada por hoje, valeu.}
 {515}{}{Can Jules TELL you 'bout New Reno? Hell, yes! FIRST thing you should know: Reno's ruled by four families: Mordinos,
  the Salvatores, the Bishops and the Wrights. Each o' them got a slice of th' Reno pie.}

@@ -50,7 +50,7 @@
 {262}{}{Can you tell me about the Bishop Family?}
 {263}{}{Have you ever heard of a place called Vault 13?}
 {264}{}{Do you know where I could find something called the 'Garden of Eden Creation Kit?'}
-{265}{}{Nevermind. I better be going.}
+{265}{}{Deixa pra lá. É melhor eu ir.}
 {270}{}{My husband? That is simple. He is deceased. SUCH a tragedy. I'm still recovering from all the
  champagne I drunk when I heard.}
 {271}{}{My husband? He is the head of the Bishop family. In matters of diplomacy, business, and criminal

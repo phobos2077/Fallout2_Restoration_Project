@@ -25,7 +25,7 @@
 {124}{}{Of course, Citizen.}
 {125}{}{What is it you would like to know?}
 {126}{}{What's your job here?}
-{127}{}{I'm looking for a Garden of Eden Creation Kit.}
+{127}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
 {128}{}{What can you tell me about the First Citizen?}
 {129}{}{I'd like to ask you some questions about Gecko.}
 {130}{}{O que você pode me dizer sobre Redding?}
@@ -64,7 +64,7 @@
 {163}{}{Eu não estou indo a lugar algum.}
 {164}{}{O que posso fazer por você?}
 {165}{}{I don't know, old man. What CAN you do for me?}
-{166}{}{I'm looking for a Garden of Eden Creation Kit.}
+{166}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
 {167}{}{Can I ask you some questions?}
 {168}{}{Nothing today. I was just taking a tour of the council building.}
 {169}{}{A GECK? As I understand it, we only had one. I read that it lasted a long time but it broke down a number of years before I was even born. We were supposed to have two...}

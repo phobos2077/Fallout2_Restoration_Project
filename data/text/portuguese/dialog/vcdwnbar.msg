@@ -76,7 +76,7 @@
 {175}{}{Does Vault City have much contact with the outside world?}
 {176}{}{What have you got on tap?}
 {177}{}{I have that shipment of alcohol you wanted.}
-{178}{}{All right then. Good day.}
+{178}{}{Tudo bem então. Bom Dia.}
 {179}{}{Uh, First Citizen Lynette... you are a Citizen, aren't you?}
 {180}{}{First Citizen Lynette. She's in the council building up north if you need to talk to her.}
 {181}{}{I wanted to know something else...}

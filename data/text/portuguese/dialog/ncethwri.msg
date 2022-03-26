@@ -85,107 +85,107 @@
 {329}{}{Entendo. Obrigado por compartilhar suas opiniões. Tchau.}
 {330}{}{(Pensa). Bem, bom padre Tully, em primeiro lugar.}
 {331}{}{(Pensa.) Bem, o bom padre Tully era um dos nossos membros. Antes de morrer.}
-{332}{}{Uh, Father Tully is the worst consumer of 'firewater' I have ever seen. I almost got drunk just from the vapors.}
-{333}{}{Father Tully?}
-{335}{}{Actually, I've spent too long talking already. I better be going.}
-{340}{}{Now, you listen here. (Frowns.) I'm not going to tolerate that kind of slander. The good Father has had his struggles
- with alcohol, but through the help of the Union, he has fought for his soul and triumphed!}
-{341}{}{I know for a FACT that the good Father RUNS, not walks, to the nearest source of hootch he can see... if he hasn't ALREADY
- drunk himself blind.}
-{342}{}{It's not slander. It's just that the great spiritual leader of New Reno is about as healthy as... well, the city itself.}
-{343}{}{Okay. No arguments here. So what does the Union do?}
-{344}{}{Well, that's good news. I better be going.}
-{345}{}{Oh yes, he is a spiritual leader of New Reno. He runs the only Chapel in New Reno. You simply MUST speak to him. He is
- quite inspiring!}
-{346}{}{Okay, maybe I will. So what does the Temperance Union do?}
-{347}{}{Maybe I'll go look for him right now.}
-{350}{}{Hmmph! Of all the crass rudeness! If you see me again, you had best simply pass by in silence.}
-{351}{}{That's the plan.}
+{332}{}{Uh, o padre Tully é o maior consumidor de 'água de fogo' que eu já vi. Quase fiquei bêbado só com o bafo.}
+{333}{}{Padre Tully?}
+{335}{}{Na verdade, já passei muito tempo conversando. É melhor eu ir.}
+{340}{}{Agora, me escute. (Carranca.) Não vou tolerar esse tipo de calúnia. O bom padre teve suas lutas com o álcool, mas
+ com a ajuda da União, ele lutou por sua alma e triunfou!}
+{341}{}{É um FATO que o bom padre CORRE que nem doido cada vez que vê qualquer lugar pra se comprar bebida... se é que ele
+ JÁ não ficou cego de tanto beber.}
+{342}{}{Nada de calúnia. É que o grande líder espiritual de New Reno é tão saudável quanto... bem, a própria cidade.}
+{343}{}{OK. Sem argumentos aqui. Então, o que a União faz?}
+{344}{}{Bem, isso é uma boa notícia. É melhor eu ir.}
+{345}{}{Ah sim, ele é um líder espiritual de New Reno, ele se encarrega da única capela em New Reno. Você TEM que ir falar com ele.
+ É um homem bastante inspirador!}
+{346}{}{Ok, talvez eu vá. Então, o que a União da Temperança faz?}
+{347}{}{Talvez eu vá ver ele agora mesmo.}
+{350}{}{Humm! Mas que grosseria! Se me vir de novo, é melhor você passar em silêncio.}
+{351}{}{Esse é o plano.}
 {352}{}{Muito bem.}
-{355}{}{Why, yes, yes, he is. (Squints at you again.) I'm sorry, do you know my husband?}
-{356}{}{Yes, I know him. The Wright family controls the distribution of alcohol in New Reno.}
-{357}{}{Not personally, but I know the Wrights control the distribution of alcohol in New Reno.}
+{355}{}{Porque sim, é assim. (Olha para você de novo.) Desculpe, você conhece meu marido?}
+{356}{}{Sim, eu o conheço. A família Wright controla a distribuição de álcool em New Reno.}
+{357}{}{Não pessoalmente, mas sei que os Wrights controlam a distribuição de álcool em New Reno.}
 {358}{}{Não.}
-{359}{}{Not really. Look, I have to be going.}
-{360}{}{Oh. (Blinks.) So what is it I can do for you?}
-{361}{}{So what are these questions you have?}
-{362}{}{(Jumps.) Oh, my! You gave me such a fright! (Squints.) Well, hello again!}
-{363}{}{What were you saying about the Temperance Union before?}
-{364}{}{I'm looking for a Garden of Eden Creation Kit.}
-{365}{}{I'm looking for a place called Vault 13.}
-{366}{}{Your husband is head of Family Wright, correct?}
-{368}{}{Nothing, actually. I have to be going.}
-{369}{}{Sorry, I don't have time to talk right now. Goodbye.}
-{375}{}{(Frowns.) Now what IS this foolishness you're speaking of? "Alcohol distribution in New Reno?" I know my husband
- is inclined to drink, but he IS breaking the habit...}
-{376}{}{Along with breaking the legs of anyone who gets in the way of his little alcohol empire.}
-{377}{}{Ethyl, in case you hadn't NOTICED, your husband is the leader of a crime family that sells alcohol to all of New Reno.
- Tossing one back now and then is perhaps the least of his crimes.}
-{378}{}{Oh, I was thinking of a different Mr. Wright. Nevermind. Goodbye.}
-{380}{}{Why... my goodness! Of all the cheek! (Takes deep breath.) }
-{381}{}{That is a VERY serious accusation, young man.}
-{382}{}{That is a VERY serious accusation, young lady.}
-{383}{}{I realize that, but --}
-{384}{}{Look, lady, maybe you sh --}
-{385}{}{No, YOU look! It's no secret that - in the PAST - my husband had a private still in the city. Nonetheless, he swore it was
- for his use only, and AT MY REQUEST, he has dismantled it!}
-{386}{}{Oh, really? Well, maybe you --}
-{387}{}{Well, look, he d --}
-{390}{}{(Frowns, puts her hands on hips.) I will look into it, you can rest assured! And if I find that you are wrong, you had
- best leave this town! Meet me at the church tomorrow morning, and we will speak again.}
-{392}{}{All right. I will. See you then.}
-{395}{}{(Smile dies.) Yes, my son Richard... he... yes, he left us much too soon. I... hmmm. Yes. (Looks at her hands.) I...}
-{396}{}{I heard it was a Jet overdose... is that right?}
+{359}{}{Na verdade não. Olha, eu tenho que ir.}
+{360}{}{Oh. (Pisca.) Então, o que posso fazer por você?}
+{361}{}{Então, quais perguntas você tem?}
+{362}{}{(Salta.) Oh, que coisa! Você me assustou! (Aperta os olhos.) Bem, olá de novo!}
+{363}{}{O que você estava dizendo mesmo sobre a União da Temperança?}
+{364}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
+{365}{}{Estou procurando um lugar chamado Vault 13.}
+{366}{}{Seu marido é o chefe da Família Wright, correto?}
+{368}{}{Nada, na verdade. Eu tenho que ir.}
+{369}{}{Desculpe, não tenho tempo para conversar agora. Tchau.}
+{375}{}{(Carranca.) Agora, que besteira é essa que você está falando? "Distribuição de álcool em New Reno?" Eu sei que meu
+ marido está inclinado a beber, mas ele está se libertando desse hábito...}
+{376}{}{Além de quebrar as pernas de qualquer um que atrapalhe seu pequeno império do álcool.}
+{377}{}{Ethyl, caso você não tenha notado, seu marido é o líder de uma família criminosa que vende álcool para toda Reno.
+ Apostar de vez em quando talvez seja o menor de seus crimes.}
+{378}{}{Oh, eu estava pensando em um Sr. Wright diferente, deixa pra lá. Tchau.}
+{380}{}{Por que... meu Deus!!! (Respira fundo.) }
+{381}{}{Essa é uma acusação MUITO grave, mocinho.}
+{382}{}{Essa é uma acusação MUITO grave, mocinha.}
+{383}{}{Entendo isso, mas --}
+{384}{}{Olha, senhora, talvez você...}
+{385}{}{Não, olhe VOCÊ! Não é segredo que - no PASSADO - meu marido ainda tinha uma destilaria particular na cidade. No entanto,
+ ele jurou que era apenas para seu uso, e A MEU PEDIDO, ele o desmontou!}
+{386}{}{Oh, sério? Bem, talvez você --}
+{387}{}{Bem, olhe, eu --}
+{390}{}{(Franze a testa, põe as mãos nos quadris.) Vou dar uma olhada, pode ficar tranquilo! E se eu achar que você está
+ errado, é melhor você sair desta cidade! Encontre-me na igreja amanhã de manhã, e falaremos novamente.}
+{392}{}{Está bem, eu irei. Vejo você depois.}
+{395}{}{(O sorriso morre.) Sim, meu filho Richard... ele... sim, ele nos deixou muito cedo. Eu... hum. E isso é. (Olha para as mãos dela.) Eu...}
+{396}{}{Ouvi dizer que foi uma overdose de Jet... é isso mesmo?}
 {397}{}{Olha, esqueça. Esqueça que eu disse isso. Eu tinha algumas outras perguntas...}
-{398}{}{Nevermind. I better be going.}
-{400}{}{(Jaw tightens.) That filthy poison! I thought that I'd taught him to stay AWAY from that stuff, and then...}
-{401}{}{Can you tell me where he might have gotten the Jet?}
-{405}{}{I don't know! (Hands clench into fists.) They sell that poison on every corner here in New Reno! EVERYWHERE you go, they're
- peddling it...}
-{406}{}{Do you know any specific dealers?}
+{398}{}{Deixa pra lá. É melhor eu ir.}
+{400}{}{(Serra os dentes.) Aquele veneno imundo! Achei que o tinha ensinado a ficar LONGE daquelas coisas, e então...}
+{401}{}{Você pode me dizer onde ele pode ter conseguido o Jet?}
+{405}{}{Não sei! (Mãos cerradas em punhos.) Eles vendem esse veneno em cada esquina aqui em New Reno! Em todo lugar que você
+ vá, eles estão vendendo...}
+{406}{}{Você conhece algum vendedor específico?}
 {407}{}{Olha, esqueça que eu disse isso. Eu tinha algumas outras perguntas...}
-{410}{}{Not by name. They know enough to run when they see me coming... but they cluster like flies along Virgin Street at the
- front of town and outside the casinos.}
+{410}{}{Não pelo nome. Eles sabem que devem correr quando me veem... mas eles se aglomeram como moscas ao longo da
+ Virgin Street na frente da cidade e fora dos cassinos.}
 {411}{}{Entendo. Eu tenho outras perguntas...}
-{415}{}{Keep your distance, you lust demon! You who fornicate on film for the corruption of the masses!}
-{416}{}{Well, I never! You have some sand coming back around here! You who fornicate on film for the
- corruption of the masses!}
-{417}{}{Hunh? Me who forks on flim for eruption of whut?}
-{418}{}{Aiiieee! Big wurds! Big wurds! Must get away!}
-{419}{}{That's me. You interested in a job? I kind of like big women like you. (Wiggle eyebrows suggestively.) Loosen
- that garter strap a little and we'll get down to business.}
-{420}{}{Look, I was young, I needed the money...}
-{421}{}{I can see we'll have lots to talk about. Goodbye.}
-{425}{}{Out! Out of here at once!}
-{426}{}{Me go! Me go!}
-{427}{}{All right, all right! I'm leaving!}
-{428}{}{Jeez-Louise. Loosen those drawstrings a little before they cut off your circulation.}
-{430}{}{(Squints at you, then her gaze travels to your slaver brand. Her tone becomes glacial.) }
+{415}{}{Mantenha distância, seu demônio da luxúria! Você que fornica em filme para a corrupção das massas!}
+{416}{}{Bem, eu nunca! Você tem coragem voltando aqui! Você que fornica em filme para a corrupção
+ das massas!}
+{417}{}{Hum? Eu f-fornico em filme para erupção de quê?}
+{418}{}{Aiiiee! Grandes malucos! Grandes malucos! Deve fugir!}
+{419}{}{Eu mesmo. Você está interessada em um emprego? Eu meio que gosto de mulheres grandonas como você.
+ (Balança as sobrancelhas sugestivamente.) Afrouxe um pouco a cinta e vamos aos negócios.}
+{420}{}{Olha, eu era jovem, precisava de grana...}
+{421}{}{Vejo que teremos muito o que conversar. Tchau.}
+{425}{}{Fora! Fora daqui imediatamente!}
+{426}{}{Vou sair! Vou sair!}
+{427}{}{Tá certo, tá certo! Estou indo!}
+{428}{}{Eta, Jesus. Afrouxa um pouco esses cordões antes que eles parem sua circulação.}
+{430}{}{(Aperta os olhos para você, então seu olhar para em sua marca de escravista. Seu tom se torna frio.) }
 {431}{}{Sim?}
-{432}{}{You again. We have NOTHING to talk about.}
-{433}{}{Me... uh... me... me wanted to... uh... me looking for... uh... dam! Me hate bein stoopid! Me hate!}
-{434}{}{I... uh... ooooh, shiny thing!}
+{432}{}{Você outra vez. Não temos NADA para falar.}
+{433}{}{Eu... uh... eu... eu queria... uh... eu procurando... uh... pora! Eu odeio ser burro! Eu odeio!}
+{434}{}{Eu... uh... ooh, coisa que brilha!}
 {435}{}{Eu tenho algumas perguntas…}
-{436}{}{I can see talking isn't going to help matters here. Goodbye.}
-{440}{}{I see. Well, I'm afraid I can't help you. Good day.}
-{441}{}{I see. Well, I'm afraid I can't help you. Good night.}
-{442}{}{::Shrug and walk away.::}
-{443}{}{All right then. Good day.}
-{444}{}{All right then. Good night.}
-{450}{}{(You see Mrs. Wright. She looks crushed.)}
+{436}{}{Vejo que falar não vai resolver nada por aqui. Tchau.}
+{440}{}{Entendo. Bem, acredito que não posso te ajudar. Bom Dia.}
+{441}{}{Entendo. Bem, receio não poder ajudá-lo. Boa noite.}
+{442}{}{::Dá de ombros e vai embora.::}
+{443}{}{Tudo bem então. Bom Dia.}
+{444}{}{Tudo bem então. Boa noite.}
+{450}{}{(Você vê a Sra. Wright. Ela parece arrasada.)}
 {451}{}{Ei... Ethyl, você está bem?}
 {452}{}{Então... o que você encontrou?}
-{453}{}{Ah-ha! Was I right or was I right?}
-{454}{}{I'm sorry. I'll be back.}
-{460}{}{All true... everything you said was true. (Sighs.) The still was not dismantled. Not at all! (Frowns.) I trusted that man, but
- alcohol made him LIE to me! *Lie to his own wife!*}
-{461}{}{::Let her vent.::}
-{462}{}{Oh, yes, Ethyl... further proof of the evil of alcohol. It can make people do terrible things. ESPECIALLY when the twin
- devils of money and power are involved.}
+{453}{}{Ah-há! Eu estava ou não estava certo?}
+{454}{}{Eu sinto muito. Eu voltarei.}
+{460}{}{Tudo verdade... tudo que você disse era verdade. (Suspira.) A destilaria não foi desmontada. De jeito nenhum! (Carrancas.)
+ Eu confiei naquele homem, mas o álcool o fez MENTIR para mim! *Mentir para sua própria esposa!*}
+{461}{}{::Deixa ela desabafar.::}
+{462}{}{Ah, sim, Ethyl... mais uma prova do mal do álcool. Com ele as pessoas fazem coisas terríveis. ESPECIALMENTE quando
+ aquele demônio do dinheiro e do poder estão envolvidos.}
 {463}{}{Você pode precisar de um tempo sozinho... Eu volto depois.}
-{470}{}{(Smolders.) I will MAKE him keep the promise he made, if I have to destroy that still with my own hands. Then
- Orville and I shall have words! We'll see what that little weasel says then!}
-{471}{}{Don't worry about, Mrs. Wright. I took care of it already.}
+{470}{}{(Olhar raivoso.) Eu vou FAZER com que ele cumpra a promessa que ele fez, mesmo que eu tenha que destruir isso
+ com minhas próprias mãos. Então Orville e eu teremos o que conversar! Vamos ver o que aquele rato vai dizer!}
+{471}{}{Não se preocupe, Sra. Wright. Eu já cuidei disso.}
 {472}{}{Where is the still? I can destroy it for you.}
 {473}{}{No, let me handle it. It's beneath the train station, right? I'll take care of it.}
 {474}{}{Good idea. Maybe you should go destroy the still.}
@@ -235,8 +235,8 @@
 {552}{}{I'll be back when I'm done. I have some other things to take care of first.}
 {553}{}{Uh, I can't promise that... maybe you should get someone else to take care of the problem.}
 {1251}{}{. Eu tenho algumas sobre New Reno...}
-{1415}{}{(Jumps.) Oh, my! (Squints at you, then purses her lips disapprovingly.) Well, I never! }
-{1430}{}{(Jumps.) Oh, my! }
-{1431}{}{(Squints at you, then her gaze becomes glacial.) }
+{1415}{}{(Salta.) Oh, Deus! (Aperta os olhos para você, depois franze os lábios em desaprovação.) Bem, eu nunca! }
+{1430}{}{(Salta.) Oh, Deus! }
+{1431}{}{(Olha para você, então o olhar dela se torna frio.) }
 {1480}{}{You'll destroy it? I... well, all right... (Builds up steam..) }
 {1530}{}{. I'll make sure Family Wright keeps to the straight and narrow from now on.}
