@@ -75,7 +75,7 @@
 {174}{}{Councilor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}
 {175}{}{The First Citizen sent me here to claim my reward.}
 {176}{}{Mind if I ask you some other questions?}
-{177}{}{Fine. Goodbye.}
+{177}{}{Certo. Tchau.}
 {178}{}{You can take the Citizenship test. Proconsul Gregory gives it to any Outsider who wants to become a Citizen. You should probably talk to First Citizen Lynette first, though. She kind of runs the show around here.}
 {179}{}{All right. Where is she?}
 {180}{}{I see. Mind if I ask you another question?}

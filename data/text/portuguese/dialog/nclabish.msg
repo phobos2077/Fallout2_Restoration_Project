@@ -29,7 +29,7 @@
  not terribly bright... (Studies your face.) However, you do have a certain... charm. Come with me a moment.}
 {232}{}{(She follows your eyes down to the curvature of her breasts. Her tone becomes glacial.) Subtlety isn't
  your strong suit, is it? (She looks at you in disgust.) Leave before I have you shot.}
-{233}{}{(Follow her.)}
+{233}{}{(A segue.)}
 {234}{}{We go good place?}
 {235}{}{You go. Me stay}
 {236}{}{Desliga}

@@ -227,7 +227,7 @@
 {326}{}{No thanks. Maybe some other time.}
 {327}{}{That so? Heh. Well... all right then.}
 {328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
-{329}{}{All right...}
+{329}{}{Tudo bem...}
 {330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
 {331}{}{Tudo bem então... você tem mais trabalho para mim?}
 {332}{}{Great. I had some other questions...}

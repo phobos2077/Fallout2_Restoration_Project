@@ -319,7 +319,7 @@
  thing you gotta do is...}
 {1092}{}{(Smiles, displaying the rotted remains of his teeth.) All right, yeah, I'll do it. You got some time right NOW, chica?
  Then let's get down to business...}
-{1093}{}{All right...}
+{1093}{}{Tudo bem...}
 {1643}{}{Who is this Mordino Family you were talking about?}
 {2000}{}{Lil' Jesus shows you some vicious knife fighting tricks. You have become more skilled with knives.}
 {2001}{}{At the cost of your dignity, you have become more skilled with knives. You also desperately want a shower.}

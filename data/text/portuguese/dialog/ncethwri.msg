@@ -186,57 +186,57 @@
 {470}{}{(Olhar raivoso.) Eu vou FAZER com que ele cumpra a promessa que ele fez, mesmo que eu tenha que destruir isso
  com minhas próprias mãos. Então Orville e eu teremos o que conversar! Vamos ver o que aquele rato vai dizer!}
 {471}{}{Não se preocupe, Sra. Wright. Eu já cuidei disso.}
-{472}{}{Where is the still? I can destroy it for you.}
-{473}{}{No, let me handle it. It's beneath the train station, right? I'll take care of it.}
-{474}{}{Good idea. Maybe you should go destroy the still.}
-{475}{}{I'll be back later, then.}
-{480}{}{...it's in the train station basement behind our home! }
-{481}{}{Tear it down! Wreck it! Leave NOTHING!}
-{482}{}{All right...}
-{490}{}{I will, by tarnation! (Rolls up sleeves. To your surprise, she has arms like a weight lifter.) Thank you for opening
- my eyes, stranger. I'll put my husband back on the straight and narrow, even if it KILLS him.}
-{491}{}{Well, have fun storming the castle.}
-{500}{}{(You see Ethyl. As you approach, she looks up hopefully.) Is it...?}
-{501}{}{I smashed it to the ground. Nothin' left. ALL taken care of.}
-{502}{}{Not yet. Where was this still again?}
-{503}{}{No, I haven't wrecked the still yet. I'll be back when I'm done.}
-{510}{}{It's in the train station basement near our home! Tear it down! Wreck it! Leave NOTHING!}
-{512}{}{I'll be back when I'm done.}
-{515}{}{(Tear wells up in her eye.) Thank you, stranger. You have dealt a blow to the evil here in New Reno. I don't know
- how to thank you...}
-{516}{}{No thanks necessary. Take care, Mrs. Wright.}
-{517}{}{I'm a little light on cash...}
-{520}{}{Then we can remedy that. Follow me.}
-{521}{}{(Follow her.)}
-{522}{}{Actually, no thanks necessary. Take care, Mrs. Wright.}
-{525}{}{Here you go. Everything in this locker is yours. Some money to help you in your travels... and
- a handy tool that I have found useful in pounding sense into the particularly mule-headed. Thank you for all
- you've done.}
-{526}{}{Thank YOU, Mrs. Wright.}
-{530}{}{Thanks for your help, }
-{535}{}{New Reno can't exist on gambling and alcohol and prostitution and expect to survive! Oh, no! Not while Ethyl Wright is at
- the helm, it won't! No, sirree!}
-{536}{}{But people LIKE gambling, drinking and whoring. I know I do.}
-{539}{}{I'm sorry, but I just remembered I have a pressing engagement elsewhere.}
-{540}{}{(Puffs up.) Perhaps it is standard practice in your tribes to slander others in public, but here in New Reno you have some
- sand coming up to me in public and speaking ill of my husband!}
+{472}{}{Onde ela está? Eu posso destruir a destilaria pra você.}
+{473}{}{Não, deixe que eu cuido disso. Fica embaixo da estação de trem, certo? Deixa comigo.}
+{474}{}{Boa ideia. Talvez você devesse destruir a destilaria.}
+{475}{}{Volto mais tarde, então.}
+{480}{}{...está no porão da estação de trem atrás de nossa casa! }
+{481}{}{Derrube! Destrua tudo! Não deixe NADA!}
+{482}{}{Tudo bem...}
+{490}{}{Eu vou, ah sim eu vou! (Arregaça as mangas. Para sua surpresa, ela tem braços de quem levanta peso.) Obrigado
+ por abrir meus olhos, estranho. Vou colocar meu marido de volta na reta, mesmo que isso o mate.}
+{491}{}{Bem, divirta-se invadindo o castelo.}
+{500}{}{(Você vê Ethyl. Ao se aproximar, você percebe que ela parece esperançosa.) Então…?}
+{501}{}{Eu botei tudo no chão, não resta nada. Cuide de TUDO.}
+{502}{}{Ainda não. Onde que fica isso mesmo?}
+{503}{}{Não, ainda não destruí a destilaria. Eu volto quando terminar.}
+{510}{}{É no porão da estação de trem perto de nossa casa! Derrube! Destrua tudo! Não deixe NADA!}
+{512}{}{Eu estarei de volta quando eu terminar.}
+{515}{}{(Lágrimas brotam em seus olhos.) Obrigado, estranho. Você desferiu um golpe no mal aqui em New Reno. não
+ sei como te agradecer...}
+{516}{}{Não precisa agradecer. Tome cuidado, Sra. Wright.}
+{517}{}{Eu ando meio curto de grana...}
+{520}{}{Então vamos remediar isso. Me siga.}
+{521}{}{(A segue.)}
+{522}{}{Na verdade, não precisa me agradecer. Tome cuidado, Sra. Wright.}
+{525}{}{Aqui está, tudo neste armário é seu. Tem algum dinheiro para ajudá-lo em suas viagens... e
+ uma ferramenta útil que achei ser útil para colocar algum sentido na cabeça dos cabeças de burro
+ Obrigado por tudo o que você fez.}
+{526}{}{ORIGADO, Sra. Wright.}
+{530}{}{Obrigado pela ajuda, }
+{535}{}{New Reno não pode existir com jogos de azar, álcool e prostituição e esperar sobreviver! Ah não! Não enquanto
+ Ethyl Wright estiver no comando, não vai! Não, senhor!}
+{536}{}{Mas as pessoas gostam de jogos, bebida e putaria. Eu sei do que estou falando.}
+{539}{}{Desculpe, mas acabei de lembrar que tenho um compromisso urgente em outro lugar.}
+{540}{}{(Bufa.) Talvez seja uma prática comum em suas tribos caluniar os outros em público, mas em Reno você tem que ter coragem
+ de vir a mim publicamente e dizer bobagens sobre meu marido!}
 {541}{}{Olha, tudo que estou te dizendo é...}
-{542}{}{Truth hurts. I can see you're going to be in for a lot of pain. Goodbye.}
-{543}{}{Fine. Goodbye.}
-{545}{}{Furthermore, he has resolved to help me and any other unfortunates addicted to alcohol break the habit. Shameful!
- To even SUGGEST my husband was selling the alcohol to others is...}
-{546}{}{Completely true. Mrs. Wright, your husband is selling alcohol here in New Reno and promoting drunkenness. It is making
- the city a worse place to live. Help me, and we can put an end to the whole nasty business.}
-{547}{}{If you don't believe me, check out the Reno train station. You'll see what I mean.}
-{548}{}{I see we have nothing more to say to each other unless I can prove it to you.}
-{550}{}{But now, I don't want you to hurt any of my children, no waving guns! They're not bad children, they've just been... misled.
- I'll have to see what I can do to change that...}
-{551}{}{Okay, don't worry... there'll be no casualties.}
-{552}{}{I'll be back when I'm done. I have some other things to take care of first.}
-{553}{}{Uh, I can't promise that... maybe you should get someone else to take care of the problem.}
+{542}{}{A verdade dói. Eu posso ver que você vai sofrer muito. Tchau.}
+{543}{}{Certo. Tchau.}
+{545}{}{Além disso, ele se colocou a disposição para ajudar qualquer outro desafortunado viciado em álcool a vencer esse hábito.
+ Vergonhoso! Até mesmo SUGERIU que meu marido estava vendendo álcool para outras pessoas é...}
+{546}{}{Totalmente verdade. Sra. Wright, seu marido está vendendo álcool aqui em New Reno e promovendo a embriaguez. Isso
+ está tornando a cidade um lugar péssimo para se viver. Me ajude e podemos pôr fim a todo esse negócio desagradável.}
+{547}{}{Se você não acredita em mim, confira a estação de trem de Reno. Você verá o que quero dizer.}
+{548}{}{Vejo que não temos mais nada a dizer, a menos que eu possa provar para você.}
+{550}{}{Agora, eu não quero que você machuque nenhum dos meus filhos, sem armas! Não são crianças más, apenas foram...
+ enganadas. Vou ver o que posso fazer para mudar isso...}
+{551}{}{Certo, não se preocupe... não terá vítimas.}
+{552}{}{Eu estarei de volta quando terminar. Preciso cuidar de algumas outras coisas primeiro.}
+{553}{}{Uh, eu não posso prometer isso... talvez você devesse arranjar outra pessoa para cuidar do problema.}
 {1251}{}{. Eu tenho algumas sobre New Reno...}
 {1415}{}{(Salta.) Oh, Deus! (Aperta os olhos para você, depois franze os lábios em desaprovação.) Bem, eu nunca! }
 {1430}{}{(Salta.) Oh, Deus! }
 {1431}{}{(Olha para você, então o olhar dela se torna frio.) }
-{1480}{}{You'll destroy it? I... well, all right... (Builds up steam..) }
-{1530}{}{. I'll make sure Family Wright keeps to the straight and narrow from now on.}
+{1480}{}{Você vai destruí-la? Eu... bem, de acordo... (Acumula energia...) }
+{1530}{}{. Vou me certificar de que a Família Wright se mantenha na linha de agora em diante.}
