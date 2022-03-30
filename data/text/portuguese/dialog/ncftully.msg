@@ -1,62 +1,62 @@
-{100}{}{You see Father Tully.}
-{150}{}{You see an elderly man in brown robes with whiskey blotches on his cheeks. He looks a leeeettle unsteady.}
-{151}{}{You see Father Tully. He looks like he's tipped back a few wet ones.}
-{200}{}{I am thoroughblest.}
-{201}{}{And the womanfolk should greet me with a holy kiss.}
-{202}{}{I'll drink the devil outta me if I must.}
-{203}{}{A true sermon has no words...}
-{204}{}{I feel the Above in me.}
-{205}{}{Damnation, I'm sobering up. I need a drink.}
-{206}{}{Why'z the ground sliding all around...}
-{207}{}{A bottle a' hootch will help me speak in tongues.}
-{208}{}{A fifth of hootch would kill this devil in my head.}
-{209}{}{Ooohhh. It's been an hour since I last had a swig...}
-{210}{}{Time to drink deep of the holy spirit.}
-{211}{}{I drink in the name of all that is holy.}
-{220}{}{Want t'know th' church's attitude toward fellatio?}
-{221}{}{Sinfulness! Wickedness! Eh... what are you doing later?}
-{222}{}{Strumpet! Harlot! Trollop! Eh... what are you doing later?}
-{225}{}{Houer you? Do I know you? }
-{226}{}{Greetingz... wazzit Father Tully can do fer you thiz... }
-{227}{}{You th'one hoo beat th' Enclave like a god... er, dog? Yer a heroo.}
-{228}{}{Me hear-o}
-{229}{}{Me bye-o}
-{230}{}{I tangled with the Enclave, yes. They started it -- I finished it. But don't get me wrong, Father. I'm just a man,
- trying to make his way in this unforgiving world... I'm no hero.}
-{231}{}{I tangled with the Enclave, yes. They started it -- I finished it. But don't get me wrong, Father. I'm just a woman,
- trying to make her way in this unforgiving world... I'm no hero.}
+{100}{}{Você vê o padre Tully.}
+{150}{}{Você vê um homem idoso em vestes marrons e manchas vermelhas nas bochechas por causa do uísque. Ele parece um pouco instável.}
+{151}{}{Você vê o padre Tully. Ele parece estar de ressaca. }
+{200}{}{Eu sou muitobençoado.}
+{201}{}{E as mulheres devem me cumprimentar com um beijo santo.}
+{202}{}{Expulsarei o demônio de mim bebendo se for possível.}
+{203}{}{Um verdadeiro sermão não tem palavras...}
+{204}{}{Eu sinto o Todopoderoso em mim.}
+{205}{}{Maldição, estou ficando sóbrio. Preciso de uma bebida.}
+{206}{}{Por que o chão tá dando umas voltas...}
+{207}{}{Uma garrafa de bebida vai me ajudar a falar em línguas.}
+{208}{}{Um quinto de licor mataria esse diabo na minha cabeça.}
+{209}{}{Oooh. Já tem uma hora desde a última vez que tomei um gole...}
+{210}{}{Hora de absorver o espírito santo.}
+{211}{}{Eu bebo em nome de tudo o que é sagrado.}
+{220}{}{Quer saber o que a igreja acha sobre a felação?}
+{221}{}{Pecado! Maldade! Eh... o que você vai fazer depois?}
+{222}{}{Vadia! Prostituta! Puta! Ei... o que você vai fazer mais tarde?}
+{225}{}{Quem é você? Te conheço? }
+{226}{}{Saudaççções... o que o padre Tully pode fazer por você... }
+{227}{}{Você venceu a Enclave como um... um... deus, né? Você é um herói.}
+{228}{}{Eu rerói}
+{229}{}{Eu vou}
+{230}{}{Eu enfrentei a Enclave, sim. Eles começaram - e eu terminei. Mas não me entenda mal, padre. Sou apenas um
+ homem tentando abrir caminho neste mundo implacável... Não sou um herói.}
+{231}{}{Eu enfrentei a Enclave, sim. Eles começaram - e eu terminei. Mas não me entenda mal, padre. Sou apenas uma
+ mulher tentando abrir caminho neste mundo implacável... Não sou um heroína.}
 {232}{}{É melhor eu ir, padre. Fiquei feliz em sentir o seu cheiro... digo, em vê-lo.}
-{235}{}{Yer a HERO. I got sumfin' fer you. I dinna know what it wazzat first, but I figger you might be needin' it.}
-{236}{}{Me take}
-{237}{}{Me no need it... me want to go outside}
-{238}{}{Sure. I'll take whatever you're giving, Father. Uh, well, within the realms of decency.}
+{235}{}{Você é um HERRRÓI. Eu tenho ago pra você. Não sei o que podia servir, mas imagino que você possa estar precisando.}
+{236}{}{Eu pego}
+{237}{}{Não preciso... eu quero ir lá fora}
+{238}{}{Certo. Eu aceito o que você está dando, padre. Uh, bem, dentro dos limites da decência.}
 {239}{}{Er... não, obrigado, padre. Eu realmente preciso ir.}
-{240}{}{(Tully goes over to one of the pews, rips off a board from the seat, and pulls out a grimy soft-cover book.) Here ya go.
- Itzza lil' dirty, but... (Hands it to you.)}
-{241}{}{Thanx}
-{242}{}{Thanks, Father. I think.}
-{245}{}{Yer a heroo. Yoo deserve it. Not many gamerz today FINISH gamez, but yoo went th' diztance. I'm proud of yoo.
- Alluh NEW RENO iz prouda you.}
-{246}{}{Thanx, Fathuh. Byeeee}
-{247}{}{Thanks, Father. You take care of yourself, you hear?}
-{250}{}{Greetingzz, my son. Whazit Father Tully can do for youz on thiz fine, fine, Reno night?}
-{251}{}{Greetingzz, my son. Whazit Father Tully can do for youz on thiz fine, fine Reno day?}
-{252}{}{Hee-hee. You stink like still. You stink like pee-pee}
-{253}{}{Me like mister sun}
-{254}{}{Nightie-night.}
-{255}{}{Uh, it's actually day time, Father.}
-{256}{}{Uh, it's actually night time, Father.}
+{240}{}{(Tully vai até um dos bancos, arranca uma tábua do assento e tira um livro de capa mole encardido.) Aqui está. É um
+ pouco sujo, mas... (entrega para você.)}
+{241}{}{Brigado}
+{242}{}{Obrigado, padre. Acho.}
+{245}{}{Você é um herói. Ocê merece. Não são os muitos jogadoress TERMINAM os joogoss, mas você foi e fez. Estou
+ orgulhoso de você. Tooooda NEW RENO está orgulhosa de você.}
+{246}{}{Brigado, padre. Tchaaau}
+{247}{}{Obrigado, padre. Se cuida, tá ouvindo?}
+{250}{}{Saudaççções, meu filho. O que o padre Tully pode fazer por você nessa... preciosa noite em Reno?}
+{251}{}{Saudaçççõões, meu filho. O que o padre Tully pode fazer por você neste... bom dia em Reno?}
+{252}{}{Hee-hee. Você fede chacaça. Você fede xixi}
+{253}{}{Eu gosto do sol}
+{254}{}{Noite bonita.}
+{255}{}{Eh, na verdade é de dia, padre.}
+{256}{}{Eh, na verdade é de noite, padre.}
 {257}{}{Quem é você?}
-{258}{}{Are you drunk?}
-{259}{}{'Father' Tully, huh? Can you do divorces?}
-{261}{}{Say, I brought some hootch, Father. Can we talk for a moment...?}
+{258}{}{Está bêbado?}
+{259}{}{'Padre' Tully, eh? Você pode fazer divórcios?}
+{261}{}{Olhe, eu trouxe um pouco de bebida, padre. Podemos conversar um momento...?}
 {262}{}{Nada. Desculpe por atrapalhar.}
-{270}{}{(Sniffs his armpits, then his robes.) My word, I sure smell strongly, don't I? Damnation, I smell like a still!
- Better get clean 'fore Missuz Wright catchez me...}
-{271}{}{Bye bye pee pee man}
-{275}{}{Hell, musta over-slept... woulda noticed otherwise... what th' hell was I saying?}
-{290}{}{Father Tully, at yer service. I'm th' spiritual advisor to the good p... well, to th' people of New Reno.}
-{291}{}{Is being drunk the only way that you can accomplish that?}
+{270}{}{(Cheira seu suvaco e depois suas vestes.) Minha palavra, com certeza um cheiro forte, né? Maldição, eu ccheiro
+ como um alambique! Melhor me limpar antes que Sssenhora Wright me ache...}
+{271}{}{Tchau homem mijo}
+{275}{}{Inferno, devo ter dormido demais... teria notado de outra forma... o que diabos eu estava dizendo?}
+{290}{}{Padre Tully, a seu serviço. Sou o conselheiro espiritual do bom p... bem, do povo de New Reno.}
+{291}{}{Estar bêbado é a única maneira de conseguir isso?}
 {292}{}{Eu tenho algumas perguntas sobre New Reno...}
 {295}{}{I see. Well, thanks for talking with me.}
 {300}{}{Certintly not! In th' PAST, I was known to indulge in th'spirits, but th' Temperance Union has helped me break th' filthy habit!}

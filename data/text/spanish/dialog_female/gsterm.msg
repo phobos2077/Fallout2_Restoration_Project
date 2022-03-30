@@ -136,7 +136,7 @@
 {411}{}{Los circuitos lógicos fallan. Me pregunto qué significa.}
 {412}{}{Parece que hay más cosas funcionando que no. A ver qué conseguimos aquí.}
 {420}{}{Reconocimiento de localización de tareas no operativo. Unidad incapaz de movimiento a localizaciones reconocidas en distancias extensas. Recomendación: Mover unidad a localizaciones intermedias como puntos de control hasta la localización de tarea definitiva.}
-{421}{}{Me pregunto qué ocurrirá si no indico las tareas en el orden correcto.}
+{421}{}{Me pregunto qué ocurrirá si no introduzco las tareas en el orden correcto.}
 {422}{}{Creo que ya he leído suficientes avisos. Estoy lista para usar esta cosa ahora.}
 {430}{}{Unidad regresa a su bahía si el programa de mando contiene erores de terminal.}
 {431}{}{Oh, bueno; eso lo explica. Me pregunto qué pasa con el fallo del circuito lógico.}
