@@ -60,7 +60,7 @@
 {324}{}{Level 4}
 {330}{}{Downtown}
 {331}{}{Great Wanamingo Mine}
-{332}{}{Wanamingo Mine}
+{332}{}{Mina Wanamingo}
 {333}{}{Mining Camp}
 {334}{}{Downtown Tunnels}
 {335}{}{Mine Tunnels}
@@ -141,7 +141,7 @@
 {500}{}{Golgotha}
 {510}{}{Smashed Whale Guts}
 {520}{}{Tin Woodsman}
-{521}{}{Big Head}
+{521}{}{Cabeça Grande}
 {530}{}{Crash Site}
 {540}{}{Desert}
 {550}{}{Ponte}

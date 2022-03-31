@@ -58,29 +58,30 @@
 {290}{}{Padre Tully, a seu serviço. Sou o conselheiro espiritual do bom p... bem, do povo de New Reno.}
 {291}{}{Estar bêbado é a única maneira de conseguir isso?}
 {292}{}{Eu tenho algumas perguntas sobre New Reno...}
-{295}{}{I see. Well, thanks for talking with me.}
-{300}{}{Certintly not! In th' PAST, I was known to indulge in th'spirits, but th' Temperance Union has helped me break th' filthy habit!}
-{301}{}{The Temper --?}
-{302}{}{Oh. I didn't --}
-{303}{}{Break th --?}
-{305}{}{Temprance Union, Misssus Wright... same pershun. Tryin' ta clean up New Reeno. Done a pretty good job with me.}
+{295}{}{Entendo. Bem, obrigado por conversar comigo.}
+{300}{}{Certamente que nãão! No PASSADO, eu erra conhecido por me entregar aos espritos, mas União da Temperança me ajudou a quebrar esse hábito imundo!}
+{301}{}{União da Tempe --?}
+{302}{}{Oh. eu não --}
+{303}{}{Quebrar o --?}
+{305}{}{União da Temprança, Sinhoraaa. Wright... a mesma pessoa 
+tentando limpar New Reeno. Fez um bom trabalho comigo.}
 {306}{}{Claro que sim. Eu tenho algumas outras perguntas...}
-{315}{}{Queshions? Can't say I know tooo much 'bout them. But ast away.}
+{315}{}{Preguntas? Não posso falar que sei muitas cosass. Mas podi falr.}
 {316}{}{Você já ouviu falar do Vault 13?}
-{317}{}{I'm here because I'm looking for my tribe. They were kidnapped from my village.}
-{318}{}{You don't know how to fix an oil tanker, do you?}
-{319}{}{Have you heard about something called the Garden of Eden Creation Kit?}
-{320}{}{Can you tell me a little bit about New Reno?}
-{323}{}{Maybe I'll come back when you're a little drier.}
-{325}{}{Well... Reno... itz... well, itz... well... um, say...}
-{326}{}{A Garden o' Eden Creashun Kit? Nope. Can't say I've ever heard of one. Say, um...}
-{327}{}{Vault thurteen? No idea... well, I mean, therez Vault CITY to th' northeast. That what you lookin' for, maybe? Hmmmm... say, um...}
-{328}{}{Slaverz, maybe? Heard thaz where they get a lotta their stock... um... say...}
-{329}{}{Tanker? Thing with treads an' a barrel...? Don't know much 'bout that....um... say...}
-{330}{}{Yes...?}
-{335}{}{Pardon me for asking, do you happenta have a bottle on you? I need sum fer th' services... and, eh, my throatz a little dry.}
-{336}{}{Sure. Here ya go.}
-{337}{}{Not on me, I'm afraid.}
+{317}{}{Estou aqui porque procuro minha tribo, eles foram sequestrados da minha aldeia.}
+{318}{}{Você não sabe como consertar um petroleiro, não é?}
+{319}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{320}{}{Você pode me falar um pouco sobre New Reno?}
+{323}{}{Talvez eu volte quando você estiver um pouco mais sóbrio.}
+{325}{}{Bem... Reno... é... bem, é... bem... hum, então...}
+{326}{}{Um kit de Crianção do Jardem do Eden? Não. Não posso dizer que já ouvi falar di um. Então, hum...}
+{327}{}{Vault Treezee? Não faço idea... bem, quero dizer, tem Vault CITY pra nordeste. Isso é o que você está procurando, talvez? Hummm... digamos, hum...}
+{328}{}{Quer dizer escreavistass? Ouvi falaar onde eles compram alguuns estoques... hum... digamos...}
+{329}{}{Petrolero? Daquees negocios que flutua...? Não sei muito sobre isso... hum... diga...}
+{330}{}{Sim...?}
+{335}{}{Me perdoe por perguntar, você poor acasu tem uma garrrafa com você? Eu preciso de djinheiro para meus serviços... e, eh, minha garganta ta meio seca.}
+{336}{}{Certo, tenho aqui.}
+{337}{}{Não tenho nenhuma, desculpe.}
 {338}{}{I could go snag some, if you want.}
 {440}{}{Now I'm onna straight and narrow, thankz to Missus Wright... bless her soul. I've been clean fer almost a... uh, month. Or wazzit
  a week? Aw, hell, I don't know. }

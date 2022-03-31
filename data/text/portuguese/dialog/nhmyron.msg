@@ -647,7 +647,7 @@
 {5617}{}{I think I could show you a thing or two.}
 {5725}{}{Fine, fine. What was the problem with making barbiturates?}
 {5741}{}{Por quê?}
-{5851}{}{Yes...?}
+{5851}{}{Sim...?}
 {5861}{}{I thought so.}
 {6208}{}{?}
 {6218}{}{ go}

@@ -588,26 +588,26 @@
 {688}{}{Aileen}
 {689}{}{Guard}
 {690}{}{Doc Holiday}
-{691}{}{Henchman}
-{692}{}{Henchman}
-{693}{}{Woman}
+{691}{}{Capanga}
+{692}{}{Capanga}
+{693}{}{Mulher}
 {694}{}{Francis}
 {695}{}{Frank}
 {696}{}{Ghoul}
 {697}{}{Liz}
-{698}{}{Man}
+{698}{}{Homem}
 {699}{}{Manson}
 {700}{}{Marcus}
-{701}{}{Miner}
-{702}{}{Mutant}
+{701}{}{Mineiro}
+{702}{}{Mutante}
 {703}{}{Bill}
 {704}{}{Phil}
 {705}{}{Steve}
 {706}{}{Supervisor}
 {707}{}{Zaius}
 {708}{}{Jacob}
-{709}{}{Chemistry Set}
-{710}{}{Prop}
+{709}{}{Jogo de quimica}
+{710}{}{Suporte}
 {711}{}{Porta}
 {712}{}{Computador}
 {713}{}{Chad}
@@ -615,18 +615,18 @@
 {715}{}{}
 {716}{}{Radscorpion}
 {717}{}{}
-{718}{}{Warrior}
+{718}{}{Guerreiro}
 {719}{}{Cannibal}
-{720}{}{Outcast}
-{721}{}{Holy Person}
-{722}{}{Nomad}
-{723}{}{Homeless Person}
+{720}{}{Foragido}
+{721}{}{Pessoa santa}
+{722}{}{Nomade}
+{723}{}{Vagabundo}
 {724}{}{Bandit}
-{725}{}{Robber}
+{725}{}{Ladrão}
 {726}{}{Highwayman}
 {727}{}{Traficante de escravos}
 {728}{}{Slave}
-{729}{}{Partier}
+{729}{}{Festeiro}
 {730}{}{Mantis}
 {731}{}{Brahmin}
 {732}{}{Wild Dog}
@@ -640,7 +640,7 @@
 {740}{}{Emitter}
 {741}{}{Porta do Refúgio}
 {742}{}{Porta de Segurança.}
-{743}{}{Bess Encounter}
+{743}{}{Encontro de Bess}
 {744}{}{Bess}
 {745}{}{Brahmin}
 {746}{}{Angela Bishop}
@@ -654,29 +654,29 @@
 {754}{}{Grave}
 {755}{}{Quieto}
 {756}{}{Ramirez}
-{757}{}{Cave 1 Random Encounter Map}
+{757}{}{Mapa de Encontro Aleatório da Caverna 1}
 {758}{}{Caixa}
 {759}{}{Porta}
-{760}{}{Cave 2 Random Encounter Map}
-{761}{}{Cave 3 Random Encounter Map}
-{762}{}{Cave 4 Random Encounter Map}
-{763}{}{Cave 2 Random Encounter Map}
+{760}{}{Mapa de Encontro Aleatório da Caverna 2}
+{761}{}{Mapa de Encontro Aleatório da Caverna 3}
+{762}{}{Mapa de Encontro Aleatório da Caverna 4}
+{763}{}{Mapa de Encontro Aleatório da Caverna 2}
 {764}{}{Porta}
 {765}{}{Map Script}
-{766}{}{Trap Door}
+{766}{}{Alçapão}
 {767}{}{Lockbox}
-{768}{}{Room}
+{768}{}{Sala}
 {769}{}{Thomas Moore}
 {770}{}{Porta}
 {771}{}{Armário}
 {772}{}{Bueiro}
 {773}{}{Grave}
-{774}{}{Supply Guard}
+{774}{}{Guarda de Suprimentos}
 {775}{}{Map Script}
 {776}{}{Map Script}
 {777}{}{Mad Brahmin}
 {778}{}{Hakeswill}
-{779}{}{Redding Downtown}
+{779}{}{Centro de Redding}
 {780}{}{Map Script}
 {781}{}{Map Script}
 {782}{}{Lou}
@@ -701,55 +701,55 @@
 {801}{}{John}
 {802}{}{Joshua}
 {803}{}{Escada}
-{804}{}{Big Head}
-{805}{}{Black Hero}
-{806}{}{Red Heroine}
+{804}{}{Cabeça Grande}
+{805}{}{Heroi Negro}
+{806}{}{Heroina Vermelha}
 {807}{}{Set}
 {808}{}{Tandi}
-{809}{}{White Hero}
-{810}{}{White Hero}
-{811}{}{White Heroine}
+{809}{}{Heroi Branco}
+{810}{}{Heroi Branco}
+{811}{}{Heroina Branca}
 {812}{}{Caixa}
 {813}{}{Caixa}
 {814}{}{Caixa}
 {815}{}{Map Script}
 {816}{}{Vorpal Rat}
 {817}{}{Dog}
-{818}{}{Drill Sergeant}
+{818}{}{Sargento de Perfuração}
 {819}{}{Guard}
-{820}{}{Technician}
-{821}{}{Commander}
+{820}{}{Tecnico}
+{821}{}{Comandante}
 {822}{}{Chris}
-{823}{}{Quarter Master}
+{823}{}{Oficial dos Quartos}
 {824}{}{Guard}
 {825}{}{Grave}
 {826}{}{Carro}
 {827}{}{Carro}
 {828}{}{Grave}
-{829}{}{Robed Figure}
-{830}{}{Cattle Buyer}
+{829}{}{Figura com toga}
+{830}{}{Comprador de gado}
 {831}{}{Map Script}
 {832}{}{Mysterious Stranger}
 {833}{}{Mad Brahmin}
-{834}{}{Yakuza Member}
+{834}{}{Membro da Yakuza}
 {835}{}{Wilder}
 {836}{}{Dog}
 {837}{}{Caixa}
-{838}{}{Patrol Member}
+{838}{}{Membro da Patrulha}
 {839}{}{Traveler}
 {840}{}{Smoke}
-{841}{}{Trader}
-{842}{}{Scavenger}
+{841}{}{Comerciante}
+{842}{}{Carniceiro}
 {843}{}{Merchant}
 {844}{}{Peasant}
-{845}{}{Arroyo Temple}
+{845}{}{Templo de Arroyo}
 {846}{}{Dock Worker}
 {847}{}{Peasant}
 {848}{}{Shi Guard}
 {849}{}{Cameron}
 {850}{}{Porta}
 {851}{}{Klint}
-{852}{}{Crops}
+{852}{}{Plantações}
 {853}{}{Shi Lab Tech}
 {854}{}{Child}
 {855}{}{Ghoul}
@@ -761,16 +761,16 @@
 {861}{}{}
 {862}{}{}
 {863}{}{Prospector}
-{864}{}{Gang Member}
-{865}{}{Nomad Chief}
+{864}{}{Membro de Gangue}
+{865}{}{Nomade Chefe}
 {866}{}{Hubologist}
-{867}{}{Crazy}
-{868}{}{Claim Jumper}
+{867}{}{Louco}
+{868}{}{Corsário}
 {869}{}{Cannibal}
-{870}{}{Nomad Shamon}
+{870}{}{Xama Nomade}
 {871}{}{Marauder}
-{872}{}{Rogue}
-{873}{}{Hermit}
+{872}{}{Patife}
+{873}{}{Eremita}
 {874}{}{}
 {875}{}{Caravan Master}
 {876}{}{Caravan Master}
@@ -781,39 +781,39 @@
 {881}{}{Caravan Master}
 {882}{}{Caravan Master}
 {883}{}{Caravan Master}
-{884}{}{Farmer's Wife}
-{885}{}{Farmer's Kid}
+{884}{}{Esposa do Fazendeiro}
+{885}{}{Filho do Fazendeiro}
 {886}{}{Homesteader}
-{887}{}{Homesteader's Wife}
-{888}{}{Homesteader's Kid}
+{887}{}{Esposa do Agricultor}
+{888}{}{Filho do Agricultor}
 {889}{}{Caravan Master}
 {890}{}{}
 {891}{}{}
 {892}{}{}
 {893}{}{}
-{894}{}{Enclave Patrolman}
-{895}{}{Merc Captain}
-{896}{}{Merc Raider}
-{897}{}{"Shadow-Who-Walks"}
+{894}{}{Patrulheiro da Enclave}
+{895}{}{Capitao Merc}
+{896}{}{Raider Merc}
+{897}{}{"Sombra Que Anda"}
 {898}{}{Safe}
 {899}{}{}
 {900}{}{}
 {901}{}{}
 {902}{}{Caixa}
-{903}{}{President Richardson}
+{903}{}{Presidente Richardson}
 {904}{}{Canhão Howitzer}
 {905}{}{Porta}
-{906}{}{Baby Deathclaw}
-{907}{}{Dangerous Dan}
+{906}{}{Deathclaw bebe}
+{907}{}{Perigoso Dan}
 {908}{}{Doc Johnson}
 {909}{}{Sheriff Marion}
-{910}{}{Mayor Ascorti}
+{910}{}{Prefeito Ascorti}
 {911}{}{Nording}
 {912}{}{Velani}
 {913}{}{Ferndown}
 {914}{}{The Dragon}
-{915}{}{Stable Boy}
-{916}{}{Trader}
+{915}{}{Cavalariço}
+{916}{}{Comerciante}
 {917}{}{Townsperson}
 {918}{}{Slag}
 {919}{}{Slag}
@@ -826,35 +826,35 @@
 {926}{}{Porta}
 {927}{}{Porta}
 {928}{}{Emitter}
-{929}{}{Rat God}
+{929}{}{Deus Rato}
 {930}{}{}
 {931}{}{Kaga}
 {932}{}{Kaga}
 {933}{}{Kaga}
 {934}{}{Kaga}
 {935}{}{Kaga}
-{936}{}{Bounty Hunter}
+{936}{}{Caçador de Recompensa}
 {937}{}{Computador}
 {938}{}{Computador}
 {939}{}{Computador}
 {940}{}{Darrow}
 {941}{}{Farrell}
-{942}{}{Bar Patron}
-{943}{}{Vault Citizen}
-{944}{}{Vault Servant}
-{945}{}{Ventilation Shaft}
+{942}{}{Patrono do Bar}
+{943}{}{Cidadão da Vault}
+{944}{}{Servo da Vault}
+{945}{}{Poço de ventilação}
 {946}{}{Charlie}
-{947}{}{Coolant Control Panel}
-{948}{}{Poo}
+{947}{}{Painel de Controle do Refrigerante}
+{948}{}{Estrume}
 {949}{}{Grant}
 {950}{}{Emitter}
 {951}{}{Emitter}
 {952}{}{Computer Terminal}
-{953}{}{Emperor Terminal v8.8}
-{954}{}{Vice President Bird}
+{953}{}{Terminal Imperador v8.8}
+{954}{}{Vice Presidente Bird}
 {955}{}{Martin}
 {956}{}{Ken Lee}
-{957}{}{Sgt. Granite}
+{957}{}{Sargento Granite}
 {958}{}{Frank Horrigan}
 {959}{}{Map Script}
 {960}{}{Map Script}
@@ -866,12 +866,12 @@
 {966}{}{Dr. Curling}
 {967}{}{Quadro de avisos}
 {968}{}{Mole Rat}
-{969}{}{President's Secretary}
+{969}{}{Secretaria do Presidente}
 {970}{}{Tom Murray}
-{971}{}{Sturdy Door}
+{971}{}{Porta resistente}
 {972}{}{Townsperson}
-{973}{}{Vault City Council Area}
-{974}{}{Air Purifier}
+{973}{}{Área da Câmara Municipal de Vault City}
+{974}{}{Purificador de ar}
 {975}{}{Rochas}
 {976}{}{Gambler}
 {977}{}{Spatial Script}
@@ -884,25 +884,25 @@
 {984}{}{}
 {985}{}{}
 {986}{}{Emitter}
-{987}{}{Blast Door}
-{988}{}{Blast Door}
-{989}{}{Darrow's Stock}
+{987}{}{Porta de segurança}
+{988}{}{Porta de segurança}
+{989}{}{Estoque de Darrow}
 {990}{}{Porta}
-{991}{}{Super Duper Mutant}
+{991}{}{Super Mutante Legal}
 {992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchior Jr.}
 {995}{}{Scanner de Retina}
 {996}{}{Porta do elevador}
-{997}{}{Cybernetic Receptacle}
+{997}{}{Receptáculo Cibernético}
 {998}{}{Parede}
 {999}{}{Map Script}
-{1000}{}{Farrell's Stock}
-{1001}{}{Harry's Stock}
+{1000}{}{Estoque de Farrell}
+{1001}{}{Estoque de Harry}
 {1002}{}{Caixa}
 {1003}{}{Caixa}
 {1004}{}{Derek}
-{1005}{}{Tubby's Friend}
+{1005}{}{Amigo de Tubby}
 {1006}{}{Gambler}
 {1007}{}{Slave}
 {1008}{}{Guard}
@@ -924,61 +924,61 @@
 {1024}{}{Computer Terminal}
 {1025}{}{Lao Chou}
 {1026}{}{}
-{1027}{}{Ventilation Shaft}
+{1027}{}{Poço de ventilação}
 {1028}{}{Map Script}
 {1029}{}{Cadáver}
-{1030}{}{Exposed wires}
+{1030}{}{Fios expostos}
 {1031}{}{Caixa}
 {1032}{}{Slave}
 {1033}{}{Slave}
 {1034}{}{Traficante de escravos}
 {1035}{}{Chip}
 {1036}{}{Reactor}
-{1037}{}{Reactor Computer}
-{1038}{}{Cash Tender}
-{1039}{}{Cash Box}
+{1037}{}{Computador do Reator}
+{1038}{}{Caixa eletrônico}
+{1039}{}{Cofre}
 {1040}{}{Wanamingo}
-{1041}{}{Bar Patron}
-{1042}{}{Bar Patron}
-{1043}{}{Jail Door}
+{1041}{}{Patrono do Bar}
+{1042}{}{Patrono do Bar}
+{1043}{}{Porta da cadeia}
 {1044}{}{Suze}
-{1045}{}{Captain Ron Meyers}
-{1046}{}{Pen Door}
-{1047}{}{Wanamingo Mine}
-{1048}{}{Wanamingo Mine Entrance}
-{1049}{}{Frog Morton}
+{1045}{}{Capitão Ron Meyers}
+{1046}{}{Porta do Curral}
+{1047}{}{Mina Wanamingo}
+{1048}{}{Entrada da Mina Wanamingo}
+{1049}{}{Sapo Morton}
 {1050}{}{Dave H.}
 {1051}{}{Porta}
 {1052}{}{Porta}
-{1053}{}{Puking Charlie}
-{1054}{}{Painting}
+{1053}{}{Charlie vomito}
+{1054}{}{Pintura}
 {1055}{}{Map Script}
 {1056}{}{Bartender}
 {1057}{}{Caixa}
 {1058}{}{Auto - Doc}
 {1059}{}{}
-{1060}{}{Mining Tunnel}
+{1060}{}{Tunel da mina}
 {1061}{}{Robot}
 {1062}{}{}
 {1063}{}{Map Script}
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Harry the Rocketman}
+{1067}{}{Harry o Astronauta}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
 {1071}{}{Joshua}
 {1072}{}{Valerie}
-{1073}{}{Teaching System}
+{1073}{}{Sistema de Ensino}
 {1074}{}{Engradado}
-{1075}{}{Peeing Guy}
+{1075}{}{Cara mijando}
 {1076}{}{Curtis}
 {1077}{}{Marc}
 {1078}{}{Computador}
 {1079}{}{AHS-9}
 {1080}{}{Guard}
-{1081}{}{Pile of rocks}
+{1081}{}{Monte de pedras}
 {1082}{}{Porta}
 {1083}{}{Guard}
 {1084}{}{Guard}
@@ -997,7 +997,7 @@
 {1097}{}{Escada}
 {1098}{}{Saco de pancadas}
 {1099}{}{Porta}
-{1100}{}{Alarm}
+{1100}{}{Alarme}
 {1101}{}{Armadilha}
 {1102}{}{Armadilha}
 {1103}{}{Armadilha}
@@ -1020,10 +1020,10 @@
 {1120}{}{Force Field}
 {1121}{}{Hubologist}
 {1122}{}{Computador}
-{1123}{}{Bunker Door}
+{1123}{}{Porta do bunker}
 {1124}{}{Portão}
 {1125}{}{Caixa}
-{1126}{}{Morton Brother}
+{1126}{}{Irmão Morton}
 {1127}{}{Emitter}
 {1128}{}{Emitter}
 {1129}{}{Emitter}
@@ -1031,13 +1031,13 @@
 {1131}{}{Chet}
 {1132}{}{Map Script}
 {1133}{}{Vertibird}
-{1134}{}{Salvatore Guard}
-{1135}{}{Salvatore Guard}
-{1136}{}{Soldier}
-{1137}{}{Soldier}
+{1134}{}{Guarda de Salvatore}
+{1135}{}{Guarda de Salvatore}
+{1136}{}{Soldado}
+{1137}{}{Soldado}
 {1138}{}{Engradado}
 {1139}{}{Mr. Handy}
-{1140}{}{Salvatore Guard}
+{1140}{}{Guarda de Salvatore}
 {1141}{}{Spacial Script}
 {1142}{}{Porta}
 {1143}{}{Porta}
@@ -1045,30 +1045,30 @@
 {1145}{}{}
 {1146}{}{Map Script}
 {1147}{}{Slave}
-{1148}{}{Vault Citizen}
+{1148}{}{Cidadão da Vault}
 {1149}{}{Porta}
 {1150}{}{Boxer}
 {1151}{}{Porta do Refúgio}
 {1152}{}{Xarn}
 {1153}{}{Raul}
 {1154}{}{Quincy}
-{1155}{}{Quartermaster}
+{1155}{}{Contramestre}
 {1156}{}{Guard}
 {1157}{}{K-9}
 {1158}{}{Doutor Schreber}
-{1159}{}{Technician}
-{1160}{}{Technician}
+{1159}{}{Tecnico}
+{1160}{}{Tecnico}
 {1161}{}{Guard}
 {1162}{}{Guard}
 {1163}{}{Guard}
 {1164}{}{Guard}
-{1165}{}{Technician}
-{1166}{}{Technician}
-{1167}{}{Technician}
-{1168}{}{Technician}
+{1165}{}{Tecnico}
+{1166}{}{Tecnico}
+{1167}{}{Tecnico}
+{1168}{}{Tecnico}
 {1169}{}{Cave In}
-{1170}{}{Enclave Patroller}
-{1171}{}{Blast Door}
+{1170}{}{Patrulheiro da Enclave}
+{1171}{}{Porta de segurança}
 {1172}{}{Map Script}
 {1173}{}{Map Script}
 {1174}{}{Map Script}
@@ -1077,28 +1077,28 @@
 {1177}{}{Map Script}
 {1178}{}{Security Robot}
 {1179}{}{Caixa de esmolas}
-{1180}{}{Body}
+{1180}{}{Cadaver}
 {1181}{}{Caixa}
 {1182}{}{Caixa}
 {1183}{}{Caixa}
 {1184}{}{Caravan Guard}
 {1185}{}{Caravan Driver}
-{1186}{}{Ring Announcer}
-{1187}{}{Ring Girl}
+{1186}{}{Locutor do ringue}
+{1187}{}{Garota do Ringue}
 {1188}{}{Boxer}
 {1189}{}{Porta}
-{1190}{}{Cheat Character}
+{1190}{}{Trapaceiro}
 {1191}{}{Holodisk}
 {1192}{}{Holodisk}
 {1193}{}{Holodisk}
-{1194}{}{Note}
+{1194}{}{Nota}
 {1195}{}{Dogmeat}
-{1196}{}{Cat's Paw Magazine #5}
+{1196}{}{Revista Guarra da Gata #5}
 {1197}{}{Mapa dos Raiders}
 {1198}{}{Pariah Dog}
 {1199}{}{Klaxon}
 {1200}{}{Mine}
-{1201}{}{Pit}
+{1201}{}{Cova}
 {1202}{}{Cal}
 {1203}{}{Slim}
 {1204}{}{Jenna}
@@ -1113,22 +1113,22 @@
 {1213}{}{}
 {1214}{}{Guard}
 {1215}{}{Prospector}
-{1216}{}{Bootleggers}
+{1216}{}{Contrabandistas}
 {1217}{}{}
 {1218}{}{Dan}
-{1219}{}{Shitty Comedian}
-{1220}{}{Trashcan Singer}
+{1219}{}{Comediante fracassado}
+{1220}{}{Cantor da lixeira}
 {1221}{}{Map Script}
 {1222}{}{}
 {1223}{}{Grave}
-{1224}{}{Coffin Willie}
-{1225}{}{Keyless entry computer}
-{1226}{}{Keyless entry Door}
+{1224}{}{Caixão Willie}
+{1225}{}{Computador sem chave de entrada}
+{1226}{}{Porta sem chave de entrada}
 {1227}{}{Computador}
 {1228}{}{Kohl}
 {1229}{}{Child}
 {1230}{}{Biscoito}
-{1231}{}{Turret}
+{1231}{}{Torreta}
 {1232}{}{Brian}
 {1233}{}{Generator}
 {1234}{}{Console}
@@ -1140,7 +1140,7 @@
 {1240}{}{Eric}
 {1241}{}{}
 {1242}{}{Caixa}
-{1243}{}{Giant Scorpion}
+{1243}{}{Escorpião gigante}
 {1244}{}{Jane}
 {1245}{}{}
 {1246}{}{Map Script}
@@ -1161,7 +1161,7 @@
 {1261}{}{Porta}
 {1262}{}{Computador}
 {1263}{}{Terminal}
-{1264}{}{Turret}
+{1264}{}{Torreta}
 {1265}{}{Chuck Stodgers}
 {1266}{}{}
 {1267}{}{Terminal}
@@ -1189,9 +1189,9 @@
 {1289}{}{Armário}
 {1290}{}{Poço}
 {1291}{}{Micky}
-{1292}{}{Turret}
+{1292}{}{Torreta}
 {1293}{}{Old Ghoul}
-{1294}{}{Henchman}
+{1294}{}{Capanga}
 {1295}{}{Elmo}
 {1296}{}{Banheiro}
 {1297}{}{Cruz}
@@ -1279,7 +1279,7 @@
 {1379}{}{Mel}
 {1380}{}{Duto de ventilação}
 {1381}{}{Kevin}
-{1382}{}{Alarm}
+{1382}{}{Alarme}
 {1383}{}{Armário}
 {1384}{}{Armário}
 {1385}{}{Armário}
@@ -1406,7 +1406,7 @@
 {1506}{}{Dex}
 {1507}{}{Gato Jules}
 {1508}{}{Kitsune}
-{1509}{}{Warrior}
+{1509}{}{Guerreiro}
 {1510}{}{Repelente de insetos}
 {1511}{}{Doctor's Prisoner}
 {1512}{}{Giant Ant}
@@ -1529,9 +1529,9 @@
 {1629}{}{elevator shaft}
 {1630}{}{Armário}
 {1631}{}{Dock Guard}
-{1632}{}{Technician}
-{1633}{}{Technician}
-{1634}{}{Technician}
+{1632}{}{Tecnico}
+{1633}{}{Tecnico}
+{1634}{}{Tecnico}
 {1635}{}{spatial}
 {1636}{}{Dock Worker}
 {1637}{}{map script}
