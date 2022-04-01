@@ -111,23 +111,23 @@
 {665}{}{Field bet 11 wins.}
 {666}{}{Field bet 12 wins triple.}
 {667}{}{Field bet loses.}
-{670}{}{Flat bet 4}
-{671}{}{Flat bet 5}
-{672}{}{Flat bet 6}
-{673}{}{Flat bet 8}
-{674}{}{Flat bet 9}
-{675}{}{Flat bet 10}
-{680}{}{Odds bet 4}
-{681}{}{Odds bet 5}
-{682}{}{Odds bet 6}
-{683}{}{Odds bet 8}
-{684}{}{Odds bet 9}
-{685}{}{Odds bet 10}
-{700}{}{No Point odds returned.}
-{701}{}{Play}
-{702}{}{Don't}
-{710}{}{Die1:}
-{711}{}{Die2:}
+{670}{}{Aposta em 4}
+{671}{}{Aposta em 5}
+{672}{}{Aposta em 6}
+{673}{}{Aposta em 8}
+{674}{}{Aposta em 9}
+{675}{}{Aposta em 10}
+{680}{}{Aposta na vantagem 4}
+{681}{}{Aposta na vantagem 5}
+{682}{}{Aposta na vantagem 6}
+{683}{}{Aposta na vantagem 8}
+{684}{}{Aposta na vantagem 9}
+{685}{}{Aposta na vantagem 10}
+{700}{}{Aposta de vantagem não devolvida.}
+{701}{}{Jogue}
+{702}{}{Não}
+{710}{}{Dado 1:}
+{711}{}{Dado 2:}
 {712}{}{Sorry, I have to leave.}
 {713}{}{Sorry, I don't want to make this bet.}
 {714}{}{Point's off.}

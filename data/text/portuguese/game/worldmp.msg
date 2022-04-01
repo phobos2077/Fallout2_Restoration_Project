@@ -1,26 +1,26 @@
-{200}{}{Cavern Entrance}
+{200}{}{Entrada da caverna}
 {201}{}{Entrance}
-{202}{}{Living Quarters}
-{203}{}{Command Center}
-{210}{}{Desert Entrance}
-{211}{}{Caverns/Entrance}
-{212}{}{Living Quarters}
-{213}{}{Command Center}
+{202}{}{Aposentos}
+{203}{}{Centro de Comando}
+{210}{}{Entrada do Deserto}
+{211}{}{Caverna/Entrada}
+{212}{}{Aposentos}
+{213}{}{Centro de Comando}
 {220}{}{Entrance}
 {221}{}{Jardim}
-{222}{}{Brahmin Pen}
+{222}{}{Curral de brahmins}
 {230}{}{Entrance}
-{231}{}{Crash House}
-{232}{}{Casino}
+{231}{}{Casa quebrada}
+{232}{}{Cassino}
 {240}{}{Base}
 {250}{}{Hotel}
-{251}{}{Hall}
-{252}{}{Watershed}
+{251}{}{Salão}
+{252}{}{Armazém de Água}
 {260}{}{Entrance}
 {261}{}{Downtown}
-{262}{}{Heights}
-{263}{}{Old Town}
-{264}{}{Merchants}
+{262}{}{Alturas}
+{263}{}{Cidade velha}
+{264}{}{Mercadores}
 {265}{}{Cave}
 {270}{}{Entrance}
 {271}{}{Level 1}
@@ -28,7 +28,7 @@
 {273}{}{Level 3}
 {274}{}{Level 4}
 {280}{}{Entrance}
-{281}{}{Stronghold Level 1}
+{281}{}{Fortaleza Nível 1}
 {282}{}{Fortaleza Nível 2}
 {283}{}{Vats Level 1}
 {284}{}{Vats Level 2}

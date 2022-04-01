@@ -2,25 +2,25 @@
 {201}{}{Village}
 {202}{}{Temple Entrance}
 {203}{}{Wilderness}
-{204}{}{Temple Interior}
+{204}{}{Interior do Templo}
 {210}{}{West Side}
 {211}{}{East Side}
-{212}{}{Den Residential}
+{212}{}{Residencial do Den}
 {220}{}{Downtown}
-{221}{}{Trapper Town}
+{221}{}{Cidade dos caçadores}
 {222}{}{Rat Caves}
 {223}{}{Trapping Grounds}
 {224}{}{Grazing Area}
 {225}{}{Desfiladeiro}
 {230}{}{Main Street}
 {231}{}{Bed & Breakfast}
-{232}{}{Grisham's Brahmin Pastures}
+{232}{}{Pastagens Brahmin de Grisham}
 {233}{}{Farrel's Garden}
 {234}{}{Down the John}
 {235}{}{Town Well}
 {240}{}{Courtyard}
-{241}{}{Inner City}
-{242}{}{Council}
+{241}{}{Interior da cidade}
+{242}{}{Conselho}
 {243}{}{Vault}
 {250}{}{Settlement}
 {251}{}{Power Plant}
@@ -36,17 +36,17 @@
 {275}{}{Boxing Arena}
 {276}{}{Vertibird Area}
 {280}{}{Battlefield}
-{281}{}{Depot Level 1: Personnel}
-{282}{}{Depot Level 2: Storage Bay}
-{283}{}{Depot Level 3: Robotics Lab}
-{284}{}{Depot Level 4: Bio Research Lab}
-{290}{}{The Squat}
+{281}{}{Depósito Nível 1: Pessoal}
+{282}{}{Depósito Nível 1: Baia de armazenamento}
+{283}{}{Depósito Nível 1: Laboratorio de Robotica}
+{284}{}{Depósito Nível 4: Laboratorio de Pesquisas Biologicas}
+{290}{}{Dependencias}
 {291}{}{Squatters}
 {292}{}{Squatters}
 {293}{}{Vault 15}
 {294}{}{East Entrance}
 {300}{}{Bazaar}
-{301}{}{Council 2}
+{301}{}{Conselho 2}
 {302}{}{Downtown}
 {303}{}{Council Hall}
 {304}{}{Westin Ranch}
@@ -59,22 +59,22 @@
 {323}{}{Level 3}
 {324}{}{Level 4}
 {330}{}{Downtown}
-{331}{}{Great Wanamingo Mine}
+{331}{}{Grande Mina Wanamingo}
 {332}{}{Mina Wanamingo}
 {333}{}{Mining Camp}
-{334}{}{Downtown Tunnels}
-{335}{}{Mine Tunnels}
+{334}{}{Túneis centrais}
+{335}{}{Tuneis da Mina}
 {340}{}{Chinatown}
 {341}{}{Dock}
 {342}{}{Petroleiro}
-{343}{}{Shuttle Exterior}
+{343}{}{Transporte Exterior}
 {344}{}{Shuttle Interior}
-{345}{}{Hubologists}
+{345}{}{Hubologistas}
 {346}{}{Shi Temple}
 {350}{}{Gas Station}
-{351}{}{Main Gate}
+{351}{}{Portao Principal}
 {360}{}{Dock}
-{361}{}{Detention Center}
+{361}{}{Centro de Detenção}
 {362}{}{End Boss}
 {363}{}{Barracks}
 {364}{}{Presidential Area}
@@ -1153,7 +1153,7 @@
 {5011}{}{Some bounty hunters.}
 {5012}{}{A band of ruffians led by a Morton Brother.}
 {5013}{}{A pack of radscorpions.}
-{5014}{}{A pack of wolves fighting some raiders.}
+{5014}{}{Uma matilha de lobos lutando contra alguns raiders.}
 {5015}{}{A man guarding a bridge.}
 {5016}{}{King Arthur's Knights fighting a rat.}
 {5017}{}{A band of angry raiders.}
@@ -1174,7 +1174,7 @@
 {5064}{}{A band of raiders.}
 {5065}{}{A pack of wolves.}
 {5066}{}{A pack of radscorpions.}
-{5067}{}{A pack of wolves fighting some raiders.}
+{5067}{}{Uma matilha de lobos lutando contra alguns raiders.}
 {5068}{}{The remains of a whale.}
 {5069}{}{A giant stone head.}
 {5070}{}{A crashed shuttle.}
@@ -1186,7 +1186,7 @@
 {5100}{}{Toxic waste dump.}
 {5101}{}{A lone surviving dog.}
 {5102}{}{A herd of brahmin.}
-{5103}{}{An Enclave Patrol.}
+{5103}{}{Uma patrulha da Enclave.}
 {5104}{}{Some bounty hunters.}
 {5105}{}{Some bounty hunters.}
 {5106}{}{Some bounty hunters.}
@@ -1203,8 +1203,8 @@
 {5117}{}{King Arthur's Knights.}
 {5118}{}{A tin woodsman.}
 {5119}{}{The Unwashed Villagers hunting a spammer.}
-{5120}{}{The Cafe of Broken Dreams.}
-{5150}{}{An Enclave Patrol.}
+{5120}{}{Cafe of Broken Dreams.}
+{5150}{}{Uma patrulha da Enclave.}
 {5151}{}{Some bounty hunters.}
 {5152}{}{Some bounty hunters.}
 {5153}{}{Some bounty hunters.}
@@ -1216,7 +1216,7 @@
 {5159}{}{A band of ruffians led by a Morton Brother.}
 {5160}{}{A man guarding a bridge.}
 {5161}{}{King Arthur's Knights fighting a rat.}
-{5200}{}{An Enclave Patrol.}
+{5200}{}{Uma patrulha da Enclave.}
 {5201}{}{Some bounty hunters.}
 {5202}{}{Some bounty hunters.}
 {5203}{}{Some bounty hunters.}
@@ -1229,7 +1229,7 @@
 {5250}{}{Toxic waste dump.}
 {5251}{}{A lone surviving dog.}
 {5252}{}{A herd of brahmin.}
-{5253}{}{Some aliens and deathclaws}
+{5253}{}{Alguns aliens e deathclaws}
 {5254}{}{Some bounty hunters.}
 {5255}{}{Some bounty hunters.}
 {5256}{}{Some bounty hunters.}
@@ -1239,14 +1239,14 @@
 {5260}{}{Some bounty hunters.}
 {5261}{}{Some bounty hunters.}
 {5262}{}{A band of ruffians led by a Morton Brother.}
-{5263}{}{An army of floaters and centaurs.}
-{5264}{}{Some fire geckos.}
-{5265}{}{A large pack of aliens.}
-{5266}{}{Some deathclaws.}
-{5267}{}{Some fire geckos.}
-{5268}{}{Some aliens.}
-{5269}{}{A pack of centaurs.}
-{5270}{}{A swarm of floaters.}
+{5263}{}{Um exército de flutuadores e centauros.}
+{5264}{}{Alguns geckos de fogo.}
+{5265}{}{Um grande bando de aliens.}
+{5266}{}{Alguns deathclaws.}
+{5267}{}{Alguns geckos de fogo.}
+{5268}{}{Alguns aliens.}
+{5269}{}{Um grupo de centauros.}
+{5270}{}{Um enxame de flutuadores.}
 {5271}{}{The remains of a whale.}
 {5272}{}{A giant stone head.}
 {5273}{}{A crashed shuttle.}
@@ -1254,12 +1254,12 @@
 {5275}{}{King Arthur's Knights.}
 {5276}{}{A tin woodsman.}
 {5277}{}{The Unwashed Villagers hunting a spammer.}
-{5278}{}{The Cafe of Broken Dreams.}
-{5279}{}{A gathering of important looking individuals.}
-{5300}{}{Some aliens and deathclaws.}
-{5301}{}{An army of floaters and centaurs.}
-{5302}{}{Some fire geckos.}
-{5303}{}{A large pack of aliens.}
+{5278}{}{Cafe of Broken Dreams.}
+{5279}{}{Uma reunião de indivíduos com aparência importante.}
+{5300}{}{Alguns aliens e deathclaws.}
+{5301}{}{Um exército de flutuadores e centauros.}
+{5302}{}{Alguns geckos de fogo.}
+{5303}{}{Um grande bando de aliens.}
 {5304}{}{Some bounty hunters.}
 {5305}{}{Some bounty hunters.}
 {5306}{}{Some bounty hunters.}
@@ -1269,18 +1269,18 @@
 {5310}{}{Some bounty hunters.}
 {5311}{}{Some bounty hunters.}
 {5312}{}{A band of ruffians led by a Morton Brother.}
-{5313}{}{Some deathclaws.}
-{5314}{}{Some fire geckos.}
-{5315}{}{Some aliens.}
-{5316}{}{A pack of centaurs.}
-{5317}{}{A swarm of floaters.}
+{5313}{}{Alguns deathclaws.}
+{5314}{}{Alguns geckos de fogo.}
+{5315}{}{Alguns aliens.}
+{5316}{}{Um grupo de centauros.}
+{5317}{}{Um enxame de flutuadores.}
 {5318}{}{A man guarding a bridge.}
 {5319}{}{King Arthur's Knights fighting a rat.}
-{5320}{}{A gathering of important looking individuals.}
-{5350}{}{Some aliens and deathclaws.}
-{5351}{}{An army of floaters and centaurs.}
-{5352}{}{Some fire geckos.}
-{5353}{}{A large pack of aliens.}
+{5320}{}{Uma reunião de indivíduos com aparência importante.}
+{5350}{}{Alguns aliens e deathclaws.}
+{5351}{}{Um exército de flutuadores e centauros.}
+{5352}{}{Alguns geckos de fogo.}
+{5353}{}{Um grande bando de aliens.}
 {5354}{}{Some bounty hunters.}
 {5355}{}{Some bounty hunters.}
 {5356}{}{Some bounty hunters.}
@@ -1290,16 +1290,16 @@
 {5360}{}{Some bounty hunters.}
 {5361}{}{Some bounty hunters.}
 {5362}{}{A band of ruffians led by a Morton Brother.}
-{5363}{}{Some deathclaws.}
-{5364}{}{Some fire geckos.}
-{5365}{}{Some aliens.}
-{5366}{}{A pack of centaurs.}
-{5367}{}{A swarm of floaters.}
-{5368}{}{A gathering of important looking individuals.}
+{5363}{}{Alguns deathclaws.}
+{5364}{}{Alguns geckos de fogo.}
+{5365}{}{Alguns aliens.}
+{5366}{}{Um grupo de centauros.}
+{5367}{}{Um enxame de flutuadores.}
+{5368}{}{Uma reunião de indivíduos com aparência importante.}
 {5400}{}{Toxic waste dump.}
 {5401}{}{A lone surviving dog.}
 {5402}{}{A herd of brahmin.}
-{5403}{}{A pack of fire geckos.}
+{5403}{}{Um grupo de geckos de fogo.}
 {5404}{}{Some bounty hunters.}
 {5405}{}{Some bounty hunters.}
 {5406}{}{Some bounty hunters.}
@@ -1309,7 +1309,7 @@
 {5410}{}{Some bounty hunters.}
 {5411}{}{Some bounty hunters.}
 {5412}{}{A band of ruffians led by a Morton Brother.}
-{5413}{}{A pack of fire geckos.}
+{5413}{}{Um grupo de geckos de fogo.}
 {5414}{}{A large pack of golden geckos.}
 {5415}{}{The remains of a whale.}
 {5416}{}{A giant stone head.}
@@ -1318,10 +1318,10 @@
 {5419}{}{King Arthur's Knights.}
 {5420}{}{A tin woodsman.}
 {5421}{}{The Unwashed Villagers hunting a spammer.}
-{5422}{}{The Cafe of Broken Dreams.}
-{5423}{}{A gathering of important looking individuals.}
-{5450}{}{A pack of fire geckos.}
-{5451}{}{A pack of fire geckos.}
+{5422}{}{Cafe of Broken Dreams.}
+{5423}{}{Uma reunião de indivíduos com aparência importante.}
+{5450}{}{Um grupo de geckos de fogo.}
+{5451}{}{Um grupo de geckos de fogo.}
 {5452}{}{A large pack of golden geckos.}
 {5453}{}{Some bounty hunters.}
 {5454}{}{Some bounty hunters.}
@@ -1334,9 +1334,9 @@
 {5461}{}{A band of ruffians led by a Morton Brother.}
 {5462}{}{A man guarding a bridge.}
 {5463}{}{King Arthur's Knights fighting a rat.}
-{5464}{}{A gathering of important looking individuals.}
-{5500}{}{A pack of fire geckos.}
-{5501}{}{A pack of fire geckos.}
+{5464}{}{Uma reunião de indivíduos com aparência importante.}
+{5500}{}{Um grupo de geckos de fogo.}
+{5501}{}{Um grupo de geckos de fogo.}
 {5502}{}{A large pack of golden geckos.}
 {5503}{}{Some bounty hunters.}
 {5504}{}{Some bounty hunters.}
@@ -1347,11 +1347,11 @@
 {5509}{}{Some bounty hunters.}
 {5510}{}{Some bounty hunters.}
 {5511}{}{A band of ruffians led by a Morton Brother.}
-{5512}{}{A gathering of important looking individuals.}
+{5512}{}{Uma reunião de indivíduos com aparência importante.}
 {5550}{}{Toxic waste dump.}
 {5551}{}{A lone surviving dog.}
 {5552}{}{A herd of brahmin.}
-{5553}{}{A pack of deathclaws.}
+{5553}{}{Um grupo de deathclaws.}
 {5554}{}{Some bounty hunters.}
 {5555}{}{Some bounty hunters.}
 {5556}{}{Some bounty hunters.}
@@ -1361,11 +1361,11 @@
 {5560}{}{Some bounty hunters.}
 {5561}{}{Some bounty hunters.}
 {5562}{}{A band of ruffians led by a Morton Brother.}
-{5563}{}{A pack of fire geckos.}
-{5564}{}{A caravan fending off deathclaws.}
-{5565}{}{A caravan fending off deathclaws.}
-{5566}{}{A caravan fending off fire geckos.}
-{5567}{}{A caravan fending off fire geckos.}
+{5563}{}{Um grupo de geckos de fogo.}
+{5564}{}{Uma caravana de defendendo de deathclaws.}
+{5565}{}{Uma caravana de defendendo de deathclaws.}
+{5566}{}{Uma caravana se defendendo de geckos de fogo.}
+{5567}{}{Uma caravana se defendendo de geckos de fogo.}
 {5568}{}{A caravan.}
 {5569}{}{A caravan.}
 {5570}{}{A caravan.}
@@ -1377,10 +1377,10 @@
 {5576}{}{King Arthur's Knights.}
 {5577}{}{A tin woodsman.}
 {5578}{}{The Unwashed Villagers hunting a spammer.}
-{5600}{}{A pack of deathclaws.}
-{5601}{}{A pack of fire geckos.}
-{5602}{}{A caravan fending off deathclaws.}
-{5603}{}{A caravan fending off deathclaws.}
+{5600}{}{Um grupo de deathclaws.}
+{5601}{}{Um grupo de geckos de fogo.}
+{5602}{}{Uma caravana de defendendo de deathclaws.}
+{5603}{}{Uma caravana de defendendo de deathclaws.}
 {5604}{}{Some bounty hunters.}
 {5605}{}{Some bounty hunters.}
 {5606}{}{Some bounty hunters.}
@@ -1390,8 +1390,8 @@
 {5610}{}{Some bounty hunters.}
 {5611}{}{Some bounty hunters.}
 {5612}{}{A band of ruffians led by a Morton Brother.}
-{5613}{}{A caravan fending off fire geckos.}
-{5614}{}{A caravan fending off fire geckos.}
+{5613}{}{Uma caravana se defendendo de geckos de fogo.}
+{5614}{}{Uma caravana se defendendo de geckos de fogo.}
 {5615}{}{A caravan.}
 {5616}{}{A caravan.}
 {5617}{}{A caravan.}
@@ -1401,7 +1401,7 @@
 {5650}{}{Toxic waste dump.}
 {5651}{}{A lone surviving dog.}
 {5652}{}{A herd of brahmin.}
-{5653}{}{Some yakuza.}
+{5653}{}{Alguns da Yakuza.}
 {5654}{}{Some bounty hunters.}
 {5655}{}{Some bounty hunters.}
 {5656}{}{Some bounty hunters.}
@@ -1411,12 +1411,12 @@
 {5660}{}{Some bounty hunters.}
 {5661}{}{Some bounty hunters.}
 {5662}{}{A band of ruffians led by a Morton Brother.}
-{5663}{}{A gang.}
+{5663}{}{Uma gangue.}
 {5664}{}{A pack of wolves.}
-{5665}{}{Some mobsters fighting some yakuza.}
-{5666}{}{Some mobsters fighting a gang.}
-{5667}{}{Some mobsters.}
-{5668}{}{A traveler.}
+{5665}{}{Alguns mafiosos lutando contra alguns yakuzas.}
+{5666}{}{Alguns mafiosos lutando contra uma gangue.}
+{5667}{}{Alguns mafiosos.}
+{5668}{}{Um viajante.}
 {5669}{}{The remains of a whale.}
 {5670}{}{A giant stone head.}
 {5671}{}{A crashed shuttle.}
@@ -1424,11 +1424,11 @@
 {5673}{}{King Arthur's Knights.}
 {5674}{}{A tin woodsman.}
 {5675}{}{The Unwashed Villagers hunting a spammer.}
-{5676}{}{The Cafe of Broken Dreams.}
-{5700}{}{Some yakuza.}
-{5701}{}{A gang.}
+{5676}{}{Cafe of Broken Dreams.}
+{5700}{}{Alguns da Yakuza.}
+{5701}{}{Uma gangue.}
 {5702}{}{A pack of wolves.}
-{5703}{}{Some mobsters fighting some yakuza.}
+{5703}{}{Alguns mafiosos lutando contra alguns yakuzas.}
 {5704}{}{Some bounty hunters.}
 {5705}{}{Some bounty hunters.}
 {5706}{}{Some bounty hunters.}
@@ -1438,15 +1438,15 @@
 {5710}{}{Some bounty hunters.}
 {5711}{}{Some bounty hunters.}
 {5712}{}{A band of ruffians led by a Morton Brother.}
-{5713}{}{Some mobsters fighting a gang.}
-{5714}{}{Some mobsters.}
-{5715}{}{A traveler.}
+{5713}{}{Alguns mafiosos lutando contra uma gangue.}
+{5714}{}{Alguns mafiosos.}
+{5715}{}{Um viajante.}
 {5716}{}{A man guarding a bridge.}
 {5717}{}{King Arthur's Knights fighting a rat.}
-{5750}{}{Some yakuza.}
-{5751}{}{A gang.}
+{5750}{}{Alguns da Yakuza.}
+{5751}{}{Uma gangue.}
 {5752}{}{A pack of wolves.}
-{5753}{}{Some mobsters fighting some yakuza.}
+{5753}{}{Alguns mafiosos lutando contra alguns yakuzas.}
 {5754}{}{Some bounty hunters.}
 {5755}{}{Some bounty hunters.}
 {5756}{}{Some bounty hunters.}
@@ -1456,13 +1456,13 @@
 {5760}{}{Some bounty hunters.}
 {5761}{}{Some bounty hunters.}
 {5762}{}{A band of ruffians led by a Morton Brother.}
-{5763}{}{Some mobsters fighting a gang.}
-{5764}{}{Some mobsters.}
-{5765}{}{A traveler.}
+{5763}{}{Alguns mafiosos lutando contra uma gangue.}
+{5764}{}{Alguns mafiosos.}
+{5765}{}{Um viajante.}
 {5800}{}{Toxic waste dump.}
 {5801}{}{A lone surviving dog.}
 {5802}{}{A herd of brahmin.}
-{5803}{}{A band of rogues and some wolves.}
+{5803}{}{Um bando de bandidos e alguns lobos.}
 {5804}{}{Some bounty hunters.}
 {5805}{}{Some bounty hunters.}
 {5806}{}{Some bounty hunters.}
@@ -1472,13 +1472,13 @@
 {5810}{}{Some bounty hunters.}
 {5811}{}{Some bounty hunters.}
 {5812}{}{A band of ruffians led by a Morton Brother.}
-{5813}{}{A band of rogues.}
+{5813}{}{Um bando de bandidos.}
 {5814}{}{A pack of wolves.}
 {5815}{}{A pack of radscorpions.}
-{5816}{}{A forest of spore plants.}
-{5817}{}{A Unity patrol fighting some rogues.}
-{5818}{}{A Unity patrol fighting some wolves.}
-{5819}{}{A Unity patrol.}
+{5816}{}{Uma floresta de plantas de esporos.}
+{5817}{}{Uma patrulha da Unity lutando contra alguns bandidos.}
+{5818}{}{Uma patrulha da Unity lutando contra alguns lobos.}
+{5819}{}{Uma patrulha da Unity.}
 {5820}{}{The remains of a whale.}
 {5821}{}{A giant stone head.}
 {5822}{}{A crashed shuttle.}
@@ -1486,8 +1486,8 @@
 {5824}{}{King Arthur's Knights.}
 {5825}{}{A tin woodsman.}
 {5826}{}{The Unwashed Villagers hunting a spammer.}
-{5850}{}{A band of rogues and some wolves.}
-{5851}{}{A band of rogues.}
+{5850}{}{Um bando de bandidos e alguns lobos.}
+{5851}{}{Um bando de bandidos.}
 {5852}{}{A pack of wolves.}
 {5853}{}{A pack of radscorpions.}
 {5854}{}{Some bounty hunters.}
@@ -1499,16 +1499,16 @@
 {5860}{}{Some bounty hunters.}
 {5861}{}{Some bounty hunters.}
 {5862}{}{A band of ruffians led by a Morton Brother.}
-{5863}{}{A forest of spore plants.}
-{5864}{}{A Unity patrol fighting some rogues.}
-{5865}{}{A Unity patrol fighting some wolves.}
-{5866}{}{A Unity patrol.}
+{5863}{}{Uma floresta de plantas de esporos.}
+{5864}{}{Uma patrulha da Unity lutando contra alguns bandidos.}
+{5865}{}{Uma patrulha da Unity lutando contra alguns lobos.}
+{5866}{}{Uma patrulha da Unity.}
 {5867}{}{A man guarding a bridge.}
 {5868}{}{King Arthur's Knights fighting a rat.}
-{5900}{}{A band of mercenaries.}
-{5901}{}{A press gang.}
-{5902}{}{A herd of deathclaws.}
-{5903}{}{A batch of fire geckos.}
+{5900}{}{Um bando de mercenários.}
+{5901}{}{Uma gangue de assaltantes.}
+{5902}{}{Uma manada de deathclaws.}
+{5903}{}{Uma manada de geckos de fogo.}
 {5904}{}{Some bounty hunters.}
 {5905}{}{Some bounty hunters.}
 {5906}{}{Some bounty hunters.}
@@ -1518,16 +1518,16 @@
 {5910}{}{Some bounty hunters.}
 {5911}{}{Some bounty hunters.}
 {5912}{}{A band of ruffians led by a Morton Brother.}
-{5913}{}{A slew of aliens.}
-{5914}{}{Hubologists fighting mercenaries.}
-{5915}{}{Hubologists fending off a press gang.}
-{5916}{}{Hubologists.}
-{5917}{}{A band of angry mercenaries.}
-{5918}{}{A gathering of important looking individuals.}
-{5950}{}{A band of mercenaries.}
-{5951}{}{A press gang.}
-{5952}{}{A herd of deathclaws.}
-{5953}{}{A batch of fire geckos.}
+{5913}{}{Um monte de aliens.}
+{5914}{}{Hubologistas lutando contra mercenarios.}
+{5915}{}{Hubologistas se defendendo contra assaltantes.}
+{5916}{}{Hubologistas.}
+{5917}{}{Um bando de mercenários furiosos.}
+{5918}{}{Uma reunião de indivíduos com aparência importante.}
+{5950}{}{Um bando de mercenários.}
+{5951}{}{Uma gangue de assaltantes.}
+{5952}{}{Uma manada de deathclaws.}
+{5953}{}{Uma manada de geckos de fogo.}
 {5954}{}{Some bounty hunters.}
 {5955}{}{Some bounty hunters.}
 {5956}{}{Some bounty hunters.}
@@ -1537,18 +1537,18 @@
 {5960}{}{Some bounty hunters.}
 {5961}{}{Some bounty hunters.}
 {5962}{}{A band of ruffians led by a Morton Brother.}
-{5963}{}{A slew of aliens.}
-{5964}{}{Hubologists fighting mercenaries.}
-{5965}{}{Hubologists fending off a press gang.}
-{5966}{}{Hubologists.}
+{5963}{}{Um monte de aliens.}
+{5964}{}{Hubologistas lutando contra mercenarios.}
+{5965}{}{Hubologistas se defendendo contra assaltantes.}
+{5966}{}{Hubologistas.}
 {5967}{}{A man guarding a bridge.}
 {5968}{}{King Arthur's Knights fighting a rat.}
-{5969}{}{A band of angry mercenaries.}
-{5970}{}{A gathering of important looking individuals.}
-{6000}{}{A band of mercenaries.}
-{6001}{}{A press gang.}
-{6002}{}{A herd of deathclaws.}
-{6003}{}{A batch of fire geckos.}
+{5969}{}{Um bando de mercenários furiosos.}
+{5970}{}{Uma reunião de indivíduos com aparência importante.}
+{6000}{}{Um bando de mercenários.}
+{6001}{}{Uma gangue de assaltantes.}
+{6002}{}{Uma manada de deathclaws.}
+{6003}{}{Uma manada de geckos de fogo.}
 {6004}{}{Some bounty hunters.}
 {6005}{}{Some bounty hunters.}
 {6006}{}{Some bounty hunters.}
@@ -1558,16 +1558,16 @@
 {6010}{}{Some bounty hunters.}
 {6011}{}{Some bounty hunters.}
 {6012}{}{A band of ruffians led by a Morton Brother.}
-{6013}{}{A slew of aliens.}
-{6014}{}{Hubologists fighting mercenaries.}
-{6015}{}{Hubologists fending off a press gang.}
-{6016}{}{Hubologists.}
-{6017}{}{A band of angry mercenaries.}
-{6018}{}{A gathering of important looking individuals.}
+{6013}{}{Um monte de aliens.}
+{6014}{}{Hubologistas lutando contra mercenarios.}
+{6015}{}{Hubologistas se defendendo contra assaltantes.}
+{6016}{}{Hubologistas.}
+{6017}{}{Um bando de mercenários furiosos.}
+{6018}{}{Uma reunião de indivíduos com aparência importante.}
 {6050}{}{Toxic waste dump.}
 {6051}{}{A lone surviving dog.}
 {6052}{}{A herd of brahmin.}
-{6053}{}{A band of mercenaries.}
+{6053}{}{Um bando de mercenários.}
 {6054}{}{Some bounty hunters.}
 {6055}{}{Some bounty hunters.}
 {6056}{}{Some bounty hunters.}
@@ -1577,13 +1577,13 @@
 {6060}{}{Some bounty hunters.}
 {6061}{}{Some bounty hunters.}
 {6062}{}{A band of ruffians led by a Morton Brother.}
-{6063}{}{A press gang.}
-{6064}{}{A herd of deathclaws.}
-{6065}{}{A batch of fire geckos.}
-{6066}{}{A slew of aliens.}
-{6067}{}{Hubologists fighting mercenaries.}
-{6068}{}{Hubologists fending off a press gang.}
-{6069}{}{Hubologists.}
+{6063}{}{Uma gangue de assaltantes.}
+{6064}{}{Uma manada de deathclaws.}
+{6065}{}{Uma manada de geckos de fogo.}
+{6066}{}{Um monte de aliens.}
+{6067}{}{Hubologistas lutando contra mercenarios.}
+{6068}{}{Hubologistas se defendendo contra assaltantes.}
+{6069}{}{Hubologistas.}
 {6070}{}{The remains of a whale.}
 {6071}{}{A giant stone head.}
 {6072}{}{A crashed shuttle.}
@@ -1591,13 +1591,13 @@
 {6074}{}{King Arthur's Knights.}
 {6075}{}{A tin woodsman.}
 {6076}{}{The Unwashed Villagers hunting a spammer.}
-{6077}{}{The Cafe of Broken Dreams.}
-{6078}{}{A band of angry mercenaries.}
-{6079}{}{A gathering of important looking individuals.}
+{6077}{}{Cafe of Broken Dreams.}
+{6078}{}{Um bando de mercenários furiosos.}
+{6079}{}{Uma reunião de indivíduos com aparência importante.}
 {6100}{}{Toxic waste dump.}
 {6101}{}{A lone surviving dog.}
 {6102}{}{A herd of brahmin.}
-{6103}{}{A band of mercenaries.}
+{6103}{}{Um bando de mercenários.}
 {6104}{}{Some bounty hunters.}
 {6105}{}{Some bounty hunters.}
 {6106}{}{Some bounty hunters.}
@@ -1607,13 +1607,13 @@
 {6110}{}{Some bounty hunters.}
 {6111}{}{Some bounty hunters.}
 {6112}{}{A band of ruffians led by a Morton Brother.}
-{6113}{}{A pack of deathclaws.}
-{6114}{}{A pack of fire geckos.}
-{6115}{}{A slew of aliens.}
-{6116}{}{A caravan fending off mercenaries.}
-{6117}{}{A caravan fending off mercenaries.}
-{6118}{}{A caravan fending off fire geckos.}
-{6119}{}{A caravan fending off aliens.}
+{6113}{}{Um grupo de deathclaws.}
+{6114}{}{Um grupo de geckos de fogo.}
+{6115}{}{Um monte de aliens.}
+{6116}{}{Uma caravana se defendendo contra mercenarios.}
+{6117}{}{Uma caravana se defendendo contra mercenarios.}
+{6118}{}{Uma caravana se defendendo de geckos de fogo.}
+{6119}{}{Uma caravana se defendendo contra aliens.}
 {6120}{}{A caravan.}
 {6121}{}{A caravan.}
 {6122}{}{The remains of a whale.}
@@ -1623,12 +1623,12 @@
 {6126}{}{King Arthur's Knights.}
 {6127}{}{A tin woodsman.}
 {6128}{}{The Unwashed Villagers hunting a spammer.}
-{6129}{}{The Cafe of Broken Dreams.}
-{6130}{}{A band of angry mercenaries.}
-{6150}{}{A band of mercenaries.}
-{6151}{}{A pack of deathclaws.}
-{6152}{}{A pack of fire geckos.}
-{6153}{}{A slew of aliens.}
+{6129}{}{Cafe of Broken Dreams.}
+{6130}{}{Um bando de mercenários furiosos.}
+{6150}{}{Um bando de mercenários.}
+{6151}{}{Um grupo de deathclaws.}
+{6152}{}{Um grupo de geckos de fogo.}
+{6153}{}{Um monte de aliens.}
 {6154}{}{Some bounty hunters.}
 {6155}{}{Some bounty hunters.}
 {6156}{}{Some bounty hunters.}
@@ -1638,17 +1638,17 @@
 {6160}{}{Some bounty hunters.}
 {6161}{}{Some bounty hunters.}
 {6162}{}{A band of ruffians led by a Morton Brother.}
-{6163}{}{A caravan fending off mercenaries.}
-{6164}{}{A caravan fending off mercenaries.}
-{6165}{}{A caravan fending off fire geckos.}
-{6166}{}{A caravan fending off aliens.}
+{6163}{}{Uma caravana se defendendo contra mercenarios.}
+{6164}{}{Uma caravana se defendendo contra mercenarios.}
+{6165}{}{Uma caravana se defendendo de geckos de fogo.}
+{6166}{}{Uma caravana se defendendo contra aliens.}
 {6167}{}{A caravan.}
 {6168}{}{A caravan.}
-{6169}{}{A band of angry mercenaries.}
+{6169}{}{Um bando de mercenários furiosos.}
 {6200}{}{Toxic waste dump.}
 {6201}{}{A lone surviving dog.}
 {6202}{}{A herd of brahmin.}
-{6203}{}{An Enclave patrol.}
+{6203}{}{Uma patrulha da Enclave.}
 {6204}{}{Some bounty hunters.}
 {6205}{}{Some bounty hunters.}
 {6206}{}{Some bounty hunters.}
@@ -1658,8 +1658,8 @@
 {6210}{}{Some bounty hunters.}
 {6211}{}{Some bounty hunters.}
 {6212}{}{A band of ruffians led by a Morton Brother.}
-{6213}{}{Remnants of the Master's army.}
-{6214}{}{A pack of deathclaws.}
+{6213}{}{Remanescentes do exército do Mestre.}
+{6214}{}{Um grupo de deathclaws.}
 {6215}{}{A swarm of mantis.}
 {6216}{}{The remains of a whale.}
 {6217}{}{A giant stone head.}
@@ -1668,10 +1668,10 @@
 {6220}{}{King Arthur's Knights.}
 {6221}{}{A tin woodsman.}
 {6222}{}{The Unwashed Villagers hunting a spammer.}
-{6223}{}{The Cafe of Broken Dreams.}
-{6250}{}{An Enclave patrol.}
-{6251}{}{Remnants of the Master's army.}
-{6252}{}{A pack of deathclaws.}
+{6223}{}{Cafe of Broken Dreams.}
+{6250}{}{Uma patrulha da Enclave.}
+{6251}{}{Remanescentes do exército do Mestre.}
+{6252}{}{Um grupo de deathclaws.}
 {6253}{}{A swarm of mantis.}
 {6254}{}{Some bounty hunters.}
 {6255}{}{Some bounty hunters.}
@@ -1687,7 +1687,7 @@
 {6300}{}{Toxic waste dump.}
 {6301}{}{A lone surviving dog.}
 {6302}{}{A herd of brahmin.}
-{6303}{}{A caravan fending off remnants of the Master's army.}
+{6303}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
 {6304}{}{Some bounty hunters.}
 {6305}{}{Some bounty hunters.}
 {6306}{}{Some bounty hunters.}
@@ -1697,8 +1697,8 @@
 {6310}{}{Some bounty hunters.}
 {6311}{}{Some bounty hunters.}
 {6312}{}{A band of ruffians led by a Morton Brother.}
-{6313}{}{A caravan fending off remnants of the Master's army.}
-{6314}{}{A caravan fending off some deathclaws.}
+{6313}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
+{6314}{}{Uma caravana se defendendo dos deathclaws.}
 {6315}{}{A caravan.}
 {6316}{}{A caravan.}
 {6317}{}{A caravan.}
@@ -1709,10 +1709,10 @@
 {6322}{}{King Arthur's Knights.}
 {6323}{}{A tin woodsman.}
 {6324}{}{The Unwashed Villagers hunting a spammer.}
-{6325}{}{The Cafe of Broken Dreams.}
-{6350}{}{A caravan fending off remnants of the Master's army.}
-{6351}{}{A caravan fending off remnants of the Master's army.}
-{6352}{}{A caravan fending off some deathclaws.}
+{6325}{}{Cafe of Broken Dreams.}
+{6350}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
+{6351}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
+{6352}{}{Uma caravana se defendendo dos deathclaws.}
 {6353}{}{A caravan.}
 {6354}{}{Some bounty hunters.}
 {6355}{}{Some bounty hunters.}
@@ -1763,11 +1763,11 @@
 {6469}{}{King Arthur's Knights.}
 {6470}{}{A tin woodsman.}
 {6471}{}{The Unwashed Villagers hunting a spammer.}
-{6472}{}{The Cafe of Broken Dreams.}
+{6472}{}{Cafe of Broken Dreams.}
 {6500}{}{Toxic waste dump.}
 {6501}{}{A lone surviving dog.}
 {6502}{}{A herd of brahmin.}
-{6503}{}{A band of marauders.}
+{6503}{}{Um bando de saqueadores.}
 {6504}{}{Some bounty hunters.}
 {6505}{}{Some bounty hunters.}
 {6506}{}{Some bounty hunters.}
@@ -1779,15 +1779,15 @@
 {6512}{}{A band of ruffians led by a Morton Brother.}
 {6513}{}{A pack of wolves.}
 {6514}{}{A pack of radscorpions.}
-{6515}{}{A caravan fending off marauders.}
-{6516}{}{A caravan fending off marauders.}
-{6517}{}{A caravan fending off wolves.}
-{6518}{}{A caravan fending off radscorpions.}
+{6515}{}{Uma caravana se defendendo de saqueadores.}
+{6516}{}{Uma caravana se defendendo de saqueadores.}
+{6517}{}{Uma caravana se defendendo de lobos.}
+{6518}{}{Uma caravana se defendendo de radscorpions.}
 {6519}{}{A caravan.}
 {6520}{}{A caravan.}
 {6521}{}{A caravan.}
 {6522}{}{A caravan.}
-{6523}{}{A traveler.}
+{6523}{}{Um viajante.}
 {6524}{}{The remains of a whale.}
 {6525}{}{A giant stone head.}
 {6526}{}{A crashed shuttle.}
@@ -1795,12 +1795,12 @@
 {6528}{}{King Arthur's Knights.}
 {6529}{}{A tin woodsman.}
 {6530}{}{The Unwashed Villagers hunting a spammer.}
-{6531}{}{The Cafe of Broken Dreams.}
-{6532}{}{A band of angry marauders.}
-{6550}{}{A band of marauders.}
+{6531}{}{Cafe of Broken Dreams.}
+{6532}{}{Um bando de saqueadores com raiva.}
+{6550}{}{Um bando de saqueadores.}
 {6551}{}{A pack of wolves.}
 {6552}{}{A pack of radscorpions.}
-{6553}{}{A caravan fending off marauders.}
+{6553}{}{Uma caravana se defendendo de saqueadores.}
 {6554}{}{Some bounty hunters.}
 {6555}{}{Some bounty hunters.}
 {6556}{}{Some bounty hunters.}
@@ -1810,21 +1810,21 @@
 {6560}{}{Some bounty hunters.}
 {6561}{}{Some bounty hunters.}
 {6562}{}{A band of ruffians led by a Morton Brother.}
-{6563}{}{A caravan fending off marauders.}
-{6564}{}{A caravan fending off wolves.}
-{6565}{}{A caravan fending off radscorpions.}
+{6563}{}{Uma caravana se defendendo de saqueadores.}
+{6564}{}{Uma caravana se defendendo de lobos.}
+{6565}{}{Uma caravana se defendendo de radscorpions.}
 {6566}{}{A caravan.}
 {6567}{}{A caravan.}
 {6568}{}{A caravan.}
 {6569}{}{A caravan.}
-{6570}{}{A traveler.}
+{6570}{}{Um viajante.}
 {6571}{}{A man guarding a bridge.}
 {6572}{}{King Arthur's Knights fighting a rat.}
-{6573}{}{A band of angry marauders.}
-{6600}{}{A deteachment of the Master's armies.}
-{6601}{}{A band of marauders.}
-{6602}{}{Some Rangers fending off a squad of the Master's armies.}
-{6603}{}{Some Rangers fighting some marauders.}
+{6573}{}{Um bando de saqueadores com raiva.}
+{6600}{}{Um destacamento do exercito do Mestre.}
+{6601}{}{Um bando de saqueadores.}
+{6602}{}{Alguns rangers lutando contra uma esquadra do exercito do Mestre.}
+{6603}{}{Alguns rangers lutando contra saqueadores.}
 {6604}{}{Some bounty hunters.}
 {6605}{}{Some bounty hunters.}
 {6606}{}{Some bounty hunters.}
@@ -1834,17 +1834,17 @@
 {6610}{}{Some bounty hunters.}
 {6611}{}{Some bounty hunters.}
 {6612}{}{A band of ruffians led by a Morton Brother.}
-{6613}{}{Some farmers fending off parts of the Master's armies.}
-{6614}{}{Some farmers fending off marauders.}
-{6615}{}{A detachment of NCR Rangers.}
+{6613}{}{Alguns fazendeiros se defendendo contra uma parte do exercito do Mestre.}
+{6614}{}{Alguns fazendeiros se defendendo de saqueadores.}
+{6615}{}{Um destacamento de rangers da NCR.}
 {6616}{}{Some farmers.}
 {6617}{}{A man guarding a bridge.}
 {6618}{}{King Arthur's Knights fighting a rat.}
-{6619}{}{A band of angry marauders.}
+{6619}{}{Um bando de saqueadores com raiva.}
 {6650}{}{Toxic waste dump.}
 {6651}{}{A lone surviving dog.}
 {6652}{}{A herd of brahmin.}
-{6653}{}{A detachment of the Master's armies.}
+{6653}{}{Um destacamento do exercito do Mestre.}
 {6654}{}{Some bounty hunters.}
 {6655}{}{Some bounty hunters.}
 {6656}{}{Some bounty hunters.}
@@ -1854,12 +1854,12 @@
 {6660}{}{Some bounty hunters.}
 {6661}{}{Some bounty hunters.}
 {6662}{}{A band of ruffians led by a Morton Brother.}
-{6663}{}{A band of marauders.}
-{6664}{}{Some Rangers fending off a squad of the Master's armies.}
-{6665}{}{Some Rangers fighting some marauders.}
-{6666}{}{Some farmers fending off parts of the Master's armies.}
-{6667}{}{Some farmers fending off marauders.}
-{6668}{}{A detachment of NCR Rangers.}
+{6663}{}{Um bando de saqueadores.}
+{6664}{}{Alguns rangers lutando contra uma esquadra do exercito do Mestre.}
+{6665}{}{Alguns rangers lutando contra saqueadores.}
+{6666}{}{Alguns fazendeiros se defendendo contra uma parte do exercito do Mestre.}
+{6667}{}{Alguns fazendeiros se defendendo de saqueadores.}
+{6668}{}{Um destacamento de rangers da NCR.}
 {6669}{}{Some farmers.}
 {6670}{}{The remains of a whale.}
 {6671}{}{A giant stone head.}
@@ -1868,10 +1868,10 @@
 {6674}{}{King Arthur's Knights.}
 {6675}{}{A tin woodsman.}
 {6676}{}{The Unwashed Villagers hunting a spammer.}
-{6677}{}{The Cafe of Broken Dreams.}
-{6678}{}{A band of angry marauders.}
-{6700}{}{Remnants of the Master's army fighting mutated molerats.}
-{6701}{}{Remnants of the Master's armies.}
+{6677}{}{Cafe of Broken Dreams.}
+{6678}{}{Um bando de saqueadores com raiva.}
+{6700}{}{Remanescentes do exercito do Mestre lutando contra ratos toupeira mutantes.}
+{6701}{}{Remanescentes do exército do Mestre.}
 {6702}{}{A swarm of mantis.}
 {6703}{}{A pack of mutated molerats.}
 {6704}{}{Some bounty hunters.}
@@ -1889,7 +1889,7 @@
 {6750}{}{Toxic waste dump.}
 {6751}{}{A lone surviving dog.}
 {6752}{}{A herd of brahmin.}
-{6753}{}{Remnants of the Master's army fighting mutated molerats.}
+{6753}{}{Remanescentes do exercito do Mestre lutando contra ratos toupeira mutantes.}
 {6754}{}{Some bounty hunters.}
 {6755}{}{Some bounty hunters.}
 {6756}{}{Some bounty hunters.}
@@ -1899,7 +1899,7 @@
 {6760}{}{Some bounty hunters.}
 {6761}{}{Some bounty hunters.}
 {6762}{}{A band of ruffians led by a Morton Brother.}
-{6763}{}{Remnants of the Master's armies.}
+{6763}{}{Remanescentes do exército do Mestre.}
 {6764}{}{A swarm of mantis.}
 {6765}{}{A pack of mutated molerats.}
 {6766}{}{A pack of radscorpions.}
@@ -1910,4 +1910,4 @@
 {6771}{}{King Arthur's Knights.}
 {6772}{}{A tin woodsman.}
 {6773}{}{The Unwashed Villagers hunting a spammer.}
-{6774}{}{The Cafe of Broken Dreams.}
+{6774}{}{Cafe of Broken Dreams.}

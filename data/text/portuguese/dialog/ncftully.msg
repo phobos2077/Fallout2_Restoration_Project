@@ -82,65 +82,65 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
 {335}{}{Me perdoe por perguntar, você poor acasu tem uma garrrafa com você? Eu preciso de djinheiro para meus serviços... e, eh, minha garganta ta meio seca.}
 {336}{}{Certo, tenho aqui.}
 {337}{}{Não tenho nenhuma, desculpe.}
-{338}{}{I could go snag some, if you want.}
-{440}{}{Now I'm onna straight and narrow, thankz to Missus Wright... bless her soul. I've been clean fer almost a... uh, month. Or wazzit
- a week? Aw, hell, I don't know. }
+{338}{}{Eu poderia pegar algum, se você quiser.}
+{440}{}{Agora estou certo no caminhu, graaçças a Sinhroa Wright... que Deus a abençoe. Estou limpo há quase, um... uh, mês. Ou é por
+ uma ssemana? Ah, Deus, eu não sei. }
 {441}{}{Uma semana deve ser difícil. Olha, eu tenho outras perguntas para você...}
-{442}{}{Dry as sand, huh? How many fingers am I holding up?}
+{442}{}{Está sóbrio, hein? Quantos dedos eu tenho aqui?}
 {443}{}{União da Temperança?}
-{444}{}{Missus Wright?}
-{445}{}{Maybe I'll come back when you're sober.}
-{450}{}{(Tully stumbles over to the poor box beside the podium, and fishes around inside.) }
-{451}{}{Uh... hmmnn. (His hands come up empty.) Afraid I haven't got any chipz afterall.}
-{452}{}{Hmnnn. Here ya go...(He dumps some chips into your hand.) Blesst be the poor. Go spend in the name of all that is holee.}
-{453}{}{Thanks anyway, Father. I'll see if I can scrounge up some hootch.}
-{454}{}{Thanks, Father. I'll be back with the hootch soon.}
-{460}{}{Don't give two secondz to 'is whife n' daughter... no wonder both o' em have grown up wiiild.
- Heh-heh... all comez out in th' confessional, y'know...}
-{461}{}{Oh, and what does Mr. Bishop say in the confessional?}
-{462}{}{Oh, and what does Mrs. Bishop say in the confessional?}
-{463}{}{What does Mrs. Bishop say in the confessional? She doesn't talk about me, does she... I mean, cause there's
- nothing to talk about. All lies.}
-{464}{}{Oh, and what does Bishop's daughter say in the confessional?}
-{465}{}{Uh, what does Bishop's daughter say in the confessional? Nothing about me, I ho... er, nothing bad, I hope.}
-{466}{}{I imagine. Can I ask you some other questions, Father?}
-{470}{}{Naw, Vault City told him ta STICK it up his poopchute. So... not long after, Vault City starts getting raided. Fast.
- Hard. An' all th' while, right there is Bischop, telling 'em, "I COULD help, IF you join with New Reno."}
-{471}{}{Hmmm. What else can you tell me about the Bishops?}
-{472}{}{So, blackmail's Bishop's game? A few raids, a few deaths, and Vault City might be ready to be friends with New Reno.
- Not too subtle, but effective. What else can you tell me about the Bishops?}
-{473}{}{That seems an odd tactic... I mean, it's much more likely Vault City would try and get help from someone else before
- caving into Bishop's pressure. What else can you tell me about the Bishops?}
-{474}{}{That seems an odd tactic... I mean, it's much more likely Vault City would try and get help from someone else... like
- NCR, for example... before caving into Bishop's pressure. What else can you tell me about the Bishops?}
-{475}{}{Can I ask you some other questions, Father?}
-{476}{}{Very interesting, Father. Thanks for talking with me.}
-{480}{}{(Stares at your hand.) Izzat six? Or izzit three...}
-{481}{}{Very good. Both of those are right. Say, I had some questions...}
-{482}{}{Can you do divorces?}
-{484}{}{Maybe I'll come back when you sober up.}
-{490}{}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. }
-{491}{}{This th' filly you wanna break vows with? }
-{492}{}{This th' stud you wanna break vows with? }
-{493}{}{(Looks confused for a moment as he stares at both of you. Then he shrugs, drinks.)}
-{494}{}{You bet. Can we start now?}
+{444}{}{Senhora Wright?}
+{445}{}{Talvez eu volte quando você estiver sóbrio.}
+{450}{}{(Tully vai tropeçando até a caixa de doação ao lado do altar e vasculha dentro.) }
+{451}{}{Uh... hummm. (Suas mãos saem vazias.) Receio não ter nenhuma t-tampa aqui.}
+{452}{}{Hmnnn. Aqui está... (Ele joga algumas tampas em sua mão.) Abenççooados sejam os pobres. Vá gastar em nome de tuuudo o que é sragado.}
+{453}{}{Obrigado mesmo assim, padre. Vou ver se consigo arranjar algum licor.}
+{454}{}{Obrigado, pai. Em breve estarei de volta com algum licor.}
+{460}{}{Não dê dois segundo para 'sua esposa f-filha'... não é de admirar que cresceram tuuudo selvazens.
+ Heh-heh... tudo que saem no confessionário, sabe...}
+{461}{}{Ah, e o que o Sr. Bishop diz no confessionário?}
+{462}{}{Ah, e o que a Sra. Bishop diz no confessionário?}
+{463}{}{O que a Sra. Bishop diz no confessionário? Ela não fala de mim, fala... Quer dizer, porque não há nada para
+ falar. Tudo mentira.}
+{464}{}{Ah, e o que a filha de Bishop diz no confessionário?}
+{465}{}{Uh, o que a filha de Bishop diz no confessionário? Nada sobre mim, eu... er, nada de ruim, eu espero.}
+{466}{}{Eu imagino. Posso lhe fazer mais algumas perguntas, padre?}
+{470}{}{Ná, Vault City disse para eles ENFIAREM no CU. Então... não demora muito, Vault City começa a ser invadida.
+ Rápido. Foorte. E toda hora, ali aparece Bischop, dizend-do a eles: "EU PODERIA AJUDAR, SE vocês se juntar a New Reno".}
+{471}{}{Hmmm. O que mais você pode me dizer sobre os Bishops?}
+{472}{}{Então, chantagem é o jogo de Bishop? Alguns ataques, algumas mortes e Vault City pode estar pronta para ser amiga de
+ New Reno. Não muito sutil, mas bem eficaz. O que mais você pode me dizer sobre os Bishops?}
+{473}{}{Me parece uma tática estranha... Quero dizer, é muito mais provável que Vault City tente conseguir ajuda de outros
+ antes de ceder à pressão de Bishop. O que mais você pode me dizer sobre os Bishops?}
+{474}{}{Isso parece uma tática estranha... quero dizer, é muito mais provável que Vault City tente conseguir ajuda de outros...
+ tipo a NCR, por exemplo... antes de ceder à pressão de Bishop. O que mais você pode me dizer sobre os Bishops?}
+{475}{}{Posso te fazer mais algumas perguntas, padre?}
+{476}{}{Muito interessante, padre. Obrigado por conversar comigo.}
+{480}{}{(Olha para sua mão). S-seis? Ou talvez treeis…}
+{481}{}{Muito bom. Ambos estão certos. Olha, eu tenho algumas perguntas...}
+{482}{}{Você pode fazer divórcios?}
+{484}{}{Talvez eu volte quando você ficar sóbrio.}
+{490}{}{Que o diabo me carregue, claaro que posso! Reno era a capital do d-divorcio bem antes da tragedia. }
+{491}{}{Quem essa fudida aí que você quer se livrar? }
+{492}{}{Quem esse bunda mole que voce quer se livrar? }
+{493}{}{(Parece confuso por um momento enquanto olha para vocês dois. Então ele dá de ombros e bebe.)}
+{494}{}{Pode apostar. Podemos começar agora?}
 {495}{}{Talvez... mas ainda estou pensando nisso. Eu pretendo estar de volta, no entanto.}
-{500}{}{Well, I seem to have misplaced my sermon book with all the offishul stuff...}
-{501}{}{Screw the book. Here's some hootch. Can you just make something up?}
-{502}{}{Here's some hooch. Can you just make something up?}
-{503}{}{Screw the book. If I bring you a bottle, think you could just make up something?}
-{504}{}{If I bring you a bottle, think you could just make up something?}
-{505}{}{Oh, well. Maybe the book'll turn up.}
-{510}{}{Well, it wouldn't be right... unless the hootch was reeeally good.}
-{511}{}{No fear. I'll be back.}
-{512}{}{Well, I can go get some. But I'll need some chips first.}
-{520}{}{Sure! Lemme just polish thiz off, git th' fire going...(He downs the bottle with frightening speed.)...all right then, step up to th' podium, you two...}
+{500}{}{Bem, parece que p-perdi meu livo dos sermoes com o potrocolo oficial...}
+{501}{}{Foda-se o livro. Tome um pouco de licor. Você pode simplesmente inventar alguma coisa?}
+{502}{}{Tome um pouco de licor. Você pode simplesmente inventar alguma coisa?}
+{503}{}{Foda-se o livro. Se eu te trouxer mais licor, acha que poderia inventar alguma coisa?}
+{504}{}{Se eu te trouxer mais licor, acha que poderia inventar alguma coisa?}
+{505}{}{Ah, sim. Talvez o livro apareça.}
+{510}{}{Bem, isso seria certu... so se o licor fosse muuuuito bom.}
+{511}{}{Tranquilo. Eu voltarei.}
+{512}{}{Bem, eu posso ir buscar algo. Mas vou precisar de algumas tampas primeiro.}
+{520}{}{Certo! Deixe um começar a fazer isso agora... (Ele bebe a garrafa com uma velocidade assustadora.)... então, subam no altar voces ai...}
 {521}{}{Mais um passo...}
-{530}{}{Oh. All right then. No harm in asking... so... uh... I'm sorry, who are you again?}
-{531}{}{You know, I could go snag some hootch for you, if you want.}
-{540}{}{Now there's a fine idea! May you be thrice-blesst! Eh... I happen t'know a PLACE on th' East Side, at the old train
- station, that sells th' kind of holy water I need.}
-{541}{}{Okay. I'll go get some. Be right back.}
+{530}{}{Oh. Tudo bem entao. Nao custa perguntar... entao... uh... Desculpe, quem e voce mesmo?}
+{531}{}{Sabe, eu poderia pegar um pouco de licor para você, se você quiser, claro.}
+{540}{}{Ora, boa ideia! Que você seja tres vezes abeençoaaado! Eh... Acontece que eu conheço um LUGAR no lado lest, naantiga
+ estaçço de trem, que vende o tipo deagua benta que eu preciso.}
+{541}{}{OK, eu vou pegar um pouco. Volto logo.}
 {542}{}{Okay. I'll go get some. But I'll need some chips to buy it.}
 {550}{}{Courze, a courze... chipz, chipz... where do I keep the chipz...(His eyes turn to the poor box beside the podium.) Ah! Don't
  know why I didn't think of this before... Houl onna minute...}
