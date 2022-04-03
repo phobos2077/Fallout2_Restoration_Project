@@ -41,7 +41,7 @@
 {291}{}{Como a seda, senhor.}
 {292}{}{Sem problemas hoje, senhor.}
 {293}{}{Há algum problema, senhor? Ou apenas visitando?}
-{294}{}{Tommy the Balls manda lembranças.}
+{294}{}{Tommy Bengala manda lembranças.}
 {295}{}{Fale bem de mim pro chefe, beleza?}
 {296}{}{Bem vinda ao cassino, senhora.}
 {297}{}{Como a seda, senhora.}
@@ -57,7 +57,7 @@
 {321}{}{Ei, bem-vindo ao cassino! Você vai dançar esta noite?}
 {322}{}{É espetacular, querida.}
 {323}{}{A Dama da Sorte vai ficar com ciúmes por você continuar vindo aqui.}
-{324}{}{Ouvi dizer que o Tommy the Balls quer um fazer um exame médico privado com você.}
+{324}{}{Ouvi dizer que o Tommy Bengala quer um fazer um exame médico privado com você.}
 {330}{}{Interior do cassino, não fale comigo.}
 {331}{}{DENTRO do cassino, DEN-TRO. Tribais retardados.}
 {335}{}{Vai encher outra pessoa, tribal.}
@@ -67,10 +67,10 @@
 {339}{}{Vai latir para alguém mais bêbado que eu, pedaço de bosta.}
 {345}{}{Não posso conversar enquanto estiver em serviço, mas me alegro que você deu um chute no cu da Enclave.}
 {346}{}{Tudo bem, tribal. Descanse de salvar o mundo e divirta-se.}
-{347}{}{Ouvi dizer que Tommy the Balls está procurando por você. Cuidado.}
+{347}{}{Ouvi dizer que Tommy Bengala está procurando por você. Cuidado.}
 {350}{}{Você teve muita coragem para destruir a Enclave assim.}
 {351}{}{Acredito que destruir a Enclave como você fez exigiu mais coragem do que todos em New Reno juntos.}
-{352}{}{Destruir o Enclave faz de você ser quase tão foda quanto Tommy the Balls.}
+{352}{}{Destruir a Enclave faz de você ser quase tão foda quanto Tommy Bengala.}
 {353}{}{Não posso conversar enquanto estiver em serviço, mas me alegro que você deu um chute no cu da Enclave.}
 {354}{}{Tudo bem, tribal. Descanse de salvar o mundo e divirta-se.}
 {355}{}{Você teve saco roxo para derrotar a Enclave assim. Bem, não SACO mesmo, sabe, você entendeu o que eu quis dizer.}

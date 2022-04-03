@@ -1530,7 +1530,7 @@
 {12402}{}{Não estou enxergando... meus olhos estão sangrando... alguém ...}
 {12403}{}{A minha cara! A minha cara!}
 {12404}{}{Aahhhk...me acertou na porra da minha cabeça!}
-{12405}{}{Não apanho assim desde Tommy the Balls ...}
+{12405}{}{Não apanho assim desde Tommy Bengala...}
 {12406}{}{Outro tiro na cabeça com esse e estou acabado...}
 {12407}{}{Minha orelha! Arrancou minha maldita orelha!}
 {12408}{}{Sinto como se minha cabeça estivesse dentro de um torno...}
@@ -1622,7 +1622,7 @@
 {12494}{}{Golpe baixo...}
 {12495}{}{Golpe baixo! Filho da puta!}
 {12496}{}{Não vou mirar ai embaixo. Não vou mirar ai embaixo.}
-{12497}{}{Você vai ver. Vou dizer a Tommy para buscá-la!}
+{12497}{}{Você vai ver. Vou dizer a Tommy Bengala para te buscar!}
 {12498}{}{Não sentia tanta dor assim desde que aquela prostituta me deixou uma marca...}
 {12499}{}{* Unnfffff * ... Eu acho que minhas bolas ... estão ... dentro .. do meu estômago ... ...}
 {14000}{}{Buscar para Zomak!}

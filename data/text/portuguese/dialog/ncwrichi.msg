@@ -164,7 +164,7 @@
 {903}{}{Eu quero ser cafetão quando eu crescer.}
 {904}{}{Eu vou controlar New Reno quando eu crescer, assim como o papai.}
 {905}{}{Eu queria um cachorrinho. Papai me disse que vai me arranjar uma cadela quando eu for mais velho.}
-{906}{}{Eu queria que o papai fosse tão legal quanto o Tommy Bolas.}
+{906}{}{Eu queria que o papai fosse tão legal quanto o Tommy Bengala.}
 {907}{}{Eu tenho um pênis.}
 {908}{}{::Berro estridente::}
 {909}{}{::Mostra a língua::}

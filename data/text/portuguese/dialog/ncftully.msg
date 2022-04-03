@@ -141,58 +141,57 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
 {540}{}{Ora, boa ideia! Que você seja tres vezes abeençoaaado! Eh... Acontece que eu conheço um LUGAR no lado lest, naantiga
  estaçço de trem, que vende o tipo deagua benta que eu preciso.}
 {541}{}{OK, eu vou pegar um pouco. Volto logo.}
-{542}{}{Okay. I'll go get some. But I'll need some chips to buy it.}
-{550}{}{Courze, a courze... chipz, chipz... where do I keep the chipz...(His eyes turn to the poor box beside the podium.) Ah! Don't
- know why I didn't think of this before... Houl onna minute...}
-{551}{}{Patiently wait for him to make the withdrawal from the poor box.}
-{552}{}{Uh, nevermind, Father. This one's on me.}
-{560}{}{(Father Tully glances at the... now... empty bottle in his hands.) Say, don't mean to impose, friend: would yoo happenta
- have 'nother bottle of that fine vintage on you? All thiz talkin' is making me parsched.}
-{570}{}{Thank you kindly! (Takes bottle, takes a swig.) Ahhh... sorry... what in the hells was I talking about?}
-{571}{}{Eh... well, now, most certintly! (Takes bottle.) Don't usually touch the stuff, y'know...(Takes a deep drink.)...ahhhh... um, sorry, what waz I saying?}
-{572}{}{Eh... damn kind of you! (Takes bottle.) Don't usually drink this much, y'know...(Takes a long swig.) Ahhhh... I'm sorry, what was I saying?}
-{573}{}{You were talking about family Bishop.}
-{574}{}{You were talking about family Wright.}
-{575}{}{You were talking about family Mordino.}
-{576}{}{You were talking about family Salvatore.}
-{578}{}{You were talking about Richard Wright's death.}
-{579}{}{I'll come back when you're sober.}
-{590}{}{Eh? The Bishops, right... power-hungry's the lotta 'em, itz in th' blood. Thing is, ol' John Bischop iz so concerned
- 'bout taking over everthin' he ain't taking care of business at hoome...}
-{591}{}{Business at home?}
-{600}{}{Well, not much, but I hear thingz OUSSIDE th' confessional about oul' Bishop. Crafty devil. Got iron ballz, he
- does... must clink when he walkz. I figger he'z behind thosse raidz on Vault City... you heard 'bout those?}
+{542}{}{OK, eu vou pegar algum. Mas vou precisar de algumas tampas pra comprar.}
+{550}{}{Claaro, caro... tampas, umas tampis... onde guardo as tampas... (Seus olhos se voltam para a caixa de doações ao lado do altar.) Ah! Nem sei por que não pensei nisso antes... ispera um minuto...}
+{551}{}{Espera pacientemente que ele faça a retirada da caixa de doações.}
+{552}{}{Uh, deixa pra lá, padre. Essa é por minha conta.}
+{560}{}{(Padre Tully olha para a... agora... garrafa vazia em suas mãos.) Diga, não quero me meter, amigo: você teria outra garrafi
+ desssa boa safra cum você? Essa conversera está me deixando cum sede.}
+{570}{}{Muito obrigaaaado! (Pega a garrafa e toma um gole.) Ahhh... desculpa... que que eu tava falano mesmo?}
+{571}{}{Eh... bem, a-agora, com certeza! (Pega a garrafa.) Eu num costumo toca nessas coisaas, sabe... (Toma um gole.)... ahhhh... hum, desculpe, que que eu tava falano mesmo?}
+{572}{}{Eh... oh belezera! (Toma a garrafa.) Eu nurmalmente não tomo tanto assim, sabe... (Toma um longo gole.) Ahhhh... Epa, que que eu tava falano mesmo?}
+{573}{}{Você estava falando sobre a família Bishop.}
+{574}{}{Você estava falando sobre a família Wright.}
+{575}{}{Você estava falando sobre a família Mordino.}
+{576}{}{Você estava falando sobre a família Salvatore.}
+{578}{}{Você estava falando sobre a morte de Richard Wright.}
+{579}{}{Voltarei quando voce estiver sóbrio.}
+{590}{}{Eh? Os Bishops, certo... sedentos esses sao, está nu sangue. O problema é que o veio John Bischop esta tao preocupado
+ em tomar tudo que não cuida mais dus negocios de c-casa.}
+{591}{}{Negócios em casa?}
+{600}{}{Bem, não muito, mas ouvi c-coisa por FORA no confessionario sobre velho Bishop. Diabo astuto. É corajooso, esse
+ tem coraji de sobra. Imagino que ele ta por tras dus saqueadores em Vault City... você ouviu falar deles?}
 {601}{}{Não.}
 {602}{}{Sim.}
-{603}{}{Father, keep it down. That kind of talk could get you killed in this town...}
-{604}{}{Look, maybe I'll come back when you're sober.}
-{610}{}{(Ignores you.) See, a few months back, oul' Bishop sends a caravan to Vault City, SUGGESTING a marriage o' convenience 'tween
- Vault City n' New Reno.}
-{611}{}{Did they reach an agreement?}
-{612}{}{I trust they didn't reach an agreement?}
-{620}{}{Mostly what you'd 'xpect from a neglected wifey-o with a body whoose curves could cure th' blind. Mostly adultery.
- I mean, have you SEEN her rack? My word!}
+{603}{}{Padre, fale mais baixo. Esse tipo de conversa pode te matar por aqui...}
+{604}{}{Olha, talvez eu volte quando voce estiver sobrio.}
+{610}{}{(Ignora você.) Veja, uns meis atras, o nosso Bishop envia uma caravana para Vault City, SUGERINDO um casamento por
+ cunveniencia entre Vault City e New Reno.}
+{611}{}{Eles chegaram a um acordo?}
+{612}{}{Acredito que eles não chegaram a um acordo, certo?}
+{620}{}{Principarmente o que si espera de uma esposa negligenciada cum corpao que consegui f-fazer ate cego voltar a ve.
+ Principalmente adulteeerio. Digo, se vio us peitao dela? Rapaz do ceu!}
 {621}{}{Uh... o que mais pode me dizer sobre os bispos, padre?}
-{622}{}{Yeah, she does have a nice rack. I mean... so I've heard. Uh, what else can you tell me about the Bishops, Father?}
-{623}{}{Er... she didn't say WHO she was adulterous with, did she, Father?}
-{625}{}{Agreed. Well, thanks for talking with me.}
-{630}{}{Oooh, sweeeet little Angela? Little HELLION more like it! Girl's got too mucha deevil in her britches. Always
- floozying around, banging her father's help n' pumping herself fulla Jet...}
-{631}{}{Uh, banging her father's help? Did she say who?}
+{622}{}{Sim, ela tem uns meloes. Quero dizer... eu ouvi sobre. Uh, o que mais você pode me dizer sobre os Bishops, padre?}
+{623}{}{Er... ela não disse com quem ela era adúltera, disse, padre?}
+{625}{}{De acordo. Bem, obrigado por falar comigo.}
+{630}{}{Oooh, doce Angela? Digo, pequena diabinha! Essa m-menina tem deve ter u capeta nas carça. Sempre vagand-do
+ por ai, durmindo com qualque um e se intupindo de Jet...}
+{631}{}{Eh, dormindo com alguém? Ele disse com quem?}
 {632}{}{Jet?}
-{633}{}{This sounds like a great family. What else can you tell me about the Bishops?}
+{633}{}{Isso soa como uma boa família. O que mais você pode me dizer sobre os Bishops?}
 {634}{}{Eu tenho algumas outras perguntas, padre...}
-{635}{}{I guess children will be children. Well, thanks for talking with me.}
-{640}{}{Who? A-course she did, but th' list a-who she DIDN'T fool around with would be easier to name off. She tells everyone,
- bragssz 'bout it. Say... what waz yer name again?}
-{641}{}{Uh, nada... o que mais você pode me dizer sobre os bispos, padre?}
-{642}{}{Me? Celibate monks such as myself don't have names. Say, I did have some other questions, Father...}
-{643}{}{Me? Celibate nuns such as myself don't have names. Say, I did have some other questions, Father...}
-{644}{}{Talk to you later, Father.}
-{650}{}{Devil's blood! Wickedness! Foul secretion from th' very teat of evil!}
+{635}{}{Acho que é só coisa de criança. Bem, obrigado por falar comigo.}
+{640}{}{Quem? Ah, claro que digo, mas o ceerto seria dizer com quem ela NÃO feiz isso. Ela diz a todos sobre isso. Ei... qual é o seu
+ nome memo?}
+{641}{}{Uh, nada... o que mais você pode me dizer sobre os Bishops, padre?}
+{642}{}{Eu? Monges celibatários como eu não têm nomes. Diga, eu tenho outras perguntas, padre...}
+{643}{}{Eu? As freiras celibatárias como eu não têm nomes. Diga, eu tenho outras perguntas, padre...}
+{644}{}{Falo com você mais tarde, padre.}
+{650}{}{Sangue do diabo! Maldade! Secreça suja da propria teta do mal!}
 {651}{}{Então... você não gosta de Jet?}
-{652}{}{Uh, yes. Teat of evil. Can I ask you some other questions, Father?}
-{653}{}{All right then. Talk to you later, Father.}
+{652}{}{Uh, sim, teta do mal. Posso te fazer mais algumas perguntas, padre?}
+{653}{}{Tudo bem então. Falo com você mais tarde, padre.}
 {660}{}{That drug'll be th' death of us. Can't think of another drug...(Drinks, belches.)...that doess more damage than Jet... Killz
  th' mind and th' body. Damn Mordinos...}
 {661}{}{What was that about the Mordinos?}
@@ -264,7 +263,7 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
 {800}{}{I wuz talking 'bout the Salvatores? (Blinks, shrugs, then drinks.) Can't imagine what I was saying. Family's as silent as
  death. An' you don't wanna cross 'em, either... know why?}
 {803}{}{Don't really need to know why right now, Father. Can I ask you some other questions?}
-{804}{}{Look, maybe I'll come back when you're sober.}
+{804}{}{Olha, talvez eu volte quando voce estiver sobrio.}
 {810}{}{(Lumbers on drunkenly.) Cuz they got weapons like fires from heaven, weapons no one's ever SEEN before in New Reno or
  nowhere. Shoot beams of light, cut a man in two, leave him twitching in the dust.}
 {811}{}{Shoot beams of light?}

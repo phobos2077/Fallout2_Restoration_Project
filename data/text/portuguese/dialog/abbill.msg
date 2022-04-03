@@ -32,7 +32,7 @@
 {219}{}{Bem, tenho certeza de que Marcus pode se beneficiar disso. Quanto custa?}
 {220}{}{Isso é interessante. Bem, Marcus, aqui, é resistente o suficiente. Eu não acho que nós vamos precisar desse item. Deixe-me perguntar
 outra coisa.}
-{221}{}{Bem, esse garoto mal pode ser facilmente derretido para fazer três ou quatro conjuntos de armaduras metálicas. Digamos $ 3000.}
+{221}{}{Bem, esse garoto mal pode ser facilmente derretido para fazer três ou quatro conjuntos de armaduras de metal. Digamos $ 3000.}
 {222}{}{Eu tenho o suficiente para isso.}
 {223}{}{Acho que vou passar agora. Deixe-me perguntar-lhe outra coisa.}
 {224}{}{Tudo bem então. Isto vai levar dois de nós para mover essa coisa, então deixe-me ajudá-lo a ajustar-la ao seu amigo aqui.}

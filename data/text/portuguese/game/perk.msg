@@ -61,7 +61,7 @@
 {161}{}{Weapon Penetrate}
 {162}{}{Weapon Knockback}
 {163}{}{Powered Armor}
-{164}{}{Combat Armor}
+{164}{}{Armadura de Combate}
 {165}{}{Weapon Scope Range}
 {166}{}{Weapon Fast Reload}
 {167}{}{Weapon Night Sight}
@@ -182,7 +182,7 @@
 {1161}{}{Weapon Penetrate}
 {1162}{}{Weapon Knockback}
 {1163}{}{Powered Armor}
-{1164}{}{Combat Armor}
+{1164}{}{Armadura de Combate}
 {1165}{}{Weapon Scope Range}
 {1166}{}{Weapon Fast Reload}
 {1167}{}{Weapon Night Sight}

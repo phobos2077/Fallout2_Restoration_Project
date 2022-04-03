@@ -113,9 +113,9 @@
 {212}{}{Na verdade, nada mais por hoje.}
 {213}{}{Implantes de Combate? Como assim?}
 {214}{}{Bem, de acordo com os esquemas que eu vi, pode-se implantar placas cutâneas e dissipadores térmicos no esqueleto de uma pessoa usando os seguintes procedimentos...}
-{215}{}{Huh. Bem, suponho que com a ajuda do ol'Doctor eu posso fazer a operação. Claro, vou precisar de algumas placas de impacto e dissipadores primeiro...eu posso tirá-las de uma combat armor, se você achar alguma.}
+{215}{}{Huh. Bem, suponho que com a ajuda do ol'Doctor eu posso fazer a operação. Claro, vou precisar de algumas placas de impacto e dissipadores primeiro...eu posso tirá-las de uma armadura de combate, se você achar alguma.}
 {216}{}{Você pode me dar informações sobre alguns implantes?}
-{217}{}{Eu tenho uma combat armor bem aqui. Você pode me dar informações sobre alguns implantes?}
+{217}{}{Eu tenho uma armadura de combate bem aqui. Você pode me dar informações sobre alguns implantes?}
 {218}{}{Hmmm. Está certo, então. Eu preciso de outra coisa...}
 {219}{}{Valeu. Eu volto mais tarde.}
 {220}{}{Ei! Você está falando sério, então. Bem, agora, esse é um empreendimento de risco. Se os Cidadãos descobrirem que estou usando o ol'Doctor para isso, levam-no de volta.}
@@ -130,13 +130,13 @@
 {229}{}{High thermal.}
 {230}{}{Esqueça. Eu tenho outras perguntas…}
 {231}{}{Esqueça. Eu tenho que ir.}
-{232}{}{A Standard Dermal Impact Armor absorve a maioria das explosões, socos, chutes, coisas do tipo. Digamos, 5%. Eu vou precisar desmanchar uma Combat Armor para pegar as placas, e vai levar dois dias para o implante. 7K deve cobrir os custos..}
-{233}{}{Parece bom. Aqui está a Combat Armor e o dinheiro.}
+{232}{}{A Standard Dermal Impact Armor absorve a maioria das explosões, socos, chutes, coisas do tipo. Digamos, 5%. Eu vou precisar desmanchar uma armadura de combate para pegar as placas, e vai levar dois dias para o implante. 7K deve cobrir os custos..}
+{233}{}{Parece bom. Aqui está a armadura de combate e o dinheiro.}
 {234}{}{7000? Uh, 5000 pratas, é tudo o que tenho.}
 {235}{}{Hmmm. Fale sobre outros implantes.}
 {236}{}{Sem problemas. Eu tenho outras perguntas...}
 {237}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{238}{}{Eu volto quando conseguir uma Combat Armor.}
+{238}{}{Eu volto quando conseguir uma armadura de combate.}
 {239}{}{Entendo. Talvez outra hora.}
 {240}{}{Bem, tecnicamente, "high impact" é uma standard Dermal Impact Armor com placas distribuidoras de impactos colocadas por baixo de sua pele.}
 {241}{}{Então você vai precisar do basic implant enxertado primeiro.}
@@ -144,7 +144,7 @@
 {243}{}{Fale-me sobre outros implantes.}
 {244}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {245}{}{Entendo. Talvez outra hora.}
-{246}{}{Bem, eu vou precisar de mais uma Combat Armor para pegar as placas extras de impacto. O bom é que as placas vão dobrar a força dos implantes originais, então absorverão 10% do impacto. Exceto...}
+{246}{}{Bem, eu vou precisar de mais uma armadura de combate para pegar as placas extras de impacto. O bom é que as placas vão dobrar a força dos implantes originais, então absorverão 10% do impacto. Exceto...}
 {247}{}{Sim?}
 {248}{}{Fale-me sobre outros implantes.}
 {249}{}{Deixe pra lá. Eu tenho outras perguntas.}
@@ -157,20 +157,20 @@
 {256}{}{Todas as curvas que você possui se tornarão ângulos, pelo que eu presumo.}
 {257}{}{Você vai ter uma aparência cúbica quando eu terminar.}
 {258}{}{Ao colocar todas essas placas no seu corpo, seu carisma vai ser prejudicado. Ainda está afim?}
-{259}{}{Oh, que diabos. Aqui está o dinheiro e a combat armor.}
+{259}{}{Oh, que diabos. Aqui está o dinheiro e a armadura de combate.}
 {260}{}{Eu não sei. 40K é muito dinheiro. Eu tenho $30.000 comigo.}
 {261}{}{Fale-me sobre outros implantes.}
 {262}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {263}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{264}{}{Eu voltarei quando tiver a Combat Armor.}
+{264}{}{Eu voltarei quando tiver a armadura de combate.}
 {265}{}{Entendo. Talvez outra hora.}
-{266}{}{Os Phoenix Implants suportam queimaduras com fogo, laser e plasma... cerca de 5%. Vou precisar desmanchar uma combat armor para retirar as membranas térmicas. E vai levar dois dias para a operação. 10K deve cobrir os gastos.}
+{266}{}{Os Phoenix Implants suportam queimaduras com fogo, laser e plasma... cerca de 5%. Vou precisar desmanchar uma armadura de combate para retirar as membranas térmicas. E vai levar dois dias para a operação. 10K deve cobrir os gastos.}
 {267}{}{Parece justo. Aque está a armadura e o dinheiro.}
 {268}{}{$10,000 é um pouco fora do meu alcance. Que tal $8000?}
 {269}{}{Fale-me sobre outros implantes.}
 {270}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {271}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{272}{}{Eu voltarei quando tiver a combat armor.}
+{272}{}{Eu voltarei quando tiver a armadura de combate.}
 {273}{}{Entendo. Talvez outra hora.}
 {274}{}{Bem, tecnicamente, "high thermal" é a Phoenix Armor com alguns dissipadores térmicos sobre as membranas.}
 {275}{}{Então você vai precisar do basic Phoenix implant enxertado primeiro.}
@@ -178,18 +178,18 @@
 {277}{}{Fale-me sobre outros implantes.}
 {278}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {279}{}{Entendo. Talvez outra hora.}
-{280}{}{Bem, eu vou precisar retirar alguns dissipadores térmicos de outra combat armor. O bom é que os dissipadores vão dobrar a resistência térmica, absorvendo 10% da queimadura. Mas...}
+{280}{}{Bem, eu vou precisar retirar alguns dissipadores térmicos de outra armadura de combate. O bom é que os dissipadores vão dobrar a resistência térmica, absorvendo 10% da queimadura. Mas...}
 {281}{}{Sim?}
 {282}{}{Fale-me sobre outros implantes.}
 {283}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {284}{}{Entendo. Talvez outra hora.}
 {285}{}{O implante vai fazer sua pele ficar com bolhas, fazer o que. Você vai parecer muito com aquele plástico-bolha do pré-guerra, então não espere que você vá para muitos encontros. E vai custar 50K. Bora lá.}
-{286}{}{Que diabos. Aqui está a grana... e outra combat armor.}
+{286}{}{Que diabos. Aqui está a grana... e outra armadura de combate.}
 {287}{}{40,000 e temos um trato..}
 {288}{}{Fale-me sobre outros implantes.}
 {289}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {290}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{291}{}{Eu voltarei quando tiver a combat armor.}
+{291}{}{Eu voltarei quando tiver a armadura de combate.}
 {292}{}{Entendo. Talvez outra hora.}
 {293}{}{Bem... isso parece justo.}
 {294}{}{Muito bem, deixe-me prender você aqui no ol'Doctor... espero que o reservatório de anestesia não tenha entopido de novo... talvez seja melhor você morder esse pedaço de couro de brahmin aqui...}
@@ -246,7 +246,7 @@
 {345}{}{Você perdeu -2 Max HP.}
 {346}{}{Ham, bem, ok... mas eu te alertei da última vez que poderia nã ser seguro.}
 {347}{}{ mangos por tudo, e temos um trato. O procedimento não funciona no seu cérebro robô, camarada. O que você diz?}
-{348}{}{Legal! Eu sempre quis parecer com o Kryten! Aqui está o dinheiro e a combat armor.}
+{348}{}{Legal! Eu sempre quis parecer com o Kryten! Aqui está o dinheiro e a armadura de combate.}
 {349}{}{Muito bem. Lá vamos nós.}
 {350}{}{Você perdeu -4 Max HP.}
 {351}{}{Wahh? Não estou me sentindo bem. Preciso dormir agora.}

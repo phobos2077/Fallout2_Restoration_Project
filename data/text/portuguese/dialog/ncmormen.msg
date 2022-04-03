@@ -56,7 +56,7 @@
 {298}{}{Estou pronto, preparado, coloque-me num filme, certo? Falamos no escritório, }
 {299}{}{Eu sou o maior amante Latino. Não há amante Latino como eu.}
 {300}{}{Fale de mim para os Brothers, }
-{301}{}{Ouvi dizer que o Tommy the Balls quer um fazer um exame médico privado com você.}
+{301}{}{Ouvi dizer que o Tommy Bengala quer um fazer um exame médico privado com você.}
 {302}{}{E então, que tal um filme nosso? Eu te trato bem, chica. Eu te mostro o que um amante Latino sabe fazer.}
 {303}{}{Por que não passa aqui depois do trabalho?}
 {304}{}{Você tem amigos?}
@@ -101,7 +101,7 @@
 {380}{}{Alguma notícia do topo, hein, }
 {381}{}{Quando iremos pegar alguns Bishops, hein? Minhas armas estão enferrujando.}
 {382}{}{Os Salvatares andam como se fosse os donos de Reno. Eles precisam voltar pra escola, sabe?}
-{383}{}{Ouvi dizer que o Tommy the Balls está na cidade. É melhor sossegar.}
+{383}{}{Ouvi dizer que o Tommy Bengala está na cidade. É melhor sossegar.}
 {384}{}{Tem algum Jet com você, chica? Estou morrendo aqui.}
 {400}{}{Você tem muito cojones em vir aqui. Sugiro que vá embora.}
 {401}{}{Sua mãe deve estar num canil, pela sua aparência.}

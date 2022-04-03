@@ -1,7 +1,7 @@
-{100}{}{Você vê um homem sorridente vestindo uma leather armor.}
+{100}{}{Você vê um homem sorridente vestindo uma armadura de couro.}
 {101}{}{Você vê Steve, o recepcionista de Broken Hills.}
-{102}{}{Você vê um homem amigável vestindo uma leather armor. Parece que ele fica parado ali o dia todo esperando
- alguém pra conversar.}
+{102}{}{Você vê um homem amigável vestindo uma armadura de couro. Parece que ele fica parado
+ ali o dia todo esperando alguém pra conversar.}
 {103}{}{Olá! Eu sou Steve. Eu sou o cara que sabe te dizer onde é onde e o que é o quê nesta bela
  cidade. Posso de dar algumas direções ou ajudar em alguma coisa?}
 {104}{}{Dã…}

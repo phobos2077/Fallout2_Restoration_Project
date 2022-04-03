@@ -8,7 +8,7 @@
 {155}{}{You see one of Salvatore's men. He looks silent, deadly, and potentially very bored.}
 {160}{}{::Nods Respectfully::}
 {161}{}{Você deve ser um cara durão para explodir o Enclave como fez.}
-{162}{}{You're almost as tough as Tommy the Balls.}
+{162}{}{Você é quase tão durão quanto Tommy Bengala.}
 {163}{}{I heard what you did to the Enclave. Word travels fast.}
 {164}{}{Thought about replaying the game as a different character?}
 {170}{}{Why are you sneaking around?}
@@ -47,7 +47,7 @@
 {242}{}{Nothing to report, sir.}
 {243}{}{Anything you need, sir?}
 {244}{}{Anyone bothers you, sir, let us know.}
-{245}{}{Watch out for Tommy the Balls. He has a long dick and a short temper.}
+{245}{}{Cuidado com Tommy Bengala. Ele tem um pau grande e um temperamento curto.}
 {246}{}{Mr. Salvatore's been in poor health for as long as I've known him. He's really old.}
 {247}{}{These new pistols have really allowed us to gain ground in New Reno.}
 {248}{}{These new pistols may look strange, but they are really easy to use.}
@@ -93,7 +93,7 @@
 {311}{}{Breaks my heart, but I really can't talk right now.}
 {312}{}{C'mon now, you're distracting me, sweetheart.}
 {313}{}{I can't help you.}
-{314}{}{Ouvi dizer que o Tommy the Balls quer um fazer um exame médico privado com você.}
+{314}{}{Ouvi dizer que o Tommy Bengala quer um fazer um exame médico privado com você.}
 {315}{}{Not now, sweetheart. Business.}
 {316}{}{I'd chat, but the boss could be watching.}
 {325}{}{Secure that weapon NOW, slaver.}

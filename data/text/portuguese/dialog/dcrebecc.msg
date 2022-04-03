@@ -154,7 +154,7 @@ depois de sua viagem através dos resíduos.}
   ajudá-lo em alguns.}
 {481}{}{O que é?}
 {490}{}{Ah, apenas algumas bugigangas. Aqui está. [Becky lhe entrega $ 1000, 5 Stimpaks,
-  Metal Armor, um Uzi, 5 clipes de munição, uma Granada de Plasma e uma flor]}
+  armadura de metal, um Uzi, 5 clipes de munição, uma Granada de Plasma e uma flor]}
 {491}{}{Obrigado!}
 {500}{}{Não há problema. Eu estava apenas mantendo-los para você. Bem, é melhor eu voltar ao trabalho.}
 {501}{}{Obrigado, tchau.}

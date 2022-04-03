@@ -83,8 +83,8 @@
 {350}{}{Ei, }
 {351}{}{Ei, }
 {352}{}{Ei, }
-{353}{}{Ouvi dizer que Tommy the Balls está de volta à cidade, verificando as coisas. Cuidado com ele.}
-{354}{}{Você vê Tommy the Balls, fique fora do caminho dele.}
+{353}{}{Ouvi dizer que Tommy Bengala está de volta à cidade, verificando as coisas. Cuidado com ele.}
+{354}{}{Você vê Tommy Bengala, fique fora do caminho dele.}
 {355}{}{Falou bem de mim para Bishop?}
 {356}{}{Que sorte. Eu gostaria de poder me dar bem com o chefe.}
 {357}{}{Alguma dica para um cara como eu?}
@@ -133,7 +133,7 @@
 {407}{}{Ouvi dizer que a filha do Bishop estava procurando por você. Essa é problema.}
 {408}{}{Tem alguma vaga no estúdio?}
 {409}{}{Adorei "Putaria na vault". Foi inspirador. Um tour-de-force cinematográfico.}
-{410}{}{Ouvi dizer que Tommy the Balls quer fazer uma exibição privada.}
+{410}{}{Ouvi dizer que Tommy Bengala quer fazer uma exibição privada.}
 {411}{}{Adorei seu último filme. Posso ajudá-lo a ensaiar para o próximo?}
 {412}{}{Me arranja um trabalho e eu te mostro meus movimentos.}
 {413}{}{Quando você vai vir aqui me ver?}

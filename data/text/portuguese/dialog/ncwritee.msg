@@ -15,7 +15,7 @@
 {203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
 {204}{}{Ei! }
 {205}{}{Way to smash the Enclave, }
-{206}{}{You must have been tougher than Tommy the Balls to break the Enclave like you did.}
+{206}{}{Você deve ter sido mais forte que Tommy Bengala para destruir a Enclave assim.}
 {207}{}{Those Enclave fellas sound like real bastards.}
 {208}{}{They were gonna dump some new VIRUS into the air? Bastards. Hope you shot a few for me.}
 {209}{}{I thought the President was a myth, a boogeyman used to scare children.}
@@ -73,7 +73,7 @@
 {326}{}{Como você usa o banheiro com isso?}
 {335}{}{How're you, }
 {336}{}{Good to have you in the family, uh, even though you aren't family, y'know? Uh... nevermind.}
-{337}{}{I heard Tommy the Balls was back in town. Scary.}
+{337}{}{Ouvi dizer que Tommy Bengala estava de volta à cidade. Assustador.}
 {338}{}{We Wrights are the strongest family 'cause we ARE family.}
 {339}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it...}
 {340}{}{Dad said he'd strangle us if he ever hears about us takin' Jet.}

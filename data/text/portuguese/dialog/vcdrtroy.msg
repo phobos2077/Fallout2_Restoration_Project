@@ -302,8 +302,8 @@
  esqueléticas.}
 {349}{}{Eu corro o risco. Você pode fazer assim mesmo?}
 {350}{}{Eu consideraria a operação somente em um caso de emergência, não por simples
- conveniência. O risco é muito grande e os implantes não são mais benéficos que uma combat
- armor comum.}
+ conveniência. O risco é muito grande e os implantes não são mais benéficos que uma armadura de combate
+ comum.}
 {351}{}{Hmmm. Certo, eu tenho outras perguntas...}
 {352}{}{Bem, de qualquer forma obrigado.}
 {353}{}{Bem, agradeço mesmo assim. Talvez eu ache outra pessoa que possa realizar a operação.}

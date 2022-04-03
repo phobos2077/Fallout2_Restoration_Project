@@ -263,7 +263,7 @@
 {437}{}{Eu gostaria de estar com o Avellone agora.}
 {438}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
 {439}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
-{440}{}{O Tommy the Balls é um sonho.}
+{440}{}{O Tommy Bengala é um sonho.}
 {441}{}{Bem, bem. Olha só quem está na cidade...}
 {442}{}{Você parece um cara com tempo de sobra pra se divertir.}
 {443}{}{Olha! Um turista!}
@@ -456,7 +456,7 @@
 {630}{}{Eu gostaria de estar com o Avellone agora.}
 {631}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
 {632}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
-{633}{}{O Tommy the Balls é um sonho.}
+{633}{}{O Tommy Bengala é um sonho.}
 {634}{}{Bem, bem. Olha só quem está na cidade.}
 {635}{}{Procurando pelo paraíso? Venha pra minha cama.}
 {636}{}{Faça um aposta comigo, meu bem.}
@@ -619,7 +619,7 @@
 {793}{}{Eu gostaria de estar com o Avellone agora.}
 {794}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
 {795}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
-{796}{}{O Tommy the Balls é um sonho.}
+{796}{}{O Tommy Bengala é um sonho.}
 {797}{}{Bem, bem. Olha só quem está na cidade...}
 {798}{}{Procurando pelo paraíso? Venha pra minha cama.}
 {799}{}{Faça um aposta comigo, meu bem.}
@@ -855,7 +855,7 @@
 {1026}{}{Eu gostaria de estar com o Avellone agora.}
 {1027}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
 {1028}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
-{1029}{}{O Tommy the Balls é um sonho.}
+{1029}{}{O Tommy Bengala é um sonho.}
 {1030}{}{Preciso de cinqüenta dólares pra fazer você gemer.}
 {1031}{}{Meu nome é Fácil, garota-escravagista. Qual é o seu?}
 {1032}{}{Precisa de alguém pra jogar peteca, garota-escravagista?}
@@ -1030,7 +1030,7 @@
 {1201}{}{Eu gostaria de estar com o Avellone agora.}
 {1202}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
 {1203}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
-{1204}{}{O Tommy the Balls é um sonho.}
+{1204}{}{O Tommy Bengala é um sonho.}
 {1205}{}{Preciso de cinqüenta dólares pra fazer você gemer.}
 {1206}{}{Meu nome é Fácil, garota. Qual é o seu?}
 {1207}{}{Ei, gracinha. Procurando por outra mulher?}
@@ -1203,7 +1203,7 @@
 {1374}{}{Eu gostaria de estar com o Avellone agora.}
 {1375}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
 {1376}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
-{1377}{}{O Tommy the Balls é um sonho.}
+{1377}{}{O Tommy Bengala é um sonho.}
 {1378}{}{Preciso de cinqüenta dólares pra fazer você gemer.}
 {1379}{}{Meu nome é Fácil, garota. Qual é o seu?}
 {1380}{}{Ei, gracinha. Procurando por outra mulher?}

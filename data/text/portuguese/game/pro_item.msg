@@ -1,6 +1,6 @@
-{100}{}{Leather Armor}
+{100}{}{Armadura de Couro}
 {101}{}{Uma roupa de couro. Finamente trabalhada a partir de couro curtido brahmin.}
-{200}{}{Metal Armor}
+{200}{}{Armadura de Metal}
 {201}{}{Placas de metal polido, de forma grosseira, formando uma armadura.}
 {300}{}{Power Armor}
 {301}{}{Uma armadura com tecnologia avançada. Alimentado por um reator de micro-fusão, com combustível suficiente para durar cem anos.}
@@ -30,7 +30,7 @@
 {1501}{}{Um rifle de plasma modelo Winchester P94. Uma arma energética de grade industrial, que dispara raios de plasma superaquecido por um supercondutor. Alimentado por células MF de micro fusão. Min FO: 6.}
 {1600}{}{Laser Pistol}
 {1601}{}{Uma pistola laser de 1000 Wattz. Modelo civil, com potência menor do que as versões militares e da policía. Usa células PE de energia. Min FO: 3.}
-{1700}{}{Combat Armor}
+{1700}{}{Armadura de Combate}
 {1701}{}{Armadura de alta tecnologia, feito de polímeros defensivas avançadas.}
 {1800}{}{Desert Eagle .44}
 {1801}{}{Uma antiga pistola Desert Eagle, magnum .44. Participou de varios filmes no final do século 20 fez desta uma das armas mais populares de todos os tempos. Min. FO: 4.}
@@ -144,7 +144,7 @@
 {7201}{}{Uma pasta com uma etiqueta Made-in-the-EUA. De couro. Em boas condições, mas a fechadura de combinação está quebrado.}
 {7300}{}{Grande Livro de Ciências}
 {7301}{}{Um conjunto de livros, que contém informações sobre os diferentes campos científicos.}
-{7400}{}{Leather Jacket}
+{7400}{}{Jaqueta de couro}
 {7401}{}{Uma jaqueta de couro preta e pesada.}
 {7500}{}{Conjunto de ferramentas}
 {7501}{}{Um conjunto de ferramentas, que contém várias ferramentas úteis, incluindo um alicate.}
@@ -516,7 +516,7 @@
 {26301}{}{Isto é uma mensagem do líder dos Escórias para os cidadãos de Modoc.}
 {26400}{}{Objeto legal de Smith}
 {26401}{}{LONGA DESCRIÇÃO AQUI.}
-{26500}{}{Combat Leather Jacket}
+{26500}{}{Jaqueta de couro de combate}
 {26501}{}{Esta jaqueta de couro fortemente acolchoadas é incomum, pois tem duas mangas. Definitivamente você vai fazer um desfile de moda quando e onde você quiser e vai arrasar.}
 {26600}{}{Rádio de Vic}
 {26601}{}{Este rádio portátil parece não funcionar, mas ainda está em bom estado. Algumas de suas peças provavelmente poderiam ser utilizadas para outros rádios.}
@@ -734,11 +734,11 @@
 {37701}{}{Diversas peças de computador com várias funções. O sonho de um nerd de computador.}
 {37800}{}{Biscoito}
 {37801}{}{Um biscoito com gotas de chocolate. Humm!}
-{37900}{}{Leather Armor Mark II}
+{37900}{}{Armadura de couro Mark II}
 {37901}{}{Uma versão melhorada da básica Leather Armor com uma capa extra de proteção. Finamente trabalhada com couro curtido brahmin.}
 {38000}{}{Metal Armor Mark II}
 {38001}{}{Placas de metal polido, pregadas manualmente em uma armadura.}
-{38100}{}{Combat Armor Mark II}
+{38100}{}{Armadura de Combate Mark II}
 {38101}{}{Armadura de alta tecnologia, feito de polímeros defensivas avançadas.}
 {38200}{}{Flamethrower Fuel MKII}
 {38201}{}{Este combustível para lança-chamas utiliza um mix avançado de super-queimadura.}
