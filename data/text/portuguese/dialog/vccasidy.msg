@@ -2,7 +2,7 @@
 {101}{}{You see Cassidy.}
 {102}{}{You see an elderly man with deep wrinkles along his face. He nods at you.}
 {103}{Cas0103}{Well, now. I ain't seen you around before, stranger. Name's Cassidy. I run this place. What can I do for you?}
-{104}{Cas0104}{Well now, if it ain't the mysterious stranger. What can I do for you today?}
+{104}{Cas0104}{Bem, se não é o meu herói. O que a mãe pode fazer por você hoje?}
 {105}{}{Ug Nog?}
 {106}{}{Desliga}
 {107}{}{Estou a procura da Vault.}
@@ -63,15 +63,15 @@
 {161}{}{All right. Well, good luck.}
 {162}{}{Forget I asked then, asshole. Go back to tending bar in this shitwater burg.}
 {163}{}{Nevermind then. Your loss.}
-{164}{Cas0164}{Heh. You serious?}
+{164}{Cas0164}{Ei, tá falando sério?}
 {165}{}{Sure. Why the hell not? You look like you know how to take care of yourself in a fight.}
 {166}{}{On second thought, it's pretty dangerous out there, especially for someone with heart trouble. You'd be better off here.}
-{167}{Cas0167}{All right, count me in.}
+{167}{Cas0167}{Tudo bem, conte comigo.}
 {168}{}{Let's hit it.}
 {169}{}{}
 {170}{}{}
 {171}{Cas0171}{What's up? You got that "I need to tell you something you might not like" look again.}
-{172}{Cas0172}{Yeah?}
+{172}{Cas0172}{Sim?}
 {173}{Cas0173}{What's up? You got that "I'm pulling rank" look again.}
 {174}{}{Eu gostaria de lhe fazer algumas perguntas...}
 {175}{}{You look like you've taken some damage. Use some stims and heal yourself.}
@@ -134,7 +134,7 @@
 {310}{}{Why, Cassidy, I didn't know you cared. My heart's all a-flutter.}
 {311}{}{So? What are you saying?}
 {312}{}{Tell me about it. Let's get going.}
-{313}{Cas0313}{Now hold on, I didn't mean it like that.}
+{313}{Cas0313}{Espere um pouco, eu não quis dizer nada disso.}
 {314}{Cas0314}{All I'm saying is that bona fide little asshole's gonna get his number clocked one day when it's just me and him and a hole in the desert.}
 {315}{}{Well, life can be a harsh teacher on its own. I had some other questions for you...}
 {316}{}{Well, he's bound to bite it any time now anyway. I wouldn't worry about it.}
