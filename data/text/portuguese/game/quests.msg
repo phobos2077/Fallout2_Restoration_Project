@@ -1,75 +1,75 @@
-{100}{}{Kill the evil plants that infest Hakunin's garden.}
-{110}{}{Obtain flint to have Mynoc sharpen your spear.}
-{120}{}{Rescue Nagor's dog, Smoke, from the wilds.}
-{130}{}{Retrieve the GECK for Arroyo.}
-{140}{}{Find Vic the Trader.}
-{200}{}{Free Vic from his debt by getting his radio from his house in Klamath and paying Metzger.}
-{201}{}{Find out how Becky can sell her booze for such low prices.}
-{202}{}{Sabotage Becky's still.}
-{203}{}{Get car part for Smitty.}
-{204}{}{Return Anna's locket.}
-{205}{}{Collect Rebecca's money from Fred.}
+{100}{}{Mate as plantas malignas que infestam o jardim de Hakunin.}
+{110}{}{Obtenha pederneira para que Mynoc afie sua lança.}
+{120}{}{Resgate o cachorro de Nagor, Smoke, da selva.}
+{130}{}{Traga o GECK para Arroyo.}
+{140}{}{Encontre Vic, o comerciante.}
+{200}{}{Libere Vic de sua dívida pegando seu rádio em sua casa em Klamath e pagando a Metzger.}
+{201}{}{Descubra como Becky consegue vender sua bebida a um preço tão baixo.}
+{202}{}{Sabote o destileria de Becky.}
+{203}{}{Obtenha a peça do carro para Smitty.}
+{204}{}{Devolva o medalhão de Anna.}
+{205}{}{Recolha o dinheiro de Rebecca de Fred.}
 {206}{}{Pegue o livro da Rebecca com Derek.}
-{207}{}{Deliver a meal to Smitty for Mom.}
-{208}{}{Lara wants to know what is being guarded in the church.}
-{209}{}{Get permission from Metzger for the gang war.}
+{207}{}{Entregue a Smitty o almoço da mamãe.}
+{208}{}{Lara quer saber o que está sendo guardado na igreja.}
+{209}{}{Obtenha permissão de Metzger para a guerra de gangues.}
 {210}{}{Encontre um ponto fraco na gangue de Tyler que vigia a igreja.}
-{211}{}{Help Lara attack Tyler's gang.}
-{212}{}{Find a way to get the orphans off the streets.}
-{300}{}{Refuel the still.}
-{301}{}{Rescue Smiley the Trapper.}
-{302}{}{Guard the brahmin.}
-{303}{}{Rustle the brahmin.}
-{304}{}{Kill the rat god.}
-{305}{}{Rescue Torr.}
-{306}{}{Figure out who is rustling the brahmin.}
-{400}{}{Something strange is happening at the farm northeast of Modoc. Investigate and report back to Jo.}
-{401}{}{Cornelius has lost his gold pocket watch. Find it and return it to him.}
-{402}{}{Farrel wants you to find Cornelius's gold pocket watch. Find it and return it to Farrel.}
-{403}{}{Jonny is missing. Find him and bring him home to Balthas.}
-{404}{}{Jonny's in the Slag caves. Find a way to get Jonny back home to Balthas.}
-{405}{}{Farrel has a rodent problem in his garden. Remove the infestation.}
+{211}{}{Ajude Lara a atacar a gangue de Tyler.}
+{212}{}{Encontre uma maneira de tirar os órfãos das ruas.}
+{300}{}{Reabasteça a destilaria.}
+{301}{}{Resgate Smiley, o Caçador.}
+{302}{}{Proteja os brahmins.}
+{303}{}{Roube os brahmins.}
+{304}{}{Mate o deus rato.}
+{305}{}{Resgate Torr.}
+{306}{}{Descubra quem esta roubando os brahmins.}
+{400}{}{Algo estranho esta acontecendo na fazenda a nordeste de Modoc. Investigue e reporte a Jo.}
+{401}{}{Cornelius perdeu seu relógio de bolso de ouro. Encontre-o e devolva a ele.}
+{402}{}{Farrel quer que você encontre o relógio de bolso de ouro de Cornelius. Encontre-o e devolva a Farrel.}
+{403}{}{Jhonny está desaparecido. Encontre-o e o leve para casa em Balthas.}
+{404}{}{Jonny esta nas cavernas dos Slags. Encontre uma maneira de levar Jonny de volta para Balthas.}
+{405}{}{Farrel tem um problema com roedores em seu jardim. Elimine a infestação.}
 {406}{}{Entregue a mensagem de Slag para Jo em Modoc.}
-{407}{}{Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
-{408}{}{Go to the Den and tell Karl it's alright to come back home.}
-{409}{}{Guard Grisham's brahmin.}
-{500}{}{Get a plow for Mr. Smith.}
-{501}{}{Deliver Moore's briefcase to Mr. Bishop in New Reno.}
+{407}{}{Jo desconfia dos Slags. Descubra os cadaveres na Fazenda Fantasma e descubra o que aconteceu com Karl.}
+{408}{}{Vá para o Den e diga a Karl que está tudo bem em voltar para casa.}
+{409}{}{Guarda dos brahmins de Grisham.}
+{500}{}{Consiga um arado para o Sr. Smith.}
+{501}{}{Entregue a pasta de Moore ao Sr. Bishop em New Reno.}
 {502}{}{Entregue uma amostra de Jet ao Dr. Troy.}
-{503}{}{Solve the Gecko powerplant problem.}
-{504}{}{Deliver Lynette's holodisk to Westin in NCR.}
-{505}{}{Rescue Amanda's husband, Joshua.}
-{506}{}{Deliver beer and booze (10 each) to Lydia.}
-{507}{}{Deliver pliers (tools) and a wrench to Valerie.}
-{508}{}{Scout the eight sectors around Gecko and return to Stark.}
-{509}{}{Enter NCR and return to Stark.}
-{510}{}{Resolve the problem with the nearby village.}
-{511}{}{Get weapons for Connar to be used at the nearby village.}
-{512}{}{Put the Village on a trade route.}
-{600}{}{Solve the Gecko powerplant problem.}
-{601}{}{Repair the powerplant.}
-{602}{}{Optimize the powerplant.}
-{603}{}{Retrieve the Economy Disk and deliver it to McClure in Vault City.}
-{604}{}{Get super repair kit for Skeeter.}
-{605}{}{Get 3-step plasma transformer for Skeeter.}
-{606}{}{Find Woody the ghoul for Percy. Try the Den.}
-{700}{}{Determine whether Chad is skimming money from the caravan runs.}
-{701}{}{Fix the mine's air purifier.}
-{702}{}{Find the missing people for Marcus.}
-{703}{}{Beat Francis at arm wrestling.}
-{704}{}{Break Manson and Franc out of prison.}
-{705}{}{Blow up the mine's air purifier.}
-{706}{}{Divert more electrical power to Eric's home.}
-{800}{}{Recover your stolen car.}
-{801}{}{Find out who was responsible for Richard Wright's overdose.}
-{802}{}{     Suspect: Jagged Jimmy J}
-{803}{}{     Suspect: Jules}
-{804}{}{     Suspect: Lil' Jesus Mordino}
-{805}{}{     Suspect: Renesco}
-{806}{}{Find a way into the Sierra Army Base.}
-{807}{}{Track down Pretty Boy Lloyd, recover the stolen money, and make an... example of him.}
-{808}{}{Go visit Renesco the Rocketman and collect Mr. Salvatore's tribute of $1000.}
-{809}{}{Help guard a secret transaction taking place in the desert.}
+{503}{}{Resolva o problema da usina nuclear em Gecko.}
+{504}{}{Entregue o holodisco de Lynette para Westin na NCR.}
+{505}{}{Resgate o marido de Amanda, Joshua.}
+{506}{}{Entregue cerveja e bebida (10 cada) para Lydia.}
+{507}{}{Entregue um alicate (ferramentas) e uma chave inglesa para Valerie.}
+{508}{}{Explore os oito setores ao redor de Gecko e volte para Stark.}
+{509}{}{Entre na NCR e volte para Stark.}
+{510}{}{Resolva o problema com a vila próxima.}
+{511}{}{Obtenha armas para Connar para serem usadas na vila próxima.}
+{512}{}{Coloque a Vila em uma rota comercial.}
+{600}{}{Resolva o problema da usina nuclear em Gecko.}
+{601}{}{Repare a usina nuclear.}
+{602}{}{Otimize a usina nuclear.}
+{603}{}{Ele recupera o disco de dados econômicos e o entregue a McClure em Vault City.}
+{604}{}{Obtenha um super kit de reparo para Skeeter.}
+{605}{}{Obtenha transformador de plasma trifasico para Skeeter.}
+{606}{}{Encontre Woody, o carniçal, para Percy. Tente em Den.}
+{700}{}{Determine se Chad está roubando dinheiro das caravanas.}
+{701}{}{Conserte o purificador de ar da mina.}
+{702}{}{Encontre as pessoas desaparecidas para Marcus.}
+{703}{}{Derrote Francis na queda de braço.}
+{704}{}{Liberte Manson e Franc da prisão.}
+{705}{}{Exploda o purificador de ar da mina.}
+{706}{}{Desvie mais energia elétrica para a casa de Eric.}
+{800}{}{Recupere seu carro roubado.}
+{801}{}{Descubra quem foi o responsável pela overdose de Richard Wright.}
+{802}{}{     Suspeito: Jagged Jimmy J}
+{803}{}{     Suspeito: Jules}
+{804}{}{     Suspeito: Pequeno Jesus Mordino}
+{805}{}{     Suspeito: Renesco}
+{806}{}{Encontre um caminho para a Base do Exército de Sierra.}
+{807}{}{Localize Pretty Boy Lloyd, recupere o dinheiro roubado e faça dele um... exemplo.}
+{808}{}{Visite Renesco the Rocketman e colete o tributo de $1000 do Sr. Salvatore.}
+{809}{}{Ajude a proteger uma transação secreta que acontece no deserto.}
 {810}{}{Find some endorphin blockers to make a cure for Jet.}
 {811}{}{Bust up Wright's still beneath the train station.}
 {812}{}{Assassinate Westin in NCR without making it look like a murder.}

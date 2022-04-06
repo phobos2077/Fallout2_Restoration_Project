@@ -192,74 +192,74 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
 {651}{}{Então... você não gosta de Jet?}
 {652}{}{Uh, sim, teta do mal. Posso te fazer mais algumas perguntas, padre?}
 {653}{}{Tudo bem então. Falo com você mais tarde, padre.}
-{660}{}{That drug'll be th' death of us. Can't think of another drug...(Drinks, belches.)...that doess more damage than Jet... Killz
- th' mind and th' body. Damn Mordinos...}
-{661}{}{What was that about the Mordinos?}
-{663}{}{Uh, I'd nurse that bottle a little longer next time, Father. Talk to you later.}
-{670}{}{Heh-heh! Wright, eh? (Smiles, wiggles eyebrows.) Lemme tell you a lit-tle sumthin' about th' WRIGHTS... they're a split
- bunch of horny drunks and stonefast puritans, they are!}
-{671}{}{Oh, really?}
-{672}{}{I think I've heard enough, Father. Thanks for talking with me.}
-{680}{}{Those Wrights just keep squeezing out kids... oul' Orville Wright must wanna re-pop-ulate th' world. Hope Missus Wright
- can take th' strain. Heh-heh. An' the thingz they SAY in th' confessional...}
-{681}{}{Oh, really? What does Missus Wright say in the confessional?}
-{682}{}{Oh, really? What does ol' ORVILLE Wright say in the confessional?}
-{683}{}{What does the Wright Family control in New Reno?}
-{684}{}{Oh, I bet it's really juicy stuff. Maybe we can talk about it some other time.}
-{690}{}{ETHYL Wright? That blesst woman! Keeps me off th' drink, an' on th' straight n' narrow. (Takes a swig.) She can drive th' sin
- outta you, she can... uh, but... what in hell waz I saying?}
-{691}{}{About Missus Wright in the confessional...}
+{660}{}{Essa droga será u nossu fiim. Não consigo pensar em outra drooga... (Bebe e arrotoa.)... que faz mais dano do qui Jet...
+ Mata a mente e o corpo. M-malditos Mordinos...}
+{661}{}{O que é isso sobre os Mordinos?}
+{663}{}{Uh, eu queria que essa garrafa durasse mais da próxima vez. Falo com você mais tarde.}
+{670}{}{Heh heh! Wright, é? (Sorri, mexe as sobrancelhas.) Deixe eu c-contar um pouco sobris os URAITIS... eles são uma cambada
+ de bebads esssitados e puritanos inflex-xiveis, isso é o que sao!}
+{671}{}{Oh, serio?}
+{672}{}{Acho que já ouvi o suficiente, padre. Obrigado por falar comigo.}
+{680}{}{Aqueles Wraights continuam fazendo grianças... ou Orville Wright d-deve querer repovoar u muundo. Espero que
+ sinhrora Uraight possa aguente a tensão. Heh heh. Ah, e as coisas que eles DIZEM no confesssiounario...}
+{681}{}{Oh, sério? O que Sra. Wright diz no confessionario?}
+{682}{}{Oh, sério? O que o velho ORVILLE Wright diz no confessionario?}
+{683}{}{O que a Família Wright controla em New Reno?}
+{684}{}{Oh, aposto que é uma coisa muito gostosa. Talvez possamos falar sobre isso outra hora.}
+{690}{}{ETHYL Waight? Uma mulher abenssoaada! Mi deixa longe da bebida, e andando na linha reetaa. (Toma um gole.) Ela pode
+ mandar u pecado pa fora de oce, ela... uh, mas... o que eu to falano?}
+{691}{}{Sobre a Sra. Wright no confessionario...}
 {692}{}{Estava falando com a família Wright...}
 {693}{}{Esqueça. Eu tenho outras perguntas…}
-{694}{}{Nothing much more, I think. Thanks for talking with me.}
-{700}{}{Oh, right, right. Well, uh, in th' confessional, she ain't got much t'say. Mostly guilt 'bout stepping on bugs... or 'bout
- enjoying sex with her hubbie too much. Heh-heh. (Takes a swig.) I looove guilt.}
+{694}{}{Nada mais, eu acho. Obrigado por falar comigo.}
+{700}{}{Ah, certo, certo. Bem, uh, no confessionario, ela num diz muita coiss. Principalmente se cupa por pisar em insetos...
+ ou por gostar demais do sesgo com seu marido. Heh heh. (Toma um gole.) Eu amo esssa culpa.}
 {701}{}{Eu tenho algumas perguntas sobre os Wrights...}
 {702}{}{Entendo. Eu tenho outras perguntas...}
-{703}{}{It shows. Thanks for talking with me.}
-{710}{}{Oul' Orville? Well, he's got a lotta guilt on his shoulders. See, he promised th' Missus he'd quit the alcohol biz, but
- he has a secret still in th' train station behind th' house! She'll beat him uglier than he is if she finds it...}
-{711}{}{Heh-heh, herez the funny bit... y'see, ol Mr. Wright promised the Missus he'd quit the alcohol biz, but he has a secret
- still in the train station behind the house! Ha! She'll beat him uglier than he is if she finds it...}
+{703}{}{Se nota. Obrigado por falar comigo.}
+{710}{}{Orville? Bom, ele tem muita culpa sobr seuss ombros. Veja, ele prometeu à patroua que deixaria o negócio do alcu,
+ mas ainda guarda um segredu na estação de trem por trais da casa! Ela vai bater nele feio se achar issu ae...}
+{711}{}{Heh-heh, issu é e-engraçado... Veja, o Mr. Wraight prometeu à sehora que deixaria o negócio do alcu, mas ainda guarda
+ um segredu na estação de trem por trais da casa! Ela vai bater nele feio se achar issu ae...}
 {712}{}{Me conte sobre a senhora Wright...}
 {713}{}{Me conte mais sobre os Wrights...}
-{715}{}{A secret still in the train station behind the house, huh? Very interesting, Father. Thanks for the info.}
-{720}{}{Nuthin'! (Takes a drink.) They're the weakest of th' families, cuz they only brew alke-hol. Barely turn a cent, they do.
- Th' other families buy alke-hol offa them mostly outta pity.}
-{721}{}{Where does this alcohol come from?}
+{715}{}{Um segredo na estação de trem atrás da casa, é? Muito interessante, padre. Obrigado pela informação.}
+{720}{}{Nada! (Toma um gole.) Eles são us mai fraco das famias, porque eles só fabricam alcol. Mal ganha um centavo com isso.
+ As outras familias compram álcool deles normamente por pena.}
+{721}{}{De onde vem esse álcool?}
 {722}{}{Interessante. Me diga mais sobre os Wrights...}
-{724}{}{Very interesting, Father. Thanks for the info.}
-{730}{}{Th'Mordinos? (Holds up three fingers.) Therez two o' them. (Holds hand up high.) Big Jeezus... (Holds hand down low.) ...an' Leetle
- Jeezus. The Father n' the Son. They control th' drugs and the whoa-men in Reno.}
-{731}{}{Tell me about Big Jesus.}
-{732}{}{Tell me about Little Jesus.}
-{733}{}{So they are the source of drugs and control most of the whores in New Reno?}
-{740}{}{Jesus? He's one bad muthuh...(Takes a swig, swishes it around in cheeks.) Deals in slavez, Jet, n' whores. Only person
- worse'n him is hiz filthy son.}
-{741}{}{His son?}
-{742}{}{So Jesus Mordino Senior controls most of the drugs and whores in New Reno?}
-{743}{}{Great family. Can I ask you some other questions, Father?}
-{744}{}{Like father, like son. Well, thanks for talking with me, Father.}
-{750}{}{Leetle Jezus? Bastard! He's like a prairie tick, sucking blood from hiz Dad's work. Be trouble for alla Reno if he took
- charge. Couldn't hold it toogether, drugz, whorez... all fall down.}
-{752}{}{The Mordinos are the source of drugs and most of the whores in New Reno?}
-{754}{}{Just like you in a few seconds. Well, thanks for talking with me.}
-{760}{}{(Tully stares at you.) }
-{761}{}{Yesss... (Smiles, licks lips.) ...whoresss... (Begins stroking neck of the bottle.)}
-{762}{}{Uh, Father? About the drugs?}
-{763}{}{I think I better go. Thanks for talking with me, Father.}
-{770}{}{Eh? Drugz... yes, the drugs. Jet. Filthy Jet. Do horrible thingz with it, horrible... Redding... the Stables. (Takes a swig.) All fer gold...}
-{772}{}{What about Redding?}
-{773}{}{What about the Stables?}
-{775}{}{Interesting. Thanks for talking with me, Father.}
-{780}{}{(Makes a walking motion with his two fingers.) Jet leavez town, goez ta Redding. Gold leavez Redding, goez to Mordino.
- (Takes a swig.) Miners die, Mordinos lie.}
-{782}{}{What were you saying about the Stables?}
-{784}{}{So the Mordinos are selling Jet to Redding, huh? Interesting. Thanks, Father.}
-{790}{}{Mordinos havva... farm... ousside of town. Keep slaves there. Test... Jet... on them. Killz them in drovez. (Shudders.) Only th' Mordinos
- know where th' Stables are.}
-{792}{}{What were you saying about Redding?}
-{794}{}{The Mordinos are testing Jet on slaves, huh? Interesting. Thanks, Father.}
+{724}{}{Muito interessante, padre. Obrigado pela informação.}
+{730}{}{Os Mordino? (Levanta três dedos.) São dois deles. (Mantem a mão para o alto.) Grande Jesuus... (Agora a mão para baixo.) ...e Pequano
+ Jesus. O Pai e o Filho. Eles controla as drogas e a muierada em Reno.}
+{731}{}{Me diga sobre o Grande Jesus.}
+{732}{}{Me diga sobre o Pequeno Jesus.}
+{733}{}{Então eles são a fonte de drogas e controlam a maioria das prostitutas em New Reno?}
+{740}{}{Jesuis? Ele é um muitxo ruim... (Toma um gole, esfrega nas bochechas.) Negocia com escravo, jet e umas puta. A
+ única pessoa pior que é seu fio imundo.}
+{741}{}{Seu filho?}
+{742}{}{Então o Grande Jesus Mordino controla a maioria das drogas e prostitutas em New Reno?}
+{743}{}{Ótima família. Posso te fazer mais algumas perguntas, padre?}
+{744}{}{Tal pai, tal filho. Bem, obrigado por falar comigo, padre.}
+{750}{}{Pequeno Jesuus? Desgraçado! Ele é pior que um c-carrapato de cachorro, suga o sangue do trabaio do papai. Seria problema
+ para todo Reno se ele assumissse o c-comando. Não consiguiria aguentar, droga, puta... todos caem.}
+{752}{}{Os Mordinos são a fonte das drogas e a da maioria das putas de New Reno?}
+{754}{}{Assim como você em alguns segundos. Bem, obrigado por falar comigo.}
+{760}{}{(Tully te mira fixamente.)  }
+{761}{}{Siiim... (Sorri, lambe os lábios.) ...putass... (Começa a acariciar o gargalo da garrafa.)}
+{762}{}{Uh, padre? E sobre as drogas?}
+{763}{}{Acho melhor eu ir. Obrigado por falar comigo, padre.}
+{770}{}{Eh? Drogass... sim, as drogas. Jet, jet imundo. Fazem coisas horriiiveis com isso, horrível... Redding... os estábulos. (Toma um gole.) Tudo por dinhero...}
+{772}{}{O que tem no Redding?}
+{773}{}{Oque tem nos estábulos?}
+{775}{}{Interessante. Obrigado por falar comigo, padre.}
+{780}{}{(Faz um movimento de andar com os dois dedos.) Jet dexa a cidade, va ao Redding. O dinhero deixa Redding, vai para
+ Mordino. (Toma um gole.) Mineiros morrem, Mordinos mentem.}
+{782}{}{O que você estava dizendo sobre os estábulos?}
+{784}{}{Então os Mordinos estão vendendo Jet para Redding, é? Interessante. Obrigado, padre.}
+{790}{}{Mordinos tem uma... f-fazenda... fora da cidade. Mantem escravos la. Testam... Jet... neles. Os mata em manadas. (Estremece.) 
+Só os Mordinos sabem onde ficam os estabulos.}
+{792}{}{O que você estava dizendo sobre Redding?}
+{794}{}{Os Mordinos estão testando Jet em escravos, é? Interessante. Obrigado, padre.}
 {800}{}{I wuz talking 'bout the Salvatores? (Blinks, shrugs, then drinks.) Can't imagine what I was saying. Family's as silent as
  death. An' you don't wanna cross 'em, either... know why?}
 {803}{}{Don't really need to know why right now, Father. Can I ask you some other questions?}
