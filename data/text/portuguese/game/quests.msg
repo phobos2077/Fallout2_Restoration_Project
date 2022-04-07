@@ -70,95 +70,95 @@
 {807}{}{Localize Pretty Boy Lloyd, recupere o dinheiro roubado e faça dele um... exemplo.}
 {808}{}{Visite Renesco the Rocketman e colete o tributo de $1000 do Sr. Salvatore.}
 {809}{}{Ajude a proteger uma transação secreta que acontece no deserto.}
-{810}{}{Find some endorphin blockers to make a cure for Jet.}
-{811}{}{Bust up Wright's still beneath the train station.}
-{812}{}{Assassinate Westin in NCR without making it look like a murder.}
-{813}{}{Murder Carlson in NCR.}
-{814}{}{Deliver ten Cat's Paw magazines to Miss Kitty.}
-{815}{}{Deliver a laser pistol to Eldridge.}
-{816}{}{Deliver Big Jesus' package to Ramirez at the Stables.}
-{817}{}{Collect tribute from the Corsican Brothers.}
-{818}{}{Assassinate Boss Salvatore for Big Jesus Mordino.}
-{819}{}{Bring a bottle of Abbey's hootch to Father Tully.}
+{810}{}{Encontre alguns bloqueadores de endorfina para fazer uma cura para jet.}
+{811}{}{Destrua a destilaria dos Wright debaixo da estação de trem.}
+{812}{}{Assassinar Westin na NCR sem fazer parecer um assassinato}
+{813}{}{Assassinar Carlson na NCR.}
+{814}{}{Entregue dez revistas "A Garra da Gata" para Miss Kitty.}
+{815}{}{Entregue uma pistola laser para Eldridge.}
+{816}{}{Entregue o pacote do Grande Jesus para Ramirez nos estábulos.}
+{817}{}{Colete o tributo dos Irmãos Corsican.}
+{818}{}{Assassine o líder dos Salvatore para o Grande Jesus.}
+{819}{}{Traga uma garrafa da bebida de Abbey para o padre Tully.}
 {900}{}{}
 {1000}{}{}
-{1100}{}{Retrieve Parts/Gain Access to Vault 15.}
-{1101}{}{"Take care of" Officer Jack for Mira.}
-{1102}{}{Complete the brahmin drive.}
+{1100}{}{Recuperar peças/consiga acesso ao Vault 15.}
+{1101}{}{Mira pediu para você "cuidar" do policial Jack.}
+{1102}{}{Complete a viagem dos brahmins.}
 {1103}{}{Recupere os papéis do Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
-{1105}{}{Eliminate Mr. Bishop.}
-{1106}{}{Deliver Westin's holodisk to Lynette in Vault City.}
-{1107}{}{Get the map from the NCR Rangers, for Vortis the slaver.}
-{1108}{}{Free the slaves in the slave pen, for the Rangers.}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
-{1110}{}{Kill the Hubologist for Merk.}
-{1111}{}{Stop the brahmin raids.}
-{1112}{}{Wipe out the Rangers' safe houses to the north, for Vortis the slaver.}
-{1113}{}{Wipe out the Slaver Camp to the north west, for the Rangers.}
-{1200}{}{Fix the Vault 13 computer.}
-{1201}{}{Talk to Goris.}
+{1104}{}{Teste o soro mutagênico em um supermutante. Procure em Broken Hills.}
+{1105}{}{Elimine o Sr. Bishop.}
+{1106}{}{Entregue o holodisco de Westin para Lynette em Vault City.}
+{1107}{}{Pegue o mapa dos NCR Rangers, para Vortis, o traficante de escravos.}
+{1108}{}{Liberte os escravos no curral de escravos, para os Rangers.}
+{1109}{}{Entregue o relatório de campo dos Hubologistas ao AHS-9 em San Francisco.}
+{1110}{}{Mate o Hubologista para Merk.}
+{1111}{}{Pare os ataques contra os brahmins.}
+{1112}{}{Destrua os esconderijos dos Rangers ao norte, para Vortis, o traficante de escravos.}
+{1113}{}{Acabe com o Acampamento dos Escravos a noroeste, para os Rangers.}
+{1200}{}{Conserte o computador da Vault 13.}
+{1201}{}{Fale com Goris.}
 {1300}{}{}
-{1398}{}{Clear out the mine.}
-{1399}{}{Find the excavator chip.}
-{1400}{}{Take care of the Widow Rooney situation.}
-{1401}{}{Break up the bar brawl.}
-{1402}{}{Find out who cut the whore.}
-{1403}{}{Kill Frog Morton.}
-{1500}{}{The tanker needs fuel.}
-{1501}{}{The navigation computer needs the NavComp part to work.}
-{1502}{}{You need to use a FOB to access the navigation computer.}
-{1503}{}{Kill the Shi Emperor.}
-{1504}{}{The Hubologists need plans for a vertibird from Navarro.}
-{1505}{}{Steal the vertibird plans from the Shi.}
-{1506}{}{The Hubologists need fuel for their spaceship.}
-{1507}{}{Kill Badger so the tanker vagrants will embrace the Hub.}
-{1508}{}{Kill the AHS-9.}
-{1509}{}{The Shi need plans for a vertibird from Navarro.}
-{1510}{}{Steal the vertibird plans from the Hubologists.}
-{1511}{}{Find Badger's girlfriend in the hold below the ship.}
-{1512}{}{The Dragon wants you to take out Lo Pan - hand to hand.}
-{1513}{}{Lo Pan wants you to take out the Dragon - hand to hand, if possible.}
+{1398}{}{Limpe a mina.}
+{1399}{}{Encontre o chip da escavadeira.}
+{1400}{}{Cuide da situação da Viúva Rooney.}
+{1401}{}{Bote um fim na briga do bar.}
+{1402}{}{Descubra quem cortou a prostituta.}
+{1403}{}{Mate o Sapo Morton.}
+{1500}{}{O petroleiro precisa de combustível.}
+{1501}{}{O computador de navegação precisa do circuito NavComp para funcionar.}
+{1502}{}{Você precisa usar um FOB para acessar o computador de navegação.}
+{1503}{}{Mate o Imperador Shi.}
+{1504}{}{Os Hubologistas precisam de planos para um vertibird de Navarro.}
+{1505}{}{Roube os planos de vertibird dos Shi.}
+{1506}{}{Os Hubologistas precisam de combustível para sua nave espacial.}
+{1507}{}{Mate bagder para que os vagabundos do petroleiro se unam ao Hub.}
+{1508}{}{Mate o AHS-9.}
+{1509}{}{Os Shi precisam de planos para um vertibird de Navarro.}
+{1510}{}{Roube os planos de vertibird dos Hubologistas.}
+{1511}{}{Encontre a namorada de Badger no porão do navio.}
+{1512}{}{O Dragão quer que você derrote Lo Pan - mano a mano.}
+{1513}{}{Lo Pan quer que você derrote o Dragão - mano a mano, se possível.}
 {1514}{}{Pegue o baço de Chip de volta.}
-{1515}{}{Get some hardened power armor from Crockett.}
-{1516}{}{Get the vertibird plans for the Brotherhood of Steel.}
-{1517}{}{Disable the Shi submarine threatening the tanker.}
-{1518}{}{Investigate the whereabouts of Dr. Sheng.}
-{1519}{}{Bring Dr. Sheng some plant seeds.}
-{1520}{}{Eliminate Dr. Sheng.}
-{1521}{}{Deliver the plant seed sample to Dr. Wong.}
-{1522}{}{Eliminate Dr. Wong without alerting the Shi.}
-{1523}{}{Clear out Dr. Sheng's lab.}
+{1515}{}{Obtenha uma Power Armor melhorada de Crockett.}
+{1516}{}{Obtenha os planos de vertibird para a Brotherhood of Steel.}
+{1517}{}{Desative o submarino Shi ameaçando o petroleiro.}
+{1518}{}{Investigue o paradeiro do Dr. Sheng.}
+{1519}{}{Traga ao Dr. Sheng algumas sementes de plantas.}
+{1520}{}{Elimine o Dr. Sheng.}
+{1521}{}{Entregue a amostra da semente da planta ao Dr. Wong.}
+{1522}{}{Elimine o Dr. Wong sem alertar os Shi.}
+{1523}{}{Limpe o laboratório do Dr. Sheng.}
 {1600}{}{Lide com o deathclaw.}
-{1601}{}{Fix K-9.}
-{1602}{}{Retrieve the FOB from the base Commander.}
+{1601}{}{Repare K-9.}
+{1602}{}{Recupere o FOB do Comandante da base.}
 {1700}{}{}
-{1800}{}{Kill the beast beneath the church.}
-{1801}{}{Deliver the machine part to Brother Max.}
-{1802}{}{Repair the waterpump and report the status to the headmonk.}
-{1803}{}{Find out who is digging up the graves.}
-{1804}{}{Inform Brother Samuel and Father Tully about the whereabouts of each other.}
-{1805}{}{Bring a lighter to Brother Hank.}
-{1806}{}{Collect information about Botany for Brother Paul.}
-{1807}{}{Format the Abbey's book database.}
-{1808}{}{Escort Brother Jason to Gecko.}
-{1900}{}{Collect some weapons for the Tribe's warriors.}
-{1901}{}{Fix the well for Marli and the tribe.}
-{1902}{}{Find out what's haunting the tribe's shaman.}
-{1903}{}{Find Sulik's missing sister.}
-{1904}{}{Find out what happened to the hunting party.}
-{1905}{}{Collect firewood for the tribe's fishermen.}
-{1906}{}{Reunite Sulik and his sister, Kurisu.}
-{1907}{}{Accompany Krom to meet with the trader.}
-{1908}{}{Bring some herbs (5 Xander Roots, 3 Broc Flowers) to the Shaman.}
-{2000}{}{Fix Hologram 00000.}
-{2001}{}{Fix the Voice Computer.}
-{2002}{}{Clear out the plant problem.}
-{2003}{}{Fix EPA lighting problem.}
-{2004}{}{Collect Gecko Pelts for the Doctor.}
-{2005}{}{Fix the hologram that speaks with static.}
-{2006}{}{Find the tool the Doctor left behind.}
-{2007}{}{Test the Solar Scorcher for the Director of Science.}
+{1800}{}{Mate a besta debaixo da igreja.}
+{1801}{}{Entregue a peça da máquina ao Irmão Max.}
+{1802}{}{Repare a bomba d'água e relate o status para o headmonk.}
+{1803}{}{Descubra quem está cavando as sepulturas.}
+{1804}{}{Informe o irmão Samuel e o padre Tully sobre o paradeiro um do outro.}
+{1805}{}{Traga um isqueiro para o irmão Hank.}
+{1806}{}{Colete informações sobre Botanica para o Irmão Paul.}
+{1807}{}{Formate o banco de dados de livros da Abadia.}
+{1808}{}{Escolte o irmão Jason para Gecko.}
+{1900}{}{Colete algumas armas para os guerreiros da Tribo.}
+{1901}{}{Conserte o poço para Marli e a tribo.}
+{1902}{}{Descubra o que está assombrando o xamã da tribo.}
+{1903}{}{Encontre a irmã desaparecida de Sulik.}
+{1904}{}{Descubra o que aconteceu com o grupo de caça.}
+{1905}{}{Colete lenha para os pescadores da tribo.}
+{1906}{}{Reúna Sulik e sua irmã, Kurisu.}
+{1907}{}{Acompanhe a Krom para se encontrar com o comerciante.}
+{1908}{}{Traga algumas ervas (5 Raízes Xander, 3 Flores de Broc) para o Shaman.}
+{2000}{}{Corrija o holograma 00000.}
+{2001}{}{Conserte o computador de voz.}
+{2002}{}{Limpe o problema da planta.}
+{2003}{}{Corrija o problema de iluminação EPA.}
+{2004}{}{Colete Peles de Gecko para o Doutor.}
+{2005}{}{Corrija o holograma que fala com estática.}
+{2006}{}{Encontre a ferramenta que o Doutor deixou para trás.}
+{2007}{}{Teste o Solar Scorcher para o Diretor de Ciência.}
 {2100}{}{}
 {2200}{}{}
 {2300}{}{}
@@ -170,7 +170,7 @@
 {2900}{}{}
 {3000}{}{}
 {3100}{}{}
-{3200}{}{Rescue Chrissy.}
-{3201}{}{Kill Darion.}
+{3200}{}{Resgate Crissy.}
+{3201}{}{Mate Darion.}
 {3202}{}{Complete o acordo com a NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3203}{}{Entregue o Holodisco do espião para as autoridades da NCR.}
