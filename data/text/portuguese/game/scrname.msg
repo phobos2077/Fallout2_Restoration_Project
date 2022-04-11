@@ -257,10 +257,10 @@
 {357}{}{Campones}
 {358}{}{Merchant}
 {359}{}{Guarda}
-{360}{}{Rawhide Patron}
+{360}{}{Cliente de Rawhide}
 {361}{}{Piso}
-{362}{}{Plasma Trap}
-{363}{}{Plasma Trap}
+{362}{}{Armadilha de plasma}
+{363}{}{Armadilha de plasma}
 {364}{}{Terminal}
 {365}{}{Quadro de avisos}
 {366}{}{Portão}
@@ -294,11 +294,11 @@
 {394}{}{Roteiro do mapa}
 {395}{}{Roteiro do mapa}
 {396}{}{Quieto}
-{397}{}{Bar Customer}
-{398}{}{Bar Customer}
+{397}{}{Cliente do bar}
+{398}{}{Cliente do bar}
 {399}{}{Vortis}
-{400}{}{Bath Attendant}
-{401}{}{Slaves}
+{400}{}{Responsavel pelos banheiros}
+{401}{}{Escravos}
 {402}{}{Scorpion}
 {403}{}{Brahmin}
 {404}{}{Carro}
@@ -317,36 +317,36 @@
 {417}{}{Cofre}
 {418}{}{Cofre}
 {419}{}{Ratch}
-{420}{}{Boxer}
+{420}{}{Boxeador}
 {421}{}{Pete McKneely}
 {422}{}{Evan Hollyfeld}
-{423}{}{Masticator}
+{423}{}{Mastigator}
 {424}{}{Cientista}
 {425}{}{Merk}
 {426}{}{Ventilador}
-{427}{}{Drug Dealer}
-{428}{}{Casino Patron}
-{429}{}{Pimp}
-{430}{}{Junkie}
-{431}{}{Furniture}
+{427}{}{Traficante de drogas}
+{428}{}{Cliente do Cassino}
+{429}{}{Comprador}
+{430}{}{Zé Droguinha}
+{431}{}{Mobiliário}
 {432}{}{Piso}
 {433}{}{Terreno}
 {434}{}{Holodisco}
 {435}{}{Lenny}
 {436}{}{Caixa}
-{437}{}{Prostitute}
+{437}{}{Prostituta}
 {438}{}{Escravo}
 {439}{}{Rico}
-{440}{}{Porn Actress}
-{441}{}{Fluffer}
+{440}{}{Atriz porno}
+{441}{}{Punhetinha}
 {442}{}{Roteiro do mapa}
 {443}{}{Wolf}
-{444}{}{Generator}
+{444}{}{Gerador}
 {445}{}{Porta}
 {446}{}{Super mutante}
-{447}{}{Salvatore's Man}
-{448}{}{Bishop's Man}
-{449}{}{Mordino's Man}
+{447}{}{Homem de Salvatore}
+{448}{}{Homem do Bishop}
+{449}{}{Homem de Mordino}
 {450}{}{Wright's Child}
 {451}{}{Casino Bouncer}
 {452}{}{Mira}
@@ -1047,7 +1047,7 @@
 {1147}{}{Escravo}
 {1148}{}{Cidadão da Vault}
 {1149}{}{Porta}
-{1150}{}{Boxer}
+{1150}{}{Boxeador}
 {1151}{}{Porta do Refúgio}
 {1152}{}{Xarn}
 {1153}{}{Raul}
@@ -1085,7 +1085,7 @@
 {1185}{}{Caravan Driver}
 {1186}{}{Locutor do ringue}
 {1187}{}{Garota do Ringue}
-{1188}{}{Boxer}
+{1188}{}{Boxeador}
 {1189}{}{Porta}
 {1190}{}{Trapaceiro}
 {1191}{}{Holodisco}
@@ -1130,7 +1130,7 @@
 {1230}{}{Biscoito}
 {1231}{}{Torreta}
 {1232}{}{Brian}
-{1233}{}{Generator}
+{1233}{}{Gerador}
 {1234}{}{Console}
 {1235}{}{Formiga gigante}
 {1236}{}{Formiga gigante}
@@ -1198,7 +1198,7 @@
 {1298}{}{Arado}
 {1299}{}{Arado}
 {1300}{}{Scorpion}
-{1301}{}{Generator}
+{1301}{}{Gerador}
 {1302}{}{Porta}
 {1303}{}{Porta}
 {1304}{}{PipBoy médico}
@@ -1371,7 +1371,7 @@
 {1471}{}{Pequeno Bobby}
 {1472}{}{Pai do Pequeno Bobby}
 {1473}{}{Squatter}
-{1474}{}{Drug Dealer}
+{1474}{}{Traficante de drogas}
 {1475}{}{Residente de Den}
 {1476}{}{Orfao}
 {1477}{}{Campones}
@@ -1491,7 +1491,7 @@
 {1591}{}{Bandido}
 {1592}{}{fio de viagem}
 {1593}{}{fio de viagem espacial}
-{1594}{}{Prostitute}
+{1594}{}{Prostituta}
 {1595}{}{Gosma}
 {1596}{}{Espacial}
 {1597}{}{Câmara de hibernação espacial}
