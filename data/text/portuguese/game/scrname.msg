@@ -347,17 +347,17 @@
 {447}{}{Homem de Salvatore}
 {448}{}{Homem do Bishop}
 {449}{}{Homem de Mordino}
-{450}{}{Wright's Child}
-{451}{}{Casino Bouncer}
+{450}{}{Filho de Wright}
+{451}{}{Porteiro do Cassino}
 {452}{}{Mira}
-{453}{}{New Reno Virgin Street}
-{454}{}{New Reno 2nd Street}
-{455}{}{New Reno Commercial Row}
-{456}{}{New Reno East Side}
-{457}{}{New Reno Stables}
-{458}{}{New Reno Chop Shop}
-{459}{}{New Reno Gologtha}
-{460}{}{New Reno Bishop Basement}
+{453}{}{Rua Virgin, New Reno}
+{454}{}{Rua 2, New Reno}
+{455}{}{Zona Comercial, New Reno}
+{456}{}{Lado Leste, New Reno}
+{457}{}{Estábulos, New Reno}
+{458}{}{Sucateiro, New Reno}
+{459}{}{Golgota, New Reno}
+{460}{}{Porão de Bishop, New Reno}
 {461}{}{Holodisco}
 {462}{}{Holodisco}
 {463}{}{Holodisco}
@@ -366,11 +366,11 @@
 {466}{}{Guarda}
 {467}{}{carrinho de mina}
 {468}{}{Melchior}
-{469}{}{Mutated Beast}
-{470}{}{FEV Goo}
-{471}{}{Guard Captain}
-{472}{}{Slave Overseer}
-{473}{}{Melchior's Pet}
+{469}{}{Besta mutante}
+{470}{}{Substância FEV}
+{471}{}{Capitao da Guarda}
+{472}{}{Supervisor de Escravos}
+{473}{}{Mascote de Melchior}
 {474}{}{Slaver Guard}
 {475}{}{Porta}
 {476}{}{Terminal}
@@ -383,21 +383,21 @@
 {483}{}{Sulik}
 {484}{}{Dr. Henry}
 {485}{}{Guarda}
-{486}{}{Carlson Guards Attack}
-{487}{}{Carlson's Gate Guards}
-{488}{}{Prisoner}
-{489}{}{Prisoner}
+{486}{}{Guardas de Ataque de Carlson}
+{487}{}{Guardas do portão de Carlson}
+{488}{}{Prisioneiro}
+{489}{}{Prisioneiro}
 {490}{}{Cidadao}
-{491}{}{Amenities Aid}
-{492}{}{Desk Guard}
+{491}{}{Escritório de Serviços}
+{492}{}{Guarda de expedição}
 {493}{}{Trabalhador ghoul}
-{494}{}{Glowing One}
+{494}{}{Resplandecente}
 {495}{}{Guarda Ghoul}
 {496}{}{Robo}
 {497}{}{Ghoul}
-{498}{}{Worshipper}
+{498}{}{Fiel}
 {499}{}{Harold}
-{500}{}{Officer}
+{500}{}{Policial}
 {501}{}{Toto}
 {502}{}{Dorothy}
 {503}{}{Habitante}
@@ -409,25 +409,25 @@
 {509}{}{Bob}
 {510}{}{Garota do cassino}
 {511}{}{Garota do cassino}
-{512}{}{Magic Eight Ball}
+{512}{}{Bola Oito Mágica}
 {513}{}{Brahmin}
 {514}{}{Caça-níqueis}
-{515}{}{Old Man McGee}
-{516}{}{Three Card Monte}
+{515}{}{Velho McGee}
+{516}{}{Monte de três cartas}
 {517}{}{Algernon}
 {518}{}{Bill}
 {519}{}{Guarda costa de Bishop}
 {520}{}{John Bishop}
-{521}{}{Casino Machine}
-{522}{}{Chop Shop Boy}
+{521}{}{Máquina de cassino}
+{522}{}{Garoto da Loja do Chopp}
 {523}{}{Chris Wright}
 {524}{}{Cody}
-{525}{}{Corsican Bother}
+{525}{}{Irmaos Corsican}
 {526}{}{Eldridge}
 {527}{}{Ethyl Wright}
 {528}{}{Padre Tully}
 {529}{}{HumperdumperDIDO}
-{530}{}{Lil' Jesus Mordino}
+{530}{}{Pequeno Jesus Mordino}
 {531}{}{Jagged Jimmy J}
 {532}{}{Keith Wright}
 {533}{}{Lee Anne Bishop}
@@ -437,22 +437,22 @@
 {537}{}{Myron}
 {538}{}{Nikki}
 {539}{}{Orville Wright}
-{540}{}{Pit Boss}
-{541}{}{Renesco the Rocket-Man}
+{540}{}{Chefe do poço}
+{541}{}{Renesco, o Astronauta}
 {542}{}{Marjorie Reed}
-{543}{}{Boss Salvatore}
+{543}{}{Chefe Salvatore}
 {544}{}{Stuart Little}
 {545}{}{T-Ray}
-{546}{}{Bitch}
-{547}{}{Wright Child}
-{548}{}{NCR Police}
+{546}{}{Sua mae}
+{547}{}{Filho de Wright}
+{548}{}{Policia da NCR}
 {549}{}{Oswald}
 {550}{}{Dusty}
 {551}{}{Jules}
 {552}{}{Miss Kitty}
 {553}{}{Barman}
-{554}{}{Deputy Karl}
-{555}{}{Cell Door}
+{554}{}{Deputado Karl}
+{555}{}{Porta da cela}
 {556}{}{Grande Jesus Mordino}
 {557}{}{Hoss}
 {558}{}{Soro mutagênico}
@@ -460,7 +460,7 @@
 {560}{}{Caixa}
 {561}{}{Caixa}
 {562}{}{Caixa}
-{563}{}{Doctor Jubilee}
+{563}{}{Dr. Jubilee}
 {564}{}{Porta}
 {565}{}{Porta}
 {566}{}{Estante}
@@ -475,59 +475,59 @@
 {575}{}{Hal}
 {576}{}{Gunther}
 {577}{}{Brahmin}
-{578}{}{Caravan Master}
-{579}{}{Caravan Driver}
-{580}{}{Caravan Guard}
+{578}{}{Chefe das Caravanas}
+{579}{}{Motorista de caravana}
+{580}{}{Guarda de caravana}
 {581}{}{Raider}
 {582}{}{Mafioso}
-{583}{}{Hunter}
-{584}{}{Hunter}
+{583}{}{Cacador}
+{584}{}{Cacador}
 {585}{}{Ranger}
 {586}{}{Mercenario}
 {587}{}{Mercenario}
 {588}{}{Raider}
-{589}{}{Caravan Driver}
-{590}{}{Caravan Guard}
-{591}{}{Patrol Guard}
-{592}{}{Patrol Captain}
+{589}{}{Motorista de caravana}
+{590}{}{Guarda de caravana}
+{591}{}{Guarda da patrulha}
+{592}{}{Capitao da patrulha}
 {593}{}{Fazendeiro}
 {594}{}{Brahmin}
 {595}{}{Brahmin}
 {596}{}{Viajante}
-{597}{}{Patrol Guard}
-{598}{}{Patrol Captain}
-{599}{}{Patrol Guard}
-{600}{}{Patrol Captain}
-{601}{}{Brahmin Driver}
-{602}{}{Rustler}
-{603}{}{Squatter}
-{604}{}{Abolitionist}
+{597}{}{Guarda da patrulha}
+{598}{}{Capitao da patrulha}
+{599}{}{Guarda da patrulha}
+{600}{}{Capitao da patrulha}
+{601}{}{Motorista dos brahmins}
+{602}{}{Ladrao}
+{603}{}{Membro do MST}
+{604}{}{Abolicionista}
 {605}{}{Contrabandista}
 {606}{}{Super mutante}
 {607}{}{Pescador}
 {608}{}{Traficante de escravos}
 {609}{}{Trapper}
-{610}{}{Carlson's Kid}
+{610}{}{Filho de Carlson}
 {611}{}{Carlson}
 {612}{}{}
-{613}{}{Officer Jack}
-{614}{}{The Enlightened One}
+{613}{}{Oficial Jack}
+{614}{}{A Primeira Iluminada}
 {615}{}{Porta}
 {616}{}{Computador}
-{617}{}{Brahmn}
+{617}{}{Brahmin}
 {618}{}{Deathclaw}
 {619}{}{Saída}
 {620}{}{Computador}
 {621}{}{Feargus}
 {622}{}{Ariel}
 {623}{}{Fannie Mae}
-{624}{}{Computer Terminal}
+{624}{}{Terminal do computador}
 {625}{}{Dalia}
 {626}{}{Dar}
 {627}{}{Dave}
 {628}{}{Gordon}
-{629}{}{Out of Business Sign}
-{630}{}{Reactor Control Machinery}
+{629}{}{Sinal fora de serviço}
+{630}{}{Maquinaria de Controle do Reator}
 {631}{}{Jimmy}
 {632}{}{Joseph}
 {633}{}{Matt}
@@ -540,14 +540,14 @@
 {640}{}{Caixa}
 {641}{}{Caixa}
 {642}{}{Valdis}
-{643}{}{Computer Terminal}
+{643}{}{Terminal do computador}
 {644}{}{Armário de metal}
 {645}{}{Baú}
-{646}{}{Deathclaw Guard}
+{646}{}{Guarda Deathclaw}
 {647}{}{Goris}
 {648}{}{Caixa}
 {649}{}{Armário de metal}
-{650}{}{Cheater}
+{650}{}{Trapaceiro}
 {651}{}{V15 map Script}
 {652}{}{Phil}
 {653}{}{Bill}
@@ -556,7 +556,7 @@
 {656}{}{John}
 {657}{}{Jones}
 {658}{}{Karla}
-{659}{}{V15 Secret entrance map}
+{659}{}{Mapa de entrada secreta V15}
 {660}{}{Rebecca}
 {661}{}{Porta}
 {662}{}{Deathclaw}
@@ -567,21 +567,21 @@
 {667}{}{Porta de madeira}
 {668}{}{Chrissy}
 {669}{}{Darion}
-{670}{}{Darion's Guard}
-{671}{}{Darion's Dog}
+{670}{}{Guarda de Darion}
+{671}{}{Cachorro de Darion}
 {672}{}{Cassidy}
 {673}{}{Poço}
 {674}{}{Mole Rat}
-{675}{}{Brahmin Chunk}
+{675}{}{Pedaço de brahmin}
 {676}{}{Brahmin}
 {677}{}{Porta do elevador}
 {678}{}{Dog}
 {679}{}{Rat}
-{680}{}{Sun Spot}
+{680}{}{Mancha Solar}
 {681}{}{Bess}
 {682}{}{Caixa}
-{683}{}{Craps Dealer}
-{684}{}{Vault 15 Guard}
+{683}{}{Negociante de tampas}
+{684}{}{Guarda da Vault 15}
 {685}{}{Slag}
 {686}{}{Tapete}
 {687}{}{Criança}
@@ -632,7 +632,7 @@
 {732}{}{Wild Dog}
 {733}{}{Computador}
 {734}{}{Computador}
-{735}{}{Computer Terminal}
+{735}{}{Terminal do computador}
 {736}{}{Computador}
 {737}{}{Gerador de energia}
 {738}{}{Campo de força}
@@ -729,7 +729,7 @@
 {829}{}{Figura com toga}
 {830}{}{Comprador de gado}
 {831}{}{Roteiro do mapa}
-{832}{}{Mysterious Stranger}
+{832}{}{Estranho Misterioso}
 {833}{}{Mad Brahmin}
 {834}{}{Membro da Yakuza}
 {835}{}{Selvagem}
@@ -772,21 +772,21 @@
 {872}{}{Patife}
 {873}{}{Eremita}
 {874}{}{}
-{875}{}{Caravan Master}
-{876}{}{Caravan Master}
-{877}{}{Caravan Master}
-{878}{}{Caravan Master}
-{879}{}{Caravan Master}
-{880}{}{Caravan Master}
-{881}{}{Caravan Master}
-{882}{}{Caravan Master}
-{883}{}{Caravan Master}
+{875}{}{Chefe das Caravanas}
+{876}{}{Chefe das Caravanas}
+{877}{}{Chefe das Caravanas}
+{878}{}{Chefe das Caravanas}
+{879}{}{Chefe das Caravanas}
+{880}{}{Chefe das Caravanas}
+{881}{}{Chefe das Caravanas}
+{882}{}{Chefe das Caravanas}
+{883}{}{Chefe das Caravanas}
 {884}{}{Esposa do Fazendeiro}
 {885}{}{Filho do Fazendeiro}
 {886}{}{Agricultor}
 {887}{}{Esposa do Agricultor}
 {888}{}{Filho do Agricultor}
-{889}{}{Caravan Master}
+{889}{}{Chefe das Caravanas}
 {890}{}{}
 {891}{}{}
 {892}{}{}
@@ -849,7 +849,7 @@
 {949}{}{Grant}
 {950}{}{Emissor}
 {951}{}{Emissor}
-{952}{}{Computer Terminal}
+{952}{}{Terminal do computador}
 {953}{}{Terminal Imperador v8.8}
 {954}{}{Vice Presidente Bird}
 {955}{}{Martin}
@@ -873,10 +873,10 @@
 {973}{}{Área da Câmara Municipal de Vault City}
 {974}{}{Purificador de ar}
 {975}{}{Rochas}
-{976}{}{Gambler}
+{976}{}{Jogador}
 {977}{}{Spatial Script}
 {978}{}{SCCheat}
-{979}{}{Prisoner}
+{979}{}{Prisioneiro}
 {980}{}{Cidadao}
 {981}{}{Guarda}
 {982}{}{Cientista}
@@ -903,7 +903,7 @@
 {1003}{}{Caixa}
 {1004}{}{Derek}
 {1005}{}{Amigo de Tubby}
-{1006}{}{Gambler}
+{1006}{}{Jogador}
 {1007}{}{Escravo}
 {1008}{}{Guarda}
 {1009}{}{Traficante de escravos}
@@ -919,9 +919,9 @@
 {1019}{}{Caixa}
 {1020}{}{Porta-malas}
 {1021}{}{Porta de Segurança.}
-{1022}{}{Computer Terminal}
-{1023}{}{Computer Terminal}
-{1024}{}{Computer Terminal}
+{1022}{}{Terminal do computador}
+{1023}{}{Terminal do computador}
+{1024}{}{Terminal do computador}
 {1025}{}{Lao Chou}
 {1026}{}{}
 {1027}{}{Poço de ventilação}
@@ -1081,8 +1081,8 @@
 {1181}{}{Caixa}
 {1182}{}{Caixa}
 {1183}{}{Caixa}
-{1184}{}{Caravan Guard}
-{1185}{}{Caravan Driver}
+{1184}{}{Guarda de caravana}
+{1185}{}{Motorista de caravana}
 {1186}{}{Locutor do ringue}
 {1187}{}{Garota do Ringue}
 {1188}{}{Boxeador}
@@ -1166,7 +1166,7 @@
 {1266}{}{}
 {1267}{}{Terminal}
 {1268}{}{Bandido de gangue}
-{1269}{}{Cheater}
+{1269}{}{Trapaceiro}
 {1270}{}{}
 {1271}{}{Campones}
 {1272}{}{The Lavender Flower}
@@ -1345,7 +1345,7 @@
 {1445}{}{Marli}
 {1446}{}{Aldeoes}
 {1447}{}{Xamã}
-{1448}{}{Ghost}
+{1448}{}{Fantasma}
 {1449}{}{Tribal}
 {1450}{}{Kurisu}
 {1451}{}{Poço}
@@ -1370,7 +1370,7 @@
 {1470}{}{Porta}
 {1471}{}{Pequeno Bobby}
 {1472}{}{Pai do Pequeno Bobby}
-{1473}{}{Squatter}
+{1473}{}{Membro do MST}
 {1474}{}{Traficante de drogas}
 {1475}{}{Residente de Den}
 {1476}{}{Orfao}

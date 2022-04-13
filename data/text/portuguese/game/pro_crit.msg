@@ -68,8 +68,8 @@
 {5700}{}{Bad Merchant}
 {5800}{}{Average Merchant}
 {5900}{}{Average Merchant}
-{6000}{}{Master Trader}
-{6100}{}{Master Trader}
+{6000}{}{Mestre Comerciante}
+{6100}{}{Mestre Comerciante}
 {6200}{}{Vic}
 {6300}{}{Weak Peasant}
 {6400}{}{Weak Peasant}
@@ -284,8 +284,8 @@
 {26700}{}{Homem de Vault 13}
 {26800}{}{Mulher de Vault 13}
 {26900}{}{Guarda da Ponte}
-{27000}{}{Mysterious Stranger}
-{27100}{}{Mysterious Stranger}
+{27000}{}{Estranho Misterioso}
+{27100}{}{Estranho Misterioso}
 {27200}{}{Hakeswill}
 {27300}{}{Grande Jesus Mordino}
 {27400}{}{Dumar}
@@ -294,14 +294,14 @@
 {27700}{}{Lo Pan}
 {27800}{}{Hubologista}
 {27900}{}{Hubologista}
-{28000}{}{Mysterious Stranger}
-{28100}{}{Mysterious Stranger}
-{28200}{}{Mysterious Stranger}
-{28300}{}{Mysterious Stranger}
-{28400}{}{Mysterious Stranger}
-{28500}{}{Mysterious Stranger}
-{28600}{}{Mysterious Stranger}
-{28700}{}{Mysterious Stranger}
+{28000}{}{Estranho Misterioso}
+{28100}{}{Estranho Misterioso}
+{28200}{}{Estranho Misterioso}
+{28300}{}{Estranho Misterioso}
+{28400}{}{Estranho Misterioso}
+{28500}{}{Estranho Misterioso}
+{28600}{}{Estranho Misterioso}
+{28700}{}{Estranho Misterioso}
 {28800}{}{Guarda-costas do presidente}
 {28900}{}{Ovo de Deathclaw}
 {29000}{}{Metzger}

@@ -1,123 +1,123 @@
-{101}{}{Awareness}
-{102}{}{Bonus HtH Attacks}
-{103}{}{Bonus HtH Damage}
-{104}{}{Bonus Move}
-{105}{}{Bonus Ranged Damage}
-{106}{}{Bonus Rate of Fire}
-{107}{}{Earlier Sequence}
-{108}{}{Faster Healing}
-{109}{}{More Criticals}
-{110}{}{Night Vision}
-{111}{}{Presence}
-{112}{}{Rad Resistance}
-{113}{}{Toughness}
-{114}{}{Strong Back}
-{115}{}{Sharpshooter}
-{116}{}{Silent Running}
-{117}{}{Survivalist}
-{118}{}{Master Trader}
-{119}{}{Educated}
-{120}{}{Healer}
-{121}{}{Fortune Finder}
+{101}{}{Consciencia}
+{102}{}{Bonus Ataque mano a mano}
+{103}{}{Bonus dano mano a mano}
+{104}{}{Bonus de movimento}
+{105}{}{Bonus Dano a Distancia}
+{106}{}{Bonus cadencia de tiro}
+{107}{}{Reaçao inesperada}
+{108}{}{Cura rapida}
+{109}{}{Mais Criticos}
+{110}{}{Visao Nuturna}
+{111}{}{Presença}
+{112}{}{Resistencia a radiaçao}
+{113}{}{Firmeza}
+{114}{}{Costas Fortes}
+{115}{}{Atirador}
+{116}{}{Corrida silenciosa}
+{117}{}{Sobrevivente}
+{118}{}{Mestre Comerciante}
+{119}{}{Educado}
+{120}{}{Curador}
+{121}{}{Buscador de Fortuna}
 {122}{}{Melhores Críticos}
-{123}{}{Empathy}
-{124}{}{Slayer}
+{123}{}{Empatia}
+{124}{}{Assassino}
 {125}{}{Sniper}
-{126}{}{Silent Death}
-{127}{}{Action Boy}
-{128}{}{Mental Block}
-{129}{}{Lifegiver}
-{130}{}{Dodger}
-{131}{}{Snakeater}
-{132}{}{Mr. Fixit}
-{133}{}{Medic}
-{134}{}{Master Thief}
-{135}{}{Speaker}
-{136}{}{Heave Ho!}
-{137}{}{ERROR -- UNIMPED}
-{138}{}{Pickpocket}
-{139}{}{Ghost}
-{140}{}{Cult of Personality}
-{141}{}{Scrounger}
-{142}{}{Explorer}
-{143}{}{Flower Child}
-{144}{}{Pathfinder}
-{145}{}{Animal Friend}
-{146}{}{Scout}
-{147}{}{Mysterious Stranger}
+{126}{}{Morte silenciosa}
+{127}{}{Garoto acao}
+{128}{}{Bloqueio mental}
+{129}{}{Doador de Vida}
+{130}{}{Ligeiro}
+{131}{}{Comedor de cobra}
+{132}{}{Faz-tudo}
+{133}{}{Medico}
+{134}{}{Ladrao Mestre}
+{135}{}{Orador}
+{136}{}{Lançamento longo!}
+{137}{}{ERRO -- NÃO IMPEDIDO}
+{138}{}{Cleptomaniaco}
+{139}{}{Fantasma}
+{140}{}{Culto a Personalidade}
+{141}{}{Sucateiro}
+{142}{}{Explorador}
+{143}{}{Hippie}
+{144}{}{Desbravador}
+{145}{}{Amigo dos animais}
+{146}{}{Rastreador}
+{147}{}{Estranho Misterioso}
 {148}{}{Ranger}
-{149}{}{Quick Pockets}
-{150}{}{Smooth Talker}
-{151}{}{Swift Learner}
-{152}{}{Tag!}
-{153}{}{Mutate!}
-{154}{}{Nuka-Cola Addiction}
-{155}{}{Buffout Addiction}
-{156}{}{Mentats Addiction}
-{157}{}{Psycho Addiction}
-{158}{}{Radaway Addiction}
-{159}{}{Weapon Long Range}
-{160}{}{Weapon Accurate}
-{161}{}{Weapon Penetrate}
-{162}{}{Weapon Knockback}
+{149}{}{Bolsos rapidos}
+{150}{}{Charlatao}
+{151}{}{Aprendiz rapido}
+{152}{}{Marcaçao!}
+{153}{}{Mutaçao!}
+{154}{}{Viciado em Nuka-Cola}
+{155}{}{Viciado em buffout}
+{156}{}{Viciado em Mentats}
+{157}{}{Viciado em Psycho}
+{158}{}{Viciado em Radaway}
+{159}{}{Arma de longo alcance}
+{160}{}{Precisao da arma}
+{161}{}{Penetracao da arma}
+{162}{}{Recuo da arma}
 {163}{}{Powered Armor}
 {164}{}{Armadura de Combate}
-{165}{}{Weapon Scope Range}
-{166}{}{Weapon Fast Reload}
-{167}{}{Weapon Night Sight}
-{168}{}{Weapon Flameboy}
-{169}{}{Armor Advanced I}
-{170}{}{Armor Advanced II}
-{171}{}{Jet Addiction}
-{172}{}{Tragic Addiction}
-{173}{}{Armor Charisma}
-{174}{}{Gecko Skinning}
-{175}{}{Dermal Impact Armor}
-{176}{}{Dermal Impact Asslt. Enhance.}
-{177}{}{Phoenix Armor Implants}
-{178}{}{Phoenix Assault Enhancement}
-{179}{}{Vault City Inoculations}
-{180}{}{Adrenaline Rush}
-{181}{}{Cautious Nature}
-{182}{}{Comprehension}
-{183}{}{Demolition Expert}
-{184}{}{Gambler}
-{185}{}{Gain Strength}
-{186}{}{Gain Perception}
-{187}{}{Gain Endurance}
-{188}{}{Gain Charisma}
-{189}{}{Gain Intelligence}
-{190}{}{Gain Agility}
-{191}{}{Gain Luck}
-{192}{}{Harmless}
-{193}{}{Here and Now}
-{194}{}{HtH Evade}
-{195}{}{Kama Sutra Master}
-{196}{}{Karma Beacon}
-{197}{}{Light Step}
-{198}{}{Living Anatomy}
-{199}{}{Magnetic Personality}
-{200}{}{Negotiator}
+{165}{}{Alcance telescopica da arma}
+{166}{}{Recarregamento rapido da arma}
+{167}{}{Visao noturna da arma}
+{168}{}{Arma Lança Chamas}
+{169}{}{Armadura Avançada I}
+{170}{}{Armadura Avançada II}
+{171}{}{Viciado em jet}
+{172}{}{Viciado em Tragic}
+{173}{}{Armadura de Carisma}
+{174}{}{Esfolador de geckos}
+{175}{}{Armadura de Impacto Dermico}
+{176}{}{Armad. de Impac. Derm. Mel.}
+{177}{}{Implantes de Armadura Phoenix}
+{178}{}{Melhora de Assalto Phoenix}
+{179}{}{Inoculações Vault City}
+{180}{}{Pico de adrenalina}
+{181}{}{Natureza cautelosa}
+{182}{}{Compreensao}
+{183}{}{Especialista em demoliçao}
+{184}{}{Jogador}
+{185}{}{Ganho de Força}
+{186}{}{Ganho de Percepçao}
+{187}{}{Ganho de Resistencia}
+{188}{}{Ganho de Carisma}
+{189}{}{Ganho de Inteligencia}
+{190}{}{Ganho de Agilidade}
+{191}{}{Ganho de Sorte}
+{192}{}{Inofensivo}
+{193}{}{Aqui e Agora}
+{194}{}{Evasao Mano a Mano}
+{195}{}{Mestre no Kamasutra}
+{196}{}{Sinalizador de Karma}
+{197}{}{Passos Leves}
+{198}{}{Anatomia Vital}
+{199}{}{Personalidade Magnetica}
+{200}{}{Negociador}
 {201}{}{Pack Rat}
-{202}{}{Pyromaniac}
-{203}{}{Quick Recovery}
-{204}{}{Salesman}
+{202}{}{Piromaniaco}
+{203}{}{Recuperaçao Rapida}
+{204}{}{Vendedor}
 {205}{}{Stonewall}
-{206}{}{Thief}
-{207}{}{Weapon Handling}
-{208}{}{Vault City Training}
-{209}{}{Alcohol Raised hit points}
-{210}{}{Alcohol Raised hit points II}
-{211}{}{Alcohol Lowered hit points}
-{212}{}{Alcohol Lowered hit points II}
-{213}{}{Auto-Doc Raised hit points}
-{214}{}{Auto-Doc Raised hit points II}
-{215}{}{Auto-Doc Lowered hit points}
-{216}{}{Auto-Doc Lowered hit points II}
-{217}{}{Expert Excrement Expeditor}
-{218}{}{Weapon Enhanced Knockout}
+{206}{}{Ladrao}
+{207}{}{Manuseio de Armas}
+{208}{}{Treinamento de Vault City}
+{209}{}{HP aumentado por alcool}
+{210}{}{HP aumentado por alcool II}
+{211}{}{HP dimunuido por alcool}
+{212}{}{HP diminuido por alcool II}
+{213}{}{HP aumentado por Auto-Doc}
+{214}{}{HP aumentado por Auto-Doc II}
+{215}{}{HP diminuido por Auto-Doc}
+{216}{}{HP diminuido por Auto-Doc II}
+{217}{}{Especialista em manusear excremento}
+{218}{}{Melhora em nocaute com arma}
 {219}{}{Azarado}
-{220}{}{Alcohol Addiction}
+{220}{}{Viciado em Alcool}
 {221}{}{Fumante}
 {1101}{}{With Awareness, you are given detailed information about any critter you examine. You see their exact hit points and information about any weapon they are equipped with.}
 {1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
@@ -177,21 +177,21 @@
 {1156}{}{You feel groggy.}
 {1157}{}{You feel light-headed.}
 {1158}{}{You feel nauseous.}
-{1159}{}{Weapon Long Range}
-{1160}{}{Weapon Accurate}
-{1161}{}{Weapon Penetrate}
-{1162}{}{Weapon Knockback}
+{1159}{}{Arma de longo alcance}
+{1160}{}{Precisao da arma}
+{1161}{}{Penetracao da arma}
+{1162}{}{Recuo da arma}
 {1163}{}{Powered Armor}
 {1164}{}{Armadura de Combate}
-{1165}{}{Weapon Scope Range}
-{1166}{}{Weapon Fast Reload}
-{1167}{}{Weapon Night Sight}
-{1168}{}{Weapon Flameboy}
-{1169}{}{Armor Advanced I}
-{1170}{}{Armor Advanced II}
+{1165}{}{Alcance telescopica da arma}
+{1166}{}{Recarregamento rapido da arma}
+{1167}{}{Visao noturna da arma}
+{1168}{}{Arma Lança Chamas}
+{1169}{}{Armadura Avançada I}
+{1170}{}{Armadura Avançada II}
 {1171}{}{Everything is moving so slowly... you need to get some more Jet, right NOW!}
 {1172}{}{You feel a burning desire to open another box of Tragic cards.}
-{1173}{}{Armor Charisma}
+{1173}{}{Armadura de Carisma}
 {1174}{}{You have the knowledge of how to skin geckos properly to get their hides.}
 {1175}{}{You have inherent protection against physical attacks.}
 {1176}{}{You have extra inherent protection against physical attacks.}
@@ -236,5 +236,5 @@
 {1215}{}{Your hit points have been lowered slightly by repeated use of the Auto-Doc.}
 {1216}{}{Your hit points have been lowered slightly by repeated use of the Auto-Doc.}
 {1217}{}{You can sling bull with the best of them.}
-{1218}{}{Weapon Enhanced Knockout}
+{1218}{}{Melhora em nocaute com arma}
 {1219}{}{The good thing is that everyone around you has more critical failures in combat. The bad thing is that you do too!}
