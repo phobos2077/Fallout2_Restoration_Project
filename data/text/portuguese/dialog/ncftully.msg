@@ -326,53 +326,53 @@ Só os Mordinos sabem onde ficam os estabulos.}
  Hehe, numa noite, Sammy e eu fomos ate os monges dormidos e colocamos suas maos em tigelas de agua morna. Até tenho o abade! Ah! Essses foram os dias, tenho que te dizer.}
 {2009}{}{Como voce é zueiro, padre. Acredito que você acabou sendo expulso?}
 {2010}{}{Ta bom. Estou farto dessas histórias de bêbados amadores. Vejo você por aí, padre.}
-{2011}{}{I dunno if I'd say they *kicked* me out... but they zure as hell didn't want me to stick around--not after that night I passed out and
- axidently set fire to one a th' lieberrys. Boy, you shoulda seen the Abbot's face... if he had half a backbone, he'd a prolly strangled me. Ha! So I
- left, and good riddenze! I sure do miss that hooch though. And Samuel, it'd be nice ta know how that ol' dog's doing.}
-{2012}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll look up this Samuel friend of yours. Hell, maybe
- I'll even bring you back some of that booze.}
-{2013}{}{Oh, couldja, please? That'd make me happier than a disease-free Reno whore. Thanks fren.}
+{2011}{}{Eu num sei se possss dizer que eles me *chutaru* de la... mas com certeza num queria que eu ficasse – não depois daquela noite
+ em que eu desmaiei e meti fogo em um dos Lieberrys. Rapaaaz, você deveria ter visto o rosto do abade... se ele tivessei meia espinha d-dorsal,
+ provavelmenti me istrangularia. Ah! Então eu sai, e bom passeio! Embora com certeza sinta falta da bebida. E Samuel, seria bom saber como esta aquele cachorro veio.}
+{2012}{}{Preciso viajar muito, se encontrar o caminho para a Abadia, talvez procure este seu amigo Samuel. Pensando bem, talvez eu até te
+ traga de um pouco daquela bebida.}
+{2013}{}{Oh, poderia, fazenu favor? Isso me faria mais feliz que uma pulta em New Reno livre de doenças. Obrigado.}
 {2014}{}{Não há problema. Eu tenho algumas outras perguntas embora.}
-{2015}{}{Sure. See you around.}
-{2016}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll bring you back some of that booze.}
-{2017}{}{Interesting. See you around.}
-{2020}{}{The Abbey, huh? I've been there before. In fact, I ran into a fellow named Samuel that acts very much like you.}
-{2021}{}{Samuel!? Ha! Howzzat fella doin? Been years since I've seen 'im. Still drinking away, is he?}
-{2022}{}{Yeah, he reeks of alcohol, much like you.}
-{2023}{}{Ah, thaz great. Good to hear he's doin alright. If you see him again, tell him I say hello. So... (He clasps his
- hands together and rubs them eagerly.) So, mebbe you pick up summa the Abbey's famous hooch while yer there?}
-{2024}{}{Yeah, I got some right here.}
-{2025}{}{I did, but I drank it. Wow is it powerful stuff.}
+{2015}{}{Claro. Te vejo por ai.}
+{2016}{}{Preciso viajar muito, se eu encontrar o caminho para a Abadia, talvez eu traga de volta um pouco daquela bebida.}
+{2017}{}{Interessante. Te vejo por ai.}
+{2020}{}{A abadia, né? Passei por lá antes. Na verdade, achei um sujeito chamado Samuel que parece muito como você.}
+{2021}{}{Samuel!? Ah! Como qui ta o cara? Faz anos queeu num o vejo. Ainda bebendo, ne nao?}
+{2022}{}{Só falta botar na veia, bem parecido com você.}
+{2023}{}{Ah, quee otimo. Bom saber que ele ta bem. Se você o vir de novo, mande olá por mim. Então... (Ele junta as
+ mãos e as esfrega ansiosamente.) Intao, talvez você pego a famosa bebida da Abadia enquanto teve la?}
+{2024}{}{Sim, tenho um pouco aqui.}
+{2025}{}{Peguei, mas ja bebi. Uau, o negocio e potente.}
 {2026}{}{Não, não mudei.}
-{2027}{}{No need ta rub it in my face. Itz been so long since I've had some... I could really go for a bottle or two. Any chance you'll stop by the Abbey again?}
-{2028}{}{Thatz too bad. Itz been so long since I've had some. I could really go for a bottle or two. Any chance you
- will be stopping by the Abbey again?}
-{2029}{}{You do? Itz been so long since I've had some. Would you be willing to part with it?}
-{2030}{}{We'll see. If I do, I'll try to remember to pick some up for you. See you around, Father.}
-{2031}{}{Probably not. Look, I must be going.}
-{2032}{}{Probably. I pick one up for you when I am passing through. I had some other question though.}
-{2033}{}{Sure. Here you go.}
-{2034}{}{Actually, I think I'll hold on to this for awhile. Gotta run. Bye.}
-{2035}{}{Sure. For a price though.}
-{2036}{}{(Father Tully grabs the bottle from your hand and takes a big swig.) Oh yeah, jus like I remember it. (He takes
- several more swigs, waves weakly at you, then stumbles away to the back room. You hear groaning, followed by a thud.)}
-{2037}{}{(Father Tully opens the donations box, grabs a handful of coins and hands them to you. You nod and hand him the
- bottle. He snatches it from your hand and takes a big swig.) Oh yeah, jus like I remember it. (He takes several more swigs,
- waves weakly at you and stumbles away to the back room. You hear groaning, followed by a thud.)}
-{2040}{}{The Abbey, huh? I've been there before, but I don't recall meeting anyone named Samuel.}
-{2041}{}{He's a great fella. If ya ever do run inna him, let him know I'm living the good life in New Reno. I haven't talked with him since I left th' Abbey.}
-{2042}{}{Sure. But I'm curious, why'd you leave the Abbey?}
-{2045}{}{Really? Thaz too bad. He was a good fella. I'll miss him.}
-{2046}{}{Yeah. Well, I have some other questions.}
-{2047}{}{Never was much of a mourner. See you around.}
-{2050}{}{I'm curious, why'd you leave the Abbey?}
-{2060}{}{I spoke with Brother Samuel. He's apparently still drinking himself away.}
-{2061}{}{I got a bottle of the Abbey's famous booze.}
-{2062}{}{Hehe, good ol' Sam. Thaz good to hear. I s'pose someday I should try an get out there again.}
-{2063}{}{Well, see you around, Father.}
-{2064}{}{I also got a bottle of the Abbey's famous booze that you wanted.}
-{2065}{}{Hehe, good ol' Sam. Thaz good to hear. I s'pose someday I should try an get out there again.}
-{3000}{}{You inform both Father Tully and Brother Samuel about the whereabouts of each other.}
-{3001}{}{You deliver a bottle of the Abbey's famous brew to Father Tully.}
-{3022}{}{Actually, he's dead.}
+{2027}{}{Nao precisa esfrreaga na minha cara. Faz tanto tempo quieu num tomo... Eu realmente queria uma garrafa ou duas. Tem chance de você voltar pra Abadia de novo?}
+{2028}{}{Isso é bem ruim. Ih, faiz tanto tempo desdi que eu tomeiuma. Eu realmente queria virar uma garrafa ou
+ duas. Tem chance de você parar pra Abadia de novo?}
+{2029}{}{Que é? Ih, faiz tanto tempo desdi qui eu tomei uma. Você taria disposto a se separar dele?}
+{2030}{}{Vamos ver. Se eu passar, vou tentar me lembrar de pegar alguma para você. Te vejo por aí, padre.}
+{2031}{}{Provavelmente não. Olha, preciso ir.}
+{2032}{}{Provavelmente. Eu pego uma para você quando estiver de passagem. Mas eu tinha outra pergunta.}
+{2033}{}{Certo. Aqui está.}
+{2034}{}{Na verdade, acho que vou ficar com isso por um tempo. Preciso ir. Tchau.}
+{2035}{}{Certo. Mas por um preço.}
+{2036}{}{(Padre Tully pega a garrafa de sua mão e toma um grande gole.) Ah sim, mi alembro. (Ele toma vários goles, acena
+ fracamente para você, então cambaleia para a sala dos fundos. Você ouve gemidos, seguidos por um baque.)}
+{2037}{}{(Padre Tully abre a caixa de doações, pega um punhado de moedas e as entrega a você. Você acena com a
+ cabeça e entrega a garrafa a ele. Ele a pega de sua mão e toma um grande gole.) Ah sim, mi alembro. (Ele toma vários goles,
+ acena fracamente para você e cambaleia para a sala dos fundos. Você ouve gemidos, seguidos por um baque.)}
+{2040}{}{A abadia, né? Já estive lá antes, mas não me lembro de ter conhecido ninguém chamado Samuel.}
+{2041}{}{Ele é um otimo cara. Se algum dia você entrar la, podi deixa ele saber que estou vivendo a boa vida em New Reno. Não falo com ele desde que sai daaa Abadia.}
+{2042}{}{Certo. Mas estou curioso, por que você deixou a Abadia?}
+{2045}{}{Serio? Ah, num acredito, ele era um bom cara. Vou sentir falta dele.}
+{2046}{}{Sim. Bem, eu tenho outras perguntas.}
+{2047}{}{Nunca fui muito de luto. Até a próxima.}
+{2050}{}{Estou curioso, por que você deixou a Abadia?}
+{2060}{}{Falei com o irmão Samuel. Ele aparentemente ainda esta bebendo.}
+{2061}{}{Peguei uma garrafa da famosa bebida da Abadia.}
+{2062}{}{Hehe, bom e veio Sam. E bao ouvir isso. Acho que um dia eu deveria voltar la de novo.}
+{2063}{}{Bem, vejo você por aí, padre.}
+{2064}{}{Eu também tenho uma garrafa da famosa bebida da Abadia que você queria.}
+{2065}{}{Hehe, bom e veio Sam. E bao ouvir isso. Acho que um dia eu deveria voltar la de novo.}
+{3000}{}{Você informa tanto o padre Tully quanto o irmao Samuel sobre o paradeiro um do outro.}
+{3001}{}{Você entrega uma garrafa da famosa bebida da abadia ao padre Tully.}
+{3022}{}{Na verdade, ele morreu.}
 {20091}{}{Ah! Essa é clássica. Eu fiz a mesma brincadeira com meu sobrinho Feargus uma vez, e quando ele acordou e percebeu que tinha se mijado, começou a chorar – foi louco. De qualquer forma, eles te expulsam depois disso?}

@@ -7,8 +7,8 @@
 {201}{}{A sua dentadura brilha como vidro.}
 {202}{}{Parece que ele não duraria sete segundos no ringue.}
 {203}{}{Parece que você poderia derrubá-lo com uma fatia de pizza.}
-{210}{}{You see a squat black man with a thick square jaw. His ears look like they have been horribly savaged.}
-{211}{}{His ears look like they have been horribly savaged.}
+{210}{}{Você vê um homem negro atarracado com um maxilar quadrado e grosso. Suas orelhas parecem ter sido horrivelmente atacadas.}
+{211}{}{Suas orelhas parecem ter sido horrivelmente atacadas.}
 {220}{}{His arms look like tree trunks.}
 {221}{}{Each arm looks like it could double as a tank barrel.}
 {222}{}{When he moves, it's like watching an ocean of muscle.}

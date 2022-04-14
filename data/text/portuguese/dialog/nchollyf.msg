@@ -1,32 +1,32 @@
 {100}{}{Você vê um boxeador.}
-{101}{}{You see Evan Hollyfeld.}
-{150}{}{You see a squat black man with a thick square jaw. His ears look like they have been horribly savaged.}
-{151}{}{His ears look like they have been horribly savaged.}
-{152}{}{His ears look like they have been horribly savaged.}
+{101}{}{Você vê Evan Hollyfeld.}
+{150}{}{Você vê um homem negro atarracado com um maxilar quadrado e grosso. Suas orelhas parecem ter sido horrivelmente atacadas.}
+{151}{}{Suas orelhas parecem ter sido horrivelmente atacadas.}
+{152}{}{Suas orelhas parecem ter sido horrivelmente atacadas.}
 {200}{}{Hnffff}
 {201}{}{Hnrrgggg}
-{202}{}{::Whimpers, touches ears::}
+{202}{}{::Ela geme e toca suas orelhas::}
 {203}{}{::Flexões::}
-{300}{}{::Holds hands over ears and glares at you::}
-{301}{}{Me like head-butt.}
-{302}{}{Me and Mike butt heads.}
-{303}{}{I butt Mike but he bite my ears.}
-{304}{}{Mike bite my ears cause he hungry.}
-{305}{}{Me no hear good.}
-{306}{}{::Scratches ear stumps::}
+{300}{}{::Coloca as mãos sobre as orelhas e te encara::}
+{301}{}{Eu gosto de cabeçada.}
+{302}{}{Eu e Mike batemos cabeça.}
+{303}{}{Eu bato no Mike, mas ele morde minhas orelhas.}
+{304}{}{Mike morde minhas orelhas porque ele está com fome.}
+{305}{}{Eu nao ouço bem.}
+{306}{}{::Coça cotos das orelhas::}
 {307}{}{Hein?}
-{308}{}{What? Me no hear you.}
-{309}{}{Ear today gone tomorrow.}
-{310}{}{You bite?}
-{311}{}{Hell-o good smell person.}
-{312}{}{Hell-o girl person.}
-{313}{}{Wanna butt-heads?}
-{314}{}{Me like head-butt.}
-{315}{}{Me and Mike butt heads.}
-{316}{}{I butt Mike but he bite my ears.}
-{317}{}{Mike bite my ears cause he hungry.}
-{318}{}{Me no hear good.}
-{319}{}{::Scratches ear stumps::}
+{308}{}{Que? Eu não te ouço.}
+{309}{}{Ouço hoje para ir amanha.}
+{310}{}{Voce morde?}
+{311}{}{O-ola, pessoa que cheira bem.}
+{312}{}{O-ola, pessoa mulher.}
+{313}{}{Quer cabeçadas?}
+{314}{}{Eu gosto de cabeçada.}
+{315}{}{Eu e Mike batemos cabeça.}
+{316}{}{Eu bato no Mike, mas ele morde minhas orelhas.}
+{317}{}{Mike morde minhas orelhas porque ele está com fome.}
+{318}{}{Eu nao ouço bem.}
+{319}{}{::Coça cotos das orelhas::}
 {320}{}{Hein?}
-{321}{}{What? Me no hear you.}
-{322}{}{Ear today gone tomorrow.}
+{321}{}{Que? Eu não te ouço.}
+{322}{}{Ouço hoje para ir amanha.}

@@ -1,12 +1,12 @@
-{100}{}{You see Jagged Jimmy J.}
-{150}{}{You see a shifty-looking man. He has a jagged scar running down the side of his face, and a slight facial tic.}
-{151}{}{You see Jagged Jimmy J. It looks like he's trolling for a customer.}
-{152}{}{You see Jagged Jimmy J. He nods as he catches sight of you.}
-{153}{}{You see Jagged Jimmy J. He catches your eye and waves at you to come over.}
-{200}{}{Hey, if it ain't }
+{100}{}{Você vê Jagged Jimmy J.}
+{150}{}{Você ve um homem de aparência esquisita. Ele tem uma cicatriz irregular na lateral do rosto e um leve tique facial.}
+{151}{}{Você vê Jagged Jimmy J. Parece que ele está procurando um cliente.}
+{152}{}{Você vê Jagged Jimmy J. Ele acena com a cabeça quando te ve.}
+{153}{}{Você vê Jagged Jimmy J. Ele chama sua atenção e acena para você vir.}
+{200}{}{Ei, se não e }
 {201}{}{Ei, }
-{202}{}{There goes one bad muthuh... and Jimmy J knows a bad muthuh when he sees one.}
-{203}{}{Not every day somebody stomps the President in his own backyard.}
+{202}{}{La vai um cara de verdade... e Jimmy J conhece um cara de verdade quando ve um.}
+{203}{}{Nao e todo dia que alguem pisa no presidente em seu proprio quintal.}
 {204}{}{You want to kick back and celebrate yo victory with some Jet from Jagged Jimmy, hero?}
 {205}{}{Save the world, and Jagged Jimmy'll GIVES you the world, hero. All the Jet you need.}
 {206}{}{Hear the Corsican Bros are lookin' for you, he-ro...}
