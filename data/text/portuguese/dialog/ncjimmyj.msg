@@ -7,94 +7,93 @@
 {201}{}{Ei, }
 {202}{}{La vai um cara de verdade... e Jimmy J conhece um cara de verdade quando ve um.}
 {203}{}{Nao e todo dia que alguem pisa no presidente em seu proprio quintal.}
-{204}{}{You want to kick back and celebrate yo victory with some Jet from Jagged Jimmy, hero?}
-{205}{}{Save the world, and Jagged Jimmy'll GIVES you the world, hero. All the Jet you need.}
-{206}{}{Hear the Corsican Bros are lookin' for you, he-ro...}
-{220}{}{Jagged Jimmy's the name, and I got all the Jet you NEED.}
-{221}{}{You looking to get high? Jagged Jimmy's your man.}
-{222}{}{Looking to fly? Jagged Jimmy's got your ticket right here.}
-{223}{}{You wanna get set, Jagged Jimmy's got the Jet.}
-{224}{}{You looking to get off the ground? Jagged Jimmy's got the Jet you NEED.}
-{225}{}{I got a special this week, c'mon, let's deal.}
-{226}{}{You can buy the shit that kills people, or you buy Jagged Jimmy's clean, strong shit.}
-{227}{}{Jimmy J's ALWAYS open for business, friend.}
-{228}{}{Wanna reach the sky, leave a trail as you fly, talk to Jimmy, he's your guy.}
-{240}{}{(This man has a slight facial tic and a scar down one of his cheeks. The scar looks like a knife wound.) }
-{241}{}{Brother, I had my eye on you since you walked down the street. You know what I see?}
-{242}{}{Sister, I had my eye on you since you walked down the street. You know what I see?}
-{243}{}{You see me}
-{244}{}{What you see?! What you see?!}
-{245}{}{Me have to go n --}
-{246}{}{What do you see?}
-{247}{}{Cut the chatter, you stupid--}
-{248}{}{Sorry, not interest --}
-{260}{}{I see a pilot. I see someone who wants to FLY. You just need a little help, a little... JET.}
-{261}{}{Hunh? Jet? In Sky? Where?}
-{263}{}{Jet, huh? I had some quest--}
-{264}{}{Look, I'm not -}
-{270}{}{And my pilot friend, when it comes to Jet, Jagged Jimmy J's your MAN. I got the best shit in New Reno, pure
- Jet, straight Jet, the SAFEST Jet.}
-{271}{}{Wherez Jet? Me no see it in sky}
-{272}{}{Me have TO GO N--}
-{273}{}{Jagged Jimmy J, huh? Say, I had some quest--}
-{274}{}{Look, I'm not interest --}
-{280}{}{OTHER dealers, they don't care about quality, but me, I like KEEPING my customer base and keeping 'em HAPPY, know what I'm
- saying? It's just my way... the Jimmy J way.}
-{281}{}{Me no see frig-in Jet you lie to }
-{282}{}{ME GO LET ME G--}
-{283}{}{Hey, the, uh, "Jimmy J way" sounds great and all, and that's why I had some quest--}
-{284}{}{No, I don't think so -}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that be the WAY? Keep 'em happy, and they'll never let you down. So
- my pilot friend... what can Jagged Jimmy J do for you today?}
-{291}{}{Well, well, if it ain't my pilot "friend"...you comin' back round cause you NEED something from Jagged Jimmy?}
-{292}{}{Um... Me forgot what me goin' to say. Me go}
-{294}{}{We trad stuf? Me LIKE stuf}
-{295}{}{You got Jet? Well then, let's deal... friend.}
-{296}{}{How you get that scar, Jimmy?}
-{297}{}{Where do you get your Jet, Jimmy?}
-{298}{}{You know who gave that Wright kid the Jet that killed him?}
-{299}{}{You said before your Jet was the "safest." There isn't any bad Jet floating around, is there?}
-{300}{}{Nothing today, thanks, Jimmy.}
-{310}{}{So what do you SAY? What can Jagged Jimmy J do for you today?}
-{311}{}{Yeah, what do you want? Keep it quick... I ain't got time to burn talkin' with you.}
-{312}{}{You got wants, you got questions... what is it that Jagged Jimmy J can do for you today?}
-{314}{}{Me forgot! Me finally had a thought and Me forgot! }
-{330}{}{Hey... you look FAMILIAR to Jimmy. Do I know you, my pilot friend?}
-{331}{}{I'd SWEAR I know who you are, my pilot friend. You look damn familiar...}
-{332}{}{ME BIG HERO ME SOLVE GAME AND KICK PREZ ASS AND BLOW UP OIL FLATFORM AND SAVE WORLD}
-{333}{}{Me fight in ring in front of lotz of yelling people hoo yell kill kill the fucker so I punch him until he standing down}
-{334}{}{Me do th'nasty with strangers who talk to God a lot}
-{335}{}{Me MADE man. Me BIG man in REEno}
-{336}{}{How can one TRULY know another, Jimmy? Is it even possible while we are on this mortal coil? Or is it only possible when
- we free ourselves from our physical bodies?}
-{337}{}{Me WANNA talk but you not LET me BYE}
-{338}{}{Well, I did stop the Enclave's plans for murdering everyone in the world, defeated the President, blew up
- their base, and barely escaped with my life.}
-{339}{}{I've fought in the boxing ring.}
-{340}{}{I've turned out a few movies. Heard of }
-{341}{}{I'm in tight with the }
-{342}{}{No, I don't think so, Jimmy. We here to deal or what?}
+{204}{}{Você quer relaxar e comemorar tua vitoria com um Jet de Jagged Jimmy, herói?}
+{205}{}{Salve o mundo, e Jagged Jimmy te ENTREGA o mundo, herói. Todo o Jet que você precisa.}
+{206}{}{Ouvi que os irmãos Corsican estão procurando por você, he-roi...}
+{220}{}{Jagged Jimmy é meu nome, e eu tenho todo o Jet que você PRECISA.}
+{221}{}{Você quer chapar o coco? Jagged Jimmy é o teu homem.}
+{222}{}{Quer sair voando? Jagged Jimmy tem seu ingresso aqui.}
+{223}{}{É só se preparar, Jagged Jimmy tem o Jet.}
+{224}{}{Quer ir pra Narnia? Jagged Jimmy tem o Jet que você PRECISA.}
+{225}{}{Eu tenho um especial nessa semana, bora lá, vamos negociar.}
+{226}{}{Você pode comprar a merda que mata as pessoas, ou comprar a merda forte e limpa de Jagged Jimmy.}
+{227}{}{Jimmy J's SEMPRE esta aberto para negócios, amigo.}
+{228}{}{Quer alcançar o céu, deixar um rastro do voo, fale com Jimmy, ele é o cara.}
+{240}{}{(Este homem tem um leve tique facial e uma cicatriz em uma das bochechas. A cicatriz parece um ferimento de faca.) }
+{241}{}{Irmão, eu estava de olho em você desde que te vi andando na rua. Sabe o que eu vejo?}
+{242}{}{Irmã, eu estava de olho em você desde que te vi andando na rua. Sabe o que eu vejo?}
+{243}{}{Entenda}
+{244}{}{O que você vê?! O que você vê?!}
+{245}{}{Eu tenho que ir n --}
+{246}{}{O que você vê?}
+{247}{}{Corte a conversa, seu estúpido--}
+{248}{}{Desculpe, não me interessa --}
+{260}{}{Eu vejo um piloto. Eu vejo alguém que quer voar. Você só precisa de uma ajudinha, um pouco de... JET.}
+{261}{}{Hum? Jat? No céu? Onde?}
+{263}{}{Jato, é? Eu tenho umas pergu--}
+{264}{}{Olha, eu não - }
+{270}{}{E meu amigo piloto, quando se trata de Jet, Jagged Jimmy J é o seu HOMEM. Eu tenho a melhor merda de New
+ Reno, tet puro, jet direto, o jet mais seguro.}
+{271}{}{Cadê Jet? To vendo nada no ceu}
+{272}{}{Eu tenho que ir N--}
+{273}{}{Jagged Jimmy J, é? Viu, eu tenho umas pergu--}
+{274}{}{Olha, eu não estou interes --}
+{280}{}{OUTROS vendedores, eles não se importam com qualidade, mas eu gosto de MANTER minha base de clientes e mantê-los FELIZES,
+ entende o que estou dizendo? É só o meu jeito... o jeito Jimmy J.}
+{281}{}{Nao vejo Jet, você mente pra }
+{282}{}{EU VOU DEIXE-ME G--}
+{283}{}{Ei, o, uh, "Jeito Jimmy J" parece bom e tudo, e é por isso que eu tinha algumas pergunt--}
+{284}{}{Não, eu não penso assim -}
+{290}{}{Sabia que você voltaria, sabia! Jagged Jimmy J não disse que esse era o CAMINHO? Mantenha-os felizes e eles nunca o
+ decepcionarão. Então meu amigo piloto... o que Jagged Jimmy J pode fazer por você hoje?}
+{291}{}{Bem, bem, se não é meu "amigo" piloto... você está voltando por que PRECISA de algo do Jagged Jimmy?}
+{292}{}{Hum... Eu esqueci o que ia dizer. Vou indo}
+{294}{}{Negocia coisas? Eu GOSTO de coisas}
+{295}{}{Você tem jet? Bem, então vamos negociar... amigo.}
+{296}{}{Como você conseguiu essa cicatriz, Jimmy?}
+{297}{}{Onde você consegue seu jet, Jimmy?}
+{298}{}{Sabe quem deu ao garoto Wright o Jet que o matou?}
+{299}{}{Você me disse antes que seu jet era o "mais seguro". Por acaso tem algum Jet ruim zanzando por aí?}
+{300}{}{Nada hoje, obrigado, Jimmy.}
+{310}{}{Então o que me diz? O que Jagged Jimmy J pode fazer por você hoje?}
+{311}{}{Sim, o que voce quer? Seja rapido... Nao tenho tempo para gastar falando com voce.}
+{312}{}{Você tem necessidades, tem perguntas... o que é que Jagged Jimmy J pode fazer por você hoje?}
+{314}{}{Esqueci! Eu finalmente tive uma ideia e eu esqueci! }
+{330}{}{Ei... você parece FAMILIAR para Jimmy. Conheço você, meu amigo piloto?}
+{331}{}{Juro que sei quem você é, meu amigo piloto. Você parece muito familiar...}
+{332}{}{EU GRANDE HEROI EU ZEREI O JOGO EU CHUTE UNS CU E EXPLODI A PLATAFORMA DE OLEO E SALVEI O MUNDO}
+{333}{}{Eu luto no ringue na frente de um monte de gente gritando hoo mata mata o filho da puta ai eu dou um soco nele até ele cair}
+{334}{}{Eu sou desagradavel com estranhos que falam muito com Deus.}
+{335}{}{Eu FEITO homem. Eu GRANDE homem em REEno}
+{336}{}{Como alguém pode conhecer o outro de VERDADE, Jimmy? É mesmo possível enquanto estamos neste corpo mortal? Ou só quando nos libertamos de nossos corpos físicos?}
+{337}{}{Eu QUERO falar mas você não me DEIXA eu VOU}
+{338}{}{Bem, eu acabei com o plano da Enclave de aniquilaçao mundial, derrotei o presidente, explodi sua base, e
+ só consegui escapar com vida.}
+{339}{}{Ja lutei no ringue de boxe.}
+{340}{}{Já fiz alguns filmes. Ja ouviu }
+{341}{}{Eu estou com os }
+{342}{}{Não, acho que não, Jimmy. Temos negocios aqui ou o quê?}
 {343}{}{Não, acho que não. Olha, eu queria te perguntar algo...}
-{344}{}{No, I've got to go. Catch you later, Jimmy.}
-{360}{}{That's it! I KNEW I'd seen you somewhere before! Damn, why didn't you pull from the start, put Jimmy in his place...?!
- Hell, what can I do for you?}
+{344}{}{Não, eu tenho que ir. Te encontro mais tarde, Jimmy.}
+{360}{}{É isso! Eu sabia que ja tinha visto você em algum lugar antes! Porra, por que você não colocou Jimmy em seu lugar desde
+ o início...?! Caraio, o que posso fazer por você?}
 {361}{}{Hum... eu esqueci. Estou indo.}
 {363}{}{Bão, estou procurando algum Jet...}
 {364}{}{Ei, eu queria algo mais.}
-{365}{}{I've got to go. Catch you later, Jimmy.}
-{375}{}{(Jimmy falls into a stunned silence. You think you've paralyzed his brain.)}
-{376}{}{(Steal everything he has.)}
-{377}{}{ work here is done.}
-{385}{}{Jagged Jimmy J's got a lot of love, my pilot friend, but the world don't always love Jagged Jimmy J back, see?}
-{386}{}{I hear you. I hear you.}
-{387}{}{Don't I know it. Sometimes the world's a cruel place.}
+{365}{}{Eu tenho que ir. Te encontro mais tarde, Jimmy.}
+{375}{}{(Jimmy cai em profundo silencio. Você acha que paralisou o cerebro dele.)}
+{376}{}{(Rouba tudo o que ele tem.)}
+{377}{}{ trabalho aqui está feito.}
+{385}{}{Jagged Jimmy J tem muito amor, meu amigo piloto, mas o mundo nem sempre ama Jagged Jimmy J de volta, sabia?}
+{386}{}{Te entendo. Uau, sim.}
+{387}{}{Sei bem disso. As vezes o mundo é um lugar cruel.}
 {388}{}{Essa é uma ÓTIMA história. Olhe, Jimmy, eu tenho outras perguntas...}
-{389}{}{Good story. Now you got some Jet, I got some chips... we gonna deal?}
-{390}{}{Good story. I got to go though, Jimmy.}
-{400}{}{(Points at his scar.) I got this while I was stopping this one big UGLY son of a bitch from hitting this chick cuz she don't like
- the way he was touching her, right?}
-{401}{}{Really? What happened?}
-{402}{}{Serious? Man, guys who beat up women deserve to be laid low.}
+{389}{}{Boa historia. Agora, você tem Jet, eu tenho algumas tampas... vamos negociar?}
+{390}{}{Boa historia. Eu tenho que ir embora, Jimmy.}
+{400}{}{(Aponta para a cicatriz dele.) Consegui isso impedindo um filho da puta grande e FEIO de bater em uma garota que não
+ gostava do jeito que ele a tocava, certo?}
+{401}{}{Serio? O que aconteceu?}
+{402}{}{Serio? Mano, caras que batem em mulheres merecem tomar um pau.}
 {415}{}{(Gets into fighting stance.) So's I step in, right, and he pulls a KNIFE on ol' JJ! I ain't got nothing on me but my bare hands, right? So he gets
  in a lucky cut before I...*BAM!* Canceled his ass!}
 {416}{}{Oh, really? Jules says you were 'flying' on Jet and sliced up your face trying to shave with your combat knife.}
@@ -236,10 +235,10 @@
  though... so YOU draw yer own conclusions, my pilot friend.}
 {727}{}{Thanks for the tip, Jimmy. I'd better be going now.}
 {800}{}{You have discovered that Richard Wright was poisoned.}
-{5200}{}{! Come snag some complimentary Jet from J-J now...}
-{5201}{}{! If you're lookin' to celebrate with some Jet, come talk to Jimmy J...}
-{5281}{}{ you lie to }
+{5200}{}{! Venha pegar um Jet de cortesia de J-J agora...}
+{5201}{}{! Se você quer comemorar com um Jet, venha falar com Jimmy J...}
+{5281}{}{ voce mente pra }
 {5314}{}{ MATAR VOCÊ}
 {5340}{}{?}
-{5341}{}{ family.}
+{5341}{}{ .}
 {6281}{}{ sobre jet?}

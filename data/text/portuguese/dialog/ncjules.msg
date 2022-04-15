@@ -21,7 +21,7 @@
 {243}{}{You gonna share some o' your fame with me, my he-ro friend?}
 {244}{}{You gonna share some o' your new wealth with me, my he-ro friend?}
 {245}{}{Jules always treated you right... so tell everybody you know me, awright he-ro?}
-{246}{}{Hear the Corsican Bros are lookin' for you, he-ro...}
+{246}{}{Ouvi que os irmãos Corsican estão procurando por você, he-roi...}
 {260}{}{Daaamn. I think you and I should be friends.}
 {261}{}{Como diabos você vai no banheiro com essa coisa?}
 {262}{}{What the hell is THAT? A walking car?}
