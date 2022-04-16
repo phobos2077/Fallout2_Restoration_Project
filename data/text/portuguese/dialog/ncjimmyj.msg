@@ -94,86 +94,85 @@
  gostava do jeito que ele a tocava, certo?}
 {401}{}{Serio? O que aconteceu?}
 {402}{}{Serio? Mano, caras que batem em mulheres merecem tomar um pau.}
-{415}{}{(Gets into fighting stance.) So's I step in, right, and he pulls a KNIFE on ol' JJ! I ain't got nothing on me but my bare hands, right? So he gets
- in a lucky cut before I...*BAM!* Canceled his ass!}
-{416}{}{Oh, really? Jules says you were 'flying' on Jet and sliced up your face trying to shave with your combat knife.}
-{417}{}{No shit? I don't think I'd have had the iron to step in like that. Hell, that man coulda KILLED you.}
+{415}{}{(Entra em posição de luta.) Então eu entro, certo, e ele puxa uma FACA no velho JJ! Eu não tenho nada além de minhas próprias mãos, entende?
+ Então ele consegue acertar um corte sortudo  antes que eu...*BAM!* Quebrasse ele!}
+{416}{}{Oh sério? Jules diz que você estava 'voando' no jet e cortou seu rosto tentando se barbear com sua faca de combate.}
+{417}{}{Jura Eu não acho que teria peito para fazer isso. Porra, aquele homem poderia ter te MATADO.}
 {418}{}{Boa história. Ei, eu tinha outras perguntas...}
-{419}{}{Yeah... look, I got some chips... we gonna deal?}
-{420}{}{Good story... so good I have to leave.}
-{430}{}{Wha...? Well, Jules can kiss my natural black ass, and it'd be the only ass in town he AIN'T kissed yet. He don't know SHIT. He don't
- even have the balls to talk shit to my face. YOU decide who's telling the truth.}
-{431}{}{Yeah, yeah... Look, you got some Jet, I got some chips... we gonna deal?}
+{419}{}{Sim... olhe, eu tenho algumas tampas... vamos negociar?}
+{420}{}{Boa história... tão boa que tenho que ir embora.}
+{430}{}{Que...? Bem, Jules pode beijar minha bunda preta, seria a única bunda na cidade que ele NÃO beijou ainda. Ele não sabe PORRA
+ NENHUMA, nem tem coragem de falar isso na minha cara. VOCÊ decide quem está dizendo a verdade.}
+{431}{}{Sim, sim... Olha, você tem jet, eu tenho grana... vamos negociar?}
 {432}{}{Sim, sim... diga, Jimmy, eu tenho outras perguntas ...}
-{433}{}{Look, Mr. Big Talk, we gonna deal or sit here and listen to you jabber on all day?}
-{434}{}{Well, I've heard enough, Jimmy. You watch yourself shaving, hear?}
-{435}{}{All right then. Catch you later, Jimmy.}
-{445}{}{He almost did, too! Y'know, when I got into it, I wasn't thinking like 'I'm gonna be mister brave man' an' all, but...}
-{446}{}{You just did what was natural to you, right?}
+{433}{}{Olha, Sr. Boca de Trapo, vamos aos negocios ou vou ficar aqui sentado o dia inteiro te ouvindo falar?}
+{434}{}{Bem, já ouvi o suficiente, Jimmy. Cuidado ao se barbear, ouviu?}
+{435}{}{Tudo bem então. Te encontro mais tarde, Jimmy.}
+{445}{}{Ele quase conseguiu! Sabe, quando eu entrei, eu nem pensei como 'eu sou um cara corajoso' e tudo mais, mas...}
+{446}{}{Você fez o que era correto pra voce, certo?}
 {447}{}{Uh-huh. Olha, eu tenho outras perguntas...}
-{448}{}{I have to be going. Catch you later, Jimmy.}
-{455}{}{Yeah... yeah... I just saw something wrong, and I had to do SOMETHING, right? No way could I let something like that go on
- while I was on the scene, y'know?}
-{456}{}{You got BALLS to do what you did, Jimmy. Most people would've just hung their heads, walked away.}
+{448}{}{Eu tenho que ir. Te encontro mais tarde, Jimmy.}
+{455}{}{Sim... Tinha acabado de ver algo errado, e tinha que fazer ALGO, certo? De jeito nenhum eu poderia deixar algo assim acontecer enquanto eu estava lá, sabe?}
+{456}{}{Você tem coragem em fazer o que fez, Jimmy. A maioria das pessoas teria apenas abaixado a cabeça e ido embora.}
 {457}{}{Entendo. Olhe, eu tenho outras perguntas...}
-{465}{}{I LIKE people, and I AIN'T like it when somebody messes with somebody else just cause they can. That shit's just WRONG.}
-{466}{}{You're a brave man, Jimmy, a brave man. Wear your scar with pride. Say, can I see what you have in stock?}
+{465}{}{EU GOSTO de pessoas, e não gosto quando alguém mexe com outra só porque pode. Essa merda é simplesmente ERRADA.}
+{466}{}{Você é um homem corajoso, Jimmy, um homem corajoso. Vista sua cicatriz com orgulho. Diga, posso ver o que você tem vendendo?}
 {467}{}{Tem razão. Olha, tenho outras questões....}
-{475}{}{Hell, my pilot friend, I like you, so don't you be pulling up that barter screen with its fuses and wires and all.}
-{476}{}{Uh... okay... then how are we gonna deal...?}
-{480}{}{Look, this is bad business an' all, and don't go telling nobody 'bout it, but lemme give you some Jet
- 'tween friends. Next time, a-course, you gotta pay, but this one's on Jagged Jimmy J, all right?}
-{481}{}{Thanks, Jimmy. Say, can I see what else you have in stock?}
+{475}{}{Inferno, meu amigo piloto, eu gosto de você, então não fique ativando aquela tela de negociaçao com seus fusiveis e fios e tudo mais.}
+{476}{}{Eh… ok… entao como fazemos um acordo…?}
+{480}{}{Olha, isso é um mau negocio , e não va contar a ninguem sobre isso, mas deixe eu te dar um pouco
+ de jet entre amigos. Da próxima vez, claro, você tem que pagar, mas este é por conta de Jagged Jimmy J, ta?}
+{481}{}{Obrigado, Jimmy. Diga, posso ver o que mais você tem vendendo?}
 {482}{}{Ei, obrigado. Olhe, eu tenho algumas perguntas...}
-{483}{}{All right then. Thanks, Jimmy.}
-{490}{}{Glad you asked, my pilot friend, glad you asked. See, all them OTHER dealers, right, they get their shit second hand,
- watered down, diluted with all sorts o' shit.}
+{483}{}{Tudo bem então. Obrigado, Jimmy.}
+{490}{}{Que bom que você perguntou, meu amigo piloto, que bom que você perguntou. Veja, todos aqueles OUTROS
+ traficantes, certo, eles conseguem merdas de segunda mao, aguadas, diluidas com todo tipo de merda.}
 {491}{}{Mas o seu Jet, por outro lado...}
 {492}{}{Na realidade, esqueça o que eu perguntei. Eu tinha algumas outras perguntas...}
-{500}{}{I used to get it from the god himself, Myron, see, but he up and left... or got aced. Now I mostly peddle straight from the
- Mordino Family.}
-{501}{}{Well, I USEDTA get it from ol' Myron, before he got all uppity and left the business... ain't that right, Myron? Ha!
- Now I mostly peddle run-o-the-mill Mordino shit.}
-{502}{}{Interesting. I had some other questions...}
-{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
- MYRON.}
+{500}{}{Eu costumava receber do próprio deus, Myron, você sabe, mas ele se foi... ou foram com ele. Agora o que eu vendo vem
+ principalmente da Família Mordino.}
+{501}{}{Bem, eu costumava pegar isso com o velho Myron, antes que ele ficasse todo arrogantinho e deixasse o negocio...
+ não é, Myron? Ah! Agora eu normalmente pego essa merda dos Mordino.}
+{502}{}{Interessante. Eu tinha outras perguntas...}
+{510}{}{Tenho contato direto com o CRIADOR, meu amigo piloto. Eu recebo meu jet direto do cérebro, o deus vivo dos compostos
+ quimicos, MYRON.}
 {511}{}{Myron?}
 {512}{}{Hum. Diga, eu tinha algumas outras perguntas...}
-{513}{}{Myron, huh? Can I meet this... living god?}
-{514}{}{Really? Well, I'll be sure to come back and buy some later on. Thanks, Jimmy.}
-{520}{}{He's Family Mordino's golden boy. He MADE Jet. Buying from Jagged Jimmy is like buying from Myron himself, y'hear? That's
- why J-J got the pure Jet. The BEST Jet.}
-{521}{}{Sounds good. Let's deal.}
-{523}{}{Think I could meet this Myron?}
-{530}{}{Hell, no! The Mordinos got that boy locked up tighter than a New Reno virgin. No way they gonna let anybody gonna touch
- their livelihood, know what I'm saying?}
-{531}{}{I hear you. So how much security they got on this guy?}
-{532}{}{Except that I heard Myron has a lot of prostitute... friends. How does that happen if he's locked up so tight?}
+{513}{}{Myron, é? Posso conhecer este... deus vivo?}
+{514}{}{Serio? Bem, eu com certeza vou voltar e comprar alguns mais tarde. Obrigado, Jimmy.}
+{520}{}{Ele é o menino de ouro da Família Mordino, ele FEZ o Jet. Comprar do Jagged Jimmy é como comprar do proprio Myron,
+ ta ouvindo? E por isso que J-J conseguiu o Jet puro. O MELHOR jet.}
+{521}{}{Soa bem. Vamos aos negocios.}
+{523}{}{Acha que posso conhecer esse Myron?}
+{530}{}{Mas nunca! Os Mordinos prenderam aquele menino com mais força do que uma virgem em New Reno. De jeito nenhum eles vão
+ deixar alguem tocar em seu sustento, entendo o que estou dizendo?}
+{531}{}{Entendo bem. Qual e o tanto de segurança que eles mantem sobre ele?}
+{532}{}{So que ouvi dizer que Myron tem muitas prostitutas... amigas. Como isso acontece se ele esta preso tao fortemente?}
 {533}{}{Entendido. Olhe, tenho outras questões.}
-{534}{}{Interesting. Thanks for the information, Jimmy.}
-{540}{}{Guards, guards, and more guards. Plus, tightest electronic security in New Reno. You'd be lucky if you even HEAR
- about somebody seeing Myron, he's so well-guarded.}
-{541}{}{Well-guarded, huh? Where, exactly?}
+{534}{}{Interessante. Obrigado pela informaçao, Jimmy.}
+{540}{}{Guardas, guardas e mais guardas. Alem disso, e a segurança eletronica mais rigida de New Reno. Você teria sorte se
+ OUVISSE falar de alguem vendo Myron, ele e tao bem guardado.}
+{541}{}{Bem guardado, mesmo? Onde exatamente?}
 {543}{}{Entendo. Olhe, de qualquer forma, tenho outras questões.}
-{550}{}{They got him stationed at this place called the "Stables," to the North, outside city limits. I only been there
- once - they never let me past the gates, and I WORK for the Family.}
-{551}{}{Come on, there must be some way I could see him.}
-{554}{}{The Stables, huh? Outside of town to the North...(I'll just record that on the Pip-Boy real quick here)...thanks for the
- lowdown, Jimmy.}
-{560}{}{Beats the hell outta me, friend. I SELL for the boy, and I ain't hardly see him but once or twice from a hundred yards
- away. Big Jesus Mordino don't let nobody near him who ain't tight with the family.}
-{561}{}{All right then, let's deal.}
-{564}{}{All right then. Thanks, Jimmy. I got to be going.}
-{570}{}{Now, that's a... hole... different story, my pilot friend. Oh my, yes.}
-{571}{}{I think this is a story I want to hear. C'mon, Jimmy...}
+{550}{}{Eles o colocaram em um lugar chamado "estabulos", ao norte, fora dos limites da cidade. Eu so estive la uma
+ vez - eles nunca me deixaram passar pelos portoes, e olha que eu TRABALHO para a Família.}
+{551}{}{Vamos, deve haver alguma maneira de eu poder ve-lo.}
+{554}{}{Os estabulos, eh? Fora da cidade ao norte... (vou gravar isso no Pip-Boy bem rapido aqui)... obrigado pela informaçao,
+ Jimmy.}
+{560}{}{Nem me pergunte, cara. VENDO para o menino, e mal o vejo a nao ser entre uma ou duas vezes a cem metros de mim. O
+ Grande Jesus Mordino nao deixa chegar perto dele ninguem que não seja intimo da família.}
+{561}{}{Tudo bem entao, vamos negociar.}
+{564}{}{Tudo bem entao. Obrigado, Jimmy. Eu tenho que ir.}
+{570}{}{Agora, isso e um... historia... uma historia diferente, meu amigo piloto. Oh meu, sim.}
+{571}{}{Acho que essa e uma história que quero ouvir. Vamos, Jimmy...}
 {572}{}{Esqueça. Eu tenho outras perguntas…}
-{573}{}{I don't think I have time for this story, Jimmy. I got to be going.}
-{580}{}{See, Myron is well taken care of... Mordinos give their little livelihood the BEST of New Reno.}
+{573}{}{Acho que nao tenho tempo para esta historia, Jimmy. Eu tenho que ir.}
+{580}{}{Veja, Myron e bem cuidado... Mordinos dao ao seu pequeno sustento o MELHOR de New Reno.}
 {581}{}{E com isso, você quer dizer...?}
-{582}{}{You mean prostitutes, don't you? Out of idle curiosity, where do the Mordinos get these prostitutes and how are they chosen?}
-{584}{}{I see. Thanks, Jimmy. I got to be going.}
-{590}{}{Th' Mordinos deliver whores to the Stables personally, then escort them out again. Heh-heh. Myron's barely nineteen, and
- he's got the hormones o' twenty... twenty MEN, that is.}
+{582}{}{Voce quer dizer prostitutas, nao e? Por pura curiosidade, onde os Mordinos conseguem essas prostitutas e como elas sao escolhidas?}
+{584}{}{Entendo, obrigado, Jimmy. Eu tenho que ir.}
+{590}{}{Os Mordinos entregam prostitutas aos estabulos pessoalmente, depois as escoltam para fora novamente. Heh heh. Myron
+ mal tem dezenove anos e tem os hormonios de vinte... vinte HOMENS, na verdade.}
 {592}{}{Interesting... say, out of IDLE curiosity, where do the Mordinos get these prostitutes and how are they selected?}
 {600}{}{(Shrugs.) One of Mordino's boys cruises the Cat's Paw down the street, I hear, picks one Myron might like from Miss Kitty's
  stock...(Jimmy suddenly stops talking. He squints at you and frowns.) Wait a minute...}

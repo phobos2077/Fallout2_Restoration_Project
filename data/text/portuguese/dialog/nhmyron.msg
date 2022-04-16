@@ -630,7 +630,7 @@
 {2679}{}{What a wonderful command of the language you have. I'll see you later, Myron.}
 {2685}{myn243}{A city to the northeast. Buncha "genetically pure" humans. They got their noses so high in the air they'll drown when it rains.}
 {2686}{}{Well, I didn't learn at Vault City. I just pick this stuff up. It's pretty easy, really.}
-{2687}{}{Interesting. I had some other questions...}
+{2687}{}{Interessante. Eu tinha outras perguntas...}
 {2688}{}{What a wonderful command of the language you have. I'll see you later, Myron.}
 {3000}{}{Myron, I think we need to discuss... distance.}
 {3001}{}{Let's talk about your gear for a second.}

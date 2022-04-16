@@ -298,7 +298,7 @@
 {1046}{}{Stables outside of town?}
 {1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
  was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
-{1056}{}{Think I could meet this Myron?}
+{1056}{}{Acha que posso conhecer esse Myron?}
 {1065}{}{(Jules stops and studies you, his eyes running up and down your body.)}
 {1066}{}{Jules? Hello? I asked if there was any way I could meet Myron.}
 {1075}{}{Whoa, now, brother, here's some free advice: don't you go be looking to meet Myron, 'cause the Mordinos catch wind of THAT, they'll gut you and let

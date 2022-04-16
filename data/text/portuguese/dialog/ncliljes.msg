@@ -274,7 +274,7 @@
  miss that punk-ass cause he cut his face up one night while on Jet... it's so bad his entire face is all scars.}
 {1011}{}{I hear you deal drugs, too, Jesus. How come YOUR name wasn't on that list?}
 {1012}{}{What makes you think Renesco's responsible?}
-{1013}{}{Interesting. I had some other questions...}
+{1013}{}{Interessante. Eu tinha outras perguntas...}
 {1014}{}{Renesco, Jules and Jagged Jimmy J. Got it. Thanks for the information.}
 {1020}{}{CAUSE, mother fucker, I AIN'T a dealer. }
 {1021}{}{CAUSE I AIN'T a dealer, BITCH. }
