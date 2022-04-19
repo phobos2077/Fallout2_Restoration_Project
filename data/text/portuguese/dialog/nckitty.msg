@@ -48,7 +48,7 @@
 {260}{}{Sorry, didn't mean to pressure you. Goodbye.}
 {265}{}{(Looks around, then leans in and whispers.) Look... come back after
  you've done what you've had to do to save your people, and then we'll talk, okay?}
-{266}{}{All right then. I had some other questions...}
+{266}{}{Tudo bem, entao. Eu tinha outras perguntas...}
 {267}{}{It's a date. See you then.}
 {275}{}{Well...(Ticks off the menu on her fingers.)...we have honey loving, the dipstick swirl, humjobs, and various
  other exotica. (Smiles.) Question is, what are YOU in the mood for?}

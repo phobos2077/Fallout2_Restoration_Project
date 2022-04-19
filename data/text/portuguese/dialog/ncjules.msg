@@ -1,8 +1,8 @@
-{150}{}{You see a black man in a worn suit. When he catches your eye, he smiles, his gold tooth
- glittering in the light of the lamps.}
-{151}{}{You see Jules.}
-{200}{}{Let Jules show you 'round, slaver.}
-{201}{}{Go see the Mordinos, slaver. They're the market for most o' the slaves that come to New Reno.}
+{150}{}{Você vê um homem negro em um terno gasto. Quando te percebe, ele sorri, seu dente
+ de ouro brilha à luz das lâmpadas.}
+{151}{}{Voce ve Jules.}
+{200}{}{Deixe Jules te mostrar a area, escravista.}
+{201}{}{Va ver os Mordinos, escravista. Eles sao o mercado para a maioria dos escravos que vem para New Reno.}
 {202}{}{New in Reno, slaver? Worth your time to talk ta me.}
 {203}{}{Hey, slaver. Come talk to me for a second.}
 {204}{}{Slaver, if you ain't talked to Jules, you don't know HALF of what New Reno gots to offer.}
@@ -386,7 +386,7 @@
  killed him. You'll be dead within the hour. Talk.}
 {1308}{}{You SURE you haven't seen it, Jules?}
 {1309}{}{Yes, I'm SURE I parked it here. Any idea where it might be?}
-{1310}{}{All right then. I had some other questions...}
+{1310}{}{Tudo bem, entao. Eu tinha outras perguntas...}
 {1311}{}{I better go look for it.}
 {1320}{}{Naw, brother, I ain't seen it. }
 {1321}{}{Naw, sister, I ain't seen it. }

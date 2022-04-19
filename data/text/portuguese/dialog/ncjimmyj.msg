@@ -173,67 +173,67 @@
 {584}{}{Entendo, obrigado, Jimmy. Eu tenho que ir.}
 {590}{}{Os Mordinos entregam prostitutas aos estabulos pessoalmente, depois as escoltam para fora novamente. Heh heh. Myron
  mal tem dezenove anos e tem os hormonios de vinte... vinte HOMENS, na verdade.}
-{592}{}{Interesting... say, out of IDLE curiosity, where do the Mordinos get these prostitutes and how are they selected?}
-{600}{}{(Shrugs.) One of Mordino's boys cruises the Cat's Paw down the street, I hear, picks one Myron might like from Miss Kitty's
- stock...(Jimmy suddenly stops talking. He squints at you and frowns.) Wait a minute...}
+{592}{}{Interessante... digamos, só por CURIOSIDADE, onde os Mordinos conseguem essas prostitutas e como elas são selecionadas?}
+{600}{}{(Dá de ombros.) Um dos garotos de Mordino cruza a rua da Garra da Gata, ouvi dizer, escolhe uma que Myron pode
+ gostar do estoque da Srta. Kitty... (Jimmy para de falar de repente. Ele aperta os olhos para você e franze a testa.) Espere um minuto. .}
 {601}{}{O que há de errado?}
 {602}{}{Uh... Não importa. Olhe, eu tenho outras perguntas.}
-{603}{}{Uh, well, thanks for the information, Jimmy.}
-{610}{}{Why you want to know shit like that? I got Jet, that's all YOU need to know. You don't need to know nothing about Myron,
- or what he had for dinner, or who he does 'fore he goes to bed at night.}
-{611}{}{Why you want to know shit like that... (Pauses, then smiles and looks you up and down.) Aw, now I catch your drift.
- You gonna go straight to the source for yo Jet, right, sister?}
-{612}{}{Not at the moment. Let's see what you got, Jimmy.}
-{613}{}{Forget it, then. Let's deal.}
+{603}{}{Uh, bem, obrigado pela informação, Jimmy.}
+{610}{}{Por que você quer saber essa porra? Eu tenho jet, isso é tudo que você precisa saber. Você não precisa saber nada sobre
+ Myron, ou o que ele comeu na janta, ou o que ele faz antes de ir dormir.}
+{611}{}{Por que você quer saber dessas merdas... (Pausa, então sorri e te olha de cima a baixo.) Ah, agora eu entendi. Você
+ vai direto à fonte do seu Jet, certo, irmã?}
+{612}{}{No momento, não. Vamos ver o que você tem, Jimmy.}
+{613}{}{Esqueça, então. Vamos aos negocios.}
 {614}{}{Não importa. Eu tenho outras perguntas...}
 {615}{}{Eu poderia... Bem, eu tenho outras perguntas.}
-{616}{}{No, just curious. Thanks, Jimmy. I got to be going.}
-{617}{}{All right then. Later, Jimmy. I got to be going.}
-{625}{}{Hell, all's I'M sayin' is Jimmy likes his buyers happy and ALIVE. Draw yer own conclusions, my pilot friend.
- Is breathin' more important to you than shaving a few chips off your next Jet purchase?}
-{626}{}{Understood. We gonna deal?}
-{627}{}{Know anything about this empty Jet canister?}
-{628}{}{I don't think the kid ODed on Jet. I think he was poisoned.}
+{616}{}{Não, só curiosidade. Obrigado, Jimmy, preciso ir.}
+{617}{}{Tudo bem, então. Mais tarde, Jimmy, preciso ir.}
+{625}{}{Porra, tudo o que estou dizendo é que Jimmy gosta de seus compradores felizes e VIVOS. Ache o que
+ quiser, meu amigo piloto. É mais importante para você continuar respirando ou economizar umas poucas tampas na sua próxima compra?}
+{626}{}{Entendo. Vamos negociar?}
+{627}{}{Sabe alguma coisa sobre esse recipiente de jet vazio?}
+{628}{}{Eu não acho que o garoto teve uma overdose no Jet. Acho que ele foi envenenado.}
 {629}{}{Eu tenho mais algumas perguntas...}
-{635}{}{Aw, so NOW it comes out, does it?! You wanna know if ol' Jimmy got something to do with that, huh?!}
-{636}{}{No, I was just ask --}
-{637}{}{All right, nevermind that. We gonna deal?}
-{638}{}{Look, I had some other questions --}
-{639}{}{Thanks for the tip, Jimmy. I'd better be go --}
-{645}{}{FUCK you! I sell CLEAN shit! You wanna know who poisoned that Wright kid, you go ask that old fool Renesco, or that
- weasel Jules, and you see what they say!}
-{646}{}{Okay, okay. Calm down --}
-{648}{}{All right, all right. Look, I had some other quest --}
-{655}{}{You listen, and you listen GOOD. If I hear you were talkin' shit 'bout me havin' anything to do with that Wright kid's
- death, I'll make sure you have a grave in Golgotha right next to him.}
-{656}{}{Renesco said you sell Jet laced with arsenic.}
+{635}{}{Ah, então AGORA me aparece com essa, né?! Você quer saber se o velho Jimmy tem algo a ver com isso, eh?!}
+{636}{}{Não, eu só estava perguntando --}
+{637}{}{Tudo bem, não importa. Vamos negociar?}
+{638}{}{Olha, eu tinha outras perguntas --}
+{639}{}{Obrigado pela dica, Jimmy. É melhor eu ir --}
+{645}{}{VAI SE FUDER! Eu vendo essa merda LIMPA! Você quer saber quem envenenou aquele garoto Wright, pergunte aquele
+ velho viado do Renesco, ou aquela bosta do Jules, veja o que eles dizem!}
+{646}{}{Está bem, está bem. Calma la --}
+{648}{}{Tudo bem, tudo bem. Olha, eu tinha outra pergun --}
+{655}{}{Escute, e você ouve BEM. Se eu saber que você estava falando merda sobre eu ter algo a ver com a morte daquele
+ garoto Wright, vou me certificar de que você tenha um tumulo na Gólgota bem ao lado dele.}
+{656}{}{Renesco disse que você vende jet com arsenico.}
 {659}{}{Sem problema. Eu tenho outras perguntas.}
-{660}{}{Dead, huh? Like Richard?}
-{661}{}{Don't you threaten ME, you little cocksucker. Mess with me, and I'll kill you so many times you'll
- think you were Lazarus.}
-{662}{}{Easy, Jimmy. Nobody's going to be talking.}
-{663}{}{I'm not going to say anything, Jimmy. I'm going now, see? I'm going.}
-{675}{}{(Takes canister, studies it.) Naw, I... (Sniffs nozzle, then frowns.) Sheeee-it. This Jet's got radscorp juice in it.
- Whoever was sucking on this ain't long for this world... (Hands canister back.)}
-{676}{}{It's poisoned?}
+{660}{}{Morto, eh? Como Richard?}
+{661}{}{Não me ameace, filho de uma puta. Mexa comigo, e eu vou te matar tantas vezes que você vai
+ pensar ser Lazaro.}
+{662}{}{Calma, Jimmy. Ninguém vai falar nada.}
+{663}{}{Não vou dizer nada, Jimmy. E agora preciso ir, viu? Já vou.}
+{675}{}{(Pega o recipiente e o estuda.) Não, eu... (Cheira o bico, depois franze a testa.) Meeeerda. Esse jet tem suco de
+ radscorpion nele. Quem bebeu isso não é pertence mais a este mundo... (entrega o recipiente de volta.)}
+{676}{}{Esta envenenado?}
 {677}{}{Hmmm. Eu tenho outras perguntas…}
 {678}{}{Eu vejo. Obrigado.}
-{685}{}{Hell, yes! Gotta be careful in this town with shit like that being passed around... that's why Jimmy always says --}
-{686}{}{Any idea where this might have come from?}
-{695}{}{Naw, I don't... look, now, don't be spreading the word that's mine... if I were you, I'd ask Jules and Renesco
- about it... but you didn't hear that from me, right?}
-{696}{}{All right then. I had some other questions...}
-{697}{}{Renesco and Jules, huh? I'll ask them about it. Thanks for the tip.}
-{705}{}{Don't surprise me none.}
-{706}{}{What are you saying?}
+{685}{}{Claro que sim! Tenho que ter cuidado nesta cidade com merdas assim sendo passadas por ai... é por isso que Jimmy sempre diz --}
+{686}{}{Alguma ideia de onde isso pode ter vindo?}
+{695}{}{Não, eu não... olhe, não fique espalhando por ai que e coisa minha... se eu fosse você, perguntaria a Jules e
+ Renesco sobre isso... mas você não ouviu isso de MIM, de acordo?}
+{696}{}{Tudo bem, entao. Eu tinha outras perguntas...}
+{697}{}{Renesco e Jules, eh? Vou perguntar a eles sobre isso. Obrigado pela dica.}
+{705}{}{Isso nao me surpreende.}
+{706}{}{O que estava dizendo?}
 {707}{}{Entendo. Eu tenho outras perguntas...}
 {708}{}{Deixe pra lá, então.}
-{715}{}{Yeah, he WOULD say that, cause he knows ALL about it.}
+{715}{}{Sim, ele diria isso, porque ele sabe TUDO sobre isso.}
 {716}{}{O que você quer dizer?}
-{725}{}{What do I mean? I mean Jimmy likes his buyers happy and ALIVE. Renesco don't draw no distinctions 'tween the two,
- though... so YOU draw yer own conclusions, my pilot friend.}
-{727}{}{Thanks for the tip, Jimmy. I'd better be going now.}
-{800}{}{You have discovered that Richard Wright was poisoned.}
+{725}{}{O que quero dizer? Jimmy gosta de seus compradores felizes e VIVOS. Renesco não faz nenhuma diferença entre isso,
+ entretanto... tire VOCÊ suas proprias conclusões, meu amigo piloto.}
+{727}{}{Obrigado pela dica, Jimmy. É melhor eu ir agora.}
+{800}{}{Você descobriu que Richard Wright foi envenenado.}
 {5200}{}{! Venha pegar um Jet de cortesia de J-J agora...}
 {5201}{}{! Se você quer comemorar com um Jet, venha falar com Jimmy J...}
 {5281}{}{ voce mente pra }

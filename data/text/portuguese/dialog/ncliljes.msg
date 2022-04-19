@@ -219,7 +219,7 @@
  ass, y'know?}
 {903}{}{WE ain't hiring, but with a bod like that, you might try the Corsican Bros Studio up the street. (Grins.) But if you're looking
  for some quick chips, my room's upstairs...}
-{904}{}{All right then. I had some other questions...}
+{904}{}{Tudo bem, entao. Eu tinha outras perguntas...}
 {905}{}{Eh, eu passo. Tenho algumas perguntas...}
 {906}{}{Prefiro que não, valeu. Eu tenho algumas perguntas para você, no entanto...}
 {907}{}{Oh, I bet it WOULD be quick. No thanks.}

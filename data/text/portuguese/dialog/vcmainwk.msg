@@ -101,7 +101,7 @@
 {198}{}{Never mind. I'll leave you to your work.}
 {199}{}{No, we don't. We've said all we need to say a long time ago. }
 {200}{}{Are you sure?}
-{201}{}{All right then. I had some other questions...}
+{201}{}{Tudo bem, entao. Eu tinha outras perguntas...}
 {202}{}{I'll leave you to your work then.}
 {203}{}{Yes, I'm SURE. Well... except for the fact that I think he should lose some weight. He's got quite a spare tire going. And he should stop wandering all around the wastes selling junk to tribals. That's pretty much it.}
 {204}{}{Look, he was in a mess of trouble with slavers, and he's trying to make up for lost time now. But you're right, he could stand to lose some weight.}

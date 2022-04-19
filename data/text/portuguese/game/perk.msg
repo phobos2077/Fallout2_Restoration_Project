@@ -119,64 +119,64 @@
 {219}{}{Azarado}
 {220}{}{Viciado em Alcool}
 {221}{}{Fumante}
-{1101}{}{With Awareness, you are given detailed information about any critter you examine. You see their exact hit points and information about any weapon they are equipped with.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand and melee attacks cost 1 AP less to perform.}
-{1103}{}{Experience in unarmed combat has given you the edge when it comes to damage. You cause +2 points of damage with hand-to-hand and melee attacks for each level of this Perk.}
-{1104}{}{For each level of Bonus Move, you get 2 free APs each turn that can only be used for movement. In other words, you can move 2 free hexes each turn for each level of this Perk.}
-{1105}{}{Your training in firearms and other ranged weapons has made you more deadly in ranged combat. For each level of this Perk, you do +2 points of damage with ranged weapons.}
-{1106}{}{This Perk allows you to pull the trigger a little faster and still remain as accurate as before. Each ranged weapon attack costs 1 AP less to perform.}
-{1107}{}{You are more likely to move before your opponents in combat, since your Sequence is +2 for each level of this Perk.}
-{1108}{}{With each level of this Perk, you get a +2 bonus to your Healing Rate. This is in addition to your normal healing rate, thus you heal faster.}
-{1109}{}{You are more likely to cause critical hits in combat if you have this Perk. Each level of More Criticals gets you an additional +5% chance to cause a critical hit.}
-{1110}{}{With the Night Vision Perk, you can see in the dark better. This will reduce the overall darkness level by 20%.}
-{1111}{}{You command attention by just walking into a room. The initial reaction of another person is improved by 10% for each level of this Perk.}
-{1112}{}{You are better able to avoid radiation and the bad effects radiation causes. Each level of this Perk improves your Radiation Resistance by 15%.}
-{1113}{}{When you are tough, you take less damage. Each level of this Perk adds +10% to your general damage resistance.}
-{1114}{}{AKA Mule. You can carry an additional 50 pounds of equipment for each level of this Perk.}
-{1115}{}{You have a talent for hitting things at longer distances. For each level of this Perk, you get a +2 bonus to Perception for the purposes of determining range modifiers. It's easier than ever to kill at long range!}
-{1116}{}{With this Perk, you now have the ability to move quickly and still remain quiet. You can Sneak and run at the same time. Without this Perk, you would automatically stop Sneaking if you ran.}
-{1117}{}{You are a master of the outdoors. This Perk confers the ability to survive in hostile environments. You get a +25% bonus to Outdoorsman.}
-{1118}{}{You have mastered one aspect of bartering - buying goods far more cheaply than normal. With this Perk, you get a 25% discount when purchasing items from a store or another trader.}
-{1119}{}{Each level of Educated adds +2 skill points when you gain a new experience level. This Perk works best when purchased early in your adventure.}
-{1120}{}{The healing of bodies comes easier to you with this Perk. Each level of this Perk heals 4-10 additional hit points when using the First Aid or Doctor skills.}
-{1121}{}{You have the talent of finding money. You find additional money in random encounters in the desert.}
-{1122}{}{The critical hits you cause in combat are more devastating. You gain a 20% bonus on the critical hit table, almost ensuring that more damage will be done. This does not affect the chance to cause a critical hit.}
-{1123}{}{You have studied other human beings, giving you inside knowledge of their emotional reaction to you. You will see the reaction level of the person you are talking to when involved in an indepth conversation.}
-{1124}{}{The Slayer walks the earth! In hand-to-hand combat all of your hits are upgraded to critical hits, causing destruction and mayhem.}
-{1125}{}{You have mastered the firearm as a source of pain. With this Perk, any successful hit in combat with a ranged weapon will be upgraded to a critical hit if you also make a Luck roll.}
-{1126}{}{While Sneaking, if you hit a critter in the back, you will cause double damage using a hand-to-hand attack. Silent Death is that kind of Perk.}
-{1127}{}{Each level of Action Boy (insert Girl if you wish) gives you an additional AP to spend every combat turn. You can use these generic APs on any task.}
-{1128}{}{Mental Block is the ability to tune out any outside mental interference. You must have learned this talent from a passing guru, or from a really late night at a bar.}
-{1129}{}{With each level of this Perk, you gain an additional 4 Hit Points every time you advance a level. This is in addition to the hit points you already gain per level based off of your endurance.}
-{1130}{}{You are less likely to be hit in combat if you have this Perk. You gain a +5 to your Armor Class, in addition to the AC bonus from any armor worn.}
-{1131}{}{Yum! Tastes like chicken. For each level of this Perk, you gain +25% to your Poison Resistance.}
-{1132}{}{This Perk will give you a one-time bonus of +10% to the Repair and Science skills. A little late night cramming never hurt anybody, especially you.}
-{1133}{}{The Medic Perk gives you a one-time bonus of +10% to the First Aid and Doctor skills. Healing skills are a good thing.}
-{1134}{}{A Master Thief is proficient at stealing and picking locks. You gain +15 to Stealing and Lockpicking. Steal from the rich, and give to you.}
-{1135}{}{Being a Speaker means you have a one-time bonus of +20% to Speech. From the mouth of babes and all that.}
-{1136}{}{Each level of the Heave Ho! Perk gives you an additional +2 to Strength (up to 10,) for purposes of determining range with thrown weapons only. This Perk will not exceed a weapon's maximum range.}
+{1101}{}{Com a Consciencia, você recebe informaçoes detalhadas sobre qualquer criatura que examinar. Voce ve seus pontos de vida exatos e informaçoes sobre as armas que eles equipam.}
+{1102}{}{Voce aprendeu as artes secretas do Leste, ou simplesmente soca mais rapido. De qualquer forma, seus ataques corpo a corpo te custam 1 PA a menos ao serem executados.}
+{1103}{}{A experiencia em combate desarmado deu a voce vantagem quando se trata de dano. Voce causa +2 pontos de dano com ataques corpo a corpo para cada nivel deste beneficio.}
+{1104}{}{Cada nivel do Bonus de Movimento, voce ganha 2 PA gratis a cada turno que so podem ser usados para movimento. Em outras palavras, voce pode se mover 2 passos a mais a cada turno para cada nivel deste Perk.}
+{1105}{}{Seu treinamento com armas de fogo e outras armas de longo alcance o tornou mais mortal no combate a distancia. Para cada nivel deste Perk, voce causa +2 pontos de dano com armas de longo alcance.}
+{1106}{}{Este Perk permite que voce puxe o gatilho um pouco mais rapido e ainda permaneça tao preciso quanto antes. Cada ataque com arma a distância custa 1 PA a menos para ser executado.}
+{1107}{}{E mais provavel que você se mova antes de seus oponentes em combate, ja que sua Sequência é +2 para cada nivel deste Perk.}
+{1108}{}{A cada nivel deste Perk, voce recebe um bônus de +2 na sua Taxa de Cura. Isso e um acrescimo a sua taxa de cura normal, portanto, voce se cura mais rapido.}
+{1109}{}{E mais provavel que voce cause acertos criticos em combate se tiver essa vantagem. Cada nivel de Mais Criticos da a você +5% de chance adicional de causar um acerto critico.}
+{1110}{}{Com o Perk Visao Noturna, voce pode ver melhor no escuro. Isso reduzira o nível geral de escuridao em 20%.}
+{1111}{}{Você chama a atençao so de entrar em um recinto. A reaçao inicial das outras pessoas e melhorada em 10% para cada nivel deste Perk.}
+{1112}{}{Voce e mais capaz de evitar a radiaçao e os efeitos ruins que a ela causa. Cada nivel deste Perk melhora sua Resistencia a Radiação em 15%.}
+{1113}{}{Quando voce é durao, sofrera menos dano. Cada nivel deste Perk adiciona +10% a sua resistencia geral a danos.}
+{1114}{}{Você pode carregar mais 50 libras de equipamento para cada nivel deste Perk.}
+{1115}{}{Voce tem talento para acertar coisas a maiores distancias. Para cada nivel deste Perk, voce recebe um bonus de +2 em Percepçao para determinar os modificadores de alcance. E mais facil do que nunca matar a longa distancia!}
+{1116}{}{Com este Perk, agora voce tem a capacidade de se mover rapidamente e ainda permanecer quieto. Voce pode esgueirar-se e correr ao mesmo tempo. Sem esse Perk, você sairia do furtivo se corresse.}
+{1117}{}{Você e um mestre do ar livre. Este Perk confere a capacidade de sobreviver em ambientes hostis. Você ganha um bônus de +25% para Sobrevivencia.}
+{1118}{}{Voce domina as trocas - compra mercadorias muito mais baratas do que o normal. Com este Perk, você ganha 25% de desconto na compra de itens de uma loja ou outro comerciante.}
+{1119}{}{Cada nivel de Educado adiciona +2 pontos de habilidade quando você ganha um novo nivel de experiencia. Este Perk funciona melhor quando adquirido no inicio de sua jornada.}
+{1120}{}{A cura de corpos fica mais facil para voce com este Perk. Cada nivel deste Perk cura 4-10 pontos de vida adicionais ao usar as habilidades de Primeiros Socorros ou Medico.}
+{1121}{}{Voce tem o talento para encontrar dinheiro. Você encontra dinheiro adicional em encontros aleatorios no deserto.}
+{1122}{}{Os acertos criticos que voce causa em combate sao mais poderosos. Voce ganha um bonus de 20%, quase garantindo que mais dano seja feito. Isso nao afeta a chance de causar um acerto critico.}
+{1123}{}{Voce estudou outros seres humanos, te dando conhecimento interno de sua reaçao emocional a voce. Voce vera o nivel de reaçao da pessoa com quem esta falando quando estiver envolvido em uma conversa profunda.}
+{1124}{}{O Assassino anda pelo deserto! No combate corpo a corpo, todos os seus acertos sao considerados criticos, causando destruiçao e caos.}
+{1125}{}{Voce dominou a arma de fogo como fonte da dor. Com este Perk, qualquer acerto bem sucedido em combate com uma arma de longo alcance sera considerado um crítico se voce tambem tiver Sorte.}
+{1126}{}{Durante o Furtivo, se voce acertar uma criatura nas costas, causara o dobro de dano usando um ataque corpo a corpo. Morte Silenciosa e esse tipo de Perk.}
+{1127}{}{Cada nevel de Garoto Acao (insira Garota, se desejar) da a voce um PA adicional para gastar em cada turno de combate. Voce pode usar esses PAs genericos em qualquer tarefa.}
+{1128}{}{O Bloqueio Mental é a capacidade de sintonizar qualquer interferencia mental externa. Voce deve ter aprendido esse talento com algum guru, ou de alguma noite em um bar.}
+{1129}{}{A cada nivel desse Perk, voceê ganha 4 Pontos de Vida a mais toda vez que avança um nivel. Isso é um acrescimo aos pontos de vida que voce ja ganha por nivel com base em sua resistencia.}
+{1130}{}{É menos provavel que voce seja atingido em combate se tiver esse Perk. Voce ganha +5 em sua Classe de Armadura, que e adicionado ao bonus por usar armadura.}
+{1131}{}{Hmmm! Tem gosto de frango. Para cada nivel deste Perk, voce ganha +25% na sua Resistencia a Veneno.}
+{1132}{}{Este Perk te dara um bonus unico de +10% nas habilidades de Reparo e Ciencia. Um pouco de estudo tarde da noite nunca fez mal a ninguem, especialmente a voce.}
+{1133}{}{O Perk Medico te da um bonus unico de +10% nas habilidades de Primeiros Socorros e Medico. Habilidades sempre sao boas.}
+{1134}{}{Um Ladrao Mestre é proficiente em roubar e arrombar fechaduras. Você ganha +15 em Roubo e Arrombamento. Roube dos ricos e pegue pra voce.}
+{1135}{}{Ser um Orador significa que você tem um bonus unico de +20% em Discurso.}
+{1136}{}{Cada nevel desse Perk te dara um adicional de +2 de Força (ate 10,) para determinar o alcance apenas com armas de arremesso. Este Perk nao excedera o alcance maximo de uma arma.}
 {1137}{}{ERROR.UNIMPED!}
-{1138}{}{You are much more adept at stealing than the normal crook. You can steal with the best of them, because with this Perk, you ignore size and facing modifiers when stealing from a person.}
-{1139}{}{When the sun goes down or you are in a poorly lit area, you move like a ghost with this Perk. Your Sneak skill is enhanced +20% in dark conditions.}
-{1140}{}{Your reputation is always positive to people. Without this Perk, a large negative reputation would have a bad effect on good natured people. This works in the reverse as well. Evil people will even treat Mr. Goodie Good as one of the gang.}
-{1141}{}{You can find more ammo than the normal post-holocaust survivor. This Perk doubles the amount of ammo found in random encounters.}
-{1142}{}{The mark of the Explorer is to search out new and interesting locations. With this Perk, you have a greater chance of finding special places and people.}
-{1143}{}{With this Perk, you are less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
-{1144}{}{The Pathfinder is better able to find the shortest route. With this Perk, your travel time on the World Map is reduced by 25% for each level.}
-{1145}{}{Animals will not attack one of their friends, unless the animal is threatened or attacked first. Exactly what an animal is in this world is open to debate.}
-{1146}{}{You have improved your ability to see distant locations, increasing the size of explorations on the World Map by one square in each direction. You also have a better chance of finding special encounters.}
-{1147}{}{With this Perk, you have gained the attention of a Mysterious Stranger, who will appear to help you from time to time. If your ally is lost in combat, do not expect him (or her) to be replaced.}
-{1148}{}{You gain a +15% toward your Outdoorsman skill. You are more likely to avoid random encounters if you choose, and tend to find those "special" encounters more than most.}
-{1149}{}{You have learned to pack your equipment better. Accessing your inventory only costs you 2 Action Points in Combat instead of 4.}
-{1150}{}{You have learned to increase your dialog options without understanding what you're talking about. Each level of this Perk will increase your Intelligence by one, up to 10, for purposes of dialog only.}
-{1151}{}{You are indeed a Swift Learner with this Perk, as each level gives you an additional +5% bonus whenever you earn experience points. This is best taken early.}
-{1152}{}{Your skills have improved to the point where you can pick an additional Tag Skill. Tag skills increase twice as fast.}
-{1153}{}{The radiation of the wasteland has changed you! One of your Traits has mutated into something else...}
-{1154}{}{You crave another Nuka-Cola.}
-{1155}{}{You've got the shakes.}
-{1156}{}{You feel groggy.}
-{1157}{}{You feel light-headed.}
-{1158}{}{You feel nauseous.}
+{1138}{}{Voce e muito mais habil em roubar do que um bandido normal. Voce pode roubar com o melhor deles, porque com este Perk, voce ignora o tamanho e os modificadores de face ao roubar de uma pessoa.}
+{1139}{}{Quando o sol se poe ou voce esta em uma area mal iluminada, voce se move como um fantasma com este Perk. Sua habilidade Furtiva e aprimorada em +20% nas condiçoes escuras.}
+{1140}{}{Sua reputaçao e sempre positiva para as pessoas. Sem este Perk, uma grande reputaçao negativa teria um efeito ruim em pessoas de boas. Funciona também ao contrario. As pessoas mas vao te tratar ate mesmo como um membro da gangue.}
+{1141}{}{Voce pode encontrar mais muniçao do que um sobrevivente normal do pos guerra. Esta vantagem dobra a quantidade de muniçao encontrada em encontros aleatorios.}
+{1142}{}{A marca do Explorador e procurar locais novos e interessantes. Com este Perk, você tem mais chances de encontrar lugares e pessoas especiais.}
+{1143}{}{Com este Perk, voce tem menos probabilidade de ficar viciado em drogas (50% menos provavel, sendo exato), e voce sofre metade do tempo de abstinencia que uma pessoa normal.}
+{1144}{}{O Desbravador é mais capaz de encontrar a rota mais curta. Com esta vantagem, seu tempo de viagem no mapa e reduzido em 25% para cada nivel.}
+{1145}{}{Os animais nao atacarao um de seus amigos, a menos que o animal seja ameaçado ou atacado primeiro. O que é exatamente um animal neste mundo esta aberto ao debate.}
+{1146}{}{Voce melhorou sua capacidade de ver locais distantes, aumentando o tamanho das exploraçees no Mapa em um quadrado em cada direçao. Voce tambem tem mais chances de encontros especiais.}
+{1147}{}{Com este Perk, voce ganhou a atençao do Estranho Misterioso, que aparecera para ajuda-lo de vez em quando. Se seu aliado morrer em combate, nao espere um substituto.}
+{1148}{}{Voce ganha +15% em sua pericia em Sobrevivencia. E mais provavel que voce evite encontros aleatorios, se quiser, e tende a encontrar esses encontros "especiais" mais do que a maioria.}
+{1149}{}{Você aprendeu a embalar melhor seu equipamento. Acessar seu inventario custa apenas 2 PA em combate em vez de 4.}
+{1150}{}{Voce aprendeu a aumentar suas opçoes de dialogo sem entender do que esta falando. Cada nivel deste Perk aumentara sua Inteligencia em um, ate 10, apenas para fins de dialogo.}
+{1151}{}{Com este Perk, cada nivel oferece um bonus adicional de +5% sempre que voce ganha pontos de experiencia. Isso e melhor quando pego no inicio do jogo.}
+{1152}{}{Suas habilidades melhoraram ate o ponto em que voce pode escolher uma Habilidade adicional. As habilidades de tag aumentam duas vezes mais rapido.}
+{1153}{}{A radiaçao do ermo mudou voce! Uma de suas Caracteristicas se transformou em algo novo...}
+{1154}{}{Voce quer outra Nuka-Cola.}
+{1155}{}{Voce esta com tremores.}
+{1156}{}{Você se sente grogue.}
+{1157}{}{Voce se sente tonto.}
+{1158}{}{Voce sente nauseas.}
 {1159}{}{Arma de longo alcance}
 {1160}{}{Precisao da arma}
 {1161}{}{Penetracao da arma}
@@ -189,52 +189,52 @@
 {1168}{}{Arma Lança Chamas}
 {1169}{}{Armadura Avançada I}
 {1170}{}{Armadura Avançada II}
-{1171}{}{Everything is moving so slowly... you need to get some more Jet, right NOW!}
-{1172}{}{You feel a burning desire to open another box of Tragic cards.}
+{1171}{}{Tudo esta se movendo tao devagar... voce precisa de mais um  jet, AGORA!}
+{1172}{}{Voce sente um desejo forte de abrir outra caixa de cartas de Tragic.}
 {1173}{}{Armadura de Carisma}
-{1174}{}{You have the knowledge of how to skin geckos properly to get their hides.}
-{1175}{}{You have inherent protection against physical attacks.}
-{1176}{}{You have extra inherent protection against physical attacks.}
-{1177}{}{You have inherent protection against energy attacks.}
-{1178}{}{You have extra inherent protection against energy attacks.}
-{1179}{}{You have gained +10% resistance to both poison and radiation.}
-{1180}{}{With this Perk, you gain +1 to your Strength when you drop below 1/2 of your max hit points.}
-{1181}{}{You are more alert outdoors and enemies are less likely to sneak up on you. With this Perk you get a +3 to your perception in random encounters when determining placement.}
-{1182}{}{You pay much closer attention to the smaller details when reading. You gain 50% more skill points when reading books.}
-{1183}{}{You are an expert when it comes to the fine art of handling explosives. They always go off when they're supposed to, as well as causing extra damage.}
-{1184}{}{You can roll with the best of them.  You gain +20% to your gambling skill.}
-{1185}{}{With this Perk you gain +1 to your Strength.}
-{1186}{}{With this Perk you gain +1 to your Perception.}
-{1187}{}{With this Perk you gain +1 to your Endurance.}
-{1188}{}{With this Perk you gain +1 to your Charisma.}
-{1189}{}{With this Perk you gain +1 to your Intelligence.}
-{1190}{}{With this Perk you gain +1 to your Agility.}
-{1191}{}{With this Perk you gain +1 to your Luck.}
-{1192}{}{Your innocent demeanor makes stealing from people a little easier. You gain 20% to your Steal skill.}
-{1193}{}{With this Perk you immediately gain one experience level.}
-{1194}{}{If both item slots are empty, each unused action point gives you a +2 instead of +1 towards your armor class at the end of your turn, plus 1/12 of your unarmed skill.}
-{1195}{}{When it comes to pleasing sexually, you wrote the book.}
-{1196}{}{Your Karma shines twice as bright. Whether good or bad, your Karma is doubled for any kind of reaction or modifiers.}
-{1197}{}{You are agile, lucky, and always careful. This perk halves your chances of setting off a trap.}
-{1198}{}{You have a better understanding of living creatures and their strengths and weaknesses. You get a one-time bonus of +10% to Doctor, and you do +5 damage per attack to living creatures.}
-{1199}{}{You get 1 extra slot in your companion limit, but don't forget that more than 5 is always a crowd.}
-{1200}{}{You are a very skilled negotiator. Not only can you barter with the best of them, but you can talk your way into or out of almost anything. With this Perk you gain +10% to both Barter and Speech.}
-{1201}{}{You are efficient at arranging your inventory in general. This makes it much easier to carry that little extra you've always needed.}
-{1202}{}{You do extra damage with fire-based weapons, and enemies always seem to die in the most painful fiery fashion.}
-{1203}{}{You are quick at recovering from being knocked down.}
-{1204}{}{You are an adept salesperson. With this Perk you gain +20% towards your Barter skill.}
-{1205}{}{You are much less likely to be knocked down in combat.}
-{1206}{}{The blood of a thief runs through your veins. With the Thief Perk, you get a one-time bonus of +10% to your Sneak, Lockpick, Steal, and Traps skills. A well rounded thief is a live thief.}
-{1207}{}{You can wield weapons much larger than normally allowed. You gain a +3 to your strength for the purposes of Strength checks when trying to wield weaponry.}
-{1208}{}{You have received the Vault City medical training.}
-{1209}{}{Your hit points have been enhanced a little by repeated drunkeness.}
-{1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.}
-{1211}{}{Your hit points have been lowered slightly by repeated drunkeness.}
-{1212}{}{Your hit points have been lowered slightly by repeated drunkeness.}
-{1213}{}{Your hit points have been enhanced a little by repeated use of the Auto-Doc.}
-{1214}{}{Your hit points have been enhanced a little more by repeated use of the Auto-Doc.}
-{1215}{}{Your hit points have been lowered slightly by repeated use of the Auto-Doc.}
-{1216}{}{Your hit points have been lowered slightly by repeated use of the Auto-Doc.}
-{1217}{}{You can sling bull with the best of them.}
+{1174}{}{Voce tem o conhecimento de como esfolar geckos corretamente para conseguir peles.}
+{1175}{}{Voce tem proteçao inerente contra ataques fisicos.}
+{1176}{}{Voce tem proteçao inerente extra contra ataques fisicos.}
+{1177}{}{Voce tem proteçao inerente contra ataques de energia.}
+{1178}{}{Voce tem proteçao inerente extra contra ataques de energia.}
+{1179}{}{Voce ganhou +10% de resistencia a veneno e radiaçao.}
+{1180}{}{Com este Perk, voce ganha +1 em sua Força quando fica abaixo de 1/2 de seus pontos de vida maximos.}
+{1181}{}{Voce esta mais alerta ao ar livre e os inimigos sao menos propensos a se aproximar de voce. Com este Perk, você recebe +3 em sua percepçao em encontros aleatorios ao determinar a colocaçao.}
+{1182}{}{Voce presta muito mais atençao aos pequenos detalhes ao ler. Voce ganha 50% mais pontos de habilidade ao ler livros.}
+{1183}{}{Voce e um especialista quando se trata da arte de lidar com explosivos. Eles sempre disparam quando deveriam, alem de causar danos extras.}
+{1184}{}{Voce pode apostar com o melhor deles.  Voce ganha +20% em sua habilidade de jogos.}
+{1185}{}{Com este Perk voce ganha +1 em sua Força.}
+{1186}{}{Com este Perk voce ganha +1 em sua Percepçao.}
+{1187}{}{Com este Perk voce ganha +1 em sua Resistencia.}
+{1188}{}{Com este Perk voce ganha +1 em seu Carisma.}
+{1189}{}{Com este Perk voce ganha +1 em sua Inteligencia.}
+{1190}{}{Com este Perk voce ganha +1 em sua Agilidade.}
+{1191}{}{Com este Perk voce ganha +1 em sua Sorte.}
+{1192}{}{Seu comportamento inocente torna o roubo das pessoas um pouco mais facil. Voce ganha 20% em sua habilidade de Roubo.}
+{1193}{}{Com este Perk voce ganha imediatamente um nivel de experiencia.}
+{1194}{}{Se ambos os slots de itens estiverem vazios, cada ponto de açao nao utilizado te dara +2 em vez de +1 para sua classe de armadura no final do seu turno, mais 1/12 de sua habilidade desarmada.}
+{1195}{}{Quando se trata de agradar sexualmente, voce e o mestre.}
+{1196}{}{Seu Karma brilha duas vezes mais. Seja bom ou ruim, seu Karma e dobrado para qualquer tipo de reaçao ou modificador.}
+{1197}{}{Você e agil, sortudo e sempre cuidadoso. Esta vantagem reduz pela metade suas chances de detonar uma armadilha.}
+{1198}{}{Voce tem uma melhor compreensao das criaturas vivas e seus pontos fortes e fracos. Voce recebe um bonus unico de +10% ao Doutor e causa +5 de dano por ataque a criaturas vivas.}
+{1199}{}{Você ganha 1 slot extra no seu limite de companheiros, mas nao se esqueça de que mais de 5 e sempre uma multidao.}
+{1200}{}{Você e um negociador muito habilidoso. Você nao apenas pode negociar com os melhores, mas tambem pode entrar ou sair de quase tudo. Com este Perk, voce ganha +10% em Negociacao e Dialogo.}
+{1201}{}{Voce e eficiente em organizar seu inventario no geral. Isso torna muito mais facil transportar aquele pequeno extra que voce sempre precisou.}
+{1202}{}{Voce causa dano extra com armas baseadas em fogo, e os inimigos sempre parecem morrer da forma mais dolorosa possivel.}
+{1203}{}{Voce e rapido em se recuperar ao ser derrubado.}
+{1204}{}{Voce e um vendedor competente. Com este Perk você ganha +20% em sua habilidade de Negociacao.}
+{1205}{}{E muito menos provavel que voce seja derrubado em combate.}
+{1206}{}{O sangue de um ladrao corre em suas veias. Com esse Perk, voce recebe um bonus unico de +10% para suas habilidades Furtivo, Arrombamento, Roubo e Armadilha. Um ladrao versatil e um ladrao vivo.}
+{1207}{}{Voce pode empunhar armas muito maiores do que o normalmente poderia. Voce ganha +3 em sua força ao tentar empunhar armamento.}
+{1208}{}{Voce recebeu o treinamento medico de Vault City.}
+{1209}{}{Seus pontos de vida foram aumentados um pouco pela embriaguez repetida.}
+{1210}{}{Seus pontos de vida foram aumentados um pouco mais pela embriaguez repetida.}
+{1211}{}{Seus pontos de vida foram ligeiramente reduzidos pela embriaguez repetida.}
+{1212}{}{Seus pontos de vida foram ligeiramente reduzidos pela embriaguez repetida.}
+{1213}{}{Seus pontos de vida foram melhorados um pouco pelo uso repetido do Auto-Doc.}
+{1214}{}{Seus pontos de vida foram melhorados um pouco mais pelo uso repetido do Auto-Doc.}
+{1215}{}{Seus pontos de vida foram ligeiramente reduzidos pelo uso repetido do Auto-Doc.}
+{1216}{}{Seus pontos de vida foram ligeiramente reduzidos pelo uso repetido do Auto-Doc.}
+{1217}{}{Voce pode recolher merda como o melhor.}
 {1218}{}{Melhora em nocaute com arma}
-{1219}{}{The good thing is that everyone around you has more critical failures in combat. The bad thing is that you do too!}
+{1219}{}{O bom e que todos ao seu redor tem falhas mais criticas em combate. O ruim e que voce tambem!}

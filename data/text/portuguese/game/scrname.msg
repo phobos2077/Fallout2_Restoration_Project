@@ -15,7 +15,7 @@
 {115}{}{Cofre}
 {116}{}{Cofre}
 {117}{}{Brahmin}
-{118}{}{Spore Plant}
+{118}{}{Planta de esporos}
 {119}{}{}
 {120}{}{Escorpiao Menor}
 {121}{}{Louva a Deus menor}
@@ -53,7 +53,7 @@
 {153}{}{Billy}
 {154}{}{Sheila}
 {155}{}{Mae}
-{156}{}{Villager}
+{156}{}{Aldeao}
 {157}{}{Curral de escravos}
 {158}{}{Carga de escravos}
 {159}{}{Area de negocios de Den}
@@ -87,11 +87,11 @@
 {187}{}{Dunton}
 {188}{}{Cidadao}
 {189}{}{Viajante}
-{190}{}{Vault City Guard}
-{191}{}{Vault City Guard}
+{190}{}{Guarda Vault City}
+{191}{}{Guarda Vault City}
 {192}{}{Steve}
 {193}{}{Andrew}
-{194}{}{Vault City Guard}
+{194}{}{Guarda Vault City}
 {195}{}{Dr. Troy}
 {196}{}{Cachorro amarelo}
 {197}{}{Balthas}
@@ -111,7 +111,7 @@
 {211}{}{Harry}
 {212}{}{Sra. Smith}
 {213}{}{Melinda}
-{214}{}{Trapper}
+{214}{}{Caçador}
 {215}{}{Sr. Smith}
 {216}{}{Skeeve}
 {217}{}{Proconsul Gregório}
@@ -119,7 +119,7 @@
 {219}{}{Randal}
 {220}{}{Gosma}
 {221}{}{Barkus}
-{222}{}{Villager}
+{222}{}{Aldeao}
 {223}{}{Stark}
 {224}{}{Guarda do Portão da Vault}
 {225}{}{Velho Joe}
@@ -127,7 +127,7 @@
 {227}{}{Wallace}
 {228}{}{Lynette}
 {229}{}{McClure}
-{230}{}{Mutated Rat}
+{230}{}{Rato Mutante}
 {231}{}{Festus}
 {232}{}{Gordon}
 {233}{}{Hank}
@@ -203,7 +203,7 @@
 {303}{}{Brahmin}
 {304}{}{Esposa Balthas}
 {305}{}{Brahmin}
-{306}{}{Wild Dog}
+{306}{}{Cachorro selvagem}
 {307}{}{Rochas}
 {308}{}{Rochas}
 {309}{}{Cofre de parede}
@@ -371,7 +371,7 @@
 {471}{}{Capitao da Guarda}
 {472}{}{Supervisor de Escravos}
 {473}{}{Mascote de Melchior}
-{474}{}{Slaver Guard}
+{474}{}{Guarda escravista}
 {475}{}{Porta}
 {476}{}{Terminal}
 {477}{}{Caça-níqueis}
@@ -466,7 +466,7 @@
 {566}{}{Estante}
 {567}{}{Sheriff Dumont}
 {568}{}{Elise}
-{569}{}{Ranch Hand}
+{569}{}{Peao}
 {570}{}{Felix}
 {571}{}{Westin}
 {572}{}{Rondo}
@@ -506,7 +506,7 @@
 {606}{}{Super mutante}
 {607}{}{Pescador}
 {608}{}{Traficante de escravos}
-{609}{}{Trapper}
+{609}{}{Caçador}
 {610}{}{Filho de Carlson}
 {611}{}{Carlson}
 {612}{}{}
@@ -571,12 +571,12 @@
 {671}{}{Cachorro de Darion}
 {672}{}{Cassidy}
 {673}{}{Poço}
-{674}{}{Mole Rat}
+{674}{}{Rato toupeira}
 {675}{}{Pedaço de brahmin}
 {676}{}{Brahmin}
 {677}{}{Porta do elevador}
-{678}{}{Dog}
-{679}{}{Rat}
+{678}{}{Doguinho}
+{679}{}{Rato}
 {680}{}{Mancha Solar}
 {681}{}{Bess}
 {682}{}{Caixa}
@@ -611,7 +611,7 @@
 {711}{}{Porta}
 {712}{}{Computador}
 {713}{}{Chad}
-{714}{}{Spore Plant}
+{714}{}{Planta de esporos}
 {715}{}{}
 {716}{}{Radscorpion}
 {717}{}{}
@@ -629,7 +629,7 @@
 {729}{}{Festeiro}
 {730}{}{Mantis}
 {731}{}{Brahmin}
-{732}{}{Wild Dog}
+{732}{}{Cachorro selvagem}
 {733}{}{Computador}
 {734}{}{Computador}
 {735}{}{Terminal do computador}
@@ -714,7 +714,7 @@
 {814}{}{Caixa}
 {815}{}{Roteiro do mapa}
 {816}{}{Rato Vorpal}
-{817}{}{Dog}
+{817}{}{Doguinho}
 {818}{}{Sargento de Perfuração}
 {819}{}{Guarda}
 {820}{}{Tecnico}
@@ -733,7 +733,7 @@
 {833}{}{Mad Brahmin}
 {834}{}{Membro da Yakuza}
 {835}{}{Selvagem}
-{836}{}{Dog}
+{836}{}{Doguinho}
 {837}{}{Caixa}
 {838}{}{Membro da Patrulha}
 {839}{}{Viajante}
@@ -865,7 +865,7 @@
 {965}{}{Emissor}
 {966}{}{Dr. Curling}
 {967}{}{Quadro de avisos}
-{968}{}{Mole Rat}
+{968}{}{Rato toupeira}
 {969}{}{Secretaria do Presidente}
 {970}{}{Tom Murray}
 {971}{}{Porta resistente}
@@ -1339,7 +1339,7 @@
 {1439}{}{Tribal}
 {1440}{}{Irmão Matthew}
 {1441}{}{mapa}
-{1442}{}{Mole Rat}
+{1442}{}{Rato toupeira}
 {1443}{}{Ann}
 {1444}{}{Guerreiro Chefe}
 {1445}{}{Marli}
@@ -1362,7 +1362,7 @@
 {1462}{}{Don}
 {1463}{}{Traficante de escravos}
 {1464}{}{roteiro do mapa}
-{1465}{}{Dog}
+{1465}{}{Doguinho}
 {1466}{}{Traficante de escravos}
 {1467}{}{Escravo}
 {1468}{}{porta de escravo}
