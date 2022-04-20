@@ -3,101 +3,101 @@
 {151}{}{Voce ve Jules.}
 {200}{}{Deixe Jules te mostrar a area, escravista.}
 {201}{}{Va ver os Mordinos, escravista. Eles sao o mercado para a maioria dos escravos que vem para New Reno.}
-{202}{}{New in Reno, slaver? Worth your time to talk ta me.}
-{203}{}{Hey, slaver. Come talk to me for a second.}
-{204}{}{Slaver, if you ain't talked to Jules, you don't know HALF of what New Reno gots to offer.}
-{205}{}{Yo, slaver! You got a minute?}
-{206}{}{Looking for something, slaver? Let Jules help you find it.}
-{220}{}{New in town? Worth your time to talk ta me, friend.}
-{221}{}{Hey, you. Come talk to me for a second.}
-{222}{}{Friend, if you ain't talked to Jules, you don't know HALF of what New Reno gots to offer.}
-{223}{}{New Reno's a dangerous place, friend. Let me fill you in on what's healthy and what's not.}
-{224}{}{Yo! You got a minute, friend?}
-{225}{}{Friend, you and me got to have some words. Let Jules show you around.}
-{226}{}{Looking for something, friend? Let Jules help you find it.}
-{240}{}{Hallelujah! I always KNEW you would be the hero! I KNEW it!}
-{241}{}{Hero comin' through! Make way, make way!}
-{242}{}{Come say hello to your old friend Jules now.}
-{243}{}{You gonna share some o' your fame with me, my he-ro friend?}
-{244}{}{You gonna share some o' your new wealth with me, my he-ro friend?}
-{245}{}{Jules always treated you right... so tell everybody you know me, awright he-ro?}
+{202}{}{Novo em Reno, escravista? Vai valer a pena gastar seu tempo falando comigo.}
+{203}{}{Ei, escravista. Vem conversar um segundo comigo.}
+{204}{}{Escravista, se voce nao falou com Jules, voce nao sabe METADE do que New Reno tem a oferecer.}
+{205}{}{Ei, escravista! Tem um minuto?}
+{206}{}{Procurando algo, escravista? Deixe que Jules te ajuda a encontrar.}
+{220}{}{Novo na cidade? Vai valer a pena gastar seu tempo falando comigo, amigo.}
+{221}{}{Ei, você. Chega ai rapidao.}
+{222}{}{Cara, se voce nao falou com Jules, você nao sabe METADE do que New Reno tem a oferecer.}
+{223}{}{New Reno e um lugar perigoso, amigo. Deixe eu te mostrar o que presta e o que nao.}
+{224}{}{Ei! Tem um minuto, amigo?}
+{225}{}{Amigo, voce e eu temos que conversar umas coisas. Deixe Jules te mostrar o lugar.}
+{226}{}{Procurando algo, amigo? Deixe que Jules te ajude a encontrar.}
+{240}{}{Aleluia! Eu sempre soube que voce seria o heroi! Eu sabia!}
+{241}{}{Heroi chegando! Abra caminho, abra caminho!}
+{242}{}{Venha dizer ola ao seu velho amigo Jules.}
+{243}{}{Voce vai partilhar um pouco da sua fama comigo, meu amigo he-roi?}
+{244}{}{Voce vai partillhar um pouco da sua nova fortuna comigo, meu amigo he-roi?}
+{245}{}{Jules sempre te tratou bem... entao diga a todos que voce me conhece, certo he-roi?}
 {246}{}{Ouvi que os irmãos Corsican estão procurando por você, he-roi...}
-{260}{}{Daaamn. I think you and I should be friends.}
+{260}{}{Caraaalho. Acho que voce e eu deveriamos ser amigos.}
 {261}{}{Como diabos você vai no banheiro com essa coisa?}
-{262}{}{What the hell is THAT? A walking car?}
-{263}{}{Them junkies are gonna flip when they see you coming in that thing.}
-{280}{}{You gonna put in a good word to the boss man for me, brother?}
-{281}{}{Yo, brother, now you ain't forgotten your friend Jules on your rise to the top, have you?}
-{282}{}{Yo, dark and deadly! Looks to me like New Reno's been GOOD to you!}
-{283}{}{If your boss needs someone to deal Jet for him, I'm here...}
-{284}{}{You gonna put in a good word to the boss man for me, sister?}
-{285}{}{Yo, sister, now you ain't forgotten your friend Jules on your rise to the top, have you?}
-{300}{}{Yo, champ! Looks to me like New Reno's being good to you!}
-{301}{}{Yo, champ, you ain't forgotten your pal Jules on your rise to the top, have you?}
-{302}{}{Lady Luck's shining on you, brother. You got the MAGIC.}
-{303}{}{I always knew you'd have your name in lights. I knew it first time I saw you.}
-{304}{}{Yo, sister with the fists! Looks to me like New Reno's being good to you!}
-{305}{}{Yo, sister fist, you ain't forgotten your pal Jules on your rise to the top, have you?}
-{306}{}{Lady Luck's shining on you, Miz Prizefighter. You got the MAGIC.}
-{320}{}{Damn, look at THIS shining star... yo' so bright I can barely see you, brother!}
-{321}{}{Yo, my low-hung brother! Looks to me like New Reno's been GOOD to you!}
-{322}{}{How about you introduce me to some of those actresses you work on, brother?}
-{323}{}{Yo, now you ain't forgotten your friend Jules on your rise to the top, have you?}
-{324}{}{Lady Luck's shining on you, man. You got the MAGIC.}
-{325}{}{I always knew you'd have your name in lights. I knew it first time I saw you.}
-{340}{}{Look at THIS sweet soul sister.}
-{341}{}{My heart throbs to see you.}
-{342}{}{C'mon, sister, give your old friend Jules a kiss.}
-{343}{}{Damn, look at THIS shining star... so bright I can barely see you, sister!}
-{344}{}{Yo! Looks to me like New Reno's been GOOD to you!}
-{345}{}{How about you let me star in a few scenes with you, sweetness?}
-{346}{}{Yo, now you ain't forgotten your friend Jules on your rise to the top, have you?}
-{347}{}{Lady Luck's shining on you, sweetness. You got the MAGIC.}
-{348}{}{I always knew you'd have your name in lights, sister. I knew it first time I saw you.}
-{349}{}{You're one classy lady when you're bucking and moaning on the screen.}
-{350}{}{Words cannot describe how hard I am to see you.}
-{365}{}{That a MUTANT?}
-{366}{}{That mutant's one big muthuh.}
-{367}{}{Mutants in New Reno? Must mean a storm's comin'...}
-{368}{}{Mutants from the wastes? Wasn't that eighty years ago?}
-{369}{}{That mutant ain't gonna last long in Reno...}
-{370}{}{Gonna be a murder if the families spot that mutant...}
+{262}{}{Porra e essa? Um carro ambulante?}
+{263}{}{Os traficantes de bosta vao surtar quando virem voce usando isso.}
+{280}{}{Vai falar bem de mim para o chefe, irmao?}
+{281}{}{Ei, irmao, voce nao esqueceu do seu amigo Jules agora que esta por cima, nao e?}
+{282}{}{Voce, escuro e mortal! Ta parecendo que New Reno tem sido BOM para voce!}
+{283}{}{Se seu chefe precisar de alguem para negociar uns Jet por ele, estou aqui...}
+{284}{}{Vai falar bem de mim para o chefe, mana?}
+{285}{}{Ei, mana, voce nao esqueceu do seu amigo Jules agora que esta por cima, nao e?}
+{300}{}{Ei, campeao! Ta parecendo que New Reno esta sendo BOM para voce!}
+{301}{}{Ei, campeao, voce nao esqueceu do seu amigo Jules agora que esta por cima, nao e?}
+{302}{}{A Dama da Fortuna brilha em voce, maninho. Voce tem a MAGIA.}
+{303}{}{Eu sempre soube que voce teria seu nome nas luzes. Ja sabia desde a primeira vez que te vi.}
+{304}{}{Hey, lutadora! Ta parecendo que New Reno este sendo BOM para voce!}
+{305}{}{Ei, lutadora, voce nao esqueceu do seu amigo Jules agora que esta por cima, nao e?}
+{306}{}{A Dama da Fortuna brilha em voce, senhorita. Voce tem a MAGIA.}
+{320}{}{Porra, olhe para ESTA estrela brilhante... voce e tao brilhante que mal consigo te ver, irmao!}
+{321}{}{Ei, machao! Ta parecendo que New Reno tem sido BOM para voce!}
+{322}{}{Que tal me apresentar umas dessas atrizes com quem voce trabalha, irmao?}
+{323}{}{Ei, voce nao esqueceu do seu amigo Jules agora que esta por cima, nao e?}
+{324}{}{A Dama da Fortuna brilha em voce, cara. Voce tem a MAGIA.}
+{325}{}{Eu sempre soube que voce teria seu nome nas luzes. Ja sabia desde a primeira vez que te vi.}
+{340}{}{Olhe para ESTA doce irmazinha.}
+{341}{}{Meu coraçao acelera ao te ver.}
+{342}{}{Vamos, mana, de um beijo no seu velho amigo Jules.}
+{343}{}{Porra, olhe para ESTA estrela brilhante... tao brilhante que mal consigo ver voce, maninha!}
+{344}{}{Ei! Ta parecendo que New Reno tem sido BOM para você!}
+{345}{}{Que tal voce me deixar fazer algumas cenas com voce, doçura?}
+{346}{}{Ei, voce nao esqueceu do seu amigo Jules agora que esta por cima, nao e?}
+{347}{}{A Dama da Fortuna brilha em voce, doçura. Voce tem a MAGIA.}
+{348}{}{Eu sempre soube que voce teria seu nome nas estrelas, maninha. Ja sabia a primeira vez que te vi.}
+{349}{}{Voce e muito elegante quando esta quicando e gemendo na tela.}
+{350}{}{Palavras nao podem descrever como eu fico bobo ao te ver.}
+{365}{}{Isso é um MUTANTE?}
+{366}{}{Aquele mutante é um dos grandes.}
+{367}{}{Mutantes em New Reno? Deve significar que tem problemas chegando...}
+{368}{}{Mutantes nos desertos? Isso nao foi ha uns oitenta anos?}
+{369}{}{Aquele mutante nao vai durar muito em Reno...}
+{370}{}{Vai ter uns assassinatos se as familias virem esse mutante...}
 {380}{}{Isso é um tipo de caça-níquel que está te seguindo por aí?}
 {381}{}{Isso é um robô caça-níqueis?}
 {382}{}{O seu robô faz truques? Uh…truques de mágica, que eu quis dizer.}
-{383}{}{You sellin' that robot? You can keep the brain.}
-{390}{}{A ghoul... thought I smelled somethin.}
-{391}{}{That ghoul boy ain't gonna last long in Reno...}
-{392}{}{Gonna be a murder if the families spot that ghoul...}
-{400}{}{Nice cyber-doggie... nice cyber-pooch...}
-{401}{}{Nice doggie... nice pooch... maybe I got a milkbone...}
-{402}{}{That dog is the first good reason I've ever seen for leash laws.}
-{403}{}{Is that dog part metal? I thought I was a bad-ass.}
-{404}{}{Wonder if you can breed cyber-dogs...}
-{410}{}{Reno can have a man for breakfast. Or a buffet.}
-{411}{}{A man can lose himself here, and Jules is the one who can find you.}
-{412}{}{This town can strip the unprepared... talk to me and I'll set you straight.}
-{413}{}{Women, chips, women, chips... what more do you need?}
-{414}{}{Jet, women, guns... I got it all. All's you gotta do is ASK.}
-{415}{}{Reno... the city that never sleeps.}
+{383}{}{Voce vende esse robo? Pode ficar com o cerebro.}
+{390}{}{Um ghoul... pensei sentir um cheiro estranho.}
+{391}{}{Esse ghoul ai nao dura muito tempo em Reno...}
+{392}{}{Vai ter uns assassinatos se as familias verem aquele ghoul...}
+{400}{}{Belo cybercao... caozinho legal...}
+{401}{}{Belo cachorrinho... bom vira-lata... talvez eu tenha um osso...}
+{402}{}{Aquele cachorro e a melhor razao que eu vi pra termos leis sobre coleiras.}
+{403}{}{Esse cachorro tem partes de metal? E eu achando que era foda.}
+{404}{}{Queria saber se voce pode criar cybe caes...}
+{410}{}{Reno pode comer qualquer cara no cafe da manha. Ou na hora do lanche.}
+{411}{}{Um homem pode se perder aqui, e Jules e quem pode encontrar.}
+{412}{}{Esta cidade pode acabar com os despreparados... fale comigo e eu esclareço algumas coisas.}
+{413}{}{Mulheres, tampas, mulheres, tampas... o que mais voce precisa?}
+{414}{}{Jet, mulheres, armas... Tenho tudo. A unica coisa que você precisa fazer e PEDIR.}
+{415}{}{Reno... a cidade que nunca dorme.}
 {416}{}{Jet, salgadinhos, jet, salgadinhos... Precisa de mais alguma coisa?}
-{417}{}{Come one, come all.}
-{418}{}{Jules is your EYES, your EARS, of New Reno.}
-{419}{}{Biggest little town in all the Wastes, friend.}
-{420}{}{You new in town? Worth your time to talk ta me, friend.}
-{421}{}{Jules is the man with what you NEED.}
+{417}{}{Venham um, venham todos.}
+{418}{}{Jules sao seus OLHOS e suas ORELHAS em New Reno.}
+{419}{}{A maior cidadezinha do deserto, amigo.}
+{420}{}{Voce e novo na cidade? Gaste um tempo falando comigo, amigo.}
+{421}{}{Jules e o homem de que voce PRECISA.}
 {422}{}{Você tem a excitação, eu tenho a solução.}
-{423}{}{Reno stays up ALL night, so you gotta be prepared.}
-{424}{}{Reno can have a woman for breakfast. So can I.}
-{425}{}{A woman can lose herself here. Let Jules be the one who finds you.}
-{426}{}{This town can strip the unprepared... talk to me. I'll strip you proper.}
-{427}{}{Yo! Come talk to me, sister!}
-{428}{}{You new in town, sister? Worth your time to talk ta me, lady.}
-{429}{}{You need Jet? You need guns? Sister, I got it all. All's you gotta do is ASK.}
-{450}{}{(Smiles, displaying a gleaming gold tooth. His cologne is so strong it almost chokes you.) }
-{451}{}{WELCOME to the glittering city of New Reno, my brother!}
-{452}{}{WELCOME to the glittering city of New Reno, my sister!}
-{453}{}{Hunh? Wh-?}
+{423}{}{Reno fica acordada a noite toda, voce precisa estar preparado.}
+{424}{}{Reno pode tomar cafe da manha com uma mulher. Eu tambem.}
+{425}{}{Uma mulher pode se perder aqui, e Jules e quem pode encontrar.}
+{426}{}{Esta cidade pode acabar com os novatos... Fale comigo e eu vou te orientar.}
+{427}{}{Ei! Venha falar comigo, mocinha!}
+{428}{}{Voce e nova na cidade, irma? Seu tempo falando comigo vai valer a pena, senhorita.}
+{429}{}{Voce precisa de jet? De armas? irma, eu tenho tudo. Tudo que voce precisa fazer e PEDIR.}
+{450}{}{(Sorri, mostrando um reluzente dente de ouro. Sua colonia e tao forte que quase te sufoca.) }
+{451}{}{BEM VINDO a brilhante cidade de New Reno, meu irmao!}
+{452}{}{BEM VINDA a brilhante cidade de New Reno, minha irma!}
+{453}{}{Eh? Qu-?}
 {454}{}{E você é...?}
 {460}{}{Name's Jules, and I would be MOST pleased to make your acquaintance, show you around, and set you up with whatever
  you're looking for.}

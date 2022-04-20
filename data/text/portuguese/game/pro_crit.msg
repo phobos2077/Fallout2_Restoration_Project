@@ -149,7 +149,7 @@
 {13300}{}{Hero Female (don't use)}
 {13400}{}{Guarda Vault City}
 {13500}{}{Guarda Vault City}
-{13600}{}{Cyberdog}
+{13600}{}{Cybercao}
 {13700}{}{Guarda da NCR}
 {13800}{}{Guarda da NCR}
 {13900}{}{Guarda da NCR porradeiro}
@@ -348,10 +348,10 @@
 {33100}{}{Marcus - Nivel 3}
 {33200}{}{Marcus - Nivel 4}
 {33300}{}{Marcus - Nivel 5}
-{33400}{}{Cyberdog - Nivel 1}
-{33500}{}{Cyberdog - Nivel 2}
-{33600}{}{Cyberdog - Nivel 3}
-{33700}{}{Cyberdog - Nivel 4}
+{33400}{}{Cybercao - Nivel 1}
+{33500}{}{Cybercao - Nivel 2}
+{33600}{}{Cybercao - Nivel 3}
+{33700}{}{Cybercao - Nivel 4}
 {33800}{}{Cassidy - Nivel 1}
 {33900}{}{Cassidy - Nivel 2}
 {34000}{}{Cassidy - Nivel 3}
@@ -491,7 +491,7 @@
 {47300}{}{K-9 (Nivel 2)}
 {47400}{}{K-9 (Nivel 3)}
 {47500}{}{K-9 (Nivel 4)}
-{47600}{}{Cyberdog generico}
+{47600}{}{Cybercao generico}
 {47700}{}{Ovo de Wanamingo}
 {47800}{}{Guarda de Lo Pan}
 {47900}{}{Marjorie}

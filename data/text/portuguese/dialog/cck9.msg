@@ -1,6 +1,6 @@
-{100}{}{Você vê um cyberdog.}
+{100}{}{Você vê um cybercao.}
 {101}{}{Você vê K-9.}
-{102}{}{Você vê um cyberdog. É parte máquina e parte cão.}
+{102}{}{Você vê um cybercao. E parte maquina e parte cao.}
 {103}{}{As funções vitais de meu mestre estão terminadas. Você é o meu novo mestre?}
 {104}{}{Uh... cachorrinho falar?}
 {105}{}{OK. Eu gosto de cachorrinho.}

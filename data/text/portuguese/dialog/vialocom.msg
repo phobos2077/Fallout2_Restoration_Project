@@ -1,11 +1,11 @@
-{100}{}{A computer terminal, displaying various bits of data.}
-{101}{}{You see a terminal. }
-{102}{}{A computer terminal, displaying various bits of data.}
-{103}{}{You see the Vault City Allocation Computer.}
+{100}{}{Um terminal de computador, exibindo varios bits de dados.}
+{101}{}{Você vê um terminal. }
+{102}{}{Um terminal de computador, exibindo varios bits de dados.}
+{103}{}{Voce ve o computador de alocaçao de Vault City.}
 {104}{}{Você vê um terminal.}
-{105}{}{You see the Vault City Allocation Computer.}
-{106}{}{This is the computer the Pip-Boy said to use.}
+{105}{}{Voce ve o computador de alocaçao de Vault City.}
+{106}{}{Este e o computador que o Pip-Boy disse usar.}
 {107}{}{Nada acontece.}
-{108}{}{With the help of the information on your Pip-Boy, you access the computer.}
-{109}{}{Whoa.}
-{110}{}{You have learned TONS of information about Fallout 2.}
+{108}{}{Com a ajuda das informaçoes do seu Pip-Boy, voce acessa o computador.}
+{109}{}{Eta poha.}
+{110}{}{Voce aprendeu TONELADAS de informaçoes sobre Fallout 2.}

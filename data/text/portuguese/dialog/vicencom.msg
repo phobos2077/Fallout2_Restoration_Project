@@ -1,6 +1,6 @@
-{100}{}{You see a computer terminal. It's engaged in some sort of diagnostic routine.}
-{101}{}{You see the Vault City central computer. }
-{102}{}{You see a computer terminal. It's engaged in some sort of diagnostic routine.}
+{100}{}{Você vê um terminal de computador. Esta engajado em algum tipo de rotina de diagnostico.}
+{101}{}{Voce ve o computador central de Vault City. }
+{102}{}{Você vê um terminal de computador. Esta engajado em algum tipo de rotina de diagnostico.}
 {103}{}{You see a metal box that is talking to itself in a woman's voice.}
 {104}{}{You see a talking metal box.}
 {105}{}{You see a metal box that is talking to itself in a woman's voice.}

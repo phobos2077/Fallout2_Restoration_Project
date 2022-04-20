@@ -148,7 +148,7 @@
 {304}{}{Cassidy.}
 {305}{}{Sulik.}
 {306}{}{Lenny.}
-{307}{}{Cyberdog.}
+{307}{}{Cybercao.}
 {308}{}{Doc.}
 {309}{}{Goris.}
 {310}{}{Davin.}

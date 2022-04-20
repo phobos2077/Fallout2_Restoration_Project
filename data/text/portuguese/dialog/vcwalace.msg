@@ -273,5 +273,5 @@
 {361}{}{Excelente. Aqui está... de novo, só é válido durante o dia - pela noite você será convidade a sair da cidade. Citizens também têm o direito de cancelar os privilégios do Day Pass a qualquer momento, então controle-se.}
 {362}{}{Entendido. Posso fazer mais algumas perguntas?}
 {363}{}{Obrigado.}
-{1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
-{1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}
+{1255}{}{Encontrei o acampamento dos invasores e convenci seu guia a nao ajuda-los. Eles nao serao capazes de encontrar seu caminho sem ele.}
+{1314}{}{Voce nao tera mais que se preocupar com esses invasores. Eu convenci o guia deles a sair e, sem a ajuda dele, eles nunca encontrarao o caminho pelas montanhas.}

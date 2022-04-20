@@ -1151,7 +1151,7 @@
 {1251}{}{Guarda de Lo Pan}
 {1252}{}{Roteiro do mapa}
 {1253}{}{Porta}
-{1254}{}{Cão Cibernético}
+{1254}{}{Cao Cibernetico}
 {1255}{}{Luke}
 {1256}{}{Joshua}
 {1257}{}{Portão}

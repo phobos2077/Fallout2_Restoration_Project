@@ -2525,8 +2525,8 @@
 {161700}{}{Sombra da Doca}
 {161800}{}{Sombra da Doca}
 {161900}{}{Escada}
-{162000}{}{Cyberdog desativado}
-{162001}{}{Você vê um Cyberdog desativado}
+{162000}{}{Cybercao desativado}
+{162001}{}{Você vê um Cybercao desativado}
 {162100}{}{Gerador de energia destruído}
 {162101}{}{Você vê um Gerador de energia destruído}
 {162200}{}{Caminho}

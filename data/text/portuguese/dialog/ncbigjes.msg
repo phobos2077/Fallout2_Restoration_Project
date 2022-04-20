@@ -80,7 +80,7 @@
 {349}{}{(Mordino estuda seus companheiros. Seu olhar para em Cassidy.) Vou levar o velho... parece que ainda
  aguenta uns anos de trabalho. Eu levo por 100 fichas.}
 {350}{}{(O olhar de Mordino para imediatamente no Robobrain.) Aquela máquina ali. Eu te dou 500 tampas por ela.}
-{351}{}{(O olhar de Mordino para imediatamente no cyberdog.) Vou comprar aquele... cachorro mecânico alí. Eu te
+{351}{}{(O olhar de Mordino para imediatamente no cybercao.) Vou comprar aquele... cachorro mecânico alí. Eu te
  dou 500 tampas por ele.}
 {352}{}{(Mordino estuda seus companheiros, depois balança a cabeça.) Você não tem nada que me interesse.}
 {353}{}{Senhor Mordino, por favor... esse escravo vale MUITO mais que isso. Restam muitos anos de ótimo serviço.}
@@ -101,14 +101,14 @@
 {393}{}{(Mordino anda ao redor de Vic, franzindo a testa.) Hmmmmm. Vou levá-lo por 200 tampas. Nada mais.}
 {394}{}{(Mordino anda ao redor de Cassidy, franzindo a testa.) Hmmmmm. Vou levá-lo por 200 tampas. Nada mais.}
 {395}{}{(Mordino estuda o Robobrain por alguns minutos.) Mil fichas por ele.}
-{396}{}{(Mordino estuda o cyberdog por alguns minutos.) Mil fichas por ele.}
+{396}{}{(Mordino estuda o cybercao por alguns minutos.) Mil fichas por ele.}
 {410}{}{(Mordino leva Miria enquanto conta o seu dinheiro.) Aqui.}
 {411}{}{(Mordino leva Davin enquanto conta seu dinheiro.) Aqui.}
 {412}{}{(Mordino leva Sulik enquanto conta seu dinheiro.) Aqui.}
 {413}{}{(Mordino leva Vic enquanto conta seu dinheiro.) Aqui.}
 {414}{}{(Mordino leva Cassidy enquanto conta seu dinheiro.) Aqui.}
 {415}{}{(Mordino leva Robobrain enquanto conta seu dinheiro.) Aqui.}
-{416}{}{(Mordino leva Cyberdog enquanto conta seu dinheiro.) Aqui.}
+{416}{}{(Mordino leva cybercao enquanto conta seu dinheiro.) Aqui.}
 {417}{}{Gostaria de ver o que mais tenho em estoque?}
 {418}{}{Obrigado, senhor Mordino. A propósito, eu tinha algumas perguntas que queria te fazer...}
 {419}{}{Obrigado, senhor Mordino. Espero que o escravo te sirva bem. Tchau.}
