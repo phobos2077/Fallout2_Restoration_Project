@@ -61,7 +61,7 @@
 {275}{}{Sorry I asked. I better be going.}
 {276}{}{Sorry, Mrs. Bishop. I didn't mean to pry. I'll leave.}
 {280}{}{(She frowns.) I'll leave that to your imagination. (Looks irritated.) Is that *all?*}
-{281}{}{Actually, I had some other questions...}
+{281}{}{Na verdade, eu tinha outras perguntas...}
 {285}{}{There really is nothing to say about the Bishop 'Family.' Oh... there is the extended family
  of hired thugs, mercenaries, whores, pushers, and slaves, but that is really all that the Bishop 'family'
  amounts to.}

@@ -99,51 +99,51 @@
 {452}{}{BEM VINDA a brilhante cidade de New Reno, minha irma!}
 {453}{}{Eh? Qu-?}
 {454}{}{E você é...?}
-{460}{}{Name's Jules, and I would be MOST pleased to make your acquaintance, show you around, and set you up with whatever
- you're looking for.}
-{461}{}{Name's Jules, and may I say I have NEVER seen a more beautiful woman stride down this street until this moment. It'd
- be MY pleasure to give you a tour of Reno and set you up with WHATEVER you're looking for.}
-{462}{}{Hey, hey, hey, welcome back! What is it you need from Jules, my friend?}
+{460}{}{O nome e Jules, e eu ficaria LISONGEADO em conhece-lo, te
+ mostrar tudo e ajudar no que voce esta procurando.}
+{461}{}{O nome e Jules, e devo dizer que NUNCA vi uma mulher tao bonita andar por estas ruas ate este momento. Seria o MAIOR
+ prazer lhe mostrar New Reno e ajudar com o que voce esta procurando.}
+{462}{}{Ei, ei, ei, bem vindo de volta! O que voce precisa de Jules, meu amigo?}
 {463}{}{Estou procurando por... hum. Eu esqueci de novo}
 {464}{}{Cai fora}
-{465}{}{All right. How can you help me?}
+{465}{}{Tudo bem. Como voce pode me ajudar?}
 {466}{}{Bem, eu tenho algumas perguntas...}
-{467}{}{Know what happened to Mr. Wright's son, Jules?}
-{468}{}{Jules, have you seen my car? I parked it here a while ago, and now it's gone.}
-{469}{}{Look..."Jules," is it? You obviously expect something out of this conversation, so level with me up front.
- What are YOU looking for?}
-{470}{}{So, I'm curious... what do YOU get out of playing tour guide, Jules?}
-{471}{}{Not today, Jules, thanks.}
-{472}{}{Nothing, thanks. See you, Jules.}
-{480}{}{Eh... don't strain the brain, little brother. You just don't hurt yourself, now, hear?}
-{481}{}{Eh... don't strain the brain, little sister. You just don't hurt yourself, now, hear?}
+{467}{}{Sabe o que aconteceu com o filho do Sr. Wright, Jules?}
+{468}{}{Jules, voce viu meu carro? Eu estacionei um tempinho atras, e agora sumiu.}
+{469}{}{Olhe... "Jules," nao e? Parece obvio que voce espera algo dessa conversa, então va direto ao ponto. O que
+ VOCE está procurando?}
+{470}{}{Sei, estou curioso... o que voce ganha sendo meu guia turistico, Jules?}
+{471}{}{Hoje nao, Jules, obrigado.}
+{472}{}{Nada, obrigado. Ate mais, Jules.}
+{480}{}{Eh... nao force esse cerebro, carinha. Eu nao quero que voce se machuque, ouviu?}
+{481}{}{Eh... nao force esse cerebro, mocinha. Eu nao quero que voce se machuque, ouviu?}
 {482}{}{Hi tee hi tee hi tee ho}
-{490}{}{I can get you ANYTHING you need, brother. If you need to fly, get high, slide down low in a luscious ho, Jules knows
- where to GO. Question is: I gots the treasure, so what's YOUR pleasure?}
-{491}{}{Anything you need, Jules is the MAN, sister. If you need to fly, get high, slide down low, Jules knows where to GO.
- Question is: I gots the treasure, so what's YOUR pleasure?}
-{492}{}{Anything you need, Jules is the MAN, my sweet sister. If you need to fly, get high, slide down low, Jules knows where
- to GO. Question is: I gots the treasure, so what's YOUR pleasure?}
-{493}{}{Sure thing, sure thing... I gots the treasure, so what's YOUR pleasure?}
-{494}{}{Can you tell me a little about New Reno?}
-{495}{}{Where can I get some drugs?}
-{496}{}{I'm looking to buy some heavy firepower.}
-{497}{}{I'm looking for supplies.}
-{498}{}{I want to get laid.}
+{490}{}{Eu posso conseguir QUALQUER COISA que voce precisa, irmao. Se voce precisa voar, ficar alto, usar um bagulho FORTE,
+ Jules sabe onde voce precisa ir. O negocio e o seguinte: eu tenho a solucao, entao, qual é o SEU problema?}
+{491}{}{Qualquer coisa que voce precisar, Jules e seu HOMEM, maninha. Se voce precisa voar, subir alto, usar um bagulho
+ FORTE, Jules sabe onde voce PRECISA ir. O negocio e o seguinte: eu tenho a solucao, entao, qual e o SEU problema?}
+{492}{}{Qualquer coisa que voce precise, Jules é o seu HOMEM, docinho. Se voce precisa voar, subir alto, usar um bagulho FORTE, Jules
+ sabe onde voce PRECISA ir. O negocio e o seguinte: eu tenho a solucao, entao, qual e o SEU problema?}
+{493}{}{Com certeza, com certeza... Eu tenho a solucao, entao, qual e o seu problema?}
+{494}{}{Voce pode me falar um pouco sobre New Reno?}
+{495}{}{Onde posso conseguir algumas drogas?}
+{496}{}{Estou querendo comprar coisas com poder de fogo pesado.}
+{497}{}{Estou procurando suprimentos.}
+{498}{}{Quero um lugar pra transar.}
 {499}{}{Estou procurando um lugar chamado Vault 13.}
-{500}{}{I'm looking for my tribe. They've been kidnapped.}
-{501}{}{Do you know how to fix an oil tanker?}
+{500}{}{Estou procurando minha tribo. Eles foram sequestrados.}
+{501}{}{Voce sabe como consertar um petroleiro?}
 {502}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
 {503}{}{Nada por hoje, valeu.}
-{515}{}{Can Jules TELL you 'bout New Reno? Hell, yes! FIRST thing you should know: Reno's ruled by four families: Mordinos,
- the Salvatores, the Bishops and the Wrights. Each o' them got a slice of th' Reno pie.}
-{516}{}{Reno's got four families: Mordinos, Salvatores, Bishops, Wrights. Each o' them got a slice of th' Reno pie.}
-{517}{}{Tell me about the families.}
-{518}{}{What about the law?}
-{519}{}{Actually, I had some other questions...}
-{520}{}{Interesting. Thanks for talking with me.}
-{525}{}{Ain't no law, ain't no po-lice, ain't no sheriff, ain't no government body. JUST the families.}
-{527}{}{Who keeps order in Reno then?}
+{515}{}{Jules pode falar sobre New Reno? Claro que sim! PRIMEIRA coisa que você deve saber: Reno e governado por quatro
+ famílias: Mordinos, Salvatores, Bishops e Wrights. Cada um deles tem uma fatia da torta Reno.}
+{516}{}{Reno tem quatro famiias: Mordinos, Salvatores, Bishops, Wrights. Cada um deles tem uma fatia da torta de Reno.}
+{517}{}{Me fale sobre as familias.}
+{518}{}{Qual sao as leis daqui?}
+{519}{}{Na verdade, eu tinha outras perguntas...}
+{520}{}{Interessante. Obrigado por falar comigo.}
+{525}{}{Nao ha lei, nao ha policia, nao ha xerife, nao ha orgao publico. APENAS as familias.}
+{527}{}{Quem mantem a ordem em Reno entao?}
 {528}{}{Entendo. Eu tenho outras perguntas...}
 {535}{}{The Families keep things running smooth. They don't LIKE trouble in Reno 'cause it hurts the tourist trade, and that
  means less money for them. Don't make trouble and cover yer bets, you'll stay off Golgotha.}
