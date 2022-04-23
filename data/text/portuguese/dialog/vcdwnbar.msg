@@ -96,19 +96,19 @@
 {195}{}{Not much. Most contact we have with Outsiders is merchants travelling the Big Circle caravan trail from Broken Hills, New Reno, and Redding. Only other place outside the caravan trail that I know of is Gecko.}
 {196}{}{Me fale sobre Broken Hills.}
 {197}{}{Tell me about New Reno.}
-{198}{}{Tell me about Redding.}
+{198}{}{Me fale sobre Redding.}
 {199}{}{Tell me about Gecko.}
 {200}{}{I wanted to know something else...}
 {201}{}{Obrigado pela informação.}
 {202}{}{It's a mining community like Redding, except it's located to the far South. We get many of our uranium shipments from there.}
 {203}{}{Tell me about New Reno.}
-{204}{}{Tell me about Redding.}
+{204}{}{Me fale sobre Redding.}
 {205}{}{Tell me about Gecko.}
 {206}{}{I wanted to know something else...}
 {207}{}{Obrigado pela informação.}
 {208}{}{It's a ways to the southwest. I hear conflicting reports about Reno. Some merchants, especially the slavers, really love it there. Other merchants... don't. City with a lot of glitter... and a lot of trouble, I hear.}
 {209}{}{Me fale sobre Broken Hills.}
-{210}{}{Tell me about Redding.}
+{210}{}{Me fale sobre Redding.}
 {211}{}{Tell me about Gecko.}
 {212}{}{I wanted to know something else...}
 {213}{}{Obrigado pela informação.}
@@ -121,7 +121,7 @@
 {220}{}{A town of ghouls less than a day's travel to the northeast, as I understand it. Rumor is they prey on any travelers that enter their territory. Best stay away.}
 {221}{}{Me fale sobre Broken Hills.}
 {222}{}{Tell me about New Reno.}
-{223}{}{Tell me about Redding.}
+{223}{}{Me fale sobre Redding.}
 {224}{}{I wanted to know something else...}
 {225}{}{Obrigado pela informação.}
 {226}{}{Why? You looking for something with some more kick than these synthetic drinks?}

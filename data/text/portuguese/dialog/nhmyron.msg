@@ -559,7 +559,7 @@
 {1689}{}{Eu tenho mais algumas perguntas...}
 {1695}{myn244}{What didja wanna know?}
 {1696}{}{Conte-me sobre este lugar.}
-{1697}{}{Tell me about the Mordino Family.}
+{1697}{}{Conte sobre a Familia Mordino.}
 {1699}{}{I'm going to go now.}
 {1705}{myn245a}{The Stables? We test new kinds o' Jet here. What about it?}
 {1706}{myn245b}{The Stables? Uh, we test new kinds o' Jet here. What about it, beautiful?}

@@ -145,105 +145,104 @@
 {525}{}{Nao ha lei, nao ha policia, nao ha xerife, nao ha orgao publico. APENAS as familias.}
 {527}{}{Quem mantem a ordem em Reno entao?}
 {528}{}{Entendo. Eu tenho outras perguntas...}
-{535}{}{The Families keep things running smooth. They don't LIKE trouble in Reno 'cause it hurts the tourist trade, and that
- means less money for them. Don't make trouble and cover yer bets, you'll stay off Golgotha.}
+{535}{}{As Familias mantem as coisas em ordem. Eles nao gostam de problemas em Reno porque prejudicam o comercio turistico,
+ e isso quer dizer menos dinheiro para eles. Nao crie problemas e pague suas apostas, assim voce fica fora da oólgota.}
 {537}{}{Golgotha?}
-{545}{}{Yeah, this graveyard outside o' town. It's where they put debtors and people who've crossed the families.
- They just string 'em up on posts and let 'em die slowly in the sun. Not my choice a' dying. Stinks like hell out there.}
+{545}{}{Sim, esse cemiterio fora da cidade. E onde eles colocam caloteiros e pessoas que enfrentam as familias.
+ Eles so os prendem em postes e os deixam morrer lentamente no sol. Nao e minha escolha morrer, fede como o inferno la fora.}
 {547}{}{Hum. Diga, eu tinha algumas outras perguntas...}
-{548}{}{Sounds great. Thanks for the information.}
-{555}{}{Well, now, ANOTHER thing you gotta know about New Reno is nothin's free. If it is, ex-amine the merchandise.}
-{556}{}{Well, now, that kind of info don't come cheap. You got the chips? Then you got my attention.}
-{557}{}{Pay him 25 chips.}
-{558}{}{Pay him 50 chips.}
-{559}{}{Pay him 75 chips.}
-{560}{}{Pay him 100 chips.}
+{548}{}{Parece bom. Obrigado pela informaçao.}
+{555}{}{Bem, agora, OUTRA coisa que voce precisa saber sobre New Reno e que NADA e de graça. Se for, veja o que esta comprando.}
+{556}{}{Bem, agora, esse tipo de informaçao nao sai barato. Voce tem as tampas? Entao voce tem minha atençao.}
+{557}{}{Voce paga 25 tampas.}
+{558}{}{Voce paga 50 tampas.}
+{559}{}{Voce paga 75 tampas.}
+{560}{}{Voce paga 100 tampas.}
 {561}{}{Na verdade, eu tenho outras perguntas... Mas não são relacionadas a família.}
-{562}{}{Looks like I can't afford any information right now. I'll be back when I have some chips.}
-{563}{}{I'll keep that in mind. Thanks for the tip, Jules.}
-{575}{}{(Jules pockets the chips so quickly, you swear they vanished.) So... which of the fine families interests you today?}
-{576}{}{(Jules pockets the chips.) So... which family you got the need to know about?}
-{577}{}{Tell me about the Mordino Family.}
-{578}{}{Tell me about the Salvatore Family.}
-{579}{}{Tell me about the Bishop Family.}
-{580}{}{Tell me about the Wright Family.}
+{562}{}{Nao posso pagar nenhuma informaçao agora. Voltarei quando tiver algumas tampas.}
+{563}{}{Vou me lembrar disso. Obrigado pela dica, Jules.}
+{575}{}{(Jules embolsa as tampas tao rapido que voce jura que elas desapareceram.) Entao... qual das belas familias te interessa hoje?}
+{576}{}{(Jules embolsa as tampas.) Entao... de qual familia voce precisa saber?}
+{577}{}{Conte sobre a Familia Mordino.}
+{578}{}{Conte sobre a Familia Salvatore.}
+{579}{}{Conte sobre a Familia Bishop.}
+{580}{}{Conte sobre a Familia Wright.}
 {581}{}{Eu tenho algumas perguntas sobre New Reno...}
-{582}{}{Actually, nevermind. We'll talk some other time.}
-{590}{}{(Holds up two fingers.) The Mordinos are a two-headed beast, friend, an' each head's named Jesus Mordino.}
+{582}{}{Na verdade, nao importa. Vamos falar de outra hora.}
+{590}{}{(Levanta dois dedos.) Os Mordinos sao uma besta de duas cabeças, amigo, e cada cabeça se chama Jesus Mordino.}
 {591}{}{Continue...}
-{592}{}{I always suspected Jesus had ties to organized crime.}
-{594}{}{Let's go back to the other families.}
-{596}{}{Actually, nevermind. Thanks for talking with me.}
-{615}{}{There's the father, Big Jesus Mordino, and the son, Lil' Jesus, and both are the meanest sons of bitches you ever met.
- Used to be slaves here, but they turned the tables years ago and carved out their own lil' empire.}
-{616}{}{How big is their "empire?"}
-{625}{}{They own the Desperado just down the street. Can't miss it. They also got the biggest supply of Jet in ALL o' New Reno.
- So if you got the urge to fly...}
-{626}{}{Speaking of which, do you know where can I get some drugs around here?}
-{627}{}{How come the Mordinos have the biggest supply of Jet?}
-{628}{}{Tell me about the other families.}
-{635}{}{They're on top of the pile, friend. Ain't no more reason than that. They got the factory, the maker, and the
- distribution. They're like a whole goddamn airline they got so much Jet.}
-{636}{}{Yeah, what about it?}
-{637}{}{What factory?}
-{638}{}{What "maker?"}
-{639}{}{How extensive is their distribution network?}
-{650}{}{Got factories all over New Reno, cranking out the shit day and night. That's why you can buy all
- the Jet you need most anywhere: bars, casinos, on th' street... and a-course, from ME.}
+{592}{}{Sempre suspeitei que Jesus tinha ligaçoes com o crime organizado.}
+{594}{}{Vamos ver as outras familias.}
+{596}{}{Na verdade, nao importa. Obrigado por falar comigo.}
+{615}{}{Tem o pai, Grande Jesus Mordino, e o filho, Pequeno Jesus, e ambos sao os filhos da puta mais malvados que voce ja
+ conheceu. Antes eram escravos aqui, mas eles viraram o jogo anos atras e criaram seu proprio pequeno imperio.}
+{616}{}{Quao grande e esse "império?"}
+{625}{}{Eles sao donos do Desperado no final da rua. Nao tem como perder. Eles tambem controlam o maior suprimento de Jet em
+ TODA Reno. Entao, se voce tem vontade de chpar...}
+{626}{}{Falando nisso, voce sabe onde posso conseguir algumas drogas por aqui?}
+{627}{}{Como e que os Mordinos tem o maior fornecimento de Jet?}
+{628}{}{Me conte sobre as outras familias.}
+{635}{}{Eles estao acima de todos, amigo. Esse e o maior motivo. Eles tem a fabrica, o fabricante e a distribuiçao. Eles
+ sao como uma maldita companhia aerea de tanto jet que eles tem.}
+{636}{}{Sim, e o que mais?}
+{637}{}{Que fabrica?}
+{638}{}{Que "fabricante?"}
+{639}{}{Quao extensa e a sua rede de distribuiçao?}
+{650}{}{Tem fabricas por toda New Reno, produzindo essa merda dia e noite. E por isso que voce pode
+ comprar todo o Jet que precisa em qualquer lugar: bares, cassinos, na rua... e claro, de MIM.}
 {651}{}{Posso ver o que você tem em estoque?}
-{652}{}{Back to the Mordinos and Jet...}
-{660}{}{Yeah... (Leans in.) ...see, the Mordinos got themselves a lil' gold mine by the name o' Myron. Hit the jackpot with him... see,
- he MADE Jet.}
-{662}{}{Enough about the Mordinos and the families for now. Tell me about this Myron...}
-{670}{}{They pump it all over New Reno, for starters. Up north to the Den, and also... uh... (Catches himself, then shrugs and continues.)
- ... well, it's also makin' it's way to Redding nowadays, too, which don't hurt the Mordinos purse none.}
-{672}{}{Tell me about Redding.}
-{685}{}{Not much TO say. Mining town northwest o' here. Word is, Mordino wants to get some influence there, get some of
- that Redding GOLD they dig up. So he ships them Jet, they ship back gold, everybody happy.}
-{695}{}{Quiet bunch. They're led by Louis Salvatore, an original gangster gettin' on in years. Their territory's on the West Side;
- their crib's this bar called Salvatore's on 2nd Street. Don't be making trouble there.}
+{652}{}{Voltando aos Mordinos e jet...}
+{660}{}{Sim... (inclina-se.) ...veja, os Mordinos conseguiram uma pequena mina de ouro com o nome de Myron. Eles acertaram
+ em cheio com ele... ele CRIOU o Jet.}
+{662}{}{Ja chega de falar dos Mordinos e das familias. Me fale sobre esse Myron...}
+{670}{}{Eles distribuem tudo em New Reno, para começar. Desde o norte ate Den, e tambem... uh... (se pega, entao da de ombros e continua.)... bem, eles tambem estao indo para Redding, o que nao esta prejudicando os lucros dos Mordinos.}
+{672}{}{Me fale sobre Redding.}
+{685}{}{Nao ha muito a dizer. Cidade mineira a noroeste daqui. O negocio e que Mordino quer ter alguma influencia la,
+ conseguir um pouco do OURO de Redding que eles desenterraram. Entao ele manda jet e eles enviam ouro de volta, todo mundo feliz.}
+{695}{}{Grupo tranquilo. Eles sao liderados por Louis Salvatore, um gangster de verda, mas esta velho. O territorio deles fica no lado
+ oeste; eles te um bar chamado Salvatore's na Segunda Rua. Nao fique causando problemas la.}
 {696}{}{Por que não?}
-{710}{}{Some free advice: You see a Salvatore, keep your head down n' mouth shut, or they'll cut you in two. They got the best
- firepower this side of Cee-Ay, so nobody with any kinda sense fucks with them, understand?}
-{711}{}{What kind of "firepower" do the Salvatores have?}
-{712}{}{Sounds like they got some pretty heavy shit. What are they packing?}
+{710}{}{Um conselho gratis: se ver um Salvatore, mantenha a cabeça baixa e a boca fechada, ou eles vao te cortar em dois. Eles
+ tem o melhor poder de fogo desse lado da California, qualquer um com o minimo de nocao nao tenta foder com eles, entende?}
+{711}{}{Que tipo de "poder de fogo" os Salvatores tem?}
+{712}{}{Parece que eles tem fogo bem pesado. O que seria?}
 {715}{}{Interessante... Obrigado pelo aviso.}
-{725}{}{Pistols...'cept they shoot LIGHT. Now, Reno's a city o' lights, but the light THOSE pistols shine can cut a man in
- two... *swuppp*... (Jules makes slicing motion.) Makes a clean burn 'tween the two halves, it does.}
-{726}{}{They shoot light? Do they call the pistols 'laser pistols?'}
-{727}{}{I'll be sure to be careful, then. Can you tell me about the other families?}
-{735}{}{Well, uh, I don't really know... I ain't sure what you're talking about. But take my word for it: don't go asking
- the Salvatores about those pistols. They have this twitchy habit a killing people who're curious.}
-{736}{}{By 'laser pistols,' Jules, I mean pistols that emit beams of coherent light. A beam of sufficient wattage - say, several
- megawatts - could do considerable damage if focused on a target for a few seconds, producing the effect you've described.}
-{737}{}{Did they always have these pistols?}
-{750}{}{They didn't always have 'em... else they'd be in charge o' New Reno... ALL of New Reno. As it stands, they're just
- building up quietly. Those pistols showed up... maybe a few months back, 'round the time o' the massacre.}
+{725}{}{Pistolas... mas que atiram LUZ. Olha, Reno é uma cidade de luzes, mas a luz que AQUELAS pistolas brilham
+ pode cortar um homem em dois... *swuppp*... (Jules faz um movimento de corte.) Faz uma queimadura limpa entre as duas metades, ah faz.}
+{726}{}{Elas atiram luz? Eles chamam isso de 'pistolas a laser?'}
+{727}{}{Com certeza vou ser cuidadoso. Voce pode me falar sobre as outras familias?}
+{735}{}{Bem, uh, eu realmente nao sei... Eu nao tenho certeza do que voce esta falando. Mas acredite: nao pergunte
+ aos Salvatores sobre essas pistolas. Eles tem um certo habito de matar pessoas curiosas.}
+{736}{}{Por 'pistolas a laser', Jules, quero dizer pistolas que emitem feixes de luz concentrada. Um feixe com potencia suficiente
+ - digamos, varios megawatts - pode causar danos consideraveis se focado em um alvo por alguns segundos, o efeito e exatamente o que voce descreveu.}
+{737}{}{Eles sempre tiveram essas pistolas?}
+{750}{}{Eles nem sempre as tiveram... senao eles estariam no comando de New Reno... TODA New Reno. Dessa forma, eles
+ estao apenas crescendo silenciosamente. Aquelas pistolas apareceram... talvez alguns meses atras, na epoca do massacre.}
 {751}{}{Massacre?}
-{765}{}{Oh, yeah... two Salvatore boys with those pistols killed a buncha Bishop's men, then shot down some of Mordino's boys who'd
- been tryin' to muscle in on the West Side. Since then, the other families steered clear of the Salvatores.}
-{766}{}{Definitely sounds like lasers. Do you know how the Salvatores power their laser pistols? Do they employ battery packs,
- fusion cells, or cabled power systems of any kind?}
-{767}{}{Any idea where they're getting these pistols from?}
-{780}{}{No idea, friend, I ain't asking, and you shouldn't neither... take my advice. You looking for weapons, there's
- other... safer... places you can try.}
-{781}{}{Like where?}
-{782}{}{Tell me some more about the families.}
-{795}{}{Uh... now, I  don't know 'bout that, and... hmmmm. Y'know, you talk like one of them whitecoats over at the Stables. Y'sure you ain't
- one of them?}
-{796}{}{Stables?}
-{810}{}{(Leans in.) Now, I don't want to go on 'bout the less PLEASANT New Reno sites, but there's a buncha whitecoats
- who talk like you in this building, the Stables, north o' town. Heavily guarded by Mordino's men.}
-{811}{}{What do they do there?}
-{825}{}{Test new kinds o' Jet, from what I hear. Now, I'm telling you this in CONFIDENCE, friend: don't go poking around
- there... the Mordinos don't like visitors. 'Sides... Jules can get you all the Jet you need.}
-{826}{}{Why do the Mordinos keep testing Jet? It sounds like it's addictive enough as it is.}
-{827}{}{Who do the Mordinos test the drugs on?}
-{828}{}{Do you know how I can get into the Stables?}
-{840}{}{Slaves, pretty much. Keep 'em in stalls in the stables, like brahmin. }
-{841}{}{Mordinos buy a bunch from slavers that pass through. }
-{842}{}{Mordinos buy a bunch from slavers like you that pass through New Reno. }
-{843}{}{They buy a helluva lot, too, cause the slaves keep getting sick, running away... or die. Mostly die.}
+{765}{}{Ah, sim... dois caras de Salvatore com aquelas pistolas mataram um monte de homens de Bishop, depois mataram alguns dos homens
+ de Mordino que estavam tentando invadir o Lado Oeste. Desde entao, as outras familias se afastaram dos Salvatores.}
+{766}{}{Definitivamente sao lasers. Voce sabe como os Salvatores recarregam suas pistolas a laser? Elas usam baterias,
+ celulas de fusao ou algum tipo de sistema de energia cabeado?}
+{767}{}{Alguma ideia de onde eles estao tirando essas pistolas?}
+{780}{}{Nao faço ideia, amigo, nao fico perguntando, e voce tambem nao deveria... siga meu conselho. Se voce esta
+ procurando por armas, ha outros modos ... mais seguros... lugares que voce pode tentar.}
+{781}{}{Onde por exemplo?}
+{782}{}{Me conte um pouco mais sobre as familias.}
+{795}{}{Uh... bem, eu nao sei nada sobre isso, e... hmmmm. Sabe, voce poderia tentar um daqueles genios do estabulo. Tem certeza que voce nao
+ e um deles?}
+{796}{}{Estabulos?}
+{810}{}{(Inclina-se.) Agora, eu nao quero falar sobre os locais menos AGRADAVEIS de New Reno, mas ha um bando de
+ casacos brancos que falam como voce nesse lugar, os estabulos, ao norte da cidade. Fortemente guardado pelos homens de Mordino.}
+{811}{}{O que eles fazem la?}
+{825}{}{Testam novos tipos de Jet, pelo que ouvi. Agora, te digo com  CONFIANÇA, amigo: nao fique bisbilhotando por
+ aí... os mordinos nao gostam de visitas. - Alem disso... Jules pode te dar todo o jet que voce precisa.}
+{826}{}{Por que os Mordinos continuam testando o jet? Parece que e viciante o suficiente esse jeito.}
+{827}{}{Em quem os Mordinos testam as drogas?}
+{828}{}{Voce sabe como posso entrar nos estabulos?}
+{840}{}{Escravos, normalmente. Eles ficam em baias nos estabulos, como brahmins. }
+{841}{}{Mordinos compram lotes dos traficantes de escravos que passam. }
+{842}{}{Mordinos compram lotes de traficantes de escravos como voce que passam por New Reno. }
+{843}{}{Eles compram muito, os escravos continuam adoecendo, fugindo... ou morrem. Principalmente morrem.}
 {860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
  BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
 {880}{}{Now hold on a minute -- I wouldn't even THINK about that if I were you, friend. The Mordinos guard that place like
