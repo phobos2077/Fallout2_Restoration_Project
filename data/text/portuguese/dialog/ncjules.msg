@@ -243,37 +243,37 @@
 {841}{}{Mordinos compram lotes dos traficantes de escravos que passam. }
 {842}{}{Mordinos compram lotes de traficantes de escravos como voce que passam por New Reno. }
 {843}{}{Eles compram muito, os escravos continuam adoecendo, fugindo... ou morrem. Principalmente morrem.}
-{860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
- BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
-{880}{}{Now hold on a minute -- I wouldn't even THINK about that if I were you, friend. The Mordinos guard that place like
- rabid dogs. Just put the thought outta your mind.}
+{860}{}{Só para melhorar, eu acho, refinar o processo, refinar a droga. jet é bom, mas se eles podem torna-lo ainda
+ melhor... vao fazer. As pessoas sempre estao em busca de algo mais forte.}
+{880}{}{Espere ai, cara - eu nem pensaria nisso se fosse voce, amigo. Os Mordinos guardam aquele lugar como cães raivosos.
+ Esquece essa merda ai, meu.}
 {881}{}{Deve ter uma forma de entrar...}
-{886}{}{All right, nevermind then. Thanks for the information.}
-{895}{}{Well... if you can talk all smart like you were doing, you could pass for one of the whitecoats there.
- 'Course, you could also hire on with the Mordinos and get put there...}
-{910}{}{Ha! John Bishop? Not much to say: Bishop's a smart one, tough, and he's looking to get it ALL.}
-{911}{}{Yeah, well, he'll have to fight me for it. Where is this jerk-off's territory?}
-{912}{}{Where's his territory?}
-{925}{}{He hangs out at the Shark Club up on 2nd Street. He's surrounded by guards, so don't go paying a visit unless you got REAL
- business with him. (Smiles evily.) And keep yer business away from his wife. AND his daughter.}
-{926}{}{Uh, business?}
-{927}{}{No danger of that.}
-{935}{}{You know what I mean, brother. Just stay away from them two, 'less the thought of bein' on Bishop's list is somethin'
- you like.}
-{936}{}{Well, maybe so, but WHAT you got 'tween your legs don't matter... to Missus Bishop, at least. She swings like a saloon door.}
-{937}{}{Uh, tell me some more about the families.}
-{945}{}{The Wrights? Heh. The Wrights are the only family who ARE family. The other families, see, they got mercs
- and tumbleweeds for muscle, but the Wright family IS the Wright family, understand?}
-{946}{}{Got a warning for you where the Wrights are concerned, slaver... see, the Wrights are the only family who ARE family.}
-{947}{}{They're family? How many are there?}
-{960}{}{Almost twenty or more true-blooded Wrights. Mean as spit and each of them uglier than the next.}
-{961}{}{Almost twenty or more true-blooded Wrights, and they don't take kindly to people in your line of work. Word is, they
- lost a sister way back when to a slaver, and they ain't liked slavers ever since.}
-{962}{}{What do the Wrights control in New Reno?}
-{975}{}{They ain't got no casino, they mostly deal in alcohol and sell it to the other families. So if you're looking
- for hootch... they hang out in the east side o' town in a big mansion.}
-{985}{}{Brother, you need look no farther than humble Jules himself. }
-{986}{}{Sister, you need look no farther than humble Jules himself. }
+{886}{}{Tudo bem, tranquilo entao. Obrigado pela informaçao.}
+{895}{}{Bem... se voce consegue falar tao bem como esta fazendo, você pode passar por um dos cientistas
+ de la. Claro, voce tambem pode ser contratado pelos Mordinos e ser colocado la...}
+{910}{}{Ah! John Bishop? Nao ha muito a dizer: Bishop é esperto, durao, e esta querendo conseguir TUDO.}
+{911}{}{Sim, bem, ele vai ter que lutar comigo por isso. Onde fica o territorio desse idiota?}
+{912}{}{Onde fica o territorio dele?}
+{925}{}{Ele frequenta o Shark Club na Segunda Rua. Fica sempre cercado por guardas, entao nao va fazer uma visita a menos que
+ ALGUMA coisa para falar com ele. (Sorri maliciosamente.) E mantenha seus negocios longe da esposa dele. E sua filha.}
+{926}{}{Eh, negocios?}
+{927}{}{Nao tem perigo com isso.}
+{935}{}{Voce sabe o que quero dizer, irmao. Apenas fique longe dos dois, a menos voce goste de entrar na lista negra do
+ Bishop.}
+{936}{}{Bem, talvez, mas o que você TEM entre as pernas nao importa... pelo menos para a Sra. Bishop. Ela balança como uma porta de salao.}
+{937}{}{Uh, me conte mais sobre as famílias.}
+{945}{}{Os Wrights? Heh. Os Wrights sao a unica família que SAO familia. As outras familias, olha, eles tem mercenarios
+ e uns par de bruta montes, mas a família Wright e realmente a familia Wright, entende?}
+{946}{}{Tenho um aviso para voce no que diz respeito aos Wrights, escravista... veja, os Wrights sao a unica família que SAO família.}
+{947}{}{Eles sao familia? Quantos sao?}
+{960}{}{Uns vinte ou mais Wrights do mesmo sangue. E foram cuspidos um mais feio que o outro.}
+{961}{}{Quase vinte ou mais Wrights de sangue puro, e eles nao gostam de pessoas com seu tipo de trabalho. Dizem que eles
+ perderam uma irma para um traficante de escravos, eles nao suportam traficantes de escravos desde entao.}
+{962}{}{O que os Wrights controlam em New Reno?}
+{975}{}{Eles nao tem cassino, eles lidam principalmente com alcool e vendem para as outras famílias. Então, se
+ voce esta procurando por uma bebida... eles ficam no lado leste da cidade em uma grande mansão.}
+{985}{}{Irmao, você nao precisa ir alem do humilde Jules aqui. }
+{986}{}{Mana, você nao precisa ir alem do humilde Jules aqui. }
 {987}{}{My sweet sister, you need look no farther than humble Jules himself. }
 {988}{}{I got it ALL, and if I ain't got it, you don't want it. Shall we get down to bizness?}
 {989}{}{Sure. Let's deal.}
