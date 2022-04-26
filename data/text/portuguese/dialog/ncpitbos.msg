@@ -104,7 +104,7 @@
 {375}{}{Nope, it's just stubborn... just like him. It could probably use a little repair work, but we ain't got no slot
  mechanics that can fix that damn thing.}
 {376}{}{Eu tenho mais algumas perguntas...}
-{377}{}{Interesting. Thanks for the information.}
+{377}{}{Interessante. Obrigado pela informação.}
 {385}{}{Yeah, that son of a bitch came in here about a week ago, ripped off one table of about a thousand chips, then bailed.
  Don't know where he is now, but he used to have a room at the Desperado.}
 {386}{}{Yeah, some guy by that name was rentin' one of th' rooms upstairs...204. He was all paid up, but he bailed
@@ -117,10 +117,10 @@
 {397}{}{Obrigado pela informação.}
 {405}{}{Her name WAS Nikki. She used to work here but she got aced... not too long ago.}
 {406}{}{Hmmm. Você se importa se eu te fizer outras perguntas...?}
-{407}{}{Interesting. Thanks for the information.}
+{407}{}{Interessante. Obrigado pela informação.}
 {415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
 {416}{}{Você se importa se eu te fizer outras perguntas...}
-{417}{}{Interesting. Thanks for the information.}
+{417}{}{Interessante. Obrigado pela informação.}
 {425}{}{Sure, be good for business. Dressing room's in the back...}
 {426}{}{Excellent. I'll be on stage in a few minutes...}
 {427}{}{Não agora. Eu tenho outras perguntas...}

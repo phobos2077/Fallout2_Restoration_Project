@@ -274,46 +274,46 @@
  voce esta procurando por uma bebida... eles ficam no lado leste da cidade em uma grande mansão.}
 {985}{}{Irmao, você nao precisa ir alem do humilde Jules aqui. }
 {986}{}{Mana, você nao precisa ir alem do humilde Jules aqui. }
-{987}{}{My sweet sister, you need look no farther than humble Jules himself. }
-{988}{}{I got it ALL, and if I ain't got it, you don't want it. Shall we get down to bizness?}
-{989}{}{Sure. Let's deal.}
-{990}{}{What kind of drugs can I get in New Reno?}
+{987}{}{Docinho, voce nao precisa ir alem do humilde Jules. }
+{988}{}{Eu tenho TUDO, e se eu nao tenho, e porque voce nao quis. Vamos aos negocios?}
+{989}{}{Certo, vamos negociar.}
+{990}{}{Que tipo de drogas posso conseguir em New Reno?}
 {991}{}{Não agora. Eu tenho outras perguntas...}
-{992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
-{1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
-{1006}{}{All KINDS o' shit. I got shit make you horny, make you wet, dry you out, calm you down, sex you up, make you happy,
- make you strong, make you smart... and, o course, I got THE shit that'll let you FLY... Jet.}
-{1008}{}{Where does Jet come from? Has it always been around?}
-{1025}{}{Well... uh... Jet comes from here... Reno, I mean. It ain't been around long, but it's in DEMAND, know what I'm saying? (Winks.)
- Number one reason we get tourists like yourself.}
-{1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
-{1027}{}{But why did Jet come from here?}
-{1035}{}{Aw, now... see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
- natural when it comes to making drugs. He MADE Jet.}
-{1036}{}{Myron, huh? Where can I find him?}
-{1045}{}{(Leans in.) Now, I don't want to go on 'bout the less PLEASANT New Reno sites, but there's this building, the Stables,
- north o' town. Heavily guarded by the Mordino family. That's where Myron is.}
-{1046}{}{Stables outside of town?}
-{1055}{}{Yeah, Mordinos keep ol' golden boy there, give him chips, whores, anything he wants, as long as he makes drugs. Jet
- was his FINEST. Ain't seen anything so addictive in a long time. Turned Reno around, it did.}
+{992}{}{Na verdade, nao estou interessado em nenhuma droga agora. Eu tenho que ir.}
+{1005}{}{Todo tipo de merda. Eu tenho merda que te deixa com tesao, deixa sua mulher com tesao, te deixa duro, te faz feliz, te
+ deixa forte, te deixa esperto... e, claro, eu tenho a droga, a merda que te faz VOAR... jet.}
+{1006}{}{Todo tipo de merda. Eu tenho merda que te deixa com tesao, te deixa molhada, deixa seca, te acalma, te faz transar, te
+ faz feliz, te faz forte, te faz inteligente... e, claro, eu tenho a merda que vai te fazer VOAR... jet.}
+{1008}{}{De onde vem o jet? Sempre existiu?}
+{1025}{}{Bem... uh... Jet vem daqui... de Reno, quero dizer. Existe a pouco tempo, mas tem muita DEMANDA, entendeu? (Pisca.) Razao
+ numero um para recebermos turistas como voce.}
+{1026}{}{Bem, estou querendo comprar algumas drogas. Vamos negociar.}
+{1027}{}{Mas por que o jet veio daqui?}
+{1035}{}{Ah, agora... veja, a Família Mordino tirou a sorte grande um dia quando eles encontraram esse pequeno genio chamado
+ Myron. Parece que e um dom natural dele fazer drogas. Ele FEZ Jet.}
+{1036}{}{Myron, eh? Onde posso encontra-lo?}
+{1045}{}{(Inclina-se.) Olha, eu nao quero falar sobre os locais menos AGRADAVEIS de New Reno, mas há este edifício, os
+ estabulos, ao norte da cidade. Fortemente guardado pela família Mordino. E onde Myron fica.}
+{1046}{}{Estabulos fora da cidade?}
+{1055}{}{Sim, Os Mordinos mantem o menino de ouro la, dao batatas fritas, putas, tudo o que ele quiser, desde que ele faça drogas.
+ jet foi o seu MELHOR. Ha muito tempo nao se via nada tao viciante. Reno voltou com tudo.}
 {1056}{}{Acha que posso conhecer esse Myron?}
-{1065}{}{(Jules stops and studies you, his eyes running up and down your body.)}
-{1066}{}{Jules? Hello? I asked if there was any way I could meet Myron.}
-{1075}{}{Whoa, now, brother, here's some free advice: don't you go be looking to meet Myron, 'cause the Mordinos catch wind of THAT, they'll gut you and let
- you die on Golgotha.}
-{1076}{}{I wouldn't be trying it. If you need Jet, don't go see Myron, cause you can get it from me. Mordinos catch wind of you
- seeing Myron, they'll gut you and let you die on Golgotha.}
-{1077}{}{Well, now... YOU might be able to see him. Thing is, the Mordinos catch wind of it, they'll gut you and let you die on
- Golgotha.}
-{1078}{}{Isn't there any way I could see him?}
-{1079}{}{Why would I be able to see him?}
-{1080}{}{Why were you studying me like a sculpture a second ago?}
-{1081}{}{Golgotha? What's that?}
-{1083}{}{Interesting. Thanks for the information.}
-{1101}{}{Isn't there any way I could see Myron?}
-{1102}{}{Why would I be able to see Myron?}
-{1103}{}{Why were you studying me like a sculpture a second ago?}
+{1065}{}{(Jules para e estuda voce, seus olhos correm para cima e para baixo em seu corpo.)}
+{1066}{}{Jules? Ola? Perguntei se havia alguma maneira de conhecer Myron.}
+{1075}{}{Ei, irmao, aqui vai um conselho gratis: nao va procurar Myron, porque se os Mordinos ficarem sabendo disso, eles vao te e te deixar pra morrer na
+ Gólgota.}
+{1076}{}{Eu nao tentaria. Se voca precisa de jet, nao atras de Myron, porque voce pode conseguir de mim. Se Os Mordinos
+ perceberem que voce viu Myron, eles vao te estripar e deixar voce morrer na Golgota.}
+{1077}{}{Bem, agora... VOCE pode ser capaz de ve-lo. O problema e que se os Mordinos ficarem sabendo disso, vao te estripar deixar
+ voce morrer na Golgota.}
+{1078}{}{Nao ha nenhuma maneira de eu poder ve-lo?}
+{1079}{}{Por que eu seria capaz de ve-lo?}
+{1080}{}{Por que voce estava me encarando como uma estatua um segundo atras?}
+{1081}{}{Golgota? O que e isso?}
+{1083}{}{Interessante. Obrigado pela informação.}
+{1101}{}{Nao ha como eu ver Myron?}
+{1102}{}{Por que eu poderia ver Myron?}
+{1103}{}{Por que voce estava me encarando como uma estatua um segundo atras?}
 {1115}{}{I was doing THAT cause I was seein' if you were Myron's type, but you don't look it. Maybe if you cleaned yourself up
  some, Myron'd give you a second glance... see, he likes the womenses. }
 {1116}{}{(Leers.) Cause, honey, you look GOOD. And Myron likes women that look GOOD. }
