@@ -528,7 +528,7 @@
 {1619}{}{Existe alguma cura para o Jet?}
 {1620}{}{Fine. Then how did you make Jet?}
 {1621}{}{First off, answer me this: how did you make a hybrid hallucinogen-amphetamine? Jet seems to have some... unique properties.}
-{1623}{}{Forget it. I had some other questions...}
+{1623}{}{Esqueça. Eu tinha outras perguntas...}
 {1624}{}{Forget this. I'm outta here.}
 {1625}{}{Kiss my ass, you arrogant shit. I'm outta here.}
 {1635}{myn237}{Amateurish? Ama-amateurish?! Jet's pure genius, and don't you forget it! And I didn't stumble across it, I MADE it.}

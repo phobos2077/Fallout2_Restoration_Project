@@ -119,82 +119,79 @@
 {207}{}{Voce devolve o gesto para o viadinho!}
 {208}{}{Voce tenta determinar qual e o problema.}
 {209}{}{Cancela o procedimento e faz logoff do terminal.}
-{210}{}{A small display beneath the Pip-Boy states that your last scheduled maintenance was 50.352 years
- ago. The archives are corrupted and need to be "re-formatted." Do you wish to proceed?}
+{210}{}{Uma pequena tela abaixo do Pip-Boy informa que sua ultima manutençao programada foi ha 50.352 anos.
+ Os arquivos estao corrompidos e precisam ser "reformatados". Voce deseja continuar?}
 {211}{}{Uh... sure.}
-{212}{}{Wha... no! No way! }
+{212}{}{O que... nao! Nada disso! }
 {213}{}{Cancela o procedimento e faz logoff do terminal.}
-{214}{}{Initialization procedure beginning... Reformatting Pip-Boy...}
+{214}{}{Procedimento de inicializaçao começando... Reformatando Pip-Boy...}
 {215}{}{}
 {216}{}{Aguarde...}
 {217}{}{Cancela o procedimento e faz logoff do terminal.}
-{218}{}{Initialization procedure beginning...}
-{219}{}{                             Reformatting Pip-Boy...}
-{220}{}{Hey! Give me my goddamn Pip-Boy back!}
-{221}{}{Cancel! Cancel! }
-{222}{}{Northern California Geographical Archive is being copied into Pip-Boy database. }
-{223}{}{Copying archive... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download complete.}
-{224}{}{Continue to search the archives for more information.}
+{218}{}{Procedimento de inicializaçao começando...}
+{219}{}{                             Reformatando Pip Boy...}
+{220}{}{Ei! Devolva meu maldito Pip-Boy!}
+{221}{}{Cancelar! Cancelar! }
+{222}{}{O Arquivo Geografico do Norte da California está sendo copiado para o banco de dados Pip-Boy. }
+{223}{}{Copiando arquivo... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download completo.}
+{224}{}{Continua a pesquisar os arquivos para obter mais informaçoes.}
 {225}{}{Deslogar do terminal.}
 {226}{}{Você voltou para o menu inicial. Uma série de arquivos e programas de pesquisa são listados na tela do terminal.}
 {227}{}{Pesquisar por qualquer menção da Vault 13 nos arquivos.}
 {228}{}{Pesquisar por qualquer referencia sobre a GECK.}
-{229}{}{Call up the reports on Vault City's power generator. }
+{229}{}{Solicita os relatorios sobre o gerador de energia de Vault City. }
 {230}{}{Deslogar do terminal.}
-{231}{}{According to the output reports, it looks like Gordon was correct. Vault City's generator is
- already approaching its limit. Without a new power supply, Vault City will be unable to expand.}
+{231}{}{De acordo com os relatorios de saida, parece que Gordon estava correto. O gerador de Vault City
+ esta chegando ao limite. Sem uma nova fonte de alimentaçao, Vault City nao podera se expandir.}
 {232}{}{Continuar a pesquisa dos arquivos.}
 {233}{}{Deslogar do terminal.}
-{234}{}{The archives list only two vaults: Vault 8 (this Vault) and Vault 15, located far to the south.
- Oddly enough, there is no mention of Vault 13.}
-{235}{}{You enter Vault 15's location into your Pip-Boy.}
-{236}{}{Continue to search the archives for more information.}
+{234}{}{Os arquivos listam apenas duas vaults: Vault 8 (esta Vault) e Vault 15, localizados bem ao
+ sul. Curiosamente, nao ha mençao ao Vault 13.}
+{235}{}{Voce insere a localização do Vault 15 no seu Pip-Boy.}
+{236}{}{Continua a pesquisar os arquivos para obter mais informaçoes.}
 {237}{}{Deslogar do terminal.}
-{238}{}{According to the archives, there is no GECK currently in stock at Vault City's Amenities Office.
- The people of Vault City seem to have used the only one they had to help establish the place when they
- came to the surface.}
-{239}{}{Scroll through the remaining information.}
-{240}{}{From what you can make out in the archives, two GECKs were part of every Vault's standard
- inventory package. Only one was shipped to Vault 8, however.}
-{241}{}{Cross-reference the GECK shipment information.}
-{242}{}{Return to the main menu.}
+{238}{}{De acordo com os arquivos, nao ha GECK atualmente em estoque na Loja de Utilidades
+ de Vault City. As pessoas de Vault City parecem ter usado o unico que tinham para ajudar a estabelecer o lugar quando vieram a superficie.}
+{239}{}{Percorre as informaçoes restantes.}
+{240}{}{Pelo que voce pode ver nos arquivos, dois GECKs faziam parte do pacote de inventario padrao de cada Vault. No entanto, apenas um foi enviado para o Vault 8.}
+{241}{}{Faça referencia cruzada das informaçoes da remessa do GECK.}
+{242}{}{Retorne ao menu principal.}
 {243}{}{Deslogar do terminal.}
-{244}{}{Due to a shipping error, it appears Vault 8 received a box of surplus water chips intended for
- another Vault. The other Vault most likely received Vault 8's second GECK.}
-{245}{}{Return to the main menu.}
+{244}{}{Devido a um erro de envio, parece que o Vault 8 recebeu uma caixa de purificadores de agua
+ excedentes destinadas a outro Vault. O outro Vault provavelmente recebeu o segundo GECK do Vault 8.}
+{245}{}{Retorne ao menu principal.}
 {246}{}{Deslogar do terminal.}
-{247}{}{A small window opens on the terminal screen with a smiling Pip-Boy next to it. As you watch, the
- Pip-Boy looks right at you, winks, then gives you a thumbs up. A red light is flashing beside the
- computer slot.}
-{248}{}{Give the Pip-Boy a thumbs up.}
-{249}{}{Give the Pip-Boy the finger.}
-{250}{}{Fallout 2 Development Information is being entered into Pip-Boy database. Copying file...
- Vault City Development Credits... Download complete.}
+{247}{}{Uma pequena janela se abre na tela do terminal com um Vault Boy sorridente ao lado. Enquanto
+ voce assiste, o Vault Boy olha diretamente para voce, pisca e depois da um sinal de positivo.
+ Uma luz vermelha esta piscando ao lado do slot do computador.}
+{248}{}{Da um sinal de positivo para o Vault Boy.}
+{249}{}{Mostra o dedo do meio ao Vault Boy.}
+{250}{}{As informações de desenvolvimento do Fallout 2 estão sendo inseridas no banco de dados
+ do Pip-Boy. Copiando arquivo... Creditos de desenvolvimento de Vault City... Download completo.}
 {251}{}{Obrigado.}
-{252}{}{This time-waster better be worth some extra skill points, or I'm going to be pissed off.}
-{253}{}{The Pip-Boy on the screen waves good-bye, and then the screen turns black. The terminal has shut
- down.}
+{252}{}{E melhor que esse desperdicio de tempo valha alguns pontos de experiencia extra, ou eu vou ficar puto.}
+{253}{}{O Pip-Boy na tela acena um adeus, e entao a tela fica preta. O terminal se apagou.}
 {254}{}{(Sair.)}
-{255}{}{Yeah, you better run, you little shit.}
-{256}{}{The terminal has shut down. You have no idea how to turn the system back on.}
+{255}{}{Sim, e melhor voce correr, seu merdinha}
+{256}{}{O terminal foi desligado. Voce nao tem ideia de como ligar o sistema novamente.}
 {257}{}{Deixar.}
-{258}{}{Reading Disk... Reactor Data: Atomic Power Plant... Efficiency: 43%/75%... Error: Plant Calibration - MD4/gh1... Do you wish to optimize?}
+{258}{}{Lendo o Disco... Dados do Reator: Usina Atomica... Eficiencia: 43%/75%... Erro: Calibraçao da Usina - MD4/gh1... Deseja otimizar?}
 {259}{}{}
 {260}{}{}
 {261}{}{}
 {262}{}{}
-{263}{}{Begin optimization procedure. }
-{264}{}{Cancel the operation and search the archives.}
+{263}{}{Inicia o procedimento de otimização. }
+{264}{}{Cancele a operaçao e pesquisa os arquivos.}
 {265}{}{Deslogar do terminal.}
-{266}{}{Beginning optimization procedure... Optimizing... Optimization complete. Please remove disk.}
+{266}{}{Iniciando o procedimento de otimizaçao... Otimizando... Otimizaçao concluida. Por favor, remova o disco.}
 {267}{}{}
 {268}{}{}
 {269}{}{}
-{270}{}{Search the archives.}
+{270}{}{Pesquisa nos arquivos.}
 {271}{}{Deslogar do terminal.}
-{272}{}{Oooooooh. Dat tynglzzz.}
-{300}{}{As you are about to return to the archive listing, you skillfully notice a hidden entry in the list of archives..}
-{301}{}{As you are about to log off the terminal, you skillfully notice a hidden entry in the list of archives.}
+{272}{}{Oooooooh. Faz barulhoooo.}
+{300}{}{Quando voce esta prestes a retornar a lista de arquivos, voce percebe habilmente uma entrada oculta na mesma lista.}
+{301}{}{Quando voce esta prestes a fazer logoff do terminal, voce percebe habilmente uma entrada oculta na lista de arquivos.}
 {302}{}{[CONTINUAR]}
 {303}{}{After a few minutes you are able to gain access to the locked archive. There is only one file listed and it is
  entitled "Classified." It looks like your skill points in Science are paying off.}

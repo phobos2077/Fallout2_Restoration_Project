@@ -314,116 +314,116 @@
 {1101}{}{Nao ha como eu ver Myron?}
 {1102}{}{Por que eu poderia ver Myron?}
 {1103}{}{Por que voce estava me encarando como uma estatua um segundo atras?}
-{1115}{}{I was doing THAT cause I was seein' if you were Myron's type, but you don't look it. Maybe if you cleaned yourself up
- some, Myron'd give you a second glance... see, he likes the womenses. }
-{1116}{}{(Leers.) Cause, honey, you look GOOD. And Myron likes women that look GOOD. }
-{1117}{}{Boy's like a rabbit, and is ALWAYS looking for a new cabbage patch.}
-{1118}{}{What was that about Golgotha?}
+{1115}{}{Eu estava dando uma analisada pra ver se voce fazia o tipo de mulher que o Myron gosta, mas parece que nao. Talvez
+ se voce tomasse um banho e tal, Myron te daria uma olhadinha... Ele gosta bastante de mulheres.}
+{1116}{}{(Te encara.) Porque, querida, voce parece BOA. E Myron gosta de mulheres BOAS. }
+{1117}{}{Esse menino parece um rato e esta SEMPRE procurando um novo buraco.}
+{1118}{}{O que foi isso sobre a Gólgota?}
 {1119}{}{Oh beleza. Obrigado pela dica, Jules. Olha, eu tinha outras perguntas...}
-{1120}{}{Well, on that note, I think I better be going.}
-{1121}{}{How eloquent. When you speak, it's poetry - the use of "cabbage patch" brings forth striking imagery. THANK you.}
-{1130}{}{If you were a fine-looking woman, maybe, but otherwise, you would need the Mordinos' permission first. Both ain't
- very likely.}
+{1120}{}{Bem, falando nisso, acho melhor eu ir.}
+{1121}{}{Tao eloquente. Quando voce fala, e pura poesia - o uso do termo "buraco" me tras imagens impressionantes. Obrigado.}
+{1130}{}{Se voce fosse uma mulher bonita, talvez, mas fora isso, precisaria primeiro da permissao dos Mordinos. Amba
+ as coisas nao sao muito prováveis.}
 {1132}{}{Entendo. Olhe, de qualquer forma, tenho outras questões.}
-{1145}{}{You want weapons, you go see my man Eldridge on the West End. He got shit that'll kill people you ain't even MET yet.
- Tell him I sent you.}
-{1146}{}{I hear you, brother, I hear you. You want the best, you go see my man Eldridge on the West End. He got shit that'll kill
- people you ain't even MET yet. Tell him I sent you.}
-{1147}{}{I hear you, sister, I hear you. You want the best, you go see my man Eldridge on the West End. He got shit that'll
- kill people you ain't even MET yet. Tell him I sent you.}
-{1148}{}{Sweetness, you ALREADY packing some serious shit with that body of yours. Still, if you want more, go see my man
- Eldridge on the West End. He got shit that'll kill people you ain't even MET yet. Tell him I sent you.}
-{1150}{}{Thanks for the tip, I think I better be going.}
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
- from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
+{1145}{}{Voce quer armas, va ver meu homem Eldridge na parte oeste. Ele tem um bagulho que vai matar pessoas que voce ainda
+ nem viu. Diga a ele que eu te enviei.}
+{1146}{}{Eu te ouço, irmao, eu te ouço. Voce quer o melhor, vai ver meu homem Eldridge na parte oeste. Ele tem um bagulho que
+ vai matar pessoas que voce ainda nem viu. Diga a ele que eu te enviei.}
+{1147}{}{Eu te ouço, mana, eu te ouço. Voce quer o melhor, vai ver meu homem Eldridge na parte oeste. Ele tem um bagulho que
+ vai matar pessoas que voce ainda nem viu. Diga a ele que eu te enviei.}
+{1148}{}{Doçura, você JÁ esta perfeitamente equipada com seu corpo. Ainda assim, se quiser mais, va ver meu homem Eldridge
+ na parte oeste. Ele tem um bagulho que vai matar pessoas que voce ainda nem viu. Diga a ele que eu te enviei.}
+{1150}{}{Obrigado pela dica, acho melhor eu ir.}
+{1165}{}{Voce precisa de alguns suprimentos? Bem, voce PODE ir ver Renesco no lado oeste... mas eis o problema: nao compre
+ drogas dele, porque elas NAO SAO SEGURAS. Ele tem suprimentos, mas se voce quiser drogas, fale comigo.}
 {1166}{}{Vou me lembrar disso. Olhe, eu tenho mais algumas perguntas...}
-{1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
-{1175}{}{I hear you, brother. Most TOURISTS, see, they stride down Virgin street and get suckered by some two-chip whore.
- You look like you got class, so head over to the Cat's Paw 'cross the street there. Tell 'em Jules sent you.}
-{1176}{}{I hear you, sister. Most TOURISTS, see, they stride down Virgin street and get suckered by some glitterboy.
- You look like you got class, so head over to the Cat's Paw 'cross the street there. Tell 'em Jules sent you.}
-{1177}{}{(Smiles, holds out arms.) Look no farther, my sweet sister. Jules is at your command!}
+{1167}{}{As drogas dele nao sao seguras, eh? Bem, obrigado pela dica, acho melhor eu ir.}
+{1175}{}{Eu te ouço, irmao. A maioria dos TURISTAS, andam pela Virgin Street e sao enganados por putas baratas. Parece que
+ voce tem classe, então va ate a Garra da Gata 'atravesse a rua ali. Diga a eles que Jules enviou voce.}
+{1176}{}{Eu te ouço, mana. A maioria das TURISTAS, andam pela Virgin Street e são enganadas por algum cara bonitinho.
+ Parece que voce tem classe, então va ate a Garra da Gata, 'atravesse a rua ali. Diga a eles que Jules enviou voce.}
+{1177}{}{(Sorri, estende os braços.) Nao procure mais, minha doce irmazinha. Jules esta ao seu comando!}
 {1178}{}{Uh, obrigado, Jules, mas não. Eu tenho outras perguntas...}
-{1180}{}{Well, thanks for the tip. I think I better be going.}
-{1181}{}{Well, uh, thanks anyway, but I think I better be going.}
-{1190}{}{You mean Vault CITY, don't you? That's to the northeast. Can't miss it, all the caravan trails lead right to it.}
+{1180}{}{Bem, obrigado pela dica. Acho melhor eu ir.}
+{1181}{}{Bem, uh, obrigado de qualquer maneira, acho melhor eu ir.}
+{1190}{}{Você quer dizer Vault CITY, nao e? E la para o nordeste. Nao  tem como perder, todas as rotas de caravanas levam direto a ela.}
 {1191}{}{Tudo bem. Olha, eu tenho mais perguntas.}
-{1192}{}{Well, thanks for the tip. I better be going.}
-{1200}{}{Garden of wha-? That some kind of drug? What does this "Garden thing" do? Get you high?}
+{1192}{}{Bem, obrigado pela dica. E melhor eu ir.}
+{1200}{}{Jardim do que? Isso e alguma droga nova? O que esse "jardim nao sei das quanta" faz? Te deixa chapado?}
 {1201}{}{Não, é... bem, não importa. Eu tenho outras perguntas...}
-{1202}{}{Nevermind. I really better be going.}
-{1210}{}{Don't know nothing about that. Sorry about your loss. Maybe it was slavers?}
+{1202}{}{Esquece. E melhor eu ir.}
+{1210}{}{Nao sei nada sobre isso. Lamento pela sua perda, talvez fossem escravistas?}
 {1211}{}{Poderia ser. Eu tenho outras perguntas...}
-{1220}{}{A what?}
-{1221}{}{Forget it. I had some other questions...}
-{1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
- to live for without being given impure shit.}
-{1231}{}{Speaking of impure shit, Renesco said you sell Jet laced with arsenic.}
-{1232}{}{What do you mean, "impure shit?"}
-{1233}{}{You know anything about this empty Jet canister?}
-{1234}{}{Interesting you should say that... I don't think he overdosed on Jet. I think he was poisoned.}
-{1250}{}{(Shrugs.) Some dealers don't care what they sell, and people die. Now I ain't saying nothing, but I'd check with ol'
- Renesco the Rocketman and see how good his shit is.}
-{1251}{}{I did check with Renesco... he said you sell Jet laced with arsenic.}
-{1252}{}{Reno's a big place, Jules. Anybody else who might be responsible?}
+{1220}{}{O que?}
+{1221}{}{Esqueça. Eu tinha outras perguntas...}
+{1230}{}{Uh... o garoto Wright? Sim, eu ouvi sobre isso. Uma pouca vergonha, crianças dessa idade nao deveriam usar
+ drogas. Eles tem muito o que viver pra receber uma merda impura.}
+{1231}{}{Falando em merda impura, Renesco disse que voce vende Jet com arsenico.}
+{1232}{}{O que voce quer dizer com "merda impura?"}
+{1233}{}{Voce sabe alguma coisa sobre esse potinho de jet vazio?}
+{1234}{}{Interessante voce dizer isso... Eu nao acho que ele teve uma overdose de Jet. Acho que ele foi envenenado.}
+{1250}{}{(Da de ombros.) Alguns traficantes nao se importam com o que vendem, e as pessoas morrem. Agora eu nao vou dizer
+ nada, mas eu iria checar o velho Renesco, o Astronauta, e ver o quao boa é a merda dele.}
+{1251}{}{Verifiquei com Renesco... ele disse que voce vende Jet com arsenico.}
+{1252}{}{Reno e um lugar grande, Jules. Alguém mais poderia ser o responsavel?}
 {1253}{}{Eu tenho mais algumas perguntas...}
-{1254}{}{All right. I'll check him out.}
-{1270}{}{Lotta dealers in town... Lil' Jesus Mordino, maybe, but why he would sell to a Wright don't make sense. There's Jagged
- Jimmy J up on 2nd Street, north of here, but he's small time. I'd still check with Renesco, though.}
-{1272}{}{"Jagged Jimmy J?" Who's that?}
-{1273}{}{Lil' Jesus Mordino? Where can I find him?}
+{1254}{}{Tudo bem. Vou dar uma olhada.}
+{1270}{}{Muitos traficantes na cidade... Pequeno Jesus, talvez, mas nao faz sentido ele vender para um Wright. Tem o Jagged Jimmy
+ J na Segunda Rua, ao norte daqui, mas ele e pequeno. Eu veria com o Renesco se fosse voce.}
+{1272}{}{"Jagged Jimmy J?" Quem e esse?}
+{1273}{}{Pequeno Jesus? Onde posso encontra-lo?}
 {1274}{}{Talvez eu vá. olha, eu tenho outras perguntas...}
-{1275}{}{Lil' Jesus... Jagged Jimmy J... Renesco. Got it. Thanks.}
-{1290}{}{(Jules' smile dies.) I'm lookin' for people like you comin' into Reno. This is the prime spot to deal. Plus, certain
- establishments pay me to point newcomers their way. THAT a good enough answer for you?}
+{1275}{}{Pequeno Jesus... Jagged Jimmy J... Renesco. Entendi. Obrigado.}
+{1290}{}{(O sorriso de Jules desaparece.) Estou procurando por pessoas como voce que vem para Reno. Esse e um o local
+ privilegiado de lidar. Alem disso, certos lugares me pagam para indicar o caminho aos recem-chegados. ESSA e uma resposta boa o suficiente para voce?}
 {1291}{}{Sim. Agora eu preciso te perguntar mais algumas coisas...}
-{1292}{}{Just curious. Thanks for the honesty.}
-{1305}{}{Your CAR? You sure you parked it here? I ain't seen it.}
-{1306}{}{What, you suddenly gone BLIND? You see my FIST, mother fucker? You SEE it?!! Now tell me again you haven't seen my
- car... I fucking DARE you.}
-{1307}{}{Jules, if you don't tell me what happened to my car, I'll tell Family Wright YOU sold their son the Jet that
- killed him. You'll be dead within the hour. Talk.}
-{1308}{}{You SURE you haven't seen it, Jules?}
-{1309}{}{Yes, I'm SURE I parked it here. Any idea where it might be?}
+{1292}{}{Apenas curioso. Obrigado pela honestidade.}
+{1305}{}{Seu CARRO? Tem certeza que estacionou aqui? Nem vi.}
+{1306}{}{O que, de repente voce ficou CEGO? Ta vendo meu PUNHO, filho da puta? Ve aqui?!! Agora me diga de novo que voce nao viu
+ meu carro... Vamos, se atreva.}
+{1307}{}{Jules, se voce nao me contar o que aconteceu com meu carro, eu direi a Família Wright que VOCE vendeu o jet
+ que o matou ao filho deles. Voce estara morto em mais ou menos uma hora. Desembucha.}
+{1308}{}{Tem CERTEZA que nao viu, Jules?}
+{1309}{}{Sim, tenho CERTEZA que estacionei aqui. Alguma ideia de onde possa estar?}
 {1310}{}{Tudo bem, entao. Eu tinha outras perguntas...}
-{1311}{}{I better go look for it.}
-{1320}{}{Naw, brother, I ain't seen it. }
-{1321}{}{Naw, sister, I ain't seen it. }
-{1322}{}{I'll keep an eye out for it, though. (Shrugs.) Still, Reno's a big place...}
-{1323}{}{Jules, I have this crazy HUNCH you know where my car went. If you don't tell me where it is, I'll use you for
- target practice. Now talk.}
+{1311}{}{E melhor eu ir buscá-lo.}
+{1320}{}{Nao, irmao, eu nao vi. }
+{1321}{}{Nao, maninha, eu nao vi. }
+{1322}{}{Mas eu vou ficar de olho nisso. (Da de ombros.) Ainda assim, Reno e um lugar grande...}
+{1323}{}{Jules, eu tenho um palpite meio doido, voce sabe onde meu carro esta. Se nao me disser onde e, vou te usar
+ para praticar tiro ao alvo. Agora fale.}
 {1324}{}{Obrigado de qualquer forma. Eu tenho mais algumas perguntas...}
-{1340}{}{Sister, I don't know NOTHING about your car. }
-{1341}{}{Brother, I don't know NOTHING about your car. }
-{1342}{}{I AIN'T seen what happened to it, and I DON'T know where it is. }
-{1343}{}{(He throws a hateful glance at Cody across the street.)}
-{1344}{}{Really? That sounds like a load of SHIT to me.}
-{1345}{}{That so? I KNOW you did something with it, so you better tell me where it is before I do something to YOU.}
-{1346}{}{Nevermind then. I'll keep looking for it.}
-{1360}{}{All right, brother, all right! }
-{1361}{}{All right, sister, all right! }
-{1362}{}{...I seen some guys take the car not long ago. But there were too many of them for me to stop, y'know, and --}
-{1363}{}{Shut up and take me where they went. Now.}
-{1364}{}{Nevermind. I'll look for them without your help.}
+{1340}{}{Fia, eu nao sei NADA sobre o seu carro. }
+{1341}{}{Mano, eu nao sei NADA sobre o seu carro. }
+{1342}{}{Eu NAO vi o que aconteceu com ele, e eu nao sei onde ele está. }
+{1343}{}{(Ele lança um olhar de odio para Cody do outro lado da rua.)}
+{1344}{}{Serio? Isso soa como um monte de BOSTA para mim.}
+{1345}{}{E mesmo? EU SEI que voce fez algo com ele, então e melhor me dizer onde este antes que EU faça algo com VOCÊ.}
+{1346}{}{Deixa pra la entao. Vou continuar procurando.}
+{1360}{}{Tudo bem, irmao, tudo bem! }
+{1361}{}{Tudo bem, maninha, tudo bem! }
+{1362}{}{...Eu vi alguns caras pegarem o carro faz pouco tempo. Mas havia muitos deles para eu tentar impedir, sabe, e --}
+{1363}{}{Cale a boca e me leve para onde eles foram. Agora.}
+{1364}{}{Esquece. Vou procura-los sem sua ajuda.}
 {1375}{}{Ok, tranquilo...}
-{1376}{}{By the way... Jules? If you so much as GLANCE the wrong way at that kid across the street, I'll come back and kill
- you so many times you'll need multiple wills. Understand? Now lead on.}
-{1377}{}{One more thing, Jules: I even so much as hear that you were messing with Cody, I'll kill you. Now take me to
- where my car is.}
-{1378}{}{(Follow him.)}
-{1385}{}{H... hey. (Smiles uneasily. His cologne slams into you like a wave.) Name's Jules. What you need, my friend, huh? A..anything?}
-{1386}{}{H... hey. Hey, welcome back! (Smiles uneasily. His cologne slams into you like a wave.) What you need from Jules, my
- friend, huh? A..anything?}
+{1376}{}{A proposito... Jules? Se voce olhar torto para o lado o garoto do outro lado da rua, eu vou voltar e te matar tantas
+ vezes que voce vai precisar de varios testamentos. Compreende? Agora lidere.}
+{1377}{}{A proposito... Jules? Se voce olhar torto para o lado o garoto do outro lado da rua, eu vou voltar e te matar tantas
+ vezes que voce vai precisar de varios testamentos. Compreende? Agora vamos.}
+{1378}{}{(Segue ele.)}
+{1385}{}{H... ei. (Sorri forçadamente. Sua colonia te atinge como uma onda.) Meu nome é Jules. O que você precisa, meu amigo, hein? A.. alguma coisa?}
+{1386}{}{H... ei. Ei, bem-vindo de volta! (Sorri forçadamente. Sua colonia te atinge como uma onda.) O que voce precisa de Jules,
+ meu amigo, eh? A.. alguma coisa?}
 {1389}{}{Eu tenho algumas perguntas…}
-{1390}{}{Nice cologne, Jules. I smelled it all over Cody's body. You're dead.}
-{1391}{}{Cody's dead, Jules. I'm betting you were responsible. You're dead.}
-{1405}{}{H-hey, I WISH I could help, but I don't know nothin'...look, I gotta go.}
-{1406}{}{Nice cologne, Jules. I smelled it all over Cody's body. You're fucking dead.}
-{1407}{}{Cody's dead, Jules. I'm betting you were responsible. You're fucking dead.}
-{1408}{}{See you, Jules.}
-{1415}{}{He's this dumb sonuvabitch who thinks he's a big-time dealer. You can't miss him... his face is all scarred up.
- The fool was flying on Jet one night and tried to shave with a combat knife. Sad part is, it didn't KILL 'im.}
-{1416}{}{And Lil' Jesus Mordino? Where can I find him?}
+{1390}{}{Bela colonia, Jules. Senti o cheiro pelo corpo de Cody. Voce esta morto.}
+{1391}{}{Cody esta morto, Jules. Aposto que voce foi o responsavel. Esta morto.}
+{1405}{}{E-ei, eu ADORARIA te ajudar, mas nao sei de nada... olhe, tenho que ir.}
+{1406}{}{Bela colonia, Jules. Senti o cheiro pelo corpo de Cody. Vai morrer, filha da puta.}
+{1407}{}{Cody esta morto, Jules. E aposto que voce foi o responsavel. Vai morrer, filha da puta.}
+{1408}{}{Ate mais, Jules.}
+{1415}{}{Ele aquele filho da puta idiota que pensa que e um grande traficante. Nao tem como errar... seu rosto esta
+ todo marcado. O idiota tava brisando no jet uma noite e tentou se barbear com uma faca de combate. A parte triste e que nao morreu.}
+{1416}{}{E esse Pequeno Jesus? Onde eu acho?}
 {1417}{}{Quanto amor tem nessa cidade. Olha, eu tenho outras perguntas...}
 {1425}{}{Well, friend, I'd be careful about just walkin' in and accusing Lil' Jesus of anything. But if you REALLY want to
  talk with him, I ain't gonna stop you. He hangs out at the Desperado 'cross the street there.}

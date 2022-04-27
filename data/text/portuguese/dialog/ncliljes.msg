@@ -311,7 +311,7 @@
 {1074}{}{Uh, okay. Let's do it. Anything for some added knife skill.}
 {1075}{}{Tudo bem. Aqui está o dinheiro.}
 {1076}{}{Nevermind. Uh, who are you, anyway?}
-{1077}{}{Forget it. I had some other questions...}
+{1077}{}{Esqueça. Eu tinha outras perguntas...}
 {1079}{}{Maybe some other time, thanks. I REALLY have to be going.}
 {1090}{}{Hmmmm... all right, yeah, I'll do it. You look like you might have the cojones for it. Look, now, the first thing you
  gotta do is...}

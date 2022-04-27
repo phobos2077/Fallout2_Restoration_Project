@@ -72,18 +72,18 @@
 {171}{}{Yes, sir. I conducted an authorized raid on Mr. Cassidy's establishment.}
 {172}{}{Maybe your friend Cassidy there didn't tell you that he had illegal substances on the premises, and his license for alcohol distribution had expired. You forget to tell your friend here that, Cassidy?}
 {173}{}{Cassidy says he was all paid up and you raided his place anyway.}
-{174}{}{Forget it. I had some other questions...}
+{174}{}{Esqueça. Eu tinha outras perguntas...}
 {175}{}{Never mind then. Goodbye.}
 {176}{}{No, sir. Mr. Cassidy had not paid his licensing fee for alcohol for the month, yet was still selling it on the premises. His list of payments are logged in the computer.}
 {177}{}{Cassidy was guilty of possession without a license. He doesn't like it, he can leave Vault City. That simple.}
 {178}{}{I believe you, Sergeant. Well done. Now listen to me: I want you to pardon Mr. Cassidy, wipe his record clean, and pay him restitution for the damages you caused his establishment.}
 {179}{}{You know, I think my fist and your face are about to have a conversation.}
-{180}{}{Forget it. I had some other questions...}
+{180}{}{Esqueça. Eu tinha outras perguntas...}
 {181}{}{Não faz mal. Tchau.}
 {182}{}{Thanks for looking out for me, friend. Stark's one stubborn sonuvabitch.}
 {183}{}{Just try it. I'll look forward to putting trash like you and Cassidy in their place.}
 {184}{}{Fine. I was looking forward to kicking your ass anyway.}
-{185}{}{Forget it. I had some other questions...}
+{185}{}{Esqueça. Eu tinha outras perguntas...}
 {186}{}{Não faz mal. Tchau.}
 {187}{}{Yes... SIR.}
 {188}{}{NOW, Sergeant.}
@@ -204,7 +204,7 @@
 {303}{}{Scouting.}
 {304}{}{O que você quer dizer?}
 {305}{}{I could do some recon for you if you're short-handed.}
-{306}{}{Forget it. I had some other questions...}
+{306}{}{Esqueça. Eu tinha outras perguntas...}
 {307}{}{Never mind then. Goodbye.}
 {308}{}{No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.}
 {309}{}{I already got a Pip-Boy. It's old... and cranky... and seems to have wires and buttons yanked out everywhere... but it works.}
@@ -236,7 +236,7 @@
  the Republic might be building up military strength. True or not, I need someone to plot a route to NCR and report back.}
 {335}{}{No problem. Already done.}
 {336}{}{Just travel to NCR, then come back?}
-{337}{}{Forget it. I had some other questions...}
+{337}{}{Esqueça. Eu tinha outras perguntas...}
 {338}{}{No thanks. Goodbye.}
 {339}{}{That's all I need. I'm more interested in the route than the Republic itself, but I'll still need you to enter the city once you get there.}
 {340}{}{No problem. Already done.}
