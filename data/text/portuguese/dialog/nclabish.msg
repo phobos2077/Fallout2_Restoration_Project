@@ -349,7 +349,7 @@
 {701}{}{Hmmm. Perhaps I will... now that John had his much-deserved accident.
  (Smiles ruefully.) Maybe I will at that. Reno has become... tiresome. (Thinks.)
  Or maybe it just needs new management...}
-{702}{}{Say, I had some other questions...}
+{702}{}{Entao, eu tinha outras perguntas...}
 {705}{}{No. (She rolls over, mumbles in her sleep.) Don't be an idiot. Soon as people
  find out, you'll be on the run for the rest of your short life.}
 {706}{}{But what if people didn't know it was me?}

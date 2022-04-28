@@ -144,7 +144,7 @@
 {482}{}{Então eu fico com eles. Olha, eu tenho algumas perguntas...}
 {483}{}{Forget it. Maybe some other time.}
 {490}{}{Here you go. (Counts out the money, hands it to you.) Thanks again.}
-{491}{}{Say, I had some other questions...}
+{491}{}{Entao, eu tinha outras perguntas...}
 {492}{}{Not a problem. Goodbye.}
 {500}{}{Really? (Examines No. 5, then goes through the rest of your stack.) Hmmmm. Well, it looks like you have
  two of them, so you can have this one back... but let me get the stain out first.}

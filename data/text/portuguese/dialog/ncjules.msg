@@ -425,28 +425,28 @@
  todo marcado. O idiota tava brisando no jet uma noite e tentou se barbear com uma faca de combate. A parte triste e que nao morreu.}
 {1416}{}{E esse Pequeno Jesus? Onde eu acho?}
 {1417}{}{Quanto amor tem nessa cidade. Olha, eu tenho outras perguntas...}
-{1425}{}{Well, friend, I'd be careful about just walkin' in and accusing Lil' Jesus of anything. But if you REALLY want to
- talk with him, I ain't gonna stop you. He hangs out at the Desperado 'cross the street there.}
-{1426}{}{And "Jagged Jimmy J?" Who's that?}
-{1427}{}{Say, I had some other questions...}
-{1435}{}{Doesn't surprise me... that sort of thing seems to happen a LOT in this town.}
+{1425}{}{Bem, amigo, eu tomaria cuidado para não chegar acusando o Lil' Jesus de qualquer coisa. Mas se voce REALMENTE
+ quer falar com ele, eu e que nao vou te impedir. Ele fica no Desperado, e so atravessar a rua.}
+{1426}{}{E "Jagged Jimmy J?" Quem é esse?}
+{1427}{}{Entao, eu tinha outras perguntas...}
+{1435}{}{Nao me surpreende... esse tipo de coisa parece acontecer MUITO nessa cidade.}
 {1436}{}{O que você quer dizer com isso?}
-{1437}{}{What can you tell me about this empty Jet canister?}
+{1437}{}{O que voce pode me dizer sobre esse potinho de jet vazio?}
 {1439}{}{Eu vejo. Bem, obrigado pelo seu tempo.}
-{1450}{}{(Glances at it.) Like a hundred others I've seen. It ain't mine, though... could be Jagged Jimmy J's or Renesco's.}
+{1450}{}{(Olha para ele.) Como centenas de outros que ja vi. Mas nao e meu... pode ser do Jagged Jimmy J ou do Renesco.}
 {1451}{}{Jagged Jimmy J?}
 {1452}{}{Renesco?}
 {1453}{}{Hmmm. Eu tenho outras perguntas…}
-{1470}{}{He's this dumb sonuvabitch up on 2nd Street, north of here. You can't miss him... his face is all scarred up. The
- fool was flying on Jet one night and tried to shave with a combat knife. Sad part is, it didn't KILL 'im.}
-{1471}{}{And Renesco? Where can I find him?}
+{1470}{}{Ele e um filho da puta idiota na Segunda Rua, ao norte daqui. Nao tem como nao ver... seu rosto esta todo marcado.
+ O idiota estava brisando no Jet uma noite e tentou se barbear com uma faca de combate. A parte triste e que ele nao morreu.}
+{1471}{}{E Renesco? Onde posso encontra-lo?}
 {1473}{}{Entendi. Obrigado.}
-{1485}{}{He's this old cracker who runs a pharmacy on Commercial Row... go up a few streets north, make a left where Salvatore's
- and the Bishop casino meet, then keep heading down that street. It's on the right.}
-{1486}{}{And "Jagged Jimmy J?" Where can I find him?}
+{1485}{}{Ele e um velhote que comanda uma farmacia na Zona Comercial... suba algumas ruas ao norte, vire a esquerda onde
+ esta o Salvatore's e o cassino Bishop, continue descendo aquela rua. Esta a direita.}
+{1486}{}{E "Jagged Jimmy J?" Onde posso encontra-lo?}
 {1487}{}{Está certo... Bem, eu tenho outras perguntas...}
-{1500}{}{You tell that bitch he keeps talking shit like that, an' I'LL kill 'im before old man Wright does. You know what kind
- of talk that is? That's talk from a man who's SCARED, that's what it is.}
+{1500}{}{Diga a essa vadia que se ele continuar falando merda assim, eu vou mata-lo antes que o velho Wright faça. Voce
+ sabe que tipo de conversa e essa? Isso e conversa de um homem que está ASSUSTADO.}
 {1501}{}{Eu vejo... Então, eu tenho outras perguntas...}
-{1502}{}{I hear you. I'll go check it out.}
-{2000}{}{That a CAR? Daaaamn.}
+{1502}{}{Entendi. Vou dar uma olhada.}
+{2000}{}{Isso é um CARRO? Caraaaallho.}
