@@ -159,7 +159,7 @@
 {422}{}{Eu durmo com voce por um jet ou tampas. Estou limpa, prometo.}
 {423}{}{Sou mais barata que aquelas putas da familia. Ei, mas nao diga a eles que eu faço isso.}
 {424}{}{Eu farei qualquer coisa por alguns chips... ou jet, se você tiver.}
-{425}{}{I used to be the beauty queen here in Reno. I still got it...}
+{425}{}{Eu costumava ser a rainha da beleza aqui em Reno. Ainda tenho algo...}
 {426}{}{Precisa de alguem para ficar chapado, cara?}
 {427}{}{Nao, cara, estou sem drogas. Ah... por que? Voce vende?}
 {428}{}{Papai?}
@@ -167,7 +167,7 @@
 {430}{}{Pode me emprestar algumas tampas...? Eu pago voce de volta.}
 {431}{}{Trabalharia por Jet...}
 {432}{}{Pode me emprestar algum dinheiro? Eu te pago de volta.}
-{433}{}{Hey, uh... you got any Jet, friend? Man, I need to *fly,* know what I'm saying?}
+{433}{}{Ei, uh... você tem algum jet, amigo? Cara, eu preciso dar uma *voada*, sabe?}
 {434}{}{Eu preciso de um remedio para o meu filho. Me ajude.}
 {435}{}{Tem tampas sobrando?}
 {436}{}{So preciso de algumas tampas para comprar comida... so isso...}
@@ -175,65 +175,64 @@
 {438}{}{Voce pode me vender como escravo se me der um pouco de Jet.}
 {439}{}{Vamos, moça, me de apenas algumas tampas.}
 {440}{}{Ei, mocinha? Voce pode me ajudar a voar?}
-{441}{}{I can please you... if you got some Jet for me.}
+{441}{}{Posso te agradar... se tiver um jet para mim.}
 {442}{}{Ei, uh... você tem algum jet, irmã?}
-{443}{}{Sister, I need to *fly,* know what I'm saying?}
-{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
+{443}{}{Fia, eu preciso *voar* um pouco, esta entendendo?}
+{444}{}{Nao, fia, estou sem drogas. Ah... por que? Voce esta vendendo?}
 {445}{}{Mãe?}
-{450}{}{Holy...! What are you? Some kind of row-bot?}
-{451}{}{What the hell were you taking to get covered in metal like that?}
-{452}{}{Whoa. A metal human. Talking to me.}
-{453}{}{If you're from another planet, you should go back there... there's nothing here for you
- to conquer.}
-{454}{}{Oooooh. I can see New Reno's lights in your visor.}
-{455}{}{I'm soooo high that... uh, what was I saying?}
-{456}{}{Man, you must be HOT in that thing.}
+{450}{}{Santa mae de... Voce e o que? Algum tipo de robo?}
+{451}{}{O que voce anda tomando para ficar coberto de metal assim?}
+{452}{}{Uau. Um homem de metal. Falando comigo.}
+{453}{}{Se voce e de outro planeta, deveria voltar para la... não ha nada aqui para voce conquistar.}
+{454}{}{Oooh. Posso ver as luzes de New Reno na sua viseira.}
+{455}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
+{456}{}{Cara, deve ser QUENTE dentro dessa coisa.}
 {457}{}{Tem algo nessa coisa?}
-{458}{}{Well, if it ain't Mr. Darttth Vadrrr}
-{459}{}{Man, I got to have some of that shit you're taking. You look like a big metal... thing.}
-{460}{}{Man, are YOU in the wrong game. Try one of the battle mech PC games.}
-{461}{}{You a spaceman?}
-{462}{}{I'd need a few more hits of Jet before I'd even think of messing with you.}
-{470}{}{Hey, slaver, wazzup?!}
-{471}{}{You gonna enslave me? Huh? Just try it! I'm invincible!}
-{472}{}{Try and catch me, slaver!}
-{473}{}{Wanna share some Jet, slaver?}
-{474}{}{I can barely see you down there slaver, I'm so high.}
-{475}{}{You messin' with me, slaver? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{476}{}{You wanna fly with me, slaver?}
-{477}{}{Why's there two o' you? That your twin?}
-{478}{}{Huh? You real?}
-{479}{}{I'm soooo high that... uh, what was I saying?}
-{480}{}{You looking to fly? Talk to Juuuuules.}
-{481}{}{Jagged Jimmy J 'fix' you up, know what I'm saying?}
-{482}{}{You see Renesco, tell him I'll give him the money tomorrow.}
-{483}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
-{484}{}{You talkin' to me? You talkin' to me?!}
-{485}{}{You want some of this?! Huh?}
+{458}{}{Bem, se nao e o Sr. Darttth Vadrrr}
+{459}{}{Cara, eu preciso de um pouco dessa coisa que voce esta tomando. Voceparece uma grande... coisa de metal.}
+{460}{}{Cara, voce esta no jogo errado. Bom, pelo menos nao esta jogando Fortnite.}
+{461}{}{Voce e algum homem do espaço?}
+{462}{}{Eu precisaria tomar umas boas doses de Jet antes de tentar mexer com voce.}
+{470}{}{Hey, escravista, como anda?!}
+{471}{}{Voce vai me escravizar? Huh? Pode tentar! Eu sou invencivel!}
+{472}{}{Tente me pegar, escravista!}
+{473}{}{Quer me passar um pouco de jet, escravista?}
+{474}{}{Eu mal posso te ver, escravista, estou tao chapado.}
+{475}{}{Ta me tirando, escravista? Eu sou bombado a base de jet! E vou chutar sua bunda daqui!}
+{476}{}{Voce quer voar comigo, escravista?}
+{477}{}{Por que voce sao dois? Esse e teu gemeo?}
+{478}{}{Huh? Voce e real?}
+{479}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
+{480}{}{Voce quer voar? Fale com a Juuuules.}
+{481}{}{Jagged Jimmy J 'conserta' voce, entendeu?}
+{482}{}{Se voce ver Renesco, diga que eu darei o dinheiro amanha.}
+{483}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
+{484}{}{Voce esta falando comigo? Voce esta falando comigo?!}
+{485}{}{Voce quer um pouco disso?! Huh?}
 {486}{}{::Olha para você com os olhos encharcados de droga::}
-{487}{}{You wanna fly with me?}
-{488}{}{Hey, champ, wazzup?!}
-{489}{}{You gonna box wi' me? Huh? C'mon!}
-{490}{}{You messin' with me, champ? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{500}{}{Ho! Made Man comin' through!}
-{501}{}{I can barely see you down there, gangster, I'm so high.}
-{502}{}{Why's there two o' you? That your twin?}
-{503}{}{Huh? You a real Made Man?}
-{504}{}{Gangster, I'm soooo high that... uh, what was I saying?}
-{505}{}{You wanna fly with me, gangster?}
-{506}{}{You looking to fly, gangster? Talk to Juuuuules.}
-{507}{}{Jagged Jimmy J 'fix' you up, know what I'm saying?}
-{508}{}{If you'r here to collect for Renesco, tell him I'll have the money tomorrow.}
-{509}{}{Jagged Jimmy's shit's the BEST. Uh, unless you don't like him.}
-{510}{}{You talkin' to me? You talkin' to me?!}
-{511}{}{You messin' with me, mafia tool? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{512}{}{You want some of this, gangster?! Huh?}
+{487}{}{Voce quer voar comigo?}
+{488}{}{Hey, campeao, de boas?!}
+{489}{}{Quer boxear comigo? Huh? Bora la!}
+{490}{}{Ta me tirando, campeao? Eu sou uma potencia bombada a jet! Eu vou chutar sua bunda daqui!}
+{500}{}{Opa! Iniciado chegando!}
+{501}{}{Mal consigo te ver ai, gangster, estou tao chapado.}
+{502}{}{Por que voce sao dois? Esse e teu gemeo?}
+{503}{}{Huh? Voce e um gangster mesmo?}
+{504}{}{Gangster, estou tao chapado que... uh, do que eu falava mesmo?}
+{505}{}{Voce quer voar comigo, gangster?}
+{506}{}{Voce quer voar, gangster? Fale com a Juuuules.}
+{507}{}{Jagged Jimmy J 'conserta' voce, entendeu?}
+{508}{}{Se voce esta aqui para me cobrar sobre Renesco, diga a ele que terei o dinheiro amanha.}
+{509}{}{A merda do Jagged Jimmy e a MELHOR. Uh, a menos que voce nao goste dele.}
+{510}{}{Voce esta falando comigo? Voce esta falando comigo?!}
+{511}{}{Ta me tirando, bandidao? Eu sou uma potencia bombada a jet! Eu vou chutar sua bunda daqui!}
+{512}{}{Voce quer um pouco disso, gangster?! Huh?}
 {513}{}{::Olha para você com os olhos encharcados de droga::}
 {520}{}{Whoa... what are YOU on? Got any to share?}
 {521}{}{I thought *I* was fucked up.}
 {522}{}{Hey, friend... share some of that shit you're on.}
 {523}{}{I'd ask you to fly, but you look like you're already there.}
-{524}{}{Why's there two o' you? That your twin?}
+{524}{}{Por que voce sao dois? Esse e teu gemeo?}
 {525}{}{Where did you get that shit you're on?}
 {530}{}{Man, don't look now, but you got this brain in a box following you.}
 {531}{}{Whoa. I must be taking some baaad shit... I'm seeing robot brains running around.}
@@ -248,13 +247,13 @@
 {538}{}{You messin' with me, robot lover? I'm a Jet-pumped powerhouse! I'll kick YOUR ass
  and then your robot's ass!}
 {539}{}{You want some of this, robot-lover?! Huh?}
-{540}{}{Huh? You real?}
-{541}{}{I'm soooo high that... uh, what was I saying?}
-{542}{}{You looking to fly? Talk to Juuuuules.}
-{543}{}{Jagged Jimmy J 'fix' you up, know what I'm saying?}
-{544}{}{You see Renesco, tell him I'll give him the money tomorrow.}
-{545}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
-{546}{}{You talkin' to me? You talkin' to me?!}
+{540}{}{Huh? Voce e real?}
+{541}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
+{542}{}{Voce quer voar? Fale com a Juuuules.}
+{543}{}{Jagged Jimmy J 'conserta' voce, entendeu?}
+{544}{}{Se voce ver Renesco, diga que eu darei o dinheiro amanha.}
+{545}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
+{546}{}{Voce esta falando comigo? Voce esta falando comigo?!}
 {547}{}{::Olha para você com os olhos encharcados de droga::}
 {548}{}{Man, don't look now, but you got this mutant following you.}
 {549}{}{Whoa. I must be taking some baaad shit... I'm seeing mutants running around.}
@@ -275,17 +274,17 @@
 {564}{}{Am I high, or has your friend got a bone growing out of his nose?}
 {565}{}{Better tell your friend that somebody shoved a bone up his nose.}
 {566}{}{I can barely see you down there, I'm so high.}
-{567}{}{Why's there two o' you? That your twin?}
-{568}{}{Huh? You real?}
-{569}{}{I'm soooo high that... uh, what was I saying?}
-{570}{}{You wanna fly with me?}
-{571}{}{You looking to fly? Talk to Juuuuules.}
-{572}{}{Jagged Jimmy J 'fix' you up, know what I'm saying?}
-{573}{}{You see Renesco, tell him I'll give him the money tomorrow.}
-{574}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
-{575}{}{You talkin' to me? You talkin' to me?!}
+{567}{}{Por que voce sao dois? Esse e teu gemeo?}
+{568}{}{Huh? Voce e real?}
+{569}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
+{570}{}{Voce quer voar comigo?}
+{571}{}{Voce quer voar? Fale com a Juuuules.}
+{572}{}{Jagged Jimmy J 'conserta' voce, entendeu?}
+{573}{}{Se voce ver Renesco, diga que eu darei o dinheiro amanha.}
+{574}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
+{575}{}{Voce esta falando comigo? Voce esta falando comigo?!}
 {576}{}{You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{577}{}{You want some of this?! Huh?}
+{577}{}{Voce quer um pouco disso?! Huh?}
 {578}{}{::Olha para você com os olhos encharcados de droga::}
 {600}{}{Nice...}
 {601}{}{Mmmm...}
