@@ -1,20 +1,20 @@
 {100}{}{Egy nagy darab, primitív embert látsz.}
-{101}{}{A férfi eléggé er?s és éber.}
-{110}{}{Egy karcsú, de primitív n?t látsz.}
-{111}{}{A testalkatát meghazudtolva eléggé er?snek látszik.}
+{101}{}{A férfi eléggé erős és éber.}
+{110}{}{Egy karcsú, de primitív nőt látsz.}
+{111}{}{A testalkatát meghazudtolva eléggé erősnek látszik.}
 {120}{}{Egy furcsa embert látsz.}
 {121}{}{Rettenetesen vékony.}
 {130}{}{Egy rongyos ember.}
-{131}{}{Ez az ember elég er?snek látszik.}
+{131}{}{Ez az ember elég erősnek látszik.}
 {140}{}{Egy toprongyos embert látsz.}
 {141}{}{He moves with suggesting speed.}
-{150}{}{Egy piszkos n?.}
-{151}{}{Ez a n? olyan benyomást kelt, mintha sosem fürdött volna életében.}
-{160}{}{Egy jól megtermett n?t látsz.}
-{161}{}{Er?s harcosnak látszik.}
-{170}{}{Egy cingár n?.}
+{150}{}{Egy piszkos nő.}
+{151}{}{Ez a nő olyan benyomást kelt, mintha sosem fürdött volna életében.}
+{160}{}{Egy jól megtermett nőt látsz.}
+{161}{}{Erős harcosnak látszik.}
+{170}{}{Egy cingár nő.}
 {171}{}{Ez a férfi szemlátomást nem sok vizet zavar.}
-{200}{}{Halál rád!}
+{200}{}{Dögölj meg!}
 {201}{}{Hol vagyol?}
 {202}{}{Mostan bántani foglak!}
 {210}{}{Visszakapod te esztet!}
@@ -32,10 +32,10 @@
 {235}{}{Rabszolga-vadászok vagytok? Ó, istenem!}
 {245}{}{Csendet! Közel vannak.}
 {246}{}{Ölni rossz emberek.}
-{247}{}{Nem vinni el család t?lem.}
+{247}{}{Nem vinni el család tőlem.}
 {248}{}{Megvédem család.}
 {249}{}{Nem találhatnak meg minket.}
-{250}{}{?k rossz emberek.}
+{250}{}{Ők rossz emberek.}
 {260}{}{Hajcsárok jönnek. Csituljatok!}
 {261}{}{Felkészülni, azt hiszem, közel vannak!}
 {262}{}{Nem visztek magatokkal harc nélkül!}
@@ -43,7 +43,7 @@
 {264}{}{Azok a hajcsárok megfizetnek ezért!}
 {265}{}{Egyetlen hajcsár sem viheti el a családom.}
 {270}{}{Nem taná'nak meg.}
-{271}{}{E' k? bújni. E' k? bújni.}
+{271}{}{E' kő bújni. E' kő bújni.}
 {272}{}{Mér akarnak bántani?}
 {273}{}{Megijedtem.}
 {274}{}{Nem harcolok.}
@@ -63,22 +63,22 @@
 {295}{}{Bántalak téged!}
 {296}{}{Te megfizet!}
 {300}{}{Nem viszed el a családomat, hajcsár!}
-{301}{}{Meghalsz, söpredék!}
+{301}{}{Pusztulj, gonosz korcs!}
 {302}{}{Megfizetsz, te szemét!}
 {303}{}{A halálomig harcolok a családomért!}
 {304}{}{Nem menekülsz!}
 {305}{}{Nem viszed el a barátaimat!}
-{310}{}{Ahhh!}
+{310}{}{Ahh!}
 {311}{}{Ne öjjé'! Ne öjjé'!}
 {312}{}{Állj!}
-{313}{}{Segííííccs!}
-{314}{}{Fuss!}
+{313}{}{Segítséééég!}
+{314}{}{Futás!}
 {315}{}{Ne tegyed!}
 {320}{}{Fussatok, ha kedves az életetek!}
 {321}{}{Ne hagyd, hogy elfogjanak!}
 {322}{}{Rabszolga-vadászok! Futás!}
 {323}{}{Segítség, valaki! Kérem!}
 {324}{}{Fuss, Marty!}
-{325}{}{Ahhh!}
-{326}{}{Állítsd meg ezt az ?rületet!}
+{325}{}{Ahh!}
+{326}{}{Állítsd meg ezt az őrületet!}
 {327}{}{Nem csináltunk semmit! Hagyj békén minket!}

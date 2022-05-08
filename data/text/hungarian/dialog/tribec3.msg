@@ -10,7 +10,7 @@
 {206}{}{The spirits accept you as one of us.}
 {207}{}{Kösz, hogy segítettél.}
 {208}{}{I thought all outworlders were evil. It is not so...}
-{209}{}{Ne csináld ez!}
+{209}{}{Ne csináld ezt!}
 {210}{}{Slavers aren't welcome here!}
 {300}{}{We're honored to have you here, hero.}
 {301}{}{Your defeat of the Enclave shall be recorded in legends. Your ancestors are proud.}

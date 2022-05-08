@@ -1,5 +1,5 @@
 {100}{}{Egy szakadt pénztárost látsz.}
-{101}{}{Messzir?l látszik rajta, hogy gyakorlatilag bármit megvenne azért, hogy az emberek itt játsszannak.}
+{101}{}{Messziről látszik rajta, hogy gyakorlatilag bármit megvenne azért, hogy az emberek itt játsszannak.}
 {102}{}{Mit aka'sz?}
 {103}{}{Elvesztegetnék néhány dolgot.}
 {104}{}{Semmi.}

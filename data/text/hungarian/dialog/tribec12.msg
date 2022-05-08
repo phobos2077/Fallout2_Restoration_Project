@@ -7,9 +7,9 @@
 {106}{}{I am on a quest for the Holy GECK. Do you know anything about this?}
 {107}{}{I am looking for a missing woman. She's the sister of my friend, Sulik.}
 {108}{}{Is there anything else that needs to be done around here?}
-{109}{}{Felejtsük el! Viszlát.}
+{109}{}{Nem fontos! Üdv!}
 {110}{}{The Holy GECK... [He takes a long hit off his pipe.] There is a creature that we sometimes hunt -- sometimes, it hunts us. A gecko. No, I sense that's not what you seek. I'm afraid your Holy GECK is beyond my ken.}
-{111}{}{Feltennék még kérdéseket.}
+{111}{}{Hadd kérdezzek valami mást!}
 {112}{}{That's all I need to know. Bye.}
 {120}{}{Sulik? [He nods.] One of our best men. Equally skilled at the art of the hunt, and the art of communing with bonespirits. He left us to find his sister, Kurisu, who never returned from a nearby tribe. Tell me, child, where is Sulik now?}
 {121}{}{Oh, he's right here. Hey, Sulik, come on in here...}
@@ -21,7 +21,7 @@
 {126}{}{[He frowns and smokes his pipe in silence for a long time. Just when you consider leaving. He finally speaks.] The spirits were strong with Sulik. I always thought, he might one day take my place. Now, I see the spirits had other plans for Sulik. But what of his sister, Kurisu?}
 {127}{}{She was captured by slavers. I've offered Sulik assistance in locating her. Do you know anything that might help in the search?}
 {128}{}{[He closes his eyes for a long time. Just as you think he might have fallen asleep, he begins speaking.] The slavers are led by a man with a dark soul. Metzger. He dwells in one of the ruined husks of the Old One's cities. They call it the Den. [He opens his eyes.] Perhaps, he is holding her there. The bonespirits say no more.}
-{129}{}{Köszi. Kérdeznék még.}
+{129}{}{Kösz. Most akkor visszatérnék a kérdéseimre.}
 {130}{}{Thank you, child, but I am content. Perhaps others are not so. Ask around the village.}
 {140}{}{I look for GECK.}
 {141}{}{I looking for missing woman. She sister of friend Sulik.}
@@ -36,7 +36,7 @@
 {301}{}{Alright, finally! Let's hear it.}
 {302}{}{Not interested, old man. Bye.}
 {310}{}{[He takes a big hit off his pipe, then closes his eyes. After a moment, he nods.] Yes. I see the Great Bear spirit has guided your quest, breathing new life into old bones. Others as well. Perhaps they've come to you in a vision. Come from far, far away... where mutants are not allowed.}
-{311}{}{Mi a fenér?l beszélsz?}
+{311}{}{Mi a francról beszélsz?}
 {312}{}{Yeah yeah, I got the Star Wars special encounter. Don't tell me that's the final great secret.}
 {320}{}{The final secret... the greatest secret in the entire game... is, [As he does a dramatic pause, he takes another hit off his pipe. Suddenly, the pipe slips from his hands and falls into his robes, instantly igniting him in flames.]}
 {321}{}{Fuck!}

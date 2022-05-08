@@ -1,17 +1,17 @@
 {100}{}{Számítógép-terminál}
 {101}{}{Egy kis matrica van rajta, amin ez áll: I*tel Inside.}
-{102}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
+{102}{}{[Képtelen vagy elolvasni, mi van a képernyőn.]}
 {103}{}{Control Terminal
                                                        Project: Organic and Robotic Synthesis Experiment}
 {104}{}{}
-{105}{}{Rendszer ellen?rzése.}
+{105}{}{Rendszer ellenőrzése.}
 {106}{}{Robot aktiválása}
-{107}{}{Kilépés}
+{107}{}{Befejezés}
 {108}{}{Hö?}
-{109}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
+{109}{}{[Képtelen vagy elolvasni, mi van a képernyőn.]}
 {110}{}{Program vége}
-{111}{}{Kilépés}
-{112}{}{Ah...}
+{111}{}{Befejezés}
+{112}{}{Uh!}
 {113}{}{Kérem, várjon...
                                                          Robot test - Rendben
                                                Bio-Med gél-tartály - Feltöltve
@@ -56,7 +56,7 @@
 {122}{}{}
 {124}{}{}
 {153}{}{Robot aktiválása}
-{154}{}{Kilépés}
+{154}{}{Befejezés}
 {155}{}{Javaslat felülbírálása
                                                   Az egység indulásra kész}
 {156}{}{}
@@ -70,16 +70,16 @@
 {164}{}{Indítás-szekvencia inicializálása}
 {165}{}{                                      Energia szint - Csekély}
 {166}{}{                                              Kompatibilitás - 75%}
-{167}{}{                                                  Az egység m?köd?képes}
+{167}{}{                                                  Az egység működőképes}
 {170}{}{                                              Kompatibilitás - 50%}
 {174}{}{                                              Kompatibilitás - 10%}
-{176}{}{Kilépés}
-{200}{}{ képtelen elolvasni, mi van a képerny?re írva.}
-{300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
+{176}{}{Befejezés}
+{200}{}{ képtelen elolvasni, mi van a képernyőn.}
+{300}{}{Úgy látszik, a számítógép védelmi mechanizmussal van ellátva.}
 {500}{}{Indítás-szekvencia inicializálása
                                       Energia szint - Csekély
                                               Program Megszakítva
                                                  Letöltés...
                                                               Program Folytatása
                                                   Kompatibilitás - 100%
-                                                 Az egység m?köd?képes}
+                                                 Az egység működőképes}

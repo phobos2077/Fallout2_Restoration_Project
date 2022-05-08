@@ -5,6 +5,6 @@
 {103}{}{Kilépés.}
 {104}{}{Align satellite to receive Enclave coordinates.}
 {105}{}{Satellite realigning. One moment please...}
-{106}{}{[TOVÁBB]}
+{106}{}{[TOVÁBBI LEHETŐSÉG]}
 {107}{}{Realignment successful. Docking rig ready to receive incoming aircrafts.}
 {108}{}{Kilépés.}

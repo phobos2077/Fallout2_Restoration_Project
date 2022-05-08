@@ -1,11 +1,11 @@
 {100}{}{}
 {101}{}{}
 {110}{}{Nagyon viszket a lábfejed.}
-{120}{}{Kis ocsmány bütykök n?nek a lábfejeidre.}
-{130}{}{A cip?d nagyon szorít, a bütykök tényleg n?nek.}
-{140}{}{Az ocsmány kis bütykökb?l új lábujjak lettek. De legalább az a tartós, ég? viszketés elmúlt.}
-{141}{}{Istenem, ez Bess!}
-{150}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
+{120}{}{Kis ocsmány bütykök nőnek a lábfejeidre.}
+{130}{}{A cipőd nagyon szorít, a bütykök tényleg nőnek.}
+{140}{}{Az ocsmány kis bütykökből új lábujjak lettek. De legalább az a tartós, égő viszketés elmúlt.}
+{141}{}{Úristen, ez Bess!}
+{150}{}{ }
 {151}{}{ experience points for getting the GECK.}
 {400}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
 {500}{}{You have become addicted to alcohol. The thirst for alcohol will soon consume you.}

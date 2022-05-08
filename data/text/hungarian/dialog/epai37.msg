@@ -25,19 +25,19 @@
 {417}{}{Alter Hairstyle (Red Hair).}
 {418}{}{On second thought, I don't really have time for this right now. Bye.}
 {500}{}{This procedure will take four weeks for you to recover and has a 50% chance of death. Do you wish to begin now?}
-{501}{}{Csináljuk!}
+{501}{}{Készen.}
 {502}{}{Yes. Finally, I can be the person I've always been on the inside.}
 {503}{}{Eh, maybe later. Bye.}
 {504}{}{Let me choose another procedure.}
 {505}{}{Hell no! I'm outta here!}
 {510}{}{Excellent choice. This procedure will take two weeks for you to recover and has a 25% chance of death. Do you wish to begin now?}
-{511}{}{Csináljuk!}
+{511}{}{Készen.}
 {512}{}{Yes. Finally, I can be the person I've always been on the inside.}
 {513}{}{Eh, maybe later. Bye.}
 {514}{}{Let me choose another procedure.}
 {515}{}{Hell no! I'm outta here!}
 {520}{}{Excellent choice. This procedure will take one day for you to recover and has a 1% chance of death. Do you wish to begin now?}
-{521}{}{Csináljuk!}
+{521}{}{Készen.}
 {522}{}{Yes. Finally, I can be the person I've always been on the inside.}
 {523}{}{Eh, maybe later. Bye.}
 {524}{}{Let me choose another procedure.}
@@ -47,4 +47,4 @@
 {650}{}{I'm sorry, this particular procedure is not currently available for females.}
 {700}{}{I'm sorry, but something went terribly wrong with the procedure. We apologize for this inconvenience, but thank
  you for volunteering for the sake of science.}
-{701}{}{Ó, a francba...}
+{701}{}{Bakker...}

@@ -1,4 +1,4 @@
-{100}{}{Egy lazaöltözék? ?r. Unatkozik ugyan, de a figyelme nem lanyhul.}
+{100}{}{Egy lazaöltözékű őr. Unatkozik ugyan, de a figyelme nem lanyhul.}
 {101}{}{You see a dock guard. He's unusually well armed.}
 {102}{}{You see the motorboat guard.}
 {150}{}{Hey! Step away from that!}
@@ -12,7 +12,7 @@
 {210}{}{Everything. Don't try anything funny.}
 {211}{}{Can't you be any more specific?}
 {220}{}{No. Now back away, outsider.}
-{221}{}{Alright. Bye.}
+{221}{}{Aha. Na, viszlát!}
 {222}{}{Nobody tells me what to do. You're fucking dead!}
 {230}{}{And I need you to fuck right off. You're not permitted to use the motorboat, hell, you're a lao wai, not a Shi.}
 {231}{}{Listen, I'm in a desperate situation. If you don't let me use that motorboat, then my entire tribe could die.
@@ -26,12 +26,12 @@
 {241}{}{Thank you, friend. And don't worry, I won't speak a word of this anyone.}
 {250}{}{I hope not, for both our sakes... Let me know when you're ready to use the boat. You can't bring anyone with you, as it'll draw too much attention. You'll have to go at this alone.}
 {251}{}{I'd like to use it right now.}
-{252}{}{Jelen pillantban nem.}
+{252}{}{Most nincs.}
 {260}{}{[The guard listens to the password and nods.] I guess you really are a technician. Hmm, the Shi must be getting desperate to hire outsiders... Anyway, you're early. Didn't they tell you that the tech team doesn't leave port until midnight? You can wait for the rest of the team here, if you wish.}
 {261}{}{I don't really have anything better to do, so sure...}
 {262}{}{I'll come back later.}
 {270}{}{Just use the mooring post and slide down the rope to the boat. Don't take too long out there, though, I don't want to get into any trouble.}
-{271}{}{Fogom. Viszlát!}
+{271}{}{Aha. Viszlát!}
 {272}{}{Easy enough. Goodbye.}
 {280}{}{Ready to join the tech team?}
 {281}{}{Yes, I'm ready to go.}

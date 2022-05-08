@@ -1,4 +1,4 @@
-{100}{}{Bokszoló.}
+{100}{}{Egy bokszoló.}
 {101}{}{Ez itt Mike, a "Húsdaráló".}
 {150}{}{A karja olyan, mint egy farönk.}
 {151}{}{A karjai harckocsi lövegeknek is beillenének.}

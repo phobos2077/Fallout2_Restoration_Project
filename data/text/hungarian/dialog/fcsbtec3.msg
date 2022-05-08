@@ -31,7 +31,7 @@
 {342}{}{Fine, I'll go.}
 {350}{}{Oh, specialists in both fields are not common in the wastelands. I guess I can trust you, so go ahead and fix those
  torpedoes so that I can finally feel a little safer.}
-{351}{}{Alright.}
+{351}{}{Értem.}
 {360}{}{Hey, I'm busy here.}
 {361}{}{Sorry, I'm working.}
 {370}{}{Don't touch that!}

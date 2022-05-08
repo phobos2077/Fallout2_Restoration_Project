@@ -2,7 +2,7 @@
 {101}{}{GYORSTÖLTÉS HELYE:}
 {102}{}{KIMENTÉS}
 {103}{}{GYORSMENTÉS HELYE:}
-{104}{}{KÉSZ}
+{104}{}{RENDBEN}
 {105}{}{MÉGSE}
 {106}{}{Hiba a mentett állások listájának betöltésekor!}
 {107}{}{Mentett állások könyvtára:}

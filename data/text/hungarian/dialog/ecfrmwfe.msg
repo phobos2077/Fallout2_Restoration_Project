@@ -1,7 +1,7 @@
 {100}{}{Ez a házam.}
 {101}{}{Rohadt banditák!}
 {102}{}{Hagyj békén minket!}
-{103}{}{Gy?lölöm a banditákat!}
+{103}{}{Gyűlölöm a banditákat!}
 {104}{}{Semmink sincs, amit ellophatnál.}
 {105}{}{Ne ölj meg!}
 {106}{}{Elegem van!}

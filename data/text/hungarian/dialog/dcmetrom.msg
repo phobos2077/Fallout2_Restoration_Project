@@ -14,12 +14,12 @@
 {253}{}{Ha a céh tagja vagy, sok akcióban vehetsz részt.}
 {254}{}{Metzgerrel beszélj, ne velem!}
 {255}{}{Metzger nem vesz fel kurvákat, úgyhogy takarodj!}
-{256}{}{Kotródj!}
+{256}{}{Tűnés!}
 {257}{}{Hé, ember!}
 {258}{}{Szerencsés vagy, neked csak a vadászatokra kell menned.}
-{259}{}{Elég uncsi egy ajtót ?rizni.}
-{260}{}{Hogy ityeg a fityeg?}
-{261}{}{Te vagy az els? n?, akit Metzger felvett.}
+{259}{}{Elég uncsi egy ajtót őrizni.}
+{260}{}{Mi újság?}
+{261}{}{Te vagy az első nő, akit Metzger felvett.}
 {262}{}{Metzger biztos kedvel téged.}
 {263}{}{Egyedül vagy, kicsi lányka.}
-{264}{}{Egy n?i hajcsár... Nem gondoltam, hogy valaha is megérem.}
+{264}{}{Egy női hajcsár... Nem gondoltam, hogy valaha is megérem.}

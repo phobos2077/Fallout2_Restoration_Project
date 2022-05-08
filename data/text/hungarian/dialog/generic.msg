@@ -1,35 +1,35 @@
-{100}{}{Amiért elboronáltad a Hubologista ügyét Merk számára, }
+{100}{}{ }
 {101}{}{ tapasztalati pontot kaptál.}
 {102}{}{Sikeresen hatástalanítottad a csapdát.}
-{103}{}{Nem sikerült hatástalanítanod a csapdát.}
+{103}{}{Nem tudtad hatástalanítani a csapdát.}
 {104}{}{Véletlenül aktiválod a csapdát.}
 {105}{}{ nem tudod hatástalanítani a csapdát.}
 {106}{}{ sikeresen hatástalanítja a csapdát.}
 {107}{}{ véletlenül aktiválja a csapdát.}
-{200}{}{Köszönöm!}
+{200}{}{Köszönöm.}
 {201}{}{Jó napot.}
-{202}{}{Köszi.}
+{202}{}{Kösz.}
 {203}{}{Köszönöm!}
 {204}{}{Köszönöm, nem.}
-{205}{}{Kösz nem.}
-{206}{}{Hogyne.}
+{205}{}{Háááát...}
+{206}{}{Persze.}
 {207}{}{Igen.}
 {208}{}{Nem.}
-{209}{}{OKÉ.}
-{300}{}{Ah...}
+{209}{}{Oké.}
+{300}{}{Aghhh!}
 {301}{}{Og.}
-{302}{}{Úga.}
+{302}{}{Úúga.}
 {303}{}{Örg.}
-{350}{}{[vége]}
+{350}{}{[Befejezés]}
 {351}{}{[VISZLÁT]}
-{352}{}{[TOVÁBB]}
+{352}{}{[TOVÁBBI LEHETŐSÉG]}
 {353}{}{[FOLYTATÁS]}
 {354}{}{[HARC]}
 {355}{}{[ADJ PÉNZT]}
 {375}{}{Viszlát!}
 {376}{}{Viszlát!}
 {400}{}{Meghalsz Dr. Troy halálos injekciójától.}
-{450}{}{Tiszta a leveg?. Gyerünk!}
+{450}{}{Tiszta a levegő. Gyerünk!}
 {900}{}{A régi, megviselt ajtót egy jól elhelyezet bombával el lehet pusztítani.}
 {901}{}{Egy rabszolga-kordét látsz, mellyel a rabszolgákat viszik vissza Rejtekbe.}
 {905}{}{Vaú! Vaú!}
@@ -46,7 +46,7 @@
 {1000}{}{Sikerült a Polgársági teszted.}
 {1001}{}{You reported the Jet addiction of Redding to McClure.}
 {1002}{}{Mostantól szabadon kereskedhetsz Reddinggel.}
-{1003}{}{Kikapcsoltad az er?tereket. }
+{1003}{}{Kikapcsoltad az erőtereket. }
 {1004}{}{Betörtél a számítógépbe.}
 {1005}{}{Megjavítod a kutat.}
 {1006}{}{Bíróság elé állítottad Hakeswillt.}
@@ -56,31 +56,31 @@
 {1010}{}{Átadtad az ellenszer formuláját Dr. Troy-nak.}
 {1011}{}{Megsemmisítetted a reaktort.}
 {1012}{}{FIGYELEM! Teljes Reaktor LEOLVADÁS.}
-{1013}{}{FIGYELEM! MÉREG került a szell?z?be.}
+{1013}{}{FIGYELEM! MÉREG került a szellőzőbe.}
 {1014}{}{Kipucoltad a Wanamingo Bányát.}
 {1015}{}{Túlélted a rejtvény szobát.}
-{1016}{}{Hoppá, majdnem megfeledkeztem az ÉLET-r?l! Szerintem van itt valahol egy.}
+{1016}{}{Hoppá, majdnem megfeledkeztem az ÉLET-ről! Szerintem van itt valahol egy.}
 {1017}{}{Az ÉLET-kódodtól kirobban az ajtó.}
-{1018}{}{Kiirtottad H?t?s Morton bandáját.}
+{1018}{}{Kiirtottad Hűtős Morton bandáját.}
 {1019}{}{You disable the shock plates.}
 {1020}{}{You broke up the bar brawl.}
 {1021}{}{You disabled the Robot Repair Terminal.}
 {1050}{}{A skorpiómérget belekevered az ellenanyagba.}
-{1051}{}{A broc virágból és a xander gyökérb?l gyógyító port készítesz.}
+{1051}{}{A broc virágból és a xander gyökérből gyógyító port készítesz.}
 {1099}{}{Az É.L.E.T-ed túl sokat ér a faludnak, hogy csak így eldobd.}
 {2000}{}{nulla}
 {2001}{}{egy}
-{2002}{}{kett?}
+{2002}{}{kettő}
 {2003}{}{három}
 {2004}{}{négy}
 {2005}{}{öt}
 {2006}{}{hat}
-{2007}{}{hét}
+{2007}{}{hetes}
 {2008}{}{nyolc}
 {2009}{}{kilenc}
 {2010}{}{tíz}
 {2011}{}{tizenegy}
-{2012}{}{tizenkett?}
+{2012}{}{tizenkettő}
 {2013}{}{tizenhárom}
 {2014}{}{tizennégy}
 {2015}{}{tizenöt}
@@ -89,7 +89,7 @@
 {2018}{}{tizennyolc}
 {2019}{}{tizenkilenc}
 {2021}{}{huszonegy}
-{2022}{}{huszonkett?}
+{2022}{}{huszonkettő}
 {2023}{}{huszonhárom}
 {2024}{}{huszonnégy}
 {2025}{}{huszonöt}
@@ -99,7 +99,7 @@
 {2029}{}{huszonkilenc}
 {2030}{}{harminc}
 {2031}{}{harmincegy}
-{2032}{}{harminckett?}
+{2032}{}{harminckettő}
 {2033}{}{harminchárom}
 {2034}{}{harmincnégy}
 {2035}{}{harmincöt}
@@ -109,7 +109,7 @@
 {2039}{}{harminckilenc}
 {2040}{}{negyven}
 {2041}{}{negyvenegy}
-{2042}{}{negyvenkett?}
+{2042}{}{negyvenkettő}
 {2043}{}{negyvenhárom}
 {2044}{}{negyvennégy}
 {2045}{}{negyvenöt}
@@ -119,7 +119,7 @@
 {2049}{}{negyvenkilenc}
 {2050}{}{ötven}
 {2051}{}{ötvenegy}
-{2052}{}{ötvenkett?}
+{2052}{}{ötvenkettő}
 {2053}{}{ötvenhárom}
 {2054}{}{ötvennégy}
 {2055}{}{ötvenöt}
@@ -129,7 +129,7 @@
 {2059}{}{ötvenkilenc}
 {2060}{}{hatvan}
 {2061}{}{hatvanegy}
-{2062}{}{hatvankett?}
+{2062}{}{hatvankettő}
 {2063}{}{hatvanhárom}
 {2064}{}{hatvannégy}
 {2065}{}{hatvanöt}
@@ -139,7 +139,7 @@
 {2069}{}{hatvankilenc}
 {2070}{}{hetven}
 {2071}{}{hetvenegy}
-{2072}{}{hetvenkett?}
+{2072}{}{hetvenkettő}
 {2073}{}{hetvenhárom}
 {2074}{}{hetvennégy}
 {2075}{}{hetvenöt}
@@ -149,7 +149,7 @@
 {2079}{}{hetvenkilenc}
 {2080}{}{nyolcvan}
 {2081}{}{nyolcvanegy}
-{2082}{}{nyolcvankett?}
+{2082}{}{nyolcvankettő}
 {2083}{}{nyolcvanhárom}
 {2084}{}{nyolcvannégy}
 {2085}{}{nyolcvanöt}
@@ -159,7 +159,7 @@
 {2089}{}{nyolcvankilenc}
 {2090}{}{kilencven}
 {2091}{}{kilencvenegy}
-{2092}{}{kilencvenkett?}
+{2092}{}{kilencvenkettő}
 {2093}{}{kilencvenhárom}
 {2094}{}{kilencvennégy}
 {2095}{}{kilencvenöt}
@@ -197,7 +197,7 @@
 {3375}{}{}
 {3400}{}{}
 {3600}{}{}
-{3625}{}{Hé te! Miért l?dörögsz errefelé?}
+{3625}{}{Hé te! Miért lődörögsz errefelé?}
 {3626}{}{Ha nincs kulcs a kezedben, jobb lesz ha arrébb állsz!}
 {3627}{}{Oka van, hogy zárva van, féreg!}
 {3628}{}{Hagyd abba, vagy baj lesz!}
@@ -207,7 +207,7 @@
 {3900}{}{}
 {3925}{}{Hé, Te! Mit csinálsz ott?}
 {3926}{}{Nem kellene itt lenned!}
-{3927}{}{Ha azt gondolod, hogy elmehetsz mellettem, nyugodtan kiverheted a fejedb?l!}
+{3927}{}{Ha azt gondolod, hogy elmehetsz mellettem, nyugodtan kiverheted a fejedből!}
 {3928}{}{Ha arra gondolsz, idegen, amire én, akkor fejezd be!}
 {3929}{}{Mi? Azt hitted nem vettelek észre? Takarodj!}
 {3950}{}{}
@@ -233,26 +233,26 @@
 {5150}{}{}
 {5175}{}{}
 {5200}{}{}
-{5400}{}{MENJ ONNAN!!!}
+{5400}{}{Eridj onnan!}
 {9000}{}{Javítás kész.}
 {9001}{}{Fegyverzet kész.}
 {9002}{}{Szerkezeti sérülés javítás alatt.}
 {10000}{}{Mondj nekem valamit!}
-{10001}{}{Most már meg kellene gyógyítanod magad.}
-{10002}{}{Kérlek, várj itt, amíg vissza nem jövök!}
+{10001}{}{Gyógyítsd magad!}
+{10002}{}{Várj itt, amíg vissza nem jövök!}
 {10003}{}{Tedd el a fegyvered!}
-{10004}{}{Maradj a közelemben!}
-{10005}{}{Ne menj túl messzire!}
-{10006}{}{Kicsit szét kellene szóródnunk.}
-{10007}{}{Mára ennyi.}
+{10004}{}{Maradj szorosan mellettem!}
+{10005}{}{Ne menj túl messze!}
+{10006}{}{Szóródjunk szét egy kicsit!}
+{10007}{}{Egyelőre ennyi.}
 {10008}{}{Változtatni kell a távolságunkon.}
-{10009}{}{Beszélnünk kell a felszerelésedr?l.}
+{10009}{}{Beszélnem kell veled a felszerelésedről.}
 {10010}{}{Meggondoltam magam, azt hiszem, jó ez a távolság.}
 {10011}{}{Igazából nem vagyok kíváncsi a felszerelésedre.}
 {10012}{}{Kérlek, vedd le a páncélt, amit viselsz!}
 {10013}{}{Tudnom kell, milyen fegyvereket tudsz használni.}
 {10100}{}{Gyerünk!}
-{20000}{}{Ezzel nem jutottál semmire.}
+{20000}{}{Ez nem csinál semmit.}
 {20100}{}{There is no lock on this door.}
 {21020}{}{húsz}
 {30000}{}{You have stolen from your own tribe.}

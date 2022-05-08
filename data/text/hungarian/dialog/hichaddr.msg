@@ -1,4 +1,4 @@
-{100}{}{Egy faajtót látsz.}
+{100}{}{Fából készült ajtó.}
 {101}{}{This door is made of a solid wood. It seems to be built with a new locking system.}
 {102}{}{This door is firmly locked.}
 {103}{}{Using the technique you learned from Max, you carefully undo the trigger mechanism and

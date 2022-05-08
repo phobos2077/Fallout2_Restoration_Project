@@ -1,10 +1,10 @@
 {100}{}{Ez itt egy Shi közember.}
 {101}{}{Dokkmunkás.}
-{102}{}{Ez itt egy Shi közember. A ruhája egy mer? halpikkely, kátrány és só.}
+{102}{}{Ez itt egy Shi közember. A ruhája egy merő halpikkely, kátrány és só.}
 {103}{}{Hajózásra való szép nap ez.}
 {104}{}{Mindig is odavoltam a tengerért.}
 {105}{}{Szereted a hallevet?}
-{106}{}{Napfény, friss leveg?, tengeri kaja. Egy jó fürd?n kívül mi mást kívánhat az ember?}
+{106}{}{Napfény, friss levegő, tengeri kaja. Egy jó fürdőn kívül mi mást kívánhat az ember?}
 {107}{}{Kezdek besokallni a haltól.}
 {108}{}{Fáj a hátam.}
 {109}{}{Nézzétek csak... egy újabb turista!}
@@ -15,7 +15,7 @@
 {116}{}{Hajózásra való szép nap ez.}
 {117}{}{Mindig is odavoltam a tengerért.}
 {118}{}{Szereted a hallevet?}
-{119}{}{Napfény, friss leveg?, tengeri kaja. Egy jó fürd?n kívül mi mást kívánhat az ember?}
+{119}{}{Napfény, friss levegő, tengeri kaja. Egy jó fürdőn kívül mi mást kívánhat az ember?}
 {120}{}{Kezdek besokallni a haltól.}
 {121}{}{Fáj a hátam.}
 {122}{}{Nézzétek csak... egy újabb turista!}

@@ -6,7 +6,7 @@
 {105}{}{Mit csinálsz Menedékváros környékén?}
 {106}{}{Mi dolgod van Menedékváros közelében?}
 {107}{}{Ez a rész Menedékváros fennhatósága alá tartozik!}
-{108}{}{Vigyázz magadra!}
+{108}{}{Vigyázzon magára!}
 {109}{}{Menedékváros nem *mindenki* menedékhelye. Úgyhogy menj csak tovább!}
 {110}{}{A te fajtád Rejtekbe való!}
 {111}{}{Azt javaslom, most azonnal indulj is el odafelé!}

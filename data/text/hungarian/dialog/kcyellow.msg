@@ -1,11 +1,11 @@
 {100}{}{Egy nagy, rühes kutyát látsz.}
-{101}{}{Ez a kutya mocskos, sz?re sárgás és vastagon belepi a por.}
+{101}{}{Ez a kutya mocskos, szőre sárgás és vastagon belepi a por.}
 {110}{}{Grrrrrr. Vaú! Vaú! Grrrrrrrr...}
 {111}{}{Vau, árf, árf?}
 {112}{}{(A kutya szemébe nézve) Grrrrr! Árrrrr! Grrrrrrrrrr!}
 {113}{}{Hmm, fogadok, hogy azért vagy mérges, mert akarsz valamit.}
 {114}{}{Éhes vagy öregfiú, nemde? Hadd nézzem meg, van-e nálam fincsi szárított hús, amit neked adhatnék.}
-{120}{}{Vaú! (A kutya el?reugrik a fogait vicsorítva, kikapja a húst a kezedb?l, és hangosan eszik)}
+{120}{}{Vaú! (A kutya előreugrik a fogait vicsorítva, kikapja a húst a kezedből, és hangosan eszik)}
 {121}{}{Woof! (The mongrel happily grabs the yummy drymeat, dropping a key that he must have had in his
  mouth -- you pick up the key.)}
 {122}{}{Mmm, jerky.}
@@ -24,4 +24,4 @@
 {202}{}{Vau!}
 {203}{}{Arf, arf, arf!}
 {204}{}{(Szeretet-teljesen néz rád)}
-{205}{}{Vaúú!}
+{205}{}{Vaú!}

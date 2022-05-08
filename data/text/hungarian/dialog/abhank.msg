@@ -20,7 +20,7 @@
 {216}{}{Sure. Here's the money.}
 {217}{}{Nah, I've had enough. Maybe next time.}
 {218}{}{(He pockets the money.) Alright then, here's the drink.}
-{219}{}{Ha meglesz a pénz, visszajövök.}
+{219}{}{Sajnos most nincs pénzem, de majd benézek még ide. Tetszik ez a hely.}
 {220}{}{Any luck finding a lighter?}
 {250}{}{I would like to buy some of the alcohol you make here.}
 {251}{}{Just looking around. Take care.}

@@ -39,7 +39,7 @@
 {420}{}{Not so fast. How much is it worth to you?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
  have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
-{422}{}{Köszönöm!}
+{422}{}{Köszönöm.}
 {423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
 {424}{}{Thanks for the money, bye.}
 {425}{}{You should look on a second floor computer, now that you have full access there.}
@@ -66,7 +66,7 @@
 {439}{}{And so, utilizing a small printing press, they began making copies of the books, and also transcribing them
  into the Abbey's computers to preserve them digitally, should the physical books ever be destroyed. Over the long years,
  others have come across the Abbey, and some have elected to stay and live out their lives in the tranquil quiet of our mountain home.}
-{440}{}{Kösz a történetet.}
+{440}{}{Köszönöm, hogy megosztotta ezt velem.}
 {441}{}{Where did your ancestors come from?}
 {442}{}{They never told where they originally came from. We suspect that they came here originally from the east.}
 {443}{}{Well, thanks for the story.}
@@ -114,7 +114,7 @@
 {701}{}{What!? [He sighs deeply.] It is most unfortunate that you were unable to recover that book. But you say you've
  killed the beast? Hm, then it should be safe to send our own people down to continue searching for it. Anyway, for your
  service, I shall grant you access to our computers. Go see Brother Paul for the access key.}
-{702}{}{Köszönöm!}
+{702}{}{Köszönöm.}
 {800}{}{Actually, yes. Our main water pump has been acting up for some time, and now it finally seems to have broken down
  completely. If you know anything about machinery, do you think you could take a look and see if something could be done?
  There are a few merchants already working on it. I fear that little progress has been made though.}
@@ -150,7 +150,7 @@
 {1112}{}{Do you mean this book?}
 {1113}{}{Before I go, let me ask you something else.}
 {1411}{}{Very interesting. I have to go now.}
-{3000}{}{Hogyan tudok segíteni?}
+{3000}{}{Miben segíthetek?}
 {4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
 {4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
 {4177}{}{I've killed the beast.}

@@ -8,7 +8,7 @@
 {252}{}{Szerintem idén nem kell trágyáznom. Köszi.}
 {300}{}{Ennek friss széna kell.}
 {301}{}{Vizet kell még hoznom.}
-{302}{}{H?! Lapát kell ide.}
+{302}{}{Hű! Lapát kell ide.}
 {303}{}{Ez itt rendben van.}
 {304}{}{Jobb lenne ezt szemmel tartani. Elég betegnek látszik.}
 {350}{}{Zzz... Alszom... Zzz...}

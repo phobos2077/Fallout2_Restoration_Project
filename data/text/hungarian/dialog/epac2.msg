@@ -48,7 +48,7 @@
 {311}{}{What kind of help do you need?}
 {320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
 {321}{}{Hell yeah I would!}
-{322}{}{Hogyne.}
+{322}{}{Persze.}
 {323}{}{I think I'll pass.}
 {330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
  wandering into this facility. It's bound to happen again within a century or two. Goodbye.}
@@ -80,8 +80,8 @@
 {402}{}{Good, because I didn't plan on giving it back anyway.}
 {410}{}{Oh... I see. I don't understand, that prototype withstood vigorous lab testing... [He shakes his head
  sadly.] Anyway, thanks for assisting me.}
-{411}{}{Ahogy gondolja.}
-{412}{}{Nem gond.}
+{411}{}{Jól van, jól van...}
+{412}{}{Nem probléma.}
 {420}{}{Nice to see you again. However, if you'll excuse me, I've got a plethora of projects that require my attention.}
 {421}{}{[End.]}
 {500}{}{You fix Hologram 00000.}

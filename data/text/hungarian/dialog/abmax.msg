@@ -3,13 +3,13 @@
 {102}{}{He looks a little nervous.}
 {200}{}{Hello. What can I do for you?}
 {201}{}{I have something from Elaine...}
-{202}{}{Mi ez a hely tulajdonképpen?}
+{202}{}{Én is örülök, hogy látlak. Mi ez a hely?}
 {203}{}{Viszlát!}
 {300}{}{Let me guess. It's that service part I requested, right?}
 {301}{}{Yes, here it is.}
 {302}{}{No, I was just testing you.}
 {303}{}{(He takes the part from your hands) Finally! Now we can fix this printing machine. Thanks, take this survival manual for your trouble.}
-{304}{}{Köszi.}
+{304}{}{Kösz.}
 {305}{}{Look, I don't have time for this. Do you have the part or not?}
 {306}{}{Yeah, I have it.}
 {307}{}{Whatever, I'm outta here.}

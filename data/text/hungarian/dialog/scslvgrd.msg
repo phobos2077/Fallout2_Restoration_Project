@@ -1,4 +1,4 @@
-{100}{}{Big guy - gun -- standing around. Guard.}
+{100}{}{Nagy faszi + nagy puska + járkál = Őr.}
 {101}{}{You still see a guard.}
 {102}{}{A homlokán ott van a rabszolga-hajcsárok tetkója, ami nem teszi intelligensebbé.}
 {103}{}{Beszélj Mr. Vortisszal, ne velem!}

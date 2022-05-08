@@ -1,31 +1,31 @@
 1:Háború.
 2:A háború nem változik.
-3:A világ vége pont úgy következett be ahogy megjósoltuk.
-4:Túl sok ember, túl kevés hely és nyersanyag.
+3:A világ vége szinte ugyanúgy következett be, ahogy megjósolták.
+4:Túl sok ember, túl kevés élőhely és nyersanyag.
 5:A részletek jelentéktelenek és értelmetlenek, az okok, mint mindig, tisztán emberiek.
-6:2077-ben a Földr?l csaknem teljesen elt?nt az emberi élet.
-7:Hatalmas tisztítót?z, egy emberi kezek csiholta atomszikra, mely gyorsan irányíthatatlanná vált.
-8:Nukleáris t?z hullott az égb?l.
+6:2077-ben a Földről csaknem teljesen eltűnt az emberi élet.
+7:Hatalmas tisztítótűz, egy emberi kezek csiholta atomszikra, mely gyorsan irányíthatatlanná vált.
+8:Tűzeső hullott az égből.
 9:A lángba borult kontinenseket forró óceánok nyelték el.
 10:Az emberiség majdnem teljesen kihalt, a lelkek részévé váltak a háttérsugárzásnak, mely beborította a Földet.
-11:Évekig tartó néma sötétség ereszkedett a bolygóra.
-12:Kevesen élték csak túl a pusztítást.
-13:Néhányan elég szerencsések voltak és védelmet találtak az óriási földalatti óvóhelyekben.
-14:Mikor a nagy sötétség véget ért, e menedékek kapui kinyíltak és a bennük él?k el?jöttek, hogy újrakezdjék életüket.
-15:Az északi törzsek egyike is egy ilyen óvóhelyr?l származtatja magát.
+11:A bolygóra évekig tartó néma sötétség ereszkedett.
+12:Csak kevesen élték túl a pusztítást.
+13:Néhányan elég szerencsések voltak, és védelmet találtak az óriási földalatti menedékekben.
+14:Mikor a nagy sötétség véget ért, e menedékek kapui kinyíltak és a bennük élők előjöttek, hogy újrakezdjék életüket.
+15:Az északi törzsek egyike is egy ilyen Menedékből származtatja magát.
 16:Úgy tartják, hogy a falujuk alapítója - egy bizonyos "Menedéklakó" - egyszer megmentette a világot egy hatalmas gonosztól.
 17:A legenda szerint ez a gonosz délen ébredezett.
 18:Mindent megrontott, amihez hozzáért, embereket változtatott szörnyetegekké.
-19:Csak a Menedéklakó bátorságának volt köszönhet? a pusztulása.
+19:Pusztulása csak a Menedéklakó bátorságának volt köszönhető.
 20:De mindeközben elvesztette barátait, többet szenvedett, mint bárki, feláldozva önmagát a világ megmentéséért.
-21:Mikor végre visszatért otthonába - melynek megóvásáért oly sokat küzdött - az otthoniak kitaszították.
-22:Szám?zték.
-23:Szembesítve mindazzal amit?l féltek, valami mássá vált a szemükben...és nem volt többé a h?sük.
-24:Sajátjai által elhagyatva nekivágott a pusztaságnak.
+21:Mikor végre visszatért otthonába, melynek megóvásáért oly sokat küzdött, az otthoniak száműzték.
+22:Kitaszították.
+23:Szembesítve mindazzal amitől féltek, valami mássá vált a szemükben...és nem volt többé a hősük.
+24:Sajátjai által elűzetve nekivágott a pusztaságnak.
 25:Messze északra vándorolt, míg el nem érte a nagy kanyonokat.
-26:Ott alapított egy kis falut, Arroyot, ahol hátralév? éveit leélte.
+26:Ott alapított egy kis falut, Arroyót, ahol leélte hátralévő éveit.
 27:Még egy generációval az alapítása után is, Arroyo békében élt a külvilágtól menedéket nyújtó kanyonok között.
-28:Egy otthon. A te otthonod.
+28:Otthon. A te otthonod.
 29:De a világban a háború okozta sérülések még nem gyógyultak be.
-30:A sebek mélyek és most már Arroyoban is érezni ?ket.
+30:A sebek mélyek és most már Arroyoban is érezni őket.
 31:Az élet Arroyóban hamarosan megváltozik… 

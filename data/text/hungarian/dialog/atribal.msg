@@ -2,7 +2,7 @@
 {101}{}{You see a strong looking man.}
 {200}{}{Greetings.}
 {201}{}{Welcome to the Abbey.}
-{202}{}{Szia!}
+{202}{}{Helló!}
 {203}{}{Helló!}
 {204}{}{Are you from the Arroyo tribe?}
 {205}{}{Greetings.}

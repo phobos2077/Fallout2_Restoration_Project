@@ -11,17 +11,17 @@
 {156}{}{Nem szabadna törzsbéliekkel beszélnem.}
 {157}{}{Ez egy tacskó.}
 {158}{}{Anyu azt mondja, hogy megeszel, ha rosszul viselkedem.}
-{159}{}{Nem félek ám t?led!}
+{159}{}{Nem félek ám tőled!}
 {160}{}{Segítséég!}
 {161}{}{Üldöz!}
 {162}{}{Kérlek, ne bánts!}
 {163}{}{Hagyj békén!}
 {164}{}{Íííííííííí!}
-{165}{}{Utállak!}
+{165}{}{Gyűlöllek!}
 {166}{}{Mami, mami, mami!}
-{167}{}{Ne érj hozzám!}
+{167}{}{Hagyj békén!}
 {168}{}{Büdös vagy!}
-{170}{}{Helló!}
+{170}{}{Szia.}
 {171}{}{Akarsz bújócskázni?}
 {172}{}{Te tényleg átszúrtál egy csontot az orrodon?}
 {173}{}{Mért nézel ki ilyen viccesen?}
@@ -31,8 +31,8 @@
 {177}{}{Szerintem aranyosabb vagy, mint amilyennek látszol.}
 {178}{}{Fogócskázzunk! Te vagy a fogó!}
 {179}{}{Nincs is olyan rossz szagod.}
-{180}{}{Láttad már a láthatatlan barátom?}
-{181}{}{Ha olyan id?s leszek, mint te, körbe fogom utazni a világot.}
+{180}{}{Találkoztál már a láthatatlan barátommal?}
+{181}{}{Ha olyan idős leszek, mint te, körbe fogom utazni a világot.}
 {182}{}{Te rendes törzsbéli vagy, nem úgy, mint a többi.}
 {183}{}{Szerintem te szoktál fürdeni.}
 {184}{}{Okosabb vagy, mint Torr.}
@@ -40,13 +40,13 @@
 {186}{}{Amikor felnövök, olyan akarok lenni, mint te.}
 {187}{}{A kutyám imádja a szárított húst.}
 {188}{}{Van egy fényes kavicsom.}
-{189}{}{Láttad már a láthatatlan barátom?}
+{189}{}{Találkoztál már a láthatatlan barátommal?}
 {190}{}{Lehetek a törzsed tagja?}
 {191}{}{Barátságos vagy.}
 {192}{}{Viccesen nézel ki.}
 {193}{}{Mit viselsz?}
 {194}{}{Brahminon akarok lovagolni!}
-{195}{}{Messzir?l jöttél?}
+{195}{}{Messziről jöttél?}
 {196}{}{Íhíííííjjj! Ha, ha, ha!}
 {197}{}{Ne menj!}
 {198}{}{Van kajád?}
@@ -56,13 +56,13 @@
 {202}{}{Hány éves vagy?}
 {203}{}{Hogy hívnak?}
 {204}{}{Szereted a gyerekeket?}
-{205}{}{Az meg mi?}
+{205}{}{Miből áll ez?}
 {206}{}{Akarsz játszani?}
 {207}{}{Micsinálsz?}
 {208}{}{Láttál már bogarakat?}
 {209}{}{Azt hol szerezted?}
 {210}{}{Megkaphatom?}
-{211}{}{Mi a munkád?}
+{211}{}{Mivel foglalkozol?}
 {212}{}{Tudok ám gyorsan futni. Megmutassam?}
 {213}{}{Nézzél! Nézzél!}
 {214}{}{Mommy says I talk too much.}
@@ -74,5 +74,5 @@
 {220}{}{Kedvellek.}
 {221}{}{Kedvelsz?}
 {222}{}{Házas vagy?}
-{223}{}{Egy, kett?, három... Íhhíííííjjj!}
+{223}{}{Egy, kettő, három... Íhhíííííjjj!}
 {300}{}{Idegen!}

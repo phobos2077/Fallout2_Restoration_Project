@@ -1,6 +1,6 @@
 {100}{}{Egy számítógép-terminált látsz.}
 {101}{}{Biológiai munkaállomás}
-{102}{}{M?köd? számítógép-terminál.}
+{102}{}{Működő számítógép-terminál.}
 {103}{}{Üdvözöljük! Kérem, azonosítsa magát!}
 {104}{}{[Óóó! Nézd már a villogó fényeket!]}
 {105}{}{::megpróbálod kitalálni a jelszót::}
@@ -18,17 +18,17 @@
 {117}{}{::távozol::}
 {118}{}{Behatolót érzékeltem. Lekapcsolás. Legyen jó napja!}
 {119}{}{-kész-}
-{120}{}{(Körülbelül húsz perc elteltével az alábbiakat találod: A növények sugárzás-ellenállásának kezdeti eredményei nem túl kecsegtet?ek. A Dr. Sheng által kifejlesztett sugárzásálló növények kellemetlen mellékhatással bírnak, túlságosan veszélyesek. Shen ragaszkodik hozzá, hogy folytassák a megadott irányvonalat és vessék be a genetikai vívmányokat is.)}
+{120}{}{(Körülbelül húsz perc elteltével az alábbiakat találod: A növények sugárzás-ellenállásának kezdeti eredményei nem túl kecsegtetőek. A Dr. Sheng által kifejlesztett sugárzásálló növények kellemetlen mellékhatással bírnak, túlságosan veszélyesek. Shen ragaszkodik hozzá, hogy folytassák a megadott irányvonalat és vessék be a genetikai vívmányokat is.)}
 {121}{}{Genetikai program.}
 {122}{}{Xeno program.}
 {123}{}{A közelmúlt személyes feljegyzései.}
 {124}{}{Vissza.}
-{125}{}{(Körülbelül húsz perc múltán összerakod a szerzett információt: A FEV virus alapjait felhasználva Dr. Long Wang sikeresen hozott létre mutáns katonákat. Egy szérumot is készített hozzá, amely érdekes eredményeket produkált egyes rágcsálókban. Beadta magának, mire elt?nt egy bugyborékoló tócsában. Ezt követ?en Dr. Sheng hírzárlatot rendelt el. Dr. Long halálával a stafétabotot Dr. Sheng vette át, aki minden tudását a sugárzásálló növények kutatására koncentrálta.)}
+{125}{}{(Körülbelül húsz perc múltán összerakod a szerzett információt: A FEV virus alapjait felhasználva Dr. Long Wang sikeresen hozott létre mutáns katonákat. Egy szérumot is készített hozzá, amely érdekes eredményeket produkált egyes rágcsálókban. Beadta magának, mire eltűnt egy bugyborékoló tócsában. Ezt követően Dr. Sheng hírzárlatot rendelt el. Dr. Long halálával a stafétabotot Dr. Sheng vette át, aki minden tudását a sugárzásálló növények kutatására koncentrálta.)}
 {126}{}{Botanika program.}
 {127}{}{Xeno program.}
 {128}{}{A közelmúlt személyes feljegyzései.}
 {129}{}{Vissza.}
-{130}{}{"Az alany, amelyen oly sok ígéretes kísérletet szerettünk volna végrehajtani, elt?nt. Vagy megsemmisült, vagy ellopták a Hubologisták. A további adatszerzés nem bizonyult gyümölcsöz?nek. Amíg nem tudunk újabb példányokat keríteni, ezt az adatbázist elérhetetlenné teszem. - Dr. Sheng"}
+{130}{}{"Az alany, amelyen oly sok ígéretes kísérletet szerettünk volna végrehajtani, eltűnt. Vagy megsemmisült, vagy ellopták a Hubologisták. A további adatszerzés nem bizonyult gyümölcsözőnek. Amíg nem tudunk újabb példányokat keríteni, ezt az adatbázist elérhetetlenné teszem. - Dr. Sheng"}
 {131}{}{Botanika program.}
 {132}{}{Genetikai program.}
 {133}{}{A közelmúlt személyes feljegyzései.}

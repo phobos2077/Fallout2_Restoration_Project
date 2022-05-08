@@ -1,10 +1,10 @@
-{100}{}{Egy fiatal és vonzó n?t látsz.}
-{101}{}{Egy fürd?kísér?t látsz.}
-{102}{}{? Nagyorrú Sally lányainak egyike.}
-{103}{}{Egy unatkozó n?t látsz.}
-{104}{}{Egy n?t látsz, aki téged méreget.}
-{105}{}{Ez a n? már képzeletben levetk?ztetett.}
-{106}{}{Egy fiatal n?.}
+{100}{}{Egy fiatal és vonzó nőt látsz.}
+{101}{}{Egy fürdőkísérőt látsz.}
+{102}{}{Ő Nagyorrú Sally lányainak egyike.}
+{103}{}{Egy unatkozó nőt látsz.}
+{104}{}{Egy nőt látsz, aki téged méreget.}
+{105}{}{Ez a nő már képzeletben levetkőztetett.}
+{106}{}{Egy fiatal nőt látsz.}
 {110}{}{Ez gyorsan ment.}
 {111}{}{Régen volt már, édesem?}
 {112}{}{Talán legközelebb tovább bírod.}
@@ -12,14 +12,14 @@
 {114}{}{Csak nem "Szélvész" a beceneved?}
 {115}{}{Ha minden kuncsaftom ilyen gyors lenne, sokkal korábban mehetnék haza.}
 {116}{}{Sokkal izgalmasabb ám, ha megvárod míg segítek.}
-{117}{}{Legalább megvárhattad volna, amíg levetk?z?m.}
+{117}{}{Legalább megvárhattad volna, amíg levetkőzőm.}
 {120}{}{Ez nagyon jó volt. Te aztán igazi férfi vagy!}
-{121}{}{Ez különleges volt. Csodálatos vagy. Következ?!}
+{121}{}{Ez különleges volt. Csodálatos vagy. Következő!}
 {122}{}{Ez az, bébi, még sosem volt ilyen jó! (ásít)}
 {123}{}{Te vagy a legjobb! Remélem, hamarosan találkozunk.}
 {124}{}{Biztos vagyok benne, hogy egy törzsbéli lányt nagyon boldoggá fogsz tenni.}
 {125}{}{Dehogy édesem, a méret egyáltalán nem számít. Igazán aranyos volt.}
-{126}{}{Hát nem vagy tele éget? szerelemmel.}
+{126}{}{Hát nem vagy tele égető szerelemmel.}
 {127}{}{Milyen aranyos kis fickód van odalenn.}
 {130}{}{A méret a lényeg! Az élet édes rejtélye... }
 {131}{}{Ha legközelebb jössz, túlórázni fogok.}
@@ -29,7 +29,7 @@
 {135}{}{Na, most már tudom, mit érezhetett Catherine, a Nagy.}
 {140}{}{Hát, a pénz az pénz.}
 {141}{}{Ez, ömm, érdekes volt.}
-{142}{}{Ez igazán különleges volt. Következ?!}
+{142}{}{Ez igazán különleges volt. Következő!}
 {143}{}{Nem, nem használhatod a kölnimet.}
 {144}{}{Hát, legalább a bajszod kisebb, mint a többi ügyfelemnek.}
 {145}{}{Biztos, hogy lány vagy?}
@@ -38,7 +38,7 @@
 {152}{}{Azt hiszem, ezt még egyszer ki fogom próbálni.}
 {153}{}{Ezt munka után is csinálhatnánk.}
 {154}{}{Ez finom volt, édesem.}
-{155}{}{Ez igen! Innent?l kezdve más lesz az életem.}
+{155}{}{Ez igen! Innentől kezdve más lesz az életem.}
 {156}{}{Nem is tudtam, hogy így is lehet.}
 {160}{}{Beszélj Nagyorrú Sallyvel!}
 {161}{}{Hát nem édes?}

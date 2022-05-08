@@ -4,7 +4,7 @@
 {3}{}{Távolság}
 {4}{}{Kit támadjon}
 {5}{}{Drug Use}
-{10}{}{[Kész]}
+{10}{}{Kész}
 {11}{}{Mégse}
 {99}{}{Nem lehetséges.}
 {100}{}{Mindig!}
@@ -23,14 +23,14 @@
 {302}{}{Közelharci, utána távolsági.}
 {303}{}{Távolsági, utána közelharci.}
 {304}{}{Távolsági.}
-{305}{}{Pusztakezes.}
+{305}{}{Ökölharc}
 {400}{}{Maradj mellettem!}
 {401}{}{Roham!}
-{402}{}{Maradj távol az ellenségt?l!}
+{402}{}{Maradj távol az ellenségtől!}
 {403}{}{Ahogy neked tetszik.}
 {404}{}{Maradj ahol vagy!}
 {500}{}{Whoever is attacking me}
-{501}{}{A leger?sebbet.}
+{501}{}{A legerősebbet.}
 {502}{}{A leggyengébbet.}
 {503}{}{Akit akarsz.}
 {504}{}{Whoever is closest}

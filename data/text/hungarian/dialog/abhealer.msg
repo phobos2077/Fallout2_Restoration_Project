@@ -1,13 +1,13 @@
 {100}{}{You see Jack, the Abbey's medic.}
 {101}{}{He has a red cross on his shoulder.}
 {200}{}{If you are injured, talk to me.}
-{300}{}{Hogyan tudok segíteni?}
+{300}{}{Miben segíthetek?}
 {301}{}{I'm injured, can you help me?}
 {302}{}{[Drool.]}
 {303}{}{So, what do you do here at the Abbey?}
 {304}{}{Viszlát!}
 {400}{}{It is done!}
-{401}{}{Köszi.}
+{401}{}{Kösz.}
 {402}{}{Hagyja abba!}
 {403}{}{[GO ON]}
 {404}{}{[LEAVE]}
@@ -39,4 +39,4 @@
 {709}{}{Fine. GOODBYE.}
 {800}{}{Most nem beszélhetek veled.}
 {801}{}{Sorry, I'm in the middle of something now. Come see me later.}
-{802}{}{Helló...}
+{802}{}{Üdv minálunk.}

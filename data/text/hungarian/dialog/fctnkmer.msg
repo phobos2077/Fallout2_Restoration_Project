@@ -1,17 +1,17 @@
-{100}{}{Egy keresked?t látsz.}
-{101}{}{? Jenna, a keresked?.}
-{102}{}{Egy csinos eladó-n?t látsz.}
+{100}{}{Kereskedő.}
+{101}{}{Ő Jenna, a kereskedő.}
+{102}{}{Egy csinos eladó-nőt látsz.}
 {103}{}{Szia! Jenna vagyok. Segíthetek?}
 {104}{}{Én akar információ.}
 {105}{}{Mid van?}
 {106}{}{Nem, én menni.}
 {107}{}{Információt szeretnék.}
 {108}{}{Hogyne, mutasd, mid van!}
-{109}{}{Jelen pillantban nem.}
+{109}{}{Most nincs.}
 {110}{}{Megtanultam, hogy minél kevesebbet tudsz, annál tovább élsz. Ennél több információval nem tudok szolgálni. Szeretnéd látni az árumat?}
 {111}{}{Igen.}
 {112}{}{Nem.}
-{113}{}{Nagyszer?! Nézz körül!}
+{113}{}{Nagyszerű! Nézz körül!}
 {114}{}{}
 {115}{}{Oké.}
 {116}{}{Másvalamit?}

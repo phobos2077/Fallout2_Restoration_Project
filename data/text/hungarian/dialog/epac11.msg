@@ -3,12 +3,12 @@
  expression on his face.}
 {200}{}{[As you approach the cryogenic chamber, you see a slender, naked black man sprawled on the floor.
  His muscular body is still shaking from the icy, cold water. He looks up at you as you approach.]}
-{201}{}{Ki vagy te?}
+{201}{}{Ki vagy?}
 {210}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you and smirks, revealing some oddly sharp front teeth.]
  Who am *I*? Who are *you*? You look like a heavily armed hobo!}
 {211}{}{[Standing up and shaking himself dry like a wet animal, the man looks at you grinning widely, revealing some oddly sharp front teeth.]
  Who am *I*. Why, I'm only Sgt. Jules, the best-looking soldier on this base, gorgeous!}
-{212}{}{Én }
+{212}{}{A nevem }
 {213}{}{. But, what's your name?}
 {214}{}{Don't you get cocky with me. What's with this place anyway?}
 {215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
@@ -38,14 +38,14 @@
 {281}{}{Sounds good. Let's go.}
 {282}{}{Nem probléma.}
 {290}{}{Don't you worry about this ol' cat. I'll find my place in this world. Now step aside and let the Cat do his thing.}
-{291}{}{[vége]}
+{291}{}{[Befejezés]}
 {300}{}{So, how did you end up in that cryo chamber? And what happened to your teeth?}
 {301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA.
  Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in.
  [Cat flashes you his toothy grin.] They wanted a volunteer for one of their projects. It was for scouts and the like, supposed to
  make you more agile and flexible. I liked the sound of that *leers*. Anyway, they gave me this shot, put me under, and
  the next thing I knew, I had these teeth, and I felt.... sharper? Kind of predatory.}
-{302}{}{Folytasd!}
+{302}{}{Folytassa, kérem!}
 {303}{}{Well, apparently the experiment wasn't going as planned and whatever they put inside me wasn't sitting
  well with my system. I don't know what they meant by that, since I felt better than ever. They decided to throw me in
  the cryo freezer until they figured out what to do with me.}
@@ -56,7 +56,7 @@
 {311}{}{I might be able to teach you a thing or two about energy weapons and other big weapons. Now you have to remember...}
 {312}{}{[Continue.]}
 {313}{}{There you go. That should help you melt those mutants who get in your way.}
-{314}{}{Köszi.}
+{314}{}{Kösz.}
 {390}{}{You ready to take me with you?}
 {391}{}{Gyerünk!}
 {392}{}{Nem, még nem.}
@@ -109,7 +109,7 @@
 {830}{}{Least I didn't end up like YOU, Marcus!}
 {2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.]
  These really aren't my style, but I guess they'll do. [He quickly puts the clothing on.] Alright, I'm good to go.}
-{2901}{}{[vége]}
+{2901}{}{[Befejezés]}
 {5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
-{5001}{}{[vége]}
+{5001}{}{[Befejezés]}
 {5002}{}{Az úristenit!}

@@ -11,7 +11,7 @@
 {110}{}{Bocs, de a munka az munka.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
 {112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
-{113}{}{Err?l nem szóltak.}
+{113}{}{Erről nem szóltak.}
 {114}{}{Fizetnek, hogy kipucoljam a helyet. Már végeztem is velük.}
 {115}{}{Te idióta! Mi a francért csináltad ezt?}
 {116}{}{Kellett a pénz.}
@@ -22,9 +22,9 @@
 {121}{}{Aha, persze. Különben sem tárgyalok ilyen szar alakkal, mint te.}
 {122}{}{Bocs, de nem hagyhatjuk.}
 {123}{}{Tedd amit tenned kell.}
-{124}{}{You believed them at face value? You've a lot to learn about the world, friend.}
-{125}{}{Segíthetek bármiben?}
-{126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár l?fegyverünk, azt hiszem, elbírnánk velük.}
+{124}{}{Megvettek kilóra? Még sokat kell tanulnod a világról, barátom.}
+{125}{}{Van valami, amiben segíthetnék?}
+{126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár lőfegyverünk, azt hiszem, elbírnánk velük.}
 {127}{}{I might be able to help you out, but guns aren't cheap. What sort of guns you looking for?}
 {128}{}{[He eyes you with a tentative grin.] You're serious about helping us, aren't you? Alright, if you're up for it,
  then some rifles would be ideal--that way we could start picking them off from a distance. So if you truly wanna help,
@@ -43,8 +43,8 @@
  lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
 {140}{}{Szóra sem érdemes.}
 {141}{}{Hello! Things are going well. We're going to work on expanding the Village in the next month.}
-{142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van id?d!}
-{143}{}{Még mindig épitkezünk. Ha minden jól megy, jöv? hónapban megemeljük a falakat.}
+{142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van időd!}
+{143}{}{Még mindig épitkezünk. Ha minden jól megy, jövő hónapban megemeljük a falakat.}
 {144}{}{Greetings! The village has expanded again, just as we've hoped. Of course, you're welcome as always.}
 {145}{}{We no longer have anything to fear from Vault City--it looks like we'll be able to live here in peace. Thanks again, wanderer.}
 {146}{}{Csak ne gyilkolássz itt semmit, te gyökér!}
@@ -56,7 +56,7 @@
 {152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
  stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
  in or around the bar. He'll know what to do.}
-{153}{}{Máris indulok.}
+{153}{}{Már megyek is.}
 {154}{}{Feltehetnék egy-két futó kérdést?}
 {155}{}{Certainly, what's on your mind?}
 {156}{}{Where did these mole rats come from, and why aren't they aggressive?}
@@ -79,7 +79,7 @@
 {169}{}{You are always welcome here! Goodbye.}
 {170}{}{Yes, but I don't think you're gonna need them. At least not against Vault City. You see, I've convinced the Vault City council not to touch your village.}
 {171}{}{I'll do it. I have some questions before I go though.}
-{172}{}{Felejtsük el! Viszlát.}
+{172}{}{Nem fontos! Üdv!}
 {173}{}{Not yet. I'll return when I have them.}
 {174}{}{Thanks! See you around.}
 {200}{}{It just so happens that I've already got what you need right here.}
@@ -114,7 +114,7 @@
 {500}{}{Ne zaklass!}
 {600}{}{What was the name of your contact in Vault City again?}
 {601}{}{Old Joe. As the name implies, he's a real old fella. You'll either find him in the courtyard bar or wandering nearby.}
-{602}{}{Alright, thanks.}
+{602}{}{Oké, kösz az infót.}
 {603}{}{So, who exactly is he?}
 {604}{}{Old Joe's a real character, is who he is. Claims to be over a hundred years old, but I dunno if I buy it. He claims all sorts of things. Even says he helped save the world once. The guy's full of stories--I reckon most of em are bullshit, but they sure are entertaining. He keeps an eye on things in Vault City for us, and he does a damn fine job considering he's old as dirt and nearly blind.}
 {605}{}{Interesting. I must be going.}

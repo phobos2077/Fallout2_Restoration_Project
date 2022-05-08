@@ -1,4 +1,4 @@
-{100}{}{Egy fémpáncélt visel? férfit látsz.}
+{100}{}{Egy fémpáncélt viselő férfit látsz.}
 {101}{}{Kaga.}
 {102}{}{Egen, ez Kaga, a nem-is-annyira-nagy. Fémpáncélja van, és bizony éppen meg akar ölni téged.}
 {103}{}{Megint te vagy?}

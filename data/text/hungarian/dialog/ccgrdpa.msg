@@ -1,11 +1,11 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Egy ?rt látsz er?páncélban.}
-{102}{}{Egy ?rt látsz, aki az er?páncél egy különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
+{100}{}{Egy őrt látsz.}
+{101}{}{Egy őrt látsz erőpáncélban.}
+{102}{}{Egy őrt látsz, aki az erőpáncél egy különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
 {103}{}{Nincs jelenteni valóm.}
 {104}{}{Nálam semmi, és nálad?}
 {105}{}{Nem kéne a posztodon lenned? Nem jó, hogy itt csavarogsz.}
 {106}{}{Nincs rajtad egyenruha.}
-{107}{}{Jelentkezz az ?rmesternél és kapj magadra egy páncélt!}
+{107}{}{Jelentkezz az őrmesternél és kapj magadra egy páncélt!}
 {108}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
 {109}{}{Kik ezek a fickók?... Behatolók! Riadó!}
 {110}{}{Megtámadtak bennünket! Riadó!}

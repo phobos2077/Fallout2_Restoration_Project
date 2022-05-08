@@ -1,6 +1,6 @@
-{100}{}{Ház?rz?.}
+{100}{}{Házőrző.}
 {101}{}{Eléggé morcos kutya.}
-{120}{}{Ház?rz?.}
+{120}{}{Házőrző.}
 {121}{}{Eléggé morcos kutya.}
 {200}{}{::GRRRR::}
 {201}{}{::GHRRRHH::}

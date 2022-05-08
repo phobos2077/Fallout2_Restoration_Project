@@ -1,6 +1,6 @@
-{100}{}{Ez is olyan fickónak t?nik, aki inkább az öklével gondolkodik, mint a fejével.}
-{101}{}{Hmmm. Merk egyik test?re.}
-{102}{}{Nagy. Kemény. Hülye. Test?r.}
+{100}{}{Ez is olyan fickónak tűnik, aki inkább az öklével gondolkodik, mint a fejével.}
+{101}{}{Hmmm. Merk egyik testőre.}
+{102}{}{Nagy. Kemény. Hülye. Testőr.}
 {103}{}{Állj hátrébb! Adj helyet Mr. Merknek!}
 {104}{}{Ajjaj...}
 {105}{}{Senkivel sem beszélhetek szolgálat közben.}

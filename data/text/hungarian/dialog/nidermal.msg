@@ -1,2 +1,2 @@
-{100}{}{Bef?töd a PipBoy nyelvi kiegészít?jét, mire egy valóságos nyelvi lavina tódul az agyadba.}
+{100}{}{Befűtöd a PipBoy nyelvi kiegészítőjét, mire egy valóságos nyelvi lavina tódul az agyadba.}
 {200}{}{Száz szónak is egy a vége. A nyelvi tudásanyag valóságos zuhataga özönlött a koponyámba.}

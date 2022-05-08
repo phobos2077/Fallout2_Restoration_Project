@@ -4,27 +4,27 @@
 {200}{}{Közéjük illesz.}
 {201}{}{Mi lenne, ha mindekit meghívnál egy körre?}
 {202}{}{Szkanderezel Duntonékkal?}
-{203}{}{Pont úgy nézel ki, mintha Rejtekt?l északra jöttél volna. }
+{203}{}{Pont úgy nézel ki, mintha Rejtektől északra jöttél volna. }
 {204}{}{Mit nézel?}
-{205}{}{Neked aztán sötét a b?röd, édesem. Heh, heh, heh.}
+{205}{}{Neked aztán sötét a bőröd, édesem. Heh, heh, heh.}
 {206}{}{Hükk, jól jönne egy újabb korsó gekkópisa.}
 {207}{}{Ha pénz kell, akkor fordulj a Duntonokhoz.}
 {208}{}{Nem is vagy olyan rossz, ahhoz képest, hogy törzsbéli vagy.}
 {209}{}{Lökd ide a sört...}
 {210}{}{Egyszer elmegyek délre, Rejteken túlra. Ott aztán sok meló akad.}
 {211}{}{Salvadore, lökj ide még egy gekkópisát!}
-{212}{}{A vadászat nem megy olyan jól mostanában, biztos van könnyebb pénzszerzési lehet?ség is.}
+{212}{}{A vadászat nem megy olyan jól mostanában, biztos van könnyebb pénzszerzési lehetőség is.}
 {213}{}{Nem vagyok annyira bepiálva, mint gondolod.}
 {214}{}{Hé, haver, szerinted ezek cinkelt kockák? (csörög, csörög)}
 {215}{}{Beszélj a Duntonokkal vagy a csapossal, ha munka kell!}
 {216}{}{Jó helyre jöttél piálni, haver!}
 {217}{}{Hé, Bishop, mutasd meg mit tudsz azzal a késsel!}
 {218}{}{Akar valaki kockázni?}
-{219}{}{Lagalább Aldo nem szennyezi itt a leveg?t.}
+{219}{}{Lagalább Aldo nem szennyezi itt a levegőt.}
 {220}{}{Loptál már brahmint?}
 {221}{}{Légy óvatos a Járkáló Szellemmel!}
 {222}{}{Van egy szellem a kanyonban innen keletre.}
-{223}{}{A vadászat veszélyes. Pár héttel ezel?tt elt?nt az egyik legjobb prémvadászunk.}
+{223}{}{A vadászat veszélyes. Pár héttel ezelőtt eltűnt az egyik legjobb prémvadászunk.}
 {224}{}{Imádom Torrt ugratni.}
 {300}{}{Nicsak, ki van itt!}
 {301}{}{(motyog magában) ...belevaló ember ez... (motyog)}
@@ -35,11 +35,11 @@
 {306}{}{Mit bámulsz?}
 {307}{}{A Duntonok majd helyreraknak!}
 {308}{}{Te aztán a legrosszabb helyet választottad a piálásra!}
-{309}{}{Mama nincs itt kölyök, nézd meg a Fürd?házban!}
+{309}{}{Mama nincs itt kölyök, nézd meg a Fürdőházban!}
 {310}{}{Miért nem játszol máshol?}
 {311}{}{Nézd meg a kanyot, csak keletre kell menni!}
-{312}{}{Mit akarsz?}
-{313}{}{Jobb lesz, ha csak a saját dolgoddal tör?dsz!}
+{312}{}{Mit akar?}
+{313}{}{Jobb lesz, ha csak a saját dolgoddal törődsz!}
 {314}{}{Torrnak hívnak? (he-he-he)}
 {315}{}{Menj, igyál Aldóval.}
 {316}{}{Ez a hely nem neked való, punk!}

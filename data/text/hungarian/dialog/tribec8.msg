@@ -12,7 +12,7 @@
 {206}{}{The spirits accept you as one of us.}
 {207}{}{Kösz, hogy segítettél.}
 {208}{}{I thought all outworlders were evil. It is not so...}
-{209}{}{Ne csináld ez!}
+{209}{}{Ne csináld ezt!}
 {300}{}{Excuse me, but could you do me a small favor? I'm a little busy here and I don't know if I can leave this pot unattended.}
 {301}{}{Persze. Mire van szüksége?}
 {302}{}{I'm busy too. Perhaps a little later.}

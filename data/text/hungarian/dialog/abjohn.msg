@@ -2,7 +2,7 @@
 {101}{}{You see one of the Abbey's older Monks.}
 {102}{}{You see an old monk. He looks to be in his early seventies.}
 {300}{}{Hi there, youngster.}
-{301}{}{Ki vagy te?}
+{301}{}{Ki vagy?}
 {302}{}{Have you heard anything about a GECK or Vault 13?}
 {303}{}{Viszlát!}
 {400}{}{My name is John, I'm one of the oldest monks here.}

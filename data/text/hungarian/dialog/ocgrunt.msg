@@ -1,6 +1,6 @@
-{100}{}{Egy Halálkarmot látsz.}
-{101}{}{Halálkarom ?r.}
-{102}{}{Egy átlagos Halálkarom. Óriási teremtmény, er?s testtel, éles fogakkal és karmokkal felvértezve..}
+{100}{}{Halálkarom.}
+{101}{}{Halálkarom őr.}
+{102}{}{Egy tipikus Halálkarmot látsz. A teremtménynek hatalmas, erőteljes teste, éles fogai, és hosszú karmai vannak.}
 {103}{}{Helló!}
-{104}{}{Helló! Nem beszélni. Lenni ?rszolgálatban.}
+{104}{}{Helló! Nem beszélni. Lenni őrszolgálatban.}
 {105}{}{Falka ellenségnek kell meghalni!}

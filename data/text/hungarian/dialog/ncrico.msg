@@ -1,7 +1,7 @@
-{100}{}{Ez itt egy jó nagy darab b?nöz?.}
-{101}{}{? Rico.}
-{150}{}{Ez itt egy jó nagy darab, k?arcú ember. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
-{151}{}{Ez itt Rico. Ittapiros test?re. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
+{100}{}{Ez itt egy jó nagy darab bűnöző.}
+{101}{}{Ő Rico.}
+{150}{}{Ez itt egy jó nagy darab, kőarcú ember. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
+{151}{}{Ez itt Rico. Ittapiros testőre. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
 {175}{}{Hörgghh}
 {176}{}{Hnrfff}
 {177}{}{Sznffff}
@@ -15,7 +15,7 @@
 {204}{}{Me like to hit.}
 {205}{}{::Csukott szájjal mosolyog::}
 {206}{}{::Vakaródzik::}
-{207}{}{::Befeszít::}
+{207}{}{::Feszeget::}
 {208}{}{Grunt.}
 {209}{}{Horkant néhányat.}
 {210}{}{Én nem szeret beszéd}

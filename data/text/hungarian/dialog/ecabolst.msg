@@ -4,7 +4,7 @@
 {201}{}{Megölni az elnyomót!}
 {202}{}{Megölni a gonosz rabszolga-tartót!}
 {203}{}{Le a rabszolgasággal! Le a hajcsárokkal!}
-{204}{}{Meghalsz, söpredék!}
+{204}{}{Pusztulj, gonosz korcs!}
 {250}{}{Hé, ide!}
 {251}{}{Hé, idegen!}
 {300}{}{Hé idegen, mit keresel te itt ezen a részen?}
@@ -23,28 +23,28 @@
 {315}{}{Rejtekben?}
 {316}{}{Emberkereskedelem?}
 {317}{}{Oké. Viszlát!}
-{320}{}{Ezeken a részeken az emberek rabszolgákat tartanak. Azért vagyok itt, hogy kiszabadítsam ?ket. Ha egy két rabszolga-vadász is meghal a m?veletben, nem nagy baj.}
+{320}{}{Ezeken a részeken az emberek rabszolgákat tartanak. Azért vagyok itt, hogy kiszabadítsam őket. Ha egy két rabszolga-vadász is meghal a műveletben, nem nagy baj.}
 {321}{}{Mi a baj a rabszolga-tartással? Én is tartanék, ha találnék párat.}
 {322}{}{Majd rajta tartom a szemem a rohadékjain.}
 {323}{}{Az ölés sohasem törvényes.}
-{324}{}{Ölés? Segítek neked megölni ?ket!}
-{330}{}{Tényleg? Ez nagyszer?! Viszont most mennem kell, biztos van még több elnyomott rabszolga is.}
+{324}{}{Ölés? Segítek neked megölni őket!}
+{330}{}{Tényleg? Ez nagyszerű! Viszont most mennem kell, biztos van még több elnyomott rabszolga is.}
 {331}{}{Sok szerencsét!}
 {335}{}{De, néha meg kell ölnöd néhányat, hogy megmenthesd a többit. Mindig vannak elkerülhetetlen áldozatok. Különben is, a rabszolga-vadászokat aligha lehet embernek nevezni.}
 {336}{}{Igazad van, de most mennem kell.}
 {337}{}{Tényleg? Akkor halott vagy.}
-{338}{}{Ahogy gondolja. Viszlát!}
+{338}{}{Jól van, oké. Na, csá!}
 {340}{}{Te, rohadék! Ezért megöllek!}
 {341}{}{Te, kurva! Ezért megöllek!}
-{342}{}{Nem, ha én öllek meg el?ször!}
+{342}{}{Nem, ha én öllek meg először!}
 {350}{}{Ja. Kis embercsoportokat támadnak meg. Bármi jó nekik, amit eladhatnak.}
 {351}{}{Ez borzasztó! Majd észben tartom ezt. Viszlát!}
 {355}{}{Rejtek egy város. A rabszolga-kereskedelemre specializálódott.}
 {356}{}{Kösz az információt. Viszlát!}
 {360}{}{Csak a rabszolga-vadászok útvonalait keresem.}
-{361}{}{Ezt most hogy kell értenem?}
+{361}{}{Ezt hogy érted?}
 {362}{}{Öhm, akkor sok szerencsét!}
-{363}{}{Ahogy gondolja. Viszlát!}
-{370}{}{Próbáld a rabszolga-vadászokat! Jól lehet gyakni ?ket. }
+{363}{}{Jól van, oké. Na, csá!}
+{370}{}{Próbáld a rabszolga-vadászokat! Jól lehet gyakni őket. }
 {371}{}{Fasza, kösz az infót!}
 {372}{}{Á, hát itt vagy! Inkább megöllek.}

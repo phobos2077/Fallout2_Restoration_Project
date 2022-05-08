@@ -1,7 +1,7 @@
 {100}{}{Egy ajtót látsz.}
-{101}{}{Rendkívül masszívnak t?nik.}
+{101}{}{Rendkívül masszívnak tűnik.}
 {102}{}{Az ajtó meg sem mozdul.}
-{103}{}{(Észreveszel egy kis lyukat az ajtón, ahonnan valamiféle hang sz?r?dik ki.) Helló...}
+{103}{}{(Észreveszel egy kis lyukat az ajtón, ahonnan valamiféle hang szűrődik ki.) Helló...}
 {104}{}{Öhh, helló...}
 {105}{}{Mióta tudnak az ajtók beszélni?}
 {106}{}{Ööö, szia.}

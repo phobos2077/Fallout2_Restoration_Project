@@ -1,5 +1,5 @@
 {100}{}{Egy faládát látsz.}
-{101}{}{Egy fém öltöz?szekrényt látsz.}
+{101}{}{Egy fém öltözőszekrényt látsz.}
 {102}{}{Egy robosztus konténert látsz lakattal (tolvajkulcssal nyitható), és valamilyen robbanó csapda van rajta, melyet talán fel tudsz feszíteni.}
 {103}{}{Egy robosztus konténert látsz lakattal és valamilyen robbanó csapda van rajta, melyet talán fel tudsz feszíteni.}
 {104}{}{Egy robosztus konténert látsz minden látható zárszerkezet nélkül és valamilyen robbanó csapda van rajta, melyet talán fel tudsz feszíteni.}
@@ -68,24 +68,24 @@
 {167}{}{ ÉP a büntetés!}
 {168}{}{ aktivált egy csapdát, és }
 {169}{}{ ÉP a büntetés!}
-{170}{}{Ügyesen kinyitottad a konténeren lév? lakatot.}
-{171}{}{Képességek hiányában összetörted a konténeren lév? lakatot.}
-{172}{}{Nem sikerült kinyitnod a konténeren lév? lakatot.}
-{173}{}{ ügyesen kinyitotta a konténeren lév? lakatot.}
-{174}{}{ képességek hiányában összetörte a konténeren lév? lakatot.}
-{175}{}{ nem tudta kinyitni a konténeren lév? lakatot.}
-{176}{}{Leütötted a lakatot a konténerr?l.}
-{177}{}{Miközben megpróbáltad leütni a lakatot a konténerr?l, meghúzódott a hátad, és [x] ÉP-t sérültél.}
-{178}{}{Miközben megpróbáltad leütni a lakatot a konténerr?l, meghúzódott a hátad, és }
+{170}{}{Ügyesen kinyitottad a konténeren lévő lakatot.}
+{171}{}{Képességek hiányában összetörted a konténeren lévő lakatot.}
+{172}{}{Nem sikerült kinyitnod a konténeren lévő lakatot.}
+{173}{}{ ügyesen kinyitotta a konténeren lévő lakatot.}
+{174}{}{ képességek hiányában összetörte a konténeren lévő lakatot.}
+{175}{}{ nem tudta kinyitni a konténeren lévő lakatot.}
+{176}{}{Leütötted a lakatot a konténerről.}
+{177}{}{Miközben megpróbáltad leütni a lakatot a konténerről, meghúzódott a hátad, és [x] ÉP-t sérültél.}
+{178}{}{Miközben megpróbáltad leütni a lakatot a konténerről, meghúzódott a hátad, és }
 {179}{}{ ÉP a büntetés!}
-{180}{}{Túl gyenge vagy, hogy leverd a zárat.}
-{181}{}{ leütötte a lakatot a konténerr?l.}
-{182}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és [x] ÉP-t sérült.}
-{183}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és }
+{180}{}{Túl gyenge vagy, hogy leüsd a lakatot.}
+{181}{}{ leütötte a lakatot a konténerről.}
+{182}{}{ háta meghúzódott, miközben megpróbálta leütni a lakatot a konténerről, és [x] ÉP-t sérült.}
+{183}{}{ háta meghúzódott, miközben megpróbálta leütni a lakatot a konténerről, és }
 {184}{}{ ÉP a büntetés!}
-{185}{}{ túl gyenge, hogy leverje a zárat.}
-{186}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és [x] ÉP-t sérült.}
-{187}{}{ háta megsérül, miközben megpróbálta leverni a zárat és }
+{185}{}{ túl gyenge, hogy leüsse a lakatot.}
+{186}{}{ háta meghúzódott, miközben megpróbálta leütni a lakatot a konténerről, és [x] ÉP-t sérült.}
+{187}{}{ háta meghúzódott, miközben megpróbálta leütni a lakatot a konténerről, és }
 {188}{}{ ÉP a büntetés!}
 {189}{}{Ügyesen bezártad a konténert.}
 {190}{}{Nem tudtad bezárni a konténert.}
@@ -94,12 +94,12 @@
 {193}{}{Ennyi meg se karcolta a konténert.}
 {194}{}{Egy csapdát találtál a konténeren.}
 {195}{}{Nem voltál képes csapdát találni a kontérenen.}
-{196}{}{Hozzáért?en hatástalanítottad a csapdát.}
-{198}{}{Nem sikerült hatástalanítanod a csapdát.}
+{196}{}{Szakképzetten hatástalanítottad a csapdát.}
+{198}{}{Nem tudtad hatástalanítani a csapdát.}
 {199}{}{ csapdát talált a konténeren.}
 {200}{}{ nem volt képes csapdát találni a konténeren.}
-{201}{}{ hozzáért?en hatástalanította a csapdát.}
-{202}{}{ nem tudta kiiktatni a csapdát.}
+{201}{}{ szakképzetten hatástalanította a csapdát.}
+{202}{}{ nem tudta hatástalanítani a csapdát.}
 {203}{}{Úgy néz ki, a konténer be van zárva.}
 {204}{}{Észreveszel egy csapdát a konténeren.}
 {205}{}{ notices a trap on the container jamb.}

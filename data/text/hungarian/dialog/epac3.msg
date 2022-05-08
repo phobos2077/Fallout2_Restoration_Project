@@ -18,7 +18,7 @@
  through here since the war, and, here's the real kicker: were you to actually request toast, I'm not even sure I'd be up
  for the task. You see, I'm feeling a little under the weather inside. It's rather embarrassing, really.}
 {251}{}{That's, uh, quite tragic. So, why are you here?}
-{252}{}{Értem. Kösz, hogy id?t szakítottál rám.}
+{252}{}{Értem. Köszönöm, hogy szakított rám időt.}
 {260}{}{I think he had a consignment of gas masks brought in before the accident. Some people even said that it was his errors that caused the problem in the first place.}
 {261}{}{So, why are you here?}
 {262}{}{Köszönöm az információkat.}
@@ -38,15 +38,15 @@
 {302}{}{Not right now. I need to ask you something.}
 {303}{}{Nope. I must be going.}
 {310}{}{Sure, what would you like to know? I hope it's about toast.}
-{311}{}{Mi ez a hely tulajdonképpen?}
-{312}{}{Felejtsük el! Viszlát.}
+{311}{}{Én is örülök, hogy látlak. Mi ez a hely?}
+{312}{}{Nem fontos! Üdv!}
 {350}{}{Hey, you fixed me! I knew Mr. Handy left the job unfinished. Now I feel better than ever! Thanks.}
 {351}{}{Sure, it's what I do. See you later.}
 {352}{}{Now hold on there. If you won't let me reward you with toast, then at least allow me give you a little tip. You
  know those slot machines you find in casinos? Well, I calculated a method that can jinx the machines out of their cash.
  I have an IQ of 6000, you know. When I'm not making toast, I like to ponder these kinds of things. For helping me out,
  I'll tell you these secret codes. Just use one of the machines like you normally would and...}
-{353}{}{[TOVÁBB]}
+{353}{}{[TOVÁBBI LEHETŐSÉG]}
 {354}{}{...And that's all there is to it. You'll be rich in no time, eating toast to your heart's content.}
 {355}{}{Thanks. I appreciate this. So long.}
 {400}{}{You successfully repair the toaster.}

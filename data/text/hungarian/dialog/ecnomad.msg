@@ -1,6 +1,6 @@
 {100}{}{You see a nomad.}
 {101}{}{Helló, újnak látszol a környéken.}
-{102}{}{A f?nökkel kellene beszélned.}
+{102}{}{A főnökkel kellene beszélned.}
 {103}{}{Azt hiszem, ma nincs olyan forróság, mint tegnap.}
 {104}{}{Na, és milyen az élet a városban?}
 {105}{}{Hitetlen!}

@@ -1,4 +1,4 @@
-{100}{}{Kicsiny, takaros termel? közösség. A környék telis-tele van pusztuló vagy már elhalt gabonamez?kkel.}
+{100}{}{Kicsiny, takaros termelő közösség. A környék telis-tele van pusztuló vagy már elhalt gabonamezőkkel.}
 {500}{}{Asszem, mind kinyiffant.}
 {501}{}{All meanie biters dead.}
 {502}{}{You cleared out Farrel's garden.}
@@ -8,6 +8,6 @@
 {1000}{}{Megölni mindet!}
 {1001}{}{Halál az Aljanépre!}
 {1002}{}{Azt akarom, hogy visítsanak, mint a disznó!}
-{1003}{}{Gyerünk, kapjuk el ?ket!}
-{1100}{}{Nagyjából 3 métert zuhansz egy félhomályos barlangba. A szemközti falnál mez?gazdasági eszközök sorakoznak.}
-{1200}{}{Épp sikerült kijutni a napvilágra, amikor a robbanás a leveg?be repített...}
+{1003}{}{Gyerünk, kapjuk el őket!}
+{1100}{}{Nagyjából 3 métert zuhansz egy félhomályos barlangba. A szemközti falnál mezőgazdasági eszközök sorakoznak.}
+{1200}{}{Épp sikerült kijutni a napvilágra, amikor a robbanás a levegőbe repített...}

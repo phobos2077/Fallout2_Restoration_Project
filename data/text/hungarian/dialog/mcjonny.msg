@@ -1,6 +1,6 @@
 {100}{}{You see a small boy.}
 {101}{}{You see Jonny.}
-{102}{}{Sz?ke haj, kék szem, ? a tipikus amerikai kinézet? srác.}
+{102}{}{Szőke haj, kék szem, ő a tipikus amerikai kinézetű srác.}
 {150}{}{Vhááá!}
 {151}{}{Vissza akarom kapni a kutyámat!}
 {152}{}{Whimper... }
@@ -11,7 +11,7 @@
 {157}{}{Mi a neved, kisfiú?}
 {158}{}{Mondd meg a neved, te kis pondró!}
 {159}{}{Szeretnél egy kis cukorkát, kicsim?}
-{160}{}{Helló...}
+{160}{}{Üdv minálunk.}
 {166}{}{Édesanyád és édesapád küldött, hogy felkutassalak.}
 {168}{}{Beszéltél már Vegeirrel arról, hogy hazamegyek?}
 {169}{}{Igen. Azt mondta, a szüleidnek kéne érted jönni.}
@@ -21,13 +21,13 @@
 {173}{}{Rose azt mondta, hogy a kutyád keresésére indul.}
 {174}{}{Jonnynak hívnak. Hát téged?}
 {175}{}{A nevem }
-{176}{}{ vagyok.}
+{176}{}{ dollár.}
 {177}{}{A nevem nem fontos.}
 {178}{}{Jonnynak hívnak, de nem tetszel nekem.}
 {179}{}{[Rád mutat és sikítani kezd.] Idegen! Idegen! Idegen!}
 {180}{}{Nagyon örülök, hogy találkoztunk, }
-{181}{}{ vagyok.}
-{182}{}{Még találkozunk, gyerk?c...}
+{181}{}{ dollár.}
+{182}{}{Még találkozunk, gyerkőc...}
 {183}{}{That's swell! I wanted to go home, but Vegeir says his people can't travel that far above
  ground and wouldn't take me... Not that I doubt you, but what's my father's name?}
 {184}{}{Farrel.}
@@ -48,7 +48,7 @@
 {200}{}{Igen, azt hiszem, ez a legjobb. Habár én hiszek neked, Vegeir szeretné tudni, hogy biztonságban hazaérek-e. Kösz, hogy segítettél.}
 {201}{}{Légyszi, siess. Haza akarok menni.}
 {202}{}{Nem! Nem hiszek neked! Add vissza a kutyámat! [Vahaaha!]}
-{203}{}{Oh, ne! Nem tudtad, hogy Rose kutyából is f?z kaját? Öcsi is biztos már a fazékban úszkál.}
+{203}{}{Oh, ne! Nem tudtad, hogy Rose kutyából is főz kaját? Öcsi is biztos már a fazékban úszkál.}
 {300}{}{Öcsi!!!}
 {400}{}{Kösz, hogy megmentettél nagyfiú.}
 {401}{}{Jó otthon lenni!}

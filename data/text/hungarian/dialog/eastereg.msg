@@ -225,7 +225,7 @@
 {2041}{}{Alright. Take care.}
 {2050}{}{[The robot's head lowers in sadness.] Well, my work isn't for everyone I suppose. Now, if you'll excuse me,
  I must be going. I've got more goodies to unleash upon this world.}
-{2051}{}{Ahogy gondolja. Viszlát!}
+{2051}{}{Jól van, oké. Na, csá!}
 {2060}{}{I so enjoy creating new things.}
 {2061}{}{So many new details now. So beautiful.}
 {2100}{}{You see Mash.}

@@ -1,4 +1,4 @@
-{100}{}{Egy durva kinézet? alakot látsz.}
+{100}{}{Egy durva kinézetű alakot látsz.}
 {101}{}{Ez itt egy fosztogató.}
 {200}{}{You trespass into our lands. Now you die!}
 {201}{}{Hogy mered idetolni a képed hívatlanul?}
@@ -9,10 +9,10 @@
 {206}{}{Ne legyen szemtanú!}
 {207}{}{Fedezzetek!}
 {208}{}{Nincs kegyelem!}
-{209}{}{Nem lehet túlél?!}
+{209}{}{Nem lehet túlélő!}
 {210}{}{Bishop azt üzeni, hogy itt nincs átjárás!}
 {211}{}{Na, vegyük fel szépen a fizetést!}
-{300}{}{H?t?s Morton.}
+{300}{}{Hűtős Morton.}
 {301}{}{Hentes Morton.}
 {302}{}{Betonozó Morton.}
 {303}{}{Koporsós Morton.}

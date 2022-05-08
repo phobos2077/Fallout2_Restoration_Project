@@ -1,10 +1,10 @@
 {100}{}{You see a lean, tan looking woman.}
-{101}{}{Telepes.}
-{102}{}{A farmerekre jellemz? napcserzett b?re van.}
+{101}{}{Egy farmert látsz.}
+{102}{}{A farmerekre jellemző napcserzett bőre van.}
 {200}{}{Ez a házam.}
 {201}{}{Rohadt banditák!}
 {202}{}{Hagyj békén minket!}
-{203}{}{Gy?lölöm a banditákat!}
+{203}{}{Gyűlölöm a banditákat!}
 {204}{}{Semmink sincs, amit ellophatnál.}
 {205}{}{Ne ölj meg!}
 {206}{}{Elegem van!}

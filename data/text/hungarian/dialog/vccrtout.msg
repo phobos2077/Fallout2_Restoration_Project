@@ -1,5 +1,5 @@
-{100}{}{? az El?város egyik morcos lakója.}
-{101}{}{Nem t?nik túl szerencsésnek.}
+{100}{}{Ő az Előváros egyik morcos lakója.}
+{101}{}{Nem tűnik túl szerencsésnek.}
 {102}{}{Hé, te meg mit bámulsz?}
 {103}{}{Na, ez is egy jó szar nap volt.}
 {104}{}{Én a helyedben lelécelnék innen.}
@@ -12,7 +12,7 @@
 {111}{}{Gyorsan fogy a pénz.}
 {112}{}{Húzzál haza!}
 {113}{}{Mássz ki az arcomból!}
-{114}{}{T?nj innét!}
+{114}{}{Tűnj innét!}
 {115}{}{Ne bámulj!}
 {116}{}{Kopj le!}
 {117}{}{Hagyj már békén!}

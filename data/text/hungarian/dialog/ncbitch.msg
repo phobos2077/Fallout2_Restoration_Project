@@ -1,10 +1,10 @@
-{100}{}{? a Korzikai Testvérek egyik test?re.}
-{150}{}{A n? igen szívós ember benyomását kelti, és zöld taréjt hord. Géppisztolyát úgy babusgatja, mint egy kisbabát.}
-{151}{}{? a Korzikai Testvérek egyik test?re.}
+{100}{}{Ez a nő a Korzikai Testvérek egyik testőre.}
+{150}{}{A nő igen szívós ember benyomását kelti, és zöld taréjt hord. Géppisztolyát úgy babusgatja, mint egy kisbabát.}
+{151}{}{Ez a nő a Korzikai Testvérek egyik testőre.}
 {200}{}{Megmentetted a világot? Hogy oda ne tipegjek!}
-{201}{}{Óh, te kis h?s! Na, jó, t?nés!}
+{201}{}{Óh, te kis hős! Na, jó, tűnés!}
 {300}{}{Halló!}
-{301}{}{Tudod, itt van ez a kis csini sz?ke...}
+{301}{}{Tudod, itt van ez a kis csini szőke...}
 {302}{}{Mi van, derogál hozzám beszélni?}
 {303}{}{Mondj valamit! Bármit!}
 {400}{}{Fasz!}

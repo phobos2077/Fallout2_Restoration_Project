@@ -6,7 +6,7 @@
 {105}{}{Kaja!}
 {106}{}{Olyan éhes vagyok.}
 {107}{}{A gyermekeim éhen halnak!}
-{108}{}{Senki nem tör?dik velünk.}
+{108}{}{Senki nem törődik velünk.}
 {109}{}{Ne ölj meg!}
 {110}{}{Csak egy kis ételt akartam.}
 {111}{}{Bocsáss meg!}

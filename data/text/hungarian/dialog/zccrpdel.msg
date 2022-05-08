@@ -1,23 +1,23 @@
-{100}{}{Egy éles szem? ember, akir?l lerí az üzleti szemlélet.}
-{101}{}{Kockavet? krupié. A játék neve CRAPS.}
+{100}{}{Egy éles szemű ember, akiről lerí az üzleti szemlélet.}
+{101}{}{Kockavető krupié. A játék neve CRAPS.}
 {102}{}{Egy halom zseton és pénz van nála. Kipróbálhatod nála a szerencsédet.}
 {103}{}{Tegyék meg a tétjeiket! Új dobás következik.}
-{104}{}{Mennyit tesz az FELTÉTEL NÉLKÜL NYER? SÁVRA?}
-{105}{}{Mennyit tesz a NEM FELTÉTEL NÉLKÜL NYER? SÁVRA?}
+{104}{}{Mennyit tesz az FELTÉTEL NÉLKÜL NYERŐ SÁVRA?}
+{105}{}{Mennyit tesz a NEM FELTÉTEL NÉLKÜL NYERŐ SÁVRA?}
 {106}{}{Mennyit tesz a NYÍLT SÁVRA?}
 {107}{}{Mennyit tesz a NEM NYÍLT SÁVRA?}
-{108}{}{Mennyit tesz a MEZ?RE?}
+{108}{}{Mennyit tesz a MEZŐRE?}
 {109}{}{Célszám:}
-{110}{}{Feltétel nélkül nyer? sáv.}
-{111}{}{Nem feltétel nélkül nyer? sáv.}
+{110}{}{Feltétel nélkül nyerő sáv.}
+{111}{}{Nem feltétel nélkül nyerő sáv.}
 {112}{}{Nyílt sáv.}
 {113}{}{Nem nyílt sáv.}
 {114}{}{Egydobásos tétek...}
 {115}{}{Szám tétek...}
-{116}{}{Mez?-tét.}
+{116}{}{Mező-tét.}
 {118}{}{Jöhet a dobás...}
-{119}{}{A FELTÉTEL NÉLKÜL NYER? SÁVRA ÖN AZ ALÁBBI TÉTET TETTE: }
-{120}{}{A NEM FELTÉTEL NÉLKÜL NYER? SÁVRA ÖN AZ ALÁBBI TÉTET TETTE: }
+{119}{}{A FELTÉTEL NÉLKÜL NYERŐ SÁVRA ÖN AZ ALÁBBI TÉTET TETTE: }
+{120}{}{A NEM FELTÉTEL NÉLKÜL NYERŐ SÁVRA ÖN AZ ALÁBBI TÉTET TETTE: }
 {121}{}{A NYÍLT SÁVRA ÖN AZ ALÁBBI TÉTET TETTE: }
 {122}{}{A NEM NYÍLT SÁVRA ÖN AZ ALÁBBI TÉTET TETTE: }
 {123}{}{7-es:}
@@ -48,10 +48,10 @@
 {148}{}{nyereményaránya: 8:}
 {149}{}{nyereményaránya: 9:}
 {150}{}{nyereményaránya: 10:}
-{151}{}{A MEZ?-TÉT ÉRTÉKE: }
+{151}{}{A MEZŐ-TÉT ÉRTÉKE: }
 {152}{}{Melyik EGYDOBÁSOS TÉT legyen?}
-{153}{}{Mennyi?}
-{154}{}{Egyszer? tétek...}
+{153}{}{Mennyibe?}
+{154}{}{Egyszerű tétek...}
 {155}{}{Nehezített tétek...}
 {156}{}{Melyik fajta tét legyen?}
 {157}{}{Mennyit tesz SZÁMRA?}
@@ -64,7 +64,7 @@
 {206}{}{"5 és 6" (Nyereményarány: 15:1)}
 {207}{}{"1 és 1" (Nyereményarány: 30:1)}
 {208}{}{"6 és 6" (Nyereményarány: 30:1)}
-{209}{}{Bármilyen "craps" érték? dobás (Nyereményarány: 8:1)}
+{209}{}{Bármilyen "craps" értékű dobás (Nyereményarány: 8:1)}
 {299}{}{Melyik SZÁM TÉTET szeretné megtenni?}
 {300}{}{Legyen a 4-es (1.8-szoros nyeremény)}
 {301}{}{Legyen az 5-ös (1.4-szeres nyeremény)}
@@ -73,18 +73,18 @@
 {304}{}{Legyen a 9-es (1.4-szeres nyeremény)}
 {305}{}{Legyen a 10-es (1.8-szoros nyeremény)}
 {400}{}{Vissza...}
-{500}{}{$}
-{501}{}{ vagyok.}
-{600}{}{Hetes fizet az automatikusan nyer? sávon, célszám törl?dik.}
-{601}{}{Tizenegyes fizet az automatikusan nyer? sávon.}
+{500}{}{, }
+{501}{}{ dollár.}
+{600}{}{Hetes fizet az automatikusan nyerő sávon, célszám törlődik.}
+{601}{}{Tizenegyes fizet az automatikusan nyerő sávon.}
 {602}{}{Kettes, nincs nyeremény.}
 {603}{}{Hármas, nincs nyeremény.}
 {604}{}{Tizenkettes, nincs nyeremény.}
-{610}{}{Hetes, nincs nyeremény, célszám törl?dik.}
+{610}{}{Hetes, nincs nyeremény, célszám törlődik.}
 {611}{}{Tizenegyes, nincs nyeremény.}
-{612}{}{Kettes fizet a nem automatikusan nyer? sávon.}
-{613}{}{Hármas fizet a nem automatikusan nyer? sávon}
-{614}{}{Tizenkettes, fizet a nem automatikusan nyer? sávon}
+{612}{}{Kettes fizet a nem automatikusan nyerő sávon.}
+{613}{}{Hármas fizet a nem automatikusan nyerő sávon}
+{614}{}{Tizenkettes, fizet a nem automatikusan nyerő sávon}
 {620}{}{Az egydobásos 7-es}
 {621}{}{Prop bet double 3s}
 {622}{}{Az egydobásos dupla 4-es}
@@ -103,14 +103,14 @@
 {653}{}{8-as szám-tét}
 {654}{}{9-es szám-tét}
 {655}{}{10-es szám-tét}
-{660}{}{2-es mez?-tét duplán nyert.}
-{661}{}{3-as mez?-tét nyert.}
-{662}{}{4-es mez?-tét nyert.}
-{663}{}{9-es mez?-tét nyert.}
-{664}{}{10-es mez?-tét nyert.}
-{665}{}{11-es mez?-tét nyert.}
-{666}{}{12-es mez?-tét triplán nyert.}
-{667}{}{A lehelyezett mez?-tét veszített. }
+{660}{}{2-es mező-tét duplán nyert.}
+{661}{}{3-as mező-tét nyert.}
+{662}{}{4-es mező-tét nyert.}
+{663}{}{9-es mező-tét nyert.}
+{664}{}{10-es mező-tét nyert.}
+{665}{}{11-es mező-tét nyert.}
+{666}{}{12-es mező-tét triplán nyert.}
+{667}{}{A lehelyezett mező-tét veszített. }
 {670}{}{4-es sima tét}
 {671}{}{5-ös sima tét}
 {672}{}{6-os sima tét}
@@ -123,14 +123,14 @@
 {683}{}{8-as nyeremény-tét}
 {684}{}{9-es nyeremény-tét}
 {685}{}{10-es nyeremény-tét}
-{700}{}{Nincs érvényes célszámmal rendelkez? nyeremény.}
+{700}{}{Nincs érvényes célszámmal rendelkező nyeremény.}
 {701}{}{Eredmény}
 {702}{}{Nem}
 {710}{}{Az egyik kockán:}
 {711}{}{A másik kockán:}
 {712}{}{Bocs, mennem kell.}
 {713}{}{Elnézést, de ezt a tétet nem óhajtom megtenni.}
-{714}{}{Célszámok törl?dnek.}
+{714}{}{Célszámok törlődnek.}
 {800}{}{Kockáztathat a számokkal!}
 {801}{}{Válasszon nyeremény-szorzót! A lehetséges nyeremény:}
 {802}{}{*x nyeremény.}
@@ -142,5 +142,5 @@
 {808}{}{Nyeremény-tét a 9-esre.}
 {809}{}{Nyeremény-tét a 10-esre.}
 {810}{}{Melyik számra tesz?}
-{1100}{}{Egy éles szem? n?, akir?l lerí az üzleti szemlélet.}
+{1100}{}{Egy éles szemű nő, akiről lerí az üzleti szemlélet.}
 {1102}{}{Egy halom zseton és pénz van nála. Kipróbálhatod nála a szerencsédet.}

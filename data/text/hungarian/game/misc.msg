@@ -14,35 +14,35 @@
 {13}{}{CREDITS}
 {14}{}{EXIT}
 {15}{}{Akció Pontok}
-{16}{}{Életpont}
-{17}{}{A mozgásérzékel? nincs installálva.}
-{18}{}{A mozgásérzékel? lemerült.}
+{16}{}{Életerő}
+{17}{}{A mozgásérzékelő nincs installálva.}
+{18}{}{A mozgásérzékelő lemerült.}
 {20}{}{Copyright(c) 1998 Interplay Productions.  All rights reserved.}
 {30}{}{Folytatod a játékot?}
 {50}{}{A Fallout 2 indításához szükség van a CD-re!}
 {100}{}{Hiba a beállítások mentésében!}
 {101}{}{A játék beállításait nem sikerült elmenteni!}
 {1000}{}{Rosszul érzed magad.}
-{1001}{}{Nagyon rosszul vagy, és er?teljes hányást követ?en még fáradt is.}
-{1002}{}{Nagyon kimerültél, és nem bírod abbahagyni a hányást. Ez er?sen kihat a felépülési id?dre.}
+{1001}{}{Nagyon rosszul vagy, és erőteljes hányást követően még fáradt is.}
+{1002}{}{Nagyon kimerültél, és nem bírod abbahagyni a hányást. Ez erősen kihat a felépülési idődre.}
 {1003}{}{Iszonyúan vérzel. Hányingered van, és hullik a hajad.}
-{1004}{}{Iszonyúan és egyfolytában vérzel. Vért hánysz, a b?röd pedig lemállik a csontjaidról.}
-{1005}{}{Bels? vérzésed és hasmenésed van. Fel vagy fújódva és agonizálsz.}
-{1006}{}{Meghaltál a sugárfert?zést?l.}
-{1007}{}{Nagy mennyiség? sugárzást kaptál.}
+{1004}{}{Iszonyúan és egyfolytában vérzel. Vért hánysz, a bőröd pedig lemállik a csontjaidról.}
+{1005}{}{Belső vérzésed és hasmenésed van. Fel vagy fújódva és agonizálsz.}
+{1006}{}{Meghaltál a sugárfertőzéstől.}
+{1007}{}{Nagy mennyiségű sugárzást kaptál.}
 {1008}{}{A Geiger-számláló kattog.}
 {1009}{}{A Geiger-számláló vadul kattog.}
 {2000}{}{Nem tudsz oda menni.}
 {2001}{}{A zár beragadt.}
 {3000}{}{Megmérgeztek!}
-{3001}{}{A méregt?l sebzést szenvedsz.}
+{3001}{}{A méregtől sebzést szenvedsz.}
 {3002}{}{Kicsivel jobban vagy.}
-{3003}{}{Jobban érzed magad.}
+{3003}{}{Jobban vagy.}
 {4000}{}{Hozzá-nemértésed miatt a kelleténél korábban detonált a robbanószer.}
 {5000}{}{tárgyat használ:}
-{5001}{}{kifogyott a l?szerb?l. Így most használhatatlan az üres}
-{5002}{}{l?szert készít el?, és máris harcra kész a megtöltött}
-{6000}{}{Mir?l kérdezel?}
+{5001}{}{kifogyott a lőszerből. Így most használhatatlan az üres}
+{5002}{}{lőszert készít elő, és máris harcra kész a megtöltött}
+{6000}{}{Miről kérdezel?}
 {7000}{}{You aren't wearing the Pip-Boy!}
 {8000}{}{Túl vagy terhelve.}
 {8001}{}{%s túl van terhelve.}
@@ -51,36 +51,36 @@
 {9010}{}{Azta! Hirtelen megszállt a tapasztalat!}
 {9011}{}{Szintlépés, bébi! Szintlépés!}
 {9012}{}{I feel a great disturbance in the force. As if all my skills have gained percentage points.}
-{9013}{}{Szívósabb lettem! Er?sebb! Okosabb!}
-{9020}{}{H???! Úgy érzem, korlátlan tapasztalathoz jutottam és er?sebb lettem!}
-{9021}{}{Aaagggh! Izmok... duzzadnak... Képzettségek... n?nek... Szintlépés...}
+{9013}{}{Szívósabb lettem! Erősebb! Okosabb!}
+{9020}{}{Hűűű! Úgy érzem, korlátlan tapasztalathoz jutottam és erősebb lettem!}
+{9021}{}{Aaagggh! Izmok... duzzadnak... Képzettségek... nőnek... Szintlépés...}
 {9022}{}{Adjatok egy diplomát, meg egy olyan hülye rojtos sipkát, mert épp most végeztem!}
-{9023}{}{Hé, er?sebb lettem! Ezért kapok fizetésemelést?}
+{9023}{}{Hé, erősebb lettem! Ezért kapok fizetésemelést?}
 {9030}{}{A türelem rózsát terem...}
 {9031}{}{Heh. Ezek szerint még ez az öreg róka is tud tanulni új trükköket.}
 {9032}{}{Úgy látszik, megért ennyit utazgatni.}
 {9033}{}{Tanultam néhány új trükköt.}
 {9040}{}{Vén-csont tanít. Mi tanulunk.}
-{9041}{}{Tanulunk a Szellemekt?l, ember.}
+{9041}{}{Tanulunk a Szellemektől, ember.}
 {9042}{}{Tanulunk.}
 {9043}{}{A Nagy Szellem beleszállt Sulikba.}
 {9044}{}{Mi most már okosabb lettünk.}
 {9045}{}{Mi tanulunk Vén-csonttóll.}
-{9050}{}{H??... ett?l éppenséggel okosabb lettem.}
-{9051}{}{Ennek a b?ne fog megölni.}
+{9050}{}{Hűű... ettől éppenséggel okosabb lettem.}
+{9051}{}{Ennek a bűne fog megölni.}
 {9052}{}{El sem hiszem, hogy eddig túléltem.}
-{9060}{}{Vaúú!}
-{9061}{}{Vaúú!}
-{9062}{}{Vaúú!}
-{9063}{}{Vaúú!}
+{9060}{}{Vaú!}
+{9061}{}{Vaú!}
+{9062}{}{Vaú!}
+{9063}{}{Vaú!}
 {9064}{}{Vaú! Vaú!}
 {9070}{}{Tanultam néhány új dolgot!}
 {9071}{}{Tanultam néhány új dolgot!}
 {9080}{}{Szerintem most újabb tudásra tettem szert!}
 {9081}{}{A tudás világossága ajándék.}
-{9082}{}{Szerintem szépen fejl?dök.}
+{9082}{}{Szerintem szépen fejlődök.}
 {9083}{}{I am surpassing even Gruthar in knowledge.}
-{9084}{}{Még a falka tagjainál is er?sebb vagyok.}
+{9084}{}{Még a falka tagjainál is erősebb vagyok.}
 {9085}{}{Most már én vagyok falka leghatalmasabbika.}
 {9090}{}{Tanultam néhány új dolgot!}
 {9091}{}{Tanultam néhány új dolgot!}
@@ -90,15 +90,15 @@
 {9111}{}{Tanultam néhány új dolgot!}
 {9120}{}{INFORMÁCIÓ ELEMZÉSE KÉSZ. RENDSZER FEJLESZTÉSE.}
 {9121}{}{ÚJ INFORMÁCIÓT SZEREZTEM. TÁMADÓ RENDSZER FEJLESZTÉSE.}
-{9122}{}{RENDSZER B?VÍTÉSE KÉSZ.}
-{9123}{}{CÉLZÓ RENDSZER BEÁLLÍTVA. 20%-KAL N?TT A PONTOSSÁG.}
+{9122}{}{RENDSZER BőVÍTÉSE KÉSZ.}
+{9123}{}{CÉLZÓ RENDSZER BEÁLLÍTVA. 20%-KAL NőTT A PONTOSSÁG.}
 {9124}{}{ELÉRTEM AZ OPTIMÁLIS TELJESÍTMÉNYT.}
-{9130}{}{F?nök! Asszem, ráéreztem erre a dologra.}
-{9131}{}{Egyre jobb vagyok! Mondtam, hogy nem okozok csalódást, f?nök.}
-{9132}{}{Hé... várj... most már megvan. Szerintem tudnék még fejl?dni.}
-{9133}{}{Látod, f?nök?! Még egy ilyen vén róka is tud tanulni!}
-{9134}{}{Tudod mit, f?nök? Asszem, tanultam egy-két új dolgot.}
-{9135}{}{Egyre jobb vagyok ebben. Látod, F?nök? Id?vel minden jó dolog még jobb lesz.}
+{9130}{}{Főnök! Asszem, ráéreztem erre a dologra.}
+{9131}{}{Egyre jobb vagyok! Mondtam, hogy nem okozok csalódást, főnök.}
+{9132}{}{Hé... várj... most már megvan. Szerintem tudnék még fejlődni.}
+{9133}{}{Látod, főnök?! Még egy ilyen vén róka is tud tanulni!}
+{9134}{}{Tudod mit, főnök? Asszem, tanultam egy-két új dolgot.}
+{9135}{}{Egyre jobb vagyok ebben. Látod, Főnök? Idővel minden jó dolog még jobb lesz.}
 {9140}{}{Tanultam néhány új dolgot!}
 {9141}{}{Tanultam néhány új dolgot!}
 {9150}{}{Tanultam néhány új dolgot!}

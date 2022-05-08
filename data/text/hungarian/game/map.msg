@@ -4,9 +4,9 @@
 {103}{}{Arroyo}
 {104}{}{Arroyo}
 {105}{}{Arroyo}
-{106}{}{Rejtek}
-{107}{}{Rejtek}
-{108}{}{Rejtek}
+{106}{}{Hogy jutok el Rejtekbe?}
+{107}{}{Hogy jutok el Rejtekbe?}
+{108}{}{Hogy jutok el Rejtekbe?}
 {109}{}{Klamath}
 {110}{}{Klamath}
 {111}{}{Klamath}
@@ -47,8 +47,8 @@
 {146}{}{Boneyard}
 {147}{}{Katedrális}
 {148}{}{Katonai}
-{149}{}{Hegyek}
-{150}{}{Hegyek}
+{149}{}{Hegy}
+{150}{}{Hegy}
 {151}{}{Sivatag}
 {152}{}{Sivatag}
 {153}{}{Sivatag}
@@ -56,17 +56,17 @@
 {155}{}{Testvériség}
 {156}{}{Sivatag}
 {157}{}{Sivatag}
-{158}{}{Hegyek}
-{159}{}{Hegyek}
+{158}{}{Hegy}
+{159}{}{Hegy}
 {160}{}{Viperák tábora}
 {161}{}{Sivatag}
-{162}{}{Hegyek}
+{162}{}{Hegy}
 {163}{}{Sivatag}
-{164}{}{Hegyek}
+{164}{}{Hegy}
 {165}{}{EPA}
 {166}{}{EPA}
 {167}{}{EPA Warehouse}
-{168}{}{Keresked?}
+{168}{}{Kereskedő}
 {169}{}{Shi Submarine}
 {200}{}{Sivatag}
 {201}{}{}
@@ -77,14 +77,14 @@
 {206}{}{Sivatag}
 {207}{}{}
 {208}{}{}
-{209}{}{Templom: el?csarnok}
+{209}{}{Templom: előcsarnok}
 {210}{}{Templom: folyosó}
 {211}{}{Templom: szentély}
 {212}{}{Falu}
 {213}{}{}
 {214}{}{}
-{215}{}{Híd}
-{216}{}{Lerombolt híd}
+{215}{}{Hid}
+{216}{}{Lerombolt hid}
 {217}{}{}
 {218}{}{Nyugati oldal}
 {219}{}{}
@@ -92,43 +92,43 @@
 {221}{}{Keleti oldal}
 {222}{}{}
 {223}{}{}
-{224}{}{Lakónegyed}
+{224}{}{Lakonegyed}
 {225}{}{}
 {226}{}{}
-{227}{}{Belváros}
-{228}{}{Belváros}
-{229}{}{Belváros}
-{230}{}{F?tér}
-{231}{}{F?tér}
+{227}{}{Belvaros}
+{228}{}{Belvaros}
+{229}{}{Belvaros}
+{230}{}{Főtér}
+{231}{}{Főtér}
 {232}{}{}
-{233}{}{Patkánybarlang}
-{234}{}{Patkánybarlang}
-{235}{}{Patkánybarlang}
-{236}{}{Bejárat}
+{233}{}{Patkanybarlang}
+{234}{}{Patkanybarlang}
+{235}{}{Patkanybarlang}
+{236}{}{Bejarat}
 {237}{}{Waste Tunnels}
 {238}{}{Storage}
-{239}{}{Vadászmez?}
-{240}{}{Vadászmez?}
-{241}{}{Vadászmez?}
-{242}{}{Legel?}
-{243}{}{Legel?}
+{239}{}{Vadaszmezo}
+{240}{}{Vadaszmezo}
+{241}{}{Vadaszmezo}
+{242}{}{Legelo}
+{243}{}{Legelo}
 {244}{}{}
-{245}{}{El?város}
+{245}{}{Elovaros}
 {246}{}{}
 {247}{}{}
-{248}{}{Belváros}
+{248}{}{Belvaros}
 {249}{}{}
 {250}{}{}
 {251}{}{Városháza}
 {252}{}{}
 {253}{}{}
-{254}{}{F? utca}
+{254}{}{Fo ut}
 {255}{}{}
 {256}{}{}
-{257}{}{Panzió}
-{258}{}{Panzió}
+{257}{}{Panzio}
+{258}{}{Panzio}
 {259}{}{}
-{260}{}{Brahmin legel?}
+{260}{}{Brahmin legelő}
 {261}{}{}
 {262}{}{}
 {263}{}{Farrel kertje}
@@ -137,7 +137,7 @@
 {266}{}{Pocegodor}
 {267}{}{}
 {268}{}{}
-{269}{}{Városi kút}
+{269}{}{Varosi kut}
 {270}{}{}
 {271}{}{}
 {272}{}{Farm}
@@ -146,13 +146,13 @@
 {275}{}{Barlang}
 {276}{}{}
 {277}{}{}
-{278}{}{Földalatti tó}
+{278}{}{Foldalatti to}
 {279}{}{}
 {280}{}{}
-{281}{}{Harcmez?}
+{281}{}{Csatater}
 {282}{}{}
 {283}{}{}
-{284}{}{Pihen?részleg}
+{284}{}{Pihenőrészleg}
 {285}{}{Raktár}
 {286}{}{Robottechnikai labor}
 {287}{}{Bio-kutató laboratórium}
@@ -161,31 +161,31 @@
 {290}{}{Menedék: 1. szint}
 {291}{}{Menedék: 2. szint}
 {292}{}{Menedék: 3. szint}
-{293}{}{Település}
-{294}{}{Település}
-{295}{}{Település}
-{296}{}{Er?m?}
-{297}{}{Er?m?}
+{293}{}{Telepules}
+{294}{}{Telepules}
+{295}{}{Telepules}
+{296}{}{Eromu}
+{297}{}{Eromu}
 {298}{}{}
 {299}{}{Roncstelep}
 {300}{}{Roncstelep}
 {301}{}{Roncstelep}
-{302}{}{Alagút}
-{303}{}{Alagút}
-{304}{}{Alagút}
+{302}{}{Alagsor}
+{303}{}{Alagsor}
+{304}{}{Alagsor}
 {305}{}{Vadon}
 {306}{}{}
 {307}{}{}
 {308}{}{15-ös Menedék: 1. szint}
 {309}{}{15-ös Menedék: 2. szint}
 {310}{}{15-ös Menedék: 3. szint}
-{311}{}{Földfoglalók}
+{311}{}{Foldbitorlok}
 {312}{}{}
 {313}{}{}
-{314}{}{Földfoglalók}
+{314}{}{Foldbitorlok}
 {315}{}{}
 {316}{}{}
-{317}{}{Keleti bejárat}
+{317}{}{Keleti Bejarat}
 {318}{}{}
 {319}{}{}
 {320}{}{1. szint}
@@ -194,22 +194,22 @@
 {323}{}{Barlang}
 {324}{}{}
 {325}{}{}
-{326}{}{Belváros}
+{326}{}{Belvaros}
 {327}{}{}
 {328}{}{}
-{329}{}{Városháza}
+{329}{}{Varoshaza}
 {330}{}{}
 {331}{}{}
-{332}{}{Westin farm}
+{332}{}{Westin Farm}
 {333}{}{}
 {334}{}{}
-{335}{}{Legel?}
+{335}{}{Legelok}
 {336}{}{}
 {337}{}{}
-{338}{}{Bazár}
+{338}{}{Bazar}
 {339}{}{}
 {340}{}{}
-{341}{}{Városháza}
+{341}{}{Varoshaza}
 {342}{}{}
 {343}{}{}
 {344}{}{Kanyon}
@@ -221,7 +221,7 @@
 {350}{}{3. szint}
 {351}{}{4. szint}
 {352}{}{}
-{353}{}{Bejárat}
+{353}{}{Bejarat}
 {354}{}{}
 {355}{}{}
 {356}{}{Sivatag}
@@ -230,10 +230,10 @@
 {359}{}{Sivatag}
 {360}{}{}
 {361}{}{}
-{362}{}{Sz?z utca}
+{362}{}{Szuz utca}
 {363}{}{Desperado alagsora}
 {364}{}{Desperado, 2. emelet}
-{365}{}{2. utca}
+{365}{}{Masodik utca}
 {366}{}{Shark Club 2nd Floor}
 {367}{}{Shark Klub 3. emelet}
 {368}{}{Kereskedelmi negyed}
@@ -242,27 +242,27 @@
 {371}{}{Keleti oldal}
 {372}{}{Vasútállomás}
 {373}{}{}
-{374}{}{Rontó-Bontó}
+{374}{}{Ronto-Bonto}
 {375}{}{}
 {376}{}{}
-{377}{}{Temet?}
+{377}{}{Temető}
 {378}{}{Óvóhely}
 {379}{}{}
 {380}{}{Slave Pens}
 {381}{}{Labor}
 {382}{}{}
-{383}{}{Boksz aréna}
-{384}{}{Boksz aréna}
-{385}{}{Boksz aréna}
+{383}{}{Boksz arena}
+{384}{}{Boksz arena}
+{385}{}{Boksz arena}
 {386}{}{Bányabejárat}
 {387}{}{Bányabejárat}
 {388}{}{Bányabejárat}
 {389}{}{Bánya: 1. szint}
 {390}{}{Bánya: 2. szint}
 {391}{}{}
-{392}{}{Belváros}
-{393}{}{Belváros}
-{394}{}{Belváros}
+{392}{}{Belvaros}
+{393}{}{Belvaros}
+{394}{}{Belvaros}
 {395}{}{Banyasztabor}
 {396}{}{Banyasztabor}
 {397}{}{Banyasztabor}
@@ -302,10 +302,10 @@
 {431}{}{Part}
 {432}{}{Part}
 {433}{}{Part}
-{434}{}{Belváros}
+{434}{}{Belvaros}
 {435}{}{Alagsor}
 {436}{}{Unused}
-{437}{}{Lakónegyed}
+{437}{}{Lakonegyed}
 {438}{}{Alagsor}
 {439}{}{Bánya}
 {440}{}{Barlang}
@@ -347,7 +347,7 @@
 {476}{}{Fosztogatók tábora}
 {477}{}{Fosztogatók tábora}
 {478}{}{Fosztogatók tábora}
-{479}{}{Barlangbejárat}
+{479}{}{Barlang bejarat}
 {480}{}{Skorpiófészek}
 {481}{}{Barakk}
 {482}{}{Sivatag}
@@ -374,28 +374,28 @@
 {503}{}{A Halál Hídja}
 {504}{}{A Halál Hídja}
 {505}{}{A Halál Hídja}
-{506}{}{Szettort Almok Kavezoja}
-{507}{}{Szettort Almok Kavezoja}
-{508}{}{Szettort Almok Kavezoja}
+{506}{}{Széttört Álmok Kávézója}
+{507}{}{Széttört Álmok Kávézója}
+{508}{}{Széttört Álmok Kávézója}
 {509}{}{Sivatag}
 {510}{}{Sivatag}
 {511}{}{Sivatag}
 {512}{}{Hegy}
 {513}{}{Barlang}
 {514}{}{Barlang}
-{515}{}{?rz?}
-{516}{}{13-as Menedek}
-{517}{}{13-as Menedek}
-{518}{}{Mergezo hulladek lerakat}
-{519}{}{Mergezo hulladek lerakat}
-{520}{}{Mergezo hulladek lerakat}
+{515}{}{Őrző}
+{516}{}{Menedék 13}
+{517}{}{Menedék 13}
+{518}{}{Mérgező-hulladék lerakat.}
+{519}{}{Mérgező-hulladék lerakat.}
+{520}{}{Mérgező-hulladék lerakat.}
 {521}{}{Sivatag}
 {522}{}{Sivatag}
 {523}{}{Sivatag}
 {524}{}{Sivatag}
 {525}{}{Sivatag}
 {526}{}{Sivatag}
-{527}{}{Benzinkút}
+{527}{}{Benzinkut}
 {528}{}{Alagsor}
 {529}{}{Gépmadár bázis}
 {530}{}{Partvonal}
@@ -444,14 +444,14 @@
 {573}{}{Hegy}
 {574}{}{Hegy}
 {575}{}{Elhagyatott város}
-{576}{}{Romos város}
-{577}{}{Romos város}
-{578}{}{Templom bejárata}
-{579}{}{Templom bejárata}
-{580}{}{Templom bejárata}
-{581}{}{Lerombolt híd}
-{582}{}{Lerombolt híd}
-{583}{}{Lerombolt híd}
+{576}{}{Lerombolt város}
+{577}{}{Lerombolt város}
+{578}{}{Templom bejarat}
+{579}{}{Templom bejarat}
+{580}{}{Templom bejarat}
+{581}{}{Lerombolt hid}
+{582}{}{Lerombolt hid}
+{583}{}{Lerombolt hid}
 {584}{}{Cellák}
 {585}{}{Cellák}
 {586}{}{Cellák}
@@ -461,12 +461,12 @@
 {590}{}{Entry Hall}
 {591}{}{Entry Hall}
 {592}{}{Entry Hall}
-{593}{}{?rök barakkja}
-{594}{}{?rök barakkja}
-{595}{}{?rök barakkja}
-{596}{}{Elnöki szint}
-{597}{}{Elnöki szint}
-{598}{}{Elnöki szint}
+{593}{}{Őrök barakkja}
+{594}{}{Őrök barakkja}
+{595}{}{Őrök barakkja}
+{596}{}{Elnoki szint}
+{597}{}{Elnoki szint}
+{598}{}{Elnoki szint}
 {599}{}{Reaktor}
 {600}{}{Reaktor}
 {601}{}{Reaktor}
@@ -479,15 +479,15 @@
 {608}{}{Dokk}
 {609}{}{Dokk}
 {610}{}{Dokk}
-{611}{}{Kínai negyed}
-{612}{}{Kínai negyed}
-{613}{}{Kínai negyed}
-{614}{}{?rhajó dokk}
-{615}{}{?rhajó dokk}
-{616}{}{?rhajó dokk}
-{617}{}{?rhajó belseje}
-{618}{}{?rhajó belseje}
-{619}{}{?rhajó belseje}
+{611}{}{Kinai negyed}
+{612}{}{Kinai negyed}
+{613}{}{Kinai negyed}
+{614}{}{Űrhajó dokk}
+{615}{}{Űrhajó dokk}
+{616}{}{Űrhajó dokk}
+{617}{}{Ursiklo beltere}
+{618}{}{Ursiklo beltere}
+{619}{}{Ursiklo beltere}
 {620}{}{Hubologista bázis}
 {621}{}{Hubologista bázis}
 {622}{}{Hubologista bázis}
@@ -509,9 +509,9 @@
 {638}{}{Elpusztult város}
 {639}{}{Elpusztult város}
 {640}{}{Elpusztult város}
-{641}{}{Gépmadár}
-{642}{}{Gépmadár}
-{643}{}{Gépmadár}
+{641}{}{Gepmadar}
+{642}{}{Gepmadar}
+{643}{}{Gepmadar}
 {644}{}{Shi templom}
 {645}{}{}
 {646}{}{Brotherhood Base}
@@ -521,7 +521,7 @@
 {650}{}{Sivatag}
 {651}{}{Sivatag}
 {652}{}{Sivatag}
-{653}{}{Bejárat}
+{653}{}{Bejarat}
 {654}{}{Second Floor}
 {655}{}{Third Floor}
 {656}{}{Alagsor}
@@ -539,7 +539,7 @@
 {668}{}{Fishing Area}
 {669}{}{Small Cave}
 {670}{}{enter name}
-{671}{}{Bejárat}
+{671}{}{Bejarat}
 {672}{}{Air, Water, and Power Facility Level}
 {673}{}{Robot Maintenance}
 {674}{}{Level One}
@@ -554,7 +554,7 @@
 {683}{}{Sivatag}
 {684}{}{Sivatag}
 {685}{}{Sivatag}
-{686}{}{Bejárat}
+{686}{}{Bejarat}
 {687}{}{Level One}
 {688}{}{Level Two}
 {689}{}{Ranger Safe House}
@@ -588,20 +588,20 @@
 {717}{}{Barlang}
 {718}{}{}
 {1500}{}{Arroyo}
-{1501}{}{Rejtek}
+{1501}{}{Hogy jutok el Rejtekbe?}
 {1502}{}{Klamath}
 {1503}{}{Modoc}
 {1504}{}{Menedékváros}
-{1505}{}{Gekkó}
+{1505}{}{Gekko}
 {1506}{}{Broken Hills}
-{1507}{}{New Reno}
-{1508}{}{Sierra hadiraktar}
-{1509}{}{a 15-ös Menedék}
-{1510}{}{Az Új Kalifornia Köztársaságot keresem.}
-{1511}{}{13-as Menedek}
+{1507}{}{New Reno érdekelne.}
+{1508}{}{Sierra hadiraktár}
+{1509}{}{15-os Menedek}
+{1510}{}{Uj Kalifornia Koztarsasag}
+{1511}{}{Menedék 13}
 {1512}{}{Katonai bazis}
-{1513}{}{Redding}
-{1514}{}{San Francisco}
+{1513}{}{Hol találom Reddinget?}
+{1514}{}{Merre van San Francisco?}
 {1515}{}{Navarro}
 {1516}{}{Az Enklave}
 {1517}{}{Abbey}
@@ -610,32 +610,32 @@
 {1520}{}{Kisertet farm}
 {1521}{}{Kifogyott az uzemanyag}
 {1522}{}{Arroyo}
-{1523}{}{Toxikus barlang}
-{1524}{}{Rejtek rabszolga-hajtas}
+{1523}{}{Toxikus Barlangrendszer}
+{1524}{}{Rejtek-i rabszolga-hajtas}
 {1525}{}{Fosztogatok tabora}
 {1526}{}{Sivatag}
 {1527}{}{Hegy}
-{1528}{}{Romos város}
+{1528}{}{Lerombolt város}
 {1529}{}{Part}
 {1530}{}{Golgota}
 {1531}{}{Lezuhant balna}
-{1532}{}{Badogember}
+{1532}{}{Bádogember.}
 {1533}{}{Beszelo fej}
 {1534}{}{Szovetségi ursiklo}
 {1535}{}{Mosdatlan falusiak}
-{1536}{}{Híd}
-{1537}{}{Szettort Almok Kavezoja}
+{1536}{}{Hid}
+{1537}{}{Széttört Álmok Kávézója}
 {1538}{}{Lovagok}
 {1539}{}{Vorpal Patkanybarlang}
-{1540}{}{Az Orokkevalosag Orzoje}
-{1541}{}{Mergezo hulladek lerakat}
+{1540}{}{A Végtelenség Őrzője}
+{1541}{}{Mérgező-hulladék lerakat.}
 {1542}{}{Pariak}
 {1543}{}{Veszett brahminok}
 {1544}{}{Karavan}
-{1545}{}{13-as Menedek}
+{1545}{}{Menedék 13}
 {1546}{}{Kamu 13-as Menedek}
 {1547}{}{Veletlenszeru esemeny}
-{1548}{}{Istallo}
+{1548}{}{Istálló}
 {1549}{}{Falu}
 {1550}{}{Slaver Camp}
 {1551}{}{Hubologist Stash}
@@ -643,8 +643,8 @@
 {1553}{}{Safe House}
 {1554}{}{Safe House}
 {1555}{}{RP Easter Egg Encounter}
-{1556}{}{Keresked?}
-{1557}{}{Keresked?}
+{1556}{}{Kereskedő}
+{1557}{}{Kereskedő}
 {1558}{}{Shi Submarine}
 {1559}{}{Abandoned House}
 {1560}{}{Gecko Enclave Patrol}

@@ -6,12 +6,12 @@
 {203}{}{Nope. I'll be on my way now.}
 {204}{}{Robert Baron, huh? Ever think about going by Bobby Baron? That's got a nice bounce to it, don't you think?}
 {210}{}{I think your mom might've bounced you on your head a couple times. Now, do you want to trade, or not? I'm a busy man.}
-{220}{}{Alright. Anything else?}
+{220}{}{Rendben. Bármi más?}
 {221}{}{Yes actually, I wanted to speak with you on behalf of a nearby village.}
 {222}{}{Nope. I'll be on my way now.}
 {230}{}{[He furrows his brow.] Village? Not sure what your--oh! Are you talking about that rat infested little shit-hole down the way?}
 {231}{}{Uh, maybe.}
-{232}{}{De, én vagyok.}
+{232}{}{De, az vagyok.}
 {233}{}{It's not a shit-hole. They're a struggling community that's making some real progress.}
 {240}{}{Look, I already met with them, and I'm going to tell you the same thing I told them. They're simply too small for me to bother with. Besides, that place is fetid as all hell.}
 {241}{}{Alright. I gave it a shot. Bye.}
@@ -51,7 +51,7 @@
 {331}{}{Pleasure doing business with you. Bye.}
 {332}{}{Viszlát!}
 {340}{}{Are you threatening me? No one threatens me and lives! (to his caravan guards) Kill this stupid fuck!}
-{341}{}{Jöjjön a haddelhad!}
+{341}{}{Akkor hadd szóljon!}
 {350}{}{Look, I don't want any trouble. If you want me to swing by and trade with that village, fine, no big deal. Hell, it's hardly even out of my way. No problem.}
 {351}{}{I'm glad we have an understanding. I'll be watching you. Bye.}
 {352}{}{You better hope there's not a problem. Cause if there is, I'll solve it. Bye.}
@@ -64,7 +64,7 @@
 {370}{}{Eh, sorry girl. I'm just not in the mood right now. You got anything else to offer?}
 {371}{}{You make that village a regular stop on your route, and in return, I'll pay you $500.}
 {372}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
-{373}{}{Nem. Szeva.}
+{373}{}{Nem. Pá!}
 {380}{}{[He looks you up and down, then grins.] I think you've got yourself a deal. Do you take it in the backdoor?}
 {381}{}{Baby, I take it any way you want to give it.}
 {382}{}{You'll just have to find out, won't you?}
@@ -79,7 +79,7 @@
 {403}{}{[Check your weapons while you wait.]}
 {404}{}{[Stand there silently and make awkward eye contact with the caravan guards while you listen to the sounds of your wife being defiled by the merchant master.]}
 {410}{}{[An hour later, you see Robert Baron and Miria, now sweaty and disheveled from their sexual romp, walking back towards you. You notice Miria is walking with a slight limp. The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
-{411}{}{Ahogy gondolja. Viszlát!}
+{411}{}{Jól van, oké. Na, csá!}
 {412}{}{Anytime. Bye.}
 {413}{}{Viszlát!}
 {500}{}{You convince the merchant to add the village to his trade route.}

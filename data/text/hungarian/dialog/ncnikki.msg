@@ -1,5 +1,5 @@
 {100}{}{Ez itt Édes Nikki.}
-{125}{}{? a kaszinó egyik kártyaosztója.}
+{125}{}{A kaszinó egyik kártyaosztójához van szerencséd.}
 {150}{}{Ez itt Édes Nikki.}
 {151}{}{You see Darlin' Nikki. She winks at you.}
 {152}{}{Ez itt Édes Nikki. Int, hogy menj közelebb, és játssz.}
@@ -10,75 +10,75 @@
 {160}{}{Ez itt Édes Nikki. Int, hogy menj közelebb, és játssz.}
 {161}{}{You see Darlin' Nikki. Her dress barely covers her body.}
 {162}{}{You see Darlin' Nikki. Her dress barely covers her body.}
-{170}{}{? a kaszinó egyik kártyaosztója.}
-{171}{}{? a kaszinó egyik kártyaosztója. Rádkacsint.}
-{172}{}{? a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
-{173}{}{? a kaszinó egyik kártyaosztója. Csinos virgácsai vannak.}
-{174}{}{? a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
-{175}{}{? a kaszinó egyik kártyaosztója. Naggggyon jó illata van.}
-{180}{}{? a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
-{181}{}{? a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
-{182}{}{? a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
-{183}{}{? a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
+{170}{}{A kaszinó egyik kártyaosztójához van szerencséd.}
+{171}{}{Ő a kaszinó egyik kártyaosztója. Rádkacsint.}
+{172}{}{Ő a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
+{173}{}{Ő a kaszinó egyik kártyaosztója. Csinos virgácsai vannak.}
+{174}{}{Ő a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
+{175}{}{Ő a kaszinó egyik kártyaosztója. Naggggyon jó illata van.}
+{180}{}{Ő a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
+{181}{}{Ő a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
+{182}{}{Ő a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
+{183}{}{Ő a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
 {200}{}{::Éljenez::}
 {201}{}{::Tapsol::}
 {202}{}{::Fütyül::}
-{203}{}{! Isten hozta a kaszinóban, tisztelt h?s!}
+{203}{}{! Isten hozta a kaszinóban, tisztelt hős!}
 {204}{}{Thought you'd forgotten about us while you were saving the world.}
 {210}{}{Helló, }
-{211}{}{Ha kés?bb egy kis társaságra vágyna...}
+{211}{}{Ha később vágynál egy kis társaságra...}
 {212}{}{Hey, you...(winks)...you looking to gamble?}
 {213}{}{(Megborzong) ...ez a fickó aztán nem ijed meg a saját árnyékától.}
-{214}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
-{215}{}{Mondjon már egy-két jó szót értem a f?nöknél...}
-{216}{}{Üdvözöljük, hölgyem. Csak kérdezzen, hátha tudok segíteni.}
+{214}{}{Köszöntjük a kaszinóban, }
+{215}{}{Mondjon már egy-két jó szót értem a főnöknél...}
+{216}{}{Üdvözlöm hölgyem! Segíthetnék Önnek valamiben?}
 {217}{}{Játszani szeretne, hölgyem?}
-{218}{}{(Megborzong) ...ez a n? aztán nem ijed meg az árnyékától.}
+{218}{}{(Megborzong) ...ez a nő aztán nem ijed meg az árnyékától.}
 {220}{}{Ez itt már éppen eléggé kockára tette az életét.}
-{221}{}{Öö, szerintem egyszer?en csak eltévesztette a kaszinót...}
-{222}{}{Ha nem t?nik el, miel?tt a fiúk meglátnák...}
+{221}{}{Öö, szerintem egyszerűen csak eltévesztette a kaszinót...}
+{222}{}{Ha nem tűnik el, mielőtt a fiúk meglátnák...}
 {223}{}{Ajjaj! Gond van...}
 {224}{}{Ez itt már éppen eléggé kockára tette az életét.}
-{225}{}{Ehm. Szerintem ez nem éppen a legmegfelel?bb kaszinó neki...}
-{226}{}{Ha nem t?nik el, miel?tt a fiúk meglátják...}
-{230}{}{Hé, izomagy! Nem akarsz egy kis pénzt kockára tenni?}
+{225}{}{Ehm. Szerintem ez nem éppen a legmegfelelőbb kaszinó neki...}
+{226}{}{Ha nem tűnik el, mielőtt a fiúk meglátják...}
+{230}{}{Hé, Izomagy! Nem teszel fel pár dolcsit?}
 {231}{}{Hey, champ...(winks)...you looking to gamble?}
 {232}{}{Hey, champ...(smiles)...wanna take a chance?}
-{233}{}{Ha kés?bb egy kis társaságra vágyna...}
+{233}{}{Ha később vágynál egy kis társaságra...}
 {234}{}{Kíváncsi vagyok, beszélhetnék-e vele...}
 {235}{}{Hé, }
-{236}{}{Ha nyerni szeretnél egy kis pénzt, a legjobb helyen jársz!}
+{236}{}{Ha szeretnél nyerni néhány dolcsit, a lehető legjobb helyen jársz!}
 {237}{}{Best casino in New Reno. In the WORLD, even.}
-{238}{}{Érzem Fortuna asszony illatát... mindenki csak nyer és nyer!}
-{239}{}{Jöjjön közelebb, }
-{240}{}{Kér még egy italt?}
-{241}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
+{238}{}{Fortuna megvendégelt minket ma este... mindenki csak nyer!}
+{239}{}{Lépjen ide, }
+{240}{}{Tölthetek újra?}
+{241}{}{Köszöntjük a kaszinóban, }
 {242}{}{Helló, }
 {243}{}{Próbáljon szerencsét, }
-{244}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
-{250}{}{Helló, mozisztár! Nem akarsz itthagyni egy kis pénzt?}
+{244}{}{Köszöntjük a kaszinóban, }
+{250}{}{Hé maga ott, Sztár úr! Nem szánna néhány dollárt a szórakozásra?}
 {251}{}{Hé, }
 {252}{}{Hé, }
 {253}{}{Ha szeretne pár dolcsival gazdagabb lenni, }
 {254}{}{Best casino in New Reno. In the WORLD, even.}
-{255}{}{Érzem Fortuna asszony illatát... mindenki csak nyer és nyer!}
-{266}{}{Jöjjön közelebb, }
-{267}{}{Kér még egy italt?}
-{268}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
+{255}{}{Fortuna megvendégelt minket ma este... mindenki csak nyer!}
+{266}{}{Lépjen ide, }
+{267}{}{Tölthetek újra?}
+{268}{}{Köszöntjük a kaszinóban, }
 {269}{}{Hey there, Mrs. Movie Star. Looking to spend a paycheck?}
-{270}{}{Szia, édesem. El akarsz költeni egy kis pénzt?}
+{270}{}{Szia, szívi! El akarsz költeni egy kis pénzt?}
 {271}{}{Hey, sweetie...(winks)...you looking to gamble?}
 {272}{}{Hey, sweetie...(smiles)...wanna take a chance?}
-{273}{}{Ha nyerni szeretnél egy kis pénzt, a legjobb helyen jársz!}
+{273}{}{Ha szeretnél nyerni néhány dolcsit, a lehető legjobb helyen jársz!}
 {274}{}{Best casino in New Reno. In the WORLD, even.}
-{275}{}{Érzem Fortuna asszony illatát... mindenki csak nyer és nyer!}
+{275}{}{Fortuna megvendégelt minket ma este... mindenki csak nyer!}
 {276}{}{Lépjen ide, és nyerjen pár dollárt!}
 {277}{}{Hozhatok egy újabb italt, kedves?}
-{278}{}{Köszönjük, hogy a mi kaszinónkat választottad, édesem!}
+{278}{}{Helló, édes! Köszöntelek a kaszinóban!}
 {279}{}{Ha most éppen játszani szeretnél, szabad az asztal...}
 {280}{}{Csók, édes! Csak nem akarsz egy kis pénzt elkölteni?}
 {281}{}{Játszani szeretnél, édesem?}
-{282}{}{Köszönjük, hogy a mi kaszinónkat választottad, édesem!}
+{282}{}{Helló, édes! Köszöntelek a kaszinóban!}
 {290}{}{Asszem, elment az eszed, hogy idejöttél, de... tedd csak meg a tétedet. A legkisebb tét 5 dolcsi. Tedd meg a tétedet...}
 {291}{}{Um... place your bets... minimum bet 5 chips. Place your bets...}
 {292}{}{Place your bet, sir. Minimum bet 5 chips. Place your bets...}
@@ -95,7 +95,7 @@
 {303}{}{How you doing, Nikki?}
 {304}{}{Whoa, too rich for my blood. I'm outta here.}
 {305}{}{Köszönöm, ma nincs több tét!}
-{310}{}{Ööö, jól van, uram. Jöjjön máskor is.}
+{310}{}{Öhm, rendben, uram. Jöjjön vissza minél hamarabb!}
 {311}{}{Öhm, rendben, asszonyom. Jöjjön vissza minél hamarabb!}
 {312}{}{Izé... Úgy hallottam, hogy az értelmi fogyatékosaknak agyat osztogatnak hátul. Talán nem ártana ott körülnézned.}
 {313}{}{Uisz-láááááát!}
@@ -109,7 +109,7 @@
 {325}{}{5 chips? 'Too rich for your blood?' Girl, you're in the wrong town.}
 {326}{}{Kösz, meglesz!}
 {327}{}{Maybe so, but at least *I* don't live here.}
-{330}{}{Sajnálom, uram. Legközelebb biztos nagyobb szerencséje lesz.}
+{330}{}{Sajnálom, uram! Talán majd a következő alkalommal...}
 {331}{}{Együttérzek, asszonyom! Esetleg ha újra megpróbálná...}
 {332}{}{Sajnálom. Talán legközelebb több szerencséje lesz.}
 {333}{}{You have [C] chips. Keep playing?}
@@ -121,26 +121,26 @@
 {343}{}{You have [C] chips. Keep playing?}
 {344}{}{Mára elég lesz.}
 {345}{}{Ma estére elég lesz ennyi.}
-{350}{}{Nyert! Megduplázta a pénzét! Gratulálok, uram!}
-{351}{}{Ön nyert! Most dupla pénzt vihet haza! Nagyszer? volt, hölgyem!}
+{350}{}{Ön nyert! Megkétszerezte a pénzét! Jól csinálta, uram!}
+{351}{}{Ön nyert! Most dupla pénzt vihet haza! Nagyszerű volt, hölgyem!}
 {352}{}{Nyert! Megduplázta a pénzét!}
 {353}{}{You have [C] chips. Keep playing?}
 {354}{}{Mára elég lesz.}
 {355}{}{Ma estére elég lesz ennyi.}
-{360}{}{Nyert! Ön megtriplázta a pénzét! A szerencse beköltözött a házba! Gratulálok, uram!}
-{361}{}{Nyert! Ön megtriplázta a pénzét! A szerencse beköltözött a házba! Gratulálok, uram!}
+{360}{}{Hihetetlen! Megtriplázta a nyereményét! A szerencse ma este magának dolgozik! Szép volt, uram!}
+{361}{}{Hihetetlen! Megtriplázta a nyereményét! A szerencse ma este magának dolgozik! Szép volt, uram!}
 {362}{}{Gratulálok! Háromszoros pénz üti a markát!}
 {363}{}{You have [C] chips. Keep playing?}
 {364}{}{Mára elég lesz.}
 {365}{}{Ma estére elég lesz ennyi.}
-{370}{}{Most akkor mi lesz? Az id?met akarod vesztegetni, vagy megteszel valami tétet?}
+{370}{}{Most akkor mi lesz? Az időmet akarod vesztegetni, vagy megteszel valami tétet?}
 {371}{}{I'm whoever you WANT me to be, sweetheart. Now, you gonna place a bet?}
 {372}{}{I'm whoever you WANT me to be, girlfriend. Now, you gonna place a bet?}
 {373}{}{Place a bet.}
 {374}{}{Yeah. I'm betting you know where Pretty Boy Lloyd is.}
 {375}{}{Yeah, I'm betting you and Pretty Boy Lloyd were both stealing money from Mr. Salvatore. Hard to believe you
  didn't notice him cheating all those times.}
-{376}{}{Ismersz egy Szépfiú Lloyd nev? pasast?}
+{376}{}{Ismersz egy Szépfiú Lloyd nevű pasast?}
 {377}{}{We'll talk later, Nikki.}
 {380}{}{Igen, azt hallottam, hogy MEGHALT. Ezt akartad hallani, te gyilkos?! He?! Most akkor játszol vagy csesztetsz még egy kicsit?}
 {381}{}{Nope. You gonna place a bet?}
@@ -155,7 +155,7 @@
 {393}{}{Maybe you didn't hear me the first time, so for the benefit of the hearing impaired: Where is Lloyd?}
 {394}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {395}{}{Fine. We'll talk later, Nikki.}
-{400}{}{Kedvesem, már mondtam, hogy nem tudom, hova t?nt. Nézd, nekem itt DOLGOM van, szóval menj és csináld azt, ami...}
+{400}{}{Kedvesem, már mondtam, hogy nem tudom, hova tűnt. Nézd, nekem itt DOLGOM van, szóval menj és csináld azt, ami...}
 {401}{}{Girlfriend, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
 {402}{}{Nikki, Nikki... I'm losing PATIENCE here. If you don't tell me where Lloyd is, I'm going to lose my temper, too.}
 {403}{}{Nikki, I don't know what happened between you and Lloyd. But guess what? I don't NEED to know. I'll just tell
@@ -169,7 +169,7 @@
 {413}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
 {414}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {415}{}{We'll talk later then, Nikki.}
-{420}{}{Mir?l beszélsz?}
+{420}{}{Miről beszélsz?}
 {421}{}{Nikki, if you don't tell me everything right now, I'll tell Mr. Salvatore you were in on it, whether you were or not.
  He'll have Mason cut you up seven ways to Sunday, and have your job filled in an hour.}
 {422}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
@@ -179,7 +179,7 @@
 {431}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
 {432}{}{Pretty suspicious that you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {433}{}{We'll talk later then, Nikki.}
-{440}{}{Nézd, én csak nemrég dolgozom itt, és nem tudok minden besétáló kártyazsongl?rt meg ruppótlan csalót felismerni. A hozzád hasonló szar alakokhoz viszont elég jó a szemem.}
+{440}{}{Nézd, én csak nemrég dolgozom itt, és nem tudok minden besétáló kártyazsonglőrt meg ruppótlan csalót felismerni. A hozzád hasonló szar alakokhoz viszont elég jó a szemem.}
 {441}{}{Oh, so that's how you and Lloyd hooked up then?}
 {442}{}{So you just started work, huh? Pretty convenient. Well, that's all I need to know. Tell Lloyd he's a dead man.}
 {443}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
@@ -197,25 +197,25 @@
 {481}{}{Done. Here's the 500 chips. Tell me where he is.}
 {482}{}{That's a pretty steep price for a whole bunch of "maybes" and "coulds." I'll find him on my own.}
 {483}{}{I don't have enough chips, but I'll be back. You better still be here when I return.}
-{490}{}{(Zsebre vágja a pénzt.) Nézz be a Desperado alagsorában lév? kazánházba! Az a pondró mindig oda menekül, ha forrósodni kezd a lába alatt a talaj.}
+{490}{}{(Zsebre vágja a pénzt.) Nézz be a Desperado alagsorában lévő kazánházba! Az a pondró mindig oda menekül, ha forrósodni kezd a lába alatt a talaj.}
 {491}{}{All right then. Later, Nikki.}
-{500}{}{Lennél szíves lekopni? Ha az emberek így látnak együtt minket, rögtön beindul a szóbeszéd. Érthet??}
+{500}{}{Lennél szíves lekopni? Ha az emberek így látnak együtt minket, rögtön beindul a szóbeszéd. Érthető?}
 {501}{}{All right then. Later, Nikki.}
-{510}{}{Akkor menj a büdös francba! Bel?lem soha többet ki nem húzol semmit!}
+{510}{}{Akkor menj a büdös francba! Belőlem soha többet ki nem húzol semmit!}
 {511}{}{Breaks my heart. Later, Nikki.}
 {600}{}{You bribe Nikki in telling you where Lloyd might be hiding.}
 {1210}{}{. Can I help you with... anything?}
-{1214}{}{ vagyok.}
+{1214}{}{ dollár.}
 {1235}{}{. Szeretne gazdag lenni?}
 {1239}{}{, nyerjen egy kis pénzt!}
-{1241}{}{ vagyok.}
+{1241}{}{ dollár.}
 {1242}{}{. Árulja el, ha bármiben is a segítségére tudnék lenni!}
-{1243}{}{?}
-{1244}{}{ vagyok.}
+{1243}{}{ barátoddal?}
+{1244}{}{ dollár.}
 {1251}{}{...(winks)...you looking to gamble?}
 {1252}{}{...(smiles)...wanna take a chance?}
 {1253}{}{, you came to the right place.}
 {1266}{}{, nyerjen egy kis pénzt!}
-{1268}{}{ vagyok.}
+{1268}{}{ dollár.}
 {1314}{}{ could always use new inventory item}
 {2699}{}{Táncolsz ma éjjel?}

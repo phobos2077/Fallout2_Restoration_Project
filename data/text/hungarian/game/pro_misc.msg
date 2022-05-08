@@ -22,13 +22,13 @@
 {2100}{}{Kijárat}
 {2200}{}{Kijárat}
 {2300}{}{Kijárat}
-{2400}{}{Jelz?fény}
+{2400}{}{Fáklya}
 {2500}{}{Gránát}
-{2600}{}{K?}
+{2600}{}{Kő}
 {2700}{}{Robbanás}
 {2800}{}{Robbanás}
 {2900}{}{Robbanás}
-{3000}{}{Molotov-koktél}
+{3000}{}{Molotov koktél}
 {3100}{}{Kijárat}
 {3200}{}{Kijárat}
 {3300}{}{Kijárat}
@@ -51,4 +51,4 @@
 {4801}{}{}
 {4900}{}{Tüske}
 {4901}{}{}
-{5000}{}{Kett?s plazmalövedék}
+{5000}{}{Kettős plazmalövedék}

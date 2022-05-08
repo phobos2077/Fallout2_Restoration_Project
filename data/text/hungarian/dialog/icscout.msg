@@ -12,7 +12,7 @@
 {404}{}{My name is not important. I have come to warn you. You are in great danger!}
 {405}{}{I am your nemesis. Prepare to join your ancestors!}
 {406}{}{I'm French. Why do you think I have this outrageous accent? [Stare at him oddly.]}
-{407}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
+{407}{}{Hagyjuk. Bocs, hogy zavartalak.}
 {410}{}{You speak to Shadow Who Walks. Why have you come here?}
 {411}{}{I'm trying to stop raider attacks on Vault City, and I have reason to believe that this is the raiders' base of operations. What do you know about the raiders?}
 {412}{}{I was sent by Vault City on account of Raiders attacking them.}
@@ -95,7 +95,7 @@
 {727}{}{Never mind, I'll just leave.}
 {728}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
 {800}{}{Shadow Who Walks believes you not. Shadow Who Walks is through talking. Goodbye.}
-{801}{}{[vége]}
+{801}{}{[Befejezés]}
 {802}{}{Don't you turn your back on me tribal. I'm talking to you.}
 {810}{}{How dare you threaten Shadow Who Walks. Leave now.}
 {811}{}{[Walk Away]}

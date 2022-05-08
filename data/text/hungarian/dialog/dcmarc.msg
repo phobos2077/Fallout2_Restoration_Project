@@ -1,6 +1,6 @@
-{100}{}{Egy ?rt látsz.}
-{101}{}{Egy ?rt látsz, akit Marcnak hívnak.}
-{102}{}{Marcot látod. Tyler egyik ?rét.}
+{100}{}{Egy őrt látsz.}
+{101}{}{Egy őrt látsz, akit Marcnak hívnak.}
+{102}{}{Marcot látod. Tyler egyik őrét.}
 {150}{}{Hé, Tyler!}
 {200}{}{What the...?}
 {225}{}{Kösz a tippet. Jót mulattunk.}
@@ -20,6 +20,6 @@
 {259}{}{Nagyon remélem, hogy az a kibaszott gárda idedugja a képét.}
 {260}{}{Tudtam, hogy azok a beszariak nem jönnek el.}
 {261}{}{Már azért szét kéne rúgnunk a seggüket, mert azt hiszik, hogy szembe szállhatnak velünk.}
-{262}{}{Széttéptük volna ?ket, ha idemerészkedtek volna.}
+{262}{}{Széttéptük volna őket, ha idemerészkedtek volna.}
 {263}{}{Egyedül is elbántam volna velük.}
 {264}{}{Én meg Tyler szétrúgtuk volna a seggüket.}

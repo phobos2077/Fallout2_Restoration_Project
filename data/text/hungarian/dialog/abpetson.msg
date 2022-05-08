@@ -20,7 +20,7 @@
 {305}{}{Nevermind, I must be going.}
 {400}{}{What else would you like to know?}
 {401}{}{What can you tell me about the Abbey?}
-{402}{}{Hallottál már az Édenkert Létrehozást El?segít? Táskáról?}
+{402}{}{Hallottál már az Édenkert Létrehozást Elősegítő Táskáról?}
 {500}{}{Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
  in the monastery's computers. Unfortunately for you, those monks are real protective of their information--afraid that it'll
  lead to another war or something if people learn too much. Still, it might be worth asking around there.}
@@ -31,7 +31,7 @@
 {602}{}{[John sits down in his chair and pours himself a shot of whiskey.] It all began a couple days ago. My wife and
  I were preparing for bed when we heard some rustling out in the field. I grabbed my lantern and rushed outside to see if
  I could find the source of the noise. As soon as I made it to the fields though, the noises had stopped.}
-{603}{}{Folytasd!}
+{603}{}{Folytassa, kérem!}
 {604}{}{Look, I really must be going.}
 {605}{}{Well, the next night we didn't hear a thing. But the night after that, we heard rustling coming from the field
  again. This time I crept to the window and looked out rather than rushing outside. Peering into the darkness, I saw a

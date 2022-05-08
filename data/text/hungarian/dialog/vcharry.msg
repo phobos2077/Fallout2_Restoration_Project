@@ -4,20 +4,20 @@
 {103}{}{Vásárolni szeretnék. Láthatnám a kínálatot?}
 {104}{}{Van kint egy eke. Eladó?}
 {105}{}{Én vesz}
-{106}{}{Kösz, egyel?re elleszek magam is.}
+{106}{}{Tőled? Semmit.}
 {107}{}{Sajnálom barátom, nem tudok segíteni.}
 {108}{}{Természetesen, nyolcszázért a tiéd lehet. Biztosíthatlak, pompás darab.}
 {109}{}{Nyolcszáz?! Hatszázat adok érte.}
 {110}{}{Rendben van, megveszem.}
 {111}{}{Nyolcszáz? Rendben, mindjárt hozom a pénzt.}
 {112}{}{Az túl sok! Smith-ék pusztuljanak csak éhen!}
-{113}{}{Nagyszer? [elteszi a pénzt]. Házhozszállítást is kérsz? Ingyen van.}
+{113}{}{Nagyszerű [elteszi a pénzt]. Házhozszállítást is kérsz? Ingyen van.}
 {114}{}{Házhozszállítás? Ingyen? Remek! Kérlek, vitesd el Smith-ékhez!}
 {115}{}{Sajnálom, barátom. Nyolcszáz az ára, egy centtel se kevesebb.}
 {119}{}{Ez sajnos nem lesz elég, barátom!}
 {120}{}{Értem. Hamarosan visszajövök a teljes összeggel.}
-{121}{}{Rendben van, azonnal intézkedem. Mindent a kedves vev?ért.}
-{122}{}{Azt hiszed, csak úgy elviheted? Piszkos csirkefogó! ?rség! ?rség!!!}
+{121}{}{Rendben van, azonnal intézkedem. Mindent a kedves vevőért.}
+{122}{}{Azt hiszed, csak úgy elviheted? Piszkos csirkefogó! Őrség! Őrség!!!}
 {123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
 {124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
  [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
@@ -36,7 +36,7 @@
 {136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
 {137}{}{Excellent. But remember, you didn't buy these weapons here.}
 {138}{}{It's a deal. Bye.}
-{139}{}{[TOVÁBB]}
+{139}{}{[TOVÁBBI LEHETŐSÉG]}
 {140}{}{Well then, wait a bit until I get the money.}
 {141}{}{Well, have you brought the money?}
 {142}{}{What if I just give you five grand?}

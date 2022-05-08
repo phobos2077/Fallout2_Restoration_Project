@@ -17,9 +17,9 @@
 {166}{}{Persze, persze.}
 {167}{}{Uram, [köhög] segítene egy szegény, nyomorult emberen?}
 {168}{}{Here's $5.}
-{169}{}{Ma nem.}
+{169}{}{Te tudod. Viszlát!}
 {170}{}{Szerezz munkát magadnak!}
-{171}{}{Hölgyem, kérem segítsen [köhög] egy szegény, éhez? emberen, [köhög] aki túl beteg a munkavégzéshez.}
+{171}{}{Hölgyem, kérem segítsen [köhög] egy szegény, éhező emberen, [köhög] aki túl beteg a munkavégzéshez.}
 {172}{}{Te szegény lélek, itt van 5 dollár.}
 {173}{}{Nem adok pénzt kunyerálóknak.}
 {174}{}{Nem.}
@@ -36,9 +36,9 @@
 {222}{}{Segítség kell. Nagyon fáj!}
 {223}{}{Hölgyem, hívna segítséget?}
 {225}{}{Nagyon hálás vagyok.}
-{226}{}{Hé, mégis mit csinálsz?!}
+{226}{}{Hé, mégis mit gondolsz, mit csinálsz?}
 {230}{}{Olyan jól esik.}
-{231}{}{Uhhh...}
+{231}{}{Öhhh...}
 {232}{}{[kacarászik]}
 {233}{}{Hé...}
 {234}{}{Niiicceee...}
@@ -59,7 +59,7 @@
 {315}{}{HÉ, FLICK!}
 {320}{}{Hé, Tubby, meg tudsz dobni egy kis cuccossal? Van pénzem.}
 {321}{}{Ööö, Tubby, van pénzem...}
-{322}{}{Uhhh...}
+{322}{}{Öhhh...}
 {323}{}{Ember, kéne egy kis anyag...}
 {324}{}{Hé, Flick, tudsz adni nekem is? Van pénzem.}
 {325}{}{Ömm, Flick... Van némi pénz nálam.}

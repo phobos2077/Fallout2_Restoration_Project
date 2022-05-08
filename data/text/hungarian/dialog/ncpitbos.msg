@@ -1,6 +1,6 @@
-{100}{}{Ez az ember a kaszinó felügyel?je.}
+{100}{}{Ez az ember a kaszinó felügyelője.}
 {150}{}{Ez a férfi igen jólöltözött. Egyfolytában a kaszinót fürkészi.}
-{151}{}{Ez az ember a kaszinó egyik felügyel?je. Folyamatosan fürkészi a kaszinót.}
+{151}{}{Ez az ember a kaszinó egyik felügyelője. Folyamatosan fürkészi a kaszinót.}
 {200}{}{Ööö... le kéne vennie azt a páncélt!}
 {201}{}{Öö, uram... vagy hölgyem... le kéne vennie azt a páncélt!}
 {202}{}{Uram... hölgyem... a kaszinóban nem lehet azt a páncélt viselni!}
@@ -16,10 +16,10 @@
 {226}{}{Jó napot, }
 {230}{}{Jó napot, }
 {231}{}{Jó napot, }
-{235}{}{Barátom, úgy t?nik, nem abba a kaszinóba jöttél, amelyikbe akartál.}
+{235}{}{Barátom, úgy tűnik, nem abba a kaszinóba jöttél, amelyikbe akartál.}
 {236}{}{A legjobb lenne, ha távoznál. Mondjuk most azonnal.}
 {237}{}{Ez nem az a hely, ahol az életedet kéne kockára tenni. Inkább menj máshova!}
-{238}{}{Hé szukácska, úgy t?nik, nem abba a kaszinóba jöttél, amelyikbe akartál.}
+{238}{}{Hé szukácska, úgy tűnik, nem abba a kaszinóba jöttél, amelyikbe akartál.}
 {245}{}{Uram, sajnálom, de el kell raknia azt a fegyvert!}
 {250}{}{Hölgyem, sajnálom, de el kell raknia azt a fegyvert!}
 {255}{}{Drágám, bocsánat, hogy szólok, de a kaszinóba nem vihetsz fegyvert. Hehe... anélkül is épp elég halálosan nézel ki.}
@@ -30,17 +30,17 @@
 {276}{}{Azért jöttél, Myron, hogy kipróbáld az új húsokat?}
 {277}{}{Hé! Gyere be hozzánk, Myron!}
 {280}{}{Mondd! Mit akarsz tudni?}
-{281}{}{Fúúúúúúú fúú fúú fúúúúú}
-{282}{}{Elpályázol}
-{283}{}{Ki vagy te?}
+{281}{}{Fúúúúúúúúú fúú fúú fúúúúú}
+{282}{}{Otthagyod}
+{283}{}{Ki vagy?}
 {284}{}{Miféle kaszinó ez itt?}
 {285}{}{Tudnál mondani valamit a kaszinóról?}
-{286}{}{Ismersz egy Szépfiú Lloyd nev? pasast?}
+{286}{}{Ismersz egy Szépfiú Lloyd nevű pasast?}
 {287}{}{Ki az az öreg fószer a játékautomatánál?}
 {288}{}{Az a humorista a színpadon nagyon zsé. Mit szólnál, ha én is megpróbálnám?}
 {289}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
-{290}{}{Kösz, beszélek vele.}
-{291}{}{Kösz, semmit. Bocs, hogy zavartalak.}
+{290}{}{Kösz, úgy lesz.}
+{291}{}{Semmi-semmi, kösz. Bocs, hogy zavartalak.}
 {292}{}{Csak érdekeltek itt a dolgok. Ne zavartasd magad!}
 {295}{}{A droid kinnmarad!}
 {296}{}{Droidokat nem szolgálunk ki!}
@@ -49,21 +49,21 @@
 {301}{}{Öö, jobb lenne, ha továbbállna, hölgyem.}
 {302}{}{Húzz innen, retardált!}
 {303}{}{Mama mongya különlegyes vagyok}
-{304}{}{Elpályázol}
-{305}{}{Szolgálatban nem lenne szabad beszélgetnem, de azért örülök, hogy kipicsáztad az Enklávét.}
+{304}{}{Otthagyod}
+{305}{}{Hát szolgálatban nemigen beszélgethetek, de azért örülök, hogy seggberúgtad az Enklávét.}
 {306}{}{Hé, }
 {310}{}{A hármas asztalhoz több pénz kell...}
 {311}{}{Good crowd today...}
-{315}{}{Igen, anyád szerint én is különleges vagyok. Na, eridj innen... lehet, hogy valahol a Sz?z utcában megtalálod a mamádat.}
+{315}{}{Igen, anyád szerint én is különleges vagyok. Na, eridj innen... lehet, hogy valahol a Szűz utcában megtalálod a mamádat.}
 {316}{}{Ó jójó! Csá csá}
-{317}{}{Elpályázol}
+{317}{}{Otthagyod}
 {320}{}{A hármas asztalhoz több pénz kell...}
 {321}{}{Good crowd tonight...}
 {325}{}{Én vagyok itt a felvigyázó. Mit tehetek érted?}
 {326}{}{Én felelek a kaszinó biztonságáért. Ha szükséged van valamire, csak szólj!}
 {327}{}{Miféle kaszinó ez itt?}
 {328}{}{Tudnál mondani valamit a kaszinóról?}
-{329}{}{Kösz, semmit. Bocs, hogy zavartalak.}
+{329}{}{Semmi-semmi, kösz. Bocs, hogy zavartalak.}
 {335}{}{Hé, }
 {336}{}{! Heard yer the one who kicked the Enclave back to the stone age! I've been instructed to give you some chips,
  courtesy of the casino. Enjoy yourself, sir.}
@@ -73,43 +73,43 @@
 {339}{}{. Prettiest girl at the casino. Get you anything? A drink? A private table?}
 {340}{}{Mit tehetek érted, haver?}
 {341}{}{Mit tehetek érted, kedves?}
-{342}{}{Fúúúúúúú fúú fúú fúúúúú}
-{343}{}{Elpályázol}
-{344}{}{Ki vagy te?}
+{342}{}{Fúúúúúúúúú fúú fúú fúúúúú}
+{343}{}{Otthagyod}
+{344}{}{Ki vagy?}
 {345}{}{Miféle kaszinó ez itt?}
 {346}{}{Tudnál mondani valamit a kaszinóról?}
-{347}{}{Ismersz egy Szépfiú Lloyd nev? pasast?}
+{347}{}{Ismersz egy Szépfiú Lloyd nevű pasast?}
 {348}{}{Ki az az öreg fószer a játékautomatánál?}
 {349}{}{Az a humorista a színpadon nagyon zsé. Mit szólnál, ha én is megpróbálnám?}
 {350}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
-{351}{}{Kösz, beszélek vele.}
-{352}{}{Kösz, semmit. Bocs, hogy zavartalak.}
+{351}{}{Kösz, úgy lesz.}
+{352}{}{Semmi-semmi, kösz. Bocs, hogy zavartalak.}
 {353}{}{Csak érdekeltek itt a dolgok. Ne zavartasd magad!}
 {355}{}{The }
 {356}{}{The }
-{357}{}{Ki vagy te?}
+{357}{}{Ki vagy?}
 {358}{}{Tudnál mondani valamit a kaszinóról?}
-{359}{}{Értem. Kösz, hogy id?t szakítottál rám.}
+{359}{}{Értem. Köszönöm, hogy szakított rám időt.}
 {360}{}{Hé, nézd már ki van itt! Hé, }
 {361}{}{. Welcome to }
-{362}{}{Fúúúúúúú fúú fúú fúúúúú}
-{363}{}{Elpályázol}
-{364}{}{Ki vagy te?}
+{362}{}{Fúúúúúúúúú fúú fúú fúúúúú}
+{363}{}{Otthagyod}
+{364}{}{Ki vagy?}
 {365}{}{Miféle kaszinó ez itt?}
 {366}{}{Tudnál mondani valamit a kaszinóról?}
-{367}{}{Ismersz egy Szépfiú Lloyd nev? pasast?}
+{367}{}{Ismersz egy Szépfiú Lloyd nevű pasast?}
 {368}{}{Ki az az öreg fószer a játékautomatánál?}
 {369}{}{Kösz. Nincs szükséged egy éjszakai táncosra. Valami lazább munkabeosztásra kapható lennék.}
-{370}{}{Köszi, hízelg?, amit mondasz. Csak azért jöttem, hogy beköszönjek.}
-{375}{}{Nincs, csak nagyon makacs szegény... csakúgy, mint az öreg. Nyilván volna mit rajta javítgatni, de nincs játékautomata szerel?nk, aki meg tudná szerelni azt a vackot.}
-{376}{}{Lenne pár kérdésem.}
+{370}{}{Köszi, hízelgő, amit mondasz. Csak azért jöttem, hogy beköszönjek.}
+{375}{}{Nincs, csak nagyon makacs szegény... csakúgy, mint az öreg. Nyilván volna mit rajta javítgatni, de nincs játékautomata szerelőnk, aki meg tudná szerelni azt a vackot.}
+{376}{}{Van itt valami, ami nagyon érdekel.}
 {377}{}{Hát érdekes dolgok ezek. Kösz az információt.}
 {385}{}{Ja, az a köcsög bejött ide egy hete, és az egyik asztalnál nyert vagy ezer dollárt, aztán lelépett. Nem tudom, most hol lehet, de volt neki egy szobája a Desperadóban.}
-{386}{}{Ja, egy ilyen nev? fickó bérelt nálunk szobát az emeleten... 204-es. Kifizetett mindent, de néhány napja lelépett és azóta senki nem látta.}
-{387}{}{Mr. Salvatore azt mondta nekem, hogy Lloyd egy bizonyos dílert?l nyerte a pénzt. Lehet tudni, kir?l van szó?}
-{388}{}{Lenne pár kérdésem.}
+{386}{}{Ja, egy ilyen nevű fickó bérelt nálunk szobát az emeleten... 204-es. Kifizetett mindent, de néhány napja lelépett és azóta senki nem látta.}
+{387}{}{Mr. Salvatore azt mondta nekem, hogy Lloyd egy bizonyos dílertől nyerte a pénzt. Lehet tudni, kiről van szó?}
+{388}{}{Van itt valami, ami nagyon érdekel.}
 {389}{}{Köszönöm az információkat.}
-{395}{}{Nikki? Igen, a középs? asztalnál ül. Van valami probléma?}
+{395}{}{Nikki? Igen, a középső asztalnál ül. Van valami probléma?}
 {396}{}{Nincs probléma. Csak össze akartam vele futni. Kérdeznék még, ha nem baj...}
 {397}{}{Köszönöm az információkat.}
 {405}{}{Nikki-nek HÍVTÁK. Nálunk dolgozott, de kinyírták... a közelmúltban.}
@@ -118,26 +118,26 @@
 {415}{}{Nikki-nek hívták. Nálunk dolgozott, de nem is olyan régen felmondott. Szépen összepakolt és lelépett.}
 {416}{}{Nem baj, ha még kérdezek egy s mást...?}
 {417}{}{Hát érdekes dolgok ezek. Kösz az információt.}
-{425}{}{Hogyne, számítunk rád. Az öltöz? hátul van...}
+{425}{}{Hogyne, számítunk rád. Az öltöző hátul van...}
 {426}{}{Kiváló. Néhány percen belül a színpadon leszek...}
-{427}{}{Sajnálom, erre most nincs id?m, viszont kérdeznék valamit.}
-{428}{}{Majd egy kicsit kés?bb. Számíthatsz rám hamarosan...}
-{435}{}{Szó sem lehet róla, még mindig próbálunk magunkhoz térni az utolsó el?adásod óta. Asszem, jobb lesz, ha más kaszinóban próbálkozol.}
+{427}{}{Sajnálom, erre most nincs időm, viszont kérdeznék valamit.}
+{428}{}{Majd egy kicsit később. Számíthatsz rám hamarosan...}
+{435}{}{Szó sem lehet róla, még mindig próbálunk magunkhoz térni az utolsó előadásod óta. Asszem, jobb lesz, ha más kaszinóban próbálkozol.}
 {436}{}{Jól van, köszi. Még azért kérdeznék valamit...}
-{437}{}{Oké... kés?bb azért visszajövök még.}
+{437}{}{Oké... később azért visszajövök még.}
 {445}{}{[You count up the evening's chips. Not a bad haul.]}
 {446}{}{The leather was a nice touch. }
 {447}{}{That ball gag you had with you didn't hurt, either. }
 {448}{}{[FOLYTATÁS]}
 {455}{}{Ja, büdösebb, mint a brahminszar. Azért oké...? Hát miért is ne. Egy kis impró nem árthat, de a közönség nagyon finnyás... nagyon jónak kell ám lenned.}
 {456}{}{Nem fogsz csalódni... figyelj csak...}
-{457}{}{Majd egy kicsit kés?bb. Számíthatsz rám hamarosan...}
+{457}{}{Majd egy kicsit később. Számíthatsz rám hamarosan...}
 {500}{}{That was some funny shit. You're the next Milton Berle. Come back in a week for another show.}
 {501}{}{That was a great show. You got a great routine. Come back in a week for another show.}
 {502}{}{I will. See you around.}
 {510}{}{That was just awful. I don't know how you do it, but you are actually worse than the regular. I don't think we will be needing you again.}
 {511}{}{Fine, I'll go take my talent to someone who WILL actually appreciate it.}
-{512}{}{Ahogy gondolja. Viszlát!}
+{512}{}{Jól van, oké. Na, csá!}
 {520}{}{You were smokin' out there. The next Traci Lords. }
 {521}{}{I don't think I have seen anyone move like that on stage. You got real talent. }
 {522}{}{I will. See you around.}
@@ -176,21 +176,21 @@
 {1306}{}{. Gyere, pihenj egyet! Biztos elfáradtál a világ megmentése közben. Szórakozz egy jót!}
 {1335}{}{This is the }
 {1336}{}{This is the }
-{1337}{}{Ki vagy te?}
+{1337}{}{Ki vagy?}
 {1338}{}{Tudnál mondani valamit a kaszinóról?}
-{1339}{}{Kösz, semmit. Bocs, hogy zavartalak.}
+{1339}{}{Semmi-semmi, kösz. Bocs, hogy zavartalak.}
 {1345}{}{A város legfaszább kaszinója... csak egy kicsit el vagyok havazva. Akarsz még valamit tudni?}
 {1346}{}{A város legfaszább kaszinója... a legfaszább asztalokkal... miért nem próbálsz szerencsét, hm?}
-{1347}{}{Ki vagy te?}
+{1347}{}{Ki vagy?}
 {1348}{}{Kié ez a kaszinó?}
 {1349}{}{Oké, köszi. Bocs, hogy zavartalak.}
 {1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
 {1356}{}{ Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
 {1361}{}{. Love your films.}
-{1365}{}{Az ott? A vén McGee? ?rült vén fasz... az utóbbi években folyton azon a gépen játszik, és egyre csak a f?nyereményt várja. Az összes vagyonát beleölte a gépbe, de egy kanyit sem akar neki visszaadni.}
-{1366}{}{Az ott? A vén McGee? ?rült vén fasz, annyi szent. Hehe. Biztos ki van akadva, hogy elnyerted a vagyonát. Én vigyáznék vele.}
+{1365}{}{Az ott? A vén McGee? Őrült vén fasz... az utóbbi években folyton azon a gépen játszik, és egyre csak a főnyereményt várja. Az összes vagyonát beleölte a gépbe, de egy kanyit sem akar neki visszaadni.}
+{1366}{}{Az ott? A vén McGee? Őrült vén fasz, annyi szent. Hehe. Biztos ki van akadva, hogy elnyerted a vagyonát. Én vigyáznék vele.}
 {1367}{}{Meg van piszkálva az a gép?}
-{1368}{}{Lenne pár kérdésem.}
+{1368}{}{Van itt valami, ami nagyon érdekel.}
 {1369}{}{Köszönöm az információkat.}
 {1425}{}{Sure. Let's hope you are as good as last time.}
 {1455}{}{Sure. I'm getting sick of our regular anyway. Let's hope you are as good as last time.}

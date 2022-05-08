@@ -14,7 +14,7 @@
  see him again, tell him Ol' Sammy is still alive an' kickin.}
 {207}{}{I'll do that. I got some other questions though.}
 {208}{}{I'll do that. Take care Sam.}
-{209}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
+{209}{}{Hagyjuk. Bocs, hogy zavartalak.}
 {210}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. I got some other questions though.}
 {211}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. Take care Sam.}
 {300}{}{What do you *hickup* wanna know?}
@@ -59,7 +59,7 @@
 {607}{}{Well, now that you mention it, I do *hickup* 'member Mr. Peterson sayin something about hearing some noises comin
  from his field. He might know something about this. He and that pretty little wife a his live right over there.
  [He points to the building south of the graveyard.]}
-{608}{}{Megnézem, mit tehetek.}
+{608}{}{Majd kiderül, mit tudok tenni az ügy érdekében.}
 {609}{}{I think I'll pass. I must be going.}
 {700}{}{I took care of the grave digging situation. You shouldn't have any more problems out here.}
 {701}{}{Well, that's *hickup* good news. Glad I won't be falling into any more open *hickup* graves. Thanks fer th' help.}

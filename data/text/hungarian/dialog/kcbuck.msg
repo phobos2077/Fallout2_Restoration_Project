@@ -1,12 +1,12 @@
-{100}{}{Úgy t?nik, ? egy prémvadász.}
-{101}{}{? éppen pihenget.}
-{102}{}{Egy helybéli.}
+{100}{}{Úgy tűnik, ő egy prémvadász.}
+{101}{}{Ő éppen pihenget.}
+{102}{}{Városlakó.}
 {103}{}{Egy relaxáló melóst látsz.}
 {104}{}{Láthatóan élvezi az italát.}
 {150}{}{Csak nem tévesztetted el a házszámot?}
-{151}{}{Nem kellenek a bajkever?k!}
+{151}{}{Nem kellenek a bajkeverők!}
 {152}{}{A törzsbéliek csak bajt jelentenek.}
-{153}{}{Csak nehogy sok legyen a tüzesvízb?l!}
+{153}{}{Csak nehogy sok legyen a tüzesvízből!}
 {154}{}{(motyogás) ...húzz el innen...}
 {155}{}{Még egy tag Dunton bandájából.}
 {156}{}{Mit néze'?}
@@ -29,13 +29,13 @@
 {173}{}{Nem ajánlatos elkötni a brahminjainkat!}
 {174}{}{Szemmel tartjuk magát!}
 {201}{}{Jó végre új arcot látni a városban.}
-{202}{}{Talán a törzsbéliek nem is olyan szörny?ek, mint hittem.}
+{202}{}{Talán a törzsbéliek nem is olyan szörnyűek, mint hittem.}
 {203}{}{Fizess egy kört!}
-{204}{}{Köszönj Smileynak és a mellette ül? Sánta Jim-nek.}
+{204}{}{Köszönj Smileynak és a mellette ülő Sánta Jim-nek.}
 {205}{}{Akár Sulik testvére is lehetnél.}
 {206}{}{Köszöntél már Suliknak?}
 {207}{}{Egész jó a fogás mostanában.}
-{208}{}{Azt hiszem, hamarosan megváltozik az id?.}
+{208}{}{Azt hiszem, hamarosan megváltozik az idő.}
 {209}{}{Találtam egy jó helyet a csapdáknak nem messze innen, délre.}
 {210}{}{Ha van eszed, távol tartod magad a Duntonoktól.}
 {211}{}{If you're anxious, try the Bathhouse.}
@@ -48,4 +48,4 @@
 {218}{}{(rádkacsint)}
 {219}{}{Ne mászkálj éjszaka!}
 {220}{}{Bogáremberek ólálkodnak odakint a hegyekben.}
-{221}{}{Az egyik legjobb prémvadászunk elt?nt.}
+{221}{}{Az egyik legjobb prémvadászunk eltűnt.}

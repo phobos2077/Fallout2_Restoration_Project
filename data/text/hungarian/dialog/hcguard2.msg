@@ -9,7 +9,7 @@
 {220}{}{Dammit. I don't have time for this crap, my shift's almost over.}
 {221}{}{Look, he seemed pretty pissed. I wouln't keep him waiting.}
 {230}{}{Ah, hell. Fine. Watch over things while I'm gone. I'll be back in a few minutes.}
-{231}{}{Nem gond.}
+{231}{}{Nem probléma.}
 {240}{}{New recruit, huh? We get those here from time to time. Pretty boring job doing security here if you ask me. It's better than recruitment
  though, so I aint complaining. Good to have you aboard.}
 {241}{}{Thanks. So, I wouldn't keep Ashton waiting if I were you.}

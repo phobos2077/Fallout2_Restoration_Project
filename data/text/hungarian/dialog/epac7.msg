@@ -22,14 +22,14 @@
 {261}{}{YES, we've heard you already. Thanks for the code. Goodbye.}
 {270}{}{Hello again. What do you need? The EPA complex will be closed for the foreseeable future due to lack of staff.}
 {271}{}{Now that I have more time, could you tell me what you do here?}
-{272}{}{Senkit.}
+{272}{}{Hagyjuk!}
 {280}{}{Welcome back, visitor. There isn't a tour at the moment, but if you'd like to wait around for enough visitors to arrive, I'd be happy to arrange one.}
 {281}{}{I don't want to go on a tour, thanks. Goodbye.}
 {282}{}{I wonder if you could do something for me?}
 {290}{}{Hello there. I'm a little busy at the moment designing a new tour program for the coming season. Could you come back later?}
 {291}{}{I would, but I'm in too much of a hurry. You see, I *really* need the password for those doors. Would you please give it to me?}
 {300}{}{Thanks again for your assistance, and please be responsible with the password I gave you. Remember, that's our little secret. Thank you for visiting the EPA, I hope you have a pleasant experience.}
-{301}{}{Kösz. Viszlát!}
+{301}{}{Köszönöm. Viszlát!}
 {302}{}{Come visit us again sometime.}
 {303}{}{Don't forget to visit the EPA souvenir stand.}
 {310}{}{Do you think you could fix the lighting? It's improper for me to conduct tours through such a dimly lit complex.

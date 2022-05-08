@@ -2,10 +2,10 @@
 {101}{}{Annát, a szellemet látod.}
 {150}{}{Ez egy szellem. Nem mindennapi látvány.}
 {151}{}{Nagyon szenved.}
-{152}{}{[Beszélgetés]}
+{152}{}{[Beszéd]}
 {153}{}{Ó, nagyon fáj! Annyira éget!}
 {154}{}{Mi a baj?}
-{155}{}{Ki vagy te?}
+{155}{}{Ki vagy?}
 {156}{}{Pusztulj, ocsmány szellem!}
 {157}{}{Kopogtatok minden ajtón, de senki nem jön, senki nem hall.}
 {158}{}{Én hallom önt. Mi a baj?}
@@ -13,18 +13,18 @@
 {160}{}{Hol van? Nem találom! Mi lesz most?! Ó...}
 {161}{}{Mit keres? Talán tudok segíteni.}
 {162}{}{Jó lenne, ha abbahagyná a nyöszörgést, meg a panaszkodást, és értelmesen kezdene beszélni!}
-{163}{}{A medálom! Elt?nt. Tolvaj! Tolvaj!}
+{163}{}{A medálom! Eltűnt. Tolvaj! Tolvaj!}
 {164}{}{Én csak most érkeztem! Nem én voltam.}
 {165}{}{Segítsek megtalálni?}
 {166}{}{Ó, kegyetlen sors.}
 {167}{}{Nem hall engem, ugye?}
-{168}{}{Kés?bb, szellem-hölgy.}
+{168}{}{Később, szellem-hölgy.}
 {169}{}{Minden jót! Megpróbálok segíteni.}
 {170}{}{A medálom! Adja ide! Óóóó!!!!}
 {171}{}{Dehogyis! Menjen a pokolba! Tisztességes úton jutottam hozzá.}
 {172}{}{Oké. Tessék...}
 {173}{}{Itt van. Nyugodjon békében!}
-{174}{}{OKÉ.}
+{174}{}{Oké.}
 {175}{}{Nem.}
 {176}{}{A medálom, a medálom! Apa, jövök már! Jövök!}
 {177}{}{Viszlát!}
@@ -41,4 +41,4 @@
 {550}{}{Ez a ház megtisztult.}
 {551}{}{Oog, pretti bones.}
 {560}{}{SZELLEMIRTÓ!}
-{561}{}{Ah...}
+{561}{}{Aghhh!}

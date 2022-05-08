@@ -4,7 +4,7 @@
 {201}{}{Welcome back. Need something else?}
 {202}{}{Let's barter.}
 {203}{}{I hear you're the man to talk to about caravans.}
-{204}{}{Felejtsük el! Viszlát.}
+{204}{}{Nem fontos! Üdv!}
 {210}{}{Say, I've noticed a lot of old equipment and items have been collected here at the Abbey.
  I don't suppose you've found anything... special, during your time here?}
 {211}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
@@ -19,7 +19,7 @@
  useful right now.}
 {213}{}{Oh, well. Let's see what you have in stock instead.}
 {214}{}{That's alright. Let me ask you something else.}
-{215}{}{Úgymint?}
+{215}{}{Űgymint?}
 {216}{}{You see, a caravan came through here not too long ago, claiming to have come up from the deep south. Said they'd
  been attacked by some of them vile mutants (turning to Marcus) no offense, big guy. Anyway, they did a lot of bragging
  about how they'd wasted all the muties. Claimed there'd been nearly a dozen of 'em, and I called bullshit. But it turns

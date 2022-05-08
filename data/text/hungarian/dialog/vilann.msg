@@ -1,4 +1,4 @@
-{100}{}{Egy fiatal n?.}
+{100}{}{Egy fiatal nőt látsz.}
 {101}{}{You see Ann, Connar's wife.}
 {102}{}{She appears to be busily cooking.}
 {200}{}{Why hello there, I'm Connar's wife, Ann. You must be the one who helped us out. I can't tell you how much
@@ -40,9 +40,9 @@
 {404}{}{Thanks so much!}
 {405}{}{Finally we are safe.}
 {406}{}{Thanks for everything! Be sure to stop by again once we expand the place. I'll finally have a working kitchen to cook in.}
-{410}{}{Helló...}
+{410}{}{Üdv minálunk.}
 {411}{}{You seem to be quite busy here. Need some help with anything?}
-{412}{}{Felejtsük el! Viszlát.}
+{412}{}{Nem fontos! Üdv!}
 {420}{}{How did it go?}
 {421}{}{How did what go? Oh, the merchant. Actually, I lost interest with him and wandered off.}
 {430}{}{What!? You realize this was our last chance to make arragements with him. We look like fools now standing him up.

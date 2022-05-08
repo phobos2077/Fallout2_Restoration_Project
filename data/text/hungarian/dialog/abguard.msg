@@ -5,7 +5,7 @@
 {201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
  I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
  warped brain of yours.}
-{202}{}{Ki vagy te?}
+{202}{}{Ki vagy?}
 {203}{}{Where can I barter for some supplies?}
 {204}{}{Somebody is digging up graves, why don't you do anything about it?}
 {205}{}{I heard something about animals in the basement. Know anything about that?}
@@ -24,10 +24,10 @@
 {400}{}{You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go
  to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City.}
 {401}{}{Good to know. I have another question.}
-{402}{}{Kösz, viszlát!}
+{402}{}{Köszönöm, viszlát!}
 {500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can
  use what they're buried with anyway. Not my problem... I'm not losing any sleep over it.}
-{501}{}{Feltennék még kérdéseket.}
+{501}{}{Hadd kérdezzek valami mást!}
 {502}{}{Viszlát!}
 {600}{}{Yes, and Brother Thomas is missing. He was a smart man, but a bit foolhardy. I don't know what's down there,
  but I don't think it's just a bunch of rats and radscorpies.}

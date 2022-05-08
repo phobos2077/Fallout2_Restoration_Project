@@ -1,6 +1,6 @@
 {100}{}{Egy izmos fickó, hordónyi mellkassal.}
-{101}{}{Ez Hal, a brahmin-terel?k kapitánya.}
-{102}{}{Valamit rágcsál, és csak remélheted, hogy nem fogja felédköpni, mert b?zlik, mint a rosseb.}
+{101}{}{Ez Hal, a brahmin-terelők kapitánya.}
+{102}{}{Valamit rágcsál, és csak remélheted, hogy nem fogja felédköpni, mert bűzlik, mint a rosseb.}
 {103}{}{A terelés miatt vagy itt?}
 {104}{}{}
 {105}{}{Igen.}

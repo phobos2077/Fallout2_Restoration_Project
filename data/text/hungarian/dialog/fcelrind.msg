@@ -1,5 +1,5 @@
-{100}{}{Egy slampos palástot visel? illet?.}
-{101}{}{Na, még egy palástot visel? Hubologista.}
+{100}{}{Egy slampos palástot viselő illető.}
+{101}{}{Na, még egy palástot viselő Hubologista.}
 {102}{}{Egy palástba öltözött ismeretlen.}
 {103}{}{Ki maga? Mit csinál itt?}
 {104}{}{Ugye magának nem lehetne itt tartózkodni?}
@@ -17,9 +17,9 @@
 {116}{}{Vannak Hubologista hírességeink is ám.}
 {117}{}{Juan Cruz és Vikki Goldman híres emberek! Magam is ezért csatlakoztam.}
 {118}{}{Ha jól viseli magát, a hírességeink biztos szóba állnak magával.}
-{119}{}{Szeretem a Hub-ot!}
+{119}{}{Imádom a Hub-ot.}
 {120}{}{Szeretem a Hubologista létet.}
-{121}{}{Ösztönözni akarom rejtett képességeimet.}
+{121}{}{Ösztönözni akarom a rejtett képességeimet.}
 {122}{}{Az igazat megvallva még mindig csak tanulom a zsargont.}
 {123}{}{Dícsértessék a Hub!}
 {124}{}{Dícsértessék a Nagy Kerék!}
@@ -27,21 +27,21 @@
 {126}{}{Alig várom, hogy csillagbéli otthonunkba jussak.}
 {127}{}{Kérem, ne zavarjon! Épp koncentrálom a neurodinjaimat.}
 {128}{}{Kérem, ne hangolja vissza a neurodinjaimat!}
-{138}{}{Ó, ne! Az Üldöz?!}
+{138}{}{Ó, ne! Az Üldöző!}
 {139}{}{Itt a Nem-Megvilágosodott!}
-{140}{}{Távozz t?lem, gonosz lélek!}
-{141}{}{Egyértelm?, hogy maga tele van rossz neurodinokkal!}
-{142}{}{Ne! Ne kátyúsítson el a gy?löletével!}
-{143}{}{?rség! ?rség! Ide jött a barbár!}
-{144}{}{Hozzám ne érj!}
-{145}{}{Segítség! ?rség!}
+{140}{}{Távozz tőlem, gonosz lélek!}
+{141}{}{Egyértelmű, hogy maga tele van rossz neurodinokkal!}
+{142}{}{Ne! Ne kátyúsítson el a gyűlöletével!}
+{143}{}{Őrség! Őrség! Ide jött a barbár!}
+{144}{}{Hozzám ne érjen!}
+{145}{}{Segítség! Őrség!}
 {146}{}{A népünk ellensége!}
-{147}{}{A sötét id?k újra bennünket sújtanak!}
+{147}{}{A sötét idők újra bennünket sújtanak!}
 {148}{}{Csillagbéli Atyám! Ments meg a pogánytól!}
 {149}{}{Valaki agyonsújt majd hitszegésedért!}
-{150}{}{Szeretem a Hub-ot!}
+{150}{}{Imádom a Hub-ot.}
 {151}{}{Szeretem a Hubologista létet.}
-{152}{}{Ösztönözni akarom rejtett képességeimet.}
+{152}{}{Ösztönözni akarom a rejtett képességeimet.}
 {153}{}{Az igazat megvallva még mindig csak tanulom a zsargont.}
 {154}{}{Dícsértessék a Hub!}
 {155}{}{Dícsértessék a Nagy Kerék!}
@@ -50,19 +50,19 @@
 {158}{}{Várom a behangolásomat.}
 {159}{}{Újra akarom hallani, ahogy BHK-9 beszédet mond!}
 {160}{}{Remélem, a neurodinjaim rendben vannak.}
-{161}{}{Azt akarom, hogy magasabb Hangoltságú Hub Követ? váljék bel?lem!}
-{162}{}{Itt az id?, hogy a magam gyarapodására fókuszáljak.}
+{161}{}{Azt akarom, hogy magasabb Hangoltságú Hub Követő váljék belőlem!}
+{162}{}{Itt az idő, hogy a magam gyarapodására fókuszáljak.}
 {163}{}{Az "igazi" tudomány egy rakás hazugság.}
 {164}{}{Ne hallgasson arra, amit az úgynevezett "tudósok" mondanak magának!}
 {165}{}{Csak a Hub és BHK-9 tudják a választ.}
 {178}{}{Dícsértessék a Csillagközi Atyánk! Végre eljutunk a csillagokba!}
 {179}{}{Quetzel bolygó! Itt jövünk!}
-{180}{}{A sok kemény munka végre kifizet?dik!}
+{180}{}{A sok kemény munka végre kifizetődik!}
 {181}{}{A neurodinjaim végre nyugodalmat lelnek!}
-{182}{}{A felszállás el?tt behangoláson kéne átesnem.}
+{182}{}{A felszállás előtt behangoláson kéne átesnem.}
 {183}{}{Óóó! A Csillagbéli Atyám! A Csillagbéli Atyám!}
 {184}{}{Izgatottan várom a felszállást!}
 {185}{}{Milyen hamar indulunk?}
-{186}{}{Fogadjunk, hogy a magas szint? BHK-k nem olyan izgulósak, mint én.}
+{186}{}{Fogadjunk, hogy a magas szintű BHK-k nem olyan izgulósak, mint én.}
 {187}{}{A mindenit... a csillagok! Végre!}
 {188}{}{Nem kell többé viselnem a sztaniolsipkát!}

@@ -1,12 +1,12 @@
 {100}{}{Egy férfit látsz harci páncélban.}
 {101}{}{Kagát látod harci páncélban.}
-{102}{}{Harci páncélt visel, és úgy t?nik, néhány egész t?rhet? fegyvere is van.}
+{102}{}{Harci páncélt visel, és úgy tűnik, néhány egész tűrhető fegyvere is van.}
 {103}{}{Ez alkalommal felkészültem rád.}
-{104}{}{A Kiválasztott sohasem fog visszatérni Arroyóba!}
-{105}{}{Kaga szét fog zúzni téged!}
-{106}{}{Kaga nem fél senkit?l!}
+{104}{}{A Kiválasztott sosem tér vissza Arroyóba!}
+{105}{}{Kaga porrá zúz téged!}
+{106}{}{Kaga nem fél senkitől!}
 {107}{}{Maradj mozdulatlan, hogy Kaga pontosan célozhasson!}
-{108}{}{Találkozni fogunk még!}
+{108}{}{Még találkozunk!}
 {109}{}{Ez nem az utolsó alkalom, hogy láttad Kagát.}
 {110}{}{Kagának határozottan több gyakorlásra van szüksége...}
 {120}{}{Go away Kaga!}

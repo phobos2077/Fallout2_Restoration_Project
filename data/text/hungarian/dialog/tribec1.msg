@@ -6,9 +6,9 @@
 {201}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair,
  his smoldering blue eyes roam unabashedly over your body.] I'm Krom, the head warrior of this tribe. By the Gods, girl,
  your beauty could drive a man mad.}
-{202}{}{Én }
+{202}{}{A nevem }
 {203}{}{, and I'm on a holy quest to save my village, Arroyo, from certain destruction.}
-{204}{}{Én }
+{204}{}{A nevem }
 {205}{}{, and I've been on a holy quest to save my village, Arroyo, from certain destruction. I found what I needed though.}
 {206}{}{I'm a simple wanderer -- nothing more. I'll be moving on now.}
 {207}{}{[Smile.] Thank you, Krom.}
@@ -77,7 +77,7 @@
 {292}{}{Whoa! Let me go, you got the wrong idea!}
 {300}{}{To hell with you, temptress! Go bring your teasing elsewhere. I have no time to waste on you.}
 {301}{}{Yeah, well fuck you too. Bye.}
-{302}{}{Ahogy gondolja. Viszlát!}
+{302}{}{Jól van, oké. Na, csá!}
 {310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted.
  Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}
 {311}{}{Thanks. You're not so bad yourself.}
@@ -99,7 +99,7 @@
  the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized
  trinket that he'll hope I'll be ignorant of enough to pay far more than it's worth. That's why I'd like you to make the
  trade.}
-{351}{}{Miért pont velem esik meg?}
+{351}{}{Miért én?}
 {352}{}{Sorry, but I think I'll pass. Bye.}
 {360}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
  civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
@@ -132,7 +132,7 @@
  for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
 {412}{}{Sorry, I guess I got carried away.}
 {413}{}{He was civilized scum and deserved death.}
-{414}{}{Ajjaj!}
+{414}{}{Jaj...}
 {420}{}{I see now that it was a mistake to task you with this. I'll be keeping a close eye on you during your time at our
  village. Now come, let us take care of this mess and be on our way.}
 {430}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can cheat our valuables from us.
@@ -147,25 +147,25 @@
 {441}{}{I don't blame you for not making the trade. I had bad feeling about the deal as well. I admit those stimpaks would
  have proven useful, but we've been getting by without them, and we'll continue to do so. You're welcome to stay among us
  girl, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{442}{}{Nem gond.}
+{442}{}{Nem probléma.}
 {443}{}{My pleasure.}
-{444}{}{Ahogy gondolja. Viszlát!}
+{444}{}{Jól van, oké. Na, csá!}
 {450}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
  in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe
  as your own. However, I may call on your aid again in the future. Thanks for your help.}
 {451}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
  in spotting his deceit. I see I made a wise choice in trusting you, girl. You're welcome to stay among us, and treat our
  tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{452}{}{Nem gond.}
+{452}{}{Nem probléma.}
 {453}{}{My pleasure.}
-{454}{}{Ahogy gondolja. Viszlát!}
+{454}{}{Jól van, oké. Na, csá!}
 {460}{}{[The giant warrior nods a greeting as you approach.] Welcome back, friend. Do you need something?}
 {461}{}{[The giant warrior grins as he watches you approach.] By the God's, I nearly forgot how gorgeous you are. Do you
  need something, girl?}
 {462}{}{I was wondering if I could ask you a couple questions.}
 {463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
 {464}{}{[[Smile seductively] Yeah, big guy. I need something, alright. [Wink.]}
-{470}{}{Persze.}
+{470}{}{Természetesen.}
 {471}{}{You look like you've been through a lot. I was wondering what your story is.}
 {472}{}{What could you tell me about this village?}
 {473}{}{Is there anything going on here I could help you with?}
@@ -191,9 +191,9 @@
  creates a good mix of women. Beyond that, there's not much to say. It's a simple village where we struggle to forge a
  simple existence.}
 {511}{}{Alright, thanks. Could I ask you something else?}
-{512}{}{Alright, thanks. Bye.}
+{512}{}{Értem, kösz. Viszlát!}
 {520}{}{Actually, Marli looks like he's having some trouble with the well. If you feel like helping, maybe you could go see what his problem is.}
-{521}{}{Alright, thanks. Bye.}
+{521}{}{Értem, kösz. Viszlát!}
 {522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
 {530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
 {531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}
@@ -246,7 +246,7 @@
 {863}{}{No, I was just leaving.}
 {870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
 {871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
-{872}{}{Felejtsük el! Viszlát.}
+{872}{}{Nem fontos! Üdv!}
 {1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty
  impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to
  head back out into the wastes myself.}

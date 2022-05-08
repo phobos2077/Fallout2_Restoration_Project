@@ -1,18 +1,18 @@
 {100}{}{Na, egy újabb kocsmatöltelék...}
-{101}{}{Az ilyen részegekb?l tizenkett? egy tucat.}
+{101}{}{Az ilyen részegekből tizenkettő egy tucat.}
 {102}{}{Nem a legszebb emberek közé tartozik, de ennyi pia után ki lenne az?}
 {103}{}{Én csak piálok itt szép nyugisan. Hagyj békén!}
 {104}{}{Nem beszélgetek idegenekkel. Az ilyesmi árt az egészségnek ebben a kocsmában.}
 {105}{}{Hallottam rólad. Ne jöttél véletlenül rossz helyre, basszus?}
 {106}{}{Balhét akarsz? Eridj Merkhez!}
 {107}{}{Hé, csinoska, nem akarsz egy kicsit nyugisabb helyre menni, és mókázni egyet?}
-{108}{}{Ne szólj hozzám! Nem akarok egy újabb verést.}
+{108}{}{Ne szólj hozzám! Nem akarok újabb verést!}
 {109}{}{Átkozott olcsó whiskey! Itt adják a környék legszarabb piáját.}
 {110}{}{Basszameg! Nem akartalak leönteni a piámmal! Hadd töröljelek le! Bocs, bocs.}
 {111}{}{Hagyj békén!}
 {112}{}{Hallottam rólad. Kérlek, ne üss meg!}
 {113}{}{Új vagy a városban? Azt rebesgetik, Merk néhány tökös hombre felbérlését fontolgatja...}
-{114}{}{Mi vagy te, valami kemény gyerek? Takarodj a szemem el?l.}
+{114}{}{Mi vagy te, valami kemény gyerek? Takarodj a szemem elől.}
 {115}{}{Hát nem kellett volna, hogy ezt tegyék. Egyszer majd lesz egy puskám és megmutatom nekik.}
 {116}{}{Mit szólnál hozzá, ha a szex-rabszolgám lennél, szivi?}
 {117}{}{Ivás meg dumálás... a rosseb egye meg, semmi érdekes nem történik a városban!}

@@ -36,7 +36,7 @@
 {294}{}{I don't have them on me, and even if I did I wouldn't hand them over to you. I want nothing to do with you or your veggie-zombies.}
 {300}{}{The facility is known as the EPA. I've marked it on your mapping device. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
 {301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
-{302}{}{Mindjárt jövök.}
+{302}{}{Még visszatérek.}
 {303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}
 {310}{}{[His eyes flare with rage] Kill him, my children! His body shall make a fine host for your newest sibling!}
 {311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
@@ -45,7 +45,7 @@
 {321}{}{[FOLYTATÁS]}
 {322}{}{Keep your reward. I don't have time to wait around.}
 {330}{}{Yes, bring the seeds to me and you may claim your reward.}
-{331}{}{Mindjárt jövök.}
+{331}{}{Még visszatérek.}
 {340}{}{Simply giving you the location of the facility is a reward in itself, as it is bound to be full of useful supplies. You may of course keep anything else you find. I am only interested in unique seed samples. Once you have brought them to me, I will give you a gift to present to the Shi.}
 {341}{}{Alright, I'll do it. I'll be back.}
 {342}{}{You call that a reward? I can explore ruins on my own time. I'm not interested.}
@@ -75,12 +75,12 @@
 {412}{}{I'm always up for exploring some old ruins. Give me the location and I'll go see what I can find.}
 {413}{}{And what do I get out of it?}
 {420}{}{Yes, Dr. Wong is a bit of an obstacle. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will get the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{421}{}{Megnézem, mit tehetek.}
+{421}{}{Majd kiderül, mit tudok tenni az ügy érdekében.}
 {422}{}{If you want Wong dead, you'll need to give me something up front.}
 {423}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
 {424}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
 {430}{}{Very well. This poison may come in handy. I extracted it from one of my creations. It is extremely deadly. [He gives you a syringe.]}
-{431}{}{Megnézem, mit tehetek.}
+{431}{}{Majd kiderül, mit tudok tenni az ügy érdekében.}
 {440}{}{[Looks at you expectantly.]}
 {441}{}{I'm still working on things. I'll get back to you.}
 {442}{}{I delivered the sample to the Shi.}
@@ -95,7 +95,7 @@
 {461}{}{Assist you with what?}
 {462}{}{No! I'm not going to assist you, asshole! Seymour was real! SEYMOUR WAS REAL!}
 {470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
-{471}{}{Folytasd!}
+{471}{}{Folytassa, kérem!}
 {480}{}{When you look at a plant though, do you also think this? If you kick a plant, does it fight back? Does it respond to you in anyway? Does talking to a plant affect its growth? Some cultures before the Great War tested such theories. A people known as the Germans conducted experiments which lead them to believe that plants are capable of emotions and that one could promote healthy growth with talk, attention, and affection.}
 {481}{}{But plants lack a nervous system, and without one what you're suggesting just isn't possible.}
 {482}{}{I think all forms of life perceive in some way or another.}
@@ -109,11 +109,11 @@
 {520}{}{Gene-splicing! Through the magic of science, I was able to develop a botany sentience serum. But giving the plants human-like intelligence was only half of the equation. In order to fully utilize such intelligence, I knew they would require a human-like body and senses.}
 {521}{}{Ah, which is where the 'fresh human cadavers' come in. You must tell me how you were able to get the plant life to interface with and take control of a human nervous system. And a dead one, at that. I wouldn't believe it were possible if I hadn't seen it firsthand.}
 {530}{}{Very well, I cannot promise you will fully comprehend what I am about to say, but I will do my best to explain it to you. [With the zeal of a preacher raving about his god to a rapt listener, he spends two hours detailing the process of his experiments, obviously taking great pride in his accomplishments.]}
-{531}{}{[TOVÁBB]}
+{531}{}{[TOVÁBBI LEHETŐSÉG]}
 {540}{}{And so now you understand, I hope?}
 {541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
 {550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{551}{}{Megnézem, mit tehetek.}
+{551}{}{Majd kiderül, mit tudok tenni az ügy érdekében.}
 {552}{}{If you want Wong dead, you'll need to give me something up front.}
 {553}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
 {554}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
@@ -123,11 +123,11 @@
 {570}{}{I need them put down, and you look more than capable of the task.}
 {571}{}{Why don't you send these, uh, more successful ones in there to take care of them?}
 {572}{}{Sounds fun. I'll do it.}
-{573}{}{Mi esik le nekem ebb?l?}
+{573}{}{Mit ajánlasz cserébe?}
 {574}{}{I'm not interested in cleaning up your messes.}
 {580}{}{They will not attack their own. They understand why I must now dispose of their less-fortunate brethren, but they will not carry out the task themselves. That left me in a rather delicate situation. Which is why I was so pleased to learn of your approach. So, will you assist me?}
 {581}{}{All right. I'll do it.}
-{582}{}{Mi esik le nekem ebb?l?}
+{582}{}{Mit ajánlasz cserébe?}
 {583}{}{I'm not interested in cleaning up your messes.}
 {590}{}{The laboratory is right up there to the north. The sentry will let you through. Be careful. These creatures are incredibly strong, so try not to let them get too close. Oh, and beware of the poisonous spore they shoot out. But do not worry. I have an antidote, should you get poisoned.}
 {591}{}{Okay. I'll be back.}

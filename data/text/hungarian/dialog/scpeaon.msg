@@ -4,23 +4,23 @@
 {103}{}{Ahhh, hagyj engem!}
 {104}{}{Bocsánat! Még egyszer nem teszem.}
 {105}{}{Éppen indulni akartam.}
-{106}{}{?rség, visszajött!}
-{107}{}{Kérlek, hagyj békén!}
+{106}{}{Őrség, visszajött!}
+{107}{}{Kérlek, hagyj magamra!}
 {108}{}{Nézd, jobb, ha elkerüljük egymást.}
 {109}{}{Te gonosz vagy! Kérlek, ne szólj hozzám!}
 {110}{}{Hagyd békén a gyerekeinket!}
-{111}{}{Te valami beteges b?nöz? vagy. Remélem, lefülelnek az ?rök.}
+{111}{}{Te valami beteges bűnöző vagy. Remélem, lefülelnek az őrök.}
 {112}{}{Menj innen, oké?}
-{113}{}{Nem kellett volna senkit se megölnöd! F?leg nem a gyerekeket!}
+{113}{}{Nem kellett volna senkit se megölnöd! Főleg nem a gyerekeket!}
 {114}{}{Nem hiszem, hogy kedvelnélek.}
-{115}{}{Majd közöld velem el?re, ha beg?zölsz!}
+{115}{}{Majd közöld velem előre, ha begőzölsz!}
 {116}{}{Mennem kell.}
 {117}{}{Mit gondolsz, ki az ördög vagy te, hogy ebbe a városba jössz?}
-{118}{}{Menj innen, miel?tt megsérül valaki!}
+{118}{}{Menj innen, mielőtt megsérül valaki!}
 {119}{}{Ki nem állhatlak!}
 {120}{}{Az igazság kiirtja a magadfajtákat.}
-{121}{}{Mi a gondod?}
-{122}{}{Nem tudnánk egyszer?en csak megférni egymás mellett?}
+{121}{}{Mi bajod van velünk?}
+{122}{}{Na, essünk túl rajta gyorsan!}
 {123}{}{Ne beszélj hozzám!}
 {124}{}{Akármi is az, boldogíts vele mást!}
 {125}{}{Nem hiszem, hogy annyira kemény vagy.}
@@ -43,5 +43,5 @@
 {142}{}{Hallottam, hogy kemény a helyzet lent délen. Mikor tesz már végre valamit a kormányzat?}
 {143}{}{Északról jöttél? Nem sok északról jött ember lakik itt.}
 {144}{}{Azt hallottam, a pusztában mindenki mutáns, vagy vadember.}
-{145}{}{Nincs id?m beszélgetni. Mennem kell dolgozni.}
+{145}{}{Nincs időm beszélgetni. Mennem kell dolgozni.}
 {146}{}{Kiárusítás van Duppónál. Óh, biztos nem érdekel téged.}

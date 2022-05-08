@@ -3,20 +3,20 @@
 {102}{}{He looks like he's high on drugs.}
 {103}{}{She looks like she's high on drugs.}
 {104}{}{He's looking pretty bad. You suspect it's withdrawal from some kind of drug.}
-{105}{}{Jobb napokat is megélt már. Úgy t?nik, valamiféle megvonástól szenved.}
+{105}{}{Jobb napokat is megélt már. Úgy tűnik, valamiféle megvonástól szenved.}
 {106}{}{This addict looks like the living dead.}
 {107}{}{You think this addict just threw up.}
 {150}{}{Nem bírom a fényt!}
 {151}{}{Szörnyek! Mindenütt!}
 {152}{}{Ez fura volt.}
 {153}{}{Vérzek?}
-{154}{}{Ez rendszerint nem szokott ilyen valóságosnak t?nni.}
+{154}{}{Ez rendszerint nem szokott ilyen valóságosnak tűnni.}
 {155}{}{Hagyd abba, ember!}
 {156}{}{Senki sem segít?}
-{157}{}{Segítség!}
-{158}{}{T?nj el innen!}
+{157}{}{Segítség!!}
+{158}{}{Tűnj el innen!}
 {159}{}{Így is eléggé fáj a fejem!}
-{160}{}{Haggyá' békén!}
+{160}{}{Hagyj békén!}
 {200}{}{Ejha, érdekes, sötét fényed van.}
 {201}{}{Anyám, te aztán jó nagy darab vagy!}
 {202}{}{Ne mondd el nekik, hogy amit tudunk, nincs is ott!}
@@ -26,10 +26,10 @@
 {206}{}{Hova lett a talaj?}
 {207}{}{Shhh, elbújtam.}
 {208}{}{Gyorsabban futok, mint egy nyúl!}
-{209}{}{Olyan virgoncnak érzem magam!}
+{209}{}{Olyan elevennek érzem magam!}
 {210}{}{Végigfolyik az ereimben...}
 {211}{}{Ez az, bébi!}
-{212}{}{Úúúúúh, érzed az er?t? }
+{212}{}{Úúúúúh, érzed az erőt? }
 {213}{}{A mindenit, te ragyogsz!}
 {214}{}{Imádlak, ember!}
 {215}{}{Az élet olyan jó volt hozzám. Hozzád is?}
@@ -39,7 +39,7 @@
 {219}{}{Nem láttad a kutyámat?}
 {220}{}{Shhh, pont mögötted vannak...}
 {221}{}{Enyém!}
-{222}{}{Óóóó, a fejem!}
+{222}{}{Óóóh, a fejem!}
 {223}{}{Mindenem fáj!}
 {224}{}{Kezdek remegni...}
 {225}{}{Óó, még több kell...}
@@ -51,7 +51,7 @@
 {231}{}{Utálom ezt a részét.}
 {232}{}{Meg akarok halni.}
 {233}{}{Nagyon kéne még egy adag...}
-{234}{}{Ezt nem tudom tovább elviselni.}
+{234}{}{Ezt már nem bírom sokáig!}
 {235}{}{Azt hiszem, lázas vagyok.}
 {236}{}{Asszem, okádni fogok.}
 {237}{}{Talán, ha aludnék egy kicsit...}
@@ -62,12 +62,12 @@
 {303}{}{Ezt ki tette?}
 {304}{}{Mi folyik itt?}
 {305}{}{Vérzek... azt hiszem.}
-{306}{}{Óh, ez fáj!}
+{306}{}{Óóó, ez fáj!}
 {307}{}{Most már tényleg kell egy löket.}
 {308}{}{Csak hagyj meghalni!}
 {350}{}{Ahhhh...}
 {351}{}{Lebegek...}
-{352}{}{Az er? velem van!}
+{352}{}{Az erő velem van!}
 {353}{}{Helló, Mr. Hippi.}
 {354}{}{Micsoda színek...}
 {355}{}{Barátom, figyeled az eget?}
@@ -80,7 +80,7 @@
 {362}{}{Ez meg mi volt?}
 {363}{}{Sasha? Hol vagy, Sasha?}
 {364}{}{Fakulnak a színek!}
-{365}{}{Mami?}
+{365}{}{Mama?}
 {366}{}{Hé! Hagyj békén! Óhh...}
 {367}{}{Ne csináld ezt!}
 {368}{}{Nem látok... már megint.}
@@ -89,8 +89,8 @@
 {371}{}{Oda? Nem.}
 {372}{}{Nem. Nem találom.}
 {373}{}{Állítsd le!}
-{374}{}{Ah...}
-{375}{}{Óh, ez fáj!}
+{374}{}{Aghhh!}
+{375}{}{Óóó, ez fáj!}
 {376}{}{::köhécsel::}
 {377}{}{Óóó, a fejem!}
 {378}{}{Hova tettem az anyagom?}
@@ -100,7 +100,7 @@
 {403}{}{Egy szörny! Megölni!}
 {404}{}{Áh! Pargasraka!}
 {405}{}{Beleptek a patkányok! Ááá!}
-{406}{}{Nem veszed el t?lem!}
+{406}{}{Nem veszed el tőlem!}
 {407}{}{Add vissza!}
 {408}{}{Nem!!!}
 {409}{}{A családom!}

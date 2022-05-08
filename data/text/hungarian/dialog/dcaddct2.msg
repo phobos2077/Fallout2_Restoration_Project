@@ -1,7 +1,7 @@
 {100}{}{Egy földfoglalót látsz.}
 {101}{}{You see a man covered in dirt and filth.}
 {102}{}{You see a woman covered in dirt and filth.}
-{103}{}{Mit akarsz?}
+{103}{}{Mit akar?}
 {104}{}{I want you and your friends out of this building. It's come to my attention that Mom intends to turn this place
  into an orphanage to get all those homeless children off the streets. And she can't do that with you squatting here.}
 {105}{}{[He snickers uneasily and glances at his fellow squatters for support.] Mom knows the deal. We're not going anywhere
@@ -24,11 +24,11 @@
 {113}{}{Screw this, I changed my mind. We ain't leaving. We're staying right here and fighting.}
 {114}{}{[He exchanges a look with the other squatters and ponders your words.] You know what? That doesn't sound too bad. In fact, that could work out great,
  if you really think Mom will go for it. While you go talk to her, we'll get started on cleaning this place up. Oh, and thanks for being so cool about things.}
-{115}{}{Senkit.}
+{115}{}{Hagyjuk!}
 {116}{}{She's not going to pay you. But I'm here to offer you a new deal: You and your friends walk away from here now, and you get to keep your lives.}
 {117}{}{Alright, well, I gave it a shot. Bye.}
 {120}{}{This is a great idea. We'll get things ready.}
-{200}{}{Nahát...}
+{200}{}{Hogy?}
 {201}{}{This is our turf.}
 {202}{}{You squatting here too?}
 {203}{}{Got anything to eat?}

@@ -2,7 +2,7 @@
 2:Kiválasztott?
 3:Hallasz?
 4:[A] falu [haldoklik].
-5:[Mindannyiunk] jöv?jével együtt.
-6:Lényegében már alig maradt [id?nk].
+5:[Mindannyiunk] jövőjével együtt.
+6:Lényegében már alig maradt [időnk].
 7:Siess.
 8:Sie-...

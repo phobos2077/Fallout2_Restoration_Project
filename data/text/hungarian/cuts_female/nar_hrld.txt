@@ -1,3 +1,3 @@
-1:Id?r?l-id?re még mindig hallasz Harold-ról.
-2:Úgy t?nik, hogy a fejéb?l kin?tt fa egyre nagyobb, és ha hinni lehet a pletykáknak, gyümölcs is terem rajta.
-3:A szóbeszéd szerint a magvai meglep?en ellenállóak, sokuk még a pusztaság legterméketlenebb vidékein is gyökeret eresztett.
+1:Időről-időre még mindig hallasz Harold-ról.
+2:Úgy tűnik, hogy a fejéből kinőtt fa egyre nagyobb, és ha hinni lehet a pletykáknak, gyümölcs is terem rajta.
+3:A szóbeszéd szerint a magvai meglepően ellenállóak, sokuk még a pusztaság legterméketlenebb vidékein is gyökeret eresztett.

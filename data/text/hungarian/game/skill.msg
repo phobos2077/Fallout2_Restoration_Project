@@ -1,7 +1,7 @@
-{100}{}{Kézi l?fegyverek}
-{101}{}{Nehéz l?fegyverek}
+{100}{}{Kézi lőfegyverek}
+{101}{}{Nehéz lőfegyverek}
 {102}{}{Energiafegyverek}
-{103}{}{Pusztakezes.}
+{103}{}{Ökölharc}
 {104}{}{Közelharc}
 {105}{}{Hajítás}
 {106}{}{First Aid}
@@ -16,24 +16,24 @@
 {115}{}{Üzletelés}
 {116}{}{Szerencsejáték}
 {117}{}{Túlélés}
-{200}{}{Kézi l?fegyverek használata, karbantartása és általános ismerete - pisztolyok, géppisztolyok és puskák.}
-{201}{}{Nehéz l?fegyverek használata és karbantartása - gépágyúk, rakétavet?k, lángszórók, stb.}
-{202}{}{Energia alapú fegyverek feltöltése és használata - minden, ami lézer- vagy plazma technológiával m?ködik.}
-{203}{}{Harcm?vészetek, boksz, és egyéb pusztakezes harctudományok. Harc kézzel és lábbal.}
+{200}{}{Kézi lőfegyverek használata, karbantartása és általános ismerete - pisztolyok, géppisztolyok és puskák.}
+{201}{}{Nehéz lőfegyverek használata és karbantartása - gépágyúk, rakétavetők, lángszórók, stb.}
+{202}{}{Energia alapú fegyverek feltöltése és használata - minden, ami lézer- vagy plazma technológiával működik.}
+{203}{}{Harcművészetek, boksz, és egyéb pusztakezes harctudományok. Harc kézzel és lábbal.}
 {204}{}{A nem távolsági fegyverek használata - kések, kalapácsok, lándzsák, bunkók, stb.}
 {205}{}{Hajítófegyverek használatának képzettsége - dobókések, lándzsák és gránátok.}
-{206}{}{A gyógyítás legalapvet?bb ismeretei. Könnyebb sebek, horzsolások és egyéb kisebb betegségek ellátása. Több ÉP-t gyógyíthat, mint az ugyanannyi ideig tartó pihenés.}
-{207}{}{Súlyos sérülések, sérült végtagok gyógyítása. Enélkül sokkal több id? kell a sérült végtagok gyógyulásához.}
-{208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
-{209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
-{210}{}{Mások dolgainak eltulajdonítása. Tárgyak ellopása emberekt?l, vagy különböz? helyekr?l.}
+{206}{}{A gyógyítás legalapvetőbb ismeretei. Könnyebb sebek, horzsolások és egyéb kisebb betegségek ellátása. Több ÉP-t gyógyíthat, mint az ugyanannyi ideig tartó pihenés.}
+{207}{}{Súlyos sérülések, sérült végtagok gyógyítása. Enélkül sokkal több idő kell a sérült végtagok gyógyulásához.}
+{208}{}{A csendes mozgás és az észrevétlenség képessége. Ha sikeres, sokkal nehezebben vesznek észre. Nem tudsz egyszerre futni és lopakodni.}
+{209}{}{Zárak kinyitása a megfelelő kulcs híján. Tolvajkulcs vagy elektromos zárnyitó használata jelentősen növeli ezt a képzettséget.}
+{210}{}{Mások dolgainak eltulajdonítása. Tárgyak ellopása emberektől, vagy különböző helyekről.}
 {211}{}{Csapdák megtalálásának és hatástalanításának, valamint robbanóanya-gok használatának képzettsége.}
-{212}{}{Tudományok, ismeretek gy?jt?képzettsége, mint például a számítás-technika, biológia, fizika és geológia.}
+{212}{}{Tudományok, ismeretek gyűjtőképzettsége, mint például a számítás-technika, biológia, fizika és geológia.}
 {213}{}{A Tudományok képzettség gyakorlati alkalmazása lerobbant, hibás berendezések, gépek vagy elektronikus eszközök javítására.}
-{214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
-{215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
-{216}{}{The knowledge and practical skills related to wagering.  The skill at cards, dice and other games.}
-{217}{}{Practical knowledge of the outdoors, and the ability to live off the land.  The knowledge of plants and animals.}
+{214}{}{A kommunikáció célratörő és hatásos módja. Mások meggyőzése arról, hogy amit te mondasz az úgy is van. A lelepleződés nélküli hazudozás képzettsége.}
+{215}{}{Kereskedelem és minden hozzá kapcsolódó feladat. A megfelelő képzettség, hogy drágán adj el, és olcsón vásárolj.}
+{216}{}{A fogadás mikéntjének ismerete és gyakorlati alkalmazása. Kártya, kocka és egyéb hazárdjátékok űzése.}
+{217}{}{A pusztákon való túlélés gyakorlati alkalmazása. Magában foglalja az állatok és növények ismeretét.}
 {300}{}{+ (4 x ÜG)}
 {301}{}{+ (2 x ÜG)}
 {302}{}{+ (2 x ÜG)}
@@ -52,7 +52,7 @@
 {315}{}{+ (4 x KA)}
 {316}{}{+ (5 x SZ)}
 {317}{}{+ (2 x (KI + IN))}
-{500}{}{%d életer?t gyógyítottál.}
+{500}{}{%d életerőt gyógyítottál.}
 {501}{}{Már makk egészséges vagy.}
 {502}{}{%s makk egészségesnek látszik.}
 {503}{}{Nem sikerült gyógyítanod.}
@@ -78,13 +78,13 @@
 {571}{}{Sikerült ellopnod: %s.}
 {572}{}{Miközben a tiltott %s becsempészésén ügyködtél, sikeresen lebuktál.}
 {573}{}{Sikerült becsempészned: %s.}
-{590}{}{You've taxed your ability with that skill. Wait a while.}
+{590}{}{Kimerítetted a képzettséged, próbáld meg később!}
 {591}{}{Túl fáradt vagy.}
-{592}{}{Belehalnál az er?feszítésbe.}
+{592}{}{Belehalnál az erőfeszítésbe.}
 {600}{}{Nem vagy elég képzett ilyen sérülések gyógyítására.}
 {601}{}{Ezt a robotot már nem lehet megjavítani.}
 {1000}{}{Hadd segítsek!}
-{1001}{}{Nem látom akadályát...}
+{1001}{}{Ezt meg tudom csinálni!}
 {1002}{}{Megvan!}
 {1003}{}{Örülök, hogy segíthettem.}
 {1004}{}{Oké.}

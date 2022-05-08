@@ -7,12 +7,12 @@
 {203}{}{Open}
 {204}{}{Wheat}
 {205}{}{Abre}
-{206}{}{[vége]}
+{206}{}{[Befejezés]}
 {300}{}{Incorrect door code. Locking door. Please contact the head of Public Relations for the override code.}
-{301}{}{[vége]}
+{301}{}{[Befejezés]}
 {400}{}{Confirm override code.}
-{401}{}{[vége]}
+{401}{}{[Befejezés]}
 {402}{}{This door is electronically locked.}
 {403}{}{Unlocking door. Thank you and have a pleasant day.}
-{404}{}{[vége]}
+{404}{}{[Befejezés]}
 {500}{}{There is no lock to pick.}

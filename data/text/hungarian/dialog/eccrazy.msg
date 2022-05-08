@@ -1,4 +1,4 @@
-{100}{}{?rült alak.}
+{100}{}{Őrült alak.}
 {101}{}{Mmmm... agy...}
 {102}{}{Küldjenek még több kalandort!}
 {103}{}{Ójajjjj...}

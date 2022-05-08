@@ -13,7 +13,7 @@
 {305}{}{Do you know where I could find Vault 13?}
 {306}{}{Viszlát!}
 {307}{}{I am in need of some specific information.}
-{308}{}{Úgymint?}
+{308}{}{Űgymint?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files
  each and every day. There's just so much information to preserve, but, of course, it must be done.}
 {401}{}{Of course. Anyway, I have some other questions.}
@@ -25,11 +25,11 @@
  caverns--but if I had to guess, I'd say it's probably just some overgrown radscorpion.}
 {407}{}{If you haven't seen it, then what makes you think it's a radscorpion?}
 {408}{}{Because I've heard sounds echoing up from the caves--the sounds of snapping claws and skittering legs.}
-{409}{}{Úgy van.}
+{409}{}{Folytatom.}
 {410}{}{In fact, we do. Take a look on that computer over there. Here, you can use this card to access our encrypted files. [He hands you an access card.]}
 {411}{}{Wow, thanks a lot!}
 {412}{}{I don't know anything about Vault 13, but there is Vault City down south. Maybe they have the info you need.}
-{413}{}{Köszi.}
+{413}{}{Kösz.}
 {414}{}{That computer near me should have the information you seek, but you'd need an access card to use it.
  We're very selective with who we give access to, but if you speak to the Abbot, perhaps he'll grant you permission.}
 {415}{}{Oké, köszönöm.}
@@ -66,4 +66,4 @@
  information, you could bring it to me? I'd be most grateful. Of course, it'd have to be our secret.}
 {4220}{}{I don't think I want to contribute to your plant obsession. Sorry.}
 {4221}{}{Oh, well then. Fine, forget I asked.}
-{4222}{}{Feltennék még kérdéseket.}
+{4222}{}{Hadd kérdezzek valami mást!}

@@ -7,7 +7,7 @@
 {112}{}{Hmph. I didn't ask for your help, outworlder. I could have taken care of the well myself.}
 {113}{}{Right. No thanks required.}
 {114}{}{Whatever. Way to be ungrateful.}
-{120}{}{Mit akarsz?}
+{120}{}{Mit akar?}
 {121}{}{I see you're having some trouble with that well. What's wrong, exactly?}
 {130}{}{What's wrong? I dropped the rope, that's what's wrong. [He shifts uncomfortably.] I was fastening a new rope to the well and then I looked up and saw this fine young maiden stretching in the sunlight. Spirits of lust distracted me and the rope slipped from my hands and... What's it to you anyway, outworlder? Unless you got a new rope for me, you be wasting my time.}
 {131}{}{I don't have a rope on me, but I'll see if I can come up with one. I'll get back to you.}
@@ -19,7 +19,7 @@
 {150}{}{So, have you fixed up the well yet?}
 {151}{}{Sure, I got the rope in place now. See?}
 {160}{}{[He glances at the well, then snickers.] What good is a rope if you don't have a bucket attached? Or do you outworlders drink by licking water off a wet rope? [He shakes his head and mutters something under his breath.] Just attach the bucket, and I'll see that you be gettin' a reward.}
-{161}{}{Úgy van.}
+{161}{}{Folytatom.}
 {162}{}{How 'bout *you* reattach the bucket, and I'll see if I can restrain myself from beating your ass.}
 {170}{}{Did you attach the bucket?}
 {171}{}{Nem, még nem.}
@@ -28,9 +28,9 @@
 {181}{}{Yes, it's all done.}
 {182}{}{Ó...}
 {190}{}{[The corner of his mouth twitches up into a hint of a smile.] Ah, I suppose you outworlders aren't all bad, after all. Here, take this money. The spirits tell me you be needing this more than I.}
-{191}{}{Köszi.}
+{191}{}{Kösz.}
 {200}{}{May your ancestors guide you well.}
-{201}{}{Kösz a segítséget.}
+{201}{}{Köszönöm a segítséget.}
 {202}{}{Nice to be seeing you again.}
 {210}{}{You won't take us alive, slaver!}
 {300}{}{All right, calm your spirits of anger. I'll do it myself. [He mumbles.] Crazy outworlder...}
