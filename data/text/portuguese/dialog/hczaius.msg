@@ -14,7 +14,7 @@
 {113}{}{Não consigo te entender, amigo. Por que não ir até o salão? Inferno, talvez Francis até lute
  com você.}
 {114}{}{Pressionar? OK!}
-{115}{}{Certo. Bem, sou Zaius. Agora que fomos apresentados... Você é bom com as m?os? Temos um
+{115}{}{Certo. Bem, sou Zaius. Agora que fomos apresentados... Você é bom com as mãos? Temos um
  problema com nosso purificador de ar no nível inferior da mina, mas não temos as peças para
  consertá-lo ou o equipamento de proteção para evitar sermos sobrecarregados pelo gás radiante que está se acumulando.}
 {116}{}{Eu não sou muito bom. Desculpe.}
