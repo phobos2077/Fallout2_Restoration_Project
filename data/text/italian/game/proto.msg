@@ -95,7 +95,7 @@
 {503}{}{Ferito}
 {504}{}{Illeso}
 {510}{}{Mod ClArm: %d}
-{511}{}{DR Mod: %d}
+{511}{}{Mod ResDan: %d}
 {512}{}{Mod Danno: %d/%d}
 {518}{}{Sei: %s }
 {519}{}{%s %s }
@@ -138,10 +138,10 @@
 {596}{}{L'auto ha il pieno di carburante.}
 {597}{}{L'entrata sembra bloccata.}
 {620}{}{Guadagni %d punti esperienza per aver ucciso: %s.}
-{621}{}{%s you gain %d experience points.}
+{621}{}{%s guadagni %d punti esperienza.}
 {622}{}{Per aver sconfitto i tuoi nemici,}
 {623}{}{Per aver massacrato i tuoi nemici,}
-{624}{}{For being victorious in combat,}
+{624}{}{Hai vinto il combattimento,}
 {625}{}{Per aver schiacciato i tuoi nemici,}
 {626}{}{Per aver distrutto i tuoi nemici senza farti un graffio,}
 {650}{}{[FATTO]}

@@ -7,7 +7,7 @@
 {300}{}{[A half-dozen strange humanoid creatures slowly shamble toward you. Their cadaverous vine and moss-covered bodies make repulsive squelching sounds with each awkward step. The lead creature addresses you in a harsh rasp.] Master wants to speak with you. Come with us, human, and do not resist ... or we'll make a host of you.}
 {301}{}{[Shrug] This should be interesting. Lead the way.}
 {302}{}{I'm not going anywhere with you, plant ... creature ... things.}
-{303}{}{Nincs nekem idõm erre a szarra!}
+{303}{}{Nincs nekem id?m erre a szarra!}
 {304}{}{Hold on. Who's your master? And what, exactly, are you?}
 {310}{}{You have no choice, human. Either come and speak to Master, or we shall resort to violence.}
 {311}{}{Then let's dance.}

@@ -124,7 +124,7 @@
 {382}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
 {400}{}{Can't talk... must build more powerful deck...}
 {500}{}{Haggyá' békén!}
-{501}{}{Tûnj el!}
+{501}{}{T?nj el!}
 {502}{}{Fuck off.}
 {600}{}{Oh, hey, it's you. Somebody blew up the reactor at Gecko and all the ghouls left. No reason for me to stay there,
  so I left and came back here. Luckily for me the monks here didn't question my absence, so I'm not in any trouble for leaving.

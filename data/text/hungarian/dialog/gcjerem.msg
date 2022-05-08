@@ -1,18 +1,18 @@
-{100}{}{Egy borotvált fejû ghoult látsz.}
-{101}{}{Õ Jeremy, a raktáros.}
-{102}{}{Egy magas, sovány ghoult látsz magad elõtt. A jóember nagyon elfoglaltnak tûnik.}
-{110}{}{Üdv, Jeremynek hívnak. Engem bíztak meg itt a raktárosi teendõkkel. Minden ki- és bejövõ anyag átmegy a kezem közt.}
+{100}{}{Egy borotvált fej? ghoult látsz.}
+{101}{}{? Jeremy, a raktáros.}
+{102}{}{Egy magas, sovány ghoult látsz magad el?tt. A jóember nagyon elfoglaltnak t?nik.}
+{110}{}{Üdv, Jeremynek hívnak. Engem bíztak meg itt a raktárosi teend?kkel. Minden ki- és bejöv? anyag átmegy a kezem közt.}
 {111}{}{Üdv! Csak úgy benéztél a csodaraktárunkba, vagy akarsz is valamit innen?}
-{112}{}{Mitõl csoda ez a raktár?}
+{112}{}{Mit?l csoda ez a raktár?}
 {113}{}{Kéne ez-az a raktárból.}
-{114}{}{Most nem kell semmi. Csak szemlélõdöm. Hali...}
-{120}{}{Ha kell valami a raktárból, csak szerezz egy igénylõlapot. Van neked olyanod?}
+{114}{}{Most nem kell semmi. Csak szemlél?döm. Hali...}
+{120}{}{Ha kell valami a raktárból, csak szerezz egy igényl?lapot. Van neked olyanod?}
 {121}{}{Van hát. Tessék.}
-{122}{}{Hát nem igazán. Honnan szerezzek igénylõlapot?}
+{122}{}{Hát nem igazán. Honnan szerezzek igényl?lapot?}
 {130}{}{Hát ez eléggé annak néz ki. Mire van szükséged tehát?}
 {131}{}{Egy háromfázisú plazmaátalakítóra.}
 {132}{}{Egy háromfázisú plazmaátalakítóra. Megmondjam, mire kell?}
-{133}{}{Egy mohaborította, háromnyelû gredundzára.}
+{133}{}{Egy mohaborította, háromnyel? gredundzára.}
 {140}{}{Szerintem van egy itt a szekrényben. Igen-igen. Tessék.}
 {141}{}{Hmm, nem éppen a legújabb modell, de megteszi. Köszi. Viszlát!}
 {150}{}{Nem igazán akarom tudni. Szerintem találunk egyet itt a szekrény mélyén. Bizony-bizony. Tessék.}
@@ -32,18 +32,18 @@
 {181}{}{Te aztán izomból zaza vagy mi?}
 {182}{}{Nehogy a reaktormag közelébe merészkedj!}
 {183}{}{Hát, most sajnos túl elfoglalt vagyok, hogy felolvasást tartsak neked.}
-{184}{}{Mozgás... gyerünk elõre. Rendes kis simabõrû...}
+{184}{}{Mozgás... gyerünk el?re. Rendes kis simab?r?...}
 {190}{}{Mi a franckarika kell neked? Az ilyesmire várni kell. Szolgálhatok valami egyébbel?}
 {191}{}{Szerintem maradok a háromfázisú plazmaátalakítónál.}
-{192}{}{Fenébe. Más nem jó. Késõbb még visszajövök...}
+{192}{}{Fenébe. Más nem jó. Kés?bb még visszajövök...}
 {200}{}{Hmm, ugye nem Skeeter barátja vagy? Néha sikerül magának egy-egy értékesebb dolgot kihozatnia másokkal. Aztán szétkapja a cuccost, és tönkreteszi. Egy kenyérpirítót se bíznék rá.}
 {201}{}{Hát az a nagy helyzet, hogy éppen Skeeternek viszem.}
-{202}{}{Miféle Skeeterrõl beszélsz? Az a dolgom, hogy visszavigyek egy alkatrészt a reaktor irányítóterembe, hogy megjavítsam a... Nézd csak! Az ott nem egy patkány?}
-{203}{}{Gõzöm nincs, mit fognak csinálni azzal a vacakkal. Én csak cipelem.}
+{202}{}{Miféle Skeeterr?l beszélsz? Az a dolgom, hogy visszavigyek egy alkatrészt a reaktor irányítóterembe, hogy megjavítsam a... Nézd csak! Az ott nem egy patkány?}
+{203}{}{G?zöm nincs, mit fognak csinálni azzal a vacakkal. Én csak cipelem.}
 {210}{}{I should have expected that. How the hell did Skeeter get anyone to authorize him getting a
  part, though? I just hope he doesn't blow anything up this time. Oh well. Not my business, I suppose.}
 {211}{}{Ja igen, az alkatrész! Indulnom kéne vele...}
-{220}{}{Szerezhetsz egyet akár Haroldtól a városban, vagy Festustól a fõ reaktorirányító teremben. Engem hidegen hagy, honnan szerzed meg, ha megszerzed. Ha nincs igénylõlap, nincs alkatrész. Punktum. Így mûködnek itt a dolgok.}
-{221}{}{Megszerezted már az igénylõlapot? Anélkül nem adhatok ki semmit.}
-{222}{}{Ah, értem. Látom, akkor szereznem kell egyet. Késõbb még jövök.}
+{220}{}{Szerezhetsz egyet akár Haroldtól a városban, vagy Festustól a f? reaktorirányító teremben. Engem hidegen hagy, honnan szerzed meg, ha megszerzed. Ha nincs igényl?lap, nincs alkatrész. Punktum. Így m?ködnek itt a dolgok.}
+{221}{}{Megszerezted már az igényl?lapot? Anélkül nem adhatok ki semmit.}
+{222}{}{Ah, értem. Látom, akkor szereznem kell egyet. Kés?bb még jövök.}
 {300}{}{Actually, I think I'll get it later. Goodbye.}

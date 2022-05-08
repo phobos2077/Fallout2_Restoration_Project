@@ -1,1 +1,1 @@
-{100}{}{Egy erdõsebb területre érkeztél.}
+{100}{}{Egy erd?sebb területre érkeztél.}

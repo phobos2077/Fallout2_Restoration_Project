@@ -18,16 +18,16 @@
 {117}{}{Escursionista}
 {200}{}{L'uso, la cura e la conoscenza generale di piccole armi da fuoco - pistole, mitragliette e fucili.}
 {201}{}{L'utilizzo e la manutenzione di grosse armi - mitragliatrici, lanciarazzi, lanciafiamme e affini.}
-{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
+{202}{}{La cura e l'alimentazione di armi a energia. Come caricare e usare armi che utilizzano la tecnologia laser o al plasma.}
+{203}{}{Una combinazione di arti marziali, pugilato e altre tecniche di combattimento a mani nude.  Combattimento con pugni e calci.}
 {204}{}{L'utilizzo di armi da mischia in un combattimento corpo a corpo - coltelli, martelli da guerra, lance, bastoni e cosi' via.}
 {205}{}{L'abilita' di utilizzare armi da distanza a "propellente muscolare", come coltelli da lancio, lance e granate.}
-{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{206}{}{Abilita' generica di cura.  Usata per curare piccoli tagli, abrasioni e altri piccoli malanni. In termini di gioco, l'uso del pronto soccorso puo' curare, nel tempo, piu' Punti Vita rispetto al semplice riposo.}
+{207}{}{La cura di ferite gravi e arti menomati. Senza questa abilita', ci vorra' molto piu' tempo per recuperare l'uso di arti feriti.}
 {208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
 {209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
-{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
+{210}{}{L'abilita' di fare tue le cose degli altri. Puo' essere usata per rubare da persone o luoghi.}
+{211}{}{La ricerca e la rimozione di trappole. Comprende anche l'attivazione di esplosivi per scopi di demolizione.}
 {212}{}{Comprende una gran quantita' di abilita' legate alla tecnologia, come l'informatica, la biologia, la fisica e la geologia.}
 {213}{}{L'applicazione pratica dell'abilita' Scienza per riparare equipaggiamenti, macchinari e strumenti elettronici danneggiati.}
 {214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}

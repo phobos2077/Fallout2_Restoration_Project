@@ -20,6 +20,6 @@
 {240}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] No. Now go away. Ask me another question, and I'll hurt you.}
 {241}{}{Alright, I'm going. Bye.}
 {242}{}{Is that a fact?}
-{250}{}{Tûnés!}
+{250}{}{T?nés!}
 {251}{}{Touch that again and I'll kill you.}
 {252}{}{I warned you!}

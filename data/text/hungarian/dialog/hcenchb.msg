@@ -1,12 +1,12 @@
-{100}{}{Egy bõrpáncélos, unatkozó embert látsz.}
+{100}{}{Egy b?rpáncélos, unatkozó embert látsz.}
 {101}{}{You see Max, the caravan guard.}
-{102}{}{Egy bõrpáncélos, unatkozó embert látsz. A brahminbûzbõl, ami körüllengi, és a magabiztos járásából egyértelmûen látszik, hogy karavánkísérõ.}
+{102}{}{Egy b?rpáncélos, unatkozó embert látsz. A brahminb?zb?l, ami körüllengi, és a magabiztos járásából egyértelm?en látszik, hogy karavánkísér?.}
 {103}{}{Segíthetek valamiben?}
 {104}{}{Örgh?}
 {105}{}{Énn dolgozni!}
 {106}{}{Ki vagy te?}
 {107}{}{Mit tudsz nekem mondani Chadról?}
-{108}{}{Nincs idõ hülyegyerekekre. Bocs, haver, de keress mást, akivel játszhatsz!}
+{108}{}{Nincs id? hülyegyerekekre. Bocs, haver, de keress mást, akivel játszhatsz!}
 {109}{}{::szipp::}
 {110}{}{I'm Max. I'm one of the caravan guards.}
 {111}{}{Mit tudsz nekem mondani Chadról?}

@@ -1,6 +1,6 @@
 {100}{}{Egy laborköpenyes férfit látsz, aki teljesen belefeledkezett a munkájába.}
-{101}{}{A Professzort látod. Úgy tûnik, valami nagyon fontos kísérleten dolgozik.}
-{102}{}{Egy eléggé elfoglalt, laborköpenyes embert látsz. Különféle laborfelszerelések veszik körül. Szemében õrült fény csillog.}
+{101}{}{A Professzort látod. Úgy t?nik, valami nagyon fontos kísérleten dolgozik.}
+{102}{}{Egy eléggé elfoglalt, laborköpenyes embert látsz. Különféle laborfelszerelések veszik körül. Szemében ?rült fény csillog.}
 {103}{}{Már megint maga az?}
 {104}{}{Mit akarsz? Ki vele! Nem érek rá!}
 {105}{}{Nem érsz?}
@@ -16,7 +16,7 @@
 {115}{}{Szem!}
 {116}{}{Adj!}
 {117}{}{Egyiksenem!}
-{118}{}{Akkor ne rabold az idõmet! Mondtam, hogy nem érek rá, nemde? Túl sok a dolgom, hogy leálljak olyanokkal beszélgetni, mint... egyáltalán miért beszélek még mindig veled? Szép napot!}
+{118}{}{Akkor ne rabold az id?met! Mondtam, hogy nem érek rá, nemde? Túl sok a dolgom, hogy leálljak olyanokkal beszélgetni, mint... egyáltalán miért beszélek még mindig veled? Szép napot!}
 {119}{}{Páááááá!}
 {120}{}{Ööö... aha. Viszlát!}
 {121}{}{Szóval tesztelni szeretnéd magad? A kézügyességedet, a látásodat vagy az intelligenciádat szeretnéd próbára tenni?}
@@ -24,22 +24,22 @@
 {123}{}{Teszteljük a látásomat!}
 {124}{}{Mit szólsz az ész próbájához?}
 {125}{}{Hmm. Egyiket sem. Hagyjuk!}
-{126}{}{Rendben. A skorpió lesz az ellenfeled. Mindkettõtöknek ki kell nyitni a láda zárját. Sok sikert!}
+{126}{}{Rendben. A skorpió lesz az ellenfeled. Mindkett?töknek ki kell nyitni a láda zárját. Sok sikert!}
 {127}{}{Menjünk!}
 {128}{}{Csináljuk!}
-{129}{}{Rendben. Állj a rács mögé, és a skorpióval együtt olvasd fel felülrõl lefelé, balról jobbra az onnan látható betûket!}
+{129}{}{Rendben. Állj a rács mögé, és a skorpióval együtt olvasd fel felülr?l lefelé, balról jobbra az onnan látható bet?ket!}
 {130}{}{Menjünk!}
 {131}{}{Értem. Gyerünk!}
 {132}{}{Játszanod kell egy menetet a skorpióval az általam fejlesztett játékkal. A neve "sakk". Készen állsz?}
 {133}{}{Ige'!}
 {134}{}{Igen, készen.}
-{135}{}{Én vagyok a Professzor. Az alkalmazott intelligenciát vizsgálom. Intelligencianövelõ gyógyszereket fejlesztek. Most épp a skorpión kísérletezem, mivel a növényekkel kudarcot vallottam.}
+{135}{}{Én vagyok a Professzor. Az alkalmazott intelligenciát vizsgálom. Intelligencianövel? gyógyszereket fejlesztek. Most épp a skorpión kísérletezem, mivel a növényekkel kudarcot vallottam.}
 {136}{}{Növényekkel is megpróbáltad?}
 {137}{}{Szeretném tesztelni a képességeimet.}
-{138}{}{Csináltál már valaha bármit, ami mûködött?}
+{138}{}{Csináltál már valaha bármit, ami m?ködött?}
 {139}{}{Értem. Csak ennyit akartam tudni. Viszlát!}
 {140}{}{Persze, hogy megpróbáltam növényekkel is!  Az intelligenciát a nulláról szeretném felfejleszteni!}
-{141}{}{Értem. Csináltál már valaha bármit, ami mûködött?}
+{141}{}{Értem. Csináltál már valaha bármit, ami m?ködött?}
 {142}{}{Szeretném tesztelni a képességeimet.}
 {143}{}{Értem. Csak ennyit akartam tudni}
 {144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
@@ -47,7 +47,7 @@
 {146}{}{Oké, hiszek neked, de azt hiszem mennem kell.}
 {147}{}{Hogyan... hogyan ölhetted meg a skorpiómat? Olyan közel voltam már... olyan közel...}
 {148}{}{[Elcsoszogsz]}
-{200}{}{Hajrá! Ezt gyõzd le, Mr. Új-gerinchúros!}
+{200}{}{Hajrá! Ezt gy?zd le, Mr. Új-gerinchúros!}
 {201}{}{Haajrááááá!}
 {202}{}{A fene!}
 {203}{}{Aaaargh!}
@@ -68,7 +68,7 @@
 {302}{}{M...Ú...Ú... Múú?}
 {303}{}{Ööö... nem, sajnálom. Nem nyert.}
 {304}{}{::klakatt klakatt:: ::klikk klakk:: ::kipk (faroklengetés)::}
-{305}{}{Úgy van! Jó fiú! Jóóóóó fiú! Szépen fejlõdik a Morse-kód használatod.}
+{305}{}{Úgy van! Jó fiú! Jóóóóó fiú! Szépen fejl?dik a Morse-kód használatod.}
 {306}{}{Bebizonyítottad, hogy van olyan éles szemed, mint a radskorpiónak.}
 {400}{}{Sakkmatt ::klikk::}
 {401}{}{MI? Csaltál!}
@@ -77,4 +77,4 @@
 {404}{}{And... checkmate!}
 {405}{}{Saaaaakkkmattt!}
 {406}{}{::klakatt:: A növény meghal! ::klikk-klakk-klikk::}
-{407}{}{Bebizonyítottad, hogy egy nálad intelligensebb radskorpiót is le tudsz gyõzni.}
+{407}{}{Bebizonyítottad, hogy egy nálad intelligensebb radskorpiót is le tudsz gy?zni.}

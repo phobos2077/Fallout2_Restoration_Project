@@ -11,6 +11,6 @@
 {110}{}{Maradj csak ott!}
 {111}{}{Kérem, menjen odébb!}
 {112}{}{Takarodj ki innen!}
-{113}{}{Vigyázz magadra, vagy hívom az õröket.}
+{113}{}{Vigyázz magadra, vagy hívom az ?röket.}
 {114}{}{Figyellek...}
 {115}{}{Kívülállók, mint te...}

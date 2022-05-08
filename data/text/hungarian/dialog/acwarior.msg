@@ -1,10 +1,10 @@
 {100}{}{A falu egyik férfi harcosát látod.}
-{101}{}{A falu egyik nõi harcosát látod.}
-{150}{}{A falu egyik nagy harcosa áll elõtted. Állatbõrbõl készült nadrágot visel.}
+{101}{}{A falu egyik n?i harcosát látod.}
+{150}{}{A falu egyik nagy harcosa áll el?tted. Állatb?rb?l készült nadrágot visel.}
 {151}{}{[Beszélgetés]}
 {152}{}{Üdvözöllek, Kiválasztott, segíthetek a küldetésedben?}
-{153}{}{Mielõtt elmennék, utoljára körülnézek a faluban.}
-{154}{}{Mit tudnál mondani a velünk üzletelõ kereskedõkrõl?}
+{153}{}{Miel?tt elmennék, utoljára körülnézek a faluban.}
+{154}{}{Mit tudnál mondani a velünk üzletel? keresked?kr?l?}
 {155}{}{Meg tudnád mondani, hol találhatok még gyógyító port??}
 {156}{}{Az istenek majd sebes lépteket adnak, hogy hamarabb visszatérhess.}
 {157}{}{Lenne hozzád egy kérdésem.}
@@ -23,7 +23,7 @@
 {167}{}{Még egy kérdést, ha lehetne.}
 {168}{}{Mi lenne az?}
 {169}{}{Meg tudnád mondani, merre találhatok gyógynövényeket?}
-{170}{}{Mit tudnál mondani a velünk üzletelõ kereskedõkrõl?}
+{170}{}{Mit tudnál mondani a velünk üzletel? keresked?kr?l?}
 {171}{}{Értem.}
 {172}{}{Azt mondják, te vagy a Kiválasztott. Az Alapító bizony nagyot tévedett, amiért rád esett a választása.}
 {173}{}{Ja.}
@@ -33,7 +33,7 @@
 {177}{}{Elárultad a saját népedet!}
 {178}{}{Miért teszed ezt?}
 {179}{}{Halál a gonoszra!}
-{180}{}{Õk nem jelentenek számunkra semmit! A puszták dögevõi.}
+{180}{}{?k nem jelentenek számunkra semmit! A puszták dögev?i.}
 {181}{}{Meg tudnád mondani, merre találhatok gyógynövényeket?}
 {182}{}{Köszönöm. Minden jót!}
 {183}{}{Még egy kérdést, ha lehetne.}
@@ -47,7 +47,7 @@
 {980}{}{Arról semmit se tudok.}
 {981}{}{Sorry. No clue.}
 {982}{}{Never heard of it.}
-{1000}{}{Törzsfõ}
+{1000}{}{Törzsf?}
 {1001}{}{Alapító}
 {1002}{}{Menedéklakó}
 {1003}{}{Arroyo}
@@ -59,9 +59,9 @@
 {1009}{}{Gyógyító por}
 {1010}{}{Híd}
 {1011}{}{Mynoc}
-{1100}{}{A törzsfõ a te édesanyád és a vezetõnk.}
-{1101}{}{Õ a mi nagyszerû õsünk, neki köszönhetjük a tudást.}
-{1102}{}{Õ volt az, aki elõször küzdött meg sikeresen a káosszal.}
+{1100}{}{A törzsf? a te édesanyád és a vezet?nk.}
+{1101}{}{? a mi nagyszer? ?sünk, neki köszönhetjük a tudást.}
+{1102}{}{? volt az, aki el?ször küzdött meg sikeresen a káosszal.}
 {1103}{}{Ez a mi szépséges falunk.}
 {1104}{}{Kereskedelmi csomópont néhány napi járóföldre keleti irányban.}
 {1105}{}{A Menedék maga a mennyország.}

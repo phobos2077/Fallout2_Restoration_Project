@@ -6,7 +6,7 @@
 {105}{}{NEM}
 {106}{}{NÉV}
 {107}{}{FÉRFI}
-{108}{}{NÕ}
+{108}{}{N?}
 {109}{}{KÉPESS.}
 {110}{}{KARMA}
 {111}{}{HULLÁK}
@@ -16,20 +16,20 @@
 {115}{}{Köv. szint:}
 {116}{}{KAR.PONTOK}
 {117}{}{KÉPZETTSÉGEK}
-{118}{}{Mielõtt elkezdenéd a játékot,}
-{119}{}{mielõtt elkezded a játékot!}
+{118}{}{Miel?tt elkezdenéd a játékot,}
+{119}{}{miel?tt elkezded a játékot!}
 {120}{}{Karakterpontok}
-{121}{}{Szabad karakterpontok, amiket az elsõdleges képességek növelésére használhatsz.}
-{122}{}{Következõ szint}
-{123}{}{Ennyi tapasztalati pont kell még a következõ szint eléréséhez.}
+{121}{}{Szabad karakterpontok, amiket az els?dleges képességek növelésére használhatsz.}
+{122}{}{Következ? szint}
+{123}{}{Ennyi tapasztalati pont kell még a következ? szint eléréséhez.}
 {124}{}{Képességek}
 {125}{}{Karma}
 {126}{}{Hullák}
 {127}{}{A képességek további tulajdonságokat adnak. Minden harmadik szinten választhatsz egy képességet.}
 {128}{}{A játékban hozott döntéseid eredménye.}
-{129}{}{Ez a számláló tartja számon, milyen élõlénybõl mennyit öltél meg, vagy öltek meg a jelenlétedben.}
+{129}{}{Ez a számláló tartja számon, milyen él?lényb?l mennyit öltél meg, vagy öltek meg a jelenlétedben.}
 {130}{}{Képzettség pontok}
-{131}{}{Ezekkel a pontokkal növelheted a képzettségeidet. Ahogy egyre ügyesebb leszel valamiben, annál több pont kell a növelésére. Egy képzettség elsajátítása sok idõbe és erõfeszítésbe telik.}
+{131}{}{Ezekkel a pontokkal növelheted a képzettségeidet. Ahogy egyre ügyesebb leszel valamiben, annál több pont kell a növelésére. Egy képzettség elsajátítása sok id?be és er?feszítésbe telik.}
 {132}{}{Elérte a maximum értéket.}
 {133}{}{Nem tudod növelni.}
 {134}{}{Minimum értéken van.}
@@ -40,25 +40,25 @@
 {139}{}{VÁLASZTHATÓ JELLEMVONÁSOK}
 {140}{}{Már megvan a két választható}
 {141}{}{három spec képzettséged!}
-{142}{}{Mielõtt elkezdenéd a játékot,}
-{143}{}{mielõtt elkezded a játékot!}
+{142}{}{Miel?tt elkezdenéd a játékot,}
+{143}{}{miel?tt elkezded a játékot!}
 {144}{}{Speciális képzettségek}
-{145}{}{A speciális képzettségekhez +20%-ot kapsz, és kétszer gyorsabban fejlõdnek. Hármat kell választanod!}
+{145}{}{A speciális képzettségekhez +20%-ot kapsz, és kétszer gyorsabban fejl?dnek. Hármat kell választanod!}
 {146}{}{Választható jellemvonások}
-{147}{}{A jellemvonások részletezik a karaktered egyéniségét. Mindegyiknek van pozitív és negatív hatása. Legfeljebb kettõt választhatsz.}
+{147}{}{A jellemvonások részletezik a karaktered egyéniségét. Mindegyiknek van pozitív és negatív hatása. Legfeljebb kett?t választhatsz.}
 {148}{}{Már megvan a két választható}
 {149}{}{jellemvonásod!}
 {150}{}{Képzettségek}
-{151}{}{A képzettségek elsajátított tudást jelölnek. Tapasztalattal, vagy játék közbeni különleges események során nõnek. Minél nagyobb az érték, annál jártasabb vagy az adott képzettségben.}
+{151}{}{A képzettségek elsajátított tudást jelölnek. Tapasztalattal, vagy játék közbeni különleges események során n?nek. Minél nagyobb az érték, annál jártasabb vagy az adott képzettségben.}
 {152}{}{Válassz egy képességet}
 {153}{}{Válassz egy új jellemvonást}
 {154}{}{Jellemvonás elvesztése}
 {155}{}{Válassz egy új spec képzettséget}
 {156}{}{Jellemvonás}
 {157}{}{Minden tulajdonságnak 1 és 10 között kell lennie,}
-{158}{}{mielõtt elkezded a játékot!}
+{158}{}{miel?tt elkezded a játékot!}
 {160}{}{Nem adtál nevet a karakterednek.}
-{161}{}{Így is õt választod?}
+{161}{}{Így is ?t választod?}
 {175}{}{Köv. szint:}
 {200}{}{Pocsék}
 {201}{}{Rossz}
@@ -66,10 +66,10 @@
 {203}{}{Elmegy}
 {204}{}{Átlag}
 {205}{}{Jó}
-{206}{}{Nyerõ}
+{206}{}{Nyer?}
 {207}{}{Kiváló}
 {208}{}{Tuti}
-{209}{}{Hõsies}
+{209}{}{H?sies}
 {300}{editor}{Életpont}
 {301}{}{Akciópont}
 {302}{editor}{Védelmi érték}
@@ -83,17 +83,17 @@
 {310}{editor}{Kritikus esélye}
 {311}{editor}{Teherbírás}
 {312}{}{Mérgezés}
-{313}{}{Sugárfertõzés}
+{313}{}{Sugárfert?zés}
 {314}{}{Szemsérülés}
 {315}{}{Törött jobb kar}
 {316}{}{Törött bal kar}
 {317}{}{Törött jobb láb}
 {318}{}{Törött bal láb}
-{400}{}{Méreg van a szervezetedben. Amíg meg nem gyógyítod, vagy magától nem távozik, folyamatos sebzést szenvedsz tõle.}
-{401}{}{Sugárfertõzésben szenvedsz. Minél több, annál súlyosabb a hatása.}
+{400}{}{Méreg van a szervezetedben. Amíg meg nem gyógyítod, vagy magától nem távozik, folyamatos sebzést szenvedsz t?le.}
+{401}{}{Sugárfert?zésben szenvedsz. Minél több, annál súlyosabb a hatása.}
 {402}{}{Megsérült az egyik, vagy mindkét szemed. Ez befolyással van az Érzékelésedre.}
-{403}{}{Megsérült a jobb karod és nem tudod rendesen használni. Ha megsérült az egyik karod, nem tudsz kétkezes fegyvereket használni. Ha mindkettõ megsérült, nem tudsz fegyvert használni.}
-{404}{}{Megsérült a bal karod és nem tudod rendesen használni. Ha megsérült az egyik karod, nem tudsz kétkezes fegyvereket használni. Ha mindkettõ megsérült, egyáltalán nem tudsz fegyvert használni.}
+{403}{}{Megsérült a jobb karod és nem tudod rendesen használni. Ha megsérült az egyik karod, nem tudsz kétkezes fegyvereket használni. Ha mindkett? megsérült, nem tudsz fegyvert használni.}
+{404}{}{Megsérült a bal karod és nem tudod rendesen használni. Ha megsérült az egyik karod, nem tudsz kétkezes fegyvereket használni. Ha mindkett? megsérült, egyáltalán nem tudsz fegyvert használni.}
 {405}{}{Eltört a jobb lábad.}
 {406}{}{Eltört a bal lábad.}
 {500}{}{Január}
@@ -131,7 +131,7 @@
 {621}{}{VAULT-13 PERSONNEL RECORD}
 {622}{}{hours}
 {623}{}{ ::: Statisztika :::}
-{624}{}{    Erõ:}
+{624}{}{    Er?:}
 {625}{}{    Életpontok:}
 {626}{}{     Reakció:}
 {627}{}{   Érzékelés:}
@@ -153,7 +153,7 @@
 {643}{}{Kor:}
 {644}{}{        Nem:}
 {645}{}{Férfi}
-{646}{}{Nõ}
+{646}{}{N?}
 {647}{}{ Szint:}
 {648}{}{        TP:}
 {649}{}{Köv. szint:}
@@ -185,18 +185,18 @@
 {1017}{}{A Salvatore család tagja}
 {1018}{}{Házas}
 {1019}{}{Pornósztár}
-{1020}{}{Rabszolga-kereskedõ}
+{1020}{}{Rabszolga-keresked?}
 {1021}{}{A Puszta Szüze}
 {1022}{}{A Bishop család tagja}
 {1023}{}{A Mordino család tagja}
 {1024}{}{A Wright család tagja}
 {1025}{}{Elvált}
 {1026}{}{Smoker}
-{1100}{}{Ez a változó érték mutatja az általános megítélésedet. Minél nagyobb, annál elismertebb vagy a térségben. Ha negatív az érték, gonosz tetteid miatt sokan gyûlölnek.}
+{1100}{}{Ez a változó érték mutatja az általános megítélésedet. Minél nagyobb, annál elismertebb vagy a térségben. Ha negatív az érték, gonosz tetteid miatt sokan gy?lölnek.}
 {1101}{}{Nagyon sok embert öltél meg. Ez nem tesz túl jót a hírnevednek, habár a rossz emberek jobban fognak kedvelni.}
 {1102}{}{A tetteid miatt az emberek Bajnoka lettél. A gonosz elleni harcodról mindenfelé hallott. A tisztességes emberek jobban kedvelnek.}
 {1103}{}{Gyerekeket öltél meg, a Pusztaság fiatalságát. Ez bizony nagyon rossz dolog. Te nagyon, nagyon rossz ember vagy.}
-{1104}{}{Iszonyúan élvezed a Nuka-Kólát, a poszt-nukleáris világ üdítõitalát.}
+{1104}{}{Iszonyúan élvezed a Nuka-Kólát, a poszt-nukleáris világ üdít?italát.}
 {1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
 {1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
 {1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
@@ -205,14 +205,14 @@
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
 {1112}{}{TEMPORARY - What is this?}
-{1113}{}{Tudod, mi az a szex, és tudod, mi az az elõjáték. Van fogalmad róla, hogyan kell kielégíteni az ellenkezõ nem tagjait.}
+{1113}{}{Tudod, mi az a szex, és tudod, mi az az el?játék. Van fogalmad róla, hogyan kell kielégíteni az ellenkez? nem tagjait.}
 {1114}{}{Te vagy Észak-Kalifornia nehézsúlyú bokszbajnoka. Hírnevet és elismerést szereztél... és egy kis bónuszt a keménységedhez valamint a pusztakezes képzettségedhez.}
-{1115}{}{Legyünk õszinték: Mindennel lefekszel, ami két lábon jár, de néha még ennyire sem vagy válogatós.}
-{1116}{}{"Õk már halottak, nem érdekli õket" - ez lett a te mottód. Mások maradványainak felásása számodra már meghaladja a hobbi szintet.}
+{1115}{}{Legyünk ?szinték: Mindennel lefekszel, ami két lábon jár, de néha még ennyire sem vagy válogatós.}
+{1116}{}{"?k már halottak, nem érdekli ?ket" - ez lett a te mottód. Mások maradványainak felásása számodra már meghaladja a hobbi szintet.}
 {1117}{}{A Salvatore család tagja lettél. Ismert és elismert vagy, ráadásul remekül nézel ki öltönyben.}
 {1118}{}{Bekötötték a fejed. Hé, ez a te bajod, nem a miénk.}
-{1119}{}{Hatalmas, fényes, és tündöklõ csillag vagy. Egész New Reno ismeri a szexuális teljesítményedet.}
-{1120}{}{Beléptél a Rabszolga-kereskedõk csoportjába. Attól a tetkótól a homlokodon mindenkinek nyilvánvalóvá válik a foglalkozásod.}
+{1119}{}{Hatalmas, fényes, és tündökl? csillag vagy. Egész New Reno ismeri a szexuális teljesítményedet.}
+{1120}{}{Beléptél a Rabszolga-keresked?k csoportjába. Attól a tetkótól a homlokodon mindenkinek nyilvánvalóvá válik a foglalkozásod.}
 {1121}{}{Többet kéne randiznod. A szexuális tapasztalataid... hát, hogy is mondjam... egysíkúak.}
 {1122}{}{A Bishop család tagja lettél. Ismert és elismert vagy, ráadásul remekül nézel ki öltönyben.}
 {1123}{}{A Mordino család tagja lettél. Ismert és elismert vagy, ráadásul remekül nézel ki öltönyben.}
@@ -226,17 +226,17 @@
 {2004}{}{Ellenszenves}
 {2005}{}{Utált}
 {2006}{}{Üldözött}
-{2100}{}{Ezen a környéken mindenki hozzád hasonló szeretne lenni. Te vagy a város hõse, és mindenki példaképe.}
-{2101}{}{Az emberek elõre köszönnek, integetnek neked, akárhova is mész azon a környéken. Mindenki hallott rólad, és örülnek a hallottaknak.}
+{2100}{}{Ezen a környéken mindenki hozzád hasonló szeretne lenni. Te vagy a város h?se, és mindenki példaképe.}
+{2101}{}{Az emberek el?re köszönnek, integetnek neked, akárhova is mész azon a környéken. Mindenki hallott rólad, és örülnek a hallottaknak.}
 {2102}{}{Igaz, hogy nem fogadnak tárt karokkal, de minimum bólintanak, amikor találkoznak veled. A többiekhez hasonlóan beilleszkedtél.}
 {2103}{}{Általában gyanakvóak az idegenekkel szemben, de még nem ismernek eléggé.}
-{2104}{}{Te is csak egy újabb kívülálló vagy, aki valószínûleg csak bajt kever.}
-{2105}{}{Bebizonyítottad az embereknek, hogy gyanakvásuk nem volt hiábavaló. Amikor a közelükbe érsz, összesúgnak a hátad mögött. Tudják, hogy bajkeverõ vagy.}
-{2106}{}{Amikor mások közelébe mész, megbámulnak és suttognak, néhányan átmennek az utca másik felére, csak hogy ne kelljen melletted elmenni, míg mások leköpnek, elfordulnak tõled. Mindenki tudja, hogy te vagy a létezõ legrosszabb dolog az életükben.}
-{3000}{}{Elesettek Megmentõje}
-{3001}{}{A Puszta Õrzõje}
+{2104}{}{Te is csak egy újabb kívülálló vagy, aki valószín?leg csak bajt kever.}
+{2105}{}{Bebizonyítottad az embereknek, hogy gyanakvásuk nem volt hiábavaló. Amikor a közelükbe érsz, összesúgnak a hátad mögött. Tudják, hogy bajkever? vagy.}
+{2106}{}{Amikor mások közelébe mész, megbámulnak és suttognak, néhányan átmennek az utca másik felére, csak hogy ne kelljen melletted elmenni, míg mások leköpnek, elfordulnak t?led. Mindenki tudja, hogy te vagy a létez? legrosszabb dolog az életükben.}
+{3000}{}{Elesettek Megment?je}
+{3001}{}{A Puszta ?rz?je}
 {3002}{}{A Reménység Pajzsa}
-{3003}{}{Védelmezõ}
+{3003}{}{Védelmez?}
 {3004}{}{Vándor}
 {3005}{}{Áruló}
 {3006}{}{A Kétségbeesés Fegyvere}

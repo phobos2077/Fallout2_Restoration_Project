@@ -1,6 +1,6 @@
 {100}{}{Mintha kissé inogna ez az ember.}
 {101}{}{A buli csaposát látod.}
-{102}{}{Úgy tûnik, hogy õ is végigkóstolta a saját áruját.}
+{102}{}{Úgy t?nik, hogy ? is végigkóstolta a saját áruját.}
 {103}{}{Mih... mija... mit adhatok? [Hukk.]}
 {104}{}{Nuka Colát [$6]}
 {105}{}{Sört [$15]}
@@ -9,7 +9,7 @@
 {108}{}{Ah...}
 {109}{}{Óhhhh... de hát pia nélkül mit ér a buli... [Átnyújt egy italt.]}
 {110}{}{[Vége]}
-{111}{}{Tessék. Kicsit meleg, me' nem volt ideje lehûlni. Gyo'sabban adom el a cuccot, mint ahogy csinálni tudom. [Az ital meleg, sárga és...]}
+{111}{}{Tessék. Kicsit meleg, me' nem volt ideje leh?lni. Gyo'sabban adom el a cuccot, mint ahogy csinálni tudom. [Az ital meleg, sárga és...]}
 {112}{}{[Vége]}
 {113}{}{[Úgy érzed, mintha elolvadna a gyomrod, és nyelsz egy nagyot.]}
 {114}{}{[Vége]}
@@ -19,14 +19,14 @@
 {118}{}{[Vége]}
 {119}{}{Elég vad kinézete van.}
 {120}{}{You see an addict.}
-{121}{}{Kicsit idegesnek tûnik.}
+{121}{}{Kicsit idegesnek t?nik.}
 {122}{}{Mitakarsz? Vanmindenem!}
 {123}{}{Mentátot [$560]}
 {124}{}{Buffoutot [$400]}
 {125}{}{Pszichót [$800]}
 {126}{}{Semmit, kösz!}
 {127}{}{Ah...}
-{128}{}{Nagyszerû! Virítsdalóvétaztánhúzzinnen! Vezetnemkelazüzletet.}
+{128}{}{Nagyszer?! Virítsdalóvétaztánhúzzinnen! Vezetnemkelazüzletet.}
 {129}{}{[Vége]}
 {130}{}{Ahogyamondástartja. Nincspénznincsméz. Oh. Aztaszexremondják. Akkorlegyennincskassaznincsmassza. Gyerevisszahavanpénzed!}
 {131}{}{[Vége]}
@@ -43,7 +43,7 @@
 {155}{}{Menj innen!}
 {156}{}{Most tök részeg leszek.}
 {157}{}{Menj elsülni ...máshova!}
-{158}{}{Mi lenne, ha te meg én sétálnánk egyet messze a többiektõl?}
+{158}{}{Mi lenne, ha te meg én sétálnánk egyet messze a többiekt?l?}
 {159}{}{Uhh, let's do it!}
 {160}{}{Nee, részeg vagyok!}
 {161}{}{[Büff!] ::mosolyog::}
@@ -57,7 +57,7 @@
 {177}{}{Hé, ez csak egy kaland volt... szeretem a szabadságot.}
 {178}{}{Simulékony vagy, mint egy macska. Akarlak téged!}
 {179}{}{Készen állsz?}
-{180}{}{Ne most! Be kell lõnöm magam...}
+{180}{}{Ne most! Be kell l?nöm magam...}
 {181}{}{Légy résen! Bemegyünk.}
 {200}{}{Ne legyél má' hülye!}
 {201}{}{Menj, bulizz máshol!}

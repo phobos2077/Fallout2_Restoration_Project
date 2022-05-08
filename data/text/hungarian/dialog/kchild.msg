@@ -1,5 +1,5 @@
-{100}{}{Egy Klamathban élõ gyereket látsz.}
-{101}{}{Egy Klamathban élõ gyereket látsz.}
+{100}{}{Egy Klamathban él? gyereket látsz.}
+{101}{}{Egy Klamathban él? gyereket látsz.}
 {150}{}{Ne egyél meg!}
 {151}{}{Áááááá! Szörnyeteg!}
 {152}{}{Apu azt mondja, hogy te rossz ember vagy!}
@@ -9,7 +9,7 @@
 {156}{}{Nem szabadna törzsbéliekkel beszélnem.}
 {157}{}{Olyan vagy, mint a Duntonok.}
 {158}{}{Anyu azt mondja, hogy megeszel, ha rosszul viselkedem.}
-{159}{}{Nem félek ám tõled!}
+{159}{}{Nem félek ám t?led!}
 {160}{}{Segítséég!}
 {161}{}{Üldöz!}
 {162}{}{Kérlek, ne bánts!}
@@ -30,9 +30,9 @@
 {178}{}{Fogócskázzunk! Te vagy a fogó!}
 {179}{}{Nincs is olyan rossz szagod.}
 {180}{}{Láttad már a láthatatlan barátom?}
-{181}{}{Ha olyan idõs leszek, mint te, körbe fogom utazni a világot.}
+{181}{}{Ha olyan id?s leszek, mint te, körbe fogom utazni a világot.}
 {182}{}{Te rendes törzsbéli vagy, nem úgy, mint a többi.}
-{183}{}{Fogadok, hogy te is gyakran fürdõzöl.}
+{183}{}{Fogadok, hogy te is gyakran fürd?zöl.}
 {184}{}{Okosabb vagy, mint Torr.}
 {185}{}{Éles az a penge?}
 {186}{}{Amikor felnövök, olyan akarok lenni, mint te.}
@@ -44,7 +44,7 @@
 {192}{}{Viccesen nézel ki.}
 {193}{}{Mit viselsz?}
 {194}{}{Brahminon akarok lovagolni!}
-{195}{}{Messzirõl jöttél?}
+{195}{}{Messzir?l jöttél?}
 {196}{}{Jeeeee! Ha-ha-ha!}
 {197}{}{Ne menj!}
 {198}{}{Van kajád?}
@@ -72,8 +72,8 @@
 {220}{}{Kedvellek.}
 {221}{}{Kedvelsz?}
 {222}{}{Házas vagy?}
-{223}{}{Egy, kettõ, három - álom!}
-{1000}{}{Törzsfõ}
+{223}{}{Egy, kett?, három - álom!}
+{1000}{}{Törzsf?}
 {1001}{}{Alapító}
 {1002}{}{Menedéklakó}
 {1003}{}{Arroyo}
@@ -85,9 +85,9 @@
 {1009}{}{Gyógyító por}
 {1010}{}{Híd}
 {1011}{}{Mynoc}
-{1100}{}{A törzsfõ a te édesanyád és a vezetõnk.}
-{1101}{}{Õ a mi nagyszerû õsünk, neki köszönhetjük a tudást.}
-{1102}{}{Õ volt az, aki elõször küzdött meg sikeresen a káosszal.}
+{1100}{}{A törzsf? a te édesanyád és a vezet?nk.}
+{1101}{}{? a mi nagyszer? ?sünk, neki köszönhetjük a tudást.}
+{1102}{}{? volt az, aki el?ször küzdött meg sikeresen a káosszal.}
 {1103}{}{Ez a mi szépséges falunk.}
 {1104}{}{That's trading outpost a few days east of here.}
 {1105}{}{A Menedék maga a mennyország.}

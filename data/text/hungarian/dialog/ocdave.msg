@@ -1,4 +1,4 @@
-{100}{}{Egy szomorú, idõsebb ember.}
+{100}{}{Egy szomorú, id?sebb ember.}
 {101}{}{Dave, alias "Mr. Depresszió".}
 {102}{}{You see a grumpy, older man in his early sixties. He has a weathered face and looks as if he
  has had his fair share of abuse.}
@@ -6,11 +6,11 @@
 {104}{}{Hogyhogy? Én nagy.}
 {105}{}{Te szomorú. Miért?}
 {106}{}{Én menni, üdv.}
-{107}{}{Semmi gond, bárkivel elõfordulhat. Hm, elég gondterheltnek tûnik. Megmondaná, miért?}
+{107}{}{Semmi gond, bárkivel el?fordulhat. Hm, elég gondterheltnek t?nik. Megmondaná, miért?}
 {108}{}{Oké, mindegy. Miért ilyen szomorú?}
 {109}{}{Legközelebb talán üssem fejbe, hogy észrevegyen?!}
 {110}{}{Mindegy. Most jut eszembe, nekem valahol máshol kéne lennem.}
-{111}{}{Az élet szemét... fõleg velem.}
+{111}{}{Az élet szemét... f?leg velem.}
 {112}{}{Öö... én most menni el.}
 {113}{}{Úgymint?}
 {114}{}{Jó hozzáállás. Mire fel?}
@@ -26,7 +26,7 @@
 {121}{}{Oké, képben vagyok. Most éppen mi zavarja?}
 {122}{}{Igazán sajnálom, hogy ennyi fájdalom érte az életben. Remélem, most már jobb sora van?}
 {123}{}{Egy pillanat. Elfelejtettem, hogy most valami egészen más dolgom akadt.}
-{124}{}{Hát, ja, az élet szemét... fõleg velem.}
+{124}{}{Hát, ja, az élet szemét... f?leg velem.}
 {125}{}{Mi történik most?}
 {126}{}{Én már hallottam. Üdv!}
 {127}{}{Most épp mi történt, amin így kiakadt?}
@@ -34,7 +34,7 @@
 {129}{}{Naszóval, épp a sivatagban utaztam, mikor a brahminjaim hirtelen holtan estek össze. Akkor vettem észre, hogy alig van nálam víz és már jó ideje nem ittam. A csontjaim csakhamar sajogni kezdtek, a fejem elkezdett fájni, hasmenésem lett, és olyan kiütést kaptam, hogy azóta sem múlt el. Ideje volt leülni, és meghalni.}
 {130}{}{Én... ööö.. maga... maga nincs feleség vagy gyerek?}
 {131}{}{Nem beszélje tovább! Én menni.}
-{132}{}{Nem szeretnék több hasonló dolgot hallani. Jobb lesz, ha eltûnök a közelébõl. Viszlát!}
+{132}{}{Nem szeretnék több hasonló dolgot hallani. Jobb lesz, ha elt?nök a közeléb?l. Viszlát!}
 {133}{}{Könyörgöm, nyugtasson meg, hogy nincs gyereke!}
 {134}{}{Nope. When I turned twenty-two this strange fungus started to grow on my test...}
 {135}{}{Ááá! Elég! Én menni el!}
@@ -44,11 +44,11 @@
 {139}{}{Bocs, én megy.}
 {140}{}{Azon gondolkoztam, elmondaná-e még egyszer a történetét?}
 {141}{}{Egy pillanat, összekevertem valakivel.}
-{142}{}{Végre, eljött az én idõm. Most meg fog ölni?}
+{142}{}{Végre, eljött az én id?m. Most meg fog ölni?}
 {143}{}{Igen.}
 {144}{}{Nem.}
-{145}{}{Nyolc éves koromban a kutyámat, Tüsit elütötte egy traktor. Kilenc éves koromban az anyám karját leharapta egy veszett brahmin. Tíz éves koromban a nõvéremet széttépte egy falka kutya. Tizenegy éves koromban a nagyapám öngyilkos lett, mert ronda voltam. Tizenhárom éves koromban az apám részegségében kiszúrta a saját szemét egy villával.}
+{145}{}{Nyolc éves koromban a kutyámat, Tüsit elütötte egy traktor. Kilenc éves koromban az anyám karját leharapta egy veszett brahmin. Tíz éves koromban a n?véremet széttépte egy falka kutya. Tizenegy éves koromban a nagyapám öngyilkos lett, mert ronda voltam. Tizenhárom éves koromban az apám részegségében kiszúrta a saját szemét egy villával.}
 {146}{}{Tizenhét éves koromban levágtam egy kapával a nagylábujjamat. Tizennyolc éves koromban az apám lábát levágta ugyanaz a traktor, amelyik a kutyámat ütötte el. Tizenkilenc éves koromban...}
-{147}{}{Tehát ott ültem a sivatagban, várva, hogy végleg megszûnjek létezni, mikor egy falka halálkarom tûnt fel. Na, gondoltam, eljött az idõ. Egy rakás halálkarom-szarként fogom végezni a sivatagban. De nem... a sors folytatta kegyetlen játékát ellenem.}
-{148}{}{Amint látja, a halálkarmok nem öltek meg. Helyette vizet adtak, ide hoztak, megkaptam ezt a szobát, adtak ennem, megmosdattak, és most nem engednek távozni. Szerintem azért hízlalnak, hogy bevégezzem ismeretlen, szörnyû sorsomat. Hiába mondom nekik, hogy soványabban finomabb lennék. Csak mosolyognak, már ha annak lehet nevezni, és megpaskolva a fejemet azt mondják: "Ne aggódj, ember, jobbra fordul a sorsod". Hah! Mindketten tudjuk, mit jelent ez.}
-{149}{}{Mindenesetre, hogy még rosszabb legyen, valamiféle gyógykezelés alá vettek. Eléggé felfújt, úgyhogy abbahagytam... Milyen igazam volt! Azt hiszem, valami "tudat-befolyásoló" pirula volt, mert valahogy szebbnek láttam tõle a világot! Hát, ennyit errõl. Csak arra várok, hogy a halálkarmok felszabdalt, megpörkölt testembõl lakomázzanak.}
+{147}{}{Tehát ott ültem a sivatagban, várva, hogy végleg megsz?njek létezni, mikor egy falka halálkarom t?nt fel. Na, gondoltam, eljött az id?. Egy rakás halálkarom-szarként fogom végezni a sivatagban. De nem... a sors folytatta kegyetlen játékát ellenem.}
+{148}{}{Amint látja, a halálkarmok nem öltek meg. Helyette vizet adtak, ide hoztak, megkaptam ezt a szobát, adtak ennem, megmosdattak, és most nem engednek távozni. Szerintem azért hízlalnak, hogy bevégezzem ismeretlen, szörny? sorsomat. Hiába mondom nekik, hogy soványabban finomabb lennék. Csak mosolyognak, már ha annak lehet nevezni, és megpaskolva a fejemet azt mondják: "Ne aggódj, ember, jobbra fordul a sorsod". Hah! Mindketten tudjuk, mit jelent ez.}
+{149}{}{Mindenesetre, hogy még rosszabb legyen, valamiféle gyógykezelés alá vettek. Eléggé felfújt, úgyhogy abbahagytam... Milyen igazam volt! Azt hiszem, valami "tudat-befolyásoló" pirula volt, mert valahogy szebbnek láttam t?le a világot! Hát, ennyit err?l. Csak arra várok, hogy a halálkarmok felszabdalt, megpörkölt testemb?l lakomázzanak.}

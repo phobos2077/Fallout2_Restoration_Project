@@ -1,5 +1,5 @@
-{100}{}{Kézi lõfegyverek}
-{101}{}{Nehéz lõfegyverek}
+{100}{}{Kézi l?fegyverek}
+{101}{}{Nehéz l?fegyverek}
 {102}{}{Energiafegyverek}
 {103}{}{Pusztakezes.}
 {104}{}{Közelharc}
@@ -16,19 +16,19 @@
 {115}{}{Üzletelés}
 {116}{}{Szerencsejáték}
 {117}{}{Túlélés}
-{200}{}{Kézi lõfegyverek használata, karbantartása és általános ismerete - pisztolyok, géppisztolyok és puskák.}
-{201}{}{Nehéz lõfegyverek használata és karbantartása - gépágyúk, rakétavetõk, lángszórók, stb.}
-{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
+{200}{}{Kézi l?fegyverek használata, karbantartása és általános ismerete - pisztolyok, géppisztolyok és puskák.}
+{201}{}{Nehéz l?fegyverek használata és karbantartása - gépágyúk, rakétavet?k, lángszórók, stb.}
+{202}{}{Energia alapú fegyverek feltöltése és használata - minden, ami lézer- vagy plazma technológiával m?ködik.}
+{203}{}{Harcm?vészetek, boksz, és egyéb pusztakezes harctudományok. Harc kézzel és lábbal.}
 {204}{}{A nem távolsági fegyverek használata - kések, kalapácsok, lándzsák, bunkók, stb.}
 {205}{}{Hajítófegyverek használatának képzettsége - dobókések, lándzsák és gránátok.}
-{206}{}{General healing skill.  Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs.  Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{206}{}{A gyógyítás legalapvet?bb ismeretei. Könnyebb sebek, horzsolások és egyéb kisebb betegségek ellátása. Több ÉP-t gyógyíthat, mint az ugyanannyi ideig tartó pihenés.}
+{207}{}{Súlyos sérülések, sérült végtagok gyógyítása. Enélkül sokkal több id? kell a sérült végtagok gyógyulásához.}
 {208}{}{Quiet movement, and the ability to remain unnoticed.  If successful, you will be much harder to locate.  You cannot run and sneak at the same time.}
 {209}{}{The skill of opening locks without the proper key.  The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
-{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
-{212}{}{Tudományok, ismeretek gyûjtõképzettsége, mint például a számítás-technika, biológia, fizika és geológia.}
+{210}{}{Mások dolgainak eltulajdonítása. Tárgyak ellopása emberekt?l, vagy különböz? helyekr?l.}
+{211}{}{Csapdák megtalálásának és hatástalanításának, valamint robbanóanya-gok használatának képzettsége.}
+{212}{}{Tudományok, ismeretek gy?jt?képzettsége, mint például a számítás-technika, biológia, fizika és geológia.}
 {213}{}{A Tudományok képzettség gyakorlati alkalmazása lerobbant, hibás berendezések, gépek vagy elektronikus eszközök javítására.}
 {214}{}{The ability to communicate in a practical and efficient manner.  The skill of convincing others that your position is correct.  The ability to lie and not get caught.}
 {215}{}{Trading and trade-related tasks.  The ability to get better prices for items you sell, and lower prices for items you buy.}
@@ -52,7 +52,7 @@
 {315}{}{+ (4 x KA)}
 {316}{}{+ (5 x SZ)}
 {317}{}{+ (2 x (KI + IN))}
-{500}{}{%d életerõt gyógyítottál.}
+{500}{}{%d életer?t gyógyítottál.}
 {501}{}{Már makk egészséges vagy.}
 {502}{}{%s makk egészségesnek látszik.}
 {503}{}{Nem sikerült gyógyítanod.}
@@ -80,7 +80,7 @@
 {573}{}{Sikerült becsempészned: %s.}
 {590}{}{You've taxed your ability with that skill. Wait a while.}
 {591}{}{Túl fáradt vagy.}
-{592}{}{Belehalnál az erõfeszítésbe.}
+{592}{}{Belehalnál az er?feszítésbe.}
 {600}{}{Nem vagy elég képzett ilyen sérülések gyógyítására.}
 {601}{}{Ezt a robotot már nem lehet megjavítani.}
 {1000}{}{Hadd segítsek!}

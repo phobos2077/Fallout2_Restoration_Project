@@ -1,15 +1,15 @@
-{100}{}{Egy nõt látsz.}
-{101}{}{Egy városlakó nõt látsz.}
-{102}{}{Egy városlakó nõt látsz. A ruhája ugyan nem valami jó, de legalább emelt fõvel jár.}
+{100}{}{Egy n?t látsz.}
+{101}{}{Egy városlakó n?t látsz.}
+{102}{}{Egy városlakó n?t látsz. A ruhája ugyan nem valami jó, de legalább emelt f?vel jár.}
 {147}{}{Már sehol sem vagyunk biztonságban?}
-{148}{}{Mióta ilyen népszerû a gengszterkedés?}
+{148}{}{Mióta ilyen népszer? a gengszterkedés?}
 {149}{}{Asszem, elköltözök... itt már nem biztonságos.}
-{150}{}{Úgy hallottam, Franc és Manson igazi mutánsgyûlölõk.}
+{150}{}{Úgy hallottam, Franc és Manson igazi mutánsgy?löl?k.}
 {151}{}{Örülök, hogy kijöttek... vajon mi lehet most velük?}
-{152}{}{Franc és Manson a város rákfenéi. Addig itt nem lesz rend, amíg újra le nem sittelik õket.}
-{153}{}{Ki ölte meg az õröket? Ez annyira embertelen!}
+{152}{}{Franc és Manson a város rákfenéi. Addig itt nem lesz rend, amíg újra le nem sittelik ?ket.}
+{153}{}{Ki ölte meg az ?röket? Ez annyira embertelen!}
 {154}{}{Már el se hiszem, hogy ez a város valamikor békében élt.}
-{155}{}{Hogyan sikerült meggyõznöd az õröket, hogy engedjék el õket?}
+{155}{}{Hogyan sikerült meggy?znöd az ?röket, hogy engedjék el ?ket?}
 {156}{}{Kösz, hogy kihoztad Franc-et és Mansont. Nem is okoztak igazi bajt.}
 {157}{}{Hol van most Franc és Manson? A börtönben lenne a helyük.}
 {158}{}{A legjobb barátaim némelyike mutáns és ghoul...}
@@ -19,7 +19,7 @@
 {162}{}{Szerinted jó lenne New Renóban élni?}
 {163}{}{Nincs semmi bajom a mutánsokkal, csak olyan viccesen néznek ki.}
 {164}{}{Azt mondanám: "szép munka volt", de biztos beárulnál.}
-{165}{}{Jacob és Aileen mutánsgyûlölõk? Pedig olyan kedvesek voltak.}
+{165}{}{Jacob és Aileen mutánsgy?löl?k? Pedig olyan kedvesek voltak.}
 {166}{}{Ugyan... Aileen?}
 {167}{}{Nehéz elhinni, hogy az ember-mutáns kapcsolat ilyen mélyre süllyedt.}
 {168}{}{Marcus most már biztosan bepöccent az emberekre.}
@@ -30,18 +30,18 @@
 {173}{}{Tönkrementünk.}
 {174}{}{Ez Broken Hills vége.}
 {175}{}{Megyek az ÚKK-ba.}
-{176}{}{Ki képes ilyen szörnyûségre?}
+{176}{}{Ki képes ilyen szörny?ségre?}
 {177}{}{Istenem... a bánya...}
 {178}{}{Van egyáltalán igazság az életben?}
 {179}{}{Azt hiszem, öngyilkos leszek. A bánya nélkül nem tudom eltartani magamat sem.}
 {180}{}{Jaj, haver... nehéz az élet.}
-{181}{}{Ejha... nem volt még senki, aki legyõzte volna Francist.}
-{182}{}{Erõs vagy!}
+{181}{}{Ejha... nem volt még senki, aki legy?zte volna Francist.}
+{182}{}{Er?s vagy!}
 {183}{}{Kemény vagy, mi?}
-{184}{}{Néha úgy érzem magam, mint egy mágikus 8-as golyó. Mondok valami véletlenszerû dumát, aztán odébbállok.}
+{184}{}{Néha úgy érzem magam, mint egy mágikus 8-as golyó. Mondok valami véletlenszer? dumát, aztán odébbállok.}
 {185}{}{Birkóztál már valaha halálkarommal?}
-{186}{}{Vagy olyan okos, mint amilyen erõs?}
-{187}{}{Francis sokkal boldogabbnak tûnik mostanában.}
+{186}{}{Vagy olyan okos, mint amilyen er?s?}
+{187}{}{Francis sokkal boldogabbnak t?nik mostanában.}
 {188}{}{Francis szinte ragyog. Megfektetett valakit?}
 {189}{}{Helló, szexrabszolga!}
 {190}{}{Tudsz még járni?}
@@ -58,7 +58,7 @@
 {201}{}{Jó munkát végeztél. Gondolkoztál már a seriffségen?}
 {202}{}{Mostanság sokkal kellemesebb ez a város.}
 {203}{}{Remélem, most már a rendes kerékvágásban fogunk haladni.}
-{204}{}{Távozz tõlem, sátán!}
+{204}{}{Távozz t?lem, sátán!}
 {205}{}{Nem beszélek a te fajtáddal.}
 {206}{}{Ki engedett be?}
 {207}{}{Nem értem, miért nem kergetnek ki a városból.}
@@ -66,7 +66,7 @@
 {209}{}{Ne zaklass!}
 {210}{}{Nem segíthetek. Menj el!}
 {211}{}{Száradj ki a sivatagban, te gané!}
-{212}{}{Tûnj el!}
+{212}{}{T?nj el!}
 {213}{}{Segítség!}
 {214}{}{Itt van! Itt van!}
 {215}{}{Aaaaaaaaaaah!}

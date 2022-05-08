@@ -1,4 +1,4 @@
-{100}{}{Ez az ember erõpáncélt visel.}
+{100}{}{Ez az ember er?páncélt visel.}
 {101}{}{Sir Launcelot.}
 {102}{}{A fegyverét simogatja.}
 {103}{}{Sir Launcelot, szolgálatodra.}

@@ -1,14 +1,14 @@
 {100}{}{Számítógép-terminál}
 {101}{}{Egy kis matrica van rajta, amin ez áll: I*tel Inside.}
-{102}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
+{102}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
 {103}{}{Control Terminal
                                                        Project: Organic and Robotic Synthesis Experiment}
 {104}{}{}
-{105}{}{Rendszer ellenõrzése.}
+{105}{}{Rendszer ellen?rzése.}
 {106}{}{Robot aktiválása}
 {107}{}{Kilépés}
 {108}{}{Hö?}
-{109}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
+{109}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
 {110}{}{Program vége}
 {111}{}{Kilépés}
 {112}{}{Ah...}
@@ -70,11 +70,11 @@
 {164}{}{Indítás-szekvencia inicializálása}
 {165}{}{                                      Energia szint - Csekély}
 {166}{}{                                              Kompatibilitás - 75%}
-{167}{}{                                                  Az egység mûködõképes}
+{167}{}{                                                  Az egység m?köd?képes}
 {170}{}{                                              Kompatibilitás - 50%}
 {174}{}{                                              Kompatibilitás - 10%}
 {176}{}{Kilépés}
-{200}{}{ képtelen elolvasni, mi van a képernyõre írva.}
+{200}{}{ képtelen elolvasni, mi van a képerny?re írva.}
 {300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
 {500}{}{Indítás-szekvencia inicializálása
                                       Energia szint - Csekély
@@ -82,4 +82,4 @@
                                                  Letöltés...
                                                               Program Folytatása
                                                   Kompatibilitás - 100%
-                                                 Az egység mûködõképes}
+                                                 Az egység m?köd?képes}

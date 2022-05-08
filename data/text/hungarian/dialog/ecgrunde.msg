@@ -6,4 +6,4 @@
 {105}{}{Gyere, egérke! Én lenni éhes.}
 {106}{}{Szkvííí, szkvííí, SZKVÍÍÍÍÍÍÍÍÍÍÍ!}
 {107}{}{Oké, oké, én hazudni, én megenni tégedet.}
-{110}{}{Óh! Te lenni nagy egérke. Lenni belõled jó vacsora Grundelnek.}
+{110}{}{Óh! Te lenni nagy egérke. Lenni bel?led jó vacsora Grundelnek.}

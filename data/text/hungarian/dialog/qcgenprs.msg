@@ -1,5 +1,5 @@
 {100}{}{Egy mogorva embert látsz menedékruhában.}
-{101}{}{Egy fogoly a 13-as Menedékbõl.}
+{101}{}{Egy fogoly a 13-as Menedékb?l.}
 {102}{}{Egy nagyon sápadt embert látsz, aki menedékruhát visel.}
 {103}{}{Törzsed egyik tagját látod.}
 {104}{}{You see a fellow tribe member.}
@@ -8,10 +8,10 @@
 {107}{}{Azt hiszem, ez az óceán hangja.}
 {108}{}{Beszéltél már Martin Frobisherrel?}
 {109}{}{Beszélned kellene Martinnal.}
-{110}{}{Martin a mi vezetõnk és szószólónk, vele kellene beszélned!}
-{111}{}{Mr. Frobisher az elsõ cellában van.}
+{110}{}{Martin a mi vezet?nk és szószólónk, vele kellene beszélned!}
+{111}{}{Mr. Frobisher az els? cellában van.}
 {112}{}{Még csak szórakoztató videóik sincsenek!}
-{113}{}{Követelem, hogy beszélhessek valakivel! Az élelem minõsége felháborító!}
+{113}{}{Követelem, hogy beszélhessek valakivel! Az élelem min?sége felháborító!}
 {114}{}{Remek, most félmeztelen barbárokkal fenyegetnek bennünket.}
 {115}{}{Megszöktél?}
 {116}{}{Hogy jutottál ki?}
@@ -19,8 +19,8 @@
 {118}{}{Te vagy... te vagy az, Kiválasztott?}
 {119}{}{Beszélned kellene a Bölccsel!}
 {120}{}{A Bölcs azt mondta, hogy megmentesz bennünket!}
-{121}{}{Beszéltél már a Törzsfõvel?}
-{122}{}{A Bölcs az elsõ cellában van. Beszélned kellene vele!}
+{121}{}{Beszéltél már a Törzsf?vel?}
+{122}{}{A Bölcs az els? cellában van. Beszélned kellene vele!}
 {123}{}{Beszélj a Bölccsel!}
 {124}{}{Szabadíts ki minket!}
 {125}{}{Juttass ki innen bennünket!}
@@ -30,7 +30,7 @@
 {129}{}{A Kiválasztott itt van!}
 {130}{}{Szabadíts ki bennünket!}
 {131}{}{Tedd, amit a Bölcs mondott!}
-{132}{}{Szabadíts ki bennünket, mielõtt a gonosz szellemek visszajönnek!}
+{132}{}{Szabadíts ki bennünket, miel?tt a gonosz szellemek visszajönnek!}
 {133}{}{Segíts rajtunk, Kiválasztott!}
 {134}{}{Hála az isteneknek! A Kiválasztott megérkezett!}
 {135}{}{Segíts rajtunk!}
@@ -51,8 +51,8 @@
 {150}{}{Segíts rajtunk!}
 {151}{}{Szabadíts ki minket!}
 {152}{}{Haza akarok menni!}
-{153}{}{Elõször az aszály, most meg ezek.}
-{154}{}{Tût ne! Csak tût ne, neeeeeeeeee!}
+{153}{}{El?ször az aszály, most meg ezek.}
+{154}{}{T?t ne! Csak t?t ne, neeeeeeeeee!}
 {155}{}{Nem bírom tovább! Körbezárnak a falak!}
 {156}{}{Hüp, hüp}
 {157}{}{Engedjetek el minket!}

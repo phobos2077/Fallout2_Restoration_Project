@@ -1,20 +1,20 @@
-{100}{}{Egy jól felfegyverzett õrt látsz.}
+{100}{}{Egy jól felfegyverzett ?rt látsz.}
 {101}{}{You see a Hubologist guard.}
-{102}{}{Ez egy igen jól felfegyverzett õr. Szemében ádáz fény csillan.}
+{102}{}{Ez egy igen jól felfegyverzett ?r. Szemében ádáz fény csillan.}
 {103}{}{Behatoló!}
 {104}{}{Kapjátok el a behatolót!}
 {105}{}{Ide mindenki! Ide mindenki!}
 {106}{}{Most meghalsz, hitetlen kutya! A Nagy Kerék átgázol rajtad!}
-{107}{}{Mi vagyunk az Õrzõk! Te pedig most meghalsz!}
+{107}{}{Mi vagyunk az ?rz?k! Te pedig most meghalsz!}
 {108}{}{Csillagbéli Atyám, te vezesd kezem!}
 {109}{}{Meggyaláztad a tanainkat!}
-{110}{}{Ha az ügyvédek csõdöt mondanak, a fegyvereink majd sikert aratnak!}
+{110}{}{Ha az ügyvédek cs?döt mondanak, a fegyvereink majd sikert aratnak!}
 {111}{}{Mi vagyunk a Hub törvényének végrehajtói!}
 {112}{}{Transzgresszor!}
 {113}{}{Vigyázz magadra!}
 {114}{}{Csak óvatosan, kívülálló!}
 {115}{}{Ne nyúlj semmihez, amihez nem muszáj!}
-{116}{}{Ha rosszban sántikálsz, Nyers Pépet csinálunk belõled!}
+{116}{}{Ha rosszban sántikálsz, Nyers Pépet csinálunk bel?led!}
 {117}{}{Legyél nagyon, nagyon óvatos!}
 {118}{}{Mi vagyunk a Hub törvénye. Nehogy ujjat húzz velünk!}
 {119}{}{BHK-4 vagyok.}

@@ -1,14 +1,14 @@
-{100}{}{Egy alacsony, karcsú nõt látsz kék színû bársony napozóruhában.}
+{100}{}{Egy alacsony, karcsú n?t látsz kék szín? bársony napozóruhában.}
 {101}{}{Ariel, az özvegy.}
 {102}{}{You see a short, slender woman wearing a blue velvet sun dress. She appears to be sad.}
 {103}{}{Jó napot, Ariel vagyok. Nem hinném, hogy már láttalak errefelé. Hogy hívnak?}
 {104}{}{Én}
-{105}{}{Szomorúnak tûnsz. Miért?}
+{105}{}{Szomorúnak t?nsz. Miért?}
 {106}{}{Én menni mostan.}
 {107}{}{Hello, Ariel, my name is}
 {108}{}{Helló! Elég rosszul nézel ki. Hogy ityeg?}
 {109}{}{A nevem nem fontos, viszont nekem kéne egy-két dolog.}
-{110}{}{Bocs. Nincs idõm erre.}
+{110}{}{Bocs. Nincs id?m erre.}
 {111}{}{Örülök, hogy találkoztunk. Miben segíthetek?}
 {112}{}{Válaszolsz kérdésekre?}
 {113}{}{Semmit. Viszlát!}
@@ -18,10 +18,10 @@
 {117}{}{Csak egy kis személyes gond. Semmiség, igazán.}
 {118}{}{Te beszél, én hallgat. Ez segít.}
 {119}{}{Oké. Semmi baj. Válaszolnál pár kérdésre?}
-{120}{}{Jó hallgatóság vagyok, Ariel, nyugodtan beszélj nekem bármirõl, ami bánt, hátha segít!}
-{121}{}{Oké. Egyelõre hagyjuk a problémákat! Tudnál válaszolni néhány kérdésemre?}
-{122}{}{Mindenkinek vannak problémái. Oldd meg õket!}
-{123}{}{Bocsáss meg, de nincs idõm az ilyen modorú emberekre. Viszlát!}
+{120}{}{Jó hallgatóság vagyok, Ariel, nyugodtan beszélj nekem bármir?l, ami bánt, hátha segít!}
+{121}{}{Oké. Egyel?re hagyjuk a problémákat! Tudnál válaszolni néhány kérdésemre?}
+{122}{}{Mindenkinek vannak problémái. Oldd meg ?ket!}
+{123}{}{Bocsáss meg, de nincs id?m az ilyen modorú emberekre. Viszlát!}
 {124}{}{}
 {125}{}{}
 {126}{}{Rendben.}
@@ -48,9 +48,9 @@
 {147}{}{Oké. Akkor megyek is.}
 {148}{}{Jó. Kérdezni még.}
 {149}{}{Rendben. Még feltennék néhány kérdést.}
-{150}{}{Rendben. Nos, akkor errõl ennyit.}
-{151}{}{Nagyszerû! Egy hüllõbarát.}
-{152}{}{Elhagynám, pedig nemet kéne mondanom. Nagyobb biztonságban érzem itt magam, mint bárhol máshol, ahol eddig éltem. Idõnként hiányzik más, hozzám hasonló emberek társasága, de remélem, a jövõben mások is eljönnek ide lakni.}
+{150}{}{Rendben. Nos, akkor err?l ennyit.}
+{151}{}{Nagyszer?! Egy hüll?barát.}
+{152}{}{Elhagynám, pedig nemet kéne mondanom. Nagyobb biztonságban érzem itt magam, mint bárhol máshol, ahol eddig éltem. Id?nként hiányzik más, hozzám hasonló emberek társasága, de remélem, a jöv?ben mások is eljönnek ide lakni.}
 {153}{}{Én megy. Pá-pá.}
 {154}{}{Mondj még.}
 {155}{}{Oké, rohadj meg itt, kit érdekel!}
@@ -58,10 +58,10 @@
 {157}{}{Sokat segítettél, de még egy kicsit zavarnom kéne téged.}
 {158}{}{A férjem mostanában halt meg. Hiányzik, és ez persze más problémákat is okoz. Ennyi az egész.}
 {159}{}{Sajnálom, hogy történt?}
-{160}{}{Oppá. Kell menni, törzsfõ hív.}
+{160}{}{Oppá. Kell menni, törzsf? hív.}
 {161}{}{Sajnálattal hallom. Hogy történt?}
 {162}{}{Részvétem. Még találkozunk.}
-{163}{}{Az élet szar, az emberek meghalnak. Fõleg ha a környéken vagyok.}
+{163}{}{Az élet szar, az emberek meghalnak. F?leg ha a környéken vagyok.}
 {164}{}{Már meséltem a fosztogatásról. Akkor esett meg.}
 {165}{}{My husband and I were traveling with a caravan on its way to the New California Republic. We
  wanted to start a new life for ourselves and our daughter, Sandy. Unfortunately, the caravan was
@@ -77,9 +77,9 @@
 {172}{}{Jó napot! Hogy vagy?}
 {173}{}{}
 {174}{}{}
-{175}{}{Tûnj el, te szemét! Semmi dolgom nincs veled.}
-{176}{}{Tûnés, kurva! Semmi dolgom nincs veled.}
+{175}{}{T?nj el, te szemét! Semmi dolgom nincs veled.}
+{176}{}{T?nés, kurva! Semmi dolgom nincs veled.}
 {177}{}{Viszlát!}
 {178}{}{ vagyok.}
 {179}{}{. Igen, új vagyok itt.}
-{180}{}{Sandyt magam mögé húztam, úgy próbáltam megvédeni attól a szörnyetegtõl, amelyik lelõtte Rand-et. A férjem holtteste mellett állt, és nevetett, ahogy a pisztolyt a fejemhez tartotta. Hirtelen egy hatalmas halálkarom jött elõ a sötétbõl, hátulról megragadta, és... hát, jobb, hogy a kis Sandy nem látta, mit mûvelt vele. Szóval, az itteni halálkarom-falka bánt el a fosztogatókkal. Az, amelyik személyesen mentett meg minket, odajött hozzánk és beszélni kezdett. Közölte, hogy most már mindben rendben van, és sajnálja, hogy nem érkeztek hamarabb. A halálkarmok ezután idehoztak minket.}
+{180}{}{Sandyt magam mögé húztam, úgy próbáltam megvédeni attól a szörnyetegt?l, amelyik lel?tte Rand-et. A férjem holtteste mellett állt, és nevetett, ahogy a pisztolyt a fejemhez tartotta. Hirtelen egy hatalmas halálkarom jött el? a sötétb?l, hátulról megragadta, és... hát, jobb, hogy a kis Sandy nem látta, mit m?velt vele. Szóval, az itteni halálkarom-falka bánt el a fosztogatókkal. Az, amelyik személyesen mentett meg minket, odajött hozzánk és beszélni kezdett. Közölte, hogy most már mindben rendben van, és sajnálja, hogy nem érkeztek hamarabb. A halálkarmok ezután idehoztak minket.}

@@ -5,31 +5,31 @@
 {104}{}{Igen, az vagyok.}
 {105}{}{Nem, azért jöttem, hogy megmentselek.}
 {106}{}{Talán. Tudni szeretném, miért vagy itt.}
-{107}{}{Rendben van. De nem szándékozom könnyen adni a bõrömet. Hadd legyen a mai csata emlékezetes mindkettõnk számára!}
+{107}{}{Rendben van. De nem szándékozom könnyen adni a b?römet. Hadd legyen a mai csata emlékezetes mindkett?nk számára!}
 {108}{}{Oké.}
 {109}{}{Várj! Mi meggondolni magunkat. Miért is lenni te itt?}
 {110}{}{Rendben. Szórakozzunk egy kicsit!}
 {111}{}{Várj egy percet! Miért is vagy itt?}
-{112}{}{Nehéz elhinni, hogy egy enklávés katona azért jön ide, hogy megmentsen. Valószínûbb, hogy csak reményt akarsz adni, amit majd késõbb szanaszét zúzhatsz.}
+{112}{}{Nehéz elhinni, hogy egy enklávés katona azért jön ide, hogy megmentsen. Valószín?bb, hogy csak reményt akarsz adni, amit majd kés?bb szanaszét zúzhatsz.}
 {113}{}{Nem. Én lenni itt, hogy kivigye tégedet!}
 {114}{}{Nézd, én tényleg azért jöttem, hogy megmentselek!}
-{115}{}{Te vagy az utolsó reményem, ezért beléd helyezem a bizalmam. A mögöttem lévõ ajtó egy szellõzõaknába vezet, az meg egyenesen a fölöttünk elterülõ erdõbe. Azt hiszem, képes lennék megmászni a falát és kijutni innen. A baj csak az, hogy az ajtó kinyitásához egy kódkártya kell. Ha megtalálod és kinyitod vele az ajtót, akkor szabad leszek.}
+{115}{}{Te vagy az utolsó reményem, ezért beléd helyezem a bizalmam. A mögöttem lév? ajtó egy szell?z?aknába vezet, az meg egyenesen a fölöttünk elterül? erd?be. Azt hiszem, képes lennék megmászni a falát és kijutni innen. A baj csak az, hogy az ajtó kinyitásához egy kódkártya kell. Ha megtalálod és kinyitod vele az ajtót, akkor szabad leszek.}
 {116}{}{Oké. Megcsinálni.}
 {117}{}{Gondolkodni rajta.}
 {118}{}{Rendben, persze... megteszem.}
 {119}{}{Még gondolkozom rajta.}
 {120}{}{(Xarn egy pillanatra felmér, mintha a szándékaidat fürkészné) Rendben, elmondom. Nemzetségemet az Enklávé teremtette, hogy rabszolgáik és harcosaik legyünk. Megnövelték az intelligenciánkat, hogy jobban megértsük a parancsokat, de arra vigyáztak, nehogy  rádöbbenjünk szolga mivoltunkra. Nem jött be a számításuk, sokkal okosabbak vagyunk, mint amilyennek láttatni engedjük.}
 {121}{}{Elhatároztuk, hogy addig játsszuk a hülyét, amíg nem adódik alkalom a szabadságunk elnyerésére. Ez lehetségesnek látszott, mikor az Enklávé vezetése elhatározta, hogy a szárazföldön tesztel le bennünket. Schreber ellenkezett, de felülbírálták.}
-{122}{}{Mivel nyíltan szembeszegült a vezérkar döntésével, iderendelték Navarróba, hogy távol legyen a tûztõl. Magával hozott engem is, hogy feltérképezze a valódi képességeimet. Sajnos ez sikerült is neki, nem tudtam kijátszani. Ha megírja a jelentését és elküldi az Enklávénak, vadászni fognak ránk, a többieket pedig egyszerûen lemészárolják. Meg kell szöknöm, és figyelmeztetnem õket.}
+{122}{}{Mivel nyíltan szembeszegült a vezérkar döntésével, iderendelték Navarróba, hogy távol legyen a t?zt?l. Magával hozott engem is, hogy feltérképezze a valódi képességeimet. Sajnos ez sikerült is neki, nem tudtam kijátszani. Ha megírja a jelentését és elküldi az Enklávénak, vadászni fognak ránk, a többieket pedig egyszer?en lemészárolják. Meg kell szöknöm, és figyelmeztetnem ?ket.}
 {123}{}{(Xarn egy pillanatra felmér, mintha a szándékaidat fürkészné) Neked nincs mit mondanom, ember. Érzem, hogy sötétség van a lelkedben.}
-{124}{}{Ha orvos lenni ekkora fenyegetés, miért nem ölni meg õt, mint egy... }
-{125}{}{Bazmeg akkor! Szétlõni segged!}
+{124}{}{Ha orvos lenni ekkora fenyegetés, miért nem ölni meg ?t, mint egy... }
+{125}{}{Bazmeg akkor! Szétl?ni segged!}
 {126}{}{Ha a doki ekkora fenyegetés rátok nézve, miért nem ölöd meg?}
 {127}{}{Na, jól van, halálkarom, most véged!}
-{128}{}{(sóhajt) Mostanában elkezdtem gondolkozi ezen az alternatíván is, noha nem szeretek gyilkolni. A baj az, hogy valószínûleg tisztában van a fenyegetettségével, ezért felfüggesztette a személyes találkozásait velem. A döntéseket innentõl már nem én hozom.}
+{128}{}{(sóhajt) Mostanában elkezdtem gondolkozi ezen az alternatíván is, noha nem szeretek gyilkolni. A baj az, hogy valószín?leg tisztában van a fenyegetettségével, ezért felfüggesztette a személyes találkozásait velem. A döntéseket innent?l már nem én hozom.}
 {129}{}{Ne aggódni! Doki halott. Nem írni rohadt jelentés!}
 {130}{}{Köszönni szép történet!}
-{131}{}{Nem kell aggódnod! A doki vére elõbb fog felszáradni a padlón, mint a tinta a jelentésén!}
+{131}{}{Nem kell aggódnod! A doki vére el?bb fog felszáradni a padlón, mint a tinta a jelentésén!}
 {132}{}{Kösz a sztorit. Érdekes volt.}
 {133}{}{Hát, sajnálom, hogy meghalt, de talán jobb is ez így. Ki kell jutnom innen. Ha megkérlek, segítesz?}
 {134}{}{Igen.}
@@ -83,16 +83,16 @@
 {182}{}{Igen, miattam van. Miért?}
 {183}{}{Xarn vagyok, a harcos. Engedd meg, hogy az oldaladon harcoljak a szabadságomért. Együtt talán van esélyünk, külön-külön... hát nem tudom...}
 {184}{}{Akkor engedd meg, hogy az oldaladon harcoljak a szabadságomért. Együtt talán van esélyünk, külön-külön... hát nem tudom...}
-{185}{}{Mielõtt eldönteni, mondd, miért lenni itten?}
+{185}{}{Miel?tt eldönteni, mondd, miért lenni itten?}
 {186}{}{Öhm... Oké! Jönni velem! Kiverekedni magunkat innét!}
-{187}{}{Te maradni egyedül. Mi eltûnni innen.}
-{188}{}{Mielõtt döntök, szeretném tudni, miért vagy itt?}
+{187}{}{Te maradni egyedül. Mi elt?nni innen.}
+{188}{}{Miel?tt döntök, szeretném tudni, miért vagy itt?}
 {189}{}{Jól van. Gyere velem! Csiszolgathatod egy kicsit a karmaidat.}
-{190}{}{Maradsz szólóban, pajtás! Én pedig tûnök innen.}
+{190}{}{Maradsz szólóban, pajtás! Én pedig t?nök innen.}
 {191}{}{Öhm... Oké! Jönni velem! Kiverekedni magunkat innét!}
-{192}{}{Te maradni egyedül. Mi eltûnni innen.}
+{192}{}{Te maradni egyedül. Mi elt?nni innen.}
 {193}{}{Jól van. Gyere velem! Csiszolgathatod egy kicsit a karmaidat.}
-{194}{}{Maradsz szólóban, pajtás! Én pedig tûnök innen.}
+{194}{}{Maradsz szólóban, pajtás! Én pedig t?nök innen.}
 {195}{}{Köszönöm, ember! Csináljunk ki néhány enklávés barmot! Grrrrrrr!}
 {196}{}{Oké.}
 {200}{}{[TOVÁBB]}
@@ -100,14 +100,14 @@
 {202}{}{Igen. Miért?}
 {300}{}{A nemzetségemet az Enklávé teremtette, hogy rabszolgáik és harcosaik legyünk. Megnövelték az intelligenciánkat, hogy jobban megértsük a parancsokat, de arra vigyáztak, nehogy rádöbbenjünk szolga mivoltunkra. Nem jött be a számításuk, sokkal okosabbak vagyunk, mint amilyennek láttatni engedjük.}
 {301}{}{Elhatároztuk, hogy addig játsszuk a hülyét, amíg nem adódik alkalom a szabadságunk elnyerésére. Ez lehetségesnek látszott, mikor az Enklávé vezetése elhatározta, hogy a szárazföldön tesztel le bennünket. Schreber ellenkezett, de felülbírálták.}
-{302}{}{Mivel nyíltan szembeszegült a vezérkar döntésével, iderendelték Navarróba, hogy távol legyen a tûztõl. Magával hozott engem is, hogy feltérképezze a valódi képességeimet. Sajnos ez sikerült is neki, nem tudtam kijátszani. Ha megírja a jelentését és elküldi az Enklávénak, vadászni fognak ránk, a többieket pedig egyszerûen lemészárolják. Meg kell szöknöm, és figyelmeztetnem õket.}
-{500}{}{Igazi barátja vagy a nemzetségemnek. Talán békésebb idõkben újra találkozunk. Most mennem kell, de hálásan köszönöm, amit értem tettél!}
+{302}{}{Mivel nyíltan szembeszegült a vezérkar döntésével, iderendelték Navarróba, hogy távol legyen a t?zt?l. Magával hozott engem is, hogy feltérképezze a valódi képességeimet. Sajnos ez sikerült is neki, nem tudtam kijátszani. Ha megírja a jelentését és elküldi az Enklávénak, vadászni fognak ránk, a többieket pedig egyszer?en lemészárolják. Meg kell szöknöm, és figyelmeztetnem ?ket.}
+{500}{}{Igazi barátja vagy a nemzetségemnek. Talán békésebb id?kben újra találkozunk. Most mennem kell, de hálásan köszönöm, amit értem tettél!}
 {501}{}{Leszaggatom a végtagjaidat és azokkal verlek szét!}
-{502}{}{Pusztulj, kígyólelkû ember!}
-{503}{}{A következõ sokkal jobban fog fájni neked, mint ez nekem.}
+{502}{}{Pusztulj, kígyólelk? ember!}
+{503}{}{A következ? sokkal jobban fog fájni neked, mint ez nekem.}
 {600}{}{Együtt szétzúzzuk az ellenségeinket!}
-{601}{}{Én feldöntöm, te lelövöd õket, rendben?}
-{602}{}{Itt az idõ egy kis fejbeverésre.}
+{601}{}{Én feldöntöm, te lelövöd ?ket, rendben?}
+{602}{}{Itt az id? egy kis fejbeverésre.}
 {700}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
 {701}{}{Xarn, a halálkarom.}
 {702}{}{Egy tipikus halálkarmot látsz. Robosztus test, borotvaéles fogak, hosszú karmok.}

@@ -1,21 +1,21 @@
 {100}{}{Egy embert látsz, aki egy szép, nagy fegyvert szorongat a kezében.}
-{101}{}{A Broken Hillsi kereskedõ és õrzõ testület egyik tagját látod.}
+{101}{}{A Broken Hillsi keresked? és ?rz? testület egyik tagját látod.}
 {102}{}{Egy embert látsz, akit az út pora borít. Szép nagy fegyvert tart a kezében.}
 {103}{}{Én mondom, még egy csapat útonálló, és legközelebb dinamitot is viszek magammal!}
 {104}{}{Hasznát látnánk egy kis segítségnek a karavánoknál.}
-{105}{}{Haver... az "Összefogás" õrjárat kezd nagyon, nagyon kiöregedni.}
+{105}{}{Haver... az "Összefogás" ?rjárat kezd nagyon, nagyon kiöregedni.}
 {106}{}{Szóval akkor jött az a törzsbéli, mire én... ööö, hagyjuk.}
-{107}{}{Még egy "Szivárvány õrjárat" seggség, és valakit biztosan kinyírok!}
-{108}{}{Ha az útonálók bekeményítenek, jövõre mind meghalunk, az tuti.}
+{107}{}{Még egy "Szivárvány ?rjárat" seggség, és valakit biztosan kinyírok!}
+{108}{}{Ha az útonálók bekeményítenek, jöv?re mind meghalunk, az tuti.}
 {109}{}{Milyen faluból jössz?}
 {110}{}{Nem vennél egy kis piát egy dolgozó embernek?}
 {111}{}{Túlságosan kifáraszt a karavánmunka, hogy még beszélgessek is.}
-{112}{}{Ha kell valami, beszélj Billel, a karavánok szervezõjével!}
-{113}{}{Talán ennyi idõ után, amit a puszta civilizálásával töltöttünk, közelebb kerültünk a célunkhoz.}
-{114}{}{Elegem van ebbõl az ember-mutáns veszekedésbõl. Nem éppen nekünk kellene példát mutatnunk?}
+{112}{}{Ha kell valami, beszélj Billel, a karavánok szervez?jével!}
+{113}{}{Talán ennyi id? után, amit a puszta civilizálásával töltöttünk, közelebb kerültünk a célunkhoz.}
+{114}{}{Elegem van ebb?l az ember-mutáns veszekedésb?l. Nem éppen nekünk kellene példát mutatnunk?}
 {115}{}{Mit akarsz? Nem látod, hogy pihenek?}
-{116}{}{Mikor indul a következõ karaván?}
-{117}{}{Járõrözni, járõrözni, járõrözni... mindig ugyanaz a meló.}
+{116}{}{Mikor indul a következ? karaván?}
+{117}{}{Jár?rözni, jár?rözni, jár?rözni... mindig ugyanaz a meló.}
 {118}{}{Kezdek álmos lenni.}
 {119}{}{Fizetésemelést követelek! Ez veszélyes munkakör.}
 {200}{}{Segíthetek?}
@@ -31,13 +31,13 @@
 {210}{}{Megbízható?}
 {211}{}{Honnan szerzi a pénzt?}
 {212}{}{Milyen a múltja?}
-{213}{}{Hagyjuk. Viszlát késõbb!}
+{213}{}{Hagyjuk. Viszlát kés?bb!}
 {214}{}{Hogy én? }
 {215}{}{. Bill karavánjait kísérem. Más kérdés?}
-{216}{}{Hogy milyen ember? Hát, barátságos, de kemény. Jó vezetõ, és általában rendesen bánik velünk Nem durvul velünk, meg ilyesmi, ha arra vagy kiváncsi. Van még kérdés?}
+{216}{}{Hogy milyen ember? Hát, barátságos, de kemény. Jó vezet?, és általában rendesen bánik velünk Nem durvul velünk, meg ilyesmi, ha arra vagy kiváncsi. Van még kérdés?}
 {217}{}{Hát, egy kicsit gyanús, szerintem... de mindenki az manapság. Van még kérdésed?}
-{218}{}{Nekem mindig úgy tûnt, hogy egyszerûen van nála - és nem kevés. Ez nem az a fajta kérdés, amit csak úgy feltesz az ember valakinek, tudod. Egyéb kérdés?}
-{219}{}{Semmit nem tudok a múltjáról. Mi mind más városból jöttünk, hogy munkát szerezzünk itt, mint karavánkísérõ. Gondolom, neki is sietõsen el kellett hagynia egy másik helyet, és így került ide. Egyéb kérdés?}
+{218}{}{Nekem mindig úgy t?nt, hogy egyszer?en van nála - és nem kevés. Ez nem az a fajta kérdés, amit csak úgy feltesz az ember valakinek, tudod. Egyéb kérdés?}
+{219}{}{Semmit nem tudok a múltjáról. Mi mind más városból jöttünk, hogy munkát szerezzünk itt, mint karavánkísér?. Gondolom, neki is siet?sen el kellett hagynia egy másik helyet, és így került ide. Egyéb kérdés?}
 {220}{}{Igen.}
 {221}{}{Nem.}
 {222}{}{Rendben. Lássuk csak!}
@@ -70,6 +70,6 @@
 {411}{}{Mary}
 {412}{}{Julie}
 {413}{}{Sarah}
-{450}{}{Õ }
-{451}{}{, a karavánkísérõ.}
+{450}{}{? }
+{451}{}{, a karavánkísér?.}
 {2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}

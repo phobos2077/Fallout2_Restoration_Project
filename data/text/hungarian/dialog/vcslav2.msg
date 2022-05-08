@@ -1,13 +1,13 @@
 {100}{}{Egy férfit látsz munkaruhában. Tekintetét mereven a földre szegezi.}
 {101}{}{Egy menedékvárosi szolgát látsz.}
 {102}{}{Egy férfit látsz munkaruhában. Tekintetét mereven a földre szegezi.}
-{103}{}{Egy nõt látsz munkaruhában. Tekintetét mereven a földre szegezi.}
+{103}{}{Egy n?t látsz munkaruhában. Tekintetét mereven a földre szegezi.}
 {104}{}{Egy menedékvárosi szolgát látsz.}
-{105}{}{Egy nõt látsz munkaruhában. Tekintetét mereven a földre szegezi.}
-{106}{}{Hallottam bátor tetteidrõl. Nagy szolgálatot tettél Menedékvárosnak és az egész világnak.}
-{107}{}{Az Enklávé elleni harcod nagy hatással volt még az Elsõ Polgárra is.}
+{105}{}{Egy n?t látsz munkaruhában. Tekintetét mereven a földre szegezi.}
+{106}{}{Hallottam bátor tetteidr?l. Nagy szolgálatot tettél Menedékvárosnak és az egész világnak.}
+{107}{}{Az Enklávé elleni harcod nagy hatással volt még az Els? Polgárra is.}
 {108}{}{Bárcsak adhatnék neked bármit is azért, amit értünk tettél, de semmim sincs... így fogadd el a köszönetemet.}
-{109}{}{A többi szolga irigykedni fog, hogy beszélhettem a Puszták Hõsével.}
+{109}{}{A többi szolga irigykedni fog, hogy beszélhettem a Puszták H?sével.}
 {110}{}{Igen, Kapitány?}
 {111}{}{Kapitány?}
 {112}{}{Utasítása van a számomra, Kapitány?}
@@ -21,26 +21,26 @@
 {120}{}{Sajnálom, Polgár. Megpróbálok keményebben dolgozni.}
 {121}{}{Sajnálom, Polgár. Igyekszem figyelmesebb lenni.}
 {122}{}{Mutánsok nem léphetnek a városba.}
-{123}{}{Ha az õrök meglátják a mutánsodat, kitoloncolnak a városból.}
+{123}{}{Ha az ?rök meglátják a mutánsodat, kitoloncolnak a városból.}
 {124}{}{Mutánsok nem tartózkodhatnak itt. El kell hagynod a várost!}
 {125}{}{Ghoulok nem léphetnek be a városba.}
-{126}{}{Ha az õrök meglátják a ghoulodat, kitoloncolnak a városból.}
+{126}{}{Ha az ?rök meglátják a ghoulodat, kitoloncolnak a városból.}
 {127}{}{Ghoulok nem tartózkodhatnak itt. El kell hagynod a várost!}
 {128}{}{Igen, már van tulajdonosom. A Szolgálóelosztó Központban vannak a papírjaim.}
 {129}{}{Kérlek, hagyj magamra! Menedékváros egyik szolgája vagyok.}
-{130}{}{Könyörgöm, nem láttál két sötét hajú gyermeket? Két éve vitték el õket északra a rabszolga-kereskedõk.}
+{130}{}{Könyörgöm, nem láttál két sötét hajú gyermeket? Két éve vitték el ?ket északra a rabszolga-keresked?k.}
 {131}{}{Sajnálom... nem beszélhetek senkivel.}
 {132}{}{Ha egy Polgár meglát, hogy egy rabszolga-hajcsárral beszélgetek, megbüntetnek.}
-{133}{}{Az õrök feljelentenek, ha továbbra is beszélsz hozzám.}
+{133}{}{Az ?rök feljelentenek, ha továbbra is beszélsz hozzám.}
 {134}{}{Nem beszélhetek veled. Kötelességeim vannak.}
-{135}{}{Kérlek, menj el, rabszolga-kereskedõ! Nem akarok bajt.}
+{135}{}{Kérlek, menj el, rabszolga-keresked?! Nem akarok bajt.}
 {136}{}{Megszökni? Én sose próbáltam megszökni. Jó itt nekem.}
-{137}{}{Azt mondták, ha elég keményen dolgozom, egy nap belõlem is lehet Polgár.}
+{137}{}{Azt mondták, ha elég keményen dolgozom, egy nap bel?lem is lehet Polgár.}
 {138}{}{A Polgárok azt tanították, a munka maga a jutalom.}
-{139}{}{A Polgárok azt mondták, hogy a munkánk lehetõvé teszi a számukra, hogy sokkal fontosabb dolgokkal foglalkozhassanak.}
+{139}{}{A Polgárok azt mondták, hogy a munkánk lehet?vé teszi a számukra, hogy sokkal fontosabb dolgokkal foglalkozhassanak.}
 {140}{}{Szerencsés vagyok, hogy Menedékvárosnak szolgákra volt szüksége. Akár New Renóban is végezhettem volna.}
 {141}{}{A szorgalmasan dolgozó szolgákat Menedékváros extra fejadaggal jutalmazza.}
-{142}{}{Azt hallottam, hogy rettenetes dolgokat mûvelnek a rabszolgákkal New Renóban.}
+{142}{}{Azt hallottam, hogy rettenetes dolgokat m?velnek a rabszolgákkal New Renóban.}
 {143}{}{A Polgárok megvásárolták az egész törzset, hogy szolgák legyünk a városban.}
 {144}{}{A Polgárok kimenekítettek a pusztából és megtanítottak olvasni.}
 {145}{}{A Polgárok nagyon jól bánnak velem. Az étel kiváló.}
@@ -48,12 +48,12 @@
 {147}{}{Eleinte hiányzott a családom, de már sok-sok éve nem gondolok rájuk. }
 {148}{}{Egy faluból kerültem ide. Sokkal jobb itt élni.}
 {149}{}{Engem Rejtekben fogtak el. Szerencsére ide kerültem.}
-{150}{}{Azt hallottam, az Elsõ Polgár néha elveszti a türelmét.}
+{150}{}{Azt hallottam, az Els? Polgár néha elveszti a türelmét.}
 {151}{}{Nem beszélhetek veled. El kell végeznem a munkámat.}
 {152}{}{Egy órán belül be kell fejeznem a munkámat.}
 {153}{}{Törvényellenes Kívülállókkal beszélni.}
 {154}{}{Megszökni? Ugyan miért?}
 {155}{}{Igen? Segíthetek?}
-{156}{}{Valamikor régen rabszolga-kereskedõk fogtak el. Már alig emlékszem rá.}
-{157}{}{Volt két gyermekem, de mindkettõjüket északra vitték. Remélem, egyszer még láthatom õket.}
-{158}{}{Sajnálom, de nincs idõm beszélgetni.}
+{156}{}{Valamikor régen rabszolga-keresked?k fogtak el. Már alig emlékszem rá.}
+{157}{}{Volt két gyermekem, de mindkett?jüket északra vitték. Remélem, egyszer még láthatom ?ket.}
+{158}{}{Sajnálom, de nincs id?m beszélgetni.}

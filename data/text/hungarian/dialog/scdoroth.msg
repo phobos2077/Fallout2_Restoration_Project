@@ -1,5 +1,5 @@
-{100}{}{Egy fiatal nõt látsz. Meglehetõsen fiús kinézete van, és munkás overált visel.}
-{101}{}{Õ Dorothy, a város mérnöke.}
+{100}{}{Egy fiatal n?t látsz. Meglehet?sen fiús kinézete van, és munkás overált visel.}
+{101}{}{? Dorothy, a város mérnöke.}
 {102}{}{From all the grease and dirt on her, she's a hands-on tool type, especially since that maintenance bot follows her everywhere.}
 {103}{}{Istenem, valakinek tennie kell valamit! Mit csináljak? Gyors segítségre lenne szükség.}
 {104}{}{Huh? Gug?}
@@ -7,14 +7,14 @@
 {106}{}{Te jönni. Megállít rossz ember. Nem enged összetörni gép. Oké?}
 {107}{}{Oké.}
 {108}{}{Nem, nem jönni.}
-{109}{}{Óh, Istenem, Jack az. Azzal fenyegetõzik, hogy felrobbantja az erõmûvet. Nincs idõnk, meg kell, hogy állítsd õt! Meg tudod tenni, ugye?}
-{110}{}{Ne pazaroljuk tovább az idõt! Vezess!}
+{109}{}{Óh, Istenem, Jack az. Azzal fenyeget?zik, hogy felrobbantja az er?m?vet. Nincs id?nk, meg kell, hogy állítsd ?t! Meg tudod tenni, ugye?}
+{110}{}{Ne pazaroljuk tovább az id?t! Vezess!}
 {111}{}{Ez nem az én asztalom... Keress valaki mást!}
-{112}{}{Figyelj... Jack bent van. Az ex-felesége miatt ideges. Mostanában nem igazán mentek jól a dolgai. Azt mondja, van egy bombája. Ha van nála, akkor valószínûleg a generátor dinamója közelében kell lennie. Ha lehet, próbáld lebeszélni õt róla, de bármit is teszel, ne hagyd, hogy felrobbanjon az a bomba!}
+{112}{}{Figyelj... Jack bent van. Az ex-felesége miatt ideges. Mostanában nem igazán mentek jól a dolgai. Azt mondja, van egy bombája. Ha van nála, akkor valószín?leg a generátor dinamója közelében kell lennie. Ha lehet, próbáld lebeszélni ?t róla, de bármit is teszel, ne hagyd, hogy felrobbanjon az a bomba!}
 {113}{}{Mégis, mit kellene csinálnom?}
 {114}{}{Ne aggódj, rajta vagyok a témán!}
 {115}{}{Nem tudom! Én csak a város mérnöke vagyok. Találj ki valamit!}
-{116}{}{A francba! Megrongálta a központi magot. Meg kell javítani, mielõtt a dolgok nagyon rosszra fordulnak. Jó vagy javításban?}
+{116}{}{A francba! Megrongálta a központi magot. Meg kell javítani, miel?tt a dolgok nagyon rosszra fordulnak. Jó vagy javításban?}
 {117}{}{Urrgh.}
 {118}{}{Igen.}
 {119}{}{Nem.}
@@ -25,26 +25,26 @@
 {124}{}{Huh-huh!}
 {125}{}{Csak ügyes vagyok, ennyi az egész.}
 {126}{}{I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books. You see. Get money. Good... Not like you can read, after all.}
-{127}{}{Nézd, tudom, hogy ez nem sok, de van néhány könyvem... régi mûszaki kézikönyvek. Neked adom õket. Vedd csak el!}
+{127}{}{Nézd, tudom, hogy ez nem sok, de van néhány könyvem... régi m?szaki kézikönyvek. Neked adom ?ket. Vedd csak el!}
 {128}{}{Nézd már, Toto! Az idegen, aki kisegített minket. Köszönet még egyszer, uram!}
-{129}{}{Szar az egész! A teljes hálózatnak annyi. Egy örökkévalóságig fog tartani a megjavítása. Nincs idõm beszélgetni. Gyere, Toto!}
-{130}{}{Nézd, nem hibáztatlak azért, ami történt, de most nagyon nem vagyok beszélgetõs kedvemben.}
-{131}{}{Megölted! Úgy értem, tényleg meg kellett ölnöd õt? Nem volt más megoldás?}
+{129}{}{Szar az egész! A teljes hálózatnak annyi. Egy örökkévalóságig fog tartani a megjavítása. Nincs id?m beszélgetni. Gyere, Toto!}
+{130}{}{Nézd, nem hibáztatlak azért, ami történt, de most nagyon nem vagyok beszélget?s kedvemben.}
+{131}{}{Megölted! Úgy értem, tényleg meg kellett ölnöd ?t? Nem volt más megoldás?}
 {132}{}{Igen.}
 {133}{}{Nem.}
-{134}{}{Akkor meg kellett volna próbálnod, ahelyett, hogy csak simán megölöd. Tûnj innen, te szörnyeteg!}
-{135}{}{A város köszönettel tartozik neked. Tudom, hogy ez nem sok, de van itt néhány kézikönyv, amit összegyûjtöttem. Talán eladhatod õket, vagy valami.}
+{134}{}{Akkor meg kellett volna próbálnod, ahelyett, hogy csak simán megölöd. T?nj innen, te szörnyeteg!}
+{135}{}{A város köszönettel tartozik neked. Tudom, hogy ez nem sok, de van itt néhány kézikönyv, amit összegy?jtöttem. Talán eladhatod ?ket, vagy valami.}
 {136}{}{Ne szólj hozzám, te gyilkos disznó!}
-{137}{}{Most nincs idõm csevegni, idegen. A nevem Dorothy, én vagyok a város mérnöke, ez pedig itt Toto. Sajnos rohannom kell.}
-{138}{}{Nincs véletlenül egy Q-38-as illudium ûr-modulátorod, ugye? Nem hiszem, hogy lenne.}
-{139}{}{Lebeszélted? Ez csodálatos! A város köszönettel tartozik neked. Tudom, hogy ez nem sok, de van itt néhány kézikönyv, amit összegyûjtöttem. Talán eladhatod õket, vagy valami.}
-{140}{}{Csak azt akarom, hogy tudd, le vagyok nyûgözve attól, amit Jackkel csináltál. Most nekem és Totónak rohannia kell. Szia!}
+{137}{}{Most nincs id?m csevegni, idegen. A nevem Dorothy, én vagyok a város mérnöke, ez pedig itt Toto. Sajnos rohannom kell.}
+{138}{}{Nincs véletlenül egy Q-38-as illudium ?r-modulátorod, ugye? Nem hiszem, hogy lenne.}
+{139}{}{Lebeszélted? Ez csodálatos! A város köszönettel tartozik neked. Tudom, hogy ez nem sok, de van itt néhány kézikönyv, amit összegy?jtöttem. Talán eladhatod ?ket, vagy valami.}
+{140}{}{Csak azt akarom, hogy tudd, le vagyok ny?gözve attól, amit Jackkel csináltál. Most nekem és Totónak rohannia kell. Szia!}
 {141}{}{Szar az egész! Adnék egy tanácsot - ROHANJ!}
 {142}{}{Nézd már, Toto! Az idegen, aki kisegített minket. Köszönet még egyszer, hölgyem!}
-{143}{}{Lebeszélted? Ez csodálatos! A város sokkal tartozik neked, nõvérem. Tudom, hogy ez nem sok, de van itt néhány kézikönyv, amit összegyûjtöttem. Talán eladhatod õket, vagy valami.}
-{144}{}{Ne vesztegessük az idõt! Komolyan gondolja!}
+{143}{}{Lebeszélted? Ez csodálatos! A város sokkal tartozik neked, n?vérem. Tudom, hogy ez nem sok, de van itt néhány kézikönyv, amit összegy?jtöttem. Talán eladhatod ?ket, vagy valami.}
+{144}{}{Ne vesztegessük az id?t! Komolyan gondolja!}
 {145}{}{Gyorsan csinálnod kell valamit!}
-{146}{}{Ne csak állj itt... állítsd meg õt!}
-{147}{}{Tûnj el innen, te brahmin-ürülék!}
+{146}{}{Ne csak állj itt... állítsd meg ?t!}
+{147}{}{T?nj el innen, te brahmin-ürülék!}
 {148}{}{Ne szólj hozzám, te gyáva disznó!}
 {149}{}{Mi hasznod van neked?!}

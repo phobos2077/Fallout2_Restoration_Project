@@ -1,6 +1,6 @@
-{100}{}{Ez az ember Bishop egyik testõre.}
-{150}{}{Ez a marcona fickó bõrpáncélt hord. Testét számtalan sebhely és lövésnyom csúfítja el.}
-{151}{}{Ez az ember Bishop egyik testõre. Ujját az elsütõbillentyûn tartva vizslatja a rábízott területet.}
+{100}{}{Ez az ember Bishop egyik test?re.}
+{150}{}{Ez a marcona fickó b?rpáncélt hord. Testét számtalan sebhely és lövésnyom csúfítja el.}
+{151}{}{Ez az ember Bishop egyik test?re. Ujját az elsüt?billenty?n tartva vizslatja a rábízott területet.}
 {200}{}{Hé! }
 {201}{}{. Szép munka volt valagba rúgni az Enklávés fiúkat!}
 {205}{}{Hogy a fészkes fenébe mész fürdeni, ha rajtad van ez a vacak?}
@@ -10,7 +10,7 @@
 {216}{}{? Menj csak fel. És a lopakodást is nyugodtan kikapcsolhatod...}
 {221}{}{? Menj csak fel!}
 {225}{}{Rossz helyre jöttél, pöcsedék!}
-{226}{}{Nézzétek már, mit nem enged meg magának ez a köcsög... tûnés, fiam, mielõtt lepuffantunk!}
+{226}{}{Nézzétek már, mit nem enged meg magának ez a köcsög... t?nés, fiam, miel?tt lepuffantunk!}
 {227}{}{Ez a srác keresi a bajt...}
 {228}{}{Jobb, ha távozol, }
 {229}{}{Nos, ha esetleg nem }
@@ -18,7 +18,7 @@
 {231}{}{Álmomban nem gondoltam volna, hogy idejön egy }
 {232}{}{Rossz helyre jöttél, szuka!}
 {233}{}{Nézzétek már mit hepciáskodik itt ez a kis szuka...}
-{234}{}{Tûnés, kislány, mielõtt golyót röpítünk beléd.}
+{234}{}{T?nés, kislány, miel?tt golyót röpítünk beléd.}
 {235}{}{Ez a szuka keresi a bajt...}
 {236}{}{Nicsak, ki jön itt! Nem más, mint }
 {245}{}{Hela, bajnok! Itt nem császkálhatsz felfegyverezve!}
@@ -36,7 +36,7 @@
 {279}{}{Hé, }
 {285}{}{Kedvesem, ilyen testtel sehova nem fogsz tudni elosonni.}
 {290}{}{Tetszettek a filmjeid, }
-{291}{}{Tetszettél a Nagy Szûzgolyókban.}
+{291}{}{Tetszettél a Nagy Sz?zgolyókban.}
 {292}{}{Csodás voltál a Szexivánéji álomban!}
 {293}{}{Nagyon odavoltam a Farkalókkal táncolók folytatásában nyújtott alakításodért.}
 {294}{}{::Fütyül::}
@@ -55,11 +55,11 @@
 {327}{}{Lehet, hogy vissza kéne menned a nindzsa iskolába, vadember. Most viszont hagyd abba a lopakodást!}
 {328}{}{Basszus, most rögtön hagyd abba a lopakodást, vadember!}
 {335}{}{Vidd innen azt a robotot! MOST AZONNAL!}
-{336}{}{Vidd innen azt a robotot, mielõtt fel nem gyújtjuk!}
+{336}{}{Vidd innen azt a robotot, miel?tt fel nem gyújtjuk!}
 {337}{}{Ha ittmarad, alkatrész lesz abból a robotból!}
 {345}{}{Csak nem egy mutánst érez az orrom? Vidd innen azt a sárga kis seggét, mert begorombulok!}
 {346}{}{A mutáns barátoddal együtt meguntátok az életeteket? Húzzatok innen!}
-{347}{}{Sürgõsen tüntesd el innen azt a mutánst, különben kirakjuk a fejét a falra!}
+{347}{}{Sürg?sen tüntesd el innen azt a mutánst, különben kirakjuk a fejét a falra!}
 {355}{}{Mintha rohadna itt valami... Vidd innen azt a ghoult kifelé!}
 {356}{}{Most azonnal vidd innen azt a büdös ghoult!}
 {357}{}{Ha az a ghoul még egy percig itt marad, halottabb lesz, mint amennyire máris az.}
@@ -73,7 +73,7 @@
 {379}{}{Én akar felmegy emelet}
 {380}{}{Kiiiii Vagyol te?}
 {381}{}{[Wander off.]}
-{382}{}{Mi van ennek a lépcsõnek a tetején?}
+{382}{}{Mi van ennek a lépcs?nek a tetején?}
 {383}{}{Mr. Bishophoz jöttem látogatóba.}
 {384}{}{Mr. Bishophoz jöttem látogatóba. Egy aktatáskát hoztam neki Mr. Moore-tól.}
 {385}{}{Bocsi, úgy látszik, rossz felé jöttem. Már itt sem vagyok.}
@@ -81,7 +81,7 @@
 {391}{}{Valami üzleti ügyed van odafönn, kedvesem?}
 {405}{}{Öcsém, te aztán nem semmi egy hülye fasz vagy... }
 {406}{}{Öcsém, te aztán nem semmi egy hülye ringyó vagy... }
-{407}{}{Na, húzzál innen szépen, mielõtt a maradék agyadat is kiütöm belõled!}
+{407}{}{Na, húzzál innen szépen, miel?tt a maradék agyadat is kiütöm bel?led!}
 {408}{}{ÉN AKAR VILÁGBÉKE ÉN AKAR VILÁGBÉKE}
 {409}{}{ÉN MOND ÉN AKAR FELMEGY EMELET}
 {410}{}{KIIII VAGYOL TE?}
@@ -96,24 +96,24 @@
 {425}{}{ ÜTNI APRÓ EMBEREK}
 {426}{}{[Scream and dive for cover.]}
 {427}{}{[Go silent, brace yourself, and get ready to do some damage.]}
-{428}{}{Akartok egy kicsit EBBÕL, fúkák? AKARTOK? Akkor NESZTEK, ti szánalmas farokrá...}
+{428}{}{Akartok egy kicsit EBB?L, fúkák? AKARTOK? Akkor NESZTEK, ti szánalmas farokrá...}
 {435}{}{Ha nem tudod, akkor nem is kell, hogy tudd. Most pedig menet kifelé!}
 {445}{}{Ez nagyon-nagyon gáz, ugyanis Bishop nem is olyan régen az égbe költözött. Most már akár le is kophatsz!}
-{446}{}{Süket vagy? John Kibebaszott Bishop kibebaszott módon MEGHALT, he? Most pedig tûnés innen, ha nem akarsz utána menni!}
+{446}{}{Süket vagy? John Kibebaszott Bishop kibebaszott módon MEGHALT, he? Most pedig t?nés innen, ha nem akarsz utána menni!}
 {447}{}{Nézd, barátom, nagyon fontos, hogy felmenjek. Pár perc elég.}
 {448}{}{Oké, már megyek is.}
 {455}{}{Nem addig van az! Én ismerem Mr. Bishop napirendjét, de te nem vagy a várólistán.}
-{456}{}{Õ vár engem! Mondd meg neki, hogy megérkeztem.}
+{456}{}{? vár engem! Mondd meg neki, hogy megérkeztem.}
 {458}{}{Na, jó, rendben. Viszlát!}
 {465}{}{Jóvan, haver. Hogy hínak? Benézek hozzá.}
 {466}{}{Jóvan, bébi. Hogy hínak? Benézek hozzá.}
 {467}{}{Én }
 {468}{}{ vagyok.}
-{469}{}{Nem kell, hogy tudd a nevemet! Csak egyszerûen engedj hozzá!}
+{469}{}{Nem kell, hogy tudd a nevemet! Csak egyszer?en engedj hozzá!}
 {471}{}{Felejtsd el! Nem kell semmit csinálnod... húzok innen.}
 {475}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something. He waits for a minute, listens, then turns back to you.) }
-{476}{}{Nem hallott rólad. Húzz a retekbe, haver! Csak az idõnket pazarolod!}
-{477}{}{Nem hallott rólad. Húzz a retekbe, bébi! Csak az idõnket pazarolod!}
+{476}{}{Nem hallott rólad. Húzz a retekbe, haver! Csak az id?nket pazarolod!}
+{477}{}{Nem hallott rólad. Húzz a retekbe, bébi! Csak az id?nket pazarolod!}
 {478}{}{Látni akarom, érted? Most azonnal!}
 {479}{}{Mondd meg neki, hogy egy aktatáskát hoztam a számára... Mr. Moore-tól.}
 {480}{}{Akkor vedd úgy, hogy nem is mondtam semmit.}
@@ -131,8 +131,8 @@
 {508}{}{Köszi.}
 {1228}{}{! Ebben a szent pillanatban!}
 {1229}{}{. A családod nem fog hiányolni?}
-{1230}{}{ család tele van nagy nullákkal. Mi errõl a véleményed?}
-{1231}{}{ családnak sokkal több ideje maradt másra, mint a fõnökük seggének tisztára nyalására.}
+{1230}{}{ család tele van nagy nullákkal. Mi err?l a véleményed?}
+{1231}{}{ családnak sokkal több ideje maradt másra, mint a f?nökük seggének tisztára nyalására.}
 {1236}{}{ család tele van nagy nullákkal. Most már látom, hogy ez valóban így van.}
 {1247}{}{! Itt nem járkálhatsz fegyverrel a kézben, rendbe'?}
 {1265}{}{. Elvagy magadban vagy kell segítség?}

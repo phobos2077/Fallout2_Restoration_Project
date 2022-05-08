@@ -1,6 +1,6 @@
 {100}{}{Ez itt Bishop embere.}
-{150}{}{Ez a marcona fickó bõrpáncélt hord. Testét számtalan sebhely és lövésnyom csúfítja.}
-{151}{}{Ez az ember Bishop egyik testõre. Ujját az elsütõbillentyûn tartva vizslatja a rábízott területet.}
+{150}{}{Ez a marcona fickó b?rpáncélt hord. Testét számtalan sebhely és lövésnyom csúfítja.}
+{151}{}{Ez az ember Bishop egyik test?re. Ujját az elsüt?billenty?n tartva vizslatja a rábízott területet.}
 {200}{}{Hé! }
 {201}{}{::Éljenez::}
 {202}{}{::tapsol::}
@@ -12,8 +12,8 @@
 {220}{}{Hela, }
 {221}{}{Hé, }
 {222}{}{Hé, }
-{225}{}{Nem tûnik fel, hogy rossz helyre jöttél, pöcsarc?!}
-{226}{}{Nézzétek már, mit nem enged meg magának ez a köcsög... tûnés, fiam, mielõtt lepuffantunk!}
+{225}{}{Nem t?nik fel, hogy rossz helyre jöttél, pöcsarc?!}
+{226}{}{Nézzétek már, mit nem enged meg magának ez a köcsög... t?nés, fiam, miel?tt lepuffantunk!}
 {227}{}{Ez a srác keresi a bajt...}
 {228}{}{Nicsak, ki jön itt! Nem más, mint }
 {229}{}{Jobb, ha távozol, }
@@ -21,7 +21,7 @@
 {231}{}{Álmomban nem gondoltam volna, hogy idejön egy }
 {232}{}{Rossz helyre jöttél, ringyó!}
 {233}{}{Nézzétek már mit hepciáskodik itt ez a kis szuka...}
-{234}{}{Tûnés, kislány, mielõtt golyót röpítünk beléd.}
+{234}{}{T?nés, kislány, miel?tt golyót röpítünk beléd.}
 {235}{}{Ez a szuka keresi a bajt...}
 {236}{}{Nicsak, ki jön itt! Nem más, mint }
 {250}{}{Hela, bajnok! Itt nem császkálhatsz felfegyverezve!}
@@ -39,7 +39,7 @@
 {269}{}{Hé, }
 {275}{}{Kedvesem, ilyen testtel sehova nem fogsz tudni elosonni.}
 {280}{}{Tetszettek a filmjeid, }
-{281}{}{Tetszettél a Nagy Szûzgolyókban.}
+{281}{}{Tetszettél a Nagy Sz?zgolyókban.}
 {282}{}{Csodás voltál a Szexivánéji álomban!}
 {283}{}{Nagyon odavoltam a Farkalókkal táncolók folytatásában nyújtott alakításodért.}
 {284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
@@ -59,21 +59,21 @@
 {312}{}{Lehet, hogy vissza kéne menned a nindzsa iskolába, vadember. Most viszont hagyd abba a lopakodást!}
 {313}{}{Basszus, most rögtön hagyd abba a lopakodást, vadember!}
 {315}{}{Vidd innen azt a robotot! MOST AZONNAL!}
-{316}{}{Vidd innen azt a robotot, mielõtt fel nem gyújtjuk!}
+{316}{}{Vidd innen azt a robotot, miel?tt fel nem gyújtjuk!}
 {317}{}{Ha ittmarad, alkatrész lesz abból a robotból!}
 {320}{}{Csak nem egy mutánst érez az orrom? Vidd innen azt a sárga kis seggét, mert mérges leszek!}
 {321}{}{A mutáns barátoddal együtt meguntátok az életeteket? Húzzatok innen!}
-{322}{}{Sürgõsen tüntesd el innen azt a mutánst, különben kirakjuk a fejét a falra!}
+{322}{}{Sürg?sen tüntesd el innen azt a mutánst, különben kirakjuk a fejét a falra!}
 {325}{}{Láttad a tegnapi bunyót?}
 {326}{}{Munka után lemegyek a Cat's Paw-ba...}
 {330}{}{Azt hittem, az Elnök csak legenda, egy mumus, amivel a gyerekeket ijesztgetik.}
 {331}{}{Úgy nézel ki, mint aki megjárta a poklot. Lazíts, megérdemled!}
-{332}{}{Valami vírust nyomattak a levegõbe? Rohadékok. Remélem, egy párat az én nevemben lõttél le.}
+{332}{}{Valami vírust nyomattak a leveg?be? Rohadékok. Remélem, egy párat az én nevemben l?ttél le.}
 {333}{}{Újra kéne játszanod a játékot egy teljesen más karakterrel!}
 {334}{}{Hát elég tökös ember vagy, hogy lenyomtad az Enklávét.}
-{335}{}{Most, hogy kész vagy a játékkal, gyûjtögeted a TP-t? Légyszi ne ölj meg csak ezért, oksa?}
+{335}{}{Most, hogy kész vagy a játékkal, gy?jtögeted a TP-t? Légyszi ne ölj meg csak ezért, oksa?}
 {336}{}{New Renót Chris Avellone tervezte és Tom French szkriptelte. Azt rebesgetik, hogy hamarosan mindketten megházasodnak.}
-{337}{}{Remélem, Tandihoz vagy Ian-hoz hasonlóan valami fõszereplõ lehetek a Fallout 3-ban. Közönséges nehézfiúnak lenni tök gyíkság.}
+{337}{}{Remélem, Tandihoz vagy Ian-hoz hasonlóan valami f?szerepl? lehetek a Fallout 3-ban. Közönséges nehézfiúnak lenni tök gyíkság.}
 {338}{}{Hehe, egyszer meghúztam Tandit. Persze fiatal korában...}
 {339}{}{Annak a Lynette babának nem kéne semmi egyéb, csak hogy valaki jól megdöngesse.}
 {340}{}{Hallottam, hogy délen elhúztad az Enklávé nótáját. Bátorságból jeles!}
@@ -83,29 +83,29 @@
 {353}{}{Úgy hallottam, Tökös Tomi újra a városban van és benéz ide-oda. Vigyázz vele!}
 {354}{}{Ha összefutnál Tökös Tomival, ne kötözködj vele!}
 {355}{}{Szólhatnál néhány jó szót Bishopnak az érdekemben!}
-{356}{}{Jó kis kapcsolataid vannak. Bárcsak én is ilyen jóban lennék a fõnökkel.}
+{356}{}{Jó kis kapcsolataid vannak. Bárcsak én is ilyen jóban lennék a f?nökkel.}
 {357}{}{Van valami tipped egy magamfajta fickó számára?}
 {358}{}{A Bishop család mindig is jó volt velem.}
 {359}{}{A várost John Bishop fogja uralni.}
 {360}{}{Nagy csend van ma.}
 {361}{}{Közeleg a vihar...}
-{362}{}{A múlt éjszaka a szokásosnál is büdösebb levegõ jött a Golgotáról.}
+{362}{}{A múlt éjszaka a szokásosnál is büdösebb leveg? jött a Golgotáról.}
 {363}{}{Mikor tanítjuk móresre a többi családot?}
-{364}{}{Most, hogy a mi oldalunkon állsz, a többi családnak nulla esélye maradt, fõnök.}
-{365}{}{Ne szerezzek semmit, fõnök?}
+{364}{}{Most, hogy a mi oldalunkon állsz, a többi családnak nulla esélye maradt, f?nök.}
+{365}{}{Ne szerezzek semmit, f?nök?}
 {366}{}{Nincs hír a többi családról?}
 {367}{}{Ööö... nincs nálad egy kis Jet?}
 {368}{}{Hát jól jönne most egy ital...}
 {369}{}{Mrs. Bishop már megint rámmászott. Eléggé kényelmetlenül érzem magam miatta.}
 {370}{}{Mrs. Bishop folyton úgy néz rám, mint pék kutyája a langyos kiflire. Igazán felfoghatná, hogy távolságot kellene tartanunk.}
-{371}{}{Az a Bishop lány jó kis bõr.}
+{371}{}{Az a Bishop lány jó kis b?r.}
 {372}{}{Az a Bishop lány aztán tud gondokat okozni.}
 {373}{}{Azt hallottam, hogy a fúk egyike leitatta Bishop lányát, és Mr. Bishop megnyúzta ezért.}
-{374}{}{Ha Bishoppal tárgyalsz, tartsd magad távol a feleségétõl meg a lányától... mindketten csak bajt hoznak a fejedre!}
+{374}{}{Ha Bishoppal tárgyalsz, tartsd magad távol a feleségét?l meg a lányától... mindketten csak bajt hoznak a fejedre!}
 {380}{}{Azt hallottam, Mrs. Bishop rád pályázik. Vigyázz vele, haver!}
 {381}{}{Azt mondják, a Bishop lány rádkattant. Vigyázni kell vele!}
-{382}{}{Nem is tûnsz olyan keménynek, Mr. Bunyós.}
-{383}{}{Hát tudod, a Bishop családra igazán ráférne egy ilyen ember, mint te. Kemény, ellentmondást nem tûrõ. Ez kell ide!}
+{382}{}{Nem is t?nsz olyan keménynek, Mr. Bunyós.}
+{383}{}{Hát tudod, a Bishop családra igazán ráférne egy ilyen ember, mint te. Kemény, ellentmondást nem t?r?. Ez kell ide!}
 {384}{}{Beszélned kéne Bishoppal, hátha megbízna egy jó kis munkával!}
 {385}{}{Igazán elgondolkodhatnál azon, hogy beállsz közénk! New Renót mi fogjuk uralni.}
 {386}{}{Húsz dollárt tettem rád!}
@@ -117,22 +117,22 @@
 {392}{}{Vigyázz a Húsdarálóval! Imádja a füleket!}
 {393}{}{Meghívnálak egy italra, de az ellenfeledre fogadtam, és elbuktam az összes pénzem.}
 {394}{}{Wanna wrestle?}
-{395}{}{Nem is tûnsz olyan keménynek, Mr. Balhorog.}
+{395}{}{Nem is t?nsz olyan keménynek, Mr. Balhorog.}
 {396}{}{Megnézhetem a befeszített hasizmodat?}
 {400}{}{Azt hallottam, Mrs. Bishop rád pályázik. Vigyázz vele, haver!}
-{401}{}{Nem tudnál nekem munkát szerezni, haver? Én vagyok a csõdörök csõdöre!}
+{401}{}{Nem tudnál nekem munkát szerezni, haver? Én vagyok a cs?dörök cs?döre!}
 {402}{}{Tetszettek a filmjeid, }
-{403}{}{Tetszettél a Nagy Szûzgolyókban.}
+{403}{}{Tetszettél a Nagy Sz?zgolyókban.}
 {404}{}{Csodás voltál a Szexivánéji álomban!}
 {405}{}{Nagyon odavoltam a Farkalókkal táncolók folytatásában nyújtott alakításodért.}
-{406}{}{Jó volt a 23 centis Menedék. Igazi mûvészfilm Egy mozgóképes tour-de-FRANC.}
+{406}{}{Jó volt a 23 centis Menedék. Igazi m?vészfilm Egy mozgóképes tour-de-FRANC.}
 {407}{}{Azt mondják, a Bishop lány rádkattant. Vigyázni kell vele!}
 {408}{}{Nincs valami üresedés a stúdióban?}
-{409}{}{Jó volt a 23 centis Menedék. Igazi mûvészfilm Egy mozgóképes tour-de-FRANC.}
-{410}{}{Azt mondják, Tökös Tomi meg akar hívni téged egy zártkörû vetítésre.}
-{411}{}{Tetszett az utolsó filmed. A következõben segíthetek a próbákon?}
+{409}{}{Jó volt a 23 centis Menedék. Igazi m?vészfilm Egy mozgóképes tour-de-FRANC.}
+{410}{}{Azt mondják, Tökös Tomi meg akar hívni téged egy zártkör? vetítésre.}
+{411}{}{Tetszett az utolsó filmed. A következ?ben segíthetek a próbákon?}
 {412}{}{Szerezz nekem egy állást, és megmutatom a saját pózaimat.}
-{413}{}{Mikor tudnál idõt szakítani rám?}
+{413}{}{Mikor tudnál id?t szakítani rám?}
 {414}{}{Hé, csak nem táncolni fogsz itt ma éjjel?}
 {415}{}{Halálos, ahogy kinézel, édesem!}
 {416}{}{Fortuna irigykedni fog, ha gyakran jársz majd nálunk.}
@@ -152,27 +152,27 @@
 {446}{}{I ain't got no drugs for you, tribal.}
 {447}{}{Eridj és szívd el a békepipát, vadember!}
 {448}{}{Nincs kedvem cseverészni. Kopj le!}
-{449}{}{Tûnés innen, vadember!}
+{449}{}{T?nés innen, vadember!}
 {450}{}{Tudod te, hogy ki vagyok? Bishop embere vagyok. Most pedig kibaszott gyorsan húzd innen a beled!}
 {451}{}{Fel akarsz mérgesíteni? Nem fog tetszeni, ha sikerül.}
 {452}{}{Addig lépj le, amíg nem akarlak céltáblának használni!}
 {453}{}{Keresed a bajt? Csak beszélj még hozzám, és figyeld, mi történik!}
-{460}{}{Most nem vagyok kiéhezve egy barlanglakóra. Gyere vissza késõbb!}
+{460}{}{Most nem vagyok kiéhezve egy barlanglakóra. Gyere vissza kés?bb!}
 {461}{}{Most nincs kedvem hozzád, barlanglakó. Miért nem jössz vissza máskor?}
-{462}{}{Nem, nem tudom, hol találod, most pedig tûnés! ::Hülye õsemberek::}
+{462}{}{Nem, nem tudom, hol találod, most pedig t?nés! ::Hülye ?semberek::}
 {463}{}{Kopás van, vadember!}
 {464}{}{A Bishopok nem vesztegetik a szót vadember hulladékokra, van nekünk jobb dolgunk is.}
 {465}{}{I ain't got no drugs for you, tribal.}
 {466}{}{Eridj és szívd el a békepipát, vadember!}
 {467}{}{Nincs kedvem cseverészni. Kopj le!}
-{468}{}{Tûnés innen, vadember!}
+{468}{}{T?nés innen, vadember!}
 {469}{}{Tudod te, hogy ki vagyok? Bishop embere vagyok. Most pedig kibaszott gyorsan húzd innen a beled!}
 {470}{}{Fel akarsz mérgesíteni? Nem fog tetszeni, ha sikerül.}
 {471}{}{Addig lépj le, amíg nem akarlak céltáblának használni!}
 {472}{}{Keresed a bajt? Csak beszélj még hozzám, és figyeld, mi történik!}
-{473}{}{Ennyire azért nem öntöttem fel a garatra. Na, tûnés!}
+{473}{}{Ennyire azért nem öntöttem fel a garatra. Na, t?nés!}
 {474}{}{Te vagy a legrusnyább vadember, akit valaha láttam!}
-{475}{}{Tûnj a szemem elõl, melõtt randábbra verlek, mint amilyen amúgy is vagy!}
+{475}{}{T?nj a szemem el?l, mel?tt randábbra verlek, mint amilyen amúgy is vagy!}
 {476}{}{Eredj és keress magadnak egy benyomottabb faszit, ringyó!}
 {490}{}{Mi ez a rohadó szag? Vidd ki innen azt a ghoult, de rögtön!}
 {491}{}{Most azonnal vidd innen azt a büdös ghoult!}
@@ -184,10 +184,10 @@
 {1220}{}{, mi az ábra?}
 {1221}{}{, miben utazol mostanában?}
 {1222}{}{! Elkerül a baj?}
-{1228}{}{ család tele van nagy nullákkal. Mi errõl a véleményed?}
+{1228}{}{ család tele van nagy nullákkal. Mi err?l a véleményed?}
 {1229}{}{! Ebben a szent pillanatban!}
 {1230}{}{. A családod nem fog hiányolni?}
-{1231}{}{ családnak sokkal több ideje maradt másra, mint a fõnökük seggének tisztára nyalására.}
+{1231}{}{ családnak sokkal több ideje maradt másra, mint a f?nökük seggének tisztára nyalására.}
 {1236}{}{ család tele van nagy nullákkal. Most már látom, hogy ez valóban így van.}
 {1252}{}{! Itt nem járkálhatsz fegyverrel a kézben, rendbe'?}
 {1260}{}{. Elvagy magadban vagy kell segítség?}

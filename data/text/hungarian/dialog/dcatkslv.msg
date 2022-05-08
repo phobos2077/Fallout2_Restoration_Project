@@ -1,17 +1,17 @@
-{100}{}{A férfi eléggé erõs és éber.}
-{101}{}{A testalkatát meghazudtolva eléggé erõsnek látszik.}
+{100}{}{A férfi eléggé er?s és éber.}
+{101}{}{A testalkatát meghazudtolva eléggé er?snek látszik.}
 {200}{}{Ez a férfi rettenetesen sovány, de elég dühös egyúttal.}
-{201}{}{Ez az ember elég erõsnek látszik.}
+{201}{}{Ez az ember elég er?snek látszik.}
 {202}{}{Sebesen szedi a lábát.}
-{210}{}{Ez a nõ olyan benyomást kelt, mintha sosem fürdött volna életében.}
-{211}{}{Erõs harcosnak látszik.}
+{210}{}{Ez a n? olyan benyomást kelt, mintha sosem fürdött volna életében.}
+{211}{}{Er?s harcosnak látszik.}
 {212}{}{Ez a férfi szemlátomást nem sok vizet zavar.}
 {245}{}{Csendet! Közel vannak.}
 {246}{}{Ölni rossz emberek.}
-{247}{}{Nem vinni el család tõlem.}
+{247}{}{Nem vinni el család t?lem.}
 {248}{}{Megvédem család.}
 {249}{}{Nem találhatnak meg minket.}
-{250}{}{Õk rossz emberek.}
+{250}{}{?k rossz emberek.}
 {260}{}{Hajcsárok jönnek. Csituljatok!}
 {261}{}{Készüljetek! Közel vannak.}
 {262}{}{Nem visztek magatokkal harc nélkül!}

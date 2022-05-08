@@ -1,7 +1,7 @@
-{100}{}{Itt egy nagy kõ-emlékmû, ami... magában mormog?}
-{101}{}{Ez a nagy kõ-emlékmû a Menedéklakó fejét formázza. Nagyon hízelgõ a hasonlóság, bár kétséges, hogy a Menedéklakónak ekkora feje lett volna.}
-{102}{}{Ez egy hatalmas kõ-emlékmû}
-{103}{}{Ez a nagy kõ-emlékmû a Menedéklakó fejét formázza. Nagyon hízelgõ a hasonlóság, bár kétséges, hogy a Menedéklakónak ekkora feje lett volna.}
+{100}{}{Itt egy nagy k?-emlékm?, ami... magában mormog?}
+{101}{}{Ez a nagy k?-emlékm? a Menedéklakó fejét formázza. Nagyon hízelg? a hasonlóság, bár kétséges, hogy a Menedéklakónak ekkora feje lett volna.}
+{102}{}{Ez egy hatalmas k?-emlékm?}
+{103}{}{Ez a nagy k?-emlékm? a Menedéklakó fejét formázza. Nagyon hízelg? a hasonlóság, bár kétséges, hogy a Menedéklakónak ekkora feje lett volna.}
 {104}{}{Francos turisták...}
 {105}{}{"Én vagyok a Kiválasztott!" Micsoda agyatlanság!}
 {106}{}{Én a helyedben, Kiválasztott, elmennék innen!}
@@ -12,11 +12,11 @@
 {111}{}{ZZZZzzzzzZZZZZ}
 {112}{}{Bárcsak látnám, mi van mögöttem.}
 {113}{}{Bárcsak jönne valaki, és kiásná a maradékot...}
-{114}{}{Biztos vagyok benne, hogy a kõevõ hangyák minden pillanatban megjöhetnek, hogy elnyeljenek.}
-{115}{}{"Légy egy nagy kõfej! Láss világot!" Micsoda marhaság!}
+{114}{}{Biztos vagyok benne, hogy a k?ev? hangyák minden pillanatban megjöhetnek, hogy elnyeljenek.}
+{115}{}{"Légy egy nagy k?fej! Láss világot!" Micsoda marhaság!}
 {116}{}{Kész rejtély, miképp köthettem ki itt a sivatagban.}
 {117}{}{Még mindig nem látom be, miért kell nekem itt rohadni a sivatagban, míg a másik fej jól érzi magát a faluban.}
-{118}{}{Úgy értem, õhozzá jönnek imádók, letakarítják, imádkoznak hozzá... nekem meg marad a homok.}
+{118}{}{Úgy értem, ?hozzá jönnek imádók, letakarítják, imádkoznak hozzá... nekem meg marad a homok.}
 {119}{}{Úgy hallottam, a Húsvét szigeteki srácok jól elvannak.}
 {120}{}{Fogadjunk, hogy a Stonehenge-nek több látogatója van.}
 {121}{}{Hrnnfff... a-a, Mama... ma nincs suli... Zsnzzzzz}
@@ -24,7 +24,7 @@
 {123}{}{Zzsssccs...  mi?}
 {124}{}{Mia--?}
 {125}{}{VIDD INNEN A MOCSKOS KEZEDET!}
-{126}{}{Játékos megfordul, párat hátralép, aztán arccal a kõ-emlékmû felé fordul.}
+{126}{}{Játékos megfordul, párat hátralép, aztán arccal a k?-emlékm? felé fordul.}
 {127}{}{*Ahem*}
 {128}{}{KI MER KÖZELEDNI A MENEDÉKLAKÓ FELSZENTELT FEJÉHEZ?!}
 {129}{}{Én vagyok az, a Kiválasztott.}
@@ -41,7 +41,7 @@
 {140}{}{Aha.}
 {141}{}{A... Ah...}
 {142}{}{De... De...}
-{143}{}{Öö...ELÉG EBBÕL!}
+{143}{}{Öö...ELÉG EBB?L!}
 {144}{}{JÓL VAN! BIZONYSÁGOT TETTÉL!}
 {145}{}{VALÓBAN TE *VAGY* A KIVÁLASZTOTT!}
 {146}{}{FOGADD EZT EL!}
@@ -52,10 +52,10 @@
 {151}{}{MÁR ADTAM AJÁNDÉKOT!}
 {152}{}{PUSZTULJ!}
 {153}{}{Idióta!}
-{154}{}{MICSODA?! TE LOPNI AKARSZ TÕLEM?!}
+{154}{}{MICSODA?! TE LOPNI AKARSZ T?LEM?!}
 {155}{}{HALÁL RÁD!}
 {156}{}{Disintegrate the player with plasma death animation.}
-{200}{}{(12 órával késõbb)}
+{200}{}{(12 órával kés?bb)}
 {1129}{}{Me Chosen One.}
 {1134}{}{Me am too.}
 {1136}{}{Am too!}

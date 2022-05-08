@@ -1,23 +1,23 @@
 {100}{}{Számítógép-terminál.}
-{101}{}{A képerernyõkímélõ aktív.}
+{101}{}{A képererny?kímél? aktív.}
 {103}{}{Skynet Biztonsági Rendszer
                                  Betolakodó a 2. szinten
                                                    Ellenintézkedések aktiválása az 1. szinten
-                        Ellenintézkedések - A továbbítás megszûnt
+                        Ellenintézkedések - A továbbítás megsz?nt
                         Automata javító rendszer aktiválása}
 {104}{}{Skynet Biztonsági Rendszer
                                           Betolakodó a 2. szinten
                                              Ellenintézkedések aktiválása az 1. szinten
-                       Energia-átirányítási kísérlet az erõtér-emittereknek}
+                       Energia-átirányítási kísérlet az er?tér-emittereknek}
 {105}{}{Skynet Biztonsági Rendszer
                                           Betolakodó a 2. szinten
                                              Ellenintézkedések aktiválása az 1. szinten}
 {106}{}{2. Szint Riasztásának Vége - Téves Riasztás}
-{107}{}{[Felfedezel egy "Súgó" feliratú billentyût a klaviatúrán.] Megnyomod.}
+{107}{}{[Felfedezel egy "Súgó" feliratú billenty?t a klaviatúrán.] Megnyomod.}
 {108}{}{Feltöröd a védelmi rendszert}
 {109}{}{Megkísérled kikapcsolni a riasztót}
 {110}{}{Kilépés}
-{111}{}{Agrr! [Öklöddel csalódottan rávágsz a billentyûzetre.]}
+{111}{}{Agrr! [Öklöddel csalódottan rávágsz a billenty?zetre.]}
 {113}{}{Skynet Security Systems}
 {114}{}{Retina Scanner Activated
                                            Scanning...
@@ -25,7 +25,7 @@
 {115}{}{A 2. szint Riasztó Rendszerének aktiválása.}
 {116}{}{Saját diagnosztikai program futtatása.}
 {117}{}{Kilépés}
-{118}{}{Agrr! [Öklöddel csalódottan rávágsz a billentyûzetre.]}
+{118}{}{Agrr! [Öklöddel csalódottan rávágsz a billenty?zetre.]}
 {120}{}{Skynet Biztonsági Rendszer
                                           Hozzáférés a terminálhoz: Elutasítva}
 {122}{}{Kilépés}
@@ -41,10 +41,10 @@
                  Diagnosztikához nyomja meg a 2-est!
                              Kilépéshez nyomja meg a 3-ast!}
 {130}{}{A Riasztó kikapcsolását választod, és megnyomod az 1-es gombot}
-{131}{}{A Diagnosztikai ellenõrzést választod, és megnyomod a 2-es gombot }
+{131}{}{A Diagnosztikai ellen?rzést választod, és megnyomod a 2-es gombot }
 {132}{}{A Kilépést választod, és megnyomod a 3-as gombot }
 {133}{}{Kilépés}
-{134}{}{Figyelem! Ez a program akkor mûködik a leghatásosabban, ha ön minden programot bezár. Biztosan szeretné most futtatni?}
+{134}{}{Figyelem! Ez a program akkor m?ködik a leghatásosabban, ha ön minden programot bezár. Biztosan szeretné most futtatni?}
 {135}{}{Igen.}
 {136}{}{Nem.}
 {137}{}{Kilépés}

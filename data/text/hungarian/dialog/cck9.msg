@@ -5,16 +5,16 @@
 {104}{}{Öhh... Kutya beszélni?}
 {105}{}{Oké. Én szeretni kutyuli.}
 {106}{}{Nem. Nem akarni kutyuli.}
-{107}{}{Né' má'! Beszélõ kutya!}
-{108}{}{Egy: Kutya vagyok. Kettõ: Hangokkal kommunikálok és a magyar nyelvet használom. Ezért nyugodt szívvel kijelenthetem azt, hogy a válasz a kérdésedre "Igen, a kutyuli beszél." Most pedig, volnál olyan kedves megválaszolni a kérdésemet, amivel az elõbb a sarokba szorítottalak?}
-{109}{}{Egy: Kutya vagyok. Kettõ: Hangokkal kommunikálok és a magyar nyelvet használom. Ezért nyugodt szívvel kijelenthetem azt, hogy a válasz a kérdésedre "Igen, ez egy beszélõ kutya." Most pedig, volnál olyan kedves megválaszolni a kérdésemet, amivel az elõbb a sarokba szorítottalak?}
+{107}{}{Né' má'! Beszél? kutya!}
+{108}{}{Egy: Kutya vagyok. Kett?: Hangokkal kommunikálok és a magyar nyelvet használom. Ezért nyugodt szívvel kijelenthetem azt, hogy a válasz a kérdésedre "Igen, a kutyuli beszél." Most pedig, volnál olyan kedves megválaszolni a kérdésemet, amivel az el?bb a sarokba szorítottalak?}
+{109}{}{Egy: Kutya vagyok. Kett?: Hangokkal kommunikálok és a magyar nyelvet használom. Ezért nyugodt szívvel kijelenthetem azt, hogy a válasz a kérdésedre "Igen, ez egy beszél? kutya." Most pedig, volnál olyan kedves megválaszolni a kérdésemet, amivel az el?bb a sarokba szorítottalak?}
 {110}{}{Sajnálni, mi elfelejteni kérdés.}
 {111}{}{Igen.}
 {112}{}{Nem.}
 {113}{}{(sóhajt) Figyelj! Koncentrálj! Nézz a szemembe! Na, készen állsz?}
 {114}{}{Készen mit csinálni?}
 {115}{}{Igen, készen állok.}
-{116}{}{Én... Ha nem volna tény, hogy az IQ-d kevesebb, mint a magasságom méterben, azt gondolnám, hogy bosszantani próbálsz. Most pedig, maradj csöndben! Figyelj! Koncentrálj! Nézz a szemembe! Figyelj, mert kérdezni fogok tõled valamit!}
+{116}{}{Én... Ha nem volna tény, hogy az IQ-d kevesebb, mint a magasságom méterben, azt gondolnám, hogy bosszantani próbálsz. Most pedig, maradj csöndben! Figyelj! Koncentrálj! Nézz a szemembe! Figyelj, mert kérdezni fogok t?led valamit!}
 {117}{}{Akkor kérdezni! Mi gátolni meg benne?}
 {118}{}{A régi gazdám életjelei megszakadtak. Te vagy az új gazdám?}
 {119}{}{Öhh... Kutya beszélni?}
@@ -22,7 +22,7 @@
 {121}{}{Kösz nem.}
 {122}{}{Jól hangzik.}
 {123}{}{Kösz nem.}
-{124}{}{Én... nem vagyok hajlandó ezt még egyszer végigcsinálni! Ha meglenne a motivátorom, cafatokra tépném azt a hátulsó perifériádat, amit a köznyelv egyszerûen csak úgy nevez, hogy s...}
+{124}{}{Én... nem vagyok hajlandó ezt még egyszer végigcsinálni! Ha meglenne a motivátorom, cafatokra tépném azt a hátulsó perifériádat, amit a köznyelv egyszer?en csak úgy nevez, hogy s...}
 {125}{}{Segg. Mi tudni, segg mit jelentni. Mi nem lenni hülye. Csak viccelni kutyával.}
 {126}{}{Ja, egy vicc. Ha-ha-ha. Na, most te vagy az új gazdám, vagy nem?}
 {127}{}{Oké. Én szeretni kutyuli.}
@@ -52,13 +52,13 @@
 {151}{}{Oké.}
 {152}{}{Akkor kérlek, gazdám, szereld be! Kérlek, kérlek!}
 {153}{}{Oké. Csak nyugi.}
-{154}{}{Most már teljesen mûködõképes vagyok, gazdám. Most akkor mehetek veled?}
+{154}{}{Most már teljesen m?köd?képes vagyok, gazdám. Most akkor mehetek veled?}
 {155}{}{Az nem oda való, gazdám! Biztos vagy benne, hogy jó, amit csinálsz?}
 {156}{}{Oké. Kutyus jönni velem.}
 {157}{}{Tudni, mit csinálni! Kutya kussolni! Megpróbálni újra!}
 {158}{}{Igen, mehetünk.}
 {159}{}{Hé, sokkal bonyolultabb dolgokat is megszereltem már, mint a te mantyogó segged. Fogd be inkább! Megpróbálom még egyszer.}
-{160}{}{Tûnj innen! Nem akarlak téged gazdámnak!}
+{160}{}{T?nj innen! Nem akarlak téged gazdámnak!}
 {161}{}{Hagyj békén!}
 {162}{}{Nem szeretlek! Menj innen!}
 {163}{}{Meg foglak ölni!}
@@ -81,10 +81,10 @@
 {180}{}{Kicsit szét kellene szóródnunk.}
 {181}{}{Gyerünk!}
 {182}{}{Mára ennyi.}
-{183}{}{Minden rendszerem teljes kapacitáson mûködik, gazdám.}
-{184}{}{Minden rendszerem csaknem teljes kapacitáson mûködik, gazdám.}
-{185}{}{Megtettem a szükséges javításokat, de a továbbiakban külsõ segítségre szorulok, gazdám.}
-{186}{}{Megtettem amit tudtam, gazdám, de a rendszerem a szétesés szélén áll, és ha nem kapok külsõ segítséget, le is áll.}
+{183}{}{Minden rendszerem teljes kapacitáson m?ködik, gazdám.}
+{184}{}{Minden rendszerem csaknem teljes kapacitáson m?ködik, gazdám.}
+{185}{}{Megtettem a szükséges javításokat, de a továbbiakban küls? segítségre szorulok, gazdám.}
+{186}{}{Megtettem amit tudtam, gazdám, de a rendszerem a szétesés szélén áll, és ha nem kapok küls? segítséget, le is áll.}
 {187}{}{Te várni itt! Én jönni vissza.}
 {188}{}{Öhm... tenni el fegyvereid. Oké?}
 {189}{}{Te maradni közel.}
@@ -129,7 +129,7 @@
 {228}{}{Kicsit menj hátrébb!}
 {229}{}{Gyerünk!}
 {230}{}{Mára ennyi.}
-{231}{}{Szûkítem a távolságot kettõnk között, gazdám.}
+{231}{}{Sz?kítem a távolságot kett?nk között, gazdám.}
 {232}{}{Te gyógyítani magad!}
 {233}{}{Te várni itt! Én jönni vissza.}
 {234}{}{Öhm... tenni el fegyvereid. Oké?}
@@ -144,7 +144,7 @@
 {243}{}{Kicsit szét kellene szóródnunk.}
 {244}{}{Gyerünk!}
 {245}{}{Mára ennyi.}
-{246}{}{Növelem a távolságot kettõnk között, gazdám.}
+{246}{}{Növelem a távolságot kett?nk között, gazdám.}
 {247}{}{Te gyógyítani magad!}
 {248}{}{Te várni itt! Én jönni vissza.}
 {249}{}{Öhm... tenni el fegyvereid. Oké?}
@@ -199,10 +199,10 @@
 {420}{}{Ez nem illik bele.}
 {800}{}{You fixed K-9.}
 {1000}{}{Igen, gazdám?}
-{1100}{}{Minden rendszerem teljes kapacitáson mûködik, gazdám.}
-{1200}{}{Minden rendszerem csaknem teljes kapacitáson mûködik, gazdám.}
-{1300}{}{Megtettem a szükséges javításokat, de a továbbiakban külsõ segítségre szorulok, gazdám.}
-{1400}{}{Megtettem amit tudtam, gazdám, de a rendszerem a szétesés szélén áll, és ha nem kapok külsõ segítséget, le is áll.}
+{1100}{}{Minden rendszerem teljes kapacitáson m?ködik, gazdám.}
+{1200}{}{Minden rendszerem csaknem teljes kapacitáson m?ködik, gazdám.}
+{1300}{}{Megtettem a szükséges javításokat, de a továbbiakban küls? segítségre szorulok, gazdám.}
+{1400}{}{Megtettem amit tudtam, gazdám, de a rendszerem a szétesés szélén áll, és ha nem kapok küls? segítséget, le is áll.}
 {1500}{}{I will await your return, master.}
 {1600}{}{Do you expect me to swallow my teeth, master?}
 {1700}{}{I will follow at your heel, master.}

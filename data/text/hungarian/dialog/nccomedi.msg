@@ -4,27 +4,27 @@
 {1000}{}{Szóval... ööö... miért ment át a radskorpió az úton?}
 {1001}{}{Azért, hogy kikerülje azt az unalmas FAJTÁDAT!}
 {1002}{}{Öljük már meg ezt a fickót!}
-{1003}{}{Mert a radskorpió... ööö, el akarta kerülni az égbõl hulló radioaktív szemcséket...}
+{1003}{}{Mert a radskorpió... ööö, el akarta kerülni az égb?l hulló radioaktív szemcséket...}
 {1004}{}{Hülye fasz!}
 {1005}{}{BASZÓDJ MEG!}
 {1006}{}{Ööö..., ami a poént illeti... hát mivel az már amúgy is mutáns volt, nem kellett volna átmennie az úton, tehát... ööö...}
 {1007}{}{}
-{2000}{}{Hehe. Gekkó... ghoulok, mi? Ghoulok... ember, bûzlenek, mint az istennyila!}
+{2000}{}{Hehe. Gekkó... ghoulok, mi? Ghoulok... ember, b?zlenek, mint az istennyila!}
 {2001}{}{Büdös vagy!}
 {2002}{}{Ez a fazon nyugodtan felléphetne valami Talk Show-ban!}
-{2003}{}{Ööö... hehe... szóval... ööö, a ghoulok, bûzlenek. Tehát, akárcsak a... ööö...}
-{2004}{}{Azt mondtam már, hogy a ghoulok bûzlenek?}
-{2005}{}{Ööö, aztán odamegyek a ghoulhoz, és megkérdezem tõle: "Mondd csak, ti irigykedtek rám, hogy nem bûzlök?"}
-{2006}{}{Mire õ: "Nem. Ööö, miért kérded?"}
+{2003}{}{Ööö... hehe... szóval... ööö, a ghoulok, b?zlenek. Tehát, akárcsak a... ööö...}
+{2004}{}{Azt mondtam már, hogy a ghoulok b?zlenek?}
+{2005}{}{Ööö, aztán odamegyek a ghoulhoz, és megkérdezem t?le: "Mondd csak, ti irigykedtek rám, hogy nem b?zlök?"}
+{2006}{}{Mire ?: "Nem. Ööö, miért kérded?"}
 {2007}{}{Hát mert hogy SÁRGÁK vagytok.}
-{2008}{}{Ööö... sárgák az irigységtõl. Jó mi?}
+{2008}{}{Ööö... sárgák az irigységt?l. Jó mi?}
 {2010}{}{ÚÚÚÚÚ!}
 {2011}{}{}
 {3000}{}{Na... vegyünk egy prostituáltat, ugyebár a hülyébbik fajta ribancot...}
 {3001}{}{Az Anyád a ribanc, az!}
-{3002}{}{"Ribanc?" Majd jól megszurkállak elõadás után!}
+{3002}{}{"Ribanc?" Majd jól megszurkállak el?adás után!}
 {3003}{}{És hát ugye... ööö... aszongya nekem "Az ott egy gekkó a zsebedben, vagy csak... ööö... kanos vagy?"}
-{3006}{}{Ööö... említettem, hogy egy tûzköpõ gekkó volt?... hehe...}
+{3006}{}{Ööö... említettem, hogy egy t?zköp? gekkó volt?... hehe...}
 {3007}{}{}
 {4000}{}{Gépmadarak?}
 {4001}{}{Gép... micsodák?}
@@ -37,7 +37,7 @@
 {5001}{}{*Ásít*}
 {5002}{}{Tudod, mint a slusszpoén. Hallott valaki ilyet mostanában?}
 {5003}{}{Mostanában látta valaki a picike kis cerkádat?}
-{5004}{}{Öööö... Szerinted van akárki a világon, aki azt mondaná: "Hé, még nem volt elég az oltári baklövésekbõl!"}
+{5004}{}{Öööö... Szerinted van akárki a világon, aki azt mondaná: "Hé, még nem volt elég az oltári baklövésekb?l!"}
 {5005}{}{Kik ezek az... emberek?}
 {5006}{}{Hé, ezt a poént már hallottam.}
 {5007}{}{}
@@ -68,9 +68,9 @@
 {8007}{}{Öööö... mert a szupermutánsok nem mentenek macskákat...}
 {8008}{}{Lélelktelenül öldökölnek!}
 {8009}{}{Bárcsak valaki téged is leöldökölne lélhekth...}
-{8010}{}{Tehát akkor kik nevezik õket Szuper Mutánsnak?}
+{8010}{}{Tehát akkor kik nevezik ?ket Szuper Mutánsnak?}
 {8011}{}{Kik ezek az emberek?}
-{8012}{}{Valószínûleg ugyanazok a hülyék, akik téged is felbéreltek!}
+{8012}{}{Valószín?leg ugyanazok a hülyék, akik téged is felbéreltek!}
 {8013}{}{}
 {9000}{}{És mi a helyzet azzal a pöcsedék Myronnal?}
 {9001}{}{Ez rólam beszél?}
@@ -78,14 +78,14 @@
 {9003}{}{*Ha* *Ha* *Ha*}
 {9004}{}{Hé!}
 {9005}{}{Hát tudod, Myron, te egy jó nagy pöcsedék vagy!}
-{9006}{}{Ne is törõdj vele, Myron! Csak mulatságosnak szeretne látszani.}
+{9006}{}{Ne is tör?dj vele, Myron! Csak mulatságosnak szeretne látszani.}
 {9007}{}{Hát szerencsésnek érezheted magad, haver, hogy nem rúglak itt helyben picsán!}
 {9008}{}{}
 {10000}{}{Hallottál az idióta Bishop lányról? Jól felcsináltatta magát!}
 {10001}{}{*Taps* *Taps* *Taps*}
 {10002}{}{::Fütyül::}
-{10003}{}{Elképesztõ!}
-{11000}{}{Hehe. Hallottál arról a törzsbélirõl, aki lemosta az Enklávét a föld színérõl?}
+{10003}{}{Elképeszt?!}
+{11000}{}{Hehe. Hallottál arról a törzsbélir?l, aki lemosta az Enklávét a föld színér?l?}
 {11001}{}{A vadember annyira hülye volt, hogy ööö... az a vadember, szóval... ööö, felrobbantotta a fúrótornyukat.}
 {11002}{}{BUMM!}
 {11003}{}{Említettem már, hogy a törzsbéli hülye?}

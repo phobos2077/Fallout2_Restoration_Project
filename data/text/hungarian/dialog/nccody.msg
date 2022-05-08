@@ -1,7 +1,7 @@
-{125}{}{Õ Cody.}
-{175}{}{Ez itt egy szakadt lelencgyerek. Lepusztult pólójára a következõt firkantották: "Cody".}
-{176}{}{Õ Cody. Üres arccal bámul rád.}
-{177}{}{Õ Cody. A nézésétõl még a hegyek is arrébb mozdulnának.}
+{125}{}{? Cody.}
+{175}{}{Ez itt egy szakadt lelencgyerek. Lepusztult pólójára a következ?t firkantották: "Cody".}
+{176}{}{? Cody. Üres arccal bámul rád.}
+{177}{}{? Cody. A nézését?l még a hegyek is arrébb mozdulnának.}
 {178}{}{Ez a srác Cody. Neve a szakadt pólóján olvasható.}
 {200}{}{(Ahogy közeledsz, a srác üres arckifejezéssel bámul rád... a mocsok alatt alig látszik az arca. Szakadt pólójára valaki azt firkantotta, hogy "Cody.")}
 {201}{}{(Ahogy közeledsz, Cody üres arckifejezéssel bámul rád.)}
@@ -26,7 +26,7 @@
 {225}{}{Kis szaros...}
 {230}{}{(Cody egyre csak bámul.)}
 {231}{}{Ööö... jól vagy, Cody?}
-{239}{}{Hát, majd késõbb találkozunk, Cody. Vigyázz magadra!}
+{239}{}{Hát, majd kés?bb találkozunk, Cody. Vigyázz magadra!}
 {251}{}{Hé, Cody. Nem akarsz egy kis Nuka Kólát?}
 {252}{}{Nem akarsz egy kis sörtöt, kölyök? Nem lehet elég korán kezdeni, mondta az anyám... már amikor épp józan volt.}
 {253}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repülni }
@@ -36,7 +36,7 @@
 {257}{}{Bocsi, haver, asszem, nincs nálam semmi, amire meghívhatnálak.}
 {261}{}{Nem akarsz egy kis gyümölcsöt, Cody?}
 {262}{}{Mit szólnál egy iguanához, Cody? Mmmmmm nagyon jó ám!}
-{263}{}{Hé, Cody. Nem akarsz egy kis ízlete... akarom mondani, ehetõ... Dunton féle szárított húst? Mmmmmm... ööö... nagyon jó ám.}
+{263}{}{Hé, Cody. Nem akarsz egy kis ízlete... akarom mondani, ehet?... Dunton féle szárított húst? Mmmmmm... ööö... nagyon jó ám.}
 {270}{}{(Cody megragadja az ajándékot, és elszalad.)}
 {271}{}{::A fogad közt mormolsz valamit a "mai fiatalokról"::}
 {272}{}{Sebaj kölyök... nem kell megköszönni...}
@@ -44,29 +44,29 @@
 {274}{}{Ezt a tiszteletlen kis disznót el kéne adni rabszolgának... hmmm, várj csak egy pillanatra...}
 {280}{}{(Cody bólint egyet!)}
 {281}{}{(Meglepetésedre Cody bólint egyet!)}
-{282}{}{Õ }
+{282}{}{? }
 {283}{}{Jó neked tudol hol lenni autóm }
 {284}{}{Csakugyan? Meg tudod mutatni, hol van?}
 {286}{}{Hát csak úgy kíváncsiskodtam. Majd még jövök...}
 {290}{}{(Cody félve pillantgat az utca másik oldalán álló Jules-re, aki viszont éppen titeket bámul.)}
 {291}{}{(Cody félve pillantgat az utca másik oldalán álló fekete férfire, aki viszont éppen titeket méreget.)}
-{292}{}{Aha, értem... úgy tûnik, Jules és az öklöm most szépen elbeszélgetnek kicsit...}
+{292}{}{Aha, értem... úgy t?nik, Jules és az öklöm most szépen elbeszélgetnek kicsit...}
 {293}{}{Nahát... Cody, tudod, mi fog most történni? A rossz ember, aki ellopta a }
-{294}{}{Mit nem mondasz... Hát majd késõbb megtárgyaljuk vele, de most igazán elvihetnél a kocsimhoz.}
+{294}{}{Mit nem mondasz... Hát majd kés?bb megtárgyaljuk vele, de most igazán elvihetnél a kocsimhoz.}
 {300}{}{(Cody vállat von.)}
 {301}{}{El tudsz vinni oda, ahol a kocsim van?}
 {302}{}{Hát csak kíváncsiskodtam. Szia.}
 {310}{}{(Cody újra bólint, aztán rohanni kezd.)}
 {311}{}{(Utána futsz.)}
 {312}{}{Jóvan jól, menek utánnad... óóóh, nédda homok! Mi barna mán! Ööö... Cody hova megyen?}
-{313}{}{Cody, állj meg! Most nem akarok oda menni... Elõször még egy csomó más dolgot el kell intéznem. Semmi perc alatt visszajövök.}
-{320}{}{(Miközben közeledsz, a gyerek egyfolytában bámul. Szakadt ruhát visel, és a mocsok alatt alig látod az arcát. Amint közel érsz, a szeme megakad a homlokodon, aztán elkerekedik, és a srác úgy kezd futni, mintha puskából lõtték volna ki.)}
-{321}{}{(Messzirõl nézve a srác elég szakadtnak tûnik. Amint a páncélodban közelebb érsz, elkerekedõ szemmel rögtön futásnak ered.)}
+{313}{}{Cody, állj meg! Most nem akarok oda menni... El?ször még egy csomó más dolgot el kell intéznem. Semmi perc alatt visszajövök.}
+{320}{}{(Miközben közeledsz, a gyerek egyfolytában bámul. Szakadt ruhát visel, és a mocsok alatt alig látod az arcát. Amint közel érsz, a szeme megakad a homlokodon, aztán elkerekedik, és a srác úgy kezd futni, mintha puskából l?tték volna ki.)}
+{321}{}{(Messzir?l nézve a srác elég szakadtnak t?nik. Amint a páncélodban közelebb érsz, elkereked? szemmel rögtön futásnak ered.)}
 {322}{}{Szia Szia}
 {324}{}{A kis pondrót el kéne adni rabszolgának... hmmmm, na várj csak egy pillanatra...}
-{330}{}{(Messzirõl nézve a srác elég szakadtnak tûnik. Amint közelebb érsz, elkerekedõ szemmel rögtön futásnak ered.)}
-{340}{}{(Messzirõl nézve a srác elég szakadtnak tûnik. Amint megpillantja Marcust, elkerekedõ szemmel rögtön futásnak ered.)}
-{350}{}{(Messzirõl nézve a srác elég szakadtnak tûnik. Amint megpillantja Lennyt, elkerekedõ szemmel rögtön futásnak ered.)}
+{330}{}{(Messzir?l nézve a srác elég szakadtnak t?nik. Amint közelebb érsz, elkereked? szemmel rögtön futásnak ered.)}
+{340}{}{(Messzir?l nézve a srác elég szakadtnak t?nik. Amint megpillantja Marcust, elkereked? szemmel rögtön futásnak ered.)}
+{350}{}{(Messzir?l nézve a srác elég szakadtnak t?nik. Amint megpillantja Lennyt, elkereked? szemmel rögtön futásnak ered.)}
 {360}{}{(Amint közelítesz, Cody abbahagyja a bámészkodást. Melléérvén rádkacsint és megereszt egy halovány mosolyt.)}
 {361}{}{(Ahogy közeledsz, a srác üres arckifejezéssel bámul rád... a mocsok alatt alig látszik az arca. Szakadt pólójára valaki azt firkantotta, hogy "Cody." Amint melléérsz, abbahagyja a bámészkodást, és elmosolyogja magát.}
 {362}{}{Hahó Kódi}
@@ -82,8 +82,8 @@
 {380}{}{(Cody kacsint, és mormog valamit.)}
 {381}{}{He? Mit mondtál?}
 {382}{}{Mi van Cody? Mit mondtál?}
-{390}{}{(Cody kacsint, aztán újra csak mormog valamit. Alig kivehetõ, leginkább egy "köszönöm"-re hasonlított.)}
-{391}{}{(Cody kacsint, aztán újra csak mormog valamit. Alig kivehetõ, leginkább egy "baszódj meg"-re hasonlított.)}
+{390}{}{(Cody kacsint, aztán újra csak mormog valamit. Alig kivehet?, leginkább egy "köszönöm"-re hasonlított.)}
+{391}{}{(Cody kacsint, aztán újra csak mormog valamit. Alig kivehet?, leginkább egy "baszódj meg"-re hasonlított.)}
 {392}{}{Thank YOU, Codee. Witout Npee Cees like you, me in VERY borrin world.}
 {393}{}{ÉN MEGÖL ÉN MEGÖL}
 {394}{}{Semmi gond, Cody. A világ megmentése úgy látszik, a véremben van. Vigyázz magadra, hallod-e!}

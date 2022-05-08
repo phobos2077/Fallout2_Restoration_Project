@@ -2,22 +2,22 @@
 {110}{}{Egy Jet-kurva.}
 {111}{}{Tubby egyik Jet-kurvája.}
 {150}{}{Tubby egyik barátjának látszik. }
-{160}{}{Erõsen bedrogozott a kicsike.}
-{161}{}{Erõs elvonási tünetektõl szenved.}
+{160}{}{Er?sen bedrogozott a kicsike.}
+{161}{}{Er?s elvonási tünetekt?l szenved.}
 {200}{}{Ember, honnan fogjuk a szert beszerezni?}
-{201}{}{Mér õted meg Tubbyt?}
+{201}{}{Mér ?ted meg Tubbyt?}
 {202}{}{Ember, ez kibaszás!}
 {203}{}{Most mit kellene csinálnunk?}
 {204}{}{Ó, ember...}
 {205}{}{Hé, ez nem igazságos!}
 {206}{}{Ne bánts minket, nem fogunk beszélni!}
-{220}{}{Nem semmi egy aljas alaknak tûnsz.}
+{220}{}{Nem semmi egy aljas alaknak t?nsz.}
 {221}{}{Egészen rendes gyerek vagy. Mondta ezt már neked valaki?}
 {222}{}{Egészen rendes lány vagy. Mondta ezt már neked valaki?}
-{223}{}{Tubby õrei vagyunk.}
-{224}{}{Ne baszakodj Tubbyval! Ez itt az õ helye.}
+{223}{}{Tubby ?rei vagyunk.}
+{224}{}{Ne baszakodj Tubbyval! Ez itt az ? helye.}
 {225}{}{A francba, jól érzem magam!}
-{226}{}{El sem hiszem, hogy õrök vagyunk! Jó nem?}
+{226}{}{El sem hiszem, hogy ?rök vagyunk! Jó nem?}
 {227}{}{Frankó ez a cucc.}
 {228}{}{Ó, ember, nem érzem a lábaimat.}
 {229}{}{Tubby a barátunk.}
@@ -25,9 +25,9 @@
 {231}{}{Franc esne a szemembe...}
 {232}{}{Hé ember, te rabszolga-hajcsár vagy? Az igen!}
 {233}{}{Nem fájt a tetoválás?}
-{234}{}{Ti rabszolga-kereskedõk aztán kemény gyerekek vagytok.}
-{235}{}{Nem veszélyes rabszolga-kereskedõnek lenni?}
-{236}{}{Azt hallottam, lelõtték a fõnöködet. Szar ügy.}
+{234}{}{Ti rabszolga-keresked?k aztán kemény gyerekek vagytok.}
+{235}{}{Nem veszélyes rabszolga-keresked?nek lenni?}
+{236}{}{Azt hallottam, lel?tték a f?nöködet. Szar ügy.}
 {237}{}{Hallotad? Olyasmiket rebesgetnek, hogy Metzger meghalt.}
 {238}{}{Nem semmi, valaki kicsinálta Metzgert, a Mészárost!}
 {239}{}{Remélem, Metz halála után Tubby tovább folytatja az üzletet.}
@@ -57,17 +57,17 @@
 {291}{}{Milyen sok fény!}
 {292}{}{Olyan melegek.}
 {293}{}{És vannak fák.}
-{294}{}{Hol vannak a nõk?}
+{294}{}{Hol vannak a n?k?}
 {295}{}{Olyan zöld és helyes.}
 {296}{}{Szeretem a krumplit.}
 {297}{}{A fák fából vannak.}
-{298}{}{Szeretem a nõket és a krumplit.}
+{298}{}{Szeretem a n?ket és a krumplit.}
 {299}{}{Miközben égnek, szép füstöt árasztanak.}
 {300}{}{De nem ám együtt...}
 {301}{}{A fákon állatok élnek.}
-{302}{}{Nem, nem a nõket és a fákat... a nõket és krumplit.}
+{302}{}{Nem, nem a n?ket és a fákat... a n?ket és krumplit.}
 {303}{}{Tudok fára mászni.}
-{304}{}{A fára mászó nõ krumplit eszik? Hülye vagy...}
+{304}{}{A fára mászó n? krumplit eszik? Hülye vagy...}
 {305}{}{Honnan jönnek a fák? }
 {306}{}{Nem tudsz egyszerre fára mászni és krumplit enni.}
 {307}{}{Szeretem a bokrokat is.}
@@ -91,12 +91,12 @@
 {343}{}{Oda ne rohanjak...}
 {344}{}{Ezt mégis hogy gondoltad?}
 {400}{}{Tubby olyan csodálatos ember.}
-{401}{}{A Jettõl mindig kanos leszek.}
-{402}{}{Tubby tudja, hogy bánjon a nõivel.}
+{401}{}{A Jett?l mindig kanos leszek.}
+{402}{}{Tubby tudja, hogy bánjon a n?ivel.}
 {403}{}{Hát nem csodálatos ez a Tubby?}
 {404}{}{Ó, édes... Várj! Te nem is vagy Tubby.}
 {405}{}{Hol van a nagy emberünk?}
-{406}{}{Nem bizsereg tõle a bõröd?}
+{406}{}{Nem bizsereg t?le a b?röd?}
 {407}{}{Tubbynak van a legjobb ellátmánya a városban.}
 {408}{}{Olyan virgoncnak érzem magam!}
 {420}{}{Did you hear a loud bang?}

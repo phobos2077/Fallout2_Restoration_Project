@@ -11,7 +11,7 @@
 {156}{}{Nem szabadna törzsbéliekkel beszélnem.}
 {157}{}{Ez egy tacskó.}
 {158}{}{Anyu azt mondja, hogy megeszel, ha rosszul viselkedem.}
-{159}{}{Nem félek ám tõled!}
+{159}{}{Nem félek ám t?led!}
 {160}{}{Segítséég!}
 {161}{}{Üldöz!}
 {162}{}{Kérlek, ne bánts!}
@@ -32,7 +32,7 @@
 {178}{}{Fogócskázzunk! Te vagy a fogó!}
 {179}{}{Nincs is olyan rossz szagod.}
 {180}{}{Láttad már a láthatatlan barátom?}
-{181}{}{Ha olyan idõs leszek, mint te, körbe fogom utazni a világot.}
+{181}{}{Ha olyan id?s leszek, mint te, körbe fogom utazni a világot.}
 {182}{}{Te rendes törzsbéli vagy, nem úgy, mint a többi.}
 {183}{}{Szerintem te szoktál fürdeni.}
 {184}{}{Okosabb vagy, mint Torr.}
@@ -46,7 +46,7 @@
 {192}{}{Viccesen nézel ki.}
 {193}{}{Mit viselsz?}
 {194}{}{Brahminon akarok lovagolni!}
-{195}{}{Messzirõl jöttél?}
+{195}{}{Messzir?l jöttél?}
 {196}{}{Íhíííííjjj! Ha, ha, ha!}
 {197}{}{Ne menj!}
 {198}{}{Van kajád?}
@@ -74,5 +74,5 @@
 {220}{}{Kedvellek.}
 {221}{}{Kedvelsz?}
 {222}{}{Házas vagy?}
-{223}{}{Egy, kettõ, három... Íhhíííííjjj!}
+{223}{}{Egy, kett?, három... Íhhíííííjjj!}
 {300}{}{Idegen!}

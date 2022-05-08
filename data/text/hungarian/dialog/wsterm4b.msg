@@ -1,12 +1,12 @@
 {100}{}{Számítógép-terminál.}
 {101}{}{It controls the Vault-Tec organ extraction unit.}
-{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
-{103}{}{Üdvözli Önt a Menedék-Tek Ultramodern Szerveltávolító Berendezése. Az operációhoz kérem, tegye be a donort a mûtõbe, fordítsa el a tárcsát a megfelelõ faj nevére, és válassza ki, milyen szervet szeretne eltávolítani!}
+{102}{}{Képtelen vagy elolvasni, mi van a képerny?re írva.}
+{103}{}{Üdvözli Önt a Menedék-Tek Ultramodern Szerveltávolító Berendezése. Az operációhoz kérem, tegye be a donort a m?t?be, fordítsa el a tárcsát a megfelel? faj nevére, és válassza ki, milyen szervet szeretne eltávolítani!}
 {104}{}{Kiválasztod a Fajt}
 {105}{}{Kiválasztod a Szervet}
 {106}{}{Kilépés.}
 {107}{}{Agrr!}
-{108}{}{[A tárcsán a következõ fajok szerepelnek:]
+{108}{}{[A tárcsán a következ? fajok szerepelnek:]
                          Kutya
                                                                    Macska
                                                                   Madár
@@ -24,7 +24,7 @@
 {118}{}{Kiválasztod az Embert}
 {119}{}{[Scratch a new name onto console.]}
 {120}{}{Kilépés.}
-{121}{}{[Felveszel egy darab fémet és eltûnõdsz, hogy mit is kellene belevésni a konzolba.]}
+{121}{}{[Felveszel egy darab fémet és elt?n?dsz, hogy mit is kellene belevésni a konzolba.]}
 {122}{}{Carve the word 'Mutant' onto console.}
 {123}{}{Carve the word 'Deathclaw' onto console.}
 {124}{}{Kilépés.}
@@ -40,7 +40,7 @@
                                                                      Agy
                                                                       Vese
                                                                     Máj
-                                                                      Tüdõ
+                                                                      Tüd?
                                                                      Vakbél
                                                                   Vastagbél [Csak bele van karcolva]}
 {133}{}{}
@@ -54,11 +54,11 @@
 {141}{}{Az Agyat választod}
 {142}{}{A Vesét választod}
 {143}{}{A Májat választod}
-{144}{}{A Tüdõt választod}
+{144}{}{A Tüd?t választod}
 {145}{}{A Vakbelet választod}
 {146}{}{A Vastagbelet választod}
 {147}{}{Kilépés.}
-{148}{}{A donor nincs jelen a mûtõben.}
+{148}{}{A donor nincs jelen a m?t?ben.}
 {149}{}{Extraction failed.}
 {150}{}{Extraction completed.}
 {151}{}{Extraction completed.
@@ -81,4 +81,4 @@
 {184}{}{Lung }
 {185}{}{Appendix }
 {186}{}{Colon }
-{200}{}{ képtelen elolvasni, mi van a képernyõre írva.}
+{200}{}{ képtelen elolvasni, mi van a képerny?re írva.}

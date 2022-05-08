@@ -1,5 +1,5 @@
 {100}{}{Egy Polgárt látsz.}
-{101}{}{A Komfortfelelõst látod.}
+{101}{}{A Komfortfelel?st látod.}
 {102}{}{Beszélj Randallal ha segítségre van szükséged!}
 {103}{}{Ez az a hely ahol üzletelünk a Polgárokkal.}
 {104}{}{Tartsd a kezed távol az árumtól, ha nincs engedélyed!}

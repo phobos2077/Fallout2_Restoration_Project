@@ -1,6 +1,6 @@
-{100}{}{Férfi hõs}
+{100}{}{Férfi h?s}
 {101}{}{}
-{200}{}{Hõsnõ}
+{200}{}{H?sn?}
 {201}{}{}
 {300}{}{Falusi ember}
 {400}{}{Falusi ember}
@@ -13,24 +13,24 @@
 {800}{}{Halálkarom                                                        }
 {801}{}{Egy halálkarom kölyök.}
 {900}{}{Kutya}
-{901}{}{Egy kutya, valószínûleg keverék.}
+{901}{}{Egy kutya, valószín?leg keverék.}
 {1000}{}{Brahmin}
-{1001}{}{Egy kétfejû, mutáns tehén.}
+{1001}{}{Egy kétfej?, mutáns tehén.}
 {1100}{}{Patkány}
 {1101}{}{Egy tipikus, nagy patkány.}
 {1200}{}{Sáska}
 {1201}{}{Egy mutáns imádkozó-sáska.}
-{1300}{}{Törzsfõ}
+{1300}{}{Törzsf?}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
-{1600}{}{Húsevõ növény}
-{1601}{}{Egy húsevõ növény.}
+{1600}{}{Húsev? növény}
+{1601}{}{Egy húsev? növény.}
 {1700}{}{Csinos rabszolga}
-{1800}{}{Jóképû rabszolga}
+{1800}{}{Jókép? rabszolga}
 {1900}{}{Egészséges rabszolga}
 {2000}{}{Egészséges rabszolga}
-{2100}{}{Erõs rabszolga}
-{2200}{}{Erõs rabszolga}
+{2100}{}{Er?s rabszolga}
+{2200}{}{Er?s rabszolga}
 {2300}{}{Harci rabszolga}
 {2400}{}{Harci rabszolga}
 {2500}{}{Ügyes rabszolga}
@@ -48,62 +48,62 @@
 {3700}{}{Fegyveres bandatag}
 {3800}{}{Nehézfegyveres bandatag}
 {3900}{}{Nehézfegyveres bandatag}
-{4000}{}{Kemény õr}
-{4100}{}{Kemény õr}
-{4200}{}{Közelharci õr}
-{4300}{}{Közelharci õr}
-{4400}{}{Fürge õr}
-{4500}{}{Fürge õr}
-{4600}{}{Fegyveres õr}
-{4700}{}{Fegyveres õr}
-{4800}{}{Nehézfegyveres õr}
-{4900}{}{Nehézfegyveres õr}
+{4000}{}{Kemény ?r}
+{4100}{}{Kemény ?r}
+{4200}{}{Közelharci ?r}
+{4300}{}{Közelharci ?r}
+{4400}{}{Fürge ?r}
+{4500}{}{Fürge ?r}
+{4600}{}{Fegyveres ?r}
+{4700}{}{Fegyveres ?r}
+{4800}{}{Nehézfegyveres ?r}
+{4900}{}{Nehézfegyveres ?r}
 {5000}{}{Árva (fiú)}
 {5100}{}{Árva (lány)}
 {5200}{}{Gyerek (fiú)}
 {5300}{}{Gyerek (lány)}
 {5400}{}{Lúzer!}
 {5500}{}{Lúzer!}
-{5600}{}{Rossz kereskedõ}
-{5700}{}{Rossz kereskedõ}
-{5800}{}{Átlagos kereskedõ}
-{5900}{}{Átlagos kereskedõ}
-{6000}{}{Ügyes kereskedõ}
-{6100}{}{Ügyes kereskedõ}
+{5600}{}{Rossz keresked?}
+{5700}{}{Rossz keresked?}
+{5800}{}{Átlagos keresked?}
+{5900}{}{Átlagos keresked?}
+{6000}{}{Ügyes keresked?}
+{6100}{}{Ügyes keresked?}
 {6200}{}{Vic}
 {6300}{}{Gyenge paraszt}
 {6400}{}{Gyenge paraszt}
 {6500}{}{Átlagos paraszt}
 {6600}{}{Átlagos paraszt}
-{6700}{}{Erõs paraszt}
-{6800}{}{Erõs paraszt}
-{6900}{}{Gyenge közelharci õr}
-{7000}{}{Gyenge közelharci õr}
-{7100}{}{Gyenge fegyveres õr}
-{7200}{}{Gyenge fegyveres õr}
+{6700}{}{Er?s paraszt}
+{6800}{}{Er?s paraszt}
+{6900}{}{Gyenge közelharci ?r}
+{7000}{}{Gyenge közelharci ?r}
+{7100}{}{Gyenge fegyveres ?r}
+{7200}{}{Gyenge fegyveres ?r}
 {7300}{}{Javítórobot}
 {7400}{}{Javítórobot v2.}
 {7500}{}{Robotagy}
-{7600}{}{Lebegõ szem robot}
-{7700}{}{Õrrobot}
-{7800}{}{Õrrobot v2.}
+{7600}{}{Lebeg? szem robot}
+{7700}{}{?rrobot}
+{7800}{}{?rrobot v2.}
 {7900}{}{Robotagy}
 {8000}{}{Kicsi gekkó}
-{8100}{}{Kis, erõs gekkó}
+{8100}{}{Kis, er?s gekkó}
 {8200}{}{Vadkutya}
 {8201}{}{Egy veszett korcs.}
 {8300}{}{Aranygekkó}
 {8400}{}{Halálkarom                                                        }
 {8500}{}{Halálkarom kölyök}
-{8600}{}{Erõs aranygekkó}
+{8600}{}{Er?s aranygekkó}
 {8700}{}{Lynette}
 {8800}{}{Dr. Troy}
 {8900}{}{John Cassidy}
 {9000}{}{Gregory}
-{9100}{}{Polgár (nõ)}
+{9100}{}{Polgár (n?)}
 {9200}{}{Polgár (férfi)}
-{9300}{}{Felsõbb rangú Polgár (n)}
-{9400}{}{Felsõbb rangú Polgár (f)}
+{9300}{}{Fels?bb rangú Polgár (n)}
+{9400}{}{Fels?bb rangú Polgár (f)}
 {9500}{}{Prémvadász}
 {9600}{}{Prémvadász}
 {9700}{}{Sulik}
@@ -112,7 +112,7 @@
 {10000}{}{Púpos}
 {10100}{}{Világító reaktormunkás}
 {10200}{}{Reaktor ghoul}
-{10300}{}{Reaktor-õr}
+{10300}{}{Reaktor-?r}
 {10400}{}{Zomak}
 {10500}{}{Skeeter}
 {10600}{}{Vész}
@@ -124,8 +124,8 @@
 {11200}{}{Disznópatkány}
 {11300}{}{Szívós disznópatkány}
 {11400}{}{Gyenge Brahmin}
-{11401}{}{Egy kétfejû, mutáns tehén.}
-{11500}{}{Egy Erõpáncél (ne használd)}
+{11401}{}{Egy kétfej?, mutáns tehén.}
+{11500}{}{Egy Er?páncél (ne használd)}
 {11600}{}{Mutáns patkány}
 {11601}{}{Egy szívós, mutáns patkány.}
 {11700}{}{Mutáns vakondpatkány}
@@ -147,16 +147,16 @@
 {13100}{}{Hero Female (don't use)}
 {13200}{}{Hero Male (don't use)}
 {13300}{}{Hero Female (don't use)}
-{13400}{}{Menedékvárosi õr}
-{13500}{}{Menedékvárosi õr}
+{13400}{}{Menedékvárosi ?r}
+{13500}{}{Menedékvárosi ?r}
 {13600}{}{Kiberkutya}
-{13700}{}{ÚKK-s õr}
-{13800}{}{ÚKK-s õr}
-{13900}{}{ÚKK-s közelharci õr}
-{14000}{}{Hajcsár õr}
-{14100}{}{Hajcsár felügyelõ}
-{14200}{}{Mester kereskedõ}
-{14300}{}{Mester kereskedõ}
+{13700}{}{ÚKK-s ?r}
+{13800}{}{ÚKK-s ?r}
+{13900}{}{ÚKK-s közelharci ?r}
+{14000}{}{Hajcsár ?r}
+{14100}{}{Hajcsár felügyel?}
+{14200}{}{Mester keresked?}
+{14300}{}{Mester keresked?}
 {14400}{}{Tandi}
 {14500}{}{Zsoldos}
 {14600}{}{Ratch}
@@ -194,18 +194,18 @@
 {17800}{}{Reaktor ghoul}
 {17900}{}{Szokványos ghoul}
 {18000}{}{Matt}
-{18100}{}{Fejvadász Vezetõ (1-6)}
+{18100}{}{Fejvadász Vezet? (1-6)}
 {18200}{}{Fejvadász (1-6)}
-{18300}{}{fejvadász vezetõ(7-12)}
+{18300}{}{fejvadász vezet?(7-12)}
 {18400}{}{Fejvadász (7-12)}
 {18500}{}{Fejvadász (7-12)}
-{18600}{}{Fejvadász Vezetõ (13-18)}
+{18600}{}{Fejvadász Vezet? (13-18)}
 {18700}{}{Fejvadász (13-18)}
 {18800}{}{Fejvadász (13-18)}
-{18900}{}{Fejvadász Vezetõ (19-?)}
+{18900}{}{Fejvadász Vezet? (19-?)}
 {19000}{}{Fejvadász (19-?)}
 {19100}{}{Bess}
-{19101}{}{Egy kétfejû, mutáns tehén.}
+{19101}{}{Egy kétfej?, mutáns tehén.}
 {19200}{}{Balthas}
 {19300}{}{Grisham}
 {19400}{}{Phil}
@@ -221,7 +221,7 @@
 {20400}{}{Kannibál}
 {20500}{}{Kannibál}
 {20600}{}{Szent Férfi}
-{20700}{}{Szent Nõ}
+{20700}{}{Szent N?}
 {20800}{}{Nomád- kis}
 {20900}{}{Nomád- köz}
 {21000}{}{Nomád- kis}
@@ -231,18 +231,18 @@
 {21400}{}{Farmer}
 {21500}{}{Farmer}
 {21600}{}{Sáska}
-{21700}{}{Rabszolga-kereskedõ}
-{21800}{}{Rabszolga-kereskedõ}
+{21700}{}{Rabszolga-keresked?}
+{21800}{}{Rabszolga-keresked?}
 {21900}{}{Vad brahmin}
 {22000}{}{Telepes}
 {22100}{}{Telepes}
-{22200}{}{Menedékvárosi õrjárat}
-{22300}{}{Menedékvárosi õrjárat}
-{22400}{}{Erõs hajcsár}
-{22500}{}{Erõs hajcsár}
-{22600}{}{Õrültek}
+{22200}{}{Menedékvárosi ?rjárat}
+{22300}{}{Menedékvárosi ?rjárat}
+{22400}{}{Er?s hajcsár}
+{22500}{}{Er?s hajcsár}
+{22600}{}{?rültek}
 {22700}{}{Guberálók}
-{22800}{}{Õrült "Fénylõk"}
+{22800}{}{?rült "Fényl?k"}
 {22900}{}{Világító guberálók}
 {23000}{}{Halász}
 {23100}{}{Halászasszony}
@@ -250,40 +250,40 @@
 {23300}{}{Vadonlakó}
 {23400}{}{Szeszcsempész}
 {23500}{}{Szeszcsempész}
-{23600}{}{Földmérõ}
-{23700}{}{Földmérõ}
+{23600}{}{Földmér?}
+{23700}{}{Földmér?}
 {23800}{}{Fosztogató}
 {23900}{}{Fosztogató}
-{24000}{}{Tûzgekkó}
-{24100}{}{Erõs Tûzgekkó}
+{24000}{}{T?zgekkó}
+{24100}{}{Er?s T?zgekkó}
 {24200}{}{Idegen}
-{24300}{}{Erõs idegen}
-{24400}{}{Kicsi, erõs halálkarom}
-{24500}{}{Erõs halálkarom}
-{24600}{}{Lebegõ}
-{24700}{}{Ocsmány lebegõ}
+{24300}{}{Er?s idegen}
+{24400}{}{Kicsi, er?s halálkarom}
+{24500}{}{Er?s halálkarom}
+{24600}{}{Lebeg?}
+{24700}{}{Ocsmány lebeg?}
 {24800}{}{Kentaur}
 {24900}{}{Aljas kentaur}
-{25000}{}{Enklávé õrjárat}
-{25100}{}{Enklávé õrjárat}
+{25000}{}{Enklávé ?rjárat}
+{25100}{}{Enklávé ?rjárat}
 {25200}{}{Toborzók}
 {25300}{}{Toborzók}
 {25400}{}{Zsoldos}
 {25500}{}{Zsoldos}
 {25600}{}{Éjfajzat}
 {25700}{}{Izmos éjfajzat}
-{25800}{}{Erõs ghoul}
+{25800}{}{Er?s ghoul}
 {25900}{}{Gengszter}
 {26000}{}{Jakuza}
-{26100}{}{ÚKK-s Felderítõ}
-{26200}{}{ÚKK-s Felderítõ}
+{26100}{}{ÚKK-s Felderít?}
+{26200}{}{ÚKK-s Felderít?}
 {26300}{}{Martalóc}
 {26400}{}{Martalóc}
 {26500}{}{Szépfiú Lloyd}
 {26600}{}{Vorpal patkány}
 {26700}{}{13-as Menedék lakója}
 {26800}{}{13-as Menedék lakója}
-{26900}{}{A Híd õrzõje}
+{26900}{}{A Híd ?rz?je}
 {27000}{}{Titokzatos idegen}
 {27100}{}{Titokzatos idegen}
 {27200}{}{Hakeswill}
@@ -302,7 +302,7 @@
 {28500}{}{Titokzatos idegen}
 {28600}{}{Titokzatos idegen}
 {28700}{}{Titokzatos idegen}
-{28800}{}{Elnöki testõr}
+{28800}{}{Elnöki test?r}
 {28900}{}{Halálkarom tojás}
 {29000}{}{Metzger}
 {29100}{}{Person}
@@ -314,15 +314,15 @@
 {29700}{}{Dr. Fung}
 {29800}{}{Kölyök}
 {29900}{}{Kölyök}
-{30000}{}{Fegyverkereskedõ}
+{30000}{}{Fegyverkeresked?}
 {30100}{}{Shi labortechnikus}
-{30200}{}{Shi õr}
+{30200}{}{Shi ?r}
 {30300}{}{Shi közember}
 {30400}{}{Shi közember}
-{30500}{}{Lo Pan követõje}
-{30600}{}{Lo Pan követõje}
+{30500}{}{Lo Pan követ?je}
+{30600}{}{Lo Pan követ?je}
 {30700}{}{Dokkmunkás}
-{30800}{}{Shi kereskedõ}
+{30800}{}{Shi keresked?}
 {30900}{}{Pat'káány Khiráály}
 {31000}{}{Sulik - 1. Szint}
 {31100}{}{Sulik - 2. Szint}
@@ -368,7 +368,7 @@
 {35100}{}{Robotagy - 1. Szint}
 {35200}{}{Robotagy - 1. Szint}
 {35300}{}{Robotagy - 1. Szint}
-{35400}{}{Idegen királynõ}
+{35400}{}{Idegen királyn?}
 {35500}{}{Fekete radskorpió}
 {35600}{}{Fekete radskorpió}
 {35700}{}{Krumpli}
@@ -383,8 +383,8 @@
 {36600}{}{A. Ron Meyers kapitány}
 {36700}{}{Chip}
 {36800}{}{BHK-9}
-{36900}{}{Hubologista õr}
-{37000}{}{Hubologista õr}
+{36900}{}{Hubologista ?r}
+{37000}{}{Hubologista ?r}
 {37100}{}{Juan}
 {37200}{}{Vikki}
 {37300}{}{Vic - 1. Szint}
@@ -397,7 +397,7 @@
 {38000}{}{Robotagy - abnormális}
 {38100}{}{Robotagy - emberi}
 {38200}{}{Óriáshangya}
-{38300}{}{Erõs óriáshangya}
+{38300}{}{Er?s óriáshangya}
 {38400}{}{Pária kutya}
 {38500}{}{Zurak}
 {38600}{}{Imbot}
@@ -414,8 +414,8 @@
 {39700}{}{John Bishop}
 {39800}{}{Angela Bishop}
 {39900}{}{Mrs. Bishop}
-{40000}{}{Bishop testõre 1}
-{40100}{}{Bishop testõre 2}
+{40000}{}{Bishop test?re 1}
+{40100}{}{Bishop test?re 2}
 {40200}{}{Bishop embere 1}
 {40300}{}{Bishop embere 2}
 {40400}{}{Veszett brahmin}
@@ -424,8 +424,8 @@
 {40700}{}{Mordino embere 1}
 {40800}{}{Mordino embere 2}
 {40900}{}{Mordino embere 3}
-{41000}{}{Myron õre 1}
-{41100}{}{Myron õre 2}
+{41000}{}{Myron ?re 1}
+{41100}{}{Myron ?re 2}
 {41200}{}{Mr. Wright}
 {41300}{}{Mrs. Wright}
 {41400}{}{Chris Wright}
@@ -471,17 +471,17 @@
 {45400}{}{Jules}
 {45500}{}{Bürokrata 1}
 {45600}{}{Bürokrata 2}
-{45700}{}{Kereskedõ 1}
-{45800}{}{Kereskedõ 2}
-{45900}{}{Õr 1}
-{46000}{}{Õr 2}
-{46100}{}{Õr 3}
-{46200}{}{Õr 4}
+{45700}{}{Keresked? 1}
+{45800}{}{Keresked? 2}
+{45900}{}{?r 1}
+{46000}{}{?r 2}
+{46100}{}{?r 3}
+{46200}{}{?r 4}
 {46300}{}{Katona 1}
 {46400}{}{Katona 2}
 {46500}{}{Katona 3}
 {46600}{}{Katona 4}
-{46700}{}{Stark õrmester}
+{46700}{}{Stark ?rmester}
 {46800}{}{Andrew "doki"}
 {46900}{}{Csapos}
 {47000}{}{Lövegtorony}
@@ -493,7 +493,7 @@
 {47500}{}{K-9 (4.szint)}
 {47600}{}{Szokványos kiberkutya}
 {47700}{}{Wanamingo tojás}
-{47800}{}{Lo Pan õre}
+{47800}{}{Lo Pan ?re}
 {47900}{}{Marjorie}
 {48000}{}{Automata ágyú}
 {48100}{}{Speciális gekkó lény}
@@ -506,7 +506,7 @@
 {48501}{}{Tribal shaman.}
 {48600}{}{Warrior 	}
 {48601}{}{Tribe warrior.}
-{48700}{}{Õr}
+{48700}{}{?r}
 {48800}{}{Sulik's sister}
 {48900}{}{Kaga}
 {49000}{}{Kaga}
@@ -579,6 +579,6 @@
 {54501}{}{A hideously mutated spore plant.}
 {54600}{}{Vadkutya}
 {54601}{}{Egy veszett korcs.}
-{54700}{}{Õrrobot v2.}
+{54700}{}{?rrobot v2.}
 {54800}{}{Vén Joe}
 {54900}{}{A plant creature}

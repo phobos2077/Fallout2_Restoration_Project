@@ -1,11 +1,11 @@
-{100}{}{Egy dundi, hivatalnok-szerû férfit látsz.}
+{100}{}{Egy dundi, hivatalnok-szer? férfit látsz.}
 {101}{}{You see Nording, the pay-clerk.}
-{102}{}{Egy ideges, dundi, galambszerû férfit látsz.}
+{102}{}{Egy ideges, dundi, galambszer? férfit látsz.}
 {103}{}{A karaván elhagyásáért nem jár pénz!}
-{104}{}{Öö, néhány dolog hiányzik a karaván készletébõl. Az ÚKK törvényei nem engedik meg, hogy tolvajoknak fizessek. Sajnálom.}
+{104}{}{Öö, néhány dolog hiányzik a karaván készletéb?l. Az ÚKK törvényei nem engedik meg, hogy tolvajoknak fizessek. Sajnálom.}
 {105}{}{Tolvajt? Kikérem magamnak, te hálátlan dög! Most pedig távozom. Viszlát!}
 {106}{}{Hamarosan megbánod, hogy ujjat húztál velem! Viszlát!}
-{107}{}{Nem jutalmazhatlak meg egy ilyen katasztrófális karaván út után. Semmit nem kapsz tõlem!}
+{107}{}{Nem jutalmazhatlak meg egy ilyen katasztrófális karaván út után. Semmit nem kapsz t?lem!}
 {108}{}{Te szemétláda! Megfizetsz azért, hogy bepaliztál! Viszlát!}
 {109}{}{Néha az ember szerencsésebb másoknál. Ez most nem az a nap. Viszlát!}
 {110}{}{That was a very unprofitable caravan. I cannot give you more than $50 as your share.}
@@ -13,12 +13,12 @@
 {112}{}{Te tetves szemétláda! Senki sem csinálta volna jobban! Megbánod még, hogy átvertél! Viszlát!}
 {113}{}{That wasn't too bad at all. Here's your $100. I don't know when we'll find someone else to run
  the caravan, but if we do you can work for us again.}
-{114}{}{Nem hiszem, hogy valaha is szándékomban állna újra ennyi idõt tölteni egy brahmin hátsó felének nézegetésével. Viszlát!}
-{115}{}{Végülis nem volt ez annyira rossz. Viszlát késõbb.}
-{116}{}{Annak ellenére, hogy Stanwell eltûnt, jó út volt ez. Az emberrel néha történnek rossz dolgok is. Tessék, a 100 dollárod, plusz 50 dolcsi Stanwell részébõl.}
-{117}{}{Mindig öröm számomra, ha olyan emberrel találkozom, aki tudja értékelni a minõségi munkát. Talán látjuk még egymást. Viszlát!}
+{114}{}{Nem hiszem, hogy valaha is szándékomban állna újra ennyi id?t tölteni egy brahmin hátsó felének nézegetésével. Viszlát!}
+{115}{}{Végülis nem volt ez annyira rossz. Viszlát kés?bb.}
+{116}{}{Annak ellenére, hogy Stanwell elt?nt, jó út volt ez. Az emberrel néha történnek rossz dolgok is. Tessék, a 100 dollárod, plusz 50 dolcsi Stanwell részéb?l.}
+{117}{}{Mindig öröm számomra, ha olyan emberrel találkozom, aki tudja értékelni a min?ségi munkát. Talán látjuk még egymást. Viszlát!}
 {118}{}{Mindig jól jön egy kis zsebpénz. Kösz, és viszlát!}
-{119}{}{Ha az ÚKK-ban élnél, lehetne egy kellemes szobácskád, és nem volna muszáj a világot járnod. Mi legalább lehetõvé tettük, hogy biztonságban utazhass. Viszlát!}
+{119}{}{Ha az ÚKK-ban élnél, lehetne egy kellemes szobácskád, és nem volna muszáj a világot járnod. Mi legalább lehet?vé tettük, hogy biztonságban utazhass. Viszlát!}
 {120}{}{Ook?}
 {121}{}{A fene egye meg, hogy Stanwell kinyírta magát! A nevem Nording, és én fogom rendezni az adósságot.}
 {122}{}{Öö, köszi.}

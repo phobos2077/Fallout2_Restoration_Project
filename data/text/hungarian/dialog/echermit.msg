@@ -1,7 +1,7 @@
 {100}{}{Remete.}
 {101}{}{Remete.}
 {102}{}{Úgy néz ki, mint aki már évek óta nem fürdött.}
-{103}{}{Meg tod mondolni mér' én lenni remete? [Úgy tûnik, évek óta nem beszélt senkivel.]}
+{103}{}{Meg tod mondolni mér' én lenni remete? [Úgy t?nik, évek óta nem beszélt senkivel.]}
 {104}{}{Miért?}
 {105}{}{Csak erre jártam.}
 {106}{}{Ah...}
@@ -18,7 +18,7 @@
 {117}{}{Én menni elfele.}
 {118}{}{Beszélsz te jól. Most menny! Én lenni fáradt.}
 {119}{}{[vége]}
-{120}{}{Beszédtõl megfájdul fej. Menny!}
+{120}{}{Beszédt?l megfájdul fej. Menny!}
 {121}{}{A beszédet befejeztem veled.}
 {122}{}{Nem beszél. Megy.}
 {123}{}{Menjen innen!}

@@ -1,8 +1,8 @@
 {100}{}{Figyellek ám, idegen!}
 {101}{}{Azt hiszem, itt az ideje, hogy távozz!}
 {102}{}{Nem tetszik a tekinteted.}
-{103}{}{Fújd ki az orrod, vagy elveszem a belépõdet!}
-{104}{}{Késõre jár, itt az ideje, hogy elhagyd a várost!}
+{103}{}{Fújd ki az orrod, vagy elveszem a belép?det!}
+{104}{}{Kés?re jár, itt az ideje, hogy elhagyd a várost!}
 {105}{}{Rendben.}
 {106}{}{Csak még egy percet adj!}
 {107}{}{Még dolgom van. Elmegyek, amint végeztem.}
@@ -36,25 +36,25 @@
 {135}{}{Egy ghoul? Hol?}
 {136}{}{Egy mutáns? Hol?}
 {137}{}{Velem van.}
-{138}{}{Együtt utazunk, õ a társam. Ha bármelyik rasszistának gondja van ezzel, megbeszélhetjük. Itt és most.}
-{139}{}{Együtt vagytok? Akkor velünk jöttök. Visszamegyünk Elõvárosba, ahová te, és ez az... izé... tartoztok.}
+{138}{}{Együtt utazunk, ? a társam. Ha bármelyik rasszistának gondja van ezzel, megbeszélhetjük. Itt és most.}
+{139}{}{Együtt vagytok? Akkor velünk jöttök. Visszamegyünk El?városba, ahová te, és ez az... izé... tartoztok.}
 {140}{}{Rendben, békésen távozunk.}
 {141}{}{Azt próbáld meg! Garantálom, hogy megrázó élményben lesz részed.}
-{142}{}{Remek. Úgy tûnik, söpredék vagyunk. Rendben, kapisgálom. }
+{142}{}{Remek. Úgy t?nik, söpredék vagyunk. Rendben, kapisgálom. }
 {143}{}{Nagyon vicces.}
-{144}{}{Velünk jöttök. Visszakísérünk Elõvárosba, ahová te, és ez az... izé... tartoztok.}
+{144}{}{Velünk jöttök. Visszakísérünk El?városba, ahová te, és ez az... izé... tartoztok.}
 {145}{}{ÉN NEM MENNI! TE NEM BARÁT!}
 {146}{}{Megyünk... megyünk elfele... nem rángassa engemet.}
 {147}{}{Rendben, békésen távozunk.}
-{148}{}{Õ a társam. Ha bármelyik seggfejnek baja van vele, rendezhetünk egy kis vérfürdõt!}
-{149}{}{Szóval a nehezebb utat választod? Remek. Õrség! Õrség!!}
+{148}{}{? a társam. Ha bármelyik seggfejnek baja van vele, rendezhetünk egy kis vérfürd?t!}
+{149}{}{Szóval a nehezebb utat választod? Remek. ?rség! ?rség!!}
 {150}{}{Hrnghhhhhhhhhh!}
-{151}{}{Mire a haverjaid elõkerülnek, hulla leszel!}
-{152}{}{Hé! Õ az, aki legyõzte az Enklávét!}
-{153}{}{Gratulálok a hõstettedhez!}
-{154}{}{Üdvözlünk Menedékvárosban, népünk megmentõje!}
-{155}{}{Az Enklávé elleni harcod nagy hatással volt még az Elsõ Polgárra is.}
-{156}{}{Úgy hallottam, hogy délrõl, San Franciscóból jöttél. Igaz ez?}
+{151}{}{Mire a haverjaid el?kerülnek, hulla leszel!}
+{152}{}{Hé! ? az, aki legy?zte az Enklávét!}
+{153}{}{Gratulálok a h?stettedhez!}
+{154}{}{Üdvözlünk Menedékvárosban, népünk megment?je!}
+{155}{}{Az Enklávé elleni harcod nagy hatással volt még az Els? Polgárra is.}
+{156}{}{Úgy hallottam, hogy délr?l, San Franciscóból jöttél. Igaz ez?}
 {157}{}{Igaz, hogy az Egyesült Államok még mindig háborúban áll?}
 {158}{}{Készíthetnél egy szép listát az utazásaidról a menedékvárosi számítógépek számára.}
 {159}{}{Bármikor szívesen látunk Menedékvárosban.}
@@ -62,6 +62,6 @@
 {161}{}{Nem emlékszem rád. Hol vannak a papírjaid?}
 {162}{}{Itt vannak, parancsolj. Remélem, mindent rendben találsz.}
 {163}{}{Most épp nincsenek nálam, de... }
-{164}{}{Hmmmm. Jól van, úgy tûnik minden  rendben. Elnézést, hogy zavartalak, Polgártárs. Menedékváros mindenek felett!}
+{164}{}{Hmmmm. Jól van, úgy t?nik minden  rendben. Elnézést, hogy zavartalak, Polgártárs. Menedékváros mindenek felett!}
 {165}{}{Menedékváros mindenek felett, Polgártárs!}
 {166}{}{Mázlid van, nem jelentem az esetet. De most már ki innen!}

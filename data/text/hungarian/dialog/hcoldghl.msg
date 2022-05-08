@@ -3,9 +3,9 @@
 {102}{}{Olyan fáradt vagyok...}
 {103}{}{Belefáradtam. Belefáradtam a várakozásba, belefáradtam, hogy várjak r-áá-d.}
 {104}{}{Mikor kell lefeküdnöm?}
-{105}{}{Mi ez a borzalmas bûz? Ja, csak én.}
+{105}{}{Mi ez a borzalmas b?z? Ja, csak én.}
 {106}{}{Nincs még 4 óra? Vacsorát akarok!}
-{107}{}{Ez igen, már majdnem egy órája nem ficamítottam ki a csípõmet!}
+{107}{}{Ez igen, már majdnem egy órája nem ficamítottam ki a csíp?met!}
 {108}{}{Nem látta valaki a fogamat?}
 {109}{}{Hol a kajám?}
 {110}{}{Halál! Engem akarsz? Itt vagyok!}
@@ -18,14 +18,14 @@
 {117}{}{Semmi tisztelet... Senkit nem tisztelnek ma már.}
 {118}{}{Emlékszem még a jó öreg Setre...}
 {119}{}{Hogy juthatott el az öreg Jed Gekkóba?}
-{120}{}{Szereted a mutikat? Én szeretem õket.}
+{120}{}{Szereted a mutikat? Én szeretem ?ket.}
 {121}{}{Imádom a krumplit! Szeretem törve! Szeretem sütve!}
 {122}{}{Éhes vagyok!}
 {123}{}{Bárcsak lenne pár növény idebenn.}
 {124}{}{Nem szeretek kint lenni.}
 {125}{}{Ez az öreg uránbánya is hamarosan kimerül.}
 {126}{}{Te nem Menedékvárosból vagy, ugye?}
-{127}{}{Emlékszem még, amikor a "Fénylõk" ellen küzdöttünk Necropolis alatt... azok voltak a szép napok...}
+{127}{}{Emlékszem még, amikor a "Fényl?k" ellen küzdöttünk Necropolis alatt... azok voltak a szép napok...}
 {128}{}{Hadd meséljek neked arról, amikor kinyitottuk a Menedéket...}
 {129}{}{...mit is kezdtem el mondani?}
 {130}{}{::ásít::}

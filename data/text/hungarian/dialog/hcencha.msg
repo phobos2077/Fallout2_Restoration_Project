@@ -1,15 +1,15 @@
-{100}{}{Egy fekete bõrpáncélos embert látsz, arcán komor kifejezés ül, kezében pedig egy szép nagy fegyvert tart.}
-{101}{}{Õ }
-{102}{}{Egy karavánkísérõt látsz, akit az út pora borít, s aki megfáradt a harctól. Úgy tûnik, hogy a karavánutak is egyre veszélyesebbek manapság.}
+{100}{}{Egy fekete b?rpáncélos embert látsz, arcán komor kifejezés ül, kezében pedig egy szép nagy fegyvert tart.}
+{101}{}{? }
+{102}{}{Egy karavánkísér?t látsz, akit az út pora borít, s aki megfáradt a harctól. Úgy t?nik, hogy a karavánutak is egyre veszélyesebbek manapság.}
 {103}{}{Segíthetek?}
 {104}{}{Aggle ok too!}
 {105}{}{Dollgozni nekked?}
 {106}{}{Igen, a karavánmestert keresem.}
 {107}{}{Chadról szeretnék kérdezni pár dolgot.}
 {108}{}{Ki vagy te?}
-{109}{}{Sajnálom Chadot. Ki az új vezetõ?}
+{109}{}{Sajnálom Chadot. Ki az új vezet??}
 {110}{}{Nem, kösz.}
-{111}{}{Ha munkát keresel, beszélj Billel, az emberrel ott bent a házban. BENT! Õ talán majd megérti, hogy mit karattyolsz. Sok sikert!}
+{111}{}{Ha munkát keresel, beszélj Billel, az emberrel ott bent a házban. BENT! ? talán majd megérti, hogy mit karattyolsz. Sok sikert!}
 {112}{}{Duhhhh...}
 {113}{}{That'd be }
 {114}{}{Igen.}
@@ -19,21 +19,21 @@
 {118}{}{Megbízható?}
 {119}{}{Honnan szerzi a pénzt?}
 {120}{}{Milyen a múltja?}
-{121}{}{Hagyjuk. Viszlát késõbb!}
+{121}{}{Hagyjuk. Viszlát kés?bb!}
 {122}{}{Hogy én? }
-{123}{}{Sajnálod Chadot? Ha! Jó sokat kerestél, mi? Az új fõnök }
+{123}{}{Sajnálod Chadot? Ha! Jó sokat kerestél, mi? Az új f?nök }
 {124}{}{Viszlát!}
-{125}{}{Akkor te Billt keresed, Broken Hills karavánjainak szervezõjét. Õ tud neked munkát adni.}
+{125}{}{Akkor te Billt keresed, Broken Hills karavánjainak szervez?jét. ? tud neked munkát adni.}
 {126}{}{Köszi.}
 {127}{}{Rendben. Lássuk csak!}
-{128}{}{Hogy milyen ember? Hát, barátságos, de kemény. Jó vezetõ, és általában rendesen bánik velünk Nem durvul velünk, meg ilyesmi, ha arra vagy kiváncsi. Van még kérdés?}
-{129}{}{Nekem mindig úgy tûnt, hogy egyszerûen van nála - és nem kevés. Ez nem az a fajta kérdés, amit csak úgy feltesz az ember valakinek, tudod. Egyéb kérdés?}
+{128}{}{Hogy milyen ember? Hát, barátságos, de kemény. Jó vezet?, és általában rendesen bánik velünk Nem durvul velünk, meg ilyesmi, ha arra vagy kiváncsi. Van még kérdés?}
+{129}{}{Nekem mindig úgy t?nt, hogy egyszer?en van nála - és nem kevés. Ez nem az a fajta kérdés, amit csak úgy feltesz az ember valakinek, tudod. Egyéb kérdés?}
 {130}{}{Hát, egy kicsit gyanús, szerintem... de mindenki az manapság. Van még kérdésed?}
-{131}{}{Semmit nem tudok a múltjáról. Mi mind más városból jöttünk, hogy munkát szerezzünk itt, mint karavánkísérõ. Gondolom, neki is sietõsen el kellett hagynia egy másik helyet, és így került ide. Egyéb kérdés?}
-{132}{}{Mivel én vagyok az új karavánvezetõ, talán én vagyok az egyetlen, aki nem utál téged. Miben segíthetek?}
+{131}{}{Semmit nem tudok a múltjáról. Mi mind más városból jöttünk, hogy munkát szerezzünk itt, mint karavánkísér?. Gondolom, neki is siet?sen el kellett hagynia egy másik helyet, és így került ide. Egyéb kérdés?}
+{132}{}{Mivel én vagyok az új karavánvezet?, talán én vagyok az egyetlen, aki nem utál téged. Miben segíthetek?}
 {133}{}{Munkát szeretnék.}
 {134}{}{Leveszed a részed?}
-{135}{}{Mikor indul a következõ karaván?}
+{135}{}{Mikor indul a következ? karaván?}
 {136}{}{Semmit, kösz.}
 {137}{}{Beszélj Billel, mint mindig!}
 {138}{}{Oké.}
@@ -45,7 +45,7 @@
 {143}{}{Kösz mindent. Itt az 500 dollárod. Ha új munkát szeretnél, beszélj Billel!}
 {144}{}{Te mocsok! Most meghalsz!}
 {145}{}{Umm...}
-{150}{}{, a karavánkísérõ.}
+{150}{}{, a karavánkísér?.}
 {151}{}{. Bill karavánjait kísérem. Más kérdés?}
 {152}{}{ vagyok.}
 {153}{}{. Itt kell lennie valahol. Munkát keresel?}

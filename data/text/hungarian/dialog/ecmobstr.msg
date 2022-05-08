@@ -7,7 +7,7 @@
 {106}{}{Mit csinálsz errefelé, }
 {107}{}{?}
 {108}{}{Csak kijöttünk, hogy rádnézzünk, }
-{109}{}{. Szép idõnk van, mi, }
+{109}{}{. Szép id?nk van, mi, }
 {110}{}{?}
 {111}{}{Azért jöttél ki ide, hogy távol légy a világ zajától,}
 {112}{}{?}

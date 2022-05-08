@@ -3,7 +3,7 @@
 {102}{}{Egy kopasz emberkét látsz laborköpenyben.}
 {103}{}{Remélem, jó okod van megzavarni a munkámat, katona.}
 {104}{}{Én kérdezni kérdés.}
-{105}{}{Nem, majd jönni vissza késõbb.}
+{105}{}{Nem, majd jönni vissza kés?bb.}
 {106}{}{Jól van. Együtt kell élnem a katonákkal, szóval jól teszem, ha megpróbálok rendesen kijönni veletek.}
 {107}{}{Mit akarsz tudni?}
 {108}{}{Te ki?}
@@ -32,7 +32,7 @@
 {131}{}{Ez volt a bázis betegszobája, de úgy éreztem, a katonáknak nincsenek ilyen nagy betegellátási igényei, ezért átalakíttattam labornak.}
 {132}{}{Szép.}
 {133}{}{Ez igazán szép. Kérdeznék még, ha lehet.}
-{134}{}{Szoba mér nem aggya hang? Ja, bizonyára a hangszigetelésrõl beszélsz! A kutatásaim folyamán a tesztalanyok kissé... hangoskodnak. A bázisparancsnokot ez annyira idegesítete, hogy elrendelte a szigetelést.}
+{134}{}{Szoba mér nem aggya hang? Ja, bizonyára a hangszigetelésr?l beszélsz! A kutatásaim folyamán a tesztalanyok kissé... hangoskodnak. A bázisparancsnokot ez annyira idegesítete, hogy elrendelte a szigetelést.}
 {135}{}{A kutatásaim folyamán a tesztalanyok kissé... hangoskodnak. A bázisparancsnokot ez annyira idegesítete, hogy elrendelte a szigetelést.}
 {136}{}{Ó...}
 {137}{}{Értem.}
@@ -41,7 +41,7 @@
 {140}{}{Miért akarod megöletni?}
 {141}{}{Anyám... te aztán nem vagy egy IQ bajnok. Kivégezni. Kinyírni, hidegre tenni, elaltatni, megölni, eliminálni. Vágod?}
 {142}{}{Vágni. Miért akarni Halá'karom megölni?}
-{143}{}{Az Enklávénak olcsó és feláldozható katonák kellettek. A halálkarmokra esett a választás, mert erõsek és félelmet keltenek az ellenségben. Okosabb egyedek kellettek, hogy megértsék a parancsokat, de azért annyira nem, hogy az öntudatuk felszabaduljon. Tudsz követni?}
+{143}{}{Az Enklávénak olcsó és feláldozható katonák kellettek. A halálkarmokra esett a választás, mert er?sek és félelmet keltenek az ellenségben. Okosabb egyedek kellettek, hogy megértsék a parancsokat, de azért annyira nem, hogy az öntudatuk felszabaduljon. Tudsz követni?}
 {144}{}{Öh, igen.}
 {145}{}{Igen, eddig tudlak követni.}
 {146}{}{Well, we succeeded! We actually managed to increase their
@@ -50,8 +50,8 @@
  when I was transferred here I brought one of them with me so I
  could put my theory to the test.}
 {147}{}{És?}
-{148}{}{Igazam volt! A halálkarmok hülyének tettetik magukat elõttünk, miközben egyre többet tanulnak el a viselkedésünkbõl és a lélektanunkból. Még az emberi beszédet is tudják utánozni! Sokat beszélgettem a másik szobában lévõ példánnyal.}
-{149}{}{Akárhogy is, a tény, hogy ki tudott eszelni egy szökési tervet és hogy a fajtársai lerántották a leplet egy összeesküvésrõl, világosan mutatja, milyen veszélyesek is valójában.}
+{148}{}{Igazam volt! A halálkarmok hülyének tettetik magukat el?ttünk, miközben egyre többet tanulnak el a viselkedésünkb?l és a lélektanunkból. Még az emberi beszédet is tudják utánozni! Sokat beszélgettem a másik szobában lév? példánnyal.}
+{149}{}{Akárhogy is, a tény, hogy ki tudott eszelni egy szökési tervet és hogy a fajtársai lerántották a leplet egy összeesküvésr?l, világosan mutatja, milyen veszélyesek is valójában.}
 {150}{}{Mostan mit tervezni?}
 {151}{}{És most mit akarsz csinálni?}
 {152}{}{Írni fogok egy jelentést a kutatásról és elküldöm az Enklávé vezérkarának. Természetesen azonnal el fogják rendelni az összes szaporulat kivégzését. }
@@ -71,17 +71,17 @@
 {166}{}{Lenni még kérdés.}
 {167}{}{Semmit. Mondok viszlát!}
 {168}{}{Mondd csak doki, biztos, hogy ez a szoba hangszigetelt?}
-{169}{}{Másvalamit akartam kérdezni tõled.}
+{169}{}{Másvalamit akartam kérdezni t?led.}
 {170}{}{Semmi, csak benéztem.}
 {171}{}{Persze. Különben a parancsnok már a falat kaparná. Miért?}
 {172}{}{Csak úgy!}
 {173}{}{Nem akarni, hogy hallatszódja, mikor sikítol fájdalomba!}
 {174}{}{Csak kíváncsi voltam.}
 {175}{}{Nem akarom, hogy hallják, ahogy kísérletezem rajtad.}
-{176}{}{A vendégem vagy. A halálkarmot a mellettünk lévõ szobában találod.}
+{176}{}{A vendégem vagy. A halálkarmot a mellettünk lév? szobában találod.}
 {177}{}{Köszönöm!}
-{178}{}{Az a K-9-es. A kutyám. Elhatároztam, hogy néhány kiber-beültetéssel felpiszkálom az intelligenciáját, de sajnos nem bizonyult elég hûségesnek. Amikor egyszer megmakacsolta magát, megharapott.}
-{179}{}{Büntetésként kikapcsoltam a lábait, de egyébként teljesen mûködõképes. Most itt kell állnia és tûrni kell a kísérleteimet.}
+{178}{}{Az a K-9-es. A kutyám. Elhatároztam, hogy néhány kiber-beültetéssel felpiszkálom az intelligenciáját, de sajnos nem bizonyult elég h?ségesnek. Amikor egyszer megmakacsolta magát, megharapott.}
+{179}{}{Büntetésként kikapcsoltam a lábait, de egyébként teljesen m?köd?képes. Most itt kell állnia és t?rni kell a kísérleteimet.}
 {180}{}{Ó...}
 {181}{}{Javíthatni meg?}
 {182}{}{Értem.}
@@ -93,12 +93,12 @@
 {188}{}{Ez a genetikai labor. A fegyvertár eggyel odébb van.}
 {189}{}{Miért nincs magán egyenruha?}
 {190}{}{Szent szar! Megtámadtak bennünket! Riadó!}
-{191}{}{Behatolók! Hívjátok az õrséget!}
-{192}{}{Õrség! Behatoló a laborban!}
+{191}{}{Behatolók! Hívjátok az ?rséget!}
+{192}{}{?rség! Behatoló a laborban!}
 {193}{}{Mi van? Megtámadtak, vagy mi?}
 {194}{}{Miért van riadó? Mi történik?}
 {195}{}{Mi a szar folyik itt?}
-{196}{}{Nem vagyok ellenség, ne lõj le!}
+{196}{}{Nem vagyok ellenség, ne l?j le!}
 {197}{}{Nem veszek részt csatákban, szóval hagyj békén!}
 {198}{}{A szentségit! Orvos vagyok, nem katona!}
 {200}{}{[TOVÁBB]}

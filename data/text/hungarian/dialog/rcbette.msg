@@ -1,18 +1,18 @@
-{100}{}{Egy termetes bányásznõt látsz.}
+{100}{}{Egy termetes bányászn?t látsz.}
 {101}{}{Istenkáromló Bette-t látod, a Morningstar Bánya egyik bányászát.}
-{102}{}{Egy meglehetõsen izmos nõt látsz. Túlteng benne az önbizalom.}
+{102}{}{Egy meglehet?sen izmos n?t látsz. Túlteng benne az önbizalom.}
 {103}{}{Caminetto, az összes Kokoweef bányász hangember.}
 {104}{}{Mindjárt megmutatom én neked, hova menj, Istenkáromló Bette.}
 {105}{}{Még egy térképpel sem tudnád megmutatni, hová menjek.}
 {106}{}{Csak azért nem, mert nem akarnék olyan közel menni hozzád.}
-{107}{}{Ne áltasd magad, töpörtyû!}
-{108}{}{Örülnél te, ha egyszer a megszokott fúrógéped helyett egy ilyen töpörtyû jutna neked.}
+{107}{}{Ne áltasd magad, töpörty?!}
+{108}{}{Örülnél te, ha egyszer a megszokott fúrógéped helyett egy ilyen töpörty? jutna neked.}
 {109}{}{Az én fúróm legalább tovább tart harminc másodpercnél!}
 {110}{}{Nem csoda, hogy a Morningstar gépei állandóan lerobbannak.}
 {111}{}{Mindjárt téged robbantalak le... az öklömmel.}
 {112}{}{Az öklöddel? A leheleted is elég hozzá.}
-{113}{}{Fogalmam sincs, hogyan érzel bármit is a saját 3 hetes bûzödtõl.}
-{114}{}{Milyen bûzrõl beszélsz? A pokolba, ha csak rádnézek, már az fáj.}
+{113}{}{Fogalmam sincs, hogyan érzel bármit is a saját 3 hetes b?zödt?l.}
+{114}{}{Milyen b?zr?l beszélsz? A pokolba, ha csak rádnézek, már az fáj.}
 {115}{}{Semmit sem tudsz a fájdalomról, de én majd megtanítalak rá.}
 {116}{}{Te tanítasz meg engem?}
 {117}{}{Úgy bizony! Ha már az anyád nem tette meg.}
@@ -48,28 +48,28 @@
 {147}{}{Egy kupac szar került a bárba, és a Morningstaros srácokkal éppen ki akartuk lapátolni az utcára. A legnagyobb ürüléknek még neve is van - Caminetto.}
 {148}{}{Mi okozta a nézeteltérést?}
 {149}{}{Értem. Nos, ezt nem hagyhatom. Hagyjátok abba azonnal!}
-{150}{}{Csak nézz ezekre a hitvány, petyhüdt farkú alakokra. Ki nem taposná laposra õket?}
+{150}{}{Csak nézz ezekre a hitvány, petyhüdt farkú alakokra. Ki nem taposná laposra ?ket?}
 {151}{}{Ez még nem ok. Nem hagyhatom, hogy összeverekedjetek.}
-{152}{}{Nos, igen, ez úgy tûnik, probléma, rendben. Nem hibáztatlak. Sok szerencsét.}
+{152}{}{Nos, igen, ez úgy t?nik, probléma, rendben. Nem hibáztatlak. Sok szerencsét.}
 {153}{}{És mi a fenét fogsz tenni, te istenverte szarkupac?}
-{154}{}{Az elsõnek ütõ embert kinyírom!}
-{155}{}{Elõször nagyon kedvesen megkérlek, aztán betárazok, és jöhet a céllövészet.}
+{154}{}{Az els?nek üt? embert kinyírom!}
+{155}{}{El?ször nagyon kedvesen megkérlek, aztán betárazok, és jöhet a céllövészet.}
 {156}{}{A Seriff megkért, hogy segítsem ki, amíg tropa a lába. Mivel megígértem, tartanom kell a szavam.}
-{157}{}{Igen? Az a Marion gyerek aranyos. Oké, az õ kedvéért adok a Kokoweefes buzernyákoknak egy esélyt, hogy ne legyen balhé.}
+{157}{}{Igen? Az a Marion gyerek aranyos. Oké, az ? kedvéért adok a Kokoweefes buzernyákoknak egy esélyt, hogy ne legyen balhé.}
 {158}{}{Kösz. Reméltem, hogy így fogod látni a dolgokat. Viszlát!}
 {159}{}{Micsoda jótét lélek! Azt hiszem, nem tetszik a modorod.}
-{160}{}{Nem kötelezõ, hogy tetsszen. Tehát választhatsz: vagy eljössz velem a börtönig, vagy magam fogom a hulládat elhúzni odáig. }
+{160}{}{Nem kötelez?, hogy tetsszen. Tehát választhatsz: vagy eljössz velem a börtönig, vagy magam fogom a hulládat elhúzni odáig. }
 {161}{}{Ó, sajnálom. Nem akartam goromba lenni. Most inkább távozom. Viszlát!}
 {162}{}{Igen? Megmondjam a frankót? Elmegyek a börtönbe, ha azt a seggfej Caminettót is bekasztnizod.}
 {163}{}{Nem vagy abban a helyzetben, hogy egyezkedj.}
-{164}{}{Nem is rossz ötlet. Néhány vasrács köztetek majd lehûti szépen a kedélyeket. Ti ketten velem jöttök!}
-{165}{}{Valamiféle fordított agyi beültetésed van? Ha megpróbálsz bármit is tenni, mindannyian rádugrunk, és ez még csak a bemelegítés lesz. Utána vér fog folyni. Gondolod, hogy a Seriffnek tetszene, amit mûvelsz?}
+{164}{}{Nem is rossz ötlet. Néhány vasrács köztetek majd leh?ti szépen a kedélyeket. Ti ketten velem jöttök!}
+{165}{}{Valamiféle fordított agyi beültetésed van? Ha megpróbálsz bármit is tenni, mindannyian rádugrunk, és ez még csak a bemelegítés lesz. Utána vér fog folyni. Gondolod, hogy a Seriffnek tetszene, amit m?velsz?}
 {166}{}{Nem, azt hiszem, nem tetszene neki.}
 {167}{}{Nekem nem számít. Nem az *én* vérem fog folyni!}
 {168}{}{Hát, asszem, szükségem lenne némi kibaszott pihenésre. Mostanában a seggemet is szétdolgozom. (a többieknek) Feloszlani! Holnap melókezdetre visszaérek. }
 {169}{}{Jó döntés.}
 {170}{}{Ne aggódj, hozom Caminettót is, hogy legyen társaságod. Igaz, Caminetto?}
-{171}{}{Kibaszottul nem fogod a dolgot, mi? Megpróbálsz mindkettõnket belevonni, mire én is meg az a görényfaszú Caminetto is neked ugrunk.}
+{171}{}{Kibaszottul nem fogod a dolgot, mi? Megpróbálsz mindkett?nket belevonni, mire én is meg az a görényfaszú Caminetto is neked ugrunk.}
 {172}{}{Akkor veled együtt Caminettót is dutyiba kell dugnom.}
 {173}{}{Akkor veled együtt Caminettót is meg kell ölnöm.}
 {174}{}{Hmm, most jut eszembe, hogy most épp a város másik részében van rám szükség. Már megyek is. Viszlát!}
@@ -79,5 +79,5 @@
 {178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
  (to Caminetto) Right, my little fuckface?}
 {179}{}{Ez a beszéd!}
-{180}{}{Nem! Késõ! Most mindkettõtöknek kinyílik a pofonláda!}
+{180}{}{Nem! Kés?! Most mindkett?töknek kinyílik a pofonláda!}
 {181}{}{I guess I'll just kick Caminetto's ass another day.}

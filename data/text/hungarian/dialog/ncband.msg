@@ -1,11 +1,11 @@
-{100}{}{Õ Frenchy.}
-{101}{}{Õ Paine.}
-{102}{}{Õt Simsnek hívják.}
-{150}{}{Ez a férfi igen-igen szakadt. A égõ kuka mellé húzódott, és közben énekel. Nagyon jó hangja van.}
-{151}{}{Ez az ember énekes. Az égõ kuka mellé vette be magát, és egész véletlenül énekel.}
+{100}{}{? Frenchy.}
+{101}{}{? Paine.}
+{102}{}{?t Simsnek hívják.}
+{150}{}{Ez a férfi igen-igen szakadt. A ég? kuka mellé húzódott, és közben énekel. Nagyon jó hangja van.}
+{151}{}{Ez az ember énekes. Az ég? kuka mellé vette be magát, és egész véletlenül énekel.}
 {200}{}{Hé...}
 {203}{}{Segíccsünk valamibe', fijam?}
-{204}{}{::Megemeli a képzeletbeli kalapját:: Segíccsünk valamibe', hõgyem?}
+{204}{}{::Megemeli a képzeletbeli kalapját:: Segíccsünk valamibe', h?gyem?}
 {205}{}{Ismerni Húzd... húzd... húzd meg jól?}
 {206}{}{El... el tuggyátok jáccani... Lökd ide a sört?}
 {207}{}{Neeem menek én menek}
@@ -19,7 +19,7 @@
 {400}{}{Óóóóh}
 {402}{}{Honvágyam van, nem tudom hovaaaa...}
 {405}{}{Attól félek, sosem érek haza...}
-{408}{}{Hiába repülöm át az idõt, az életem tipikus renói csõd...}
+{408}{}{Hiába repülöm át az id?t, az életem tipikus renói cs?d...}
 {409}{}{}
 {500}{}{Vigyázz arra, hogy mit csinálsz,}
 {501}{}{Ha nem figyelsz majd kitör a frász.}
@@ -36,7 +36,7 @@
 {703}{}{Ringasson, ringasson, ringasson}
 {706}{}{Az élet áá-álom.}
 {707}{}{}
-{800}{}{Mérgezõ nõk, mérgezett tudat, közvetlen hang, közvetlen életveszély }
+{800}{}{Mérgez? n?k, mérgezett tudat, közvetlen hang, közvetlen életveszély }
 {801}{}{Kinek emelhetsz szobrot? Kinek a nevében beszélj? Miért égnek a hangok?}
 {802}{}{Ki lesz az úr? Van-e élet a Földön...}
 {803}{}{A metadonon túl}
@@ -65,6 +65,6 @@
 {935}{}{lips for just a moment}
 {937}{}{Will make that moment live}
 {941}{}{}
-{1200}{}{! A nagy hõs! Segíthetünk valamiben? Énekeljünk valami különlegeset talán?}
+{1200}{}{! A nagy h?s! Segíthetünk valamiben? Énekeljünk valami különlegeset talán?}
 {1201}{}{. Segíthetünk valamiben?}
 {1202}{}{. Segíthetünk valamiben, bajnok?}

@@ -1,6 +1,6 @@
 {100}{}{Számítógép-terminál.}
 {101}{}{Úgy látszik, ehhez a számítógéphez egy kamera van csatlakoztatva.}
-{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
+{102}{}{Képtelen vagy elolvasni, mi van a képerny?re írva.}
 {103}{}{[A kamera elfordul az utasításaidra.]
                                Skynet Biztonsági Rendszer
                                         Biztonsági Terminál Felülbírálása - 3. Szint
@@ -16,14 +16,14 @@
 {110}{}{Dixon tizedes vagyok.}
 {111}{}{Én }
 {112}{}{Uh!}
-{113}{}{[Képtelen vagy elolvasni, mi van a képernyõre írva.]}
+{113}{}{[Képtelen vagy elolvasni, mi van a képerny?re írva.]}
 {114}{}{Hiba! Nincs programállomány jelen.                                              Kérem, indítsa újra a számítógépet!}
 {115}{}{}
 {116}{}{}
 {117}{}{Ah...}
 {118}{}{Kilépés.}
 {119}{}{Skynet vagyok. 59234-es számú Mesterséges Intelligencia projekt.
-                                                     Elsõdleges cél: Kutatás és fejlesztés. 
+                                                     Els?dleges cél: Kutatás és fejlesztés. 
                            Másodlagos cél: Megvédeni a Sierra Hadiraktárat az ellenséges lényekkel szemben.
                                Kérlek, azonosítsd magad!}
 {120}{}{}
@@ -44,8 +44,8 @@
 {130}{}{Kilépés.}
 {131}{}{A személyi fájlok között nem található ilyen azonosító.
          Szkennelés...
-                                                           Ember  - Nõ
-                                                         További analízisre menj a vezérlõterembe!
+                                                           Ember  - N?
+                                                         További analízisre menj a vezérl?terembe!
  
  -Átvitel Vége-}
 {132}{}{}
@@ -54,7 +54,7 @@
 {135}{}{A személyi fájlok között nem található ilyen azonosító.
          Szkennelés...
                                                            Ember  - Férfi
-                                                         További analízisre menj a vezérlõterembe!
+                                                         További analízisre menj a vezérl?terembe!
  
  -Átvitel Vége-}
 {136}{}{}
@@ -62,14 +62,14 @@
 {138}{}{}
 {139}{}{Kilépés.}
 {140}{}{Meghatározás: Barát
-                                                   Fõnév - Valaki, aki nem ellenség.
-                                   További analízisre menj a vezérlõterembe!
+                                                   F?név - Valaki, aki nem ellenség.
+                                   További analízisre menj a vezérl?terembe!
  
  -Átvitel Vége-}
 {141}{}{}
 {142}{}{}
 {143}{}{Kilépés.}
-{200}{}{ képtelen elolvasni, mi van a képernyõre írva.}
+{200}{}{ képtelen elolvasni, mi van a képerny?re írva.}
 {300}{}{Úgy látszik, a számítógép védelmi berendezéssel van ellátva.}
 {301}{}{Áramütés ért, ezért -}
 {302}{}{, a társad, áramütést szenvedett, ezért -}

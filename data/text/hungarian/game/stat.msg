@@ -1,4 +1,4 @@
-{100}{}{Erõ}
+{100}{}{Er?}
 {101}{}{Érzékelés}
 {102}{}{Kitartás}
 {103}{}{Karizma}
@@ -17,14 +17,14 @@
 {116}{}{Jobb kritikus sebzés}
 {117}{}{Sebzésküszöb}
 {118}{}{Sebzésküszöb: Lézer}
-{119}{}{Sebzésküszöb: Tûz}
+{119}{}{Sebzésküszöb: T?z}
 {120}{}{Sebzésküszöb: Plazma}
 {121}{}{Sebzésküszöb: Elektromos}
 {122}{}{Sebzésküszöb: EMP}
 {123}{}{Sebzésküszöb: Robbanó}
 {124}{}{Sebzésellenállás}
 {125}{}{Sebzésellenállás: Lézer}
-{126}{}{Sebzésellenállás: Tûz}
+{126}{}{Sebzésellenállás: T?z}
 {127}{}{Sebzésellenállás: Plazma}
 {128}{}{Sebzésellenállás: Elektromos}
 {129}{}{Sebzésellenállás: EMP}
@@ -36,14 +36,14 @@
 {135}{}{Pillanatnyi Életpontok}
 {136}{}{Pillanatnyi Méreg szint}
 {137}{}{Pillanatnyi Sugárzás szint}
-{200}{}{Nyers fizikai erõ. A magas Erõ érték jól jön a testi erejükben bízó karaktereknek. Kihat az Életpontokra, a Közelharci sebzésre, és a Teherbírás értékekre.}
+{200}{}{Nyers fizikai er?. A magas Er? érték jól jön a testi erejükben bízó karaktereknek. Kihat az Életpontokra, a Közelharci sebzésre, és a Teherbírás értékekre.}
 {201}{}{Látás, hallás, ízlelés, és szokatlan dolgok észrevétele. Fontos képesség a mesterlövészek számára. Befolyásolja a Reakciót és a távolsági harc távmódosítóit.}
 {202}{}{Kitartás és állóképesség. Módosítja az Életpontokat, a Méreg- és Sugárzásellenállást, a Regenerálódást, és a szintenként kapott Életpontok számát.}
-{203}{}{Megjelenés és vonzerõ kombinációja. Magas Karizma érték szükségeltetik azoknak, akik szavakkal akarnak befolyásolni másokat. Hatással van az NJK-k reagálására és az árakra.}
+{203}{}{Megjelenés és vonzer? kombinációja. Magas Karizma érték szükségeltetik azoknak, akik szavakkal akarnak befolyásolni másokat. Hatással van az NJK-k reagálására és az árakra.}
 {204}{}{Tudás, bölcsesség, és a gyors gondolkodás. Magas Intelligenciára mindenkinek szüksége van. Módosítja a szintenként kapott Képzettség pontok számát, a párbeszédeket és sok egyéb képzettséget.}
 {205}{}{Coordination and the ability to move well. A high Agility is important for any active character. Modifies: Action Points, Armor Class, and many skills.}
 {206}{}{Sors. Karma. A nagyon magas, vagy nagyon alacsony Szerencse valamiképp befolyásolja a karaktert. Események vagy szituációk változhatnak meg annak a fényében, hogy karaktered milyen szerencsés (vagy szerencsétlen).}
-{207}{}{Megmutatja, hogy mennyi sebzést bír ki a karaktered, mielõtt meghalna. Ha 0 vagy kevesebb az ÉP-d, akkor halott vagy.}
+{207}{}{Megmutatja, hogy mennyi sebzést bír ki a karaktered, miel?tt meghalna. Ha 0 vagy kevesebb az ÉP-d, akkor halott vagy.}
 {208}{}{Az akciók száma, amit a karaktered egy harci kör során meg tud tenni.}
 {209}{}{Annak az esélyét befolyásolja, hogy a karaktert eltalálják-e vagy sem.}
 {210}{}{Az a bónusz sebzés, amit a karaktered pusztakezes harcban okoz.}
@@ -55,14 +55,14 @@
 {216}{}{Jobb kritikus sebzés}
 {217}{}{Sebzésküszöb}
 {218}{}{Sebzésküszöb: Lézer}
-{219}{}{Sebzésküszöb: Tûz}
+{219}{}{Sebzésküszöb: T?z}
 {220}{}{Sebzésküszöb: Plazma}
 {221}{}{Sebzésküszöb: Elektromos}
 {222}{}{Sebzésküszöb: EMP}
 {223}{}{Sebzésküszöb: Robbanó}
-{224}{}{Minden elszenvedett sebzõdés ezzel az értékkel csökken. A Sebzésellenállást páncél viselésével növelheted.}
+{224}{}{Minden elszenvedett sebz?dés ezzel az értékkel csökken. A Sebzésellenállást páncél viselésével növelheted.}
 {225}{}{Sebzésellenállás: Lézer}
-{226}{}{Sebzésellenállás: Tûz}
+{226}{}{Sebzésellenállás: T?z}
 {227}{}{Sebzésellenállás: Plazma}
 {228}{}{Sebzésellenállás: Elektromos}
 {229}{}{Sebzésellenállás: EMP}
@@ -80,10 +80,10 @@
 {304}{}{Elmegy}
 {305}{}{Átlag}
 {306}{}{Jó}
-{307}{}{Nyerõ}
+{307}{}{Nyer?}
 {308}{}{Kiváló}
 {309}{}{Tuti}
-{310}{}{Hõsies}
+{310}{}{H?sies}
 {400}{}{Fel nem használt Képzettség pontok}
 {401}{}{Szint}
 {402}{}{Tapasztalat}
@@ -92,6 +92,6 @@
 {500}{}{Points earned by going up a level. Can be used to increase a skill by 1%, or a tag skill by 2%, per point spent.}
 {501}{}{A karakter általános tudása, szakértelme. A tapasztalat és a képességek mércéje.}
 {502}{}{A reward for completing specific tasks, or defeating enemies in combat. More experience points are required to attain higher levels.}
-{503}{}{Ez jelzi, hogy a világ mit tud a cselekedeteidrõl. Befolyásolja az NJK-k veled szemben tanúsított reakcióit.}
-{504}{}{Tetteid következményeirõl itt olvashatsz bõvebben.}
+{503}{}{Ez jelzi, hogy a világ mit tud a cselekedeteidr?l. Befolyásolja az NJK-k veled szemben tanúsított reakcióit.}
+{504}{}{Tetteid következményeir?l itt olvashatsz b?vebben.}
 {600}{}{Szintet léptél.}

@@ -11,7 +11,7 @@
 {110}{}{Bocs, de a munka az munka.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
 {112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
-{113}{}{Errõl nem szóltak.}
+{113}{}{Err?l nem szóltak.}
 {114}{}{Fizetnek, hogy kipucoljam a helyet. Már végeztem is velük.}
 {115}{}{Te idióta! Mi a francért csináltad ezt?}
 {116}{}{Kellett a pénz.}
@@ -24,7 +24,7 @@
 {123}{}{Tedd amit tenned kell.}
 {124}{}{You believed them at face value? You've a lot to learn about the world, friend.}
 {125}{}{Segíthetek bármiben?}
-{126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár lõfegyverünk, azt hiszem, elbírnánk velük.}
+{126}{}{A menedékvárosi srácok elég beszariak. Csinálsz egy-két figurát és már futnak is a hegyekbe. Ha lenne pár l?fegyverünk, azt hiszem, elbírnánk velük.}
 {127}{}{I might be able to help you out, but guns aren't cheap. What sort of guns you looking for?}
 {128}{}{[He eyes you with a tentative grin.] You're serious about helping us, aren't you? Alright, if you're up for it,
  then some rifles would be ideal--that way we could start picking them off from a distance. So if you truly wanna help,
@@ -43,8 +43,8 @@
  lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
 {140}{}{Szóra sem érdemes.}
 {141}{}{Hello! Things are going well. We're going to work on expanding the Village in the next month.}
-{142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van idõd!}
-{143}{}{Még mindig épitkezünk. Ha minden jól megy, jövõ hónapban megemeljük a falakat.}
+{142}{}{Üdv újra. Jól mennek a dolgok, mint látod. Nézz körül, ha van id?d!}
+{143}{}{Még mindig épitkezünk. Ha minden jól megy, jöv? hónapban megemeljük a falakat.}
 {144}{}{Greetings! The village has expanded again, just as we've hoped. Of course, you're welcome as always.}
 {145}{}{We no longer have anything to fear from Vault City--it looks like we'll be able to live here in peace. Thanks again, wanderer.}
 {146}{}{Csak ne gyilkolássz itt semmit, te gyökér!}
@@ -86,7 +86,7 @@
 {201}{}{As it turns out, I'm already carrying all those guns. I suppose I could spare a few, but are you sure this is the best way to go about this?}
 {202}{}{I've got the guns you need, but honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
 {203}{}{Honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
-{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naïve my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
+{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so na?ve my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
 {206}{}{Ok. I'll report back when I have some news.}
 {210}{}{Trust me, we've considered the alternative, but the only thing these Vault City bastards will respond to is violence. Now, will you give us the weapons? I'll pay $5,000 for em. No price can be set on freedom.}
 {211}{}{You do?! Excellent. Here, I'll give you $5,000 for those weapons. It's all the money we have, but there's no price too high for freedom. You've done us a great service, and shall always be welcome here.}

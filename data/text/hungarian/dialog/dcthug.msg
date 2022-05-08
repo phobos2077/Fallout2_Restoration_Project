@@ -1,10 +1,10 @@
 {100}{}{Egy bandatag.}
 {150}{}{Elég kegyetlennek néz ki.}
-{151}{}{Takarodj elõlem!}
+{151}{}{Takarodj el?lem!}
 {152}{}{Keresed a bajt?}
 {153}{}{Na, csak sétálj szépen tovább!}
 {154}{}{Nem érdekel.}
-{155}{}{Tûnj el!}
+{155}{}{T?nj el!}
 {200}{}{Hé, faszikám!}
 {201}{}{Bajba akarsz kerülni?}
 {202}{}{Gyere ide, cicus!}

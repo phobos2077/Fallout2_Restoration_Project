@@ -1,6 +1,6 @@
 {100}{}{Ez itt egy makrancos brahmin.}
 {150}{}{Ez itt egy jól megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vérben forognak.}
-{151}{}{Ez itt egy jól megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vérben forognak. Nagyon betegnek tûnik. Talán van rá mód, hogy segíts rajta.}
+{151}{}{Ez itt egy jól megtermett, makrancos brahmin. Egy ideje nem ehetett, a szemei pedig vérben forognak. Nagyon betegnek t?nik. Talán van rá mód, hogy segíts rajta.}
 {198}{}{::Rnnnrrrrr?::}
 {199}{}{::Hrrnnnnr?::}
 {200}{}{Múú}

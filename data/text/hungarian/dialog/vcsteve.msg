@@ -1,5 +1,5 @@
 {100}{}{Egy bambán vigyorgó fiatalembert látsz, kezében egy halom papírral.}
-{101}{}{Steve, Menedékváros Üdvözlõ Hivatalának Segéd Üdvözlõje.}
+{101}{}{Steve, Menedékváros Üdvözl? Hivatalának Segéd Üdvözl?je.}
 {102}{}{Üres a tekintete.}
 {103}{}{Üdvözöllek Menedékvárosban, Új Kalifornia legjobb városában. Steve vagyok, miben segíthetek?}
 {104}{}{Ez az egész bekerített rész a városhoz tartozik?}
@@ -11,5 +11,5 @@
 {110}{}{Mindenesetre köszönöm.}
 {111}{}{[kivesz egy röplapot a halomból és olvasni kezdi]  Ha egy Kívülálló ... [rád bök az ujjával] ... pimaszkodik egy Polgárral ... [magára mutat] ... azonnal jelentsd Melindának! Elnézést, de jelentenivalóm van, most nem érek rá veled foglalkozni.}
 {112}{}{Hülye!}
-{113}{}{Üdvözöllek az Üdvözlõ Hivatalban. Steve vagyok.}
+{113}{}{Üdvözöllek az Üdvözl? Hivatalban. Steve vagyok.}
 {114}{}{[zavartan kotorászik a papírjai között]... nem gondoltam, hogy pont ezt fogod kérdezni.}

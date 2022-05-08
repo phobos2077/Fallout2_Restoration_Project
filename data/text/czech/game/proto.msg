@@ -95,7 +95,7 @@
 {503}{}{zranìnì}
 {504}{}{v poøádku}
 {510}{}{Modifikátor TZ: %d}
-{511}{}{DR Mod: %d}
+{511}{}{Modifikátor OVP: %d}
 {512}{}{Mod. poškození: %d/%d}
 {518}{}{Vypadáš: %s }
 {519}{}{%s %s }
@@ -138,10 +138,10 @@
 {596}{}{Zásobník auta je už plný.}
 {597}{}{Vchod je zablokován.}
 {620}{}{Získáváš %d zkušenostních bodù za zabití nepøítele: %s.}
-{621}{}{%s you gain %d experience points.}
+{621}{}{%s získáváš %d zkušenostních bodù.}
 {622}{}{Za poražení nepøátel}
 {623}{}{Za likvidaci svých protivníkù}
-{624}{}{For being victorious in combat,}
+{624}{}{Za vítìzství v boji}
 {625}{}{Za rozdrcení svých nepøátel}
 {626}{}{Za znièení svých nepøátel bez jediného utrpìného škrábnutí}
 {650}{}{[KONEC]}

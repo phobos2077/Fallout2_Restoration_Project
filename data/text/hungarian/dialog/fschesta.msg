@@ -1,7 +1,7 @@
 {100}{}{Egy számítógép-terminált látsz.}
 {101}{}{Vegyészeti munkaállomás.}
 {102}{}{Számítógépes munkaállomás.}
-{103}{}{Üdvözöljük! Kérem, adja meg a jelszavát, hogy ellenõrizhessük a személyazonosságát!}
+{103}{}{Üdvözöljük! Kérem, adja meg a jelszavát, hogy ellen?rizhessük a személyazonosságát!}
 {104}{}{? Én nem érteni nagy szavak.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
 {106}{}{Hack into computer.}
@@ -21,7 +21,7 @@
 {120}{}{Üzemanyag átirányítása a Poseidon tankerbe.}
 {121}{}{Üzemanyag átirányítása a Hubologistáknak.}
 {122}{}{Vissza.}
-{123}{}{(Miután temérdek ábrán és technikai értekezésen átgázoltál, felfedezed, hogy a Shik egy új típusó polimer alapú harci páncél kifejlesztésén dolgoznak, mely mind a tûznek, mind a lövedékeknek ellenáll. A befejezéstõl még mindig évekre tart. Mindemellett említéseket olvasol egy bizonyos új fegyverzetrõl, és gyártási lehetõségekrõl. A Shik szemlátomást el vannak látva tervekkel a jövõt illetõen.)}
+{123}{}{(Miután temérdek ábrán és technikai értekezésen átgázoltál, felfedezed, hogy a Shik egy új típusó polimer alapú harci páncél kifejlesztésén dolgoznak, mely mind a t?znek, mind a lövedékeknek ellenáll. A befejezést?l még mindig évekre tart. Mindemellett említéseket olvasol egy bizonyos új fegyverzetr?l, és gyártási lehet?ségekr?l. A Shik szemlátomást el vannak látva tervekkel a jöv?t illet?en.)}
 {124}{}{Vissza.}
 {125}{}{Az üzemanyag átirányítva a kért helyre. Tároló = Üres. Program bezárása.}
 {126}{}{[DONE]}
@@ -30,10 +30,10 @@
 {129}{}{Állomás deaktiválva.}
 {130}{}{Állomás aktiválása.}
 {131}{}{Távozol.}
-{132}{}{[Véletlenszerû próbálkozásodat siker koronázta... benn vagy a gépben!]}
+{132}{}{[Véletlenszer? próbálkozásodat siker koronázta... benn vagy a gépben!]}
 {133}{}{[TOVÁBB]}
 {134}{}{A számítógép semmilyen inputra nem reagál.}
 {135}{}{Nem találsz rajta semmilyen helyet, ahol ezt alkalmazhatnád.}
 {136}{}{Guess the password.}
-{137}{}{Üzemanyag csõvezetékbe juttatása.}
+{137}{}{Üzemanyag cs?vezetékbe juttatása.}
 {138}{}{Válasszon célpontot!}

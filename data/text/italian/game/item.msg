@@ -11,7 +11,7 @@
 {50}{}{Non sembra aver fatto molto.}
 {500}{}{Non c'e' abbastanza luce per ricaricare questo oggetto.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{Weapon Damage}{Light}
+{800}{Weapon Damage}{Leggero}
 {801}{}{Medio}
 {802}{}{Pesante}
 {803}{}{Estremo}

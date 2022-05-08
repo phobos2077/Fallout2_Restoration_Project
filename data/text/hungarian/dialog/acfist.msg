@@ -1,5 +1,5 @@
 {100}{}{Lucas.}
-{101}{}{Lucas a harcosok vezetõje a törzsben.}
+{101}{}{Lucas a harcosok vezet?je a törzsben.}
 {102}{}{So there you are, Chosen One. Hmmmph! How goes your quest?}
 {103}{}{Nagyon jól.}
 {104}{}{Nem túl jól.}
@@ -16,16 +16,16 @@
 {115}{}{Viszlát!}
 {116}{}{Hmmm -- tölts velem egy napot, és megtanítom neked, hogyan verekedhetsz keményebben.}
 {117}{}{Rendben. Benne vagyok.}
-{118}{}{Sajnos most nincs idõm erre.}
+{118}{}{Sajnos most nincs id?m erre.}
 {119}{}{Már mindent tudsz, amire meg tudnálak tanítani, Kiválasztott. Sok szerencsét a küldetéshez.}
 {120}{}{Rendben.}
 {121}{}{Ha! Kiválasztott, nem vagy elég méltóságteljes ahhoz, hogy megtanítsalak bármire.}
 {122}{}{Rendben.}
 {123}{}{Nem vagy elég gyors a harcban, így nem tudod megtanulni ezeket a módszereket, Kiválasztott.}
 {124}{}{Rendben.}
-{125}{}{Mielõtt bármire is megtudnálak tanítani, többet kell tudnod, öcsi.}
+{125}{}{Miel?tt bármire is megtudnálak tanítani, többet kell tudnod, öcsi.}
 {126}{}{Rendben.}
-{127}{}{Meg tudlak tanítani egy sokkal erõsebb rúgásra. Mindössze egy napig tart.}
+{127}{}{Meg tudlak tanítani egy sokkal er?sebb rúgásra. Mindössze egy napig tart.}
 {128}{}{Oké.}
 {129}{}{Arra, hogyan verekedj jobban. Mindössze egy napig tart.}
 {130}{}{Oké.}

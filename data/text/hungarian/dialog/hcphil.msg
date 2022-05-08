@@ -1,6 +1,6 @@
-{100}{}{Egy kötényt viselõ ghoult látsz.}
+{100}{}{Egy kötényt visel? ghoult látsz.}
 {101}{}{Phil, a csapos. Egy poharat pucol éppen.}
-{102}{}{Egy kötényt viselõ ghoult látsz, aki épp egy poharat pucol. Abból, hogy a pult mögött áll, arra következtetsz, hogy õ a csapos ebben a kocsmában.}
+{102}{}{Egy kötényt visel? ghoult látsz, aki épp egy poharat pucol. Abból, hogy a pult mögött áll, arra következtetsz, hogy ? a csapos ebben a kocsmában.}
 {103}{}{Mi újság, idegen? Üdv a városban. Mi a neved?}
 {104}{}{Éne?}
 {105}{}{!}
@@ -31,7 +31,7 @@
 {140}{}{Nem van.}
 {141}{}{Húzós pia, cimbi! 5 dolcsi, plusz 1 borravaló, azaz 6-ot kapok.}
 {142}{}{Húzós ital, lányom! 5 dolcsi, plusz 1 borravaló, azaz 6-ot kapok.}
-{145}{}{Jót tesz neked, a bõrödnek. 2 dolcsi lesz. Még borravalót sem kérek, úgyhogy simán 2 dollár és már jön is.}
+{145}{}{Jót tesz neked, a b?rödnek. 2 dolcsi lesz. Még borravalót sem kérek, úgyhogy simán 2 dollár és már jön is.}
 {148}{}{. Ha akarsz még valamit inni, csak gyere és szólj!}
 {149}{}{Jóó!}
 {150}{}{! Csak nem inni akarsz?}
@@ -72,7 +72,7 @@
 {200}{}{Kösz. Viszlát!}
 {201}{}{Mit lehet itt csinálni... lássuk csak...}
 {202}{}{- tovább - }
-{203}{}{Valaki kiengedte a holdkórosokat a börtönbõl!}
+{203}{}{Valaki kiengedte a holdkórosokat a börtönb?l!}
 {204}{}{Valaki felrobbantotta a bányát! Vége a városnak!}
 {205}{}{Minden mutáns meghalt!}
 {206}{}{Nem sok.}
@@ -82,10 +82,10 @@
  mutant sitting over there. Apparently he's got a prize of some sort. Interested? Go talk to Francis.}
 {210}{}{Kösz. Valami más?}
 {211}{}{Kösz. Viszlát!}
-{212}{}{Eltûnt pár ember. Nem tudjuk, hol lehetnek. Ha megtalálnád õket, biztos vagyok benne, hogy kapnál érte valamit. Ha érdekel a dolog, menj és beszélj Marcusszal!}
+{212}{}{Elt?nt pár ember. Nem tudjuk, hol lehetnek. Ha megtalálnád ?ket, biztos vagyok benne, hogy kapnál érte valamit. Ha érdekel a dolog, menj és beszélj Marcusszal!}
 {213}{}{Kösz. Valami más?}
-{214}{}{Kösz! Késõbb beszélünk.}
-{215}{}{Hmm. A bánya légtisztítója tönkrement. Ha többet akarsz tudni, Zaius, a bánya vezetõje a te embered.}
+{214}{}{Kösz! Kés?bb beszélünk.}
+{215}{}{Hmm. A bánya légtisztítója tönkrement. Ha többet akarsz tudni, Zaius, a bánya vezet?je a te embered.}
 {216}{}{Rendben. Bármi más?}
 {217}{}{Kösz. Viszlát!}
 {218}{}{Tudom, hogy most szabadon mászkálhatsz a bányánál. A fenébe is, ha találsz valamit, talán tényleg jogod van megtartani.}
@@ -109,10 +109,10 @@
 {236}{}{Néhányan elég mérgesek rád Chad miatt. Csak figyelmeztettelek. Jöhet az ital?}
 {237}{}{Igen.}
 {238}{}{Nem. De lenne pár kérdésem.}
-{239}{}{Minden mutáns meghalt. Valaki felrobbantotta azt az átkozott bányát, amikor mind bent voltak. Valami rohadék biztos farkast kiáltott, õk meg mind rohantak segíteni. Nem bírom felfogni az ilyeneket. A francba... adhatok valamit?}
+{239}{}{Minden mutáns meghalt. Valaki felrobbantotta azt az átkozott bányát, amikor mind bent voltak. Valami rohadék biztos farkast kiáltott, ?k meg mind rohantak segíteni. Nem bírom felfogni az ilyeneket. A francba... adhatok valamit?}
 {240}{}{Igen.}
 {241}{}{Nem. De lenne pár kérdésem.}
-{242}{}{Tûnj a kocsmámból! Most, te rohadék!}
+{242}{}{T?nj a kocsmámból! Most, te rohadék!}
 {300}{}{!}
 {301}{}{ vagyok.}
 {302}{}{Hát, }
@@ -121,7 +121,7 @@
 {305}{}{Hé, }
 {306}{}{Megint te, }
 {307}{}{Nem probléma, cimbi. Itt az italod is. Tehetek érted még valamit?}
-{308}{}{Hé, cimbi, kösz a borravalót. Hadd adjak cserébe valamit! Úgy hallottam, hogy Liz vegyesboltjának pincéjében van egy fegyverraktár. Persze nem tõlem hallottad!}
+{308}{}{Hé, cimbi, kösz a borravalót. Hadd adjak cserébe valamit! Úgy hallottam, hogy Liz vegyesboltjának pincéjében van egy fegyverraktár. Persze nem t?lem hallottad!}
 {309}{}{Kösz, Phil. Nem szólok senkinek.}
 {1981}{}{A couple of loons've been locked up for spreading hate propaganda.}
 {1982}{}{Mine's purifiers are down.}

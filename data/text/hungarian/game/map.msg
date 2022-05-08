@@ -66,7 +66,7 @@
 {165}{}{EPA}
 {166}{}{EPA}
 {167}{}{EPA Warehouse}
-{168}{}{Kereskedõ}
+{168}{}{Keresked?}
 {169}{}{Shi Submarine}
 {200}{}{Sivatag}
 {201}{}{}
@@ -77,7 +77,7 @@
 {206}{}{Sivatag}
 {207}{}{}
 {208}{}{}
-{209}{}{Templom: elõcsarnok}
+{209}{}{Templom: el?csarnok}
 {210}{}{Templom: folyosó}
 {211}{}{Templom: szentély}
 {212}{}{Falu}
@@ -98,8 +98,8 @@
 {227}{}{Belváros}
 {228}{}{Belváros}
 {229}{}{Belváros}
-{230}{}{Fõtér}
-{231}{}{Fõtér}
+{230}{}{F?tér}
+{231}{}{F?tér}
 {232}{}{}
 {233}{}{Patkánybarlang}
 {234}{}{Patkánybarlang}
@@ -107,13 +107,13 @@
 {236}{}{Bejárat}
 {237}{}{Waste Tunnels}
 {238}{}{Storage}
-{239}{}{Vadászmezõ}
-{240}{}{Vadászmezõ}
-{241}{}{Vadászmezõ}
-{242}{}{Legelõ}
-{243}{}{Legelõ}
+{239}{}{Vadászmez?}
+{240}{}{Vadászmez?}
+{241}{}{Vadászmez?}
+{242}{}{Legel?}
+{243}{}{Legel?}
 {244}{}{}
-{245}{}{Elõváros}
+{245}{}{El?város}
 {246}{}{}
 {247}{}{}
 {248}{}{Belváros}
@@ -122,13 +122,13 @@
 {251}{}{Városháza}
 {252}{}{}
 {253}{}{}
-{254}{}{Fõ utca}
+{254}{}{F? utca}
 {255}{}{}
 {256}{}{}
 {257}{}{Panzió}
 {258}{}{Panzió}
 {259}{}{}
-{260}{}{Brahmin legelõ}
+{260}{}{Brahmin legel?}
 {261}{}{}
 {262}{}{}
 {263}{}{Farrel kertje}
@@ -149,10 +149,10 @@
 {278}{}{Földalatti tó}
 {279}{}{}
 {280}{}{}
-{281}{}{Harcmezõ}
+{281}{}{Harcmez?}
 {282}{}{}
 {283}{}{}
-{284}{}{Pihenõrészleg}
+{284}{}{Pihen?részleg}
 {285}{}{Raktár}
 {286}{}{Robottechnikai labor}
 {287}{}{Bio-kutató laboratórium}
@@ -164,8 +164,8 @@
 {293}{}{Település}
 {294}{}{Település}
 {295}{}{Település}
-{296}{}{Erõmû}
-{297}{}{Erõmû}
+{296}{}{Er?m?}
+{297}{}{Er?m?}
 {298}{}{}
 {299}{}{Roncstelep}
 {300}{}{Roncstelep}
@@ -203,7 +203,7 @@
 {332}{}{Westin farm}
 {333}{}{}
 {334}{}{}
-{335}{}{Legelõ}
+{335}{}{Legel?}
 {336}{}{}
 {337}{}{}
 {338}{}{Bazár}
@@ -230,7 +230,7 @@
 {359}{}{Sivatag}
 {360}{}{}
 {361}{}{}
-{362}{}{Szûz utca}
+{362}{}{Sz?z utca}
 {363}{}{Desperado alagsora}
 {364}{}{Desperado, 2. emelet}
 {365}{}{2. utca}
@@ -245,7 +245,7 @@
 {374}{}{Rontó-Bontó}
 {375}{}{}
 {376}{}{}
-{377}{}{Temetõ}
+{377}{}{Temet?}
 {378}{}{Óvóhely}
 {379}{}{}
 {380}{}{Slave Pens}
@@ -383,7 +383,7 @@
 {512}{}{Hegy}
 {513}{}{Barlang}
 {514}{}{Barlang}
-{515}{}{Õrzõ}
+{515}{}{?rz?}
 {516}{}{13-as Menedek}
 {517}{}{13-as Menedek}
 {518}{}{Mergezo hulladek lerakat}
@@ -461,9 +461,9 @@
 {590}{}{Entry Hall}
 {591}{}{Entry Hall}
 {592}{}{Entry Hall}
-{593}{}{Õrök barakkja}
-{594}{}{Õrök barakkja}
-{595}{}{Õrök barakkja}
+{593}{}{?rök barakkja}
+{594}{}{?rök barakkja}
+{595}{}{?rök barakkja}
 {596}{}{Elnöki szint}
 {597}{}{Elnöki szint}
 {598}{}{Elnöki szint}
@@ -482,12 +482,12 @@
 {611}{}{Kínai negyed}
 {612}{}{Kínai negyed}
 {613}{}{Kínai negyed}
-{614}{}{Ûrhajó dokk}
-{615}{}{Ûrhajó dokk}
-{616}{}{Ûrhajó dokk}
-{617}{}{Ûrhajó belseje}
-{618}{}{Ûrhajó belseje}
-{619}{}{Ûrhajó belseje}
+{614}{}{?rhajó dokk}
+{615}{}{?rhajó dokk}
+{616}{}{?rhajó dokk}
+{617}{}{?rhajó belseje}
+{618}{}{?rhajó belseje}
+{619}{}{?rhajó belseje}
 {620}{}{Hubologista bázis}
 {621}{}{Hubologista bázis}
 {622}{}{Hubologista bázis}
@@ -643,8 +643,8 @@
 {1553}{}{Safe House}
 {1554}{}{Safe House}
 {1555}{}{RP Easter Egg Encounter}
-{1556}{}{Kereskedõ}
-{1557}{}{Kereskedõ}
+{1556}{}{Keresked?}
+{1557}{}{Keresked?}
 {1558}{}{Shi Submarine}
 {1559}{}{Abandoned House}
 {1560}{}{Gecko Enclave Patrol}

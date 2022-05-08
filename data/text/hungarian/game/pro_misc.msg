@@ -22,9 +22,9 @@
 {2100}{}{Kijárat}
 {2200}{}{Kijárat}
 {2300}{}{Kijárat}
-{2400}{}{Jelzõfény}
+{2400}{}{Jelz?fény}
 {2500}{}{Gránát}
-{2600}{}{Kõ}
+{2600}{}{K?}
 {2700}{}{Robbanás}
 {2800}{}{Robbanás}
 {2900}{}{Robbanás}
@@ -51,4 +51,4 @@
 {4801}{}{}
 {4900}{}{Tüske}
 {4901}{}{}
-{5000}{}{Kettõs plazmalövedék}
+{5000}{}{Kett?s plazmalövedék}

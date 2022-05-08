@@ -1,13 +1,13 @@
 {100}{}{A Lyuk egyik törzsvendége.}
-{150}{}{Ez a fickó nem valami lenyûgõzõ.}
+{150}{}{Ez a fickó nem valami leny?g?z?.}
 {151}{}{Ennek a csávónak csak egyetlen foga van!}
 {152}{}{[Beszélgetés]}
-{153}{}{A feleséged aztán gyönyörû teremtés!}
-{154}{}{Tûnés innen!}
+{153}{}{A feleséged aztán gyönyör? teremtés!}
+{154}{}{T?nés innen!}
 {155}{}{Tetszik neked, mi?}
 {156}{}{Igen.}
 {157}{}{Ige'.}
-{158}{}{Szívesen megvizsgálnám közelebbrõl is...}
+{158}{}{Szívesen megvizsgálnám közelebbr?l is...}
 {159}{}{Gyerünk!}
 {160}{}{Rendben. 50 dolcsi lesz.}
 {161}{}{Hogyne! De ez bizony 200 dollárodba fog kerülni.}
@@ -24,7 +24,7 @@
 {172}{}{I'll come back.}
 {173}{}{OKÉ.}
 {174}{}{Te aztán szerfelett csinos vagy ám...}
-{175}{}{Távozz tõlem!}
+{175}{}{Távozz t?lem!}
 {176}{}{200 dollárért bármire hajlandó vagyok veled...}
 {177}{}{50 dolcsiba kerülök, haver!}
 {178}{}{Hehe! Kösz!}
@@ -32,13 +32,13 @@
 {180}{}{Rendben, szóval 50 dollár.}
 {181}{}{Ez már a te bajod...}
 {182}{}{Még találkozunk.}
-{183}{}{Hagyj békén! Én a tetszetõsebb tyúkokra bukok.}
+{183}{}{Hagyj békén! Én a tetszet?sebb tyúkokra bukok.}
 {184}{}{Sok szerencsét! Szükséged lehet rá...}
 {185}{}{Mi vagyok én szerinted? Mézesbödön?}
 {186}{}{Viszlát!}
 {187}{}{Óóóóhh... Oké. Viszlát!}
 {188}{}{[alaposan végigmér] Én szeretem a mézes bödönöket.}
-{189}{}{Ez tõled nem kell!}
+{189}{}{Ez t?led nem kell!}
 {190}{}{Bocsáss meg, mennem kell!}
 {191}{}{Milyen kár... Azt hittem, aranyosabb vagy.}
 {203}{}{Kérem vissza a pénzemet!}
@@ -46,17 +46,17 @@
 {205}{}{Gyerünk, mire vársz?}
 {206}{}{Hé!}
 {207}{}{Naaa, ugyan-ugyan, adj már }
-{208}{}{ számára egy újabb lehetõséget!}
+{208}{}{ számára egy újabb lehet?séget!}
 {209}{}{Látom, le se bagózol. Megyek innen.}
-{210}{}{Adtam neked lehetõséget, de jól elbaltáztad.}
-{211}{}{Rendben, rendben... kapsz egyetlen lehetõséget!}
+{210}{}{Adtam neked lehet?séget, de jól elbaltáztad.}
+{211}{}{Rendben, rendben... kapsz egyetlen lehet?séget!}
 {212}{}{Imádlak!}
 {213}{}{Ebben az esetben kénytelen leszek kinyírni téged...}
-{220}{}{Hé, Frankie! Egy kis idõre kölcsönveszem a hátsó szobát.}
+{220}{}{Hé, Frankie! Egy kis id?re kölcsönveszem a hátsó szobát.}
 {221}{}{Hé, Frankie! Néddmá' mittalá'tam.}
 {222}{}{Öhm, Frankie... ha valaki... khm... keresne, mondd meg neki, hogy mindjárt visszajövök!}
 {223}{}{Kövess!}
-{224}{}{Most nem érek rá! Majd késõbb megbeszéljük!}
+{224}{}{Most nem érek rá! Majd kés?bb megbeszéljük!}
 {225}{}{Nincs nálam!}
 {300}{}{Francba, rendesen ráfaragtam!}
 {301}{}{Ez igen!}
@@ -77,14 +77,14 @@
 {372}{}{Óhhhhh, igen!}
 {373}{}{Finom!}
 {374}{}{Jééézzus és Krisssztus!}
-{375}{}{Jóságos teremtõm!}
+{375}{}{Jóságos teremt?m!}
 {376}{}{El kellett volna raknom egy csomag papírzsepit.}
 {377}{}{Hmmm, vajon most kit képzeljek magam elé?}
 {390}{}{Hé, nem látod, hogy éppen mással vagyok elfoglalva?}
-{391}{}{Hé, hé! Tûzz innen a picsába!}
+{391}{}{Hé, hé! T?zz innen a picsába!}
 {392}{}{Hé, te úgyse tudod befejezni a munkát, szóval kopj le!}
 {393}{}{Tudnál szerezni nekem egy bukszát? 5 perc múlva találkoznánk...}
-{400}{}{Jobb lesz, ha ezúttal nem gyûrõd össze annyira a lepedõt, Billy!}
+{400}{}{Jobb lesz, ha ezúttal nem gy?r?d össze annyira a leped?t, Billy!}
 {401}{}{Hé, Billy, kell egy muff?}
 {402}{}{Billy, lenn van a slicced! MÁR MEGINT!}
 {403}{}{Hé Bill! Ne felejts el legközelebb gatyát cserélni!}
@@ -95,7 +95,7 @@
 {413}{}{He-he-heee...}
 {414}{}{Nahát...}
 {500}{}{*Pöj* *Pöj* Ehhhhhhhhh...}
-{510}{}{Hé haver, megmutatod a "bélyeggyûjteményed"?}
+{510}{}{Hé haver, megmutatod a "bélyeggy?jteményed"?}
 {511}{}{Nem várhatna egy kicsit? Innom kell valamit.}
 {512}{}{Ja, ha beszélni akarsz velem, a Lyukban leszek.}
 {513}{}{Mi lenne, ha találkoznánk a Lyukban és meghívnálak egy italra?}

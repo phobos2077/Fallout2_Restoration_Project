@@ -9,23 +9,23 @@
 {8}{}{Védelmi érték}
 {9}{}{ Normál}
 {10}{}{ Lézer}
-{11}{}{ Tûz}
+{11}{}{ T?z}
 {12}{}{ Plazma}
 {13}{}{ Robbanó}
 {14}{}{Üres}
 {15}{}{Sebz.:}
 {16}{}{Táv:}
-{17}{}{Lõszer:}
+{17}{}{L?szer:}
 {18}{}{(Nem viseled)}
 {19}{}{Nincs elég akciópontod, hogy pakolássz.}
 {20}{}{  Tömeg:}
 {21}{}{Tárgymozgatás}
 {22}{}{Mind}
-{23}{}{Idõzítés}
+{23}{}{Id?zítés}
 {24}{}{Pusztak. sebz.:}
 {25}{}{Nem veheted fel. Nem bírsz el több terhet.}
 {26}{}{Ennek a tárgynak már nincs hely.}
-{27}{}{Oké, ez jó üzletnek tûnik.}
+{27}{}{Oké, ez jó üzletnek t?nik.}
 {28}{}{Nem, nem elég jó az ajánlatod.}
 {29}{}{A sikeres lopásért %d tapasztalati pontot kapsz.}
 {30}{}{Súly}

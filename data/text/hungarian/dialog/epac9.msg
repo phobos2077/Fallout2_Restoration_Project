@@ -5,13 +5,13 @@
 {201}{}{Mi a munkád?}
 {210}{}{I make drugs! All kinds of drugs! When life gets you down, Mr. Chemmie is here to pick you up! How does Mr. Chemmie work?! It's simple! All you need is some scientific know-how and the right ingredients, then leave the rest up to me! Go on! Give me a try! And kids, remember to ask Mommy or Daddy for permission before playing with Mr. Chemmie!}
 {211}{}{Alright, I'll give this a try.}
-{212}{}{Talán késõbb.}
+{212}{}{Talán kés?bb.}
 {220}{}{Alright! Let's make drugs! What do you wish to create?!}
 {221}{}{Stimpakk}
 {222}{}{Szuper Stimpakk}
 {223}{}{Méreg}
 {224}{}{Poison Antidote}
-{225}{}{Elsõsegély csomag}
+{225}{}{Els?segély csomag}
 {226}{}{Orvosi táska}
 {227}{}{Buffout}
 {228}{}{Mentát}
@@ -48,7 +48,7 @@
 {344}{}{Environmental Rejection Syndrome Inhibitors.}
 {350}{}{This is your lucky day! I have enough chemicals in my storage tanks to make these! Would you like Mr. Chemmie to make them for you?!}
 {351}{}{Create.}
-{352}{}{Visszatérés a Fõmenübe.}
+{352}{}{Visszatérés a F?menübe.}
 {360}{}{Uh-oh! Sorry, but I no longer have the chemicals needed to create these!}
 {370}{}{Selection created! That was fun! Please collect the item from the machine! Thank you for using Mr. Chemmie! Let's make drugs again sometime!}
 {371}{}{More Options.}

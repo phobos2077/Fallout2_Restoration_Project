@@ -4,7 +4,7 @@
 {103}{}{Segíts! Kérlek, ne fordíts nekem hátat!}
 {104}{}{A gazdám azt mondta, hogy senkivel sem beszélhetek.}
 {105}{}{Hadd mondjak valamit... a gazdám egy igazi seggfej.}
-{106}{}{Igazából nem érdekel, hogy rabszolga vagyok. Egész jó élet ez... kapok ételt, és az úrnõm is egész jó hozzám.}
+{106}{}{Igazából nem érdekel, hogy rabszolga vagyok. Egész jó élet ez... kapok ételt, és az úrn?m is egész jó hozzám.}
 {107}{}{Menj el! Hagyj magamra!}
 {108}{}{Segítened kell nekünk! Meg kell megbuktatnod a zsarnokainkat!}
 {109}{}{Ne szólj hozzám! Nem akarok egy újabb verést.}

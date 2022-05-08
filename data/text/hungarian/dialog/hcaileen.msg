@@ -1,6 +1,6 @@
-{100}{}{Egy vonzónak is nevezhetõ, középkorú nõt látsz.}
+{100}{}{Egy vonzónak is nevezhet?, középkorú n?t látsz.}
 {101}{}{Aileen, a falu egyik vegyésze.}
-{102}{}{Egy vonzónak is nevezhetõ, középkorú nõt látsz. Keménynek és céltudatosnak tûnik. Kezeit vegyi anyagok borítják.}
+{102}{}{Egy vonzónak is nevezhet?, középkorú n?t látsz. Keménynek és céltudatosnak t?nik. Kezeit vegyi anyagok borítják.}
 {103}{}{Kösz, hogy segítesz az ügyünkön.}
 {104}{}{Örülök, hogy közénk tartozol.}
 {105}{}{Majd megmutatjuk azoknak a mutánsoknak!}
@@ -13,13 +13,13 @@
 {112}{}{Miért nem mész vissza a mutáns barátaidhoz?}
 {113}{}{Emberi összetartás, cimbora!}
 {114}{}{Csak mi magunk vagyunk ellenük.}
-{115}{}{A nyerõ oldalt választottad.}
+{115}{}{A nyer? oldalt választottad.}
 {116}{}{A mutiknak végük!}
-{117}{}{Megmutatjuk azoknak a mutánsoknak, hogy ki a fõnök!}
+{117}{}{Megmutatjuk azoknak a mutánsoknak, hogy ki a f?nök!}
 {118}{}{Még a mutánsok sem tudnak mérget lélegezni.}
 {119}{}{Hamarosan eljön az emberiség órája!}
-{120}{}{Egyszerûen imádom az ötletet, hogy mutánsok fuldokolnak halálos gázban.}
-{121}{}{Közel a gyõzelem!}
+{120}{}{Egyszer?en imádom az ötletet, hogy mutánsok fuldokolnak halálos gázban.}
+{121}{}{Közel a gy?zelem!}
 {122}{}{Broken Hills hamarosan a miénk lesz.}
 {123}{}{Mutánsimádó!}
 {124}{}{Takarodj ki innen!}
@@ -29,8 +29,8 @@
 {128}{}{Kopj le, te rohadék!}
 {129}{}{Biztos, hogy félig mutáns vagy!}
 {130}{}{Takarodj innen, tisztátalan!}
-{131}{}{Együgyû hülye, kotródj innen!}
-{132}{}{Nincs idõm az olyanokra, mint te.}
+{131}{}{Együgy? hülye, kotródj innen!}
+{132}{}{Nincs id?m az olyanokra, mint te.}
 {133}{}{Jacobbal beszélj, ha akarsz valamit!}
 {134}{}{A férjem, Jacob tud neked segíteni.}
 {135}{}{Békén hagynál végre?!}

@@ -1,8 +1,8 @@
 {100}{}{Bokszoló.}
 {101}{}{You see Pete "The Hurricane" McKneely.}
-{150}{}{Egy izomkolosszusnak beillõ fehér férfit látsz. Látszólag. Olyan gyenge ugyanis, hogy egy szelet pizzával is kiüthetnéd.}
+{150}{}{Egy izomkolosszusnak beill? fehér férfit látsz. Látszólag. Olyan gyenge ugyanis, hogy egy szelet pizzával is kiüthetnéd.}
 {151}{}{Az állkapcsa úgy fénylik, mint az üveg.}
-{152}{}{Olyannak tûnik, mint aki hét másodpercet sem bírna ki a szorítóban.}
+{152}{}{Olyannak t?nik, mint aki hét másodpercet sem bírna ki a szorítóban.}
 {153}{}{Ez az ember olyan gyenge, hogy egy szelet pizzával is kiüthetnéd.}
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}

@@ -1,14 +1,14 @@
 {100}{}{Egy nagy darab, primitív embert látsz.}
-{101}{}{Egy karcsú, de primitív nõt látsz.}
-{200}{}{Egy fura külsejû embert látsz.}
-{201}{}{Egy szakadt külsejû embert látsz.}
+{101}{}{Egy karcsú, de primitív n?t látsz.}
+{200}{}{Egy fura külsej? embert látsz.}
+{201}{}{Egy szakadt külsej? embert látsz.}
 {202}{}{Egy toprongyos embert látsz.}
-{210}{}{Egy piszkos nõ.}
-{211}{}{Egy eléggé koszos nõt látsz.}
-{212}{}{Egy cingár nõ.}
+{210}{}{Egy piszkos n?.}
+{211}{}{Egy eléggé koszos n?t látsz.}
+{212}{}{Egy cingár n?.}
 {270}{}{Nem taná'nak meg.}
-{271}{}{E' kõ bújni. E' kõ bújni.}
-{272}{}{Mér akar õk bántani minket?}
+{271}{}{E' k? bújni. E' k? bújni.}
+{272}{}{Mér akar ?k bántani minket?}
 {273}{}{Megijedtem.}
 {274}{}{Nem harcolok.}
 {275}{}{Élni akarok.}
@@ -34,7 +34,7 @@
 {353}{}{Valaki segítsen! Kérem!}
 {354}{}{Fuss, Marty!}
 {355}{}{Ahhh!}
-{356}{}{Állítsd meg ezt az õrületet!}
+{356}{}{Állítsd meg ezt az ?rületet!}
 {357}{}{Nem csináltunk semmit! Hagyj békén minket!}
 {358}{}{Ismerem ezt a tetoválást!}
 {359}{}{Kérlek, ne!}

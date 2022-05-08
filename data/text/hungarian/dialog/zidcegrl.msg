@@ -4,16 +4,16 @@
 {111}{}{Asztal.}
 {140}{}{Ezen az asztalon kockázni szoktak.}
 {141}{}{Az asztal tele van mindenféle tárggyal.}
-{150}{}{Õ a kaszinó egyik kártyaosztója.}
-{151}{}{Õ a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
-{152}{}{Õ a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
-{153}{}{Õ a kaszinó egyik kártyaosztója. Csinos virgácsai vannak.}
-{154}{}{Õ a kaszinó egyik kártyaosztója. Rádkacsint.}
-{155}{}{Õ a kaszinó egyik kártyaosztója. Naggggyon jó illata van.}
-{160}{}{Ez a nõ hihetetlenül gyönyörû.}
+{150}{}{? a kaszinó egyik kártyaosztója.}
+{151}{}{? a kaszinó egyik kártyaosztója. Int, hogy menj közelebb, és játssz.}
+{152}{}{? a kaszinó egyik kártyaosztója. A ruhája alig takarja el a testét.}
+{153}{}{? a kaszinó egyik kártyaosztója. Csinos virgácsai vannak.}
+{154}{}{? a kaszinó egyik kártyaosztója. Rádkacsint.}
+{155}{}{? a kaszinó egyik kártyaosztója. Naggggyon jó illata van.}
+{160}{}{Ez a n? hihetetlenül gyönyör?.}
 {161}{}{Integet neked, hogy menj oda hozzá.}
-{162}{}{Ehhez a kosztümhöz nem sok állatot öltek le. Meglehetõsen apróra sikeredett.}
-{163}{}{A virgácsai lenyûgözõek.}
+{162}{}{Ehhez a kosztümhöz nem sok állatot öltek le. Meglehet?sen apróra sikeredett.}
+{163}{}{A virgácsai leny?göz?ek.}
 {164}{}{Rádkacsintott!}
 {165}{}{Naggggyon jó illata van.}
 {175}{}{NINCS KOCKA!!!}
@@ -30,25 +30,25 @@
 {203}{}{}
 {204}{}{Már azt hittük, teljesen megfeledkeztél rólunk, míg a világ megmentésén fáradoztál!}
 {215}{}{Helló, }
-{216}{}{Ha késõbb egy kis társaságra vágyna...}
+{216}{}{Ha kés?bb egy kis társaságra vágyna...}
 {217}{}{Hé, te... [kacsint] Nem akarsz kockáztatni?}
-{218}{}{Õ aztán... [megborzong] ...nagyon veszélyes!}
+{218}{}{? aztán... [megborzong] ...nagyon veszélyes!}
 {219}{}{Köszönjük, hogy ellátogatott a kaszinónkba, }
-{220}{}{Mondjon már egy-két jó szót értem a fõnöknél...}
+{220}{}{Mondjon már egy-két jó szót értem a f?nöknél...}
 {221}{}{Üdvözöljük, hölgyem. Csak kérdezzen, hátha tudok segíteni.}
 {222}{}{Játszani szeretne, hölgyem?}
 {223}{}{Ez a lány... [megborzong] ...nagyon veszélyes!}
 {235}{}{Ez itt már éppen eléggé kockára tette az életét.}
-{236}{}{Öö, szerintem egyszerûen csak eltévesztette a kaszinót...}
-{237}{}{Ha nem tûnik el, mielõtt a fiúk meglátnák...}
+{236}{}{Öö, szerintem egyszer?en csak eltévesztette a kaszinót...}
+{237}{}{Ha nem t?nik el, miel?tt a fiúk meglátnák...}
 {238}{}{Ajjaj! Gond van...}
 {239}{}{Ez itt már éppen eléggé kockára tette az életét.}
-{240}{}{Ehm. Szerintem ez nem éppen a legmegfelelõbb kaszinó neki...}
-{241}{}{Ha nem tûnik el, mielõtt a fiúk meglátják...}
+{240}{}{Ehm. Szerintem ez nem éppen a legmegfelel?bb kaszinó neki...}
+{241}{}{Ha nem t?nik el, miel?tt a fiúk meglátják...}
 {250}{}{Hé, izomagy! Nem akarsz egy kis pénzt kockára tenni?}
 {251}{}{Hé, bajnok... [rádkacsint] ...nincs kedved játszani?}
 {252}{}{Hé, bajnok... [mosolyog] ...nem teszed próbára a szerencséd?}
-{253}{}{Ha késõbb egy kis társaságra vágyna...}
+{253}{}{Ha kés?bb egy kis társaságra vágyna...}
 {254}{}{Kíváncsi vagyok, beszélhetnék-e vele...}
 {255}{}{Hé, }
 {256}{}{Ha nyerni szeretnél egy kis pénzt, a legjobb helyen jársz!}
@@ -87,10 +87,10 @@
 {323}{}{Tegyék még a tétjeiket! A minimális tét  }
 {324}{}{Én jác-ccani jobban}
 {325}{}{Én játszani csapol le csacsi pucérba'}
-{326}{}{Miféle játék? Lehet gekkóbõrbe foganni? Nekem van gekk... óóóóóó... mi szép fények!}
+{326}{}{Miféle játék? Lehet gekkób?rbe foganni? Nekem van gekk... óóóóóó... mi szép fények!}
 {327}{}{[Van }
 {328}{}{Fogadok }
-{329}{}{Áááá, nekem ez már túl nagymenõ!}
+{329}{}{Áááá, nekem ez már túl nagymen?!}
 {330}{}{Köszönöm, ma nincs több tét!}
 {331}{}{Ööö... Bocsi, de nem tudom, hogy kell ezeket a fránya játékokat játszani.}
 {340}{}{Izé... Úgy hallottam, hogy az értelmi fogyatékosaknak agyat osztogatnak hátul. Talán nem ártana ott körülnézned.}
@@ -112,7 +112,7 @@
 {412}{}{Ön nyert! Gratulálok, hölgyem!}
 {420}{}{Nyert! Megduplázta a pénzét!}
 {421}{}{Nyert! Megduplázta a pénzét! Gratulálok, uram!}
-{422}{}{Ön nyert! Most dupla pénzt vihet haza! Nagyszerû volt, hölgyem!}
+{422}{}{Ön nyert! Most dupla pénzt vihet haza! Nagyszer? volt, hölgyem!}
 {430}{}{Gratulálok! Háromszoros pénz üti a markát!}
 {431}{}{Nyert! Ön megtriplázta a pénzét! A szerencse beköltözött a házba! Gratulálok, uram!}
 {432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
@@ -123,7 +123,7 @@
 {452}{}{Bocsásson meg asszonyom, az asztal most nem üzemelhet. Valaki megberhelte a kockákat.}
 {453}{}{Ehhh, rendben.}
 {454}{}{Sajnálattal hallom. Kösz!}
-{2203}{}{! Isten hozta a kaszinóban, tisztelt hõs!}
+{2203}{}{! Isten hozta a kaszinóban, tisztelt h?s!}
 {2215}{}{! Segíthetek *valamiben*?}
 {2219}{}{ vagyok.}
 {2255}{}{. Szeretne gazdag lenni?}
@@ -136,5 +136,5 @@
 {2327}{}{ dollárod] }
 {2328}{}{ vagyok.}
 {2344}{}{ számára újabb tárgy mindig jön jól [Távozol.]}
-{2352}{}{ dolcsi neked túl nagymenõ? [gúnyolódik] Haver, te aztán tényleg rossz városban kötöttél ki!}
-{2353}{}{ dolcsi neked túl nagymenõ? [megvetõen] Csajszikám, ez a város aztán tényleg nem neked való!}
+{2352}{}{ dolcsi neked túl nagymen?? [gúnyolódik] Haver, te aztán tényleg rossz városban kötöttél ki!}
+{2353}{}{ dolcsi neked túl nagymen?? [megvet?en] Csajszikám, ez a város aztán tényleg nem neked való!}

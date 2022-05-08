@@ -4,7 +4,7 @@
 {103}{}{[DONE]}
 {104}{}{Hibernation Chambers. Three individuals were sealed within these chambers before the war, each for specific classified
  reasons. Subjects remain sealed and unaware of their surroundings. Log entries are available for each subject.}
-{105}{}{Visszatérés a Fõmenübe.}
+{105}{}{Visszatérés a F?menübe.}
 {106}{}{WARNING: Extended periods of time in a deep freeze environment alters the chemical processes of the body.
  Without proper application of chemicals to the subject's body on exiting the chambers, they may suffer from ERS
  (Environmental Rejection Syndrome). To ensure the safety of the subject, it is highly recommended that you place an ERSI

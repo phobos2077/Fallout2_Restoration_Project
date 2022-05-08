@@ -2,10 +2,10 @@
 {101}{}{Üres a tár.}
 {102}{}{A célpont túl messze van.}
 {103}{}{Amíg ellenséges lények vannak a közelben, nem fejezheted be a harcot!}
-{104}{}{A célpont nincs tûzvonalban.}
+{104}{}{A célpont nincs t?zvonalban.}
 {105}{}{Ha mindkét karod el van törve, nem használhatsz fegyvert.}
 {106}{}{Törött karral nem használhatsz kétkezes fegyvereket.}
-{107}{}{Nem vagy elég erõs ahhoz, hogy pontosan kezeld ezt a fegyvert.}
+{107}{}{Nem vagy elég er?s ahhoz, hogy pontosan kezeld ezt a fegyvert.}
 {108}{}{ és }
 {200}{}{kiütötték}
 {201}{}{padlóra küldték}
@@ -22,13 +22,13 @@
 {212}{}{felrobbant a fegyvered}
 {213}{}{destroyed your weapon}
 {214}{}{dropped your weapon}
-{215}{}{kimaradsz a következõ körbõl}
+{215}{}{kimaradsz a következ? körb?l}
 {216}{}{eltaláltad magad}
 {217}{}{elvesztetted a maradék muníciód}
 {218}{}{csütörtököt mondott a fegyvere}
 {219}{}{megsebezted magad}
-{220}{}{véletlenszerûen találta el}
-{221}{}{véletlenszerûen szétroncsolta egy végtagját}
+{220}{}{véletlenszer?en találta el}
+{221}{}{véletlenszer?en szétroncsolta egy végtagját}
 {222}{}{beterítették a repeszek}
 {250}{}{kiütötték}
 {251}{}{padlóra küldték}
@@ -45,13 +45,13 @@
 {262}{}{felrobbant a fegyvered}
 {263}{}{destroyed your weapon}
 {264}{}{dropped your weapon}
-{265}{}{kimaradsz a következõ körbõl}
+{265}{}{kimaradsz a következ? körb?l}
 {266}{}{eltaláltad magad}
 {267}{}{elvesztetted a maradék muníciód}
 {268}{}{csütörtököt mondott a fegyvere}
 {269}{}{megsebezted magad}
-{270}{}{véletlenszerûen találta el}
-{271}{}{véletlenszerûen szétroncsolta egy végtagját}
+{270}{}{véletlenszer?en találta el}
+{271}{}{véletlenszer?en szétroncsolta egy végtagját}
 {272}{}{beterítették a repeszek}
 {300}{}{kiütötték}
 {301}{}{padlóra küldték}
@@ -68,13 +68,13 @@
 {312}{}{felrobbant a fegyvere}
 {313}{}{destroyed his weapon}
 {314}{}{dropped his weapon}
-{315}{}{kimarad a következõ körbõl}
+{315}{}{kimarad a következ? körb?l}
 {316}{}{eltalálta magát}
 {317}{}{elvesztette a maradék munícióját}
 {318}{}{csütörtököt mondott a fegyvere}
 {319}{}{megsebezte magát}
-{320}{}{véletlenszerûen találta el}
-{321}{}{véletlenszerûen szétroncsolta egy végtagját}
+{320}{}{véletlenszer?en találta el}
+{321}{}{véletlenszer?en szétroncsolta egy végtagját}
 {322}{}{beterítették a repeszek}
 {400}{}{kiütötték}
 {401}{}{padlóra küldték}
@@ -91,13 +91,13 @@
 {412}{}{felrobbant a fegyvere}
 {413}{}{destroyed her weapon}
 {414}{}{elejtette a fegyverét}
-{415}{}{kimarad a következõ körbõl}
+{415}{}{kimarad a következ? körb?l}
 {416}{}{eltalálta magát}
 {417}{}{elveszette a maradék munícióját}
 {418}{}{csütörtököt mondott a fegyvere}
 {419}{}{megsebezte magát}
-{420}{}{véletlenszerûen találta el}
-{421}{}{véletlenszerûen szétroncsolta egy végtagját}
+{420}{}{véletlenszer?en találta el}
+{421}{}{véletlenszer?en szétroncsolta egy végtagját}
 {422}{}{beterítették a repeszek}
 {506}{}{You}
 {509}{}{Francba! Téged találtak el %s%s helyett!}
@@ -116,7 +116,7 @@
 {527}{}{%s A hajad szála sem görbült}
 {528}{}{%s Nem sérültél meg}
 {533}{}{%s béna volt, magát sebezte meg, és 1 ÉP-t vesztett}
-{534}{}{%s elképesztõen nagy balfasz volt, és magát sebesítette meg. %d ÉP-t vesztett}
+{534}{}{%s elképeszt?en nagy balfasz volt, és magát sebesítette meg. %d ÉP-t vesztett}
 {556}{}{You}
 {559}{}{Francba! Téged találtak el %s%s helyett!}
 {561}{}{%s A karaktered csúnyán megsérült %s, %d ÉP-t vesztett}
@@ -134,7 +134,7 @@
 {577}{}{%s A hajad szála sem görbült}
 {578}{}{%s Nem sérültél meg}
 {583}{}{%s béna volt, magát sebezte meg, és 1 ÉP-t vesztett}
-{584}{}{%s elképesztõen nagy balfasz volt, és magát sebesítette meg. %d ÉP-t vesztett}
+{584}{}{%s elképeszt?en nagy balfasz volt, és magát sebesítette meg. %d ÉP-t vesztett}
 {608}{}{Hehe... %s kapta az áldást!}
 {609}{}{Hoppszla! A szerencsés %s helyett a kevésbé szerencsés %s szívta meg!}
 {611}{}{%s csúnyán megsérült %s, %d ÉP-t vesztett}
@@ -152,7 +152,7 @@
 {627}{}{%s ezt meg sem érezte}
 {628}{}{%s megúszta egy karcolással}
 {633}{}{%s béna volt, magát sebezte meg, és 1 ÉP-t vesztett}
-{634}{}{%s elképesztõen nagy balfasz volt, és magát sebesítette meg. %d ÉP-t vesztett}
+{634}{}{%s elképeszt?en nagy balfasz volt, és magát sebesítette meg. %d ÉP-t vesztett}
 {708}{}{Hehe... %s kapta az áldást!}
 {709}{}{Hoppszla! A szerencsés %s helyett a kevésbé szerencsés %s szívta meg!}
 {711}{}{%s csúnyán megsérült %s, %d ÉP-t vesztett}
@@ -170,7 +170,7 @@
 {727}{}{%s ezt meg sem érezte}
 {728}{}{%s megúszta egy karcolással}
 {733}{}{%s béna volt, magát sebezte meg, és 1 ÉP-t vesztett}
-{734}{}{%s elképesztõen nagy balfasz volt, és magát sebesítette meg. %d ÉP-t vesztett}
+{734}{}{%s elképeszt?en nagy balfasz volt, és magát sebesítette meg. %d ÉP-t vesztett}
 {1110}{}{a fején}
 {1111}{}{a bal karján}
 {1112}{}{a jobb karján}
@@ -184,17 +184,17 @@
 {1151}{}{a bal hátsó lábán}
 {1152}{}{a jobb hátsó lábán}
 {1153}{}{a törzsén}
-{1154}{}{a jobb elsõ lábán}
-{1155}{}{a bal elsõ lábán}
+{1154}{}{a jobb els? lábán}
+{1155}{}{a bal els? lábán}
 {1156}{}{a szemén}
-{1157}{}{a tõgyén}
+{1157}{}{a t?gyén}
 {1158}{}{ismeretlen helyen}
 {1160}{}{a fején}
 {1161}{}{a hátsó lábán}
 {1162}{}{a hátsó lábán}
 {1163}{}{a testén}
-{1164}{}{a mellsõ lábán}
-{1165}{}{a mellsõ lábán}
+{1164}{}{a mells? lábán}
+{1165}{}{a mells? lábán}
 {1166}{}{a szemén}
 {1167}{}{a lágyékán}
 {1168}{}{ismeretlen helyen}
@@ -202,8 +202,8 @@
 {1171}{}{a karján}
 {1172}{}{a karján}
 {1173}{}{a gépházán}
-{1174}{}{a hajtómûvén}
-{1175}{}{a hajtómûvén}
+{1174}{}{a hajtóm?vén}
+{1175}{}{a hajtóm?vén}
 {1176}{}{a szenzorján}
 {1177}{}{a szabályzóján}
 {1178}{}{ismeretlen helyen}
@@ -238,14 +238,14 @@
 {1221}{}{a farkán}
 {1222}{}{az ollóján}
 {1223}{}{a páncélján}
-{1224}{}{az elsõ lábain}
+{1224}{}{az els? lábain}
 {1225}{}{a hátsó lábain}
 {1226}{}{a szemén}
 {1227}{}{az agyán}
 {1228}{}{ismeretlen helyen}
 {1230}{}{a fején}
 {1231}{}{a száján}
-{1232}{}{a elõszáján}
+{1232}{}{a el?száján}
 {1233}{}{a testén}
 {1234}{}{a légzsákján}
 {1235}{}{a farkán}
@@ -328,8 +328,8 @@
 {1531}{}{a karján}
 {1532}{}{a karján}
 {1533}{}{a gépházán}
-{1534}{}{a hajtómûvén}
-{1535}{}{a hajtómûvén}
+{1534}{}{a hajtóm?vén}
+{1535}{}{a hajtóm?vén}
 {1536}{}{a szenzorján}
 {1537}{}{a szabályzóján}
 {1538}{}{ismeretlen helyen}
@@ -337,8 +337,8 @@
 {1541}{}{a karján}
 {1542}{}{a karján}
 {1543}{}{a gépházán}
-{1544}{}{a hajtómûvén}
-{1545}{}{a hajtómûvén}
+{1544}{}{a hajtóm?vén}
+{1545}{}{a hajtóm?vén}
 {1546}{}{a szenzorján}
 {1547}{}{a szabályzóján}
 {1548}{}{ismeretlen helyen}
@@ -364,7 +364,7 @@
 {1591}{}{a farkán}
 {1592}{}{az ollóján}
 {1593}{}{a páncélján}
-{1594}{}{az elsõ lábain}
+{1594}{}{az els? lábain}
 {1595}{}{a hátsó lábain}
 {1596}{}{a szemén}
 {1597}{}{az agyán}
@@ -451,8 +451,8 @@
 {1907}{}{a szabályzóján}
 {1908}{}{ismeretlen helyen}
 {1970}{}{a fején}
-{1971}{}{a bal elsõ lábán}
-{1972}{}{a jobb elsõ lábán}
+{1971}{}{a bal els? lábán}
+{1972}{}{a jobb els? lábán}
 {1973}{}{a potrohán}
 {1974}{}{a jobb hátsó lábán}
 {1975}{}{a bal hátsó lábán}
@@ -490,7 +490,7 @@
 {2031}{}{the stinger}
 {2032}{}{the antennae}
 {2033}{}{the thorax}
-{2034}{}{az elsõ lábain}
+{2034}{}{az els? lábain}
 {2035}{}{a hátsó lábain}
 {2036}{}{a szemén}
 {2037}{}{a szárnyain}
@@ -500,23 +500,23 @@
 {5002}{}{. Ott nem védi a páncél}
 {5003}{}{ és összeesett}
 {5004}{}{. A lövés padlóra küldi}
-{5005}{}{. A fejre leadott pontos lövéstõl összecsuklik}
+{5005}{}{. A fejre leadott pontos lövést?l összecsuklik}
 {5006}{}{. Támadás a halántékát éri. Jó éjt}
 {5007}{}{. Death is instantaneous}
 {5008}{}{ és rettenetesen elzsibbadt a csuklója}
-{5009}{}{ és egy jókora húsdarab kiszakadt belõle}
+{5009}{}{ és egy jókora húsdarab kiszakadt bel?le}
 {5010}{}{. Ez a seb örökre elcsúfítja majd az arcát}
 {5011}{}{. Szétroncsolódott a végtagja}
 {5012}{}{, már csak egy csonk mered az ég felé}
-{5013}{}{. Csak egy véres csonk mered elõ}
+{5013}{}{. Csak egy véres csonk mered el?}
 {5014}{}{, a végtagja szinte cafatokra szakadt}
 {5015}{}{. Kishijján leszakadt a végtagja}
-{5016}{}{ a bivalyerõs csapás következtében}
+{5016}{}{ a bivalyer?s csapás következtében}
 {5017}{}{, blowing through the armor}
 {5018}{}{. Borzalmas fájdalmai lehetnek, ide hallani a fogak csikorgását}
-{5019}{}{ és mivel nem védi páncélzat, a küzdõ földre kerül}
+{5019}{}{ és mivel nem védi páncélzat, a küzd? földre kerül}
 {5020}{}{, knocking the air out. He slumps to the ground out of the fight}
-{5021}{}{. A gerince most már elölrõl is látszik}
+{5021}{}{. A gerince most már elölr?l is látszik}
 {5022}{}{, putting a major hurt on his leg}
 {5023}{}{ és elterült, mint egy béka}
 {5024}{}{. Szétroncsolódott a végtagja és a földre zuhan}
@@ -525,7 +525,7 @@
 {5027}{}{, inflicting some extra pain}
 {5028}{}{. Unluckily for him, it causes blindness}
 {5029}{}{. With no protection there, it causes serious pain}
-{5030}{}{. Szemgolyója valósággal kirobbant az üregébõl. Többé már soha nem fog látni}
+{5030}{}{. Szemgolyója valósággal kirobbant az üregéb?l. Többé már soha nem fog látni}
 {5031}{}{. Egyik szemének elvesztése már túl nagy sokkot okozott, ezért a földre zuhant}
 {5032}{}{. Sadly, he is too busy feeling the rush of air on the brain to notice death approaching}
 {5033}{}{. Aú! Ez bizony fájhatott}
@@ -538,18 +538,18 @@
 {5102}{}{. Ott nem védi páncél}
 {5103}{}{ és összeesett}
 {5104}{}{. A csapás a földre teríti}
-{5105}{}{. A fejre leadott pontos lövéstõl összecsuklik}
+{5105}{}{. A fejre leadott pontos lövést?l összecsuklik}
 {5106}{}{. Támadás a halántékát éri. Jó éjt, kisanyám}
 {5107}{}{. Death is instantaneous}
 {5108}{}{ és rettenetesen elzsibbadt a csuklója}
-{5109}{}{ és egy jókora húsdarab kiszakadt belõle}
+{5109}{}{ és egy jókora húsdarab kiszakadt bel?le}
 {5110}{}{. Ez a seb örökre elcsúfítja majd az arcát}
 {5111}{}{. Szétroncsolódott a végtagja}
 {5112}{}{. Már csak pár ín tartja a helyén}
-{5113}{}{. Csak egy véres csonk mered elõ}
+{5113}{}{. Csak egy véres csonk mered el?}
 {5114}{}{, a végtagja szinte cafatokra szakadt}
 {5115}{}{. Kishijján leszakadt a végtagja}
-{5116}{}{ a bivalyerõs csapás következtében}
+{5116}{}{ a bivalyer?s csapás következtében}
 {5117}{}{, piercing through her defenses}
 {5118}{}{. Borzalmas fájdalmai lehetnek, ide hallani a fogak csikorgását}
 {5119}{}{ és mivel nem védi páncélzat, az amazon földre kerül}
@@ -563,7 +563,7 @@
 {5127}{}{, inflicting some extra pain}
 {5128}{}{, causing blindness. She grimaces}
 {5129}{}{. With no protection there, it causes serious pain}
-{5130}{}{. Szemgolyója valósággal kirobbant az üregébõl. Többé már soha nem fog látni}
+{5130}{}{. Szemgolyója valósággal kirobbant az üregéb?l. Többé már soha nem fog látni}
 {5131}{}{. Felsikít és ájultan zuhan a földre}
 {5132}{}{. Sadly, she doesn't get to pray to her gods before she meets them}
 {5133}{}{. Ez tuti, hogy fájt}
@@ -583,42 +583,42 @@
 {5211}{}{. Nagyot visít a szerencsétlen}
 {5212}{}{. A létfontosságú szerveire mért ütésed elintézi a kis taknyost}
 {5213}{}{. Összeroskad a szerencsétlen}
-{5214}{}{. Õ már soha nem tudja meg, milyen felnõttnek lenni}
+{5214}{}{. ? már soha nem tudja meg, milyen feln?ttnek lenni}
 {5215}{}{. Rettenetesen vérzik}
 {5216}{}{. Eltörik a lába, és sírva a földre zuhan}
 {5217}{}{. Túl nagy seb ez egy ilyen kis emberkének}
 {5218}{}{. Rádnéz a nagy szemeivel és bömbölni kezd}
 {5219}{}{ és megvakul}
 {5220}{}{. Betörik az az aranyos, pisze orra}
-{5221}{}{. A vér buzogva tör elõ a sebbõl}
-{5222}{}{. A szeme úgy durran szét, mint egy túlérett szõlõszem. Zavartnak tünik}
+{5221}{}{. A vér buzogva tör el? a sebb?l}
+{5222}{}{. A szeme úgy durran szét, mint egy túlérett sz?l?szem. Zavartnak tünik}
 {5223}{}{, causing blindness. The young child drops to the ground}
 {5224}{}{ Semmi sem állta útját az aprócska agy felé}
 {5225}{}{. Össze van zavarodva és reszket}
 {5226}{}{és a földre kerül}
 {5300}{}{, megsebezve az óriási mutánst}
 {5301}{}{, egy létfontosságú pontot sért meg}
-{5302}{}{, egy létfontosságú ponton kap sebet, amitõl a mutáns padlóra kerül}
+{5302}{}{, egy létfontosságú ponton kap sebet, amit?l a mutáns padlóra kerül}
 {5303}{}{. Az óriás mutáns egy pillanatra körbenéz, utána földre zuhan}
 {5304}{}{. A feje úgy robban szét, mint egy bazinagy vérnarancs}
 {5305}{}{, súlyosan megsebzi a hatalmas óriást}
 {5306}{}{, az óriás közben az egész galaxist szidja magában}
-{5307}{}{, épp egy ideget talál el, amitõl az óriás üvöltve markolja meg a karját}
-{5308}{}{. A lövéstõl eltörik a könyöke és valószínûleg nem esik túl jól neki}
+{5307}{}{, épp egy ideget talál el, amit?l az óriás üvöltve markolja meg a karját}
+{5308}{}{. A lövést?l eltörik a könyöke és valószín?leg nem esik túl jól neki}
 {5309}{}{, vastag karja eltörik, és a mutáns vére kifröccsen a földre}
-{5310}{}{, amitõl az óriás kótyagos lesz egy pillanatra, majd kidõl, akár egy fa}
+{5310}{}{, amit?l az óriás kótyagos lesz egy pillanatra, majd kid?l, akár egy fa}
 {5311}{}{, and gallons of viscera spurt to the ground}
-{5312}{}{, amitõl az óriás padlót fog}
+{5312}{}{, amit?l az óriás padlót fog}
 {5313}{}{. A mutáns botorkál, majd elesik, a lába már alig bírja}
 {5314}{}{ és egy létfontosságú pontot talál el. A mutáns a törött lábára roskad}
-{5315}{}{. Törött lábának fájdalma legyûri a szörnyeteget}
+{5315}{}{. Törött lábának fájdalma legy?ri a szörnyeteget}
 {5316}{}{, ez majdnem vakká teszi}
 {5317}{}{, megvakítja a közben eléggé feldühödött mutánst}
 {5318}{}{ és majdnem meg is vakítja a teremtményt, de így csak az egyensúlyából billenti ki}
-{5319}{}{. A világát vesztett szörny össze-vissza kódorog, nincs felkészülve a következõ támadásra}
+{5319}{}{. A világát vesztett szörny össze-vissza kódorog, nincs felkészülve a következ? támadásra}
 {5320}{}{ és megvakítja a most már eszméletlen vadállatot}
 {5321}{}{. A mutáns szemei kigyúlnak egy pillanatra, aztán kihuny a fény... végleg}
-{5400}{}{. A ghoul meglepõdik és képtelen kivédeni ezt a támadást}
+{5400}{}{. A ghoul meglep?dik és képtelen kivédeni ezt a támadást}
 {5401}{}{. The blow buries this ghoul}
 {5402}{}{. A kábult ghoul keze görcsbe rándul}
 {5403}{}{, áthatolva a páncélon, érzékeny ízületet talál el}
@@ -626,21 +626,21 @@
 {5405}{}{. A ghoul épp rosszkor, rossz irányba mozdult el, ezért elveszíti a szemét}
 {5406}{}{. A ghoul ott épp nem visel páncélt}
 {5407}{}{ és páncélzat híján megvakul}
-{5408}{}{, amitõl az utolsó perceit élõ ghoul teljesen meghökkentõen néz ki}
+{5408}{}{, amit?l az utolsó perceit él? ghoul teljesen meghökkent?en néz ki}
 {5500}{}{, majd padlóra küldi a nagy szörnyeteget}
-{5501}{}{, kisüti mindkét agyát, mire a hatalmas jószág szépen eldõl}
+{5501}{}{, kisüti mindkét agyát, mire a hatalmas jószág szépen eld?l}
 {5502}{}{. A teljesen torzszülött, termetes, tarka tehén teli torokból tajtékzik}
 {5503}{}{, és eltöri a brahmin egyik lábát}
 {5504}{}{, ez súlyosan megsebesíti a mutálódott bocikát}
 {5505}{}{, könnyedén lyukasztja ki az óriási barom vékony irháját}
 {5506}{}{ és végigszáguld a mutáns marha mindkét szívén}
-{5507}{}{, s eme egyszerû támadástól mindkét pár szeme megvakul}
+{5507}{}{, s eme egyszer? támadástól mindkét pár szeme megvakul}
 {5508}{}{, ez megvakítja mindkét fejét és kiüti a mutáns bocit}
-{5509}{}{, ami teljesen megvakítja a brahmint és egyúttal harcképtelenné teszi õt}
+{5509}{}{, ami teljesen megvakítja a brahmint és egyúttal harcképtelenné teszi ?t}
 {5510}{}{. The large mutant bovine stumbles for a moment}
-{5511}{}{. A brahmin remeg a dühtõl}
+{5511}{}{. A brahmin remeg a düht?l}
 {5512}{}{. A brahmin fájdalmason fújtat}
-{5513}{}{. Egy brahmin akkor idegesíthetõ fel a legjobban, ha a tõgyére mérünk megsemmisítõ csapást}
+{5513}{}{. Egy brahmin akkor idegesíthet? fel a legjobban, ha a t?gyére mérünk megsemmisít? csapást}
 {5600}{}{, sending the Radscorpion flying on its back}
 {5601}{}{, leszakadt a feje}
 {5602}{}{, megsérült a farka}
@@ -648,7 +648,7 @@
 {5604}{}{. A lövedék a páncél repedésébe csapódott}
 {5605}{}{, és megrepedt a kemény páncélja}
 {5606}{}{, és elterült a földön}
-{5607}{}{. Nem tud megbirkózni az olyan újszerû érzéssel, mint például a zsigerek hiánya}
+{5607}{}{. Nem tud megbirkózni az olyan újszer? érzéssel, mint például a zsigerek hiánya}
 {5608}{}{, sending the 'scorpion flying and crippling some of its legs}
 {5609}{}{. A támadás átvágta az ízületeket}
 {5610}{}{, és megvakult}
@@ -661,38 +661,38 @@
 {5700}{}{. A rágcsáló vinnyog kínjában.}
 {5701}{}{. Beszakadt a koponyája}
 {5702}{}{, bal mancsa élettelenül fityeg}
-{5703}{}{. A testrész szabályosan lerobbant a helyérõl}
+{5703}{}{. A testrész szabályosan lerobbant a helyér?l}
 {5704}{}{. A jobb mancsa véres péppé zúzódott}
 {5705}{}{. Leszakadt a jobb mancsa.}
 {5706}{}{. Belei szanaszét fröccsentek}
 {5707}{}{. A nyomorult nyüszít félelmében.}
-{5708}{}{. Az állat szétkenõdik a padlón}
+{5708}{}{. Az állat szétken?dik a padlón}
 {5709}{}{, leszakadt a jobb lába}
-{5710}{}{. Kiszakadt egy nagy darab hús a testébõl}
-{5711}{}{. Szörnyû kínjai lehettek}
+{5710}{}{. Kiszakadt egy nagy darab hús a testéb?l}
+{5711}{}{. Szörny? kínjai lehettek}
 {5712}{}{ és hamarosan találkozik a nagy, mennyei egérfogóval}
 {5800}{}{. The floater drops to the ground}
 {5801}{}{. The floater falls to the ground, seemingly lifeless}
 {5802}{}{, with serious consequences to the creature's continued existence}
-{5803}{}{, amitõl az aljas szörny elalszik szépen}
-{5804}{}{, ez a lebegõ gyenge pontját találta el, és el is ájult tõle}
-{5805}{}{. A lebegõt elönti a vér a csapástól és vadul remegni kezd}
+{5803}{}{, amit?l az aljas szörny elalszik szépen}
+{5804}{}{, ez a lebeg? gyenge pontját találta el, és el is ájult t?le}
+{5805}{}{. A lebeg?t elönti a vér a csapástól és vadul remegni kezd}
 {5806}{}{. The blow causing some sort of violent reaction in the creature}
-{5807}{}{. És a lebegõ hirtelen lángokba borul}
+{5807}{}{. És a lebeg? hirtelen lángokba borul}
 {5808}{}{. It jerks wildly and quivers like a pudding surprise}
 {5809}{}{ és a lövés valami érzékeny pontot talál el}
-{5810}{}{. A teremtmény nyilvánvaló módon felbõszült kissé}
+{5810}{}{. A teremtmény nyilvánvaló módon felb?szült kissé}
 {5900}{}{. Pushed like a bad habit, the centaur falls over and is stunned}
 {5901}{}{ amint a csapás egy érzékeny pontot talál el}
 {5902}{}{, causing massive neurological failure}
-{5903}{}{, és elkábul az erõszakos támadásodtól}
-{5904}{}{ és letépõdik a karja}
+{5903}{}{, és elkábul az er?szakos támadásodtól}
+{5904}{}{ és letép?dik a karja}
 {5905}{}{, striking a critical spot. The arm is crippled}
 {5906}{}{, majd hátraveti a kreatúrát, és leviszi az egyik lábát}
 {5907}{}{, majd amint láb nélkül hátra borul, elkábul a lovacska.}
 {5908}{}{, megvakít egy fejet}
-{5909}{}{, ez meglepi õkentauraságát. Egy pillanatig vakon botladozik}
-{5910}{}{, ettõl kicsit megilletõdik kenta úr, majd összeroskad}
+{5909}{}{, ez meglepi ?kentauraságát. Egy pillanatig vakon botladozik}
+{5910}{}{, ett?l kicsit megillet?dik kenta úr, majd összeroskad}
 {5911}{}{, a kentapaci elcsodálkozik, majd egy rakás trutyivá aszalódik össze}
 {5912}{}{. A támadás nem volt olyan hatásos, amennyire lehetett volna}
 {6000}{}{. Néhány fontos alkatrésze megrongálódott}
@@ -709,7 +709,7 @@
 {6011}{}{. Megpróbál utánszabályozni, de nem sikerül neki és lehuppan a földre}
 {6012}{}{. A masina nem bírja ezt a terhelést, és a földre omlik}
 {6013}{}{ és kiégett az egyik áramköre}
-{6100}{}{, amitõl a kutyuli a földön végzi}
+{6100}{}{, amit?l a kutyuli a földön végzi}
 {6101}{}{, egyenesen át a pofáján}
 {6102}{}{. A kutya elvágódik, de még mindig lélegzik}
 {6103}{}{. The animal coughs up a spurt of blood}
@@ -728,55 +728,55 @@
 {6208}{}{, leszakítja a szárnyait}
 {6209}{}{, ami átüti a kitinpáncélt és hátraveti a csápost}
 {6210}{}{, megvakítva a rovart egy pontos csapás révén}
-{6300}{}{. Úgy tûnik, még ez a szörnyeteg is megzavarodott ettõl a kábító támadástól}
+{6300}{}{. Úgy t?nik, még ez a szörnyeteg is megzavarodott ett?l a kábító támadástól}
 {6301}{}{ és átszakítva a hatalmas karmokat egyenesen a szörnyet találja el. A halálkarom megremeg és dühödten morog}
 {6302}{}{. A támadás következtében a halálkarom szemeit súlyos sérülés éri}
 {6400}{}{, áthatol a növény védelmén}
 {6401}{}{. Egy-két levelét sikerült jól megtépázni}
 {6402}{}{, megcibálja a lombozatát}
 {6403}{}{, eltalálja a levelét}
-{6404}{}{, kiszóródik belõle a virágpor}
+{6404}{}{, kiszóródik bel?le a virágpor}
 {6405}{}{, ez majdnem felborítja}
 {6406}{}{, megsebesíti az ágait}
 {6500}{}{. Holnap kissé kótyagos lesz a fejed, már ha megéred...}
-{6501}{}{. A páncélzatod nem nyújt kellõ védelmet a jól irányzott lövés ellen}
+{6501}{}{. A páncélzatod nem nyújt kell? védelmet a jól irányzott lövés ellen}
 {6502}{}{. Csak egy pillanatig érzel fájdalmat, majd magába ölel az örök sötétség}
 {6503}{}{ és behorpadt a páncélzatod. A földre zuhantál}
 {6504}{}{. The shock makes your vision go dark. After a moment, you notice that your vision has not returned}
-{6505}{}{. Amint azt az éppen tovaszálló fejedbõl nézve megállapítod, nagyon szép tested van}
+{6505}{}{. Amint azt az éppen tovaszálló fejedb?l nézve megállapítod, nagyon szép tested van}
 {6506}{}{. Meglepetésedre a sérülés nem veszélyes}
 {6507}{}{, egy pillanatra megállít}
 {6508}{}{. Érzed a kínt}
 {6509}{}{. A támadás használhatatlanná teszi a karodat}
 {6510}{}{ és átmegy a páncélzaton. A csapás ripityára töri a karod csontjait}
-{6511}{}{, ami átviszi a páncélodat. A karod most már csak fityegõnek jó az oldaladon}
-{6512}{}{. A heg örökre megmarad, de legalább lesz mirõl mesélned}
-{6513}{}{, ettõl szétrobbannak a zsigereid. Nem tudsz mást tenni, csak vért öklendezni}
+{6511}{}{, ami átviszi a páncélodat. A karod most már csak fityeg?nek jó az oldaladon}
+{6512}{}{. A heg örökre megmarad, de legalább lesz mir?l mesélned}
+{6513}{}{, ett?l szétrobbannak a zsigereid. Nem tudsz mást tenni, csak vért öklendezni}
 {6514}{}{, sending you head over heels}
 {6515}{}{, hátrarepít és eltöri a lábad}
 {6516}{}{, átolvasztja a páncélzatodat. A lövés ledönt a lábadról és súlyosan felsérti a térded}
-{6517}{}{. A törött lábad lüktetõ fájdalmától elájulsz}
+{6517}{}{. A törött lábad lüktet? fájdalmától elájulsz}
 {6518}{}{. A fájdalmas csapástól összerándul az arcod, de csak egy kicsit}
 {6519}{}{. Unluckily for you, it also causes immediate vision loss}
-{6520}{}{. Egy pillanatig tart csak, amíg kitörlöd a vért a szemedbõl}
+{6520}{}{. Egy pillanatig tart csak, amíg kitörlöd a vért a szemedb?l}
 {6521}{}{ és áthatol a páncélzatodon. Ahogy szép lassan tudatosul benned az örök vakság, bénultan állsz}
-{6522}{}{. Furcsa érzés fut át az agyadon. Rájössz, hogy ez a közelgõ agyhalál}
-{6523}{}{, ettõl aztán összegörnyedsz}
+{6522}{}{. Furcsa érzés fut át az agyadon. Rájössz, hogy ez a közelg? agyhalál}
+{6523}{}{, ett?l aztán összegörnyedsz}
 {6524}{}{. Megmarkolod a lágyékodat és fájdalmasan fetrengve zuhansz a padlóra}
 {6525}{}{. Ez a kín épp elég, hogy elkábulj. Aaaú}
 {6526}{}{. There are not enough words in the universe to describe the pain you are feeling at this moment}
 {6700}{}{, vére a földre fröccsen}
-{6701}{}{. A nyálkás bõre felszakadt}
+{6701}{}{. A nyálkás b?re felszakadt}
 {6702}{}{. Eltörött néhány ujja}
 {6703}{}{. Elakadt a lélegzete}
-{6704}{}{ és valami nyálkás trutymó ömlik ki belõle}
+{6704}{}{ és valami nyálkás trutymó ömlik ki bel?le}
 {6705}{}{, ez majdnem felborítja}
 {6706}{}{ és megsérült a végtagja}
 {6800}{}{, átmegy a lény páncélján}
-{6801}{}{, szétkeni a rajta levõ trutyit}
+{6801}{}{, szétkeni a rajta lev? trutyit}
 {6802}{}{, péppé zúzza néhány szívókáját}
 {6803}{}{, megsérti a lég(?)csövét}
-{6804}{}{ és valami undorító lé jön ki belõle}
+{6804}{}{ és valami undorító lé jön ki bel?le}
 {6805}{}{, ez majdnem felborítja}
 {6806}{}{, sebet ejt a csápjain}
 {6900}{}{, áttöri a hangya páncélját}
@@ -793,10 +793,10 @@
 {7004}{}{, egy parányit kiüti}
 {7005}{}{, ez majdnem felborítja}
 {7006}{}{, felsérti a páncélját}
-{7100}{}{, átrobbantva a testõr páncélzatát}
-{7101}{}{, amitõl a testõr térdre zuhant}
+{7100}{}{, átrobbantva a test?r páncélzatát}
+{7101}{}{, amit?l a test?r térdre zuhant}
 {7102}{}{, ami beleroncsolt a karját mozgató mechanikába}
 {7103}{}{, ami megrongálta a lábmozgató motorjait}
-{7104}{}{, így a bionikus szemébõl csak úgy hullanak a darabok}
+{7104}{}{, így a bionikus szeméb?l csak úgy hullanak a darabok}
 {7105}{}{, causing him to pause and shake off your massive attack}
-{7106}{}{. A sérülés némileg összegyûrte a mellkas fém borítását}
+{7106}{}{. A sérülés némileg összegy?rte a mellkas fém borítását}

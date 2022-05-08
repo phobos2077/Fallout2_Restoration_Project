@@ -1,6 +1,6 @@
 {100}{}{You see a small boy.}
 {101}{}{You see Jonny.}
-{102}{}{Szõke haj, kék szem, õ a tipikus amerikai kinézetû srác.}
+{102}{}{Sz?ke haj, kék szem, ? a tipikus amerikai kinézet? srác.}
 {150}{}{Vhááá!}
 {151}{}{Vissza akarom kapni a kutyámat!}
 {152}{}{Whimper... }
@@ -27,7 +27,7 @@
 {179}{}{[Rád mutat és sikítani kezd.] Idegen! Idegen! Idegen!}
 {180}{}{Nagyon örülök, hogy találkoztunk, }
 {181}{}{ vagyok.}
-{182}{}{Még találkozunk, gyerkõc...}
+{182}{}{Még találkozunk, gyerk?c...}
 {183}{}{That's swell! I wanted to go home, but Vegeir says his people can't travel that far above
  ground and wouldn't take me... Not that I doubt you, but what's my father's name?}
 {184}{}{Farrel.}
@@ -48,7 +48,7 @@
 {200}{}{Igen, azt hiszem, ez a legjobb. Habár én hiszek neked, Vegeir szeretné tudni, hogy biztonságban hazaérek-e. Kösz, hogy segítettél.}
 {201}{}{Légyszi, siess. Haza akarok menni.}
 {202}{}{Nem! Nem hiszek neked! Add vissza a kutyámat! [Vahaaha!]}
-{203}{}{Oh, ne! Nem tudtad, hogy Rose kutyából is fõz kaját? Öcsi is biztos már a fazékban úszkál.}
+{203}{}{Oh, ne! Nem tudtad, hogy Rose kutyából is f?z kaját? Öcsi is biztos már a fazékban úszkál.}
 {300}{}{Öcsi!!!}
 {400}{}{Kösz, hogy megmentettél nagyfiú.}
 {401}{}{Jó otthon lenni!}

@@ -13,7 +13,7 @@
 {330}{}{Mit csináltunk rosszul?}
 {331}{}{Hagyj minket békén, hajcsár!}
 {332}{}{Ne bánts!}
-{333}{}{Takarodj a szemem elõl!}
+{333}{}{Takarodj a szemem el?l!}
 {350}{}{Te ki?}
 {351}{}{Te nem vagy rabszolga-hajcsár.}
 {352}{}{Nem bántasz?}

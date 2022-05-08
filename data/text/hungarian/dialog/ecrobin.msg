@@ -3,7 +3,7 @@
 {102}{}{Úgy néz ki, mint aki bármelyik pillanatban elrohanhat.}
 {103}{}{Sir Robin, szolgálatodra.}
 {104}{}{Remélem, nem áll szándékodban bántani...}
-{105}{}{Ugye semmi szükség az erõszakra?}
+{105}{}{Ugye semmi szükség az er?szakra?}
 {106}{}{Kérlek, távozz!}
 {200}{}{Hé, jéghidegek a kezeid!}
 {201}{}{Az nem a tied!}

@@ -1,7 +1,7 @@
 {100}{}{Ez itt a jó öreg bamba Algernon.}
-{101}{}{Õ Algernon.}
-{150}{}{Egy mocskos, bamba képû fickót látsz. Ide-oda dülöngél álltában, és halk füttyszerû hangokat hallat.}
-{151}{}{Õ Algernon. Úgy néz ki, mint aki fejben Wing Commander-ezik.}
+{101}{}{? Algernon.}
+{150}{}{Egy mocskos, bamba kép? fickót látsz. Ide-oda dülöngél álltában, és halk füttyszer? hangokat hallat.}
+{151}{}{? Algernon. Úgy néz ki, mint aki fejben Wing Commander-ezik.}
 {200}{}{Tyúú... Tyúú...}
 {201}{}{Paff!}
 {202}{}{Dzang! Dzang!}
@@ -18,17 +18,17 @@
 {213}{}{Rata-tata-tata}
 {214}{}{Baaaammmm!}
 {220}{}{(Algernon rádnéz, és csukott szájjal elmosolyodik.) Bumm! }
-{221}{}{(A bamba képû ifjonc csukott szájjal rádmosolyog. Pólójára egy cetlit tûztek, melyre dõlt betûkkel azt írták: Algernon.) Bamm! }
+{221}{}{(A bamba kép? ifjonc csukott szájjal rádmosolyog. Pólójára egy cetlit t?ztek, melyre d?lt bet?kkel azt írták: Algernon.) Bamm! }
 {222}{}{(Amikor meglátja a fegyvereidet, izgatottan kezd rájuk mutogatni.) Bumm!}
 {223}{}{Bumm!}
 {224}{}{Eloldalogsz.}
-{225}{}{Hé... meg akarod közelebbrõl nézni valamelyik fegyveremet?}
+{225}{}{Hé... meg akarod közelebbr?l nézni valamelyik fegyveremet?}
 {226}{}{Jaja, jó "bumm"-ot neked is. Algernon barátom, nem tudnád itt valamelyik cuccomat megtuningolni?}
 {227}{}{Öö... most nincs "bumm", köszi. Csá.}
-{230}{}{Höh! Hö-höh! (Algernon gurgulázó nevetést ad ki magából, aztán kezébõl pisztolyt formálva rádmutat.) Bamm! Bamm!}
-{231}{}{Nem talá't! Nem talá't! Ezt kapold ki he! (Te is pisztolyt formálsz a kezedbõl és rácélzol.) Paff! Paff!}
+{230}{}{Höh! Hö-höh! (Algernon gurgulázó nevetést ad ki magából, aztán kezéb?l pisztolyt formálva rádmutat.) Bamm! Bamm!}
+{231}{}{Nem talá't! Nem talá't! Ezt kapold ki he! (Te is pisztolyt formálsz a kezedb?l és rácélzol.) Paff! Paff!}
 {232}{}{Ööö... Meghóttam. Menek most jobb hely}
-{235}{}{(Algernon arca eltorzul, aztán lassan odanéz, ahova "lõttél", hirtelen az egész teste megrándul, szemei kiakadnak, és holtan rogy össze.)}
+{235}{}{(Algernon arca eltorzul, aztán lassan odanéz, ahova "l?ttél", hirtelen az egész teste megrándul, szemei kiakadnak, és holtan rogy össze.)}
 {236}{}{Öö, Al? Vagyol jól?}
 {237}{}{Hmmmm... hmmm...}
 {240}{}{(A srác nem mozdul.)}
@@ -50,7 +50,7 @@
 {268}{}{A Wattz 1000 lézerpisztoly.}
 {269}{}{A Glock 86-os Plazma Pisztoly.}
 {270}{}{Kutatsz a cuccaid között, és valami mással próbálkozol...}
-{271}{}{Rá se ránts, Al. Késõbb találkozunk.}
+{271}{}{Rá se ránts, Al. Kés?bb találkozunk.}
 {272}{}{Rá se ránts, kölyök... ma nincs játékom a számodra. Csá.}
 {276}{}{A Colt vadászpuskád.}
 {277}{}{Az AK-112 gépkarabélyod.}
@@ -58,8 +58,8 @@
 {279}{}{A Wattz 2000 lézer puskád.}
 {280}{}{A Flambe 450-es lángszóród.}
 {281}{}{A Plazma puskád.}
-{291}{}{Akarsz egyet ebbõl a lángszóró üzemanyagból?}
+{291}{}{Akarsz egyet ebb?l a lángszóró üzemanyagból?}
 {292}{}{Itt van egy kis lángszóró üzemanyag. Tudsz vele kezdeni valamit?}
-{301}{}{Nekiadod az ösztökédet. Ööö... miután meggyõzõdtél róla, hogy a fogantyújánál veszi kézbe.}
+{301}{}{Nekiadod az ösztökédet. Ööö... miután meggy?z?dtél róla, hogy a fogantyújánál veszi kézbe.}
 {302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
 {400}{}{Én megöl Al. Jobb ha menek elfele}

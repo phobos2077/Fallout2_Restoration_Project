@@ -18,7 +18,7 @@
  through here since the war, and, here's the real kicker: were you to actually request toast, I'm not even sure I'd be up
  for the task. You see, I'm feeling a little under the weather inside. It's rather embarrassing, really.}
 {251}{}{That's, uh, quite tragic. So, why are you here?}
-{252}{}{Értem. Kösz, hogy idõt szakítottál rám.}
+{252}{}{Értem. Kösz, hogy id?t szakítottál rám.}
 {260}{}{I think he had a consignment of gas masks brought in before the accident. Some people even said that it was his errors that caused the problem in the first place.}
 {261}{}{So, why are you here?}
 {262}{}{Köszönöm az információkat.}

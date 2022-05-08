@@ -123,11 +123,11 @@
 {570}{}{I need them put down, and you look more than capable of the task.}
 {571}{}{Why don't you send these, uh, more successful ones in there to take care of them?}
 {572}{}{Sounds fun. I'll do it.}
-{573}{}{Mi esik le nekem ebbõl?}
+{573}{}{Mi esik le nekem ebb?l?}
 {574}{}{I'm not interested in cleaning up your messes.}
 {580}{}{They will not attack their own. They understand why I must now dispose of their less-fortunate brethren, but they will not carry out the task themselves. That left me in a rather delicate situation. Which is why I was so pleased to learn of your approach. So, will you assist me?}
 {581}{}{All right. I'll do it.}
-{582}{}{Mi esik le nekem ebbõl?}
+{582}{}{Mi esik le nekem ebb?l?}
 {583}{}{I'm not interested in cleaning up your messes.}
 {590}{}{The laboratory is right up there to the north. The sentry will let you through. Be careful. These creatures are incredibly strong, so try not to let them get too close. Oh, and beware of the poisonous spore they shoot out. But do not worry. I have an antidote, should you get poisoned.}
 {591}{}{Okay. I'll be back.}

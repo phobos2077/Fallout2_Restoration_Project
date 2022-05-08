@@ -3,6 +3,6 @@
 {152}{}{Ez a mi földünk!}
 {153}{}{Az ég szellemei sújtsanak!}
 {154}{}{A föld szelleme nyeljen el téged!}
-{155}{}{Fújjanak ocsmányt bûzt feléd a szél szellemei!}
+{155}{}{Fújjanak ocsmányt b?zt feléd a szél szellemei!}
 {156}{}{Hagyjanak cserben a víz szellemei!}
-{157}{}{A nagy tûzszellemek hozzanak átkot rád!}
+{157}{}{A nagy t?zszellemek hozzanak átkot rád!}

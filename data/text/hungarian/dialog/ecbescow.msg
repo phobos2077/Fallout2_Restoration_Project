@@ -1,1 +1,1 @@
-{100}{}{Valószínûleg a kiszáradástól pusztult el.}
+{100}{}{Valószín?leg a kiszáradástól pusztult el.}

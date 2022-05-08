@@ -3,7 +3,7 @@
 {102}{}{Run diagnostic check.}
 {103}{}{Távozol.}
 {104}{}{!ERROR! !ERROR! PROBLEM ENCOUNTERED TERMINATING SEQUENCE!}
-{105}{}{Visszatérés a Fõmenübe}
+{105}{}{Visszatérés a F?menübe}
 {106}{}{Diagnostic Check... circuit board error....section four... loose wiring.}
 {107}{}{[Kész]}
 {108}{}{It's too difficult to repair this.}

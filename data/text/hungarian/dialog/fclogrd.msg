@@ -1,6 +1,6 @@
-{100}{}{Egy lazaöltözékû õr. Unatkozik ugyan, de a figyelme nem lanyhul.}
-{101}{}{Palotaõr.}
-{102}{}{Palotaõr.}
+{100}{}{Egy lazaöltözék? ?r. Unatkozik ugyan, de a figyelme nem lanyhul.}
+{101}{}{Palota?r.}
+{102}{}{Palota?r.}
 {103}{}{Menjen tovább! Úgy nem lesz semmi gond.}
 {104}{}{Van itt valami dolga?}
 {105}{}{Szemmel tartjuk magát!}

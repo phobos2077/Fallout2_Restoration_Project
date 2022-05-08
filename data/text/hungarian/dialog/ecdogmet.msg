@@ -1,18 +1,18 @@
 {100}{}{Ez a kutya naggggggyon ádáz fajta.}
 {101}{}{Dogmeat.}
 {102}{}{Dogmeat.}
-{103}{}{Amikor a kutya meglátja a Menedék kezeslábasát, szûkölni kezd. Úgy tûnik, melléd akar szegõdni.}
+{103}{}{Amikor a kutya meglátja a Menedék kezeslábasát, sz?kölni kezd. Úgy t?nik, melléd akar szeg?dni.}
 {104}{}{[Füttyentesz]}
 {105}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
 {106}{}{Nem-nem, kutyuli. Maradol!}
-{107}{}{Na, gyere komám! Itt az idõ, hogy szétcsapjunk azok közt, akik megérdemlik!}
+{107}{}{Na, gyere komám! Itt az id?, hogy szétcsapjunk azok közt, akik megérdemlik!}
 {108}{}{Te csak ne aggódj, koma! Amint lesz hely a csapatban, visszajövök érted.}
 {109}{}{Bocsesz, Dogmeat. Most nem lehet.}
 {110}{}{A kutya torkos módon bekebelezi a nyársas iguanát, utána várakozóan néz rád...}
 {111}{}{[Füttyentesz]}
 {112}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
 {113}{}{Nem-nem, kutyuli. Maradol!}
-{114}{}{Na, gyere komám! Itt az idõ, hogy szétcsapjunk azok közt, akik megérdemlik!}
+{114}{}{Na, gyere komám! Itt az id?, hogy szétcsapjunk azok közt, akik megérdemlik!}
 {115}{}{Te csak ne aggódj, koma! Amint lesz hely a csapatban, visszajövök érted.}
 {116}{}{Bocsesz, Dogmeat. Most nem lehet.}
 {117}{}{Ez a kutya naggggggyon ádáz fajta.}
@@ -20,7 +20,7 @@
 {119}{}{Talán jöhetel velem, ha lenni több hej csapatba'.}
 {120}{}{Maradol, kutyuli, ne mozdujj!}
 {121}{}{[Elcsoszogsz]}
-{122}{}{Na, gyere komám! Itt az idõ, hogy szétcsapjunk azok közt, akik megérdemlik!}
+{122}{}{Na, gyere komám! Itt az id?, hogy szétcsapjunk azok közt, akik megérdemlik!}
 {123}{}{Visszajövök érted, amint lesz hely a csapatomban.}
 {124}{}{Ragadj rám! Értesz engem?}
 {125}{}{Tarts közepes távolságot, Dogmeat!}

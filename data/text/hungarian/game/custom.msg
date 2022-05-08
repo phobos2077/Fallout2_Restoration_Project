@@ -26,11 +26,11 @@
 {305}{}{Pusztakezes.}
 {400}{}{Maradj mellettem!}
 {401}{}{Roham!}
-{402}{}{Maradj távol az ellenségtõl!}
+{402}{}{Maradj távol az ellenségt?l!}
 {403}{}{Ahogy neked tetszik.}
 {404}{}{Maradj ahol vagy!}
 {500}{}{Whoever is attacking me}
-{501}{}{A legerõsebbet.}
+{501}{}{A leger?sebbet.}
 {502}{}{A leggyengébbet.}
 {503}{}{Akit akarsz.}
 {504}{}{Whoever is closest}

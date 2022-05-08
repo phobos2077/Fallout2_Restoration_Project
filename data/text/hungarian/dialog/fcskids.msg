@@ -1,7 +1,7 @@
 {100}{}{Egy kiskölyök.}
 {101}{}{Egy gyerek.}
 {102}{}{Ez a gyerek pont úgy néz ki, mint a többi.}
-{103}{}{Hitványnak tûnsz...}
+{103}{}{Hitványnak t?nsz...}
 {104}{}{Ne bánts, jó?}
 {105}{}{Mi baj a szemeddel?}
 {106}{}{Ez egy lao wai?}
@@ -9,16 +9,16 @@
 {108}{}{Szeret téged itt valaki?}
 {109}{}{Ugye nem akarod a papát meg a mamát bántani?}
 {110}{}{Most megyek játszani.}
-{111}{}{Haha! Négyszemû!}
+{111}{}{Haha! Négyszem?!}
 {112}{}{Gyökér-riadó! Gyökér-riadó!}
 {113}{}{::a kölyök szeme elkerekedik, amint meglátja az elhaladó Marcust::}
-{114}{}{Hû, milyen nagy darab úriember!}
+{114}{}{H?, milyen nagy darab úriember!}
 {115}{}{Az a férfi miért visel szoknyát?}
 {116}{}{Az a férfi kislány akar lenni?}
 {117}{}{Jujj! Törzsbéli!}
 {118}{}{Hé, miszter! Dákó van az orrában!}
 {119}{}{Jujj! Zombi!}
-{120}{}{Mami, ez az ember fertõz?}
+{120}{}{Mami, ez az ember fert?z?}
 {121}{}{Kutyuli! Jó kutya vagy!}
 {122}{}{Jujj! Egy szörny!}
 {123}{}{Némmá ezt a béna koloncot!}

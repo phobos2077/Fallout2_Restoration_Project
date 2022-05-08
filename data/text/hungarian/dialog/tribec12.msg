@@ -36,7 +36,7 @@
 {301}{}{Alright, finally! Let's hear it.}
 {302}{}{Not interested, old man. Bye.}
 {310}{}{[He takes a big hit off his pipe, then closes his eyes. After a moment, he nods.] Yes. I see the Great Bear spirit has guided your quest, breathing new life into old bones. Others as well. Perhaps they've come to you in a vision. Come from far, far away... where mutants are not allowed.}
-{311}{}{Mi a fenérõl beszélsz?}
+{311}{}{Mi a fenér?l beszélsz?}
 {312}{}{Yeah yeah, I got the Star Wars special encounter. Don't tell me that's the final great secret.}
 {320}{}{The final secret... the greatest secret in the entire game... is, [As he does a dramatic pause, he takes another hit off his pipe. Suddenly, the pipe slips from his hands and falls into his robes, instantly igniting him in flames.]}
 {321}{}{Fuck!}

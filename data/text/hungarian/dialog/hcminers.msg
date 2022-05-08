@@ -1,6 +1,6 @@
 {100}{}{Egy mutánst látsz koszos ruhában. Kezében csákányt tart.}
 {101}{}{Egy mutáns bányász.}
-{102}{}{Egy mutánst látsz koszos ruhában. Kezében jókora csákány. A tenyerén lévõ bõrkeményedésekbõl és a fáradt ábrázatából arra következtetsz, hogy egy bányászhoz van szerencséd. Fáradtnak és zavarodottnak tûnik.}
+{102}{}{Egy mutánst látsz koszos ruhában. Kezében jókora csákány. A tenyerén lév? b?rkeményedésekb?l és a fáradt ábrázatából arra következtetsz, hogy egy bányászhoz van szerencséd. Fáradtnak és zavarodottnak t?nik.}
 {103}{}{Mit akarsz?}
 {104}{}{Ag-ag! Úúú!}
 {105}{}{Ork! Úkí!}
@@ -22,19 +22,19 @@
 {119}{}{Igen.}
 {120}{}{Nem.}
 {121}{}{Viszlát!}
-{122}{}{Hát, a város irányítói Marcus, aki afféle seriff és polgármester egy személyben, Zaius, aki a bánya munkavezetõje és Chad, aki a karavánokat felügyeli. Phil, a kocsmáros, pedig a ghoulok vezetõje, asszem... ha egyáltalán van vezetõjük. Ki is vagy te?}
+{122}{}{Hát, a város irányítói Marcus, aki afféle seriff és polgármester egy személyben, Zaius, aki a bánya munkavezet?je és Chad, aki a karavánokat felügyeli. Phil, a kocsmáros, pedig a ghoulok vezet?je, asszem... ha egyáltalán van vezet?jük. Ki is vagy te?}
 {123}{}{Hol találom Marcust?}
 {124}{}{Hol találom Zaiust?}
 {125}{}{Hol találom Cameront?}
 {126}{}{Merre van Chad?}
 {127}{}{Merre van Phil?}
 {128}{}{Kösz. Viszlát!}
-{129}{}{Ha úgy gondolod, hogy tudnál segíteni a bányánál, akkor beszélj Zaiusszal! Többnyire a munkavezetõ házában van a bánya mellett. Elég rosszkedvû, mert elromlott a bánya légtisztítója. Van más kérdésed?}
-{130}{}{Phil, a ghoul, vezeti a kocsmát. Õ amolyan szószólója a városi ghouloknak. Megtalálhatod a banktól keletre. Kiváncsi vagy még valamire?}
+{129}{}{Ha úgy gondolod, hogy tudnál segíteni a bányánál, akkor beszélj Zaiusszal! Többnyire a munkavezet? házában van a bánya mellett. Elég rosszkedv?, mert elromlott a bánya légtisztítója. Van más kérdésed?}
+{130}{}{Phil, a ghoul, vezeti a kocsmát. ? amolyan szószólója a városi ghouloknak. Megtalálhatod a banktól keletre. Kiváncsi vagy még valamire?}
 {131}{}{Chad irányítja a karavánokat a város dél-nyugati részén. Más kérdés?}
-{132}{}{Liz elég rendes, ember létére, õ vezeti a vegyesboltot a banktól nyugatra. Egyéb kérdés?}
+{132}{}{Liz elég rendes, ember létére, ? vezeti a vegyesboltot a banktól nyugatra. Egyéb kérdés?}
 {133}{}{Rendben. Viszlát!}
-{134}{}{Cameron a normális emberek vezetõje. Nem szereti túlzottan a mutánsokat és a ghoulokat, de rendesen bánik velünk. Õ amolyan politikus, szóval vagy a bankban van, vagy a kocsmában. Néha a kovácsmûhelyben dolgozik. Más kérdés? Amúgy hol tartottam? Ja igen... szóval... van még kérdésed?}
+{134}{}{Cameron a normális emberek vezet?je. Nem szereti túlzottan a mutánsokat és a ghoulokat, de rendesen bánik velünk. ? amolyan politikus, szóval vagy a bankban van, vagy a kocsmában. Néha a kovácsm?helyben dolgozik. Más kérdés? Amúgy hol tartottam? Ja igen... szóval... van még kérdésed?}
 {135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
  the jail. Anything else?}
 {136}{}{Kapzsi gané! Tudod, milyen keményen dolgozunk? Rohadj meg!}

@@ -3,8 +3,8 @@
 {300}{}{Sikeresen rajtaütöttél Lara bandáján.}
 {400}{}{Megtaláltad Becky lepárlóját Frankie számára.}
 {500}{}{Összetörted Becky lepárlóját.}
-{600}{}{Meggyõzted Frankie-t, hogy vásároljon Becky-tõl.}
-{700}{}{Túl vagy az elsõ rabszolga-vadászatodon.}
+{600}{}{Meggy?zted Frankie-t, hogy vásároljon Becky-t?l.}
+{700}{}{Túl vagy az els? rabszolga-vadászatodon.}
 {800}{}{You paid Fred's debt off to Rebecca.}
 {900}{}{You returned Rebecca's book.}
 {1000}{}{You returned Anna's locket.}

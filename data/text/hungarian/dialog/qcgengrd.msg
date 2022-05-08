@@ -1,6 +1,6 @@
-{100}{}{Egy erõpáncélt viselõ fickót látsz.}
+{100}{}{Egy er?páncélt visel? fickót látsz.}
 {101}{}{Enklávé katona.}
-{102}{}{Ez a fickó egy igen bonyolultnak tûnõ erõpáncélt visel.}
+{102}{}{Ez a fickó egy igen bonyolultnak t?n? er?páncélt visel.}
 {103}{}{Mi folyik itt?}
 {104}{}{Mozgás!}
 {105}{}{Mit néze'?}
@@ -20,7 +20,7 @@
 {119}{}{Nem hallottad a riadót?}
 {120}{}{Sugárzás és vírus, megint jó napot fogtunk ki!}
 {121}{}{Az ilyen napok miatt néha már fel sem akarok kelni.}
-{122}{}{Minden ellenõrzés csak bohóckodás.}
+{122}{}{Minden ellen?rzés csak bohóckodás.}
 {123}{}{Imádom a munkámat.}
 {124}{}{Nem hallottál valamit?}
 {125}{}{Majd leszakad a lábam.}
@@ -36,16 +36,16 @@
 {135}{}{Figyelj!}
 {136}{}{Ez nem gyakorlat!}
 {137}{}{Vigyétek a civileket biztonságba!}
-{138}{}{Ellenõrizd a külsõ védelmi vonalakat!}
+{138}{}{Ellen?rizd a küls? védelmi vonalakat!}
 {139}{}{Minden egység jelentkezik!}
 {140}{}{Közel vannak, érzem.}
 {141}{}{Csak nyugalom, katonák!}
-{142}{}{Van egy rakás elvégzendõ feladatunk!}
+{142}{}{Van egy rakás elvégzend? feladatunk!}
 {143}{}{You bet, Sarge.}
 {144}{}{Igen, uram.}
 {145}{}{Itt a B részleg, minden tiszta.}
 {146}{}{Folyosó tiszta.}
-{147}{}{Megyek vissza az õrhelyemre.}
+{147}{}{Megyek vissza az ?rhelyemre.}
 {148}{}{Bravo csapat jelentkezik!}
 {149}{}{Gamma csapat jelentkezik!}
 {150}{}{.../~ És rajta tündököl, tündököl, tündököl Roger Young neve... /~}

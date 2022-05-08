@@ -1,6 +1,6 @@
 {100}{}{Egy gengszter.}
 {150}{}{Lara bandájához tartozik.}
-{151}{}{Úgy tûnik, Lara bandájához tartozik.}
+{151}{}{Úgy t?nik, Lara bandájához tartozik.}
 {200}{}{Bölcs fickó vagy mondhatom...}
 {201}{}{Most megvagy!}
 {202}{}{Eljött a fizetség ideje!}
@@ -9,9 +9,9 @@
 {205}{}{Ringyó!}
 {225}{}{Kíváncsi vagyok, Metzger halála után mire számíthatunk...}
 {226}{}{Szóval Metzgernek végre annyi?}
-{227}{}{A te mûved volt?}
+{227}{}{A te m?ved volt?}
 {228}{}{Rejtek már sosem lesz a régi.}
-{240}{}{El sem hiszem, végre legyõztük õket.}
+{240}{}{El sem hiszem, végre legy?ztük ?ket.}
 {241}{}{Metzgernek most már tisztelnie kell minket.}
 {242}{}{Megmutattuk nekik!}
 {243}{}{Megismerték a mi igazságunkat.}
@@ -23,8 +23,8 @@
 {249}{}{Lara az egyetlen indok, hogy miért nem akasztunk fel.}
 {250}{}{Mit akartál elérni?}
 {251}{}{Gyáva féreg!}
-{252}{}{Undorodom tõled!}
-{253}{}{Tûnj el!}
+{252}{}{Undorodom t?led!}
+{253}{}{T?nj el!}
 {254}{}{Kotródj!}
 {255}{}{Készen állunk, csak add meg a jelet!}
 {256}{}{Ideje már, hogy szétrúgjuk a seggüket.}
@@ -46,7 +46,7 @@
 {305}{}{Hamarosan megmutatjuk Tylernek...}
 {306}{}{Vannak új fejlemények?}
 {310}{}{Thanks for the help. Too bad about Lara.}
-{311}{}{Végre elkaptuk õket!}
+{311}{}{Végre elkaptuk ?ket!}
 {312}{}{Nélküled nem sikerült volna.}
 {313}{}{Lara legalább harc közben halt meg.}
 {314}{}{Nem hiszem el, hogy Lara is otthagyta a fogát...}

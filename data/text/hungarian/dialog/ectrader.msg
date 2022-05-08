@@ -1,23 +1,23 @@
-{100}{}{Egy kereskedõ.}
+{100}{}{Egy keresked?.}
 {101}{}{Willy.}
-{102}{}{Egy hétköznapi, utazó kereskedõ.}
+{102}{}{Egy hétköznapi, utazó keresked?.}
 {103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
  a card, and after a while you doze off.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[Nagy nehezen kinyitod a szemedet, mikor végre ráeszmélsz, hogy valaki rúgdos.] Na, most akkor érdekel vagy nem?}
 {106}{}{Mi érdekel?}
 {107}{}{Hö?}
-{108}{}{Üthetsz vele, vághatsz vele és különösen jól jöhet rosszindulatú állatok ellen. Ártól függetlenül elõnyös vétel, de csak neked, csak ma nem több, mint }
-{109}{}{A környék legjobb fájából készült. Lehet vele szúrkálni, állatokat távol tartani, sõt, ha elég jó vagy, el is dobhatod. Csodálatosan áramvonalas és nem törik el becsapódáskor. Na, mit szólsz? Kész rablás, hogy az ára csak }
-{110}{}{Ez a fegyver a legjobb újrahasznosított acélból készült. Nézd csak meg, milyen kényelmesen illeszkedik a kezedbe! Nem kell aggódni, a mérnökeink biztonsági- és megbízhatósági teszteknek vetették alá. Nincs az az épeszû útonálló, aki beléd köt, ha ezt a kis aranyost a kezedben lóbálod. Az ára potom }
-{111}{}{Ez a kis gyöngyszem igazán egyedülálló. Származási helye... öö... Úgy mûködik, hogy rámutatsz vele...  mindegy, gõzöm sincs, mi a franc lehet ez. Kell vagy nem? Az ára }
+{108}{}{Üthetsz vele, vághatsz vele és különösen jól jöhet rosszindulatú állatok ellen. Ártól függetlenül el?nyös vétel, de csak neked, csak ma nem több, mint }
+{109}{}{A környék legjobb fájából készült. Lehet vele szúrkálni, állatokat távol tartani, s?t, ha elég jó vagy, el is dobhatod. Csodálatosan áramvonalas és nem törik el becsapódáskor. Na, mit szólsz? Kész rablás, hogy az ára csak }
+{110}{}{Ez a fegyver a legjobb újrahasznosított acélból készült. Nézd csak meg, milyen kényelmesen illeszkedik a kezedbe! Nem kell aggódni, a mérnökeink biztonsági- és megbízhatósági teszteknek vetették alá. Nincs az az épesz? útonálló, aki beléd köt, ha ezt a kis aranyost a kezedben lóbálod. Az ára potom }
+{111}{}{Ez a kis gyöngyszem igazán egyedülálló. Származási helye... öö... Úgy m?ködik, hogy rámutatsz vele...  mindegy, g?zöm sincs, mi a franc lehet ez. Kell vagy nem? Az ára }
 {112}{}{Ez a kis készség mintha azt mondaná: "Ne kekeckedj velem!" A puszta látványa menekülésre készteti az ellenségeidet. Alkalmi vétel. Az ára }
-{113}{}{Nekem úgy tûnik, hogy te az a fajta fickó vagy, aki harcban szeret közeli és személyes kapcsolatot kialakítani az ellenféllel. Nos, neked pont erre a kis aranyos készségre van szükséged, és nem kerül többe, mint }
+{113}{}{Nekem úgy t?nik, hogy te az a fajta fickó vagy, aki harcban szeret közeli és személyes kapcsolatot kialakítani az ellenféllel. Nos, neked pont erre a kis aranyos készségre van szükséged, és nem kerül többe, mint }
 {114}{}{Megveszem.}
 {115}{}{Nem kell.}
 {116}{}{Természetesen nem fogod megbánni. Örülök, hogy találkoztunk. Viszlát legközelebb!}
 {117}{}{[Vége]}
-{118}{}{Francba! Ezért pocsékoltam a drága idõmet?! A fene vigye!}
+{118}{}{Francba! Ezért pocsékoltam a drága id?met?! A fene vigye!}
 {119}{}{[Vége]}
 {120}{}{Hát, akkor hiába beszéltem annyit. }
 {121}{}{Ige'.}
@@ -29,7 +29,7 @@
 {127}{}{Nem.}
 {128}{}{Francba! Nem érek rá!}
 {129}{}{Gyere vissza, ha van pénzed is!}
-{130}{}{TÛNJ EL!}
+{130}{}{T?NJ EL!}
 {131}{}{Pénzt vissza nem fizetek.}
 {132}{}{Pénzt nem váltok.}
 {133}{}{Nincs hitel.}

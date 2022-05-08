@@ -1,34 +1,34 @@
-{100}{}{Egy elég megviseltnek tûnõ nõt látsz.}
+{100}{}{Egy elég megviseltnek t?n? n?t látsz.}
 {101}{}{Fannie Mae-t látod, a Malamute Szalon egyik hosztesszét.}
-{102}{}{Ez a nõ olyan, akin az élet több nyomot hagyott, mint az évek.}
+{102}{}{Ez a n? olyan, akin az élet több nyomot hagyott, mint az évek.}
 {103}{}{[Fannie looks distinctly unhealthy as she wobbles towards you] Hey there, lover. I'm feeling a
  little under the weather lately. Want to give me some money for a quick boost? I can make it worth your
  while. (grins)}
 {104}{}{(Ahogy feléd támolyog, Fannie határozottan betegnek látszik.) Szia, hugicám! Nincs egy pár ruppód, hogy segíts egy kislányon, akit elhagyott a szerencse? Csak amíg újra talpra nem állok.}
 {105}{}{(Fannie egyáltalán nem néz ki jól) Szia, haver! Kész vagy egy kis mókára Fannie-val? Neked féláron, szivi! Hova tettem a Jetemet?}
 {106}{}{(Fannie egyáltalán nem néz ki jól) Üdvözlet, hölgyem, nincs egy kis pénze? Vagy egy kis Jetje?}
-{107}{}{Fannie, pokolian nézel ki! Miért nem állsz le a Jetrõl egy kicsit?}
+{107}{}{Fannie, pokolian nézel ki! Miért nem állsz le a Jetr?l egy kicsit?}
 {108}{}{Azt hiszem, már eleget élvezted a jószándékomat és egy fikarcnyit sem segített rajtad.}
 {109}{}{Ez mostanra elég lesz.}
 {110}{}{Miért nem alszod ki?}
-{111}{}{Csak a Jettõl tudok repülni. /~Szállj velem, még nem repültem senkivel.../~ Nem akarsz adni nekem valami különlegességet?}
-{112}{}{Ó, szóval tele vagy nagy ötletekkel, igaz? Hát nekem nem kellesz. Épp elégen vannak, akik szívesen fizetnek Fannie kegyeiért. Ha nem adsz pénzt Jetre, akkor takarodj a szemem elõl!}
+{111}{}{Csak a Jett?l tudok repülni. /~Szállj velem, még nem repültem senkivel.../~ Nem akarsz adni nekem valami különlegességet?}
+{112}{}{Ó, szóval tele vagy nagy ötletekkel, igaz? Hát nekem nem kellesz. Épp elégen vannak, akik szívesen fizetnek Fannie kegyeiért. Ha nem adsz pénzt Jetre, akkor takarodj a szemem el?l!}
 {113}{}{I have something that should cure you of that addiction to Jet.}
 {114}{}{Keress magadnak másik balekot, Fannie! Viszlát!}
 {115}{}{Ha így folytatod, megölöd magad. Én nem akarom ezt végignézni. Viszlát!}
 {116}{}{Rossz rádnézni.}
 {117}{}{Fannie nem illegeti magát elmebetegeknek.}
 {118}{}{Gyere vissza ha lesz egy kis pénzed és lehet hogy Fannie megtud neked valamit.}
-{119}{}{A lángeszedhez még nem hívtak tûzoltókat, ugye?}
+{119}{}{A lángeszedhez még nem hívtak t?zoltókat, ugye?}
 {120}{}{Annyi eszed van, mint egy tyúknak. Nem igaz?}
-{121}{}{Gyógyszer? Meg vagy te õrülve? Úgy nézek én ki, mint akit meg kell gyógyítani? Azt akarod, hogy jobban érezzem magam, édesem? Akkor adj még egy kis Jetet.}
+{121}{}{Gyógyszer? Meg vagy te ?rülve? Úgy nézek én ki, mint akit meg kell gyógyítani? Azt akarod, hogy jobban érezzem magam, édesem? Akkor adj még egy kis Jetet.}
 {122}{}{Nos, azt hiszem, egy kicsivel több még nem fog ártani. Itt egy adag.}
 {123}{}{You've already had more than enough Jet. Last thing I need to do is watch another Jet addict.
  Goodbye.}
 {124}{}{Ha lenne is Jetem, azt magam használnám el. Viszlát!}
 {125}{}{Igen, ez kellett nekem. Ó, igen, micsoda löket! Mmmmm...}
 {126}{}{Öö, hát akkor én hagylak is élvezkedni. Viszlát!}
-{127}{}{Úgy tûnik, tényleg elszálltál. Még látjuk egymást. Viszlát!}
+{127}{}{Úgy t?nik, tényleg elszálltál. Még látjuk egymást. Viszlát!}
 {128}{}{Helló, tengerész! Gyakran jársz ide? Azért jöttél, hogy összejöjj Fannie Mae-vel?}
 {129}{}{Helló, hugi! Munkát keresel?}
 {130}{}{Öö, igen. Téged kereslek.}
@@ -37,7 +37,7 @@
 {133}{}{Ó, de kis édes vagy! A kis szemérmes. Hatvan dolcsiba kerül, hogy összebújjak veled, kedvesem.}
 {134}{}{Talán most egy kicsit tovább fogsz tartani, édesem. Úgy többet kapsz majd a 60 dolcsidért.}
 {135}{}{Ahogy a csillag megy az égen, bébi. Nagyon jól elleszünk a 60 dolcsidért.}
-{136}{}{60 dollár? Nekem jó árnak tûnik. Itt a pénz.}
+{136}{}{60 dollár? Nekem jó árnak t?nik. Itt a pénz.}
 {137}{}{Kösz az ajánlatot, de talán máskor jobb lenne. Viszlát!}
 {138}{}{60 dollár? Ha ennyibe kerül, aligha hiszem, hogy összebújok veled. Minden jót!}
 {139}{}{Olyan tündér voltál hozzám. Amikor csináltad, úgy éreztem, igazán jelentesz nekem valamit. (szipog) Bárcsak mindig így érezhetnék!}
@@ -45,33 +45,33 @@
 {141}{}{Te aztán értesz a szavakhoz.}
 {142}{}{I don't want to do this anymore. Me and my fella' are going to get away from here and live life
  straight. Just as soon as I can pay off Lou.}
-{143}{}{Mi ez a kifizetõsdi?}
-{144}{}{Hé, már fizettem neked! Mirõl beszélsz?}
+{143}{}{Mi ez a kifizet?sdi?}
+{144}{}{Hé, már fizettem neked! Mir?l beszélsz?}
 {145}{}{Igen, hát... Tartozom Lou-nak egy kis pénzzel és nem mehetek el, amíg ki nem fizetem. De amint megteszem (szipog) szedem a motyómat és olyan messze itthagyom ezt az életet, amennyire csak lehet. Csak össze tudnék kaparni egy kis plusz pénzt!}
 {146}{}{Mennyi pénz kell még, hogy kifizesd Lou-t?}
 {147}{}{A fiúd nem tud kihúzni az adósságból?}
 {148}{}{Szomorú történet ez, de te igen hamar össze tudnád szedni a szükséges pénzt. Csak vesd a hátad a matracnak, ennyi az egész. Viszlát!}
-{149}{}{Csak 200 dollár kell és tiszta vagyok. A pasim és én úgy eltûnünk innen, mint a szél. Nincs több fura, koszos alak, aki éjjel-nappal agyontapogat. Izé, bocs, nem akartalak megbántani.}
-{150}{}{Nem bántottál meg. Nem is nagyon tapogattalak agyon, nem igaz? Mindegy, megfizetem a kilépõdet innen. Itt a 200 dollár.}
+{149}{}{Csak 200 dollár kell és tiszta vagyok. A pasim és én úgy elt?nünk innen, mint a szél. Nincs több fura, koszos alak, aki éjjel-nappal agyontapogat. Izé, bocs, nem akartalak megbántani.}
+{150}{}{Nem bántottál meg. Nem is nagyon tapogattalak agyon, nem igaz? Mindegy, megfizetem a kilép?det innen. Itt a 200 dollár.}
 {151}{}{Ez szomorú. Hát akkor jobb, ha csipkeded magad. Viszlát!}
 {152}{}{Oh thank you, thank you. I didn't think that there was anyone this kind outside of my
  dreams. You're the best. Thanks again. Hey, want a freebie? On the house?}
 {153}{}{Miért is ne, Fannie? Ezt az ajánlatot vétek lenne kihagyni.}
 {154}{}{Erre igazán nincs szükség Fannie. Csak használd fel a pénzt, hogy a hátad mögött hagyd ezt az életet! Ég veled!}
-{155}{}{Õ igazán akarná, de bányászként õ is alig tud megélni. Folyton abban reménykedünk, hogy valami nagy telérre bukkan, de ez eddig nem történt meg. A múlt héten ráadásul ráesett egy gerenda és eltörte a lábát. Most nem tud dolgozni. Ami kis pénzt félre tudok tenni, mind neki adom, amíg jobban nem lesz.}
-{156}{}{Úgy tûnik, ti ketten igazán balszerencsések vagytok. Mit mondtál, mennyi pénzre lenne szükségetek?}
+{155}{}{? igazán akarná, de bányászként ? is alig tud megélni. Folyton abban reménykedünk, hogy valami nagy telérre bukkan, de ez eddig nem történt meg. A múlt héten ráadásul ráesett egy gerenda és eltörte a lábát. Most nem tud dolgozni. Ami kis pénzt félre tudok tenni, mind neki adom, amíg jobban nem lesz.}
+{156}{}{Úgy t?nik, ti ketten igazán balszerencsések vagytok. Mit mondtál, mennyi pénzre lenne szükségetek?}
 {157}{}{Köszönöm még egyszer. Alig várom, hogy elmondhassam a fiúmnak. Amint meggyógyul a lába, azonnal elmegyünk innen.}
 {158}{}{Ez volt ám a köszönetnyilvánítás, Fannie! Jobb is ha elmegyek, amíg egyáltalán járni tudok. Örültem a szerencsének! Viszlát!}
 {159}{}{A szakma nagy vesztesége lesz, ha elmégy, Fannie. Viszlát!}
-{160}{}{Hé, te! Nem akarod az idõt múlatni Fannie-val?}
+{160}{}{Hé, te! Nem akarod az id?t múlatni Fannie-val?}
 {161}{}{Mintha adtam volna neked pénzt, hogy abbahagyhasd ezt...}
-{162}{}{Rendben, ez jól hangzik. Még szerencse, hogy elkaptalak, mielõtt itthagyod a várost.}
+{162}{}{Rendben, ez jól hangzik. Még szerencse, hogy elkaptalak, miel?tt itthagyod a várost.}
 {163}{}{Nos, igen... de kiderült, hogy többel tartozom Lou-nak, mint gondoltam.}
 {164}{}{Mégis mennyivel?}
-{165}{}{Eleget hallottam ebbõl. Viszlát!}
+{165}{}{Eleget hallottam ebb?l. Viszlát!}
 {166}{}{Izé, tudom és igazán hálás is vagyok... de attól tartok, többel tartoztam Lou-nak, mint gondoltam. Több pénzre van szükségem.}
 {167}{}{Ezt nem hiszem el! Mennyivel több pénz kell még, hogy le tudj lépni innen?}
-{168}{}{Hát megkaptál mindent, amit tõlem kaphattál. Viszlát!}
+{168}{}{Hát megkaptál mindent, amit t?lem kaphattál. Viszlát!}
 {169}{}{Ne fáraszd magad, bébi! Te már eleget segítettél. (szipog) Egy újabb 150 dolláros segítség mellesleg kisegítene.}
 {170}{}{Rendben, ha ennél többre nincs szükséged. De most aztán elég legyen ám! Nincs több jótékonykodás!}
 {171}{}{Persze, persze. Már itt sem vagyok. Viszlát!}
@@ -79,11 +79,11 @@
 {173}{}{Most csak egy kis mókára vágyom Fannie. Lássuk, hogy megy?}
 {174}{}{Mennyi kell még Lou-nak?}
 {175}{}{Csak benéztem, Fannie. Viszlát!}
-{176}{}{A visszatérõ vendég mindig öröm. Neked még lepedõt is cserélek.}
-{177}{}{Te aztán tudod, mitõl érzi magát egy pasi kitüntetettnek. Köszi.}
+{176}{}{A visszatér? vendég mindig öröm. Neked még leped?t is cserélek.}
+{177}{}{Te aztán tudod, mit?l érzi magát egy pasi kitüntetettnek. Köszi.}
 {178}{}{Öö, azt hiszem, meggondoltam magam. Viszlát, Fannie.}
-{179}{}{A hanyattvágós munkára gondoltam. Ilyen külsõvel, mint a tiéd, fogadok, hogy jól keresnél.}
-{180}{}{A hanyattvágós munkára gondoltam. Még ilyen külsõvel is, mint a tied, kereshetnél némi pénzt. Azok a bányászok nem túl válogatósak ám.}
+{179}{}{A hanyattvágós munkára gondoltam. Ilyen küls?vel, mint a tiéd, fogadok, hogy jól keresnél.}
+{180}{}{A hanyattvágós munkára gondoltam. Még ilyen küls?vel is, mint a tied, kereshetnél némi pénzt. Azok a bányászok nem túl válogatósak ám.}
 {181}{}{Gondolod? Hát, talán megpróbálom.}
 {182}{}{Nem hiszem, hogy ez nekem való lenne. Viszlát!}
 {183}{}{Hát ez biztos segít, hacsak nem túl kényes az orrod. Azok a bányászok nincsenek nagyon oda a vízért és a szappanért.}

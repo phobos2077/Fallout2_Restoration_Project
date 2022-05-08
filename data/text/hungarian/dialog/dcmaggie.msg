@@ -1,6 +1,6 @@
 {100}{}{A bár tulajdonosát látod.}
-{101}{}{Õ Becky.}
-{150}{}{Úgy tûnik, õ a tulaj.}
+{101}{}{? Becky.}
+{150}{}{Úgy t?nik, ? a tulaj.}
 {151}{}{Becky, ennek a helynek a tulajdonosa.}
 {152}{}{[Beszélgetés]}
 {153}{}{Helló, idegen, és üdvözöllek a báromban. Én Becky vagyok.}
@@ -34,10 +34,10 @@
 {181}{}{Kösz. Viszlát!}
 {182}{}{Kotródj!}
 {183}{}{Gwah.}
-{184}{}{Adok én neked valamit, amitõl behalsz.}
-{185}{}{Elõbb egy gyors kérdést?}
+{184}{}{Adok én neked valamit, amit?l behalsz.}
+{185}{}{El?bb egy gyors kérdést?}
 {186}{}{Viszlát!}
-{187}{}{Egy adag whiskey 5 dollár. Elõre kérem a pénzt!}
+{187}{}{Egy adag whiskey 5 dollár. El?re kérem a pénzt!}
 {188}{}{Nahát...}
 {189}{}{Itt a pénz.}
 {190}{}{Meggondoltam magam.}
@@ -51,25 +51,25 @@
 {198}{}{Hé, nincs elég pénzed erre az italra. Még szegényebb vagy, mint ezek a szerencsétlenek.}
 {199}{}{Bocsánat.}
 {200}{}{Hmm, még visszajövök.}
-{201}{}{Hmm. Idehívok valakit, hogy figyeljen a bárra. Te és én bemegyünk a hátsó szobába, ahol a kedvenc játékomat játszuk: "Elsõ csapás". Ha jó vagy, akkor jön a "Mélypont".}
+{201}{}{Hmm. Idehívok valakit, hogy figyeljen a bárra. Te és én bemegyünk a hátsó szobába, ahol a kedvenc játékomat játszuk: "Els? csapás". Ha jó vagy, akkor jön a "Mélypont".}
 {202}{}{Oké!}
 {203}{}{Öö... izé... mennem kell.}
 {205}{}{Rendben voltál.}
-{206}{}{Legközelebb majd játszunk egy "Izzásig" nevû játékot, de most...}
+{206}{}{Legközelebb majd játszunk egy "Izzásig" nev? játékot, de most...}
 {207}{}{Megtennél nekem valamit?}
-{208}{}{Mennem kell, de késõbb még visszajövök.}
+{208}{}{Mennem kell, de kés?bb még visszajövök.}
 {209}{}{Mit tehetek érted, aranypofa?}
 {210}{}{Szükségem lenne még egy kis szeretetre...}
 {211}{}{Lenne néhány kérdésem.}
 {212}{}{Hogyhogy ilyen olcsó nálad a pia?}
 {213}{}{Kérek egy italt.}
 {214}{}{Mennem kell. Minden jót!}
-{215}{}{Most nem. Talán késõbb. Igen, majd késõbb.}
+{215}{}{Most nem. Talán kés?bb. Igen, majd kés?bb.}
 {216}{}{Kérdezhetek valamit?}
-{217}{}{Akkor késõbb.}
-{218}{}{Van egy lepárlóm az alagsorban. Én magam csináltam. Így nem kell a háromszorosáért vennem azoktól a New Reno-i gengszterektõl.}
+{217}{}{Akkor kés?bb.}
+{218}{}{Van egy lepárlóm az alagsorban. Én magam csináltam. Így nem kell a háromszorosáért vennem azoktól a New Reno-i gengszterekt?l.}
 {219}{}{Okos lány! Ezt szeretem!}
-{220}{}{Hmm, mennem kell. Késõbb találkozunk.}
+{220}{}{Hmm, mennem kell. Kés?bb találkozunk.}
 {221}{}{Mért? Mért tetted tönkre a lepárlóm? Te szemét!}
 {222}{}{Semmi személyes ok. Pénzért csináltam.}
 {223}{}{Sajnálom.}

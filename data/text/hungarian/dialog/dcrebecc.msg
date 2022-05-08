@@ -1,11 +1,11 @@
-{100}{}{Egy nagyon vonzó és fiatal nõt látsz.}
+{100}{}{Egy nagyon vonzó és fiatal n?t látsz.}
 {101}{}{Rebecca.}
-{150}{}{Õ Rebecca, a Becky Kaszinó Bár tulajdonosát.}
+{150}{}{? Rebecca, a Becky Kaszinó Bár tulajdonosát.}
 {200}{}{Helló, a nevem Rebecca. Kérsz valamit inni? Biztos vagyok benne, hogy megszomjaztál a hosszú úton.}
 {201}{}{Helló! Kérsz egy italt, vagy csak benéztél?}
 {202}{}{Szia! Örülök, hogy újra látlak. Van valami kérdésed, vagy csak egy kis jófajta whiskey-ért jöttél?}
 {203}{}{Örülök hogy látlak. Mi a helyzet? Szükséged van valamire?}
-{204}{}{Remélem, minden rendben van az én kedvenc vevõmmel! Mit tehetek ma érted?}
+{204}{}{Remélem, minden rendben van az én kedvenc vev?mmel! Mit tehetek ma érted?}
 {205}{}{Szia!}
 {206}{}{Mindig örülök, ha láthatlak.}
 {207}{}{Helló! Egy italt? A környék legjobb whiskey-jét nálunk találod!}
@@ -23,7 +23,7 @@
 {219}{}{Mi?}
 {220}{}{Igen?}
 {221}{}{Most meg mit akarsz?}
-{222}{}{Kérlek, röviden add elõ, nagy ma a forgalom! Mit kérsz?}
+{222}{}{Kérlek, röviden add el?, nagy ma a forgalom! Mit kérsz?}
 {223}{}{Mit tehetek érted? Elfoglalt vagyok.}
 {224}{}{Inni jöttél? Az asztalok arra vannak...}
 {225}{}{Nem nagyon értem, mire gondolsz. Mi legyen tehát?}
@@ -48,8 +48,8 @@
 {257}{}{Bocs, de nem.}
 {258}{}{Jelen pillantban nem.}
 {270}{}{Szeretnék egy italt.}
-{271}{}{Egy kereskedõ után nyomozok, aki menedékbõl származó felszereléseket árul.}
-{272}{}{Egy Vic nevû kereskedõt keresek.}
+{271}{}{Egy keresked? után nyomozok, aki menedékb?l származó felszereléseket árul.}
+{272}{}{Egy Vic nev? keresked?t keresek.}
 {273}{}{Volna itt valami munka?}
 {274}{}{A munkával kapcsolatban...}
 {275}{}{Van még valami munka a számomra?}
@@ -69,12 +69,12 @@
 {307}{}{Viszlát!}
 {308}{}{Vikíí}
 {309}{}{Urka.}
-{320}{}{Ó, az a családunk neve. A Dyer név régóta ismert a kocsmák világában. Még a háború elõttrõl persze.}
-{321}{}{Ahogy mondtam, ez a családnevem. A háborút megelõzõen szerte a világban voltak Dyer kocsmák, szalonok, szórakozóhelyek, meg ilyesmik.}
+{320}{}{Ó, az a családunk neve. A Dyer név régóta ismert a kocsmák világában. Még a háború el?ttr?l persze.}
+{321}{}{Ahogy mondtam, ez a családnevem. A háborút megel?z?en szerte a világban voltak Dyer kocsmák, szalonok, szórakozóhelyek, meg ilyesmik.}
 {322}{}{Kérek egy italt.}
 {323}{}{Feltennék még pár kérdést.}
 {324}{}{Viszlát!}
-{330}{}{Mivel ilyen jó kuncsaftom vagy, elárulok neked egy aprócska titkot. Tényleg egyszerû. Van egy szeszlepárlóm. Az egyik közeli városban lakó barátom tanított meg, hogyan kell csinálni. Szeretnél esetleg még egyet?}
+{330}{}{Mivel ilyen jó kuncsaftom vagy, elárulok neked egy aprócska titkot. Tényleg egyszer?. Van egy szeszlepárlóm. Az egyik közeli városban lakó barátom tanított meg, hogyan kell csinálni. Szeretnél esetleg még egyet?}
 {331}{}{Sorry, it's a trade secret. Plus, I don't really know you that well. I wouldn't
  want Frankie finding out. He's enough trouble as it is. Did you still want one? They
  really hit the spot.}
@@ -98,30 +98,30 @@
 {370}{}{Nagyon régóta tartozik nekem azzal a pénzzel. Leírtam, mint veszteséget, de ha vissza tudnád szerezni, nagyon hálás lennék.}
 {371}{}{A könyvnek az a címe, hogy "A levendula virága". Derek valahol a Mama bárja mellett lesz a keleti oldalon.}
 {372}{}{Megnézem, mit tehetek.}
-{373}{}{Igazán könnyûnek hangzik.}
+{373}{}{Igazán könny?nek hangzik.}
 {374}{}{Már megtaláltam.}
-{375}{}{Ezügyben késõbb még visszajövök...}
-{385}{}{Valóban megtaláltad? Ez nagyszerû!}
+{375}{}{Ezügyben kés?bb még visszajövök...}
+{385}{}{Valóban megtaláltad? Ez nagyszer?!}
 {386}{}{Óh, megtaláltad a könyvem? Remélem, Derek nem tette tönkre.}
 {387}{}{Igen.}
 {388}{}{Sajnálom, de meghalt.}
 {389}{}{Sajnálom, Derek is halott.}
-{390}{}{Sajnálom, de Õ halott.}
+{390}{}{Sajnálom, de ? halott.}
 {391}{}{Igen, itt van.}
 {392}{}{Bocs, de nem.}
-{400}{}{Alig hiszem el! Hogy csináltad? Végül is mindegy. Egész le vagyok taglózva. Barátságom jeleként megosztozunk, rendben? Köszönöm még egyszer, ez igazán nagyon kedves volt tõled.}
+{400}{}{Alig hiszem el! Hogy csináltad? Végül is mindegy. Egész le vagyok taglózva. Barátságom jeleként megosztozunk, rendben? Köszönöm még egyszer, ez igazán nagyon kedves volt t?led.}
 {401}{}{Nagyon örülök, hogy megtaláltad. Nagyon köszönöm, itt a pénzed.}
 {402}{}{Szóra sem érdemes.}
 {410}{}{El sem tudom hinni, hogy mindketten halottak. Sajnálom. Köszönöm, hogy utánanéztél nekem. Ha most megbocsátasz...}
 {411}{}{Alig bírom elhinni, hogy meghalt... ennyi hosszú év után...}
 {412}{}{Hogyne.}
 {413}{}{Ó...}
-{420}{}{Igen, tudom, kirõl beszélsz. Vic lesz az, a pasas, akit Metzger bezárt.}
-{421}{}{Igen, ismerem Vicet. Metzger hét lakat alatt õrzi. Nem vagyok benne biztos, miért.}
+{420}{}{Igen, tudom, kir?l beszélsz. Vic lesz az, a pasas, akit Metzger bezárt.}
+{421}{}{Igen, ismerem Vicet. Metzger hét lakat alatt ?rzi. Nem vagyok benne biztos, miért.}
 {422}{}{Ki az a Metzger?}
 {423}{}{Kérdeznék valami mást.}
-{424}{}{Nagyszerû! Viszlát!}
-{430}{}{Idejösz Rejtekbe, és nem tudod, ki Metzger? Õ egy rabszolga-kereskedõ. A város keleti részén tanyázik. Nehéz eltéveszteni.}
+{424}{}{Nagyszer?! Viszlát!}
+{430}{}{Idejösz Rejtekbe, és nem tudod, ki Metzger? ? egy rabszolga-keresked?. A város keleti részén tanyázik. Nehéz eltéveszteni.}
 {431}{}{Kérdeznék valami mást.}
 {432}{}{Köszi.}
 {440}{}{Gyilkos!}
@@ -129,7 +129,7 @@
 {442}{}{Menj el innen!}
 {443}{}{Nem tudom megérteni a szándékaidat.}
 {444}{}{Harc nélkül nem adom fel!}
-{450}{}{Buffy! Te vagy az? Mi van veled, hosszú idõ telt el, amióta nem láttalak...}
+{450}{}{Buffy! Te vagy az? Mi van veled, hosszú id? telt el, amióta nem láttalak...}
 {451}{}{Nahát...}
 {452}{}{Nahát...}
 {460}{}{Dave üdvözletét küldi, sajnos most nem tud itt lenni velünk, el kellett mennie.}
@@ -149,7 +149,7 @@
 {513}{}{Yes, he was. Goodbye.}
 {514}{}{ ÖL!}
 {520}{}{Micsoda? Te? Nem is tudom, mit mondjak. Annyira gonosz ember volt...}
-{521}{}{Egy sima köszönöm bõven elég lesz.}
+{521}{}{Egy sima köszönöm b?ven elég lesz.}
 {522}{}{Hmmm.}
 {530}{}{Hát, azt hiszem, egy szimpla köszönöm elég lesz. Tudom, hogy ez nem helyes, de... tessék, fogd ezt a pénzt. [Becky 1000 dolcsit nyom a kezedbe!]}
 {531}{}{Tartsd meg a pénzed, Rebecca!}
@@ -166,12 +166,12 @@
 {560}{}{Miért tetted tönkre a lepárlómat? Ártottam én neked valaha is?}
 {561}{}{Megfizették...}
 {562}{}{Nem vagyok köteles válaszolni senkinek sem.}
-{563}{}{Nem tudom, mirõl beszélsz.}
+{563}{}{Nem tudom, mir?l beszélsz.}
 {564}{}{Ahogy gondolja.}
 {565}{}{Úba gúba.}
-{570}{}{Valóban? Biztos vagyok benne, hogy az a tetû Frankie rángatott bele. Fogok ám csinálni egy másikat!}
+{570}{}{Valóban? Biztos vagyok benne, hogy az a tet? Frankie rángatott bele. Fogok ám csinálni egy másikat!}
 {571}{}{Nem számít, én megkaptam a pénzemet.}
 {572}{}{Úgy legyen...}
 {573}{}{Nem lennék meglepve.}
-{580}{}{Tehát te is ilyen beszari vagy? Jellemzõ...}
+{580}{}{Tehát te is ilyen beszari vagy? Jellemz?...}
 {581}{}{Ó...}

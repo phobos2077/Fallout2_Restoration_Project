@@ -1,4 +1,4 @@
-{100}{}{Egy vénembert látsz, szemében õrült ragyogás.}
+{100}{}{Egy vénembert látsz, szemében ?rült ragyogás.}
 {101}{}{Old Joe-t látod, a helyi nagyokost.}
 {102}{}{Heló! Már jó ideje nem láttalak.}
 {103}{}{Ismerjük egymást?}
@@ -6,10 +6,10 @@
 {105}{}{Hát, elég régen volt. Mi jót csináltál mostanság?}
 {106}{}{Ezt is, azt is. Honnan ismersz?}
 {107}{}{Nézd papa, én nem tudom, ki a franc vagy te.}
-{108}{}{Persze. Nos, körülnéztem a pusztában és végül itt kötöttem ki, ezen az istenhátamögötti helyen. Nem olyan, mint a régi szép idõkben. Nem bizony.}
-{109}{}{Ja, a régi szép idõk. Emlékszem akkoriban mi...}
+{108}{}{Persze. Nos, körülnéztem a pusztában és végül itt kötöttem ki, ezen az istenhátamögötti helyen. Nem olyan, mint a régi szép id?kben. Nem bizony.}
+{109}{}{Ja, a régi szép id?k. Emlékszem akkoriban mi...}
 {110}{}{Minden megváltozott, ez biztos. De... mit is csináltunk mi együtt?}
-{111}{}{Nem emlékszel rám, ugye? Nos, kicsit fiatalnak tûnsz.}
+{111}{}{Nem emlékszel rám, ugye? Nos, kicsit fiatalnak t?nsz.}
 {112}{}{Mit akarsz ezzel mondani?}
 {113}{}{Pedig nagyon hasonlítasz. Eh, biztos megcsaltak a vén szemeim... Hát ... akkor viszlát.}
 {114}{}{Hmm... ok ... viszlát.}
@@ -20,8 +20,8 @@
 {119}{}{Egy ideig a menedéketeket kutattam, de soha nem találtam meg. Nincs valami jó sztorid a barátodról, az öreg Ian-ról?}
 {120}{}{Ian?}
 {121}{}{Aha, Ian. Nem emlékszel rám? Jópár éve már annak. Azt hinné az ember, hogy soha nem felejtik el a legjobb haverok. Nos ... úgy látom, tévedtem. Bocs mégegyszer.}
-{122}{}{Elnézést, de szerintem te azt hiszed, hogy én vagyok a Menedéklakó. Õ alapította a falunkat.}
-{123}{}{Nos, így kicsit másképp fest a dolgot. Jó hallani, hogy a barátom jól élt. Fogadj el egy jótanácsot az öreg Ian-tól! Légy óvatos odakinn! Már nem olyan békés a hely, mint amilyennek tûnik!}
+{122}{}{Elnézést, de szerintem te azt hiszed, hogy én vagyok a Menedéklakó. ? alapította a falunkat.}
+{123}{}{Nos, így kicsit másképp fest a dolgot. Jó hallani, hogy a barátom jól élt. Fogadj el egy jótanácsot az öreg Ian-tól! Légy óvatos odakinn! Már nem olyan békés a hely, mint amilyennek t?nik!}
 {124}{}{Mi folyik itt?}
 {125}{}{Well, the Vault Citizens think very highly of their bloodline and don't care much for
  people like me and you. You take this. It'll protect you if things get a little out of control.

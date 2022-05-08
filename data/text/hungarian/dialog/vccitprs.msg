@@ -4,5 +4,5 @@
 {103}{}{Átalszom az egészet.}
 {104}{}{Nem tettem semmi olyat, amiért jogosan visszavonhatták volna a Polgárságomat.}
 {105}{}{Moore *mondta*, hogy el fognak kapni ...}
-{106}{}{Pusztán kedvtelésbõl vagyok itt.}
+{106}{}{Pusztán kedvtelésb?l vagyok itt.}
 {107}{}{Meg kellett tanulnom ezt a leckét.}

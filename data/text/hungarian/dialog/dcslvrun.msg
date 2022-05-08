@@ -1,18 +1,18 @@
 {100}{}{Egy nagy darab, primitív embert látsz.}
-{101}{}{A férfi eléggé erõs és éber.}
-{110}{}{Egy karcsú, de primitív nõt látsz.}
-{111}{}{A testalkatát meghazudtolva eléggé erõsnek látszik.}
+{101}{}{A férfi eléggé er?s és éber.}
+{110}{}{Egy karcsú, de primitív n?t látsz.}
+{111}{}{A testalkatát meghazudtolva eléggé er?snek látszik.}
 {120}{}{Egy furcsa embert látsz.}
 {121}{}{Rettenetesen vékony.}
 {130}{}{Egy rongyos ember.}
-{131}{}{Ez az ember elég erõsnek látszik.}
+{131}{}{Ez az ember elég er?snek látszik.}
 {140}{}{Egy toprongyos embert látsz.}
 {141}{}{He moves with suggesting speed.}
-{150}{}{Egy piszkos nõ.}
-{151}{}{Ez a nõ olyan benyomást kelt, mintha sosem fürdött volna életében.}
-{160}{}{Egy jól megtermett nõt látsz.}
-{161}{}{Erõs harcosnak látszik.}
-{170}{}{Egy cingár nõ.}
+{150}{}{Egy piszkos n?.}
+{151}{}{Ez a n? olyan benyomást kelt, mintha sosem fürdött volna életében.}
+{160}{}{Egy jól megtermett n?t látsz.}
+{161}{}{Er?s harcosnak látszik.}
+{170}{}{Egy cingár n?.}
 {171}{}{Ez a férfi szemlátomást nem sok vizet zavar.}
 {200}{}{Halál rád!}
 {201}{}{Hol vagyol?}
@@ -32,10 +32,10 @@
 {235}{}{Rabszolga-vadászok vagytok? Ó, istenem!}
 {245}{}{Csendet! Közel vannak.}
 {246}{}{Ölni rossz emberek.}
-{247}{}{Nem vinni el család tõlem.}
+{247}{}{Nem vinni el család t?lem.}
 {248}{}{Megvédem család.}
 {249}{}{Nem találhatnak meg minket.}
-{250}{}{Õk rossz emberek.}
+{250}{}{?k rossz emberek.}
 {260}{}{Hajcsárok jönnek. Csituljatok!}
 {261}{}{Felkészülni, azt hiszem, közel vannak!}
 {262}{}{Nem visztek magatokkal harc nélkül!}
@@ -43,7 +43,7 @@
 {264}{}{Azok a hajcsárok megfizetnek ezért!}
 {265}{}{Egyetlen hajcsár sem viheti el a családom.}
 {270}{}{Nem taná'nak meg.}
-{271}{}{E' kõ bújni. E' kõ bújni.}
+{271}{}{E' k? bújni. E' k? bújni.}
 {272}{}{Mér akarnak bántani?}
 {273}{}{Megijedtem.}
 {274}{}{Nem harcolok.}
@@ -80,5 +80,5 @@
 {323}{}{Segítség, valaki! Kérem!}
 {324}{}{Fuss, Marty!}
 {325}{}{Ahhh!}
-{326}{}{Állítsd meg ezt az õrületet!}
+{326}{}{Állítsd meg ezt az ?rületet!}
 {327}{}{Nem csináltunk semmit! Hagyj békén minket!}

@@ -19,7 +19,7 @@
 {168}{}{Here's $5.}
 {169}{}{Ma nem.}
 {170}{}{Szerezz munkát magadnak!}
-{171}{}{Hölgyem, kérem segítsen [köhög] egy szegény, éhezõ emberen, [köhög] aki túl beteg a munkavégzéshez.}
+{171}{}{Hölgyem, kérem segítsen [köhög] egy szegény, éhez? emberen, [köhög] aki túl beteg a munkavégzéshez.}
 {172}{}{Te szegény lélek, itt van 5 dollár.}
 {173}{}{Nem adok pénzt kunyerálóknak.}
 {174}{}{Nem.}

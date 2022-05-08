@@ -11,7 +11,7 @@
 {110}{}{Bocsánat.}
 {116}{}{Ha! Tanítsátok meg azokat a kémeket, hogy is kell behatolni!}
 {117}{}{A hekkerek többet NEM FOGNAK próbálkozni.}
-{118}{}{Ha a tudományunkkal nem tudjuk legyõzni õket, majd gyõzünk a harcosainkkal.}
+{118}{}{Ha a tudományunkkal nem tudjuk legy?zni ?ket, majd gy?zünk a harcosainkkal.}
 {119}{}{Lo Pan és a Sárkány együtt... eléggé aggasztó ötlet.}
 {120}{}{Az a hekker nem tartott sokáig.}
 {121}{}{Dolgozni, dolgozni, dolgozni. Csak ezért tartanak minket.}
@@ -20,7 +20,7 @@
 {124}{}{Újra látni akarom a napot.}
 {127}{}{Sheng Ming egy hitvány hulladék.}
 {128}{}{Még egy-két nap és kész leszünk.}
-{129}{}{Az Uralkodó dicsõségére! Bizony.}
+{129}{}{Az Uralkodó dics?ségére! Bizony.}
 {130}{}{Hallottad? Valaki feltörte a számítógépeinket!}
 {131}{}{Fogadjunk, hogy egy Hubologista volt...}
 {132}{}{Rá kéne ereszteni egy vírust a Hubologistákra.}
@@ -30,6 +30,6 @@
 {144}{}{Mi jó munkát végzünk itt! Ne tedd tönkre!}
 {145}{}{Mi megpróbáljuk megmenteni a pusztaságot, te idióta!}
 {146}{}{Ne! Ne a tudósokat!}
-{147}{}{Segítség! Õrség!}
+{147}{}{Segítség! ?rség!}
 {148}{}{Kérlek! Hát nem érted?!}
 {149}{}{Ne! A kísérletek!...}

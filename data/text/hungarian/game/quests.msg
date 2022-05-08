@@ -2,7 +2,7 @@
 {110}{}{Szerezz kovakövet, hogy Mynoc kiélesíthesse a lándzsádat!}
 {120}{}{Mentsd meg Nagor kutyáját, Füstöt, aki csapdába esett a vadonban!}
 {130}{}{Szerezz egy ÉLET-et Arroyo számára!}
-{140}{}{Találd meg Vicet a kereskedõt!}
+{140}{}{Találd meg Vicet a keresked?t!}
 {200}{}{Szabadítsd ki Vicet: vidd el neki klamath-i házából a rádióját, és fizesd ki az adósságát Metzgernek!}
 {201}{}{Find out how Becky can sell her booze for such low prices.}
 {202}{}{Szabotáld Becky szeszlepárlóját!}
@@ -11,10 +11,10 @@
 {205}{}{Collect Rebecca's money from Fred.}
 {206}{}{Get Rebecca's book from Derek.}
 {207}{}{Vidd el Smittynek az ebédjét!}
-{208}{}{Lara tudni akarja, mit õriznek a templomban.}
+{208}{}{Lara tudni akarja, mit ?riznek a templomban.}
 {209}{}{Get permission from Metzger for the gang war.}
 {210}{}{Find a weakness in Tyler's gang guarding the church.}
-{211}{}{Segíts Larának legyõzni Tyler bandáját!}
+{211}{}{Segíts Larának legy?zni Tyler bandáját!}
 {212}{}{Find a way to get the orphans off the streets.}
 {300}{}{Gyújtsd be a szeszlepárlót!}
 {301}{}{Keresd meg Smileyt, a prémvadászt!}
@@ -23,12 +23,12 @@
 {304}{}{Öld meg a Patkánykirályt!}
 {305}{}{Mentsd meg Torrt!}
 {306}{}{Figure out who is rustling the brahmin.}
-{400}{}{Fura dolgok történnek a Modoctól észak-keletre lévõ farmon. Nézz körül és jelentsd Jo-nak, hogy mit láttál!}
+{400}{}{Fura dolgok történnek a Modoctól észak-keletre lév? farmon. Nézz körül és jelentsd Jo-nak, hogy mit láttál!}
 {401}{}{Cornelius elvesztette az aranyóráját. Találd meg és add vissza neki!}
 {402}{}{Farrel megkért, hogy keresd meg Cornelius aranyóráját. Találd meg és vidd vissza Farrelnek!}
-{403}{}{A kis Jonny eltûnt. Keresd meg és vidd haza Balthashoz!}
+{403}{}{A kis Jonny elt?nt. Keresd meg és vidd haza Balthashoz!}
 {404}{}{Jonny az Aljanép barlangjában van. Juttasd haza Balthashoz!}
-{405}{}{Farrel kertjét ellepték a rágcsálók. Szabadulj meg tõlük!}
+{405}{}{Farrel kertjét ellepték a rágcsálók. Szabadulj meg t?lük!}
 {406}{}{Deliver the Slag's message to Jo in Modoc.}
 {407}{}{Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl.}
 {408}{}{Menj el Rejtekbe, és szólj Karlnak, hogy nyugodtan hazamehet!}
@@ -36,7 +36,7 @@
 {500}{}{Szerezz egy ekét Mr. Smith számára!}
 {501}{}{Vidd el Moore aktatáskáját Mr. Bishopnak New Renóba!}
 {502}{}{Vigyél egy adag Jetet Dr. Troy részére!}
-{503}{}{Oldd meg a gekkói erõmû problémáját!}
+{503}{}{Oldd meg a gekkói er?m? problémáját!}
 {504}{}{Vidd el Lynette hololemezét Westinnek az ÚKK-ba!}
 {505}{}{Szabadítsd ki Joshuát, Amanda férjét!}
 {506}{}{Vigyél 10 sört és 10 piát Lydiának!}
@@ -46,39 +46,39 @@
 {510}{}{Resolve the problem with the nearby village.}
 {511}{}{Get weapons for Connar to be used at the nearby village.}
 {512}{}{Put the Village on a trade route.}
-{600}{}{Oldd meg a gekkói erõmû problémáját!}
-{601}{}{Javítsd meg az erõmûvet!}
-{602}{}{Optimalizáld az erõmûvet!}
+{600}{}{Oldd meg a gekkói er?m? problémáját!}
+{601}{}{Javítsd meg az er?m?vet!}
+{602}{}{Optimalizáld az er?m?vet!}
 {603}{}{Retrieve the Economy Disk and deliver it to McClure in Vault City.}
 {604}{}{Szerezz egy nagy szerszámkészletet Felixnek!}
 {605}{}{Szerezz egy 3-fázisú plazmaátalakítót Felixnek!}
 {606}{}{Keresd meg Woody-t a ghoult. Próbálkozz Rejtekben!}
 {700}{}{Determine whether Chad is skimming money from the caravan runs.}
 {701}{}{Javítsd meg a bánya légtisztítóját!}
-{702}{}{Marcus kérésére találd meg az eltûnt embereket!}
+{702}{}{Marcus kérésére találd meg az elt?nt embereket!}
 {703}{}{Beat Francis at arm wrestling.}
-{704}{}{Szabadítsd ki Mansont és France-t a börtönbõl!}
+{704}{}{Szabadítsd ki Mansont és France-t a börtönb?l!}
 {705}{}{Robbantsd fel a bánya légtisztítóját!}
 {706}{}{Intézd el, hogy Eric házába több áram jusson!}
 {800}{}{Szerezd vissza az ellopott kocsidat!}
-{801}{}{Találd meg, ki felelõs Richard Wright haláláért!}
+{801}{}{Találd meg, ki felel?s Richard Wright haláláért!}
 {802}{}{     Gyanúsított: Csipkés Jimmy J.}
 {803}{}{     Gyanúsított: Jules}
 {804}{}{     Gyanúsított: Kis Jesus Mordino}
 {805}{}{     Gyanúsított: Renesco}
 {806}{}{Juss be a Sierra hadiraktárba!}
-{807}{}{Találd meg Szépfiú Lloydot, szerezd vissza az ellopott pénzt, és állíts elrettentõ példát az esetbõl!}
+{807}{}{Találd meg Szépfiú Lloydot, szerezd vissza az ellopott pénzt, és állíts elrettent? példát az esetb?l!}
 {808}{}{Látogasd meg Rakétás Renescót és hajtsd be rajta az 1000 dollárt, amivel Mr. Salvatorénak tartozik!}
-{809}{}{Vegyél részt õrként egy titkos üzletkötésen, kint a sivatagban!}
-{810}{}{Találj valamilyen endorfinblokkolót, amibõl Jet-ellenszer készíthetõ!}
-{811}{}{Verd szét Wright szeszfõzdéjét a vasútállomás alatt!}
-{812}{}{Öld meg Westint az ÚKK-ban, anélkül hogy gyilkosságnak tûnne!}
+{809}{}{Vegyél részt ?rként egy titkos üzletkötésen, kint a sivatagban!}
+{810}{}{Találj valamilyen endorfinblokkolót, amib?l Jet-ellenszer készíthet?!}
+{811}{}{Verd szét Wright szeszf?zdéjét a vasútállomás alatt!}
+{812}{}{Öld meg Westint az ÚKK-ban, anélkül hogy gyilkosságnak t?nne!}
 {813}{}{Gyilkold meg Carlsont az ÚKK-ban!}
 {814}{}{Vigyél 10 Cat's Paw magazint Kitty kisasszonynak!}
 {815}{}{Vigyél egy lézerpisztolyt Eldridge-nek!}
 {816}{}{Deliver Big Jesus' package to Ramirez at the Stables.}
-{817}{}{Gyûjtsd be a védelmi pénzt a Korzikai Testvérektõl!}
-{818}{}{Nagy Jesus Mordino megbízásából gyilkold meg a Salvatore családfõt!}
+{817}{}{Gy?jtsd be a védelmi pénzt a Korzikai Testvérekt?l!}
+{818}{}{Nagy Jesus Mordino megbízásából gyilkold meg a Salvatore családf?t!}
 {819}{}{Bring a bottle of Abbey's hootch to Father Tully.}
 {900}{}{}
 {1000}{}{}
@@ -89,8 +89,8 @@
 {1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Iktasd ki Bishopot!}
 {1106}{}{Vidd el Westin hololemezét Lynette-nek, Menedékvárosba!}
-{1107}{}{Szerezd meg a térképet az ÚKK-i Felderítõktõl, és add oda Vortisnak, a rabszolga-kereskedõnek!}
-{1108}{}{A Felderítõk megbízásából szabadítsd fel a rabszolgákat a városszéli rabszolga-táborból!}
+{1107}{}{Szerezd meg a térképet az ÚKK-i Felderít?kt?l, és add oda Vortisnak, a rabszolga-keresked?nek!}
+{1108}{}{A Felderít?k megbízásából szabadítsd fel a rabszolgákat a városszéli rabszolga-táborból!}
 {1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
 {1110}{}{Kill the Hubologist for Merk.}
 {1111}{}{Stop the brahmin raids.}
@@ -104,23 +104,23 @@
 {1400}{}{Take care of the Widow Rooney situation.}
 {1401}{}{Akadályozd meg a kocsmai verekedést!}
 {1402}{}{Találd meg az örömlány támadóját!}
-{1403}{}{Öldd meg Hûtõs Mortont!}
+{1403}{}{Öldd meg H?t?s Mortont!}
 {1500}{}{A tartályhajóba üzemanyag kell!}
-{1501}{}{A navigációs számítógép mûködéséhez szükség van a NavKomp chipre!}
+{1501}{}{A navigációs számítógép m?ködéséhez szükség van a NavKomp chipre!}
 {1502}{}{Szükséged van egy FBK-ra, hogy hozzáférj a navigációs számítógéphez!}
 {1503}{}{Pusztítsd el a Shi császárt!}
 {1504}{}{A Hubologistáknak szüksége van a gépmadár tervrajzára Navarróból!}
-{1505}{}{Lopd el a gépmadár tervrajzát a Shiktõl!}
-{1506}{}{A Hubologistáknak üzemanyag kell az ûrhajójukhoz!}
+{1505}{}{Lopd el a gépmadár tervrajzát a Shikt?l!}
+{1506}{}{A Hubologistáknak üzemanyag kell az ?rhajójukhoz!}
 {1507}{}{Intézd el a Borzot, hogy a tankhajó jöttment lakói befogadják a Hubologistákat!}
 {1508}{}{Végezz BHK-9-el!}
 {1509}{}{A Shiknek szüksége van a gépmadár tervrajzára Navarróból!}
 {1510}{}{Lopd el a gépmadár tervrajzát a Hubologistáktól!}
-{1511}{}{Keresd meg a Borz barátnõjét a hajó rakterében!}
+{1511}{}{Keresd meg a Borz barátn?jét a hajó rakterében!}
 {1512}{}{A Sárkány megkért, hogy verd meg Lo Pant - pusztakézzel!}
 {1513}{}{Lo Pan megkért, hogy verd meg a Sárkányt - pusztakézzel, ha lehetséges!}
 {1514}{}{Get Chip's spleen back.}
-{1515}{}{Szerezz egy megerõsített erõpáncélt Crockettõl!}
+{1515}{}{Szerezz egy meger?sített er?páncélt Crockett?l!}
 {1516}{}{Szerezd meg a gépmadár tervrajzát az Acél Testvérisége számára !}
 {1517}{}{Disable the Shi submarine threatening the tanker.}
 {1518}{}{Investigate the whereabouts of Dr. Sheng.}

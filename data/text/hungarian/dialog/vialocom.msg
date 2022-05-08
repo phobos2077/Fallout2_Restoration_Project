@@ -6,6 +6,6 @@
 {105}{}{Menedékváros Elosztó Számítógépét látod.}
 {106}{}{A PipBoy szerint ezt a gépet kell használnod.}
 {107}{}{Semmi nem történik.}
-{108}{}{A PipBoy-ban levõ információ segítségével belépsz a gépbe.}
+{108}{}{A PipBoy-ban lev? információ segítségével belépsz a gépbe.}
 {109}{}{Aztaaaaa .....}
-{110}{}{Több TONNÁNYI információt tanultál meg a Fallout 2-rõl.}
+{110}{}{Több TONNÁNYI információt tanultál meg a Fallout 2-r?l.}

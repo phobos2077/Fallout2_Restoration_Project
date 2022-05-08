@@ -1,6 +1,6 @@
 {100}{}{Rejtek egyik polgára.}
 {101}{}{Fred.}
-{102}{}{Õ Fred. Nagyon szép ruhát hord.}
+{102}{}{? Fred. Nagyon szép ruhát hord.}
 {150}{}{Nagyon gondolkodik valamin.}
 {151}{}{Nagyon boldognak látszik az új öltözékében.}
 {200}{}{Egyszer még sokra viszem.}
@@ -11,15 +11,15 @@
 {205}{}{Biztos, hogy megpiszkálták az asztalokat...}
 {206}{}{...egyszer majd lesz egy saját házam.}
 {207}{}{Szép ruhákat fogok venni...}
-{220}{}{Hé, ember! Késõre jár, hagyjál békén!}
+{220}{}{Hé, ember! Kés?re jár, hagyjál békén!}
 {221}{}{Nem, nem vágyom társaságra.}
-{222}{}{Tudod, mennyi az idõ?}
+{222}{}{Tudod, mennyi az id??}
 {223}{}{Nincs semmim.}
 {224}{}{Reggel zavarj! Fáradt vagyok.}
 {225}{}{Kotródj!}
 {226}{}{Nincs itthon senki.}
 {227}{}{Nem akarok beszélgetni. Aludni készülök.}
-{228}{}{Kisanyám, késõ van! Hagyj békén!}
+{228}{}{Kisanyám, kés? van! Hagyj békén!}
 {240}{}{Nincs több pénzem! Hagyj békén!}
 {241}{}{Nincs itt semmilyen munka. Mit fogok csinálni?}
 {242}{}{Csak azt ne mondd, hogy tartozom még valakinek! Ahh!}
@@ -29,17 +29,17 @@
 {246}{}{Soha nem fogok új ruhákat venni.}
 {247}{}{Ki kell találni egy újabb tervet...}
 {260}{}{Kösz, hogy támogatsz.}
-{261}{}{Igazi életmentõ vagy.}
+{261}{}{Igazi életment? vagy.}
 {262}{}{Nemsokára meglesz a pénzed.}
-{263}{}{Bármikor megnyerhetem a fõnyereményt.}
-{264}{}{Ha nyerek, elõször neked szólok.}
-{275}{}{Mûködik a tervem...}
+{263}{}{Bármikor megnyerhetem a f?nyereményt.}
+{264}{}{Ha nyerek, el?ször neked szólok.}
+{275}{}{M?ködik a tervem...}
 {276}{}{Thanks for the loan! Your money's in good hands!}
 {277}{}{Az asztalok meg vannak buherálva, de ne aggódj!}
-{278}{}{Neked köszönhetõen egyszer még nagyot nyerek.}
+{278}{}{Neked köszönhet?en egyszer még nagyot nyerek.}
 {279}{}{Bármikor nyerhetek! Érzem.}
 {280}{}{Ki foglak fizetni, esküszöm.}
-{281}{}{Bármikor megnyerhetem a fõnyereményt. Kiszagoltam.}
+{281}{}{Bármikor megnyerhetem a f?nyereményt. Kiszagoltam.}
 {295}{}{Ismerlek én téged? Mit akarsz?}
 {296}{}{Miért piszkálsz állandóan? Nem is ismerlek. Zargass valaki mást!}
 {297}{}{Azért jöttem, hogy beszedjem a pénzt, amivel tartozol valakinek.}
@@ -59,18 +59,18 @@
 {331}{}{Szóval nyertél?}
 {332}{}{Hol a pénzem?}
 {333}{}{Hmph.}
-{340}{}{Épp rá akartam térni! Nem fürödhetek a dicsõségben? Ezért nagyon keményen megdolgoztam ám!}
+{340}{}{Épp rá akartam térni! Nem fürödhetek a dics?ségben? Ezért nagyon keményen megdolgoztam ám!}
 {341}{}{Tudom, elnézést.}
 {342}{}{Cseszd meg! Hol a pénz, amivel támogattalak?}
 {343}{}{Egy szart! Hol a pénzem?}
-{350}{}{Jó! Itt van. [Fred átnyújt 500 dollárt] Egy kis extra, amiért bíztál bennem. Késõbb találkozunk. Kösz még egyszer.}
+{350}{}{Jó! Itt van. [Fred átnyújt 500 dollárt] Egy kis extra, amiért bíztál bennem. Kés?bb találkozunk. Kösz még egyszer.}
 {351}{}{Köszönöm!}
 {352}{}{Jól van, jól...}
 {360}{}{Kösz, hogy biztál bennem. Sokat jelentett, hogy egy teljesen idegen megbízott bennem. Hadd adjam ezt oda!}
 {361}{}{Oké.}
 {362}{}{Nem kellene.}
 {363}{}{Öö.}
-{370}{}{Sokkal tartozom neked. Bíztál bennem, amikor elfordult tõlem a szerencse. A hálám jeléül van valamim a számodra.}
+{370}{}{Sokkal tartozom neked. Bíztál bennem, amikor elfordult t?lem a szerencse. A hálám jeléül van valamim a számodra.}
 {371}{}{Oké.}
 {372}{}{Nem kellene.}
 {373}{}{Öö.}
@@ -89,14 +89,14 @@
 {410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
 {411}{}{Takarodj!}
 {412}{}{Ah...}
-{420}{}{Mirõl beszélsz? Senkinek semmivel nem tartozom. Kirõl beszélsz tulajdonképpen?}
-{421}{}{Aha, múltkor is ezt mondtad. Nem tudom, mirõl beszélsz. Ki ez a képzeletbeli személy már megint?}
+{420}{}{Mir?l beszélsz? Senkinek semmivel nem tartozom. Kir?l beszélsz tulajdonképpen?}
+{421}{}{Aha, múltkor is ezt mondtad. Nem tudom, mir?l beszélsz. Ki ez a képzeletbeli személy már megint?}
 {422}{}{Becky azt mondta, hogy 500 dollárral lógsz neki.}
 {423}{}{Becky küldött...}
 {424}{}{Rebecca mondta, hogy kölcsönadott neked 200 dollárt.}
 {430}{}{Ó igen. Rebecca adott nekem 200-at... Várj! Talán... ömm...}
 {431}{}{Azt mondta, törjem el a nyakad, ha nem fizetsz.}
-{432}{}{Add elõ!}
+{432}{}{Add el?!}
 {440}{}{Életemben nem láttam annyi pénzt...}
 {441}{}{Hmmm.}
 {442}{}{Ejha!}
@@ -124,7 +124,7 @@
 {503}{}{Ajánlom, hogy visszaadd a pénzem...}
 {510}{}{Nem kell aggódnod! Visszaadom. Szavamat adtam, és ez alkalommal nem fogok róla megfeledkezni.}
 {511}{}{Oké.}
-{520}{}{Tudod mit? Az a százas nagyon le fogja lassítani a dolgokat. Nem gondolod, hogy egy kicsit visszakérhetnék belõle?}
+{520}{}{Tudod mit? Az a százas nagyon le fogja lassítani a dolgokat. Nem gondolod, hogy egy kicsit visszakérhetnék bel?le?}
 {521}{}{Mennyi?}
 {522}{}{Szó sem lehet róla!}
 {530}{}{Várj! Tudom már. Adok neked száz dollárt, te pedig kisegítesz a maradék százzal, amivel Becky-nek tartozom. Hamarosan visszafizetem neked.}
@@ -139,16 +139,16 @@
 {560}{}{Látom, hogy a matematikai képességeid... ugyan már, kérlek! Ez neked nem túl sok, de számomra igen.}
 {561}{}{Oké.}
 {562}{}{Nem.}
-{570}{}{Persze, hogy Õ volt. Mindenki tudja, hogy utálja azt a nevet. Nem vágsz át!}
+{570}{}{Persze, hogy ? volt. Mindenki tudja, hogy utálja azt a nevet. Nem vágsz át!}
 {571}{}{Semmivel nem tartozom neki.}
 {572}{}{Azt mondta, feledékeny vagy.}
-{573}{}{Nézd, erre nincs idõm. Fizess, basszus!}
+{573}{}{Nézd, erre nincs id?m. Fizess, basszus!}
 {574}{}{Rebecca állítása szerint már jó ideje adta kölcsön.}
 {580}{}{Én nem! Én... várj csak... Egyszer mégis. Nem fizettem volna vissza? Úgy tudtam, visszaadtam...}
 {581}{}{Nem, nem adtad. Ezért küldött.}
 {582}{}{Csak fizess ki és már itt sem vagyok.}
 {590}{}{Nem emlékszem... de Becky biztosan kisegített engem és barátaimat a múltban.}
-{591}{}{Add elõ a 200 dollárt!}
+{591}{}{Add el? a 200 dollárt!}
 {592}{}{Add csak ide a pénzt gyorsan!...}
 {600}{}{Haggyá' békén!}
 {601}{}{Ahogy gondolja.}

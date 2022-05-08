@@ -20,7 +20,7 @@
 {242}{}{Becky-nél a legolcsóbb az ital... azt mondják.}
 {243}{}{Rebecca nem engedi, hogy játsszak a játékaival.}
 {244}{}{Becky olyan szép.}
-{245}{}{Találkoztál már Rebeccával? Jó lenne, ha õ lenne az anyukám.}
+{245}{}{Találkoztál már Rebeccával? Jó lenne, ha ? lenne az anyukám.}
 {250}{}{Néni, nincs egy kis apród?}
 {251}{}{Bácsi, nincs egy kis apród?}
 {270}{}{Csak itt akarsz álldogálni vagy be is mész?}
@@ -44,7 +44,7 @@
 {306}{}{Gyere, nézz be Becky-hez!}
 {310}{}{Áááá! Hagyj békén!}
 {311}{}{Segítség, elnyomnak!}
-{312}{}{Láthatják, az erõszak e rendszer velejárója.}
+{312}{}{Láthatják, az er?szak e rendszer velejárója.}
 {313}{}{Nem is csináltam semmit.}
 {314}{}{Ááááh!}
 {315}{}{Nem talált!}

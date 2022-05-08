@@ -1,11 +1,11 @@
 {100}{}{You see a child shouting corny slogans.}
 {101}{}{Ezt a szurtos gyereket láthatóan valamilyen turistalátványosság reklámozására bérelték fel.}
 {500}{}{Nézze meg a Rejtélyes Múmiát!}
-{501}{}{Nézze meg az Õsi Csodát!}
+{501}{}{Nézze meg az ?si Csodát!}
 {502}{}{Hammi-siíta-tatlan Múmia, csak most, csak önöknek!}
 {503}{}{Nézze meg az Egyiptomi Herceget!}
-{504}{}{Nézze meg a Nílus Királynõjét!}
+{504}{}{Nézze meg a Nílus Királyn?jét!}
 {505}{}{Lépjen be a Hammi-siíta-tatlan kísértetházba!}
 {506}{}{Feltárulnak a túlvilág titkai!}
 {507}{}{Jöjjenek csak, mindenki jöjjön!}
-{508}{}{Életre szóló mûvelõdési lehetõség!}
+{508}{}{Életre szóló m?vel?dési lehet?ség!}

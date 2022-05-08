@@ -3,20 +3,20 @@
 {102}{}{Farkasokkal találkozol.}
 {103}{}{You encounter radscorpions.}
 {104}{}{Spóra növényekkel találkozol.}
-{105}{}{Egy tolvajokkal harcoló õrjárattal találkozol.}
-{106}{}{Egy farkasokkal harcoló õrjárattal találkozol.}
-{107}{}{Egy õrjárattal találkozol.}
-{150}{}{Rabszolga-kereskedõkkel és kutyákkal találkozol.}
+{105}{}{Egy tolvajokkal harcoló ?rjárattal találkozol.}
+{106}{}{Egy farkasokkal harcoló ?rjárattal találkozol.}
+{107}{}{Egy ?rjárattal találkozol.}
+{150}{}{Rabszolga-keresked?kkel és kutyákkal találkozol.}
 {151}{}{Rabszolga-hajcsárokkal találkozol.}
 {152}{}{Aranygekkókkal találkozol.}
 {153}{}{Vadkutyákkal találkozol.}
-{154}{}{Egy õrjárattal és kutyáival találkozol, akik rabszolga-kereskedõkkel harcolnak.}
-{155}{}{Rabszolga-kereskedõkkel találkozol, akik aranygekkókkal harcolnak.}
-{156}{}{Egy Rabszolga-kereskedõkkel harcoló õrjárattal találkozol.}
-{157}{}{Egy aranygekkókkal harcoló õrjárattal találkozol.}
-{158}{}{Egy vadkutyákkal viaskodó õrjárattal találkozol.}
-{159}{}{Egy õrjárattal találkozol.}
-{200}{}{Egy csapat rabló tõrbe csalt.}
+{154}{}{Egy ?rjárattal és kutyáival találkozol, akik rabszolga-keresked?kkel harcolnak.}
+{155}{}{Rabszolga-keresked?kkel találkozol, akik aranygekkókkal harcolnak.}
+{156}{}{Egy Rabszolga-keresked?kkel harcoló ?rjárattal találkozol.}
+{157}{}{Egy aranygekkókkal harcoló ?rjárattal találkozol.}
+{158}{}{Egy vadkutyákkal viaskodó ?rjárattal találkozol.}
+{159}{}{Egy ?rjárattal találkozol.}
+{200}{}{Egy csapat rabló t?rbe csalt.}
 {201}{}{Farkasokkal találkozol.}
 {202}{}{Egy karavánnal találkozol, amit rablók támadtak meg.}
 {203}{}{Egy karavánnal találkozol, amit rablók támadtak meg.}
@@ -40,11 +40,11 @@
 {261}{}{Egy utazóval találkozol.}
 {300}{}{A Mester hadseregének maradékába botlottál.}
 {301}{}{Martalócokkal találkozol.}
-{302}{}{ÚKK Felderítõkkel találkozol, akik a Mester hadseregének maradékával harcolnak. }
-{303}{}{ÚKK Felderítõkkel találkozol, akik martalócokkal harcolnak. }
+{302}{}{ÚKK Felderít?kkel találkozol, akik a Mester hadseregének maradékával harcolnak. }
+{303}{}{ÚKK Felderít?kkel találkozol, akik martalócokkal harcolnak. }
 {304}{}{Farmerekkel találkozol, akiket a Mester hadseregének maradékai támadtak meg.}
 {305}{}{You encounter farmers fending off marauders.}
-{306}{}{ÚKK Felderítõkkel találkozol.}
+{306}{}{ÚKK Felderít?kkel találkozol.}
 {307}{}{Farmerekkel találkozol.}
 {350}{}{Egy Rabszolga-hajcsár karavánnal találkozol.}
 {351}{}{Rablókkal és útonállókkal találkozol.}
@@ -54,7 +54,7 @@
 {355}{}{Egy rablókkal harcoló karavánnal találkozol.}
 {356}{}{Egy útonállókkal harcoló karavánnal találkozol.}
 {357}{}{Egy rablók által ostrom alá vett karavánnal találkozol.}
-{358}{}{Egy karavánnal harcoló Rabszolga-kereskedõ karavánnal találkozol.}
+{358}{}{Egy karavánnal harcoló Rabszolga-keresked? karavánnal találkozol.}
 {359}{}{Rablókkal harcoló útonállókkal találkozol.}
 {360}{}{Egy karavánnal találkozol.}
 {361}{}{Egy karavánnal találkozol.}
@@ -99,33 +99,33 @@
 {551}{}{Egy csapat földfoglalóval találkozol.}
 {552}{}{Farkasokkal találkozol.}
 {553}{}{Aranygekkókkal találkozol.}
-{554}{}{Földmérõkkel találkozol, akiket földfoglalók támadtak meg.}
+{554}{}{Földmér?kkel találkozol, akiket földfoglalók támadtak meg.}
 {555}{}{Gekkókra vadászó prémvadászokkal találkozol.}
 {556}{}{Farkasokkal harcoló szeszcsempészekkel találkozol.}
 {557}{}{Földfoglalókkal harcoló tanyasiakkal találkozol.}
 {558}{}{Farkasokkal harcoló tanyasiakkal találkozol.}
 {559}{}{Szeszcsempészekkel találkozol.}
 {560}{}{Prémvadászokkal találkozol.}
-{561}{}{Földmérõkkel találkozol.}
+{561}{}{Földmér?kkel találkozol.}
 {600}{}{Halálkarmokkal találkozol.}
-{601}{}{Tûz-gekkókkal találkozol.}
-{602}{}{Egy halálkarmok elõl menekülõ karavánnal találkozol.}
+{601}{}{T?z-gekkókkal találkozol.}
+{602}{}{Egy halálkarmok el?l menekül? karavánnal találkozol.}
 {603}{}{Egy halálkarmokkal harcoló karavánnal találkozol.}
-{604}{}{Egy tûz-gekkókkal harcoló karavánnal találkozol.}
-{605}{}{Egy tûz-gekkókkal harcoló karavánnal találkozol.}
+{604}{}{Egy t?z-gekkókkal harcoló karavánnal találkozol.}
+{605}{}{Egy t?z-gekkókkal harcoló karavánnal találkozol.}
 {606}{}{Egy karavánnal találkozol.}
 {607}{}{Egy karavánnal találkozol.}
 {608}{}{Egy karavánnal találkozol.}
 {609}{}{Egy karavánnal találkozol.}
 {650}{}{Idegenekkel és halálkarmokkal találkozol.}
-{651}{}{Kentaurokkal és lebegõkkel találkozol.}
-{652}{}{Tûz-gekkókkal találkozol.}
+{651}{}{Kentaurokkal és lebeg?kkel találkozol.}
+{652}{}{T?z-gekkókkal találkozol.}
 {653}{}{Idegenekkel találkozol.}
 {654}{}{Halálkarmokkal találkozol.}
-{655}{}{Tûz-gekkókkal találkozol.}
+{655}{}{T?z-gekkókkal találkozol.}
 {656}{}{Idegenekkel találkozol.}
 {657}{}{Kentaurokkal találkozol.}
-{658}{}{Lebegõkkel találkozol.}
+{658}{}{Lebeg?kkel találkozol.}
 {700}{}{Néhány Jakuzával találkozol.}
 {701}{}{Megállít egy banda.}
 {702}{}{Néhány farkassal találkozol.}

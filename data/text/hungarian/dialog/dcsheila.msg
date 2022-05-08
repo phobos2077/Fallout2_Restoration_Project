@@ -1,5 +1,5 @@
 {100}{}{Egy prostit látsz.}
-{150}{}{Egy szokásos, "tizenkettõ-egy-tucat" prostituált.}
+{150}{}{Egy szokásos, "tizenkett?-egy-tucat" prostituált.}
 {152}{}{[Beszélgetés]}
 {153}{}{Hé, csajokkal nem nyomom!}
 {154}{}{Ahogy gondolja.}
@@ -14,7 +14,7 @@
 {163}{}{Pont itt, bébi.}
 {164}{}{Mennyi lesz, kishúgom?}
 {165}{}{Ömm, mennem kell. Szia.}
-{166}{}{Tyûû!}
+{166}{}{Ty??!}
 {167}{}{A nagy darab mamlaszokat kedvelem.}
 {168}{}{Rám illik!}
 {169}{}{Jéj!}
@@ -29,7 +29,7 @@
 {179}{}{Meglátjuk.}
 {180}{}{Öhm, aligha.}
 {181}{}{[nyáladzol]}
-{182}{}{Nincs elég zsozsód. Tûnj innen, édes!}
+{182}{}{Nincs elég zsozsód. T?nj innen, édes!}
 {183}{}{I'll come back.}
 {184}{}{Nem éred meg a pénzem, cunci.}
 {185}{}{Bah!}
@@ -37,7 +37,7 @@
 {187}{}{Mint mindig, bébi.}
 {188}{}{Ahogy gondolja.}
 {189}{}{Te is.}
-{190}{}{Csõd-állatos!}
+{190}{}{Cs?d-állatos!}
 {191}{}{Remek voltál!}
 {192}{}{Kösz. Te is.}
 {193}{}{Hmm.}
@@ -61,7 +61,7 @@
 {211}{}{Viszlát!}
 {212}{}{Szia szia.}
 {213}{}{Egy menet }
-{214}{}{ dollárba kerül. Elõre kell fizetni.}
+{214}{}{ dollárba kerül. El?re kell fizetni.}
 {215}{}{Kövess!}
 {216}{}{Várok.}
 {217}{}{Nem fogok egész nap ebben a hideg szobában álldogálni.}
@@ -73,4 +73,4 @@
 {223}{}{Kövess!}
 {224}{}{Hé, haver, vedd le a kezed az áruról!}
 {225}{}{Hagyd abba! Nem vagyok játékszer.}
-{230}{}{Hogy...? Ez volt az elsõ alkalom?}
+{230}{}{Hogy...? Ez volt az els? alkalom?}

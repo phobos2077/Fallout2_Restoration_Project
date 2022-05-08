@@ -11,8 +11,8 @@
 {110}{}{Megtámadtak bennünket! Riadó!}
 {111}{}{Behatolók! Riadó!}
 {112}{}{Picsába! Kezdjük gyorsan az archiválást!}
-{113}{}{Minden titkos mûveletet hagyjatok abba}
+{113}{}{Minden titkos m?veletet hagyjatok abba}
 {114}{}{Biztosítsátok a rendszert!}
 {115}{}{Tudós vagyok, nem katona!}
-{116}{}{"A hegyes végén lévõ lézerdiódát irányítsa rá a célpontra, aztán húzza meg a ravaszt!"}
-{117}{}{Segítség! Erõsítést a számítógép-laborba!}
+{116}{}{"A hegyes végén lév? lézerdiódát irányítsa rá a célpontra, aztán húzza meg a ravaszt!"}
+{117}{}{Segítség! Er?sítést a számítógép-laborba!}

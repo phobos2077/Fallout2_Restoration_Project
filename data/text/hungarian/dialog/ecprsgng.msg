@@ -7,6 +7,6 @@
 {106}{}{Ideje máshol körülnézni!}
 {107}{}{Menj, csatlakozz a Haditengerészethez!}
 {108}{}{A fene!}
-{109}{}{Azta! Nézd csak, mennyi az idõ, mennem kell!}
+{109}{}{Azta! Nézd csak, mennyi az id?, mennem kell!}
 {110}{}{Újonc.}
-{111}{}{Õrmester.}
+{111}{}{?rmester.}

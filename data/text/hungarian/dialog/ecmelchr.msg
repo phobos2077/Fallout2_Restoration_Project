@@ -1,9 +1,9 @@
 {100}{}{Egy furcsa bestiát látsz.}
-{101}{}{Egy szupermutánst látsz. Kicsit tébolyodottnak tûnik.}
+{101}{}{Egy szupermutánst látsz. Kicsit tébolyodottnak t?nik.}
 {102}{}{Állj!}
 {103}{}{Ne közelíts! A Fenséges Melchior parancsol neked!}
-{104}{}{Nézz csak ide! Én vagyok a legnagyobb bûvész a világon!}
-{105}{}{Reszkess a Fenséges Melchior hatalma elõtt!}
+{104}{}{Nézz csak ide! Én vagyok a legnagyobb b?vész a világon!}
+{105}{}{Reszkess a Fenséges Melchior hatalma el?tt!}
 {106}{}{Az állatkáim a csontjaidon fognak lakmározni!}
 {107}{}{Figyelmeztettelek! Állatkáim, tépjétek szét!}
 {1000}{}{SAHUHÉÉJ!}
@@ -18,4 +18,4 @@
 {1030}{}{KALIMADZSIGGER!}
 {1031}{}{A francba! Már csak dagadt patkányok maradtak.}
 {1032}{}{Kifogytam az állatkákból...}
-{1050}{}{O-ó. Kifogytam a múútálni való teremtményekbõl.}
+{1050}{}{O-ó. Kifogytam a múútálni való teremtményekb?l.}

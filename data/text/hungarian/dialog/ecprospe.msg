@@ -8,9 +8,9 @@
 {107}{}{Oké, kopj le! És jobb, ha senkinek sem említed, merre van a területem!}
 {108}{}{[Vége]}
 {109}{}{Azt hiszem, jobb, ha tovább mész!}
-{110}{}{Nincs mirõl beszélnünk.}
+{110}{}{Nincs mir?l beszélnünk.}
 {111}{}{Eredj az utadra!}
-{112}{}{Kapd el õket!}
+{112}{}{Kapd el ?ket!}
 {113}{}{Nem engedhetem, hogy bárkinek is elmondd, merre van a területem!}
 {114}{}{Miért támadnál meg engem?}
 {115}{}{Most meg kell, hogy öljelek!}

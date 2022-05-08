@@ -1,2 +1,2 @@
 {100}{}{Istenem, ez Bess!}
-{101}{}{Ez a brahmin ismerõsnek tûnik.}
+{101}{}{Ez a brahmin ismer?snek t?nik.}

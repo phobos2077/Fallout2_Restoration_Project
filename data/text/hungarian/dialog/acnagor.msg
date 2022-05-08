@@ -1,19 +1,19 @@
-{100}{}{A fiatal unokatestvéred, Nagor áll elõtted, de a kutyáját, Füstöt nem látod sehol.}
+{100}{}{A fiatal unokatestvéred, Nagor áll el?tted, de a kutyáját, Füstöt nem látod sehol.}
 {101}{}{Nagort gyerekkora óta ismered, és mindig segítettél neki, ha tudtál.}
 {102}{}{Cousin, am I glad to see you! I need your help.}
-{103}{}{Bocs, de most nincs idõm.}
+{103}{}{Bocs, de most nincs id?m.}
 {104}{}{Miben segíthetnék?}
 {105}{}{Akkor megyek a vadonba egyedül!}
-{106}{}{Várj egy kicsit... milyen segítséget vársz tõlem?}
+{106}{}{Várj egy kicsit... milyen segítséget vársz t?lem?}
 {107}{}{Akkor menj!}
-{108}{}{Füst elfutott a vadászmezõk irányába, és azóta sem jött vissza. Morlis anyó nem engedi, hogy megkeressem. Azt mondja, túl veszélyes, meg hogy õ csak egy kutya. Én persze vissza akarom hozni. Ha esetleg utána mennél, nem kerülnék bajba.}
-{109}{}{Rendben, de merre van a vadászmezõ?}
+{108}{}{Füst elfutott a vadászmez?k irányába, és azóta sem jött vissza. Morlis anyó nem engedi, hogy megkeressem. Azt mondja, túl veszélyes, meg hogy ? csak egy kutya. Én persze vissza akarom hozni. Ha esetleg utána mennél, nem kerülnék bajba.}
+{109}{}{Rendben, de merre van a vadászmez??}
 {110}{}{Rendben. Megkeresem.}
-{111}{}{Felejtsd el, most nincs idõm erre!}
-{112}{}{Mi történt veled, fejbevágtak egy kõvel? A vadászmezõ Hakunin sátrának távolabbi felénél van, a falu északi részén.}
+{111}{}{Felejtsd el, most nincs id?m erre!}
+{112}{}{Mi történt veled, fejbevágtak egy k?vel? A vadászmez? Hakunin sátrának távolabbi felénél van, a falu északi részén.}
 {113}{}{Sietek vissza vele.}
 {114}{}{Megtaláltad már Füstöt?}
-{115}{}{Még nem. Mit is mondtál, merre van a vadászmezõ?}
+{115}{}{Még nem. Mit is mondtál, merre van a vadászmez??}
 {116}{}{Nem, még nem.}
 {117}{}{Megtaláltad már Füstöt?}
 {118}{}{Még nem, de hamarosan visszahozom.}
@@ -30,8 +30,8 @@
 {129}{}{Nem érek rá, te bolond. Menj és játssz máshol!}
 {130}{}{Én megy.}
 {131}{}{Elmegyek Füst után.}
-{200}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkezõ nehéz idõkrõl beszélnek.}
-{201}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkezõ nehéz idõkrõl beszélnek.}
+{200}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkez? nehéz id?kr?l beszélnek.}
+{201}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkez? nehéz id?kr?l beszélnek.}
 {202}{}{Én még keres, Nagor.}
 {203}{}{I'm still looking, cousin.}
 {204}{}{Üdvözöllek itthon, unokatestvérem. A problémák egyre szaporodnak. Megtaláltad a szent Tizenhármast, és az ÉLET-et?}
@@ -44,7 +44,7 @@
 {211}{}{Szia, unokatestvérem.}
 {212}{}{Nem úgy beszélsz, ahogy szoktál.}
 {213}{}{Nem úgy beszélsz, ahogy régen.}
-{214}{}{Sajnálom, unokatesvérem. A dolgok egyre rosszabbak lettek az utolsó látogatásod óta. Az emberek betegek, a brahminok haldokolnak, ráadásul... a kutyám ... Füst elpusztult és Morlis megfõzte. Annyira hiányzik. Ne haragudj, de képtelen vagyok többet beszélni errõl...}
-{215}{}{Sajnálom, unokatesvérem. A dolgok egyre rosszabbak lettek az utolsó látogatásod óta. Az emberek betegek, a brahminok haldokolnak, ráadásul... a kutyám ... Füst elpusztult és Morlis megfõzte. Annyira hiányzik. Ne haragudj, de képtelen vagyok többet beszélni errõl...}
-{300}{}{Õ Nagor.}
+{214}{}{Sajnálom, unokatesvérem. A dolgok egyre rosszabbak lettek az utolsó látogatásod óta. Az emberek betegek, a brahminok haldokolnak, ráadásul... a kutyám ... Füst elpusztult és Morlis megf?zte. Annyira hiányzik. Ne haragudj, de képtelen vagyok többet beszélni err?l...}
+{215}{}{Sajnálom, unokatesvérem. A dolgok egyre rosszabbak lettek az utolsó látogatásod óta. Az emberek betegek, a brahminok haldokolnak, ráadásul... a kutyám ... Füst elpusztult és Morlis megf?zte. Annyira hiányzik. Ne haragudj, de képtelen vagyok többet beszélni err?l...}
+{300}{}{? Nagor.}
 {302}{}{Cousin, am I glad to see you! I need your help.}

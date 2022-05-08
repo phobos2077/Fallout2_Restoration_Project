@@ -1,12 +1,12 @@
 {100}{}{Egy alig felöltözött férfit látsz.}
 {101}{}{Kaga.}
-{103}{}{Az illetõ ágyékkötõt visel, és úgy néz ki, mintha valami törzs tagja lenne.}
+{103}{}{Az illet? ágyékköt?t visel, és úgy néz ki, mintha valami törzs tagja lenne.}
 {104}{}{Nekem kellett volna a Kiválasztottnak lennem!}
-{105}{}{Hogy mert elûzni engem Arroyo a törzsbõl?!}
+{105}{}{Hogy mert el?zni engem Arroyo a törzsb?l?!}
 {106}{}{Most megbosszulom!}
-{107}{}{Kaga a következõ életbe küld téged.}
+{107}{}{Kaga a következ? életbe küld téged.}
 {108}{}{Találkozni fogunk még!}
-{109}{}{Még sohasem gyõztek le!}
+{109}{}{Még sohasem gy?ztek le!}
 {110}{}{Az elpuszításodnak szentelem az életem!}
 {150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
 {151}{}{Well, I AM the Chosen One, aren't I?}

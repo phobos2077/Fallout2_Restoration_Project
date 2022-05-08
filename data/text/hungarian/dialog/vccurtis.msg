@@ -2,9 +2,9 @@
 {101}{}{Egy alacsony, barna hajú fiút látsz. Kétségbeesetten sír.}
 {102}{}{Curtis. }
 {103}{}{Egy alacsony, barna hajú fiút látsz. Kétségbeesetten sír.}
-{104}{}{Egy alacsony, barna hajú fiút látsz. Már sokkal vidámabbnak tûnik.}
+{104}{}{Egy alacsony, barna hajú fiút látsz. Már sokkal vidámabbnak t?nik.}
 {105}{}{Curtis. }
-{106}{}{Egy alacsony, barna hajú fiút látsz. Már sokkal vidámabbnak tûnik.}
+{106}{}{Egy alacsony, barna hajú fiút látsz. Már sokkal vidámabbnak t?nik.}
 {107}{}{*Szipp*}
 {108}{}{Kér egy kis teát, Mr. Nixon?}
 {109}{}{Természetesen, kedves Curtis!}
@@ -18,7 +18,7 @@
 {117}{}{Elvesztettem a barátomat. Mr. Nixonnak hívják.}
 {118}{}{Mr. Nixon kék pólót hord, nagy az orra és nagyon-nagyon picike.}
 {119}{}{Nem láttad Mr. Nixont? Elvesztettem.}
-{120}{}{Kösz, hogy megtaláltad Mr. Nixont! Õ is nagyon hálás!}
+{120}{}{Kösz, hogy megtaláltad Mr. Nixont! ? is nagyon hálás!}
 {121}{}{Az a mutáns félelmetes!}
 {122}{}{Az a ghoul félelmetes!}
 {123}{}{Az a fémkutya mindjárt felfal, Vidd innen!}
@@ -26,7 +26,7 @@
 {125}{}{Eeeez Nikkszon?}
 {126}{}{[Elcsoszogsz]}
 {127}{}{Róla beszélsz? Már keresett ám téged.}
-{128}{}{Mr. Nixon itt van nálam, de tudod mit? Azt hiszem, meg kell büntetni, amiért egyedül elcsatangolt. Egy kis csonkítás talán megteszi. Akkor elõször is letépem a lábát... azután...}
+{128}{}{Mr. Nixon itt van nálam, de tudod mit? Azt hiszem, meg kell büntetni, amiért egyedül elcsatangolt. Egy kis csonkítás talán megteszi. Akkor el?ször is letépem a lábát... azután...}
 {129}{}{Nekem most mennem kell, szia.}
 {130}{}{Megtaláltad? Megtaláltad Mr. Nixont!}
 {131}{}{Szijaa Misztrr Nikkszon}

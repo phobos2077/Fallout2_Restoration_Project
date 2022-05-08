@@ -1,6 +1,6 @@
 {100}{}{You see a diligent-looking guard. The guard is outfitted in metal armor
  and is carrying an assault rifle.}
-{101}{}{Egy menedékvárosi õrt látsz.}
+{101}{}{Egy menedékvárosi ?rt látsz.}
 {102}{}{Igen?}
 {103}{}{Én bemegy nagy luk a hegybe.}
 {104}{}{Szeretnék bemenni a kapun.}
@@ -10,7 +10,7 @@
 {108}{}{Csak még egy percet várj!}
 {109}{}{Dolgom van. Megyek majd, ha végeztem.}
 {110}{}{Menni? NEM MENNI!}
-{111}{}{Hívok néhány õrt, õk majd kikísérnek.}
+{111}{}{Hívok néhány ?rt, ?k majd kikísérnek.}
 {112}{}{Okay. Let's go.}
 {113}{}{He?}
 {114}{}{Ne lökdöss! Kitalálok magam is.}
@@ -25,7 +25,7 @@
 {123}{}{Me go inta HOL in side of hill}
 {124}{}{Köszönöm, nem.}
 {125}{}{Sajnálom, de ide csak Polgárok léphetnek be. Remélem, megérted.}
-{126}{}{Csak Polgárok mehetnek be. Tûnj el!}
+{126}{}{Csak Polgárok mehetnek be. T?nj el!}
 {127}{}{Oké.}
 {128}{}{Umgh}
 {129}{}{Természetesen, semmi akadálya.}
@@ -36,7 +36,7 @@
 {134}{}{Nem, köszönöm.}
 {135}{}{Sajnálom, de ide csak Polgárok léphetnek be.}
 {136}{}{De hát én Polgár vagyok!}
-{137}{}{Sajnálom, de nem ismerlek. A parancsom az, hogy kizárólag Polgárokat engedjek be. Talán Lynette Elsõ Polgártól kapsz engedélyt.}
+{137}{}{Sajnálom, de nem ismerlek. A parancsom az, hogy kizárólag Polgárokat engedjek be. Talán Lynette Els? Polgártól kapsz engedélyt.}
 {138}{}{Üdvözlöm, Kapitány! Segíthetek?}
 {139}{}{Rendben.}
 {140}{}{Csak körülnéztem.}
@@ -48,25 +48,25 @@
 {146}{}{Egy ghoul? Hol?}
 {147}{}{Egy mutáns? Hol?}
 {148}{}{Velem van.}
-{149}{}{Együtt utazunk, õ a társam. Ha bármelyik rasszistának gondja van ezzel, megbeszélhetjük. Itt és most.}
-{150}{}{Ha az a... lény veled van, akkor mindkettõtöknek az Elõvárosban a helye!}
+{149}{}{Együtt utazunk, ? a társam. Ha bármelyik rasszistának gondja van ezzel, megbeszélhetjük. Itt és most.}
+{150}{}{Ha az a... lény veled van, akkor mindkett?töknek az El?városban a helye!}
 {151}{}{Rendben, békésen távozunk.}
 {152}{}{Azt próbáld meg! Garantálom, hogy megrázó élményben lesz részed.}
 {153}{}{Hogy kerültek ide ezek a Kívülállók?}
 {154}{}{Nézd már azt a kreatúrát!}
-{155}{}{Mindkettõtöknek az Elõvárosban a helye, nem pedig itt.}
+{155}{}{Mindkett?töknek az El?városban a helye, nem pedig itt.}
 {156}{}{ÉN NEM MENNI! TE NEM BARÁT!}
 {157}{}{Megyünk... megyünk elfele... nem rángassa engemet.}
 {158}{}{Rendben, békésen távozunk.}
-{159}{}{Együtt utazunk, õ a társam. Ha bármelyik rasszistának gondja van ezzel, megbeszélhetjük. Itt és most.}
-{160}{}{Õrség! Behatolók a városban!}
+{159}{}{Együtt utazunk, ? a társam. Ha bármelyik rasszistának gondja van ezzel, megbeszélhetjük. Itt és most.}
+{160}{}{?rség! Behatolók a városban!}
 {161}{}{Hrnghhhhhhhh!}
-{162}{}{Mire a haverjaid elõkerülnek, hulla leszel!}
-{163}{}{Te gyõzted le az Enklávét!}
-{164}{}{Nézzétek! Õ az, aki legyõzte az Enklávét!}
+{162}{}{Mire a haverjaid el?kerülnek, hulla leszel!}
+{163}{}{Te gy?zted le az Enklávét!}
+{164}{}{Nézzétek! ? az, aki legy?zte az Enklávét!}
 {165}{}{Üdvözlünk Menedékvárosban!}
-{166}{}{Az Enklávé elleni harcod nagy hatással volt még az Elsõ Polgárra is.}
-{167}{}{Úgy hallottam, hogy délrõl, San Franciscóból jöttél. Igaz ez?}
+{166}{}{Az Enklávé elleni harcod nagy hatással volt még az Els? Polgárra is.}
+{167}{}{Úgy hallottam, hogy délr?l, San Franciscóból jöttél. Igaz ez?}
 {168}{}{Igaz, hogy az Egyesült Államok még mindig háborúban áll?}
 {169}{}{Készíthetnél egy szép listát az utazásaidról a menedékvárosi számítógépek számára.}
 {170}{}{Bármikor szívesen látunk Menedékvárosban.}

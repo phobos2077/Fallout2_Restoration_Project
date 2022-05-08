@@ -1,7 +1,7 @@
 {100}{}{Egy szikár, napbarnított embert látsz.}
 {101}{}{Telepes.}
-{102}{}{A farmerekre jellemzõ napcserzett bõre van.}
-{103}{}{Épp a legjobbkor érkeztél. Ha késõbb jöttél volna... szóval, hálát adok az égnek, hogy idõben érkeztél. Nincs túl sok értékünk, de szeretném ha elfogadnád ezt jutalmul, amiért segítettél nekünk. [Átad neked valamit.]}
+{102}{}{A farmerekre jellemz? napcserzett b?re van.}
+{103}{}{Épp a legjobbkor érkeztél. Ha kés?bb jöttél volna... szóval, hálát adok az égnek, hogy id?ben érkeztél. Nincs túl sok értékünk, de szeretném ha elfogadnád ezt jutalmul, amiért segítettél nekünk. [Átad neked valamit.]}
 {104}{}{Köszönöm!}
 {105}{}{Ah...}
 {106}{}{Még egyszer köszönjük, hogy segítettél.}
@@ -23,9 +23,9 @@
 {122}{}{Jól van. Megvolt az üzlet. Kérlek, távozz!}
 {123}{}{[vége]}
 {124}{}{Hagyd el a farmomat!}
-{125}{}{Senki nem veheti el tõlem az otthonomat!}
+{125}{}{Senki nem veheti el t?lem az otthonomat!}
 {126}{}{Mocskos banditák!}
-{127}{}{Tûnj a földemrõl!}
+{127}{}{T?nj a földemr?l!}
 {128}{}{Manapság már senkiben sem lehet megbízni.}
 {129}{}{Rohadt banditák!}
 {130}{}{Túl keményen dolgoztam ahhoz, hogy most feladjam.}

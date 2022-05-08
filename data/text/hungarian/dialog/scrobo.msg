@@ -1,6 +1,6 @@
 {100}{}{Egy furcsa, félig kutya, félig fém dolgot látsz. Úgy látszik, be van kapcsolva.}
 {101}{}{Ez itt egy Roboeb! Mindenki kedvence!}
-{102}{}{Ez a valami vagy egy szörnyûséges módon összetákolt kutya-gép kombináció vagy teljes mértékben gép és csak külsõre néz ki kutyának. Nehéz megmondani.}
+{102}{}{Ez a valami vagy egy szörny?séges módon összetákolt kutya-gép kombináció vagy teljes mértékben gép és csak küls?re néz ki kutyának. Nehéz megmondani.}
 {103}{}{Arf! <katt> Vaúú!}
 {104}{}{...bzzzzzz...}
 {105}{}{.whirrrrr... Nem vagyok kutyuli.}
@@ -13,7 +13,7 @@
 {112}{}{Yipe! Yipe! Yipe!}
 {113}{}{Veszély! Veszély!}
 {114}{}{Rowf! <tick-tick-tick> Rowf!}
-{115}{}{<whirrr> Nem madár, nem repülõ, nem is béka, csak én magam - Roboeb!<katt>}
+{115}{}{<whirrr> Nem madár, nem repül?, nem is béka, csak én magam - Roboeb!<katt>}
 {116}{}{Rooby-Doo!}
 {117}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
 {118}{}{Vaúú!}

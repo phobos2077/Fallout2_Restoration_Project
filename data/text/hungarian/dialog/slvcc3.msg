@@ -1,4 +1,4 @@
-{100}{}{Házõrzõ.}
+{100}{}{Ház?rz?.}
 {101}{}{You see a scruffy looking dog.}
 {102}{}{Vaúú!}
 {103}{}{Vaú! Vaú!}

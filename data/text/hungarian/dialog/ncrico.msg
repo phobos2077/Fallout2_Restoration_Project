@@ -1,7 +1,7 @@
-{100}{}{Ez itt egy jó nagy darab bûnözõ.}
-{101}{}{Õ Rico.}
-{150}{}{Ez itt egy jó nagy darab, kõarcú ember. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
-{151}{}{Ez itt Rico. Ittapiros testõre. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
+{100}{}{Ez itt egy jó nagy darab b?nöz?.}
+{101}{}{? Rico.}
+{150}{}{Ez itt egy jó nagy darab, k?arcú ember. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
+{151}{}{Ez itt Rico. Ittapiros test?re. Úgy néz ki, mint aki rendszeresen téglát reggelizik.}
 {175}{}{Hörgghh}
 {176}{}{Hnrfff}
 {177}{}{Sznffff}

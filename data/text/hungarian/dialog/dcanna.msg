@@ -13,12 +13,12 @@
 {160}{}{Hol van? Nem találom! Mi lesz most?! Ó...}
 {161}{}{Mit keres? Talán tudok segíteni.}
 {162}{}{Jó lenne, ha abbahagyná a nyöszörgést, meg a panaszkodást, és értelmesen kezdene beszélni!}
-{163}{}{A medálom! Eltûnt. Tolvaj! Tolvaj!}
+{163}{}{A medálom! Elt?nt. Tolvaj! Tolvaj!}
 {164}{}{Én csak most érkeztem! Nem én voltam.}
 {165}{}{Segítsek megtalálni?}
 {166}{}{Ó, kegyetlen sors.}
 {167}{}{Nem hall engem, ugye?}
-{168}{}{Késõbb, szellem-hölgy.}
+{168}{}{Kés?bb, szellem-hölgy.}
 {169}{}{Minden jót! Megpróbálok segíteni.}
 {170}{}{A medálom! Adja ide! Óóóó!!!!}
 {171}{}{Dehogyis! Menjen a pokolba! Tisztességes úton jutottam hozzá.}

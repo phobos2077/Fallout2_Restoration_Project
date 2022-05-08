@@ -28,7 +28,7 @@
 {401}{}{I think I just might. I have some questions though.}
 {402}{}{Thanks. I think I'll go do that now.}
 {500}{}{I am at your service. What would you like to know?}
-{501}{}{Mit tudsz mondani nekem errõl a városról?}
+{501}{}{Mit tudsz mondani nekem err?l a városról?}
 {502}{}{You seem to be very poetic in your preaching. Any reason for this?}
 {503}{}{Nevermind. Take care.}
 {600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get

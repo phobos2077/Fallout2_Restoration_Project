@@ -3,18 +3,18 @@
 {102}{}{He looks like he's high on drugs.}
 {103}{}{She looks like she's high on drugs.}
 {104}{}{He's looking pretty bad. You suspect it's withdrawal from some kind of drug.}
-{105}{}{Jobb napokat is megélt már. Úgy tûnik, valamiféle megvonástól szenved.}
+{105}{}{Jobb napokat is megélt már. Úgy t?nik, valamiféle megvonástól szenved.}
 {106}{}{This addict looks like the living dead.}
 {107}{}{You think this addict just threw up.}
 {150}{}{Nem bírom a fényt!}
 {151}{}{Szörnyek! Mindenütt!}
 {152}{}{Ez fura volt.}
 {153}{}{Vérzek?}
-{154}{}{Ez rendszerint nem szokott ilyen valóságosnak tûnni.}
+{154}{}{Ez rendszerint nem szokott ilyen valóságosnak t?nni.}
 {155}{}{Hagyd abba, ember!}
 {156}{}{Senki sem segít?}
 {157}{}{Segítség!}
-{158}{}{Tûnj el innen!}
+{158}{}{T?nj el innen!}
 {159}{}{Így is eléggé fáj a fejem!}
 {160}{}{Haggyá' békén!}
 {200}{}{Ejha, érdekes, sötét fényed van.}
@@ -29,7 +29,7 @@
 {209}{}{Olyan virgoncnak érzem magam!}
 {210}{}{Végigfolyik az ereimben...}
 {211}{}{Ez az, bébi!}
-{212}{}{Úúúúúh, érzed az erõt? }
+{212}{}{Úúúúúh, érzed az er?t? }
 {213}{}{A mindenit, te ragyogsz!}
 {214}{}{Imádlak, ember!}
 {215}{}{Az élet olyan jó volt hozzám. Hozzád is?}
@@ -67,7 +67,7 @@
 {308}{}{Csak hagyj meghalni!}
 {350}{}{Ahhhh...}
 {351}{}{Lebegek...}
-{352}{}{Az erõ velem van!}
+{352}{}{Az er? velem van!}
 {353}{}{Helló, Mr. Hippi.}
 {354}{}{Micsoda színek...}
 {355}{}{Barátom, figyeled az eget?}
@@ -100,7 +100,7 @@
 {403}{}{Egy szörny! Megölni!}
 {404}{}{Áh! Pargasraka!}
 {405}{}{Beleptek a patkányok! Ááá!}
-{406}{}{Nem veszed el tõlem!}
+{406}{}{Nem veszed el t?lem!}
 {407}{}{Add vissza!}
 {408}{}{Nem!!!}
 {409}{}{A családom!}

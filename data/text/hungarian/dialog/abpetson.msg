@@ -20,7 +20,7 @@
 {305}{}{Nevermind, I must be going.}
 {400}{}{What else would you like to know?}
 {401}{}{What can you tell me about the Abbey?}
-{402}{}{Hallottál már az Édenkert Létrehozást Elõsegítõ Táskáról?}
+{402}{}{Hallottál már az Édenkert Létrehozást El?segít? Táskáról?}
 {500}{}{Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
  in the monastery's computers. Unfortunately for you, those monks are real protective of their information--afraid that it'll
  lead to another war or something if people learn too much. Still, it might be worth asking around there.}

@@ -1,18 +1,18 @@
 {100}{}{Egy magas és szikár embert látsz, vastag szemüveggel az orrán.}
-{101}{}{Õ Jimmy.}
+{101}{}{? Jimmy.}
 {102}{}{Egy magas, szikár embert látsz, vastag szemüveggel az orrán. Ahogy magában beszélve elmerül a gondolataiban, homlokát mélyen összeráncolja, és körbe-körbe járkál a szobában.}
 {103}{}{Ó, helló! Jim vagyok, illetve Jimmy. No, mi a helyzet?}
 {104}{}{Én nézni körül.}
 {105}{}{Én}
 {106}{}{Öö... Én csak járkálni. Mostan menni el.}
-{107}{}{Csak nézelõdök.}
+{107}{}{Csak nézel?dök.}
 {108}{}{Helló, Jim. A nevem}
-{109}{}{Semmi közöd hozzá, négyszemû. Tûnés!}
+{109}{}{Semmi közöd hozzá, négyszem?. T?nés!}
 {110}{}{Csak épp erre császkáltam. Már megyek is.}
-{111}{}{Nyugodtan nézelõdj ameddig csak akarsz, de ne nyúlj semmihez! Van itt pár érzékeny berendezés.}
-{112}{}{Én csak nézelõdje. Én nem nyúlni.}
-{113}{}{Csak nézelõdök. Semmihez sem nyúlok.}
-{114}{}{Idegesítõ vagy! Menj el!}
+{111}{}{Nyugodtan nézel?dj ameddig csak akarsz, de ne nyúlj semmihez! Van itt pár érzékeny berendezés.}
+{112}{}{Én csak nézel?dje. Én nem nyúlni.}
+{113}{}{Csak nézel?dök. Semmihez sem nyúlok.}
+{114}{}{Idegesít? vagy! Menj el!}
 {115}{}{Elnézést, nem akartalak megbántani. Békén is hagylak szépen...}
 {116}{}{Jó.}
 {117}{}{Örülök, hogy találkoztunk,}
@@ -35,18 +35,18 @@
 {134}{}{Mi lenni probléma?}
 {135}{}{Mi a probléma?}
 {136}{}{Igen, Gruthar említette nekem, és megkért, hogy nézzem meg. Szabad lesz?}
-{137}{}{Elromlott a hangvezérlés, így Gruthar nem tudja irányítani a menedéket. Az étel és ivóvíz feldolgozás már leállt. Valószínû, hogy a következõ az áramellátás lesz.}
+{137}{}{Elromlott a hangvezérlés, így Gruthar nem tudja irányítani a menedéket. Az étel és ivóvíz feldolgozás már leállt. Valószín?, hogy a következ? az áramellátás lesz.}
 {138}{}{Mér nem használni billen-tüzet?}
-{139}{}{Miért nem gépelitek be billentyûzetrõl?}
-{140}{}{Nos, ez a legérdekesebb. A rendszer elutasítja a billentyûzetet. Ennél a pontnál már csõdöt mond a tudásom.}
+{139}{}{Miért nem gépelitek be billenty?zetr?l?}
+{140}{}{Nos, ez a legérdekesebb. A rendszer elutasítja a billenty?zetet. Ennél a pontnál már cs?döt mond a tudásom.}
 {141}{}{Megnézni én lehet?}
 {142}{}{Szabad lesz megnéznem?}
 {143}{}{Igen, Gruthar említette nekem, és megkért, hogy nézzem meg. Szabad lesz?}
 {144}{}{Hát... rendben, de biztosan értesz hozzá? Áh, mindegy. Ennél rosszabb már úgysem lehet. Tessék csak.}
 {145}{}{Ennél rosszabb már úgysem lehet. Tessék csak.}
-{146}{}{Oké, de én elõbb kérdezni.}
-{147}{}{Rendben, de elõbb feltennék néhány kérdést.}
-{148}{}{Ez itt a szuper-számítógép és a hozzátartozó kiegészítõ rendszerek. Innen a menedék valamennyi része irányítható.}
+{146}{}{Oké, de én el?bb kérdezni.}
+{147}{}{Rendben, de el?bb feltennék néhány kérdést.}
+{148}{}{Ez itt a szuper-számítógép és a hozzátartozó kiegészít? rendszerek. Innen a menedék valamennyi része irányítható.}
 {149}{}{Öö... ha te mondod.}
 {150}{}{Hm, értem.}
 {151}{}{Ez itt a Menedék-felvigyázó terme, de a 13-as Menedéket teljesen automatizálták.}
@@ -54,30 +54,30 @@
 {153}{}{Oké, én kérdez még.}
 {154}{}{Miért? Úgy értem, ez nem szokatlan dolog?}
 {155}{}{Értem. Beszéljünk másról!}
-{156}{}{Nem ismerem a teljes sztorit, de a menedék történetében volt egy lázadás. A felvigyázót megölték, vagy leváltották, nem tudom. Így vagy úgy, a lázadás vezetõi nem akarták az emberek sorsát egy másik felvigyázó kezébe adni, így idetelepítették ezt a szuper-számítógépet. A feljegyzések szerint ezt egy külsõ szervezettõl vásárolták. Melyiktõl is... hm... ó, igen, az "Acél Testvériségtõl".}
-{157}{}{Mondol még Testvérségrõ'?}
-{158}{}{Tudnál még mondani valamit errõl a Testvériségrõl?}
-{159}{}{Sajnálom, de nem tudok róluk semmit. Ez nagyon rég történt, és azóta semmi jel nem utalt rájuk. Szerintem a Testvériség egy katonai szervezet volt. Nyugatra innen megtalálhatod egy katonai bázis romjait. Talán tõlük maradt ránk.}
+{156}{}{Nem ismerem a teljes sztorit, de a menedék történetében volt egy lázadás. A felvigyázót megölték, vagy leváltották, nem tudom. Így vagy úgy, a lázadás vezet?i nem akarták az emberek sorsát egy másik felvigyázó kezébe adni, így idetelepítették ezt a szuper-számítógépet. A feljegyzések szerint ezt egy küls? szervezett?l vásárolták. Melyikt?l is... hm... ó, igen, az "Acél Testvériségt?l".}
+{157}{}{Mondol még Testvérségr?'?}
+{158}{}{Tudnál még mondani valamit err?l a Testvériségr?l?}
+{159}{}{Sajnálom, de nem tudok róluk semmit. Ez nagyon rég történt, és azóta semmi jel nem utalt rájuk. Szerintem a Testvériség egy katonai szervezet volt. Nyugatra innen megtalálhatod egy katonai bázis romjait. Talán t?lük maradt ránk.}
 {160}{}{Oké. Én kérdez még.}
 {161}{}{Rendben. Hát, akkor feltennék még néhány kérdést.}
-{162}{}{Ó, igen. Jól érzem itt magam, mióta ide kerültem, és nem is szeretnék elmenni. Mindig magányos farkas voltam, és nem törõdtem sokat az emberekkel. Jaj, nem akartalak megbántani.}
+{162}{}{Ó, igen. Jól érzem itt magam, mióta ide kerültem, és nem is szeretnék elmenni. Mindig magányos farkas voltam, és nem tör?dtem sokat az emberekkel. Jaj, nem akartalak megbántani.}
 {163}{}{Nem bánt.}
 {164}{}{Semmi gond.}
-{165}{}{Ami azt illeti... Egyfelõl csodálom õket azért, amik, és amivé akarnak válni, másfelõl azonban halálra ijesztenek. Képtelen vagyok hozzászokni, hogy vannak köztük olyan okosak, mint én... legalábbis némelyikük.}
+{165}{}{Ami azt illeti... Egyfel?l csodálom ?ket azért, amik, és amivé akarnak válni, másfel?l azonban halálra ijesztenek. Képtelen vagyok hozzászokni, hogy vannak köztük olyan okosak, mint én... legalábbis némelyikük.}
 {166}{}{Veszélyesek lenni emberre?}
 {167}{}{Szerinted fenyegetést jelentenek az emberi társadalomra?}
-{168}{}{Abszolúte! Sokkal erõsebb testfelépítésûek és a mentális képességeik vetekednek a miénkkel. Ez elég nagy veszélyforrássá teszi õket. A végén úgyis mindenképp a morálnál meg az erkölcsnél kötünk ki. Szerencsére, mindkét tekintetben elég fejlettek.}
+{168}{}{Abszolúte! Sokkal er?sebb testfelépítés?ek és a mentális képességeik vetekednek a miénkkel. Ez elég nagy veszélyforrássá teszi ?ket. A végén úgyis mindenképp a morálnál meg az erkölcsnél kötünk ki. Szerencsére, mindkét tekintetben elég fejlettek.}
 {169}{}{Én érteni.}
 {170}{}{Ühüm, értem, mire gondolsz.}
 {171}{}{Helló! Örülök, hogy ismét találkoztunk. Miben segíthetek?}
 {172}{}{Kell kérdezni kérdés.}
 {173}{}{Csak köszönni. És menni is.}
-{174}{}{Kérdezni akarok tõled valamit.}
+{174}{}{Kérdezni akarok t?led valamit.}
 {175}{}{Csak benéztem.}
-{176}{}{Hát, lássuk csak... A legjobb hely talán Menedékváros lenne, az a legmodernebb város, amirõl tudok. De próbálkozhatsz akár New Renóban is. Közelebb is van, és kereskedik Menedékvárossal.}
+{176}{}{Hát, lássuk csak... A legjobb hely talán Menedékváros lenne, az a legmodernebb város, amir?l tudok. De próbálkozhatsz akár New Renóban is. Közelebb is van, és kereskedik Menedékvárossal.}
 {177}{}{Köszi.}
 {178}{}{Kösz, hogy megjavítottad a számítógépet. Mindannyiunkat megmentettél.}
-{179}{}{Jobb dolgom is akad, mint agyonlõni téged, de hát valakinek ezt is meg kell tenni!}
+{179}{}{Jobb dolgom is akad, mint agyonl?ni téged, de hát valakinek ezt is meg kell tenni!}
 {180}{}{. Én tesz kérdés?}
 {181}{}{. Feltehetek néhány kérdést?}
 {182}{}{. Szívesen válaszolnék néhány kérdésre.}

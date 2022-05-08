@@ -1,10 +1,10 @@
 {100}{}{Egy nagy darab, primitív embert látsz.}
 {125}{}{Vágások és horzsolások borítják az egész testét.}
-{150}{}{Egy karcsú, de primitiv nõt látsz.}
+{150}{}{Egy karcsú, de primitiv n?t látsz.}
 {175}{}{Úgy látszik, megverték.}
-{200}{}{Egy szakadt külsejû embert látsz.}
+{200}{}{Egy szakadt külsej? embert látsz.}
 {225}{}{Nem valami egészséges.}
-{250}{}{Egy nõi fogoly.}
+{250}{}{Egy n?i fogoly.}
 {275}{}{Rongyos és alultáplált.}
 {300}{}{Nem bánts, kérlek!}
 {301}{}{Szabadok vagyunk?}
@@ -27,7 +27,7 @@
 {330}{}{Mit csináltunk rosszul?}
 {331}{}{Hagyj minket békén, hajcsár!}
 {332}{}{Ne bánts!}
-{333}{}{Takarodj a szemem elõl!}
+{333}{}{Takarodj a szemem el?l!}
 {350}{}{Te ki?}
 {351}{}{Te nem vagy rabszolga-hajcsár.}
 {352}{}{Nem bántasz?}
@@ -85,14 +85,14 @@
 {440}{}{Mi volt ez a hangos fegyverzaj? Mit akarsz?}
 {441}{}{Hé! Mi volt ez a fegyverropogás? Meghaltak a hajcsárok?}
 {442}{}{Hé! Mi volt ez a fegyverropogás? Mi folyik itt?}
-{443}{}{Az volt Metzger lefekvés elõtti itókája.}
+{443}{}{Az volt Metzger lefekvés el?tti itókája.}
 {444}{}{Óh, semmi-semmi. Csak benéztem hozzátok. Minden jót!}
 {445}{}{Szabadon elmehettek. Metzger halott.}
 {446}{}{Szabadok vagytok.}
 {447}{}{ barát. Megölte Mezgur-t Te most mész.}
 {448}{}{ barát. Megölte Mezgur-t Te most mész.}
 {460}{}{Halott? Köszönet érte! Elmenekülünk innen. Üdv, a barátunk vagy.}
-{461}{}{Mi? Metzger halott? Nagyon köszönöm! Jobb ha elmegyünk, mielõtt újak jönnek. Még egyszer köszi.}
+{461}{}{Mi? Metzger halott? Nagyon köszönöm! Jobb ha elmegyünk, miel?tt újak jönnek. Még egyszer köszi.}
 {462}{}{Nem tesz semmit. Na, induljatok!}
 {463}{}{Vigyázzatok magadokra!}
 {464}{}{Szóra sem érdemes.}
@@ -109,7 +109,7 @@
 {500}{}{Nahát...}
 {501}{}{Rá se ránts! Szabadok vagytok! Metzger halott.}
 {510}{}{Micsoda? Szabadok? Vége a rossz embernek? Akkor gyorsan indulunk! Köszönjük. Barátunk vagy! Viszlát!}
-{511}{}{Szabadok? Mindannyian? Megölted õket? Nagyon köszönjük! Jobb, ha addig megyünk, ameddig tudunk. Még egyszer köszönjük, szent ember vagy!}
+{511}{}{Szabadok? Mindannyian? Megölted ?ket? Nagyon köszönjük! Jobb, ha addig megyünk, ameddig tudunk. Még egyszer köszönjük, szent ember vagy!}
 {520}{}{Légy átkozott!}
 {521}{}{Rohadj meg a pokolban!}
 {522}{}{Ezért fizetni fogsz!}
@@ -138,4 +138,4 @@
 {609}{}{Gyerünk!}
 {610}{}{Mindenki! Szabadok vagyunk!}
 {611}{}{Juhééééjjjj!}
-{700}{}{Kiszabadítottad a rabszolgákat a ketreceikbõl.}
+{700}{}{Kiszabadítottad a rabszolgákat a ketreceikb?l.}

@@ -12,13 +12,13 @@
 {111}{}{Súlyosan megsérültem. Tudsz segíteni?}
 {112}{}{Fel szeretnék tenni néhány kérdést.}
 {113}{}{Csak beköszöntem.}
-{114}{}{Természetesen. Tessék, adunk egy adagot ebbõl -- ez egy picit csípni fog -- aztán bekötjük, és már kész is vagy.}
+{114}{}{Természetesen. Tessék, adunk egy adagot ebb?l -- ez egy picit csípni fog -- aztán bekötjük, és már kész is vagy.}
 {115}{}{Én köszön. Szia.}
 {116}{}{Kösz, doki! Sokkal jobban vagyok.}
 {117}{}{Természetesen. Tessék, idd meg ezt! Tudom, hogy pocsék íze van, de az egészet le kell nyelned. Most pedig feküdj le az ágyra, holnap reggelre kutya bajod se lesz.}
 {118}{}{Én lenni jól. Szia.}
 {119}{}{Kösz, Doki, ez tényleg segített.}
-{120}{}{Sajnálom, de nincs megfelelõ felszerelésem a mûtétekhez. Azt javaslom, menj el valamelyik nagyobb városba, és keress egy sebészt! Próbáld meg Menedékvárost! Innen északra van.}
+{120}{}{Sajnálom, de nincs megfelel? felszerelésem a m?tétekhez. Azt javaslom, menj el valamelyik nagyobb városba, és keress egy sebészt! Próbáld meg Menedékvárost! Innen északra van.}
 {121}{}{Oké. Üdv!}
 {122}{}{Rendben. Azért kösz.}
 {123}{}{Mit szeretnél tudni?}
@@ -34,31 +34,31 @@
 {133}{}{Hogy kerültél ide?}
 {134}{}{Említetted, hogy Darionnak van egy kutyája.}
 {135}{}{Kösz az infót. Most már megyek.}
-{136}{}{Nos, igen is meg nem is. Nem szabad akaratomból vagyok itt. Darion évekkel ezelõtt berendezkedett ide, és szüksége volt egy orvosra. A Khan-ok kizárólag az õ személye miatt tartanak itt. Szívem szerint a fenti enbereken segítenék, de rab vagyok. }
+{136}{}{Nos, igen is meg nem is. Nem szabad akaratomból vagyok itt. Darion évekkel ezel?tt berendezkedett ide, és szüksége volt egy orvosra. A Khan-ok kizárólag az ? személye miatt tartanak itt. Szívem szerint a fenti enbereken segítenék, de rab vagyok. }
 {137}{}{Oké. Még kérdezni.}
 {138}{}{Kösz. Viszlát!}
-{139}{}{Ez nagyon rendes tõled.}
+{139}{}{Ez nagyon rendes t?led.}
 {140}{}{Értem. Akkor most lelépek.}
 {141}{}{De hát azok csak koszos földfoglalók. Dögöljenek csak meg! Éld a saját életed!}
-{142}{}{Nem, be vagyok zárva. Még annyi idõre sem mehetek el, hogy feltöltsem a készleteimet. Darion kiküldet mindenért, amire szükségem van.}
+{142}{}{Nem, be vagyok zárva. Még annyi id?re sem mehetek el, hogy feltöltsem a készleteimet. Darion kiküldet mindenért, amire szükségem van.}
 {143}{}{Én érteni. Menni mostan.}
 {144}{}{Kell még kérdés.}
 {145}{}{Azt hiszem, nem vagy méltó arra, hogy szabadon élhess.}
 {146}{}{Értem. Sajnálom, de most mennem kell.}
 {147}{}{Sajnálattal hallom.}
-{148}{}{Egyszerûen és érthetõen fogalmazva Darion klinikai eset. Több kísértetet lát, mint ahány bolhája van a kutyájának. Annyit tudok, hogy egy banda tagja volt, akik elraboltak egy lányt, Tandit, és váltságdíjat követeltek érte. Az apja pokoli haragra gerjedt, és felbérelt néhány zsoldost, hogy visszahozzák a lányát. Darion volt az egyetlen, aki túlélte.}
+{148}{}{Egyszer?en és érthet?en fogalmazva Darion klinikai eset. Több kísértetet lát, mint ahány bolhája van a kutyájának. Annyit tudok, hogy egy banda tagja volt, akik elraboltak egy lányt, Tandit, és váltságdíjat követeltek érte. Az apja pokoli haragra gerjedt, és felbérelt néhány zsoldost, hogy visszahozzák a lányát. Darion volt az egyetlen, aki túlélte.}
 {149}{}{Öö... ha te mondod.}
 {150}{}{Menni kell.}
 {151}{}{Köszönöm az információt, most megyek.}
-{152}{}{Lenyûgöz a tudásod.}
+{152}{}{Leny?göz a tudásod.}
 {153}{}{Mintha csak rólam beszélnél.}
 {154}{}{Elraboltak. Épp Menedékvárosból New Renóba tartottam, hogy kipihenjem az éves munka fáradalmait. Egyik este aludni tértem és reggel arra ébredtem, hogy összekötözve, betömött szájjal fekszem a földön.}
 {155}{}{Ööhh.}
 {156}{}{Kösz. Én menni most.}
-{157}{}{A gyengék gyakran az erõsek zsákmányává válnak.}
+{157}{}{A gyengék gyakran az er?sek zsákmányává válnak.}
 {158}{}{Sajnálattal hallom.}
 {159}{}{Ez érdekes, de mennem kell.}
-{160}{}{Igen, van. Véleményem szerint a legaljasabb, leghitványabb kreatúra a Földön. Úgy tûnik, szereti Dariont. Õ az egyetlen, akit megtûr maga mellett. Nagyon vigyázz vele!}
+{160}{}{Igen, van. Véleményem szerint a legaljasabb, leghitványabb kreatúra a Földön. Úgy t?nik, szereti Dariont. ? az egyetlen, akit megt?r maga mellett. Nagyon vigyázz vele!}
 {161}{}{Én még kérdezze.}
 {162}{}{Öö, üdv.}
 {163}{}{Kösz a figyelmeztetést.}
@@ -66,7 +66,7 @@
 {165}{}{Nem segítek a magadfajtának. Eredj innen!}
 {166}{}{Oké, vigyázz magadra, és gyere vissza, ha szükséged van segítségre!}
 {167}{}{Megbeszéltük.}
-{168}{}{Paranoid. Azt hiszi, Tandi el akarja kapni. Rögeszméjévé vált a bosszú, és mindenáron végezni akar vele. Közben teljesen elemészti a bûntudat, mert elrejtõzött és túlélte, ahelyett, hogy ott pusztult volna a bandával.}
+{168}{}{Paranoid. Azt hiszi, Tandi el akarja kapni. Rögeszméjévé vált a bosszú, és mindenáron végezni akar vele. Közben teljesen elemészti a b?ntudat, mert elrejt?zött és túlélte, ahelyett, hogy ott pusztult volna a bandával.}
 {200}{}{Darion is dead.}
 {201}{}{Dar-e-on dead.}
 {202}{}{He is!? Oh, this is wonderful news.}

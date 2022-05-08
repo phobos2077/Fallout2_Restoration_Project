@@ -1,5 +1,5 @@
 {100}{}{Bokszoló.}
-{101}{}{Õ Evan Hollyfeld.}
+{101}{}{? Evan Hollyfeld.}
 {150}{}{Ez itt egy zömök fickó, masszív, szögletes állkapoccsal. A fülei alaposan meg vannak tépázva.}
 {151}{}{A fülei alaposan meg vannak tépázva.}
 {152}{}{A fülei alaposan meg vannak tépázva.}
@@ -20,7 +20,7 @@
 {310}{}{Harapol?}
 {311}{}{Hell-o good smell person.}
 {312}{}{Hell-o girl person.}
-{313}{}{Akarol fejelõdni}
+{313}{}{Akarol fejel?dni}
 {314}{}{Me like head-butt.}
 {315}{}{Me and Mike butt heads.}
 {316}{}{I butt Mike but he bite my ears.}

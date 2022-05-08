@@ -1,6 +1,6 @@
-{100}{}{Egy bõrpáncélt viselõ férfit látsz.}
+{100}{}{Egy b?rpáncélt visel? férfit látsz.}
 {101}{}{Kaga.}
-{102}{}{Bõrpáncélt visel, és van egy nagyon idegesítõ szokása: harmadik személyben beszél saját magáról.}
+{102}{}{B?rpáncélt visel, és van egy nagyon idegesít? szokása: harmadik személyben beszél saját magáról.}
 {103}{}{Ez lesz az utolsó alkalom, hogy Kaga találkozott veled.}
 {104}{}{After Kaga kill you, he will burn Arroyo to the ground.}
 {105}{}{Érezd Kaga haragját!}

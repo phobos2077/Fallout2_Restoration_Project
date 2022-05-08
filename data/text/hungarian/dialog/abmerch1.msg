@@ -1,4 +1,4 @@
-{100}{}{Egy kereskedõt látsz.}
+{100}{}{Egy keresked?t látsz.}
 {102}{}{You see a merchant who is trying to fix the waterpump.}
 {103}{}{I just can't get this thing working!}
 {104}{}{This seems to be very hard to fix.}

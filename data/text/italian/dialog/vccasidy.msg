@@ -1,8 +1,8 @@
 {100}{}{Vedi un uomo attempato con delle profonde cicatrici che gli solcano il viso. Se ha notato che lo stai guardando, non lo da' a vedere.}
 {101}{}{Vedi Cassidy.}
 {102}{}{Vedi un uomo attempato con delle profonde cicatrici che gli solcano il viso. Ti fa un cenno col capo.}
-{103}{Cas0103}{Well, now. I ain't seen you around before, stranger. Name's Cassidy. I run this place. What can I do for you?}
-{104}{Cas0104}{Well now, if it ain't the mysterious stranger. What can I do for you today?}
+{103}{Cas0103}{Bene, bene. Non ti ho mai visto da queste parti, straniero. Mi chiamo Cassidy. Gestisco questo locale. Cosa posso fare per te?}
+{104}{Cas0104}{Bene, bene... ecco qua lo straniero misterioso. Cosa posso fare per te, oggi?}
 {105}{}{Ug Nog?}
 {106}{}{-Allontanati-}
 {107}{}{Sto cercando il Vault.}
@@ -10,69 +10,68 @@
 {109}{}{Cos'avete da bere?}
 {110}{}{Successo niente di interessante, da queste parti?}
 {111}{}{Per oggi niente, grazie.}
-{112}{Cas0112}{Hit on the head a little too often, eh? Sorry, I don't speak imbecile.}
+{112}{Cas0112}{Hai sbattuto la testa un po' troppo spesso, eh? Scusa, ma non parlo con gli imbecilli.}
 {113}{}{Bici-li?}
-{114}{Cas0114}{Vault? Only Vault I know of is the one inside the city. Big friggin' hole... you can't miss it, trust me.}
+{114}{Cas0114}{Vault? L'unico Vault che conosco e' quello all'interno della citta'. Un grosso, fottutissimo buco... Non puoi mancarlo, credimi.}
 {115}{}{Cos'avete da bere, qui?}
 {116}{}{Successo niente di interessante, da queste parti?}
 {117}{}{Grazie per le indicazioni. addio.}
-{118}{Cas0118}{Beer for $20, shot of whiskey for $30. Nothing special. Why, you want something?}
+{118}{Cas0118}{Birra per 20$, un bicchierino di whiskey per 30$. Niente di speciale. Perche', vuoi qualcosa?}
 {119}{}{Sto cercando il Vault.}
 {120}{}{Prendero' una birra.}
 {121}{}{Prendero' il whiskey.}
 {122}{}{Successo niente di interessante, da queste parti?}
 {123}{}{Veramente no. Grazie lo stesso.}
-{124}{Cas0124}{"Interesting?" Heh. Friend, Vault City ain't an "interesting" place... unless the guards get bored, then you
- better take cover. Why you asking? You looking for something in this sinkhole?}
+{124}{Cas0124}{"Interessante"? Eh. Amico, Vault City non e' un posto "interessante"... a meno che le guardie non si annoino, e allora sara' meglio che ti cerchi un riparo. Perche' lo chiedi? Stai cercando qualcosa in questa fogna?}
 {125}{}{Cos'avete da bere, qui?}
 {126}{}{Veramente sto cercando il Vault.}
 {127}{}{Vivere qui non puo' essere cosi' brutto...}
 {128}{}{Veramente no. Grazie lo stesso.}
-{129}{Cas0129}{Here you go. Drink up. It might help you forget where you are.}
+{129}{Cas0129}{Ecco a te. Bevi. Forse ti aiutera' a dimenticare dove ti trovi.}
 {130}{}{Questo posto non puo' essere cosi' brutto.}
 {131}{}{Grazie per il drink. Devo andare.}
-{132}{Cas0132}{Oh, really? Well, hell then, I must be mistaken, considering YOU'RE the authority and all. Guess you must have been napping during the raid last week?}
+{132}{Cas0132}{Oh, davvero? Beh, diamine, sicuramente mi sbaglio io, allora, dal momento che TU SEI un'autorita' e tutto il resto. Forse ti stavi facendo un pisolino durante l'irruzione della settimana scorsa, eh?}
 {133}{}{Irruzione?}
-{134}{Cas0134}{Aw, yeah, a beautiful sight it was. A guard patrol broke in here looking for "illegal substances." They busted down the door, busted up my stock, then busted up a few of my customers, too.}
+{134}{Cas0134}{Aw, certo, che splendida visione. Una pattuglia di guardia ha fatto irruzione qui dentro per cercare "sostanze illegali". Hanno sfondato la porta, distrutto le mie scorte e poi hanno anche dato una ripassata a un paio di clienti.}
 {135}{}{Cos'e' successo dopo?}
 {136}{}{Mi dispiace... Parlero' con te piu' tardi.}
-{137}{Cas0137}{After they hauled away this one guy, Joshua, for resisting arrest, they fined my ass for finding - get this - REAL whiskey on the premises. Nevermind that I got a permit from Stark three months before. Bastards.}
+{137}{Cas0137}{Dopo aver trascinato via un tizio, Joshua, per aver fatto resistenza all'arresto, mi hanno dato una bella multa perche' hanno trovato - immaginati - del VERO whiskey nel locale. Naturalmente non aveva importanza che io avessi ricevuto il permesso da Stark tre mesi prima. Che bastardi.}
 {138}{}{Whoa. Non c'e' da scherzare.}
 {139}{}{Mi dispiace... Parlero' con te piu' tardi.}
-{140}{Cas0140}{It gets better. Now I'm in debt to the guards for the fine, an' I had to buy a new case of alcohol from a merchant at triple my standard rate. I'm expecting the guards to come knocking again soon, just to bust my chops. }
+{140}{Cas0140}{E adesso viene il bello. Ora sono in debito con le guardie per via della multa e devo comprare una nuova scorta di alcolici da un mercante al triplo del prezzo normale. Mi aspetto che le guardie si rifacciano vive presto, solo per darmi una bella lezione.}
 {141}{}{E di solito come va la vita?}
 {142}{}{Spero che in futuro le cose migliorino. Ci vediamo.}
-{143}{Cas0143}{Even the good days ain't worth a damn. The Citizens don't drink much, so I'm stuck here pouring drinks for merchants. The next cheap sonuvabitch who haggles for a drink is going to be wearing his ass as a hat.}
+{143}{Cas0143}{Persino nelle giornate "migliori" non si fanno grandi affari. I Cittadini non bevono molto, per cui sono bloccato qui a versare da bere ai mercanti. Il prossimo figlio di puttana pidocchioso che viene qui a tirare sul prezzo di un bicchiere di whiskey sara' costretto a indossare il suo culo come fosse un cappello.}
 {144}{}{Perche' rimani qui, se odi cosi' tanto questo posto?}
 {145}{}{Mi dispiace... Sto cercando un Vault. Puoi aiutarmi?}
 {146}{}{Mi dispiace... Spero che le cose ti vadano meglio.}
-{147}{Cas0147}{I have a bad heart. Need cardio booster shots to keep it beating. This city's the only place to get real medical care, so I thought I'd settle here, try and make a living.}
+{147}{Cas0147}{Ho il cuore malandato. Per farlo battere ho bisogno di periodiche iniezioni di un tonico cardiaco. Questa citta' e' l'unico posto dove trovare un'assistenza medica decente, percio' ho pensato di stabilirmi qui, cercando di tirare avanti.}
 {148}{}{Sembri piuttosto stufo di questo posto.}
 {149}{}{Capisco. Senti, sto cercando un Vault. Puoi aiutarmi?}
 {150}{}{Spero che le cose ti vadano meglio, d'ora in poi. Ci vediamo.}
-{151}{Cas0151}{Makes me want to close up shop and let this City rot. Screw 'em all.}
+{151}{Cas0151}{Mi vien voglia di chiudere la baracca e lasciare questa citta' a marcire. Che si fottano tutti.}
 {152}{}{Perche' non te vai?}
 {153}{}{Mi dispiace... Spero che le cose ti vadano meglio.}
-{154}{Cas0154}{Go into the wastes by myself? Ha! I'm sick of this place, but I ain't stupid.}
+{154}{Cas0154}{Andare nelle Lande da solo? Ah! Saro' anche stufo di questo posto, ma non sono stupido.}
 {155}{}{Io sto per andarmene da qui. Perche' non vieni con me?}
 {156}{}{Beh, buona fortuna, allora.}
-{157}{Cas0157}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
-{158}{Cas0158}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
-{159}{Cas0159}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{160}{Cas0160}{Naw... you look like you got enough of a crowd already.}
+{157}{Cas0157}{Senza offesa, ma non mi sembri proprio il tipo adatto per fare il leader. Credo che le Lande potrebbero fare tranquillamente un sol boccone di te.}
+{158}{Cas0158}{Nah, non viaggio con gli schiavisti. Hanno la brutta abitudine di venderti quando si trovano a corto di denaro. Senza offesa.}
+{159}{Cas0159}{Nah, hai l'aspetto di uno con un piede nella fossa e l'altro all'inferno. Non credo di aver bisogno di rovinare ulteriormente la mia reputazione.}
+{160}{Cas0160}{Nah... mi pare che tu abbia gia' una discreta folla al tuo seguito.}
 {161}{}{D'accordo. Beh, buona fortuna.}
 {162}{}{Come non detto, allora, stronzo. Tornatene a gestire il tuo bar in questo paesino merdoso.}
 {163}{}{Niente, allora. A perderci sei tu.}
-{164}{Cas0164}{Heh. You serious?}
+{164}{Cas0164}{Heh. Dici sul serio?}
 {165}{}{Certo. Perche' mai dovrei scherzare? Mi pare che tu sappia come cavartela in un combattimento.}
 {166}{}{Ripensandoci, la vita la' fuori e' piuttosto pericolosa, in special modo per qualcuno con problemi di cuore. Sara' meglio che resti qui.}
-{167}{Cas0167}{All right, count me in.}
+{167}{Cas0167}{D'accordo, considerami uno del gruppo.}
 {168}{}{Andiamo.}
 {169}{}{}
 {170}{}{}
-{171}{Cas0171}{What's up? You got that "I need to tell you something you might not like" look again.}
-{172}{Cas0172}{Yeah?}
-{173}{Cas0173}{What's up? You got that "I'm pulling rank" look again.}
+{171}{Cas0171}{Cosa c'e'? Hai di nuovo quell'espressione che sembra dire "Devo dirti una cosa che potrebbe non farti piacere".}
+{172}{Cas0172}{Si'?}
+{173}{Cas0173}{Cosa c'e'? Hai di nuovo quell'espressione che sembra dire "Sono io il capo, qui".}
 {174}{}{Vorrei farle alcune domande...}
 {175}{}{Mi sembra che tu abbia subito qualche danno. Usa qualche stim e curati.}
 {176}{}{Cassidy, voglio che tu rimanga qui finche' non saro' tornato.}
@@ -82,60 +81,60 @@
 {180}{}{Dovremmo distanziarci un po'.}
 {181}{}{Forza, Cassidy. E' ora di andare.}
 {182}{}{Niente, non importa.}
-{261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
-{262}{Cas0262}{What's on your mind?}
+{261}{Cas0261}{Vuoi che ficchi un bel proiettile in testa a Myron, vero? Non ci sono problemi. Dimmelo tu quando devo farlo.}
+{262}{Cas0262}{Cos'hai in mente?}
 {263}{}{Perche' vuoi dare una lezione a Myron?}
 {264}{}{Quali armi sai usare?}
 {265}{}{In realta' vorrei che tu facessi qualcos'altro...}
 {266}{}{In realta' vorrei che tu facessi una cosa...}
 {267}{}{Non importa. Muoviamoci.}
 {268}{}{No, non fare del male a Myron. Non oggi, almeno. Ti terro' informato.}
-{269}{Cas0269}{Well, shotguns and rifles, mostly... just personal preference. I ain't a bad shot with pistols, neither.}
+{269}{Cas0269}{Beh, soprattutto fucili in generale... ma e' solo una preferenza personale. Non me la cavo male neppure con le pistole.}
 {270}{}{Altro?}
 {271}{}{Okay. Avrei delle altre domande...}
 {272}{}{D'accordo. Stavo solo controllando.}
-{273}{Cas0273}{If you ever need to learn somebody some manners up close and personal, slip me some brass knuckles, and I can tapdance on their face with my fists.}
+{273}{Cas0273}{Se mai dovessi avere bisogno di insegnare rapidamente le buone maniere a qualcuno, passami un pugno di ferro e ballero' il tip tap sulla sua faccia con i miei pugni.}
 {274}{}{Grande. Nient'altro?}
 {275}{}{Okay. Avrei delle altre domande...}
 {276}{}{D'accordo. Stavo solo controllando.}
-{277}{Cas0277}{Uh, well... just between you and me, I can also use a spear pretty good. Me and my buddies used to hunt radscorpions with spears way back when... fact I'm alive and they ain't might tell you something.}
+{277}{Cas0277}{Uh, beh... che resti fra me e te, ma so anche usare una lancia abbastanza bene. Io e i miei compagni eravamo soliti cacciare i radscorpioni usando le lance, tempo fa, ma poi... il fatto che io sia vivo e loro no dovrebbe suggerirti qualcosa.}
 {278}{}{Non c'e' niente di male nell'usare una lancia.}
 {279}{}{Okay. Avrei delle altre domande...}
 {280}{}{D'accordo. Stavo solo controllando.}
-{281}{Cas0281}{Says you. Just don't be calling me no tribal, and we'll get along just fine.}
-{282}{Cas0282}{Don't want people mistaking me for ol' Bone-nose over there. Heh-heh. I ain't never seen no tribal do something as dumb as jam a bone in his nose.}
-{283}{Cas0283}{Of course there isn't. Spear's a fine weapon. Lots of tribal friends of mine use 'em.}
+{281}{Cas0281}{Questo lo dici tu. Cerca solo di non chiamarmi selvaggio e andremo d'accordo. }
+{282}{Cas0282}{Non voglio che la gente mi scambi con il vecchio Osso-al-Naso laggiu'. Eh-eh. Non avevo mai visto un selvaggio fare una cosa cosi' stupida come infilarsi un osso nel naso.}
+{283}{Cas0283}{Certo che non c'e' nulla di male! La lancia e' una buona arma. Un sacco di selvaggi miei amici usano le lance.}
 {284}{}{Lo sapevi che io sono un "selvaggio"?}
 {285}{}{Hmmm. Senti, avrei delle altre domande...}
 {286}{}{D'accordo. Grazie della spiegazione.}
-{287}{Cas0287}{Aw, don't be playing with ol' Cassidy now. You ain't no tribal.}
+{287}{Cas0287}{Aw, adesso non scherzare con il vecchio Cassidy. Tu non sei un selvaggio.}
 {288}{}{Si', lo sono.}
 {289}{}{Come vuoi. Senti, avrei delle altre domande...}
 {290}{}{Dimentica quello che ho detto. Adesso non ho voglia di discuterne con te.}
-{291}{Cas0291}{Uh, well... damn it all, you can have my apology right here and now. I didn't mean any offense.}
+{291}{Cas0291}{Uh, beh...al diavolo tutto; ecco, ti faccio subito le mie scuse. Non avevo alcuna intenzione di offenderti.}
 {292}{}{Lo so, non temere. Senti, avrei delle altre domande...}
 {293}{}{Dimentica questo argomento. Muoviamoci.}
-{294}{Cas0294}{Well, now, before you go, I got a question for you. What are we doing out here? We seem to be running all over the place looking for something. Have we got some sort of plan?}
+{294}{Cas0294}{Bene. Senti, prima di andare vorrei farti una domanda. Che cosa stiamo facendo? Stiamo girando a destra e a manca come se fossimo in cerca di qualcosa. Abbiamo un qualche tipo di piano?}
 {295}{}{Stiamo cercando un GECK - un Kit di Creazione del Giardino dell'Eden. Il mio villaggio ne ha bisogno per salvare il raccolto.}
 {296}{}{Ci stiamo dirigendo verso il Vault, per poi riportare il GECK al mio villaggio.}
 {297}{}{Gli abitanti del mio villaggio sono stati rapiti. Sto cercando di scoprire cos'e' successo ai miei compagni.}
-{298}{Cas0298}{Them things come in kits now, huh? Man, the good book don't mention that, does it? Well, all right then. Let's get hunting.}
-{299}{Cas0299}{Huh. All right then, just checking.}
-{300}{Cas0300}{I wouldn't mind plugging a few holes in some kidnappers. A little frontier justice never hurt anyone... well, at least not me.}
+{298}{Cas0298}{Adesso ci fanno dei kit con quelle cose, eh? Cavoli, il Libro dei Libri non ne parla, vero? Bene... allora d'accordo: andiamo a caccia.}
+{299}{Cas0299}{Huh. D'accordo, allora; volevo solo controllare.}
+{300}{Cas0300}{Non mi dispiacerebbe fare dei bei fori nel corpo di qualche rapitore. Un po' di giustizia di frontiera non ha mai fatto male a nessuno...beh, almeno non a me.}
 {301}{}{D'accordo. Andiamo.}
-{302}{Cas0302}{The things that little cuss says ain't fit for decent ears.}
-{303}{Cas0303}{Especially a woman's.}
+{302}{Cas0302}{Le cose che dice quel piccolo rompiscatole non sono adatte per delle orecchie delicate. }
+{303}{Cas0303}{Specialmente per quelle di una donna.}
 {304}{}{Oh, Cassidy, non credevo che ti preoccupassi di certe cose. Il mio cuore e' tutto un fremito.}
 {305}{}{Allora? Cosa stai cercando di dirmi?}
 {306}{}{Sai, anche tu sei un bel rompiscatole, Cassidy.}
 {307}{}{Ah, non dirmelo. Adesso andiamo.}
-{308}{Cas0308}{Yeah, but when I do it, it's got style. He's just a little trash mouth.}
-{309}{Cas0309}{And I don't like the way he looks at you, neither.}
+{308}{Cas0308}{Si', ma quando lo faccio io, lo faccio con stile. Lui ha solo una bocca piena di spazzatura. }
+{309}{Cas0309}{E non mi piace nemmeno il modo in cui ti guarda.}
 {310}{}{Oh, Cassidy, non credevo che ti preoccupassi di certe cose. Il mio cuore e' tutto un fremito.}
 {311}{}{Allora? Cosa stai cercando di dirmi?}
 {312}{}{Ah, non dirmelo. Adesso andiamo.}
-{313}{Cas0313}{Now hold on, I didn't mean it like that.}
-{314}{Cas0314}{All I'm saying is that bona fide little asshole's gonna get his number clocked one day when it's just me and him and a hole in the desert.}
+{313}{Cas0313}{Aspetta un attimo, non intendevo questo. }
+{314}{Cas0314}{Quel che voglio dire e' che quello stronzo d'un innocentino incontrera' il suo destino il giorno in cui saremo soltanto io, lui e un buco nel deserto.}
 {315}{}{Beh, la vita e' una maestra severa gia' di per se. Avrei delle altre domande da farti...}
 {316}{}{Beh, e' destinato a tirare le cuoia da un momento all'altro. Io non me ne preoccuperei.}
 {317}{}{Calmati, Cassidy. Lascia in pace Myron.}
@@ -194,24 +193,24 @@
 {370}{}{Cassidy e' morto per un attacco di cuore.}
 {371}{}{Hai convinto Cassidy ad unirsi al tuo gruppo.}
 {372}{}{Prima fammi sparare una pillola per il cuore...}
-{1000}{Cas1000}{Well... all right, then. I'll wait here 'til you get back. }
-{1100}{Cas1100}{Sure. Can't promise I won't pull it out again if there's trouble, though.}
-{1200}{Cas1200}{All right, I'll stick close to you then. You must be expecting trouble.}
-{1300}{Cas1300}{All right, I'll keep some distance. Get a better vantage point that way.}
-{1400}{Cas1400}{All right, I'll be watching your back. You need me, holler, and I'll come running.}
-{2000}{Cas2000}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
-{2100}{Cas2100}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
-{2200}{Cas2200}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{2300}{Cas2300}{Naw... you look like you got enough of a crowd already.}
-{2400}{Cas2400}{All right, then.}
+{1000}{Cas1000}{Beh...d'accordo, allora. Aspettero' qui finche' non sarai tornato. }
+{1100}{Cas1100}{Certo. Non posso prometterti che non la tirero' fuori in caso di problemi, pero'.}
+{1200}{Cas1200}{D'accordo, ti staro' appiccicato, allora. Dai per scontato che ci metteremo nei guai, eh?}
+{1300}{Cas1300}{D'accordo, staro' un po' a distanza. Avro' una migliore linea di tiro, cosi'.}
+{1400}{Cas1400}{D'accordo, ti guardero' le spalle. Se hai bisogno di me, grida, e io arrivero' di corsa.}
+{2000}{Cas2000}{Senza offesa, ma non mi sembri proprio il tipo adatto per fare il leader. Credo che le Lande potrebbero fare tranquillamente un sol boccone di te.}
+{2100}{Cas2100}{Nah, non viaggio con gli schiavisti. Hanno la brutta abitudine di venderti quando si trovano a corto di denaro. Senza offesa.}
+{2200}{Cas2200}{Nah, hai l'aspetto di uno con un piede nella fossa e l'altro all'inferno. Non credo di aver bisogno di rovinare ulteriormente la mia reputazione.}
+{2300}{Cas2300}{Nah... mi pare che tu abbia gia' una discreta folla al tuo seguito.}
+{2400}{Cas2400}{D'accordo.}
 {2999}{}{D'accordo. In bocca al lupo, allora.}
 {3000}{}{Andiamo.}
 {3100}{}{Fa' come se non te l'avessi chiesto, allora. Stronzo.}
 {3200}{}{Come non detto, allora. A perderci sei tu.}
-{4100}{Cas4100}{Okay, everything's stitched up. I'm good to go.}
-{4200}{Cas4200}{Okay, pretty much everything is patched up.}
-{4300}{Cas4300}{That pretty much did it, but I could use a couple more stims.}
-{4400}{Cas4400}{I used what I could, but I'm still pretty messed up. If you got any more stims to spare, I could sure use 'em. I can still walk, though.}
+{4100}{Cas4100}{Okay, ho rattoppato tutte le ferite. Sono pronto.}
+{4200}{Cas4200}{Okay, ho messo una toppa su quasi tutte le ferite.}
+{4300}{Cas4300}{Sono quasi a posto, ma mi farebbe comodo un altro paio di stim.}
+{4400}{Cas4400}{Ho usato quello che potevo, ma sono ancora messo piuttosto male. Se hai ancora qualche stim da darmi, mi farebbero proprio comodo. Riesco ancora camminare, pero'.}
 {9999}{}{Vorrei farle alcune domande...}
 {10001}{}{Prendi degli altri stimpack e curati.}
 {10002}{}{Cassidy, voglio che tu rimanga qui finche' non saro' tornato.}
@@ -221,9 +220,9 @@
 {10006}{}{Dovremmo distanziarci un po'.}
 {10007}{}{Andiamo, allora.}
 {10100}{}{Forza, Cassidy. E' ora di andare.}
-{20000}{Cas20000}{All right, I'm listening.}
-{20001}{Cas20001}{My gear? What about it?}
-{20002}{Cas20002}{No problem. Too hot for that kinda gear, anyway. Makes me sweat like a New Reno whore.}
+{20000}{Cas20000}{D'accordo, sono tutto orecchi.}
+{20001}{Cas20001}{Il mio equipaggiamento? Cos'ha?}
+{20002}{Cas20002}{Nessun problema. Fa troppo caldo per quell'armamentario. Mi fa sudare come una puttana di New Reno.}
 {20003}{}{Proviamo una formazione differente.}
 {20004}{}{Devo parlarti a proposito del tuo equipaggiamento.}
 {20005}{}{Come non detto. Manteniamo la formazione che abbiamo adesso.}

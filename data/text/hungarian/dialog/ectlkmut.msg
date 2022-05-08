@@ -8,5 +8,5 @@
 {107}{}{Én sajnálja.}
 {108}{}{Ahogy én aztat mondtam, fogjá' patkány! Lógassad falra farkánál fogva!}
 {109}{}{Haggyad lógva, mígcsak esik lefele magától. Akkor van kész.}
-{110}{}{Egyed gyorsan megfele, ha túl soká hagyod, meglepetés mászik belõle ki azt' repül elfele.}
+{110}{}{Egyed gyorsan megfele, ha túl soká hagyod, meglepetés mászik bel?le ki azt' repül elfele.}
 {111}{}{Hm, hangzik fincsisen.}

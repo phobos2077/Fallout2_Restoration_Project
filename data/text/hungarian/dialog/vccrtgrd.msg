@@ -1,6 +1,6 @@
-{100}{}{Egy zord tekintetû õrt látsz.}
-{101}{}{Egy zord tekintetû menedékvárosi õrt látsz.}
-{102}{}{Törõdj a magad dolgával!}
+{100}{}{Egy zord tekintet? ?rt látsz.}
+{101}{}{Egy zord tekintet? menedékvárosi ?rt látsz.}
+{102}{}{Tör?dj a magad dolgával!}
 {103}{}{Azt hiszem, itt az ideje, hogy távozz!}
 {104}{}{Nem tetszik a tekinteted.}
 {105}{}{Vigyázz magadra!}

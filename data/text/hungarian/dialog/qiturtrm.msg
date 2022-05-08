@@ -1,19 +1,19 @@
 {100}{}{Egy terminál.}
-{101}{}{Ez egy terminál. Mûködõképesnek látszik.}
-{102}{}{Egy DataPlex 2000 SmarTerminált látsz, full 64t RAM-mal, a mai technika csúcsa, kár, hogy nem mûködik.}
+{101}{}{Ez egy terminál. M?köd?képesnek látszik.}
+{102}{}{Egy DataPlex 2000 SmarTerminált látsz, full 64t RAM-mal, a mai technika csúcsa, kár, hogy nem m?ködik.}
 {103}{}{Egy DataPlex 2000 SmarTerminált látsz, full 64t RAM-mal. Ez a mai technika csúcsa.}
-{104}{}{Üdvözöljük a PosiedoNeten! Válasszon a menübõl:}
+{104}{}{Üdvözöljük a PosiedoNeten! Válasszon a menüb?l:}
 {105}{}{Bejelentkezés.}
 {106}{}{Súgó.}
 {107}{}{Vége.}
 {108}{}{A terminál egy westernfilmet játszik - rohadt unalmas.}
-{109}{}{A terminál valami lövöldözõs programmal játszik. Csak azt látod, hogy mindent telibe trafál.}
-{110}{}{Ezen a terminálon valamiféle modern mûvészeti alkotás látható - egy csomó különbözõ színû vonal egy rakáson.}
-{111}{}{Egy terminált látsz. Kis zöld bombák úsznak átlósan a képernyõn.}
+{109}{}{A terminál valami lövöldöz?s programmal játszik. Csak azt látod, hogy mindent telibe trafál.}
+{110}{}{Ezen a terminálon valamiféle modern m?vészeti alkotás látható - egy csomó különböz? szín? vonal egy rakáson.}
+{111}{}{Egy terminált látsz. Kis zöld bombák úsznak átlósan a képerny?n.}
 {112}{}{Ezen a terminálon egy üzenetet látsz: "Most már kikapcsolhatja a számítógépet." Fogalmad sincs, ez mit jelent.}
 {113}{}{You see an image of red, green, and blue, pinpoints of light combined to make a picture of something....}
 {114}{}{Ez a terminál egy visszataszító arcképet mutat... ja, hogy ki van kapcsolva... hm...}
-{115}{}{Ez a terminál egy idõn túli dimenzióba néz.}
+{115}{}{Ez a terminál egy id?n túli dimenzióba néz.}
 {116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
 {117}{}{This terminal seems to be an Apricot-brand terminal. It's running something called Fallout 3. Wow, it looks like it's multiplayer and 3D.}
 {118}{}{Azonosítás:}
@@ -70,14 +70,14 @@
 {170}{}{Download Chemical Corps: Project Status Report.}
 {171}{}{Download A. E. C.: Atomic Power plant Operations.}
 {172}{}{Vissza az azonosításhoz:                                    }
-{173}{}{A letöltés befejezõdött.                                    }
+{173}{}{A letöltés befejez?dött.                                    }
 {174}{}{Letöltés: Szavak listája                                    }
 {175}{}{Security/Level: Current Status.}
 {176}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állása             }
 {177}{}{Download A. E. C.: Atomic Power plant Operations}
 {178}{}{Security Status.}
 {179}{}{Vissza az azonosításhoz:                                    }
-{180}{}{A letöltés befejezõdött.                                    }
+{180}{}{A letöltés befejez?dött.                                    }
 {181}{}{A Nemzet helyzete: Jelenlegi státusz                        }
 {182}{}{Security/Level: Current Status.}
 {183}{}{Letöltés: Vegyi Kutatóalakulat - Projekt állása             }
@@ -106,25 +106,25 @@
 {206}{}{Download A. E. C.: Atomic Power plant Operations.}
 {207}{}{Security status.}
 {208}{}{Vissza az azonosításhoz:                                    }
-{209}{}{A letöltés befejezõdött.                                    }
+{209}{}{A letöltés befejez?dött.                                    }
 {210}{}{Download State of the Nation: Current status.}
 {211}{}{Letöltés: Szavak listája                                    }
 {212}{}{Biztonság/Szint: Jelenlegi állapot                          }
 {213}{}{Download A. E. C.: Atomic Power plant Operations.}
 {215}{}{Security Status.}
 {216}{}{Vissza az azonosításhoz:                                    }
-{217}{}{A letöltés befejezõdött.                                    }
+{217}{}{A letöltés befejez?dött.                                    }
 {218}{}{Download State of the Nation: Current status.}
 {219}{}{Letöltés: Szavak listája                                    }
 {220}{}{Biztonság/Szint: Jelenlegi állapot                          }
 {221}{}{Download Chemical Corps: Project Status Report.}
 {222}{}{Security status.}
 {223}{}{Vissza az azonosításhoz:                                    }
-{224}{}{Ez a terminál mélydiagnosztikai mûveleteket végez. Kérjük, próbálkozzon egy másik terminálnál! Köszönjük.}
-{225}{}{Üdvözöljük a PoseidoNet Súgójában. Sajnálattal közöljük, hogy a Súgó állománya elavult, és átmenetileg nem is elérhetõ. Keres frissítést?}
+{224}{}{Ez a terminál mélydiagnosztikai m?veleteket végez. Kérjük, próbálkozzon egy másik terminálnál! Köszönjük.}
+{225}{}{Üdvözöljük a PoseidoNet Súgójában. Sajnálattal közöljük, hogy a Súgó állománya elavult, és átmenetileg nem is elérhet?. Keres frissítést?}
 {226}{}{Igen.}
 {227}{}{No, Back.}
-{228}{}{A frissítés nem lehetséges a próbaidõszakos PoseidoNet szoftverrel. Kérjük, vásárolja meg a teljes verziót a teljes hozzáféréshez. Az Ön tesztidõszaka 59.439 napja lejárt.}
+{228}{}{A frissítés nem lehetséges a próbaid?szakos PoseidoNet szoftverrel. Kérjük, vásárolja meg a teljes verziót a teljes hozzáféréshez. Az Ön tesztid?szaka 59.439 napja lejárt.}
 {229}{}{Vissza a bejelentkezéshez.}
 {230}{}{End session.}
 {231}{}{A Biztonsági rendszerek felülírása csak elnöki kulcskártyával lehetséges. Újabb menüpontok: Felkelés elfojtása, Vészvédelmi rendszerek leállítása.}
@@ -132,20 +132,20 @@
 {233}{}{(Hm, vessünk rá egy pillantást!) Vészvédelmi rendszerek leállítása.}
 {234}{}{(Inkább valami kevésbé gázos dologgal próbálkozom.) Vissza az azonosításhoz.}
 {235}{}{(I don't think I want to mess with this right now.) Log Off.}
-{236}{}{Felkelés elfojtása. Fegyveres lázadás esetén az elnöki kulcskártya lehetõvé teszi a védelmi rendszerek átprogramozását, hogy az elõzõleg lojális, de idõközben veszélyessé vált embereket támadja. A védelmi rendszer a mindenkori legerõsebb egyént célozza. Figyelmeztetés! Átmenetileg csak a Belépõ szinten mûködtethetõ!}
+{236}{}{Felkelés elfojtása. Fegyveres lázadás esetén az elnöki kulcskártya lehet?vé teszi a védelmi rendszerek átprogramozását, hogy az el?z?leg lojális, de id?közben veszélyessé vált embereket támadja. A védelmi rendszer a mindenkori leger?sebb egyént célozza. Figyelmeztetés! Átmenetileg csak a Belép? szinten m?ködtethet?!}
 {237}{}{(Ez használható lehet.) Aktiválás - Felkelés elfojtása protokoll.}
 {238}{}{(Maybe I'll give that a shot some other time.) Back.}
 {239}{}{(Nem akarok szórakozni most ezzel.) Kijelentkezés.}
 {240}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated... Target acquired.}
 {241}{}{(Lássuk, mi történik!)}
 {242}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated...**Malfunction**... Security link offline on this level. Please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
-{243}{}{(Ja, szóval a Belépõ szint alatt a dokk utáni területet érti. Akkor ott majd mûködni fog.) Vissza az azonosításhoz.}
+{243}{}{(Ja, szóval a Belép? szint alatt a dokk utáni területet érti. Akkor ott majd m?ködni fog.) Vissza az azonosításhoz.}
 {244}{}{(I wonder what else I can try?) Back.}
 {245}{}{A protokoll aktiválásához elnöki kulcskártya szükséges. A kártya nem található.}
 {246}{}{(I wonder what else I can try?) Back.}
-{247}{}{A Vészvédelmi rendszerek leállítása átmenetileg az összes aktív védelmi eszközt lekapcsolja szintrõl-szintre. A leállítást, mielõtt a rendszerek újraindulnának, hosszú mélydiagnosztika követi.}
+{247}{}{A Vészvédelmi rendszerek leállítása átmenetileg az összes aktív védelmi eszközt lekapcsolja szintr?l-szintre. A leállítást, miel?tt a rendszerek újraindulnának, hosszú mélydiagnosztika követi.}
 {248}{}{(Ez jónak hangzik.) Aktiválás - Vészvédelmi rendszerek leállítása.}
-{249}{}{(Hm, talán kicsit késõbb.) Vissza.}
+{249}{}{(Hm, talán kicsit kés?bb.) Vissza.}
 {250}{}{(Nem akarok szórakozni most ezzel.) Kijelentkezés.}
 {251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated... Performing deep diagnostic. Alpha....Bravo....Charlie....}
 {252}{}{(Nem akarok ezzel bajlódni.) Vissza.}

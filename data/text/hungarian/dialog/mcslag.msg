@@ -2,7 +2,7 @@
 {101}{}{Segítség!}
 {102}{}{Megtámadtak minket a "felszínlakók".}
 {103}{}{Hagyj minket békén!}
-{104}{}{Nem tudnánk egyszerûen csak megférni egymás mellett?}
+{104}{}{Nem tudnánk egyszer?en csak megférni egymás mellett?}
 {150}{}{Menj vissza, ahonnan jöttél!}
 {151}{}{Nem kívánatos személy vagy itt!}
 {152}{}{Ti "felszíniek" mind egyformák vagytok.}

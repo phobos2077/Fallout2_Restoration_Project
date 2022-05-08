@@ -1,7 +1,7 @@
 {100}{}{Egy földfoglalót látsz.}
 {101}{}{Bill, a földfoglalók egyike.}
-{102}{}{Egy középkorú, kopottas ruhát viselõ férfit látsz.}
-{103}{}{Sajnálom, idegen. Nincs idõm veled csevegni.}
+{102}{}{Egy középkorú, kopottas ruhát visel? férfit látsz.}
+{103}{}{Sajnálom, idegen. Nincs id?m veled csevegni.}
 {104}{}{Miért nem beszélsz?}
 {105}{}{Oké.}
 {106}{}{Rendben, viszlát!}

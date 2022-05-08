@@ -8,12 +8,12 @@
 {202}{}{Sabota il distillatore di Becky.}
 {203}{}{Recupera il pezzo dell'automobile per Smitty.}
 {204}{}{Riporta il medaglione ad Anna.}
-{205}{}{Collect Rebecca's money from Fred.}
-{206}{}{Get Rebecca's book from Derek.}
+{205}{}{Recupera i soldi di Rebecca da Fred.}
+{206}{}{Recupera il libro di Rebecca da Derek.}
 {207}{}{Consegna un pranzo a Smitty da parte di Mama.}
 {208}{}{Lara vuole sapere a cosa stanno facendo la guardia nella chiesa.}
-{209}{}{Get permission from Metzger for the gang war.}
-{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{209}{}{Ottieni il permesso da Metzger per una guerra fra bande.}
+{210}{}{Trova un punto debole nella banda di Tyler che sta controllando la chiesa.}
 {211}{}{Aiuta Lara ad attaccare la banda di Tyler.}
 {212}{}{Find a way to get the orphans off the streets.}
 {300}{}{Rifornisci il distillatore.}
@@ -29,7 +29,7 @@
 {403}{}{Jonny e' scomparso. Trovalo e riportalo a casa da Balthas.}
 {404}{}{Jonny si trova nelle grotte degli Slag. Trova un modo per riportare Jonny a casa da Balthas.}
 {405}{}{Farrel ha un problema con i roditori nel suo giardino. Rimuovi l'infestazione.}
-{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{406}{}{Consegna il messaggio degli Slag a Jo di Modoc.}
 {407}{}{Jo ha dei sospetti sugli Slag. Scopri l'origine dei cadaveri alla Fattoria Fantasma e scopri cos'e' successo a Karl.}
 {408}{}{Vai al Den e di' a  Karl che puo' tornare a casa.}
 {409}{}{Fa' la guardia ai brahmin di Grisham.}
@@ -84,14 +84,14 @@
 {1000}{}{}
 {1100}{}{Recupera i componenti/Ottieni l'accesso al Vault 15.}
 {1101}{}{"Prenditi cura" di Jack il poliziotto per Mira.}
-{1102}{}{Complete the brahmin drive.}
-{1103}{}{Retrieve the papers from Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Completa il viaggio con i brahmin.}
+{1103}{}{Recupera i documenti dal Dr. Henry.}
+{1104}{}{Prova il siero mutagenico su un super-mutante. Prova a Broken Hills.}
 {1105}{}{Elimina Mr. Bishop.}
 {1106}{}{Consegna l'olodisco di Westin a Lynette di Vault City.}
 {1107}{}{Recupera la mappa dai Ranger di NCR per Vortis lo schiavista.}
 {1108}{}{Libera gli schiavi detenuti nel recinto degli schiavi per i Ranger.}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
+{1109}{}{Consegna il rapporto dell'Hubologista a AHS-9 a San Francisco.}
 {1110}{}{Uccidi l'Hubologista per Merk.}
 {1111}{}{Metti fine alle razzie di brahmin.}
 {1112}{}{Wipe out the Rangers' safe houses to the north, for Vortis the slaver.}
@@ -119,7 +119,7 @@
 {1511}{}{Trova la ragazza di Badger nella stiva sotto la nave.}
 {1512}{}{Dragon ti ha chiesto di battere Lo Pan - corpo a corpo.}
 {1513}{}{Lo Pan ti ha chiesto di battere Dragon - corpo a corpo, se possibile.}
-{1514}{}{Get Chip's spleen back.}
+{1514}{}{Recupera la milza di Chip.}
 {1515}{}{Prendi qualche Power-Armor rinforzata da Crockett.}
 {1516}{}{Recupera i piani per un vertibird per la Confraternita d'Acciaio.}
 {1517}{}{Disable the Shi submarine threatening the tanker.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Salva Chrissy.}
 {3201}{}{Uccidi Darion.}
-{3202}{}{Complete the deal with NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3202}{}{Completa l'accordo con NCR.}
+{3203}{}{Consegna l'olodisco spia alle autorita' di NCR.}

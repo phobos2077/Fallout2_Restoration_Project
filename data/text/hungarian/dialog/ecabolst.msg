@@ -23,12 +23,12 @@
 {315}{}{Rejtekben?}
 {316}{}{Emberkereskedelem?}
 {317}{}{Oké. Viszlát!}
-{320}{}{Ezeken a részeken az emberek rabszolgákat tartanak. Azért vagyok itt, hogy kiszabadítsam õket. Ha egy két rabszolga-vadász is meghal a mûveletben, nem nagy baj.}
+{320}{}{Ezeken a részeken az emberek rabszolgákat tartanak. Azért vagyok itt, hogy kiszabadítsam ?ket. Ha egy két rabszolga-vadász is meghal a m?veletben, nem nagy baj.}
 {321}{}{Mi a baj a rabszolga-tartással? Én is tartanék, ha találnék párat.}
 {322}{}{Majd rajta tartom a szemem a rohadékjain.}
 {323}{}{Az ölés sohasem törvényes.}
-{324}{}{Ölés? Segítek neked megölni õket!}
-{330}{}{Tényleg? Ez nagyszerû! Viszont most mennem kell, biztos van még több elnyomott rabszolga is.}
+{324}{}{Ölés? Segítek neked megölni ?ket!}
+{330}{}{Tényleg? Ez nagyszer?! Viszont most mennem kell, biztos van még több elnyomott rabszolga is.}
 {331}{}{Sok szerencsét!}
 {335}{}{De, néha meg kell ölnöd néhányat, hogy megmenthesd a többit. Mindig vannak elkerülhetetlen áldozatok. Különben is, a rabszolga-vadászokat aligha lehet embernek nevezni.}
 {336}{}{Igazad van, de most mennem kell.}
@@ -36,7 +36,7 @@
 {338}{}{Ahogy gondolja. Viszlát!}
 {340}{}{Te, rohadék! Ezért megöllek!}
 {341}{}{Te, kurva! Ezért megöllek!}
-{342}{}{Nem, ha én öllek meg elõször!}
+{342}{}{Nem, ha én öllek meg el?ször!}
 {350}{}{Ja. Kis embercsoportokat támadnak meg. Bármi jó nekik, amit eladhatnak.}
 {351}{}{Ez borzasztó! Majd észben tartom ezt. Viszlát!}
 {355}{}{Rejtek egy város. A rabszolga-kereskedelemre specializálódott.}
@@ -45,6 +45,6 @@
 {361}{}{Ezt most hogy kell értenem?}
 {362}{}{Öhm, akkor sok szerencsét!}
 {363}{}{Ahogy gondolja. Viszlát!}
-{370}{}{Próbáld a rabszolga-vadászokat! Jól lehet gyakni õket. }
+{370}{}{Próbáld a rabszolga-vadászokat! Jól lehet gyakni ?ket. }
 {371}{}{Fasza, kösz az infót!}
 {372}{}{Á, hát itt vagy! Inkább megöllek.}

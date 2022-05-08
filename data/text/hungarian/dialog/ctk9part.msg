@@ -1,1 +1,1 @@
-{100}{}{Megszerezted a K-9-es hajtómûvet.}
+{100}{}{Megszerezted a K-9-es hajtóm?vet.}

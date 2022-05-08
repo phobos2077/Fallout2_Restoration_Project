@@ -1,6 +1,6 @@
-{100}{}{Egy õrt látsz.}
-{101}{}{Grant, az õr.}
-{102}{}{Egy õrt látsz. A páncélja és a fegyverei jó állapotban vannak.}
+{100}{}{Egy ?rt látsz.}
+{101}{}{Grant, az ?r.}
+{102}{}{Egy ?rt látsz. A páncélja és a fegyverei jó állapotban vannak.}
 {103}{}{Ez magánterület. Kérem, távozzon!}
 {104}{}{Ki élni itten?}
 {105}{}{Oké, menek elfele...}
@@ -23,8 +23,8 @@
 {122}{}{Senkit.}
 {123}{}{Munkát keresek és azt hallottam, hogy itt lehet jelentkezni.}
 {124}{}{Beszélgetni akarok Mr. Westinnel.}
-{125}{}{Nem fontos, majd késõbb visszajövök.}
-{126}{}{Hmmm... valami rémlik, hogy van munkalehetõség. Rendben, jöjjön be! Ne csináljon semmi balhét, mellesleg magán tartom a szemem!}
+{125}{}{Nem fontos, majd kés?bb visszajövök.}
+{126}{}{Hmmm... valami rémlik, hogy van munkalehet?ség. Rendben, jöjjön be! Ne csináljon semmi balhét, mellesleg magán tartom a szemem!}
 {127}{}{Én köszön.}
 {128}{}{Köszi.}
 {129}{}{Mr. Westin nem beszélget csak úgy egy utcáról beesett emberrel. Ha nincs valami különleges dolga vele, akkor javaslom, addig ne jöjjön vissza, amíg nem lesz. Most pedig, kérem, távozzon!}
@@ -32,8 +32,8 @@
 {131}{}{(sóhajt) Hallottam, hogy Mr. Westinnek gyengéi a magafajták. Jöjjön be!}
 {132}{}{Én köszön.}
 {133}{}{Jaja. Benne vagyok valaminek a közepében.}
-{134}{}{Hé, tûnjön onnan!}
-{135}{}{Kérdeznie kellene, mielõtt olyan dolgokhoz nyúl, ami nem a magáé!}
+{134}{}{Hé, t?njön onnan!}
+{135}{}{Kérdeznie kellene, miel?tt olyan dolgokhoz nyúl, ami nem a magáé!}
 {136}{}{Helló! Megint találkoznia kell Mr. Westinnel?}
 {137}{}{Igen.}
 {138}{}{Nem.}

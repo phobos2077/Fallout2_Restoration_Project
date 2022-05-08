@@ -1,7 +1,7 @@
-{100}{}{Õ nem mást, mint... Set.}
-{101}{}{Egy rothadó ghoult látsz, akinek gép-alkatrészek állnak ki a fejébõl. Nehéz eldönteni, hogy feledékeny-e vagy sem.}
-{102}{}{Õ Set. Éppen magában beszél.}
-{103}{}{Õ Set. Éppen magában beszél.}
+{100}{}{? nem mást, mint... Set.}
+{101}{}{Egy rothadó ghoult látsz, akinek gép-alkatrészek állnak ki a fejéb?l. Nehéz eldönteni, hogy feledékeny-e vagy sem.}
+{102}{}{? Set. Éppen magában beszél.}
+{103}{}{? Set. Éppen magában beszél.}
 {104}{}{"Hazavágtak!"}
 {105}{}{"Hazavágtak!"}
 {106}{}{"Hazavágtak... Kezdek berágni miatta..."}

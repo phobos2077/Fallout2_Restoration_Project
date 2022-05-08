@@ -17,9 +17,9 @@
 {256}{}{Kotródj!}
 {257}{}{Hé, ember!}
 {258}{}{Szerencsés vagy, neked csak a vadászatokra kell menned.}
-{259}{}{Elég uncsi egy ajtót õrizni.}
+{259}{}{Elég uncsi egy ajtót ?rizni.}
 {260}{}{Hogy ityeg a fityeg?}
-{261}{}{Te vagy az elsõ nõ, akit Metzger felvett.}
+{261}{}{Te vagy az els? n?, akit Metzger felvett.}
 {262}{}{Metzger biztos kedvel téged.}
 {263}{}{Egyedül vagy, kicsi lányka.}
-{264}{}{Egy nõi hajcsár... Nem gondoltam, hogy valaha is megérem.}
+{264}{}{Egy n?i hajcsár... Nem gondoltam, hogy valaha is megérem.}

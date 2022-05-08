@@ -8,7 +8,7 @@
 {155}{}{Tubby boltja körül ólálkodik.}
 {156}{}{Nem látsz semmi különöset rajta.}
 {157}{}{Nem látsz semmi különöset rajta.}
-{200}{}{Takarodj a szemem elõl!}
+{200}{}{Takarodj a szemem el?l!}
 {201}{}{Ne érj hozzám!}
 {202}{}{Hozzám ne érj!}
 {203}{}{Hagyd abba!}
@@ -55,7 +55,7 @@
 {390}{}{Francba, figyelmeztettem Frankiet, hogyan bánjon az emberekkel.}
 {391}{}{Frankie igazán visszafoghatta volna magát.}
 {392}{}{Hova fogunk menni ezután?}
-{393}{}{Sajnálatos, hogy Frankie elment. Õ tudta, mi fán terem a bulizás.}
+{393}{}{Sajnálatos, hogy Frankie elment. ? tudta, mi fán terem a bulizás.}
 {394}{}{Te aztán jól felhúztad magad. Mit csinált Frankie veled?}
 {395}{}{Frankie bántotta az anyád vagy mi?}
 {410}{}{Csak körülnézek.}
@@ -70,7 +70,7 @@
 {432}{}{Mit csinált Tubby, hogy így felkaptad rajta a vizet?}
 {433}{}{Tubby valami rossz anyagot adott el neked, ugye?}
 {434}{}{Az a hír járta, hogy azért csaptad le Tubbyt, mert valami szart adott el, vagy ilyesmi.}
-{435}{}{Nem lepõdtem meg igazán. Az utóbbi idõben sok embernek nem tetszettek Tubby viselt dolgai.}
+{435}{}{Nem lep?dtem meg igazán. Az utóbbi id?ben sok embernek nem tetszettek Tubby viselt dolgai.}
 {440}{}{Ma semmi nem érdekel...}
 {441}{}{Üdv! Csak beugrottam beszélgetni az én öreg Flick barátomhoz.}
 {442}{}{Mit csinálsz itt?}
@@ -81,15 +81,15 @@
 {447}{}{Ne haragudj rám!}
 {460}{}{Baszd meg! Megölted Flicket!}
 {461}{}{Flick téged is lenyúlt?}
-{462}{}{Flick veszélyes játékokat ûzött.}
+{462}{}{Flick veszélyes játékokat ?zött.}
 {463}{}{Tök gáz, ami Flickel történt.}
 {464}{}{Azon gondolkodom, mit fognak azok a gyerekek csinálni, ha Flick már nincs többé.}
-{465}{}{Meglepõ, hogy Flick ilyen sokáig húzta.}
+{465}{}{Meglep?, hogy Flick ilyen sokáig húzta.}
 {480}{}{Ezt mi otthonnak hívjuk.}
-{481}{}{Legtöbbünk a Mama kosztján nõtt fel.}
+{481}{}{Legtöbbünk a Mama kosztján n?tt fel.}
 {482}{}{Gyerekkorom óta ismerem a Mamát.}
 {483}{}{Mama mindenre odafigyel Rejtekben.}
-{484}{}{Mama mindenbõl tud szendvicset csinálni.}
+{484}{}{Mama mindenb?l tud szendvicset csinálni.}
 {485}{}{Remélem, legalább olyan jól megismered majd a Mamát, mint mi.}
 {486}{}{Frankó cég, frankó kaja. Mi mást kérhetnénk?}
 {487}{}{Csirió!}

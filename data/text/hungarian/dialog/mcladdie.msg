@@ -1,7 +1,7 @@
-{100}{}{A kutya egy border collie-nak tûnik.}
+{100}{}{A kutya egy border collie-nak t?nik.}
 {101}{}{You see Laddie.}
 {102}{}{Ez a kutya szerfelett szemfülesnek és intelligensnek mutatkozik.}
-{103}{}{Nincs kétséged afelõl, hogy ez a kutya valószínûleg agyasabb nálad.}
+{103}{}{Nincs kétséged afel?l, hogy ez a kutya valószín?leg agyasabb nálad.}
 {150}{}{Vaúú!}
 {151}{}{Vaú! Vaú!}
 {152}{}{Vaú! Vaú! Vaú!}
@@ -21,9 +21,9 @@
 {167}{}{Jonny valami közeli helyen van Modocban?}
 {168}{}{Jonny elment Modocból?}
 {169}{}{Jonnyt elrabolták az idegen lények?}
-{170}{}{Öcsi, nincs idõm játszani! Meg kell találnunk Jonnyt. Gyerünk!}
+{170}{}{Öcsi, nincs id?m játszani! Meg kell találnunk Jonnyt. Gyerünk!}
 {171}{}{A mészárszéknél?}
-{172}{}{A cserzõmûhelynél?}
+{172}{}{A cserz?m?helynél?}
 {173}{}{A kereskedésnél?}
 {174}{}{A kútnál?}
 {175}{}{Valahol máshol talán?}
@@ -34,7 +34,7 @@
 {183}{}{Nyugat felé ment?}
 {186}{}{Vaú?}
 {187}{}{Oké, oké... Talán máshol?}
-{190}{}{Indiánosdit játszott, amikor hirtelen beleesett a kútba, te pedig azt szeretnéd, hogy hozzak egy kötelet, és mentsem meg. Na, gyerünk, Öcsi [Elképesztõ!]}
-{191}{}{Indiánosdit játszott, amikor hirtelen beleesett a kútba, te pedig azt szeretnéd, hogy használjam a nálam levõ kötelet, és mentsem meg. Na, gyerünk, Öcsi [Elképesztõ!]}
+{190}{}{Indiánosdit játszott, amikor hirtelen beleesett a kútba, te pedig azt szeretnéd, hogy hozzak egy kötelet, és mentsem meg. Na, gyerünk, Öcsi [Elképeszt?!]}
+{191}{}{Indiánosdit játszott, amikor hirtelen beleesett a kútba, te pedig azt szeretnéd, hogy használjam a nálam lev? kötelet, és mentsem meg. Na, gyerünk, Öcsi [Elképeszt?!]}
 {195}{}{Oké, szerzek egy kötelet, és lemászom a kútba Jonnyért.}
 {196}{}{Oké, használom a kötelemet, és lemászom a kútba Jonnyért.}

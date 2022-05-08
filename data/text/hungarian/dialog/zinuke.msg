@@ -1,4 +1,4 @@
-{100}{}{Ez egy Nuka-Cola automata. Eltûnõdsz, vajon mûködik-e még.}
+{100}{}{Ez egy Nuka-Cola automata. Elt?n?dsz, vajon m?ködik-e még.}
 {101}{}{[bumm-bumm... rázás... sutty]}
 {102}{}{Egy üveg nem túl friss Nuka-Colához jutottál.}
 {103}{}{Uuhhhhh!}

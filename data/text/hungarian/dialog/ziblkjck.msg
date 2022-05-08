@@ -1,5 +1,5 @@
 {100}{}{Ez itt egy Black Jack asztal.}
-{101}{}{Õ egy Black Jack osztó.}
+{101}{}{? egy Black Jack osztó.}
 {102}{}{Szeretnél Black Jacket játszani? A minimun tét }
 {103}{}{ vagyok.}
 {104}{}{Hogyne.}
@@ -32,7 +32,7 @@
 {131}{}{Nyertél }
 {132}{}{ vagyok.}
 {201}{}{ász}
-{202}{}{kettõ}
+{202}{}{kett?}
 {203}{}{három}
 {204}{}{négy}
 {205}{}{öt}
@@ -44,7 +44,7 @@
 {211}{}{bubi}
 {212}{}{dáma}
 {213}{}{király}
-{251}{}{kõr}
+{251}{}{k?r}
 {252}{}{káró}
 {253}{}{pikk}
 {254}{}{treff}

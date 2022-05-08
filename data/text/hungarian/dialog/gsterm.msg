@@ -1,10 +1,10 @@
-{100}{}{Ez egy mûködõ terminál.}
+{100}{}{Ez egy m?köd? terminál.}
 {101}{}{You see the Reactor Maintenance and Repair Robot control terminal.}
-{102}{}{Ez egy terminál. Mûködni látszik.}
+{102}{}{Ez egy terminál. M?ködni látszik.}
 {110}{}{Üdvözöljük az RMR&RCT 3-as fejállomásán.}
 {111}{}{RMRRCT?}
 {112}{}{Funkciók?}
-{113}{}{Mûvelet:}
+{113}{}{M?velet:}
 {114}{}{Inicializálás:}
 {115}{}{Kilépés.}
 {120}{}{A reaktor karbantartó- és javítórobot irányítótermináljának 3-as fejállomása.}
@@ -24,7 +24,7 @@
 {152}{}{Afjasdfaa kljkljl;jljljj?}
 {160}{}{Reactor Maintenance Robot is ready for initialization/startup sequence. Functional Access Code?:}
 {161}{}{Funkciók?}
-{162}{}{Mûvelet?}
+{162}{}{M?velet?}
 {163}{}{35C76863}
 {164}{}{A1546761}
 {165}{}{5B576005}
@@ -32,7 +32,7 @@
 {170}{}{Az indítás hozzáférési kódját elfogadtam. Adja meg a másodlagos hozzáférési kódot.}
 {171}{}{Alapértelmezés.}
 {172}{}{Funkciók?}
-{173}{}{Mûvelet?}
+{173}{}{M?velet?}
 {174}{}{35C76863}
 {175}{}{A1546761}
 {176}{}{5B576005}
@@ -40,7 +40,7 @@
 {180}{}{A másodlagos hozzáférési kódot elfogadtam. Adja meg a harmadlagos hozzáférési kódot.}
 {181}{}{Alapértelmezés.}
 {182}{}{Funkciók?}
-{183}{}{Mûvelet?}
+{183}{}{M?velet?}
 {184}{}{35C76863}
 {185}{}{A1546761}
 {186}{}{5B576005}
@@ -48,7 +48,7 @@
 {190}{}{A harmadlagos hozzáférési kódot elfogadtam. RM&RR egység indítása megtörtént... Az egység használatra kész. Tevékenység?:}
 {191}{}{RM&RR egység használatra kész... Tevékenység?:}
 {192}{}{Általános karbantartási tevékenység kezdeményezése.}
-{193}{}{Hûtõrendszer karbantartási tevékenység kezdeményezése.}
+{193}{}{H?t?rendszer karbantartási tevékenység kezdeményezése.}
 {194}{}{Takarítási tevékenység kezdeményezése.}
 {195}{}{Javítási tevékenység kezdeményezése.}
 {196}{}{Készenléti állapot fenntartása és kilépés.}
@@ -56,30 +56,30 @@
 {201}{}{Aktuális procedúra behívása.}
 {202}{}{Vissza.}
 {203}{}{Kilépés.}
-{210}{}{Keresés... A procedúra frissítése lokálisan nem elérhetõ.}
+{210}{}{Keresés... A procedúra frissítése lokálisan nem elérhet?.}
 {211}{}{Vissza.}
 {212}{}{Letöltés.}
 {213}{}{Kilépés.}
-{220}{}{Kapcsolódás a PoseidoNetre... Kérem, adja meg az elsõdleges biztonsági kódsort: 70Y644, 008Z21, 9X7299, A46123.}
+{220}{}{Kapcsolódás a PoseidoNetre... Kérem, adja meg az els?dleges biztonsági kódsort: 70Y644, 008Z21, 9X7299, A46123.}
 {221}{}{70Y644}
 {222}{}{008Z21}
 {223}{}{9X7299}
 {224}{}{A46123}
 {225}{}{Kilépés.}
-{230}{}{A hûtõrendszer karbantartási tevékenység beindítva. Felkészülés a fõ hûtõszelep megközelítésére.}
+{230}{}{A h?t?rendszer karbantartási tevékenység beindítva. Felkészülés a f? h?t?szelep megközelítésére.}
 {231}{}{Hát ez jóval könnyebb volt, mint gondoltam.}
 {232}{}{Kilépés.}
-{240}{}{Javítási folyamat elindítva. Keresés... Hidroelektromos magnetoszféra szabályzó szükséges. Felkészülés a fõ hûtõszelep megközelítésére alkatrészcsere céljából. Az alkatrészt helyezze a terminál alatt elhelyezkedõ transzfer tálcára.}
+{240}{}{Javítási folyamat elindítva. Keresés... Hidroelektromos magnetoszféra szabályzó szükséges. Felkészülés a f? h?t?szelep megközelítésére alkatrészcsere céljából. Az alkatrészt helyezze a terminál alatt elhelyezked? transzfer tálcára.}
 {241}{}{Ah, gondolom erre gondolt...}
-{242}{}{Nagyon úgy tûnik, hogy nincs nálam ilyesmi.}
+{242}{}{Nagyon úgy t?nik, hogy nincs nálam ilyesmi.}
 {243}{}{Kilépés.}
 {250}{}{This Terminal Is Closed For Security Reasons. Please inform PoseidoNet Supervisor.}
-{251}{}{Hmm, nagy eséllyel nem szedek ki ebbõl semmit.}
+{251}{}{Hmm, nagy eséllyel nem szedek ki ebb?l semmit.}
 {252}{}{Hmm, kíváncsi vagyok, hogy ez az alapértelmezés dolog lokális e.}
 {300}{}{A megadott biztonsági kód hibás.}
 {301}{}{A megadott biztonsági kód hibás. A hozzáférés megtagadva. Kérem, adja meg a helyes kódot. Két további próbálkozás engedélyezett.}
 {302}{}{A megadott biztonsági kód hibás. A hozzáférés megtagadva. Egy további próbálkozás engedélyezett.}
-{303}{}{A megadott biztonsági kód hibás. A hozzáférés megtagadva. Belsõ biztonsági procedúra aktiválva.}
+{303}{}{A megadott biztonsági kód hibás. A hozzáférés megtagadva. Bels? biztonsági procedúra aktiválva.}
 {304}{}{Ajjaj!}
 {305}{}{Kicsit oda kéne figyelnem.}
 {306}{}{Most már nem kéne hibáznom...}
@@ -101,7 +101,7 @@
 {331}{}{Karbantartó robot programjainak letöltése.}
 {332}{}{List other stations.}
 {333}{}{Kilépés.}
-{340}{}{Keresés... A Karbantartó robot programjai nem elérhetõk.}
+{340}{}{Keresés... A Karbantartó robot programjai nem elérhet?k.}
 {341}{}{Hmm, talán nem itt vannak.}
 {342}{}{Állomás lista.}
 {343}{}{Kilépés.}
@@ -117,14 +117,14 @@
 {371}{}{Újbóli kapcsolódás... Az Enklávé irányítóterem megtagadta a hozzáférést.}
 {372}{}{Újabb kapcsolódás (te kis nyomulós)... Az Enklávé irányítóterem megtagadta a hozzáférést.}
 {373}{}{Újabb kapcsolódás (nem unod?)... Az Enklávé irányítóterem megtagadta a hozzáférést.}
-{374}{}{Újabb kapcsolódás (tényleg okosabban is felhasználhatnád az idõdet)... Az Enklávé irányítóterem megtagadta a hozzáférést.}
+{374}{}{Újabb kapcsolódás (tényleg okosabban is felhasználhatnád az id?det)... Az Enklávé irányítóterem megtagadta a hozzáférést.}
 {375}{}{Na, elég! Elegem van az állandó toszogatásból! Ha csak még egyszer megpróbálkozol, nagyon megbánod!}
-{376}{}{Nem mondhatod, hogy nem figyelmeztettelek. (Miközben ezt olvasod, a billentyûzetbõl elektromosság húz keresztül az ujjaidon.)}
+{376}{}{Nem mondhatod, hogy nem figyelmeztettelek. (Miközben ezt olvasod, a billenty?zetb?l elektromosság húz keresztül az ujjaidon.)}
 {377}{}{Talán újra próbálkozhatnék...}
 {378}{}{So much for that. I better get that RM&RR unit working though.}
 {379}{}{Francba, le kellett volna dobnia.}
 {380}{}{A javítási parancssor végrehajtásához egy hidroelektromos mangetoszféra szabályzóra van szükség.}
-{381}{}{A hûtõrendszer karbantartási munkáinak megkezdése}
+{381}{}{A h?t?rendszer karbantartási munkáinak megkezdése}
 {382}{}{Kilépés.}
 {390}{}{Hydroelectric Magnetosphere Regulator accepted. Scanning... Part within nominal QA constraints... Transfer to repair unit completed... Proceed?}
 {391}{}{Igen.}
@@ -132,78 +132,78 @@
 {400}{}{A logikai áramkörök megsérültek. Vészhelyzet esetén az RM&RR egység manuálisan is irányítható.}
 {401}{}{Hát ez magyarázatot ad erre. Na, akkor próbálkozzunk...}
 {402}{}{Hmm, ez nem hangzik valami ígéretesen. Azt hiszem, a kilépés mellett döntök.}
-{410}{}{RM&RR egység mozgatásra készen áll. Hajtómû ellenõrzés... RENDBEN, Manipulátor kar ellenõrzés... RENDBEN, Belsõ stabilizátor... RENDBEN, logikai áramkörök... HIBA.}
+{410}{}{RM&RR egység mozgatásra készen áll. Hajtóm? ellen?rzés... RENDBEN, Manipulátor kar ellen?rzés... RENDBEN, Bels? stabilizátor... RENDBEN, logikai áramkörök... HIBA.}
 {411}{}{A logikai áramkör hibát jelez. Csak tudnám, mit jelent ez.}
-{412}{}{Úgy tûnik, több dolog mûködik, mint ami nem. Induljunk ki ebbõl.}
-{420}{}{A feladat végrehajtásához szükséges helyfelismerés nem mûködik. Az egység nem képes pozícionálni magát a nagyobb távolságban végrehajtott mûveletekhez. Ajánlott mûvelet: Mozgassa az egységet köztes távolságba, ezzel útvonal csomópontokat adhat meg a végsõ cél eléréséhez.}
-{421}{}{Kíváncsi vagyok, mi lenne, ha a feladatokat nem a megfelelõ sorrendben adnám meg...}
-{422}{}{Asszem, elég figyelmeztetõ szöveget olvastam már. Itt az idõ, hogy kipróbáljuk ezt a vackot.}
+{412}{}{Úgy t?nik, több dolog m?ködik, mint ami nem. Induljunk ki ebb?l.}
+{420}{}{A feladat végrehajtásához szükséges helyfelismerés nem m?ködik. Az egység nem képes pozícionálni magát a nagyobb távolságban végrehajtott m?veletekhez. Ajánlott m?velet: Mozgassa az egységet köztes távolságba, ezzel útvonal csomópontokat adhat meg a végs? cél eléréséhez.}
+{421}{}{Kíváncsi vagyok, mi lenne, ha a feladatokat nem a megfelel? sorrendben adnám meg...}
+{422}{}{Asszem, elég figyelmeztet? szöveget olvastam már. Itt az id?, hogy kipróbáljuk ezt a vackot.}
 {430}{}{Ha a program hibát észlel, az egység visszatér a kiindulópozíciójába.}
-{431}{}{Aha, érthetõ. Kíváncsi vagyok, mi a fene okozhatja ezt a logikai áramkör hibát.}
+{431}{}{Aha, érthet?. Kíváncsi vagyok, mi a fene okozhatja ezt a logikai áramkör hibát.}
 {432}{}{Na, akkor most szépen ki kéne próbálni ezt az izét.}
-{440}{}{Kézivezérlés: Az RM&RR egységet kézzel kell a célpontba eljuttatni. Az egység hûen követi a parancsait, de amint valami elállja az útját vagy jelentõs sérülést szenved, visszatér a kiindulópozícióba.}
+{440}{}{Kézivezérlés: Az RM&RR egységet kézzel kell a célpontba eljuttatni. Az egység h?en követi a parancsait, de amint valami elállja az útját vagy jelent?s sérülést szenved, visszatér a kiindulópozícióba.}
 {441}{}{Hol kell mozgatni ezt a robotot? Nézzük csak a procedúrát...}
 {442}{}{Szerintem akár bele is foghatnék.}
 {443}{}{Kilépés.}
 {450}{}{A procedúra leírása:}
 {451}{}{Azt akarom megtudni, hova kell mennem, hogy kicseréljem a hidroelektromos magnetoszféra szabályzót..}
-{452}{}{Azt akarom megtudni, hol található a fõ hûtõrendszer elzáró szelep.}
+{452}{}{Azt akarom megtudni, hol található a f? h?t?rendszer elzáró szelep.}
 {453}{}{Kilépés.}
-{460}{}{A hidroelektromos magnetoszféra szabályzó a reaktormag keleti oldalán található, a fõ hûtõrendszer elzáró szelep jobb oldalán.}
-{461}{}{Hol van a fõ hûtõrendszer elzáró szelep?}
+{460}{}{A hidroelektromos magnetoszféra szabályzó a reaktormag keleti oldalán található, a f? h?t?rendszer elzáró szelep jobb oldalán.}
+{461}{}{Hol van a f? h?t?rendszer elzáró szelep?}
 {462}{}{Szerintem akár bele is foghatnék.}
 {463}{}{Kilépés.}
-{470}{}{A fõ hûtõrendszer elzáró szelep a reaktormag keleti oldalán található, a szelepet egy nagy piros kerékkel lehet mûködtetni.}
+{470}{}{A f? h?t?rendszer elzáró szelep a reaktormag keleti oldalán található, a szelepet egy nagy piros kerékkel lehet m?ködtetni.}
 {471}{}{Hát vak vagyok, ha nem találom meg - hacsak a vörös festék le nem kopott azóta.}
 {472}{}{Szerintem akár bele is foghatnék.}
 {473}{}{Kilépés.}
-{480}{}{RM&RR egység kézi vezérlése vészhelyzet esetére: A mozgatáshoz az alábbi parancsokat kell adnia: Balra fordulás, Jobbra fordulás, Elõrehaladás, és minden egyes parancs kiadását egy "Procedúra Végrehajtása" parancsnak kell követnie.}
-{482}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Parancsok?: MozgásVar1}
-{484}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 5%-ánál. Parancsok?: MozgásVar1, MozgásVar2}
-{486}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 10%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3}
-{488}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 15%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4}
-{490}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 20%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5}
-{492}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 25%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6}
-{494}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 30%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7}
-{496}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 35%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8}
-{498}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 40%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9}
-{500}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 45%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10}
-{502}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 50%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11}
-{504}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 55%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12}
-{506}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 60%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13}
-{508}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 65%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14}
-{510}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 70%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15}
-{512}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 75%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16}
-{514}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 80%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17}
-{516}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 85%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17, MozgásVar18}
+{480}{}{RM&RR egység kézi vezérlése vészhelyzet esetére: A mozgatáshoz az alábbi parancsokat kell adnia: Balra fordulás, Jobbra fordulás, El?rehaladás, és minden egyes parancs kiadását egy "Procedúra Végrehajtása" parancsnak kell követnie.}
+{482}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. Parancsok?: MozgásVar1}
+{484}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 5%-ánál. Parancsok?: MozgásVar1, MozgásVar2}
+{486}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 10%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3}
+{488}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 15%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4}
+{490}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 20%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5}
+{492}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 25%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6}
+{494}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 30%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7}
+{496}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 35%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8}
+{498}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 40%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9}
+{500}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 45%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10}
+{502}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 50%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11}
+{504}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 55%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12}
+{506}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 60%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13}
+{508}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 65%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14}
+{510}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 70%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15}
+{512}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 75%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16}
+{514}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 80%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17}
+{516}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 85%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17, MozgásVar18}
 {518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
-{520}{}{Ha ezt már próbálta, jelezze ki az elõzõ mozgásparancsokat. Hõmérséklet a tûréshatár 95%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17, MozgásVar18, MozgásVar19, MozgásVar20}
+{520}{}{Ha ezt már próbálta, jelezze ki az el?z? mozgásparancsokat. H?mérséklet a t?réshatár 95%-ánál. Parancsok?: MozgásVar1, MozgásVar2, MozgásVar3, MozgásVar4, MozgásVar5, MozgásVar6, MozgásVar7, MozgásVar8, MozgásVar9, MozgásVar10, MozgásVar11, MozgásVar12, MozgásVar13, MozgásVar14, MozgásVar15, MozgásVar16, MozgásVar17, MozgásVar18, MozgásVar19, MozgásVar20}
 {522}{}{Balra fordulás.}
 {524}{}{Jobbra fordulás.}
-{526}{}{Elõrehaladás.}
+{526}{}{El?rehaladás.}
 {530}{}{Procedúra végrehajtása: hidroelektromos magnetoszféra szabályzó üzembe helyezése.}
-{531}{}{Procedúra végrehajtása: A fõ hûtõrendszer szelepének kikapcsolása...}
+{531}{}{Procedúra végrehajtása: A f? h?t?rendszer szelepének kikapcsolása...}
 {535}{}{RM&RR egység kézi vezérlése vészhelyzet esetére:}
 {540}{}{Parancs hozzáadása.}
 {541}{}{Program listázása.}
-{542}{}{Környezeti érzékelõk adatainak lekérése.}
+{542}{}{Környezeti érzékel?k adatainak lekérése.}
 {543}{}{Sérülések felülvizsgálata.}
 {544}{}{Az összes parancs törlése.}
 {545}{}{Program futtatása.}
 {546}{}{Vissza.}
 {547}{}{Kilépés.}
-{550}{}{Vissza a fõmenübe.}
+{550}{}{Vissza a f?menübe.}
 {600}{}{Válasszon parancsot:}
 {601}{}{Uránrúd kalibrálása.}
 {602}{}{Plutónium-Gamma pajzs kiterjesztése.}
 {603}{}{A Saturn osztályú kondenzátor feszültségállítása.}
-{604}{}{A neptúnium terelõlapát áthangolása.}
-{605}{}{Jupiter térkiegyenlítõ tesztelése.}
+{604}{}{A neptúnium terel?lapát áthangolása.}
+{605}{}{Jupiter térkiegyenlít? tesztelése.}
 {606}{}{Hidroelektromos magnetoszféra szabályzó üzembe helyezése.}
-{607}{}{A fõ hûtõrendszer szelepének kikapcsolása.}
-{608}{}{A fõ hûtõrendszer szelepének bekapcsolása.}
+{607}{}{A f? h?t?rendszer szelepének kikapcsolása.}
+{608}{}{A f? h?t?rendszer szelepének bekapcsolása.}
 {620}{}{Programlista:}
-{630}{}{Környezeti érzékelõk adatai:}
+{630}{}{Környezeti érzékel?k adatai:}
 {640}{}{Sérülések:}
 {650}{}{Parancsok törölve.}
 {660}{}{--PROGRAM BEFEJEZÉSE--}
@@ -212,6 +212,6 @@
 {720}{}{Érvénytelen parancs. Hibalista lementve. Egység visszatér a kiindulási pontra.}
 {730}{}{Parancs túlcsordulás.}
 {740}{}{Oké.}
-{800}{}{Az optimalizációs procedúra sikeresen befejezõdött.}
+{800}{}{Az optimalizációs procedúra sikeresen befejez?dött.}
 {900}{}{Batch fájlok végrehajtása... Kérem várjon.}
 {910}{}{[DONE]}

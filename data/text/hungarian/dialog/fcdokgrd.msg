@@ -1,4 +1,4 @@
-{100}{}{Egy lazaöltözékû õr. Unatkozik ugyan, de a figyelme nem lanyhul.}
+{100}{}{Egy lazaöltözék? ?r. Unatkozik ugyan, de a figyelme nem lanyhul.}
 {101}{}{You see a dock guard. He's unusually well armed.}
 {102}{}{You see the motorboat guard.}
 {150}{}{Hey! Step away from that!}

@@ -1,9 +1,9 @@
 {100}{}{A bár egyik kuncsaftját látod.}
-{101}{}{Õ nem más, mint Stacy.}
+{101}{}{? nem más, mint Stacy.}
 {102}{}{Szomorúnak látszik.}
 {103}{}{Hagyd abba!}
 {104}{}{Hogy tehetted?}
-{105}{}{Takarodj a szemem elõl!}
+{105}{}{Takarodj a szemem el?l!}
 {106}{}{Miért?}
 {107}{}{Kérlek, hagyd abba!}
 {108}{}{Gyilkos!}
@@ -20,7 +20,7 @@
 {119}{}{Mesélj nekem a macskádról.}
 {120}{}{Why the glum face?}
 {121}{}{Gyakran jársz ide?}
-{122}{}{Késõbb dumálunk. Szia.}
+{122}{}{Kés?bb dumálunk. Szia.}
 {123}{}{Okké?}
 {124}{}{Ah...}
 {131}{}{Kérlek, ne zavarj. Nem vagyok épp a legjobb kedvemben.}
@@ -38,21 +38,21 @@
 {143}{}{Azt hiszed, vicces vagy? Magolj be jobb szöveget.}
 {144}{}{So why the glum face?}
 {145}{}{Na, persze... szia.}
-{146}{}{Hallottam, hogy voltak akkorák is, mint te vagy én. Brahmin-méretû állatokkal táplálkoztak. Hát ez bizony félelmetes.}
+{146}{}{Hallottam, hogy voltak akkorák is, mint te vagy én. Brahmin-méret? állatokkal táplálkoztak. Hát ez bizony félelmetes.}
 {147}{}{Ez semmi.}
 {148}{}{Igen, az.}
-{149}{}{Amirõl én beszélek, az kicsi és aranyos, nagyobb, mint egy patkány, de kisebb, mint egy kutya. Némelyikük bundás, mint az én Cirmosom, de van amelyiknek rövid szõre van.}
+{149}{}{Amir?l én beszélek, az kicsi és aranyos, nagyobb, mint egy patkány, de kisebb, mint egy kutya. Némelyikük bundás, mint az én Cirmosom, de van amelyiknek rövid sz?re van.}
 {150}{}{Igazán?}
-{151}{}{Háziállatok, mint a kutyák, de amikor simogatod õket, csodálatos, megnyugtató hangot hallatnak.}
+{151}{}{Háziállatok, mint a kutyák, de amikor simogatod ?ket, csodálatos, megnyugtató hangot hallatnak.}
 {152}{}{Érdekes.}
 {153}{}{Cirmos mindig segített az elalvásban. Minden éjjel rá gondolok, ha el akarok aludni.}
 {154}{}{Aranyos.}
 {155}{}{Folytasd!}
-{156}{}{Még kicsi voltam, amikor eltûnt. Akkor még nem tudtam, mi történt vele, túl kicsi voltam hozzá.}
+{156}{}{Még kicsi voltam, amikor elt?nt. Akkor még nem tudtam, mi történt vele, túl kicsi voltam hozzá.}
 {157}{}{Miért?}
 {158}{}{Akkoriban iszonyúan kevés élelem volt és az emberek éheztek. Eléggé szomorú dolog ez...}
 {159}{}{Mi?}
-{160}{}{Az emberek vadásztak rájuk, mert könnyû prédának bizonyultak. Mostanra már kihaltak.}
+{160}{}{Az emberek vadásztak rájuk, mert könny? prédának bizonyultak. Mostanra már kihaltak.}
 {161}{}{Beteges dolog ez!}
 {162}{}{Megértem.}
 {163}{}{Az elvadultakra vadásztak, de biztos vagyok benne, hogy az enyémmel is ugyanaz történt. Most már legalább tudom, Mama miért figyelt rá mindig olyan árgus szemekkel.}

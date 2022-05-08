@@ -1,7 +1,7 @@
 {100}{}{Martin.}
-{101}{}{Egy remegõ szájú férfit látsz, aki nagyon sûrûn pislog.}
+{101}{}{Egy remeg? szájú férfit látsz, aki nagyon s?r?n pislog.}
 {102}{}{Martin.}
-{103}{}{Egy remegõ szájú férfit látsz, aki nagyon sûrûn pislog.}
+{103}{}{Egy remeg? szájú férfit látsz, aki nagyon s?r?n pislog.}
 {104}{}{Köszönöm, hogy me-me-megmentettél minket. Még itt l-lent is hallottam rólad.}
 {105}{}{Se-segítség! Be-be-behatoló!}
 {106}{}{Egy mu-mu-mutáns! Se-se-segítség!}
@@ -14,7 +14,7 @@
 {113}{}{2 Seconds}
 {114}{}{"Ha a vááágyad haaajt..."}
 {115}{}{2 Seconds}
-{116}{}{"Ha hûûûtlen leszeeeel..."}
+{116}{}{"Ha h???tlen leszeeeel..."}
 {117}{}{2 Seconds}
 {118}{}{"Maaajd mit tesszeeel..."}
 {119}{}{2 Seconds}
@@ -40,7 +40,7 @@
 {139}{}{Mit csinálsz itt?}
 {140}{}{Megmondanád, hol találom a Központi Számítógépet?}
 {141}{}{Nagy élmény volt veled beszélgetni. Viszlát!}
-{142}{}{Rö-rögtön itt va-van me-me-mellettünk. Az a be-beszlõ szá-szá-számtógép az.}
+{142}{}{Rö-rögtön itt va-van me-me-mellettünk. Az a be-beszl? szá-szá-számtógép az.}
 {143}{}{(It's just over there. It's the talking computer.)}
 {144}{}{Mit csinálsz itt?}
 {145}{}{Kösz. Viszlát!}
@@ -57,9 +57,9 @@
 {156}{}{(Spare parts, supplies, and ore.)}
 {157}{}{Érc?}
 {158}{}{Kösz!}
-{159}{}{É-é-ércet, Re-Reddingbõl... Má-má-már nincs tú-tú-túl sok.}
+{159}{}{É-é-ércet, Re-Reddingb?l... Má-má-már nincs tú-tú-túl sok.}
 {160}{}{(Ore from Redding. Not so much anymore.)}
-{161}{}{Nem kaptok ércet Reddingbõl? Miért?}
+{161}{}{Nem kaptok ércet Reddingb?l? Miért?}
 {162}{}{Kösz!}
 {163}{}{Ne-ne-nem tu-tudom. Me-Me-McClure té-tényleg ag-ag-aggódik emiatt.}
 {164}{}{(Don't know. McClure's really worried about it.)}
@@ -68,7 +68,7 @@
 {167}{}{Ü-ü-üdv! Szü-szü-szükséged van va-valamire?}
 {168}{}{(Hi, again. You need something?)}
 {169}{}{Ééééletth}
-{170}{}{Abbahagynád ezt az istenverte éneklést? Megõrjítesz vele.}
+{170}{}{Abbahagynád ezt az istenverte éneklést? Meg?rjítesz vele.}
 {171}{}{Remek hangod van, csak gyakorolj minél többet!}
 {172}{}{Tehát. Mit csinálsz te itt?}
 {173}{}{Vegye úgy, hogy nem is szóltam! Bocsánat, hogy zavartam.}
@@ -83,7 +83,7 @@
 {182}{}{Saj.. saj.. nálom.}
 {183}{}{Mi-mi-mit csi-csinálsz te itt?}
 {184}{}{ÉLET}
-{185}{}{É-É-ÉLET? Meg-meg-megnézheted a szá-számítógépen. Itt va-van ez a-a be-be-beszélõ do-do-doboz.}
+{185}{}{É-É-ÉLET? Meg-meg-megnézheted a szá-számítógépen. Itt va-van ez a-a be-be-beszél? do-do-doboz.}
 {186}{}{Okéééé.}
 {187}{}{Zuh-zuh-zuh-Zzzzzzzzz}
 {188}{}{Ma-ma-maradj tá-tá-távol attól az aj-aj-aj... kaputól!}

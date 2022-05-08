@@ -1,6 +1,6 @@
-{100}{}{Egy keménykötésû, öregedõ mutánst látsz.}
-{101}{}{Zaius, a bányavezetõ.}
-{102}{}{Egy keménykötésû, öregedõ mutánst látsz. Kezében csákány, fején bányászsisak.}
+{100}{}{Egy keménykötés?, öreged? mutánst látsz.}
+{101}{}{Zaius, a bányavezet?.}
+{102}{}{Egy keménykötés?, öreged? mutánst látsz. Kezében csákány, fején bányászsisak.}
 {103}{}{Te vagy az az új ember a városban?}
 {104}{}{Íík, úúg og!}
 {105}{}{Új! Vagyok! Város!}
@@ -8,12 +8,12 @@
 {107}{}{Aha, nemrég érkeztem.}
 {108}{}{Nem, zsenikém, mindigis itt éltem, csak sosem vettél észre.}
 {109}{}{Úgy hallottam, van egy kis gond a bányával.}
-{110}{}{Mit tudsz mondani nekem errõl a városról?}
+{110}{}{Mit tudsz mondani nekem err?l a városról?}
 {111}{}{Ööö... hát peeersze. Tudod, mit? Itt egy pár dolcsi, eridj és vegyél magadnak valamit inni a kocsmában!}
 {112}{}{Jagga? Ogg? Gronk!}
 {113}{}{Nem értelek, haver. Mért nem mész el inkább a kocsmába? Talán Francis szkanderozna veled.}
 {114}{}{Kanderozna? O-KÉ!}
-{115}{}{Rendben. Nos, a nevem Zaius. Most pedig, hogy bemutatkoztunk... jó a kézügyességed? Van egy kis gond ugyanis a légtisztító berendezéssel a bánya alsó szintjén, de sajnos nincs hozzá megfelelõ alkatrészünk, sem védõruhánk, ami megvédjen minket az odalent szétterjedt radongáztól.}
+{115}{}{Rendben. Nos, a nevem Zaius. Most pedig, hogy bemutatkoztunk... jó a kézügyességed? Van egy kis gond ugyanis a légtisztító berendezéssel a bánya alsó szintjén, de sajnos nincs hozzá megfelel? alkatrészünk, sem véd?ruhánk, ami megvédjen minket az odalent szétterjedt radongáztól.}
 {116}{}{Nem, sajnos nem.}
 {117}{}{Nem túl rossz. Mire van szükség?}
 {118}{}{Hát, remélem, jól fogod érezni magad itt Broken Hillsben.}
@@ -21,9 +21,9 @@
 {120}{}{Ha ha. Vicces. Épp egy ilyen csodás elmére van szükségünk a probléma megoldásához.}
 {121}{}{Okosabb vagyok bárkinél ebben a segglyuknyi faluban.}
 {122}{}{Nocsak? Van itt valami probléma? Mi volna az?}
-{123}{}{A legfõbb probléma az, hogy te egy idióta vagy.}
+{123}{}{A legf?bb probléma az, hogy te egy idióta vagy.}
 {124}{}{Ez lennék én. Csodás elme. Mi a probléma?}
-{125}{}{Tönkrement az alsó szinten lévõ légtisztítónk. Nincs hozzá alkatrészünk, és nincs védõfelszerelésünk sem. Megfelelõ alkatrész nélkül nem tudjuk megjavítani, védõruha nélkül pedig taccsra vág minket a radongáz. Jó a kézügyességed?}
+{125}{}{Tönkrement az alsó szinten lév? légtisztítónk. Nincs hozzá alkatrészünk, és nincs véd?felszerelésünk sem. Megfelel? alkatrész nélkül nem tudjuk megjavítani, véd?ruha nélkül pedig taccsra vág minket a radongáz. Jó a kézügyességed?}
 {126}{}{Jól vagyok.}
 {127}{}{Nem, nem igazán.}
 {128}{}{Már megint te vagy?}
@@ -33,23 +33,23 @@
 {132}{}{Helló! Miért nem nézed meg... ööö... a városi bankot? Biztos vagyok benne, hogy ott sok ember nagyon szívesen elbeszélgetne veled.}
 {133}{}{Hát, ha meggondolod magad, csak szólj!}
 {134}{}{Tényleg? Megtennéd nekem... és méginkább Broken Hillsért?}
-{135}{}{Mi esik le nekem ebbõl?}
+{135}{}{Mi esik le nekem ebb?l?}
 {136}{}{Rendben, persze... megteszem.}
 {137}{}{Jelen pillantban nem.}
 {138}{}{Úgy lenne? Hát, agyas barátom, akkor miért nem javítod meg a légtisztító berendezést a bányában? Szükséged lesz az alkatrészekre és valamire, amivel lélegezni tudsz odalent. Ha ez megvan, megmutathatod, mit tudsz! De szerintem, csak a szád nagy.}
-{139}{}{Mi esik le nekem ebbõl?}
+{139}{}{Mi esik le nekem ebb?l?}
 {140}{}{Rendben, persze... megteszem.}
 {141}{}{Viccelsz?}
-{142}{}{A legfõbb probléma az, hogy idióta vagyok. Ezt ismételgetem magamnak, mert nehéz elhinni, hogy a seggedbõl épp most hallatszott ki valami, ami szavakra hasonlított. Menj innen a fenébe, tökmag!}
-{143}{}{Eltekintve a seggfejektõl, akik folyton bosszantanak, a problémát a légtisztító okozza a bányában. Ugyanis meghalt, és nincs védõruhánk, amivel a radongáz ellenére lemehetnénk, és nincsenek megfelelõ alkatrészeink sem, amivel megjavíthatnánk. De te biztosan meg tudod csinálni, ugye? Hiszen te olyan okos vagy.}
-{144}{}{Mi esik le nekem ebbõl?}
+{142}{}{A legf?bb probléma az, hogy idióta vagyok. Ezt ismételgetem magamnak, mert nehéz elhinni, hogy a seggedb?l épp most hallatszott ki valami, ami szavakra hasonlított. Menj innen a fenébe, tökmag!}
+{143}{}{Eltekintve a seggfejekt?l, akik folyton bosszantanak, a problémát a légtisztító okozza a bányában. Ugyanis meghalt, és nincs véd?ruhánk, amivel a radongáz ellenére lemehetnénk, és nincsenek megfelel? alkatrészeink sem, amivel megjavíthatnánk. De te biztosan meg tudod csinálni, ugye? Hiszen te olyan okos vagy.}
+{144}{}{Mi esik le nekem ebb?l?}
 {145}{}{Rendben, persze... megteszem.}
 {146}{}{Viccelsz? Soha.}
 {147}{}{ dollár. Mit szólsz hozzá?}
 {148}{}{Szarra sem elég. Többet akarok!}
 {149}{}{Jól hangzik.}
 {150}{}{Felejts el! Nem vállalom.}
-{151}{}{Nagyszerû! Akkor be kell szerezned az alkatrészeket. Menj el New Renóba és keresd fel Renescót! Neki van mindenféle alkatrész a boltjában. Mondd meg neki, hogy Zaius küldött! Azt is közöld vele, hogy "Kipurcant a kanári."! Nem tudom, hogy a gáz ellen hol találsz védõfelszerelést, de talán bemehetsz anélkül is, csak kicsit fájni fog. Még egyszer, kösz.}
+{151}{}{Nagyszer?! Akkor be kell szerezned az alkatrészeket. Menj el New Renóba és keresd fel Renescót! Neki van mindenféle alkatrész a boltjában. Mondd meg neki, hogy Zaius küldött! Azt is közöld vele, hogy "Kipurcant a kanári."! Nem tudom, hogy a gáz ellen hol találsz véd?felszerelést, de talán bemehetsz anélkül is, csak kicsit fájni fog. Még egyszer, kösz.}
 {152}{}{Semmi baj. Viszlát!}
 {153}{}{Nem? Ha meggondolod magad, itt megtalálsz.}
 {154}{}{Rendicsek. Viszlát!}
@@ -73,7 +73,7 @@
 {172}{}{How're things?}
 {173}{}{Jól kijössz az emberekkel?}
 {174}{}{Meggondoltad magad a légtisztító ügyében?}
-{175}{}{Mi esik le nekem ebbõl?}
+{175}{}{Mi esik le nekem ebb?l?}
 {176}{}{Rendben, persze... megteszem.}
 {177}{}{Jelen pillantban nem.}
 {178}{}{Nem.}
@@ -81,10 +81,10 @@
 {180}{}{Minden a legjobb úton halad.}
 {181}{}{Sok a dolgom, még nem tudtam vele foglalkozni.}
 {182}{}{Nemsokára meglesz.}
-{183}{}{Megvannak az alkatrészek? Nagyszerû... Remélem, van védõruhád is. A gáz elég veszélyes.}
+{183}{}{Megvannak az alkatrészek? Nagyszer?... Remélem, van véd?ruhád is. A gáz elég veszélyes.}
 {184}{}{Felkészültem, hogy lemenjek.}
 {185}{}{Hamarosan lemegyek.}
-{186}{}{Megvannak az alkatrészek? Nagyszerû... Remélem, van védõruhád is. A gáz elég veszélyes.}
+{186}{}{Megvannak az alkatrészek? Nagyszer?... Remélem, van véd?ruhád is. A gáz elég veszélyes.}
 {187}{}{Felkészültem, hogy lemenjek.}
 {188}{}{Hamarosan lemegyek.}
 {189}{}{Megjavítottad? Csodás! Tudom, hogy ingyen vállaltad, de... ezt nem hagyhatom. A srácokkal összedobtunk egy keveset és ezt szereztük neked. Egy harci sörétes. Sok szerencsét, és még egyszer, kösz!}
@@ -97,12 +97,12 @@
 {196}{}{Sajnálom, Mr. Nagy és Csodás, de talán a város sorsa egy kicsivel fontosabb. Siess, légy szíves!}
 {197}{}{Rendben. Megcsinálom. Viszlát!}
 {198}{}{Ez volt az utolsó húzásod. Viszlát, hullajelölt!}
-{199}{}{Kérlek, siess! A bánya a városunk éltetõ ereje.}
+{199}{}{Kérlek, siess! A bánya a városunk éltet? ereje.}
 {200}{}{Rendben, rendben.}
-{201}{}{Hát, a legjobb, akivel errõl beszélhetsz, az Marcus, a banknál, vagy Steve, a város üdvözlõ embere.}
+{201}{}{Hát, a legjobb, akivel err?l beszélhetsz, az Marcus, a banknál, vagy Steve, a város üdvözl? embere.}
 {202}{}{Hmm. Rendben, kösz.}
 {203}{}{I'll go ask them, then.}
-{204}{}{Azt kell mondjam, hogy egész tûrhetõen. Persze... mehetnének jobban is.}
+{204}{}{Azt kell mondjam, hogy egész t?rhet?en. Persze... mehetnének jobban is.}
 {205}{}{Heh. Kösz az infót.}
 {206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
  something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
@@ -112,15 +112,15 @@
 {300}{}{ dollár. Mit szólsz hozzá?}
 {301}{}{ dollár. Mit szólsz hozzá?}
 {302}{}{$}
-{381}{}{Elfoglalt nõ vagyok. Még nem tudtam vele foglalkozni.}
-{382}{}{Ne sürgess már! Elfoglalt nõ vagyok.}
+{381}{}{Elfoglalt n? vagyok. Még nem tudtam vele foglalkozni.}
+{382}{}{Ne sürgess már! Elfoglalt n? vagyok.}
 {383}{}{Sajnálom, Mrs. Nagy és Csodás, de talán a város sorsa egy kicsivel fontosabb. Siess, légy szíves!}
-{400}{}{Van nálam egy cetli, amin rajta van a neved. Az alagutakban találtam egy hullarakás mellett. Van hozzáfûznivalód?}
-{401}{}{Hé, én csak megkaptam azt az üzenetet. Menj, beszélj Francisszel, oké? Õ írta.}
+{400}{}{Van nálam egy cetli, amin rajta van a neved. Az alagutakban találtam egy hullarakás mellett. Van hozzáf?znivalód?}
+{401}{}{Hé, én csak megkaptam azt az üzenetet. Menj, beszélj Francisszel, oké? ? írta.}
 {402}{}{Ha benne voltál azoknak az embereknek a meggyilkolásában, szeretném tudni.}
 {403}{}{Rendben. Viszlát!}
-{404}{}{Nem! Csak védekezünk az összeesküvés ellen. Marcus hisz a törvényben és a bizonyítékok erejében, és ha tudta is, hogy azok az emberek veszélyesek, nem tudta, kik is õk. Õ túl becsületes, hogy bizonyítékot hamisítson. Az én feladatom, hogy távoltartsam Francist a bosszútól.}
+{404}{}{Nem! Csak védekezünk az összeesküvés ellen. Marcus hisz a törvényben és a bizonyítékok erejében, és ha tudta is, hogy azok az emberek veszélyesek, nem tudta, kik is ?k. ? túl becsületes, hogy bizonyítékot hamisítson. Az én feladatom, hogy távoltartsam Francist a bosszútól.}
 {405}{}{Ez túl jól hangzik. Megyek, beszélek Francisszel.}
-{406}{}{Tudtam, hogy Francis nem tud majd mit kezdeni a leleplezõdéssel. Tisztában volt a tettei kockázatával, de szerintem nem hitte, hogy elkaphatják. Végülis nem lesz semmi baja. Remélem, Broken Hillsnek sem.}
+{406}{}{Tudtam, hogy Francis nem tud majd mit kezdeni a leleplez?déssel. Tisztában volt a tettei kockázatával, de szerintem nem hitte, hogy elkaphatják. Végülis nem lesz semmi baja. Remélem, Broken Hillsnek sem.}
 {407}{}{Én is remélem. Lenne pár kérdésem.}
 {408}{}{Én is. Viszlát!}

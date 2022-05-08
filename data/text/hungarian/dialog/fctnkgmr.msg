@@ -1,5 +1,5 @@
-{100}{}{Egy kereskedõt látsz.}
-{101}{}{Õ Cal, az unatkozó fegyverkereskedõ.}
+{100}{}{Egy keresked?t látsz.}
+{101}{}{? Cal, az unatkozó fegyverkeresked?.}
 {102}{}{Egy unatkozó, de barátságos férfit látsz.}
 {103}{}{Jó napot magának, uram. Segíthetek valamiben?}
 {104}{}{Jó napot magának, hölgyem. Segíthetek valamiben?}
@@ -24,6 +24,6 @@
 {123}{}{Nem.}
 {124}{}{Sajnálom, de zárva vagyunk. Kábé nyolckor nyitok. Jöjjön vissza akkor, ha akar valamit!}
 {125}{}{Oké.}
-{126}{}{Magának nem adok el semmit. Tûnjön el a boltomból!}
+{126}{}{Magának nem adok el semmit. T?njön el a boltomból!}
 {127}{}{Oké.}
 {128}{}{Remélem, hamarosan megjön a szállítmány.}

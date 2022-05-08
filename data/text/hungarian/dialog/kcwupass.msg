@@ -1,2 +1,2 @@
-{100}{}{Egy Biztonsági Õr robotot látsz.}
-{101}{}{Egy Biztonsági Õr robotot látsz.}
+{100}{}{Egy Biztonsági ?r robotot látsz.}
+{101}{}{Egy Biztonsági ?r robotot látsz.}

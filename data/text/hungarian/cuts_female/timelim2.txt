@@ -1,4 +1,4 @@
-1:A szellemem újra [megérint] a semmibõl, Kiválasztott.
+1:A szellemem újra [megérint] a semmib?l, Kiválasztott.
 2:Az [idei] termés elmaradt, a tartalékaink [pedig] soványak.
 3:Hozd vissza nekünk az [ÉLET-et].
 4:A kudarcod a mi...
