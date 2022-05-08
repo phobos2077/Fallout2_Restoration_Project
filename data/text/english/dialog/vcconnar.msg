@@ -89,7 +89,7 @@
 {202}{}{I've got the guns you need, but honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
 {203}{}{Honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
 
-{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naïve my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
+{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naive my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
 {206}{}{Ok. I'll report back when I have some news.}
 
 {210}{}{Trust me, we've considered the alternative, but the only thing these Vault City bastards will respond to is violence. Now, will you give us the weapons? I'll pay $5,000 for em. No price can be set on freedom.}
